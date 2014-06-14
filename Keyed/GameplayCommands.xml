@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<CommandForbiddenDesc>無視 - 入植者は これと かかわりません。</CommandForbiddenDesc>
+<CommandNotForbiddenDesc>通常 - 入植者は これと かかわります。</CommandNotForbiddenDesc>
+
+<CommandTogglePowerDesc>機器 スイッチ</CommandTogglePowerDesc>
+<CommandTogglePowerLabel>機器 スイッチ</CommandTogglePowerLabel>
+
+<CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
+<CommandGatherSpotToggleDescActive>集合 - 入植者が、 集まります。</CommandGatherSpotToggleDescActive>
+<CommandGatherSpotToggleDescInactive>通常 - 入植者は 集まりません。</CommandGatherSpotToggleDescInactive>
+
+
+
+<CommandDraftLabel>徴兵</CommandDraftLabel>
+<CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
+<CommandToggleDraftDesc>入植者を 徴兵します。\n\n徴兵中の 入植者は 戦闘と 与えた 指示のみ 実行します。\n\n別の 仕事を はじめたり、 食事や 睡眠を あたえる時は 徴兵終了 してください。</CommandToggleDraftDesc>
+<IsIncapped>{0} は 無力化 しました。</IsIncapped>
+
+<CommandCancelConstructionLabel>キャンセル</CommandCancelConstructionLabel>
+<CommandCancelConstructionDesc>作成を 取り消します。</CommandCancelConstructionDesc>
+
+<CommandBedSetForPrisonersLabel>囚人用 ベッドに 設定</CommandBedSetForPrisonersLabel>
+<CommandBedSetForPrisonersDesc>この部屋の ベッドを 囚人用に 設定します。</CommandBedSetForPrisonersDesc>
+<CommandBedSetForColonistsLabel>入植者用 ベッドに 設定</CommandBedSetForColonistsLabel>
+<CommandBedSetForColonistsDesc>この部屋の ベッドを 入植者用に 設定します。</CommandBedSetForColonistsDesc>
+<TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
+<TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
+<AreYouSure>本当に よろしいですか？</AreYouSure>
+
+
+
+<CommandDetonateDesc>起爆 カウントダウンを 開始します。</CommandDetonateDesc>
+<CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
+
+<CommandRenameZoneDesc>このゾーンの 名前を 変更します。</CommandRenameZoneDesc>
+<CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
+
+<CommandHideZoneDesc>ゾーンの 非表示 / 再表示。</CommandHideZoneDesc>
+<CommandHideZoneLabel>非表示</CommandHideZoneLabel>
+<CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
+
+<CommandDeleteZoneDesc>ゾーンを 削除します。</CommandDeleteZoneDesc>
+<CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
+
+
+</LanguageData>
+
+
+
+
+
+

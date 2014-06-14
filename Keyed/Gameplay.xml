@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Various -->
+<WorkLeft>残り工数</WorkLeft>
+<Contents>運んだ資材</Contents>
+<ForPrisonerUse>囚人が 使用</ForPrisonerUse>
+<ForColonistUse>入植者が 使用</ForColonistUse>
+<Owner>所持者</Owner>
+<Nobody>無し</Nobody>
+<Unowned>空き</Unowned>
+<GunInstalled>装填</GunInstalled>
+<DeadTime>死亡 {0}</DeadTime>
+<WalkSpeed>移動速度 {0}</WalkSpeed>
+<DyingLower>瀕死</DyingLower>
+<PawnEffectiveness>体調</PawnEffectiveness>
+<FilthOnFeet>足の汚れ：</FilthOnFeet>
+<NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
+
+
+<!-- Job reports -->
+<ReportHaulingTo>{0} を {1} に 運搬中。</ReportHaulingTo>
+<ReportHauling>{0}を 運搬中。</ReportHauling>
+
+<!-- Shooting report -->
+<WeaponMissRadius>攻撃角度</WeaponMissRadius>
+<RangeSlashSkill>距離 / スキル</RangeSlashSkill>
+<RangeSlashEquipment>距離 / 装備</RangeSlashEquipment>
+<Darkness>暗い</Darkness>
+<TargetProne>的にしやすい</TargetProne>
+<TargetSize>標的サイズ</TargetSize>
+<Weather>天候</Weather>
+<ShootingCover>カバー</ShootingCover>
+<CoverThingBlocksPercentOfShots>{0} は {1} で 防ぎます。</CoverThingBlocksPercentOfShots>
+<NoCoverLower>カバーが ない</NoCoverLower>
+
+
+<!-- Status levels -->
+<Loyalty>忠誠心</Loyalty>
+<LoyaltyTip>士気は、 村人の 信念を あらわしています。 あまりにも低いと、 心が折れたり 理性を失ったり 突拍子もない ことを おこすかも しれません。\n\ｎ忠誠心は 幸福や 恐怖に等しい - 偉人。</LoyaltyTip>
+<Happiness>幸福</Happiness>
+<HappinessTip>幸福は、 物質面 および 心理面の 欲求を みたすことで 維持します。</HappinessTip>
+<Fear>恐怖</Fear>
+<FearTip>恐怖は その者が 感じる 環境への 脅威を あらわします。\n\n\脅威や 残酷な状況や 戦力を 目撃すると 増加します。</FearTip>
+<Food>食事</Food>
+<FoodTip>食事は その者が なにを食べ どれぐらい 満足したかを あわらします。\n\n食事すると 食事ゲージは リセットされます。 しばらくすると 減り始め、 食事するまで 減り続けます。 食事ゲージが ゼロになると 飢えで ダメージを受けます。</FoodTip>
+<Rest>休息</Rest>
+<RestTip>休息は どれだけ 質の高い休息と 睡眠を 得ているかを あらわします。\n\nベッドで 睡眠を とると 最大まで 回復します。 ベッドから 出ると つねに 減り続けます。</RestTip>
+<Environment>環境</Environment>
+<EnvironmentTip>環境は 人が 生活で感じる 喜びに ついて あらわします。\n\n美しい 装飾のある 広々とした 客室は 環境値が 高いと いえます。 逆に、 周囲が 醜ければ 環境値は 低いです。</EnvironmentTip>
+<Openness>開放性</Openness>
+
+
+<!-- Thoughts -->
+<ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
+<ThoughtStartsExpiringIn>残り日数： {0}</ThoughtStartsExpiringIn>
+<ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
+<MentalBreakThreshold>精神崩壊 ポイント</MentalBreakThreshold>
+
+
+
+<!--Effectiveness-->
+<EffectivenessFull>元気</EffectivenessFull>
+<EffectivenessReduced>疲れている</EffectivenessReduced>
+<EffectivenessImpaired>問題がある</EffectivenessImpaired>
+<EffectivenessIncapacitated>倒れている</EffectivenessIncapacitated>
+
+<!-- Time indicator-->
+<ClockDay>日</ClockDay>
+<ClockTime>時間</ClockTime>
+<ClockTip>この星に 来てから 経過した 日時。</ClockTip>
+
+<!-- Pawn info readout -->
+<Health>健康</Health>
+<PawnMainDescWithFactionGendered>{0} {1} の {2}</PawnMainDescWithFactionGendered>
+<PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+<PawnMainDescWithFactionGenderless>{0} の {1}</PawnMainDescWithFactionGenderless>
+<PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+<Faction>部族</Faction>
+<Equipped>装備済み</Equipped>
+<EquippedNothing>素手</EquippedNothing>
+<Incapacitated>倒れている</Incapacitated>
+<InRestraints>拘束中 （移動速度減）</InRestraints>
+<Carrying>運搬中</Carrying>
+<SanityDazedWander>精神崩壊： うわのそらで放浪</SanityDazedWander>
+<SanityGiveUpExit>精神崩壊： 心が折れ 離れていく</SanityGiveUpExit>
+<SanityPanicFlee>精神崩壊： パニックになり 逃走</SanityPanicFlee>
+<SanityPsychotic>精神崩壊： ヒステリーで 暴徒化</SanityPsychotic>
+
+
+<!-- Inspector general stuff -->
+<SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
+
+<!-- ITab titles -->
+<TabBills>加工</TabBills>
+<TabGrowing>栽培</TabGrowing>
+<TabCharacter>人物</TabCharacter>
+<TabNeeds>欲求</TabNeeds>
+<TabPrisoner>囚人</TabPrisoner>
+<TabThoughts>忠誠度</TabThoughts>
+<TabStorage>保管</TabStorage>
+
+<!-- ITabs -->
+<AddBill>新しい 加工</AddBill>
+<RecipeRequiresSkills>そのレシピは、 スキルが {0}以上 必要です。 入植者の いずれも そのスキルを 持っていません。 誰も このレシピを 実行 できません。</RecipeRequiresSkills>
+<BillConfig>設定</BillConfig>
+<SuspendedCaps>中止</SuspendedCaps>
+<PlantVerb>植物</PlantVerb>
+<RecruitmentDifficulty>勧誘の難度</RecruitmentDifficulty>
+<PrisonerGetsFood>食べ物を与えます</PrisonerGetsFood>
+<ShouldTryToRecruit>入村を募集</ShouldTryToRecruit>
+<PrisonerNoInteraction>無視</PrisonerNoInteraction>
+<PrisonerFriendlyChat>友好的な会話</PrisonerFriendlyChat>
+<PrisonerMildBeating>軽度の虐待</PrisonerMildBeating>
+<PrisonerViciousBeating>重度の虐待</PrisonerViciousBeating>
+<PrisonerExecution>処刑</PrisonerExecution>
+
+<!-- like 'Blood of John' -->
+<OfLower>の</OfLower>
+
+<!-- Power readout -->
+<PowerNotConnected>電気が つながっていない</PowerNotConnected>
+<PowerConnectedRate>供給できる電気： {0} W</PowerConnectedRate>
+<PowerConnectedStored>たくわえた電気： {0} Wd</PowerConnectedStored>
+<PowerNeeded>消費する電気</PowerNeeded>
+<PowerOutput>電気の生産量</PowerOutput>
+<PowerBatteryStored>バッテリー内の電気</PowerBatteryStored>
+<PowerBatteryEfficiency>電気をたくわえる効率</PowerBatteryEfficiency>
+
+
+<!--Rotting-->
+<RotStateFresh>新鮮</RotStateFresh>
+<RotStateRotting>腐敗</RotStateRotting>
+<RotStateDessicated>乾燥</RotStateDessicated>
+
+<!-- Shooting tooltip -->
+<ShotBy>{0} が 射撃</ShotBy>
+<CannotHit>命中 しません</CannotHit>
+
+<!-- Storage priority labels -->
+<StoragePriorityUnstored>保存しない</StoragePriorityUnstored>
+<StoragePriorityLow>低い</StoragePriorityLow>
+<StoragePriorityNormal>通常</StoragePriorityNormal>
+<StoragePriorityPreferred>高い</StoragePriorityPreferred>
+<StoragePriorityImportant>優先</StoragePriorityImportant>
+<StoragePriorityCritical>最優先</StoragePriorityCritical>
+
+<!-- Meal -->
+<TimeToSpoil>消費期限 {0}</TimeToSpoil>
+<Ingredients>原料</Ingredients>
+
+<!-- Plants -->
+<PercentGrowth>{0}％ 成長</PercentGrowth>
+<Growing>成長中</Growing>
+<NotGrowingNow>成長していない （{0} 必要がある）。</NotGrowingNow>
+<HarvestableIn>成長 {0} で 収穫 できます。</HarvestableIn>
+<FullyGrownIn>成長 {0} で 完熟 します。</FullyGrownIn>
+<ReadyToHarvest>収穫 できます。</ReadyToHarvest>
+<Mature>完熟しました。</Mature>
+
+<!-- Zones -->
+<Zone>ゾーン</Zone>
+<GrowingZone>農業ゾーン</GrowingZone>
+<Stockpile>備蓄ゾーン</Stockpile>
+<DumpingStockpile>ゴミ捨て場</DumpingStockpile>
+<SellingStockpile>売却用保管</SellingStockpile>
+<Priority>使用優先度</Priority>
+
+<!-- General time stuff -->
+<DaysLower>日</DaysLower>
+<SecondsLower>秒</SecondsLower>
+
+<!-- Mouseover indicator -->
+<Undiscovered>未調査</Undiscovered>
+
+<!-- Buttons -->
+<ZoneVisibilityToggleButton>ゾーンの可視 切り替え。</ZoneVisibilityToggleButton>
+
+<!-- Fire -->
+<Fire>火災</Fire>
+<FireOn>{0} が 火災</FireOn>
+<Burning>炎上中</Burning>
+<FireSizeLower>炎上サイズ {0}</FireSizeLower>
+
+<!-- Map conditions (eclipse, solar flare, etc )-->
+<MapConditionsTip>この地域に 影響中の 特殊な状況。</MapConditionsTip>
+
+
+
+</LanguageData>

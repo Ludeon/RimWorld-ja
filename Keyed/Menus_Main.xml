@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!--=========== Main menu ==========-->
+<NewColony>新しくはじめる</NewColony>
+<BackToGame>ゲーム再開</BackToGame>
+<Save>セーブ</Save>
+<Load>ロード</Load>
+<Options>オプション</Options>
+<Mods>MOD</Mods>
+<Credits>クレジット</Credits>
+<QuitToMainMenu>タイトルに もどる</QuitToMainMenu>
+<QuitToOS>ゲーム 終了</QuitToOS>
+<FictionPrimer>Fiction primer</FictionPrimer>
+<LudeonBlog>Ludeon blog</LudeonBlog>
+<Forums>Forums</Forums>
+<OfficialWiki>Official wiki</OfficialWiki>
+<TynansTwitter>Tynan's twitter</TynansTwitter>
+<TynansDesignBook>Tynan's design book</TynansDesignBook>
+
+<!--=========== Version info ==========-->
+<BuildNowAvailable>新しい バージョン {0} が でました。 ludeon.com の 情報を 確認してください。</BuildNowAvailable>
+<BuildUpToDate>最新バージョン です。</BuildUpToDate>
+<ErrorGettingVersionInfo>バージョンアップ中に エラーが 発生しました： {0}</ErrorGettingVersionInfo>
+<LoadingVersionInfo>バージョン情報を 読み込んでいます...</LoadingVersionInfo>
+
+<!--=========== Mods screen ==========-->
+<GetMods>MODをさがす</GetMods>
+<ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
+<Author>作者</Author>
+
+
+<!--=========== Storyteller chooser ==========-->
+<ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
+<HowStorytellersWork>AIストーリーテラー (AI構成作家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。</HowStorytellersWork>
+
+<!--=========== Character chooser ==========-->
+<CreateCharacters>キャラクターの 作成</CreateCharacters>
+<FirstNameDesc>キャラクターの名前です。 \n\nこれは 特定のメニューで 表示されます。</FirstNameDesc>
+<ShortIdentifierDesc>キャラクターの 略称です。\n\nこれは 常に表示されます。 姓や名、 または 完全に別の ニックネームでも かまいません。</ShortIdentifierDesc>
+<LastNameDesc>キャラクターの 姓です。\n\n\これは 特定のメニューで 表示されます。</LastNameDesc>
+<Randomize>おまかせランダム</Randomize>
+<AgeIndicator>年齢 {0}</AgeIndicator>
+<Backstory>キャラクター背景</Backstory>
+<IncapableOf>苦手・欠点</IncapableOf>
+<Traits>才能・性格</Traits>
+<TraitsDoNothing>特技・性格は、 まだ開発中で、 ほとんど何も ありません。 今のところは 楽しい ストーリービットです。 将来の バージョンで 機能を 搭載します。</TraitsDoNothing>
+<Skills>スキル</Skills>
+<NoneLower>なし</NoneLower>
+<Adulthood>青年期</Adulthood>
+<Childhood>幼年期</Childhood>
+<Male>男</Male>
+<Female>女</Female>
+
+
+<!--=========== Misc ==========-->
+<Start>スタート</Start>
+<Advanced>高度な設定</Advanced>
+<Next>次</Next>
+<Back>戻る</Back>
+
+<Gameplay>ゲームスタート</Gameplay>
+
+<ConfirmQuit>本当に終了しますか？ セーブしていない データは うしなわれます。</ConfirmQuit>
+
+<EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
+
+<GeneratingWorld>惑星を 生成しています...</GeneratingWorld>
+
+</LanguageData>
