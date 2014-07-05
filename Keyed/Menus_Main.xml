@@ -17,6 +17,7 @@
 <OfficialWiki>Official wiki</OfficialWiki>
 <TynansTwitter>Tynan's twitter</TynansTwitter>
 <TynansDesignBook>Tynan's design book</TynansDesignBook>
+<HelpTranslate>Help translate RimWorld</HelpTranslate>
 
 <!--=========== Version info ==========-->
 <BuildNowAvailable>新しい バージョン {0} が でました。 ludeon.com の 情報を 確認してください。</BuildNowAvailable>
@@ -26,13 +27,14 @@
 
 <!--=========== Mods screen ==========-->
 <GetMods>MODをさがす</GetMods>
+<OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
 <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
 <Author>作者</Author>
 
 
 <!--=========== Storyteller chooser ==========-->
 <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
-<HowStorytellersWork>AIストーリーテラー (AI構成作家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。</HowStorytellersWork>
+<HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。</HowStorytellersWork>
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>
@@ -59,7 +61,7 @@
 <Next>次</Next>
 <Back>戻る</Back>
 
-<Gameplay>ゲームスタート</Gameplay>
+<Gameplay>ゲームの設定</Gameplay>
 
 <ConfirmQuit>本当に終了しますか？ セーブしていない データは うしなわれます。</ConfirmQuit>
 

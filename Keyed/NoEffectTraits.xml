@@ -145,7 +145,6 @@ VAT成長
 気難しい
 頑固
 吃音
-美容整形
 弱い
 ワーカーホリック
 狂信的な愛国主義
@@ -154,10 +153,9 @@ VAT成長
 夢見がち
 鈍い
 おせっかい
-都合の良い個性
+露骨な二面性
 プライドが高い
 お酒に弱い
-
 
 
 //-------Compulsions
@@ -169,10 +167,6 @@ VAT成長
 病的な悪態
 
 
-
-
-
-
 //------Societal position
 秘密結社イルミナティ
 家族に勘当された
@@ -180,27 +174,6 @@ VAT成長
 破門された
 名声が高い
 個性がない
-
-
-//Claim to hospitality from X faction
-//Social status among X group
-//Military rank in X faction
-//In debt to X faction
-//Hunted by X faction
-//Nobility in X culture
-//Heir/heiress
-//Member of
-//o     Military
-//o     Church
-//o     Company
-//o     University
-//o     Ordo Historia
-//o     Criminal organization
-//o     Tribe
-//o     Guild/union
-//o     Police department
-
-
 
 
 //-------Medical and body
@@ -246,6 +219,27 @@ VAT成長
 
 
 //---- INACTIVE-------------
+
+//Claim to hospitality from X faction
+//Social status among X group
+//Military rank in X faction
+//In debt to X faction
+//Hunted by X faction
+//Nobility in X culture
+//Heir/heiress
+//Member of
+//-     Military
+//-     Church
+//-     Company
+//-     University
+//-     Ordo Historia
+//-     Criminal organization
+//-     Tribe
+//-     Guild/union
+//-     Police department
+
+
+
 //Has enemies who will come
 //Infected with X long-term pathogen
 //Vowed to do X

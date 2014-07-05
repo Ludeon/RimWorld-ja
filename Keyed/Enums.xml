@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- glow -->
+<Dark>暗い</Dark>
+<Lit>明るい</Lit>
+<LitBrightly>光がある</LitBrightly>
+
+<!-- food quality -->
+<NoneQuality>None</NoneQuality>
+<PlantQuality>植物</PlantQuality>
+<RawQuality>食材</RawQuality>
+<MealAwfulQuality>まずい</MealAwfulQuality>
+<MealSimpleQuality>シンプル</MealSimpleQuality>
+<MealFineQuality>おいしい</MealFineQuality>
+<MealLavishLavish>ごちそう</MealLavishLavish>
+
+<!-- diet type -->
+<NeverEats>餌を取らない</NeverEats>
+<Omnivorous>雑食性</Omnivorous>
+<Herbivorous>雑食性</Herbivorous>
+<Carnivorous>肉食性</Carnivorous>
+
+<!-- history upload pref -->
+<Unspecified>未定</Unspecified>
+<Always>許可</Always>
+<Never>禁止</Never>
+
+</LanguageData>

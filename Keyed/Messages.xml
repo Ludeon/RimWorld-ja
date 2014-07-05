@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+
+<MessageSiegersAssaulting>{0} は {1} から 攻城兵器で コロニーへ 攻撃しました。</MessageSiegersAssaulting>
+
+<MessageRaidersBeginningAssault>{0} は {1} を 襲撃しはじめ ました。</MessageRaidersBeginningAssault>
+<MessageRaidersDetectedEarlyAssault>{0} は {1} の斥候を 発見し、 急きょ 襲撃を はやめました。</MessageRaidersDetectedEarlyAssault>
+<MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+
 <MessageRaidersLeaving>{0} は {1} から 離れました。</MessageRaidersLeaving>
 <MessageRaidersGivenUpLeaving>{0} は {1} を諦め 離れました。</MessageRaidersGivenUpLeaving>
+<MessageRaidersSatisfiedLeaving>{0} は {1} の損害に 満足し 離れました。</MessageRaidersSatisfiedLeaving>
+
 
 <MessageFightersFleeing>{0} は {1} から 逃げています。</MessageFightersFleeing>
 <MessageFriendlyFightersLeaving>優しい {0} は {1} から 離れました。</MessageFriendlyFightersLeaving>
 
-<MessageRaidersBeginningAssault>{0} は {1} を 襲撃しはじめ ました。</MessageRaidersBeginningAssault>
-<MessageRaidersDetectedEarlyAssault>{0} は {1} の斥候を 発見し、 急きょ 襲撃を はやめました。</MessageRaidersDetectedEarlyAssault>
 
 
 <MessageShipHasLeftCommsRange>{0} は 通信範囲から 離れました。</MessageShipHasLeftCommsRange>
@@ -39,44 +46,3 @@
 
 
 </LanguageData>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

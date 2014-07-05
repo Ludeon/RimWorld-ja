@@ -4,18 +4,24 @@
 <!-- Various -->
 <WorkLeft>残り工数</WorkLeft>
 <Contents>運んだ資材</Contents>
+<ContainedResources>作成に必要な リソース</ContainedResources>
 <ForPrisonerUse>囚人が 使用</ForPrisonerUse>
 <ForColonistUse>入植者が 使用</ForColonistUse>
 <Owner>所持者</Owner>
 <Nobody>無し</Nobody>
 <Unowned>空き</Unowned>
-<GunInstalled>装填</GunInstalled>
 <DeadTime>死亡 {0}</DeadTime>
 <WalkSpeed>移動速度 {0}</WalkSpeed>
 <DyingLower>瀕死</DyingLower>
 <PawnEffectiveness>体調</PawnEffectiveness>
-<FilthOnFeet>足の汚れ：</FilthOnFeet>
+<FilthOnFeet>足もと：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
+<NothingLower>なし</NothingLower>
+
+<!-- Turrets -->
+<GunInstalled>武装</GunInstalled>
+<MinimumRange>最小範囲</MinimumRange>
+<CanFireIn>Can fire in</CanFireIn>
 
 
 <!-- Job reports -->
@@ -24,24 +30,20 @@
 
 <!-- Shooting report -->
 <WeaponMissRadius>攻撃角度</WeaponMissRadius>
-<RangeSlashSkill>距離 / スキル</RangeSlashSkill>
-<RangeSlashEquipment>距離 / 装備</RangeSlashEquipment>
+<ShootReportSkill>スキル</ShootReportSkill>
+<ShootReportWeapon>Weapon</ShootReportWeapon>
 <Darkness>暗い</Darkness>
 <TargetProne>的にしやすい</TargetProne>
 <TargetSize>標的サイズ</TargetSize>
 <Weather>天候</Weather>
 <ShootingCover>カバー</ShootingCover>
-<CoverThingBlocksPercentOfShots>{0} は {1} で 防ぎます。</CoverThingBlocksPercentOfShots>
+<CoverThingBlocksPercentOfShots>{0} は {1} 防ぎます。</CoverThingBlocksPercentOfShots>
 <NoCoverLower>カバーが ない</NoCoverLower>
 
 
 <!-- Status levels -->
-<Loyalty>忠誠心</Loyalty>
-<LoyaltyTip>士気は、 村人の 信念を あらわしています。 あまりにも低いと、 心が折れたり 理性を失ったり 突拍子もない ことを おこすかも しれません。\n\ｎ忠誠心は 幸福や 恐怖に等しい - 偉人。</LoyaltyTip>
-<Happiness>幸福</Happiness>
-<HappinessTip>幸福は、 物質面 および 心理面の 欲求を みたすことで 維持します。</HappinessTip>
-<Fear>恐怖</Fear>
-<FearTip>恐怖は その者が 感じる 環境への 脅威を あらわします。\n\n\脅威や 残酷な状況や 戦力を 目撃すると 増加します。</FearTip>
+<Mood>気分</Mood>
+<MoodTip>気分は 物理的・ 精神的 欲求を 満たすことで 改善します。\n\nもし 気分が 悪いままだと 精神崩壊 の おそれが あります。</MoodTip>
 <Food>食事</Food>
 <FoodTip>食事は その者が なにを食べ どれぐらい 満足したかを あわらします。\n\n食事すると 食事ゲージは リセットされます。 しばらくすると 減り始め、 食事するまで 減り続けます。 食事ゲージが ゼロになると 飢えで ダメージを受けます。</FoodTip>
 <Rest>休息</Rest>
@@ -65,10 +67,6 @@
 <EffectivenessImpaired>問題がある</EffectivenessImpaired>
 <EffectivenessIncapacitated>倒れている</EffectivenessIncapacitated>
 
-<!-- Time indicator-->
-<ClockDay>日</ClockDay>
-<ClockTime>時間</ClockTime>
-<ClockTip>この星に 来てから 経過した 日時。</ClockTip>
 
 <!-- Pawn info readout -->
 <Health>健康</Health>
@@ -82,7 +80,7 @@
 <Incapacitated>倒れている</Incapacitated>
 <InRestraints>拘束中 （移動速度減）</InRestraints>
 <Carrying>運搬中</Carrying>
-<SanityDazedWander>精神崩壊： うわのそらで放浪</SanityDazedWander>
+<SanityDazedWander>精神崩壊： うわのそらで 放浪</SanityDazedWander>
 <SanityGiveUpExit>精神崩壊： 心が折れ 離れていく</SanityGiveUpExit>
 <SanityPanicFlee>精神崩壊： パニックになり 逃走</SanityPanicFlee>
 <SanityPsychotic>精神崩壊： ヒステリーで 暴徒化</SanityPsychotic>
@@ -90,6 +88,7 @@
 
 <!-- Inspector general stuff -->
 <SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
+<DefInfoTip>オブジェクトの 情報を 表示する。</DefInfoTip>
 
 <!-- ITab titles -->
 <TabBills>加工</TabBills>
@@ -97,7 +96,8 @@
 <TabCharacter>人物</TabCharacter>
 <TabNeeds>欲求</TabNeeds>
 <TabPrisoner>囚人</TabPrisoner>
-<TabThoughts>忠誠度</TabThoughts>
+<TabGear>装備</TabGear>
+<TabThoughts>心境</TabThoughts>
 <TabStorage>保管</TabStorage>
 
 <!-- ITabs -->
@@ -114,6 +114,14 @@
 <PrisonerMildBeating>軽度の虐待</PrisonerMildBeating>
 <PrisonerViciousBeating>重度の虐待</PrisonerViciousBeating>
 <PrisonerExecution>処刑</PrisonerExecution>
+<Equipment>装備</Equipment>
+<Apparel>衣服</Apparel>
+<Inventory>アイテム一覧</Inventory>
+<ThingInfo>情報</ThingInfo>
+<DropThing>はずす</DropThing>
+<TotalModifiers>装備結果</TotalModifiers>
+<DamageAbsorption>ダメージ吸収</DamageAbsorption>
+<MoveSpeed>移動速度</MoveSpeed>
 
 <!-- like 'Blood of John' -->
 <OfLower>の</OfLower>
@@ -153,7 +161,6 @@
 <PercentGrowth>{0}％ 成長</PercentGrowth>
 <Growing>成長中</Growing>
 <NotGrowingNow>成長していない （{0} 必要がある）。</NotGrowingNow>
-<HarvestableIn>成長 {0} で 収穫 できます。</HarvestableIn>
 <FullyGrownIn>成長 {0} で 完熟 します。</FullyGrownIn>
 <ReadyToHarvest>収穫 できます。</ReadyToHarvest>
 <Mature>完熟しました。</Mature>
@@ -163,7 +170,6 @@
 <GrowingZone>農業ゾーン</GrowingZone>
 <Stockpile>備蓄ゾーン</Stockpile>
 <DumpingStockpile>ゴミ捨て場</DumpingStockpile>
-<SellingStockpile>売却用保管</SellingStockpile>
 <Priority>使用優先度</Priority>
 
 <!-- General time stuff -->
@@ -175,6 +181,8 @@
 
 <!-- Buttons -->
 <ZoneVisibilityToggleButton>ゾーンの可視 切り替え。</ZoneVisibilityToggleButton>
+<AutoHomeRegionToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeRegionToggleButton>
+
 
 <!-- Fire -->
 <Fire>火災</Fire>
@@ -182,9 +190,33 @@
 <Burning>炎上中</Burning>
 <FireSizeLower>炎上サイズ {0}</FireSizeLower>
 
+
 <!-- Map conditions (eclipse, solar flare, etc )-->
 <MapConditionsTip>この地域に 影響中の 特殊な状況。</MapConditionsTip>
 
 
+
+<!-- Building placement restricters -->
+<MustPlaceUnroofed>屋根の下に 配置 できません。</MustPlaceUnroofed>
+<MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
+<MustPlaceNextToHopperAccepter>ホッパーを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
+<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接 配置して ください。</MustPlaceOnSteamGeyser>
+
+<!-- Cryptosleep pod -->
+<PodContains>搭載</PodContains>
+
+<!-- Ship launch report -->
+<ShipReportCannotLaunch>発進 できません。</ShipReportCannotLaunch>
+<ShipReportCanLaunch>発進 できます。</ShipReportCanLaunch>
+<ShipReportMissingPart>宇宙船 コンポーネントが 足りません</ShipReportMissingPart>
+<ShipReportNoFullPods>冷凍カプセルに 空きが あります</ShipReportNoFullPods>
+
+
+
+<!-- Game over -->
+<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>
+<GameOverShipLaunched>宇宙船が発進しました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
+<GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
+<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
 </LanguageData>

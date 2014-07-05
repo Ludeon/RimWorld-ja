@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+
+
 <CallOnRadio>{0} 呼び出し</CallOnRadio>
 <CannotUseSolarFlare>使用できません （太陽フレア）</CannotUseSolarFlare>
 <CannotUseNoPower>使用できません （電気がない）</CannotUseNoPower>
 <CannotUseNoPath>使用できません （パスがない）</CannotUseNoPath>
+<CannotUseReserved>使用できません (reserved)</CannotUseReserved>
+<CannotUseFull>使用できません (満載l)</CannotUseFull>
 
 <FireAt>{0} を 射撃</FireAt>
 
@@ -12,7 +16,7 @@
 <CannotHitTarget>対象に 命中しません</CannotHitTarget>
 <CannotFight>{0} は戦えません</CannotFight>
 
-
+<OrderManThing>Man {0}</OrderManThing>
 
 <MeleeAttack>{0} に 格闘</MeleeAttack>
 <MeleeAttackToDeath>{0} を 格闘で 殺害</MeleeAttackToDeath>
@@ -23,9 +27,10 @@
 <BurningLower>炎上</BurningLower>
 <NoEmptyPlaceLower>備蓄する 空き場所が ない</NoEmptyPlaceLower>
 <AlreadyFilledLower>すでに 満杯</AlreadyFilledLower>
+<MissingMaterials>資材が ない</MissingMaterials>
 
 
-<CannotGoNoPath>ここに移動する ルートが ありません</CannotGoNoPath>
+<CannotGoNoPath>たどり着く ルートが ありません</CannotGoNoPath>
 <GoHere>ここに移動</GoHere>
 
 <Arrest>{0} を 誘拐</Arrest>
@@ -47,10 +52,21 @@
 <Equip>{0} を 装備</Equip>
 <CannotEquip>{0} を 装備できません</CannotEquip>
 
+<Wear>{0} を 着る</Wear>
+<CannotWear>{0} を 着用 できません</CannotWear>
+
+<Strip>{0} を 脱ぐ</Strip>
+<CannotStrip>{0} を 脱げません</CannotStrip>
+
 <Deposit>{0} を {1} に 渡す</Deposit>
 <CannotDeposit>{1} に {0} を 渡せません</CannotDeposit>
 
 <Drop>{0} を 手放す</Drop>
+
+<!-- Specific thing interactions -->
+<EnterCryptosleepPod>冬眠カプセルに はいる</EnterCryptosleepPod>
+
+
 
 <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
 <CannotGenericWork>{1} を {0} できません</CannotGenericWork>

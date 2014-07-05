@@ -3,6 +3,18 @@
 
 <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
+
+
+
+<AlertNeedStockpile>備蓄ゾーン</AlertNeedStockpile>
+<AlertNeedStockpileDesc>入植者は 資材を 格納する場所が わからずに 困っています。 備蓄ゾーンを 指定してください。\n\n左下の アーキテクト メニューから 「ゾーン」を 選択し 備蓄ゾーンを さがしましょう。</AlertNeedStockpileDesc>
+
+<AlertUnforbidStartingResources>資材を使う</AlertUnforbidStartingResources>
+<AlertUnforbidStartingResourcesDesc>ゲーム開始時、 資材は 「無視」と なっています。\n\n入植者が 資材を 使うには それを選択し 画面下の スクリーンで 「使用」に 設定して ください。</AlertUnforbidStartingResourcesDesc>
+
+<AlertEquipStartingWeapons>武器を装備する</AlertEquipStartingWeapons>
+<AlertEquipStartingWeaponsDesc>入植者たちは 武器も 持ちこんで います。 装備 しましょう！\n\n入植者を 選択し 武器に 右クリックして 装備を 指示します。</AlertEquipStartingWeaponsDesc>
+
 <NeedSawmill>木の板を作る</NeedSawmill>
 <NeedSawmillDesc>木のドアなど さまざまな 用途で 使う 木の板は、 丸太を 加工して 作ります。\n\n加工の ために ノコギリ台か 電ノコ台を 作りましょう。</NeedSawmillDesc>
 
@@ -20,7 +32,7 @@
 <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません：\n\n{0}\n他の 入植者に 救助を 指示し、 ベッドまで はこびましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
 <BuildARoom>部屋をつくる</BuildARoom>
-<BuildARoomDesc>部屋をつくってみましょう。\n\n四面を壁でかこみ、 ドアを取り付けると、 部屋を 作れます。\n\n画面左下の アーキテクト メニューで 部屋を設計 しましょう。 入植者は 自分にできる 作業を はじめます。</BuildARoomDesc>
+<BuildARoomDesc>部屋を作るには ドアをつけた 壁で 四方を 囲みましょう。\n\n何かを つくりたいときは 画面 左下の 「アーキテクト」 メニューを つかいます。 計画を 指定しておけば、 入植者は 自分で考えて 仕事をします。</BuildARoomDesc>
 
 <NeedGrowingZone>田畑をつくる</NeedGrowingZone>
 <NeedGrowingZoneDesc>田畑をつくってみましょう。\n\nアーキテクト メニューで 「肥沃な土壌」を 農業ゾーンに 指定します。</NeedGrowingZoneDesc>
@@ -41,7 +53,7 @@
 <LowFoodDesc>倉庫に {0} 単位の 食材しか ありません。 これは とても危険です。 \n\n食材を 育てるか、 探すか、 または 狩ってください。</LowFoodDesc>
 
 <NeedColonistBeds>ベッドを作る</NeedColonistBeds>
-<NeedColonistBedsDesc>ベッドの数が足りません。 入植者の 誰かが 自分のベッドを 持っていません。\n\n新しいベッドを 作るか、 囚人用の ベッドを 入植者の ベッドに 変更してください。</NeedColonistBedsDesc>
+<NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
 
 <Starvation>食べる物がない</Starvation>
 <StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。 ペースト ディスペンサー など 調理の 食材を 確保して ください。 また、 この者たちへの 仕事を 中止 してください。</StarvationDesc>
@@ -73,13 +85,16 @@
 <NeedResearchProjectDesc>研究用の 機器が ありますので、 研究の 計画を たてましょう。\n\n研究メニューを 開き 研究する計画を 選択します。</NeedResearchProjectDesc>
 
 <NeedDump>ガレキを捨てる</NeedDump>
-<NeedDumpDesc>入植者は ガレキを どけたいと 思っていますが、 そのガレキを どこに 集めるか 悩んでいます。\n\n備蓄ゾーン または ゴミ捨て場ゾーン を 指定し、 それの 「保管タブ」で ガレキの 受け入れを 設定しましょう。</NeedDumpDesc>
+<NeedDumpDesc>入植者は 岩をどかせたいと 考えていますが、 どこに どけるか 悩んでいます。\n\n備蓄ゾーンを 選択して 岩の許可を 設定します。</NeedDumpDesc>
 
 <NeedGrave>死体の処分</NeedGrave>
 <NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 ゴミ捨て場ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
 
 <ColonistsIdle>入植者に仕事を</ColonistsIdle>
 <ColonistsIdleDesc>次の入植者は 仕事がなく 散歩しています：\n\n{0}\n休暇を あたえている ので なければ、 何か 仕事を 割り振りましょう。</ColonistsIdleDesc>
+
+<HaltedConstructions>資材が {0} 不足</HaltedConstructions>
+<HaltedConstructionsDesc>次の作成につかう 資材が 見つかりません:\n\n{0}\n入植者が つかえるように 資材を 「使用」に 設定してください。</HaltedConstructionsDesc>
 
 <TableNeedsChairs>テーブルとイス</TableNeedsChairs>
 <TableNeedsChairsDesc>テーブルに 隣接した イスを つくりましょう。 テーブルと イスは セットです。 彼らは テーブルに 座りません。</TableNeedsChairsDesc>

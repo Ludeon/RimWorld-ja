@@ -17,12 +17,12 @@
 <DesignatorHarvestWoodDesc>印をつけた 木を 切り倒し 木材に します。</DesignatorHarvestWoodDesc>
 
 <DesignatorHaulThings>運搬</DesignatorHaulThings>
-<DesignatorHaulThingsDesc>ガレキや そのほか アイテムを ゴミ捨て場ゾーンに 運びます。 食材や 死体といった 自動運搬 アイテムには 必要 ありません。</DesignatorHaulThingsDesc>
+<DesignatorHaulThingsDesc>岩や そのほか アイテムを ゴミ捨て場ゾーンに 運びます。 食材や 死体といった 自動で運ぶ アイテムに 指定する 必要は ありません。</DesignatorHaulThingsDesc>
 <NothingToHaulHere>ここに 運ぶものは ありません。</NothingToHaulHere>
-<MustHaulHaulables>ガレキのような 自動運搬 ではない アイテムに 指定できます。</MustHaulHaulables>
+<MustHaulHaulables>(岩などといった) 自動で運ぶもの 以外にのみ 運搬を 指定できます。</MustHaulHaulables>
 
 <DesignatorHunt>狩猟</DesignatorHunt>
-<DesignatorHuntDesc>入植者は 印をつけた 動物を 狩ります。</DesignatorHuntDesc>
+<DesignatorHuntDesc>入植者は ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
 
 <DesignatorMine>採掘</DesignatorMine>
 <DesignatorMineDesc>指定した ゾーンを 採掘します。</DesignatorMineDesc>
