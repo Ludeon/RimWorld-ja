@@ -4,7 +4,7 @@
 <!-- glow -->
 <Dark>暗い</Dark>
 <Lit>明るい</Lit>
-<LitBrightly>光がある</LitBrightly>
+<LitBrightly>陽があたる</LitBrightly>
 
 <!-- food quality -->
 <NoneQuality>None</NoneQuality>
@@ -26,4 +26,25 @@
 <Always>許可</Always>
 <Never>禁止</Never>
 
+  <!-- Price types -->
+  <PriceTypeVeryCheap>とても安い</PriceTypeVeryCheap>
+  <PriceTypeCheap>安い</PriceTypeCheap>
+  <PriceTypeNormal>通常</PriceTypeNormal>
+  <PriceTypeExpensive>高価</PriceTypeExpensive>
+  <PriceTypeExorbitant>法外</PriceTypeExorbitant>
+
+  <!-- stat category -->
+  <StatCategory_General>General</StatCategory_General>
+  <StatCategory_GeneralNonPawn>General</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Armor</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primary</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Work</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Combat</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Social</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Misc</StatCategory_PawnMisc>
+  <StatCategory_Building>Building</StatCategory_Building>
+  
+  <EquippedStatOffsets>Offsets when equipped</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Modifiers when equipment made of this</StuffOfEquipmentStatModifiers>
+  
 </LanguageData>

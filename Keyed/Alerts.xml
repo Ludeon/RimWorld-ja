@@ -70,7 +70,7 @@
 <AndMore>より</AndMore>
 
 <NeedMealSource>食材の調理</NeedMealSource>
-<NeedMealSourceDesc>ペースト ディスペンサー または 調理ストーブを 作り 生の食材を 調理しましょうする 方法が ありません。\n\n入植者は 生の食材を たべません。\n\n（囚人ゾーンの 調理器を、 入植者は 使用 できません）</NeedMealSourceDesc>
+<NeedMealSourceDesc>ペースト ディスペンサー または 調理ストーブを 作り 生の食材を 調理しましょうする\n\n入植者は 生の食材を たべません。\n\n（囚人ゾーンの 調理器を、 入植者は 使用 できません）</NeedMealSourceDesc>
 
 <NeedHomeRegion>村のゾーン</NeedHomeRegion>
 <NeedHomeRegionDesc>入植者のために 村の ゾーンを きめて、 修理や 消火活動、 掃除をさせて 住み良い村に しましょう。\n\nアーキテクト メニューの ゾーン設定 で 村のゾーンを 指定しましょう。 </NeedHomeRegionDesc>
@@ -90,7 +90,7 @@
 <NeedGrave>死体の処分</NeedGrave>
 <NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 ゴミ捨て場ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
 
-<ColonistsIdle>入植者に仕事を</ColonistsIdle>
+<ColonistsIdle>入植者 {0} 人に仕事を</ColonistsIdle>
 <ColonistsIdleDesc>次の入植者は 仕事がなく 散歩しています：\n\n{0}\n休暇を あたえている ので なければ、 何か 仕事を 割り振りましょう。</ColonistsIdleDesc>
 
 <HaltedConstructions>資材が {0} 不足</HaltedConstructions>
@@ -99,6 +99,17 @@
 <TableNeedsChairs>テーブルとイス</TableNeedsChairs>
 <TableNeedsChairsDesc>テーブルに 隣接した イスを つくりましょう。 テーブルと イスは セットです。 彼らは テーブルに 座りません。</TableNeedsChairsDesc>
 
+  <ColonistNeedsTreatment>処置室</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
+
+  <ColonistsAwaitingMedicalOperation>入植者は、診察を待っています </ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperationDesc>入植者は診察が始まるのを待っています:\n\n{0}\n必要な医療設備が整っているか確認しましょう、もちろん医者も必要です</ColonistsAwaitingMedicalOperationDesc>
+
+  <PawnsWithLifeThreateningDisease>重症</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>入植者は重傷を負って死にかけています:\n\n{0}\nできるかぎりの治療が行われいますか</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>入植者は重症を負って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!--<AlertAbsentMinded>{0} is lost in thought</AlertAbsentMinded>-->
 
 
 </LanguageData>

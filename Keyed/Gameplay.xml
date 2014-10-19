@@ -7,26 +7,38 @@
 <ContainedResources>作成に必要な リソース</ContainedResources>
 <ForPrisonerUse>囚人が 使用</ForPrisonerUse>
 <ForColonistUse>入植者が 使用</ForColonistUse>
-<Owner>所持者</Owner>
+<MedicalBed>医療用</MedicalBed>
+<Owner>所有者</Owner>
 <Nobody>無し</Nobody>
 <Unowned>空き</Unowned>
-<DeadTime>死亡 {0}</DeadTime>
+<DeadTime>死後 {0}</DeadTime>
 <WalkSpeed>移動速度 {0}</WalkSpeed>
 <DyingLower>瀕死</DyingLower>
 <PawnEffectiveness>体調</PawnEffectiveness>
 <FilthOnFeet>足もと：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
 <NothingLower>なし</NothingLower>
+  <Adapted>Adapted</Adapted>
+  <Headshot>ヘッドショット</Headshot>
+  <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
+  <UntreatedLower>未処置</UntreatedLower>
+  <DevelopedImmunityLower>免疫が 少なくなっています</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
+  <NextTreatmentAfter>{0} 日後に 再治療が必要です</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>ワクチンを 培養中</ImmunityDevelopmentProgress>
 
 <!-- Turrets -->
 <GunInstalled>武装</GunInstalled>
 <MinimumRange>最小範囲</MinimumRange>
-<CanFireIn>Can fire in</CanFireIn>
+<CanFireIn>射撃開始距離</CanFireIn>
 
 
 <!-- Job reports -->
 <ReportHaulingTo>{0} を {1} に 運搬中。</ReportHaulingTo>
 <ReportHauling>{0}を 運搬中。</ReportHauling>
+  <ReportSleeping>就寝中</ReportSleeping>
+  <ReportResting>休憩中</ReportResting>
 
 <!-- Shooting report -->
 <WeaponMissRadius>攻撃角度</WeaponMissRadius>
@@ -85,6 +97,22 @@
 <SanityPanicFlee>精神崩壊： パニックになり 逃走</SanityPanicFlee>
 <SanityPsychotic>精神崩壊： ヒステリーで 暴徒化</SanityPsychotic>
 
+  <!-- Body and activities condition -->
+  <None>なし</None>
+  <VeryPoor>非常に悪い</VeryPoor>
+  <Poor>悪い</Poor>
+  <Weakened>弱っている</Weakened>
+  <GoodCondition>良好</GoodCondition>
+  <Enhanced>高揚</Enhanced>
+  <SeriouslyImpaired>深刻な欠損</SeriouslyImpaired>
+  <Impaired>傷ついた</Impaired>
+  <SlightlyImpaired>かすり傷</SlightlyImpaired>
+  <NoPain>無傷</NoPain>
+  <LittlePain>軽傷</LittlePain>
+  <MediumPain>中程度の怪我</MediumPain>
+  <SeverePain>重傷</SeverePain>
+  <ExtremePain>瀕死</ExtremePain>
+
 
 <!-- Inspector general stuff -->
 <SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
@@ -99,6 +127,10 @@
 <TabGear>装備</TabGear>
 <TabThoughts>心境</TabThoughts>
 <TabStorage>保管</TabStorage>
+  <TabHealth>健康</TabHealth>
+  <TabRace>種族</TabRace>
+  <TabBasics>Basics</TabBasics>
+  <TabStats>状態</TabStats>
 
 <!-- ITabs -->
 <AddBill>新しい 加工</AddBill>
@@ -107,8 +139,10 @@
 <SuspendedCaps>中止</SuspendedCaps>
 <PlantVerb>植物</PlantVerb>
 <RecruitmentDifficulty>勧誘の難度</RecruitmentDifficulty>
-<PrisonerGetsFood>食べ物を与えます</PrisonerGetsFood>
-<ShouldTryToRecruit>入村を募集</ShouldTryToRecruit>
+<PrisonerGetsFood>食べ物を 与えます</PrisonerGetsFood>
+	<DoctorsCare>医者に 診せます</DoctorsCare>
+	<PrisonerGetsMedicine>薬を 与えます</PrisonerGetsMedicine>
+<ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
 <PrisonerNoInteraction>無視</PrisonerNoInteraction>
 <PrisonerFriendlyChat>友好的な会話</PrisonerFriendlyChat>
 <PrisonerMildBeating>軽度の虐待</PrisonerMildBeating>
@@ -121,7 +155,33 @@
 <DropThing>はずす</DropThing>
 <TotalModifiers>装備結果</TotalModifiers>
 <DamageAbsorption>ダメージ吸収</DamageAbsorption>
+	<DamageDeflection>ダメージ防御</DamageDeflection>
 <MoveSpeed>移動速度</MoveSpeed>
+	<Efficiency>効率</Efficiency>
+	<MissingBodyPart>失われた</MissingBodyPart>
+	<DestroyedBodyPart>破壊された</DestroyedBodyPart>
+	<ShatteredBodyPart>粉砕された</ShatteredBodyPart>
+  <RemovedBodyPart>取り外された</RemovedBodyPart>
+	<Healthy>Healthy</Healthy>
+	<InPain>In pain</InPain>
+	<PainLevel>Pain</PainLevel>
+	<Dead>Dead</Dead>
+	<Unconscious>Unconscious</Unconscious>
+	<PainShock>In shock</PainShock>
+	<Injured>Injured</Injured>
+	<NoInjuries>(目立った怪我無し)</NoInjuries>
+	<WholeBody>全身</WholeBody>
+	<RenameColonist>Rename colonist</RenameColonist>
+	<DataProcessing>Data processing</DataProcessing>
+	<Communication>Communication</Communication>
+	<AffectsLower>affects</AffectsLower>
+	<BleedingRate>Bleeding rate</BleedingRate>
+	<HealthOverview>Overview</HealthOverview>
+	<MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+	<MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+	<MedicalOperations>Medical operations</MedicalOperations>
+	<Amputate>切断手術</Amputate>
+	<Harvest>Harvest</Harvest>
 
 <!-- like 'Blood of John' -->
 <OfLower>の</OfLower>
@@ -131,7 +191,7 @@
 <PowerConnectedRate>供給できる電気： {0} W</PowerConnectedRate>
 <PowerConnectedStored>たくわえた電気： {0} Wd</PowerConnectedStored>
 <PowerNeeded>消費する電気</PowerNeeded>
-<PowerOutput>電気の生産量</PowerOutput>
+<PowerOutput>発電量</PowerOutput>
 <PowerBatteryStored>バッテリー内の電気</PowerBatteryStored>
 <PowerBatteryEfficiency>電気をたくわえる効率</PowerBatteryEfficiency>
 
@@ -164,6 +224,7 @@
 <FullyGrownIn>成長 {0} で 完熟 します。</FullyGrownIn>
 <ReadyToHarvest>収穫 できます。</ReadyToHarvest>
 <Mature>完熟しました。</Mature>
+  <SeedLabel>{0} の種</SeedLabel>
 
 <!-- Zones -->
 <Zone>ゾーン</Zone>
@@ -182,6 +243,7 @@
 <!-- Buttons -->
 <ZoneVisibilityToggleButton>ゾーンの可視 切り替え。</ZoneVisibilityToggleButton>
 <AutoHomeRegionToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeRegionToggleButton>
+  <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
 
 
 <!-- Fire -->
@@ -194,6 +256,8 @@
 <!-- Map conditions (eclipse, solar flare, etc )-->
 <MapConditionsTip>この地域に 影響中の 特殊な状況。</MapConditionsTip>
 
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
 
 
 <!-- Building placement restricters -->
@@ -201,6 +265,8 @@
 <MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
 <MustPlaceNextToHopperAccepter>ホッパーを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
 <MustPlaceOnSteamGeyser>蒸気間欠泉に 直接 配置して ください。</MustPlaceOnSteamGeyser>
+
+
 
 <!-- Cryptosleep pod -->
 <PodContains>搭載</PodContains>
@@ -211,6 +277,9 @@
 <ShipReportMissingPart>宇宙船 コンポーネントが 足りません</ShipReportMissingPart>
 <ShipReportNoFullPods>冷凍カプセルに 空きが あります</ShipReportNoFullPods>
 
+  <!-- Neurotrainer -->
+  <UseNeurotrainer>{0} を学ぶ為に neurotrainer を使用する</UseNeurotrainer>
+  <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
 
 <!-- Game over -->

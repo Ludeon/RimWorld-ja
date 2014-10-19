@@ -27,6 +27,9 @@
 <ZoneGainsName>このゾーンを {0} という名前に きめました。</ZoneGainsName>
 <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
 
+  <!-- Pawn naming -->
+  <PawnGainsName>ニックネームを {0} 決めました</PawnGainsName>
+
 <!-- Save game incompatible warning -->
 <SaveGameIncompatibleWarningText>バージョンの不一致： マップは以前のバージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\n古いバージョンの ロードは バグや クラッシュの 原因となります。</SaveGameIncompatibleWarningText>
 <SaveGameIncompatibleWarningTitle>ゲームの非互換性を保存</SaveGameIncompatibleWarningTitle>
@@ -45,7 +48,7 @@
 <Unresearched>未研究</Unresearched>
 <Finished>完成した</Finished>
 <InProgress>進行中</InProgress>
-<ResearchMenuWithoutBench>研究机を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
+<ResearchMenuWithoutBench>研究卓を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
 
 
 <!-- Advanced game start options -->
@@ -71,11 +74,15 @@
 <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
 <PermittedIngredients>レシピ</PermittedIngredients>
 <MinimumSkills>必要スキル：</MinimumSkills>
+  <BillRequires>必要とする {0} {1}</BillRequires>
+  <UsableIngredients>有効成分</UsableIngredients>
 <DoXTimes>X 回実行</DoXTimes>
 <DoUntilYouHaveX>X に達するまで実行</DoUntilYouHaveX>
 <DoForever>常に実行</DoForever>
 <BillRepeatTargetCountShort>{0} 回</BillRepeatTargetCountShort>
-
+  <BillStoreMode_DropOnFloor>床に置く</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>最良な保管庫に持って行く</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>一番近い保管庫に持って行く</BillStoreMode_NearestStockpileAnyPriority>
 
 <!-- Def Card -->
 <Type>タイプ</Type>
@@ -109,16 +116,45 @@
 <MinFoodQuality>食べられる最低食材</MinFoodQuality>
 <Diet>食性</Diet>
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
+  <baseMarketValue>標準小売価格</baseMarketValue>
+  <Covers>Covers</Covers>
+  <NaturalArmorCovers>Natural armor covers</NaturalArmorCovers>
+  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
 
 <!-- Trade -->
+  <DragToTrade>Drag to trade</DragToTrade>
+  <BuyPriceDesc>あなたが提示した 買い取り金額</BuyPriceDesc>
+  <SellPriceDesc>あなたが提示した 売却金額</SellPriceDesc>
+  <PriceTypeDesc>金額 {0}.</PriceTypeDesc>
+  <ColonyCount>コロニーが 貿易できるアイテム数\n\n 屋外に 設定されたビーコンの そばにあるアイテムだけを 売却することができます</ColonyCount>
+  <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
+  <AcceptButton>受諾</AcceptButton>
+  <ResetButton>リセット</ResetButton>
+  <CancelButton>中止</CancelButton>
 <YourTradeableSilver>取り引きできるシルバー： {0}</YourTradeableSilver>
 <YourTradeableSilverTip>貿易ビーコン 付近の 屋外に 備蓄した シルバーを 取り引きに つかうことが できます。</YourTradeableSilverTip>
+  <TraderHasNoMore>品切れ</TraderHasNoMore>
+  <ColonyHasNoMore>品切れ</ColonyHasNoMore>
+  <TraderWillNotTrade>貿易できない</TraderWillNotTrade>
 
 <!-- Comms -->
 <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
 
+  <!-- Stats report -->
+  <StatsReport_BaseValue>Base value</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
+  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Skill factors</StatsReport_Skills>
+  <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Health factors</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
 
-<!--Other-->
+
+  <!--Research-->
 <ResearchFinished>研究が完了した： {0}</ResearchFinished>
 <ResearchScreen>研究メニュー</ResearchScreen>
 

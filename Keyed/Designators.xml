@@ -10,8 +10,8 @@
 <DesignatorDeconstruct>解体</DesignatorDeconstruct>
 <DesignatorDeconstructDesc>建物を解体し、 その材料の 一部を 再利用します。</DesignatorDeconstructDesc>
 
-<DesignatorHarvestFood>収穫</DesignatorHarvestFood>
-<DesignatorHarvestFoodDesc>食材として 収穫できる 植物に 印をつけます。 食材は 可能な限り 収穫します。 収穫できない 植物は 残ります。</DesignatorHarvestFoodDesc>
+<DesignatorHarvest>収穫</DesignatorHarvest>
+<DesignatorHarvestDesc>食材として 収穫できる 植物に 印をつけます。 食材は 可能な限り 収穫します。 収穫できない 植物は 残ります。</DesignatorHarvestDesc>
 
 <DesignatorHarvestWood>伐採</DesignatorHarvestWood>
 <DesignatorHarvestWoodDesc>印をつけた 木を 切り倒し 木材に します。</DesignatorHarvestWoodDesc>
@@ -55,13 +55,17 @@
 <DesignatorZoneDelete>ゾーンを削除する</DesignatorZoneDelete>
 <DesignatorZoneDeleteDesc>備蓄ゾーン、 ゴミ捨て場ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
 
+  <DesignatorClaim>領有を主張</DesignatorClaim>
+  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
 
 
 <!-- placement of blueprints -->
+  <UnchosenStuff>Unchosen material</UnchosenStuff>
 <TooCloseToMapEdge>マップの はしに 近すぎます。</TooCloseToMapEdge>
 <OutOfBounds>範囲外 です。</OutOfBounds>
 <CannotPlaceInUndiscovered>未探索の場所に 配置することは できません。</CannotPlaceInUndiscovered>
 <InteractionSpotBlocked>相互作用スポットは遮断される。</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>相互作用スポットは 領域外です。</InteractionSpotOutOfBounds>
 <InteractionSpotWillBeBlocked>相互作用の場所はブロックされます。</InteractionSpotWillBeBlocked>
 <WouldBlockInteractionSpot>{0} は {1} により ブロックされます。</WouldBlockInteractionSpot>
 <TerrainIsAlready>この場所は、 すでに {0} です。</TerrainIsAlready>
@@ -69,6 +73,8 @@
 <IdenticalBlueprintExists>すでに 同じものを 指定しています。</IdenticalBlueprintExists>
 <TerrainCannotSupport>この場所に、 それを指定することはできません。</TerrainCannotSupport>
 <SpaceAlreadyOccupied>この場所は ふさがっています。</SpaceAlreadyOccupied>
+
+
 
 <!-- placement of zones -->
 <ExpandOrCreateZone>{0} を拡張するか\n新しく {1} を作ります</ExpandOrCreateZone>
