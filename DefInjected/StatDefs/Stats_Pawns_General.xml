@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<EatingSpeed.label>食事の早さ</EatingSpeed.label>
+	<EatingSpeed.description>スピード倍率</EatingSpeed.description>
+
+	<ComfyTemperatureMin.label>快適と感じる最低気温</ComfyTemperatureMin.label>
+	<ComfyTemperatureMin.description>この温度を下回ると、低体温、凍傷、そして死に至ります</ComfyTemperatureMin.description>
+
+	<ComfyTemperatureMax.label>快適と感じる最高気温 </ComfyTemperatureMax.label>
+	<ComfyTemperatureMax.description>この気温を上回ると、熱中症、そして死に至ります </ComfyTemperatureMax.description>
+
+</LanguageData>

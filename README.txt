@@ -1,4 +1,4 @@
-RimWorld-ja
+﻿RimWorld-ja
 ===========
 
 Japanese localization for RimWorld
