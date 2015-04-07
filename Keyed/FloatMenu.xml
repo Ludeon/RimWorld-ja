@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 
@@ -13,13 +13,13 @@
 <FireAt>{0} を 射撃</FireAt>
 
 <OutOfRange>範囲外</OutOfRange>
-<CannotHitTarget>対象に 命中しません</CannotHitTarget>
+<CannotHitTarget>対象が射線にいません</CannotHitTarget>
 <CannotFight>{0} は戦えません</CannotFight>
 
 <OrderManThing>Man {0}</OrderManThing>
 
 <MeleeAttack>{0} と 格闘</MeleeAttack>
-<MeleeAttackToDeath>{0} を 格闘で 殺害</MeleeAttackToDeath>
+<MeleeAttackToDeath>{0}を 格闘で殺害</MeleeAttackToDeath>
 <NoPath>道順がありません</NoPath>
 
 <ForbiddenLower>無視</ForbiddenLower>
@@ -49,7 +49,7 @@
   <CarryToCryptosleepCasket>冬眠カプセル に {0} を運ぶ</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>冬眠カプセル に 運べません</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>cryptosleep casket は無い</NoCryptosleepCasket>
+  <NoCryptosleepCasket>冬眠カプセルがありません</NoCryptosleepCasket>
 <NoPrisonerBed>石壁・メタル壁で 囲った 囚人用 ベッドが ありません。</NoPrisonerBed>
 <NoNonPrisonerBed>利用可能な 入植者用 ベッドが ありません</NoNonPrisonerBed>
 <Reserved>他の誰かが 使用しています。</Reserved>
