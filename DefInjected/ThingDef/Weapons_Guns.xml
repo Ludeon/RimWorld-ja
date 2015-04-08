@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
     <Gun_Pistol.label>ピストル</Gun_Pistol.label>
@@ -7,10 +7,43 @@
     <Bullet_PumpShotgun.label>散弾</Bullet_PumpShotgun.label>
     <Gun_PumpShotgun.label>ポンプ式散弾銃</Gun_PumpShotgun.label>
     <Gun_PumpShotgun.description>旧式な設計、威力は高いが射程は短いです</Gun_PumpShotgun.description>
+  
+<!-- ===============  SurvivalRifle  ==================== -->
 
-	<!-- ===================== L-15 LMG ========================= -->
+  <Bullet_SurvivalRifle.label>ライフル弾</Bullet_SurvivalRifle.label>
+  <Gun_SurvivalRifle.label>サバイバルライフル</Gun_SurvivalRifle.label>
+  <Gun_SurvivalRifle.description>旧式のボルトアクションライフル 長射程で命中精度が高いが連射性能が低い</Gun_SurvivalRifle.description>
 
-	<!-- ===================== R-4 charge rifle ========================= -->
+  <!-- ============================================== -->
+
+  <Bullet_AssaultRifle.label>弾丸 (アサルトライフル用)</Bullet_AssaultRifle.label>
+  <Gun_AssaultRifle.label>アサルトライフル</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.description>市街戦などに軍隊で使われる一般的な自動小銃 ３点バーストが可能 威力は低めだが連射が可能で長射程</Gun_AssaultRifle.description>
+
+  <!-- ============================================== -->
+
+  <Bullet_SniperRifle.label>弾丸 (狙撃用)</Bullet_SniperRifle.label>
+  <Gun_SniperRifle.label>スナイパーライフル</Gun_SniperRifle.label>
+  <Gun_SniperRifle.description>古くから狙撃に使われているボルトアクションの狙撃銃 長射程、高威力、高精度</Gun_SniperRifle.description>
+
+  <!-- ============================================== -->
+
+  <Bullet_PDW.label>PDW用弾</Bullet_PDW.label>
+  <Gun_PDW.label>PDW(個人防衛火器)</Gun_PDW.label>
+  <Gun_PDW.description>PDWはサブマシンガンとアサルトライフルの中間に位置する銃です。 射程は短いが、威力、連射力、貫通力に優れる</Gun_PDW.description>
+
+  <!-- ============================================== -->
+
+  <Bullet_HeavySMG.label>SMG用弾</Bullet_HeavySMG.label>
+  <Gun_HeavySMG.label>重サブマシンガン</Gun_HeavySMG.label>
+  <Gun_HeavySMG.description>大口径のサブマシンガン。短射程だが高い連射力と高い命中精度</Gun_HeavySMG.description>
+
+ 
+  <!-- ===================== Charge Rifle ========================= -->
+
+  <Bullet_ChargeRifle.label>エネルギー弾</Bullet_ChargeRifle.label>
+  <Gun_ChargeRifle.label>チャージライフル</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>エネルギーを充填してエネルギー弾を放つ</Gun_ChargeRifle.description>
 
 	<!-- ================ Improvised turret gun ============== -->
 	<Bullet_TurretImprovised.label>即席タレット弾頭</Bullet_TurretImprovised.label>
