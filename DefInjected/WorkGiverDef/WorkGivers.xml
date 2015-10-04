@@ -12,8 +12,8 @@
 	<PlantsCut.verb>剪断</PlantsCut.verb>
     <PlantsCut.gerund>剪断</PlantsCut.gerund>
 
-	<FightFires.verb>消化</FightFires.verb>
-    <FightFires.gerund>消化</FightFires.gerund>
+	<FightFires.verb>消火</FightFires.verb>
+    <FightFires.gerund>消火</FightFires.gerund>
 
 	<Warden.verb>監視</Warden.verb>
     <Warden.gerund>監視</Warden.gerund>
@@ -24,7 +24,19 @@
 	<PatientGoToBed.verb>PatientGoToBed_verb</PatientGoToBed.verb>
 	<PatientGoToBed.gerund>PatientGoToBed_gerund</PatientGoToBed.gerund>
 
-  <!-- ============= Cleaning ============= -->
+  <!-- ============= Animal handling ============= -->
+	<Slaughter.verb>捌く</Slaughter.verb>
+	<Slaughter.gerund>屠殺</Slaughter.gerund>
+	<Milk.verb>しぼる</Milk.verb>
+	<Milk.gerund>搾乳</Milk.gerund>
+	<Shear.verb>刈る</Shear.verb>
+	<Shear.gerund>毛刈り</Shear.gerund>
+	<Tame.verb>手なずける</Tame.verb>
+	<Tame.gerund>手なずける</Tame.gerund>
+	<Train.verb>調教する</Train.verb>
+	<Train.gerund>調教</Train.gerund>
+
+	<!-- ============= Cleaning ============= -->
 
 	<CleanClearSnow.verb>かく</CleanClearSnow.verb>
 	<CleanClearSnow.gerund>除雪</CleanClearSnow.gerund>
@@ -45,14 +57,17 @@
 	<Strip.verb>剥がす</Strip.verb>
 	<Strip.gerund>剥ぐ</Strip.gerund>
 
+	<Open.verb>暴く</Open.verb>
+	<Open.gerund>発掘</Open.gerund>
+
 	<DoBillsCremate.verb>燃やす</DoBillsCremate.verb>
     <DoBillsCremate.gerund>焼却</DoBillsCremate.gerund>
 
-	<HaulCorpses.verb>運ぶ</HaulCorpses.verb>
-    <HaulCorpses.gerund>運搬</HaulCorpses.gerund>
-
 	<HaulGeneral.verb>運ぶ</HaulGeneral.verb>
     <HaulGeneral.gerund>運搬</HaulGeneral.gerund>
+
+	<BuryCorpses.verb>bury</BuryCorpses.verb>
+    <BuryCorpses.gerund>burying</BuryCorpses.gerund>
 
   <!-- ============= Growing ============= -->
 
@@ -75,6 +90,9 @@
 	<DoctorTreatEmergency.verb>処置する</DoctorTreatEmergency.verb>
 	<DoctorTreatEmergency.gerund>処置</DoctorTreatEmergency.gerund>
 
+    <DoctorRescue.verb>rescue</DoctorRescue.verb>
+    <DoctorRescue.gerund>resuing</DoctorRescue.gerund>
+
 	<DoctorTreat.verb>処置する</DoctorTreat.verb>
 	<DoctorTreat.gerund>処置</DoctorTreat.gerund>
 
@@ -94,6 +112,9 @@
 
 	<Deconstruct.verb>解体</Deconstruct.verb>
     <Deconstruct.gerund>解体</Deconstruct.gerund>
+
+	<Uninstall.verb>uninstall</Uninstall.verb>
+    <Uninstall.gerund>uninstall解体</Uninstall.gerund>
 
 	<ConstructFinishFrames.verb>建造</ConstructFinishFrames.verb>
     <ConstructFinishFrames.gerund>建造</ConstructFinishFrames.gerund>
@@ -118,26 +139,26 @@
     <CookFillHopper.gerund>充填</CookFillHopper.gerund>
 
   <!-- ============= Crafting - art - sculpture ============= -->
-
+<!--
 	<FinishUnfinishedSculptures.verb>彫刻する</FinishUnfinishedSculptures.verb>
 	<FinishUnfinishedSculptures.gerund>彫刻</FinishUnfinishedSculptures.gerund>
-
+-->
 	<DoBillsSculpt.verb>彫刻する</DoBillsSculpt.verb>
 	<DoBillsSculpt.gerund>彫刻</DoBillsSculpt.gerund>
 
   <!-- ============= Crafting - weapons ============= -->
-
+<!--
 	<FinishUnfinishedWeapons.verb>組み立てる</FinishUnfinishedWeapons.verb>
 	<FinishUnfinishedWeapons.gerund>組立</FinishUnfinishedWeapons.gerund>
-
+-->
 	<DoBillsMakeWeapons.verb>組み立てる</DoBillsMakeWeapons.verb>
 	<DoBillsMakeWeapons.gerund>組立</DoBillsMakeWeapons.gerund>
 
   <!-- ============= Crafting - apparel ============= -->
-
+<!--
 	<FinishUnfinishedApparel.verb>仕立てる</FinishUnfinishedApparel.verb>
 	<FinishUnfinishedApparel.gerund>仕立て</FinishUnfinishedApparel.gerund>
-
+-->
 	<DoBillsMakeApparel.verb>仕立てるDoBillsMakeApparel</DoBillsMakeApparel.verb>
 	<DoBillsMakeApparel.gerund>仕立て</DoBillsMakeApparel.gerund>
 

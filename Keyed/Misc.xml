@@ -10,7 +10,7 @@
 <ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます。</ChangeLanguageFromMainMenu>
 
 <AndLower>と</AndLower>
-<DisabledLower>禁止</DisabledLower>
+<DisabledLower>スキル無し</DisabledLower>
 
 <CloseButton>閉じる</CloseButton>
 
@@ -18,7 +18,6 @@
 <VersionIndicator>Version {0}</VersionIndicator>
 <DevelopmentBuildLower>development build</DevelopmentBuildLower>
 <CompiledOn>Compiled {0}</CompiledOn>
-
 
 
   <!-- Content generation-->
@@ -48,6 +47,10 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
+  <!-- To express ownership. -->
+  <!-- For example Jack's Bedroom -->
+  <SomeonesSomething>{0}'s {1}</SomeonesSomething>
+  
   <VariousLabel>(色々な)</VariousLabel>
 
 <!-- History events -->

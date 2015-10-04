@@ -53,6 +53,12 @@
   <DesignatorAreaSnowClearClear>除雪を取り消す</DesignatorAreaSnowClearClear>
   <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します、もうそこを入植者は雪かきしません</DesignatorAreaSnowClearClearDesc>
 
+  <DesignatorExpandAreaAllowed>作業ゾーンを指定</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>作業ゾーンを 取り消す</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
+  <ManageAreaAlloweds>作業ゾーンの管理</ManageAreaAlloweds>
+
 <DesignatorGrowingZoneDesc>このゾーンで、 入植者は 特定の 植物を 栽培しようと します。</DesignatorGrowingZoneDesc>
 
 <DesignatorZoneCreateStorageResourcesDesc>入植者が 材料を 備蓄する場所を 指定します。\nこのツールで、 備蓄場所を 拡大し、 備蓄できる 材料の 量を 増やすことが できます。</DesignatorZoneCreateStorageResourcesDesc>
@@ -74,11 +80,14 @@
   <DesignatorRearmTrap>罠のリセット</DesignatorRearmTrap>
   <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます</DesignatorRearmTrapDesc>
 
-  <DesignatorExpandAreaAllowed>作業ゾーンを指定</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>作業ゾーンを 取り消す</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
-  <ManageAreaAlloweds>作業ゾーンの管理</ManageAreaAlloweds>
+  <DesignatorOpen>開ける</DesignatorOpen>
+  <DesignatorOpenDesc>墓を曝いたり、コンテナを開けます</DesignatorOpenDesc>
+
+  <DesignatorSlaughter>屠殺</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>家畜を屠殺する</DesignatorSlaughterDesc>
+
+  <DesignatorTame>飼いならす</DesignatorTame>
+  <DesignatorTameDesc>野生動物を飼いならす</DesignatorTameDesc>
 
 
   <!-- Failure messages -->
@@ -97,7 +106,6 @@
 <TerrainCannotSupport>この場所に、 それを指定することはできません。</TerrainCannotSupport>
 <SpaceAlreadyOccupied>この場所は ふさがっています。</SpaceAlreadyOccupied>
   <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
-
 
 
 <!-- placement of zones -->
