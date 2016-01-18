@@ -47,8 +47,8 @@
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
 <WandererJoin>NAME という名前の {0} が 到着し 村の 仲間に くわわりました。</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>人間狩り集団</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>人間を狩る集団 {0} がやって来ました。彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
 
 <!-- Crashed ship part-->
 <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスで ちかくの動物に 狂気を  照射しました。</MessageAnimalInsanityPulse>
@@ -84,17 +84,17 @@
   <RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} self-tamed</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0} has become tame.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} has become tame. It is now designated {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {1}.</LetterAnimalSelfTameAndName>
+  <LetterLabelAnimalSelfTame>{0} ひとなつっこく寄ってきた</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} 飼いなれた</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} は人なつっこく寄ってきた. 仮に {1}とした</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0}は人なつっこく寄ってきた。入植者達は {1}と名付けた</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0}s join</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+  <LetterLabelThrumboPasses>希少なスランボ</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>スランボの小さな群れが、このエリアに入り込んできました。\n\n基本的には大人しいですが、この希少な生き物と対決するときは非常に危険です。幾人かの貿易商は、これらの貴重な毛皮と角に多額の報酬を払うでしょう。\n\nスランボ達は数日で、ここから出て行くでしょう。</LetterThrumboPasses>
 
 </LanguageData>
