@@ -2,9 +2,9 @@
 <LanguageData>
 
     <!--============= Item hauling ===============-->
-    <HaulToCell.reportString>TargetA を搬送中</HaulToCell.reportString>
+    <HaulToCell.reportString>TargetA を運搬中</HaulToCell.reportString>
 
-    <HaulToContainer.reportString>TargetA を搬送中</HaulToContainer.reportString>
+    <HaulToContainer.reportString>TargetA を運搬中</HaulToContainer.reportString>
 
     <!--============= Pawn hauling ===============-->
     <Rescue.reportString>TargetA を救助中</Rescue.reportString>
@@ -21,7 +21,7 @@
 
     <TakeWoundedPrisonerToBed.reportString>TargetA を救護中</TakeWoundedPrisonerToBed.reportString>
 
-    <TakeToBedToOperate.reportString>TargetA を手術台に搬送中</TakeToBedToOperate.reportString>
+    <TakeToBedToOperate.reportString>TargetA を診察台に搬送中</TakeToBedToOperate.reportString>
 
     <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
 
