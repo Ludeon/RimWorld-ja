@@ -7,16 +7,25 @@
 	</rep>
 	<rep>
 		<path>Imprisoned.stages[0].description</path>
-		<trans>閉じ込めるなんて最低！</trans>
+		<trans>閉じ込められるのは、ごめんだ！</trans>
 	</rep>
 
 	<rep>
 		<path>SharedBedroom.stages[0].label</path>
-		<trans>個室が欲しい</trans>
+		<trans>相部屋</trans>
 	</rep>
 	<rep>
 		<path>SharedBedroom.stages[0].description</path>
 		<trans>相部屋はイライラさせられる、プライバシーを保護してほしい。</trans>
+	</rep>
+
+	<rep>
+		<path>SharedBed.stages[0].label</path>
+		<trans>ベッドシェア</trans>
+	</rep>
+	<rep>
+		<path>SharedBed.stages[0].description</path>
+		<trans>他の誰かとベッドを共有しなければならないなんて、もう絶対に嫌です。</trans>
 	</rep>
 
 	<rep>
@@ -30,11 +39,11 @@
 
 	<rep>
 		<path>Naked.stages[0].label</path>
-		<trans>恥辱</trans>
+		<trans>裸</trans>
 	</rep>
 	<rep>
 		<path>Naked.stages[0].description</path>
-		<trans>一枚の布も身につけていない姿を、屈辱的と感じている。</trans>
+		<trans>私は裸。とても屈辱的だ。</trans>
 	</rep>
 
 
@@ -44,7 +53,7 @@
 	</rep>
 	<rep>
 		<path>Pain.stages[0].description</path>
-		<trans>ん？痛いかな。</trans>
+		<trans>ん？なにか痛い。</trans>
 	</rep>
 	<rep>
 		<path>Pain.stages[1].label</path>
@@ -52,7 +61,7 @@
 	</rep>
 	<rep>
 		<path>Pain.stages[1].description</path>
-		<trans>ううう、痛みが止むのはいつだろう。</trans>
+		<trans>ううう、いつ痛みが止むのだろう?</trans>
 	</rep>
 	<rep>
 		<path>Pain.stages[2].label</path>
@@ -68,7 +77,7 @@
 	</rep>
 	<rep>
 		<path>Pain.stages[3].description</path>
-		<trans>痛い!!!、どうか、私を殺して!!!</trans>
+		<trans>痛い!!!、今すぐ殺して!!!</trans>
 	</rep>
 
 </LanguageData>

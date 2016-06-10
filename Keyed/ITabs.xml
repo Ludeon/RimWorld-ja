@@ -15,7 +15,9 @@
 	<TabRace>種族</TabRace>
 	<TabBasics>Basics</TabBasics>
 	<TabStats>状態</TabStats>
-    <TabArt>芸術</TabArt>
+	<TabRecords>記録</TabRecords>
+	<TabArt>芸術</TabArt>
+	<TabSocial>社交</TabSocial>
 
 
 	<!-- Bills tab  -->
@@ -66,7 +68,10 @@
 	<MedicalOperations>外科手術</MedicalOperations>
 	<Amputate>切断手術</Amputate>
 	<Harvest>摘出</Harvest>
-
+	<MemoryLower>記憶</MemoryLower>
+	<SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
+	<HungerRate>空腹率</HungerRate>
+	<Tiredness>疲れ</Tiredness>
 
 
 	<!-- Medical - Body and activities condition -->
@@ -87,11 +92,21 @@
 
 
   <!-- Training tab-->
-  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <TrainableIntelligence>賢さ</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>必要とする賢さ {0}</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
 
-  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
+
+   <!-- Social tab -->
+<NoRelationships>(無関係)</NoRelationships>
+<Kidnapped>誘拐</Kidnapped>
+<Slave>奴隷</Slave>
+<FactionLeader>Faction leader</FactionLeader>
+<OpinionOf>{0} への評価</OpinionOf>
+<SomeonesOpinionOfMe>{0}がする 私への評価</SomeonesOpinionOfMe>
+<IAmDead>I'm dead</IAmDead>
+<IAmPsychopath>I'm a psychopath</IAmPsychopath>
 
 
 

@@ -6,14 +6,6 @@
 <Lit>明るい</Lit>
 <LitBrightly>陽があたる</LitBrightly>
 
-
-<!-- diet type -->
-<NeverEats>餌を取らない</NeverEats>
-<Omnivorous>雑食性</Omnivorous>
-<Herbivorous>草食性</Herbivorous>
-<Carnivorous>肉食性</Carnivorous>
-  <Dendrovorous>樹食性</Dendrovorous>
-
 <!-- history upload pref -->
 <Unspecified>未定</Unspecified>
 <Always>許可</Always>
@@ -25,6 +17,19 @@
   <PriceTypeNormal>通常</PriceTypeNormal>
   <PriceTypeExpensive>高価</PriceTypeExpensive>
   <PriceTypeExorbitant>法外</PriceTypeExorbitant>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>野菜・果物</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>生肉</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>死肉</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>種子</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>畜産物</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>草・牧草</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>樹皮・樹木</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>食事</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>調理された料理</FoodTypeFlags_Processed>
+  <FoodTypeFlags_NutritionalDrug>アルコール飲料</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_AnimalKibble>ペットフード</FoodTypeFlags_AnimalKibble>
 
   <!-- Quality category -->
   <QualityCategory_Awful>壊れかけ</QualityCategory_Awful>
@@ -47,17 +52,18 @@
   <QualityCategoryShort_Masterwork>名</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>幻</QualityCategoryShort_Legendary>
 
+
   <!-- Hunger -->
   <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>飢餓</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>空腹</HungerLevel_Hungry>
-  <HungerLevel_Fed>食べた</HungerLevel_Fed>
+  <HungerLevel_Fed>食事</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <HungerLevel_Exhausted>疲労困憊</HungerLevel_Exhausted>
   <HungerLevel_VeryTired>とても疲れた</HungerLevel_VeryTired>
   <HungerLevel_Tired>疲れた</HungerLevel_Tired>
-  <HungerLevel_Rested>休んだ</HungerLevel_Rested>
+  <HungerLevel_Rested>休息</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <Hilliness_Flat>平坦</Hilliness_Flat>
@@ -76,10 +82,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>None</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>Simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>Intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>Advanced</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_None>適性無し</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>単純</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>中程度</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>高度</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>治療しない</MedicalCareCategory_NoCare>
@@ -88,7 +94,15 @@
   <MedicalCareCategory_NormalOrWorse>看護する(医薬品まで投与)</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>最善の治療をする</MedicalCareCategory_Best>
 
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>無視</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>攻撃</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>逃避</HostilityResponseMode_Flee>
 
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>増大</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>安定</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>沈静</HediffGrowthMode_Remission>
 
 
 </LanguageData>

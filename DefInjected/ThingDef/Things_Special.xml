@@ -3,6 +3,8 @@
 
 	<RectTrigger.label>RectTrigger</RectTrigger.label>
 
+	<Explosion.label>爆発</Explosion.label>
+
 	<Puddle_Fuel.label>燃料</Puddle_Fuel.label>
 	<Puddle_Fuel.description>火気厳禁</Puddle_Fuel.description>
 
@@ -12,19 +14,5 @@
 	<Fire.label>火事</Fire.label>
 
 	<Spark.label>火花!!</Spark.label>
-
-  <!-- ======================= Unfinished things ========================= -->
-
-	<UnfinishedSculpture.label>彫刻(未完成)</UnfinishedSculpture.label>
-
-	<UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>
-
-	<UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
-
-  <!-- ======================= Minified things ========================= -->
-
-	<MinifiedSculpture.label>彫刻(梱包)</MinifiedSculpture.label>
-
-	<MinifiedFurniture.label>家具(梱包)</MinifiedFurniture.label>
 
 </LanguageData>

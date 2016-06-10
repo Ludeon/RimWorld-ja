@@ -8,7 +8,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[0].description</path>
-		<trans>NAMEは、どこかに行ったかと思えば、いつもグループから遅れています。</trans>
+		<trans>NAMEは、どこに行ったかと思えば、いつもグループから遅れた所にいます。</trans>
 	</rep>
 
 	<rep>
@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[0].description</path>
-		<trans>NAMEは酒の虜です。HECAPはありったけの酒を呑み、どんちゃん騒ぎをする傾向が強いでしょう。</trans>
+		<trans>NAMEは酒の虜です。 HECAPはありったけの酒を呑み どんちゃん騒ぎをする傾向が 強いでしょう。</trans>
 	</rep>
 
 	<rep>
@@ -47,10 +47,9 @@
 		<path>DrugDesire.degreeDatas[1].description</path>
 		<trans>NAMEは無類の酒好きです。HECAPは、ありったけの酒を呑み、どんちゃん騒ぎをする傾向が強いでしょう。</trans>
 	</rep>
-
 	<rep>
 		<path>DrugDesire.degreeDatas[2].label</path>
-		<trans>酒嫌い</trans>
+		<trans>禁酒主義</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].description</path>
@@ -185,7 +184,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[3].description</path>
-		<trans>NAMEは、だらだらしてるのが好きです。物を作るのが嫌いです。 HIS歩みもゆっくりで、作業場の前で集中するなんてことは珍しい事です。</trans>
+		<trans>NAMEは、だらだらしてるのが好きです。物を作るのが嫌いです。 HIS歩みもゆっくりで、作業場で集中している姿を見ることは珍しいです。</trans>
 	</rep>
 
 	<!--> PsychicSensitivity <-->
@@ -258,4 +257,41 @@
 		<path>TemperaturePreference.degreeDatas[3].description</path>
 		<trans>NAME's は高い気温を好み、低い気温は好みません。</trans>
 	</rep>
+
+	<!--> Trriger-Happy <-->
+	<rep>
+		<path>ShootingAccuracy.degreeDatas[0].label</path>
+		<trans>慎重な射手</trans>
+	</rep>
+	<rep>
+		<path>ShootingAccuracy.degreeDatas[0].description</path>
+		<trans>NAMEは、いっぱしのガンマンです。しかし、HEは、HIS目標を狙うときには慎重になるので、ちょっと余計に時間がかかります。</trans>
+	</rep>
+	<rep>
+		<path>ShootingAccuracy.degreeDatas[1].label</path>
+		<trans>トリガーハッピー</trans>
+	</rep>
+	<rep>
+		<path>ShootingAccuracy.degreeDatas[1].description</path>
+		<trans>バン！バン！ NAMEは射撃が下手です。しかし、HEは気にしません、なぜなら銃こそが最高だからです。</trans>
+	</rep>
+
+	<!--> Prettiness -->
+	<rep>
+		<path>Prettiness.degreeDatas[0].label</path>
+		<trans>美男美女</trans>
+	</rep>
+	<rep>
+		<path>Prettiness.degreeDatas[0].description</path>
+		<trans>NAME の美しさは際立っていて、誰もが HIM を好きになります。</trans>
+	</rep>
+	<rep>
+		<path>Prettiness.degreeDatas[1].label</path>
+		<trans>醜男醜女</trans>
+	</rep>
+	<rep>
+		<path>Prettiness.degreeDatas[1].description</path>
+		<trans>NAME は、驚くほど醜いので つまはじきにされます。</trans>
+	</rep>
+
 </LanguageData>

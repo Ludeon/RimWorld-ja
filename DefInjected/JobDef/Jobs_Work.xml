@@ -25,6 +25,7 @@
 
     <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
 
+    <TendPatient.reportString>TargetA に貢献中</TendPatient.reportString>
 
     <!-- ==== Animal handlinkg ==== -->
     <Slaughter.reportString>TargetA を屠殺中</Slaughter.reportString>
@@ -36,8 +37,6 @@
 	<DeliverFood.reportString>TargetA が TargetB に給仕中</DeliverFood.reportString>
 
     <FeedPatient.reportString>TargetA が TargetB に給仕中</FeedPatient.reportString>
-
-	<TreatPatient.reportString>TargetA を治療中</TreatPatient.reportString>
 
     <PlaceNoCostFrame.reportString>TargetA を建設中</PlaceNoCostFrame.reportString>
 
@@ -58,6 +57,8 @@
 	<RemoveFloor.reportString>床を剥がしている</RemoveFloor.reportString>
 
     <Repair.reportString>TargetA を修理中</Repair.reportString>
+
+    <FixBrokenDownBuilding.reportString>TargetA の壊れたコンポーネントを交換中</FixBrokenDownBuilding.reportString>
 
     <FinishFrame.reportString>TargetA を仕上げ中</FinishFrame.reportString>
 

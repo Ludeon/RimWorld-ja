@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- close family -->
+
+    <Parent.label>父</Parent.label>
+    <Parent.labelFemale>母</Parent.labelFemale>
+
+    <Child.label>息子</Child.label>
+    <Child.labelFemale>息女</Child.labelFemale>
+
+    <Sibling.label>兄弟</Sibling.label>
+    <Sibling.labelFemale>姉妹</Sibling.labelFemale>
+
+    <HalfSibling.label>異母兄弟</HalfSibling.label>
+    <HalfSibling.labelFemale>異母姉妹</HalfSibling.labelFemale>
+
+    <Grandparent.label>祖父</Grandparent.label>
+    <Grandparent.labelFemale>祖母</Grandparent.labelFemale>
+
+    <Grandchild.label>孫息子</Grandchild.label>
+    <Grandchild.labelFemale>孫息女</Grandchild.labelFemale>
+
+    <NephewOrNiece.label>甥</NephewOrNiece.label>
+    <NephewOrNiece.labelFemale>姪</NephewOrNiece.labelFemale>
+
+    <UncleOrAunt.label>叔父</UncleOrAunt.label>
+    <UncleOrAunt.labelFemale>叔母</UncleOrAunt.labelFemale>
+
+    <Cousin.label>親戚</Cousin.label>
+
+  <!-- distant family -->
+
+    <GreatGrandparent.label>曾祖父</GreatGrandparent.label>
+    <GreatGrandparent.labelFemale>曾祖母</GreatGrandparent.labelFemale>
+
+    <GreatGrandchild.label>曾孫息子</GreatGrandchild.label>
+    <GreatGrandchild.labelFemale>曾孫息女</GreatGrandchild.labelFemale>
+
+    <GranduncleOrGrandaunt.label>おお叔父</GranduncleOrGrandaunt.label>
+    <GranduncleOrGrandaunt.labelFemale>おお叔母</GranduncleOrGrandaunt.labelFemale>
+
+    <GrandnephewOrGrandniece.label>兄弟姉妹の孫息子</GrandnephewOrGrandniece.label>
+    <GrandnephewOrGrandniece.labelFemale>兄弟姉妹の孫息女</GrandnephewOrGrandniece.labelFemale>
+
+    <CousinOnceRemoved.label>一度、離れた縁者</CousinOnceRemoved.label>
+
+    <SecondCousin.label>二度目の縁者</SecondCousin.label>
+
+  <!-- kin -->
+
+    <Kin.label>血縁</Kin.label>
+
+</LanguageData>
