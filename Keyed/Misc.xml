@@ -19,14 +19,26 @@
 <DevelopmentBuildLower>development build</DevelopmentBuildLower>
 <CompiledOn>Compiled {0}</CompiledOn>
 
+  <!-- General-use words -->
+  <Yes>Yes</Yes>
+  <No>No</No>
+  <min>最小</min>
+  <max>最大</max>
+  <chance>確率</chance>
+  <context>コンテキスト</context>
+  <multiplier>倍率</multiplier>
+  <damage>ダメージ</damage>
+  <radius>半径</radius>
+  <durationDays>所要時間 (日)</durationDays>
 
   <!-- Content generation-->
 
 <MeatLabel>{0} の肉</MeatLabel>
-<MeatDesc>{0} の新鮮な生肉</MeatDesc>
+  <MeatDesc>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</MeatDesc>
 
 <LeatherLabel>{0} の革</LeatherLabel>
-<LeatherDesc>{0} の皮から作った革</LeatherDesc>
+  <LeatherDesc>なめされて、乾燥した切り抜かれた皮。バッグや衣服を作るのに適した伝統的な素材です。</LeatherDesc>
+
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>
@@ -47,7 +59,7 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-	
+
     <!-- To express ownership. -->
     <!-- For example Jack's Bedroom -->
 	<SomeonesRoom>{0} の {1}</SomeonesRoom>

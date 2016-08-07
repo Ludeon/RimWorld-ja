@@ -138,7 +138,7 @@
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[0].description</path>
-		<trans>NAMEは事態に備えることが好きです。HECAPは物事を成し遂げるのに 他の人より多くの苦労しますが、HIS 神経質なところは、彼の良いところを引き出します。</trans>
+		<trans>NAMEは、事態に備えることが好きです。 HECAPは物事を成し遂げるのに、 他の人より多くの苦労しますが、 HIS 神経質なところは、 彼の良いところを引き出します。</trans>
 	</rep>
 
  	<rep>
@@ -255,7 +255,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[3].description</path>
-		<trans>NAME's は高い気温を好み、低い気温は好みません。</trans>
+		<trans>NAME's は高い気温を好み、 低い気温は好みません。</trans>
 	</rep>
 
 	<!--> Trriger-Happy <-->
@@ -276,22 +276,37 @@
 		<trans>バン！バン！ NAMEは射撃が下手です。しかし、HEは気にしません、なぜなら銃こそが最高だからです。</trans>
 	</rep>
 
-	<!--> Prettiness -->
 	<rep>
-		<path>Prettiness.degreeDatas[0].label</path>
-		<trans>美男美女</trans>
+		<path>Beauty.degreeDatas[0].label</path>
+		<trans>美しい</trans>
 	</rep>
 	<rep>
-		<path>Prettiness.degreeDatas[0].description</path>
-		<trans>NAME の美しさは際立っていて、誰もが HIM を好きになります。</trans>
+		<path>Beauty.degreeDatas[0].description</path>
+		<trans>NAMEは視線を釘付けにする魅惑的で親しみやすい顔を持ち、非常に美しいです。人々はHEが口を開く前からHEに魅了されています。</trans>
 	</rep>
 	<rep>
-		<path>Prettiness.degreeDatas[1].label</path>
-		<trans>醜男醜女</trans>
+		<path>Beauty.degreeDatas[1].label</path>
+		<trans>可愛い</trans>
 	</rep>
 	<rep>
-		<path>Prettiness.degreeDatas[1].description</path>
-		<trans>NAME は、驚くほど醜いので つまはじきにされます。</trans>
+		<path>Beauty.degreeDatas[1].description</path>
+		<trans>NAMEは、人々に好かれる可愛らしい顔を持っています.</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[2].label</path>
+		<trans>醜い</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[2].description</path>
+		<trans>NAMEは醜いです。これは人々の関わりの中で相手に多少の不快感を与えます。</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[3].label</path>
+		<trans>ひどく醜い</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[3].description</path>
+		<trans>NAMEは驚くほど醜いです。 HISCAP顔は才能のない子供が描いた絵、防腐剤入りの瓶に詰められた奇形の胎児、そして現代アートの作品らを足して割ったように見えます。会話の最中、相手はHEを見るのに意識して努力をしなければなりません。</trans>
 	</rep>
 
 </LanguageData>

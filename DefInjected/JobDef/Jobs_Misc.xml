@@ -6,7 +6,7 @@
 
     <GotoSafeTemperature.reportString>適温な場所を探している</GotoSafeTemperature.reportString>
 
-    <GotoWander.reportString>うろついている</GotoWander.reportString>
+    <GotoWander.reportString>うろうろしている</GotoWander.reportString>
 
     <Wait.reportString>ぼんやりしている</Wait.reportString>
 
@@ -21,6 +21,8 @@
     <AttackStatic.reportString>TargetA を攻撃中</AttackStatic.reportString>
 
     <AttackMelee.reportString>TargetA と格闘中</AttackMelee.reportString>
+
+    <SocialFight.reportString>TargetA とケンカ中</SocialFight.reportString>
 
     <UseVerbOnThing.reportString>Verb を使用中</UseVerbOnThing.reportString>
 

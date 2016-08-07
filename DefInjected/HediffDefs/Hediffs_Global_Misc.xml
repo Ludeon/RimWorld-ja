@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BloodLoss.label>失血</BloodLoss.label>
+	<rep>
+		<path>BloodLoss.stages[0].label</path>
+		<trans>ささいな</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stages[1].label</path>
+		<trans>少量</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stages[2].label</path>
+		<trans>中程度</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stages[3].label</path>
+		<trans>多量</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stages[4].label</path>
+		<trans>致死量</trans>
+	</rep>
+
+	<Anesthetic.label>麻酔</Anesthetic.label>
+
+	<Concussion.label>脳しんとう</Concussion.label>
+
+	<PsychicShock.label>サイキックショック</PsychicShock.label>
+	<CryptosleepSickness.label>冷凍睡眠病</CryptosleepSickness.label>
+
+	<FoodPoisoning.label>食中毒</FoodPoisoning.label>
+
+	<ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>
+	<rep>
+		<path>ToxicBuildup.stages[0].label</path>
+		<trans>症状なし</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[1].label</path>
+		<trans>初期</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[2].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[3].label</path>
+		<trans>中度</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[4].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[5].label</path>
+		<trans>極度</trans>
+	</rep>
+
+	<Pregnant.label>妊娠</Pregnant.label>
+	<rep>
+		<path>Pregnant.stages[0].label</path>
+		<trans>自覚なし</trans>
+	</rep>
+	<rep>
+		<path>Pregnant.stages[1].label</path>
+		<trans>中期</trans>
+	</rep>
+	<rep>
+		<path>Pregnant.stages[2].label</path>
+		<trans>臨月</trans>
+	</rep>
+
+	<HeartAttack.label>心筋梗塞</HeartAttack.label>
+	<rep>
+		<path>HeartAttack.stages[0].label</path>
+		<trans>苦痛</trans>
+	</rep>
+	<rep>
+		<path>HeartAttack.stages[1].label</path>
+		<trans>衰弱</trans>
+	</rep>
+	<rep>
+		<path>HeartAttack.stages[2].label</path>
+		<trans>致命的</trans>
+	</rep>
+
+</LanguageData>

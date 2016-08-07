@@ -10,6 +10,7 @@
   <!-- Gameplay -->
   <EdgeScreenScroll>画面端カーソルで移動</EdgeScreenScroll>
   <PauseOnLoad>ロード時は一時停止</PauseOnLoad>
+  <PauseOnUrgentLetter>緊急メッセージ時に一時停止</PauseOnUrgentLetter>
   <CustomCursor>ゲーム用カーソル</CustomCursor>
   <KeyboardConfig>キーボード設定</KeyboardConfig>
   <ChooseLanguage>言語</ChooseLanguage>
@@ -18,7 +19,7 @@
   <AdaptiveTutorIsReset>チュートリアルがリセットされ、最初から はじまります。</AdaptiveTutorIsReset>
   <RunInBackground>バックグラウンド実行</RunInBackground>
   <DevelopmentMode>開発者モード</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>ゲームクラッシュ時に、MODをリセットする</ResetModsConfigOnCrash>
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <OpenSaveGameDataFolder>データ の格納フォルダ</OpenSaveGameDataFolder>
   <NamesYouWantToSee>キャラ背景や ゲーム中に 登場させたい 名前：</NamesYouWantToSee>

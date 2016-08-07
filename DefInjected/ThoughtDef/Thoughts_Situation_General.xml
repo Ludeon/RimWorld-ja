@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>LowExpectations.stages[0].label</path>
+		<trans>将来への意気込み</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[0].description</path>
+		<trans>この土地はまったく豊かとはいえない。私の思い通りには、いかないということか。</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[1].label</path>
+		<trans>希望が低い将来への意気込み</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[1].description</path>
+		<trans>この土地には、多くの満足をもたらす富があるとは思えない。だからこそ、心を強く保たなければ…</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[2].label</path>
+		<trans>希望が非常に低い将来への意気込み</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[2].description</path>
+		<trans>この土地は非常に貧しい、ここで豊かに暮らせるとは期待できない。だからこそ、心を強く持たなければ…</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[3].label</path>
+		<trans>希望が極めて低い将来への意気込み</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[3].description</path>
+		<trans>I'm out here with little to no shelter.だからこそ、生きのびるには、鋼の心でとりかからないと..</trans>
+	</rep>
+
+
+	<rep>
+		<path>EnvironmentDark.stages[0].label</path>
+		<trans>闇の中にいた</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentDark.stages[0].description</path>
+		<trans>一時の間、暗闇の中にいた。きにくわない。</trans>
+	</rep>
+
+
+	<rep>
+		<path>CabinFever.stages[0].label</path>
+		<trans>キャビンフィーバー(軽度)</trans>
+	</rep>
+	<rep>
+		<path>CabinFever.stages[0].description</path>
+		<trans>もう何日も室内にいる。私は外に出たい。</trans>
+	</rep>
+	<rep>
+		<path>CabinFever.stages[1].label</path>
+		<trans>キャビンフィーバー(重大)</trans>
+	</rep>
+	<rep>
+		<path>CabinFever.stages[1].description</path>
+		<trans>もうかなり長いこと、ネズミの様に捕らえられたままだ。外に出してくれ！気が狂いそうだ。</trans>
+	</rep>
+
+
+	<rep>
+		<path>ApparelDamaged.stages[0].label</path>
+		<trans>すり切れた服を着ている</trans>
+	</rep>
+	<rep>
+		<path>ApparelDamaged.stages[0].description</path>
+		<trans>私の格好は、ちょっとひどい。もう少し身なりを整えることはできないのだろうか？</trans>
+	</rep>
+	<rep>
+		<path>ApparelDamaged.stages[1].label</path>
+		<trans>ボロボロの服を着ている</trans>
+	</rep>
+	<rep>
+		<path>ApparelDamaged.stages[1].description</path>
+		<trans>私はぼろをまとっている。もう少し身なりを整えることはできないのだろうか？</trans>
+	</rep>
+
+
+	<rep>
+		<path>Sick.stages[0].label</path>
+		<trans>病気になった</trans>
+	</rep>
+	<rep>
+		<path>Sick.stages[0].description</path>
+		<trans>気分が悪い、病気のようだ。</trans>
+	</rep>
+
+
+	<rep>
+		<path>EnvironmentCold.stages[0].label</path>
+		<trans>寒い</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentCold.stages[0].description</path>
+		<trans>寒くて不快だ。</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentCold.stages[1].label</path>
+		<trans>とても寒い</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentCold.stages[1].description</path>
+		<trans>とても寒いうえに、暖房が無くガタガタ震えている。</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentCold.stages[2].label</path>
+		<trans>凍ってしまう！</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentCold.stages[2].description</path>
+		<trans>歯がガチガチと強く鳴っていて、ほとんど話すことができない、足の指先はかじかんでいる。直ぐに暖房が必要だ。</trans>
+	</rep>
+
+
+	<rep>
+		<path>EnvironmentHot.stages[0].label</path>
+		<trans>暑い</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentHot.stages[0].description</path>
+		<trans>暑く、汗をかいていて不快だ。</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentHot.stages[1].label</path>
+		<trans>とても暑い</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentHot.stages[1].description</path>
+		<trans>身体がオーバーヒートしている。</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentHot.stages[2].label</path>
+		<trans>極度に暑い</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentHot.stages[2].description</path>
+		<trans>オーブンの中にいる気分だ、どの位耐えられるかわからない。</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentHot.stages[3].label</path>
+		<trans>熱中症</trans>
+	</rep>
+	<rep>
+		<path>EnvironmentHot.stages[3].description</path>
+		<trans>体が燃えているようだ。この暑さで死んでしまうだろう。</trans>
+	</rep>
+
+</LanguageData>

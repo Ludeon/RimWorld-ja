@@ -2,32 +2,32 @@
 <LanguageData>
 
 <DesignatorCancel>キャンセル</DesignatorCancel>
-<DesignatorCancelDesc>指示した、建物の作成、 採掘、 アイテムの運搬、 食材の収穫などを中止します。</DesignatorCancelDesc>
+<DesignatorCancelDesc>建物の作成、採掘、アイテムの運搬、食材の収穫など 指示したことを中止します。</DesignatorCancelDesc>
 
 <DesignatorCutPlants>刈り取り</DesignatorCutPlants>
-<DesignatorCutPlantsDesc>印をつけた 植物は すべて 刈り取られます。 それが 食材であれば 収穫されます。</DesignatorCutPlantsDesc>
+<DesignatorCutPlantsDesc>印をつけた 植物は すべて 刈り取られます。植物は完全に取り除かれ、 それが 食材であれば 収穫されます。</DesignatorCutPlantsDesc>
 
 <DesignatorDeconstruct>解体</DesignatorDeconstruct>
 <DesignatorDeconstructDesc>建物を解体し、 その材料の 一部を 再利用します。</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>撤去</DesignatorUninstall>
-  <DesignatorUninstallDesc>移設することができます。撤去した状態で、売買や、別の場所に再展示できます。</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>撤去した物は、移設や、売却、別の場所に再展示できるようになります。</DesignatorUninstallDesc>
 
 <DesignatorHarvest>収穫</DesignatorHarvest>
-<DesignatorHarvestDesc>食材として 収穫できる 植物に 印をつけます。 食材は 可能な限り 収穫します。 収穫できない 植物は 残ります。</DesignatorHarvestDesc>
+<DesignatorHarvestDesc>印をつけた 植物は すべて 食料や、他の食材として 収穫されます。</DesignatorHarvestDesc>
 
 <DesignatorHarvestWood>伐採</DesignatorHarvestWood>
 <DesignatorHarvestWoodDesc>印をつけた 木を 切り倒し 木材に します。</DesignatorHarvestWoodDesc>
 
 <DesignatorHaulThings>運搬</DesignatorHaulThings>
-<DesignatorHaulThingsDesc>岩や そのほかのアイテムを 廃棄ゾーンに運びます。 食材や死体といった 自動で運ぶ アイテムに 指定する 必要は ありません。</DesignatorHaulThingsDesc>
-<MustHaulHaulables>(岩などといった) 自動で運ぶもの 以外にのみ 運搬を 指定できます。</MustHaulHaulables>
+<DesignatorHaulThingsDesc>印をつけた 岩の塊や そのほかのアイテムを 廃棄ゾーンに運びます。 食材や死体といったものに印をつける必要はありません、それらは自動的に運ばれます。</DesignatorHaulThingsDesc>
+<MustHaulHaulables>自動で運ぶもの以外の、アイテムだけを指定することができます(岩の塊など) 。</MustHaulHaulables>
 
 <DesignatorHunt>狩猟</DesignatorHunt>
-<DesignatorHuntDesc>入植者は ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
+<DesignatorHuntDesc>ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
 
  <DesignatorSmoothFloor>地面をならす</DesignatorSmoothFloor>
- <DesignatorSmoothFloorDesc>荒れた地面を平らにならします。</DesignatorSmoothFloorDesc>
+ <DesignatorSmoothFloorDesc>指定した 荒れた地面を 滑らかにします。</DesignatorSmoothFloorDesc>
 
 <DesignatorMine>採掘</DesignatorMine>
 <DesignatorMineDesc>指定した ゾーンを 採掘します。</DesignatorMineDesc>
@@ -39,14 +39,18 @@
 <DesignatorPlanRemoveDesc>予定地を 取り消します。</DesignatorPlanRemoveDesc>
 
   <DesignatorAreaHomeExpand>コロニーゾーン</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>入植者は 村のゾーン内の 建物を修理し、 掃除します。 火災がおきた時は 村のゾーンのみ 消火します。</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>入植者は コロニーゾーン内だけの 建物を修理し、 床を掃除し、火災を消そうとします。</DesignatorAreaHomeExpandDesc>
   <DesignatorAreaHomeClear>コロニーゾーン 取消</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>村のゾーンを 取り消します。 取り消した場所が、 入植者が 修理、 掃除、 消火することは ありません。</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>コロニーゾーンを 取り消します。 取り消された場所を、 入植者が 修理したり、 掃除したり、 火災を消そうとはしなくなります。</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaNoRoofExpand>屋根 取り外し</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない 場所を 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします。</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>屋根 取り外し撤回</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>屋根を 作成しない ゾーンを 取り消します。 ここでは 屋根は 作成されます。 すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaBuildRoofExpand>屋根ゾーン</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する ゾーンを 指定します。</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>屋根ゾーン 取消</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>作成した 屋根のゾーンを 取り消します。すでに ある 屋根は 残ります。屋根をこれ以上作成しなくなります。</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaNoRoofExpand>屋根取り外し</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない ゾーンを 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません)。</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>屋根取り外し 撤回</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>作成した　屋根を作成しないゾーンを 取り消します。すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
@@ -54,16 +58,16 @@
   <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します。もうそこを入植者は雪かきしません。</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>作業ゾーン</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません。</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンとは、入植者を 割り当てることができる ゾーンとして定義されました。入植者は 彼に割り当てられた 作業ゾーンの外側では 作業を受付しませんし、 必要と思われる作業も遂行しません。</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>作業ゾーン 取消</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>作業ゾーンの管理</ManageAreas>
+  <ManageAreas>作業ゾーンの管理...</ManageAreas>
 
 <DesignatorGrowingZoneDesc>このゾーンで、 入植者は 特定の 植物を 栽培しようと します。</DesignatorGrowingZoneDesc>
 
-<DesignatorZoneCreateStorageResourcesDesc>入植者が 材料を 備蓄する場所を 指定します。\nこのツールで、 備蓄場所を 拡大し、 備蓄できる 材料の 量を 増やすことが できます。</DesignatorZoneCreateStorageResourcesDesc>
+<DesignatorZoneCreateStorageResourcesDesc>入植者が 材料を 備蓄する場所を 作成します。\nこのツールは、 すでにある備蓄ゾーンを 拡張することも できます。</DesignatorZoneCreateStorageResourcesDesc>
 
-<DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 指定します。\nこのツールで、 ゴミ捨て場を 拡大し 捨てるゴミの 量を 増やすことが できます。</DesignatorZoneCreateStorageDumpingDesc>
+<DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 作成します。\nこのツールは、 すでにある廃棄ゾーンを 拡張することも できます。</DesignatorZoneCreateStorageDumpingDesc>
 
 <DesignatorZoneDelete>ゾーン削除</DesignatorZoneDelete>
 <DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
@@ -75,7 +79,7 @@
   <DesignatorRemoveFloorDesc>床を剥がして地面を出します。</DesignatorRemoveFloorDesc>
 
   <DesignatorStrip>剥ぐ</DesignatorStrip>
-  <DesignatorStripDesc>死体やけが人の衣類を剥がします。</DesignatorStripDesc>
+  <DesignatorStripDesc>死体や、けが人から 衣類を剥がします。</DesignatorStripDesc>
 
   <DesignatorRearmTrap>罠のリセット</DesignatorRearmTrap>
   <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます。</DesignatorRearmTrapDesc>
@@ -86,35 +90,35 @@
   <DesignatorSlaughter>屠殺</DesignatorSlaughter>
   <DesignatorSlaughterDesc>家畜を屠殺します。</DesignatorSlaughterDesc>
 
-  <DesignatorTame>飼いならす</DesignatorTame>
-  <DesignatorTameDesc>野生動物を飼いならします。</DesignatorTameDesc>
+  <DesignatorTame>手なずける</DesignatorTame>
+  <DesignatorTameDesc>野生動物を手なずけます。</DesignatorTameDesc>
 
 
-  <!-- Failure messages -->
-  <UnchosenStuff>Unchosen material</UnchosenStuff>
-<TooCloseToMapEdge>マップの はしに 近すぎます。</TooCloseToMapEdge>
-<OutOfBounds>範囲外 です。</OutOfBounds>
-<CannotPlaceInUndiscovered>未知の場所に 配置することは できません。</CannotPlaceInUndiscovered>
-<InteractionSpotBlocked>相互作用スポットは遮断されます。</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>相互作用スポットは 領域外です。</InteractionSpotOutOfBounds>
-<InteractionSpotWillBeBlocked>相互作用の場所はブロックされます。</InteractionSpotWillBeBlocked>
-<WouldBlockInteractionSpot>{0} は {1} により ブロックされます。</WouldBlockInteractionSpot>
-<TerrainIsAlready>この場所は、 すでに {0} です。</TerrainIsAlready>
-  <TerrainBeingSmoothed>既に地面を平すように指示されています。</TerrainBeingSmoothed>
-<IdenticalThingExists>すでに 同じものが あります。</IdenticalThingExists>
-<IdenticalBlueprintExists>すでに 同じものを 指定しています。</IdenticalBlueprintExists>
-<TerrainCannotSupport>この場所に、 それを指定することはできません。</TerrainCannotSupport>
-<SpaceAlreadyOccupied>この場所は ふさがっています。</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
+    <!-- Failure messages -->
+    <UnchosenStuff>素材が選ばれていません</UnchosenStuff>
+    <TooCloseToMapEdge>マップ端に 近すぎます。</TooCloseToMapEdge>
+    <OutOfBounds>領域外 です。</OutOfBounds>
+    <CannotPlaceInUndiscovered>未知の場所に 配置することは できません。</CannotPlaceInUndiscovered>
+    <InteractionSpotBlocked>{0}によって 作用空間が ブロックされています。</InteractionSpotBlocked>
+    <InteractionSpotOutOfBounds>作用空間が 領域外です。</InteractionSpotOutOfBounds>
+    <InteractionSpotWillBeBlocked>{0}によって 作用空間が ブロックされそうです。</InteractionSpotWillBeBlocked>
+    <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう。</WouldBlockInteractionSpot>
+    <TerrainIsAlready>ここの地面は、 すでに {0} です。</TerrainIsAlready>
+    <TerrainBeingSmoothed>地面を 滑らかにするよう すでに指示されています。</TerrainBeingSmoothed>
+    <IdenticalThingExists>まったく同じものが すでにあります。</IdenticalThingExists>
+    <IdenticalBlueprintExists>まったく同じ設計図が すでにあります。</IdenticalBlueprintExists>
+    <TerrainCannotSupport>ここの地面は、 これをサポートすることが できません。</TerrainCannotSupport>
+    <SpaceAlreadyOccupied>この場所は すでに ふさがっています。</SpaceAlreadyOccupied>
+    <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
 
 
 <!-- placement of zones -->
-<ExpandOrCreateZone>{0} を拡張するか\n新しく {1} を作ります。</ExpandOrCreateZone>
-<CreateNewZone>新しく {0} を作ります。</CreateNewZone>
+<ExpandOrCreateZone>{0}を拡張するか\n新しく {1}を作ります。</ExpandOrCreateZone>
+<CreateNewZone>新しく {0}を作ります。</CreateNewZone>
 
 
 <!-- desc helpers -->
-<TransmitsPower>電気を 伝達します。</TransmitsPower>
+<TransmitsPower>送電します。</TransmitsPower>
 
 
 </LanguageData>
