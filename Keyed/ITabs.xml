@@ -60,7 +60,7 @@
 	<WholeBody>全身</WholeBody>
 	<DataProcessing>データ処理</DataProcessing>
 	<Communication>コミュニケーション</Communication>
-	<AffectsLower>影響</AffectsLower>
+	<Affects>影響</Affects>
 	<BleedingRate>出血量</BleedingRate>
 	<HealthOverview>概要</HealthOverview>
 	<MedicalOperationsShort>手術中 ({0})</MedicalOperationsShort>
@@ -73,6 +73,8 @@
 	<SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
 	<HungerRate>空腹率</HungerRate>
 	<Tiredness>疲れ</Tiredness>
+  <PainFactor>苦痛</PainFactor>
+  <PreventsInfection>感染予防</PreventsInfection>
 
 
 	<!-- Medical - Body and activities condition -->
@@ -110,5 +112,13 @@
 <IAmPsychopath>私はサイコパス</IAmPsychopath>
 
 
+
+  <!-- Gear tab -->
+  <AverageArmor>平均値</AverageArmor>
+  <ComfyTemperatureRange>快適な温度範囲</ComfyTemperatureRange>
+  <ArmorBlunt>打撲系</ArmorBlunt>
+  <ArmorSharp>突刺系</ArmorSharp>
+  <ArmorHeat>熱系</ArmorHeat>
+  <ArmorElectric>電磁系</ArmorElectric>
 
 </LanguageData>
