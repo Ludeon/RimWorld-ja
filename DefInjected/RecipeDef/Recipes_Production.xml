@@ -1,21 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MakeStoneBlocks.label>石を切断する</MakeStoneBlocks.label>
-    <MakeStoneBlocks.description>岩石を使いやすい大きさに切ります。</MakeStoneBlocks.description>
-    <MakeStoneBlocks.jobString>石を加工中</MakeStoneBlocks.jobString>
+	<MakeStoneBlocksAny.label>石を切断する</MakeStoneBlocksAny.label>
+    <MakeStoneBlocksAny.description>岩石を使いやすい大きさに切ります。</MakeStoneBlocksAny.description>
+    <MakeStoneBlocksAny.jobString>石を加工中</MakeStoneBlocksAny.jobString>
 
 	<ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
     <ExtractMetalFromSlag.description>高温と強力な電磁石を使い、くず鉄から使える金属を分離します。</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
 
 	<SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
-	<SmeltWeapon.description>高温と強力な電磁石を使い、武器から使える金属を分離します。</SmeltWeapon.description>
+	<SmeltWeapon.description>高温と強力な磁石を使い、武器から使える資源にします。</SmeltWeapon.description>
 	<SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
 
-	<MakeArtilleryShell.label>砲弾を作成する</MakeArtilleryShell.label>
-	<MakeArtilleryShell.description>砲弾を作成します。</MakeArtilleryShell.description>
-	<MakeArtilleryShell.jobString>砲弾を作成中</MakeArtilleryShell.jobString>
+    <DestroyWeapon.label>武器を破壊する</DestroyWeapon.label>
+    <DestroyWeapon.description>不要な武器を高温で熱して破壊します。溶解するより早く、溶解できないアイテムにも可能ですが、何の資源も得られません。</DestroyWeapon.description>
+    <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
+
+	<MakeMortarShell.label>砲弾を作成する</MakeMortarShell.label>
+	<MakeMortarShell.description>砲弾を作成します。</MakeMortarShell.description>
+	<MakeMortarShell.jobString>砲弾を作成中</MakeMortarShell.jobString>
+
+    <MakeChemfuelFromWood.label>液化燃料を精製(木材)</MakeChemfuelFromWood.label>
+    <MakeChemfuelFromWood.description>木材をガス化することでバイオ液化燃料を作成します。</MakeChemfuelFromWood.description>
+    <MakeChemfuelFromWood.jobString>木材を精製中</MakeChemfuelFromWood.jobString>
+
+    <MakeChemfuelFromOrganics.label>液化燃料を精製(有機物)</MakeChemfuelFromOrganics.label>
+    <MakeChemfuelFromOrganics.description>有機物からバイオ液化燃料を取り出し精製します。</MakeChemfuelFromOrganics.description>
+    <MakeChemfuelFromOrganics.jobString>有機物を精製中</MakeChemfuelFromOrganics.jobString>
 
 	<MakeComponent.label>コンポーネントを作成する</MakeComponent.label>
 	<MakeComponent.description>コンポーネントを作成します。</MakeComponent.description>

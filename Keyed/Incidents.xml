@@ -116,4 +116,13 @@
   <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
   <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
 
+    <!-- Journey -->
+    <JourneyOffer>何者かが無線であなたに接触し、彼らと共に、あなたも彼らの宇宙船に乗るよう申し出がありました。彼らは、あなたに正確な座標を送ってきました。</JourneyOffer>
+
+    <!-- Caravan meeting -->
+    <CaravanMeeting>あなたのキャラバン隊は、平和的な{0}からのキャラバン隊と会いました。他からきたキャラバン隊の構成:\n\n{0}</CaravanMeeting>
+    <CaravanMeeting_Trade>売買</CaravanMeeting_Trade>
+    <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
+    <CaravanMeeting_MoveOn>移動</CaravanMeeting_MoveOn>
+
 </LanguageData>

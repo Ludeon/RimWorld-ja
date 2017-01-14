@@ -50,13 +50,16 @@
   <LetterFriendlyTrapSprung>{0}は 不慮の事故により、罠で怪我をした。</LetterFriendlyTrapSprung>
 
   <LetterHealthComplications>{0}は、 {2}の合併症で、 {1}を患った。</LetterHealthComplications>
-  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  <LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
 
   <LetterHediffFromRandomHediffGiver>{0}は、 {1}の病におかされた。</LetterHediffFromRandomHediffGiver>
-  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
-  <LetterLeadersDeathLabel>リーダーの死</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{1}の リーダー {0}は 死に、 代わりに {2}が、その地位についた。</LetterLeadersDeath>
+  <LetterLeadersDeathLabel>{1}が死亡: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{1}の{3} {0}が死に\n\n新しい{3}は {2}になった。</LetterLeadersDeath>
+
+  <LetterLeaderChangedLabel>新{1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{1}の{3}は、もう{0}ではなく\n\n新しい{3}は {2}になった。</LetterLeaderChanged>
 
   <MentalBreakLetterLabel>精神崩壊</MentalBreakLetterLabel>
   <MentalBreakReason>不幸な出来事: {0}</MentalBreakReason>
@@ -67,6 +70,8 @@
   <LetterRelatedPawnsRaidFriendly>あなたのコロニーの 入植者か、囚人と、つながりのあるひとりが、到着した友好な {0} グループにいます。</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>あなたのコロニーの 入植者か、囚人と、つながりのある者が、到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>あなたのコロニーの 入植者か、囚人と、つながりのある者が、奴隷商人によって売られています：</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithFactionBase>あなたのコロニーの 入植者か、囚人と、つながりのある者が、派閥の本拠地で売られています：</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの 入植者か、囚人と、つながりのある者が、他のキャラバン隊によって売られています：</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(血縁関係)</RelationshipAppendedLetterSuffix>
   <RelationshipAppendedLetterTextColonist>NAME は入植者と血縁関係にあります。HECAPは {0}の {1}です。</RelationshipAppendedLetterTextColonist>
@@ -112,4 +117,31 @@
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} 浪費</LetterLabelDrugBinge>
   <LetterDrugBinge>{0}は、 {1}を 浪費するようになった。</LetterDrugBinge>
+
+    <!-- Formed caravan -->
+    <LetterLabelFormedCaravan>キャラバン隊準備完了。</LetterLabelFormedCaravan>
+    <LetterFormedCaravan>キャラバン隊の準備が完了し、ワールドマップにて、あなたの指示を待っています。</LetterFormedCaravan>
+
+    <!-- Caravan destroyed -->
+    <LetterLabelAllCaravanColonistsDied>キャラバン隊壊滅</LetterLabelAllCaravanColonistsDied>
+    <LetterAllCaravanColonistsDied>キャラバン隊全員の死亡が確認されました。</LetterAllCaravanColonistsDied>
+
+    <!-- Caravan entered ambush map -->
+    <LetterLabelCaravanEnteredAmbushMap>待ち伏せ場所に到着しました。</LetterLabelCaravanEnteredAmbushMap>
+    <LetterCaravanEnteredAmbushMap>{0}は、待ち伏せ場所に到着しました。</LetterCaravanEnteredAmbushMap>
+
+    <!-- Caravan entered enemy base -->
+    <LetterLabelCaravanEnteredEnemyBase>戦闘開始</LetterLabelCaravanEnteredEnemyBase>
+    <LetterCaravanEnteredEnemyBase>{0}は、{1}に到着し、攻撃の始める準備が整っています。</LetterCaravanEnteredEnemyBase>
+    <LetterCaravanEnteredEnemyBaseBecameHostile>{0}は、{1}に到着し、攻撃を始める準備が整っています。\n\n敵対行動により、{2}は、今から、あなたを敵とみなします。</LetterCaravanEnteredEnemyBaseBecameHostile>
+
+    <!-- Faction base defeated -->
+    <LetterLabelFactionBaseDefeated>前哨基地 壊滅</LetterLabelFactionBaseDefeated>
+    <LetterFactionBaseDefeated>敵の前哨基地 {0}が破壊されました\n\nアイテムを回収するために、キャラバン隊を再編するまでの猶予として、{1}時間持っています。</LetterFactionBaseDefeated>
+    <LetterFactionBaseDefeated_FactionDestroyed>ここは、{0}の最後の砦でしたので、この派閥は、もう何処にも存在しません。</LetterFactionBaseDefeated_FactionDestroyed>
+
+    <!-- Pawns lost due to map countdown -->
+    <LetterLabelPawnsLostDueToMapCountdown>置き去り</LetterLabelPawnsLostDueToMapCountdown>
+    <LetterPawnsLostDueToMapCountdown>いくつかの囚人、家畜が、荒野に置き去りにされました:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
 </LanguageData>

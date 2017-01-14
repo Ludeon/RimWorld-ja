@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <!-- Forbid -->
+  <CommandForbid>禁止</CommandForbid>
 	<CommandForbiddenDesc>禁止 - 入植者は これを無視します。</CommandForbiddenDesc>
 	<CommandNotForbiddenDesc>許可 - 入植者は これと かかわれます。</CommandNotForbiddenDesc>
 
@@ -24,6 +26,9 @@
 <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
 <CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
   <IsIncapped>{0}は歩くことができない。</IsIncapped>
+
+  <CommandAllowFiringLabel>発砲許可</CommandAllowFiringLabel>
+  <CommandAllowFiringDesc>発砲許可を切り替えます。\n\n無効にすると、このキャラは自動的には発砲しなくなります。これは白兵戦には影響しません。</CommandAllowFiringDesc>
 
   <CommandClearPrioritizedWork>優先作業をクリア</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>あなたが指示した優先作業をクリアします。この入植者は、自分で決めている、いつもの作業に戻ろうとします。</CommandClearPrioritizedWorkDesc>
@@ -145,5 +150,85 @@
   <!-- Build copy -->
   <CommandBuildCopy>複製</CommandBuildCopy>
   <CommandBuildCopyDesc>同じものの複製を建造する。</CommandBuildCopyDesc>
-  
+
+    <!-- Form caravan -->
+    <CommandFormCaravan>キャラバン隊を編成</CommandFormCaravan>
+    <CommandFormCaravanDesc>入植者でグループを編成すると、新しいエリアへと旅に出る事ができます。入植者達は、指示された、補給物資を集めて、一緒に行動する家畜と共に、次の命令を待ちます。</CommandFormCaravanDesc>
+
+    <!-- Reform caravan -->
+    <CommandReformCaravan>キャラバン隊を再編成</CommandReformCaravan>
+    <CommandReformCaravanDesc>キャラバン隊を再編成して、現在地を出て、次の命令をまちます。</CommandReformCaravanDesc>
+    <CommandReformCaravanFailHostilePawns>まだ、このエリアには敵が存在します。</CommandReformCaravanFailHostilePawns>
+
+    <!-- Split caravan -->
+    <CommandSplitCaravan>分割</CommandSplitCaravan>
+    <CommandSplitCaravanDesc>キャラバン隊を二つに分けます。キャラバン隊は、お互いが近くにいれば、あとで一つにまとめることも出来ます。</CommandSplitCaravanDesc>
+
+    <!-- Merge caravan -->
+    <CommandMergeCaravans>合流</CommandMergeCaravans>
+    <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます。</CommandMergeCaravansDesc>
+
+    <!-- Settle -->
+    <CommandSettle>定住</CommandSettle>
+    <CommandSettleDesc>この地に定住します。入植者達は、この地に入植し、新しい建物を建てるでしょう。</CommandSettleDesc>
+    <CommandSettleFailOtherWorldObjectsHere>キャラバン隊が、このエリアに入植する為には、このタイルのなかの唯一の派閥でなければなりません。</CommandSettleFailOtherWorldObjectsHere>
+    <CommandSettleFailAlreadyHaveBase>あなたの派閥は、ただ一つだけしか本拠地を持てません。</CommandSettleFailAlreadyHaveBase>
+    <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました。</CommandSettleFailReachedMaximumNumberOfBases>
+
+    <!-- Abandon home -->
+    <CommandAbandonHome>放棄</CommandAbandonHome>
+    <CommandAbandonHomeDesc>このエリアは放棄されました。このエリアには、近づきにくくなり、ここには二度と戻ってこれなくなるでしょう。あなたの本拠地を放棄した後は、あなたのキャラバン隊のうちの一つが、新しいエリアに入植することができます。</CommandAbandonHomeDesc>
+    <CommandAbandonHomeFailAllColonistsThere>入植者全員が集合しています。</CommandAbandonHomeFailAllColonistsThere>
+
+    <!-- Cancel forming caravan -->
+    <CommandCancelFormingCaravan>キャラバン隊編成の中止</CommandCancelFormingCaravan>
+    <CommandCancelFormingCaravanDesc>編成作業を中止させる。</CommandCancelFormingCaravanDesc>
+
+    <!-- Show map -->
+    <CommandShowMap>ズームイン</CommandShowMap>
+    <CommandShowMapDesc>このエリアを拡大表示する。</CommandShowMapDesc>
+
+    <!-- Trade -->
+    <CommandTrade>貿易</CommandTrade>
+    <CommandTradeDesc>この派閥と商売する。</CommandTradeDesc>
+    <CommandTradeFailNoNegotiator>意識のしっかりした、まともな交渉人が居ません。</CommandTradeFailNoNegotiator>
+
+    <!-- Take off -->
+    <CommandTakeOff>離陸</CommandTakeOff>
+    <CommandTakeOffDesc>船に乗り込み、惑星を離脱する。</CommandTakeOffDesc>
+    <CommandTakeOffConfirmation>宇宙船を発進させても良いですか？\n\nこのエリアの全員が惑星より脱出します。他の者は置き去りになるでしょう。</CommandTakeOffConfirmation>
+
+    <!-- Set target fuel level -->
+    <CommandSetTargetFuelLevel>燃料搭載量を設定する</CommandSetTargetFuelLevel>
+    <CommandSetTargetFuelLevelDesc>燃料搭載量を決定します。入植者は、燃料搭載量まで、燃料を注入しようとします。</CommandSetTargetFuelLevelDesc>
+
+    <!-- Cancel load -->
+    <CommandCancelLoad>荷積みを中止</CommandCancelLoad>
+    <CommandCancelLoadDesc>荷積みを中止して、既に積んであるものを下ろします。</CommandCancelLoadDesc>
+
+    <!-- Launch group -->
+    <CommandLaunchGroup>発射</CommandLaunchGroup>
+    <CommandLaunchGroupDesc>輸送ポッドの目標座標設定プロセスを開始します。次のステップは目的地を選びます。輸送ポッドは飛翔し、きちんと着陸します。</CommandLaunchGroupDesc>
+    <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドは、給油口に接続されていません。</CommandLaunchGroupFailNotConnectedToFuelingPort>
+    <CommandLaunchGroupFailNoFuel>一部のポッドランチャーは、燃料がありません。</CommandLaunchGroupFailNoFuel>
+    <CommandLaunchGroupFailUnderRoof>一部のポッドランチャーは、屋根の下にあります。</CommandLaunchGroupFailUnderRoof>
+
+    <!-- Load transporter -->
+    <CommandLoadTransporter>{0}グループを発射</CommandLoadTransporter>
+    <CommandLoadTransporterDesc>選択した輸送ポッド(群)をグループとします。"荷積み"ダイアログを開いて、誰が、何を運ぶべきか決めることができます。</CommandLoadTransporterDesc>
+    <CommandLoadTransporterFailNotConnectedToFuelingPort>輸送ポッドは、給油口に接続されていません。</CommandLoadTransporterFailNotConnectedToFuelingPort>
+    <CommandLoadTransporterFailNoFuel>ポッドランチャーは、燃料がありません。</CommandLoadTransporterFailNoFuel>
+
+    <!-- Select previous transporter -->
+    <CommandSelectPreviousTransporter>前のグループを選択</CommandSelectPreviousTransporter>
+    <CommandSelectPreviousTransporterDesc>一つ前のグループを選択します。</CommandSelectPreviousTransporterDesc>
+
+    <!-- Select all transporters -->
+    <CommandSelectAllTransporters>グループを選択</CommandSelectAllTransporters>
+    <CommandSelectAllTransportersDesc>グループの全輸送ポッドを選択します。</CommandSelectAllTransportersDesc>
+
+    <!-- Select next transporter -->
+    <CommandSelectNextTransporter>次のグループを選択</CommandSelectNextTransporter>
+    <CommandSelectNextTransporterDesc>一つ後のグループを選択します。</CommandSelectNextTransporterDesc>
+
 </LanguageData>

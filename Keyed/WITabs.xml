@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- WITab titles -->
+    <TabTerrain>地形</TabTerrain>
+    <TabPlanet>惑星</TabPlanet>
+    <TabCaravanSocial>社交</TabCaravanSocial>
+    <TabCaravanHealth>健康</TabCaravanHealth>
+    <TabCaravanNeeds>欲求</TabCaravanNeeds>
+    <TabCaravanGear>装備</TabCaravanGear>
+    <TabCaravanItems>アイテム</TabCaravanItems>
+
+    <!-- Misc -->
+    <AbandonSliderText>放棄 {{0}}x {0}</AbandonSliderText>
+    <ConfirmAbandonItemDialog>本当に {0}を放棄する気ですか？\n\n放棄されたアイテムは、修復できずに消滅するでしょう。</ConfirmAbandonItemDialog>
+    <AbandonTip>放棄</AbandonTip>
+    <AbandonSpecificCountTip>放棄 (個数指定)</AbandonSpecificCountTip>
+    <AbandonAllTip>放棄 (全て)</AbandonAllTip>
+    <AbandonItemTipExtraText>放棄されたアイテムは、修復できずに消滅するでしょう。</AbandonItemTipExtraText>
+    <AbandonTipWillDie>{0}は、おそらく死ぬでしょう。</AbandonTipWillDie>
+
+    <!-- Caravan inspect -->
+    <CaravanColonists>入植者</CaravanColonists>
+    <CaravanPrisonersAndAnimals>囚人と動物</CaravanPrisonersAndAnimals>
+    <CaravanItems>所持品</CaravanItems>
+    <OpenSpecificTabButtonTip>詳細を見るには"Open"タブをクリック</OpenSpecificTabButtonTip>
+    <CaravanPrisoners>囚人</CaravanPrisoners>
+    <CaravanWeaponsAndApparel>所持品</CaravanWeaponsAndApparel>
+
+    <!-- Caravan gear -->
+    <DragToRearrange>再調整するにはドラッグ</DragToRearrange>
+
+    <!-- Planet -->
+    <PlanetSeed>シード値</PlanetSeed>
+    <PlanetCoverageShort>範囲</PlanetCoverageShort>
+
+</LanguageData>
