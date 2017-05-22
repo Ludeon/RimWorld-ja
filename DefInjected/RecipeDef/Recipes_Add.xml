@@ -90,13 +90,13 @@
     <Make_Bow_Great.jobString>グレートボウを製作中</Make_Bow_Great.jobString>
 
 
-	<Make_Apparel_MilitaryHelmet.label>軍用ヘルメットを作る</Make_Apparel_MilitaryHelmet.label>
-	<Make_Apparel_MilitaryHelmet.description>軍用ヘルメットを作る。</Make_Apparel_MilitaryHelmet.description>
-	<Make_Apparel_MilitaryHelmet.jobString>軍用ヘルメットを製作中</Make_Apparel_MilitaryHelmet.jobString>
+	<Make_Apparel_SimpleHelmet.label>ヘルメットを作る</Make_Apparel_SimpleHelmet.label>
+	<Make_Apparel_SimpleHelmet.description>ヘルメットを作る。</Make_Apparel_SimpleHelmet.description>
+	<Make_Apparel_SimpleHelmet.jobString>ヘルメットを製作中</Make_Apparel_SimpleHelmet.jobString>
 
-	<Make_Apparel_KevlarHelmet.label>ケブラーヘルメットを作る</Make_Apparel_KevlarHelmet.label>
-	<Make_Apparel_KevlarHelmet.description>ケブラーヘルメットを作る。</Make_Apparel_KevlarHelmet.description>
-	<Make_Apparel_KevlarHelmet.jobString>ケブラーヘルメットを製作中</Make_Apparel_KevlarHelmet.jobString>
+	<Make_Apparel_AdvancedHelmet.label>次世代型ヘルメットを作る</Make_Apparel_AdvancedHelmet.label>
+	<Make_Apparel_AdvancedHelmet.description>次世代型ヘルメットを作る。</Make_Apparel_AdvancedHelmet.description>
+	<Make_Apparel_AdvancedHelmet.jobString>次世代型ヘルメットを製作中</Make_Apparel_AdvancedHelmet.jobString>
 
 	<Make_Apparel_PowerArmorHelmet.label>パワーアーマヘルメットを作る</Make_Apparel_PowerArmorHelmet.label>
 	<Make_Apparel_PowerArmorHelmet.description>パワーアーマヘルメットを作る。</Make_Apparel_PowerArmorHelmet.description>
@@ -109,6 +109,15 @@
 	<Make_Apparel_PowerArmor.label>パワーアーマーを作る</Make_Apparel_PowerArmor.label>
 	<Make_Apparel_PowerArmor.description>パワーアーマーを作る。</Make_Apparel_PowerArmor.description>
 	<Make_Apparel_PowerArmor.jobString>パワーアーマーを製作中</Make_Apparel_PowerArmor.jobString>
+	
+	<Make_Apparel_ShieldBelt.label>シールドベルトを作る</Make_Apparel_ShieldBelt.label>
+	<Make_Apparel_ShieldBelt.jobString>シールドベルトを製作中</Make_Apparel_ShieldBelt.jobString>
+	
+	<Make_Apparel_SmokepopBelt.label>スモークポップベルトを作る</Make_Apparel_SmokepopBelt.label>
+	<Make_Apparel_SmokepopBelt.jobString>スモークポップベルトを製作中</Make_Apparel_SmokepopBelt.jobString>
+	
+	<Make_Apparel_BowlerHat.label>ボウラーハットを作る</Make_Apparel_BowlerHat.label>
+	<Make_Apparel_BowlerHat.jobString>ボウラーハットを製作中</Make_Apparel_BowlerHat.jobString>
 
     <Make_Gun_Pistol.label>ピストルを作る</Make_Gun_Pistol.label>
     <Make_Gun_Pistol.description>ピストルを作る。</Make_Gun_Pistol.description>
@@ -117,10 +126,13 @@
     <Make_Gun_PumpShotgun.label>ポンプ式散弾銃を作る</Make_Gun_PumpShotgun.label>
     <Make_Gun_PumpShotgun.description>ポンプ式散弾銃を作る。</Make_Gun_PumpShotgun.description>
     <Make_Gun_PumpShotgun.jobString>ポンプ式散弾銃を製作中</Make_Gun_PumpShotgun.jobString>
+    
+    <Make_Gun_ChainShotgun.label>自動式散弾銃を作る</Make_Gun_ChainShotgun.label>
+    <Make_Gun_ChainShotgun.jobString>自動式散弾銃を製作中</Make_Gun_ChainShotgun.jobString>
 
-    <Make_Gun_SurvivalRifle.label>ライフルを作る</Make_Gun_SurvivalRifle.label>
-    <Make_Gun_SurvivalRifle.description>ライフルを作る。</Make_Gun_SurvivalRifle.description>
-    <Make_Gun_SurvivalRifle.jobString>ライフルを製作中</Make_Gun_SurvivalRifle.jobString>
+    <Make_Gun_BoltActionRifle.label>ライフルを作る</Make_Gun_BoltActionRifle.label>
+    <Make_Gun_BoltActionRifle.description>ライフルを作る。</Make_Gun_BoltActionRifle.description>
+    <Make_Gun_BoltActionRifle.jobString>ライフルを製作中</Make_Gun_BoltActionRifle.jobString>
 
     <Make_Gun_AssaultRifle.label>軍用ライフルを作る</Make_Gun_AssaultRifle.label>
     <Make_Gun_AssaultRifle.description>軍用ライフルを作る。</Make_Gun_AssaultRifle.description>
