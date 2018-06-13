@@ -31,13 +31,13 @@
 
     <Slaughterer.label>屠殺者</Slaughterer.label>
     <Slaughterer.beginLetterLabel>屠殺者</Slaughterer.beginLetterLabel>
-    <Slaughterer.beginLetter>{0}は 重度のストレスから HIS怒りのはけ口を 動物に向けようとしている。</Slaughterer.beginLetter>
+    <Slaughterer.beginLetter>{0}は 重度のストレスから [PAWN_possessive]怒りのはけ口を 動物に向けようとしている。</Slaughterer.beginLetter>
     <Slaughterer.recoveryMessage>{0}は もうやたらめったら 動物を屠殺するのを止めた。</Slaughterer.recoveryMessage>
     <Slaughterer.baseInspectLine>精神状態: 屠殺者</Slaughterer.baseInspectLine>
 
     <MurderousRage.label>激情の殺意</MurderousRage.label>
     <MurderousRage.beginLetterLabel>激情の殺意</MurderousRage.beginLetterLabel>
-    <MurderousRage.beginLetter>{0}は 激情して殺意のなかにある HECAPは {1}を殺そうとしている。</MurderousRage.beginLetter>
+    <MurderousRage.beginLetter>{0}は 激情して殺意のなかにある [PAWN_pronoun]は {1}を殺そうとしている。</MurderousRage.beginLetter>
     <MurderousRage.recoveryMessage>{0}は もう激情した殺意はない。</MurderousRage.recoveryMessage>
     <MurderousRage.baseInspectLine>精神状態: 激情の殺意</MurderousRage.baseInspectLine>
 
@@ -65,19 +65,19 @@
 
     <BedroomTantrum.label>癇癪(寝室)</BedroomTantrum.label>
     <BedroomTantrum.beginLetterLabel>癇癪(寝室)</BedroomTantrum.beginLetterLabel>
-    <BedroomTantrum.beginLetter>{0}は 癇癪をおこして HIS部屋の家具を壊そうとしている</BedroomTantrum.beginLetter>
+    <BedroomTantrum.beginLetter>{0}は 癇癪をおこして [PAWN_possessive]部屋の家具を壊そうとしている</BedroomTantrum.beginLetter>
     <BedroomTantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</BedroomTantrum.recoveryMessage>
     <BedroomTantrum.baseInspectLine>精神状態: 癇癪持ち(寝室)</BedroomTantrum.baseInspectLine>
 
     <SadisticRage.label>サディスティックな激情</SadisticRage.label>
     <SadisticRage.beginLetterLabel>サディスティックな激情</SadisticRage.beginLetterLabel>
-    <SadisticRage.beginLetter>{0}は 激情して虐待的感情を吹き出させている HECAPは HISの怒りのはけ口を 囚人に向けようとしている。</SadisticRage.beginLetter>
+    <SadisticRage.beginLetter>{0}は 激情して虐待的感情を吹き出させている [PAWN_pronoun]は [PAWN_possessive]の怒りのはけ口を 囚人に向けようとしている。</SadisticRage.beginLetter>
     <SadisticRage.recoveryMessage>{0}には もう虐待的感情は無くなった。</SadisticRage.recoveryMessage>
     <SadisticRage.baseInspectLine>精神状態: 虐待</SadisticRage.baseInspectLine>
 
     <CorpseObsession.label>死体への執着</CorpseObsession.label>
     <CorpseObsession.beginLetterLabel>死体への執着</CorpseObsession.beginLetterLabel>
-    <CorpseObsession.beginLetter>{0}は 死体に執着しています HECAPは死体を掘り起こそうとしている。</CorpseObsession.beginLetter>
+    <CorpseObsession.beginLetter>{0}は 死体に執着しています [PAWN_pronoun]は死体を掘り起こそうとしている。</CorpseObsession.beginLetter>
     <CorpseObsession.recoveryMessage>{0}は もう死体には執着しなくなった。</CorpseObsession.recoveryMessage>
     <CorpseObsession.baseInspectLine>精神状態: 死体への執着</CorpseObsession.baseInspectLine>
 
@@ -97,8 +97,8 @@
 
 	<WanderOwnRoom.label>ひきこもり</WanderOwnRoom.label>
 	<WanderOwnRoom.beginLetterLabel>ひきこもり</WanderOwnRoom.beginLetterLabel>
-	<WanderOwnRoom.beginLetter>{0}は HISの部屋に隠れて 出てきません。</WanderOwnRoom.beginLetter>
-	<WanderOwnRoom.recoveryMessage>{0}は もうHIM部屋に ひきこもることはありません。</WanderOwnRoom.recoveryMessage>
+	<WanderOwnRoom.beginLetter>{0}は [PAWN_possessive]の部屋に隠れて 出てきません。</WanderOwnRoom.beginLetter>
+	<WanderOwnRoom.recoveryMessage>{0}は もう[PAWN_objective]部屋に ひきこもることはありません。</WanderOwnRoom.recoveryMessage>
 	<WanderOwnRoom.baseInspectLine>精神状態: ひきこもり</WanderOwnRoom.baseInspectLine>
 
     <InsultingSpree.label>侮辱・放言</InsultingSpree.label>

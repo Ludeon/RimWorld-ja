@@ -30,7 +30,7 @@
 <RecruitSuccess>{0}は {1}を コロニーに 迎え入れました。 (成功率 {2})</RecruitSuccess>
 <RecruitFail>{0}は {1}の 説得に 失敗しました。 (成功率 {2})</RecruitFail>
 
-  <RelatedPawnInvolvedInQuest>NAMEは {0}の{1}です。もし NAMEが死ねば、{0}は、長期に渡る悲しみに苦しむでしょう。けれども、もしなんとか NAMEを救うことができれば、 {0}は、長い間、幸せに包まれているでしょう。</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>[PAWN_nameDef]は {0}の{1}です。もし [PAWN_nameDef]が死ねば、{0}は、長期に渡る悲しみに苦しむでしょう。けれども、もしなんとか [PAWN_nameDef]を救うことができれば、 {0}は、長い間、幸せに包まれているでしょう。</RelatedPawnInvolvedInQuest>
 
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
   <BirthdayChronological>今日は、{0}の誕生日です!、生物学的には {1}は {3}才になります。\n\n暦上では、{1}は、{2}になりました。\n\nノート:冷凍睡眠中は老化しないので、暦上の年齢は、生物学的年齢とは別になります。</BirthdayChronological>
@@ -38,14 +38,14 @@
 
     <LetterLabelNewDisease>発症</LetterLabelNewDisease>
     <NewDisease>{0}は 病に倒れました({1})。\n\n医療用ベッドとドクターを確保してください。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewDisease>
-    <NewPartDisease>{0}は HIS{1}に {3}を確認しました。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewPartDisease>
+    <NewPartDisease>{0}は [PAWN_possessive]{1}に {3}を確認しました。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewPartDisease>
 
   <PawnWasFormerlyColonist>{0}は、かつて貴方の派閥の一員でした。</PawnWasFormerlyColonist>
   <PawnHasTheseRelationshipsWithColonists>{0}は、入植者達と、これらの関係を持っています:</PawnHasTheseRelationshipsWithColonists>
   <PrisonerRescueTimeout>キャンプは {0}日後に消滅するでしょう。この機会を逸すれば、{1}の声を、二度と聞くことは無いかもしれません。</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
-<AncientShrineWarning>予感が、近くにある古代建造物に {0}を 引き寄せました。なぜだか解りませんが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
+<AncientShrineWarning>予感が、近くにある古代建造物に {0}を 引き寄せました。なぜだか解りませんが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると [PAWN_pronoun] は感じています。</AncientShrineWarning>
 
   <StruckMineable>{0}の鉱脈に突き当たった!</StruckMineable>
 
@@ -82,8 +82,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの 入植者か、囚人と、つながりのある者が、他のキャラバン隊によって売られています：</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(血縁関係)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME は入植者と血縁関係にあります。HECAPは {0}の {1}です。</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME は囚人の一人と血縁関係にあります。HECAPは {0}の {1}です。</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] は入植者と血縁関係にあります。[PAWN_pronoun]は {0}の {1}です。</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] は囚人の一人と血縁関係にあります。[PAWN_pronoun]は {0}の {1}です。</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>浮気</LetterLabelAffair>
@@ -120,7 +120,7 @@
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} 中毒</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0}は、 {1}中毒を 患いました。\n\nHECAP は、 {1}欲求状態であることが、 HISの「欲求」タブで見て取れます。 HECAP は、HISの欲求を満たすために、勝手にドラッグを消費するようになります。 もしHEが、 {1}を手に入れられなければ、 HEには、禁断症状が起きるでしょう。</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0}は、 {1}中毒を 患いました。\n\n[PAWN_pronoun] は、 {1}欲求状態であることが、 [PAWN_possessive]の「欲求」タブで見て取れます。 [PAWN_pronoun] は、[PAWN_possessive]の欲求を満たすために、勝手にドラッグを消費するようになります。 もし[PAWN_pronoun]が、 {1}を手に入れられなければ、 [PAWN_pronoun]には、禁断症状が起きるでしょう。</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} 浪費</LetterLabelDrugBinge>

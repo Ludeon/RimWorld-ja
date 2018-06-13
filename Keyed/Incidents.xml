@@ -39,13 +39,13 @@
 
 <TraderArrival>商船は、 惑星のそばを 通過しようと しています。\n\n彼らは {0} という名で\n {1} を なりわいと しています。</TraderArrival>
 
-    <SingleTravelerPassing>{1}の {0}が 村の近くに います。HECAPは {2}と名乗っています。</SingleTravelerPassing>
+    <SingleTravelerPassing>{1}の {0}が 村の近くに います。[PAWN_pronoun]は {2}と名乗っています。</SingleTravelerPassing>
     <GroupTravelersPassing>{0}の 旅行者グループが 村の近くに います。</GroupTravelersPassing>
 
     <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-    <SingleVisitorArrives>{1}の {0}が 村を 訪問しています。\n\nHECAPは {2}と 名乗っています。{3}{4}</SingleVisitorArrives>
-<SingleVisitorArrivesTraderInfo>\n\nHECAPは、持っているアイテムをいくつかトレードしたがっています。</SingleVisitorArrivesTraderInfo>
-    <SingleVisitorArrivesLeaderInfo>\n\nHECAPは、派閥のリーダーです。</SingleVisitorArrivesLeaderInfo>
+    <SingleVisitorArrives>{1}の {0}が 村を 訪問しています。\n\n[PAWN_pronoun]は {2}と 名乗っています。{3}{4}</SingleVisitorArrives>
+<SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun]は、持っているアイテムをいくつかトレードしたがっています。</SingleVisitorArrivesTraderInfo>
+    <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun]は、派閥のリーダーです。</SingleVisitorArrivesLeaderInfo>
 	<LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
 	<GroupVisitorsArrive>{0}の 旅行者グループが 村を 訪問しています。{1}{2}</GroupVisitorsArrive>
 <GroupVisitorsArriveTraderInfo>\n\n彼らは、持っているアイテムをいくつかトレードしたがっています。</GroupVisitorsArriveTraderInfo>
@@ -53,7 +53,7 @@
 <VisitorsLeaving>訪問中の {0}は 去りました。</VisitorsLeaving>
 
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
-<WandererJoin>NAME という名前の {0} がやってきて  仲間になりました。彼は {1} です。</WandererJoin>
+<WandererJoin>[PAWN_nameDef] という名前の {0} がやってきて  仲間になりました。彼は {1} です。</WandererJoin>
 
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>ヒト狩り {0} 集団がやって来ました。 彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
@@ -87,7 +87,7 @@
 
   <!-- Refugee chased -->
   <RefugeeChasedTitle>{0}からの亡命者</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{0} という名の {1} が、あなたを呼び出しています。HECAP は {3}という{2}に追われています。\n\nHECAP は、あなたのコロニーにかくまってほしいと懇願しています。HE の身体的年齢は {4}才。もし貴方がかばえば、{2}と戦わなくてはならなくなるのは明白です。</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{0} という名の {1} が、あなたを呼び出しています。[PAWN_pronoun] は {3}という{2}に追われています。\n\n[PAWN_pronoun] は、あなたのコロニーにかくまってほしいと懇願しています。[PAWN_pronoun] の身体的年齢は {4}才。もし貴方がかばえば、{2}と戦わなくてはならなくなるのは明白です。</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>身の安全を申し出る</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>メッセージを無視する</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>あなたが通信装置を切る間際、{0}の 絶望してパニックを起こした叫び声が、スピーカから聞こえてきた。</RefugeeChasedRejected>
@@ -116,7 +116,7 @@
 
   <!-- Ransom demand -->
 	<RansomDemandTitle>{0}からの身代金要求</RansomDemandTitle>
-  <RansomDemand>{1}が 通信で あなたに呼びかけています。彼らは、入植者 {0}を 人質にしています。\n\n彼らは、身代金 {2}シルバーと交換に、HIM 解放する用意があると言ってきています。</RansomDemand>
+  <RansomDemand>{1}が 通信で あなたに呼びかけています。彼らは、入植者 {0}を 人質にしています。\n\n彼らは、身代金 {2}シルバーと交換に、[PAWN_objective] 解放する用意があると言ってきています。</RansomDemand>
   <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
   <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
 

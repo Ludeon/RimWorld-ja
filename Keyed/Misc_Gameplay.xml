@@ -390,7 +390,7 @@
 
 	<!-- Cryptosleep casket -->
 	<CasketContains>内容物</CasketContains>
-	<CasketWarning>【警告】 NAMEは最後の入植者です。HIM冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう。本当に良いのですか？</CasketWarning>
+	<CasketWarning>【警告】 [PAWN_nameDef]は最後の入植者です。[PAWN_objective]冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう。本当に良いのですか？</CasketWarning>
 
 	<!-- Ship launch report -->
 	<ShipReportCannotLaunch>発射 できません。</ShipReportCannotLaunch>

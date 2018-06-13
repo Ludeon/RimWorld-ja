@@ -11,14 +11,14 @@
 
     <QuestDownedRefugee.label>行き倒れの難民</QuestDownedRefugee.label>
 	<QuestDownedRefugee.letterLabel>行き倒れの難民</QuestDownedRefugee.letterLabel>
-	<QuestDownedRefugee.letterText>{0}は、我々に無線で助けを求めてきました。HECAPは怪我していて動けません。貴方の助け無しには、HEは{1}日以内に死んでしまうでしょう。\n\nそこは恐らく危険な場所で、用心してください。</QuestDownedRefugee.letterText>
+	<QuestDownedRefugee.letterText>{0}は、我々に無線で助けを求めてきました。[PAWN_pronoun]は怪我していて動けません。貴方の助け無しには、[PAWN_pronoun]は{1}日以内に死んでしまうでしょう。\n\nそこは恐らく危険な場所で、用心してください。</QuestDownedRefugee.letterText>
 
     <QuestPrisonerWillingToJoin.label>囚人解放の機会</QuestPrisonerWillingToJoin.label>
     <QuestPrisonerWillingToJoin.letterLabel>囚人解放の機会</QuestPrisonerWillingToJoin.letterLabel>
-    <QuestPrisonerWillingToJoin.letterText>{0}に捕まった囚人が、どうにか無線を盗んで貴方を呼び出しています!\n\nNAMEは、近くのキャンプで武装した見張りの下に捕らえられています。HIM助ければ、HEは貴方のコロニーに加わるでしょう。HECAPは、{1}歳の{2}です。</QuestPrisonerWillingToJoin.letterText>
+    <QuestPrisonerWillingToJoin.letterText>{0}に捕まった囚人が、どうにか無線を盗んで貴方を呼び出しています!\n\n[PAWN_nameDef]は、近くのキャンプで武装した見張りの下に捕らえられています。[PAWN_objective]助ければ、[PAWN_pronoun]は貴方のコロニーに加わるでしょう。[PAWN_pronoun]は、{1}歳の{2}です。</QuestPrisonerWillingToJoin.letterText>
 
     <QuestPeaceTalks.label>和平交渉の機会</QuestPeaceTalks.label>
     <QuestPeaceTalks.letterLabel>和平交渉の機会</QuestPeaceTalks.letterLabel>
-    <QuestPeaceTalks.letterText>NAME {1}の{0}が、我々にメッセージを送ってきました。HECAPは近くの場所で我々と会談したがっています。\n\nこれは、彼らの部族との関係を、好転させる素晴らしい機会となるかもしれませんが、用心して下さい - 下手な交渉人は好転するどころか、より悪影響を引き起こし、彼らが怒り出すことになります。\n\nこの提案は、{2}日後に時間切れとなります。</QuestPeaceTalks.letterText>
+    <QuestPeaceTalks.letterText>[PAWN_nameDef] {1}の{0}が、我々にメッセージを送ってきました。[PAWN_pronoun]は近くの場所で我々と会談したがっています。\n\nこれは、彼らの部族との関係を、好転させる素晴らしい機会となるかもしれませんが、用心して下さい - 下手な交渉人は好転するどころか、より悪影響を引き起こし、彼らが怒り出すことになります。\n\nこの提案は、{2}日後に時間切れとなります。</QuestPeaceTalks.letterText>
 
 </LanguageData>

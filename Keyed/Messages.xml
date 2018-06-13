@@ -41,7 +41,7 @@
 	<LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
 	<MessageRecruitSuccess>{0}は 囚人{1}を 迎え入れました(成功率 {2})。</MessageRecruitSuccess>
 	<MessageTameSuccess>{0}は {1}を手なずけました(成功率 {2})。</MessageTameSuccess>
-	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして HIM {3}と名づけました。</MessageTameAndNameSuccess>
+	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして [PAWN_objective] {3}と名づけました。</MessageTameAndNameSuccess>
 
 	<MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません。</MessageColonyCannotAfford>
 	<MessageColonyNotEnoughSilver>取引するのに十分な量の、シルバーを準備できていません。</MessageColonyNotEnoughSilver>
@@ -110,7 +110,7 @@
 	<MessageMarriageCeremonyAfterPartyFinished>{0}と {1}との結婚の儀式は、すべて無事に執り行われた。</MessageMarriageCeremonyAfterPartyFinished>
 
 	<MessageNewBondRelation>{0}と {1}は絆で結ばれた。</MessageNewBondRelation>
-	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。HIM の姓は、{2}となります。</MessageNewBondRelationNewName>
+	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。[PAWN_objective] の姓は、{2}となります。</MessageNewBondRelationNewName>
 
 	<MessageBondedAnimalMentalBreak>{0}は {1}の死をきっかけにして、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
 	<MessageNamedBondedAnimalMentalBreak>{1}と名づけられた {0}は {2}の死をきっかけにして、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
@@ -174,7 +174,7 @@
 
     <MessageOldWoundHealed>{0}により, {1}の {2}は 治癒された</MessageOldWoundHealed>
 
-    <MessageRescueeJoined>HIMを救出したことで、{0}が あなたのグループに加わった!</MessageRescueeJoined>
+    <MessageRescueeJoined>[PAWN_objective]を救出したことで、{0}が あなたのグループに加わった!</MessageRescueeJoined>
 
     <MessageAttackedCaravanIsNowHostile>あなたが、キャラバン隊{0} を攻撃したことにより、今から、この派閥は、あなたの敵となります。</MessageAttackedCaravanIsNowHostile>
   <MessageFactionPawnCrushed>落盤事故により {0}が消息不明となりました。派閥関係: {1}</MessageFactionPawnCrushed>
@@ -241,12 +241,12 @@
    <MessagePawnResurrected>{0}は息を吹き返した!</MessagePawnResurrected>
    <MessageFailedToRescueRelative>{0}の命を救えなかった。{1}を悲しませるだろう。</MessageFailedToRescueRelative>
    <MessageRescuedRelative>{0}を救えた。{1}を喜ばせるだろう。</MessageRescuedRelative>
-   <MessagePrisonerRescued>NAMEを救い、HEはコロニーに加わった。</MessagePrisonerRescued>
+   <MessagePrisonerRescued>[PAWN_nameDef]を救い、[PAWN_pronoun]はコロニーに加わった。</MessagePrisonerRescued>
    <MessageTornadoLeftMap>竜巻が去った。</MessageTornadoLeftMap>
    <MessageTornadoDissipated>竜巻が散り散りになった。</MessageTornadoDissipated>
    <MessagePeaceTalksNoDiplomat>意識も、外交能力も無い</MessagePeaceTalksNoDiplomat>
    <MessageWarningCavePlantsExposedToLight>警告: {0}は陽に当たると生きていけません。</MessageWarningCavePlantsExposedToLight>
-   <MessageTargetedTantrumChangedTarget>{0} couldn't reach {1} so HE decided to redirect HIS anger at {2}.</MessageTargetedTantrumChangedTarget>
-   <MessageTargetedInsultingSpreeChangedTarget>{0} couldn't reach {1} so HE decided to redirect HIS anger at {2}.</MessageTargetedInsultingSpreeChangedTarget>
+   <MessageTargetedTantrumChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedTantrumChangedTarget>
+   <MessageTargetedInsultingSpreeChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
 </LanguageData>
