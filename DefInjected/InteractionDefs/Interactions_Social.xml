@@ -36,7 +36,11 @@
 	</rep>
 
     <KindWords.label>優しい言葉</KindWords.label>
-    <KindWords.logRulesInitiator.rulesStrings.0>logentry->[other_nameShortIndef]に優しい言葉をかけた。</KindWords.logRulesInitiator.rulesStrings.0>
-    <KindWords.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef]から優しい言葉をかけられた。</KindWords.logRulesRecipient.rulesStrings.0>
+	<KindWords.logRulesInitiator.rulesStrings>
+		<li>logentry->[other_nameShortIndef]に優しい言葉をかけた。</li>
+	</KindWords.logRulesInitiator.rulesStrings>
+	<KindWords.logRulesRecipient.rulesStrings>
+		<li>logentry->[other_nameShortIndef]から優しい言葉をかけられた。</li>
+	</KindWords.logRulesRecipient.rulesStrings>
 
 </LanguageData>

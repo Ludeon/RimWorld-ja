@@ -527,35 +527,37 @@
     <!-- KilledBy -->
         <!-- note that killer may not be filled in, so this has to be resolvable without any killer_ symbols -->
     <KilledBy.label>death</KilledBy.label>
-    <KilledBy.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]の[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.0>
-    <KilledBy.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]による[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.1>
-	<KilledBy.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef]によって殺された[victim_nameShortDef]</KilledBy.rulePack.rulesStrings.2>
-	<KilledBy.rulePack.rulesStrings.3>tale_noun->[victim_nameShortDef]が殺された</KilledBy.rulePack.rulesStrings.3>
+	<KilledBy.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef]の[victim_nameShortDef]殺し</li>
+		<li>tale_noun->[killer_nameShortDef]による[victim_nameShortDef]殺し</li>
+		<li>tale_noun->[killer_nameShortDef]によって殺された[victim_nameShortDef]</li>
+		<li>tale_noun->[victim_nameShortDef]が殺された</li>
 
-	<KilledBy.rulePack.rulesStrings.4>image->[victim_nameFull]は、[circumstance_group] [killer_nameFull]に殺される</KilledBy.rulePack.rulesStrings.4>
-	<KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull]は、[circumstance_group] [victim_nameFull]を殺す</KilledBy.rulePack.rulesStrings.5>
-	<KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull]は、[circumstance_group] [victim_nameFull]の人生を終わらせる</KilledBy.rulePack.rulesStrings.6>
-	<KilledBy.rulePack.rulesStrings.7>image->[killer_nameFull]は、[circumstance_group] 残忍に[victim_nameFull]を殺す</KilledBy.rulePack.rulesStrings.7>
-	<KilledBy.rulePack.rulesStrings.8>image->[victim_nameFull]は、[circumstance_group] 殺される</KilledBy.rulePack.rulesStrings.8>
+		<li>image->[victim_nameFull]は、[circumstance_group] [killer_nameFull]に殺される</li>
+		<li>image->[killer_nameFull]は、[circumstance_group] [victim_nameFull]を殺す</li>
+		<li>image->[killer_nameFull]は、[circumstance_group] [victim_nameFull]の人生を終わらせる</li>
+		<li>image->[killer_nameFull]は、[circumstance_group] 残忍に[victim_nameFull]を殺す</li>
+		<li>image->[victim_nameFull]は、[circumstance_group] 殺される</li>
 
-	<KilledBy.rulePack.rulesStrings.9>circumstance_phrase->一見したところ無慈悲に</KilledBy.rulePack.rulesStrings.9>
-	<KilledBy.rulePack.rulesStrings.10>circumstance_phrase->冷酷に</KilledBy.rulePack.rulesStrings.10>
-	<KilledBy.rulePack.rulesStrings.11>circumstance_phrase->激しい怒りと共に</KilledBy.rulePack.rulesStrings.11>
-	<KilledBy.rulePack.rulesStrings.12>circumstance_phrase->素早く、無駄の無い動きで</KilledBy.rulePack.rulesStrings.12>
-	<KilledBy.rulePack.rulesStrings.13>circumstance_phrase->感情を表に出さずに</KilledBy.rulePack.rulesStrings.13>
-	<KilledBy.rulePack.rulesStrings.14>circumstance_phrase->希望も無しに</KilledBy.rulePack.rulesStrings.14>
-	<KilledBy.rulePack.rulesStrings.15>circumstance_phrase->卑劣で、冷淡な方法で</KilledBy.rulePack.rulesStrings.15>
+		<li>circumstance_phrase->一見したところ無慈悲に</li>
+		<li>circumstance_phrase->冷酷に</li>
+		<li>circumstance_phrase->激しい怒りと共に</li>
+		<li>circumstance_phrase->素早く、無駄の無い動きで</li>
+		<li>circumstance_phrase->感情を表に出さずに</li>
+		<li>circumstance_phrase->希望も無しに</li>
+		<li>circumstance_phrase->卑劣で、冷淡な方法で</li>
 
-	<KilledBy.rulePack.rulesStrings.16>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</KilledBy.rulePack.rulesStrings.16>
-	<KilledBy.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase]の[animal]が、傍らで見ている。</KilledBy.rulePack.rulesStrings.17>
-	<KilledBy.rulePack.rulesStrings.18>desc_sentence->[side_position]の[outlander]が、静かに見張っている。</KilledBy.rulePack.rulesStrings.18>
-	<KilledBy.rulePack.rulesStrings.19>desc_sentence->[victim_nameShortDef]の周りに血だまりができている。</KilledBy.rulePack.rulesStrings.19>
-	<KilledBy.rulePack.rulesStrings.20>desc_sentence->[victim_nameShortDef]の眼は、現実的に死んだようにみえる。</KilledBy.rulePack.rulesStrings.20>
-	<KilledBy.rulePack.rulesStrings.21>desc_sentence->[killer_nameShortDef]は、[killer_possessive]歯を剥き出しにしている。</KilledBy.rulePack.rulesStrings.21>
-	<KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef]は満ち足りたように見える。</KilledBy.rulePack.rulesStrings.22>
-	<KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef]は、[killer_pronoun]がしたことを悩んでいる。</KilledBy.rulePack.rulesStrings.23>
-	<KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef]は、この状況に満足しているようだ。</KilledBy.rulePack.rulesStrings.24>
-	<KilledBy.rulePack.rulesStrings.25>desc_sentence->[killer_nameShortDef]は、得意になっているようだ。</KilledBy.rulePack.rulesStrings.25>
+		<li>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</li>
+		<li>desc_sentence->[quantity_adjphrase]の[animal]が、傍らで見ている。</li>
+		<li>desc_sentence->[side_position]の[outlander]が、静かに見張っている。</li>
+		<li>desc_sentence->[victim_nameShortDef]の周りに血だまりができている。</li>
+		<li>desc_sentence->[victim_nameShortDef]の眼は、現実的に死んだようにみえる。</li>
+		<li>desc_sentence->[killer_nameShortDef]は、[killer_possessive]歯を剥き出しにしている。</li>
+		<li>desc_sentence->[killer_nameShortDef]は満ち足りたように見える。</li>
+		<li>desc_sentence->[killer_nameShortDef]は、[killer_pronoun]がしたことを悩んでいる。</li>
+		<li>desc_sentence->[killer_nameShortDef]は、この状況に満足しているようだ。</li>
+		<li>desc_sentence->[killer_nameShortDef]は、得意になっているようだ。</li>
+	</KilledBy.rulePack.rulesStrings>
 
     <!-- SoldPrisoner -->
     <SoldPrisoner.label>prisoner sold</SoldPrisoner.label>
@@ -809,20 +811,22 @@
 	<KilledMajorColonyEnemy.label>major enymy killed</KilledMajorColonyEnemy.label>
 
 	<TradedWith.label>traded with someone</TradedWith.label>
-    <TradedWith.rulePack.rulesStrings.0>tale_noun->[seller_nameFull]、[buyer_nameFull]間での商取引</TradedWith.rulePack.rulesStrings.0>
+	<TradedWith.rulePack.rulesStrings>
+		<li>tale_noun->[seller_nameFull]、[buyer_nameFull]間での商取引</li>
 
-    <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull]は、 [circumstance_group] [seller_nameFull]からアイテムを買い取る</TradedWith.rulePack.rulesStrings.1>
-    <TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull]は、  [circumstance_group] [buyer_nameFull]にアイテムを売りつける</TradedWith.rulePack.rulesStrings.2>
+		<li>image->[buyer_nameFull]は、 [circumstance_group] [seller_nameFull]からアイテムを買い取る</li>
+		<li>image->[seller_nameFull]は、  [circumstance_group] [buyer_nameFull]にアイテムを売りつける</li>
 
-    <TradedWith.rulePack.rulesStrings.3>circumstance_phrase->貪欲な目つきで一心に</TradedWith.rulePack.rulesStrings.3>
-    <TradedWith.rulePack.rulesStrings.4>circumstance_phrase->その間、[seller_nameShortDef]が、 [buyer_shortNameDef]にニヤニヤ笑みを浮かべながら</TradedWith.rulePack.rulesStrings.4>
+		<li>circumstance_phrase->貪欲な目つきで一心に</li>
+		<li>circumstance_phrase->その間、[seller_nameShortDef]が、 [buyer_shortNameDef]にニヤニヤ笑みを浮かべながら</li>
 
-    <TradedWith.rulePack.rulesStrings.5>desc_sentence->[buyer_nameShortDef]は、 [seller_nameShortDef]の商品を品定めしている。</TradedWith.rulePack.rulesStrings.5>
-    <TradedWith.rulePack.rulesStrings.6>desc_sentence->[seller_nameShortDef]はアイテムを検討している。</TradedWith.rulePack.rulesStrings.6>
-    <TradedWith.rulePack.rulesStrings.7>desc_sentence->[seller_nameShortDef]は値切り始める。</TradedWith.rulePack.rulesStrings.7>
-    <TradedWith.rulePack.rulesStrings.8>desc_sentence->[buyer_nameShortDef]は、 [seller_nameShortDef]と激論を交わす。</TradedWith.rulePack.rulesStrings.8>
-    <TradedWith.rulePack.rulesStrings.9>desc_sentence->[seller_nameShortDef]と、[buyer_nameShortDef]は、 売買価格で同意した。</TradedWith.rulePack.rulesStrings.9>
-    <TradedWith.rulePack.rulesStrings.10>desc_sentence->[buyer_nameShortDef]はアイテムの代金を支払う。</TradedWith.rulePack.rulesStrings.10>
-    <TradedWith.rulePack.rulesStrings.11>desc_sentence->[seller_nameShortDef]は、[seller_possessive]から受け取ったお金を数えている。</TradedWith.rulePack.rulesStrings.11>
-    <TradedWith.rulePack.rulesStrings.12>desc_sentence->[buyer_nameShortDef]は、[buyer_possessive] goodsをtaking.</TradedWith.rulePack.rulesStrings.12>
+		<li>desc_sentence->[buyer_nameShortDef]は、 [seller_nameShortDef]の商品を品定めしている。</li>
+		<li>desc_sentence->[seller_nameShortDef]はアイテムを検討している。</li>
+		<li>desc_sentence->[seller_nameShortDef]は値切り始める。</li>
+		<li>desc_sentence->[buyer_nameShortDef]は、 [seller_nameShortDef]と激論を交わす。</li>
+		<li>desc_sentence->[seller_nameShortDef]と、[buyer_nameShortDef]は、 売買価格で同意した。</li>
+		<li>desc_sentence->[buyer_nameShortDef]はアイテムの代金を支払う。</li>
+		<li>desc_sentence->[seller_nameShortDef]は、[seller_possessive]から受け取ったお金を数えている。</li>
+		<li>desc_sentence->[buyer_nameShortDef]は、[buyer_possessive] goodsをtaking.</li>
+	</TradedWith.rulePack.rulesStrings>
 </LanguageData>

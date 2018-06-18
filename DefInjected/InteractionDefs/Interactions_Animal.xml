@@ -32,7 +32,11 @@
 	</rep>
 
 	<Nuzzle.label>すり寄ってくる</Nuzzle.label>
-	<Nuzzle.logRulesInitiator.rulesStrings.0>logentry->[other_nameShortIndef]にすり寄った。</Nuzzle.logRulesInitiator.rulesStrings.0>
-	<Nuzzle.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef]がすり寄ってきた。</Nuzzle.logRulesRecipient.rulesStrings.0>
+	<Nuzzle.logRulesInitiator.rulesStrings>
+		<li>logentry->[other_nameShortIndef]にすり寄った。</li>
+	</Nuzzle.logRulesInitiator.rulesStrings>
+	<Nuzzle.logRulesRecipient.rulesStrings>
+		<li>logentry->[other_nameShortIndef]がすり寄ってきた。</li>
+	</Nuzzle.logRulesRecipient.rulesStrings>
 
 </LanguageData>
