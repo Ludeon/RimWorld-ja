@@ -16,7 +16,7 @@
 	</rep>
 	<rep>
 		<path>Bloodlust.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。 [PAWN_pronoun]は、人より倍ほど喧嘩っぱやいです。</trans>
+		<trans>[PAWN_nameDef]は、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。 [PAWN_pronoun]は、人より4倍ほど喧嘩っぱやいです。</trans>
 	</rep>
 
 	<Kind.degreeDatas.0.label>善人</Kind.degreeDatas.0.label>
@@ -76,40 +76,13 @@
 		<trans>[PAWN_nameDef]は痛めつけられる事で興奮します。[PAWN_pronoun]が何故そうなのか？は知られていないけれども、変人だということは、よく知られています。</trans>
 	</rep>
 
-	<rep>
-		<path>Prosthophile.degreeDatas[0].label</path>
-		<trans>義体化願望</trans>
-	</rep>
-	<rep>
-		<path>Prosthophile.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、弱々しい人間の身体に限界を感じています。[PAWN_pronoun]は、しばしば自分が義体化する夢をみます。</trans>
-	</rep>
-
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].label</path>
-		<trans>自然体主義</trans>
-	</rep>
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、故あって人体には限界があると信じているので、[PAWN_pronoun]にとって、義体化は倫理に反する事と捉えています。</trans>
-	</rep>
-
-	<rep>
-		<path>GreenThumb.degreeDatas[0].label</path>
-		<trans>庭師の才能</trans>
-	</rep>
-	<rep>
-		<path>GreenThumb.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、ガーディニングへの情熱を持っています。[PAWN_pronoun]は、[PAWN_pronoun]が植物を見るたびに気分にボーナスを得ます。</trans>
-	</rep>
-
     <rep>
         <path>NightOwl.degreeDatas[0].label</path>
         <trans>よたか</trans>
     </rep>
     <rep>
         <path>NightOwl.degreeDatas[0].description</path>
-        <trans>[PAWN_nameDef]は夜起きて、昼寝るのが好きです。\n\n[PAWN_pronoun] は、夜(23時-06時)起きているとムードにボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。</trans>
+        <trans>[PAWN_nameDef]は夜起きて、昼寝るのが好きです。\n\n[PAWN_pronoun] は、夜(23時-06時)起きているとムードにボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。.\n\n[PAWN_pronoun] doesn't get a mood penalty for being in the dark.</trans>
     </rep>
 
     <rep>
@@ -149,24 +122,6 @@
 	</rep>
 
 	<rep>
-		<path>DislikesMen.degreeDatas[0].label</path>
-		<trans>男嫌い</trans>
-	</rep>
-	<rep>
-		<path>DislikesMen.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、男嫌いで まったく男性を信用しません。</trans>
-	</rep>
-
-	<rep>
-		<path>DislikesWomen.degreeDatas[0].label</path>
-		<trans>女嫌い</trans>
-	</rep>
-	<rep>
-		<path>DislikesWomen.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、女嫌いで まったく女性を信用しません。</trans>
-	</rep>
-
-	<rep>
 		<path>AnnoyingVoice.degreeDatas[0].label</path>
 		<trans>気に障る声</trans>
 	</rep>
@@ -202,7 +157,32 @@
     <FastLearner.degreeDatas.0.label>物覚えが良い</FastLearner.degreeDatas.0.label>
     <FastLearner.degreeDatas.0.description>[PAWN_nameDef]は物覚えのコツを持っています。[PAWN_pronoun]は他の人より早く物事を覚えます。</FastLearner.degreeDatas.0.description>
 
-    <SuperImmune.degreeDatas.0.label>超免疫力</SuperImmune.degreeDatas.0.label>
-    <SuperImmune.degreeDatas.0.description>[PAWN_nameDef]は生まれつき、強力な免疫システムを備えています。[PAWN_pronoun]は普通の人が得られる速度より早く免疫を得られるでしょう、そして他の人は死んでしまうような疾病でも生き残ることができます。</SuperImmune.degreeDatas.0.description>
+    <Indoorsman.degreeDatas.0.label>Indoorsman</Indoorsman.degreeDatas.0.label>
+    <Indoorsman.degreeDatas.0.description>[PAWN_nameDef] has no need to experience the outdoors. [PAWN_pronoun] will never feel cooped up or get cabin fever, no matter how long [PAWN_pronoun] stays inside.</Indoorsman.degreeDatas.0.description>
+
+    <!-- The below really probably should've been spectrum traits -->
+    <Transhumanist.degreeDatas.0.label>transhumanist</Transhumanist.degreeDatas.0.label>
+    <Transhumanist.degreeDatas.0.description>[PAWN_nameDef] feels limited in [PAWN_possessive] feeble human body. [PAWN_pronoun] often dreams of being enhanced by artificial body parts.</Transhumanist.degreeDatas.0.description>
+
+    <BodyPurist.degreeDatas.0.label>body purist</BodyPurist.degreeDatas.0.label>
+    <BodyPurist.degreeDatas.0.description>[PAWN_nameDef] believes the human body is limited for a reason. To [PAWN_objective], artificial body parts are unethical and disgusting.</BodyPurist.degreeDatas.0.description>
+
+    <DislikesMen.degreeDatas.0.label>男嫌い</DislikesMen.degreeDatas.0.label>
+    <DislikesMen.degreeDatas.0.description>[PAWN_nameDef]は、男嫌いで まったく男性を信用しません。</DislikesMen.degreeDatas.0.description>
+
+    <DislikesWomen.degreeDatas.0.label>女嫌い</DislikesWomen.degreeDatas.0.label>
+    <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef]は、女嫌いで まったく女性を信用しません。</DislikesWomen.degreeDatas.0.description>
+
+    <GreatMemory.degreeDatas.0.label>great memory</GreatMemory.degreeDatas.0.label>
+    <GreatMemory.degreeDatas.0.description>[PAWN_nameDef] has a fantastic memory for detail. [PAWN_pronoun] will lose unused skills at half the rate of other people.</GreatMemory.degreeDatas.0.description>
+
+    <Tough.degreeDatas.0.label>tough</Tough.degreeDatas.0.label>
+    <Tough.degreeDatas.0.description>[PAWN_nameDef] has thick skin, dense flesh, and durable bones. [PAWN_pronoun] takes much less damage than other people from the same blows. [PAWN_pronoun] is extremely hard to kill.</Tough.degreeDatas.0.description>
+
+    <Gourmand.degreeDatas.0.label>gourmand</Gourmand.degreeDatas.0.label>
+    <Gourmand.degreeDatas.0.description>[PAWN_nameDef]'s life revolves around food. [PAWN_pronoun] gets hungry quickly, and if [PAWN_pronoun] is in a bad mood, [PAWN_pronoun] will often satisfy [PAWN_objective]self by eating.</Gourmand.degreeDatas.0.description>
+
+    <QuickSleeper.degreeDatas.0.label>quick sleeper</QuickSleeper.degreeDatas.0.label>
+    <QuickSleeper.degreeDatas.0.description>[PAWN_nameDef] doesn't need as much sleep as the average person. Whether [PAWN_pronoun]'s sleeping on a bed or on the ground, [PAWN_pronoun] will be fully rested in about two thirds the usual time.</QuickSleeper.degreeDatas.0.description>
 
 </LanguageData>

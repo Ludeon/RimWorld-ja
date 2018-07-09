@@ -3,44 +3,97 @@
 
   <!-- Random social interactions -->
 
+    <!-- Chitchat -->
     <Chitchat.label>世間話</Chitchat.label>
-	<rep>
-		<path>Chitchat.logRulesInitiator.rulesStrings[0]</path>
-		<trans>logentry->[other_nameShortIndef] と雑談した。</trans>
-	</rep>
+    <Chitchat.logRulesInitiator.rulesStrings>
+	    <li>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [TalkTopic_light].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] [TalkTopic_light] with [RECIPIENT_nameIndef].</li>
+	    <li>talkedabout(p=4)->chatted about</li>
+	    <li>talkedabout->shared a word about</li>
+	    <li>talkedabout->spoke about</li>
+	    <li>talkedabout->gabbed about</li>
+	    <li>talkedabout->talked about</li>
+	    <li>talkedabout->joked about</li>
+	    <li>talkedabout->quipped about</li>
+    </Chitchat.logRulesInitiator.rulesStrings>
 
+    <!-- DeepTalk -->
     <DeepTalk.label>込み入った話</DeepTalk.label>
-	<rep>
-		<path>DeepTalk.logRulesInitiator.rulesStrings[0]</path>
-		<trans>logentry->[other_nameShortIndef] と話しこんだ。</trans>
-	</rep>
+    <DeepTalk.logRulesInitiator.rulesStrings>
+	    <li>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [subject].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] [subject] with [RECIPIENT_nameIndef].</li>
+	    <li>talkedabout->communicated thoughts about</li>
+	    <li>talkedabout->exchanged thoughts about</li>
+	    <li>talkedabout->exchanged ideas about</li>
+	    <li>talkedabout->shared views on</li>
+	    <li>talkedabout->shared beliefs on</li>
+	    <li>talkedabout->discussed the topic of</li>
+	    <li>talkedabout->had a heartfelt conversation about</li>
+	    <li>talkedabout->talked quietly about</li>
+	    <li>talkedabout->talked deeply about</li>
+	    <li>talkedabout->connected on the topic of</li>
+	    <li>subject->[TalkTopicHeavy]</li>
+    </DeepTalk.logRulesInitiator.rulesStrings>
 
+    <!-- Slight -->
     <Slight.label>冷たくあしらわれた</Slight.label>
-	<rep>
-		<path>Slight.logRulesInitiator.rulesStrings[0]</path>
-		<trans>logentry->[other_nameShortIndef] を冷たくあしらった。 </trans>
-	</rep>
-	<rep>
-		<path>Slight.logRulesRecipient.rulesStrings[0]</path>
-		<trans>logentry->[other_nameShortIndef] に冷たくあしらわれた。 </trans>
-	</rep>
+    <Slight.logRulesInitiator.rulesStrings>
+	    <li>r_logentry->[INITIATOR_nameIndef] [madefunof] [target]'s [PersonalCharacteristic].</li>
+	    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
+	    <li>target->[RECIPIENT_nameIndef]'s [Family]</li>
+	    <li>madefunof->made fun of</li>
+	    <li>madefunof->disrespected</li>
+	    <li>madefunof->subtly scorned</li>
+	    <li>madefunof->subtly shamed</li>
+	    <li>madefunof->spoke badly of</li>
+	    <li>madefunof->spoke negatively of</li>
+	    <li>madefunof->laughed at</li>
+	    <li>madefunof->sniggered at</li>
+	    <li>madefunof->implied negative things about</li>
+	    <li>madefunof->belittled</li>
+	    <li>madefunof->made a contemptuous remark about</li>
+	    <li>madefunof->offered a backhanded compliment about</li>
+    </Slight.logRulesInitiator.rulesStrings>
 
+    <!-- Insult -->
     <Insult.label>侮辱</Insult.label>
-	<rep>
-		<path>Insult.logRulesInitiator.rulesStrings[0]</path>
-		<trans>logentry->[other_nameShortIndef] を侮辱した。 </trans>
-	</rep>
-	<rep>
-		<path>Insult.logRulesRecipient.rulesStrings[0]</path>
-		<trans>logentry->[other_nameShortIndef] に侮辱された。 </trans>
-	</rep>
+    <Insult.logRulesInitiator.rulesStrings>
+	    <li>r_logentry(p=3)->[INITIATOR_nameIndef] [insulted] [target]'s [PersonalCharacteristic].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef] compared [target] to a [insultcomparison].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef] called [target] a [insultcomparison].</li>
+	    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
+	    <li>target->[RECIPIENT_nameIndef]'s [Family]</li>
+	    <li>insulted(p=3)->insulted</li>
+	    <li>insulted->openly insulted</li>
+	    <li>insulted->loudly insulted</li>
+	    <li>insulted->flagrantly insulted</li>
+	    <li>insulted->directly insulted</li>
+	    <li>insulted->viciously insulted</li>
+	    <li>insulted->flagrantly disrespected</li>
+	    <li>insulted->slandered</li>
+	    <li>insulted->hurled invective about</li>
+	    <li>insulted->derided</li>
+	    <li>insultcomparison(p=2)->[Animal]</li>
+	    <li>insultcomparison->[Enemy]</li>
+    </Insult.logRulesInitiator.rulesStrings>
 
+    <!-- KindWords -->
     <KindWords.label>優しい言葉</KindWords.label>
-	<KindWords.logRulesInitiator.rulesStrings>
-		<li>logentry->[other_nameShortIndef]に優しい言葉をかけた。</li>
-	</KindWords.logRulesInitiator.rulesStrings>
-	<KindWords.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef]から優しい言葉をかけられた。</li>
-	</KindWords.logRulesRecipient.rulesStrings>
+    <KindWords.logRulesInitiator.rulesStrings>
+	    <li>r_logentry->[INITIATOR_nameIndef] [complimented] [RECIPIENT_nameIndef]'s [PersonalCharacteristic].</li>
+	    <li>complimented(p=3)->complimented</li>
+	    <li>complimented->praised</li>
+	    <li>complimented->commended</li>
+	    <li>complimented->lauded</li>
+	    <li>complimented->applauded</li>
+	    <li>complimented->celebrated</li>
+	    <li>complimented->saluted</li>
+	    <li>complimented->spoke kindly of</li>
+	    <li>complimented->expressed good things about</li>
+	    <li>complimented->offered kinds words about</li>
+	    <li>complimented->verbally appreciated</li>
+	    <li>complimented->expressed appreciation for</li>
+	    <li>complimented->said good things about</li>
+    </KindWords.logRulesInitiator.rulesStrings>
 
 </LanguageData>

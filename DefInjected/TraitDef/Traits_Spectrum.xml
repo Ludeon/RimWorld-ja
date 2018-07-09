@@ -275,4 +275,9 @@
 		<trans>[PAWN_nameDef]は驚くほど醜いです。 [PAWN_possessive]顔は才能のない子供が描いた絵、防腐剤入りの瓶に詰められた奇形の胎児、そして現代アートの作品らを足して割ったように見えます。会話の最中、相手は[PAWN_pronoun]を見るのに意識して努力をしなければなりません。</trans>
 	</rep>
 
+    <Immunity.degreeDatas.0.label>超免疫力</Immunity.degreeDatas.0.label>
+    <Immunity.degreeDatas.0.description>[PAWN_nameDef]は生まれつき、強力な免疫システムを備えています。[PAWN_pronoun]は普通の人が得られる速度より早く免疫を得られるでしょう、そして他の人は死んでしまうような疾病でも生き残ることができます。</Immunity.degreeDatas.0.description>
+    <Immunity.degreeDatas.1.label>免疫不全</Immunity.degreeDatas.1.label>
+    <Immunity.degreeDatas.1.description>[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.</Immunity.degreeDatas.1.description>
+
 </LanguageData>
