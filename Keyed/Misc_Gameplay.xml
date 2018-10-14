@@ -13,7 +13,7 @@
     <Owner>所有者</Owner>
     <Owners>所有者</Owners>
     <AssignedColonist>担当者</AssignedColonist>
-    <DiedOn>{0}で死ぬ</DiedOn>
+    <DiedOn>{0}に死亡</DiedOn>
     <Nobody>無し</Nobody>
     <Unowned>空き</Unowned>
     <DeadTime>死後 {0}</DeadTime>
@@ -204,8 +204,8 @@
     <TextMote_ConstructionFail>建築に失敗</TextMote_ConstructionFail>
     <TextMote_Dodge>回避</TextMote_Dodge>
     <TextMote_Tended>{0} 看病された</TextMote_Tended>
-    <lowMood>心情 低い</lowMood>
-    <lowOpinion>評価 低い</lowOpinion>
+    <lowMood>低心情</lowMood>
+    <lowOpinion>低評価</lowOpinion>
 
     <!-- Areas -->
     <Home>コロニー</Home>
@@ -233,7 +233,7 @@
     <!-- Turrets -->
     <GunInstalled>武装</GunInstalled>
     <MinimumRange>砲撃可能最小半径</MinimumRange>
-    <CanFireIn>射撃開始まで</CanFireIn>
+    <CanFireIn>射撃可能まで</CanFireIn>
     <CannotFire>発砲できない</CannotFire>
     <Roofed>屋根の下</Roofed>
     <ShellLoaded>装填済み: {1_label}</ShellLoaded>
@@ -413,7 +413,6 @@
     <ShowWorldFeaturesToggleButton>地形の名称表示を切り替えます</ShowWorldFeaturesToggleButton>
 
     <!-- Fire -->
-    <Fire>火災</Fire>
     <FireOn>{1_label} が 燃えている</FireOn>
     <Burning>炎上中</Burning>
     <FireSizeLower>炎上サイズ {0}</FireSizeLower>
@@ -568,9 +567,9 @@
     <ForagedFoodAmount>食料調達量</ForagedFoodAmount>
 
     <!-- Outfits -->
-    <OutfitAnything>なんでも</OutfitAnything>
-    <OutfitWorker>作業者</OutfitWorker>
-    <OutfitSoldier>戦闘員</OutfitSoldier>
+    <OutfitAnything>制限無し</OutfitAnything>
+    <OutfitWorker>作業服</OutfitWorker>
+    <OutfitSoldier>戦闘服</OutfitSoldier>
     <OutfitNudist>ヌーディスト</OutfitNudist>
 
     <!-- Hibernatable -->

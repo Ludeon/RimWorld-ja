@@ -66,10 +66,10 @@
 
     <!-- Distant psychic drone -->
     <LetterLabelPsychicDrone>サイコドローン</LetterLabelPsychicDrone>
-    <LetterIncidentPsychicDrone>入植者の全{0}が痛みに顔をしかめます!\n\n少し遠い所にある 憎悪エンジンが 活発に活動しています.それは この一帯に 強力な サイコドローンを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の心情は 相当悪くなります.\n\nドローンレベル:{1}</LetterIncidentPsychicDrone>
+    <LetterIncidentPsychicDrone>入植者の全{0}が痛みに顔をしかめます!\n\n少し遠い所にある 憎悪エンジンが 活発に活動しています.それは この一帯に 強力な サイコドローンを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の"心情"は 相当悪くなります.\n\nドローンレベル:{1}</LetterIncidentPsychicDrone>
 
     <LetterLabelPsychicSoothe>サイコスード</LetterLabelPsychicSoothe>
-    <LetterIncidentPsychicSoothe>入植者の全{0}が満足なほほえみを浮かべます！\n\n少し遠い所にある 幸福エンジンが 活発に活動しています. それは この一帯に 強力な サイコスードを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の心情は 相当良くなります.</LetterIncidentPsychicSoothe>
+    <LetterIncidentPsychicSoothe>入植者の全{0}が満足なほほえみを浮かべます！\n\n少し遠い所にある 幸福エンジンが 活発に活動しています. それは この一帯に 強力な サイコスードを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の"心情"は 相当良くなります.</LetterIncidentPsychicSoothe>
 
     <!-- Beavers -->
     <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>
@@ -127,6 +127,7 @@
     <LetterCaravanRequest>拠点の近く,{0},特別な取引を,あなたに持ちかけてきました.購入品:\n\n  {1} (価値 {2})\n\n見返りとして提示額:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\n取引に興味があれば,要求した品と共にキャラバン隊を送ります.到着までに必要な時間は{6}.この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
     <CaravanRequestInfo>要求: {0}({3}),報酬: {1}({4}) (残り{2})</CaravanRequestInfo>
     <NormalQualityOrBetter>普通以上の品質</NormalQualityOrBetter>
+    <NotTainted>汚れなし</NotTainted>
 
     <!-- Caravan demand -->
     <CaravanDemandTitle>{0}からの ゆすり,たかり</CaravanDemandTitle>
