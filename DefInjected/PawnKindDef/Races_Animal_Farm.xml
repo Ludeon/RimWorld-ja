@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>アルパカ</Alpaca.label>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ニワトリ</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>メンドリ</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>オンドリ</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>ヒヨコ</Chicken.lifeStages.chick.label>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>ヒヨコ</Chicken.lifeStages.cockerel.labelMale>
+  
+  <!-- EN: cow -->
+  <Cow.label>ウシ</Cow.label>
+  <!-- EN: cow -->
+  <Cow.labelFemale>メウシ</Cow.labelFemale>
+  <!-- EN: bull -->
+  <Cow.labelMale>オウシ</Cow.labelMale>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>子ウシ</Cow.lifeStages.calf.label>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>子ウシ</Cow.lifeStages.calf.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>ブタ</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>メスブタ</Pig.labelFemale>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>子ブタ</Pig.lifeStages.piglet.label>
+  
+</LanguageData>

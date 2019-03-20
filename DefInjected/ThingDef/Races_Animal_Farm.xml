@@ -1,36 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Chicken.label>ニワトリ</Chicken.label>
-    <Chicken.description>もっとも伝統的な家禽です,鶏から,卵と肉が採れます.</Chicken.description>
-    <Meat_Chicken.label>ニワトリの肉</Meat_Chicken.label>
-    <Meat_Chicken.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.とても成長が速く,よく卵を産みます.</Meat_Chicken.description>
-    <Chicken.tools.claws.label>爪</Chicken.tools.claws.label>
-    <Chicken.tools.beak.label>嘴</Chicken.tools.beak.label>
-    <Chicken.tools.head.label>頭部</Chicken.tools.head.label>
-
-    <Pig.label>ブタ</Pig.label>
-    <Pig.description>ブタは,人によって飼い馴らされた最初の動物の一つでした.豚からは,一般に肉と皮が採れます,そして肉でも野菜でも食べるので育てるのは簡単です.ブタは性質的に利己的ですが,複雑な仕事を訓練することはできます.</Pig.description>
-    <Meat_Pig.label>ブタ肉</Meat_Pig.label>
-    <Meat_Pig.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Pig.description>
-    <Pig.race.meatLabel>豚肉</Pig.race.meatLabel>
-    <Pig.tools.head.label>頭部</Pig.tools.head.label>
-
-    <Cow.label>ウシ</Cow.label>
-    <Cow.description>飼い慣らされた,大きな有蹄動物で,ウシは,多くの牛乳,肉,革を産むように数千年も品種改良されてきました.かれらは,ことのほか穏やかな生き物で,復讐しようとはしませんし,どれほど傷つけられても気にしません.ほとんど彼らは農場生活に適応しており,野性では生きていけません.</Cow.description>
-    <Meat_Cow.label>ウシの肉</Meat_Cow.label>
-    <Meat_Cow.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cow.description>
-    <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
-    <Cow.tools.head.label>頭部</Cow.tools.head.label>
-    <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
-    <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
-
-    <Alpaca.label>アルパカ</Alpaca.label>
-    <Alpaca.description>ラマと近縁の中型有蹄類です,アルパカは,並外れて柔らかくて熱を通さない毛をとるために飼育されています.アルパカはまた,駄載獣としても使われています.古代南アメリカのゴツゴツした山岳地帯で荷物を運んでいました.</Alpaca.description>
-    <Meat_Alpaca.label>アルパカの肉</Meat_Alpaca.label>
-    <Meat_Alpaca.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Alpaca.description>
-    <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
-    <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
-    <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
-
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>アルパカ</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America -->
+  <Alpaca.description>ラマと近縁の中型有蹄類です,アルパカは,並外れて柔らかくて熱を通さない毛をとるために飼育されています.アルパカはまた,駄載獣としても使われています.古代南アメリカのゴツゴツした山岳地帯で荷物を運んでいました.</Alpaca.description>
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ニワトリ</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>もっとも伝統的な家禽です,鶏から,卵と肉が採れます.</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>爪</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>嘴</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>頭部</Chicken.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>ウシ</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>飼い慣らされた,大きな有蹄動物で,ウシは,多くの牛乳,肉,革を産むように数千年も品種改良されてきました.かれらは,ことのほか穏やかな生き物で,復讐しようとはしませんし,どれほど傷つけられても気にしません.ほとんど彼らは農場生活に適応しており,野性では生きていけません.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>頭部</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>ブタ</Pig.label>
+  <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
+  <Pig.description>ブタは,人によって飼い馴らされた最初の動物の一つでした.豚からは,一般に肉と皮が採れます,そして肉でも野菜でも食べるので育てるのは簡単です.ブタは性質的に利己的ですが,複雑な仕事を訓練することはできます.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>豚肉</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>頭部</Pig.tools.head.label>
+  
 </LanguageData>

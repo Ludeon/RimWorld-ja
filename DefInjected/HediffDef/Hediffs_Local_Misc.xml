@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>化学的損傷</ChemicalDamageModerate.label>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>化学的損傷</ChemicalDamageSevere.label>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>肝硬変</Cirrhosis.label>
+  <Cirrhosis.labelNoun>肝硬変</Cirrhosis.labelNoun>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>蘇生精神病</ResurrectionPsychosis.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>初期</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>初期</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>中期</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>後期</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>完全</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>完全</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>カタトニー</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>後天性サヴァン症</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>後天性サヴァン症</TraumaSavant.labelNoun>
+  
+</LanguageData>
