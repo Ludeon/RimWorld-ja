@@ -1,52 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- EN: a -->
-  <IndefiniteArticle></IndefiniteArticle>
-  <!-- EN: the -->
-  <DefiniteArticle></DefiniteArticle>
-  <!-- EN: a {0} -->
+  <IndefiniteArticle> </IndefiniteArticle>
+  <DefiniteArticle> </DefiniteArticle>
   <IndefiniteForm>{0}</IndefiniteForm>
-  <!-- EN: the {0} -->
   <DefiniteForm>{0}</DefiniteForm>
 
-  <!-- EN: its -->
   <Proits>その</Proits>
-  <!-- EN: his -->
   <Prohis>彼の</Prohis>
-  <!-- EN: her -->
   <Proher>彼女の</Proher>
-  <!-- EN: Its -->
   <ProitsCap>その</ProitsCap>
-  <!-- EN: His -->
   <ProhisCap>彼の</ProhisCap>
-  <!-- EN: Her -->
   <ProherCap>彼女の</ProherCap>
 
-  <!-- EN: it -->
   <ProitObj>その</ProitObj>
-  <!-- EN: him -->
   <ProhimObj>彼を</ProhimObj>
-  <!-- EN: her -->
   <ProherObj>彼女を</ProherObj>
-  <!-- EN: It -->
   <ProitObjCap>その</ProitObjCap>
-  <!-- EN: Him -->
   <ProhimObjCap>彼に</ProhimObjCap>
-  <!-- EN: Her -->
   <ProherObjCap>彼女に</ProherObjCap>
 
-  <!-- EN: he -->
   <Prohe>彼</Prohe>
-  <!-- EN: she -->
   <Proshe>彼女</Proshe>
-  <!-- EN: it -->
   <Proit>その</Proit>
-  <!-- EN: He -->
   <ProheCap>彼</ProheCap>
-  <!-- EN: She -->
   <ProsheCap>彼女</ProsheCap>
-  <!-- EN: It -->
   <ProitCap>その</ProitCap>
+
 
 </LanguageData>
