@@ -193,7 +193,7 @@
 
     <MessageReformedCaravan>キャラバン隊を再編成しました.</MessageReformedCaravan>
 
-    <MessageCantBanishLastColonist>最後の一人を放棄することはできません.</MessageCantBanishLastColonist>
+    <MessageCantBanishLastColonist>最後の一人を追放することはできません.</MessageCantBanishLastColonist>
 
     <MessageCantEquipIncapableOfViolence>装備不可:{1_labelShort}は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
     <MessageCantEquipIncapableOfManipulation>装備不可:欠点に該当しています.</MessageCantEquipIncapableOfManipulation>
@@ -296,7 +296,7 @@
     <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので {1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
     <MessageAnimalLostSkill>定期的に訓練していなかったので {ANIMAL_labelShort}はスキルを忘れました：{1}</MessageAnimalLostSkill>
 
-    <MessageTranslationReportSaved>翻訳結果レポートを{0}に書きました.</MessageTranslationReportSaved>
+    <MessageTranslationReportSaved>翻訳ファイルの検証結果を{0}に出力しました.</MessageTranslationReportSaved>
 
     <MessageCaravanArrivalActionNoLongerValid>{0}は,その目的地に着くことができません.</MessageCaravanArrivalActionNoLongerValid>
 

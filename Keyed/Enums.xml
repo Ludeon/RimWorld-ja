@@ -77,7 +77,7 @@
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>コンテンツファイルの準備</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>コンテンツのアップロード</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>プレビューのアップロード</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>修正履歴</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <ContentSource_LocalFolder>ローカルフォルダー</ContentSource_LocalFolder>
@@ -86,9 +86,9 @@
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>治療放棄</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>治療する(薬品は不使用)</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>治療する(薬草まで投与)</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>治療する(薬剤まで投与)</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>最高品質の医薬品を投与</MedicalCareCategory_Best>
+  <MedicalCareCategory_HerbalOrWorse>治療する(薬草まで使用)</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>治療する(医薬品まで使用)</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>治療する(最先端医薬品まで使用)</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <HostilityResponseMode_Ignore>無視</HostilityResponseMode_Ignore>
