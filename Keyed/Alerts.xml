@@ -8,18 +8,18 @@
     <BreakRiskExtreme>精神崩壊の危険（致命的）</BreakRiskExtreme>
     <BreakRiskMinorDesc>次の者は精神状態が不安定であり,軽度な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMinorDesc>
     <BreakRiskMajorDesc>次の者は精神状態が不安定であり,重大な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMajorDesc>
-    <BreakRiskExtremeDesc>次の者は重大なストレスを抱えており,致命的な精神崩壊（他者への暴力の可能性有り）を起こす危険性があります.:\n\n{0}</BreakRiskExtremeDesc>
-    <BreakRiskDescEnding>これらの者たちの"欲求"タブを見ることで,ストレスの原因を確認できます.\n\nストレス解消の方法としては,例えば豊富な食事,遊戯の時間,良質な遊戯品,清潔な環境,タバコやお酒を与える等があります。<BreakRiskDescEnding>
+    <BreakRiskExtremeDesc>次の者は精神的に圧迫されており,致命的な精神崩壊（他者への暴力の可能性有り）を起こす危険性があります.:\n\n{0}</BreakRiskExtremeDesc>
+    <BreakRiskDescEnding>これらの者たちの"欲求"タブを見ることで,精神的圧迫の原因を確認できます.\n\n解消の方法としては,例えば豊富な食事,遊戯の時間,良質な遊戯品,清潔な環境,タバコやお酒を与える等があります。<BreakRiskDescEnding>
 
-    <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
-    <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
-    <ColonistsNeedRescueDesc>次の入植者は 一歩も動けません.\n\n{0}\n他の入植者に救助を指示して, ベッドまで運ばせましょう.\n\n(別の入植者を選択し 救助対象者を右クリックして "救助"を 指示します)</ColonistsNeedRescueDesc>
+    <ColonistNeedsRescue>歩行不能者発生</ColonistNeedsRescue>
+    <ColonistsNeedRescue>歩行不能者複数発生</ColonistsNeedRescue>
+    <ColonistsNeedRescueDesc>次の者は,自分で動くことができません.\n\n{0}\n他の者に,安全な場所まで運んでもらいましょう.\n\n(救助するには、他の者を選択した状態で、歩行不能者を右クリックし、"救助"を選択。)</ColonistsNeedRescueDesc>
 
-    <NeedDefenses>侵略にそなえる</NeedDefenses>
-    <NeedDefensesDesc>宙賊が この村を 品定め しています. いつ 襲撃を はじめても おかしくありません.\n\n備えあれば 憂いなし です,罠や土のうなどの準備をしましょう.</NeedDefensesDesc>
+    <NeedDefenses>防備不足</NeedDefenses>
+    <NeedDefensesDesc>ここに到着してからしばらく経っており,きっと墜落を見られていたことでしょう.近いうちに盗賊の襲撃があるはずです.\n\n防備として,罠や土のうなどを配備しましょう.</NeedDefensesDesc>
 
-    <NeedDoctor>医者が必要</NeedDoctor>
-    <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 「医者」を割り振られた 健常な入植者が一人もいません.\n\n{0}\n健常な 入植者に 「医者」を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して完治しなくなるかもしれません.</NeedDoctorDesc>
+    <NeedDoctor>医者不足</NeedDoctor>
+    <NeedDoctorDesc>これらの者たちは,治療を必要としていますが,手が空いている医者がいません.\n\n{0}\n健康な者に医者を職務として割り当てましょう.放っておくと,回復できずに後遺症が残る危険性があります.</NeedDoctorDesc>
 
     <NeedMiner>坑夫が必要</NeedMiner>
     <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」を割り振られた 入植者が一人もいません.\n\n入植者に 「採掘」を 割り振りましょう.</NeedMinerDesc>
