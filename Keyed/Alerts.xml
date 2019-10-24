@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
+    <ClickToJumpToProblem>ここをクリックして問題へカメラ移動</ClickToJumpToProblem>
 
-    <BreakRiskMinor>精神変調 リスク</BreakRiskMinor>
-    <BreakRiskMajor>精神衰弱 リスク</BreakRiskMajor>
-    <BreakRiskExtreme>精神崩壊 リスク</BreakRiskExtreme>
-    <BreakRiskMinorDesc>次の入植者の"心情"が低く,いつ精神変調を起こすかもしれません:\n\n{0}</BreakRiskMinorDesc>
-    <BreakRiskMajorDesc>次の入植者の"心情"がとても低く,いつ精神衰弱を起こすかもしれません:\n\n{0}</BreakRiskMajorDesc>
-    <BreakRiskExtremeDesc>次の入植者は重篤なストレスを受けていて,今にも精神崩壊を起こしそうです(たぶん暴力的..):\n\n{0}</BreakRiskExtremeDesc>
-    <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするには,おいしい食事を用意したり,もっと娯楽の時間や,娯楽種類を増やしたり,良い住環境を用意する,ドラッグをやる機会を作る,などの事をしてやりましょう.</BreakRiskDescEnding>
+    <BreakRiskMinor>精神崩壊の危険（軽微）</BreakRiskMinor>
+    <BreakRiskMajor>精神崩壊の危険（重大）</BreakRiskMajor>
+    <BreakRiskExtreme>精神崩壊の危険（致命的）</BreakRiskExtreme>
+    <BreakRiskMinorDesc>次の者は精神状態が不安定であり,軽度な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMinorDesc>
+    <BreakRiskMajorDesc>次の者は精神状態が不安定であり,重大な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMajorDesc>
+    <BreakRiskExtremeDesc>次の者は重大なストレスを抱えており,致命的な精神崩壊（他者への暴力の可能性有り）を起こす危険性があります.:\n\n{0}</BreakRiskExtremeDesc>
+    <BreakRiskDescEnding>これらの者たちの"欲求"タブを見ることで,ストレスの原因を確認できます.\n\nストレス解消の方法としては,例えば豊富な食事,遊戯の時間,良質な遊戯品,清潔な環境,タバコやお酒を与える等があります。<BreakRiskDescEnding>
 
     <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
     <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
