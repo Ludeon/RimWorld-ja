@@ -4,24 +4,26 @@
   <!-- EN:
     <li>questDescription->\nIn order to consecrate making [titleHeir_nameFull] the heir of [titleHolder_nameFull]'s title, you must build a monument.\n\nThe monument will be [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nFailing to finish the monument within 20 days is considered to profane the ritual. Your relations with [asker_factionName] will fall by 25, and the heir will not be changed.</li>
   -->
-  <ChangeRoyalHeir.questDescriptionRules.rulesStrings>TODO</ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+  <ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+    <li>questDescription->\n[titleHolder_nameFull]の称号の継承者として[titleHeir_nameFull]になるためには、モニュメントを建設しなければなりません。\n\nモニュメントのサイズは[monumentSize]であり、以下のリソースが必要です。(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n20日以内にモニュメントを完成しなければ儀式を冒涜するものとみなされます。[asker_factionName]との親善が25低下し、継承者も変更されません。</li></ChangeRoyalHeir.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[titleHeir_nameDef]'s inheritance</li>
   -->
-  <ChangeRoyalHeir.questNameRules.rulesStrings>TODO</ChangeRoyalHeir.questNameRules.rulesStrings>
+  <ChangeRoyalHeir.questNameRules.rulesStrings>
+    <li>questName->[titleHeir_nameDef]の継承</li></ChangeRoyalHeir.questNameRules.rulesStrings>
   <!-- EN: Time left: {0} -->
-  <ChangeRoyalHeir.root.nodes.Delay.inspectString.slateRef>TODO</ChangeRoyalHeir.root.nodes.Delay.inspectString.slateRef>
+  <ChangeRoyalHeir.root.nodes.Delay.inspectString.slateRef>残り時間: {0}</ChangeRoyalHeir.root.nodes.Delay.inspectString.slateRef>
   <!-- EN: [titleHolder_nameDef]'s heir change failed -->
-  <ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.label.slateRef>TODO</ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.label.slateRef>
+  <ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.label.slateRef>[titleHolder_nameDef]の継承に失敗した</ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.label.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but did not build the monument within the prescribed time.\n\nYou lost 25 goodwill with [asker_faction_name]. -->
-  <ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.text.slateRef>TODO</ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.text.slateRef>
+  <ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.text.slateRef>[asker_nameDef]は、新たな継承者として奉仕すると約束したにもかかわらず、期間内にモニュメントを建設できなかったあなたに立腹しています。[asker_faction_name]との親善を25失いました。</ChangeRoyalHeir.root.nodes.Delay.node.nodes.Letter.text.slateRef>
   <!-- EN: Title holder died: {SUBJECT_definite} -->
-  <ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.label.slateRef>TODO</ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.label.slateRef>
+  <ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.label.slateRef>タイトルホルダーの死: {SUBJECT_definite}</ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, whose heir was in the process of being changed, has died. -->
-  <ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.text.slateRef>TODO</ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.text.slateRef>
+  <ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.text.slateRef>{SUBJECT_definite}は継承者が変更されつつある中で死亡しました。</ChangeRoyalHeir.root.nodes.titleHolderDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Designated heir died: {SUBJECT_definite} -->
-  <ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.label.slateRef>TODO</ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.label.slateRef>
+  <ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.label.slateRef>継承者の死: {SUBJECT_definite}</ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who was supposed to become heir to a title, has died. -->
-  <ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.text.slateRef>TODO</ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.text.slateRef>
+  <ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.text.slateRef>称号の継承者となるはずのが死亡しました。</ChangeRoyalHeir.root.nodes.titleHeirDestroyed.node.nodes.Letter.text.slateRef>
   
 </LanguageData>
