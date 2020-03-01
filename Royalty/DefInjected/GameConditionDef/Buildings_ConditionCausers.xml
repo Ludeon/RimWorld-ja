@@ -2,64 +2,64 @@
 <LanguageData>
   
   <!-- EN: climate adjustment -->
-  <ClimateAdjustment.label>TODO</ClimateAdjustment.label>
+  <ClimateAdjustment.label>気候調整</ClimateAdjustment.label>
   <!-- EN: A nearby climate adjuster is shifting the temperature. -->
-  <ClimateAdjustment.description>TODO</ClimateAdjustment.description>
+  <ClimateAdjustment.description>付近の気候調整機が温度を変化させています。</ClimateAdjustment.description>
   <!-- EN: A climate adjuster machine has begun shifting the temperature. -->
-  <ClimateAdjustment.letterText>TODO</ClimateAdjustment.letterText>
+  <ClimateAdjustment.letterText>気候調整機が温度を変化させ始めました。</ClimateAdjustment.letterText>
   
   <!-- EN: EMI field -->
-  <EMIField.label>TODO</EMIField.label>
+  <EMIField.label>EMIフィールド</EMIField.label>
   <!-- EN: An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices. -->
-  <EMIField.description>TODO</EMIField.description>
+  <EMIField.description>電磁妨害ダイナモがEMIフィールドを展開しました。電子機器が無力化されます。</EMIField.description>
   <!-- EN: a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration] -->
-  <EMIField.descriptionFuture>TODO</EMIField.descriptionFuture>
+  <EMIField.descriptionFuture>遠方のEMIダイナモがEMIフィールドを[map_definite]に発動し、[gameConditionDuration_duration]の電子機器が無力化されます。</EMIField.descriptionFuture>
   <!-- EN: The EMI field has disappeared. -->
-  <EMIField.endMessage>TODO</EMIField.endMessage>
+  <EMIField.endMessage>EMIフィールドが消滅しました。</EMIField.endMessage>
   <!-- EN: An EMI field has been generated. It is disabling electrical devices. -->
-  <EMIField.letterText>TODO</EMIField.letterText>
+  <EMIField.letterText>EMIフィールドが展開されました。電子機器が無力化されます。</EMIField.letterText>
   
   <!-- EN: giant smoke cloud -->
-  <GiantSmokeCloud.label>TODO</GiantSmokeCloud.label>
+  <GiantSmokeCloud.label>巨大な煙雲</GiantSmokeCloud.label>
   <!-- EN: A nearby smoke spewer is reducing sunlight in this region. -->
-  <GiantSmokeCloud.description>TODO</GiantSmokeCloud.description>
+  <GiantSmokeCloud.description>付近のスモーカーがこの地域の日照を減らしています。</GiantSmokeCloud.description>
   <!-- EN: A smoke spewer machine has begun obscuring the sun. -->
-  <GiantSmokeCloud.letterText>TODO</GiantSmokeCloud.letterText>
+  <GiantSmokeCloud.letterText>スモーカーによって太陽が遮られ始めました。</GiantSmokeCloud.letterText>
   
   <!-- EN: psychic suppression -->
-  <PsychicSuppression.label>TODO</PsychicSuppression.label>
+  <PsychicSuppression.label>サイコサプレッション</PsychicSuppression.label>
   <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.description>TODO</PsychicSuppression.description>
+  <PsychicSuppression.description>サイコサプレッションフィールドが{0}の精神に影響を及ぼし、{0}の意識を低下させています。個人の精神的感応性によって効果が変わります。</PsychicSuppression.description>
   <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
-  <PsychicSuppression.descriptionFuture>TODO</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.descriptionFuture>精神鎮圧波が[gameConditionDuration_duration]の[map_definite]の付近にいる全ての[psychicSuppressorGender]の意識を低下させます。</PsychicSuppression.descriptionFuture>
   <!-- EN: The psychic suppressor field has dissipated. -->
-  <PsychicSuppression.endMessage>TODO</PsychicSuppression.endMessage>
+  <PsychicSuppression.endMessage>サイコサプレッションフィールドが消滅しました。</PsychicSuppression.endMessage>
   <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.letterText>TODO</PsychicSuppression.letterText>
+  <PsychicSuppression.letterText>サイコサプレッションフィールドが地域全体の{0}の意識を低下させ始めました。個人の精神的感応性によって効果が変わります。</PsychicSuppression.letterText>
   
   <!-- EN: sun blocked -->
-  <SunBlocker.label>TODO</SunBlocker.label>
+  <SunBlocker.label>サンブロッカー</SunBlocker.label>
   <!-- EN: A nearby sun blocker machine is turning the upper atmosphere opaque, blocking the sun. -->
-  <SunBlocker.description>TODO</SunBlocker.description>
+  <SunBlocker.description>付近のサンブロッカーが上層大気を濁らせ、太陽を遮っています。</SunBlocker.description>
   <!-- EN: A sun blocker machine has begun blocking the sun. -->
-  <SunBlocker.letterText>TODO</SunBlocker.letterText>
+  <SunBlocker.letterText>サンブロッカーが太陽を遮り始めました。</SunBlocker.letterText>
   
   <!-- EN: toxic spewer -->
-  <ToxicSpewer.label>TODO</ToxicSpewer.label>
+  <ToxicSpewer.label>有毒ガス</ToxicSpewer.label>
   <!-- EN: A nearby toxic spewer is blanketing this whole region with poison. -->
-  <ToxicSpewer.description>TODO</ToxicSpewer.description>
+  <ToxicSpewer.description>付近の毒ガス噴霧器がこの地域全体を有毒ガスで覆っています。</ToxicSpewer.description>
   <!-- EN: A toxic spewer machine has begun blanketing the whole region with poison. -->
-  <ToxicSpewer.letterText>TODO</ToxicSpewer.letterText>
+  <ToxicSpewer.letterText>毒ガス噴霧器が地域全体を有毒ガスで覆い始めました。</ToxicSpewer.letterText>
   
   <!-- EN: forced weather -->
-  <WeatherController.label>TODO</WeatherController.label>
+  <WeatherController.label>ウェザーコントローラ</WeatherController.label>
   <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
-  <WeatherController.description>TODO</WeatherController.description>
+  <WeatherController.description>付近のウェザーコントローラが強制的に天気を変化させています。</WeatherController.description>
   <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
-  <WeatherController.descriptionFuture>TODO</WeatherController.descriptionFuture>
+  <WeatherController.descriptionFuture>ウェザーコントローラは[gameConditionDuration_duration]の[map_definite]周辺の天気を[forcedWeather_indefinite]に強制的に変更します。</WeatherController.descriptionFuture>
   <!-- EN: The weather controller is no longer changing the weather. -->
-  <WeatherController.endMessage>TODO</WeatherController.endMessage>
+  <WeatherController.endMessage>ウェザーコントローラは天気への干渉を停止しました。</WeatherController.endMessage>
   <!-- EN: A weather controller machine has begun affecting the weather. -->
-  <WeatherController.letterText>TODO</WeatherController.letterText>
+  <WeatherController.letterText>ウェザーコントローラは天気に影響を与え始めました。</WeatherController.letterText>
   
 </LanguageData>
