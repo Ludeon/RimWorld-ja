@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: mech assembler -->
-  <MechAssembler.label>TODO</MechAssembler.label>
+  <MechAssembler.label>メカアセンブラ</MechAssembler.label>
   <!-- EN: An automated mechanoid factory. It periodically assembles and deploys new mechanoids. -->
-  <MechAssembler.description>TODO</MechAssembler.description>
+  <MechAssembler.description>自動化されたメカノイド工場。定期的に新たなメカノイドを組み立てて配備する。</MechAssembler.description>
   
   <!-- EN: mech capsule -->
-  <MechCapsule.label>TODO</MechCapsule.label>
+  <MechCapsule.label>メカカプセル</MechCapsule.label>
   <!-- EN: A mechanoid storage and deployment capsule. It can contain a number of mechanoids, ready to emerge and fight upon being awakened. -->
-  <MechCapsule.description>TODO</MechCapsule.description>
+  <MechCapsule.description>メカノイドの保管及び配備を行うカプセル。複数のメカノイドを梱包でき、起動と同時に展開と戦闘を可能とする。</MechCapsule.description>
   
   <!-- EN: mech drop beacon -->
-  <MechDropBeacon.label>TODO</MechDropBeacon.label>
+  <MechDropBeacon.label>メカドロップビーコン</MechDropBeacon.label>
   <!-- EN: A mechanoid reinforcement drop beacon. When activated, it calls in a group of mechs to land in drop pods nearby. -->
-  <MechDropBeacon.description>TODO</MechDropBeacon.description>
+  <MechDropBeacon.description>メカノイドの援軍要請用ビーコン。起動するとメカノイドの集団がドロップポッドで投入されます。</MechDropBeacon.description>
   
 </LanguageData>

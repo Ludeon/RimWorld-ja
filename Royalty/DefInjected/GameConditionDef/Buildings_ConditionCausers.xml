@@ -22,20 +22,20 @@
   <!-- EN: giant smoke cloud -->
   <GiantSmokeCloud.label>巨大な煙雲</GiantSmokeCloud.label>
   <!-- EN: A nearby smoke spewer is reducing sunlight in this region. -->
-  <GiantSmokeCloud.description>付近のスモーカーがこの地域の日照を減らしています。</GiantSmokeCloud.description>
+  <GiantSmokeCloud.description>付近のスモーク噴霧器がこの地域の日照を減らしています。</GiantSmokeCloud.description>
   <!-- EN: A smoke spewer machine has begun obscuring the sun. -->
-  <GiantSmokeCloud.letterText>スモーカーによって太陽が遮られ始めました。</GiantSmokeCloud.letterText>
+  <GiantSmokeCloud.letterText>スモーク噴霧器によって太陽が遮られ始めました。</GiantSmokeCloud.letterText>
   
   <!-- EN: psychic suppression -->
   <PsychicSuppression.label>サイコサプレッション</PsychicSuppression.label>
   <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.description>サイコサプレッションフィールドが{0}の精神に影響を及ぼし、{0}の意識を低下させています。個人の精神的感応性によって効果が変わります。</PsychicSuppression.description>
+  <PsychicSuppression.description>サイコサプレッションフィールドが{0}の精神に影響を及ぼし、{0}の意識を低下させています。個人のサイキックセンスによって効果が変わります。</PsychicSuppression.description>
   <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
   <PsychicSuppression.descriptionFuture>精神鎮圧波が[gameConditionDuration_duration]の[map_definite]の付近にいる全ての[psychicSuppressorGender]の意識を低下させます。</PsychicSuppression.descriptionFuture>
   <!-- EN: The psychic suppressor field has dissipated. -->
   <PsychicSuppression.endMessage>サイコサプレッションフィールドが消滅しました。</PsychicSuppression.endMessage>
   <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.letterText>サイコサプレッションフィールドが地域全体の{0}の意識を低下させ始めました。個人の精神的感応性によって効果が変わります。</PsychicSuppression.letterText>
+  <PsychicSuppression.letterText>サイコサプレッションフィールドが地域全体の{0}の意識を低下させ始めました。個人のサイキックセンスによって効果が変わります。</PsychicSuppression.letterText>
   
   <!-- EN: sun blocked -->
   <SunBlocker.label>サンブロッカー</SunBlocker.label>
@@ -45,11 +45,11 @@
   <SunBlocker.letterText>サンブロッカーが太陽を遮り始めました。</SunBlocker.letterText>
   
   <!-- EN: toxic spewer -->
-  <ToxicSpewer.label>有毒ガス</ToxicSpewer.label>
+  <ToxicSpewer.label>毒物噴霧器</ToxicSpewer.label>
   <!-- EN: A nearby toxic spewer is blanketing this whole region with poison. -->
-  <ToxicSpewer.description>付近の毒ガス噴霧器がこの地域全体を有毒ガスで覆っています。</ToxicSpewer.description>
+  <ToxicSpewer.description>付近の毒物噴霧器がこの地域全体を有毒ガスで覆っています。</ToxicSpewer.description>
   <!-- EN: A toxic spewer machine has begun blanketing the whole region with poison. -->
-  <ToxicSpewer.letterText>毒ガス噴霧器が地域全体を有毒ガスで覆い始めました。</ToxicSpewer.letterText>
+  <ToxicSpewer.letterText>毒物噴霧器が地域全体を有毒ガスで覆い始めました。</ToxicSpewer.letterText>
   
   <!-- EN: forced weather -->
   <WeatherController.label>ウェザーコントローラ</WeatherController.label>
