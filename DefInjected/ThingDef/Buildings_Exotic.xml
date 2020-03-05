@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CrashedPsychicEmanatorShipPart.label>宇宙船の一部</CrashedPsychicEmanatorShipPart.label>
-    <CrashedPsychicEmanatorShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.このてのテクノロジーは危険をはらんでいます.</CrashedPsychicEmanatorShipPart.description>
-
-	<CrashedPoisonShipPart.label>汚染された宇宙船の一部</CrashedPoisonShipPart.label>
-    <CrashedPoisonShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.そのなかの一つが,この辺り一帯を汚染しているようです.</CrashedPoisonShipPart.description>
-
     <ShipChunk.label>宇宙船の残骸</ShipChunk.label>
     <ShipChunk.description>宇宙船の残骸.使えそうな資源を得るために分解できます.</ShipChunk.description>
 
+    <PsychicDronerShipPart.label>宇宙船の残骸(サイコドローン)</PsychicDronerShipPart.label>
+    <PsychicDronerShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれにはサイキック妨害装置が組み込まれています.理解不能なアーキテックテクノロジーを使い,近くにいるヒトや動物を狂わせるサイキックシグナルを広域に発生させます.</PsychicDronerShipPart.description>
+
+    <DefoliatorShipPart.label>宇宙船の残骸(ブライト)</DefoliatorShipPart.label>
+    <DefoliatorShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれには生物には影響を与えること無く,近くの植物を全滅させる装置が組み込まれています.この種類の兵器は,敵の食料供給と,領地を荒廃させること無く隠れた敵を排除するために.たまに農地や森で散見します.通常は軌道降下型メカノイドと共に一体で運用されます.</DefoliatorShipPart.description>
 </LanguageData>

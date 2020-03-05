@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <ClickToJumpToProblem>ここをクリックして問題へカメラ移動</ClickToJumpToProblem>
+    <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
-    <BreakRiskMinor>精神崩壊の危険（軽微）</BreakRiskMinor>
-    <BreakRiskMajor>精神崩壊の危険（重大）</BreakRiskMajor>
-    <BreakRiskExtreme>精神崩壊の危険（致命的）</BreakRiskExtreme>
-    <BreakRiskMinorDesc>次の者は精神状態が不安定であり,軽度な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMinorDesc>
-    <BreakRiskMajorDesc>次の者は精神状態が不安定であり,重大な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMajorDesc>
-    <BreakRiskExtremeDesc>次の者は精神的に圧迫されており,致命的な精神崩壊（他者への暴力の可能性有り）を起こす危険性があります.:\n\n{0}</BreakRiskExtremeDesc>
-    <BreakRiskDescEnding>これらの者たちの"欲求"タブを見ることで,精神的圧迫の原因を確認できます.\n\n解消の方法としては,例えば豊富な食事,遊戯の時間,良質な遊戯品,清潔な環境,タバコやお酒を与える等があります。<BreakRiskDescEnding>
+    <BreakRiskMinor>精神変調 リスク</BreakRiskMinor>
+    <BreakRiskMajor>精神衰弱 リスク</BreakRiskMajor>
+    <BreakRiskExtreme>精神崩壊 リスク</BreakRiskExtreme>
+    <BreakRiskMinorDesc>次の入植者の"心情"が低く,いつ精神変調を起こすかもしれません:\n\n{0}</BreakRiskMinorDesc>
+    <BreakRiskMajorDesc>次の入植者の"心情"がとても低く,いつ精神衰弱を起こすかもしれません:\n\n{0}</BreakRiskMajorDesc>
+    <BreakRiskExtremeDesc>次の入植者は重篤なストレスを受けていて,今にも精神崩壊を起こしそうです(たぶん暴力的..):\n\n{0}</BreakRiskExtremeDesc>
+    <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするには,おいしい食事を用意したり,もっと娯楽の時間や,娯楽種類を増やしたり,良い住環境を用意する,ドラッグをやる機会を作る,などの事をしてやりましょう.</BreakRiskDescEnding>
 
-    <ColonistNeedsRescue>歩行不能者発生</ColonistNeedsRescue>
-    <ColonistsNeedRescue>歩行不能者複数発生</ColonistsNeedRescue>
-    <ColonistsNeedRescueDesc>次の者は,自分で動くことができません.\n\n{0}\n他の者に,安全な場所まで運んでもらいましょう.\n\n(救助するには、他の者を選択した状態で、歩行不能者を右クリックし、"救助"を選択。)</ColonistsNeedRescueDesc>
+    <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
+    <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
+    <ColonistsNeedRescueDesc>次の入植者は 一歩も動けません.\n\n{0}\n他の入植者に救助を指示して, ベッドまで運ばせましょう.\n\n(別の入植者を選択し 救助対象者を右クリックして "救助"を 指示します)</ColonistsNeedRescueDesc>
 
-    <NeedDefenses>防備不足</NeedDefenses>
-    <NeedDefensesDesc>ここに到着してからしばらく経っており,きっと墜落を見られていたことでしょう.近いうちに盗賊の襲撃があるはずです.\n\n防備として,罠や土のうなどを配備しましょう.</NeedDefensesDesc>
+    <NeedDefenses>侵略にそなえる</NeedDefenses>
+    <NeedDefensesDesc>宙賊が この村を 品定め しています. いつ 襲撃を はじめても おかしくありません.\n\n備えあれば 憂いなし です,罠や土のうなどの準備をしましょう.</NeedDefensesDesc>
 
-    <NeedDoctor>医者不足</NeedDoctor>
-    <NeedDoctorDesc>これらの者たちは,治療を必要としていますが,手が空いている医者がいません.\n\n{0}\n健康な者に医者を職務として割り当てましょう.放っておくと,回復できずに後遺症が残る危険性があります.</NeedDoctorDesc>
+    <NeedDoctor>医者が必要</NeedDoctor>
+    <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 「医者」を割り振られた 健常な入植者が一人もいません.\n\n{0}\n健常な 入植者に 「医者」を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して完治しなくなるかもしれません.</NeedDoctorDesc>
 
     <NeedMiner>坑夫が必要</NeedMiner>
     <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」を割り振られた 入植者が一人もいません.\n\n入植者に 「採掘」を 割り振りましょう.</NeedMinerDesc>
@@ -36,6 +36,9 @@
 
     <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
     <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう.もし資源が無いなら,コストゼロの 「寝床」が すぐに 作れます.</NeedColonistBedsDesc>
+
+    <AlertColonistLeftUnburied>入植者の死体放置</AlertColonistLeftUnburied>
+    <AlertColonistLeftUnburiedDesc>入植者が埋葬されずに放置されている.\n\nこれはコロニーに悪影響を及ぼします.</AlertColonistLeftUnburiedDesc>
 
     <HunterLacksWeapon>武装する</HunterLacksWeapon>
     <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が 遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
@@ -86,6 +89,9 @@
     <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
     <ColonistsIdleDesc>次の入植者は 作業が無く ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
 
+    <CaravanIdle>キャラバン隊に指示を</CaravanIdle>
+    <CaravanIdleDesc>次の目的地を設定するのを キャラバン隊が待っています:\n\n{0}</CaravanIdleDesc>
+
     <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
     <ColonistNeedsTreatmentDesc>次の入植者は 治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初に,ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な入植者を 右クリックしてベッドへ誘導します )</ColonistNeedsTreatmentDesc>
 
@@ -116,4 +122,26 @@
     <ImmobileCaravan>キャラバン隊行動不能</ImmobileCaravan>
     <ImmobileCaravanDesc>あるキャラバン隊は,荷物が多すぎて行動不能になりました.\n\n「アイテム」タブから幾つかのアイテムを放棄して,再び移動できるようにしてください.</ImmobileCaravanDesc>
 
+  <BuildingCantBeUsedRoofed>機能しない建物</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>一つ以上の建物は天井が開放していてこそ役立つのに屋根があります.建物は屋根を除去するまで役に立たないでしょう.</BuildingCantBeUsedRoofedDesc>
+
+  <AlertHeatstroke>熱中症</AlertHeatstroke>
+  <AlertHeatstrokeDesc>次の人達は熱中症に苦しんでいます:\n\n{0}\n彼らを冷房の効いた所へ連れていきます.クーラーを使って部屋を冷やすことができます.深い地下も外界とドアで区切れば,その中は天然のクーラーのようです.</AlertHeatstrokeDesc>
+
+  <QuestPartMoodBelowThreshold>ゲストの不満</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>{0}クエストでは,この人の心情を良くし続けていることが求められているのに,かれらの心情は良くありません.心情を良くするためにも行動を起こします:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  
+  <QuestPartShuttleLeaveDelay>Shuttle leaving in {0}</QuestPartShuttleLeaveDelay> <!-- TODO -->
+  <QuestPartShuttleLeaveDelayDesc>The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+
+  <DisallowedBuildingInsideMonument>Monument will be destroyed</DisallowedBuildingInsideMonument> <!-- TODO -->
+  <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
+
+  <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown> <!-- TODO -->
+  <ActivatorCountdownDesc>There is a countdown activator ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDesc> <!-- TODO -->
+  <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple> <!-- TODO -->
+  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple> <!-- TODO -->
+
+  <QuestExpiresSoon>Quest expires in {0}</QuestExpiresSoon> <!-- TODO -->
+  <QuestExpiresSoonDesc>The quest '{0}' will expire in {1}.</QuestExpiresSoonDesc> <!-- TODO -->
 </LanguageData>

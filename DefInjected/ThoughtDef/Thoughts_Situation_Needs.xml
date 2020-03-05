@@ -76,4 +76,28 @@
     <NeedOutdoors.stages.stuck_indoors.label>身動きできない</NeedOutdoors.stages.stuck_indoors.label>
     <NeedOutdoors.stages.stuck_indoors.description>外に出て新鮮な空気を吸いたい.</NeedOutdoors.stages.stuck_indoors.description>
 
+	<DrugDesireFascination.stages.0.label>chemical want</DrugDesireFascination.stages.0.label>
+	<DrugDesireFascination.stages.0.description>I'm fascinated by drugs. It's been a long time since I felt the hit.</DrugDesireFascination.stages.0.description> <!-- TODO -->
+	<DrugDesireFascination.stages.1.label>chemical hunger</DrugDesireFascination.stages.1.label> <!-- TODO -->
+	<DrugDesireFascination.stages.1.description>I'm fascinated by drugs. It's been a very long time since I felt one.</DrugDesireFascination.stages.1.description> <!-- TODO -->
+	<DrugDesireFascination.stages.2.label>chemical starvation</DrugDesireFascination.stages.2.label> <!-- TODO -->
+	<DrugDesireFascination.stages.2.description>I'm fascinated by drugs. It's been forever since I felt one.</DrugDesireFascination.stages.2.description> <!-- TODO -->
+
+	<DrugDesireFascinationSatisfied.stages.0.label>chemical comfort</DrugDesireFascinationSatisfied.stages.0.label> <!-- TODO -->
+	<DrugDesireFascinationSatisfied.stages.0.description>I'm fascinated by drugs, and I got to experience one not long ago.</DrugDesireFascinationSatisfied.stages.0.description> <!-- TODO -->
+	<DrugDesireFascinationSatisfied.stages.1.label>chemical satisfaction</DrugDesireFascinationSatisfied.stages.1.label> <!-- TODO -->
+	<DrugDesireFascinationSatisfied.stages.1.description>I'm fascinated by drugs, and I just got to experience one.</DrugDesireFascinationSatisfied.stages.1.description> <!-- TODO -->
+
+	<DrugDesireInterest.stages.0.label>chemical want</DrugDesireInterest.stages.0.label> <!-- TODO -->
+	<DrugDesireInterest.stages.0.description>I'm interested in drugs. It's been a while since I tried some.</DrugDesireInterest.stages.0.description> <!-- TODO -->
+	<DrugDesireInterest.stages.1.label>chemical hunger</DrugDesireInterest.stages.1.label> <!-- TODO -->
+	<DrugDesireInterest.stages.1.description>I'm interested in drugs. I haven't had the chance to experience one in a long while.</DrugDesireInterest.stages.1.description> <!-- TODO -->
+	<DrugDesireInterest.stages.2.label>chemical starvation</DrugDesireInterest.stages.2.label> <!-- TODO -->
+	<DrugDesireInterest.stages.2.description>I'm interested in drugs. It's been so long since I tried one.</DrugDesireInterest.stages.2.description> <!-- TODO -->
+
+	<DrugDesireInterestSatisfied.stages.0.label>chemical comfort</DrugDesireInterestSatisfied.stages.0.label> <!-- TODO -->
+	<DrugDesireInterestSatisfied.stages.0.description>I'm interested in drugs. I took some not long ago, and it's good.</DrugDesireInterestSatisfied.stages.0.description> <!-- TODO -->
+	<DrugDesireInterestSatisfied.stages.1.label>chemical satisfaction</DrugDesireInterestSatisfied.stages.1.label> <!-- TODO -->
+	<DrugDesireInterestSatisfied.stages.1.description>I'm interested in drugs. I just took one and it was great!</DrugDesireInterestSatisfied.stages.1.description> <!-- TODO -->
+
 </LanguageData>

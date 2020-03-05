@@ -2,25 +2,40 @@
 <LanguageData>
 
 	<UnfinishedSculpture.label>彫刻(未完成)</UnfinishedSculpture.label>
+	<UnfinishedSculpture.description>未完成な彫刻</UnfinishedSculpture.description>
 
     <UnfinishedGun.label>銃(未完成)</UnfinishedGun.label>
+	<UnfinishedGun.description>未完成な銃の類い</UnfinishedGun.description>
 
 	<UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>
+	<UnfinishedWeapon.description>未完成な武器</UnfinishedWeapon.description>
 
-	<UnfinishedArmor.label>アーマー(未完成)</UnfinishedArmor.label>
+	<UnfinishedArmor.label>シンプルアーマー(未完成)</UnfinishedArmor.label>
+	<UnfinishedArmor.description>未完成なシンプルアーマーの部品</UnfinishedArmor.description>
 
-    <UnfinishedTechArmor.label>アーマー(未完成)</UnfinishedTechArmor.label>
+    <UnfinishedTechArmor.label>ハイテクアーマー(未完成)</UnfinishedTechArmor.label>
+	<UnfinishedTechArmor.description>未完成なハイテクアーマーの部品</UnfinishedTechArmor.description>
     
-    <UnfinishedMetallicTechArmor.label>アーマー(未完成)</UnfinishedMetallicTechArmor.label>
+    <UnfinishedMetallicTechArmor.label>メタルアーマー(未完成)</UnfinishedMetallicTechArmor.label>
+	<UnfinishedMetallicTechArmor.description>未完成なメタルアーマーの部品</UnfinishedMetallicTechArmor.description>
 
 	<UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
+	<UnfinishedApparel.description>未完成な衣服の一部</UnfinishedApparel.description>
 
 	<UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
+	<UnfinishedBelt.description>未完成なベルトの一部</UnfinishedBelt.description>
 
 	<UnfinishedComponent.label>コンポーネント(未完成)</UnfinishedComponent.label>
+	<UnfinishedComponent.description>未完成なコンポーネント</UnfinishedComponent.description>
 
   <!-- ======================= Minified things ========================= -->
 
 	<MinifiedThing.label>(梱包)</MinifiedThing.label>
+
+	<UnfinishedHealthItemProsthetic.label>人工装具(未完成)</UnfinishedHealthItemProsthetic.label>
+	<UnfinishedHealthItemProsthetic.description>An unfinished prosthetic.</UnfinishedHealthItemProsthetic.description> <!-- TODO -->
+
+	<UnfinishedHealthItemBionic.label>バイオニクス(未完成)</UnfinishedHealthItemBionic.label>
+	<UnfinishedHealthItemBionic.description>An unfinished bionic.</UnfinishedHealthItemBionic.description> <!-- TODO -->
 
 </LanguageData>

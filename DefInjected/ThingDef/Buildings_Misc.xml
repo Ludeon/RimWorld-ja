@@ -31,7 +31,7 @@
     <!--========================== Facilities ============================-->
     <MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>
     <Blueprint_Install_MultiAnalyzer.label>マルチ アナライザ(移動先)</Blueprint_Install_MultiAnalyzer.label>
-    <MultiAnalyzer.description>研究速度が上がります,研究設備のそばに配置してから,新しく研究をアンロックすると機能します.一つの研究設備は,一つのマルチ・アナライザとだけ接続できます.</MultiAnalyzer.description>
+    <MultiAnalyzer.description>研究速度が上がります,研究卓のそばに配置してから,新しく研究をアンロックすると機能します.一つの研究卓は,一つのマルチ・アナライザとだけ接続できます.</MultiAnalyzer.description>
 
     <VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>
     <Blueprint_Install_VitalsMonitor.label>バイタル モニター(移動先)</Blueprint_Install_VitalsMonitor.label>
@@ -64,5 +64,12 @@
 
     <CaravanPackingSpot.label>キャラバン隊物流拠点</CaravanPackingSpot.label>
     <CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します.備蓄庫のそばに置くと荷積み作業がスピードアップします.</CaravanPackingSpot.description>
+
+    <!--============================== Steles ==============================-->
+    <SteleLarge.label>大きな石碑</SteleLarge.label>
+    <SteleLarge.description>A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleLarge.description> <!-- TODO -->
+
+    <SteleGrand.label>壮大な石碑</SteleGrand.label>
+    <SteleGrand.description>A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleGrand.description> <!-- TODO -->
 
 </LanguageData>
