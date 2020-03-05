@@ -2,64 +2,64 @@
 <LanguageData>
   
   <!-- EN: entropy link -->
-  <EntropyLink.label>TODO</EntropyLink.label>
+  <EntropyLink.label>エントロピーリンク</EntropyLink.label>
   <!-- EN: A psychic link with another individual. Gain or loss of psychic entropy incurred by one will be shared equally between both. -->
-  <EntropyLink.description>TODO</EntropyLink.description>
+  <EntropyLink.description>他者とのサイキックリンク。どちらかが被るサイキックエントロピーの増減は、両者で等しく共有されます。</EntropyLink.description>
   
   <!-- EN: psychic anesthesia -->
-  <PsychicAnesthesia.label>TODO</PsychicAnesthesia.label>
+  <PsychicAnesthesia.label>鈍痛 (サイキック)</PsychicAnesthesia.label>
   <!-- EN: Psychically-induced pain insensitivity. -->
-  <PsychicAnesthesia.description>TODO</PsychicAnesthesia.description>
+  <PsychicAnesthesia.description>超能力による痛覚の鈍化。</PsychicAnesthesia.description>
   
   <!-- EN: psychic blindness -->
-  <PsychicBlindness.label>TODO</PsychicBlindness.label>
+  <PsychicBlindness.label>盲目</PsychicBlindness.label>
   <!-- EN: Psychically-induced partial blindness. -->
-  <PsychicBlindness.description>TODO</PsychicBlindness.description>
+  <PsychicBlindness.description>超能力による部分的な盲目。</PsychicBlindness.description>
   
   <!-- EN: psychic breakdown -->
-  <PsychicBreakdown.label>TODO</PsychicBreakdown.label>
+  <PsychicBreakdown.label>神経衰弱</PsychicBreakdown.label>
   <!-- EN: Long-term psychic destabilization of the mind, usually caused by excessive psychic entropy. Even when the entropy clears, the breakdown can last for many days, causing mental disturbances of various kinds. -->
-  <PsychicBreakdown.description>TODO</PsychicBreakdown.description>
+  <PsychicBreakdown.description>過度のサイキックエントロピーによって引き起こされる長期的な精神の不安定化。エントロピーが解消しても衰弱は数日続き、多様な精神障害を併発します。</PsychicBreakdown.description>
   <!-- EN: minor -->
-  <PsychicBreakdown.stages.minor.label>TODO</PsychicBreakdown.stages.minor.label>
+  <PsychicBreakdown.stages.minor.label>小</PsychicBreakdown.stages.minor.label>
   <!-- EN: major -->
-  <PsychicBreakdown.stages.major.label>TODO</PsychicBreakdown.stages.major.label>
+  <PsychicBreakdown.stages.major.label>大</PsychicBreakdown.stages.major.label>
   <!-- EN: total -->
-  <PsychicBreakdown.stages.total.label>TODO</PsychicBreakdown.stages.total.label>
+  <PsychicBreakdown.stages.total.label>完全</PsychicBreakdown.stages.total.label>
   
   <!-- EN: psychic burden -->
-  <PsychicBurden.label>TODO</PsychicBurden.label>
+  <PsychicBurden.label>重荷</PsychicBurden.label>
   <!-- EN: Psychically-induced difficulty in locomotion. -->
-  <PsychicBurden.description>TODO</PsychicBurden.description>
+  <PsychicBurden.description>超能力による移動速度の低下。</PsychicBurden.description>
   
   <!-- EN: psychic entropy -->
-  <PsychicEntropy.label>TODO</PsychicEntropy.label>
+  <PsychicEntropy.label>サイキックエントロピー</PsychicEntropy.label>
   <!-- EN: Chaotic psychic energy built up in the mind. Entropy falls over time. After it clears, it leaves a psychic hangover for several days. If psychic entropy becomes very high, it can cause psychosis, long-term psychic breakdown, destruction of psychic amplifiers, and even brain damage. -->
-  <PsychicEntropy.description>TODO</PsychicEntropy.description>
+  <PsychicEntropy.description>精神に蓄積された混沌としたサイキックエネルギー。エントロピーは時間とともに低下します。解消後、数日間は精神的な二日酔い状態に陥ります。エントロピーが非常に高くなると、精神病、長期的な精神衰弱、サイキック増幅器の故障、更には脳の損傷を引き起こす可能性があります。</PsychicEntropy.description>
   <!-- EN: safe -->
-  <PsychicEntropy.stages.safe.label>TODO</PsychicEntropy.stages.safe.label>
+  <PsychicEntropy.stages.safe.label>安定</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
-  <PsychicEntropy.stages.overloaded.label>TODO</PsychicEntropy.stages.overloaded.label>
+  <PsychicEntropy.stages.overloaded.label>過負荷</PsychicEntropy.stages.overloaded.label>
   <!-- EN: hyperloaded -->
-  <PsychicEntropy.stages.hyperloaded.label>TODO</PsychicEntropy.stages.hyperloaded.label>
+  <PsychicEntropy.stages.hyperloaded.label>超過負荷</PsychicEntropy.stages.hyperloaded.label>
   <!-- EN: brain charring -->
-  <PsychicEntropy.stages.brain_charring.label>TODO</PsychicEntropy.stages.brain_charring.label>
+  <PsychicEntropy.stages.brain_charring.label>脳内焦げ付き</PsychicEntropy.stages.brain_charring.label>
   <!-- EN: brain roasting -->
-  <PsychicEntropy.stages.brain_roasting.label>TODO</PsychicEntropy.stages.brain_roasting.label>
+  <PsychicEntropy.stages.brain_roasting.label>脳内燃焼</PsychicEntropy.stages.brain_roasting.label>
   
   <!-- EN: psychic focus -->
-  <PsychicFocus.label>TODO</PsychicFocus.label>
+  <PsychicFocus.label>フォーカス</PsychicFocus.label>
   <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capactities. -->
-  <PsychicFocus.description>TODO</PsychicFocus.description>
+  <PsychicFocus.description>超能力による精神集中、視覚、聴覚、運動能力の向上。</PsychicFocus.description>
   
   <!-- EN: psychic invisibility -->
-  <PsychicInvisibility.label>TODO</PsychicInvisibility.label>
+  <PsychicInvisibility.label>不可視</PsychicInvisibility.label>
   <!-- EN: Psychically-induced invisibility. This actually affects others nearby, making their brains unable to percieve the sight of this individual, even if the eyes are unaffected. -->
-  <PsychicInvisibility.description>TODO</PsychicInvisibility.description>
+  <PsychicInvisibility.description>超能力による透明化。実際にはこの能力は周囲の人間に影響を及ぼし、たとえ目が正常でも脳が術者を認識できないようにするものです。</PsychicInvisibility.description>
   
   <!-- EN: psychic vertigo -->
-  <PsychicVertigo.label>TODO</PsychicVertigo.label>
+  <PsychicVertigo.label>空間識失調</PsychicVertigo.label>
   <!-- EN: Psychically-induced loss of spatial orientation. This will cause flesh creatures to vomit. -->
-  <PsychicVertigo.description>TODO</PsychicVertigo.description>
+  <PsychicVertigo.description>超能力による空間識失調。生物は嘔吐を催します。</PsychicVertigo.description>
   
 </LanguageData>
