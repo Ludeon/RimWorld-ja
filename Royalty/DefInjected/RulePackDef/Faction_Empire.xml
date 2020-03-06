@@ -24,21 +24,51 @@
     <li>ofThing->Eternity</li>
     <li>ofThing->the Spirit</li>
   -->
-  <NamerFactionEmpire.rulePack.rulesStrings>TODO</NamerFactionEmpire.rulePack.rulesStrings>
+  <NamerFactionEmpire.rulePack.rulesStrings>   
+    <li>r_name(p=2)->[ofThing]の[empire]</li>
+    <li>r_name(p=2)->[ofThing]の[empire]</li>
+    <li>r_name->脱出した[empire]</li>
+    <li>r_name->亡命した[empire]</li>
+    <li>r_name->失脚した[empire]</li>
+    <li>r_name->打ち砕かれた[empire]</li>
+    <li>r_name->落ち伸びた[empire]</li>
+    <li>r_name->[Color][empire]</li>
+    <li>empire(p=4)->帝王</li>
+    <li>empire->連邦首長</li>
+    <li>empire->最高権力者</li>
+    <li>empire->支配者</li>
+    <li>empire->主権者</li>
+    <li>ofThing(p=4)->[WordImperial]</li>
+    <li>ofThing->太陽</li>
+    <li>ofThing->月</li>
+    <li>ofThing->宇宙</li>
+    <li>ofThing->神</li>
+    <li>ofThing->完全</li>
+    <li>ofThing->永遠</li>
+    <li>ofThing->聖霊</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   -->
-  <NamerPersonEmpire.rulePack.rulesStrings>TODO</NamerPersonEmpire.rulePack.rulesStrings>
+  <NamerPersonEmpire.rulePack.rulesStrings> 
+    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]
+  </li></NamerPersonEmpire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   -->
-  <NamerPersonEmpireFemale.rulePack.rulesStrings>TODO</NamerPersonEmpireFemale.rulePack.rulesStrings>
+  <NamerPersonEmpireFemale.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonEmpireFemale.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[townname_wordgen]</li>
@@ -66,6 +96,31 @@
     <li>townend->am</li>
     <li>townend->aeum</li>
   -->
-  <NamerSettlementEmpire.rulePack.rulesStrings>TODO</NamerSettlementEmpire.rulePack.rulesStrings>
+  <NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>r_name->[townname_fixed]</li>
+    <li>townname_wordgen->[WordImperial]</li>
+    <li>townname_wordgen->[WordImperial][townend]</li>
+    <li>townend(p=3)->ium</li>
+    <li>townend(p=3)->ior</li>
+    <li>townend(p=3)->polis</li>
+    <li>townend->nor</li>
+    <li>townend->lan</li>
+    <li>townend->lax</li>
+    <li>townend->lix</li>
+    <li>townend->lin</li>
+    <li>townend->lian</li>
+    <li>townend->phrum</li>
+    <li>townend->phor</li>
+    <li>townend->teor</li>
+    <li>townend->ople</li>
+    <li>townend->opium</li>
+    <li>townend->or</li>
+    <li>townend->aetor</li>
+    <li>townend->aeum</li>
+    <li>townend->aetium</li>
+    <li>townend->am</li>
+    <li>townend->aeum</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
   
 </LanguageData>
