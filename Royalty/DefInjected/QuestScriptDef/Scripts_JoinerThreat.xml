@@ -20,31 +20,60 @@
     <li>hidingFrom(gameCondition==PsychicSuppression)->a stirring machine persona who [joiner_pronoun] recently awoke</li>
     <li>condDesc(gameCondition==PsychicSuppression)->If [joiner_pronoun] comes to you, the persona will hit [map_definite] with [psychicSuppressorGender]-tuned psychic suppression waves for [gameConditionDuration_duration], reducing consciousness of all [psychicSuppressorGender]s.</li>
   -->
-  <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->A [joiner_age] 歳の [joiner_title] である [joiner_nameFull] という人物が助けを求めています！ [joiner_pronoun] は [hidingFrom] から身を隠しています。[joiner_pronoun] は亡命してあなたの [map_definite] に加わりたいようです。[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef]は、今は隠れるのに必死で、[joiner_objective]自身について詳しく説明している余裕がないと主張しています。</li>
+    <li>hidingFrom(gameCondition==ToxicFallout)->餓狼の集団</li>
+    <li>condDesc(gameCondition==ToxicFallout)->ただし [joiner_nameDef] は狼を撃退する最後の手段として付近のゴミ捨て場に火を放って毒物を拡散させるつつもりです。 [gameConditionDuration_duration] の期間、毒物の降下が続きます。</li>
+    <li>hidingFrom(gameCondition==VolcanicWinter)->人食い集団</li>
+    <li>condDesc(gameCondition==VolcanicWinter)->ただし [joiner_nameDef] は襲撃者を撃退する最後の手段として付近のゴミ捨て場に火を放つつもりです。 [joiner_pronoun] がやってくると、煙が太陽を [gameConditionDuration_duration] の期間遮ります。</li>
+    <li>hidingFrom(gameCondition==EMIField)->メカノイドの集団</li>
+    <li>condDesc(gameCondition==EMIField)->ただし [joiner_nameDef] は襲撃者を撃退する最後の手段として古代のEMIダイナモを起動するつもりです。 [joiner_pronoun] がやってくると、[gameConditionDuration_duration]の期間、EMIフィールドが電子機器を麻痺させます。</li>
+    <li>hidingFrom(gameCondition==HeatWave)->故障中の気候制御衛星</li>
+    <li>condDesc(gameCondition==HeatWave)->[joiner_pronoun] がやってくると、衛生がリセットされるまでの[gameConditionDuration_duration]の期間、熱波に見舞われます。</li>
+    <li>hidingFrom(gameCondition==ColdSnap)->故障中の気候制御衛星</li>
+    <li>condDesc(gameCondition==ColdSnap)->[joiner_pronoun] がやってくると、衛生がリセットされるまでの[gameConditionDuration_duration]の期間、寒波に見舞われます。</li>
+    <li>hidingFrom(gameCondition==WeatherController)->故障中の気候制御衛星</li>
+    <li>condDesc(gameCondition==WeatherController)->[joiner_pronoun] がやってくると、衛生がリセットされるまでの[gameConditionDuration_duration]の期間、[forcedWeather_label]に見舞われます。</li>
+    <li>hidingFrom(gameCondition==PsychicDrone)->[joiner_pronoun] に侮辱された復讐にかられる機械知性体</li>
+    <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun] がやってくると、機械知性はこの [map_definite] にいる[psychicDroneGender]に向けて [psychicDroneLevel] レベルのサイコドローンを [gameConditionDuration_duration] の期間放ち、全ての [psychicDroneGender] のムードを減退させます。</li>
+    <li>hidingFrom(gameCondition==PsychicSuppression)->[joiner_pronoun]に起動された活発な機械知性体</li>
+    <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun] がやってくると、機械知性はこの [map_definite] にいる[psychicSuppressorGender]に向けて [psychicDroneLevel] レベルのサイコサプレッションフィールドを [gameConditionDuration_duration] の期間展開させ、全ての [psychicSuppressorGender] のムードを減退させます。</li>
+ </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
     <li>questName->[joiner_nameDef] and the [gameCondition_label]</li>
     <li>questName->the [gameCondition_label] and [joiner_nameDef]</li>
   -->
-  <ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+    <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
+    <li>questName->[joiner_nameDef] and the [gameCondition_label]</li>
+    <li>questName->the [gameCondition_label] and [joiner_nameDef]</li>
+ </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says giant insects are hunting [joiner_objective] after he poisoned an underground colony and they soaked [joiner_objective] in threat pheromones!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], a [hivesCount]-hive infestation will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
   -->
-  <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->[joiner_age]歳の [joiner_title] である [joiner_nameDef] が付近から通信を送ってきました。[joiner_pronoun] が言うには、巨大な昆虫が[joiner_objective]を追っているようです。地下の虫の巣窟を毒物で全滅させようした[joiner_objective]は、逆にフェロモンを散布されてしまった！\n\n[joiner_pronoun] は安全のためにあなたの [map_definite] に匿ってくれるよう懇願しています。[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合、[hivesCount]の虫が[infestationDelayTicks_duration]までに襲来するでしょう。\n\n[joiner_nameDef] は混乱していてそれ以上の情報を聞き出せませんでした。</li>
+ </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s infestation</li>
     <li>questName->[joiner_nameDef]'s hives</li>
     <li>questName->[joiner_nameDef]'s bugs</li>
     <li>questName->[joiner_nameDef]'s insects</li>
   -->
-  <ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+    <li>questName->[joiner_nameDef]'s infestation</li>
+    <li>questName->[joiner_nameDef]'s hives</li>
+    <li>questName->[joiner_nameDef]'s bugs</li>
+    <li>questName->[joiner_nameDef]'s insects</li>
+  </ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly. -->
-  <ThreatReward_Infestation_Joiner.root.nodes.Util_JoinerThreat_Joiner.parms.customLetterText.value.slateRef>TODO</ThreatReward_Infestation_Joiner.root.nodes.Util_JoinerThreat_Joiner.parms.customLetterText.value.slateRef>
+  <ThreatReward_Infestation_Joiner.root.nodes.Util_JoinerThreat_Joiner.parms.customLetterText.value.slateRef>{BASETEXT}\n            \n[joiner_nameDef] は昆虫のフェロモンを振りまきつつ追跡から逃げています。彼を追っている虫の集団はまもなく到着します。</ThreatReward_Infestation_Joiner.root.nodes.Util_JoinerThreat_Joiner.parms.customLetterText.value.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterLabel.value.slateRef>TODO</ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterLabel.value.slateRef>
+  <ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterLabel.value.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterLabel.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe insects are here for [joiner_nameDef]. -->
-  <ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterText.value.slateRef>TODO</ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterText.value.slateRef>
+  <ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterText.value.slateRef>{BASETEXT}\n                  \n[joiner_nameDef]を追う昆虫がやって来た。</ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterText.value.slateRef>
   
   <!-- EN:
     <li>questDescription(animalCount==1)->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says a manhunting [animalKind_label] is hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_label] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>

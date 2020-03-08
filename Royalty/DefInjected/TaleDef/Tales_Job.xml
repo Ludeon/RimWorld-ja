@@ -14,16 +14,17 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s dance along.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s listen attentively.</li>
   -->
-  <AttendedConcert.rulePack.rulesStrings> 
-    <li>tale_noun->[ATTENDER_nameDef]は[ORGANIZER_nameDef]のコンサートに参加している </li>
-    <li>tale_noun->[ATTENDER_nameDef]は[ORGANIZER_nameDef]の演奏を聞いている</li>
-    <li>image->[ATTENDER_nameFull]は静かに耳を傾けている[circumstance_group]</li>
-    <li>image->[ATTENDER_nameFull]は[ORGANIZER_nameFull]の演奏を楽しんでいる[circumstance_group]</li>
-    <li>image->[ATTENDER_nameFull]は音楽に合わせて体を揺らしている[circumstance_group]</li>
-    <li>image->[ATTENDER_nameFull]は音楽に夢中になっている[circumstance_group]</li>
-    <li>circumstance_phrase->拍手をしている</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]たちは一緒に踊っている。</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal]たちは注意深く聞いている。</li></AttendedConcert.rulePack.rulesStrings>
+  <AttendedConcert.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef] は [ORGANIZER_nameDef] のコンサートに参加しています</li>
+    <li>tale_noun->[ATTENDER_nameDef] は [ORGANIZER_nameDef] の演奏を聴いています</li>
+    <li>image->[ATTENDER_nameFull] は[circumstance_group]聞き入っている</li>
+    <li>image->[ATTENDER_nameFull] は [ORGANIZER_nameFull] のパフォーマンスを[circumstance_group]楽しんでいる</li>
+    <li>image->[ATTENDER_nameFull] は[circumstance_group]音楽にスウィングしている</li>
+    <li>image->[ATTENDER_nameFull] は[circumstance_group]音楽に没頭している</li>
+    <li>circumstance_phrase->拍手</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] は踊っている。</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] は静かに耳を傾けている。</li>
+  </AttendedConcert.rulePack.rulesStrings>
   
   <!-- EN: held concert -->
   <HeldConcert.label>コンサートを開催</HeldConcert.label>
@@ -38,13 +39,14 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s listen nearby.</li>
   -->
   <HeldConcert.rulePack.rulesStrings>
-    <li>tale_noun->[ORGANIZER_nameDef]がコンサートを開催している</li>
-    <li>image->[ORGANIZER_nameFull]がテーマ曲を演奏している[circumstance_group]</li>
-    <li>image->[ORGANIZER_nameFull]が人々に一緒に歌うよう誘っている</li>
-    <li>image->[ORGANIZER_nameFull]心を揺さぶる曲を演奏している</li>
-    <li>image->[ORGANIZER_nameFull]難しい箇所を演奏している[circumstance_group]</li>
+    <li>tale_noun->[ORGANIZER_nameDef] がコンサートを開催</li>
+    <li>image->[ORGANIZER_nameFull] が作曲した曲を[circumstance_group]演奏している</li>
+    <li>image->[ORGANIZER_nameFull] は一緒に歌うように観客を煽っている</li>
+    <li>image->[ORGANIZER_nameFull] は感動的な歌を演奏している</li>
+    <li>image->[ORGANIZER_nameFull] 難しい作品を[circumstance_group]演奏している</li>
     <li>circumstance_phrase->激しい表現</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]たちがすぐ傍で聞いている。</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal]たちがすぐ傍で聞いている。</li></HeldConcert.rulePack.rulesStrings>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]が側で聴いている。</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]が側で聴いている。</li>
+  </HeldConcert.rulePack.rulesStrings>
   
 </LanguageData>

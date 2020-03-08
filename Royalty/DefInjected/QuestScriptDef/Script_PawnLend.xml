@@ -11,7 +11,15 @@
     <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists</li>
   -->
-  <PawnLend.questDescriptionRules.rulesStrings>TODO</PawnLend.questDescriptionRules.rulesStrings>
+  <PawnLend.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name] の [asker_faction_leaderTitle] である[asker_nameFull] が [dutyDescription] で手助けを必要としています。 [asker_pronoun] は [asker_faction_name] に [colonistCountToLend] を [lendForDays] 日間派遣するよう養成しています。\n\n[lendForDays] 日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると [colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、 [allRewardsDescriptions]</li>
+    <li>disease->インフルエンザ</li>
+    <li>disease->ペスト</li>
+    <li>disease->マラリア</li>
+    <li>disease->感染症</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_royalTitleInCurrentFaction] である [asker_nameFull] が [entertainerDescription] を披露することによって、[asker_possessive]  の宮廷に活力を与えたいと望んでいます。 [asker_pronoun] は [asker_faction_name] に [colonistCountToLend] を [lendForDays] 日間派遣するよう養成しています。[lendForDays] 日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると [colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、 [allRewardsDescriptions]</li>
+    <li>colonistCountToLend(colonistsToLendCount==1)->1人の入植者</li>
+    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]人の入植者</li></PawnLend.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[worker] Outsourcing</li>
     <li>questName->Contract [worker]s</li>
@@ -20,40 +28,46 @@
     <li>worker->Colonist</li>
     <li>worker->Worker</li>
   -->
-  <PawnLend.questNameRules.rulesStrings>TODO</PawnLend.questNameRules.rulesStrings>
+  <PawnLend.questNameRules.rulesStrings>
+    <li>questName->[worker] 外部委託</li>
+    <li>questName->契約 [worker]s</li>
+    <li>questName->派遣労働者</li>
+    <li>questName->入植者の貸出</li>
+    <li>worker->Colonist</li>
+    <li>worker->Worker</li></PawnLend.questNameRules.rulesStrings>
   <!-- EN: gather the harvest -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.0.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.0.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.0.slateRef>作物の収穫</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.0.slateRef>
   <!-- EN: fortify a settlement -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.1.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.1.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.1.slateRef>入植地の要塞化</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.1.slateRef>
   <!-- EN: set up a settlement -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.2.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.2.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.2.slateRef>入植地の開拓</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.2.slateRef>
   <!-- EN: watch for raiders -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.3.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.3.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.3.slateRef>強盗団の監視</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.3.slateRef>
   <!-- EN: set up a hospital -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.4.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.4.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.4.slateRef>病院設立</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.4.slateRef>
   <!-- EN: contain an outbreak of [disease] -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.5.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.5.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.5.slateRef>[disease]の拡大防止</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.5.slateRef>
   <!-- EN: {PAWNS} have returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>{PAWNS} は [asker_faction_name] の [asker_nameFull] の要請に基づく [dutyDescription] を支援して戻ってきました。</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>
   <!-- EN: real hardy surface survivors -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.0.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.0.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.0.slateRef>実に頑丈な外見のサバイバー</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.0.slateRef>
   <!-- EN: goofy jesters -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.1.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.1.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.1.slateRef>間抜けな道化師</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.1.slateRef>
   <!-- EN: foreign-accented servants -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.2.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.2.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.2.slateRef>外国人の使用人</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.2.slateRef>
   <!-- EN: exotic human specimens -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.3.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.3.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.3.slateRef>エキゾチックな人体標本</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.3.slateRef>
   <!-- EN: {PAWNS} have returned after being shown off as [entertainerDescription] in the court of [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name]. -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>TODO</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>{PAWNS} は [asker_faction_name] の [asker_royalTitleInCurrentFaction] である [asker_nameFull] の宮廷で [entertainerDescription] の見世物となって戻ってきました。</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>
   <!-- EN: Shuttle arrived -->
-  <PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>TODO</PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>シャトル到着</PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->
-  <PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>TODO</PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>[colonistsToLendCount]を乗せるためにシャトルがやって来ました。</PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>TODO</PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>
+  <PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>シャトル破壊</PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
-  <PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>TODO</PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>
+  <PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>入植者を乗せるはずのシャトルが破壊された。</PawnLend.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Colonists returned -->
-  <PawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>TODO</PawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>
+  <PawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>入植者の帰還</PawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>
   
 </LanguageData>

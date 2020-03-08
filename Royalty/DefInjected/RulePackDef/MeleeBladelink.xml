@@ -60,7 +60,7 @@
     <li>endSyl->gur</li>
   -->
   <NamerWeaponBladelink.rulePack.rulesStrings>
-    <li>r_weapon_name(p=3)->[noun]の[verber]</li>
+    <li>r_weapon_name(p=3)->[noun][verber]</li>
     <li>r_weapon_name(p=2)->[beginSyl][middleSyl][endSyl]</li>
     <li>r_weapon_name(p=1)->[beginSyl][middleSyl][middleSyl][endSyl]</li>
     <li>r_weapon_name(p=1)->[beginSyl][endSyl]</li>
@@ -69,53 +69,53 @@
     <li>nameAnimal->[NameAnimalUnisex]</li>
     <li>nameAnimal->[NameAnimalMale]</li>
     <li>nameAnimal->[NameAnimalFemale]</li>
-    <li>noun->誓約</li>
-    <li>noun->約束</li>
-    <li>noun->死</li>
-    <li>noun->苦痛</li>
-    <li>noun->血</li>
-    <li>noun->運命</li>
-    <li>noun->殺人</li>
-    <li>noun->正義</li>
-    <li>noun->畏服</li>
-    <li>noun->恐怖</li>
-    <li>noun->混沌</li>
-    <li>noun->秩序</li>
-    <li>noun->戦争</li>
-    <li>noun->静寂</li>
-    <li>noun->義務</li>
-    <li>verber->番人</li>
-    <li>verber->運び手</li>
-    <li>verber->送り手</li>
-    <li>verber->与え手</li>
-    <li>verber->創造者</li>
-    <li>verber->粉砕者</li>
-    <li>verber->破壊者</li>
-    <li>verber->破砕者</li>
-    <li>verber->飲兵衛</li>
-    <li>verber->理解者</li>
-    <li>verber->行為者</li>
-    <li>beginSyl->vi</li>
-    <li>beginSyl->na</li>
-    <li>beginSyl->lo</li>
-    <li>beginSyl->ra</li>
-    <li>beginSyl->to</li>
-    <li>beginSyl->ger</li>
-    <li>beginSyl->xan</li>
-    <li>beginSyl->kel</li>
-    <li>middleSyl->ser</li>
-    <li>middleSyl->gar</li>
-    <li>middleSyl->lor</li>
-    <li>middleSyl->ven</li>
-    <li>middleSyl->zan</li>
-    <li>middleSyl->xal</li>
-    <li>endSyl->ys</li>
-    <li>endSyl->or</li>
-    <li>endSyl->ar</li>
-    <li>endSyl->sum</li>
-    <li>endSyl->dor</li>
-    <li>endSyl->mar</li>
-    <li>endSyl->gur</li>
+    <li>noun->オース</li>
+    <li>noun->プロミス</li>
+    <li>noun->デス</li>
+    <li>noun->ペイン</li>
+    <li>noun->ブラッド</li>
+    <li>noun->ドゥーム</li>
+    <li>noun->マーダー</li>
+    <li>noun->ジャスティス</li>
+    <li>noun->フィアー</li>
+    <li>noun->テラー</li>
+    <li>noun->カオス</li>
+    <li>noun->オーダー</li>
+    <li>noun->ウォー</li>
+    <li>noun->サイレンス</li>
+    <li>noun->デット</li>
+    <li>verber->キーパー</li>
+    <li>verber->ブリンガー</li>
+    <li>verber->センダー</li>
+    <li>verber->ギバー</li>
+    <li>verber->メイカー</li>
+    <li>verber->クラッシャー</li>
+    <li>verber->ブレイカー</li>
+    <li>verber->スマッシャー</li>
+    <li>verber->ベンダー</li>
+    <li>verber->ノウァー</li>
+    <li>verber->ドゥアー</li>
+    <li>beginSyl->ヴィ</li>
+    <li>beginSyl->ナ</li>
+    <li>beginSyl->ロ</li>
+    <li>beginSyl->ラ</li>
+    <li>beginSyl->ト</li>
+    <li>beginSyl->ゲー</li>
+    <li>beginSyl->シャン</li>
+    <li>beginSyl->ケル</li>
+    <li>middleSyl->セー</li>
+    <li>middleSyl->ガー</li>
+    <li>middleSyl->ロル</li>
+    <li>middleSyl->ヴェン</li>
+    <li>middleSyl->ザン</li>
+    <li>middleSyl->シャル</li>
+    <li>endSyl->イス</li>
+    <li>endSyl->オル</li>
+    <li>endSyl->アル</li>
+    <li>endSyl->サム</li>
+    <li>endSyl->ドル</li>
+    <li>endSyl->マル</li>
+    <li>endSyl->グル</li>
   </NamerWeaponBladelink.rulePack.rulesStrings>
   
 </LanguageData>
