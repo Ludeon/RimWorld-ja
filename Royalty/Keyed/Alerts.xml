@@ -3,36 +3,36 @@
 
   <!-- Room requirements -->
   <!-- EN: Need throneroom -->
-  <NeedThroneAssigned>TODO</NeedThroneAssigned>
+  <NeedThroneAssigned>玉座の間が必要</NeedThroneAssigned>
   <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nBuild a throne in a room, then assign the throne to the title holder. The throneroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedThroneAssignedDesc>TODO</NeedThroneAssignedDesc>
+  <NeedThroneAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられた玉座がありません。\n\n玉座を建設してから、爵位保持者に割り当てください。玉座の間には爵位保持者に相応しいサイズと装飾が必要です。</NeedThroneAssignedDesc>
 
   <!-- EN: Undignified bedroom -->
-  <UndignifiedBedroom>TODO</UndignifiedBedroom>
+  <UndignifiedBedroom>みっともない寝室</UndignifiedBedroom>
   <!-- EN: One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements. -->
-  <UndignifiedBedroomDesc>TODO</UndignifiedBedroomDesc>
+  <UndignifiedBedroomDesc>入植者の一人が特定の機能を備えた寝室を必要とする爵位についています。寝室が割り当てられていないか、寝室自体が要件を満たしていません。</UndignifiedBedroomDesc>
 
   <!-- EN: Title requires bedroom -->
-  <NeedBedroomAssigned>TODO</NeedBedroomAssigned>
+  <NeedBedroomAssigned>爵位に相応しい寝室</NeedBedroomAssigned>
   <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedBedroomAssignedDesc>TODO</NeedBedroomAssignedDesc>
+  <NeedBedroomAssignedDesc>入植者の一人が個人の寝室を必要とする爵位についていますが、割り当てられていません。\n\n彼らに個室を割り当ててください。寝室には爵位保持者に相応しいサイズと装飾が必要です</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
-  <UndignifiedThroneroom>TODO</UndignifiedThroneroom>
+  <UndignifiedThroneroom>みっともない玉座の間</UndignifiedThroneroom>
   <!-- EN: One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements. -->
-  <UndignifiedThroneroomDesc>TODO</UndignifiedThroneroomDesc>
+  <UndignifiedThroneroomDesc>入植者の一人が玉座と爵位を保持していますが、玉座の間が爵位に相応の要件を満たしていません。</UndignifiedThroneroomDesc>
   
   <!-- EN: No acceptable food -->
-  <RoyalNoAcceptableFood>TODO</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFood>貧弱な食べ物</RoyalNoAcceptableFood>
   <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
-  <RoyalNoAcceptableFoodDesc>TODO</RoyalNoAcceptableFoodDesc>
+  <RoyalNoAcceptableFoodDesc>入植者の一人が特定の食事条件を有する爵位についていますが、この条件を満たす食事がありません。</RoyalNoAcceptableFoodDesc>
 
   <!-- EN: {0} days until requirement begins -->
-  <RoomRequirementGracePeriodDesc>TODO</RoomRequirementGracePeriodDesc>
+  <RoomRequirementGracePeriodDesc>要件が満たされるまで{0}日</RoomRequirementGracePeriodDesc>
 
   <!-- EN: Throne not usable -->
-  <ThroneroomInvalidConfiguration>TODO</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfiguration>玉座に座れない</ThroneroomInvalidConfiguration>
   <!-- EN: A throne is not usable because of how it is set up: -->
-  <ThroneroomInvalidConfigurationDesc>TODO</ThroneroomInvalidConfigurationDesc>
+  <ThroneroomInvalidConfigurationDesc>玉座の配置が原因で使用できません:</ThroneroomInvalidConfigurationDesc>
   
 </LanguageData>
