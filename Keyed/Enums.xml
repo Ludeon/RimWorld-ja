@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- glow -->
+	<!-- Glow -->
 	<Dark>暗い</Dark>
 	<Lit>光がある</Lit>
 	<LitBrightly>明るい</LitBrightly>
@@ -80,7 +80,8 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>修正履歴</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>ローカルフォルダー</ContentSource_LocalFolder>
+  <ContentSource_OfficialModsFolder>official content</ContentSource_OfficialModsFolder>
+  <ContentSource_ModsFolder>ローカルフォルダー</ContentSource_ModsFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
   <!-- Medical care category -->
@@ -165,5 +166,19 @@
   <PsychicDroneLevel_BadMedium>中</PsychicDroneLevel_BadMedium>
   <PsychicDroneLevel_BadHigh>高</PsychicDroneLevel_BadHigh>
   <PsychicDroneLevel_BadExtreme>極度</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <AutomaticPauseMode_Never>使用しない</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_MajorThreat>重大な脅威</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_AnyThreat>あらゆる脅威</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyLetter>あらゆる通知</AutomaticPauseMode_AnyLetter>
 
+  <!-- Pain category -->
+  <PainCategory_LowPain>痒い</PainCategory_LowPain>
+  <PainCategory_MediumPain>痛い</PainCategory_MediumPain>
+  <PainCategory_HighPain>苦痛</PainCategory_HighPain>
+
+  <!-- ExtraFactionType -->
+  <ExtraFactionType_HomeFaction>home faction</ExtraFactionType_HomeFaction> <!-- TODO -->
+  <ExtraFactionType_HostFaction>remote host faction</ExtraFactionType_HostFaction> <!-- TODO -->
 </LanguageData>
