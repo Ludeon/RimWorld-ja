@@ -85,8 +85,8 @@
   -->
   <QuestConstructionNameCommon.rulePack.rulesStrings>
     <li>questName->[constAdj] [construction]</li>
-    <li>questName->とある[constAdj] [construction]</li>
-    <li>questName->特定の[constAdj] [construction]</li>
+    <li>questName->一つの[constAdj] [construction]</li>
+    <li>questName->[constAdj] [construction]</li>
     <li>constAdj(p=20)->[AdjectiveLarge]</li>
     <li>constAdj->ひどい</li>
     <li>constAdj->偉大な</li>
