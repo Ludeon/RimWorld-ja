@@ -4,7 +4,7 @@
   <!-- EN: link monosword -->
   <MeleeWeapon_MonoSwordBladelink.label>モノソード (Link)</MeleeWeapon_MonoSwordBladelink.label>
   <!-- EN: A crystal-metallic longsword infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease, while its light weight and onboard persona permit extremely fast attacks.\n\nThis weapon has an onboard persona that can bond to only a single person. The wielder and intelligent weapon can synchronize their reflexes and attack with freightening speed, accuracy, and creativity. Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <MeleeWeapon_MonoSwordBladelink.description>単分子の刃を形成するメカナイトの混合されたクリスタル鋼のロングソード。軽量で高速攻撃を支援するAIを搭載しており、分厚い装甲も簡単に切り裂きます。\n\n搭載されたAIは一人の人間のみ生体認証します。操者と知性を持つ武器は、反射と攻撃をシンクロさせることにより、高い攻撃速度、正確性、想像力を発揮します。一度操者が決定されると、AIは他の人間に用いられることを拒否します。</MeleeWeapon_MonoSwordBladelink.description>
+  <MeleeWeapon_MonoSwordBladelink.description>単分子の刃を形成するメカナイトの混合されたクリスタル鋼のロングソード。軽量で高速攻撃を支援するAIを搭載しており、分厚い装甲も簡単に切り裂きます。\n\n搭載されたAIは一人の人間のみ生体認証します。操者と知性を持つ武器は、反射と攻撃をシンクロさせることにより、高い攻撃速度、正確性、想像力を発揮します。一度でも生体認証を行うと、武器のAIは他者による使用を拒否します。</MeleeWeapon_MonoSwordBladelink.description>
   <!-- EN: handle -->
   <MeleeWeapon_MonoSwordBladelink.tools.handle.label>持ち手</MeleeWeapon_MonoSwordBladelink.tools.handle.label>
   <!-- EN: point -->
@@ -15,7 +15,7 @@
   <!-- EN: link plasmasword -->
   <MeleeWeapon_PlasmaSwordBladelink.label>プラズマソード (Link)</MeleeWeapon_PlasmaSwordBladelink.label>
   <!-- EN: A metal-cored sword with a cutting edge. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath.\n\nThis weapon has an onboard persona that can bond to only a single person. The wielder and intelligent weapon can synchronize their reflexes and attack with freightening speed, accuracy, and creativity. Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <MeleeWeapon_PlasmaSwordBladelink.description>最先端のメタルコアの剣。コアの周囲に形成されたプラズマを力場によって保持します。メタルコアの斬撃とプラズマによる燃焼効果で、目標を切り裂きつつ火傷を負わせることが出来ます。\n\n搭載されたAIは一人の人間のみ生体認証します。操者と知性を持つ武器は、反射と攻撃をシンクロさせることにより、高い攻撃速度、正確性、想像力を発揮します。一度操者が決定されると、AIは他の人間に用いられることを拒否します。</MeleeWeapon_PlasmaSwordBladelink.description>
+  <MeleeWeapon_PlasmaSwordBladelink.description>最先端のメタルコアの剣。コアの周囲に形成されたプラズマを力場によって保持します。メタルコアの斬撃とプラズマによる燃焼効果で、目標を切り裂きつつ火傷を負わせることが出来ます。\n\n搭載されたAIは一人の人間のみ生体認証します。操者と知性を持つ武器は、反射と攻撃をシンクロさせることにより、高い攻撃速度、正確性、想像力を発揮します。一度でも生体認証を行うと、武器のAIは他者による使用を拒否します。</MeleeWeapon_PlasmaSwordBladelink.description>
   <!-- EN: handle -->
   <MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>持ち手</MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>
   <!-- EN: point -->
@@ -26,7 +26,7 @@
   <!-- EN: link zeushammer -->
   <MeleeWeapon_ZeusHammerBladelink.label>ゼウスハンマー (Link)</MeleeWeapon_ZeusHammerBladelink.label>
   <!-- EN: A warhammer with an embedded EMP capacitor. Upon impact, it blasts the target with an EMP burst in addition to the physical damage.\n\nThis weapon has an onboard persona that can bond to only a single person. The wielder and intelligent weapon can synchronize their reflexes and attack with freightening speed, accuracy, and creativity. Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <MeleeWeapon_ZeusHammerBladelink.description>EMPコンデンサが搭載されたウォーハンマー。打撃を加えると、物理的ダメージに加えて、EMPバーストで目標を爆破します。\n\n搭載されたAIは一人の人間のみ生体認証します。操者と知性を持つ武器は、反射と攻撃をシンクロさせることにより、高い攻撃速度、正確性、想像力を発揮します。一度操者が決定されると、AIは他の人間に用いられることを拒否します。</MeleeWeapon_ZeusHammerBladelink.description>
+  <MeleeWeapon_ZeusHammerBladelink.description>EMPコンデンサが搭載されたウォーハンマー。打撃を加えると、物理的ダメージに加えて、EMPバーストで目標を爆破します。\n\n搭載されたAIは一人の人間のみ生体認証します。操者と知性を持つ武器は、反射と攻撃をシンクロさせることにより、高い攻撃速度、正確性、想像力を発揮します。一度でも生体認証を行うと、武器のAIは他者による使用を拒否します。</MeleeWeapon_ZeusHammerBladelink.description>
   <!-- EN: handle -->
   <MeleeWeapon_ZeusHammerBladelink.tools.handle.label>持ち手</MeleeWeapon_ZeusHammerBladelink.tools.handle.label>
   <!-- EN: head -->

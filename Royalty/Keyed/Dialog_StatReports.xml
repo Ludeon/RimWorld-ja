@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: Minimum title ({FACTION_name}) -->
-  <Stat_Thing_MinimumRoyalTitle_Name>TODO</Stat_Thing_MinimumRoyalTitle_Name>
+  <Stat_Thing_MinimumRoyalTitle_Name>({FACTION_name})最下級の爵位</Stat_Thing_MinimumRoyalTitle_Name>
   <!-- EN: {FACTION_name} has laws which limit the use of this implant to those with specific titles. Having the implant is undetectable, but if you use it, there is a chance they will detect the psychic emissions. Diplomatic consequences will follow, and repeated violations will lead to hostility.\n\nA psychic silencer implant would make such uses undetectable. -->
-  <Stat_Thing_MinimumRoyalTitle_Desc>TODO</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name}には、このインプラントの使用を特定の爵位所持者に制限する法律があります。インプラントの所持自体は検知不可能ですが、一度でも使用すると超能力のサイキックサインを検知される可能性があります。\n\nサイコサイレンサーはこうした検知を防ぎます。</Stat_Thing_MinimumRoyalTitle_Desc>
   <!-- EN: Each upgrade level of this implant requires a specific title in {FACTION_name} to be used legally. -->
-  <Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>TODO</Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>
+  <Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>このインプラントを合法的にアップグレードしていくには、{FACTION_name} の特定の爵位が必要です。</Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>
   <!-- EN: Max satisfied title -->
-  <Stat_Thing_Apparel_MaxSatisfiedTitle>TODO</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>最高爵位の満足</Stat_Thing_Apparel_MaxSatisfiedTitle>
   <!-- EN: Highest royal title whose apparel requirements are satisfied by this. -->
-  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>TODO</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>これによって最高爵位の衣装着用要件が満たされる。</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
   <!-- EN: Max satisfied title -->
-  <Stat_Thing_Ingestible_MaxSatisfiedTitle>TODO</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>最高爵位の満足</Stat_Thing_Ingestible_MaxSatisfiedTitle>
   <!-- EN: The highest royal title whose food requirements are satisfied by this. -->
-  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>TODO</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>これによって最高爵位の食事要件が満たされる。</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
   
 </LanguageData>
