@@ -52,7 +52,7 @@
   <!-- EN: {SUBJECT_bestRoyalTitle} unhappy -->
   <EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.label.slateRef>{SUBJECT_bestRoyalTitle}が不満げ</EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.text.slateRef>あなたが護衛と満足度の維持の命を受けていた{SUBJECT_definite}の満足度が、最低値の[lodgersMoodThreshold]を下回る時間が長過ぎました。</EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.text.slateRef>あなたが護衛と満足度の維持の命を受けていた{SUBJECT_definite}の満足度が、最低値の[lodgersMoodThreshold]を下回る時間が長過ぎました。[failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>来客が死亡: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
