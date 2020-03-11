@@ -64,11 +64,11 @@
     <li>shuttleWillComeParagraph(lodgersCount>=2)->[shuttleDelayTicks_duration]経過後に、シャトルが到着して [lodgersLabelPlural]を回収します。 彼らが生存した状態でシャトルに乗ると、[allRewardsDescriptions]</li>
     <li>mustKeepOnMapParagraph(lodgersCount==1)->[lodgers0_nameDef]を[map_definite]に留めておき、[lodgers0_objective]を他のどの場所にも送らないで下さい。</li>
     <li>mustKeepOnMapParagraph(lodgersCount>=2)->[lodgersLabelPlural]を[map_definite]に留めておき、彼らを他のどの場所にも送らないで下さい。</li>
-    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、軌道を周回するメカノイドの群れにより標的にされています。[lodgers0_nameDef]がいる限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
-    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation]、軌道を周回するメカノイドの群れにより標的にされています。 彼らがいる限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
-    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、メカノイドの巣により標的にされています。[lodgers0_nameDef]がいる限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
-    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation]、メカノイドの巣により標的にされています。彼らがいる限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
-    <li>mechViolation->どういうわけか機械人格を怒らせ</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。[lodgers0_nameDef]がいる限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
+    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。 彼らがいる限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、メカノイドの巣の標的にされています。[lodgers0_nameDef]がいる限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
+    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation]、メカノイドの巣の標的にされています。彼らがいる限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
+    <li>mechViolation->どういうわけかマシンペルソナを怒らせ</li>
     <li>mechViolation->古代のスーパーコンピューター端末を破壊し</li>
     <li>mechViolation->アルコテックが好む人間の子供を殺し</li>
     <li>mechViolation->メカノイドの制御ノードをハッキングしようとし</li>
