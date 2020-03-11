@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: helperKind -->
-  <Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>TODO</Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>
+  <Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>支援者たち</Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>
   
   <!-- EN:
     <li>helpersParagraph(helpersCount==0)-></li>
@@ -17,14 +17,25 @@
     <li>helpersIsAre(helpersCount==1)->is</li>
     <li>helpersIsAre(helpersCount>=2)->are</li>
   -->
-  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>TODO</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+    <li>helpersParagraph(helpersCount==0)-></li>
+    <li>helpersParagraph(helpersCount==1)->[asker_nameDef]があなたの指揮下で支援を行うため、一人の[helperKind_label]を送り出しました。食事を住居を[helpers0_objective]に与えなければなりませんが、[helpers0_pronoun]は結果に関わらず争いで死ぬかもしれません。\n\n</li>
+    <li>helpersParagraph(helpersCount>=2)->[asker_nameDef]があなたの指揮下で支援を行うため、[helpersCount]人の[helperKind_labelPlural]を送り出しました。食事を住居を彼らに与えなければなりませんが、彼らは結果に関わらず争いで死ぬかもしれません。\n\n</li>
+    <li>helpersArrivalLetterEnd(helpersCount==0)-></li>
+    <li>helpersArrivalLetterEnd(helpersCount>=1)->\n\n[helpersCount]人の[helpersLabelSingOrPlural] [helpersHasHave]があなたを補佐するために送られた。</li>
+    <li>helpersLabelSingOrPlural(helpersCount==1)->[helperKind_label]</li>
+    <li>helpersLabelSingOrPlural(helpersCount>=2)->[helperKind_labelPlural]</li>
+    <li>helpersHasHave(helpersCount==1)-></li>
+    <li>helpersHasHave(helpersCount>=2)-></li>
+    <li>helpersIsAre(helpersCount==1)-></li>
+    <li>helpersIsAre(helpersCount>=2)-></li></Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
   <!-- EN: [helpersLabelSingOrPlural] arrived -->
-  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterLabel.slateRef>TODO</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterLabel.slateRef>
+  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterLabel.slateRef>[helpersLabelSingOrPlural]が到着</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterLabel.slateRef>
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] [helpersHasHave] arrived to aid you with the quest '[resolvedQuestName]'. -->
-  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterText.slateRef>TODO</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterText.slateRef>
+  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterText.slateRef>クエスト「[resolvedQuestName]」であなたを支援するため[helpersLabelSingOrPlural]が[asker_nameDef] [helpersHasHave]により送り出されました。</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterText.slateRef>
   <!-- EN: [helpersLabelSingOrPlural] leaving -->
-  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.label.slateRef>TODO</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.label.slateRef>
+  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.label.slateRef>[helpersLabelSingOrPlural]が離脱</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.label.slateRef>
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] to aid you [helpersHasHave] spent too much time with you, and [helpersIsAre] now leaving. -->
-  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.text.slateRef>TODO</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.text.slateRef>
+  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.text.slateRef>あなたを支援するため[asker_nameDef]により送り出された[helpersLabelSingOrPlural]の滞在時間が長くなり[helpersHasHave]過ぎたため、離脱し[helpersIsAre]ました。</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.text.slateRef>
   
 </LanguageData>
