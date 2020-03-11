@@ -3,41 +3,41 @@
 
   <!-- Royalty and throne -->
   <!-- EN: Appropriate for title: {0} -->
-  <ThroneTitleStature>TODO</ThroneTitleStature>
+  <ThroneTitleStature>爵位に相応: {0}</ThroneTitleStature>
   <!-- EN: Previous title satisfied: {0} -->
-  <ThronePrevTitleStature>TODO</ThronePrevTitleStature>
+  <ThronePrevTitleStature>前爵位に充足: {0}</ThronePrevTitleStature>
   <!-- EN: Next title satisfied: {0} -->
-  <ThroneNextTitleStature>TODO</ThroneNextTitleStature>
+  <ThroneNextTitleStature>次爵位に充足: {0}</ThroneNextTitleStature>
   <!-- EN: ({0} impressiveness) -->
-  <ThroneRoomImpressivenessInfo>TODO</ThroneRoomImpressivenessInfo>
+  <ThroneRoomImpressivenessInfo>({0} 印象)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
-  <ThroneMustBePlacedInside>TODO</ThroneMustBePlacedInside>
+  <ThroneMustBePlacedInside>玉座は屋内に設置しなければいけません。</ThroneMustBePlacedInside>
   <!-- EN: Throne room contains more than one throne, but this is only allowed for married couples. -->
-  <ThroneRoomHasMoreThan1Throne>TODO</ThroneRoomHasMoreThan1Throne>
+  <ThroneRoomHasMoreThan1Throne>玉座の間に複数の玉座が置かれていますが、これは結婚したカップルのみ許可されます。</ThroneRoomHasMoreThan1Throne>
   <!-- EN: Minimum title ({FACTION_name}): {TITLE} -->
-  <MinimumRoyalTitleInspectString>TODO</MinimumRoyalTitleInspectString>
+  <MinimumRoyalTitleInspectString>最下級爵位 ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
   <!-- EN: Trading here requires title: {0} -->
-  <RequiresTradePermission>TODO</RequiresTradePermission>
+  <RequiresTradePermission>取引に要求される爵位: {0}</RequiresTradePermission>
   <!-- EN: Personal bedroom (partner allowed) -->
-  <RequirementPersonalBedroom>TODO</RequirementPersonalBedroom>
+  <RequirementPersonalBedroom>個人の寝室 (パートナー可)</RequirementPersonalBedroom>
   
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
-  <PsycastNeurotrainerLabel>TODO</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerLabel>サイトレーナー ({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use neurotrainer to learn {0} psycast -->
-  <PsycastNeurotrainerUseLabel>TODO</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerUseLabel>ニューロトレーナを用いて{0}の超能力を学ぶ</PsycastNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific psycast.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific psycast ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>TODO</PsycastNeurotrainerDescription>
+  <PsycastNeurotrainerDescription>一度だけ使用可能な特定の超能力を身につけられるメカナイトの超薬物。\n\n薬物は眼窩から投与します。脳に散布されると、メカナイトは必要に応じて神経組織に変形し、特定の超能力の知識を植え付けます。</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} psycast. -->
-  <AbilityNeurotrainerUsed>TODO</AbilityNeurotrainerUsed>
+  <AbilityNeurotrainerUsed>{USER_labelShort}はニューロトレーナーを用いて{1}の超能力を身に着けました。</AbilityNeurotrainerUsed>
   <!-- EN: {USER_labelShort} has reached psychic amplifer level {1} and has automatically learned this psycast: {2}. -->
-  <PsycastLearnedFromImplant>TODO</PsycastLearnedFromImplant>
+  <PsycastLearnedFromImplant>{USER_labelShort}はサイキック増幅器のレベルが{1}に達し、以下の超能力を自動的に身に着けました。: {2} </PsycastLearnedFromImplant>
   <!-- EN: Requires psychic amplifier -->
-  <PsycastNeurotrainerNoPsychicAmplifier>TODO</PsycastNeurotrainerNoPsychicAmplifier>
+  <PsycastNeurotrainerNoPsychicAmplifier>サイキック増幅器が必要です</PsycastNeurotrainerNoPsychicAmplifier>
 
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor>TODO</Reward_RoyalFavor>
+  <Reward_RoyalFavor>クエストを受けた人は、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor_ChoosePawn>TODO</Reward_RoyalFavor_ChoosePawn>
+  <Reward_RoyalFavor_ChoosePawn>関係している{2}のいずれかを選択して、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor_ChoosePawn>
   
 </LanguageData>
