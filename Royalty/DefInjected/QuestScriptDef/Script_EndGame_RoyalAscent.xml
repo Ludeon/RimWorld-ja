@@ -64,9 +64,9 @@
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>不正な手術</EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}に不正で違反した手術が行われました。</EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}に違反した手術が不正に行われました。</EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>来客が迷子: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>来客が行方不明: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}が、与えられた植民地を離れました。</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>
   <!-- EN: Shuttle destroyed -->

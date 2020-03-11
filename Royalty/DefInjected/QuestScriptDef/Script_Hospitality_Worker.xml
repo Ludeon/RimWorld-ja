@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: [lodgersLabelSingOrPlural] arrived -->
-  <Hospitality_Util_Worker.root.nodes.DropPods.customLetterLabel.slateRef>TODO</Hospitality_Util_Worker.root.nodes.DropPods.customLetterLabel.slateRef>
+  <Hospitality_Util_Worker.root.nodes.DropPods.customLetterLabel.slateRef>[lodgersLabelSingOrPlural]が到着</Hospitality_Util_Worker.root.nodes.DropPods.customLetterLabel.slateRef>
   <!-- EN: [lodgersLabelSingOrPluralDef] [lodgersHasHave] arrived. Protect them until the shuttle arrives in [shuttleDelayTicks_duration].[helpersArrivalLetterEnd] -->
-  <Hospitality_Util_Worker.root.nodes.DropPods.customLetterText.slateRef>TODO</Hospitality_Util_Worker.root.nodes.DropPods.customLetterText.slateRef>
+  <Hospitality_Util_Worker.root.nodes.DropPods.customLetterText.slateRef>[lodgersLabelSingOrPluralDef] [lodgersHasHave]がやって来ました。彼らをシャトルが到着するまでの[shuttleDelayTicks_duration]の間、護衛してください。[helpersArrivalLetterEnd]</Hospitality_Util_Worker.root.nodes.DropPods.customLetterText.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>TODO</Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>シャトルが破壊された</Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
   <!-- EN: Shuttle arrived -->
-  <Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>シャトルが到着</Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle has arrived to collect [lodgersLabelSingOrPluralDef]. Be sure to have these people on the shuttle before it leaves in [shuttleLeaveDelayTicks_duration]:\n\n[lodgers] -->
-  <Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>[lodgersLabelSingOrPluralDef]を回収するシャトルが到着しました。[shuttleLeaveDelayTicks_duration]以内の出航前にこの人々を必ずシャトルに乗せるようにしてください。:\n\n[lodgers]</Hospitality_Util_Worker.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.label.slateRef>来客が死亡: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has died. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.text.slateRef>あなたが護衛の命を受けていた[letterSubject]が死亡しました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.label.slateRef>来客が捕虜に: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.label.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.text.slateRef>あなたが護衛の命を受けていた[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersArrested.node.nodes.Letter.text.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.label.slateRef>囚人が集められた: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.label.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.text.slateRef>あなたが護衛の命を受けていた{SUBJECT_definite}を集めました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersRecruited.node.nodes.Letter.text.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>不正な手術: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>[letterSubject]に違反した手術が不正に行われました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>来客が行方不明: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>あなたが護衛の命を受けていた[letterSubject]が立ち去りました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.text.slateRef>あなたが護衛の命を受けていた[letterSubject]が他の派閥に加わりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.text.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>シャトルが破壊された</Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has been destroyed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>[lodgersLabelSingOrPluralDef]を回収するために送り出されていたシャトルが破壊されました。[lodgersLabelSingOrPluralDef]は徒歩で出発するでしょう。[failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has departed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>[lodgersLabelSingOrPluralDef]を回収するために送り出されたシャトルが出発してしまいました。[lodgersLabelSingOrPluralDef]は徒歩で立ち去るでしょう。[failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>
   
 </LanguageData>
