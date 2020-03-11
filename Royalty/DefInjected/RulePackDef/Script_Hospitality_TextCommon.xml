@@ -44,40 +44,40 @@
   <QuestHospitalityCommon.rulePack.rulesStrings>
     <li>allLodgerInfo->[healthInfo] [specialSkillsInfo] [minMoodInfo]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
-    <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]たち</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
-    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->[lodgersLabelPlural]たち</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>healthInfo(lodgersAreDowned==true,lodgersCount==1,priority=1)->[lodgers0_nameDef]は負傷して歩くことができないだろう。</li>
-    <li>healthInfo(lodgersAreDowned==true,lodgersCount>=2,priority=1)->[lodgersLabelPlural]たちは負傷して歩くことができないだろう。</li>
+    <li>healthInfo(lodgersAreDowned==true,lodgersCount>=2,priority=1)->[lodgersLabelPlural]は負傷して歩くことができないだろう。</li>
     <li>healthInfo(lodgersAreSick==true,lodgersCount==1,priority=1)->[lodgers0_nameDef]は[lodgersDisease_label]を患っている</li>
-    <li>healthInfo(lodgersAreSick==true,lodgersCount>=2,priority=1)->その[lodgersLabelPlural]たちは[lodgersDisease_label]を患っている。</li>
+    <li>healthInfo(lodgersAreSick==true,lodgersCount>=2,priority=1)->その[lodgersLabelPlural]は[lodgersDisease_label]を患っている。</li>
     <li>healthInfo-></li>
     <li>specialSkillsInfo(lodgersSpecialRequest==ExpertFighter,lodgersCount==1,priority=1)->[lodgers0_nameDef]は熟練の戦闘員だ。</li>
-    <li>specialSkillsInfo(lodgersSpecialRequest==ExpertFighter,lodgersCount>=2,priority=1)->その[lodgersLabelPlural]たちは熟練の戦闘員だ。</li>
+    <li>specialSkillsInfo(lodgersSpecialRequest==ExpertFighter,lodgersCount>=2,priority=1)->その[lodgersLabelPlural]は熟練の戦闘員だ。</li>
     <li>specialSkillsInfo-></li>
     <li>minMoodInfo(priority=1,lodgersCount==1)->[lodgers0_possessive]の士気を[lodgersMoodThreshold_percent]より上に保つ必要がある。</li>
-    <li>minMoodInfo(priority=1,lodgersCount>=2)->[lodgersLabelPlural]たちの士気を[lodgersMoodThreshold_percent]より上に保つ必要がある。</li>
+    <li>minMoodInfo(priority=1,lodgersCount>=2)->[lodgersLabelPlural]の士気を[lodgersMoodThreshold_percent]より上に保つ必要がある。</li>
     <li>minMoodInfo-></li>
     <li>commonDescEnding->[helpersParagraph][shuttleWillComeParagraph]\n\n[mustKeepOnMapParagraph]</li>
     <li>enemyGroupsParagraph->襲撃は約[threatsIntervalTicks_duration]ごとに1回来ます。襲撃は以下に近い規模になるでしょう:\n\n[threatExample]</li>
     <li>shuttleWillComeParagraph(lodgersCount==1)->[shuttleDelayTicks_duration]経過後に、シャトルが到着して[lodgers0_nameDef]を回収します。[lodgers0_objective]が生存した状態でシャトルに乗ると、[allRewardsDescriptions]</li>
-    <li>shuttleWillComeParagraph(lodgersCount>=2)->[shuttleDelayTicks_duration]経過後に、シャトルが到着して [lodgersLabelPlural]たちを回収します。 彼らが生存した状態でシャトルに乗ると、[allRewardsDescriptions]</li>
+    <li>shuttleWillComeParagraph(lodgersCount>=2)->[shuttleDelayTicks_duration]経過後に、シャトルが到着して [lodgersLabelPlural]を回収します。 彼らが生存した状態でシャトルに乗ると、[allRewardsDescriptions]</li>
     <li>mustKeepOnMapParagraph(lodgersCount==1)->[lodgers0_nameDef]を[map_definite]に留めておき、[lodgers0_objective]を他のどの場所にも送らないで下さい。</li>
-    <li>mustKeepOnMapParagraph(lodgersCount>=2)->[lodgersLabelPlural]たちを[map_definite]に留めておき、彼らを他のどの場所にも送らないで下さい。</li>
-    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、軌道を周回するメカノイドの群れにより標的にされています。[lodgers0_nameDef]が存在している限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
-    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation]、軌道を周回するメカノイドの群れにより標的にされています。 彼らが存在している限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
-    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、メカノイドの巣により標的にされてきました。[lodgers0_nameDef]が存在している限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
-    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation]、メカノイドの巣により標的にされてきました。彼らが存在している限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
+    <li>mustKeepOnMapParagraph(lodgersCount>=2)->[lodgersLabelPlural]を[map_definite]に留めておき、彼らを他のどの場所にも送らないで下さい。</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、軌道を周回するメカノイドの群れにより標的にされています。[lodgers0_nameDef]がいる限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
+    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation]、軌道を周回するメカノイドの群れにより標的にされています。 彼らがいる限り、[map_definite]に戦闘型メカノイドのクラスターが落ちてくるでしょう。</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、メカノイドの巣により標的にされています。[lodgers0_nameDef]がいる限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
+    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation]、メカノイドの巣により標的にされています。彼らがいる限り、その巣からメカノイドの襲撃者たちを派遣してくるでしょう。</li>
     <li>mechViolation->どういうわけか機械人格を怒らせ</li>
     <li>mechViolation->古代のスーパーコンピューター端末を破壊し</li>
     <li>mechViolation->アルコテックが好む人間の子供を殺し</li>
     <li>mechViolation->メカノイドの制御ノードをハッキングしようとし</li>
     <li>mechViolation->古代の貯蔵庫から盗みを働こうとし</li>
     <li>letterSubject->{SUBJECT_definite}</li>
-    <li>lodgersHasHave(lodgersCount==1)->持っている</li>
-    <li>lodgersHasHave(lodgersCount>=2)->持っている</li>
+    <li>lodgersHasHave(lodgersCount==1)-></li>
+    <li>lodgersHasHave(lodgersCount>=2)-></li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
-    <li>remainingWillNowLeave(lodgersCount>=2)->残っていた[lodgersLabelPlural]たちは全員離脱しました。</li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->残りの[lodgersLabelPlural]は全員離脱しました。</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->クエスト「[resolvedQuestName]」に失敗しました。</li>
     <li>failLetterEndingCommon->クエスト「[resolvedQuestName]」に失敗しました。\n\n[asker_faction_name]との友好度が[goodwillPenalty]減少しました。</li>
   </QuestHospitalityCommon.rulePack.rulesStrings>
