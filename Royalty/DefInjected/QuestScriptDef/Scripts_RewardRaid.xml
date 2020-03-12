@@ -7,7 +7,11 @@
     <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
     <li>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</li>
   -->
-  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が[asker_possessive]のキャラバンの一つを救助するのを手伝うよう求めています。そのキャラバンは[enemyFaction_name]からの[numGroupsOf]個の[enemyFaction_pawnsPlural]に[map_definite]の付近で追われています。[asker_nameDef]は[enemyFaction_pawnsPlural]を引きつけてキャラバンから離す合図を送り、あなたのもとへと向かわせるようよう求めています。\n\n[pawnKindsParagraph]\n\n報酬として、[asker_nameDef]は輸送ポッド送るでしょう。(総額[itemsReward_totalMarketValue_money]が入っています):\n\n[itemsReward_items]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]の間やって来るでしょう。[allRewardsDescriptionsExceptItems]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が、要請をしています。\n\n[asker_possessive]のキャラバンはその地域で[enemyFaction_name]からの[groupsOf]の攻撃に悩まされています。[asker_nameDef]は彼らに挑発的なメッセージを送り、攻撃を引き付けて脅威を取り除くように求めています。\n\n[pawnKindsParagraph]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]の間やって来るでしょう。[allRewardsDescriptions]</li>
+    <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
+    <li>groupsOf->[numGroupsOf]個の[enemyFaction_pawnsPlural]</li></ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
     <li>questName->[violence] of Fortune</li>
@@ -21,6 +25,17 @@
     <li>violence->War</li>
     <li>violence->Fighting</li>
   -->
-  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  　<li>questName->運命の[enemyFaction_pawnsPlural]</li>
+    <li>questName->運命の[violence] of </li>
+    <li>questName->[violence]の褒美</li>
+    <li>questName->[violence]の報酬</li>
+    <li>questName(reward==royalFavor)->[enemyFaction_pawnsPlural]に関する頼み事</li>
+    <li>questName(reward==royalFavor)->[violence]に関する頼み事</li>
+    <li>violence->暴力</li>
+    <li>violence->争い</li>
+    <li>violence->戦闘</li>
+    <li>violence->戦争</li>
+    <li>violence->戦い</li></ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

@@ -162,8 +162,8 @@
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->華族たち</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->貴族たち</li></Hospitality_Joiners.questNameRules.rulesStrings>
   <!-- EN: Guest unhappy: {SUBJECT_definite} -->
-  <Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.label.slateRef>TODO</Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.label.slateRef>
+  <Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.label.slateRef>来客が不満げ: {SUBJECT_definite}</Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold_percent] too long.\n\n[remainingWillNowLeave] -->
-  <Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.text.slateRef>TODO</Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.text.slateRef>
+  <Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.text.slateRef>あなたが護衛と満足度の維持の命を受けていた{SUBJECT_definite}の満足度が、最低値の[lodgersMoodThreshold_percent]を下回る時間が長すぎました。\n\n[remainingWillNowLeave]</Hospitality_Joiners.root.nodes.IsTrue-0.node.nodes.MoodBelow.node.nodes.Letter.text.slateRef>
   
 </LanguageData>
