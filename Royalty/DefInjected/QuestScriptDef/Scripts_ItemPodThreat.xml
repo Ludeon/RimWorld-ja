@@ -33,12 +33,12 @@
     <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->The infestation was instigated by [asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], for [asker_possessive] entertainment.</li>
   -->
   <ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験をしたいようです。承諾すると、彼らは [map_definite] にフェロモンを散布し、 [hivesCount] のミツバチの来襲を引き起こします。\n\n引き換えに以下のアイテムを含むドロップポッドを投下します。 (合計 [itemsReward_totalMarketValue_money]):\n\n[itemsReward_items]</li>
-    <li>infestationArrivalLetterText(askerIsNull==true)->ミツバチが研究線の散布したフェロモンに惹かれてやって来ました。</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull] は、 [map_definite] 付近の拠点で繰り返される侵入に直面しています。 [asker_pronoun]は、あなたが侵入を引き寄せてくれれば、ドロップポッドでいくらかのアイテムを送ると提案しています。 ポッドの中身は以下の通り (合計 [itemsReward_totalMarketValue_money]):\n\n[itemsReward_items]\n\n[helpersParagraph]承諾すると、 [hivesCount] 匹のミツバチが襲来するでしょう。 [allRewardsDescriptionsExceptItems]</li>
-    <li>infestationArrivalLetterText(asker_factionLeader==True)->ミツバチはもともと [asker_faction_name] の [asker_nameFull] が統治する拠点付近で侵入していました。</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull] は、ちょっとした娯楽としてあなたがミツバチの襲来とどう戦うのか観戦したいようです。[asker_pronoun]は [map_definite] にフェロモン爆弾を透過して、 [hivesCount] 匹の襲来を招く許可を求めています。[asker_pronoun] はその様を高高度ドローン越しに観察します。\n\n[asker_pronoun] は見返りとして、以下のアイテムをポッドで送ってくるでしょう。 (合計 [itemsReward_totalMarketValue_money]):\n\n[itemsReward_items]\n\n[helpersParagraph][allRewardsDescriptionsExceptItems]</li>
-    <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull] によってミツバチの来襲が引き起こされました。これは[asker_possessive] の娯楽目的です。</li>
+    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験をしたいようです。承諾すると、彼らは [map_definite] にフェロモンを散布し、 [hivesCount] の虫の巣の来襲を引き起こします。\n\n引き換えに以下のアイテムを含むドロップポッドを投下します。 (合計 [itemsReward_totalMarketValue_money]):\n\n[itemsReward_items]</li>
+    <li>infestationArrivalLetterText(askerIsNull==true)->虫の巣が研究船の散布したフェロモンに惹かれ出現しました。</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull] は、 [map_definite] 付近の拠点で繰り返される侵入に直面しています。 [asker_pronoun]は、あなたが侵入を引き寄せてくれれば、ドロップポッドでいくらかのアイテムを送ると提案しています。 ポッドの中身は以下の通り (合計 [itemsReward_totalMarketValue_money]):\n\n[itemsReward_items]\n\n[helpersParagraph]承諾すると、 [hivesCount] 匹の虫の巣が襲来するでしょう。 [allRewardsDescriptionsExceptItems]</li>
+    <li>infestationArrivalLetterText(asker_factionLeader==True)->虫の巣はもともと [asker_faction_name] の [asker_nameFull] が統治する拠点付近で侵入していました。</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull] は、ちょっとした娯楽としてあなたが虫の巣の襲来とどう戦うのか観戦したいようです。[asker_pronoun]は [map_definite] にフェロモン爆弾を透過して、 [hivesCount] 匹の襲来を招く許可を求めています。[asker_pronoun] はその様を高高度ドローン越しに観察します。\n\n[asker_pronoun] は見返りとして、以下のアイテムをポッドで送ってくるでしょう。 (合計 [itemsReward_totalMarketValue_money]):\n\n[itemsReward_items]\n\n[helpersParagraph][allRewardsDescriptionsExceptItems]</li>
+    <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull] によって虫の巣の来襲が引き起こされました。これは[asker_possessive] の娯楽目的です。</li>
   </ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Pods and [insects]</li>
@@ -58,7 +58,7 @@
     <li>questName(p=0.3)->Podswarm</li>
     <li>insects->虫</li>
     <li>insects->バグ</li>
-    <li>insects->ミツバチ</li>
+    <li>insects->虫の巣</li>
   </ThreatReward_Infestation_ItemPod.questNameRules.rulesStrings>
   
   <!-- EN:
