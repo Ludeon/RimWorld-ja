@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->A mysterious message has arrived. It seems it was transmitted by a machine persona that refuses to name itself. The message asks that you build a very specific monument.\n\n[commonEnding]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] is requesting that you build a monument [buildReason].\n\n[commonEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] is requesting that you build a monument [buildReason].\n\n[commonEnding]</li>
+    <li>asker2(askerIsNull==true)->the archotech</li>
+    <li>asker2(asker_factionLeader==True)->[asker_nameDef]</li>
+    <li>asker2(asker_royalInCurrentFaction==True)->the [asker_royalTitleInCurrentFaction]</li>
+    <li>buildReason->to commemorate the [PersonalCharacteristic] of [asker_possessive] [PersonFamily]</li>
+    <li>buildReason->to commemorate [asker_possessive] own [PersonalCharacteristic]</li>
+    <li>buildReason->to insult the [PersonalCharacteristic] of [asker_possessive] rival</li>
+    <li>buildReason->to reduce feelings of [ConceptAngsty] amongst the people</li>
+    <li>buildReason->to express how [AdjectiveBadass] [asker_pronoun] is</li>
+    <li>buildReason->to commemorate [asker_possessive] [asker_faction_pawnsPlural] who have fallen in battle</li>
+    <li>buildReason->to honor [asker_possessive] [PersonFamily]</li>
+    <li>buildReason->to honor the work of [PersonJob]s</li>
+    <li>buildReason->to spread images of [asker_possessive] [glory] across the land</li>
+    <li>glory->glory</li>
+    <li>glory->martial honor</li>
+    <li>glory->victories</li>
+    <li>glory->throne</li>
+    <li>glory->great ship</li>
+    <li>glory->wealth</li>
+    <li>glory->family</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->You have failed the quest '[resolvedQuestName]'.</li>
+    <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
+  -->
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+    <li>questDescription(askerIsNull==true)->不思議なメッセージが届いている。名乗るのを拒否した一体のマシンペルソナによって送信されたようだ。メッセージでは非常に特殊なモニュメントを建設するよう要求している。\n\n[commonEnding]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle] [asker_nameFull] がモニュメントを建設するよう要求している[buildReason]。\n\n[commonEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction] [asker_nameFull]が建設するよう要求している[buildReason]。\n\n[commonEnding]</li>
+    <li>asker2(askerIsNull==true)->アルコテック</li>
+    <li>asker2(asker_factionLeader==True)->[asker_nameDef]</li>
+    <li>asker2(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction]</li>
+    <li>buildReason->[asker_possessive] [PersonFamily]の[PersonalCharacteristic]の記念として</li>
+    <li>buildReason->[PersonalCharacteristic] による[asker_possessive] の領有の記念として</li>
+    <li>buildReason->[asker_possessive]のライバルである[PersonalCharacteristic]への侮辱として</li>
+    <li>buildReason->人々の間の[ConceptAngsty]の感情を減らすために</li>
+    <li>buildReason->[AdjectiveBadass]がいかに[asker_pronoun]かを示すために</li>
+    <li>buildReason->[asker_possessive]で[asker_faction_pawnsPlural]が戦闘に敗北した記念として</li>
+    <li>buildReason->[asker_possessive] [PersonFamily]を讃えるため</li>
+    <li>buildReason->[PersonJob]たちの働きを讃えるため</li>
+    <li>buildReason->[asker_possessive]での[glory]を大陸中へ知らしめるため</li>
+    <li>glory->栄光</li>
+    <li>glory->武勇</li>
+    <li>glory->勝利</li>
+    <li>glory->王位</li>
+    <li>glory->偉大な船</li>
+    <li>glory->富</li>
+    <li>glory->一族</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->クエスト「[resolvedQuestName]」に失敗した。</li>
+    <li>failLetterEndingCommon->クエスト「[resolvedQuestName]」に失敗した。\n\n[asker_faction_name]との友好度が[goodwillPenalty]減少した.</li>
+  </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>questName->[constAdj] [construction]</li>
+    <li>questName->A [constAdj] [construction]</li>
+    <li>questName->The [constAdj] [construction]</li>
+    <li>constAdj(p=20)->[AdjectiveLarge]</li>
+    <li>constAdj->terrible</li>
+    <li>constAdj->great</li>
+    <li>constAdj->grand</li>
+    <li>constAdj->dangerous</li>
+    <li>constAdj->monumental</li>
+    <li>constAdj->extravagant</li>
+    <li>constAdj->foreboding</li>
+    <li>constAdj->frightening</li>
+    <li>constAdj->dreadful</li>
+    <li>constAdj->fearful</li>
+    <li>constAdj->awesome</li>
+    <li>constAdj->prophetic</li>
+    <li>constAdj->harrowing</li>
+    <li>constAdj->glittering</li>
+    <li>constAdj->shining</li>
+    <li>constAdj->amazing</li>
+    <li>construction(p=3)->construction</li>
+    <li>construction(p=2)->structure</li>
+    <li>construction(p=2)->building</li>
+    <li>construction->monument</li>
+    <li>construction->edifice</li>
+    <li>construction->blueprint</li>
+    <li>construction->assembly</li>
+  -->
+  <QuestConstructionNameCommon.rulePack.rulesStrings>
+    <li>questName->[constAdj] [construction]</li>
+    <li>questName->一つの[constAdj] [construction]</li>
+    <li>questName->[constAdj] [construction]</li>
+    <li>constAdj(p=20)->[AdjectiveLarge]</li>
+    <li>constAdj->ひどい</li>
+    <li>constAdj->偉大な</li>
+    <li>constAdj->壮大な</li>
+    <li>constAdj->危険な</li>
+    <li>constAdj->モニュメントの</li>
+    <li>constAdj->贅沢な</li>
+    <li>constAdj->予知の</li>
+    <li>constAdj->ぎょっとする</li>
+    <li>constAdj->不快な</li>
+    <li>constAdj->恐ろしい</li>
+    <li>constAdj->荘厳な</li>
+    <li>constAdj->預言者の</li>
+    <li>constAdj->痛ましい</li>
+    <li>constAdj->煌めく</li>
+    <li>constAdj->輝く</li>
+    <li>constAdj->素晴らしい</li>
+    <li>construction(p=3)->建造物</li>
+    <li>construction(p=2)->構造物</li>
+    <li>construction(p=2)->建物</li>
+    <li>construction->モニュメント</li>
+    <li>construction->建築物</li>
+    <li>construction->図面</li>
+    <li>construction->機構</li>
+  </QuestConstructionNameCommon.rulePack.rulesStrings>
+  
+</LanguageData>

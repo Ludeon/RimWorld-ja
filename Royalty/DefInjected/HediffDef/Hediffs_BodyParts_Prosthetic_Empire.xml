@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drill arm -->
+  <DrillArm.label>ドリルアーム</DrillArm.label>
+  <!-- EN: An installed drill arm. -->
+  <DrillArm.description>ドリルアームが装着済み。</DrillArm.description>
+  <!-- EN: stab -->
+  <DrillArm.comps.HediffComp_VerbGiver.tools.stab.label>刺突</DrillArm.comps.HediffComp_VerbGiver.tools.stab.label>
+  <!-- EN: a drill arm -->
+  <DrillArm.labelNoun>ドリルアーム</DrillArm.labelNoun>
+  
+  <!-- EN: elbow blade -->
+  <ElbowBlade.label>エルボーブレード</ElbowBlade.label>
+  <!-- EN: An installed elbow blade. -->
+  <ElbowBlade.description>エルボーブレードが装着済み。</ElbowBlade.description>
+  <!-- EN: slice -->
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.slice.label>スライス</ElbowBlade.comps.HediffComp_VerbGiver.tools.slice.label>
+  <!-- EN: an elbow blade -->
+  <ElbowBlade.labelNoun>エルボーブレード</ElbowBlade.labelNoun>
+  
+  <!-- EN: field hand -->
+  <FieldHand.label>フィールドハンド</FieldHand.label>
+  <!-- EN: An installed field hand. -->
+  <FieldHand.description>フィールドハンドが装着済み。</FieldHand.description>
+  <!-- EN: punch -->
+  <FieldHand.comps.HediffComp_VerbGiver.tools.punch.label>パンチ</FieldHand.comps.HediffComp_VerbGiver.tools.punch.label>
+  <!-- EN: a field hand -->
+  <FieldHand.labelNoun>フィールドハンド</FieldHand.labelNoun>
+  
+  <!-- EN: hand talon -->
+  <HandTalon.label>隠し鉤爪</HandTalon.label>
+  <!-- EN: An installed hand talon. -->
+  <HandTalon.description>隠し鉤爪が装着済み。</HandTalon.description>
+  <!-- EN: scratch -->
+  <HandTalon.comps.HediffComp_VerbGiver.tools.scratch.label>引っかき</HandTalon.comps.HediffComp_VerbGiver.tools.scratch.label>
+  <!-- EN: a hand talon -->
+  <HandTalon.labelNoun>隠し鉤爪</HandTalon.labelNoun>
+  
+  <!-- EN: knee spike -->
+  <KneeSpike.label>ニースパイク</KneeSpike.label>
+  <!-- EN: An installed knee spike. -->
+  <KneeSpike.description>ニースパイクが装着済み。</KneeSpike.description>
+  <!-- EN: stab -->
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.stab.label>刺突</KneeSpike.comps.HediffComp_VerbGiver.tools.stab.label>
+  <!-- EN: a knee spike -->
+  <KneeSpike.labelNoun>ニースパイク</KneeSpike.labelNoun>
+  
+  <!-- EN: mindscrew -->
+  <Mindscrew.label>マインドスクリュー</Mindscrew.label>
+  <!-- EN: An installed mindscrew. -->
+  <Mindscrew.description>マインドスクリューが装着済み。</Mindscrew.description>
+  <!-- EN: a mindscrew -->
+  <Mindscrew.labelNoun>マインドスクリュー</Mindscrew.labelNoun>
+  
+  <!-- EN: venom fangs -->
+  <VenomFangs.label>毒牙</VenomFangs.label>
+  <!-- EN: An installed set of venom fangs. -->
+  <VenomFangs.description>毒牙が装着済み。</VenomFangs.description>
+  <!-- EN: venom fangs -->
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>毒牙</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <!-- EN: a set of venom fangs -->
+  <VenomFangs.labelNoun>毒牙</VenomFangs.labelNoun>
+  
+  <!-- EN: venom talon -->
+  <VenomTalon.label>毒爪</VenomTalon.label>
+  <!-- EN: An installed venom talon. -->
+  <VenomTalon.description>毒爪が装着済み。</VenomTalon.description>
+  <!-- EN: venom talon -->
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>毒爪</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <!-- EN: a venom talon -->
+  <VenomTalon.labelNoun>毒爪</VenomTalon.labelNoun>
+  
+</LanguageData>

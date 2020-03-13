@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Royal titles -->
+  <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
+  <LetterLabelLostRoyalTitle>{TITLE} の爵位を失った: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
+  <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
+  <LetterLabelGainedRoyalTitle>{TITLE} の爵位を獲得した: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+
+  <!-- EN: {PAWN_pronoun} must be dressed in apparel of {1} quality or better. -->
+  <LetterRoyalTitleApparelQualityRequirement>{PAWN_pronoun} には{1}以上の品質の衣服を着用させる必要があります。</LetterRoyalTitleApparelQualityRequirement>
+  <!-- EN: {PAWN_pronoun} wants to be covered in apparel appropriate to {PAWN_possessive} title: -->
+  <LetterRoyalTitleApparelRequirement>{PAWN_pronoun} は {PAWN_possessive} の爵位に相応しい衣装を欲している:</LetterRoyalTitleApparelRequirement>
+  <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
+  <LetterRoyalTitleExpectation>{PAWN_possessive}の期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
+
+  <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
+  <LetterGainedRoyalTitle>{PAWN_labelShort}が{FACTION_name}から{TITLE}の爵位を授かりました！</LetterGainedRoyalTitle>
+  <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
+  <LetterLostRoyalTitle>{PAWN_labelShort}は{FACTION_name}における{TITLE}の爵位をもはや保持していません。</LetterLostRoyalTitle>
+  <!-- EN: Title rewards -->
+  <LetterLabelRewardsForNewTitle>爵位の報酬</LetterLabelRewardsForNewTitle>
+  <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent them following reward(s): -->
+  <LetterRewardsForNewTitle>{PAWN_labelShort}の{TITLE}への昇進を讃え、{FACTION_name} から以下の報酬()が送られました:</LetterRewardsForNewTitle>
+
+  <!-- EN: {PAWN_pronoun} has these permissions: -->
+  <LetterRoyalTitlePermits>{PAWN_pronoun}には以下の権限がある:</LetterRoyalTitlePermits>
+  <!-- EN: {PAWN_pronoun} lost these permissions: -->
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun}は以下の権限を失った:</LetterRoyalTitleLostPermits>
+
+  <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} は以下の作業を実行しません:\n{1}</LetterRoyalTitleDisabledWorkTag>
+
+  <!-- EN: {PAWN_pronoun} demands this recreation: -->
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun}が以下の娯楽を要求しています:</LetterRoyalTitleEnabledJoyKind>
+  <!-- EN: {PAWN_pronoun} demands this recreation: -->
+  <LetterRoyalTitleStillEnabledJoyKind>{PAWN_pronoun}が以下の娯楽を要求しています:</LetterRoyalTitleStillEnabledJoyKind>
+  <!-- EN: {PAWN_pronoun} refuses this recreation: -->
+  <LetterRoyalTitleDisabledJoyKind>{PAWN_pronoun}は以下の娯楽をはねつけています:</LetterRoyalTitleDisabledJoyKind>
+  <!-- EN: {PAWN_pronoun} refuses this recreation: -->
+  <LetterRoyalTitleStillDisabledJoyKind>{PAWN_pronoun}は以下の娯楽をはねつけています:</LetterRoyalTitleStillDisabledJoyKind>
+
+  <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun}は以下のインプラントの使用を許可されています:{1}</LetterRoyalTitleAllowedImplants>
+  <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} はもはや以下のインプラントに使用許可を持ちません:{1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
+  <LetterRoyalTitleImplantGracePeriod>外交的影響を避けるためには、執行猶予期間の5日以内にインプラントを除去する必要があります。</LetterRoyalTitleImplantGracePeriod>
+  <!-- EN: {PAWN_pronoun} has developed a new need for authority. Satisfying this means constructing an appropriate throneroom {PAWN_pronoun} may sit and reign on a regular basis. -->
+  <LetterRoyalTitleAuthorityNeed>{PAWN_pronoun}の高まる威信に伴い新たな欲求が芽生えました。適切な規模の玉座の間を用意すれば、{PAWN_pronoun}はその場で定期的に君臨し欲求を満たすことができます。</LetterRoyalTitleAuthorityNeed>
+  <!-- EN: {PAWN_pronoun} demands a throneroom that meets these requirements:{1} -->
+  <LetterRoyalTitleThroneroomRequirements>{PAWN_pronoun}は以下の要件を満たす玉座の間を要求しています:{1}</LetterRoyalTitleThroneroomRequirements>
+  <!-- EN: {PAWN_pronoun} demands a bedroom that meets these requirements:{1} -->
+  <LetterRoyalTitleBedroomRequirements>{PAWN_pronoun}は以下の要件を満たす寝室を要求しています:{1}</LetterRoyalTitleBedroomRequirements>
+  <!-- EN: {PAWN_pronoun} will only eat these foods:{1} -->
+  <LetterRoyalTitleFoodRequirements>{PAWN_pronoun}は以下の食事のみを受けつけます:{1}</LetterRoyalTitleFoodRequirements>
+
+  <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun}はドロップポッドで以下のアイテムを受け取ります:{1}</LetterRoyalTitleRewardGranted>
+  <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort}に対する{FACTION_name}からの{FACTION_royalFavorLabel}が{1}上昇しました</PeaceTalksRoyalFavorGain>
+
+  <!-- Royal heritage-->
+  <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
+  <LetterRoyalTitleHeir>{PAWN_pronoun}が死亡した場合、この爵位は{HEIR_nameFull}に継承されます。 </LetterRoyalTitleHeir>
+  <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
+  <LetterRoyalTitleNoHeir>{PAWN_pronoun}が死亡した場合、この爵位を継ぐ者はいません。</LetterRoyalTitleNoHeir>
+  <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull}は{FACTION_name}のメンバーです。</LetterRoyalTitleHeirFactionWarning>
+  <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
+  <LetterRoyalTitleChangingHeir>通信機から{FACTION_name}に連絡すれば新たな継承者を指名できます。</LetterRoyalTitleChangingHeir>
+  <!-- EN: Heir lost -->
+  <LetterTitleHeirLostLabel>継承者を失った</LetterTitleHeirLostLabel>
+  <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title recieved from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
+  <LetterTitleHeirLost>{HEIR_nameFull}が死亡しました。継承者がいないため{FACTION_name}から拝領した{HOLDER_labelShort}の爵位が残されました。通信機から{FACTION_name}に連絡すれば新たな継承者を指名できます。</LetterTitleHeirLost>
+
+  <!-- EN: Title inheritance -->
+  <LetterTitleInheritance>爵位の継承</LetterTitleInheritance>
+  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles have been transferred to {PAWN_possessive} heirs according to the laws of the title-granting factions. -->
+  <LetterTitleInheritance_Base>{PAWN_nameFull}が死亡したため、{PAWN_possessive}の爵位は相続法に従い、{PAWN_possessive}の継承者に譲り渡されました。</LetterTitleInheritance_Base>
+  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It replaced {HEIR_possessive} {REPLACEDTITLE} title. -->
+  <LetterTitleInheritance_AsReplacement>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。{HEIR_possessive} {REPLACEDTITLE}の爵位が置き換えられました。</LetterTitleInheritance_AsReplacement>
+  <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
+  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されますが、{HEIR_pronounはすでに{HIGHERTITLE}の保持者です。</LetterTitleInheritance_NoEffectHigherTitle>
+  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}. -->
+  <LetterTitleInheritance_WasInherited>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。</LetterTitleInheritance_WasInherited>
+  <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
+  <LetterTitleInheritance_NoHeirFound>{PAWN_pronoun}の法定相続人がいないため、{PAWN_possessive} {TITLE}の爵位は誰にも継承されませんでした。</LetterTitleInheritance_NoHeirFound>
+
+  <!-- Royal implant violations -->
+  <!-- EN: Lawbreaker: {PAWN_labelShort} -->
+  <LetterLawViolationDetectedLabel>法律違反: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
+  <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name}は{PAWN_labelShort}の不正使用を検知しました: {CULPRIT} (検知チャンス {CHANCE}).\n\n{FACTION_name}の法律では、{TITLE}の爵位の保持者のみ{CULPRIT}の仕様が許可されています。\n\n罰としてあなたの派閥との関係が{GOODWILL}まで低下しました。</LetterLawViolationDetectedForbiddenThingUse>
+
+  <!-- Throne Speech -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort}は{ORGANIZER_possessive}の演説を終えた。</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>実にひどいものでした。言葉はつかえるし、下手なジョークと気の滅入る話ばかりでした。</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>感動はしませんでした。独創性無くうんうん唸るばかりで、情熱的なセンスが欠けていました。</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>勇気づけられたし、胸にしっかり届きました。</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>意志と気迫に満ちていてとても感動的だった。</LetterInspirationalSpeech>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>{0}が完了した段階で演説が中断されたため、それほど効果的ではありませんでした。</LetterSpeechInterrupted>
+  <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>{ORGANIZER_bestRoyalTitleDef}の演説は50%に達する前に中断されました。何の効果ももたらしません。</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>演説が中断されました</LetterLabelSpeechCancelled>
+
+  <!-- Wild decree mental break -->
+  <!-- EN: Wild decree -->
+  <WildDecree>突飛な法令</WildDecree>
+  <!-- EN: {0_nameIndef} issues decree -->
+  <LetterLabelRandomDecree>{0_nameIndef}が法令を発しました</LetterLabelRandomDecree>
+  <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
+  <LetterDecreeMentalBreak>{0_nameIndef}が、{0_possessive}のストレスを発散するために突飛な法令を発し、それを実行するよう迫っています。
+    \n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterDecreeMentalBreak>
+  <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
+  <LetterRandomDecree>{0_nameIndef}が、{0_bestRoyalTitleIndef}の爵位の{0_possessive}を確認するために突飛な法令を発し、それを実行するよう迫っています。
+    \n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterRandomDecree>
+  <!-- EN: The decree is titled "{0}". -->
+  <LetterDecree_Quest>法令の名前は"{0}"です。</LetterDecree_Quest>
+
+</LanguageData>

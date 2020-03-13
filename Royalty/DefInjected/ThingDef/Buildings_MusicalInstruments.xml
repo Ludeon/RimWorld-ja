@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harp -->
+  <Harp.label>ハープ</Harp.label>
+  <!-- EN: A simple stationary musical instrument. A row of strings are stretched over a frame and plucked directly by a musician's fingers.\n\nIt can be crafted at a crafting spot, art bench, or smithy. -->
+  <Harp.description>シンプルな据置の楽器。フレーム上に張られた弦を指で爪弾いて演奏します。\n\n作業場、彫刻台、工作台で制作できます。</Harp.description>
+  
+  <!-- EN: harpsichord -->
+  <Harpsichord.label>チェンバロ</Harpsichord.label>
+  <!-- EN: A complex stationary musical instrument. A musician touches a row of keys on the front of the instrument. Each key is attached to an internal mechanism which plucks one of a row of strings stretched over a wooden frame. While it permits more complex composition than the harp, its wooden construction and plucking mechanism limit its output volume and expressiveness.\n\nIt can be crafted at an art bench or smithy. -->
+  <Harpsichord.description>複雑な据置の楽器。演奏者は前面に取り付けられた鍵盤を叩きます。それぞれのキーは内部機構とつながっており、木製フレームに張られた弦を鳴らします。ハープよりも複雑な音階が出せますが、木製構造とプラッキング機構のため音量も表現力も限界があります。\n\n彫刻台、工作台で制作できます。</Harpsichord.description>
+  
+  <!-- EN: piano -->
+  <Piano.label>ピアノ</Piano.label>
+  <!-- EN: An advanced stationary musical instrument. It is played by pressing a row of keys, which causes hammers to strike internal strings stretched over a steel frame. The hammer mechanism and high-tension strings allow the musician to play both very soft and very loud, making the piano a very expressive instrument.\n\nIt can be crafted at a smithy. -->
+  <Piano.description>高度な据置の楽器。鍵盤を叩くと、ハンマーが鉄製フレームに張られた弦を打って音を出します。ハンマー機構と高張力の弦により、柔らかい音も大きな音も自在に奏でることが出来、演奏者にとっては非常に表現力の高い楽器になりました。\n\n工作台でのみ製作可能です。</Piano.description>
+  
+  <!-- EN: unfinished musical instrument -->
+  <UnfinishedMusicalInstrument.label>未完成の楽器</UnfinishedMusicalInstrument.label>
+  <!-- EN: An unfinished musical instrument. -->
+  <UnfinishedMusicalInstrument.description>未完成の楽器</UnfinishedMusicalInstrument.description>
+  
+</LanguageData>
