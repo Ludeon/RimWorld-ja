@@ -33,7 +33,7 @@
     <li>hidingFrom(gameCondition==ColdSnap)->故障中の気候制御衛星</li>
     <li>condDesc(gameCondition==ColdSnap)->[joiner_pronoun] がやってくると、衛生がリセットされるまでの[gameConditionDuration_duration]の期間、寒波に見舞われます。</li>
     <li>hidingFrom(gameCondition==WeatherController)->故障中の気候制御衛星</li>
-    <li>condDesc(gameCondition==WeatherController)->[joiner_pronoun] がやってくると、衛生がリセットされるまでの[gameConditionDuration_duration]の期間、[forcedWeather_label]に見舞われます。</li>
+    <li>condDesc(gameCondition==WeatherController)->[joiner_pronoun] がやってくると、衛星がリセットされるまでの[gameConditionDuration_duration]の期間、[forcedWeather_label]に見舞われます。</li>
     <li>hidingFrom(gameCondition==PsychicDrone)->[joiner_pronoun] に侮辱された復讐にかられる機械知性体</li>
     <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun] がやってくると、機械知性はこの [map_definite] にいる[psychicDroneGender]に向けて [psychicDroneLevel] レベルのサイコドローンを [gameConditionDuration_duration] の期間放ち、全ての [psychicDroneGender] のムードを減退させます。</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->[joiner_pronoun]に起動された活発な機械知性体</li>
