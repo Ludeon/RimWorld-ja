@@ -56,5 +56,40 @@
   <InstallVenomTalon.description>毒爪を移植する。</InstallVenomTalon.description>
   <!-- EN: Installing venom talon. -->
   <InstallVenomTalon.jobString>毒爪を移植中。</InstallVenomTalon.jobString>
+   
+  <!-- EN: remove elbow blade -->
+  <RemoveElbowBlade.label>エルボーブレードを取り外す</RemoveElbowBlade.label>
+  <!-- EN: Remove elbow blade. -->
+  <RemoveElbowBlade.description>エルボーブレードを取り外す。</RemoveElbowBlade.description>
+  <!-- EN: Removing elbow blade. -->
+  <RemoveElbowBlade.jobString>エルボーブレードを取り外している。</RemoveElbowBlade.jobString>
   
+  <!-- EN: remove hand talon -->
+  <RemoveHandTalon.label>隠し鉤爪を取り外す</RemoveHandTalon.label>
+  <!-- EN: Remove hand talon. -->
+  <RemoveHandTalon.description>隠し鉤爪を取り外す。</RemoveHandTalon.description>
+  <!-- EN: Removing hand talon. -->
+  <RemoveHandTalon.jobString>隠し鉤爪を取り外している。</RemoveHandTalon.jobString>
+  
+  <!-- EN: remove knee spike -->
+  <RemoveKneeSpike.label>ニースパイクを取り外す</RemoveKneeSpike.label>
+  <!-- EN: Remove knee spike. -->
+  <RemoveKneeSpike.description>ニースパイクを取り外す。</RemoveKneeSpike.description>
+  <!-- EN: Removing knee spike. -->
+  <RemoveKneeSpike.jobString>ニースパイクを取り外している。</RemoveKneeSpike.jobString>
+  
+  <!-- EN: remove venom fangs -->
+  <RemoveVenomFangs.label>毒牙を取り外す</RemoveVenomFangs.label>
+  <!-- EN: Remove venom fangs. -->
+  <RemoveVenomFangs.description>毒牙を取り外す。</RemoveVenomFangs.description>
+  <!-- EN: Removing venom fangs. -->
+  <RemoveVenomFangs.jobString>毒牙を取り外している。</RemoveVenomFangs.jobString>
+  
+  <!-- EN: remove venom talon -->
+  <RemoveVenomTalon.label>毒爪を取り外す</RemoveVenomTalon.label>
+  <!-- EN: Remove venom talon. -->
+  <RemoveVenomTalon.description>毒爪を取り外す。</RemoveVenomTalon.description>
+  <!-- EN: Removing venom talon. -->
+  <RemoveVenomTalon.jobString>毒爪を取り外している。</RemoveVenomTalon.jobString>
+ 
 </LanguageData>

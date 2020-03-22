@@ -34,5 +34,10 @@
   <ThroneroomInvalidConfiguration>玉座に座れない</ThroneroomInvalidConfiguration>
   <!-- EN: A throne is not usable because of how it is set up: -->
   <ThroneroomInvalidConfigurationDesc>玉座の配置が原因で使用できません:</ThroneroomInvalidConfigurationDesc>
-  
+
+  <!-- EN: Monument missing blueprints -->
+  <MonumentMarkerMissingBlueprints>モニュメントの設計図が無い</MonumentMarkerMissingBlueprints>
+  <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
+  <MonumentMarkerMissingBlueprintsDesc>全ての部品に設計図が配置されていないためモニュメントは完成しません。\n\nモニュメントマーカーから"設計図を配置"をクリックするか、手動で設計図を配置してください。</MonumentMarkerMissingBlueprintsDesc>
+
 </LanguageData>

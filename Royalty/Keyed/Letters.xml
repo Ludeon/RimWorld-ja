@@ -13,6 +13,10 @@
   <LetterRoyalTitleApparelRequirement>{PAWN_pronoun} は {PAWN_possessive} の爵位に相応しい衣装を欲している:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
   <LetterRoyalTitleExpectation>{PAWN_possessive}の期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
+  
+  <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
+  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、下等な食物を退け、時に布告を発するでしょう
+</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort}が{FACTION_name}から{TITLE}の爵位を授かりました！</LetterGainedRoyalTitle>
@@ -22,6 +26,10 @@
   <LetterLabelRewardsForNewTitle>爵位の報酬</LetterLabelRewardsForNewTitle>
   <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent them following reward(s): -->
   <LetterRewardsForNewTitle>{PAWN_labelShort}の{TITLE}への昇進を讃え、{FACTION_name} から以下の報酬()が送られました:</LetterRewardsForNewTitle>
+  <!-- EN: Rewards have arrived to your colony via transport pods. -->
+  <LetterRewardsForNewTitleDeliveryBase>報酬を積んだポッドがコロニーに到着しました。</LetterRewardsForNewTitleDeliveryBase>
+  <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
+  <LetterRewardsForNewTitleDeliveryDirect>報酬は{PAWN_labelShort}のインベントリに直接追加されました。</LetterRewardsForNewTitleDeliveryDirect>
 
   <!-- EN: {PAWN_pronoun} has these permissions: -->
   <LetterRoyalTitlePermits>{PAWN_pronoun}には以下の権限がある:</LetterRoyalTitlePermits>
@@ -62,7 +70,7 @@
 
   <!-- Royal heritage-->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
-  <LetterRoyalTitleHeir>{PAWN_pronoun}が死亡した場合、この爵位は{HEIR_nameFull}に継承されます。 </LetterRoyalTitleHeir>
+  <LetterRoyalTitleHeir>{PAWN_pronoun}が死亡した場合、この爵位は{HEIR_nameFull}に継承されます。</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
   <LetterRoyalTitleNoHeir>{PAWN_pronoun}が死亡した場合、この爵位を継ぐ者はいません。</LetterRoyalTitleNoHeir>
   <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
@@ -81,7 +89,7 @@
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It replaced {HEIR_possessive} {REPLACEDTITLE} title. -->
   <LetterTitleInheritance_AsReplacement>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。{HEIR_possessive} {REPLACEDTITLE}の爵位が置き換えられました。</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されますが、{HEIR_pronounはすでに{HIGHERTITLE}の保持者です。</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されますが、{HEIR_pronoun}はすでに{HIGHERTITLE}の保持者です。</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}. -->
   <LetterTitleInheritance_WasInherited>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
@@ -126,5 +134,9 @@
     \n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
   <LetterDecree_Quest>法令の名前は"{0}"です。</LetterDecree_Quest>
+  
+  <!-- Lent colonist died -->
+  <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
+  <LentColonistDied>{PAWN_nameDef}は{FACTION}に派遣されました。彼らはじきに{PAWN_nameDef}の身柄を返してくるでしょう。</LentColonistDied>
 
 </LanguageData>

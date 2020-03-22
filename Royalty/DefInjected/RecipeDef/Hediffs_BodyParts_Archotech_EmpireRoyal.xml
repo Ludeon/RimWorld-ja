@@ -17,7 +17,7 @@
   
   <!-- EN: install psychic reader -->
   <InstallPsychicReader.label>サイキック読心器を移植する</InstallPsychicReader.label>
-  <!-- EN: Install psychic a reader. -->
+  <!-- EN: Install psychic reader. -->
   <InstallPsychicReader.description>サイキック読心器を移植する</InstallPsychicReader.description>
   <!-- EN: Installing psychic reader. -->
   <InstallPsychicReader.jobString>サイキック読心器を装着中。</InstallPsychicReader.jobString>
@@ -28,5 +28,26 @@
   <InstallPsychicSensitizer.description>サイキック鋭感器を移植する。</InstallPsychicSensitizer.description>
   <!-- EN: Installing psychic sensitizer. -->
   <InstallPsychicSensitizer.jobString>サイキック鋭感器を装着中。</InstallPsychicSensitizer.jobString>
+  
+  <!-- EN: remove psychic harmonizer -->
+  <RemovePsychicHarmonizer.label>サイキック感応器を摘出する</RemovePsychicHarmonizer.label>
+  <!-- EN: Remove psychic harmonizer. -->
+  <RemovePsychicHarmonizer.description>サイキック感応器を摘出する。</RemovePsychicHarmonizer.description>
+  <!-- EN: Removing psychic harmonizer. -->
+  <RemovePsychicHarmonizer.jobString>サイキック感応器を摘出中。</RemovePsychicHarmonizer.jobString>
+  
+  <!-- EN: remove psychic reader -->
+  <RemovePsychicReader.label>サイキック読心器を摘出する</RemovePsychicReader.label>
+  <!-- EN: Remove psychic reader. -->
+  <RemovePsychicReader.description>サイキック読心器を摘出する。</RemovePsychicReader.description>
+  <!-- EN: Removing psychic reader. -->
+  <RemovePsychicReader.jobString>サイキック読心器を摘出中。</RemovePsychicReader.jobString>
+  
+  <!-- EN: remove psychic sensitizer -->
+  <RemovePsychicSensitizer.label>サイキック鋭感器を摘出する</RemovePsychicSensitizer.label>
+  <!-- EN: Remove psychic sensitizer. -->
+  <RemovePsychicSensitizer.description>サイキック鋭感器を摘出する。</RemovePsychicSensitizer.description>
+  <!-- EN: Removing psychic sensitizer. -->
+  <RemovePsychicSensitizer.jobString>サイキック鋭感器を摘出中。</RemovePsychicSensitizer.jobString>
   
 </LanguageData>

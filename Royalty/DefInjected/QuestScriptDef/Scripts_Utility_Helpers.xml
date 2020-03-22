@@ -34,8 +34,8 @@
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] [helpersHasHave] arrived to aid you with the quest '[resolvedQuestName]'. -->
   <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterText.slateRef>クエスト「[resolvedQuestName]」であなたを支援するため[helpersLabelSingOrPlural]が[asker_nameDef] [helpersHasHave]により送り出されました。</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.DropPods.customLetterText.slateRef>
   <!-- EN: [helpersLabelSingOrPlural] leaving -->
-  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.label.slateRef>[helpersLabelSingOrPlural]が離脱</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.label.slateRef>
+  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.GreaterOrEqual.node.node.nodes.Letter.label.slateRef>[helpersLabelSingOrPlural]が離脱</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.GreaterOrEqual.node.node.nodes.Letter.label.slateRef>
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] to aid you [helpersHasHave] spent too much time with you, and [helpersIsAre] now leaving. -->
-  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.text.slateRef>あなたを支援するため[asker_nameDef]により送り出された[helpersLabelSingOrPlural]の滞在時間が長くなり[helpersHasHave]過ぎたため、離脱し[helpersIsAre]ました。</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.Delay.node.nodes.Letter.text.slateRef>
+  <Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.GreaterOrEqual.node.node.nodes.Letter.text.slateRef>あなたを支援するため[asker_nameDef]により送り出された[helpersLabelSingOrPlural]の滞在時間が長くなり[helpersHasHave]過ぎたため、離脱し[helpersIsAre]ました。</Util_MaybeGenerateHelpers.root.nodes.IsNull.elseNode.elseNode.node.nodes.GreaterOrEqual.node.node.nodes.Letter.text.slateRef>
   
 </LanguageData>

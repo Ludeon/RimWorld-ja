@@ -12,12 +12,12 @@
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists</li>
   -->
   <PawnLend.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name] の [asker_faction_leaderTitle] である[asker_nameFull] が [dutyDescription] で手助けを必要としています。 [asker_pronoun] は [asker_faction_name] に [colonistCountToLend] を [lendForDays] 日間派遣するよう養成しています。\n\n[lendForDays] 日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると [colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、 [allRewardsDescriptions]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が[dutyDescription]で手助けを必要としています。[asker_pronoun]は[asker_faction_name]に[colonistCountToLend]を[lendForDays]日間派遣するよう養成しています。\n\n[lendForDays]日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると[colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、[allRewardsDescriptions]</li>
     <li>disease->インフルエンザ</li>
     <li>disease->ペスト</li>
     <li>disease->マラリア</li>
     <li>disease->感染症</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_royalTitleInCurrentFaction] である [asker_nameFull] が [entertainerDescription] を披露することによって、[asker_possessive]  の宮廷に活力を与えたいと望んでいます。 [asker_pronoun] は [asker_faction_name] に [colonistCountToLend] を [lendForDays] 日間派遣するよう養成しています。[lendForDays] 日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると [colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、 [allRewardsDescriptions]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が[entertainerDescription]を披露することによって、[asker_possessive]の宮廷に活力を与えたいと望んでいます。[asker_pronoun]は[asker_faction_name]に[colonistCountToLend]を[lendForDays]日間派遣するよう養成しています。[lendForDays]日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると[colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、[allRewardsDescriptions]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->1人の入植者</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]人の入植者</li></PawnLend.questDescriptionRules.rulesStrings>
   <!-- EN:
@@ -29,12 +29,12 @@
     <li>worker->Worker</li>
   -->
   <PawnLend.questNameRules.rulesStrings>
-    <li>questName->[worker] 外部委託</li>
-    <li>questName->契約 [worker]s</li>
+    <li>questName->外部委託の[worker]</li>
+    <li>questName->契約[worker]</li>
     <li>questName->派遣労働者</li>
     <li>questName->入植者の貸出</li>
-    <li>worker->Colonist</li>
-    <li>worker->Worker</li></PawnLend.questNameRules.rulesStrings>
+    <li>worker->入植者</li>
+    <li>worker->労働者</li></PawnLend.questNameRules.rulesStrings>
   <!-- EN: gather the harvest -->
   <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.0.slateRef>作物の収穫</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.0.slateRef>
   <!-- EN: fortify a settlement -->
@@ -48,7 +48,7 @@
   <!-- EN: contain an outbreak of [disease] -->
   <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.5.slateRef>[disease]の拡大防止</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.GetRandomElement.options.5.slateRef>
   <!-- EN: {PAWNS} have returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>{PAWNS} は [asker_faction_name] の [asker_nameFull] の要請に基づく [dutyDescription] を支援して戻ってきました。</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>{PAWNS} は[asker_faction_name]の[asker_nameFull]の要請に基づく[dutyDescription]を支援して戻ってきました。</PawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>
   <!-- EN: real hardy surface survivors -->
   <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.0.slateRef>実に頑丈な外見のサバイバー</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.0.slateRef>
   <!-- EN: goofy jesters -->
@@ -58,7 +58,7 @@
   <!-- EN: exotic human specimens -->
   <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.3.slateRef>エキゾチックな人体標本</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.GetRandomElement.options.3.slateRef>
   <!-- EN: {PAWNS} have returned after being shown off as [entertainerDescription] in the court of [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name]. -->
-  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>{PAWNS} は [asker_faction_name] の [asker_royalTitleInCurrentFaction] である [asker_nameFull] の宮廷で [entertainerDescription] の見世物となって戻ってきました。</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>
+  <PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>{PAWNS} は[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]の宮廷で[entertainerDescription]の見世物となって戻ってきました。</PawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>
   <!-- EN: Shuttle arrived -->
   <PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>シャトル到着</PawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->

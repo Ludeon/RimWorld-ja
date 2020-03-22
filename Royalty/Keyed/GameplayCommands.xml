@@ -27,12 +27,18 @@
 
   <!-- Abilities -->
   <!-- EN: Psychic entropy would overflow. -->
-  <CommandPsycastWouldExceedEntropy>サイキックエントロピーがオーバーフローします、</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastWouldExceedEntropy>サイキックエントロピーがオーバーフローします。</CommandPsycastWouldExceedEntropy>
   <!-- EN: Psychic amplifier brain implant needed. -->
   <CommandPsycastNoAmplifier>サイキック増幅器が必要です。</CommandPsycastNoAmplifier>
   <!-- EN: {0}x level psychic amplifier needed. -->
   <CommandPsycastHigherLevelAmplifierRequired>{0}x レベルのサイキック増幅器が必要です。</CommandPsycastHigherLevelAmplifierRequired>
   <!-- EN: Ability user is unconscious. -->
   <CommandPsycastPawnIsUnconscious>アビリティの使用者が気絶状態です。</CommandPsycastPawnIsUnconscious>
+
+  <!-- Select monument marker -->
+  <!-- EN: Select monument -->
+  <CommandSelectMonumentMarker>モニュメントを選択</CommandSelectMonumentMarker>
+  <!-- EN: Select the monument marker this belongs to. -->
+  <CommandSelectMonumentMarkerDesc>これが属するモニュメントマーカーを選択。</CommandSelectMonumentMarkerDesc>
   
 </LanguageData>
