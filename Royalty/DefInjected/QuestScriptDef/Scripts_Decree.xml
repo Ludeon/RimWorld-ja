@@ -13,9 +13,9 @@
     <li>questName->モニュメント建設令</li>
   </Decree_BuildMonument.questNameRules.rulesStrings>
   <!-- EN: New monument marker arrived -->
-  <Decree_BuildMonument.root.nodes.monumentMarkerCancelled.node.nodes.Letter.label.slateRef>新たなモニュメントマーカーが設定されました</Decree_BuildMonument.root.nodes.monumentMarkerCancelled.node.nodes.Letter.label.slateRef>
+  <Decree_BuildMonument.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.label.slateRef>新たなモニュメントマーカーが設定されました</Decree_BuildMonument.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
-  <Decree_BuildMonument.root.nodes.monumentMarkerCancelled.node.nodes.Letter.text.slateRef>モニュメントマーカーが破壊されたため、新たなマーカーが送られてきました。</Decree_BuildMonument.root.nodes.monumentMarkerCancelled.node.nodes.Letter.text.slateRef>
+  <Decree_BuildMonument.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.text.slateRef>モニュメントマーカーが破壊されたため、新たなマーカーが送られてきました。</Decree_BuildMonument.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.text.slateRef>
   
   <!-- EN:
     <li>questDescription->[decreeIntro]\n\nYou must harvest [plantToHarvest_label] x[harvestItemCount].\n\nYou may need to plant and grow the [plantToHarvest_label] first.\n\n[decreeThreatInfo]</li>
@@ -26,7 +26,9 @@
   <!-- EN:
     <li>questName->[plantToHarvest_label] harvest decree</li>
   -->
-  <Decree_HarvestCrop.questNameRules.rulesStrings>[plantToHarvest_label] 栽培令</Decree_HarvestCrop.questNameRules.rulesStrings>
+  <Decree_HarvestCrop.questNameRules.rulesStrings>
+    <li>questName->[plantToHarvest_label] 栽培令</li>
+  </Decree_HarvestCrop.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->[decreeIntro]\n\nYou must hunt or slaughter [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
