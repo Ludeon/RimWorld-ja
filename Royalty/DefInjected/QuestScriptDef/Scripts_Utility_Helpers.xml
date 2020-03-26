@@ -2,7 +2,9 @@
 <LanguageData>
   
   <!-- EN: helperKind -->
+  <!-- ここからコメントアウト。訳注："could not resolve any root"というエラーが発生してクエスト説明文が表示されないバグを避けるため、一時的にコメントアウトしてます。
   <Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>支援者たち</Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>
+  ここまでコメントアウト-->
   
   <!-- EN:
     <li>helpersParagraph(helpersCount==0)-></li>
