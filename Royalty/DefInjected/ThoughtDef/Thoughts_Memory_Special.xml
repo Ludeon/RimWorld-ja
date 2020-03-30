@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: decree failed -->
+  <DecreeFailed.stages.decree_failed.label>布告失敗</DecreeFailed.stages.decree_failed.label>
+  <!-- EN: My noble authority has not been respected as it should be. -->
+  <DecreeFailed.stages.decree_failed.description>私の高貴な権威が尊重されていない。</DecreeFailed.stages.decree_failed.description>
+  
   <!-- EN: decree satisfied -->
   <DecreeMet.stages.decree_satisfied.label>命令に満足</DecreeMet.stages.decree_satisfied.label>
   <!-- EN: My noble authority has been respected as it should be. -->

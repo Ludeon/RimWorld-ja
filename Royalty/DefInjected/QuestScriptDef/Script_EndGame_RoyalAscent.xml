@@ -35,10 +35,14 @@
     <li>titleEnd->勝利</li></EndGame_RoyalAscent.questNameRules.rulesStrings>
   <!-- EN: asker.NoLongerFactionLeader -->
   <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>派閥の長ではなくなりました</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <EndGame_RoyalAscent.root.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.Letter.label.slateRef>
+  <!-- EN: [faction_name] became hostile to you.  -->
+  <EndGame_RoyalAscent.root.nodes.Letter.text.slateRef>[faction_name]は敵対的になりました。</EndGame_RoyalAscent.root.nodes.Letter.text.slateRef>
   <!-- EN: [asker_faction_leaderTitle] arrived -->
-  <EndGame_RoyalAscent.root.nodes.DropPods.customLetterLabel.slateRef>[asker_faction_leaderTitle]が到着</EndGame_RoyalAscent.root.nodes.DropPods.customLetterLabel.slateRef>
+  <EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterLabel.value.slateRef>[asker_faction_leaderTitle]が到着</EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterLabel.value.slateRef>
   <!-- EN: [asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has arrived.\n\nProtect [asker_objective] and satisfy [asker_possessive] royal needs until the shuttle arrives in [shuttleDelayTicks_duration].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->
-  <EndGame_RoyalAscent.root.nodes.DropPods.customLetterText.slateRef>[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が到着。\n\n[asker_objective]を護衛し、シャトル到着までの[shuttleDelayTicks_duration]の間、[asker_possessive]の高貴な要求を満たして下さい。\n\n[asker_faction_leaderTitle]のシャトルに全員を同乗させ、新たな人生を始めるために帝国艦隊へ行くこともできます。</EndGame_RoyalAscent.root.nodes.DropPods.customLetterText.slateRef>
+  <EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterText.value.slateRef>[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が到着。\n\n[asker_objective]を護衛し、シャトル到着までの[shuttleDelayTicks_duration]の間、[asker_possessive]の高貴な要求を満たして下さい。\n\n[asker_faction_leaderTitle]のシャトルに全員を同乗させ、新たな人生を始めるために帝国艦隊へ行くこともできます。</EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterText.value.slateRef>
   <!-- EN: Should depart on shuttle -->
   <EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>シャトルが出航する必要があります</EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
   <!-- EN: Shuttle arrived -->
@@ -73,8 +77,6 @@
   <EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>シャトルが破壊された</EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [asker_bestRoyalTitleDef] has been destroyed. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>[asker_bestRoyalTitleDef]を回収しに向かっていたシャトルが破壊されてしまいました。[failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>
-  <!-- EN: Quest failed: [resolvedQuestName] -->
-  <EndGame_RoyalAscent.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [asker_bestRoyalTitleDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>[asker_bestRoyalTitleDef]を回収しに向かっていたシャトルが[asker_objective]を乗せずに出航してしまいました。[asker_pronoun]は徒歩で出発するでしょう。[failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>
   

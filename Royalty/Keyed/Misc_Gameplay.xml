@@ -41,5 +41,13 @@
   <Reward_RoyalFavor>クエストを受けた人は、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
   <Reward_RoyalFavor_ChoosePawn>関係している{2}のいずれかを選択して、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor_ChoosePawn>
-  
+
+  <!-- Ship landing beacons -->
+  <!-- EN: Not usable -->
+  <NotUsable>使用不能</NotUsable>
+  <!-- EN: unpowered -->
+  <Unpowered>電力無し</Unpowered>
+  <!-- EN: Too close to other beacon -->
+  <TooCloseToOtherBeacon>他のビーコンに近すぎます</TooCloseToOtherBeacon>
+
 </LanguageData>

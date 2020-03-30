@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ship landing beacon -->
+  <ShipLandingBeacon.label>宇宙船着陸ビーコン</ShipLandingBeacon.label>
+  <!-- EN: Marks the corner of a landing area. Four of these placed at the corners of a clear area (minimum 9x9) create a landing pad. Spacecraft usually land on pads if possible. -->
+  <ShipLandingBeacon.description>着陸地点の角に付けるマークです。四隅を平地(最小サイズ 9x9) に配置すると着陸パッドが形成されます。宇宙船は可能な限りパッドに着陸しようとします。</ShipLandingBeacon.description>
+  
+</LanguageData>

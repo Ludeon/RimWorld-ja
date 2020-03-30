@@ -2,9 +2,14 @@
 <LanguageData>
   
   <!-- EN:
-    <li>commonEnding->The monument is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nConstruction must be completed within [constructionTimeoutTicks_duration] of accepting the task. Upon completion, [allRewardsDescriptions]</li>
-  -->
+    <li>commonEnding->The monument is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nConstruction must be completed within [constructionTimeoutTicks_duration] of accepting the task. Upon completion, [allRewardsDescriptions][dontDestroyMonument]</li>
+    <li>dontDestroyMonument(priority=-10)-></li>
+    <li>dontDestroyMonument->\n\nIf the monument is destroyed within [keepMonumentTicks_duration] days of construction, your relations with [asker_factionName] will fall by [goodwillChangeIfMonumentDestroyed].</li>
+ -->
   <BuildMonument_Basic.questDescriptionRules.rulesStrings>
-    <li>モニュメントのサイズは[monumentSize]で、以下のリソースが必要です。(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[constructionTimeoutTicks_duration]内で建設を完了させる必要があります。完了すると、[allRewardsDescriptions]</li></BuildMonument_Basic.questDescriptionRules.rulesStrings>
+    <li>commonEnding->モニュメントのサイズは[monumentSize]で、以下のリソースが必要です。(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[constructionTimeoutTicks_duration]内で建設を完了させる必要があります。完了すると、[allRewardsDescriptions][dontDestroyMonument]</li>
+    <li>dontDestroyMonument(priority=-10)-></li>
+    <li>dontDestroyMonument->\n\n建設してから[keepMonumentTicks_duration]日以内にモニュメントが破壊された場合、[asker_factionName]との関係が[goodwillChangeIfMonumentDestroyed]減少します。</li>
+   </BuildMonument_Basic.questDescriptionRules.rulesStrings>
   
 </LanguageData>
