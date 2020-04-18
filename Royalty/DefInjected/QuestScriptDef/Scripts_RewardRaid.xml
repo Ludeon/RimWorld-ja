@@ -15,8 +15,11 @@
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
     <li>questName->[violence] of Fortune</li>
+    <li>questName->[violence] for Hire</li>
+    <li>questName->[violence] for Profit</li>
     <li>questName->Rewarded [violence]</li>
     <li>questName->Paid [violence]</li>
+    <li>questName->Compensated [violence]</li>
     <li>questName(reward==royalFavor)->[enemyFaction_pawnsPlural] for Favor</li>
     <li>questName(reward==royalFavor)->[violence] for Favor</li>
     <li>violence->Violence</li>
@@ -24,18 +27,34 @@
     <li>violence->Combat</li>
     <li>violence->War</li>
     <li>violence->Fighting</li>
+    <li>violence->Bloodshed</li>
+    <li>violence->Attack</li>
+    <li>violence->Defense</li>
+    <li>violence->Conflict</li>
+    <li>violence->Hostility</li>
+    <li>violence->Warfare</li>
   -->
   <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   　<li>questName->運命の[enemyFaction_pawnsPlural]</li>
-    <li>questName->運命の[violence] of</li>
+    <li>questName->運命の[violence]</li>
+    <li>questName->雇用のための[violence]</li>
+    <li>questName->利益のための[violence]</li>
     <li>questName->[violence]の褒美</li>
     <li>questName->[violence]の報酬</li>
+    <li>questName->[violence]の補償</li>
     <li>questName(reward==royalFavor)->[enemyFaction_pawnsPlural]に関する頼み事</li>
     <li>questName(reward==royalFavor)->[violence]に関する頼み事</li>
     <li>violence->暴力</li>
     <li>violence->争い</li>
     <li>violence->戦闘</li>
     <li>violence->戦争</li>
-    <li>violence->戦い</li></ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+    <li>violence->戦い</li>
+    <li>violence->流血</li>
+    <li>violence->攻撃</li>
+    <li>violence->防御</li>
+    <li>violence->紛争</li>
+    <li>violence->敵対</li>
+    <li>violence->交戦</li>
+    </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>
