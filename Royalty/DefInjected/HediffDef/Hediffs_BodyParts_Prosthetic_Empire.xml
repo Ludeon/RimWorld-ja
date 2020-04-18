@@ -5,8 +5,8 @@
   <DrillArm.label>ドリルアーム</DrillArm.label>
   <!-- EN: An installed drill arm. -->
   <DrillArm.description>ドリルアームが装着済み。</DrillArm.description>
-  <!-- EN: stab -->
-  <DrillArm.comps.HediffComp_VerbGiver.tools.stab.label>刺突</DrillArm.comps.HediffComp_VerbGiver.tools.stab.label>
+  <!-- EN: drill -->
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>ドリル</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
   <!-- EN: a drill arm -->
   <DrillArm.labelNoun>ドリルアーム</DrillArm.labelNoun>
   
@@ -14,8 +14,8 @@
   <ElbowBlade.label>エルボーブレード</ElbowBlade.label>
   <!-- EN: An installed elbow blade. -->
   <ElbowBlade.description>エルボーブレードが装着済み。</ElbowBlade.description>
-  <!-- EN: slice -->
-  <ElbowBlade.comps.HediffComp_VerbGiver.tools.slice.label>スライス</ElbowBlade.comps.HediffComp_VerbGiver.tools.slice.label>
+  <!-- EN: blade -->
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>ブレード</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
   <!-- EN: an elbow blade -->
   <ElbowBlade.labelNoun>エルボーブレード</ElbowBlade.labelNoun>
   
@@ -23,8 +23,8 @@
   <FieldHand.label>フィールドハンド</FieldHand.label>
   <!-- EN: An installed field hand. -->
   <FieldHand.description>フィールドハンドが装着済み。</FieldHand.description>
-  <!-- EN: punch -->
-  <FieldHand.comps.HediffComp_VerbGiver.tools.punch.label>パンチ</FieldHand.comps.HediffComp_VerbGiver.tools.punch.label>
+  <!-- EN: knuckle -->
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>ナックル</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
   <!-- EN: a field hand -->
   <FieldHand.labelNoun>フィールドハンド</FieldHand.labelNoun>
   
@@ -32,8 +32,8 @@
   <HandTalon.label>隠し鉤爪</HandTalon.label>
   <!-- EN: An installed hand talon. -->
   <HandTalon.description>隠し鉤爪が装着済み。</HandTalon.description>
-  <!-- EN: scratch -->
-  <HandTalon.comps.HediffComp_VerbGiver.tools.scratch.label>引っかき</HandTalon.comps.HediffComp_VerbGiver.tools.scratch.label>
+  <!-- EN: talon -->
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>鉤爪</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
   <!-- EN: a hand talon -->
   <HandTalon.labelNoun>隠し鉤爪</HandTalon.labelNoun>
   
@@ -41,8 +41,8 @@
   <KneeSpike.label>ニースパイク</KneeSpike.label>
   <!-- EN: An installed knee spike. -->
   <KneeSpike.description>ニースパイクが装着済み。</KneeSpike.description>
-  <!-- EN: stab -->
-  <KneeSpike.comps.HediffComp_VerbGiver.tools.stab.label>刺突</KneeSpike.comps.HediffComp_VerbGiver.tools.stab.label>
+  <!-- EN: spike -->
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>スパイク</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
   <!-- EN: a knee spike -->
   <KneeSpike.labelNoun>ニースパイク</KneeSpike.labelNoun>
   

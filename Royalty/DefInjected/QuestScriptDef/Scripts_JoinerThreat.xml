@@ -51,10 +51,10 @@
  </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says giant insects are hunting [joiner_objective] after he poisoned an underground colony and they soaked [joiner_objective] in threat pheromones!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], a [hivesCount]-hive infestation will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says giant insects are hunting [joiner_objective] after [joiner_pronoun] poisoned an underground colony and they soaked [joiner_objective] in threat pheromones!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], a [hivesCount]-hive infestation will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
   -->
   <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました。[joiner_pronoun]が言うには、地下の虫の巣窟を毒物で全滅させようした[joiner_objective]は、逆に警報フェロモンを浴びせかけられてしまいました。のせいで巨大な昆虫が[joiner_objective]を追っています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています。[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合、[hivesCount]の虫が[infestationDelayTicks_duration]までに襲来するでしょう。\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした。</li>
+    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました。[joiner_pronoun]が言うには、[joiner_pronoun]が地下の虫の巣窟を毒物で全滅させようとしたところ、逆に[joiner_objective]は警報フェロモンを浴びせかけられてしまいました。そのせいで巨大な昆虫が[joiner_objective]を追っています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています。[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合、[hivesCount]の虫が[infestationDelayTicks_duration]までに襲来するでしょう。\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした。</li>
  </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s infestation</li>
