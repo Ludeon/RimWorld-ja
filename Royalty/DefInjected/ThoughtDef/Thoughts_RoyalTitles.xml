@@ -3,8 +3,8 @@
   
   <!-- EN: Recieved {TITLE} title -->
   <GainedTitle.stages.Recieved_title.label>{TITLE}の爵位を授かった</GainedTitle.stages.Recieved_title.label>
-  <!-- EN: I was entitled as {TITLE}. It's good to have my stature recognized. -->
-  <GainedTitle.stages.Recieved_title.description>私は{TITLE}の爵位を授かった。私の名声が認知されるのは良いことだ。</GainedTitle.stages.Recieved_title.description>
+  <!-- EN: I have been given the title of {TITLE}. I love the recognition! -->
+  <GainedTitle.stages.Recieved_title.description>私は{TITLE}の爵位を授かった。表彰されるのって最高！</GainedTitle.stages.Recieved_title.description>
   
   <!-- EN: Lost {TITLE} title -->
   <LostTitle.stages.Lost_title.label>{TITLE}の爵位を失った</LostTitle.stages.Lost_title.label>
@@ -28,8 +28,8 @@
   
   <!-- EN: no personal bedroom -->
   <TitleNoPersonalBedroom.stages.no_personal_bedroom.label>寝室に個室が無い</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
-  <!-- EN: Sharing space with commoners is not acceptable for a {TITLE}! -->
-  <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE}が平民と空間を共有するなど容認できない！</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
+  <!-- EN: A {TITLE} should have a personal bedroom. -->
+ <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE}には個室が用意されるべきだ。</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
   
   <!-- EN: no throne room -->
   <TitleNoThroneRoom.stages.no_throne_room.label>玉座の間が無い</TitleNoThroneRoom.stages.no_throne_room.label>

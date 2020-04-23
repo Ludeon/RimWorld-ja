@@ -12,8 +12,6 @@
   <ThroneRoomImpressivenessInfo>({0} 印象)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
   <ThroneMustBePlacedInside>玉座は屋内に設置しなければいけません。</ThroneMustBePlacedInside>
-  <!-- EN: Throne room contains more than one throne, but this is only allowed for married couples. -->
-  <ThroneRoomHasMoreThan1Throne>玉座の間に複数の玉座が置かれていますが、これは結婚したカップルのみ許可されます。</ThroneRoomHasMoreThan1Throne>
   <!-- EN: Minimum title ({FACTION_name}): {TITLE} -->
   <MinimumRoyalTitleInspectString>最下級爵位 ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
   <!-- EN: Trading here requires title: {0} -->
@@ -52,4 +50,32 @@
   <!-- EN: Too close to other beacon -->
   <TooCloseToOtherBeacon>他のビーコンに近すぎます</TooCloseToOtherBeacon>
 
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>徴兵する必要があります。</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>アビリティはクールダウン中です。{0}から再使用可能。</AbilityOnCooldown>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>アビリティがすでに予約されています。</AbilityAlreadyQueued>
+  <!-- EN: Ability ready: {0} -->
+  <AbilityReadyLabel>アビリティ準備完了: {0}</AbilityReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています。</AbilityReadyText>
+  
+  <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
+  <AbilitySpeechTooltip>玉座で演説を行います。{ORGANIZER_labelShort}は{ORGANIZER_possessive}の玉座に着き、聴衆として入植者を呼び集めます。成功すれば聴衆は発奮し、{ORGANIZER_labelShort}に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{ORGANIZER_labelShort}の社交スキルに依存します。</AbilitySpeechTooltip>
+  <!-- EN: no throne assigned. -->
+  <AbilitySpeechDisabledNoThroneAssigned>玉座が割り当てられていません。</AbilitySpeechDisabledNoThroneAssigned>
+  <!-- EN: throne is not accessible. -->
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>玉座にアクセスできません。</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <!-- EN: throne not usable because it is undignified. -->
+  <AbilitySpeechDisabledNoThroneUndignified>玉座が爵位に相応しくないため使用できません。</AbilitySpeechDisabledNoThroneUndignified>
+  <!-- EN: already giving a speech. -->
+  <AbilitySpeechDisabledAlreadyGivingSpeech>すでに演説中です。</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <!-- EN: Next speech ready in -->
+  <AbilitySpeechCooldown>次の演説の準備まで</AbilitySpeechCooldown>
+  <!-- EN: Outcome chances -->
+  <AbilitySpeechPossibleOutcomes>機会の結果</AbilitySpeechPossibleOutcomes>
+  <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
+  <AbilitySpeechStatInfo>{ORGANIZER_labelShort}の{1}状態</AbilitySpeechStatInfo>
 </LanguageData>

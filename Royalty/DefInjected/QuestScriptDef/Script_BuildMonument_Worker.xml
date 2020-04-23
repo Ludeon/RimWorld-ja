@@ -13,8 +13,8 @@
   <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.expiryInfoPart.slateRef>{0}のモニュメントを破壊しないでください</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.expiryInfoPart.slateRef>
   <!-- EN: Keep monument {0} -->
   <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.inspectString.slateRef>{0}のモニュメントを維持</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.inspectString.slateRef>
-  <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Punishment will now occur. -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>クエスト'[resolvedQuestName]'のためのモニュメントが違反状態です。罰が下されます。</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>
+  <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow. -->
+  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>クエスト'[resolvedQuestName]'のためのモニュメントが違反状態です。後難が生じるでしょう。</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>
   <!-- EN: Protect the monument for {0} -->
   <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPart.slateRef>{0}のためにモニュメントを守る</<BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPart.slateRef>
   <!-- EN: Protect the monument until {0} -->

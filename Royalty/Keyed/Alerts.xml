@@ -14,8 +14,8 @@
 
   <!-- EN: Title requires bedroom -->
   <NeedBedroomAssigned>爵位に相応しい寝室</NeedBedroomAssigned>
-  <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedBedroomAssignedDesc>入植者の一人が個人の寝室を必要とする爵位についていますが、割り当てられていません。\n\n彼らに個室を割り当ててください。寝室には爵位保持者に相応しいサイズと装飾が必要です</NeedBedroomAssignedDesc>
+  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
+  <NeedBedroomAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられていません。\n\n玉座の間に置かれた玉座を爵位保持者に割り当ててください。玉座の間には爵位保持者に相応しいサイズと装飾が必要です。\n\n一つの玉座の間に複数の玉座を配置できます。</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
   <UndignifiedThroneroom>みっともない玉座の間</UndignifiedThroneroom>
@@ -42,7 +42,7 @@
 
   <!-- EN: Beacon unusable -->
   <ShipLandingBeaconUnusable>ビーコン使用不可</ShipLandingBeaconUnusable>
-  <!-- EN: A ship landing beacon is powered but can’t be used. To be usable, four of these must be placed on the corners of a square at least 8 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
-  <ShipLandingBeaconUnusableDesc>宇宙船着陸ビーコンは通電していますが使用不能です。使用するためには、これら4つを少なくとも8タイル幅を開けた正方形に配置し、人や動物などの邪魔が入らないようにしなくてはなりません。</ShipLandingBeaconUnusableDesc>
+  <!-- EN: A ship landing beacon is powered but can’t be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
+  <ShipLandingBeaconUnusableDesc>宇宙船着陸ビーコンは通電していますが使用不能です。使用するためには、これら4つを少なくとも9タイル幅を開けた正方形に配置し、人や動物などの邪魔が入らないようにしなくてはなりません。</ShipLandingBeaconUnusableDesc>
 
 </LanguageData>
