@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] needs extra hands to help [dutyDescription]. [asker_pronoun] is asking you to lend [colonistCountToLend] to [asker_faction_name] for [lendForDays] days.\n\nAfter [lendForDays] days have passed, your colonists will be returned via drop pods.\n\nIf you accept, a shuttle will arrive to collect the [colonistCountToLend]. When it takes off with them on board, [allRewardsDescriptions]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] needs extra hands to help [dutyDescription]. [asker_pronoun] is asking you to lend [colonistCountToLend] to [asker_faction_name] for [lendForDays] days.\n\nAfter [lendForDays] days have passed, your colonists will be returned.\n\nIf you accept, a shuttle will arrive to collect the [colonistCountToLend]. When it takes off with them on board, [allRewardsDescriptions]</li>
     <li>disease->flu</li>
     <li>disease->plague</li>
     <li>disease->malaria</li>
     <li>disease->infection</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] wishes to add some life to [asker_possessive] court by showing off some [entertainerDescription]. [asker_pronoun] is asking you to lend [colonistCountToLend] to [asker_faction_name] for [lendForDays] days. After [lendForDays] days have passed, your colonists will be returned via drop pods.\n\nIf you accept, a shuttle will arrive to collect the [colonistCountToLend]. When it takes off with them on board, [allRewardsDescriptions]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] wishes to add some life to [asker_possessive] court by showing off some [entertainerDescription]. [asker_pronoun] is asking you to lend [colonistCountToLend] to [asker_faction_name] for [lendForDays] days. After [lendForDays] days have passed, your colonists will be returned.\n\nIf you accept, a shuttle will arrive to collect the [colonistCountToLend]. When it takes off with them on board, [allRewardsDescriptions]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists</li>
   -->
   <PawnLend.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が[dutyDescription]で手助けを必要としています。[asker_pronoun]は[asker_faction_name]に[colonistCountToLend]を[lendForDays]日間派遣するよう養成しています。\n\n[lendForDays]日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると[colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、[allRewardsDescriptions]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が[dutyDescription]で手助けを必要としています。[asker_pronoun]は[asker_faction_name]に[colonistCountToLend]を[lendForDays]日間派遣するよう養成しています。\n\n[lendForDays]日後に入植者は帰還するでしょう。\n\n要請を受理すると[colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、[allRewardsDescriptions]</li>
     <li>disease->インフルエンザ</li>
     <li>disease->ペスト</li>
     <li>disease->マラリア</li>
     <li>disease->感染症</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が[entertainerDescription]を披露することによって、[asker_possessive]の宮廷に活力を与えたいと望んでいます。[asker_pronoun]は[asker_faction_name]に[colonistCountToLend]を[lendForDays]日間派遣するよう養成しています。[lendForDays]日後に、入植者はドロップポッドで帰還します。\n\n要請を受理すると[colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、[allRewardsDescriptions]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が[entertainerDescription]を披露することによって、[asker_possessive]の宮廷に活力を与えたいと望んでいます。[asker_pronoun]は[asker_faction_name]に[colonistCountToLend]を[lendForDays]日間派遣するよう養成しています。[lendForDays]日後にに入植者は帰還するでしょう。\n\n要請を受理すると[colonistCountToLend]を迎えにシャトルが派遣されます。全員を乗せてシャトルが離陸すると、[allRewardsDescriptions]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->1人の入植者</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]人の入植者</li></PawnLend.questDescriptionRules.rulesStrings>
   <!-- EN:

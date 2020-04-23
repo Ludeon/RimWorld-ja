@@ -16,9 +16,9 @@
     <li>hidingFrom(gameCondition==WeatherController)->a malfunctioning weather control satellite</li>
     <li>condDesc(gameCondition==WeatherController)->If [joiner_pronoun] comes to you, the weather will be [forcedWeather_label] for [gameConditionDuration_duration] until the satellite resets.</li>
     <li>hidingFrom(gameCondition==PsychicDrone)->a vengeful machine persona who [joiner_pronoun] recently offended</li>
-    <li>condDesc(gameCondition==PsychicDrone)->If [joiner_pronoun] comes to you, the machine mind will blast [map_definite] with a [psychicDroneGender]-tuned [psychicDroneLevel]-level psychic drone for [gameConditionDuration_duration], reducing mood of all [psychicDroneGender]s.</li>
+    <li>condDesc(gameCondition==PsychicDrone)->If [joiner_pronoun] comes to you, the machine mind will blast [map_definite] with a [psychicDroneLevel]-level psychic drone for [gameConditionDuration_duration], reducing mood of all [psychicDroneGender]s.</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->a stirring machine persona who [joiner_pronoun] recently awoke</li>
-    <li>condDesc(gameCondition==PsychicSuppression)->If [joiner_pronoun] comes to you, the persona will hit [map_definite] with [psychicSuppressorGender]-tuned psychic suppression waves for [gameConditionDuration_duration], reducing consciousness of all [psychicSuppressorGender]s.</li>
+    <li>condDesc(gameCondition==PsychicSuppression)->If [joiner_pronoun] comes to you, the persona will hit [map_definite] with psychic suppression waves for [gameConditionDuration_duration], reducing consciousness of all [psychicSuppressorGender]s.</li>
   -->
   <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
     <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameFull]という人物が助けを求めています！[joiner_pronoun]は[hidingFrom]から身を隠しています。[joiner_pronoun]は亡命してあなたの[map_definite]に加わりたいようです。[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef]は、今は隠れるのに必死で、[joiner_objective]自身について詳しく説明している余裕がないと主張しています。</li>
@@ -35,9 +35,9 @@
     <li>hidingFrom(gameCondition==WeatherController)->故障中の気候制御衛星</li>
     <li>condDesc(gameCondition==WeatherController)->[joiner_pronoun]がやってくると、衛星がリセットされるまでの[gameConditionDuration_duration]の期間、[forcedWeather_label]に見舞われます。</li>
     <li>hidingFrom(gameCondition==PsychicDrone)->[joiner_pronoun]に侮辱された復讐にかられる機械知性体</li>
-    <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun]がやってくると、機械知性はこの[map_definite]にいる[psychicDroneGender]に向けて[psychicDroneLevel]レベルのサイコドローンを[gameConditionDuration_duration]の期間放ち、全ての[psychicDroneGender]のムードを減退させます。</li>
+    <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun]がやってくると、機械知性はこの[map_definite]に向けて[psychicDroneLevel]レベルのサイコドローンを[gameConditionDuration_duration]の期間放ち、全ての[psychicDroneGender]のムードを減退させます。</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->[joiner_pronoun]に起動された活発な機械知性体</li>
-    <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]がやってくると、機械知性はこの[map_definite]にいる[psychicSuppressorGender]に向けてサイコサプレッションフィールドを[gameConditionDuration_duration]の期間展開させ、全ての[psychicSuppressorGender]のムードを減退させます。.</li>
+    <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]がやってくると、機械知性はこの[map_definite]に向けてサイコサプレッションフィールドを[gameConditionDuration_duration]の期間展開させ、全ての[psychicSuppressorGender]のムードを減退させます。.</li>
  </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
@@ -51,10 +51,10 @@
  </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says giant insects are hunting [joiner_objective] after [joiner_pronoun] poisoned an underground colony and they soaked [joiner_objective] in threat pheromones!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], a [hivesCount]-hive infestation will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says [joiner_pronoun] poisoned an underground insect colony, but now [joiner_pronoun] is soaked in insect pheromones and the bugs are hunting him!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], a [hivesCount]-hive infestation will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
   -->
   <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました。[joiner_pronoun]が言うには、[joiner_pronoun]が地下の虫の巣窟を毒物で全滅させようとしたところ、逆に[joiner_objective]は警報フェロモンを浴びせかけられてしまいました。そのせいで巨大な昆虫が[joiner_objective]を追っています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています。[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合、[hivesCount]の虫が[infestationDelayTicks_duration]までに襲来するでしょう。\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした。</li>
+    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました。[joiner_pronoun]が言うには、[joiner_pronoun]が地下の虫の巣窟を毒物で全滅させようとしたところ、逆に[joiner_pronoun]は警報フェロモンを浴びせかけられてしまいました。そのせいで巨大な昆虫に追われています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています。[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合、[hivesCount]の虫が[infestationDelayTicks_duration]までに襲来するでしょう。\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした。</li>
  </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s infestation</li>
@@ -165,17 +165,23 @@
   
   <!-- EN:
     <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameFull] is calling from nearby. [joiner_pronoun] is hiding from [threat]. [joiner_pronoun] wants to flee [joiner_possessive] hiding spot and join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_objective], [joinersEnemies] will set up a site nearby to harass you. [site/allSitePartsDescriptions]\n\nThe threat will remain until you go to destroy it.</li>
-    <li>threat(priority=1)->[site/enemyFaction_pawnsPlural] of [site/enemyFaction_name]</li>
-    <li>threat->unknown enemies</li>
-    <li>joinersEnemies(priority=1)->[site/enemyFaction_name]</li>
-    <li>joinersEnemies->[joiner_possessive] enemies</li>
-  -->
+    <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_pawnsPlural] of [site/enemyFaction_name]</li>
+    <li>threat(priority=1,site/MechCluster_exists==True)->mechanoids</li>
+    <li>threat(priority=1,site/SleepingMechanoids_exists==True)->mechanoids</li>
+    <li>threat->[joiner_possessive] enemies</li>
+    <li>joinersEnemies(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]</li>
+    <li>joinersEnemies(priority=1,site/MechCluster_exists==True)->mechanoids</li>
+    <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->mechanoids</li>
+ -->
   <ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
     <li>questDescription->A[joiner_age]歳の[joiner_title]である[joiner_nameFull]が付近から通信を送ってきました。[joiner_pronoun]は[threat]から隠れています。[joiner_pronoun]は[joiner_possessive]の隠れ場所から離れてあなたの[map_definite]に加わりたいようです。[joiner_relationInfo]\n\n[joiner_objective]を受け入れた場合、[joinersEnemiesは付近に襲撃拠点を構えてあなたを悩ませるでしょう。[site/allSitePartsDescriptions]\n\n脅威は破壊するまで残ります。</li>
-    <li>threat(priority=1)->[site/enemyFaction_pawnsPlural]の[site/enemyFaction_name]</li>
-    <li>threat->未知の敵</li>
-    <li>joinersEnemies(priority=1)->[site/enemyFaction_name]</li>
-    <li>joinersEnemies->[joiner_possessive]の敵</li>
+    <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]の[site/enemyFaction_pawnsPlural]</li>
+    <li>threat(priority=1,site/MechCluster_exists==True)->メカノイド</li>
+    <li>threat(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>
+    <li>threat->[joiner_possessive]の敵</li>
+    <li>joinersEnemies(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]</li>
+    <li>joinersEnemies(priority=1,site/MechCluster_exists==True)->メカノイド</li>
+    <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>
   </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [site/site_label]</li>

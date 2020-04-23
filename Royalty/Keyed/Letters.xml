@@ -7,10 +7,10 @@
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
   <LetterLabelGainedRoyalTitle>{TITLE} の爵位を獲得した: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
-  <!-- EN: {PAWN_pronoun} must be dressed in apparel of {1} quality or better. -->
-  <LetterRoyalTitleApparelQualityRequirement>{PAWN_pronoun} には{1}以上の品質の衣服を着用させる必要があります。</LetterRoyalTitleApparelQualityRequirement>
-  <!-- EN: {PAWN_pronoun} wants to be covered in apparel appropriate to {PAWN_possessive} title: -->
-  <LetterRoyalTitleApparelRequirement>{PAWN_pronoun} は {PAWN_possessive} の爵位に相応しい衣装を欲している:</LetterRoyalTitleApparelRequirement>
+  <!-- EN: This title requires apparel of {1} quality or better. -->
+  <LetterRoyalTitleApparelQualityRequirement>この爵位には{1}以上の品質の衣服を着用させる必要があります。</LetterRoyalTitleApparelQualityRequirement>
+  <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
+  <LetterRoyalTitleApparelRequirement>この爵位に相応しい衣装を{PAWN_possessive}に用意しなければなりません:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
   <LetterRoyalTitleExpectation>{PAWN_possessive}の期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
   
@@ -39,14 +39,10 @@
   <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
   <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} は以下の作業を実行しません:\n{1}</LetterRoyalTitleDisabledWorkTag>
 
-  <!-- EN: {PAWN_pronoun} demands this recreation: -->
-  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun}が以下の娯楽を要求しています:</LetterRoyalTitleEnabledJoyKind>
-  <!-- EN: {PAWN_pronoun} demands this recreation: -->
-  <LetterRoyalTitleStillEnabledJoyKind>{PAWN_pronoun}が以下の娯楽を要求しています:</LetterRoyalTitleStillEnabledJoyKind>
-  <!-- EN: {PAWN_pronoun} refuses this recreation: -->
-  <LetterRoyalTitleDisabledJoyKind>{PAWN_pronoun}は以下の娯楽をはねつけています:</LetterRoyalTitleDisabledJoyKind>
-  <!-- EN: {PAWN_pronoun} refuses this recreation: -->
-  <LetterRoyalTitleStillDisabledJoyKind>{PAWN_pronoun}は以下の娯楽をはねつけています:</LetterRoyalTitleStillDisabledJoyKind>
+  <!-- EN: {PAWN_pronoun} can now use this recreation: -->
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun}が以下の娯楽を使えるようになりました:</LetterRoyalTitleEnabledJoyKind>
+  <!-- EN: This title forbids using this recreation: -->
+  <LetterRoyalTitleDisabledJoyKind>この爵位には以下の娯楽の使用が禁じられています:</LetterRoyalTitleDisabledJoyKind>
 
   <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
   <LetterRoyalTitleAllowedImplants>{PAWN_pronoun}は以下のインプラントの使用を許可されています:{1}</LetterRoyalTitleAllowedImplants>
@@ -54,14 +50,16 @@
   <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} はもはや以下のインプラントに使用許可を持ちません:{1}</LetterRoyalTitleImplantsMustBeRemoved>
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
   <LetterRoyalTitleImplantGracePeriod>外交的影響を避けるためには、執行猶予期間の5日以内にインプラントを除去する必要があります。</LetterRoyalTitleImplantGracePeriod>
-  <!-- EN: {PAWN_pronoun} has developed a new need for authority. Satisfying this means constructing an appropriate throneroom {PAWN_pronoun} may sit and reign on a regular basis. -->
-  <LetterRoyalTitleAuthorityNeed>{PAWN_pronoun}の高まる威信に伴い新たな欲求が芽生えました。適切な規模の玉座の間を用意すれば、{PAWN_pronoun}はその場で定期的に君臨し欲求を満たすことができます。</LetterRoyalTitleAuthorityNeed>
-  <!-- EN: {PAWN_pronoun} demands a throneroom that meets these requirements:{1} -->
-  <LetterRoyalTitleThroneroomRequirements>{PAWN_pronoun}は以下の要件を満たす玉座の間を要求しています:{1}</LetterRoyalTitleThroneroomRequirements>
-  <!-- EN: {PAWN_pronoun} demands a bedroom that meets these requirements:{1} -->
-  <LetterRoyalTitleBedroomRequirements>{PAWN_pronoun}は以下の要件を満たす寝室を要求しています:{1}</LetterRoyalTitleBedroomRequirements>
-  <!-- EN: {PAWN_pronoun} will only eat these foods:{1} -->
-  <LetterRoyalTitleFoodRequirements>{PAWN_pronoun}は以下の食事のみを受けつけます:{1}</LetterRoyalTitleFoodRequirements>
+  <!-- EN: {PAWN_pronoun} now has a need for authority. Satisfying this means sitting on a throne and reigning. While thronerooms can be shared, each noble needs their own personally-assigned throne. -->
+  <LetterRoyalTitleAuthorityNeed>{PAWN_pronoun}の新たな権威が必要となりました。玉座に座り君臨することで欲求を満たせます。玉座の間は共有でかまいませんが、玉座自体は個々の爵位保持者に割り当てなければなりません。</LetterRoyalTitleAuthorityNeed>
+  <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun}は玉座で演説を行えるようになりました。成功すれば聴衆は発奮し、演説者に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{PAWN_labelShort}の社交スキルに依存します。</LetterRoyalTitleSpeechAbilityGained>
+  <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
+  <LetterRoyalTitleThroneroomRequirements>この爵位には以下の要件を満たす玉座の間が必要です:{1}</LetterRoyalTitleThroneroomRequirements>
+  <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
+  <LetterRoyalTitleBedroomRequirements>この爵位には以下の要件を満たす寝室が必要です:{1}</LetterRoyalTitleBedroomRequirements>
+  <!-- EN: This title says that {PAWN_pronoun} should only eat these foods:{1} -->
+  <LetterRoyalTitleFoodRequirements>この爵位では以下の食事のみ受けつけます:{1}</LetterRoyalTitleFoodRequirements>
 
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
   <LetterRoyalTitleRewardGranted>{PAWN_pronoun}はドロップポッドで以下のアイテムを受け取ります:{1}</LetterRoyalTitleRewardGranted>
