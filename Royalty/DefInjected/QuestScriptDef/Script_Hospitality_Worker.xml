@@ -20,11 +20,11 @@
   <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>あなたが護衛の命を受けていた[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.label.slateRef>囚人が集められた: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.label.slateRef>
+  <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>囚人が集められた: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>あなたが護衛の命を受けていた{SUBJECT_definite}を集めました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.label.slateRef>不正な手術: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.label.slateRef>
+  <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>不正な手術: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>[letterSubject]に違反した手術が不正に行われました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
@@ -34,7 +34,7 @@
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>来客の離脱: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker..LetterTextGuestJoinedOtherFaction.slateRef>あなたが護衛の命を受けていた[letterSubject]が他の派閥に加わりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker..LetterTextGuestJoinedOtherFaction.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>あなたが護衛の命を受けていた[letterSubject]が他の派閥に加わりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>クエスト失敗: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
   <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingCommon] -->
