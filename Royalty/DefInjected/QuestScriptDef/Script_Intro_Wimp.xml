@@ -56,7 +56,7 @@
   <!-- EN: The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>[asker_nameDef]を迎えに来たシャトルが破壊されました。[asker_pronoun]は自分の足で逃げていきます。</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <Intro_Wimp..LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</Intro_Wimp..LetterLabelQuestFailed.slateRef>
+  <Intro_Wimp.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef]を回収するはずのシャトルが、[asker_objective]なしで飛び立ちました。[asker_pronoun]は徒歩で立ち去ります。[failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
   
