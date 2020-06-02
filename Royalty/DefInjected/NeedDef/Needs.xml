@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: authority -->
-  <Authority.label>威信</Authority.label>
-  <!-- EN: Authority is a need by holders of certain titles to feel one's stature is respected. Authority is satisfied by reigning in an appropriate throneroom, or by other activities that acknowledge the title-holder's position. This need is greater for those with higher title, and only applies when someone is at a home settlement with others to reign over. -->
-  <Authority.description>威信とは、特定の称号を持つ人物が、周囲に尊敬されていると感じるための欲求です。威信は然るべき玉座で統治する、あるいは貴族の地位を認める周囲の人間によって充足されます。この欲求は高い地位にいる人ほど重要性を増し、入植地や他の領地に人が存在する時にのみ適用されます。</Authority.description>
+  <!-- EN: dummy need -->
+  <Authority.description>ダミーの欲求</Authority.description>
   
 </LanguageData>

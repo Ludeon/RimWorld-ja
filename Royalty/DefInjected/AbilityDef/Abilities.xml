@@ -26,15 +26,25 @@
   <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. -->
   <Burden.description>脳の働きを抑制させ、短期間標的の動きを遅くします。</Burden.description>
   
+  <!-- EN: bullet shield -->
+  <BulletShield.label>バレットシールド</BulletShield.label>
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
+  <BulletShield.description>空間内に出入りする地上レベルの飛翔物を、遠方に飛ばす球状のスキップゲートを設置します。人間やアイテムは影響を受けません。</BulletShield.description>
+    
   <!-- EN: chaos skip -->
   <ChaosSkip.label>吹き飛ばし</ChaosSkip.label>
   <!-- EN: Teleport the target to a random position near where he started. -->
   <ChaosSkip.description>標的を現在地周囲のどこかにテレポートさせます。</ChaosSkip.description>
   
-  <!-- EN: entropy link -->
-  <EntropyLink.label>共鳴</EntropyLink.label>
-  <!-- EN: Form a psychic link between caster and target, so that gain and loss of psychic entropy is shared between both equally. The link lasts for some time, but will break if the two move far apart. -->
-  <EntropyLink.description>術者と標的の間にサイキックリンクを形成し、サイキックエントロピーの獲得と喪失が両者に共有されるようにします。リンクはしばらく持続しますが、両者が離れると消滅します。</EntropyLink.description>
+  <!-- EN: neural heat dump -->
+  <EntropyDump.label>ニューラルヒートダンプ</EntropyDump.label>
+  <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
+  <EntropyDump.description>ニューラルヒートを即座に他の誰かへ転嫁します。副作用として標的は、直接ダメージはないものの、衰弱を招く昏睡状態に数日間陥らせます。サイキック的な侵入を積極的に受け入れなければならないため、意識のある味方だけを標的にできます。</EntropyDump.description>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>フラッシュストーム</Flashstorm.label>
+  <!-- EN: Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
+  <Flashstorm.description>気圧差のあるスキップゲートを開いて、局地的な嵐を生成します。嵐は消失するまで周囲に雷を撒き散らすでしょう。</Flashstorm.description>
   
   <!-- EN: focus -->
   <Focus.label>フォーカス</Focus.label>
@@ -90,5 +100,10 @@
   <Wallraise.label>防壁</Wallraise.label>
   <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. -->
   <Wallraise.description>地下から瓦礫や土を盛り上がらせ、一時的な防壁を形成します。O</Wallraise.description>
+  
+  <!-- EN: waterskip -->
+  <Waterskip.label>ウォータースキップ</Waterskip.label>
+  <!-- EN: Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
+  <Waterskip.description>対象地域を水浸しにして消化します。アルコテックテクノロジーを用いたスキップによって、水を遠方ないし地下から呼び出します。</Waterskip.description>
   
 </LanguageData>

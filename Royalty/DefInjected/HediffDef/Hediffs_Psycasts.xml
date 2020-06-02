@@ -4,9 +4,14 @@
   <!-- EN: entropy link -->
   <EntropyLink.label>エントロピーリンク</EntropyLink.label>
   <!-- EN: A psychic link with another individual. Gain or loss of psychic entropy incurred by one will be shared equally between both. -->
-  <EntropyLink.description>他者とのサイキックリンク。どちらかが被るサイキックエントロピーの増減は、両者で等しく共有されます。</EntropyLink.description>
+  <EntropyLink.description>他者とのサイキックリンク。どちらかが被るニューラルヒートの増減は、両者で等しく共有されます。</EntropyLink.description>
   
-  <!-- EN: psychic anesthesia -->
+  <!-- EN: psylink -->
+  <PsychicAmplifier.label>サイリンク</PsychicAmplifier.label>
+  <!-- EN: An organic connection to a larger psychic field. This allows a person to use specific psycasts that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powerful psycasts. Regardless of psylink level, a person can only use specific psycasts that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
+  <PsychicAmplifier.description>より大きなサイキックフィールドへのオーガニック的なつながり。これにり、学習した超能力を用いて、不可能と思える事象を現実に起こすことができます。\n\nサイリンクのレベルが高いほど、より強力な超能力を使用できます。レベルに関係なく、学習した超能力以外は使えません。\n\nサイリンクは様々なソースから得ることができます。シングルユースのニューロフォーマーデバイスはサイリンクを形成することができます。部族の人々は、特定の生命体と精神共有を得て、儀式を通してそれを高める方法を知っています。\n\n科学者はサイリンクを脳内の物理現象として観測できていません。なぜなら意識的に調べようとすると隠匿してしまうからです。大方の意見としては、人間とアーキテクトの間に交渉や共感を介して結びつきが生まれ、その力を利用しているのだろうと考えられています。</PsychicAmplifier.description>
+ 
+   <!-- EN: psychic anesthesia -->
   <PsychicAnesthesia.label>鈍痛 (サイキック)</PsychicAnesthesia.label>
   <!-- EN: Psychically-induced pain insensitivity. -->
   <PsychicAnesthesia.description>超能力による痛覚の鈍化。</PsychicAnesthesia.description>
@@ -18,8 +23,8 @@
   
   <!-- EN: psychic breakdown -->
   <PsychicBreakdown.label>神経衰弱</PsychicBreakdown.label>
-  <!-- EN: Long-term psychic destabilization of the mind, usually caused by excessive psychic entropy. Even when the entropy clears, the breakdown can last for many days, causing mental disturbances of various kinds. -->
-  <PsychicBreakdown.description>過度のサイキックエントロピーによって引き起こされる長期的な精神の不安定化。エントロピーが解消しても衰弱は数日続き、多様な精神障害を併発します。</PsychicBreakdown.description>
+  <!-- EN: Deep psychic destabilization of the mind. Psychic breakdown last for days, causing mental disturbances of various kinds. It resolves itself with time. -->
+  <PsychicBreakdown.description>深刻な精神の不安定化。超能力の減退が数日続き、多様な精神障害を併発します。時間の経過ともに自然と回復します。</PsychicBreakdown.description>
   <!-- EN: minor -->
   <PsychicBreakdown.stages.minor.label>小</PsychicBreakdown.stages.minor.label>
   <!-- EN: major -->
@@ -32,20 +37,20 @@
   <!-- EN: Psychically-induced difficulty in locomotion. -->
   <PsychicBurden.description>超能力による移動速度の低下。</PsychicBurden.description>
   
-  <!-- EN: psychic entropy -->
-  <PsychicEntropy.label>サイキックエントロピー</PsychicEntropy.label>
-  <!-- EN: Chaotic psychic energy built up in the mind. Entropy falls over time. After it clears, it leaves a psychic hangover for several days. If psychic entropy becomes very high, it can cause psychosis, long-term psychic breakdown, destruction of psychic amplifiers, and even brain damage. -->
-  <PsychicEntropy.description>精神に蓄積された混沌としたサイキックエネルギー。エントロピーは時間とともに低下します。解消後、数日間は精神的な二日酔い状態に陥ります。エントロピーが非常に高くなると、精神病、長期的な精神衰弱、サイキック増幅器の故障、更には脳の損傷を引き起こす可能性があります。</PsychicEntropy.description>
+  <!-- EN: neural heat -->
+  <PsychicEntropy.label>ニューラルヒート</PsychicEntropy.label>
+  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psycasts and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown, psylink degradation and finally unconsciousness due to psychic shock. None of these conditions cause permanent damage, but they can knock someone unconscious for days. -->
+  <PsychicEntropy.description>"熱"と称されていますが、ニューラルヒートは温度ではありません。超能力を使用した際に精神内に蓄積され、数秒から数分の間に発散するカオスな精神エネルギーの一種といえます。\n\nニューラルヒートが限界を超えると、一時的な精神崩壊、サイリンクの低下が起き、最終的にサイコショックによって意識不明となります。いずれも永続的なダメージこそ有りませんが、数日の間昏睡状態に陥ることもあります。</PsychicEntropy.description>
   <!-- EN: safe -->
   <PsychicEntropy.stages.safe.label>安定</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
   <PsychicEntropy.stages.overloaded.label>過負荷</PsychicEntropy.stages.overloaded.label>
-  <!-- EN: hyperloaded -->
+  <!-- EN: very overloaded -->
   <PsychicEntropy.stages.hyperloaded.label>超過負荷</PsychicEntropy.stages.hyperloaded.label>
-  <!-- EN: brain charring -->
-  <PsychicEntropy.stages.brain_charring.label>脳内焦げ付き</PsychicEntropy.stages.brain_charring.label>
-  <!-- EN: brain roasting -->
-  <PsychicEntropy.stages.brain_roasting.label>脳内燃焼</PsychicEntropy.stages.brain_roasting.label>
+  <!-- EN: extreme -->
+  <PsychicEntropy.stages.brain_charring.label>極限</PsychicEntropy.stages.brain_charring.label>
+  <!-- EN: overwhelming -->
+  <PsychicEntropy.stages.brain_roasting.label>完全崩壊</PsychicEntropy.stages.brain_roasting.label>
   
   <!-- EN: psychic focus -->
   <PsychicFocus.label>フォーカス</PsychicFocus.label>

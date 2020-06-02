@@ -4,11 +4,41 @@
   <!-- EN: cataphract armor -->
   <Apparel_ArmorCataphract.label>カタフラクトアーマー</Apparel_ArmorCataphract.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
-  <Apparel_ArmorCataphract.description>機動性を犠牲にして、最大限の防御を実現するために設計された重パワーアーマー。堅牢なアグレーティブコーティングが施された重層プラスティールウィーブが、狙撃や強力な攻撃を除くあらゆるダメージを防ぎます。ニューロミメティックアシスタントが、スーツの重量によって着用者が身動きできなくなるのを防ぎますが、依然として扱いにくい代物です。</Apparel_ArmorCataphract.description>
+  <Apparel_ArmorCataphract.description>機動性を犠牲にして、最大限の防御を実現するために設計された重パワーアーマー。堅牢なアグレーティブコーティングが施された重層プラスティールウィーブが、狙撃や強力な攻撃を除くあらゆるダメージを防ぎます。ニューロミメティックアシスタントが、スーツの重量によって着用者が身動きできなくなるのを防ぎますが、依然として扱いにくい代物です。\n\nこうした防具は、要塞化された陣地を正面攻撃で突破する以外に方法がない時に、帝国のカタフラクトによって使用されます。</Apparel_ArmorCataphract.description>
+  
+  <!-- EN: prestige cataphract armor -->
+  <Apparel_ArmorCataphractPrestige.label>特級カタフラクトアーマー</Apparel_ArmorCataphractPrestige.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorCataphractPrestige.description>機動性を犠牲にして、最大限の防御を実現するために設計された重パワーアーマー。堅牢なアグレーティブコーティングが施された重層プラスティールウィーブが、狙撃や強力な攻撃を除くあらゆるダメージを防ぎます。ニューロミメティックアシスタントが、スーツの重量によって着用者が身動きできなくなるのを防ぎますが、依然として扱いにくい代物です。\n\nこのような高価で美しく、威信ある鎧はステータスの高い人物のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorCataphractPrestige.description>
   
   <!-- EN: cataphract helmet -->
   <Apparel_ArmorHelmetCataphract.label>カタフラクトヘルメット</Apparel_ArmorHelmetCataphract.label>
   <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
   <Apparel_ArmorHelmetCataphract.description>堅牢なプラスティール素材の外殻と全周囲を視野に入れる間接視覚システムを備えたハイテクヘルメット。強力な攻撃やラッキーショットを除くあらゆるダメージを防ぎます。\n\nこうした防具は、要塞化された陣地を正面攻撃で突破する以外に方法がない時に、帝国のカタフラクトによって使用されます。</Apparel_ArmorHelmetCataphract.description>
+  
+  <!-- EN: prestige cataphract helmet -->
+  <Apparel_ArmorHelmetCataphractPrestige.label>特級カタフラクトヘルメット</Apparel_ArmorHelmetCataphractPrestige.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetCataphractPrestige.description>堅牢なプラスティール素材の外殻と全周囲を視野に入れる間接視覚システムを備えたハイテクヘルメット。強力な攻撃やラッキーショットを除くあらゆるダメージを防ぎます。\n\nこのような高価で美しく、威信ある鎧はステータスの高い人物のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorHelmetCataphractPrestige.description>
+  
+  <!-- EN: prestige recon helmet -->
+  <Apparel_ArmorHelmetReconPrestige.label>特級リーコンヘルメット</Apparel_ArmorHelmetReconPrestige.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetReconPrestige.description>ステータス管理コンピューターが内蔵され、プラスチール繊維の積層装甲板で覆われたハイテク装甲ヘルメットです。\n\nこのような高価で美しく、威信ある鎧はステータスの高い人物のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorHelmetReconPrestige.description>
+  
+  <!-- EN: prestige marine helmet -->
+  <Apparel_ArmorMarineHelmetPrestige.label>特級マリーンアーマー</Apparel_ArmorMarineHelmetPrestige.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarineHelmetPrestige.description>ステータス管理コンピューターが内蔵され、プラスチール繊維の積層装甲板で覆われた宇宙海兵隊の装甲ヘルメットです。\n\nこのような高価で美しく、威信ある鎧はステータスの高い人物のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorMarineHelmetPrestige.description>
+  
+  <!-- EN: prestige marine armor -->
+  <Apparel_ArmorMarinePrestige.label>特級マリーンヘルメット</Apparel_ArmorMarinePrestige.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarinePrestige.description>軽装パワードアーマー一式です。層状のプラスチール装甲が、攻撃を非常に効果的に防ぎ、脆弱な関節部分もごく僅かです。神経記憶補助装置によって鎧を身に着けた状態でも移動に支障はありません。\n\nこのような高価で美しく、威信ある鎧はステータスの高い人物のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorMarinePrestige.description>
+  
+  <!-- EN: prestige recon armor -->
+  <Apparel_ArmorReconPrestige.label>特級リーコンアーマー</Apparel_ArmorReconPrestige.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorReconPrestige.description>迅速な行動を可能にするように設計され、部分的に軽量化された軽装装甲なパワーアーマーです。軽量なプラスチール製の装甲板は、機動性を損なうことなく敵の攻撃を防ぎ、下半身に取り付けられた神経記憶補助装置によって人間がアーマーを装着したままでも簡単に移動する事が可能です。\n\nこのような高価で美しく、威信ある鎧はステータスの高い人物のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorReconPrestige.description>
   
 </LanguageData>

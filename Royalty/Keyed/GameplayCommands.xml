@@ -27,14 +27,22 @@
   <CommandCallRoyalAidFavorOption>残り{0}日、 コストは {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
 
   <!-- Abilities -->
-  <!-- EN: Psychic entropy would overflow. -->
-  <CommandPsycastWouldExceedEntropy>サイキックエントロピーがオーバーフローします。</CommandPsycastWouldExceedEntropy>
-  <!-- EN: Psychic amplifier brain implant needed. -->
-  <CommandPsycastNoAmplifier>サイキック増幅器が必要です。</CommandPsycastNoAmplifier>
-  <!-- EN: {0}x level psychic amplifier needed. -->
-  <CommandPsycastHigherLevelAmplifierRequired>{0}x レベルのサイキック増幅器が必要です。</CommandPsycastHigherLevelAmplifierRequired>
+  <!-- EN: Neural heat would overflow. Disable the neural heat limiter to cast. -->
+  <CommandPsycastWouldExceedEntropy>ニューラルヒートがオーバーフローします。詠唱のニューラルヒートリミッターを無効化します。</CommandPsycastWouldExceedEntropy>
+  <!-- EN: {PSYCASTNAME} consumes {0} psyfocus but {CASTERNAME} only has {1}. -->
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME}は{0}のサイフォーカスを消費しますが、{CASTERNAME}は{1}しかありません。</CommandPsycastNotEnoughPsyfocus>
+  <!-- EN: level {0} psylink is required. -->
+  <CommandPsycastHigherLevelPsylinkRequired>レベル{0}のサイリンクが必要です。</CommandPsycastHigherLevelPsylinkRequired>
+  <!-- EN: Zero psychic sensitivity. -->
+  <CommandPsycastZeroPsychicSensitivity>サイキック感度がゼロです。</CommandPsycastZeroPsychicSensitivity>
   <!-- EN: Ability user is unconscious. -->
   <CommandPsycastPawnIsUnconscious>アビリティの使用者が気絶状態です。</CommandPsycastPawnIsUnconscious>
+  <!-- EN: Need at least {0} psyfocus to cast this. -->
+  <CommandPsycastLowPsyfocus>詠唱には{0}のサイフォーカスが必要です。</CommandPsycastLowPsyfocus>
+  <!-- EN: H -->
+  <NeuralHeatLetter>H</NeuralHeatLetter>
+  <!-- EN: P -->
+  <PsyfocusLetter>P</PsyfocusLetter>
 
   <!-- Select monument marker -->
   <!-- EN: Select monument -->
