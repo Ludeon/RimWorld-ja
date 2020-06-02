@@ -28,10 +28,8 @@
   <PsycastNeurotrainerDescription>一度だけ使用可能な特定の超能力を身につけられるメカナイトの超薬物。\n\n薬物は眼窩から投与します。脳に散布されると、メカナイトは必要に応じて神経組織に変形し、特定の超能力の知識を植え付けます。</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} psycast. -->
   <AbilityNeurotrainerUsed>{USER_labelShort}はニューロトレーナーを用いて{1}の超能力を身に着けました。</AbilityNeurotrainerUsed>
-  <!-- EN: {USER_labelShort} has reached psychic amplifer level {1} and has automatically learned this psycast: {2}. -->
-  <PsycastLearnedFromImplant>{USER_labelShort}はサイキック増幅器のレベルが{1}に達し、以下の超能力を自動的に身に着けました。: {2}</PsycastLearnedFromImplant>
-  <!-- EN: Requires psychic amplifier -->
-  <PsycastNeurotrainerNoPsychicAmplifier>サイキック増幅器が必要です</PsycastNeurotrainerNoPsychicAmplifier>
+  <!-- EN: Requires psylink -->
+  <PsycastNeurotrainerNoPsylink>サイリンクが必要です</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}はすでに{1}を習得済みです。</PsycastNeurotrainerAbilityAlreadyLearned>
 
@@ -49,6 +47,25 @@
   <BlockedByRoof>屋根に塞がれています</BlockedByRoof>
   <!-- EN: Too close to other beacon -->
   <TooCloseToOtherBeacon>他のビーコンに近すぎます</TooCloseToOtherBeacon>
+  
+  <!-- Meditation -->
+
+  <!-- EN: Psyfocus -->
+  <Psyfocus>サイフォーカス</Psyfocus>
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to perform psycasts. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to perform psycasts, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level psycasts, but also increase the rate of psyfocus dissipation. -->
+  <PsyfocusDesc>サイフォーカスは超能力を用いるために要求される特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるるにつれて超能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます。</PsyfocusDesc>
+  <!-- EN: {0}-{1}% -->
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <!-- EN: Up to level {0} psycasts. -->
+  <PsyfocusLevelInfoPsycasts>レベル{0}までの超能力。</PsyfocusLevelInfoPsycasts>
+  <!-- EN: Psyfocus falls at {0} per day. -->
+  <PsyfocusLevelInfoFallRate>サイフォーカスは一日あたり{0}減少。</PsyfocusLevelInfoFallRate>
+  <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
+  <UserMeditationFocusStrength>{LASTUSER_labelShort}による瞑想の集中力の強さ</UserMeditationFocusStrength>
+  <!-- EN: Focus effect impacted by -->
+  <MeditationFocusImpacted>フォーカスエフェクトの効果</MeditationFocusImpacted>
+  <!-- EN: Psyfocus gain rate: {0}/d -->
+  <PsyfocusPerDayOfMeditation>サイフォーカス上昇レート: {0}/日</PsyfocusPerDayOfMeditation>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
@@ -57,6 +74,8 @@
   <AbilityOnCooldown>アビリティはクールダウン中です。{0}から再使用可能。</AbilityOnCooldown>
   <!-- EN: ability already queued. -->
   <AbilityAlreadyQueued>アビリティがすでに予約されています。</AbilityAlreadyQueued>
+  <!-- EN: no heat to dump. -->
+  <AbilityNoEntropyToDump>放つ熱がありません。</AbilityNoEntropyToDump>
   <!-- EN: Ability ready: {0} -->
   <AbilityReadyLabel>アビリティ準備完了: {0}</AbilityReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
@@ -78,4 +97,19 @@
   <AbilitySpeechPossibleOutcomes>機会の結果</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
   <AbilitySpeechStatInfo>{ORGANIZER_labelShort}の{1}状態</AbilitySpeechStatInfo>
+
+  <!-- EN: Progress to next {0}: {1} -->
+  <ProgressToNextSubplant>次の{0}への進捗: {1}</ProgressToNextSubplant>
+  <!-- EN: Begin linking ritual -->
+  <BeginLinkingRitualFloatMenu>リンクの儀式を開始</BeginLinkingRitualFloatMenu>
+  <!-- EN: Need {0} {1} here (have {2}) -->
+  <BeginLinkingRitualNeedSubplants>ここに{0} {1} が必要 (所有 {2})</BeginLinkingRitualNeedSubplants>
+  <!-- EN: Need {0} pyslink focus -->
+  <BeginLinkingRitualNeedFocus>{0}のサイリンクフォーカスが必要</BeginLinkingRitualNeedFocus>
+  <!-- EN: Need a free, reachable spot within 3 cells for linking -->
+  <BeginLinkingRitualNeedLinkSpot>リンクするには3セル以内に未所有かつ到達可能なスポットが必要</BeginLinkingRitualNeedLinkSpot>
+  <!-- EN: Linking ritual completed -->
+  <LetterLabelLinkingRitualCompleted>リンクの儀式が完了</LetterLabelLinkingRitualCompleted>
+  <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psycasts. -->
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort}は{LINKABLE_labelShort}とのリンクの儀式を完了させました。\n\n{PAWN_pronoun}のサイリンクが進化し、新たな超能力が使えるようになりました。</LetterTextLinkingRitualCompleted>
 </LanguageData>

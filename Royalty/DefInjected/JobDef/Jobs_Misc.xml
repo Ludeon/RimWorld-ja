@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: reigning. -->
-  <Reign.reportString>君臨している。</Reign.reportString>
+  <!-- EN: linking at TargetA -->
+  <LinkPsylinkable.reportString>TargetAとリンク中</LinkPsylinkable.reportString>
+  
+  <!-- EN: meditating royally at -->
+  <Reign.reportString>で高貴なる瞑想中</Reign.reportString>
+  
   
 </LanguageData>

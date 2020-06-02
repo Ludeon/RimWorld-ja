@@ -2,35 +2,31 @@
 <LanguageData>
   
   <!-- EN:
-    <li>allLodgerInfo->[healthInfo] [specialSkillsInfo] [minMoodInfo]</li>
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
-    <li>healthInfo(lodgersAreDowned==true,lodgersCount==1,priority=1)->[lodgers0_nameDef] is injured and may not be able to walk.</li>
-    <li>healthInfo(lodgersAreDowned==true,lodgersCount>=2,priority=1)->the [lodgersLabelPlural] are injured and may not be able to walk.</li>
-    <li>healthInfo(lodgersAreSick==true,lodgersCount==1,priority=1)->[lodgers0_nameDef] is sick with [lodgersDisease_label].</li>
-    <li>healthInfo(lodgersAreSick==true,lodgersCount>=2,priority=1)->the [lodgersLabelPlural] are sick with [lodgersDisease_label].</li>
     <li>healthInfo-></li>
-    <li>specialSkillsInfo(lodgersSpecialRequest==ExpertFighter,lodgersCount==1,priority=1)->[lodgers0_nameDef] is an expert fighter.</li>
-    <li>specialSkillsInfo(lodgersSpecialRequest==ExpertFighter,lodgersCount>=2,priority=1)->the [lodgersLabelPlural] are expert fighters.</li>
-    <li>specialSkillsInfo-></li>
-    <li>minMoodInfo(priority=1,lodgersCount==1)->You must keep [lodgers0_possessive] mood above [lodgersMoodThreshold_percent].</li>
-    <li>minMoodInfo(priority=1,lodgersCount>=2)->You must keep the [lodgersLabelPlural]' moods above [lodgersMoodThreshold_percent].</li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs] suffering from paralytic abasia and must be kept in bed.</li>
+    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] sick with blood rot and will require daily treatment. The disease can be slowed with high-quality care and medicine, but generally cannot be cured outright. If the disease becomes severe [lodgersLabelSingOrPluralDef] will die, so ensure you have the necessary medical supplies.</li>
     <li>minMoodInfo-></li>
-    <li>commonDescEnding->[helpersParagraph][shuttleWillComeParagraph]\n\n[mustKeepOnMapParagraph]</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\nyou must keep the mood of [lodgersLabelSingOrPluralDef] above [lodgersMoodThreshold_percent].</li>
+    <li>workInfo-></li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] will not do any work.</li>
+    <li>commonDescEnding->[helpersParagraph]</li>
     <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
-    <li>threatDescriptionParagraph(allowedThreats==Raids,threatCount==1)->there will be [threatCount] raid of roughly this size:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(allowedThreats==Raids,threatCount>1)->there will be [threatCount] raids of roughly this size:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==1,threatFactor==1)->a mech cluster will deploy nearby.</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==1,threatFactor==2)->a double-strength mech cluster will deploy nearby.</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==1,threatFactor==3)->a triple-strength mech cluster will deploy nearby.</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==2,threatFactor==2)->two double-strength mech clusters will deploy nearby.</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==2,threatFactor==1)->two mech clusters will deploy nearby.</li>
-    <li>shuttleWillComeParagraph(lodgersCount==1)->After [shuttleDelayTicks_duration], a shuttle will arrive to collect [lodgers0_nameDef]. If you get [lodgers0_objective] onto the shuttle alive, [allRewardsDescriptions]</li>
-    <li>shuttleWillComeParagraph(lodgersCount>=2)->After [shuttleDelayTicks_duration], a shuttle will arrive to collect the [lodgersLabelPlural]. If you get them onto the shuttle alive, [allRewardsDescriptions]</li>
-    <li>mustKeepOnMapParagraph(lodgersCount==1)->You must keep [lodgers0_nameDef] at [map_definite] and not send [lodgers0_objective] anywhere else.</li>
-    <li>mustKeepOnMapParagraph(lodgersCount>=2)->You must keep the [lodgersLabelPlural] at [map_definite] and not send them anywhere else.</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->there will be a raid of roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->there will be a raid of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->there will be [threatCount] raids of roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->there will be [threatCount] raids of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->a mech cluster will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->two mech clusters will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->a mech cluster of [threatSize]x size will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->two mech clusters of [threatSize]x size will deploy nearby.</li>
     <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by an orbiting mechanoid swarm.</li>
     <li>threatsInfoMechClustersMultiPrisoners->The prisoners recently [mechViolation], and have been targeted by an orbiting mechanoid swarm.</li>
     <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by a mechanoid hive.</li>
@@ -43,41 +39,41 @@
     <li>letterSubject->{SUBJECT_definite}</li>
     <li>lodgersHasHave(lodgersCount==1)->has</li>
     <li>lodgersHasHave(lodgersCount>=2)->have</li>
+    <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
+    <li>lodgersObjective(lodgersCount>=2)->them</li>
+    <li>areIs(lodgersCount==1)->is</li>
+    <li>areIs(lodgersCount>=2)->are</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
     <li>remainingWillNowLeave(lodgersCount>=2)->Any remaining [lodgersLabelPlural] will now leave. </li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->You have failed the quest '[resolvedQuestName]'.</li>
     <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
   <QuestHospitalityCommon.rulePack.rulesStrings>
-    <li>allLodgerInfo->[healthInfo] [specialSkillsInfo] [minMoodInfo]</li>
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->[lodgersLabelPlural]</li>
-    <li>healthInfo(lodgersAreDowned==true,lodgersCount==1,priority=1)->[lodgers0_nameDef]は負傷して歩くことができないだろう。</li>
-    <li>healthInfo(lodgersAreDowned==true,lodgersCount>=2,priority=1)->[lodgersLabelPlural]は負傷して歩くことができないだろう。</li>
-    <li>healthInfo(lodgersAreSick==true,lodgersCount==1,priority=1)->[lodgers0_nameDef]は[lodgersDisease_label]を患っている</li>
-    <li>healthInfo(lodgersAreSick==true,lodgersCount>=2,priority=1)->その[lodgersLabelPlural]は[lodgersDisease_label]を患っている。</li>
     <li>healthInfo-></li>
-    <li>specialSkillsInfo(lodgersSpecialRequest==ExpertFighter,lodgersCount==1,priority=1)->[lodgers0_nameDef]は熟練の戦闘員だ。</li>
-    <li>specialSkillsInfo(lodgersSpecialRequest==ExpertFighter,lodgersCount>=2,priority=1)->その[lodgersLabelPlural]は熟練の戦闘員だ。</li>
-    <li>specialSkillsInfo-></li>
-    <li>minMoodInfo(priority=1,lodgersCount==1)->[lodgers0_possessive]の士気を[lodgersMoodThreshold_percent]より上に保つ必要がある。</li>
-    <li>minMoodInfo(priority=1,lodgersCount>=2)->[lodgersLabelPlural]の士気を[lodgersMoodThreshold_percent]より上に保つ必要がある。</li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs]麻痺で歩行不能になっておりベッドで休まなければなりません。</li>
+    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] 血液腐敗性を患っており毎日の治療が必要です。高品質の医療と薬物で進行を遅らせることはできますが、一般に完全な治療はできません。重症化すると[lodgersLabelSingOrPluralDef]は死亡するため、薬物の備蓄に注意して下さい。</li>
     <li>minMoodInfo-></li>
-    <li>commonDescEnding->[helpersParagraph][shuttleWillComeParagraph]\n\n[mustKeepOnMapParagraph]</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\n[lodgersLabelSingOrPluralDef]のムードを[lodgersMoodThreshold_percent]以上に高く保つ必要があります。</li>
+    <li>workInfo-></li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] will not do any work.</li>
+    <li>commonDescEnding->[helpersParagraph]</li>
     <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
-    <li>threatDescriptionParagraph(allowedThreats==Raids,threatCount==1)->おおよそ以下の規模の襲撃が[threatCount]回やってくるでしょう:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(allowedThreats==Raids,threatCount>1)->おおよそ以下の規模の襲撃が[threatCount]回やってくるでしょう:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==1,threatFactor==1)->メカクラスターが近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==1,threatFactor==2)->2倍戦力のメカクラスターが近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==1,threatFactor==3)->3倍戦力のメカクラスターが近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==2,threatFactor==2)->2つの2倍戦力のメカクラスターが近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(allowedThreats==MechClusters,threatCount==2,threatFactor==1)->2つのメカクラスターが近辺に配置されます。</li>
-    <li>shuttleWillComeParagraph(lodgersCount==1)->[shuttleDelayTicks_duration]経過後に、シャトルが到着して[lodgers0_nameDef]を回収します。[lodgers0_objective]が生存した状態でシャトルに乗ると、[allRewardsDescriptions]</li>
-    <li>shuttleWillComeParagraph(lodgersCount>=2)->[shuttleDelayTicks_duration]経過後に、シャトルが到着して [lodgersLabelPlural]を回収します。 彼らが生存した状態でシャトルに乗ると、[allRewardsDescriptions]</li>
-    <li>mustKeepOnMapParagraph(lodgersCount==1)->[lodgers0_nameDef]を[map_definite]に留めておき、[lodgers0_objective]を他のどの場所にも送らないで下さい。</li>
-    <li>mustKeepOnMapParagraph(lodgersCount>=2)->[lodgersLabelPlural]を[map_definite]に留めておき、彼らを他のどの場所にも送らないで下さい。</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->おおよそ以下の規模の襲撃がやってくるでしょう:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->[threatSize]x戦力の襲撃がおおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->おおよそ以下の規模の襲撃が[threatCount]回やってくるでしょう:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->[threatSize]x戦力の襲撃がおおよそ以下の規模で[threatCount]回やってくるでしょう:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->メカクラスターが近辺に配置されます。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->2倍戦力のメカクラスターが近辺に配置されます。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->[threatSize]x戦力のメカクラスターが近辺に配置されます。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->[threatSize]x戦力のメカクラスターが2つ近辺に配置されます。</li>
     <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。</li>
     <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。</li>
     <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、メカノイドの巣の標的にされています。</li>
@@ -90,6 +86,10 @@
     <li>letterSubject->{SUBJECT_definite}</li>
     <li>lodgersHasHave(lodgersCount==1)-></li>
     <li>lodgersHasHave(lodgersCount>=2)-></li>
+    <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
+    <li>lodgersObjective(lodgersCount>=2)->them</li>
+    <li>areIs(lodgersCount==1)->は</li>
+    <li>areIs(lodgersCount>=2)->は</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
     <li>remainingWillNowLeave(lodgersCount>=2)->残りの[lodgersLabelPlural]は全員離脱しました。</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->クエスト「[resolvedQuestName]」に失敗しました。</li>

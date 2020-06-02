@@ -14,10 +14,6 @@
   <RoyalTitleTooltipThroneroomRequirements>玉座の間の要件</RoyalTitleTooltipThroneroomRequirements>
   <!-- EN: Title privileges -->
   <RoyalTitleTooltipPermits>爵位の特権</RoyalTitleTooltipPermits>
-  <!-- EN: Max allowed psycast level -->
-  <RoyalTitleTooltipMaxPsycastLevel>サイキックレベルの最大許容値</RoyalTitleTooltipMaxPsycastLevel>
-  <!-- EN: The highest level of psycast that this title allows.\n\n{FACTION_name}'s laws prohibit using psycasts without a suitable title. Each time you perform an illegal psycast, there's a chance the psychic signature will be detected, leading to diplomatic consequences.\n\nPsychic signatures can be concealed with a psychic silencer implant. -->
-  <RoyalTitleTooltipMaxPsycastLevelDescription>この爵位で許容される超能力の許容値です。\n\n{FACTION_name}には、適切な爵位を持たないものの超能力使用を禁じる法律があります。違法な超能力使用のたびにサイキックサインが検出される可能性があり、外交的な問題につながります。\n\nサイコサイレンサーインプラントを使用するとこうした検知を防げます。</RoyalTitleTooltipMaxPsycastLevelDescription>
   <!-- EN: room area: {0} tiles -->
   <RoomRequirementArea>部屋の空間: {0} タイル</RoomRequirementArea>
   <!-- EN: room impressiveness -->
@@ -28,32 +24,32 @@
   <RoomRequirementAllBraziersMustBeLit>全ての火鉢に点灯する必要があります</RoomRequirementAllBraziersMustBeLit>
   <!-- EN: all fine floored -->
   <RoomRequirementAllFineFloored>フロア全体が高品質</RoomRequirementAllFineFloored>
+  <!-- EN: no production facilities -->
+  <RoomRequirementNoProductionFacilities>生産設備なし</RoomRequirementNoProductionFacilities>
+  <!-- EN: no beds -->
+  <RoomRequirementNoBeds>ベッドなし</RoomRequirementNoBeds>
   <!-- EN: Holders of this title must be covered in some combination of -->
   <RoyalTitleRequiredApparelStatDescription>この爵位の保持者は以下の衣装の組み合わせのみ受け入れます:</RoyalTitleRequiredApparelStatDescription>
-  <!-- EN: Any powered armor -->
-  <ApparelRequirementAnyPowerArmor>パワーアーマー</ApparelRequirementAnyPowerArmor>
+  <!-- EN: Any prestige armor -->
+  <ApparelRequirementAnyPrestigeArmor>特級パワーアーマー</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
   <ApparelRequirementAnyPsycasterApparel>サイキャスターの衣服</ApparelRequirementAnyPsycasterApparel>
-  <!-- EN: Disabled work types -->
-  <DisabledWorkTypes>無効な作業</DisabledWorkTypes>
+  <!-- EN: Disallowed work types -->
+  <DisabledWorkTypes>許可されていな作業</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
   <RoyalTitleRequiredMeals>許容される食料</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
   <RoyalTitleRequiredMealsDesc>この爵位の保持者は飢餓状態かキャラバン中でない限り、これらの食料のみを食べます。</RoyalTitleRequiredMealsDesc>
   
   <!-- Royal implants -->
-  <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences.\n\nA psychic silencer implant would allow use of the {IMPLANT} without detection. -->
-  <RoyalImplantIllegalUseWarning> {FACTION_name}の法律では、{IMPLANT}を合法的に用いるには{TITLE}の爵位が必要です。\n\n{VIOLATIONTRIGGER}、 {FACTION_name} にサイキックサインを検知される可能性があります。これによって外交的な問題を引き起こします。\n\nサイコサイレンサーインプラントがあれば、検知されずに{IMPLANT}の使用が可能です。</RoyalImplantIllegalUseWarning>
+  <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
+  <RoyalImplantIllegalUseWarning> {FACTION_name}の法律では、{IMPLANT}を合法的に用いるには{TITLE}の爵位が必要です。\n\n{VIOLATIONTRIGGER}、 {FACTION_name} にサイキックサインを検知される可能性があります。これによって外交的な問題を引き起こします。</RoyalImplantIllegalUseWarning>
   <!-- EN: Install this implant anyway? -->
   <RoyalImplantInstallConfirmation>このインプラントを移植しますか？</RoyalImplantInstallConfirmation>
   <!-- EN: Upgrade this implant anyway? -->
   <RoyalImplantUpgradeConfirmation>このインプラントをアップグレードしますか？</RoyalImplantUpgradeConfirmation>
-  <!-- EN: Each time  performs a psycast above the allowed level -->
-  <PsychicAmplifierViolationTrigger>{PAWN_labelShort}が許可されたレベルを超える超能力を使用するたびに</PsychicAmplifierViolationTrigger>
 
   <!-- Royal weapons -->
-  <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use {WEAPON_indefinite}.\n\nEach time {PAWN_labelShort} attacks with a bladelink weapon, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences.\n\nA psychic silencer implant would allow use of {WEAPON_definite} without detection. -->
-  <RoyalWeaponIllegalUseWarning>{FACTION_name}の法律では、{WEAPON_indefinite}を合法的に用いるには、{TITLE}の爵位が必要です。\n\n{PAWN_labelShort}がブレードリンク系統の武器で攻撃するたびに、{FACTION_name}にサイキックサインを検知される可能性があります。 これによって外交的な問題を引き起こします。\n\nサイコサイレンサーインプラントがあれば、検知されずに{WEAPON_definite}の使用が可能です。</RoyalWeaponIllegalUseWarning>
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
   <BladelinkEquipWarning>一度でも生体認証を行うと、武器のAIは他者による使用を拒否します。</BladelinkEquipWarning>
   <!-- EN: Are you sure you want to equip this item? -->
@@ -62,9 +58,15 @@
   <!-- Psycasts -->
   <!-- EN: Target is psychically deaf. -->
   <AbilityTargetPsychicallyDeaf>ターゲットは精神的聴覚障害</AbilityTargetPsychicallyDeaf>
-  <!-- EN: Amplifier level -->
-  <PsycastRequiredAmplifierLevel>増幅器レベル</PsycastRequiredAmplifierLevel>
   <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
   <PsycastIsIllegal>{PAWN_labelShort}の装着は非合法です。{TITLE}の爵位が必要です。</PsycastIsIllegal>
+
+  <!-- Warning -->
+  <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
+  <QuestGivesRoyalFavor>このクエストによって{FACTION_royalFavorLabel}を報酬として受け、{PAWN_labelShort}の爵位を与えられることになります。</QuestGivesRoyalFavor>
+  <!-- EN: {PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept. -->
+  <RoyalIncapableOfSocial>{PAWN_labelShort}は社交タスクを実行できません。爵位を持つ人は社交スキルを特に必要とするため、{PAWN_labelShort}が爵位を受けると、{PAWN_pronoun}は様々な困難に直面する可能性があります。別の入植者の方がより社交技術に長けているかもしれません。</RoyalIncapableOfSocial>
+  <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
+  <RoyalWithConceitedTrait>{PAWN_labelShort}は{2}であるので、{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求しています。{PAWN_labelShort}は特定の種類の仕事を拒否し、低品質な食品は受け付けず、法令を発布します。別の入植者のほうがより柔軟でしょう。</RoyalWithConceitedTrait>
 
 </LanguageData>

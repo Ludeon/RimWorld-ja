@@ -33,51 +33,53 @@
     <li>titleEnd->来客</li>
     <li>titleEnd->主人</li>
     <li>titleEnd->勝利</li></EndGame_RoyalAscent.questNameRules.rulesStrings>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>クエスト失敗: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
+  <!-- EN: [faction_name] became hostile to you.  -->
+  <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>[faction_name]は敵対的になりました。</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
   <!-- EN: asker.NoLongerFactionLeader -->
   <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>派閥の長ではなくなりました</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
-  <!-- EN: Quest failed: [resolvedQuestName] -->
-  <EndGame_RoyalAscent.root.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.Letter.label.slateRef>
-  <!-- EN: [faction_name] became hostile to you.  -->
-  <EndGame_RoyalAscent.root.nodes.Letter.text.slateRef>[faction_name]は敵対的になりました。</EndGame_RoyalAscent.root.nodes.Letter.text.slateRef>
   <!-- EN: [asker_faction_leaderTitle] arrived -->
-  <EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterLabel.value.slateRef>[asker_faction_leaderTitle]が到着</EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterLabel.value.slateRef>
+  <EndGame_RoyalAscent.LetterLabelAskerArrived.slateRef>[asker_faction_leaderTitle]が到着</EndGame_RoyalAscent.LetterLabelAskerArrived.slateRef>
   <!-- EN: [asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has arrived.\n\nProtect [asker_objective] and satisfy [asker_possessive] royal needs until the shuttle arrives in [shuttleDelayTicks_duration].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->
-  <EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterText.value.slateRef>[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が到着。\n\n[asker_objective]を護衛し、シャトル到着までの[shuttleDelayTicks_duration]の間、[asker_possessive]の高貴な要求を満たして下さい。\n\n[asker_faction_leaderTitle]のシャトルに全員を同乗させ、新たな人生を始めるために帝国艦隊へ行くこともできます。</EndGame_RoyalAscent.root.nodes.Util_ArriveByDropPodsOrShuttle.parms.customLetterText.value.slateRef>
+  <EndGame_RoyalAscent.LetterTextAskerArrived.slateRef>[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が到着。\n\n[asker_objective]を護衛し、シャトル到着までの[shuttleDelayTicks_duration]の間、[asker_possessive]の高貴な要求を満たして下さい。\n\n[asker_faction_leaderTitle]のシャトルに全員を同乗させ、新たな人生を始めるために帝国艦隊へ行くこともできます。</EndGame_RoyalAscent.LetterTextAskerArrived.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>シャトルが出航する必要があります</EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>シャトルが出航する必要があります</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
-  <EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>シャトルが到着しました</EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>シャトルが到着しました</EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [asker_bestRoyalTitleDef].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->
-  <EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>シャトルが[asker_bestRoyalTitleDef]の回収のために到着しました。\n\n[asker_faction_leaderTitle]のシャトルに全員を同乗させ、新たな人生を始めるために帝国艦隊へ行くこともできます。</EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>シャトルが[asker_bestRoyalTitleDef]の回収のために到着しました。\n\n[asker_faction_leaderTitle]のシャトルに全員を同乗させ、新たな人生を始めるために帝国艦隊へ行くこともできます。</EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>
   <!-- EN: The high stellarch will now welcome you into the Imperial flotilla as an honored noble party.\n\nYou might stay in the Imperial court and jockey for political power. Perhaps you'll avoid the drama and focus on enjoying ultratech luxuries. Or, you might even buy a ship and set a course for your long-lost home.\n\nThe choice is up to you. -->
-  <EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.EndGame.endingText.slateRef>高名な星王があなたを栄誉ある貴族の一団として帝国艦隊へ迎え入れました。\n\nあなたは王室内に留まり、権力争いを行うかもしれません。あるいは、あなたはいざこざを避け、最先端の贅沢を楽しむことに集中するでしょう。もしくは、船を購入して長らく音信不通だった故郷への針路を定めることもできます。\n\n選択は貴方次第です。</EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.EndGame.endingText.slateRef>
+  <EndGame_RoyalAscent.EndGameEndingText.slateRef>高名な星王があなたを栄誉ある貴族の一団として帝国艦隊へ迎え入れました。\n\nあなたは王室内に留まり、権力争いを行うかもしれません。あるいは、あなたはいざこざを避け、最先端の贅沢を楽しむことに集中するでしょう。もしくは、船を購入して長らく音信不通だった故郷への針路を定めることもできます。\n\n選択は貴方次第です。</EndGame_RoyalAscent.EndGameEndingText.slateRef>
   <!-- EN: You've escaped on the Imperial shuttle! -->
-  <EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.EndGame.introText.slateRef>帝国のシャトルで脱出しました！</EndGame_RoyalAscent.root.nodes.ShuttleDelay.node.nodes.EndGame.introText.slateRef>
+  <EndGame_RoyalAscent.EndGameIntroText.slateRef>帝国のシャトルで脱出しました！</EndGame_RoyalAscent.EndGameIntroText.slateRef>
   <!-- EN: {SUBJECT_bestRoyalTitle} unhappy -->
-  <EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.label.slateRef>{SUBJECT_bestRoyalTitle}が不満げ</EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>{SUBJECT_bestRoyalTitle}が不満げ</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.text.slateRef>あなたが護衛と満足度の維持の命を受けていた{SUBJECT_definite}の満足度が、最低値の[lodgersMoodThreshold]を下回る時間が長過ぎました。[failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.MoodBelow.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>あなたが護衛と満足度の維持の命を受けていた{SUBJECT_definite}の満足度が、最低値の[lodgersMoodThreshold]を下回る時間が長過ぎました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>来客が死亡: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>来客が死亡: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>護衛と満足度維持の命をあなたが受けていた{SUBJECT_definite}の気分が、[lodgersMoodThreshold]を下回り続ける期間が長すぎました。</EndGame_RoyalAscent.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>あなたが護衛するよう命じられていた{SUBJECT_definite}が死亡しました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.root.nodes.lodgersArrested.node.nodes.Letter.label.slateRef>来客が捕虜に: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.lodgersArrested.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>来客が捕虜に: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.lodgersArrested.node.nodes.Letter.text.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}が、捕まってしまいました。</EndGame_RoyalAscent.root.nodes.lodgersArrested.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}が、捕まってしまいました。</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>不正な手術</EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>不正な手術</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}に違反した手術が不正に行われました。</EndGame_RoyalAscent.root.nodes.lodgersSurgeryViolation.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}に違反した手術が不正に行われました。</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>来客が行方不明: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>来客が行方不明: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}が、与えられた植民地を離れました。</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}が、与えられた植民地を離れました。</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>シャトルが破壊された</EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>シャトルが破壊された</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_bestRoyalTitleDef] has been destroyed. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>[asker_bestRoyalTitleDef]を回収しに向かっていたシャトルが破壊されてしまいました。[failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.shuttleDestroyed.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>[asker_bestRoyalTitleDef]を回収しに向かっていたシャトルが破壊されてしまいました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_bestRoyalTitleDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>[asker_bestRoyalTitleDef]を回収しに向かっていたシャトルが[asker_objective]を乗せずに出航してしまいました。[asker_pronoun]は徒歩で出発するでしょう。[failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.shuttleSentUnsatisfied.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>クエスト失敗: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>[asker_bestRoyalTitleDef]を回収しに向かっていたシャトルが[asker_objective]を乗せずに出航してしまいました。[asker_pronoun]は徒歩で出発するでしょう。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
   
 </LanguageData>

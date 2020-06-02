@@ -2,32 +2,34 @@
 <LanguageData>
   
   <!-- EN: Monument completed -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.label.slateRef>モニュメント完成</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.label.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>モニュメント完成</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
   <!-- EN: You completed construction of the monument.\n\nYou must not destroy it for at least [keepMonumentTicks_duration] days, otherwise you will anger [asker_factionName] ([goodwillChangeIfMonumentDestroyed] goodwill). -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.text.slateRef>モニュメントを完成させました。\n\n[keepMonumentTicks_duration]日間は破壊してはいけません。さもなくば[asker_factionName]を怒らせるでしょう([goodwillChangeIfMonumentDestroyed]の好意)。</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>モニュメントを完成させました。\n\n[keepMonumentTicks_duration]日間は破壊してはいけません。さもなくば[asker_factionName]を怒らせるでしょう([goodwillChangeIfMonumentDestroyed]の好意)。</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
   <!-- EN: Monument destroyed -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.label.slateRef>モニュメント破壊</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.label.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>モニュメント破壊</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
   <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.text.slateRef>[asker_nameDef]は、モニュメントが完成したばかりなのに台無しになるのを許したあなたに激怒しています。[asker_faction_name]との関係が[goodwillChangeIfMonumentDestroyed]によって減退しました。</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[asker_nameDef]は、モニュメントが完成したばかりなのに台無しになるのを許したあなたに激怒しています。[asker_faction_name]との関係が[goodwillChangeIfMonumentDestroyed]によって減退しました。</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.expiryInfoPart.slateRef>{0}のモニュメントを破壊しないでください</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.expiryInfoPart.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>{0}のモニュメントを破壊しないでください</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+  <!-- EN: Do not destroy the monument for {0} -->
+  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>{0}のモニュメントを破壊しないでください</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
   <!-- EN: Keep monument {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.inspectString.slateRef>{0}のモニュメントを維持</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.inspectString.slateRef>
+  <BuildMonumentWorker.KeepMonument.slateRef>{0}のモニュメントを維持</BuildMonumentWorker.KeepMonument.slateRef>
   <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow. -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>クエスト'[resolvedQuestName]'のためのモニュメントが違反状態です。後難が生じるでしょう。</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>クエスト'[resolvedQuestName]'のためのモニュメントが違反状態です。後難が生じるでしょう。</BuildMonumentWorker.MessageMonumentViolated.slateRef>
   <!-- EN: Protect the monument for {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPart.slateRef>{0}のためにモニュメントを守る</<BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPart.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>{0}のためにモニュメントを守る</<BuildMonumentWorker.ProtectMonumentForDays.slateRef>
   <!-- EN: Protect the monument until {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPartTip.slateRef>{0}までモニュメントを守る</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPartTip.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>{0}までモニュメントを守る</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
   <!-- EN: Protect for {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.inspectString.slateRef>{0}を守る</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.inspectString.slateRef>
+  <BuildMonumentWorker.ProtectMonument.slateRef>{0}を守る</BuildMonumentWorker.ProtectMonument.slateRef>
   <!-- EN: New monument marker arrived -->
-  <BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.label.slateRef>新しいモニュメントのマーカーが到着しました。</BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.label.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>新しいモニュメントのマーカーが到着しました。</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
-  <BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.text.slateRef>モニュメントのマーカーが破壊されたため、新たに送られてきます。</BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>モニュメントのマーカーが破壊されたため、新たに送られてきます。</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
   <!-- EN: Monument time expired -->
-  <BuildMonumentWorker.root.nodes.Delay.node.nodes.Letter.label.slateRef>モニュメントの期限が過ぎた</BuildMonumentWorker.root.nodes.Delay-1.node.nodes.Letter.label.slateRef>
+  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>モニュメントの期限が過ぎた</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
   <!-- EN: Your time limit to construct the monument has expired. [failLetterEndingCommon] -->
-  <BuildMonumentWorker.root.nodes.Delay.node.nodes.Letter.text.slateRef>モニュメントの建設期限が過ぎました。[failLetterEndingCommon]</BuildMonumentWorker.root.nodes.Delay-1.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>モニュメントの建設期限が過ぎました。[failLetterEndingCommon]</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
   
 </LanguageData>
