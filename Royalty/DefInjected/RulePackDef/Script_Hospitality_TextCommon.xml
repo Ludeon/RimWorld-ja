@@ -58,8 +58,8 @@
     <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
     <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
     <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
-    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs]麻痺で歩行不能になっておりベッドで休まなければなりません。</li>
-    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] 血液腐敗性を患っており毎日の治療が必要です。高品質の医療と薬物で進行を遅らせることはできますが、一般に完全な治療はできません。重症化すると[lodgersLabelSingOrPluralDef]は死亡するため、薬物の備蓄に注意して下さい。</li>
+    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs]歩行不能症になっておりベッドで休まなければなりません。</li>
+    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] 血液腐敗症を患っており毎日の治療が必要です。高品質の医療と薬物で進行を遅らせることはできますが、一般に完全な治療はできません。重症化すると[lodgersLabelSingOrPluralDef]は死亡するため、薬物の備蓄に注意して下さい。</li>
     <li>minMoodInfo-></li>
     <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\n[lodgersLabelSingOrPluralDef]のムードを[lodgersMoodThreshold_percent]以上に高く保つ必要があります。</li>
     <li>workInfo-></li>
