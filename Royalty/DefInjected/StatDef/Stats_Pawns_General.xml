@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: meditation focus gain -->
-  <MeditationFocusGain.label>瞑想フォーカスゲイン</MeditationFocusGain.label>
-  <!-- EN: The psyfocus amount this person gains per day of meditation, ignoring bonuses from focus objects. -->
+  <!-- EN: meditation psyfocus gain -->
+  <MeditationFocusGain.label>瞑想サイフォーカスゲイン</MeditationFocusGain.label>
+  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
   <MeditationFocusGain.description>フォーカスオブジェクトの追加分を除き、一日の瞑想で得られるサイフォーカスの数値。</MeditationFocusGain.description>
-  <!-- EN: {0}/d -->
+  <!-- EN: {0} / day -->
   <MeditationFocusGain.formatString>{0}/日</MeditationFocusGain.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatStringUnfinalized>{0}/日</MeditationFocusGain.formatStringUnfinalized>
   
   <!-- EN: neural heat gain -->
   <PsychicEntropyGain.label>ニューラルヒートゲイン</PsychicEntropyGain.label>

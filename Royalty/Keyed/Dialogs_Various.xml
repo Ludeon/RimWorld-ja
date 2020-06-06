@@ -24,10 +24,10 @@
   <RoomRequirementAllBraziersMustBeLit>全ての火鉢に点灯する必要があります</RoomRequirementAllBraziersMustBeLit>
   <!-- EN: all fine floored -->
   <RoomRequirementAllFineFloored>フロア全体が高品質</RoomRequirementAllFineFloored>
-  <!-- EN: no production facilities -->
-  <RoomRequirementNoProductionFacilities>生産設備なし</RoomRequirementNoProductionFacilities>
-  <!-- EN: no beds -->
-  <RoomRequirementNoBeds>ベッドなし</RoomRequirementNoBeds>
+  <!-- EN: no work facilities allowed -->
+  <RoomRequirementNoProductionFacilities>生産設備の不許可</RoomRequirementNoProductionFacilities>
+  <!-- EN: no beds allowed -->
+  <RoomRequirementNoBeds>ベッドの不許可</RoomRequirementNoBeds>
   <!-- EN: Holders of this title must be covered in some combination of -->
   <RoyalTitleRequiredApparelStatDescription>この爵位の保持者は以下の衣装の組み合わせのみ受け入れます:</RoyalTitleRequiredApparelStatDescription>
   <!-- EN: Any prestige armor -->
@@ -68,5 +68,9 @@
   <RoyalIncapableOfSocial>{PAWN_labelShort}は社交タスクを実行できません。爵位を持つ人は社交スキルを特に必要とするため、{PAWN_labelShort}が爵位を受けると、{PAWN_pronoun}は様々な困難に直面する可能性があります。別の入植者の方がより社交技術に長けているかもしれません。</RoyalIncapableOfSocial>
   <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
   <RoyalWithConceitedTrait>{PAWN_labelShort}は{2}であるので、{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求しています。{PAWN_labelShort}は特定の種類の仕事を拒否し、低品質な食品は受け付けず、法令を発布します。別の入植者のほうがより柔軟でしょう。</RoyalWithConceitedTrait>
+  <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
+  <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}は{2}なので、{PAWN_objective}のサイリンクが機能しないかもしれません。</RoyalWithTraitAffectingPsylinkNegatively>
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
+  <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\nそれでも超能力を獲得しますか？</PsylinkTooLowForGainAbility>
 
 </LanguageData>
