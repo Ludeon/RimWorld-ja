@@ -112,15 +112,15 @@
     <li>secretInfo->兵器研究</li>
     <li>secretInfo->捕虜収容所</li>
     <li>secretInfo->[enemyFaction_leaderTitle]</li>
-    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は厄介な政治情勢から逃れており、[shuttleDelayTicks_duration]の間[map_definite]に身を隠したがっている。[threatsInfo5][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[asker_nameDef]の敵が[enemyFaction_name]を雇い[asker_objective]を追っています。 [enemyGroupsParagraph]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]の敵がメカノイドを扇動し、[asker_objective]を追わせています。 [enemyGroupsParagraph]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[asker_nameDef]の敵が何かしらの手段でメカノイドを扇動し、[asker_objective]を追跡させています。 [enemyGroupsParagraph]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は厄介な政治情勢から逃れており、[shuttleDelayTicks_duration]の間[map_definite]に身を隠したがっています。[threatsInfo5][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[asker_nameDef]の敵は[enemyFaction_name]を雇い[asker_objective]追っています。 [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]の敵はメカノイドを扇動し、[asker_objective]追わせています。 [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[asker_nameDef]の敵は何かしらの手段でメカノイドを扇動し、[asker_objective]追跡させています。 [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==false)-></li>
     <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は、[lodgersCountMinusOne]人の臣下[allyAllies]と共に[shuttleDelayTicks_duration]の間、[map_definite]に留まりたがっています。 [threatsInfo6][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->[asker_nameDef]と[asker_possessive]の[allyAllies]は死の標的にされており、王室を一掃できるまで安全な場所を求めています。しかしながら、[asker_nameDef]の敵は[enemyFaction_name]を雇い[asker_objective]追わせています。\n\n[enemyGroupsParagraph]</li>
-    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->[asker_nameDef]と[asker_possessive]の[allyAllies]は死の標的にされており、王室を一掃できるまで安全な場所を求めています。しかしながら、[asker_nameDef]の敵は[enemyFaction_name]を扇動し[asker_objective]を追わせています。\n\n[enemyGroupsParagraph]</li>
-    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->[asker_nameDef]と[asker_possessive]の[allyAllies]は死の標的にされており、王室を一掃できるまで安全な場所を求めています。しかしながら、[asker_nameDef]の敵は何かしらの手段でメカノイドたちを扇動し[asker_objective]を追跡させています。\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->[asker_nameDef]と[asker_possessive]の[allyAllies]は死の標的にされており、王室を一掃できるまで安全な場所を求めています。しかしながら、[asker_nameDef]の敵は[enemyFaction_name]を扇動し[asker_objective]追わせています。\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->[asker_nameDef]と[asker_possessive]の[allyAllies]は死の標的にされており、王室を一掃できるまで安全な場所を求めています。しかしながら、[asker_nameDef]の敵は何かしらの手段でメカノイドたちを扇動し[asker_objective]追跡させています。\n\n[enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
     <li>allyAllies(lodgersCountMinusOne==1)->支持者</li>
     <li>allyAllies(lodgersCountMinusOne>=2)->支持者たち</li></Hospitality_Joiners.questDescriptionRules.rulesStrings>

@@ -67,13 +67,13 @@
     <li>commonDescEnding->[helpersParagraph]</li>
     <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->おおよそ以下の規模の襲撃がやってくるでしょう:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->[threatSize]x戦力の襲撃がおおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つ襲撃がおおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->おおよそ以下の規模の襲撃が[threatCount]回やってくるでしょう:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->[threatSize]x戦力の襲撃がおおよそ以下の規模で[threatCount]回やってくるでしょう:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->通常の[threatSize]倍の戦力を持つ襲撃がおおよそ以下の規模で[threatCount]回やってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->メカクラスターが近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->2倍戦力のメカクラスターが近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->[threatSize]x戦力のメカクラスターが近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->[threatSize]x戦力のメカクラスターが2つ近辺に配置されます。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->メカクラスターが2つ近辺に配置されます。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つメカクラスターが近辺に配置されます。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->通常の[threatSize]倍の戦力を持つメカクラスターが2つ近辺に配置されます。</li>
     <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。</li>
     <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。</li>
     <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、メカノイドの巣の標的にされています。</li>
