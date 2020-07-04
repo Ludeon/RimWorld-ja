@@ -8,8 +8,8 @@
     <li>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</li>
   -->
   <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull] が [asker_possessive]のキャラバンの一つを救助するのを手伝うよう求めています。そのキャラバンは[enemyFaction_name]からの[numGroupsOf]個の[enemyFaction_pawnsPlural]に[map_definite]の付近で追われています。[asker_nameDef]は[enemyFaction_pawnsPlural]を引きつけてキャラバンから離す合図を送り、あなたのもとへと向かわせるようよう求めています。\n\n[pawnKindsParagraph]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]後にやって来るでしょう。</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull] が、 要請をしています。\n\n[asker_possessive]のキャラバンはその地域で[enemyFaction_name]からの[groupsOf]の攻撃に悩まされています。[asker_nameDef]は彼らに挑発的なメッセージを送り、攻撃を引き付けて脅威を取り除くように求めています。\n\n[pawnKindsParagraph]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]後にやって来るでしょう。</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が、 [asker_possessive]のキャラバンの一つを救助するのを手伝うよう求めています。そのキャラバンは[enemyFaction_name]からの[numGroupsOf]個の[enemyFaction_pawnsPlural]に[map_definite]の付近で追われています。[asker_nameDef]は[enemyFaction_pawnsPlural]を引きつけてキャラバンから離す合図を送り、あなたのもとへと向かわせるようよう求めています。\n\n[pawnKindsParagraph]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]後にやって来るでしょう。</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が、要請をしています。\n\n[asker_possessive]のキャラバンはその地域で[enemyFaction_name]からの[groupsOf]の攻撃に悩まされています。[asker_nameDef]は彼らに挑発的なメッセージを送り、攻撃を引き付けて脅威を取り除くように求めています。\n\n[pawnKindsParagraph]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]後にやって来るでしょう。</li>
     <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
     <li>groupsOf->[numGroupsOf]個の[enemyFaction_pawnsPlural]</li></ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:

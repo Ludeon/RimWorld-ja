@@ -13,7 +13,7 @@
   <!-- EN: An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices. -->
   <EMIField.description>電磁妨害ダイナモがEMIフィールドを展開しました。電子機器が無力化されます。</EMIField.description>
   <!-- EN: a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration] -->
-  <EMIField.descriptionFuture>遠方のEMIダイナモがEMIフィールドを[map_definite]に発動し、[gameConditionDuration_duration]の電子機器が無力化されます。</EMIField.descriptionFuture>
+  <EMIField.descriptionFuture>遠方に設置されるEMIダイナモがEMIフィールドを[map_definite]に発動し、[gameConditionDuration_duration]の電子機器が無力化されます</EMIField.descriptionFuture>
   <!-- EN: The EMI field has disappeared. -->
   <EMIField.endMessage>EMIフィールドが消滅しました。</EMIField.endMessage>
   <!-- EN: An EMI field has been generated. It is disabling electrical devices. -->
@@ -31,7 +31,7 @@
   <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
   <PsychicSuppression.description>サイコサプレッションフィールドが{0}の精神に影響を及ぼし、{0}の意識を低下させています。個人のサイキック感度によって効果が変わります。</PsychicSuppression.description>
   <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
-  <PsychicSuppression.descriptionFuture>精神鎮圧波が[gameConditionDuration_duration]の[map_definite]の付近にいる全ての[psychicSuppressorGender]の意識を低下させます。</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.descriptionFuture>サイコサプレッションが[gameConditionDuration_duration]の[map_definite]の付近にいる全ての[psychicSuppressorGender]の意識を低下させます</PsychicSuppression.descriptionFuture>
   <!-- EN: The psychic suppressor field has dissipated. -->
   <PsychicSuppression.endMessage>サイコサプレッションフィールドが消滅しました。</PsychicSuppression.endMessage>
   <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
@@ -56,7 +56,7 @@
   <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
   <WeatherController.description>付近のウェザーコントローラが強制的に天気を変化させています。</WeatherController.description>
   <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
-  <WeatherController.descriptionFuture>ウェザーコントローラは[gameConditionDuration_duration]の[map_definite]周辺の天気を[forcedWeather_indefinite]に強制的に変更します。</WeatherController.descriptionFuture>
+  <WeatherController.descriptionFuture>ウェザーコントローラが[gameConditionDuration_duration]の[map_definite]周辺の天気を[forcedWeather_indefinite]に強制的に変更します</WeatherController.descriptionFuture>
   <!-- EN: The weather controller is no longer changing the weather. -->
   <WeatherController.endMessage>ウェザーコントローラは天気への干渉を停止しました。</WeatherController.endMessage>
   <!-- EN: A weather controller machine has begun affecting the weather. -->

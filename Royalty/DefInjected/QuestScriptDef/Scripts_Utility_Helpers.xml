@@ -21,8 +21,8 @@
   -->
   <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
     <li>helpersParagraph(helpersCount==0)-></li>
-    <li>helpersParagraph(helpersCount==1)->\n\n[helperKind_label]があなたの指揮下に入ります。食事と住居を[helpers0_objective]に与えなければなりませんが、[helpers0_pronoun]は結果に関わらず争いで死ぬかもしれません。\n\n</li>
-    <li>helpersParagraph(helpersCount>=2)->\n\n[helpersCount]人の[helperKind_labelPlural]があなたの指揮下に入ります。食事と住居を彼らに与えなければなりませんが、彼らは結果に関わらず争いで死ぬかもしれません。\n\n</li>
+    <li>helpersParagraph(helpersCount==1)->\n\n[helperKind_label]があなたの指揮下に入ります。[helpers0_objective]に食事と住居を与えなければなりませんが、[helpers0_pronoun]は何の戦果も出さずに死ぬ可能性もあります。\n\n</li>
+    <li>helpersParagraph(helpersCount>=2)->\n\n[helpersCount]人の[helperKind_labelPlural]があなたの指揮下に入ります。彼らに食事と住居を与えなければなりませんが、彼らは何の戦果も出さずに死ぬ可能性もあります。\n\n</li>
     <li>helpersArrivalLetterEnd(helpersCount==0)-></li>
     <li>helpersArrivalLetterEnd(helpersCount>=1)->\n\n[helpersCount]人の[helpersLabelSingOrPlural] [helpersHasHave]があなたを補佐するために送られた。</li>
     <li>helpersLabelSingOrPlural(helpersCount==1)->[helperKind_label]</li>

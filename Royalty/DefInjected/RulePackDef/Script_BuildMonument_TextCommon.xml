@@ -34,24 +34,24 @@
     <li>asker2(askerIsNull==true)->アルコテック</li>
     <li>asker2(asker_factionLeader==True)->[asker_nameDef]</li>
     <li>asker2(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction]</li>
-    <li>buildReason->[asker_possessive] [PersonFamily]の[PersonalCharacteristic]の記念として</li>
-    <li>buildReason->[PersonalCharacteristic] による[asker_possessive] の領有の記念として</li>
-    <li>buildReason->[asker_possessive]のライバルである[PersonalCharacteristic]への侮辱として</li>
+    <li>buildReason->[asker_possessive][PersonFamily]の[PersonalCharacteristic]の記念として</li>
+    <li>buildReason->[PersonalCharacteristic]による[asker_possessive]領有の記念として</li>
+    <li>buildReason->[asker_possessive]ライバルである[PersonalCharacteristic]への侮辱として</li>
     <li>buildReason->人々の間の[ConceptAngsty]の感情を減らすために</li>
     <li>buildReason->[AdjectiveBadass]がいかに[asker_pronoun]かを示すために</li>
-    <li>buildReason->[asker_possessive]で[asker_faction_pawnsPlural]が戦闘に敗北した記念として</li>
-    <li>buildReason->[asker_possessive] [PersonFamily]を讃えるため</li>
-    <li>buildReason->[PersonJob]たちの働きを讃えるため</li>
-    <li>buildReason->[asker_possessive]での[glory]を大陸中へ知らしめるため</li>
+    <li>buildReason->[asker_possessive][asker_faction_pawnsPlural]が戦闘に敗北した記念として</li>
+    <li>buildReason->[asker_possessive][PersonFamily]を讃えるために</li>
+    <li>buildReason->[PersonJob]たちの働きを讃えるために</li>
+    <li>buildReason->[asker_possessive][glory]を大陸中へ知らしめるために</li>
     <li>glory->栄光</li>
     <li>glory->武勇</li>
     <li>glory->勝利</li>
     <li>glory->王位</li>
-    <li>glory->偉大な船</li>
+    <li>glory->偉大な宇宙船</li>
     <li>glory->富</li>
     <li>glory->一族</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->クエスト「[resolvedQuestName]」に失敗した。</li>
-    <li>failLetterEndingCommon->クエスト「[resolvedQuestName]」に失敗した。\n\n[asker_faction_name]との友好度が[goodwillPenalty]減少した.</li>
+    <li>failLetterEndingCommon->クエスト「[resolvedQuestName]」に失敗した。\n\n[asker_faction_name]との友好度が[goodwillPenalty]減少した。</li>
   </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
   
   <!-- EN:
@@ -84,9 +84,9 @@
     <li>construction->assembly</li>
   -->
   <QuestConstructionNameCommon.rulePack.rulesStrings>
-    <li>questName->[constAdj] [construction]</li>
-    <li>questName->一つの[constAdj] [construction]</li>
-    <li>questName->[constAdj] [construction]</li>
+    <li>questName->[constAdj][construction]</li>
+    <li>questName->一つの[constAdj][construction]</li>
+    <li>questName->[constAdj][construction]</li>
     <li>constAdj(p=20)->[AdjectiveLarge]</li>
     <li>constAdj->ひどい</li>
     <li>constAdj->偉大な</li>

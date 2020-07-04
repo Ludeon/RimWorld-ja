@@ -12,7 +12,7 @@
     <li>dangersDescription-></li>
     <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が要求をしています。[commonMainPart]</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameDef]が要求をしています。[commonMainPart]</li>
-    <li>commonMainPart->メカノイドの群れが[asker_possessive]植民地を攻撃しています。[asker_pronoun]は[asker_pronoun]が巣を一掃している間にメカたちの気をそらすために信号を送るよう求めています。もし信号を送った場合、メカノイドクラスターが[map_definite]へ着陸するでしょう。[dangersDescription]\n\nメカノイドクラスターは最初は休眠状態です。時限式の起動装置を備えている場合もあれば、妨害が入るまでずっと休眠状態のままの場合もあります。\n\n[helpersParagraph]</li></ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>commonMainPart->メカノイドの群れが[asker_possessive]植民地を攻撃しています。[asker_pronoun]は[asker_pronoun]が巣を一掃している間、メカノイドたちの気をそらすために信号を送るよう求めています。もし信号を送った場合、メカノイドクラスターが[map_definite]へ着陸するでしょう。[dangersDescription]\n\nメカノイドクラスターは最初は休眠状態です。時限式の起動装置を備えている場合もあれば、妨害が入るまでずっと休眠状態のままの場合もあります。\n\n[helpersParagraph]</li></ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[menace] cluster</li>
     <li>questName->[menace] pods</li>

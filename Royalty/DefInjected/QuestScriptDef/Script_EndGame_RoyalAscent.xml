@@ -9,10 +9,10 @@
     <li>threatsInfo-></li>
   -->
   <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
-    <li>questDescription->[intro][asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、要請に応じてどの[asker_possessive]伯の領地へも訪問を行うでしょう。[asker_objective]を招待し、[shuttleDelayTicks_duration]の間[asker_possessive]の高貴な要求を満たすと、帝国艦隊のシャトルに全員乗ることが出来ます。それからは帝国の臣下に加わるか、星々の中での新たな人生へと逃げ出すかでしょう。\n\n爵位を獲得する[asker_faction_name]での[asker_faction_royalFavorLabel]を獲得するためのクエストの完了を意味します。最終的に爵位を得るまで何年もかかるでしょう。\n\n[asker_possessive]への訪問中に、[asker_nameDef]の気分を[lodgersMoodThreshold_percent]を以上に保たなければなりません。これは豪華な寝室のような王室の必需品を提供するという意味です。[threatsInfo]\n\n[asker_nameDef]は4人の[asker_possessive]の護衛を連れてきて、彼らをあなたの指揮下に置きます。この護衛たちを住まわせなければなりませんが、[asker_nameDef]は彼らが殺されたり不幸せになっても不満を言わないでしょう。\n\n訪問者は[map_definite]へ留めておかなければならず、どこへも送り出してはいけません。もしこのクエストもしくは移住に失敗しても、後に別の機会が訪れるでしょう。</li>
+    <li>questDescription->[intro][asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [asker_possessive]の貴族の要請に応じてどの領地へも訪問を行うでしょう。[asker_objective]招待し、[shuttleDelayTicks_duration]の間[asker_possessive]高貴な要求を満たすと、帝国艦隊のシャトルに全員乗ることが出来ます。それからは帝国の臣下に加わるか、星々の中での新たな人生へと逃げ出すかでしょう。\n\n爵位の獲得とはつまり、[asker_faction_name]の[asker_faction_royalFavorLabel]を獲得できるクエストを達成するということを意味します。最終的に爵位を得るまで何年もかかるでしょう。\n\n[asker_nameDef]の訪問中、[asker_possessive]心情を[lodgersMoodThreshold_percent]以上に保たなければなりません。これは豪華な寝室のような王室の必需品を提供するという意味です。[threatsInfo]\n\n[asker_nameDef]は4人の護衛を連れてきて、彼らをあなたの指揮下に置きます。この護衛たちを住まわせなければなりませんが、[asker_nameDef]は彼らが殺されたり不幸せになっても不満を言わないでしょう。\n\n訪問者は[map_definite]へ留めておかなければならず、どこへも送り出してはいけません。もしこのクエストもしくは移住に失敗しても、後に別の機会が訪れるでしょう。</li>
     <li>intro(sameQuestsCount==0)->この惑星から脱出する方法を学びました！\n\n</li>
-    <li>intro(sameQuestsCount>=1)->王室の同意が得られました\n\n</li>
-    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\n他の勢力は[asker_faction_leaderTitle]を殺そうとする機会を利用し、非常に激しく攻撃してくるでしょう。防衛の準備をして下さい。</li>
+    <li>intro(sameQuestsCount>=1)->王室の同意が得られました。\n\n</li>
+    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\n他の勢力は[asker_faction_leaderTitle]を殺せる機会を利用し、非常に激しく攻撃してくるでしょう。防衛の準備をして下さい。</li>
     <li>threatsInfo-></li></EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(sameQuestsCount==0)->Royal Ascent</li>
