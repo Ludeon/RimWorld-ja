@@ -19,7 +19,7 @@
   <!-- EN: want {TITLE}-specific apparel -->
   <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>{TITLE}が特別な服を要求</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
   <!-- EN: A {TITLE} like myself should be covered in apparel appropriate to my stature:\n\n{0}\n\nIt's below my station to be without my necessaries. -->
-  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>私のような{TITLE}は、地位に見合った服装を身に着けるべきだ。:\n\n{0}\n\nその服は必要なものが欠けており、私の地位に相応しくない。</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>私のような{TITLE}は、地位に見合った服装を身に着けるべきだ:\n\n{0}\n\nこの服は必要なものが欠けており、私の地位に相応しくない。</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
   
   <!-- EN: undignified bedroom -->
   <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>寝室に品が無い</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
@@ -39,6 +39,6 @@
   <!-- EN: undignified throneroom -->
   <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>玉座に威厳が無い</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
   <!-- EN: I am a {TITLE} and I deserve these necessities in my throneroom:\n\n{0} -->
-  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>私は{TITLE}であり、玉座の間において必要なものを受けるに相応しい。:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>私は{TITLE}であり、玉座の間にこれらの必需品を用意されるに相応しい存在だ:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
   
 </LanguageData>

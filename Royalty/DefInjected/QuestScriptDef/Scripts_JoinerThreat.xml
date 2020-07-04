@@ -35,9 +35,9 @@
     <li>hidingFrom(gameCondition==WeatherController)->故障中の気候制御衛星</li>
     <li>condDesc(gameCondition==WeatherController)->[joiner_pronoun]が加入すると、衛星がリセットされるまでの[gameConditionDuration_duration]の期間、[forcedWeather_label]に見舞われます。</li>
     <li>hidingFrom(gameCondition==PsychicDrone)->[joiner_pronoun]に侮辱された復讐にかられる機械知性体</li>
-    <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun]が加入すると、機械知性はこの[map_definite]に向けて[psychicDroneLevel]レベルのサイコドローンを[gameConditionDuration_duration]の期間放ち、全ての[psychicDroneGender]のムードを減退させます。</li>
+    <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun]が加入すると、機械知性はこの[map_definite]に向けて[psychicDroneLevel]レベルのサイコドローンを[gameConditionDuration_duration]の期間放ち、全ての[psychicDroneGender]の心情を減退させます。</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->[joiner_pronoun]に起動された敵対的な機械知性体</li>
-    <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]が加入すると、機械知性はこの[map_definite]に向けてサイコサプレッションフィールドを[gameConditionDuration_duration]の期間展開させ、全ての[psychicSuppressorGender]のムードを減退させます。</li>
+    <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]が加入すると、機械知性はこの[map_definite]に向けてサイコサプレッションフィールドを[gameConditionDuration_duration]の期間展開させ、全ての[psychicSuppressorGender]の心情を減退させます。</li>
  </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>

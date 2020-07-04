@@ -4,11 +4,11 @@
   <!-- EN: Monument completed -->
   <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>モニュメント完成</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
   <!-- EN: You completed construction of the monument.\n\nYou must not destroy it for at least [keepMonumentTicks_duration] days, otherwise you will anger [asker_factionName] ([goodwillChangeIfMonumentDestroyed] goodwill). -->
-  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>モニュメントを完成させました。\n\n[keepMonumentTicks_duration]日間は破壊してはいけません。さもなくば[asker_factionName]を怒らせるでしょう([goodwillChangeIfMonumentDestroyed]の好意)。</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>モニュメントを完成させました。\n\n[keepMonumentTicks_duration]日間は破壊してはいけません。さもなくば[asker_factionName]を怒らせるでしょう([goodwillChangeIfMonumentDestroyed]の友好値)。</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
   <!-- EN: Monument destroyed -->
   <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>モニュメント破壊</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
   <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
-  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[asker_nameDef]は、モニュメントが完成したばかりなのに台無しになるのを許したあなたに激怒しています。[asker_faction_name]との関係が[goodwillChangeIfMonumentDestroyed]によって減退しました。</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[asker_nameDef]は、完成したばかりなのにも関わらずモニュメントが台無しにされることを許したあなたに激怒しています。[asker_faction_name]との関係が[goodwillChangeIfMonumentDestroyed]によって減退しました。</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
   <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>{0}のモニュメントを破壊しないでください</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
