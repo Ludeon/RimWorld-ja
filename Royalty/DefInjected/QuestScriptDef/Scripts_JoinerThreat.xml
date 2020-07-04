@@ -148,8 +148,7 @@
   <!-- EN:
     <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] admits [joiner_pronoun] profaned a peace ritual between [raid1/enemyFaction_name] and [raid2/enemyFaction_name]. Now they are both chasing [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], both [raid1/enemyFaction_name] and [raid2/enemyFaction_name] will raid you in [raidDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
   -->
-  <ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました。[joiner_pronoun]は、[joiner_pronoun]が[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の和平交渉を妨害したと認めています。今、彼らは揃って[joiner_objective]を追っています！\n\n[joiner_pronoun]は安全のために[map_definite]に匿ってほしいと懇願しています。[joiner_relationInfo]\n\n[joiner_nameDef]の加入を認めれば、[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の両方が[raidDelayTicks_duration]後に襲撃をかけてくるでしょう。\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした。</li></ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings><li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました。[joiner_pronoun]は、[joiner_pronoun]が[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の和平交渉を妨害したと認めています。今、彼らは揃って[joiner_objective]を追っています！\n\n[joiner_pronoun]は安全のために[map_definite]に匿ってほしいと懇願しています。[joiner_relationInfo]\n\n[joiner_nameDef]の加入を認めれば、[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の両方が[raidDelayTicks_duration]後に襲撃をかけてくるでしょう。\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした。</li></ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s Many Friends</li>
     <li>questName->[joiner_nameDef]'s Many Enemies</li>
@@ -176,16 +175,18 @@
     <li>joinersEnemies(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]</li>
     <li>joinersEnemies(priority=1,site/MechCluster_exists==True)->mechanoids</li>
     <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->mechanoids</li>
- -->
+    <li>joinersEnemies->[joiner_possessive] enemies</li>
+  -->
   <ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->A[joiner_age]歳の[joiner_title]である[joiner_nameFull]が付近から通信を送ってきました。 [joiner_pronoun]は[threat]から隠れています。[joiner_pronoun]は[joiner_possessive]の隠れ場所から離れてあなたの[map_definite]に加わりたいようです。[joiner_relationInfo]\n\n[joiner_objective]を受け入れた場合、[joinersEnemiesは付近に襲撃拠点を構えてあなたを悩ませるでしょう。[site/allSitePartsDescriptions]\n\n脅威は破壊するまで残ります。</li>
+    <li>questDescription->A[joiner_age]歳の[joiner_title]である[joiner_nameFull]が付近から通信を送ってきました。 [joiner_pronoun]は[threat]から隠れています。[joiner_pronoun]は[joiner_possessive]の隠れ場所から離れてあなたの[map_definite]に加わりたいようです。[joiner_relationInfo]\n\n[joiner_objective]を受け入れた場合、[joinersEnemies]は付近に襲撃拠点を構えてあなたを悩ませるでしょう。[site/allSitePartsDescriptions]\n\n脅威は破壊するまで残ります。</li>
     <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]の[site/enemyFaction_pawnsPlural]</li>
     <li>threat(priority=1,site/MechCluster_exists==True)->メカノイド</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>
-    <li>threat->[joiner_possessive]の敵</li>
+    <li>threat->[joiner_possessive]敵</li>
     <li>joinersEnemies(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]</li>
     <li>joinersEnemies(priority=1,site/MechCluster_exists==True)->メカノイド</li>
     <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>
+    <li>joinersEnemies->[joiner_possessive]敵</li>
   </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [site/site_label]</li>

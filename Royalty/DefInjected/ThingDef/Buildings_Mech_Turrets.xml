@@ -34,15 +34,15 @@
   <!-- EN: mini-slugger -->
   <Gun_MiniTurretMech.verbs.Verb_Shoot.label>ミニスラッガー</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
   
-  <!-- EN: auto charge blaster turret -->
-  <Turret_AutoChargeBlaster.label>オートチャージブラスタータレット</Turret_AutoChargeBlaster.label>
-  <!-- EN: A self-powered turret mounted with a heavy charge blaster. -->
-  <Turret_AutoChargeBlaster.description>ヘヴィチャージブラスターを装着した自己給電式タレット。</Turret_AutoChargeBlaster.description>
+  <!-- EN: auto charge turret -->
+  <Turret_AutoChargeBlaster.label>オートチャージタレット</Turret_AutoChargeBlaster.label>
+  <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
+  <Turret_AutoChargeBlaster.description>チャージブラスターを装着した自己給電式タレット。超短距離内のターゲットは感知できません。</Turret_AutoChargeBlaster.description>
   
   <!-- EN: auto inferno turret -->
   <Turret_AutoInferno.label>オートインフェルノタレット</Turret_AutoInferno.label>
-  <!-- EN: A self-powered turret mounted with an inferno cannon. -->
-  <Turret_AutoInferno.description>インフェルノカノンを装着した自己給電式タレット。</Turret_AutoInferno.description>
+  <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
+  <Turret_AutoInferno.description>インフェルノカノンを装着した自己給電式タレット。超短距離内のターゲットは感知できません。</Turret_AutoInferno.description>
   
   <!-- EN: mini-slugger turret -->
   <Turret_AutoMiniTurret.label>ミニスラッガータレット</Turret_AutoMiniTurret.label>

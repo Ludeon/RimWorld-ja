@@ -4,8 +4,8 @@
   <!-- Room requirements -->
   <!-- EN: Need throneroom -->
   <NeedThroneAssigned>玉座の間が必要</NeedThroneAssigned>
-  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nBuild a throne in a room, then assign the throne to the title holder. The throneroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedThroneAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられた玉座がありません。\n\n玉座を建設してから、爵位保持者に割り当てください。玉座の間には爵位保持者に相応しいサイズと装飾が必要です。</NeedThroneAssignedDesc>
+  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
+  <NeedThroneAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられた玉座がありません。\n\n爵位の所有者が玉座の間の玉座に割り当てられているか確認してください。\n\n玉座の間には爵位保持者に相応しいサイズと装飾が必要です。\n\n一つの玉座の間に複数の玉座を設置できる場合もあります。</NeedThroneAssignedDesc>
 
   <!-- EN: Undignified bedroom -->
   <UndignifiedBedroom>みっともない寝室</UndignifiedBedroom>
@@ -14,8 +14,8 @@
 
   <!-- EN: Title requires bedroom -->
   <NeedBedroomAssigned>爵位に相応しい寝室</NeedBedroomAssigned>
-  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
-  <NeedBedroomAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられていません。\n\n玉座の間に置かれた玉座を爵位保持者に割り当ててください。玉座の間には爵位保持者に相応しいサイズと装飾が必要です。\n\n一つの玉座の間に複数の玉座を配置できます。</NeedBedroomAssignedDesc>
+  <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
+  <NeedBedroomAssignedDesc>入植者の一人が個人の寝室を必要とする爵位についていますが、割り当てられていません。\n\n対象者に個人の寝室を割り当ててください。寝室には爵位保持者に相応しいサイズと装飾が必要です。</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
   <UndignifiedThroneroom>みっともない玉座の間</UndignifiedThroneroom>
