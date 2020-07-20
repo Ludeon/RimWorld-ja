@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -13,9 +13,9 @@
   <DecreeSetup.LetterLabelDecreeForgotten.slateRef>[asker_nameDef]の布告は忘れ去られた</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
   <!-- EN: [asker_nameDef] has forgotten about [asker_possessive] decree. -->
   <DecreeSetup.LetterTextDecreeForgotten.slateRef>[asker_nameDef]は自分の発した布告の事は忘れてしまいました。</DecreeSetup.LetterTextDecreeForgotten.slateRef>
-   <!-- EN: Decree cancelled -->
+  <!-- EN: Decree cancelled -->
   <DecreeSetup.LetterLabelDecreeCancelled.slateRef>布告は取り消された。</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
   <!-- EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed. -->
   <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef]は布告'[resolvedQuestName]'を達成できないため、いやいやながら取り消しました。</DecreeSetup.LetterTextDecreeCancelled.slateRef>
- 
+  
 </LanguageData>

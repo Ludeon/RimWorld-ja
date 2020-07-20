@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
     <li>commonEnding->The monument is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nConstruction must be completed within [constructionTimeoutTicks_duration] of accepting the task.\n\nAfter completion, you'll have to protect the monument for [haveToProtectForTicks_duration]. If any piece of it is destroyed, [asker2]'s enforcement system will activate and [threatDescription]\n\nYou'll receive the rewards when you finish construction.</li>
   -->
   <BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
-    <li>commonEnding->モニュメントのサイズは[monumentSize]で、以下のリソースが必要です。(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n任務を受けてから[constructionTimeoutTicks_duration]以内に建設を完了させる必要があります。\n\n完了後、[haveToProtectForTicks_duration]の間モニュメントを守る必要があります。一部でも破壊されると、[asker2]の執行システムがアクティブになり、[threatDescription]\n\n建設完了時に報酬を受け取れます。</li></BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+    <li>commonEnding->モニュメントのサイズは[monumentSize]で、以下のリソースが必要です。(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n任務を受けてから[constructionTimeoutTicks_duration]以内に建設を完了させる必要があります。\n\n完了後、[haveToProtectForTicks_duration]の間モニュメントを守る必要があります。一部でも破壊されると、[asker2]の執行システムがアクティブになり、[threatDescription]\n\n建設完了時に報酬を受け取れます。</li>
+  </BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
   <!-- EN: Monument completed -->
   <BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>モニュメント完成</BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>
   <!-- EN: You completed construction of the monument.\n\nYou must now protect the monument for [haveToProtectForTicks_duration]. If any piece of it is destroyed, [asker2]'s enforcement system will activate and [threatDescription] -->

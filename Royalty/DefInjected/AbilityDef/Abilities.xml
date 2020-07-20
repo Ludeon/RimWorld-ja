@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: beckon -->
@@ -21,25 +21,35 @@
   <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. -->
   <BlindingPulse.description>脳内の視覚中枢にノイズを発生させ、標的地点の付近にいる全ての視界を曇らせます。</BlindingPulse.description>
   
+  <!-- EN: bullet shield -->
+  <BulletShield.label>バレットシールド</BulletShield.label>
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
+  <BulletShield.description>空間内に出入りする地上レベルの飛翔物を、遠方に飛ばす球状のスキップゲートを設置します。人間やアイテムは影響を受けません。</BulletShield.description>
+  
   <!-- EN: burden -->
   <Burden.label>重荷</Burden.label>
   <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. -->
   <Burden.description>脳の働きを抑制させ、短期間標的の動きを遅くします。</Burden.description>
   
-  <!-- EN: bullet shield -->
-  <BulletShield.label>バレットシールド</BulletShield.label>
-  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
-  <BulletShield.description>空間内に出入りする地上レベルの飛翔物を、遠方に飛ばす球状のスキップゲートを設置します。人間やアイテムは影響を受けません。</BulletShield.description>
-    
   <!-- EN: chaos skip -->
   <ChaosSkip.label>吹き飛ばし</ChaosSkip.label>
   <!-- EN: Teleport the target to a random position near where he started. -->
   <ChaosSkip.description>標的を現在地周囲のどこかにテレポートさせます。</ChaosSkip.description>
   
+  <!-- EN: chunk skip -->
+  <Chunkskip.label><!--TODO-->chunk skip</Chunkskip.label>
+  <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <Chunkskip.description><!--TODO-->Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.</Chunkskip.description>
+  
   <!-- EN: neural heat dump -->
   <EntropyDump.label>ニューラルヒートダンプ</EntropyDump.label>
   <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
   <EntropyDump.description>ニューラルヒートを即座に他の誰かへ転嫁します。副作用として標的は、直接ダメージはないものの、衰弱を招く昏睡状態に数日間陥らせます。サイキック的な侵入を積極的に受け入れなければならないため、意識のある味方だけを標的にできます。</EntropyDump.description>
+  
+  <!-- EN: farskip -->
+  <Farskip.label><!--TODO-->farskip</Farskip.label>
+  <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
+  <Farskip.description><!--TODO-->Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map.</Farskip.description>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>フラッシュストーム</Flashstorm.label>
@@ -66,6 +76,13 @@
   <!-- EN: Skip everyone near a target point to a random location nearby. -->
   <MassChaosSkip.description>標的地点付近の全員をランダムにテレポートさせます。</MassChaosSkip.description>
   
+  <!-- EN: neuroquake -->
+  <Neuroquake.label><!--TODO-->neuroquake</Neuroquake.label>
+  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <Neuroquake.description><!--TODO-->Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.</Neuroquake.description>
+  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+  <Neuroquake.confirmationDialogText><!--TODO-->If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake?</Neuroquake.confirmationDialogText>
+  
   <!-- EN: painblock -->
   <Painblock.label>痛み止め</Painblock.label>
   <!-- EN: Block pain pathways in the target's brain for a short time. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
@@ -80,7 +97,12 @@
   <Smokepop.label>煙幕</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
   <Smokepop.description>地面の誇りを舞い上がらせ煙幕を形成します。射撃精度を低下させ、タレットが完全にロックオンされるのを防ぎます。</Smokepop.description>
-
+  
+  <!-- EN: solar pinhole -->
+  <SolarPinhole.label><!--TODO-->solar pinhole</SolarPinhole.label>
+  <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. -->
+  <SolarPinhole.description><!--TODO-->Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes.</SolarPinhole.description>
+  
   <!-- EN: throne speech -->
   <Speech.label>玉座の演説</Speech.label>
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
@@ -105,5 +127,30 @@
   <Waterskip.label>ウォータースキップ</Waterskip.label>
   <!-- EN: Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
   <Waterskip.description>対象地域を水浸しにして消化します。アルコテックテクノロジーを用いたスキップによって、水を遠方ないし地下から呼び出します。</Waterskip.description>
+  
+  <!-- EN: word of inspiration -->
+  <WordOfInspiration.label><!--TODO-->word of inspiration</WordOfInspiration.label>
+  <!-- EN: Speak words encouraging creativity while psychically hypercharging the target’s mind with new ideas. The target will experience a random inspiration appropriate to them. -->
+  <WordOfInspiration.description><!--TODO-->Speak words encouraging creativity while psychically hypercharging the target’s mind with new ideas. The target will experience a random inspiration appropriate to them.</WordOfInspiration.description>
+  
+  <!-- EN: word of joy -->
+  <WordOfJoy.label><!--TODO-->word of joy</WordOfJoy.label>
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+  <WordOfJoy.description><!--TODO-->Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.</WordOfJoy.description>
+  
+  <!-- EN: word of love -->
+  <WordOfLove.label><!--TODO-->word of love</WordOfLove.label>
+  <!-- EN: Speak about someone’s romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This psycast can be used to connect two other people, induce love for the caster, or even induce love in one’s self. -->
+  <WordOfLove.description><!--TODO-->Speak about someone’s romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This psycast can be used to connect two other people, induce love for the caster, or even induce love in one’s self.</WordOfLove.description>
+  
+  <!-- EN: word of serenity -->
+  <WordOfSerenity.label><!--TODO-->word of serenity</WordOfSerenity.label>
+  <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
+  <WordOfSerenity.description><!--TODO-->Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.</WordOfSerenity.description>
+  
+  <!-- EN: word of trust -->
+  <WordOfTrust.label><!--TODO-->word of trust</WordOfTrust.label>
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner’s resistance, but cannot recruit him. -->
+  <WordOfTrust.description><!--TODO-->Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner’s resistance, but cannot recruit him.</WordOfTrust.description>
   
 </LanguageData>

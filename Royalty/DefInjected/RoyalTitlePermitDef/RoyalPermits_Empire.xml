@@ -1,14 +1,45 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: call laborer gang -->
+  <CallLaborerGang.label><!--TODO-->call laborer gang</CallLaborerGang.label>
+  <!-- EN: Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <CallLaborerGang.description><!--TODO-->Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</CallLaborerGang.description>
+  
+  <!-- EN: call laborer team -->
+  <CallLaborerTeam.label><!--TODO-->call laborer team</CallLaborerTeam.label>
+  <!-- EN: Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <CallLaborerTeam.description><!--TODO-->Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</CallLaborerTeam.description>
   
   <!-- EN: call cataphract squad -->
   <CallMilitaryAidGrand.label>カタフラクト部隊を呼ぶ</CallMilitaryAidGrand.label>
+  <!-- EN: Call a group of 4 heavy cataphracts to aid you in battle. -->
+  <CallMilitaryAidGrand.description><!--TODO-->Call a group of 4 heavy cataphracts to aid you in battle.</CallMilitaryAidGrand.description>
   
   <!-- EN: call janissary squad -->
   <CallMilitaryAidLarge.label>イェニチェリ部隊を呼ぶ</CallMilitaryAidLarge.label>
+  <!-- EN: Call a group of 4 professional janissaries to aid you in battle. -->
+  <CallMilitaryAidLarge.description><!--TODO-->Call a group of 4 professional janissaries to aid you in battle.</CallMilitaryAidLarge.description>
   
   <!-- EN: call trooper squad -->
   <CallMilitaryAidSmall.label>トルーパーを呼ぶ</CallMilitaryAidSmall.label>
+  <!-- EN: Call a group of 4 light troopers to aid you in battle. -->
+  <CallMilitaryAidSmall.description><!--TODO-->Call a group of 4 light troopers to aid you in battle.</CallMilitaryAidSmall.description>
+  
+  <!-- EN: call orbital salvo -->
+  <CallOrbitalSalvo.label><!--TODO-->call orbital salvo</CallOrbitalSalvo.label>
+  <!-- EN: Call an extended salvo of orbital strikes around a target position. -->
+  <CallOrbitalSalvo.description><!--TODO-->Call an extended salvo of orbital strikes around a target position.</CallOrbitalSalvo.description>
+  
+  <!-- EN: call orbital strike -->
+  <CallOrbitalStrike.label><!--TODO-->call orbital strike</CallOrbitalStrike.label>
+  <!-- EN: Call a single-impact orbital strike at a target position. -->
+  <CallOrbitalStrike.description><!--TODO-->Call a single-impact orbital strike at a target position.</CallOrbitalStrike.description>
+  
+  <!-- EN: call transport shuttle -->
+  <CallTransportShuttle.label><!--TODO-->call transport shuttle</CallTransportShuttle.label>
+  <!-- EN: Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles. -->
+  <CallTransportShuttle.description><!--TODO-->Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles.</CallTransportShuttle.description>
   
   <!-- EN: trade with caravans -->
   <TradeCaravan.label>キャラバンと取引をする</TradeCaravan.label>

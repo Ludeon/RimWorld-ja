@@ -1,13 +1,36 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Shuttle landing zones -->
-  <!-- EN: Shuttle could not land on pad: {0}. -->
-  <ShuttleBlocked>シャトルはパッドに着陸できませんでした。: {0}</ShuttleBlocked>
-  <!-- EN: blocked by {0_label} -->
+  <!-- EN: Shuttle could not land on pad: {0} -->
+  <ShuttleBlocked>シャトルはパッドに着陸できませんでした: {0}</ShuttleBlocked>
+  <!-- EN: blocked by {0_label}. -->
   <BlockedBy>{0_label}が邪魔になっている</BlockedBy>
+  <!-- EN: The shuttle has arrived. -->
+  <MessageShuttleArrived><!--TODO-->The shuttle has arrived.</MessageShuttleArrived>
+  <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
+  <MessageShuttleArrivedContentsLost><!--TODO-->The shuttle arrived, but since there were no colonists inside, the contents were lost.</MessageShuttleArrivedContentsLost>
+  <!-- EN: Cannot call shuttle -->
+  <CannotCallShuttle><!--TODO-->Cannot call shuttle</CannotCallShuttle>
+
+  <!-- EN: Cannot land in undiscovered area. -->
+  <ShuttleCannotLand_Fogged><!--TODO-->Cannot land in undiscovered area.</ShuttleCannotLand_Fogged>
+  <!-- EN: Area must be walkable. -->
+  <ShuttleCannotLand_Unwalkable><!--TODO-->Area must be walkable.</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Warning: Anima tree has been marked for cutting. -->
   <MessageWarningCutAnimaTree>警告: アニマツリーが伐採対象に選択されています。</MessageWarningCutAnimaTree>
+
+  <!-- EN: Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony. -->
+  <MessageBestowerWaiting><!--TODO-->Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony.</MessageBestowerWaiting>
+  <!-- EN: Cannot reach bestower! -->
+  <MessageBestowerUnreachable><!--TODO-->Cannot reach bestower!</MessageBestowerUnreachable>
+  <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
+  <MessageBestowingSpotUnreachable><!--TODO-->The bestower is annoyed with the interference and has decided to leave.</MessageBestowingSpotUnreachable>
+
+  <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
+  <MessageBestowingCeremonyStarted><!--TODO-->{PAWN_definite}'s bestowing ceremony has begun.</MessageBestowingCeremonyStarted>
+  <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
+  <MessageMissionGetBackToShuttle><!--TODO-->You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it.</MessageMissionGetBackToShuttle>
 
 </LanguageData>

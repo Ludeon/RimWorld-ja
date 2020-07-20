@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: [lodgersLabelSingOrPlural] arrived -->
@@ -17,8 +17,8 @@
   <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>あなたが護衛の命を受けていた[letterSubject]が死亡しました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>来客が捕虜に: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
-  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>あなたが護衛の命を受けていた[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
+  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>あなたが護衛の命を受けていた[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>囚人が集められた: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
@@ -37,8 +37,8 @@
   <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>あなたが護衛の命を受けていた[letterSubject]が他の派閥に加わりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>クエスト失敗: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
-  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>[asker_faction_name]は今やあなたに敵対的です。 [failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
+  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingQuest] -->
+  <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>[asker_faction_name]は今やあなたに敵対的です。 [failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
   <!-- EN: Shuttle destroyed -->
   <Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>シャトルが破壊された</Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has been destroyed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->

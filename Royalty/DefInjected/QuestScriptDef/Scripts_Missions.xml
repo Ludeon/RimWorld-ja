@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->Pirates have set up an outpost and are harassing caravans of [asker_faction_name]. [asker_nameDef] is planning an aerial assault on the outpost. [asker_pronoun] wants you to provide [soldiers] for the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTicks_duration].</li>
+    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldiers</li>
+    <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
+  -->
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription-><!--TODO-->Pirates have set up an outpost and are harassing caravans of [asker_faction_name]. [asker_nameDef] is planning an aerial assault on the outpost. [asker_pronoun] wants you to provide [soldiers] for the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTicks_duration].</li>
+    <li>soldiers(requiredPawnCount>1)-><!--TODO-->[requiredPawnCount] soldiers</li>
+    <li>soldiers(requiredPawnCount==1)-><!--TODO-->[requiredPawnCount] soldier</li>
+  </Mission_BanditCamp.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[questNameInner]</li>
+    <li>questName->[asker_nameDef]'s [questNameInner]</li>
+    <li>questNameInner->[aerial] [attack]</li>
+    <li>questNameInner->[target] [attack]</li>
+    <li>questNameInner->[attack] [work]</li>
+    <li>target->camp</li>
+    <li>target->base</li>
+    <li>target->fort</li>
+    <li>aerial->aerial</li>
+    <li>aerial->air</li>
+    <li>aerial->shuttle-borne</li>
+    <li>attack->attack</li>
+    <li>attack->assault</li>
+    <li>work->work</li>
+    <li>work->job</li>
+  -->
+  <Mission_BanditCamp.questNameRules.rulesStrings>
+    <li>questName-><!--TODO-->[questNameInner]</li>
+    <li>questName-><!--TODO-->[asker_nameDef]'s [questNameInner]</li>
+    <li>questNameInner-><!--TODO-->[aerial] [attack]</li>
+    <li>questNameInner-><!--TODO-->[target] [attack]</li>
+    <li>questNameInner-><!--TODO-->[attack] [work]</li>
+    <li>target-><!--TODO-->camp</li>
+    <li>target-><!--TODO-->base</li>
+    <li>target-><!--TODO-->fort</li>
+    <li>aerial-><!--TODO-->aerial</li>
+    <li>aerial-><!--TODO-->air</li>
+    <li>aerial-><!--TODO-->shuttle-borne</li>
+    <li>attack-><!--TODO-->attack</li>
+    <li>attack-><!--TODO-->assault</li>
+    <li>work-><!--TODO-->work</li>
+    <li>work-><!--TODO-->job</li>
+  </Mission_BanditCamp.questNameRules.rulesStrings>
+  
+</LanguageData>

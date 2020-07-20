@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Royal titles -->
@@ -6,6 +6,9 @@
   <LetterLabelLostRoyalTitle>{TITLE} の爵位を失った: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
   <LetterLabelGainedRoyalTitle>{TITLE} の爵位を獲得した: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+
+  <!-- EN: Permit points awarded: {0}. -->
+  <PermitPointsAwarded><!--TODO-->Permit points awarded: {0}.</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
   <LetterRoyalTitleApparelQualityRequirement>この爵位には{1}以上の品質の衣服を着用させる必要があります。</LetterRoyalTitleApparelQualityRequirement>
@@ -15,8 +18,7 @@
   <LetterRoyalTitleExpectation>{PAWN_possessive}の期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、下等な食物を退け、時に布告を発するでしょう
-</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、下等な食物を退け、時に布告を発するでしょう\n</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort}が{FACTION_name}から{TITLE}の爵位を授かりました！</LetterGainedRoyalTitle>
@@ -24,7 +26,7 @@
   <LetterLostRoyalTitle>{PAWN_labelShort}は{FACTION_name}における{TITLE}の爵位をもはや保持していません。</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->
   <LetterLabelRewardsForNewTitle>爵位の報酬</LetterLabelRewardsForNewTitle>
-  <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent them following reward(s): -->
+  <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s): -->
   <LetterRewardsForNewTitle>{PAWN_labelShort}の{TITLE}への昇進を讃え、{FACTION_name} から以下の報酬()が送られました:</LetterRewardsForNewTitle>
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
   <LetterRewardsForNewTitleDeliveryBase>報酬を積んだポッドがコロニーに到着しました。</LetterRewardsForNewTitleDeliveryBase>
@@ -110,6 +112,10 @@
   <LetterEncouragingSpeech>勇気づけられたし、胸にしっかり届きました。</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
   <LetterInspirationalSpeech>意志と気迫に満ちていてとても感動的だった。</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners><!--TODO-->The following people were particularly moved by the speech and are now inspired:</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration><!--TODO-->Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration!</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
   <LetterSpeechInterrupted>{0}が完了した段階で演説が中断されたため、それほど効果的ではありませんでした。</LetterSpeechInterrupted>
   <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
@@ -124,12 +130,10 @@
   <LetterLabelRandomDecree>{0_nameIndef}が法令を発しました</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterDecreeMentalBreak>{0_nameIndef}が、{0_possessive}のストレスを発散するために突飛な法令を発し、それを実行するよう迫っています。
-    \n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterDecreeMentalBreak>
+  <LetterDecreeMentalBreak>{0_nameIndef}が、{0_possessive}のストレスを発散するために突飛な法令を発し、それを実行するよう迫っています。\n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>{0_nameIndef}が、{0_bestRoyalTitleIndef}の爵位の{0_possessive}を確認するために突飛な法令を発し、それを実行するよう迫っています。
-    \n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef}が、{0_bestRoyalTitleIndef}の爵位の{0_possessive}を確認するために突飛な法令を発し、それを実行するよう迫っています。\n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
   <LetterDecree_Quest>法令の名前は"{0}"です。</LetterDecree_Quest>
   
@@ -144,8 +148,29 @@
   <LetterPsylinkLevelGained_First>{USER_labelShort}が{USER_possessive}の第1段階のサイリンクを会得しました！{USER_pronoun}はいまや超能力者です。\n\n超能力を使用するには、{USER_labelShort}は瞑想によってサイフォーカスを蓄積する必要があります。特定のオブジェクトに焦点をあわせることにより瞑想の効果が向上します。\n\n個々人が異なるオブジェクトを用います。これはバックストーリー、特性、爵位に応じて変わります。例\n\n- 爵位を有する人物は玉座で瞑想します。\n-部族出身の超能力者はアニマツリーや自然聖堂で瞑想します。\n-禁欲的な超能力者は壁に向かって瞑想します。\n-サイコパスの超能力者は墓で瞑想します。可能なら愛する人をその中に収めて。\n\n瞑想のタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します。</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psycasts of that higher level, but {USER_pronoun} needs to learn them first. -->
   <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}が新たなレベルのサイリンクを会得しました！{USER_pronoun}は高位の超能力を用いることができますが、{USER_pronoun}はまずそれを学ばなければなりません。</LetterPsylinkLevelGained_NotFirst>
-  <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned this psycast: {2}. -->
-  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを会得したため、{USER_labelShort}は自動的に以下の術を学びました: {2}。</LetterPsylinkLevelGained_PsycastLearned>
+  <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psycasts: {2} -->
+  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを会得したため、{USER_labelShort}は自動的に以下の超能力を学びました: {2}。</LetterPsylinkLevelGained_PsycastLearned>
+  
+  <!-- Abilities -->
+  <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterPsychicInspiration><!--TODO-->Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration!</LetterPsychicInspiration>
 
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel><!--TODO-->Join offer: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle><!--TODO-->{PAWN_nameDef} wishes to join your faction.</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText><!--TODO-->{PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently.</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept><!--TODO-->Accept</LetterJoinOfferAccept>
+
+  <!-- EN: Bestowing ceremony expired -->
+  <LetterLabelBestowingCeremonyExpired><!--TODO-->Bestowing ceremony expired</LetterLabelBestowingCeremonyExpired>
+  <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
+  <LetterTextBestowingCeremonyExpired><!--TODO-->{TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled.</LetterTextBestowingCeremonyExpired>
+
+  <!-- EN: Who should be credited with {0} for fulfilling the trade request? -->
+  <LetterTextHonorAward><!--TODO-->Who should be credited with {0} for fulfilling the trade request?</LetterTextHonorAward>
 
 </LanguageData>

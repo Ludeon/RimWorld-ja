@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
     <li>questDescription->[decreeIntro]\n\nYou must build a monument. It is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nYou must keep the monument safe for [keepMonumentTicks_duration] after completion, otherwise [asker_nameDef] will be unhappy.</li>
   -->
   <Decree_BuildMonument.questDescriptionRules.rulesStrings>
-    <li>questDescription->[decreeIntro]\n\nモニュメントを建設する必要があります。サイズは [monumentSize] で必要な資源は以下のとおりです。 (合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\n完成後、[keepMonumentTicks_duration]モニュメントを維持しなければなりません。さもなくば[asker_nameDef]は不満を抱くでしょう。</li></Decree_BuildMonument.questDescriptionRules.rulesStrings>
+    <li>questDescription->[decreeIntro]\n\nモニュメントを建設する必要があります。サイズは [monumentSize] で必要な資源は以下のとおりです。 (合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\n完成後、[keepMonumentTicks_duration]モニュメントを維持しなければなりません。さもなくば[asker_nameDef]は不満を抱くでしょう。</li>
+  </Decree_BuildMonument.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->monument decree</li>
   -->
@@ -16,7 +17,7 @@
   <Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>新たなモニュメントマーカーが設定されました</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
   <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>モニュメントマーカーが破壊されたため、新たなマーカーが送られてきました。</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
-   <!-- EN: Monument completed -->
+  <!-- EN: Monument completed -->
   <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>モニュメント完成</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
   <!-- EN: You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased. -->
   <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>モニュメントを完成させました。\n\n[keepMonumentTicks_duration]日間モニュメントを維持しなければなりません。さもなくば[asker_nameDef]は不満を抱くでしょう。</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
@@ -30,7 +31,7 @@
   <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>{0}のモニュメントを破壊しないでください</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
   <!-- EN: Keep monument {0} -->
   <Decree_BuildMonument.KeepMonument.slateRef>{0}のモニュメントを維持</Decree_BuildMonument.KeepMonument.slateRef>
- 
+  
   <!-- EN:
     <li>questDescription->[decreeIntro]\n\nYou must harvest [plantToHarvest_label] x[harvestItemCount].\n\nYou may need to plant and grow the [plantToHarvest_label] first.\n\n[decreeThreatInfo]</li>
   -->
@@ -65,7 +66,8 @@
     <li>questDescription->[decreeIntro]\n\nYou must produce:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
   -->
   <Decree_ProduceItem.questDescriptionRules.rulesStrings>
-    <li>questDescription->[decreeIntro]\n\n以下を制作する必要があります。:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li></Decree_ProduceItem.questDescriptionRules.rulesStrings>
+    <li>questDescription->[decreeIntro]\n\n以下を制作する必要があります。:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
+  </Decree_ProduceItem.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[defToProduce_label] production decree</li>
   -->

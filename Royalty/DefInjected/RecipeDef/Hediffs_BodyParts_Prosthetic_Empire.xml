@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: install drill arm -->
@@ -56,7 +56,7 @@
   <InstallVenomTalon.description>毒爪を移植する。</InstallVenomTalon.description>
   <!-- EN: Installing venom talon. -->
   <InstallVenomTalon.jobString>毒爪を移植中</InstallVenomTalon.jobString>
-   
+  
   <!-- EN: remove elbow blade -->
   <RemoveElbowBlade.label>エルボーブレードを取り外す</RemoveElbowBlade.label>
   <!-- EN: Remove elbow blade. -->
@@ -91,5 +91,5 @@
   <RemoveVenomTalon.description>毒爪を取り外す。</RemoveVenomTalon.description>
   <!-- EN: Removing venom talon. -->
   <RemoveVenomTalon.jobString>毒爪を取り外している</RemoveVenomTalon.jobString>
- 
+  
 </LanguageData>

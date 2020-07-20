@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -123,7 +123,8 @@
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->[asker_nameDef]と[asker_possessive][allyAllies]は死の標的にされており、王室を一掃できるまで安全な場所を求めています。しかしながら、[asker_nameDef]の敵は何かしらの手段でメカノイドたちを扇動し[asker_objective]追跡させています。\n\n[enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
     <li>allyAllies(lodgersCountMinusOne==1)->支持者</li>
-    <li>allyAllies(lodgersCountMinusOne>=2)->支持者たち</li></Hospitality_Joiners.questDescriptionRules.rulesStrings>
+    <li>allyAllies(lodgersCountMinusOne>=2)->支持者たち</li>
+  </Hospitality_Joiners.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->shelter for [lodgerIndef]</li>
     <li>questName->hospitality for [lodgerIndef]</li>
@@ -182,6 +183,7 @@
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->一人の貴族</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->王族たち</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->華族たち</li>
-    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->貴族たち</li></Hospitality_Joiners.questNameRules.rulesStrings>
- 
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->貴族たち</li>
+  </Hospitality_Joiners.questNameRules.rulesStrings>
+  
 </LanguageData>

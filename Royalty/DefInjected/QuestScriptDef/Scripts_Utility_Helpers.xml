@@ -1,10 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: helperKind -->
-  <!-- ここからコメントアウト。訳注："could not resolve any root"というエラーが発生してクエスト説明文が表示されないバグを避けるため、一時的にコメントアウトしてます。
-  <Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>支援者たち</Util_ChooseRandomQuestHelperKind.root.nodes.GetRandomPawnKindForFaction.storeAs.slateRef>
-  ここまでコメントアウト-->
   
   <!-- EN:
     <li>helpersParagraph(helpersCount==0)-></li>
@@ -30,7 +25,8 @@
     <li>helpersHasHave(helpersCount==1)-></li>
     <li>helpersHasHave(helpersCount>=2)-></li>
     <li>helpersIsAre(helpersCount==1)-></li>
-    <li>helpersIsAre(helpersCount>=2)-></li></Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+    <li>helpersIsAre(helpersCount>=2)-></li>
+  </Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
   <!-- EN: [helpersLabelSingOrPlural] arrived -->
   <Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>[helpersLabelSingOrPlural]が到着</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] [helpersHasHave] arrived to aid you with the quest '[resolvedQuestName]'. -->
