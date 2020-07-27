@@ -7,13 +7,13 @@
   <Defoliator.description>動物に影響を与えることなく地域の植物を全滅させる戦域封鎖装置。\n\n惑星間戦争ではこれらの兵器は農地やジャングルに散布され、敵の食料やカバーを断ちます。それらは軌道降下するメカノイドの集団と関連性があります。</Defoliator.description>
   
   <!-- EN: gloomlight -->
-  <Gloomlight.label><!--TODO-->gloomlight</Gloomlight.label>
+  <Gloomlight.label>グルームライト</Gloomlight.label>
   <!-- EN: A self-powered mechanoid light. Gloomlights can be deconstructed to yield valuable resources, or used as lights - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
-  <Gloomlight.description><!--TODO-->A self-powered mechanoid light. Gloomlights can be deconstructed to yield valuable resources, or used as lights - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage.</Gloomlight.description>
+  <Gloomlight.description>自己発電型のメカノイドライトです。グルームライトは、有用な資源を回収するために解体したり、ライトとして使用したりできますが、ただしそれは、傷つけずに鹵獲できた場合のみに限られます。ユニットが大きなダメージを受けると、内部のマイクロ発電器が炎上し、資源を使い物にならなくします。</Gloomlight.description>
   
   <!-- EN: unstable power cell -->
   <UnstablePowerCell.label>変動性パワーコア</UnstablePowerCell.label>
   <!-- EN: A mechanoid power generation unit. The vanometric power core will run forever, extracting energy from quantum foam fluctuations.\n\nAn internal amplifier system makes it unstable. If damaged, the unit will generate a massive explosion.\n\nSome brave humans steal these from mechanoids for their own use as power plants or defensive bombs. However, an unintentional detonation can be devastating. -->
-  <UnstablePowerCell.description>メカノイドの発電ユニット。量子泡の変動を利用してエネルギーを精製し、半永久的に稼働するヴァノメトリックパワーコア。\n\n内部増幅システムのために不安定で損傷すると大爆発します。発電機や防衛用爆弾のために、これをメカノイドから盗もうと試みる勇敢な人類もいます。しかし、意図せざる爆発は壊滅的な状況をもたらします。</UnstablePowerCell.description>
+  <UnstablePowerCell.description>メカノイドの発電ユニットです。量子泡のゆらぎを利用してエネルギーを取り出し、半永久的に稼働するワノメトリック発電器です。\n\n内部増幅システムのために不安定で、損傷すると大爆発します。発電や防衛用爆弾のために、これをメカノイドから盗もうと試みる勇敢な人間もいます。しかし、意図しない爆発は壊滅的な状況をもたらします。</UnstablePowerCell.description>
   
 </LanguageData>

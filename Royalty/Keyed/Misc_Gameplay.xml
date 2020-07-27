@@ -3,7 +3,7 @@
 
   <!-- Royalty and throne -->
   <!-- EN: Satisfies title -->
-  <ThroneMaxSatisfiedTitle><!--TODO-->Satisfies title</ThroneMaxSatisfiedTitle>
+  <ThroneMaxSatisfiedTitle>釣り合う爵位</ThroneMaxSatisfiedTitle>
   <!-- EN: ({0} impressiveness) -->
   <ThroneRoomImpressivenessInfo>({0} 印象)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
@@ -23,7 +23,7 @@
   <!-- EN: A one-use super-dose of mechanites which trains a specific psycast.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific psycast ability, transmuting themselves into neural tissue as needed. -->
   <PsycastNeurotrainerDescription>一度だけ使用可能な特定の超能力を身につけられるメカナイトの超薬物。\n\n薬物は眼窩から投与します。脳に散布されると、メカナイトは必要に応じて神経組織に変形し、特定の超能力の知識を植え付けます。</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} psycast. -->
-  <AbilityNeurotrainerUsed>{USER_labelShort}はニューロトレーナーを用いて{1}の超能力を身に着けました。</AbilityNeurotrainerUsed>
+  <AbilityNeurotrainerUsed>{USER_labelShort}はサイトレーナーを用いて{1}の超能力を身に着けました。</AbilityNeurotrainerUsed>
   <!-- EN: Requires psylink -->
   <PsycastNeurotrainerNoPsylink>サイリンクが必要です</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
@@ -60,21 +60,21 @@
   <!-- EN: Focus effect impacted by -->
   <MeditationFocusImpacted>フォーカスエフェクトの効果</MeditationFocusImpacted>
   <!-- EN: {1} per nearby animus stone (max {0}) -->
-  <MeditationFocusPerAnimusStoneAbstract><!--TODO-->{1} per nearby animus stone (max {0})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStoneAbstract>近くのアニムスの秘石あたり{1} (最大 {0})</MeditationFocusPerAnimusStoneAbstract>
   <!-- EN: {2} per nearby animus stone ({0} / {1}) -->
-  <MeditationFocusPerAnimusStone><!--TODO-->{2} per nearby animus stone ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStone>近くのアニムスの秘石あたり{2} ({0} / {1})</MeditationFocusPerAnimusStone>
   <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
-  <MeditationFocusPerSculptureAbstract><!--TODO-->Max {1} per nearby sculpture depending on quality (max {0})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculptureAbstract>近くの品質に応じた芸術品あたり{1} (最大 {0})</MeditationFocusPerSculptureAbstract>
   <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
-  <MeditationFocusPerSculpture><!--TODO-->Max {2} per nearby sculpture depending on quality ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerSculpture>近くの品質に応じた芸術品あたり{2} ({0} / {1})</MeditationFocusPerSculpture>
   <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
-  <MeditationFocusPerGraveAbstract><!--TODO-->Per nearby grave {1} if empty, {2} for human corpse (up to {0})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGraveAbstract>近くの中身のない墓あたり{1}、ヒトの死体入りの場合は{2} (最大{0})</MeditationFocusPerGraveAbstract>
   <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
-  <MeditationFocusPerGrave><!--TODO-->Per nearby grave {2} if empty, {3} for human corpse ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerGrave>近くの中身のない墓あたり{2}、ヒトの死体入りの場合は{2} ({3} / {1})</MeditationFocusPerGrave>
   <!-- EN: {1} per nearby lit flame source (up to {0}) -->
-  <MeditationFocusPerFlameAbstract><!--TODO-->{1} per nearby lit flame source (up to {0})</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlameAbstract>近くの火のついた熱源あたり{1} (最大 {0})</MeditationFocusPerFlameAbstract>
   <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
-  <MeditationFocusPerFlame><!--TODO-->{2} per nearby lit flame source ({0} / {1})</MeditationFocusPerFlame>
+  <MeditationFocusPerFlame>近くの火のついた熱源あたり{2} ({0} / {1})</MeditationFocusPerFlame>
   <!-- EN: Psyfocus gain rate: {0}/d -->
   <PsyfocusPerDayOfMeditation>サイフォーカス上昇レート: {0}/日</PsyfocusPerDayOfMeditation>
   <!-- EN: Desired psyfocus -->
@@ -97,7 +97,7 @@
   <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています。</AbilityReadyText>
   
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <AbilitySpeechTooltip>玉座で演説を行います。{ORGANIZER_labelShort}は{ORGANIZER_possessive}の玉座に着き、聴衆として入植者を呼び集めます。成功すれば聴衆は発奮し、{ORGANIZER_labelShort}に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{ORGANIZER_labelShort}の社交スキルに依存します。</AbilitySpeechTooltip>
+  <AbilitySpeechTooltip>玉座で演説を行います。{ORGANIZER_labelShort}は{ORGANIZER_possessive}玉座に着き、聴衆として入植者を呼び集めます。成功すれば聴衆は発奮し、{ORGANIZER_labelShort}に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{ORGANIZER_labelShort}の社交スキルに依存します。</AbilitySpeechTooltip>
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>玉座が割り当てられていません。</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
@@ -114,7 +114,7 @@
   <AbilitySpeechStatInfo>{ORGANIZER_labelShort}の{1}状態</AbilitySpeechStatInfo>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
-  <TotalMeditationToday><!--TODO-->Total meditation today: {0} (progress multiplier {1})</TotalMeditationToday>
+  <TotalMeditationToday>本日の総瞑想量: {0} (進捗乗数 {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->
   <ProgressToNextSubplant>進捗: {0}</ProgressToNextSubplant>
   <!-- EN: Begin linking ritual -->
@@ -131,17 +131,18 @@
   <LetterTextLinkingRitualCompleted>{PAWN_labelShort}は{LINKABLE_labelShort}とのリンクの儀式を完了させました。\n\n{PAWN_pronoun}のサイリンクが進化し、新たな超能力が使えるようになりました。</LetterTextLinkingRitualCompleted>
 
   <!-- EN: Land shuttle here -->
-  <LandHere><!--TODO-->Land shuttle here</LandHere>
+  <LandHere>シャトルの場所を見る</LandHere>
   <!-- EN: Destination is out of range. -->
-  <MessageShuttleDestinationIsTooFar><!--TODO-->Destination is out of range.</MessageShuttleDestinationIsTooFar>
+  <MessageShuttleDestinationIsTooFar>目的地が範囲外です。</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Do bestowing ceremony -->
-  <BeginCeremony><!--TODO-->Do bestowing ceremony</BeginCeremony>
+  <BeginCeremony>授与式を授ける</BeginCeremony>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied><!--TODO-->The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>贈与者は、{PAWN_definite}の玉座が{TITLE}の爵位に見合っていない事に腹を立てています。授与式はキャンセルされました。</BestowingCeremonyThroneroomRequirementsNotSatisfied>
 
   <!-- EN: Not all required cargo is loaded yet! -->
-  <ShuttleRequiredItemsNotSatisfied><!--TODO-->Not all required cargo is loaded yet!</ShuttleRequiredItemsNotSatisfied>
+  <!--TODO--><!--仮翻訳: 積載物を積載するという言い回しに違和感があるので、できれば変更してください。"積載物"は恐らくヒト、家畜、アイテムを含むと思います。-->
+  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積載されていません！</ShuttleRequiredItemsNotSatisfied>
   <!-- UNUSED -->
   <ThroneTitleStature>爵位に相応: {0}</ThroneTitleStature>
   <ThronePrevTitleStature>前爵位に充足: {0}</ThronePrevTitleStature>

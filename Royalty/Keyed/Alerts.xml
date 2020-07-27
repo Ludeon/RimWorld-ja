@@ -23,7 +23,7 @@
   <UndignifiedThroneroomDesc>入植者の一人が玉座と爵位を保持していますが、玉座の間が爵位に相応の要件を満たしていません。</UndignifiedThroneroomDesc>
   
   <!-- EN: No acceptable food -->
-  <RoyalNoAcceptableFood>貧弱な食べ物</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFood>貧相な食べ物</RoyalNoAcceptableFood>
   <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
   <RoyalNoAcceptableFoodDesc>入植者の一人が特定の食事条件を有する爵位についていますが、この条件を満たす食事がありません。</RoyalNoAcceptableFoodDesc>
 
@@ -36,9 +36,9 @@
   <ThroneroomInvalidConfigurationDesc>玉座の配置が原因で使用できません:</ThroneroomInvalidConfigurationDesc>
   
   <!-- EN: Monument missing blueprints -->
-  <MonumentMarkerMissingBlueprints>モニュメントの設計図が無い</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprints>設計図の配置が不十分</MonumentMarkerMissingBlueprints>
   <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
-  <MonumentMarkerMissingBlueprintsDesc>全ての部品に設計図が配置されていないためモニュメントは完成しません。\n\nモニュメントマーカーから"設計図を配置"をクリックするか、手動で設計図を配置してください。</MonumentMarkerMissingBlueprintsDesc>
+  <MonumentMarkerMissingBlueprintsDesc>設計図を配置してないパーツが存在するため、モニュメントが完成しません。\n\nモニュメントマーカーから"設計図を配置"をクリックするか、手動で設計図を配置してください。</MonumentMarkerMissingBlueprintsDesc>
 
   <!-- EN: Beacon unusable -->
   <ShipLandingBeaconUnusable>ビーコン使用不可</ShipLandingBeaconUnusable>
@@ -56,18 +56,18 @@
   <UnusableMeditationFocusAlertDesc>これらの入植者は使用不可能なオブジェクトの側で瞑想しています。\n\n{0}\n\n瞑想のフォーカスタイプに応じて、個々人が異なるオブジェクトを用います。フォーカスタイプはバックストーリー、特性、爵位に応じて変わります。各人のフォーカスタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します。</UnusableMeditationFocusAlertDesc>
 
   <!-- EN: Permit choice ready -->
-  <PermitChoiceReadyAlert><!--TODO-->Permit choice ready</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlert>許可証を選べる</PermitChoiceReadyAlert>
   <!-- EN: {PAWN_nameDef} can choose a new permit. -->
-  <PermitChoiceReadyAlertDesc><!--TODO-->{PAWN_nameDef} can choose a new permit.</PermitChoiceReadyAlertDesc>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef}は新しい許可証を選べます。</PermitChoiceReadyAlertDesc>
   
   <!-- EN: Bestower waiting -->
-  <BestowerWaitingAlert><!--TODO-->Bestower waiting</BestowerWaitingAlert>
+  <BestowerWaitingAlert>贈与者が待機中</BestowerWaitingAlert>
   <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
-  <BestowerWaitingAlertDesc><!--TODO-->A bestower is waiting to begin the bestowing ceremony.</BestowerWaitingAlertDesc>
+  <BestowerWaitingAlertDesc>贈与者が授与式の開始を待っています。</BestowerWaitingAlertDesc>
 
   <!-- EN: Rescue shuttle arriving -->
-  <RescueShuttleArriving><!--TODO-->Rescue shuttle arriving</RescueShuttleArriving>
+  <RescueShuttleArriving>救助用シャトルの到着</RescueShuttleArriving>
   <!-- EN: A rescue shuttle will arrive in {0} hours to collect the crash-landed {1}. Protect them until it arrives. -->
-  <RescueShuttleArrivingDesc><!--TODO-->A rescue shuttle will arrive in {0} hours to collect the crash-landed {1}. Protect them until it arrives.</RescueShuttleArrivingDesc>
+  <RescueShuttleArrivingDesc>緊急着陸した{1}を回収するために、救助用シャトルが{0}時間後に到着します。到着までの間、対象者を守ってください。</RescueShuttleArrivingDesc>
 
 </LanguageData>

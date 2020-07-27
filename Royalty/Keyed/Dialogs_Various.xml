@@ -51,9 +51,9 @@
 
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <BladelinkEquipWarning>一度でも生体認証を行うと、武器のAIは他者による使用を拒否します。</BladelinkEquipWarning>
+  <BladelinkEquipWarning>一度でも絆を結ぶと、武器に宿るペルソナは他者に使用される事を拒否します。</BladelinkEquipWarning>
   <!-- EN: The weapon has the following traits -->
-  <BladelinkEquipWarningTraits><!--TODO-->The weapon has the following traits</BladelinkEquipWarningTraits>
+  <BladelinkEquipWarningTraits>この武器には以下の特性・特徴があります</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
   <RoyalWeaponEquipConfirmation>この武器を装備させてよろしいですか？</RoyalWeaponEquipConfirmation>
   
@@ -75,6 +75,6 @@
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
   <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\nそれでも超能力を獲得しますか？</PsylinkTooLowForGainAbility>
   <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
-  <SendShuttleWithNoContents><!--TODO-->This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways?</SendShuttleWithNoContents>
+  <SendShuttleWithNoContents>このシャトルには何も積載されていません。これを別の場所に送ると、再び使う事が出来なくなります。\n\nそれでも送りますか？</SendShuttleWithNoContents>
 
 </LanguageData>

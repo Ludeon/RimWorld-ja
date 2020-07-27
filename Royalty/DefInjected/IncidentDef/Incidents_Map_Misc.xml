@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: abasia join -->
-  <WandererJoinAbasia.label><!--TODO-->abasia join</WandererJoinAbasia.label>
+  <WandererJoinAbasia.label>歩行不能症者の参加</WandererJoinAbasia.label>
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <WandererJoinAbasia.letterLabel><!--TODO-->Wanderer joins: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
+  <WandererJoinAbasia.letterLabel>放浪者が加わった: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} came to join you, but has collapsed nearby due to {HEDIFF_label}.\n\n[PAWN_pronoun] is willing to contribute once {PAWN_pronoun} has recovered, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery or leave {PAWN_objective} to die. However, your other colonists may find this disturbing. -->
-  <WandererJoinAbasia.letterText><!--TODO-->A {PAWN_title} named {PAWN_nameDef} came to join you, but has collapsed nearby due to {HEDIFF_label}.\n\n[PAWN_pronoun] is willing to contribute once {PAWN_pronoun} has recovered, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery or leave {PAWN_objective} to die. However, your other colonists may find this disturbing.</WandererJoinAbasia.letterText>
+  <WandererJoinAbasia.letterText>{PAWN_nameDef}という名前の{PAWN_title}が加わりましたが、{HEDIFF_label}が原因で、付近に倒れています。\n\n{PAWN_pronoun}が回復した場合、{PAWN_pronoun}は喜んでコロニーに貢献しますが、自発的に去ることはありません。もし{PAWN_nameDef}が必要なければ、{PAWN_objective}追放したり、奴隷に売ったり、死なせたりすることが出来ます。しかし、他の入植者がこの不穏な行為を発見するかもしれません。</WandererJoinAbasia.letterText>
   
 </LanguageData>

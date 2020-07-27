@@ -37,9 +37,9 @@
   <ChaosSkip.description>標的を現在地周囲のどこかにテレポートさせます。</ChaosSkip.description>
   
   <!-- EN: chunk skip -->
-  <Chunkskip.label><!--TODO-->chunk skip</Chunkskip.label>
+  <Chunkskip.label>ブロックスキップ</Chunkskip.label>
   <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
-  <Chunkskip.description><!--TODO-->Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.</Chunkskip.description>
+  <Chunkskip.description>岩や鉄くずの塊を5つをスキップして、ターゲットポイントの近くにばらまきます。戦闘中の操作時に、カバーを作るために役立ちます。</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
   <EntropyDump.label>ニューラルヒートダンプ</EntropyDump.label>
@@ -47,9 +47,10 @@
   <EntropyDump.description>ニューラルヒートを即座に他の誰かへ転嫁します。副作用として標的は、直接ダメージはないものの、衰弱を招く昏睡状態に数日間陥らせます。サイキック的な侵入を積極的に受け入れなければならないため、意識のある味方だけを標的にできます。</EntropyDump.description>
   
   <!-- EN: farskip -->
-  <Farskip.label><!--TODO-->farskip</Farskip.label>
+  <Farskip.label>ファースキップ</Farskip.label>
   <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
-  <Farskip.description><!--TODO-->Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map.</Farskip.description>
+  <!--TODO--><!--仮翻訳: navigation beaconは恐らく固有名詞ではありません。実態が分からないため、ゲーム内で何を使用する味方が必要なのか確認し、書き換えてください。-->
+  <Farskip.description>超能力者を、近くに立っている人物と共に、離れた場所にいる味方の下にスキップします。惑星全体に人を送ることができますが、対象地点にナビゲーションビーコンを使用する味方がいる場合のみ機能します。スキップされた人は、常に対象マップ上のランダムな味方の近くに出現します。</Farskip.description>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>フラッシュストーム</Flashstorm.label>
@@ -77,11 +78,11 @@
   <MassChaosSkip.description>標的地点付近の全員をランダムにテレポートさせます。</MassChaosSkip.description>
   
   <!-- EN: neuroquake -->
-  <Neuroquake.label><!--TODO-->neuroquake</Neuroquake.label>
+  <Neuroquake.label>ニューロクェイク</Neuroquake.label>
   <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
-  <Neuroquake.description><!--TODO-->Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.</Neuroquake.description>
+  <Neuroquake.description>精神領域の裂け目を見つけて押し広げ、大量のサイキックエネルギーを放出します。発動者のそばに形成される安全圏の外にいる、マップ上の全ての生物が激しい狂気に駆られます。これを発動するには3時間の瞑想を必要とし、さらにその後、発動者は3日間、精神的昏睡状態に入ります。不穏なニューロクェイクの共鳴は、数キロメートルの範囲にも渡って全ての人間に苦痛を与え、全ての派閥との間に外交上の結果が起きます。</Neuroquake.description>
   <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
-  <Neuroquake.confirmationDialogText><!--TODO-->If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake?</Neuroquake.confirmationDialogText>
+  <Neuroquake.confirmationDialogText>ニューロクェイクを使った場合、この地域にいる全員がニューロクェイクの共鳴を感じ、敵意のない派閥からの友好度も失うでしょう。\n\nニューロクェイクを発動するには3時間かかり、中断する事はできません。また、発動者は数日間、精神的昏睡状態に陥ります。\n\n発動者の周囲に形成される小さな円の中にいる生物を除き、マップ上の全ての生物が影響を受けます。\n\n本当にニューロクェイクを発動しますか？</Neuroquake.confirmationDialogText>
   
   <!-- EN: painblock -->
   <Painblock.label>痛み止め</Painblock.label>
@@ -94,14 +95,14 @@
   <Skip.description>標的を現在地周囲の任意の地点にテレポートさせます。</Skip.description>
   
   <!-- EN: smokepop -->
-  <Smokepop.label>煙幕</Smokepop.label>
+  <Smokepop.label>スモークポップ</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
-  <Smokepop.description>地面の誇りを舞い上がらせ煙幕を形成します。射撃精度を低下させ、タレットが完全にロックオンされるのを防ぎます。</Smokepop.description>
+  <Smokepop.description>砂煙を地面から舞い上がらせ、煙幕を形成します。射撃精度を低下させ、タレットに完全にロックオンされるのを防ぎます。</Smokepop.description>
   
   <!-- EN: solar pinhole -->
-  <SolarPinhole.label><!--TODO-->solar pinhole</SolarPinhole.label>
+  <SolarPinhole.label>ソーラーピンホール</SolarPinhole.label>
   <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. -->
-  <SolarPinhole.description><!--TODO-->Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes.</SolarPinhole.description>
+  <SolarPinhole.description>近くの惑星の中心核とリンクされた、超小型のスキップゲートを生成します。時空に開けられた極小の穴から太陽光物質が漏れ、穴が閉じるまで周囲のエリアを照らして暖め続けます。</SolarPinhole.description>
   
   <!-- EN: throne speech -->
   <Speech.label>玉座の演説</Speech.label>
@@ -121,36 +122,38 @@
   <!-- EN: wallraise -->
   <Wallraise.label>防壁</Wallraise.label>
   <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. -->
-  <Wallraise.description>地下から瓦礫や土を盛り上がらせ、一時的な防壁を形成します。O</Wallraise.description>
+  <Wallraise.description>地下から瓦礫や土を盛り上がらせ、一時的な防壁を形成します。</Wallraise.description>
   
   <!-- EN: waterskip -->
   <Waterskip.label>ウォータースキップ</Waterskip.label>
   <!-- EN: Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
-  <Waterskip.description>対象地域を水浸しにして消化します。アルコテックテクノロジーを用いたスキップによって、水を遠方ないし地下から呼び出します。</Waterskip.description>
+  <Waterskip.description>対象地域を水浸しにして消火します。アルコテックテクノロジーを用いたスキップによって、水を遠方ないし地下から呼び出します。</Waterskip.description>
   
   <!-- EN: word of inspiration -->
-  <WordOfInspiration.label><!--TODO-->word of inspiration</WordOfInspiration.label>
+  <WordOfInspiration.label>激励の言葉</WordOfInspiration.label>
   <!-- EN: Speak words encouraging creativity while psychically hypercharging the target’s mind with new ideas. The target will experience a random inspiration appropriate to them. -->
-  <WordOfInspiration.description><!--TODO-->Speak words encouraging creativity while psychically hypercharging the target’s mind with new ideas. The target will experience a random inspiration appropriate to them.</WordOfInspiration.description>
+  <WordOfInspiration.description>創造性を激励する言葉をかけると同時に、超能力でターゲットの心に新しいアイデアを限界まで満たします。ターゲットはそのアイデアによって、ランダムに奮い立ちます。</WordOfInspiration.description>
   
   <!-- EN: word of joy -->
-  <WordOfJoy.label><!--TODO-->word of joy</WordOfJoy.label>
+  <WordOfJoy.label>喜びの言葉</WordOfJoy.label>
   <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
-  <WordOfJoy.description><!--TODO-->Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.</WordOfJoy.description>
+  <!--TODO--><!--仮翻訳: 一文目、"loop"の文法的役割が分からなかったので、取りあえず"loop in his mind"と見て「対象者の心の周囲」と一時的に訳しています。間違っていたら再翻訳して下さい。-->
+  <WordOfJoy.description>幸せで落ち着いた言葉をかけると同時に、超能力的な暗示を使って対象者の心の周囲に幸福の綿毛、ジョイファズを植え付けます。ジョイファズは、ターゲットの心情を改善するために、不安な考えや感覚を抑えます。ただし副作用として、意識が低下し、感覚や意思決定能力が鈍くなります。</WordOfJoy.description>
   
   <!-- EN: word of love -->
-  <WordOfLove.label><!--TODO-->word of love</WordOfLove.label>
+  <WordOfLove.label>恋愛の言葉</WordOfLove.label>
   <!-- EN: Speak about someone’s romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This psycast can be used to connect two other people, induce love for the caster, or even induce love in one’s self. -->
-  <WordOfLove.description><!--TODO-->Speak about someone’s romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This psycast can be used to connect two other people, induce love for the caster, or even induce love in one’s self.</WordOfLove.description>
+  <!--TODO--><!--仮翻訳: 三文目、"This greatly increases opinion"が分からなかったので、opinionを友好度と一時的に訳しています。-->
+  <WordOfLove.description>誰かのロマンチックな長所について話すと同時に、超能力的な暗示を使って傾聴者に恋愛的な欲求を植え付けます。その後数日間、傾聴者はその人物に対して、超能力的に引き起こされたロマンチックな魅力を感じます。これにより、友好度が大きく増加し、機会のあるときに恋愛的な進展や結婚の提案を試みる可能性が、大幅に上がります。この超能力は、二人を結ぶ、超能力者への愛を誘発する、または自分の愛を誘発するために使用できます。</WordOfLove.description>
   
   <!-- EN: word of serenity -->
-  <WordOfSerenity.label><!--TODO-->word of serenity</WordOfSerenity.label>
+  <WordOfSerenity.label>平静の言葉</WordOfSerenity.label>
   <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
-  <WordOfSerenity.description><!--TODO-->Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.</WordOfSerenity.description>
+  <WordOfSerenity.description>人間や動物のメンタルブレイクを終わらせるために、落ち着かせる言葉と超能力的な暗示を使います。ターゲットは短い超能力的な眠りに落ちます。消費するサイフォーカスコストは、ターゲットのメンタルブレイクの強さに依存します。</WordOfSerenity.description>
   
   <!-- EN: word of trust -->
-  <WordOfTrust.label><!--TODO-->word of trust</WordOfTrust.label>
+  <WordOfTrust.label>信頼の言葉</WordOfTrust.label>
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner’s resistance, but cannot recruit him. -->
-  <WordOfTrust.description><!--TODO-->Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner’s resistance, but cannot recruit him.</WordOfTrust.description>
+  <WordOfTrust.description>囚人に言葉をかけると同時に、超能力的な暗示を使って勧誘への抵抗を減らします。この超能力は、囚人の抵抗を減らす事のみが可能で、囚人を勧誘する事はできません。</WordOfTrust.description>
   
 </LanguageData>

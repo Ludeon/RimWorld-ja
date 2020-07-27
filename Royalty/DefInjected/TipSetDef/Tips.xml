@@ -5,8 +5,8 @@
   <RoyaltyTips.TitleMilitaryAid>一部の爵位を有するものは軍事援助を求めることを許されます。これによって困難な瞬間を乗り切れるでしょう。</RoyaltyTips.TitleMilitaryAid>
   <!-- EN: Nobles from the Empire will demand all the privileges of their title. Your own titled colonists will be more flexible, unless they are greedy or jealous. -->
   <RoyaltyTips.NoblesDemandPrivileges>帝国の貴族は爵位に相応しい特別な待遇を必要とします。爵位持ちの入植者の場合は、欲深や嫉妬の個性を持たない限りもう少し柔軟に行動できます。</RoyaltyTips.NoblesDemandPrivileges>
-  <!-- EN: Prestige armor and eltex apparel will also satisfy the apparel requirements of royal titles. --><!--TODO--><!--固有名詞: Prestige armor-->
-  <RoyaltyTips.RoyalArmor>Prestige armor やエルテックス衣服は、爵位の衣装条件を満たします。</RoyaltyTips.RoyalArmor>
+  <!-- EN: Prestige armor and eltex apparel will also satisfy the apparel requirements of royal titles. -->
+  <RoyaltyTips.RoyalArmor>特急アーマーやエルテックス衣服は、爵位の必要とする衣装条件を満たします。</RoyaltyTips.RoyalArmor>
   <!-- EN: If a title holder dies, their title goes to their chosen heir. -->
   <RoyaltyTips.TitleInheritance>爵位の所有者が死亡した場合、継承者がその地位を受け継ぎます。</RoyaltyTips.TitleInheritance>
   <!-- EN: You can change the heir of a title holder through the comms console. However, this requires completing a ritual. -->
@@ -33,8 +33,8 @@
   <RoyaltyTips.MechClusterPowercell>メカクラスターと戦うときは、エネルギーリンクを射撃してみてください。それらは爆発し周囲の生物や構造物にダメージを与えます。</RoyaltyTips.MechClusterPowercell>
   <!-- EN: Some mech clusters remain dormant until disturbed. Use that time to prepare your attack. -->
   <RoyaltyTips.MechClusterDormant>一部のメカクラスターは刺激を受けるまで休眠状態にあります。その時間を利用して攻撃準備を整えましょう。</RoyaltyTips.MechClusterDormant>
-  <!-- EN: The Imperial royal tribute collector arrives twice per year, and accepts prisoners and gold in exchange for honor. --><!--TODO--><!--固有名詞: royal favor(王の寵愛) -> honor-->
-  <RoyaltyTips.RoyalTributeCollector>帝国の徴税官は年に2回来訪し、王の寵愛と引き換えに囚人と金を受け取ります。</RoyaltyTips.RoyalTributeCollector>
+  <!-- EN: The Imperial royal tribute collector arrives twice per year, and accepts prisoners and gold in exchange for honor. -->
+  <RoyaltyTips.RoyalTributeCollector>帝国の徴税官は年に2回来訪し、囚人やゴールドと引き換えに名誉を与えます。</RoyaltyTips.RoyalTributeCollector>
   <!-- EN: You can safely walk right past a dormant mech cluster, as long as you don't attack it or trigger a proximity activator. -->
   <RoyaltyTips.MechClusterDormantTrigger>近接式起動装置に攻撃、ないし照準を向けない限り、休眠中のメカノイドの側を安全に通り抜けられます。</RoyaltyTips.MechClusterDormantTrigger>
   <!-- EN: The skip psycast works on self, allies, enemies, and even items. The tactical possibilities are endless. -->

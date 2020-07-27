@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN: broadshield -->
-  <Broadshield.label><!--TODO-->broadshield</Broadshield.label>
+  <Broadshield.label>広範囲シールド</Broadshield.label>
   <!-- EN: A temporary bullet shield projector. Bullets can go out, but not in. It burns out after a few seconds of use. -->
-  <Broadshield.description><!--TODO-->A temporary bullet shield projector. Bullets can go out, but not in. It burns out after a few seconds of use.</Broadshield.description>
+  <Broadshield.description>一時的なバレットシールド投射器です。弾丸は内からは通しますが、外からは通しません。数秒使用すると焼損します。</Broadshield.description>
   <!-- EN: Burnout in -->
-  <Broadshield.comps.CompDestroyAfterDelay.countdownLabel><!--TODO-->Burnout in</Broadshield.comps.CompDestroyAfterDelay.countdownLabel>
+  <Broadshield.comps.CompDestroyAfterDelay.countdownLabel>焼損まで残り</Broadshield.comps.CompDestroyAfterDelay.countdownLabel>
   
   <!-- EN: shuttle -->
   <Shuttle.label>シャトル</Shuttle.label>
   <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <Shuttle.description>地表と軌道間、ないしは惑星系の衛星間の輸送を行うために設計されたスペーサー技術のシャトル。</Shuttle.description>
+  <Shuttle.description>地表と軌道間や、惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです。</Shuttle.description>
   
   <!-- EN: crashed shuttle -->
-  <ShuttleCrashed.label><!--TODO-->crashed shuttle</ShuttleCrashed.label>
+  <ShuttleCrashed.label>損傷したシャトル</ShuttleCrashed.label>
   <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <ShuttleCrashed.description><!--TODO-->A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system.</ShuttleCrashed.description>
+  <ShuttleCrashed.description>地表と軌道間や、惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです。</ShuttleCrashed.description>
   
 </LanguageData>

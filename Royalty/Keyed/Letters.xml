@@ -8,7 +8,7 @@
   <LetterLabelGainedRoyalTitle>{TITLE} の爵位を獲得した: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: Permit points awarded: {0}. -->
-  <PermitPointsAwarded><!--TODO-->Permit points awarded: {0}.</PermitPointsAwarded>
+  <PermitPointsAwarded>与えられた許可証ポイント: {0}.</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
   <LetterRoyalTitleApparelQualityRequirement>この爵位には{1}以上の品質の衣服を着用させる必要があります。</LetterRoyalTitleApparelQualityRequirement>
@@ -18,7 +18,7 @@
   <LetterRoyalTitleExpectation>{PAWN_possessive}の期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、下等な食物を退け、時に布告を発するでしょう\n</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、下等な食べ物を退け、時に布告を発するでしょう。</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort}が{FACTION_name}から{TITLE}の爵位を授かりました！</LetterGainedRoyalTitle>
@@ -64,7 +64,7 @@
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
   <LetterRoyalTitleRewardGranted>{PAWN_pronoun}はドロップポッドで以下のアイテムを受け取ります:{1}</LetterRoyalTitleRewardGranted>
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
-  <PeaceTalksRoyalFavorGain>{PAWN_labelShort}に対する{FACTION_name}からの{FACTION_royalFavorLabel}が{1}上昇しました</PeaceTalksRoyalFavorGain>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort}に対する{FACTION_name}からの{FACTION_royalFavorLabel}が{1}上昇しました。</PeaceTalksRoyalFavorGain>
 
   <!-- Royal heritage-->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
@@ -103,7 +103,7 @@
 
   <!-- Throne Speech -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort}は{ORGANIZER_possessive}の演説を終えた。</LetterFinishedSpeech>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort}は{ORGANIZER_possessive}の演説を終えました。</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
   <LetterTerribleSpeech>実にひどいものでした。言葉はつかえるし、下手なジョークと気の滅入る話ばかりでした。</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
@@ -111,11 +111,11 @@
   <!-- EN: It was encouraging and well-delivered. -->
   <LetterEncouragingSpeech>勇気づけられたし、胸にしっかり届きました。</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>意志と気迫に満ちていてとても感動的だった。</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>意志と気迫に満ちていてとても感動的でした。</LetterInspirationalSpeech>
   <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners><!--TODO-->The following people were particularly moved by the speech and are now inspired:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiredListeners>以下の人々は特にスピーチに感動し、そして今、奮い立たされました:</LetterSpeechInspiredListeners>
   <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration><!--TODO-->Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration!</LetterSpeechInspiration>
+  <LetterSpeechInspiration>{SPEAKER_nameIndef}の素晴らしいスピーチのおかげで、{PAWN_nameIndef}は奮い立ちました！</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
   <LetterSpeechInterrupted>{0}が完了した段階で演説が中断されたため、それほど効果的ではありませんでした。</LetterSpeechInterrupted>
   <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
@@ -149,28 +149,29 @@
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psycasts of that higher level, but {USER_pronoun} needs to learn them first. -->
   <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}が新たなレベルのサイリンクを会得しました！{USER_pronoun}は高位の超能力を用いることができますが、{USER_pronoun}はまずそれを学ばなければなりません。</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psycasts: {2} -->
-  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを会得したため、{USER_labelShort}は自動的に以下の超能力を学びました: {2}。</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを会得したため、{USER_labelShort}は自動的に以下の超能力を学びました: {2}</LetterPsylinkLevelGained_PsycastLearned>
   
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterPsychicInspiration><!--TODO-->Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration!</LetterPsychicInspiration>
+  <LetterPsychicInspiration>{CASTER_nameIndef}の精神的な暗示のおかげで、{PAWN_nameIndef}は奮い立ちました！</LetterPsychicInspiration>
 
   <!-- Join Offer -->
   <!-- EN: Join offer: {PAWN_nameDef} -->
-  <LetterJoinOfferLabel><!--TODO-->Join offer: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <LetterJoinOfferLabel>参加の申し出: {PAWN_nameDef}</LetterJoinOfferLabel>
   <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
-  <LetterJoinOfferTitle><!--TODO-->{PAWN_nameDef} wishes to join your faction.</LetterJoinOfferTitle>
+  <LetterJoinOfferTitle>{PAWN_nameDef}があなたの派閥に加わる事を望んでいます。</LetterJoinOfferTitle>
   <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
-  <LetterJoinOfferText><!--TODO-->{PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently.</LetterJoinOfferText>
+  <LetterJoinOfferText>{PAWN_nameDef}は、自分が{MAP_definite}で幸せになれると信じています。{PAWN_pronoun}はこのコロニーに、永久に加わりたいと望んでいます。</LetterJoinOfferText>
   <!-- EN: Accept -->
-  <LetterJoinOfferAccept><!--TODO-->Accept</LetterJoinOfferAccept>
+  <LetterJoinOfferAccept>受諾</LetterJoinOfferAccept>
 
   <!-- EN: Bestowing ceremony expired -->
-  <LetterLabelBestowingCeremonyExpired><!--TODO-->Bestowing ceremony expired</LetterLabelBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyExpired>授与式は終了しました</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
-  <LetterTextBestowingCeremonyExpired><!--TODO-->{TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled.</LetterTextBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite}が授与式に出席しませんでした。授与式はキャンセルされました。</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: Who should be credited with {0} for fulfilling the trade request? -->
-  <LetterTextHonorAward><!--TODO-->Who should be credited with {0} for fulfilling the trade request?</LetterTextHonorAward>
+  <!--TODO--><!--仮翻訳: このメッセージの出現場所を要確認-->
+  <LetterTextHonorAward>取引要求を満たすために、誰が{0}と共に信用されるべきですか？</LetterTextHonorAward>
 
 </LanguageData>
