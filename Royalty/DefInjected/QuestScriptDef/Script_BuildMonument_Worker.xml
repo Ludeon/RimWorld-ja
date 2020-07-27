@@ -18,13 +18,13 @@
   <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow. -->
   <BuildMonumentWorker.MessageMonumentViolated.slateRef>クエスト'[resolvedQuestName]'のためのモニュメントが違反状態です。後難が生じるでしょう。</BuildMonumentWorker.MessageMonumentViolated.slateRef>
   <!-- EN: Protect the monument for {0} -->
-  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>{0}のためにモニュメントを守る</<BuildMonumentWorker.ProtectMonumentForDays.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>{0}のためにモニュメントを守る</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
   <!-- EN: Protect the monument until {0} -->
   <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>{0}までモニュメントを守る</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
   <!-- EN: Protect for {0} -->
   <BuildMonumentWorker.ProtectMonument.slateRef>{0}を守る</BuildMonumentWorker.ProtectMonument.slateRef>
   <!-- EN: New monument marker arrived -->
-  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>新しいモニュメントのマーカーが到着しました。</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>新しいモニュメントのマーカーが到着しました</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
   <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>モニュメントのマーカーが破壊されたため、新たに送られてきます。</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
   <!-- EN: Monument time expired -->

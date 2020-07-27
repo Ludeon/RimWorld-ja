@@ -18,9 +18,9 @@
   <!-- EN: {BASELABEL}: Loyalty squad -->
   <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>{BASELABEL}:忠誠隊</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
   <!-- EN: {BASETEXT}\n\nThis is the loyalty squad that was hunting [../asker_nameFull].\n               -->
-  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>{BASETEXT}\n\n[../asker_nameFull]を追跡中の忠誠隊です。\n</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>{BASETEXT}\n\n[../asker_nameFull]を追跡中の忠誠隊です。\n              </Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <Intro_Deserter.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.label.slateRef>
+  <Intro_Deserter.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.slateRef>
   <!-- EN: The key imperial outpost, containing items needed for secret psychic powers, has packed up and moved on. -->
   <Intro_Deserter.LetterTextQuestExpired.slateRef>秘密の超能力の開発に必要なアイテムを含む物資をまとめて、帝国の重要な前哨基地は移動しました。</Intro_Deserter.LetterTextQuestExpired.slateRef>
   

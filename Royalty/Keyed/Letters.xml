@@ -170,8 +170,11 @@
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
   <LetterTextBestowingCeremonyExpired>{TARGET_definite}が授与式に出席しませんでした。授与式はキャンセルされました。</LetterTextBestowingCeremonyExpired>
 
-  <!-- EN: Who should be credited with {0} for fulfilling the trade request? -->
-  <!--TODO--><!--仮翻訳: このメッセージの出現場所を要確認-->
-  <LetterTextHonorAward>取引要求を満たすために、誰が{0}と共に信用されるべきですか？</LetterTextHonorAward>
+  <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
+  <!--TODO--><!--仮翻訳: {0}に代入される文字列が分からないため、実際に確認して、それに合わせて書き換えて下さい。-->
+  <LetterTextHonorAward_BanditCamp>無法集団の野営地を倒した功績として、誰が{0}を受けますか？</LetterTextHonorAward_BanditCamp>
+
+  <!-- UNUSED -->
+  <LetterTextHonorAward>取引要求を満たした功績として、誰が{0}を受けるべきですか？</LetterTextHonorAward>
 
 </LanguageData>

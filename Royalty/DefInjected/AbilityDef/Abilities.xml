@@ -79,7 +79,7 @@
   
   <!-- EN: neuroquake -->
   <Neuroquake.label>ニューロクェイク</Neuroquake.label>
-  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of a safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
   <Neuroquake.description>精神領域の裂け目を見つけて押し広げ、大量のサイキックエネルギーを放出します。発動者のそばに形成される安全圏の外にいる、マップ上の全ての生物が激しい狂気に駆られます。これを発動するには3時間の瞑想を必要とし、さらにその後、発動者は3日間、精神的昏睡状態に入ります。不穏なニューロクェイクの共鳴は、数キロメートルの範囲にも渡って全ての人間に苦痛を与え、全ての派閥との間に外交上の結果が起きます。</Neuroquake.description>
   <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
   <Neuroquake.confirmationDialogText>ニューロクェイクを使った場合、この地域にいる全員がニューロクェイクの共鳴を感じ、敵意のない派閥からの友好度も失うでしょう。\n\nニューロクェイクを発動するには3時間かかり、中断する事はできません。また、発動者は数日間、精神的昏睡状態に陥ります。\n\n発動者の周囲に形成される小さな円の中にいる生物を除き、マップ上の全ての生物が影響を受けます。\n\n本当にニューロクェイクを発動しますか？</Neuroquake.confirmationDialogText>
@@ -131,7 +131,7 @@
   
   <!-- EN: word of inspiration -->
   <WordOfInspiration.label>激励の言葉</WordOfInspiration.label>
-  <!-- EN: Speak words encouraging creativity while psychically hypercharging the target’s mind with new ideas. The target will experience a random inspiration appropriate to them. -->
+  <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
   <WordOfInspiration.description>創造性を激励する言葉をかけると同時に、超能力でターゲットの心に新しいアイデアを限界まで満たします。ターゲットはそのアイデアによって、ランダムに奮い立ちます。</WordOfInspiration.description>
   
   <!-- EN: word of joy -->
@@ -142,7 +142,7 @@
   
   <!-- EN: word of love -->
   <WordOfLove.label>恋愛の言葉</WordOfLove.label>
-  <!-- EN: Speak about someone’s romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This psycast can be used to connect two other people, induce love for the caster, or even induce love in one’s self. -->
+  <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This psycast can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
   <!--TODO--><!--仮翻訳: 三文目、"This greatly increases opinion"が分からなかったので、opinionを友好度と一時的に訳しています。-->
   <WordOfLove.description>誰かのロマンチックな長所について話すと同時に、超能力的な暗示を使って傾聴者に恋愛的な欲求を植え付けます。その後数日間、傾聴者はその人物に対して、超能力的に引き起こされたロマンチックな魅力を感じます。これにより、友好度が大きく増加し、機会のあるときに恋愛的な進展や結婚の提案を試みる可能性が、大幅に上がります。この超能力は、二人を結ぶ、超能力者への愛を誘発する、または自分の愛を誘発するために使用できます。</WordOfLove.description>
   
@@ -153,7 +153,7 @@
   
   <!-- EN: word of trust -->
   <WordOfTrust.label>信頼の言葉</WordOfTrust.label>
-  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner’s resistance, but cannot recruit him. -->
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him. -->
   <WordOfTrust.description>囚人に言葉をかけると同時に、超能力的な暗示を使って勧誘への抵抗を減らします。この超能力は、囚人の抵抗を減らす事のみが可能で、囚人を勧誘する事はできません。</WordOfTrust.description>
   
 </LanguageData>

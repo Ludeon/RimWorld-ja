@@ -141,8 +141,7 @@
   <BestowingCeremonyThroneroomRequirementsNotSatisfied>贈与者は、{PAWN_definite}の玉座が{TITLE}の爵位に見合っていない事に腹を立てています。授与式はキャンセルされました。</BestowingCeremonyThroneroomRequirementsNotSatisfied>
 
   <!-- EN: Not all required cargo is loaded yet! -->
-  <!--TODO--><!--仮翻訳: 積載物を積載するという言い回しに違和感があるので、できれば変更してください。"積載物"は恐らくヒト、家畜、アイテムを含むと思います。-->
-  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積載されていません！</ShuttleRequiredItemsNotSatisfied>
+  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積まれてされていません！</ShuttleRequiredItemsNotSatisfied>
   <!-- UNUSED -->
   <ThroneTitleStature>爵位に相応: {0}</ThroneTitleStature>
   <ThronePrevTitleStature>前爵位に充足: {0}</ThronePrevTitleStature>

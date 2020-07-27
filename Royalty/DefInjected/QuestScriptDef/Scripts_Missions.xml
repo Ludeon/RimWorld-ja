@@ -2,13 +2,12 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->Pirates have set up an outpost and are harassing caravans of [asker_faction_name]. [asker_nameDef] is planning an aerial assault on the outpost. [asker_pronoun] wants you to provide [soldiers] for the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTicks_duration].</li>
+    <li>questDescription->[enemiesLabel] have set up a camp and are harassing caravans of [asker_faction_name]. [asker_nameDef] is planning an aerial assault on the camp, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [soldiers] to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTicks_duration].</li>
     <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldiers</li>
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
   -->
-  <!--TODO--><!--仮翻訳: "and take them home afterward." 「その後自分たちの拠点に連れて帰ります。」と訳しましたが、戦闘員が依頼主の所有物になるような文に見えます。翻訳の正確性か、実情と合っているかを確認してください。-->
   <Mission_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->宙族が前哨基地を設置し、[asker_faction_name]のキャラバンを苦しめています。[asker_nameDef]は、前哨基地へ空中から強襲を仕掛ける事を計画しています。[asker_pronoun]は攻撃のために、[soldiers]の提供を求めています。\n\n[asker_pronoun]はシャトルを送って戦闘員を回収し、攻撃地点まで連れて行き、その後自分たちの拠点に連れて帰ります。\n\n攻撃が開始したら、[timeoutTicks_duration]以内に全ての敵とタレットを倒す必要があります。</li>
+    <li>questDescription->[enemiesLabel]が野営地を設置し、[asker_faction_name]のキャラバンを苦しめています。[asker_nameDef]は、[enemiesCount]人の[enemiesLabel]に守られた野営地へ空中から強襲を仕掛ける事を計画しています。[asker_pronoun]は攻撃を行うために、[soldiers]の提供を求めています。\n\n[asker_pronoun]はシャトルを送って兵士を回収し、攻撃地点まで連れて行き、その後あなたの拠点に連れて帰ります。兵士はその途中で食糧を供給されます。\n\n攻撃が開始したら、[timeoutTicks_duration]以内に全ての敵とタレットを倒す必要があります。</li>
     <li>soldiers(requiredPawnCount>1)->[requiredPawnCount]人の兵士</li>
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount]人の兵士</li>
   </Mission_BanditCamp.questDescriptionRules.rulesStrings>
