@@ -22,7 +22,7 @@
   <!-- EN: Laborer died: {SUBJECT_definite} -->
   <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>労働者が死亡: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
-  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>[permitFaction_name]から送られた労働者が死亡しました。[permitFaction_name]との友好度が、[goodwillPenaltyPawn]によって下がりました。</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>[permitFaction_name]から送られた労働者が死亡しました。[permitFaction_name]との友好値が[goodwillPenaltyPawn]減少しました。</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   
   <!-- EN:
     <li>questName->Permit Shuttle</li>

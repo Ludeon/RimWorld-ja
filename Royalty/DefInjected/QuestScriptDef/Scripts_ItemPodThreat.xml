@@ -32,12 +32,13 @@
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is having trouble landing near [map_definite] due to repeated infestations. [asker_pronoun] wants to draw the bugs to you to be dealt with. This will provoke (*Threat)an infestation of [hivesCount] hives(/Threat).\n\n[helpersParagraph]</li>
     <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->The infestation was drawn to you by [asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name].</li>
   -->
+  <!--[helpersParagraph]の頭には元から\n\nが記述されています。原文のように\n\n[helpersParagraph]表記にすると、クエスト文に3行文の空行が表示されてしまいます。恐らく記述ミスだと思うので、翻訳の方では[helpersParagraph]前の\n\nを削除しています。-->
   <ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験をしたいようです。 承諾すると、彼らは[map_definite]にフェロモンを散布し、(*Threat)[hivesCount]の虫の巣(/Threat)の来襲を引き起こします。\n\n[helpersParagraph]</li>
+    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験をしたいようです。 承諾すると、彼らは[map_definite]にフェロモンを散布し、(*Threat)[hivesCount]の虫の巣(/Threat)の来襲を引き起こします。[helpersParagraph]</li>
     <li>infestationArrivalLetterText(askerIsNull==true)->虫の巣が研究船の散布したフェロモンに惹かれ出現しました。</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [map_definite]付近の拠点で繰り返される虫の侵入に直面しています。[asker_pronoun]は、あなたに侵入を引き寄せてほしいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。\n\n[helpersParagraph]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [map_definite]付近の拠点で繰り返される虫の侵入に直面しています。[asker_pronoun]は、あなたに侵入を引き寄せてほしいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。[helpersParagraph]</li>
     <li>infestationArrivalLetterText(asker_factionLeader==True)->虫の巣はもともと、 [asker_faction_name]の[asker_nameFull]が統治する拠点付近で侵入していました。</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 虫の侵入が繰り返されたため[map_definite]付近に着陸できません。[asker_pronoun]は、あなたに侵入を引き寄せてほしいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。\n\n[helpersParagraph]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 虫の侵入が繰り返されたため[map_definite]付近に着陸できません。[asker_pronoun]は、あなたに侵入を引き寄せてほしいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。[helpersParagraph]</li>
     <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull]によって 虫の巣の来襲が引き起こされました。</li>
   </ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
@@ -79,12 +80,13 @@
     <li>questDescription(asker_royalInCurrentFaction==True,animalCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], recently lost a scouting party to a pack of (*Threat)[animalCount] manhunting [animalKind_labelPlural](/Threat). [asker_pronoun] wants to draw the beasts towards you to be killed, to uphold [asker_possessive] honor.[endSection]</li>
     <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount>=2)->These are the [animalKind_labelPlural] that killed the scouting party of the [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name].</li>
   -->
+  <!--[helpersParagraph]の頭には元から\n\nが記述されています。原文のように\n\n[helpersParagraph]表記にすると、クエスト文に3行文の空行が表示されてしまいます。恐らく記述ミスだと思うので、翻訳の方では[helpersParagraph]前の\n\nを削除しています。-->
   <ThreatReward_Manhunters_ItemPod.questDescriptionRules.rulesStrings>
     <li>animalKindLabelCorrect(animalCount==1)->[animalKind_label]</li>
     <li>animalKindLabelCorrect(animalCount>=2)->[animalKind_labelPlural]</li>
     <li>manhuntingBeastIndef(animalCount==1)->(*Threat)人狩りの [animalKind_label](/Threat)</li>
     <li>manhuntingBeastIndef(animalCount>=2)->(*Threat)[animalCount] 匹の人狩りの [animalKind_labelPlural](/Threat)の群れ</li>
-    <li>endSection->\n\n[helpersParagraph] あなたが同意した場合、[manhuntersDelayTicks_duration]後に[animalKindLabelCorrect]が[map_definite]に来襲します。</li>
+    <li>endSection->[helpersParagraph]あなたが同意した場合、[manhuntersDelayTicks_duration]後に[animalKindLabelCorrect]が[map_definite]に来襲します。</li>
     <li>questDescription(askerIsNull==true,animalCount==1)->貿易商から通信が入りました。(*Threat)野生の [animalKind_label] (/Threat)が彼を襲っています！獣を引きつけて彼から遠ざけてほしいとあなたに要請しています。[endSection]</li>
     <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount==1)->付近の貿易商を狩っていた[animalKind_label]。</li>
     <li>questDescription(askerIsNull==true,animalCount>=2)->貿易商から通信が入りました。(*Threat)[animalCount]匹の野生の [animalKind_labelPlural](/Threat)の群れが彼を襲っています！獣を引きつけて彼から遠ざけてほしいとあなたに要請しています。[[endSection]</li>
@@ -142,9 +144,9 @@
     <li>askerEnemies(priority=-1)->his enemies</li>
   -->
   <ThreatReward_SiteThreat_ItemPod.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->付近の貿易商から通信が入りました。[threat]が彼を襲っています！彼はあなたにシグナルを発して、[map_definite]へ敵を引き寄せて、彼を逃してくれるように頼んでいます。\n\nシグナルを送ると[askerEnemies]は、付近に拠点を配置してあなたを悩ませるでしょう。 [site/allSitePartsDescriptions] この拠点は破壊するまで残ります。</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が、あなたに助けを求めています。 [askerEnemies]が、[asker_possessive]入植地を悩ませています。[asker_pronoun]は、シグナルを発して[map_definite]へ敵を引き寄せ[asker_possessive]人々から遠ざける手助けをあなたにしててほしいようです。\n\n[asker_pronoun]がそれを行うと、[askerEnemies]は、付近に拠点を配置してあなたを悩ませるでしょう。 [site/allSitePartsDescriptions] この拠点は破壊するまで残ります。</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が、[map_definite]付近を旅しています。 [asker_pronoun]は[threat]に追跡されており、彼らを[map_definite]へ向かわせるためあなたにシグナルを発してほしいそうです。\n\n実行すると[askerEnemies]は、付近に拠点を配置してあなたを悩ませるでしょう。 [site/allSitePartsDescriptions] この拠点は破壊するまで残ります。</li>
+    <li>questDescription(askerIsNull==true)->付近の貿易商から通信が入りました。[threat]が彼を襲っています！彼はあなたにシグナルを発して、[map_definite]へ敵を引き寄せて、彼を逃してくれるように頼んでいます。\n\nシグナルを送ると[askerEnemies]は、付近に拠点を配置してあなたを悩ませるでしょう。この拠点は、[site/allSitePartsDescriptions]。 この拠点は破壊するまで残ります。</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が、あなたに助けを求めています。 [askerEnemies]が、[asker_possessive]入植地を悩ませています。[asker_pronoun]は、シグナルを発して[map_definite]へ敵を引き寄せ,人々から遠ざける手助けをあなたにしててほしいようです。\n\nもしこれを行うと、[asker_possessive][askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう。 この拠点は、[site/allSitePartsDescriptions]。 この拠点は破壊するまで残ります。</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が、[map_definite]付近を旅しています。 [asker_pronoun]は[threat]に追跡されており、彼らを[map_definite]へ向かわせるためあなたにシグナルを発してほしいそうです。\n\nもしこれを行うと、[asker_possessive][askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう。 この拠点は、[site/allSitePartsDescriptions]。 この拠点は破壊するまで残ります。</li>
     <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]の[site/enemyFaction_pawnsPlural]</li>
     <li>threat(priority=1,site/MechCluster_exists==True)->メカノイド</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>

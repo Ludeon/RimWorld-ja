@@ -151,7 +151,6 @@
     <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
     <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
   -->
-  <!--TODO--><!--仮翻訳: "If you wish, you can choose to kill, arrest, sell, or harvest [lodgersObjective]" 「対象者をharvestする選択も選べる」の訳が分からないため、収穫と訳しています。-->
   <Hospitality_Refugee.questDescriptionRules.rulesStrings>
     <li>offer(lodgerCount==1)->提案</li>
     <li>offer(lodgerCount>=2)->提案</li>
@@ -165,10 +164,10 @@
     <li>lodgersPossessive(lodgerCount>=2)->[asker_pronoun]らの</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
-    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]の間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo]また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれません-しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは収穫する選択も選べます。</li>
+    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]の間 [map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo]また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれません-しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
     <li>approachInfo(lodgerCount==1)->[asker_nameDef]と名乗る、絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef]と、もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
-    <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。彼らの代表は、[asker_nameDef]と名乗っています。</li>
+    <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。代表者は自分を[asker_nameDef]と名乗っています。</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef]は最近、自分の家を襲撃によって失ったと主張しています。</li>
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは最近、自分達の家を襲撃によって失ったと主張しています。</li>
     <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わる事を申し出るかもしれません。</li>

@@ -136,12 +136,12 @@
   <MessageShuttleDestinationIsTooFar>目的地が範囲外です。</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Do bestowing ceremony -->
-  <BeginCeremony>授与式を授ける</BeginCeremony>
+  <BeginCeremony>授与式を始める</BeginCeremony>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfied>贈与者は、{PAWN_definite}の玉座が{TITLE}の爵位に見合っていない事に腹を立てています。授与式はキャンセルされました。</BestowingCeremonyThroneroomRequirementsNotSatisfied>
 
   <!-- EN: Not all required cargo is loaded yet! -->
-  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積まれてされていません！</ShuttleRequiredItemsNotSatisfied>
+  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積まれていません！</ShuttleRequiredItemsNotSatisfied>
   <!-- UNUSED -->
   <ThroneTitleStature>爵位に相応: {0}</ThroneTitleStature>
   <ThronePrevTitleStature>前爵位に充足: {0}</ThronePrevTitleStature>

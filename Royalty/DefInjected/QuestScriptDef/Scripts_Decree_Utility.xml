@@ -6,7 +6,7 @@
     <li>decreeThreatInfo->If you fail to fulfill this decree within [decreeDays] days, [asker_nameDef] will start to become unhappy. [asker_possessive] anger will increase over time until the decree is satisfied.</li>
   -->
   <DecreeSetup.questDescriptionRules.rulesStrings>
-    <li>decreeIntro->あなたの[asker_bestRoyalTitle]である[asker_nameDef]が布告を発しました。</li>
+    <li>decreeIntro->コロニーの[asker_bestRoyalTitle]である[asker_nameDef]が布告を発しました。</li>
     <li>decreeThreatInfo->[decreeDays]日以内にこの布告を達成できないと、[asker_nameDef]は不満を抱きます。[asker_possessive]怒りは布告が執行されるまで時間とともに増大していきます。</li>
   </DecreeSetup.questDescriptionRules.rulesStrings>
   <!-- EN: [asker_nameDef]'s decree forgotten -->

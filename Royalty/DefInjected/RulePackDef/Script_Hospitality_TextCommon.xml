@@ -70,7 +70,7 @@
     <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->おおよそ以下の規模の(*Threat)襲撃(/Threat)がやってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)襲撃(/Threat)がおおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->おおよそ以下の規模の(*Threat)襲撃が[threatCount]回(/Threat)やってくるでしょう:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(/*hreat)襲撃が[threatCount]回(/Threat)おおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)襲撃が[threatCount]回(/Threat)おおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)メカクラスター(/Threat)が近辺に配置されます。</li>
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます。</li>
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)メカクラスター(/Threat)が近辺に配置されます。</li>
@@ -95,7 +95,7 @@
     <li>remainingWillNowLeave(lodgersCount>=2)->残りの[lodgersLabelPlural]は全員離脱しました。</li>
     <li>failLetterEndingQuest->クエスト「[resolvedQuestName]」に失敗しました。</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
-    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n[asker_faction_name]との友好度が[goodwillPenalty]減少しました。</li>
+    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n[asker_faction_name]との友好値が[goodwillPenalty]減少しました。</li>
   </QuestHospitalityCommon.rulePack.rulesStrings>
   
 </LanguageData>

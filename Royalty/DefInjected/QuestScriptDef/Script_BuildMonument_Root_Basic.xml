@@ -9,7 +9,7 @@
   <BuildMonument_Basic.questDescriptionRules.rulesStrings>
     <li>commonEnding->モニュメントのサイズは[monumentSize]で、以下のリソースが必要です。(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[constructionTimeoutTicks_duration]以内に建設を完了させる必要があります。建設完了時に報酬を受け取れます。[dontDestroyMonument]</li>
     <li>dontDestroyMonument(priority=-10)-></li>
-    <li>dontDestroyMonument->\n\n建設してから[keepMonumentTicks_duration]日以内にモニュメントが破壊された場合、[asker_factionName]との関係が[goodwillChangeIfMonumentDestroyed]減少します。</li>
+    <li>dontDestroyMonument->\n\n建設してから[keepMonumentTicks_duration]日以内にモニュメントが破壊された場合、 [asker_factionName]との関係が[goodwillChangeIfMonumentDestroyed]減少します。</li>
   </BuildMonument_Basic.questDescriptionRules.rulesStrings>
   
 </LanguageData>

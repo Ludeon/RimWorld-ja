@@ -3,11 +3,11 @@
 
   <!-- Character tab -->
   <!-- EN: {PAWN_labelShort} currently has the title {TITLE}, awarded by {FACTION_name}. -->
-  <RoyalTitleTooltipHasTitle>{PAWN_labelShort} の称号は{TITLE}で、{FACTION_name}より授与された。</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort}の称号は{TITLE}で、{FACTION_name}より授与されました。</RoyalTitleTooltipHasTitle>
   <!-- EN: {PAWN_labelShort} will demand that this title's privileges be fully respected. -->
-  <RoyalTitleTooltipConceited>{PAWN_labelShort}はこの爵位に伴う特典を尊重するよう求めている。</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort}はこの爵位の名誉を尊重するよう求めています。</RoyalTitleTooltipConceited>
   <!-- EN: {PAWN_labelShort} is flexible about this title's privileges. -->
-  <RoyalTitleTooltipNonConceited>{PAWN_labelShort}はこの爵位に対して柔軟です。</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort}はこの爵位の名誉に対して柔軟な態度です。</RoyalTitleTooltipNonConceited>
   <!-- EN: Next title -->
   <RoyalTitleTooltipNextTitle>次の爵位</RoyalTitleTooltipNextTitle>
   <!-- EN: costs {0} {FACTION_royalFavorLabel} -->
@@ -44,7 +44,7 @@
   <!-- EN: Current title -->
   <CurrentTitle>現在の爵位</CurrentTitle>
   <!-- EN: Unused permit points -->
-  <UnusedPermits>使用されていない許可証ポイント</UnusedPermits>
+  <UnusedPermits>使える許可証ポイント</UnusedPermits>
   <!-- EN: Return all permits -->
   <ReturnAllPermits>全ての許可証を返却する</ReturnAllPermits>
   <!-- EN: {PAWN_nameDef} has no permits to return. -->
@@ -62,11 +62,10 @@
   <!-- EN: Requires title: {0} -->
   <RequiresTitle>必要な爵位: {0}</RequiresTitle>
   <!-- EN: Upgrade from: {0} -->
-  <!--TODO--><!--仮翻訳: どのように表示されるのかを確認。実態に合った物に再翻訳してください。-->
-  <UpgradeFrom>次のものからアップグレード: {0}</UpgradeFrom>
+  <UpgradeFrom>以下の許可証からアップグレード: {0}</UpgradeFrom>
   <!-- EN: Cooldown -->
   <Cooldown>クールダウン</Cooldown>
   <!-- EN: {HONOR} cost if used during cooldown -->
-  <CooldownUseFavorCost>クールダウン中に使用した場合に要求される{HONOR}のコスト</CooldownUseFavorCost>
+  <CooldownUseFavorCost>クールダウン中使用時の消費{HONOR}コスト</CooldownUseFavorCost>
   
 </LanguageData>

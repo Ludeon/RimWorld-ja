@@ -17,12 +17,12 @@
     <li>pawnListHaveConjugation(colonistsToLendCount>1)->have</li>
   -->
   <PawnLend.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が [dutyDescription]で手助けを必要としています。\n\n[asker_pronoun]は[asker_objective]に[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が [dutyDescription]で手助けを必要としています。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
     <li>disease->インフルエンザ</li>
     <li>disease->ペスト</li>
     <li>disease->マラリア</li>
     <li>disease->感染症</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]が [entertainerDescription]を披露することによって、[asker_possessive]宮廷に活力を与えたいと望んでいます。\n\n[asker_pronoun]は[asker_objective]に[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]が [entertainerDescription]を披露することによって、[asker_possessive]宮廷に活力を与えたいと望んでいます。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->1人の入植者</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]人の入植者</li>
     <li>willSendShuttle->[asker_pronoun]は[colonists]を迎えるためにシャトルをよこします。</li>

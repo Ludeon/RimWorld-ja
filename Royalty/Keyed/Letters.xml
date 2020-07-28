@@ -8,17 +8,17 @@
   <LetterLabelGainedRoyalTitle>{TITLE} の爵位を獲得した: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: Permit points awarded: {0}. -->
-  <PermitPointsAwarded>与えられた許可証ポイント: {0}.</PermitPointsAwarded>
+  <PermitPointsAwarded>与えられた許可証ポイント: {0}</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
   <LetterRoyalTitleApparelQualityRequirement>この爵位には{1}以上の品質の衣服を着用させる必要があります。</LetterRoyalTitleApparelQualityRequirement>
   <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
-  <LetterRoyalTitleApparelRequirement>この爵位に相応しい衣装を{PAWN_possessive}に用意しなければなりません:</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleApparelRequirement>この爵位に相応しい衣装を{PAWN_pronoun}に用意しなければなりません:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
-  <LetterRoyalTitleExpectation>{PAWN_possessive}の期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleExpectation>{PAWN_possessive}期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、下等な食べ物を退け、時に布告を発するでしょう。</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、貧相な食べ物を退け、時に布告を発するでしょう。</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort}が{FACTION_name}から{TITLE}の爵位を授かりました！</LetterGainedRoyalTitle>
@@ -34,7 +34,7 @@
   <LetterRewardsForNewTitleDeliveryDirect>報酬は{PAWN_labelShort}のインベントリに直接追加されました。</LetterRewardsForNewTitleDeliveryDirect>
 
   <!-- EN: {PAWN_pronoun} has these permissions: -->
-  <LetterRoyalTitlePermits>{PAWN_pronoun}には以下の権限がある:</LetterRoyalTitlePermits>
+  <LetterRoyalTitlePermits>{PAWN_pronoun}には以下の権限があります:</LetterRoyalTitlePermits>
   <!-- EN: {PAWN_pronoun} lost these permissions: -->
   <LetterRoyalTitleLostPermits>{PAWN_pronoun}は以下の権限を失った:</LetterRoyalTitleLostPermits>
 
@@ -70,7 +70,7 @@
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
   <LetterRoyalTitleHeir>{PAWN_pronoun}が死亡した場合、この爵位は{HEIR_nameFull}に継承されます。</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
-  <LetterRoyalTitleNoHeir>{PAWN_pronoun}が死亡した場合、この爵位を継ぐ者はいません。</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleNoHeir>{PAWN_pronoun}が死亡した場合、誰もこの爵位を継ぎません。</LetterRoyalTitleNoHeir>
   <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
   <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull}は{FACTION_name}のメンバーです。</LetterRoyalTitleHeirFactionWarning>
   <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
@@ -145,11 +145,11 @@
   <!-- EN: Psylink gained -->
   <LetterLabelPsylinkLevelGained>サイリンク上昇</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psycasts, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
-  <LetterPsylinkLevelGained_First>{USER_labelShort}が{USER_possessive}の第1段階のサイリンクを会得しました！{USER_pronoun}はいまや超能力者です。\n\n超能力を使用するには、{USER_labelShort}は瞑想によってサイフォーカスを蓄積する必要があります。特定のオブジェクトに焦点をあわせることにより瞑想の効果が向上します。\n\n個々人が異なるオブジェクトを用います。これはバックストーリー、特性、爵位に応じて変わります。例\n\n- 爵位を有する人物は玉座で瞑想します。\n-部族出身の超能力者はアニマツリーや自然聖堂で瞑想します。\n-禁欲的な超能力者は壁に向かって瞑想します。\n-サイコパスの超能力者は墓で瞑想します。可能なら愛する人をその中に収めて。\n\n瞑想のタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します。</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_First>{USER_labelShort}は第1段階のサイリンクを獲得しました！{USER_pronoun}はいまや超能力者です。\n\n超能力を使用するには、瞑想によってサイフォーカスを蓄積する必要があります。特定のオブジェクトに焦点をあわせることにより、瞑想の効果が向上します。\n\n個々人が異なるオブジェクトを用います。これはバックストーリー、特性、爵位に応じて変わります。以下を参考にして下さい:\n\n- 爵位を有する人物は玉座で瞑想します。\n-部族出身の超能力者はアニマツリーや自然聖堂で瞑想します。\n-禁欲的な超能力者は壁に向かって瞑想します。\n-サイコパスの超能力者は墓で瞑想します。可能なら愛する人をその中に収めて下さい。\n\n瞑想のタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します。</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psycasts of that higher level, but {USER_pronoun} needs to learn them first. -->
-  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}が新たなレベルのサイリンクを会得しました！{USER_pronoun}は高位の超能力を用いることができますが、{USER_pronoun}はまずそれを学ばなければなりません。</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}は新たなレベルのサイリンクを獲得しました！高位の超能力を用いることができますが、{USER_pronoun}はまずそれを学ばなければなりません。</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psycasts: {2} -->
-  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを会得したため、{USER_labelShort}は自動的に以下の超能力を学びました: {2}</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを獲得したため、{USER_labelShort}は自動的に以下の超能力を学びました: {2}</LetterPsylinkLevelGained_PsycastLearned>
   
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->

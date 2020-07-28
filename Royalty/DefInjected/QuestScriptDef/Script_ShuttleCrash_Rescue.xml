@@ -30,7 +30,7 @@
     <li>successLetterEndingCommon->クエスト'[resolvedQuestName]'を無事に完了させました。</li>
     <li>goodwillSomeCiviliansLost->[asker_faction_pawnSingular]の[pawnLabel]全員を救助する事はできませんでした。[goodwillNegativelyAffected]</li>
     <li>goodwillAllCiviliansLost->[asker_faction_pawnSingular]の[pawnLabelPlural]を救助する事はできませんでした。[goodwillNegativelyAffected]</li>
-    <li>goodwillNegativelyAffected->[asker_faction_name]との友好度は、残った[pawnLabel]の人数毎に悪影響を及ぼします。</li>
+    <li>goodwillNegativelyAffected->[asker_faction_name]との友好値は、残った[pawnLabel]の人数毎に悪影響を及ぼします。</li>
     <li>commanderLandingDesc->[map_definite]に着陸する許可を申請した指揮官[asker_nameDef]</li>
     <li>raidArrivedLetterLabel->襲撃: [enemyFaction_name]</li>
     <li>raidArrivedLetterText->[enemyFaction_name]の[enemyFaction_pawnsPlural]が到着しました。彼らは、[map_definite]にいる不時着した[asker_faction_pawnsPlural]を攻撃するつもりです。\n\n救助用シャトルが到着するまでの[rescueShuttleAfterRaidDelay_duration]間、[asker_faction_pawnsPlural]を守ってください。</li>
@@ -71,7 +71,7 @@
   <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
     <li>pawnLabelSingleOrPlural(civilians_count==1)->[pawnLabel]</li>
     <li>pawnLabelSingleOrPlural(civilians_count>=2)->[pawnLabelPlural]</li>
-    <li>questDescription->[asker_faction_name]のシャトルが損傷し、着陸する場所を探しています。指揮官である[asker_nameDef]は、[map_definite]に着陸したいと考えています。\n\n[enemyFaction_name]の[enemyFaction_pawnsPlural]が、乗組員を殺すためにシャトルの墜落した場所への攻撃を試みるでしょう。[asker_pronoun]らを守る必要があります。\n\nシャトルには[asker_nameDef]と[andOtherCivilians][soldiers_count]人の[soldiers0_kind]が乗っています。指揮官[andCivilians]は救出されなければなりませんが、[soldiers0_kind]は犠牲になる事も考えられます。\n\n[rescueDelay_duration]後、救助用シャトルが生存者を回収しに来ます。[leaveDelay_duration]以内に、対象者全員を乗り込ませる必要があります。</li>
+    <li>questDescription->[asker_faction_name]のシャトルが損傷し、着陸する場所を探しています。指揮官である[asker_nameDef]は、[map_definite]に着陸したいと考えています。\n\n[enemyFaction_name]の[enemyFaction_pawnsPlural]が、乗組員を殺すためにシャトルの墜落した場所への攻撃を試みるでしょう。[asker_pronoun]らを守る必要があります。\n\nシャトルには[asker_nameDef]と[andOtherCivilians][soldiers_count]人の[soldiers0_kind]が乗っています。指揮官[andCivilians]は救出されなければなりませんが、[soldiers0_kind]は犠牲になる事も考えられます。\n\n[rescueDelay_duration]後、救助用シャトルが生存者を回収しに来ます。\n[leaveDelay_duration]以内に、対象者全員を乗り込ませる必要があります。</li>
     <li>andOtherCivilians(civilians_count==1)->、</li>
     <li>andOtherCivilians(civilians_count==2)->もう一人の[pawnLabel]、そして</li>
     <li>andOtherCivilians(civilians_count>=3)->[civilianCountMinusOne]人の[pawnLabelSingleOrPlural]、そして</li>

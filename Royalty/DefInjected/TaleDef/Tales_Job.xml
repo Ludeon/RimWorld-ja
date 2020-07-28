@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: attended concert -->
@@ -17,10 +17,10 @@
   <AttendedConcert.rulePack.rulesStrings>
     <li>tale_noun->[ATTENDER_nameDef]が[ORGANIZER_nameDef]のコンサートに参加する</li>
     <li>tale_noun->[ATTENDER_nameDef]が[ORGANIZER_nameDef]の演奏を聴く</li>
-    <li>image-> [ATTENDER_nameFull]が [circumstance_group]聞き入っている</li>
-    <li>image-> [ATTENDER_nameFull]が [ORGANIZER_nameFull]の パフォーマンスを[circumstance_group]楽しんでいる</li>
-    <li>image-> [ATTENDER_nameFull]が [circumstance_group]音楽に合わせて揺られている</li>
-    <li>image-> [ATTENDER_nameFull]が [circumstance_group]音楽に没頭している</li>
+    <li>image-> [ATTENDER_nameFull]が [circumstance_group]聞き入る</li>
+    <li>image-> [ATTENDER_nameFull]が [ORGANIZER_nameFull]の パフォーマンスを[circumstance_group]楽しむ</li>
+    <li>image-> [ATTENDER_nameFull]が [circumstance_group]音楽に合わせて揺れる</li>
+    <li>image-> [ATTENDER_nameFull]が [circumstance_group]音楽に没頭する</li>
     <li>circumstance_phrase->手拍子を取りながら</li>
     <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が踊っている。</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が静かに耳を傾けている。</li>
@@ -40,10 +40,10 @@
   -->
   <HeldConcert.rulePack.rulesStrings>
     <li>tale_noun->[ORGANIZER_nameDef]がコンサートを開催する</li>
-    <li>image-> [ORGANIZER_nameFull]が コロニーを象徴するような楽曲を[circumstance_group]演奏している</li>
-    <li>image-> [ORGANIZER_nameFull]が 一緒に歌うように観客を煽っている</li>
-    <li>image-> [ORGANIZER_nameFull]が 感動的な歌を演奏している</li>
-    <li>image-> [ORGANIZER_nameFull]が 難しいパートを[circumstance_group]演奏している</li>
+    <li>image-> [ORGANIZER_nameFull]が コロニーを象徴するような楽曲を[circumstance_group]演奏する</li>
+    <li>image-> [ORGANIZER_nameFull]が 一緒に歌うように観客を煽る</li>
+    <li>image-> [ORGANIZER_nameFull]が 感動的な歌を演奏する</li>
+    <li>image-> [ORGANIZER_nameFull]が 難しいパートを[circumstance_group]演奏する</li>
     <li>circumstance_phrase->激しい表現で</li>
     <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が側で聴いている。</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が側で聴いている。</li>

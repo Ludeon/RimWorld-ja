@@ -28,7 +28,7 @@
     <li>defaultSiteAppearedLetterLabel->Site appeared: [site_label]</li>
   -->
   <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
-    <li>threatDescription->[allSitePartsDescriptions]のすぐ近くに新たな拠点が発見されました。この脅威は拠点を破壊するまで続くでしょう。</li>
+    <li>threatDescription->すぐ近くに新たな拠点が作られ、その場所では[allSitePartsDescriptions]この脅威は拠点を破壊するまで続くでしょう。</li>
     <li>defaultSiteAppearedLetterText->近くに拠点が出現しました\n\n[allSitePartsDescriptions]</li>
     <li>defaultSiteAppearedLetterLabel->拠点の出現: [site_label]</li>
   </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
