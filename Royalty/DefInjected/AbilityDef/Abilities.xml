@@ -50,7 +50,7 @@
   <Farskip.label>ファースキップ</Farskip.label>
   <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
   <!--TODO--><!--仮翻訳: navigation beaconは恐らく固有名詞ではありません。実態が分からないため、ゲーム内で何を使用する味方が必要なのか確認し、書き換えてください。-->
-  <Farskip.description>超能力者を、近くに立っている人物と共に、離れた場所にいる味方の下にスキップします。惑星全体に人を送ることができますが、対象地点にナビゲーションビーコンを使用する味方がいる場合のみ機能します。スキップされた人は、常に対象マップ上のランダムな味方の近くに出現します。</Farskip.description>
+  <Farskip.description>超能力者を、近くに立っている人物と共に、離れた場所にいる味方の下にスキップします。惑星全体に人を送る事ができますが、対象地点にナビゲーションビーコンを使用する味方がいる場合のみ機能します。スキップされた人は、常に対象マップ上のランダムな味方の近くに出現します。</Farskip.description>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>フラッシュストーム</Flashstorm.label>
@@ -97,7 +97,7 @@
   <!-- EN: smokepop -->
   <Smokepop.label>スモークポップ</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
-  <Smokepop.description>砂煙を地面から舞い上がらせ、煙幕を形成します。射撃精度を低下させ、タレットに完全にロックオンされるのを防ぎます。</Smokepop.description>
+  <Smokepop.description>砂煙を地面から舞い上がらせ、煙幕を形成します。射撃精度を低下させ、タレットから完全にロックオンされるのを防ぎます。</Smokepop.description>
   
   <!-- EN: solar pinhole -->
   <SolarPinhole.label>ソーラーピンホール</SolarPinhole.label>

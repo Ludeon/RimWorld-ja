@@ -42,35 +42,35 @@
     <li>threatsInfo6(generateThreats==false)-></li>
   -->
   <Hospitality_Prisoners.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true,lodgersCount==1)->軌道上の宇宙船の船長が、[lodgers0_nameFull]という名の囚人を、 [shuttleDelayTicks_duration]の間 [map_definite]で護衛するよう求めています。[allLodgerInfo][threatsInfo1][commonDescEnding]</li>
-    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef]は最近[enemyFaction_name]の[enemyFaction_leaderTitle]である [enemyFaction_leader_nameFull]の最愛の子に唾を吐いた。 [enemyFaction_leader_nameDef]は[enemyFaction_pawnsPlural]を送り出し、[lodgers0_objective]を護衛する者が誰であっても復讐を行おうとしている。[enemyGroupsParagraph]</li>
-    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
-    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->軌道上の宇宙船の船長が、[lodgers0_nameFull]という名の囚人を、 [shuttleDelayTicks_duration]の間[map_definite]で護衛するよう求めています。[allLodgerInfo][threatsInfo1][commonDescEnding]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef]は最近[enemyFaction_name]の[enemyFaction_leaderTitle]である [enemyFaction_leader_nameFull]の最愛の子に唾を吐きました。[enemyFaction_leader_nameDef]は[enemyFaction_pawnsPlural]を送り出し、[lodgers0_objective]護衛する者が誰であっても復讐を行おうとしています。[enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman][enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman][enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==false)-></li>
-    <li>questDescription(askerIsNull==true,lodgersCount>=2)->軌道上の宇宙船の船長が[lodgersCount]人の囚人たちを[shuttleDelayTicks_duration]の間 [map_definite]で護衛するよう求めている。[allLodgerInfo][threatsInfo2][commonDescEnding]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->軌道上の宇宙船の船長が[lodgersCount]人の囚人たちを[shuttleDelayTicks_duration]の間[map_definite]で護衛するよう求めています。[allLodgerInfo][threatsInfo2][commonDescEnding]</li>
     <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n囚人たちは[enemyFaction_name]の[enemyFaction_pawnsPlural]に対して一連の殺人を行い、その犠牲者たちの家族は復讐をしようと襲撃者を送り込んでくるでしょう。[enemyGroupsParagraph]</li>
-    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n囚人たちは[mechViolation]、メカノイドの巣の標的にされています。 [enemyGroupsParagraph]</li>
-    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n囚人たちは[mechViolation]、メカノイドの巣の標的にされています。[enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners][enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==false)-></li>
-    <li>questDescription(asker_factionLeader==True,lodgersCount==1)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [asker_pronoun]のために特別な囚人を匿うよう求めています。\nその囚人は、[lodgers0_age]歳の[lodgers0_nameFull]という名の [lodgers0_title]で、 [asker_nameDef]の[PersonalCharacteristic]に関する恥ずかしい情報を知っており、[asker_nameDef]は[lodgers0_objective]を解放したくないと思っています。その囚人を不祥事が収まるまでの[shuttleDelayTicks_duration]の間 留めておく必要があります。[allLodgerInfo][threatsInfo3][commonDescEnding]</li>
-    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にも、[enemyFaction_name]は恥ずかしい話を広めたいと思っていて、[lodgers0_nameDef]が脱獄するための襲撃者たちを送り出しています。 [enemyGroupsParagraph]</li>
-    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
-    <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [asker_pronoun]のために特別な囚人を匿うよう求めています。\nその囚人は、[lodgers0_age]歳の[lodgers0_nameFull]という名の[lodgers0_title]で、 [asker_nameDef]の[PersonalCharacteristic]に関する恥ずかしい情報を知っており、[asker_nameDef]は[lodgers0_objective]解放したくないと思っています。その囚人を不祥事が収まるまでの[shuttleDelayTicks_duration]の間、留めておく必要があります。[allLodgerInfo][threatsInfo3][commonDescEnding]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にも、[enemyFaction_name]は恥ずかしい話を広めたいと思っていて、[lodgers0_nameDef]が脱獄するための襲撃者たちを送り出しています。[enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman][enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman][enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==false)-></li>
-    <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [lodgersCount]人の囚人を敵の領地から捕まえました。彼らを収容する場所が無いため、[asker_nameDef]は監獄の準備が整うまでの[shuttleDelayTicks_duration]の間、 彼らを監視するよう求めています。[allLodgerInfo][threatsInfo4]\n\n[commonDescEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [lodgersCount]人の囚人を敵の領地から捕まえました。彼らを収容する場所が無いため、[asker_nameDef]は監獄の準備が整うまでの[shuttleDelayTicks_duration]の間、彼らを監視するよう求めています。[allLodgerInfo][threatsInfo4]\n\n[commonDescEnding]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n囚人たちは[enemyFaction_name]と救出の契約を結んでいるので、彼らはあなたを追って[enemyFaction_pawnsPlural]を送り出すでしょう。[enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]の敵は囚人たちを追うようメカノイドの巣をいくつか扇動しているので、メカノイドの襲撃グループを送り出すでしょう。[enemyGroupsParagraph]</li>
-    <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners][enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==false)-></li>
-    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は、 不適切な人物と寝ているところを見つかってしまいました。[asker_pronoun]は不適切な愛人との関係を絶ったことを装うために、[lodgers0_pronoun]を投獄しました。\n[asker_pronoun]は直ちにその囚人、[lodgers0_nameFull]を 不祥事が収まるまでの[shuttleDelayTicks_duration]の間、 投獄したままにしておくよう求めています。[allLodgerInfo][threatsInfo5][commonDescEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は、 不適切な人物と寝ているところを見つかってしまいました。[asker_pronoun]は不適切な愛人との関係を絶ったことを装うために、[lodgers0_pronoun]を投獄しました。\n[asker_pronoun]は直ちにその囚人、[lodgers0_nameFull]を 不祥事が収まるまでの[shuttleDelayTicks_duration]の間、投獄したままにしておくよう求めています。[allLodgerInfo][threatsInfo5][commonDescEnding]</li>
     <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にも、[asker_nameDef]の宮中のライバルが[enemyFaction_name]に金を支払い、愛人を脱獄させてその話を明るみにしようとしています。[enemyGroupsParagraph]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n不運にも、[asker_nameDef]の宮中のライバルはメカノイドたちを[enemyFaction_name]から扇動し攻撃させ、愛人を脱獄させてその話を明るみにしようとしています。 [enemyGroupsParagraph]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n不運にも、[asker_nameDef]の宮中のライバルはメカノイドたちを[enemyFaction_name]から扇動し攻撃させ、愛人を脱獄させてその話を明るみにしようとしています。[enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman][enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==false)-></li>
-    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が、助けを求めているようです。 [asker_nameDef]の忠実な考古学者たちが最近古代の冬眠カプセルの容器から[lodgersCount]人の囚人を取り出して、彼らに質問をするつもりです。宮廷のライバルから囚人たちの秘密を守るために、[asker_nameDef]は彼らを[shuttleDelayTicks_duration]の間、 留めておくよう求めています。[allLodgerInfo][threatsInfo6][commonDescEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が、助けを求めているようです。 [asker_nameDef]の忠実な考古学者たちが最近古代の冬眠カプセルの容器から[lodgersCount]人の囚人を取り出して、彼らに質問をするつもりです。[asker_nameDef]は宮廷のライバルから囚人たちの秘密を守るために、囚人たちを[shuttleDelayTicks_duration]の間、留めておくよう求めています。[allLodgerInfo][threatsInfo6][commonDescEnding]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にも、[enemyFaction_name]の[enemyFaction_pawnsPlural]が、囚人が取り出されたカプセルの容器を崇拝していました。彼らは囚人を拘束する人々に復讐するため、襲撃を送るでしょう。[enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n不運にも、[enemyFaction_name]の[enemyFaction_pawnsPlural]が、囚人が取り出されたカプセルを護衛していました。彼らは消えた冬眠者を追跡して捕まえるためにメカノイドを送り出すでしょう。[enemyGroupsParagraph]</li>
-    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners][enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
   </Hospitality_Prisoners.questDescriptionRules.rulesStrings>
   <!-- EN:

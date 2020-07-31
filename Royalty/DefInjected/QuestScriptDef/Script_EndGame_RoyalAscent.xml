@@ -62,19 +62,19 @@
   <!-- EN: Guest died: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>来客が死亡: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>あなたが護衛するよう命じられていた{SUBJECT_definite}が死亡しました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>護衛の対象である{SUBJECT_definite}が死亡しました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>来客が捕虜に: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}が、捕まってしまいました。</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>護衛の対象である{SUBJECT_definite}が、捕まってしまいました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>不正な手術</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}に違反した手術が不正に行われました。</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
+  <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>護衛の対象である{SUBJECT_definite}に違反した手術が不正に行われました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>来客が行方不明: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>護衛の命をあなたが受けていた{SUBJECT_definite}が、与えられた植民地を離れました。</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>護衛の対象である{SUBJECT_definite}が、割り当てられた入植地を離れました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
   <!-- EN: Shuttle destroyed -->
   <EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>シャトルが破壊された</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has been destroyed. [failLetterEndingCommon] -->

@@ -117,7 +117,7 @@
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)->と、[faction_name]の全てのメンバー</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural]が去っている</li>
-    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[questDurationTicks_duration]間[map_definite]に留まる事を許可してくれた事に対して、感謝しています。{FACTION_leaderPronoun}は現在、{FACTION_leaderPossessive}人々と共に移動しています。\n\n{FACTION_leaderNameDef}は、この事を決して忘れないと言いました。</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間 留まる事を許可してくれた事に対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は、この事を決して忘れないと言いました。</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
@@ -164,7 +164,7 @@
     <li>lodgersPossessive(lodgerCount>=2)->[asker_pronoun]らの</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
-    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]の間 [map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo]また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれません-しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
+    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo]また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
     <li>approachInfo(lodgerCount==1)->[asker_nameDef]と名乗る、絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef]と、もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。代表者は自分を[asker_nameDef]と名乗っています。</li>
@@ -173,7 +173,7 @@
     <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わる事を申し出るかもしれません。</li>
     <li>joinInfo(lodgerCount>=1)->もし[asker_pronoun]らを幸せにすれば、[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
     <li>travelerInfo(lodgerCount==1)->この[faction_pawnSingular]</li>
-    <li>travelerInfo(lodgerCount>=2)->この[faction_pawnsPlural]達</li>
+    <li>travelerInfo(lodgerCount>=2)->この[faction_pawnsPlural]</li>
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
@@ -246,7 +246,7 @@
   -->
   <RefugeeDelayedReward.questContentRules.rulesStrings>
     <li>rewardLetterLabel->厚遇報酬</li>
-    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました。[rewardDelayTicks_duration]前、あなたは[rewardGiver_objective]絶望的な状況から救いました。\n\nあの時から[rewardGiver_pronoun]は立ち直り、そして今、あなたの助けになるために適切な報酬を渡す事を望みました。[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
+    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました。[rewardDelayTicks_duration]前、 あなたは[rewardGiver_objective]絶望的な状況から救いました。\n\nあの時から[rewardGiver_pronoun]は立ち直り、そして今、あなたの助けになるために適切な報酬を渡す事を望みました。[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
   </RefugeeDelayedReward.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->a delayed reward for refugee quest</li>

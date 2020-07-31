@@ -46,11 +46,11 @@
   
   <!-- Meditation -->
   <!-- EN: Psyfocus -->
-  <Psyfocus>サイフォーカス</Psyfocus>
+  <Psyfocus>サイフォーカス(念集中量)</Psyfocus>
   <!-- EN: Psyfocus -->
-  <PsyfocusLabelGizmo>サイフォーカス</PsyfocusLabelGizmo>
+  <PsyfocusLabelGizmo>念集中量</PsyfocusLabelGizmo>
   <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるにつれて能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます</PsyfocusDesc>
+  <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される、特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるにつれて能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
   <!-- EN: Up to level {0} powers. -->
@@ -70,9 +70,9 @@
   <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
   <MeditationFocusPerSculpture>近くの品質に応じた芸術品あたり{2} ({0} / {1})</MeditationFocusPerSculpture>
   <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
-  <MeditationFocusPerGraveAbstract>近くの中身のない墓あたり{1}、ヒトの死体入りの場合は{2} (最大{0})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGraveAbstract>近くの中身のない墓あたり{1}、\nヒトの死体入りの場合は{2} (最大{0})</MeditationFocusPerGraveAbstract>
   <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
-  <MeditationFocusPerGrave>近くの中身のない墓あたり{2}、ヒトの死体入りの場合は{2} ({3} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerGrave>近くの中身のない墓あたり{2}、\nヒトの死体入りの場合は{3} ({0} / {1})</MeditationFocusPerGrave>
   <!-- EN: {1} per nearby lit flame source (up to {0}) -->
   <MeditationFocusPerFlameAbstract>近くの火のついた熱源あたり{1} (最大 {0})</MeditationFocusPerFlameAbstract>
   <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
