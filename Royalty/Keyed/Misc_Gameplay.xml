@@ -20,10 +20,10 @@
   <PsycastNeurotrainerLabel>サイトレーナー ({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use psytrainer to learn {0} psycast -->
   <PsycastNeurotrainerUseLabel>サイトレーナーを用いて{0}の超能力を学ぶ</PsycastNeurotrainerUseLabel>
-  <!-- EN: A one-use super-dose of mechanites which trains a specific psycast.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific psycast ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>一度だけ使用可能な特定の超能力を身につけられるメカナイトの超薬物。\n\n薬物は眼窩から投与します。脳に散布されると、メカナイトは必要に応じて神経組織に変形し、特定の超能力の知識を植え付けます。</PsycastNeurotrainerDescription>
-  <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} psycast. -->
-  <AbilityNeurotrainerUsed>{USER_labelShort}はサイトレーナーを用いて{1}の超能力を身に着けました。</AbilityNeurotrainerUsed>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed. -->
+  <PsycastNeurotrainerDescription>一度だけ使用可能な、特定の超能力を身につけられるメカナイトの超薬物。\n\n薬物は眼窩から投与します。脳に散布されると、メカナイトは必要に応じて神経組織に変形し、特定の超能力の知識を植え付けます。</PsycastNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
+  <AbilityNeurotrainerUsed>{USER_labelShort}はサイトレーナーを用いて{1}の能力を身に着けました。</AbilityNeurotrainerUsed>
   <!-- EN: Requires psylink -->
   <PsycastNeurotrainerNoPsylink>サイリンクが必要です</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
@@ -47,12 +47,14 @@
   <!-- Meditation -->
   <!-- EN: Psyfocus -->
   <Psyfocus>サイフォーカス</Psyfocus>
-  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to perform psycasts. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to perform psycasts, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level psycasts, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>サイフォーカスは超能力を用いるために要求される特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるるにつれて超能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます</PsyfocusDesc>
+  <!-- EN: Psyfocus -->
+  <PsyfocusLabelGizmo>サイフォーカス</PsyfocusLabelGizmo>
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるにつれて能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
-  <!-- EN: Up to level {0} psycasts. -->
-  <PsyfocusLevelInfoPsycasts>レベル{0}までの超能力。</PsyfocusLevelInfoPsycasts>
+  <!-- EN: Up to level {0} powers. -->
+  <PsyfocusLevelInfoPsycasts>レベル{0}までの能力。</PsyfocusLevelInfoPsycasts>
   <!-- EN: Psyfocus falls at {0} per day. -->
   <PsyfocusLevelInfoFallRate>サイフォーカスは一日あたり{0}減少。</PsyfocusLevelInfoFallRate>
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
@@ -106,6 +108,8 @@
   <AbilitySpeechDisabledNoThroneUndignified>玉座が爵位に相応しくないため使用できません。</AbilitySpeechDisabledNoThroneUndignified>
   <!-- EN: already giving a speech. -->
   <AbilitySpeechDisabledAlreadyGivingSpeech>すでに演説中です。</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>別の集まりが行われています。</AbilitySpeechDisabledAnotherGatheringInProgress>
   <!-- EN: Next speech ready in -->
   <AbilitySpeechCooldown>次の演説の準備まで</AbilitySpeechCooldown>
   <!-- EN: Outcome chances -->
@@ -127,7 +131,7 @@
   <BeginLinkingRitualNeedLinkSpot>リンクするには3セル以内に未所有かつ到達可能なスポットが必要</BeginLinkingRitualNeedLinkSpot>
   <!-- EN: Linking ritual completed -->
   <LetterLabelLinkingRitualCompleted>リンクの儀式が完了</LetterLabelLinkingRitualCompleted>
-  <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psycasts. -->
+  <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
   <LetterTextLinkingRitualCompleted>{PAWN_labelShort}は{LINKABLE_labelShort}とのリンクの儀式を完了させました。\n\n{PAWN_pronoun}のサイリンクが進化し、新たな超能力が使えるようになりました。</LetterTextLinkingRitualCompleted>
 
   <!-- EN: Land shuttle here -->
