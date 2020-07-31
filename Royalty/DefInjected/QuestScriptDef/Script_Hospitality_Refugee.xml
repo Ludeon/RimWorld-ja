@@ -66,9 +66,9 @@
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural]が到着した</li>
-    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました。[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まるため、休憩と体勢を立て直す事が可能です。</li>
-    <li>hasHave(lodgerCount==1)->達が</li>
-    <li>hasHave(lodgerCount>=2)->が</li>
+    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました。\n[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まり、 休憩と体勢を立て直す事が可能です。</li>
+    <li>hasHave(lodgerCount==1)->が</li>
+    <li>hasHave(lodgerCount>=2)->達が</li>
     <li>appalledButNoAction->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこの出来事に対して強い嫌悪感を抱きましたが、あなたに逆らう行動は起こしていません。</li>
     <li>othersWillNotAccept->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこれを受け入れるつもりはなく</li>
     <li>turnedViolent->[othersWillNotAccept]、激しく反抗し始めました。</li>

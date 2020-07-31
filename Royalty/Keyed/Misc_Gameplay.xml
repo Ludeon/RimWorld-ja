@@ -114,13 +114,13 @@
   <AbilitySpeechStatInfo>{ORGANIZER_labelShort}の{1}状態</AbilitySpeechStatInfo>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
-  <TotalMeditationToday>本日の総瞑想量: {0} (進捗乗数 {1})</TotalMeditationToday>
+  <TotalMeditationToday>本日の総瞑想時間: {0}間 (進行度乗数: {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->
-  <ProgressToNextSubplant>進捗: {0}</ProgressToNextSubplant>
+  <ProgressToNextSubplant>進行度: {0}</ProgressToNextSubplant>
   <!-- EN: Begin linking ritual -->
   <BeginLinkingRitualFloatMenu>リンクの儀式を開始</BeginLinkingRitualFloatMenu>
   <!-- EN: Need {0} {1} here (have {2}) -->
-  <BeginLinkingRitualNeedSubplants>ここに{0} {1} が必要 (所有 {2})</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedSubplants>{0}本の{1}が必要 (所有数: {2}本)</BeginLinkingRitualNeedSubplants>
   <!-- EN: Need {0} psylink focus type -->
   <BeginLinkingRitualNeedFocus>{0}のサイリンクのフォーカスタイプが必要</BeginLinkingRitualNeedFocus>
   <!-- EN: Need a free, reachable spot within 3 cells for linking -->

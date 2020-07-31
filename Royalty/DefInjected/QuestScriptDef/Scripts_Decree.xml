@@ -52,7 +52,7 @@
   -->
   <Decree_HuntAnimal.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\n[animalToHuntWithCount]を狩猟ないし屠殺する必要があります。\n\n[decreeThreatInfo]</li>
-    <li>animalToHuntWithCount(countToHunt==1)->1匹[animalToHunt_indefinite]</li>
+    <li>animalToHuntWithCount(countToHunt==1)->1匹の[animalToHunt_indefinite]</li>
     <li>animalToHuntWithCount(countToHunt!=1)->[countToHunt]匹の[animalToHunt_labelPlural]</li>
   </Decree_HuntAnimal.questDescriptionRules.rulesStrings>
   <!-- EN:
