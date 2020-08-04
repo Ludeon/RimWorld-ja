@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: [lodgersLabelSingOrPlural] arrived -->
@@ -17,8 +17,8 @@
   <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>あなたが護衛の命を受けていた[letterSubject]が死亡しました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>来客が捕虜に: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
-  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>あなたが護衛の命を受けていた[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
+  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>あなたが護衛の命を受けていた[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>囚人が集められた: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
@@ -37,8 +37,8 @@
   <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>あなたが護衛の命を受けていた[letterSubject]が他の派閥に加わりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>クエスト失敗: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
-  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>[asker_faction_name]は今やあなたに敵対的です。 [failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
+  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingQuest] -->
+  <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>[asker_faction_name]は今やあなたに敵対的です。 [failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
   <!-- EN: Shuttle destroyed -->
   <Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>シャトルが破壊された</Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has been destroyed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->
@@ -46,11 +46,11 @@
   <!-- EN: Quest completed -->
   <Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>クエスト完了</Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] said [lodgersPronoun] [lodgersWasWere] willing to reward quality accommodation. The average mood of [lodgersLabelSingOrPluralDef] was {AVERAGEMOOD} during [theirHisHer] stay, so your goodwill with [asker_faction_name] has increased by {GOODWILL} -->
-  <Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>クエスト'[resolvedQuestName]'を完遂しました!\n\n[lodgersLabelSingOrPluralDef]が言うには[lodgersPronoun][lodgersWasWere]高品質な宿泊施設に報酬を与える用意があるとのことです。[lodgersLabelSingOrPluralDef]の滞在中の[theirHisHer]の平均的なムードは{AVERAGEMOOD}だったため、[asker_faction_name]との親善が{GOODWILL}上昇しました。</Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>
+  <Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>クエスト'[resolvedQuestName]'を完遂しました!\n\n[lodgersLabelSingOrPluralDef]は、高品質な宿泊環境に対して報酬を与えたいそうです。[lodgersLabelSingOrPluralDef]の滞在中の平均的な心情が{AVERAGEMOOD}だったため、[asker_faction_name]との友好値が{GOODWILL}上昇しました。</Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>
   <!-- EN: Quest completed -->
   <Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>クエスト完了</Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\nWhile [lodgersLabelSingOrPluralDef] [lodgersWasWere] willing to reward quality accommodation, [theirHisHer] average mood was only {AVERAGEMOOD} during [theirHisHer] stay. You will receive no faction goodwill reward. -->
-  <Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>クエスト'[resolvedQuestName]'を完遂しました!\n\n[lodgersLabelSingOrPluralDef][lodgersWasWere]高品質な宿泊施設に報酬を与える用意があるとのことです。[theirHisHer]の滞在中の[theirHisHer]の平均的なムードは{AVERAGEMOOD}だったため、ファクションとの親善は上昇しませんでした。</Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>
+  <Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>クエスト'[resolvedQuestName]'を完遂しました!\n\n[lodgersLabelSingOrPluralDef][lodgersWasWere]高品質な宿泊環境に対して報酬を与える予定でしたが、[theirHisHer]滞在中の平均的な心情はたったの{AVERAGEMOOD}でした。派閥との友好値は上昇しません。</Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Hospitality_Util_Worker.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelQuestFailed.slateRef>
   <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has departed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->

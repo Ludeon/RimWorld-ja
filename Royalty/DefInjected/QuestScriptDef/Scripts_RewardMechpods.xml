@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -6,13 +6,16 @@
     <li>dangersDescription-></li>
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], is making a request. [commonMainPart]</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request. [commonMainPart]</li>
-    <li>commonMainPart->A mechanoid swarm has been attacking [asker_possessive] settlements. [asker_pronoun] wants you to signal the mechs to distract them while [asker_pronoun] clears the hive. If you do, a mechanoid cluster will land at [map_definite].[dangersDescription]\n\nThe mechanoid cluster will be initially dormant. It may have a countdown activator, or it may stay dormant forever until disturbed.\n\n[helpersParagraph]</li>
+    <li>commonMainPart->A mechanoid swarm has been attacking [asker_possessive] settlements. [asker_pronoun] wants you to signal the mechs to distract them while [asker_pronoun] clears the hive. If you do, (*Threat)a mechanoid cluster(/Threat) will land at [map_definite].[dangersDescription]\n\nThe mechanoid cluster will be initially dormant. It may have a countdown activator, or it may stay dormant forever until disturbed.\n\n[helpersParagraph]</li>
   -->
-  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings><li>dangersDescription(priority=1)->\n\nそのポッドは危険を孕んでいます:\n\n[allThreats]</li>
+  <!--[helpersParagraph]の頭には元から\n\nが記述されています。原文のように\n\n[helpersParagraph]表記にすると、クエスト文に3行文の空行が表示されてしまいます。恐らく記述ミスだと思うので、翻訳の方では[helpersParagraph]前の\n\nを削除しています。-->
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>dangersDescription(priority=1)->\n\nそのポッドは危険を孕んでいます:\n\n[allThreats]</li>
     <li>dangersDescription-></li>
     <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が要求をしています。[commonMainPart]</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameDef]が要求をしています。[commonMainPart]</li>
-    <li>commonMainPart->メカノイドの群れが[asker_possessive]の植民地を攻撃しています。[asker_pronoun]は[asker_pronoun]が巣を一掃している間にメカたちの気をそらすために信号を送るよう求めています。もし信号を送った場合、メカノイドクラスターが[map_definite]へ着陸するでしょう。[dangersDescription]\n\nメカノイドクラスターは最初は休眠状態です。時限式の起動装置を備えている場合もあれば、妨害が入るまでずっと休眠状態のままの場合もあります。\n\n[helpersParagraph]</li></ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>commonMainPart->メカノイドの群れが[asker_possessive]入植地を攻撃しています。[asker_pronoun]は、自分が巣を一掃している間、メカノイドたちの気をそらすために信号を送るよう求めています。もし信号を送った場合、(*Threat)メカノイドクラスター(/Threat)が[map_definite]へ着陸するでしょう。[dangersDescription]\n\nメカノイドクラスターは最初は休眠状態です。時限式の起動装置を備えている場合もあれば、妨害が入るまでずっと休眠状態のままの場合もあります。[helpersParagraph]</li>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[menace] cluster</li>
     <li>questName->[menace] pods</li>
@@ -41,6 +44,7 @@
     <li>menace->災いの</li>
     <li>menace->危険な</li>
     <li>menace->恐怖の</li>
-    <li>menace->恐ろしい</li></ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>menace->恐ろしい</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

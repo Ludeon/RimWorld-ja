@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: word of inspiration -->
+  <WordOfInspiration.label>激励の言葉</WordOfInspiration.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] used words and psychic suggestion to inspire [RECIPIENT_nameDef].</li>
+  -->
+  <WordOfInspiration.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に、激励の言葉と共に超能力の暗示を使いました。</li>
+  </WordOfInspiration.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of joy -->
+  <WordOfJoy.label>喜びの言葉</WordOfJoy.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] psychically hypnotized [RECIPIENT_nameDef] into a warm, pleasant state of mind.</li>
+  -->
+  <WordOfJoy.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は超能力的催眠術をかけた[RECIPIENT_nameDef]を、温かく、心地よい精神状態に変えました。</li>
+  </WordOfJoy.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of love -->
+  <WordOfLove.label>恋愛の言葉</WordOfLove.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] psychically suggested that [RECIPIENT_nameDef] should feel a new romantic desire.</li>
+  -->
+  <WordOfLove.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に、新しい恋愛的な欲求を感じるべきだと超能力的な暗示をかけました。</li>
+  </WordOfLove.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of serenity -->
+  <WordOfSerenity.label>平静の言葉</WordOfSerenity.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] psychically suggested that [RECIPIENT_nameDef] calm down, ending [RECIPIENT_possessive] mental break.</li>
+  -->
+  <WordOfSerenity.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に、落ち着きを取り戻して、メンタルブレイクを終わらせるよう超能力的な暗示をかけました。</li>
+  </WordOfSerenity.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of trust -->
+  <WordOfTrust.label>信頼の言葉</WordOfTrust.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] psychically suggested that [RECIPIENT_nameDef] drop [RECIPIENT_possessive] guard.</li>
+  -->
+  <WordOfTrust.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に、警戒を下げるよう超能力的な暗示をかけました。</li>
+  </WordOfTrust.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

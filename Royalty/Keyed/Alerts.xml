@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Room requirements -->
   <!-- EN: Need throneroom -->
   <NeedThroneAssigned>玉座の間が必要</NeedThroneAssigned>
-  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nBuild a throne in a room, then assign the throne to the title holder. The throneroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedThroneAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられた玉座がありません。\n\n玉座を建設してから、爵位保持者に割り当てください。玉座の間には爵位保持者に相応しいサイズと装飾が必要です。</NeedThroneAssignedDesc>
+  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
+  <NeedThroneAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられた玉座がありません。\n\n爵位の所有者が玉座の間の玉座に割り当てられているか確認してください。\n\n玉座の間には爵位保持者に相応しいサイズと装飾が必要です。\n\n一つの玉座の間に複数の玉座を設置できる場合もあります。</NeedThroneAssignedDesc>
 
   <!-- EN: Undignified bedroom -->
   <UndignifiedBedroom>みっともない寝室</UndignifiedBedroom>
@@ -14,8 +14,8 @@
 
   <!-- EN: Title requires bedroom -->
   <NeedBedroomAssigned>爵位に相応しい寝室</NeedBedroomAssigned>
-  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
-  <NeedBedroomAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられていません。\n\n玉座の間に置かれた玉座を爵位保持者に割り当ててください。玉座の間には爵位保持者に相応しいサイズと装飾が必要です。\n\n一つの玉座の間に複数の玉座を配置できます。</NeedBedroomAssignedDesc>
+  <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
+  <NeedBedroomAssignedDesc>入植者の一人が個人の寝室を必要とする爵位についていますが、割り当てられていません。\n\n対象者に個人の寝室を割り当ててください。寝室には爵位保持者に相応しいサイズと装飾が必要です。</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
   <UndignifiedThroneroom>みっともない玉座の間</UndignifiedThroneroom>
@@ -23,7 +23,7 @@
   <UndignifiedThroneroomDesc>入植者の一人が玉座と爵位を保持していますが、玉座の間が爵位に相応の要件を満たしていません。</UndignifiedThroneroomDesc>
   
   <!-- EN: No acceptable food -->
-  <RoyalNoAcceptableFood>貧弱な食べ物</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFood>貧相な食べ物</RoyalNoAcceptableFood>
   <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
   <RoyalNoAcceptableFoodDesc>入植者の一人が特定の食事条件を有する爵位についていますが、この条件を満たす食事がありません。</RoyalNoAcceptableFoodDesc>
 
@@ -34,15 +34,15 @@
   <ThroneroomInvalidConfiguration>玉座に座れない</ThroneroomInvalidConfiguration>
   <!-- EN: A throne is not usable because of how it is set up: -->
   <ThroneroomInvalidConfigurationDesc>玉座の配置が原因で使用できません:</ThroneroomInvalidConfigurationDesc>
-
+  
   <!-- EN: Monument missing blueprints -->
-  <MonumentMarkerMissingBlueprints>モニュメントの設計図が無い</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprints>設計図の配置が不十分</MonumentMarkerMissingBlueprints>
   <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
-  <MonumentMarkerMissingBlueprintsDesc>全ての部品に設計図が配置されていないためモニュメントは完成しません。\n\nモニュメントマーカーから"設計図を配置"をクリックするか、手動で設計図を配置してください。</MonumentMarkerMissingBlueprintsDesc>
+  <MonumentMarkerMissingBlueprintsDesc>設計図を配置してないパーツが存在するため、モニュメントが完成しません。\n\nモニュメントマーカーから"設計図を配置"をクリックするか、手動で設計図を配置してください。</MonumentMarkerMissingBlueprintsDesc>
 
   <!-- EN: Beacon unusable -->
   <ShipLandingBeaconUnusable>ビーコン使用不可</ShipLandingBeaconUnusable>
-  <!-- EN: A ship landing beacon is powered but can’t be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
+  <!-- EN: A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
   <ShipLandingBeaconUnusableDesc>宇宙船着陸ビーコンは通電していますが使用不能です。使用するためには、これら4つを少なくとも9タイル幅を開けた正方形に配置し、人や動物などの邪魔が入らないようにしなくてはなりません。</ShipLandingBeaconUnusableDesc>
 
   <!-- EN: Need meditation spot -->
@@ -54,4 +54,19 @@
   <UnusableMeditationFocusAlert>使用できない瞑想対象</UnusableMeditationFocusAlert>
   <!-- EN: These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button. -->
   <UnusableMeditationFocusAlertDesc>これらの入植者は使用不可能なオブジェクトの側で瞑想しています。\n\n{0}\n\n瞑想のフォーカスタイプに応じて、個々人が異なるオブジェクトを用います。フォーカスタイプはバックストーリー、特性、爵位に応じて変わります。各人のフォーカスタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します。</UnusableMeditationFocusAlertDesc>
+
+  <!-- EN: Permit choice ready -->
+  <PermitChoiceReadyAlert>許可証を選べる</PermitChoiceReadyAlert>
+  <!-- EN: {PAWN_nameDef} can choose a new permit. -->
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef}は新しい許可証を選べます。</PermitChoiceReadyAlertDesc>
+  
+  <!-- EN: Bestower waiting -->
+  <BestowerWaitingAlert>贈与者が待機中</BestowerWaitingAlert>
+  <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
+  <BestowerWaitingAlertDesc>贈与者が授与式の開始を待っています。</BestowerWaitingAlertDesc>
+
+  <!-- UNUSED -->
+  <RescueShuttleArriving>救助用シャトルの到着</RescueShuttleArriving>
+  <RescueShuttleArrivingDesc>緊急着陸した{1}を回収するために、救助用シャトルが{0}時間後に到着します。到着までの間、対象者を守ってください。</RescueShuttleArrivingDesc>
+
 </LanguageData>

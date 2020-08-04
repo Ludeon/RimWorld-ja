@@ -1,13 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Royalty and throne -->
-  <!-- EN: Appropriate for title: {0} -->
-  <ThroneTitleStature>爵位に相応: {0}</ThroneTitleStature>
-  <!-- EN: Previous title satisfied: {0} -->
-  <ThronePrevTitleStature>前爵位に充足: {0}</ThronePrevTitleStature>
-  <!-- EN: Next title satisfied: {0} -->
-  <ThroneNextTitleStature>次爵位に充足: {0}</ThroneNextTitleStature>
+  <!-- EN: Satisfies title -->
+  <ThroneMaxSatisfiedTitle>釣り合う爵位</ThroneMaxSatisfiedTitle>
   <!-- EN: ({0} impressiveness) -->
   <ThroneRoomImpressivenessInfo>({0} 印象)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
@@ -22,12 +18,12 @@
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
   <PsycastNeurotrainerLabel>サイトレーナー ({0})</PsycastNeurotrainerLabel>
-  <!-- EN: Use neurotrainer to learn {0} psycast -->
-  <PsycastNeurotrainerUseLabel>ニューロトレーナを用いて{0}の超能力を学ぶ</PsycastNeurotrainerUseLabel>
-  <!-- EN: A one-use super-dose of mechanites which trains a specific psycast.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific psycast ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>一度だけ使用可能な特定の超能力を身につけられるメカナイトの超薬物。\n\n薬物は眼窩から投与します。脳に散布されると、メカナイトは必要に応じて神経組織に変形し、特定の超能力の知識を植え付けます。</PsycastNeurotrainerDescription>
-  <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} psycast. -->
-  <AbilityNeurotrainerUsed>{USER_labelShort}はニューロトレーナーを用いて{1}の超能力を身に着けました。</AbilityNeurotrainerUsed>
+  <!-- EN: Use psytrainer to learn {0} psycast -->
+  <PsycastNeurotrainerUseLabel>サイトレーナーを用いて{0}の超能力を学ぶ</PsycastNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed. -->
+  <PsycastNeurotrainerDescription>一度だけ使用可能な、特定の超能力を身につけられるメカナイトの超薬物。\n\n薬物は眼窩から投与します。脳に散布されると、メカナイトは必要に応じて神経組織に変形し、特定の超能力の知識を植え付けます。</PsycastNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
+  <AbilityNeurotrainerUsed>{USER_labelShort}はサイトレーナーを用いて{1}の能力を身に着けました。</AbilityNeurotrainerUsed>
   <!-- EN: Requires psylink -->
   <PsycastNeurotrainerNoPsylink>サイリンクが必要です</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
@@ -37,7 +33,7 @@
   <Reward_RoyalFavor>クエストを受けた人は、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
   <Reward_RoyalFavor_ChoosePawn>関係している{2}のいずれかを選択して、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor_ChoosePawn>
-
+  
   <!-- Ship landing beacons -->
   <!-- EN: Not usable -->
   <NotUsable>使用不能</NotUsable>
@@ -49,21 +45,38 @@
   <TooCloseToOtherBeacon>他のビーコンに近すぎます</TooCloseToOtherBeacon>
   
   <!-- Meditation -->
-
   <!-- EN: Psyfocus -->
-  <Psyfocus>サイフォーカス</Psyfocus>
-  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to perform psycasts. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to perform psycasts, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level psycasts, but also increase the rate of psyfocus dissipation. -->
-  <PsyfocusDesc>サイフォーカスは超能力を用いるために要求される特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるるにつれて超能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます。</PsyfocusDesc>
+  <Psyfocus>サイフォーカス(念集中量)</Psyfocus>
+  <!-- EN: Psyfocus -->
+  <PsyfocusLabelGizmo>念集中量</PsyfocusLabelGizmo>
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される、特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるにつれて能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
-  <!-- EN: Up to level {0} psycasts. -->
-  <PsyfocusLevelInfoPsycasts>レベル{0}までの超能力。</PsyfocusLevelInfoPsycasts>
+  <!-- EN: Up to level {0} powers. -->
+  <PsyfocusLevelInfoPsycasts>レベル{0}までの能力。</PsyfocusLevelInfoPsycasts>
   <!-- EN: Psyfocus falls at {0} per day. -->
   <PsyfocusLevelInfoFallRate>サイフォーカスは一日あたり{0}減少。</PsyfocusLevelInfoFallRate>
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
   <UserMeditationFocusStrength>{LASTUSER_labelShort}による瞑想の集中力の強さ</UserMeditationFocusStrength>
   <!-- EN: Focus effect impacted by -->
   <MeditationFocusImpacted>フォーカスエフェクトの効果</MeditationFocusImpacted>
+  <!-- EN: {1} per nearby animus stone (max {0}) -->
+  <MeditationFocusPerAnimusStoneAbstract>近くのアニムスの秘石あたり{1} (最大 {0})</MeditationFocusPerAnimusStoneAbstract>
+  <!-- EN: {2} per nearby animus stone ({0} / {1}) -->
+  <MeditationFocusPerAnimusStone>近くのアニムスの秘石あたり{2} ({0} / {1})</MeditationFocusPerAnimusStone>
+  <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
+  <MeditationFocusPerSculptureAbstract>近くの品質に応じた芸術品あたり{1} (最大 {0})</MeditationFocusPerSculptureAbstract>
+  <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
+  <MeditationFocusPerSculpture>近くの品質に応じた芸術品あたり{2} ({0} / {1})</MeditationFocusPerSculpture>
+  <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
+  <MeditationFocusPerGraveAbstract>近くの中身のない墓あたり{1}、\nヒトの死体入りの場合は{2} (最大{0})</MeditationFocusPerGraveAbstract>
+  <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
+  <MeditationFocusPerGrave>近くの中身のない墓あたり{2}、\nヒトの死体入りの場合は{3} ({0} / {1})</MeditationFocusPerGrave>
+  <!-- EN: {1} per nearby lit flame source (up to {0}) -->
+  <MeditationFocusPerFlameAbstract>近くの火のついた熱源あたり{1} (最大 {0})</MeditationFocusPerFlameAbstract>
+  <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
+  <MeditationFocusPerFlame>近くの火のついた熱源あたり{2} ({0} / {1})</MeditationFocusPerFlame>
   <!-- EN: Psyfocus gain rate: {0}/d -->
   <PsyfocusPerDayOfMeditation>サイフォーカス上昇レート: {0}/日</PsyfocusPerDayOfMeditation>
   <!-- EN: Desired psyfocus -->
@@ -86,7 +99,7 @@
   <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています。</AbilityReadyText>
   
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <AbilitySpeechTooltip>玉座で演説を行います。{ORGANIZER_labelShort}は{ORGANIZER_possessive}の玉座に着き、聴衆として入植者を呼び集めます。成功すれば聴衆は発奮し、{ORGANIZER_labelShort}に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{ORGANIZER_labelShort}の社交スキルに依存します。</AbilitySpeechTooltip>
+  <AbilitySpeechTooltip>玉座で演説を行います。{ORGANIZER_labelShort}は{ORGANIZER_possessive}玉座に着き、聴衆として入植者を呼び集めます。成功すれば聴衆は発奮し、{ORGANIZER_labelShort}に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{ORGANIZER_labelShort}の社交スキルに依存します。</AbilitySpeechTooltip>
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>玉座が割り当てられていません。</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
@@ -95,6 +108,8 @@
   <AbilitySpeechDisabledNoThroneUndignified>玉座が爵位に相応しくないため使用できません。</AbilitySpeechDisabledNoThroneUndignified>
   <!-- EN: already giving a speech. -->
   <AbilitySpeechDisabledAlreadyGivingSpeech>すでに演説中です。</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>別の集まりが行われています。</AbilitySpeechDisabledAnotherGatheringInProgress>
   <!-- EN: Next speech ready in -->
   <AbilitySpeechCooldown>次の演説の準備まで</AbilitySpeechCooldown>
   <!-- EN: Outcome chances -->
@@ -102,18 +117,38 @@
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
   <AbilitySpeechStatInfo>{ORGANIZER_labelShort}の{1}状態</AbilitySpeechStatInfo>
 
-  <!-- EN: Progress to next {0}: {1} -->
-  <ProgressToNextSubplant>次の{0}への進捗: {1}</ProgressToNextSubplant>
+  <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
+  <TotalMeditationToday>本日の総瞑想時間: {0}間 (進行度乗数: {1})</TotalMeditationToday>
+  <!-- EN: progress {0} -->
+  <ProgressToNextSubplant>進行度: {0}</ProgressToNextSubplant>
   <!-- EN: Begin linking ritual -->
   <BeginLinkingRitualFloatMenu>リンクの儀式を開始</BeginLinkingRitualFloatMenu>
   <!-- EN: Need {0} {1} here (have {2}) -->
-  <BeginLinkingRitualNeedSubplants>ここに{0} {1} が必要 (所有 {2})</BeginLinkingRitualNeedSubplants>
-  <!-- EN: Need {0} pyslink focus -->
-  <BeginLinkingRitualNeedFocus>{0}のサイリンクフォーカスが必要</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualNeedSubplants>{0}本の{1}が必要 (所有数: {2}本)</BeginLinkingRitualNeedSubplants>
+  <!-- EN: Need {0} psylink focus type -->
+  <BeginLinkingRitualNeedFocus>{0}のサイリンクのフォーカスタイプが必要</BeginLinkingRitualNeedFocus>
   <!-- EN: Need a free, reachable spot within 3 cells for linking -->
   <BeginLinkingRitualNeedLinkSpot>リンクするには3セル以内に未所有かつ到達可能なスポットが必要</BeginLinkingRitualNeedLinkSpot>
   <!-- EN: Linking ritual completed -->
   <LetterLabelLinkingRitualCompleted>リンクの儀式が完了</LetterLabelLinkingRitualCompleted>
-  <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psycasts. -->
+  <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
   <LetterTextLinkingRitualCompleted>{PAWN_labelShort}は{LINKABLE_labelShort}とのリンクの儀式を完了させました。\n\n{PAWN_pronoun}のサイリンクが進化し、新たな超能力が使えるようになりました。</LetterTextLinkingRitualCompleted>
+
+  <!-- EN: Land shuttle here -->
+  <LandHere>シャトルの場所を見る</LandHere>
+  <!-- EN: Destination is out of range. -->
+  <MessageShuttleDestinationIsTooFar>目的地が範囲外です。</MessageShuttleDestinationIsTooFar>
+
+  <!-- EN: Do bestowing ceremony -->
+  <BeginCeremony>授与式を始める</BeginCeremony>
+  <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>贈与者は、{PAWN_definite}の玉座が{TITLE}の爵位に見合っていない事に腹を立てています。授与式はキャンセルされました。</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+
+  <!-- EN: Not all required cargo is loaded yet! -->
+  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積まれていません！</ShuttleRequiredItemsNotSatisfied>
+  <!-- UNUSED -->
+  <ThroneTitleStature>爵位に相応: {0}</ThroneTitleStature>
+  <ThronePrevTitleStature>前爵位に充足: {0}</ThronePrevTitleStature>
+  <ThroneNextTitleStature>次爵位に充足: {0}</ThroneNextTitleStature>
+
 </LanguageData>
