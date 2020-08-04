@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: broadshield pack -->
+  <Apparel_PackBroadshield.label>ブロードシールドパック</Apparel_PackBroadshield.label>
+  <!-- EN: A single-use man-portable bullet shield projector. Deployed on the ground, it generates a circular shield that allows bullets out but not in. The unit is designed to last only a short time before burning out.\n\nMany ultratech combat squads owe their lives to a broadshield deployed at just the right time. -->
+  <Apparel_PackBroadshield.description>使い捨ての携帯型バレットシールド発生器です。地面に設置すると、弾丸を内からは通し、外からは弾く円形のシールドが生成されます。ユニットは、焼損するまでの短時間のみ持続するように設計されています。\n\n最先端技術を用いる多くの戦闘部隊は、適切なタイミングで設置されたブロードシールドに命を預けます。</Apparel_PackBroadshield.description>
+  <!-- EN: broadshield -->
+  <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>ブロードシールド</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
+  <!-- EN: deploy broadshield -->
+  <Apparel_PackBroadshield.verbs.deploy_broadshield.label>ブロードシールドを設置</Apparel_PackBroadshield.verbs.deploy_broadshield.label>
+  
+  <!-- EN: jump pack -->
+  <Apparel_PackJump.label>ジャンプパック</Apparel_PackJump.label>
+  <!-- EN: A single-person burst rocket for short-ranged flight. With its integrated harness and guidance assistant, the jump pack allows anyone to leap long distances at high speed, even over obstacles. It must be recharged after several uses.\n\nSome spacer tech militaries have melee combat specialists who use jump packs to bypass obstacles and rapidly close with the enemy. -->
+  <Apparel_PackJump.description>短距離飛行が可能な一人用ロケットです。ジャンプパックにはハーネスとガイダンスアシスタントが統合されており、誰でも障害物を無視して高速で長距離を飛ぶ事が出来ます。数回使用した後は、燃料を補充する必要があります。\n\n宇宙技術を用いる一部の軍隊には、ジャンプパックを使用して障害物を無視し、敵に素早く接近する近接戦闘のスペシャリストがいます。</Apparel_PackJump.description>
+  <!-- EN: jump -->
+  <Apparel_PackJump.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_PackJump.comps.CompReloadable.chargeNoun>
+  <!-- EN: jump -->
+  <Apparel_PackJump.verbs.jump.label>ジャンプする</Apparel_PackJump.verbs.jump.label>
+  
+</LanguageData>

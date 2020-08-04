@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Royal Titles -->
@@ -33,14 +33,14 @@
   <!-- EN: Any prestige armor -->
   <ApparelRequirementAnyPrestigeArmor>特級パワーアーマー</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
-  <ApparelRequirementAnyPsycasterApparel>サイキャスターの衣服</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementAnyPsycasterApparel>超能力者の衣服</ApparelRequirementAnyPsycasterApparel>
   <!-- EN: Disallowed work types -->
   <DisabledWorkTypes>許可されていな作業</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
   <RoyalTitleRequiredMeals>許容される食料</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
   <RoyalTitleRequiredMealsDesc>この爵位の保持者は飢餓状態かキャラバン中でない限り、これらの食料のみを食べます。</RoyalTitleRequiredMealsDesc>
-  
+
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
   <RoyalImplantIllegalUseWarning> {FACTION_name}の法律では、{IMPLANT}を合法的に用いるには{TITLE}の爵位が必要です。\n\n{VIOLATIONTRIGGER}、 {FACTION_name} にサイキックサインを検知される可能性があります。これによって外交的な問題を引き起こします。</RoyalImplantIllegalUseWarning>
@@ -51,7 +51,9 @@
 
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <BladelinkEquipWarning>一度でも生体認証を行うと、武器のAIは他者による使用を拒否します。</BladelinkEquipWarning>
+  <BladelinkEquipWarning>一度でも絆を結ぶと、武器に宿るペルソナは他者に使用される事を拒否します。</BladelinkEquipWarning>
+  <!-- EN: The weapon has the following traits -->
+  <BladelinkEquipWarningTraits>この武器には以下の特性・特徴があります</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
   <RoyalWeaponEquipConfirmation>この武器を装備させてよろしいですか？</RoyalWeaponEquipConfirmation>
   
@@ -70,7 +72,9 @@
   <RoyalWithConceitedTrait>{PAWN_labelShort}は{2}であるので、{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求しています。{PAWN_labelShort}は特定の種類の仕事を拒否し、低品質な食品は受け付けず、法令を発布します。別の入植者のほうがより柔軟でしょう。</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
   <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}は{2}なので、{PAWN_objective}のサイリンクが機能しないかもしれません。</RoyalWithTraitAffectingPsylinkNegatively>
-  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
-  <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\nそれでも超能力を獲得しますか？</PsylinkTooLowForGainAbility>
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
+  <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\nそれでもこの能力を獲得しますか？</PsylinkTooLowForGainAbility>
+  <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
+  <SendShuttleWithNoContents>このシャトルには何も積載されていません。これを別の場所に送ると、再び使う事が出来なくなります。\n\nそれでも送りますか？</SendShuttleWithNoContents>
 
 </LanguageData>

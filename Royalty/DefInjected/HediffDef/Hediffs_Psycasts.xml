@@ -1,17 +1,22 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: entropy link -->
   <EntropyLink.label>エントロピーリンク</EntropyLink.label>
-  <!-- EN: A psychic link with another individual. Gain or loss of psychic entropy incurred by one will be shared equally between both. -->
-  <EntropyLink.description>他者とのサイキックリンク。どちらかが被るニューラルヒートの増減は、両者で等しく共有されます。</EntropyLink.description>
+  <!-- EN: A psychic link with another individual. Gain or loss of neural heat incurred by one will be shared equally between both. -->
+  <EntropyLink.description>他者とのサイキックリンクです。どちらかが被るニューラルヒートの増減は、両者で等しく共有されます。</EntropyLink.description>
+  
+  <!-- EN: joyfuzz -->
+  <Joyfuzz.label>ジョイファズ</Joyfuzz.label>
+  <!-- EN: Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness. -->
+  <Joyfuzz.description>超能力的に誘発された暖かさ、励まし、寛容さの感覚です。心情を改善しますが、否定的な刺激の欠如は軽度の知覚麻痺を引き起こし、意識を低下させます。</Joyfuzz.description>
   
   <!-- EN: psylink -->
   <PsychicAmplifier.label>サイリンク</PsychicAmplifier.label>
-  <!-- EN: An organic connection to a larger psychic field. This allows a person to use specific psycasts that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powerful psycasts. Regardless of psylink level, a person can only use specific psycasts that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
-  <PsychicAmplifier.description>より大きなサイキックフィールドへのオーガニック的なつながり。これにり、学習した超能力を用いて、不可能と思える事象を現実に起こすことができます。\n\nサイリンクのレベルが高いほど、より強力な超能力を使用できます。レベルに関係なく、学習した超能力以外は使えません。\n\nサイリンクは様々なソースから得ることができます。シングルユースのニューロフォーマーデバイスはサイリンクを形成することができます。部族の人々は、特定の生命体と精神共有を得て、儀式を通してそれを高める方法を知っています。\n\n科学者はサイリンクを脳内の物理現象として観測できていません。なぜなら意識的に調べようとすると隠匿してしまうからです。大方の意見としては、人間とアーキテクトの間に交渉や共感を介して結びつきが生まれ、その力を利用しているのだろうと考えられています。</PsychicAmplifier.description>
- 
-   <!-- EN: psychic anesthesia -->
+  <!-- EN: An organic connection to a larger psychic field. This allows a person to use specific psychic powers that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
+  <PsychicAmplifier.description>より大きな精神領域を作り出すための、有機的な接続具です。これにより、学習した超能力を用いて、不可能と思える事象を現実に起こすことができます。\n\nサイリンクのレベルが高いほどより強力な能力を使用できます。レベルに関係なく、学習した能力以外は使えません。\n\nサイリンクは様々なソースから得ることができます。使い切りのサイリンク・ニューロフォーマーデバイスは、サイリンクを作り出す事ができます。部族の人々は、特定の生命体と精神共有を得て、儀式を通してそれを高める方法を知っています。\n\n科学者は、サイリンクを脳内の物理現象として観測できていません。なぜなら意識的に調べようとすると、それは積極的に隠れてしまうからです。大方の意見としては、人間とアーキテクトの間に交渉や共感を介して結びつきが生まれ、その力を利用しているのだろうと考えられています。</PsychicAmplifier.description>
+  
+  <!-- EN: psychic anesthesia -->
   <PsychicAnesthesia.label>鈍痛 (サイキック)</PsychicAnesthesia.label>
   <!-- EN: Psychically-induced pain insensitivity. -->
   <PsychicAnesthesia.description>超能力による痛覚の鈍化。</PsychicAnesthesia.description>
@@ -39,17 +44,22 @@
   
   <!-- EN: neural heat -->
   <PsychicEntropy.label>ニューラルヒート</PsychicEntropy.label>
-  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psycasts and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown, psylink degradation and finally unconsciousness due to psychic shock. None of these conditions cause permanent damage, but they can knock someone unconscious for days. -->
+  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown, psylink degradation and finally unconsciousness due to psychic shock. None of these conditions cause permanent damage, but they can knock someone unconscious for days. -->
   <PsychicEntropy.description>"熱"と称されていますが、ニューラルヒートは温度ではありません。超能力を使用した際に精神内に蓄積され、数秒から数分の間に発散するカオスな精神エネルギーの一種といえます。\n\nニューラルヒートが限界を超えると、一時的な精神崩壊、サイリンクの低下が起き、最終的にサイコショックによって意識不明となります。いずれも永続的なダメージこそ有りませんが、数日の間昏睡状態に陥ることもあります。</PsychicEntropy.description>
   <!-- EN: safe -->
   <PsychicEntropy.stages.safe.label>安定</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
   <PsychicEntropy.stages.overloaded.label>過負荷</PsychicEntropy.stages.overloaded.label>
   <!-- EN: very overloaded -->
-  <PsychicEntropy.stages.hyperloaded.label>超過負荷</PsychicEntropy.stages.hyperloaded.label>
+  <PsychicEntropy.stages.very_overloaded.label>超過負荷</PsychicEntropy.stages.very_overloaded.label>
   <!-- EN: extreme -->
-  <PsychicEntropy.stages.brain_charring.label>極限</PsychicEntropy.stages.brain_charring.label>
+  <PsychicEntropy.stages.extreme.label>極限</PsychicEntropy.stages.extreme.label>
   <!-- EN: overwhelming -->
+  <PsychicEntropy.stages.overwhelming.label>完全崩壊</PsychicEntropy.stages.overwhelming.label>
+  
+  <!-- UNUSED -->
+  <PsychicEntropy.stages.hyperloaded.label>超過負荷</PsychicEntropy.stages.hyperloaded.label>
+  <PsychicEntropy.stages.brain_charring.label>極限</PsychicEntropy.stages.brain_charring.label>
   <PsychicEntropy.stages.brain_roasting.label>完全崩壊</PsychicEntropy.stages.brain_roasting.label>
   
   <!-- EN: psychic focus -->
@@ -61,6 +71,11 @@
   <PsychicInvisibility.label>不可視</PsychicInvisibility.label>
   <!-- EN: Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected. -->
   <PsychicInvisibility.description>超能力による透明化。実際にはこの能力は周囲の人間に影響を及ぼし、たとえ目が正常でも脳が術者を認識できないようにするものです。</PsychicInvisibility.description>
+  
+  <!-- EN: psychic love -->
+  <PsychicLove.label>恋愛欲求</PsychicLove.label>
+  <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
+  <PsychicLove.description>超能力によって誘発された恋愛的な欲求です。自分以外の誰かに対する評価を増加させ、恋愛的な進展や結婚の提案の可能性が上がる一方で、別れる可能性が低くなります。</PsychicLove.description>
   
   <!-- EN: psychic vertigo -->
   <PsychicVertigo.label>空間識失調</PsychicVertigo.label>

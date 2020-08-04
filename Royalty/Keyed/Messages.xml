@@ -1,13 +1,36 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Shuttle landing zones -->
-  <!-- EN: Shuttle could not land on pad: {0}. -->
-  <ShuttleBlocked>シャトルはパッドに着陸できませんでした。: {0}</ShuttleBlocked>
-  <!-- EN: blocked by {0_label} -->
+  <!-- EN: Shuttle could not land on pad: {0} -->
+  <ShuttleBlocked>シャトルはパッドに着陸できませんでした: {0}</ShuttleBlocked>
+  <!-- EN: blocked by {0_label}. -->
   <BlockedBy>{0_label}が邪魔になっている</BlockedBy>
+  <!-- EN: The shuttle has arrived. -->
+  <MessageShuttleArrived>シャトルが到着しました。</MessageShuttleArrived>
+  <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
+  <MessageShuttleArrivedContentsLost>シャトルが到着しましたが、入植者が中にいなかったため、内容物が失われました。</MessageShuttleArrivedContentsLost>
+  <!-- EN: Cannot call shuttle -->
+  <CannotCallShuttle>シャトルが呼び出せない</CannotCallShuttle>
+
+  <!-- EN: Cannot land in undiscovered area. -->
+  <ShuttleCannotLand_Fogged>未発見のエリアには着陸できません。</ShuttleCannotLand_Fogged>
+  <!-- EN: Area must be walkable. -->
+  <ShuttleCannotLand_Unwalkable>エリアは歩行可能な場所でなければなりません。</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Warning: Anima tree has been marked for cutting. -->
   <MessageWarningCutAnimaTree>警告: アニマツリーが伐採対象に選択されています。</MessageWarningCutAnimaTree>
+
+  <!-- EN: Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony. -->
+  <MessageBestowerWaiting>{TARGET_definite}を選択し、贈与者を右クリックする事で授与式を開始できます。</MessageBestowerWaiting>
+  <!-- EN: Cannot reach bestower! -->
+  <MessageBestowerUnreachable>贈与者まで到達できません！</MessageBestowerUnreachable>
+  <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
+  <MessageBestowingSpotUnreachable>贈与者は妨害行為に怒り、去ることを決めました。</MessageBestowingSpotUnreachable>
+
+  <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
+  <MessageBestowingCeremonyStarted>{PAWN_definite}の授与式が始まりました。</MessageBestowingCeremonyStarted>
+  <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
+  <MessageMissionGetBackToShuttle>{FACTION_pawnsPlural}を倒しました！シャトルに戻って発射します。</MessageMissionGetBackToShuttle>
 
 </LanguageData>

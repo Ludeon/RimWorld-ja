@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: drill arm -->
   <DrillArm.label>ドリルアーム</DrillArm.label>
-  <!-- EN: A mechanical arm replacement for speeding up mining. It has a built-in snake drill, which allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator which, while not useless for non-mining tasks, is inferior to a natural hand. -->
-  <DrillArm.description>採掘速度を向上させるための付け替え義手。組み込まれたスネークドリルが石目を素早く発見して、効率的に採掘できます。汎用のマニュピレータも備えられていますが、採掘以外には役に立たないため、自然な腕よりも劣ります。</DrillArm.description>
+  <!-- EN: A mechanical arm replacement for speeding up mining. It has a built-in snake drill, which allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <DrillArm.description>採掘速度を向上させるための付け替え義手。組み込まれたスネークドリルが石目を素早く発見して、効率的に採掘できます。また、汎用のマニュピレータも備えられています。やや不格好な形状をしているため、移動速度が少しだけ遅くなってしまいます。</DrillArm.description>
   
   <!-- EN: elbow blade -->
   <ElbowBlade.label>エルボーブレード</ElbowBlade.label>
@@ -13,8 +13,8 @@
   
   <!-- EN: field hand -->
   <FieldHand.label>フィールドハンド</FieldHand.label>
-  <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It can also be used for other tasks, but for this purpose is inferior to a natural hand. -->
-  <FieldHand.description>種まきや収穫といった農作業の速度を上げるための付替え義手。複数の伸縮自在な指状突起が、同種の植物の一斉収穫や、複数の穴への一括種まきを可能とします。他の作業に使用することも出来ますが、そうした目的では自然な腕に劣ります。</FieldHand.description>
+  <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <FieldHand.description>種まきや収穫といった農作業の速度を上げるための付替え義手。複数の伸縮自在な指状突起が、同種の植物の一斉収穫や、複数の穴への一括種まきを可能とします。また、汎用のマニュピレータも備えられています。やや不格好な形状をしているため、移動速度が少しだけ遅くなってしまいます。</FieldHand.description>
   
   <!-- EN: hand talon -->
   <HandTalon.label>隠し鉤爪</HandTalon.label>
