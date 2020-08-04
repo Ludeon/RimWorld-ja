@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Royal titles -->
@@ -171,7 +171,6 @@
   <LetterTextBestowingCeremonyExpired>{TARGET_definite}が授与式に出席しませんでした。授与式はキャンセルされました。</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
-  <!--TODO--><!--仮翻訳: {0}に代入される文字列が分からないため、実際に確認して、それに合わせて書き換えて下さい。-->
   <LetterTextHonorAward_BanditCamp>無法集団の野営地を倒した功績として、誰が{0}を受けますか？</LetterTextHonorAward_BanditCamp>
 
   <!-- Shuttle crash -->
