@@ -36,9 +36,9 @@
   <Apparel_ArmorHelmetReconPrestige.description>ステータス管理コンピューターが内蔵され、プラスチール繊維の積層装甲板で覆われたハイテク装甲ヘルメットです。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorHelmetReconPrestige.description>
   
   <!-- EN: locust armor -->
-  <Apparel_ArmorLocust.label>バッタアーマー</Apparel_ArmorLocust.label>
+  <Apparel_ArmorLocust.label>ロクストアーマー</Apparel_ArmorLocust.label>
   <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
-  <Apparel_ArmorLocust.description>短距離飛行用のバーストロケットを備えたリコーンアーマーの一種です。バッタアーマーの防御力は、通常のリコーンアーマーより僅かに劣ります。ジャンプを行うたび、燃料を一気に消費してしまうため、何度か使用した後は再補充を行う必要があります。\n\nバッタ部隊は主に、最先端技術を用いた軍組織のほとんどとは異なり、近接武器を用いて訓練します。彼らは通常、動きの少ない銃撃戦を避け、敵に真っ直ぐジャンプを行い、格闘戦に持ち込む方を選びます。動きの少ない防衛戦や狭い区画では力を発揮できませんが、混戦や船の破壊工作には優れています。</Apparel_ArmorLocust.description>
+  <Apparel_ArmorLocust.description>短距離飛行用のバーストロケットを備えた、バッタの名を冠するリコーンアーマーの一種です。ロクストアーマーの防御力は、通常のリコーンアーマーより僅かに劣ります。ジャンプを行うたび、燃料を一気に消費してしまうため、何度か使用した後は再補充を行う必要があります。\n\nロクスト部隊は主に、最先端技術を用いた軍組織のほとんどとは異なり、近接武器を用いて訓練します。彼らは通常、動きの少ない銃撃戦を避け、敵に真っ直ぐジャンプを行い、格闘戦に持ち込む方を選びます。動きの少ない防衛戦や狭い区画では力を発揮できませんが、混戦や船の破壊工作には優れています。</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
   <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
   <!-- EN: jump -->
@@ -49,9 +49,9 @@
   <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
   <Apparel_ArmorMarineGrenadier.description>肩にフラグランチャーを備えた、マリーンアーマーの一種です。このアーマーの防御力は、通常のマリーンアーマーより僅かに劣ります。ランチャーには限られた弾数しか装填できないため、使用後は再補充を行う必要があります。\n\nグレネード部隊は通常、船内の隔壁や建物の突破を専門としています。非常に長い射程ではあまり効果を見せませんが、狭い区画では驚くほど致命的になる可能性があります。</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>徹甲弾</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>グレネード</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
   <!-- EN: launch frag grenade -->
-  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>徹甲弾を発射</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>グレネードを発射</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
   
   <!-- EN: prestige marine helmet -->
   <Apparel_ArmorMarineHelmetPrestige.label>特級マリーンアーマー</Apparel_ArmorMarineHelmetPrestige.label>
@@ -72,6 +72,6 @@
   <Proj_GrenadePhoenixFire.label>焼夷擲弾</Proj_GrenadePhoenixFire.label>
   
   <!-- EN: frag grenade -->
-  <Proj_GrenadierGrenade.label>徹甲擲弾</Proj_GrenadierGrenade.label>
+  <Proj_GrenadierGrenade.label>フラググレネード</Proj_GrenadierGrenade.label>
   
 </LanguageData>
