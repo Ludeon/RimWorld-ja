@@ -147,7 +147,7 @@
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have lost [asker_possessive] home in a recent attack.</li>
     <li>claimInfo(lodgerCount>=2)->They claim to have lost their home in a recent attack.</li>
     <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>
-    <li>joinInfo(lodgerCount>=1)->If you make them happy, some of them may offer to join you.</li>
+    <li>joinInfo(lodgerCount>=2)->If you make them happy, some of them may offer to join you.</li>
     <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
     <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
   -->
@@ -171,7 +171,7 @@
     <li>claimInfo(lodgerCount==1)->[asker_nameDef]は最近、自分の家を襲撃によって失ったと主張しています。</li>
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは最近、自分達の家を襲撃によって失ったと主張しています。</li>
     <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わる事を申し出るかもしれません。</li>
-    <li>joinInfo(lodgerCount>=1)->もし[asker_pronoun]らを幸せにすれば、[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
+    <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば、[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
     <li>travelerInfo(lodgerCount==1)->この[faction_pawnSingular]</li>
     <li>travelerInfo(lodgerCount>=2)->この[faction_pawnsPlural]</li>
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>

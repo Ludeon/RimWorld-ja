@@ -3800,6 +3800,15 @@
     <desc>[PAWN_possessive]母星を脱出したあと,[PAWN_nameDef]は,傭兵の一団と偶然に出会いました.[PAWN_pronoun]は,何年も,まだ歩けない妹や弟たちに寄り添い戦ってきました.\n\nある日,[PAWN_pronoun]らは戦闘で負けて包囲されました.退却することを拒否し,[PAWN_nameDef]は敵に撃たれました.[PAWN_pronoun]は,不思議なことに無傷の死体の山の中で意識を取り戻し恐怖におののきました.</desc>
   </Mercenary55>
   
+  <MercenaryCaptain56>
+    <!-- EN: Mercenary captain -->
+    <title>傭兵の隊長</title>
+    <!-- EN: Captain -->
+    <titleShort>隊長</titleShort>
+    <!-- EN: [PAWN_pronoun] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_nameDef] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
+    <desc>[PAWN_pronoun]は傭兵で構成された船の乗組員でした.鍛錬と自信に満ちた[PAWN_nameDef]はすぐに地位を上げ,友人を増やしました.\n\n傭兵の隊長だった頃,[PAWN_pronoun]は社交的で穏やかな人物として知られていました-おそらくジョイワイヤーのおかげでしょう.</desc>
+  </MercenaryCaptain56>
+  
   <MercenaryChef44>
     <!-- EN: mercenary chef -->
     <title>傭兵のシェフ</title>
@@ -4339,6 +4348,15 @@
     <!-- EN: Left alone in the world without parents, [PAWN_nameDef] did the best [PAWN_pronoun] could to adapt.\n\nHaving to take care both of [PAWN_objective]self and younger kids at the orphanage, [PAWN_pronoun] learned a lot about humans and how to interact with them. -->
     <desc>両親のいない世界で一人きりになった[PAWN_nameDef]は,自分が順応できるように最善を尽くしました.\n\n孤児院で自分と年下の子供たちの両方に注意を払わなければならなかった[PAWN_pronoun]は,人についてと,人と対話する手段について多くを学びました.</desc>
   </Orphan25>
+  
+  <OrphanedAcrobat84>
+    <!-- EN: Orphaned acrobat -->
+    <title>孤児になった曲芸師</title>
+    <!-- EN: Acrobat -->
+    <titleShort>曲芸師</titleShort>
+    <!-- EN: Born a quiet urbworld orphan, [PAWN_nameDef] was invited to join a traveling circus. [PAWN_possessive] small size and observant nature helped [PAWN_nameDef] become a noted acrobat.\n\nUnfortunately, [PAWN_possessive] violent tendencies brought [PAWN_possessive] acrobatic career to an early end. -->
+    <desc>閑静なUrbworldの孤児として生まれた[PAWN_nameDef]は,旅行サーカス団へ加わる事を誘われました.[PAWN_possessive]小さな体と注意深さは,[PAWN_nameDef]が有名な曲芸師になる事を自然に助けました.\n\n残念ながら,[PAWN_pronoun]には暴力的な傾向があったため,[PAWN_possessive]曲芸的なキャリアは早期に終わりを迎えました.</desc>
+  </OrphanedAcrobat84>
   
   <OrphanOfWar60>
     <!-- EN: orphan of war -->
