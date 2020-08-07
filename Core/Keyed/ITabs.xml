@@ -111,7 +111,7 @@
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>有罪とする(有効期限切れまで残り{0})</ConsideredGuilty>
+  <ConsideredGuilty>有罪とする(有効期限: {0})</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->

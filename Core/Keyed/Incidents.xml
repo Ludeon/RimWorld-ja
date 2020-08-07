@@ -196,7 +196,7 @@
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>拠点の近く,{0},特別な取引を,あなたに持ちかけてきました.購入品:\n\n  {1} (価値 {2})\n\n見返りとして提示額:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\n取引に興味があれば,要求した品と共にキャラバン隊を送ります.到着までに必要な時間は{6}.この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
+  <LetterCaravanRequest>入植地の近くにある,{0}が特別な取引を持ちかけてきました. 彼らは,以下の物を欲しがっています:\n\n  {1} (価値 {2})\n\n見返りとして提示:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\n取引に興味があれば,要求された品物を持たせたキャラバン隊を送りましょう. おおよその旅程時間は{6}です. この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
   <CaravanRequestInfo>要求: {0}({3}),報酬: {1}({4}) (残り{2})</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
