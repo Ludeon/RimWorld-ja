@@ -2,16 +2,18 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], wants you to help save one of [asker_possessive] caravans. The caravan is being hunted near [map_definite] by [numGroupsOf] [enemyFaction_pawnsPlural] from [enemyFaction_name]. [asker_nameDef] wants you to signal the [enemyFaction_pawnsPlural] to draw them away from the caravan - and towards you.\n\n[pawnKindsParagraph]\n\n[helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request of you.\n\n[groupsOf] from [enemyFaction_name] have been harassing [asker_possessive] caravans in the area. [asker_nameDef] asks that you send them a challenge message, attracting them to attack and eliminating the threat yourself.\n\n[pawnKindsParagraph]\n\n[helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], wants you to help save one of [asker_possessive] caravans. The caravan is being hunted near [map_definite] by (*Threat)[numGroupsOf] [enemyFaction_pawnsPlural](/Threat) from [enemyFaction_name]. [asker_nameDef] wants you to signal the [enemyFaction_pawnsPlural] to draw them away from the caravan - and towards you.\n\n[pawnKindsParagraph]\n\n[helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request of you.\n\n(*Threat)[groupsOf](/Threat) from [enemyFaction_name] have been harassing [asker_possessive] caravans in the area. [asker_nameDef] asks that you send them a challenge message, attracting them to attack and eliminating the threat yourself.\n\n[pawnKindsParagraph]\n\n[helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
     <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
     <li>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</li>
   -->
+  <!--[helpersParagraph]の頭には元から\n\nが記述されています。原文のように\n\n[helpersParagraph]表記にすると、クエスト文に3行文の空行が表示されてしまいます。恐らく記述ミスだと思うので、翻訳の方では[helpersParagraph]前の\n\nを削除しています。-->
   <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が[asker_possessive]のキャラバンの一つを救助するのを手伝うよう求めています。そのキャラバンは[enemyFaction_name]からの[numGroupsOf]個の[enemyFaction_pawnsPlural]に[map_definite]の付近で追われています。[asker_nameDef]は[enemyFaction_pawnsPlural]を引きつけてキャラバンから離す合図を送り、あなたのもとへと向かわせるようよう求めています。\n\n[pawnKindsParagraph]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]の間やって来るでしょう。</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が、要請をしています。\n\n[asker_possessive]のキャラバンはその地域で[enemyFaction_name]からの[groupsOf]の攻撃に悩まされています。[asker_nameDef]は彼らに挑発的なメッセージを送り、攻撃を引き付けて脅威を取り除くように求めています。\n\n[pawnKindsParagraph]\n\n[helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]の間やって来るでしょう。</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が、 [asker_possessive]キャラバンの一つを救助するのを手伝うよう求めています。そのキャラバンは[map_definite]の付近で、[enemyFaction_name]に所属する(*Threat)[numGroupsOf][enemyFaction_pawnsPlural](/Threat)に追われています。[asker_nameDef]は[enemyFaction_pawnsPlural]を引きつけてキャラバンから離す合図を送り、あなたのもとへと向かわせるようよう求めています。\n\n[pawnKindsParagraph][helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]後にやって来るでしょう。</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が要請をしています。\n\n[asker_possessive]キャラバンはその地域で[enemyFaction_name]からの(*Threat)[groupsOf](/Threat)の攻撃に悩まされています。[asker_nameDef]は彼らに挑発的なメッセージを送り、攻撃を引き付けて脅威を取り除くように求めています。\n\n[pawnKindsParagraph][helpersParagraph]もし受諾した場合、[enemyFaction_pawnsPlural]が[firstRaidDelayTicks_duration]後にやって来るでしょう。</li>
     <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
-    <li>groupsOf->[numGroupsOf]個の[enemyFaction_pawnsPlural]</li></ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+    <li>groupsOf->[numGroupsOf]個の[enemyFaction_pawnsPlural]</li>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
     <li>questName->[violence] of Fortune</li>
@@ -35,7 +37,7 @@
     <li>violence->Warfare</li>
   -->
   <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
-  　<li>questName->運命の[enemyFaction_pawnsPlural]</li>
+    <li>questName->運命の[enemyFaction_pawnsPlural]</li>
     <li>questName->運命の[violence]</li>
     <li>questName->雇用のための[violence]</li>
     <li>questName->利益のための[violence]</li>
@@ -55,6 +57,6 @@
     <li>violence->紛争</li>
     <li>violence->敵対</li>
     <li>violence->交戦</li>
-    </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

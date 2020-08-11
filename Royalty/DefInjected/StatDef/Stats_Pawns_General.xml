@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: meditation psyfocus gain -->
-  <MeditationFocusGain.label>瞑想サイフォーカスゲイン</MeditationFocusGain.label>
+  <MeditationFocusGain.label>瞑想時のサイフォーカス量</MeditationFocusGain.label>
   <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
   <MeditationFocusGain.description>フォーカスオブジェクトの追加分を除き、一日の瞑想で得られるサイフォーカスの数値。</MeditationFocusGain.description>
   <!-- EN: {0} / day -->
@@ -11,7 +11,7 @@
   <MeditationFocusGain.formatStringUnfinalized>{0}/日</MeditationFocusGain.formatStringUnfinalized>
   
   <!-- EN: neural heat gain -->
-  <PsychicEntropyGain.label>ニューラルヒートゲイン</PsychicEntropyGain.label>
+  <PsychicEntropyGain.label>ニューラルヒート量</PsychicEntropyGain.label>
   <!-- EN: A multiplier on neural heat gained from any source. -->
   <PsychicEntropyGain.description>任意のソースから得られるニューラルヒートの乗数。</PsychicEntropyGain.description>
   

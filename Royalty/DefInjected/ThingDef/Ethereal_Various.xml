@@ -12,4 +12,10 @@
   <!-- EN: Marks the place where you intend to build a monument. Once placed, this cannot be moved. -->
   <MonumentMarker.description>モニュメントの建設予定地点を示すマーカー。一度配置すると移動することは出来ません。</MonumentMarker.description>
   
+  <!-- EN: flying -->
+  <PawnJumper.label>飛行中</PawnJumper.label>
+  
+  <!-- EN: solar pinhole -->
+  <SolarPinhole.label>ソーラーピンホール</SolarPinhole.label>
+  
 </LanguageData>

@@ -1,9 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: broadshield projector -->
+  <BroadshieldProjector.label>ブロードシールド発生器</BroadshieldProjector.label>
+  <!-- EN: A temporary bullet shield projector. Bullets can go out, but not in. It burns out after a few seconds of use. -->
+  <BroadshieldProjector.description>一時的なバレットシールド発生器です。弾丸は内からは通しますが、外からは通しません。数秒使用すると焼損します。</BroadshieldProjector.description>
+  <!-- EN: Burnout in -->
+  <BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>焼損まで残り</BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>
+  
   <!-- EN: shuttle -->
   <Shuttle.label>シャトル</Shuttle.label>
   <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <Shuttle.description>地表と軌道間、ないしは惑星系の衛星間の輸送を行うために設計されたスペーサー技術のシャトル。</Shuttle.description>
+  <Shuttle.description>地表と軌道間や、惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです。</Shuttle.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed.label>損傷したシャトル</ShuttleCrashed.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <ShuttleCrashed.description>地表と軌道間や、惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです。</ShuttleCrashed.description>
   
 </LanguageData>

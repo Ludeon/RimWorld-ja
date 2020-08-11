@@ -1,14 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: call laborer gang -->
+  <CallLaborerGang.label>労働者の一群を呼ぶ</CallLaborerGang.label>
+  <!-- EN: Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <CallLaborerGang.description>4日間手助けを行う、8人の労働者のグループを呼び出します。これらの労働者は一般的な労働作業のみを行えます。他の入植者と同様に管理できます。彼らを安全に保護しなければなりません。</CallLaborerGang.description>
+  
+  <!-- EN: call laborer team -->
+  <CallLaborerTeam.label>労働者のチームを呼ぶ</CallLaborerTeam.label>
+  <!-- EN: Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <CallLaborerTeam.description>4日間手助けを行う、4人の労働者のグループを呼び出します。これらの労働者は一般的な労働作業のみを行えます。他の入植者と同様に管理できます。彼らを安全に保護しなければなりません。</CallLaborerTeam.description>
+  
   <!-- EN: call cataphract squad -->
   <CallMilitaryAidGrand.label>カタフラクト部隊を呼ぶ</CallMilitaryAidGrand.label>
+  <!-- EN: Call a group of 4 heavy cataphracts to aid you in battle. -->
+  <CallMilitaryAidGrand.description>戦闘を支援する、4人のヘビーカタクラフト兵を呼び出します。</CallMilitaryAidGrand.description>
   
   <!-- EN: call janissary squad -->
   <CallMilitaryAidLarge.label>イェニチェリ部隊を呼ぶ</CallMilitaryAidLarge.label>
+  <!-- EN: Call a group of 4 professional janissaries to aid you in battle. -->
+  <CallMilitaryAidLarge.description>戦闘を支援する、4人のプロのイェニチェリ兵を呼び出します。</CallMilitaryAidLarge.description>
   
   <!-- EN: call trooper squad -->
-  <CallMilitaryAidSmall.label>トルーパーを呼ぶ</CallMilitaryAidSmall.label>
+  <CallMilitaryAidSmall.label>トルーパー部隊を呼ぶ</CallMilitaryAidSmall.label>
+  <!-- EN: Call a group of 4 light troopers to aid you in battle. -->
+  <CallMilitaryAidSmall.description>戦闘を支援する、4人の軽装トルーパー兵を呼び出します。</CallMilitaryAidSmall.description>
+  
+  <!-- EN: call orbital salvo -->
+  <CallOrbitalSalvo.label>軌道上からの一斉射撃を要請</CallOrbitalSalvo.label>
+  <!-- EN: Call an extended salvo of orbital strikes around a target position. -->
+  <CallOrbitalSalvo.description>ターゲット位置の周囲を打ち倒す、惑星軌道上からの広範囲な一斉射撃を要請します。</CallOrbitalSalvo.description>
+  
+  <!-- EN: call orbital strike -->
+  <CallOrbitalStrike.label>惑星軌道上からの一撃を要請</CallOrbitalStrike.label>
+  <!-- EN: Call a single-impact orbital strike at a target position. -->
+  <CallOrbitalStrike.description>ターゲット位置を打ち倒す、惑星軌道上からの強烈な一撃を要請します。</CallOrbitalStrike.description>
+  
+  <!-- EN: call transport shuttle -->
+  <CallTransportShuttle.label>輸送用シャトルを呼ぶ</CallTransportShuttle.label>
+  <!-- EN: Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles. -->
+  <CallTransportShuttle.description>自分達で使うためのシャトルを呼び出します。ワールドマップの70タイル範囲内に、入植者、アイテム、家畜を輸送できます。</CallTransportShuttle.description>
   
   <!-- EN: trade with caravans -->
   <TradeCaravan.label>キャラバンと取引をする</TradeCaravan.label>

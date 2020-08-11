@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic hunger -->
+  <HungerMaker.label>精神的空腹</HungerMaker.label>
+  <!-- EN: Hunger is increased by the psychic influence of a bonded weapon. -->
+  <HungerMaker.description>絆を結んだ武器の精神的な影響によって、空腹が増加します。</HungerMaker.description>
+  
+  <!-- EN: assisted neural cooling -->
+  <NeuralHeatRecoveryGain.label>ニューラル冷却補助</NeuralHeatRecoveryGain.label>
+  <!-- EN: Neural heat dissipation is improved by the psychic influence of a bonded weapon. -->
+  <NeuralHeatRecoveryGain.description>絆を結んだ武器の精神的な影響によって、ニューラルヒートの霧散が改善されます。</NeuralHeatRecoveryGain.description>
+  
+  <!-- EN: psychic painlessness -->
+  <NoPain.label>精神的無痛</NoPain.label>
+  <!-- EN: Pain is disabled by the psychic influence of a wielded weapon. -->
+  <NoPain.description>用いられる武器の精神的な影響によって、痛みを感じなくなります。</NoPain.description>
+  
+  <!-- EN: psychic speed -->
+  <SpeedBoost.label>精神的速度</SpeedBoost.label>
+  <!-- EN: Movement is sped up by the psychic influence of a wielded weapon. -->
+  <SpeedBoost.description>用いられる武器の精神的な影響によって、移動速度が速くなります。</SpeedBoost.description>
+  
+</LanguageData>

@@ -46,7 +46,7 @@
     <li>ofThing->完全</li>
     <li>ofThing->永遠</li>
     <li>ofThing->精神</li>
- </NamerFactionEmpire.rulePack.rulesStrings>
+  </NamerFactionEmpire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
@@ -57,7 +57,7 @@
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
- </NamerPersonEmpire.rulePack.rulesStrings>
+  </NamerPersonEmpire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
@@ -121,6 +121,6 @@
     <li>townend->アエティウム</li>
     <li>townend->アム</li>
     <li>townend->アエウム</li>
-</NamerSettlementEmpire.rulePack.rulesStrings>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
   
 </LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(siteFaction==Pirate)->Pirates have set up an outpost near [map_definite] to harass you. [allSitePartsDescriptions]\n\nThe outpost will remain until you send a team there to attack and destroy it.</li>
+    <li>questDescription(siteFaction==Mechanoids)->A mechanoid cluster has landed not far from [map_definite]. [allSitePartsDescriptions]\n\nThe mech cluster will remain until you send a team there to attack and destroy it.</li>
+  -->
+  <ProblemCauser.questDescriptionRules.rulesStrings>
+    <li>questDescription(siteFaction==Pirate)->宙族が[map_definite]の近くに前哨基地を設置し、入植者を苦しめます。[allSitePartsDescriptions]\n\n前哨基地は、キャラバン隊を送って攻撃し、破壊するまで残ります。</li>
+    <li>questDescription(siteFaction==Mechanoids)->メカノイドクラスターが、[map_definite]からそれほど遠くない場所に着陸しました。[allSitePartsDescriptions]\n\nメカクラスターは、キャラバン隊を送って攻撃し、破壊するまで残ります。</li>
+  </ProblemCauser.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(siteFaction==Pirate)->Pirates with a [problemCauserLabel]</li>
+    <li>questName(siteFaction==Mechanoids)->Mech cluster with a [problemCauserLabel]</li>
+  -->
+  <ProblemCauser.questNameRules.rulesStrings>
+    <li>questName(siteFaction==Pirate)->[problemCauserLabel]の宙族</li>
+    <li>questName(siteFaction==Mechanoids)->[problemCauserLabel]のメカクラスター</li>
+  </ProblemCauser.questNameRules.rulesStrings>
+  <!-- EN: [problemCauserLabel] destroyed -->
+  <ProblemCauser.LetterLabelSuccess.slateRef>[problemCauserLabel]が破壊された</ProblemCauser.LetterLabelSuccess.slateRef>
+  <!-- EN: You have destroyed the [problemCauserLabel] that was affecting [map_definite]! -->
+  <ProblemCauser.LetterTextSuccess.slateRef>[map_definite]に影響を与えていた[problemCauserLabel]を破壊しました！</ProblemCauser.LetterTextSuccess.slateRef>
+  
+</LanguageData>

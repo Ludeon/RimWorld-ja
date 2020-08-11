@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, 私達にメッセージを送ってきました.\n野営地に拠点を置く[siteFaction_pawnsPlural]が[asker_pronoun]らのキャラバン隊を襲撃しているようです.この野営地は[siteFaction_name]に支配されています.\n\n[asker_nameDef]は野営地の敵全員とタレットを破壊するよう依頼しています.\nまた,[asker_label]の話によると,[sitePart0_description].</li>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+  -->
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[bandit]の[camp]</li>
+    <li>questName->[bandit]達の[camp]</li>
+    <li>questName->[asker_nameDef]と[camp]</li>
+    <li>camp->宿営地</li>
+    <li>camp->前哨基地</li>
+    <li>camp->隠れ家</li>
+    <li>camp->野営地</li>
+    <li>bandit->盗賊</li>
+    <li>bandit->レイダー</li>
+    <li>bandit->無法者</li>
+    <li>bandit->犯罪者</li>
+    <li>bandit->逃亡者</li>
+    <li>bandit->略奪者</li>
+    <li>bandit->強盗</li>
+    <li>bandit->悪党</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>野営地を畳んで移動しました.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>野営地を発見されたため,彼らは解散しました.クエスト'[resolvedQuestName]'は終了しました.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <!-- EN: Payment arrived -->
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>報酬が届いた</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>野営地の敵を倒しました!\n\n[asker_faction_name]から報酬が届きました.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>入植者がクエスト”[resolvedQuestName]”の勝利に関与していました. [asker_definite]は知りたがっています.その功績を讃え,誰が[royalFavorReward_amount] [asker_faction_royalFavorLabel]を受けるべきですか？</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

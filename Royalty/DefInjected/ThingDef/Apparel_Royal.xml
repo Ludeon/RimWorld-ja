@@ -3,42 +3,47 @@
   
   <!-- EN: coronet -->
   <Apparel_Coronet.label>コロネット</Apparel_Coronet.label>
-  <!-- EN: A tiny crown-like piece of headwear made of metal. It marks the wearer as a noble with stature. -->
-  <Apparel_Coronet.description>小さな王冠のような金属製の装身具。威信ある貴族のシンボル。</Apparel_Coronet.description>
+  <!-- EN: A tiny crown-like piece of headwear made of metal. -->
+  <Apparel_Coronet.description>小さな王冠のような金属製の装身具。</Apparel_Coronet.description>
   
   <!-- EN: corset -->
   <Apparel_Corset.label>コルセット</Apparel_Corset.label>
-  <!-- EN: An embroidered corset with strong wire support to maintain a ladylike shape. Appropriate for middle-upper-ranked noblewomen. -->
-  <Apparel_Corset.description>女性らしい体型を維持するための強力なワイヤーサポートを備えた刺繍入りコルセット。中上級の貴婦人に相応しい。</Apparel_Corset.description>
+  <!-- EN: An embroidered corset with strong wire support to maintain a ladylike shape. -->
+  <Apparel_Corset.description>女性らしい体型を維持するための強力なワイヤーサポートを備えた刺繍入りコルセット。</Apparel_Corset.description>
   
   <!-- EN: crown -->
   <Apparel_Crown.label>王冠</Apparel_Crown.label>
-  <!-- EN: A grand crown of metal with an elaborate design. Worn by upper-ranking nobles. -->
-  <Apparel_Crown.description>精巧なデザインの金属製の王冠。高位の貴族が着用します。</Apparel_Crown.description>
+  <!-- EN: A grand crown of metal with an elaborate design. -->
+  <Apparel_Crown.description>精巧なデザインの金属製の王冠。</Apparel_Crown.description>
+  
+  <!-- EN: hood -->
+  <Apparel_HatHood.label>フード</Apparel_HatHood.label>
+  <!-- EN: A draped hood which covers the head and ears. -->
+  <Apparel_HatHood.description>頭と耳を覆う優美なフードです。</Apparel_HatHood.description>
   
   <!-- EN: ladies hat -->
   <Apparel_HatLadies.label>レディの帽子</Apparel_HatLadies.label>
-  <!-- EN: A dainty ladies' hat with complex embroidery. Appropriate for middle-ranked noblewomen. -->
-  <Apparel_HatLadies.description>複雑な刺繍が施された華奢な女性用帽子。中位の貴婦人に相応しい。</Apparel_HatLadies.description>
+  <!-- EN: A decorative traditional hat with complex embroidery. -->
+  <Apparel_HatLadies.description>複雑な刺繍が施された伝統的な装飾用の帽子。</Apparel_HatLadies.description>
   
   <!-- EN: top hat -->
   <Apparel_HatTop.label>トップハット</Apparel_HatTop.label>
-  <!-- EN: A tall, stiff, shiny hat. Appropriate for middle-tier noblemen. -->
-  <Apparel_HatTop.description>丈が高く、硬質で、ピカピカの帽子。中位の貴族に相応しい。</Apparel_HatTop.description>
+  <!-- EN: A tall, stiff, shiny hat. -->
+  <Apparel_HatTop.description>丈が高く、硬質で、ピカピカの帽子。</Apparel_HatTop.description>
   
-  <!-- EN: royal robe -->
-  <Apparel_RobeRoyal.label>貴族のローブ</Apparel_RobeRoyal.label>
-  <!-- EN: A long flowing robe embroidered with complex decorative designs. Wildly impractical, its purpose is to mark the wearer as a powerful noble. -->
-  <Apparel_RobeRoyal.description>複雑なデザインの装飾が刺繍された長く垂れるローブ。とても非実用的で、着用者を高位の貴族として目立たせるのが役割です。</Apparel_RobeRoyal.description>
+  <!-- EN: prestige robe -->
+  <Apparel_RobeRoyal.label>高級なローブ</Apparel_RobeRoyal.label>
+  <!-- EN: A long, flowing robe embroidered with complex decorative designs. -->
+  <Apparel_RobeRoyal.description>複雑なデザインの装飾が刺繍された長く流れるようなローブ。</Apparel_RobeRoyal.description>
   
-  <!-- EN: ruffle shirt -->
-  <Apparel_ShirtRuffle.label>フリルシャツ</Apparel_ShirtRuffle.label>
-  <!-- EN: A ruffle-collared shirt with buttons. Appropriate for a noble. -->
-  <Apparel_ShirtRuffle.description>ボタンとフリルの襟がついたシャツ。貴族に相応しい。</Apparel_ShirtRuffle.description>
+  <!-- EN: formal shirt -->
+  <Apparel_ShirtRuffle.label>フォーマルシャツ</Apparel_ShirtRuffle.label>
+  <!-- EN: A decorated formal shirt with buttons. -->
+  <Apparel_ShirtRuffle.description>装飾が施されたボタン付きのフォーマルシャツ。</Apparel_ShirtRuffle.description>
   
-  <!-- EN: royal vest -->
-  <Apparel_VestRoyal.label>貴族のベスト</Apparel_VestRoyal.label>
-  <!-- EN: An embroidered vest which marks the wearer as one of noble power. Appropriate for middle-upper tier noblemen. -->
-  <Apparel_VestRoyal.description>着用者が高貴な力の持ち主であることを示す刺繍入りベスト。中位の貴族に相応しい。</Apparel_VestRoyal.description>
+  <!-- EN: formal vest -->
+  <Apparel_VestRoyal.label>フォーマルベスト</Apparel_VestRoyal.label>
+  <!-- EN: A vest embroidered with complex decorative designs. -->
+  <Apparel_VestRoyal.description>複雑なデザインの装飾が刺繍されたベスト。</Apparel_VestRoyal.description>
   
 </LanguageData>

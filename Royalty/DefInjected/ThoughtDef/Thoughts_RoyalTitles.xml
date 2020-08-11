@@ -8,18 +8,18 @@
   
   <!-- EN: Lost {TITLE} title -->
   <LostTitle.stages.Lost_title.label>{TITLE}の爵位を失った</LostTitle.stages.Lost_title.label>
-  <!-- EN: I lost my {TITLE} title. It's unnatural to have one's station in life fall. -->
-  <LostTitle.stages.Lost_title.description>私は{TITLE}の爵位を失った。人生で転落する時に地位を持つのは不自然だ。</LostTitle.stages.Lost_title.description>
+  <!-- EN: I lost my {TITLE} title. -->
+  <LostTitle.stages.Lost_title.description>私は{TITLE}の爵位を失った。</LostTitle.stages.Lost_title.description>
   
   <!-- EN: want {TITLE}-quality apparel -->
   <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>{TITLE}が高級な服を要求</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
-  <!-- EN: A {TITLE} like myself should only wear apparel of {QUALITY} quality or better. These rags are below me! -->
-  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>私のような{TITLE}は、{QUALITY}以上の品質の服装のみ着用すべきだ。このぼろ切れは私には相応しくない！</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
+  <!-- EN: A {TITLE} like myself should only wear apparel of {QUALITY} quality or better. -->
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>私のような{TITLE}は、{QUALITY}以上の品質の服装のみ着用すべきだ。</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
   
   <!-- EN: want {TITLE}-specific apparel -->
   <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>{TITLE}が特別な服を要求</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
-  <!-- EN: A {TITLE} like myself should be covered in apparel appropriate to my stature:\n\n{0}\n\nIt's below my station to be without my necessaries. -->
-  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>私のような{TITLE}は、地位に見合った服装を身に着けるべきだ。:\n\n{0}\n\nその服は必要なものが欠けており、私の地位に相応しくない。</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
+  <!-- EN: A {TITLE} like myself should be covered in apparel appropriate to my stature:\n\n{0} -->
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>私のような{TITLE}は、地位に見合った服装を身に着けるべきだ:\n\n{0}</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
   
   <!-- EN: undignified bedroom -->
   <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>寝室に品が無い</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
@@ -29,16 +29,16 @@
   <!-- EN: no personal bedroom -->
   <TitleNoPersonalBedroom.stages.no_personal_bedroom.label>寝室に個室が無い</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
   <!-- EN: A {TITLE} should have a personal bedroom. -->
- <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE}には個室が用意されるべきだ。</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
+  <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE}には個室が用意されるべきだ。</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
   
   <!-- EN: no throne room -->
   <TitleNoThroneRoom.stages.no_throne_room.label>玉座の間が無い</TitleNoThroneRoom.stages.no_throne_room.label>
-  <!-- EN: What is a royal with no throneroom? A travesty! -->
-  <TitleNoThroneRoom.stages.no_throne_room.description>玉座の間が無い王室とは一体なんだ？滑稽だな！</TitleNoThroneRoom.stages.no_throne_room.description>
+  <!-- EN: What is a royal with no throneroom? -->
+  <TitleNoThroneRoom.stages.no_throne_room.description>玉座の間が無い王室とは一体なんだ？</TitleNoThroneRoom.stages.no_throne_room.description>
   
   <!-- EN: undignified throneroom -->
   <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>玉座に威厳が無い</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
-  <!-- EN: I am a {TITLE} and I deserve these necessities in my throneroom:\n\n{0} -->
-  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>私は{TITLE}であり、玉座の間において必要なものを受けるに相応しい。:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
+  <!-- EN: I am a {TITLE} and I should have these items in my throneroom:\n\n{0} -->
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>私は{TITLE}であり、玉座の間にはこれらの物を用意すべきだ:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
   
 </LanguageData>
