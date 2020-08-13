@@ -73,19 +73,19 @@
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>{1}の{PAWN_titleIndef}が村を訪問しています.\n\n{PAWN_pronoun}は {PAWN_nameFull}と 名乗っています. {3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrives>{1}の{PAWN_titleIndef}が村を訪問しています.\n\n{PAWN_pronoun}は {PAWN_nameFull}と 名乗っています.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
-  <SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun}は,持っているアイテムをいくつかトレードしたがっています.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesTraderInfo>{PAWN_pronoun}は,持っているアイテムをいくつかトレードしたがっています.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>\n\n{PAWN_pronoun}は,派閥のリーダーです.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun}は,派閥のリーダーです.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>{0}の旅行者グループが村を訪問しています. {1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArrive>{0}の旅行者グループが村を訪問しています.{1}{2}</GroupVisitorsArrive>
   <!-- EN: They seem to have a few items to trade. -->
-  <GroupVisitorsArriveTraderInfo>\n\n彼らは,持っているアイテムをいくつかトレードしたがっています.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveTraderInfo>彼らは,持っているアイテムをいくつかトレードしたがっています.</GroupVisitorsArriveTraderInfo>
   <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
-  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり,{1_labelShort}は,派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>旅行者グループのひとり,{1_labelShort}は,派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
   <VisitorsLeaving>訪問中の{0}は去りました.</VisitorsLeaving>
 
@@ -126,13 +126,13 @@
   
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
-  <LetterLabelAnimalSelfTame>{1_kind}は 人なつっこく寄ってきた</LetterLabelAnimalSelfTame>
+  <LetterLabelAnimalSelfTame>{1_kind}が人なつっこく寄ってきた</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>{0}は なついてきた</LetterAnimalSelfTame>
+  <LetterAnimalSelfTame>{0}がなついてきました.</LetterAnimalSelfTame>
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>{0}は 人なつっこく寄ってきた.仮に{ANIMAL_nameFull}とした</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>{0}が人なつっこく寄ってきました. この生物に,{ANIMAL_nameFull}と言う名前が 割り当てられました.</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>{0}は 人なつっこく寄ってきた.入植者達は{ANIMAL_nameFull}と名付けた</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndName>{0}が人なつっこく寄ってきました. 入植者達は{ANIMAL_nameFull}と名付けました.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->

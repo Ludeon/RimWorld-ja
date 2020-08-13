@@ -33,7 +33,7 @@
   <!-- EN: Inspired: Inspired creativity -->
   <Inspired_Creativity.baseInspectLine>やる気: 創作意欲</Inspired_Creativity.baseInspectLine>
   <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
-  <Inspired_Creativity.beginLetter>[PAWN_pronoun]が作る次回の絵画,彫刻などの芸術は普段より2レベル高い品質で完成するでしょう.\n\nやる気は,芸術を完成させるか,8日後に終わります.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetter>[PAWN_pronoun]が次に作る装備品,芸術品,家具は普段より2レベル高い品質で完成するでしょう.\n\nやる気は,創作品を完成させるか,8日後に終わります.</Inspired_Creativity.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
   <Inspired_Creativity.endMessage>{0}のやる気が落ち着いた(創作意欲).</Inspired_Creativity.endMessage>
   

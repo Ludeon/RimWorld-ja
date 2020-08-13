@@ -161,9 +161,9 @@
   <!-- EN: Workshop page -->
   <WorkshopPage>ワークショップ</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>ワークショップにアップロードする.</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>ワークショップ アップロード</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>ワークショップからアップデートする.</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>ワークショップ アップデート</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>既にアップロードは進行中です.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
@@ -259,21 +259,21 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>全てのテキストフィールドは,入力されていなければなりません.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか？\n\nあなたは,"Steam Workshop terms of service"を承諾しなければなりません.全文はここにあります.\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか？\n\n"Steam Workshop terms of service"を承諾しなければなりません. 全文はこちらから確認してください:\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>あなたは,明らかに,あなた自身が作成したコンテンツだけをアップロードしなければなりません.このコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
+  <ConfirmContentAuthor>あなたは,あなた自身が作成したコンテンツのみをアップロードできます.\n\nこのコンテンツはあなた自身が作成したものでよろしいですか？</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>適合しません</Incompatible>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>多すぎます(最大 {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>あなたが作者なので,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>あなたは作者であるため,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>AIストーリーテラー (AI脚本家)は, 海賊の襲撃, 貨物 カプセルの 墜落, 動物の攻撃 など イベントを 生成します. 作家により あなたの 村の物語は 大きく 変化します.この設定はオプションメニューからいつでも変更できます.</HowStorytellersWork>
+  <HowStorytellersWork>AIストーリーテラー(AI脚本家)は,宙族の襲撃,資源の墜落,動物の攻撃などのイベントを生成します.作家により,あなたのコロニーの物語は,大きく変化します.この設定は,オプションメニューからいつでも変更できます.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>難易度を選択</MustChooseDifficulty>
   <!-- EN: Difficulty -->
@@ -287,7 +287,7 @@
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
   <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです - 損失と再生はドラマチックなものです.</PermadeathModeInfo>
+  <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです-損失と再生はドラマチックなものです.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーとプレイスタイルは,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
 
@@ -598,7 +598,7 @@
   <!-- EN: Gameplay -->
   <Gameplay>ゲームの設定</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます.</ConfirmQuit>
+  <ConfirmQuit>本当に終了しますか？ セーブしていないデータは失われます.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->

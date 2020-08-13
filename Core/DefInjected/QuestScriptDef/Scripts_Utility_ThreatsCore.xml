@@ -9,7 +9,7 @@
       <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender]に照準を合わせた(*Threat)サイコサプレッサー(/Threat)が存在します</li>
       <li>root(priority=1,sitePart==WeatherController)->地域一帯の気象を[weather_label]に変化させる(*Threat)ウェザーコントローラ(/Threat)が存在します</li>
       <li>root(priority=1,sitePart==SmokeSpewer)->地域一帯に煙を吐き出す(*Threat)スモーク噴霧器(/Threat)が存在します</li>
-      <li>root(priority=1,sitePart==SunBlocker)->地域一帯の陽の光を遮る(*Threat)サンブロッカー(/Threat)が存在します</li>
+      <li>root(priority=1,sitePart==SunBlocker)->地域一帯の太陽の光を遮る(*Threat)サンブロッカー(/Threat)が存在します</li>
       <li>root(priority=1,sitePart==EMIDynamo)->地域一帯の電気機器を無効化する(*Threat)EMIダイナモ(/Threat)が存在します</li>
       <li>root(priority=1,sitePart==ToxicSpewer)->地域一帯に毒物を吐き出す(*Threat)毒物噴霧器(/Threat)が存在します</li>
       <li>root(priority=1,sitePart==RaidSource)->(*Threat)[enemiesCount]名の[enemiesLabel](/Threat)で守られた部隊集結地であり,[mtbDays]間隔で襲撃して来るでしょう</li>

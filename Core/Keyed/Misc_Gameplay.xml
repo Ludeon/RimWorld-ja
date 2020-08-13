@@ -293,7 +293,7 @@
   <!-- EN: Departing on shuttle in {0} -->
   <ShuttleDelayInspectString>{0}後にシャトルで出発</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>{0}後に出発します</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>{0}後に出発</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
   <ShouldDepartOnShuttleInspectString>シャトルで出発しなければならない</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
@@ -1079,7 +1079,7 @@
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>あなたは宇宙船を発進させました!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>人工知能(AIコア)は 宇宙船を 安全な場所に 向けようとしています. それは, この星系のi 繁栄した惑星を 見つける事かもしれませんし, 他の星系へ向けた 1世紀に渡る旅に 出発する事かもしれません.また, だれかが新しいグリッターワールドを 創り上げるまで, 数千年間も小惑星帯の氷床の下に 身を隠すことを 選択するかもしれません.\n\nそれは次にあなたが目が覚ました時に分かるでしょう.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>人工知能(AIコア)は 宇宙船を 安全な場所に 向けようとしています. それは, この星系の 繁栄した惑星を 見つける事かもしれませんし, 他の星系へ向けた 1世紀に渡る旅に 出発する事かもしれません.また, だれかが新しいグリッターワールドを 創り上げるまで, 数千年間も小惑星帯の氷床の下に 身を隠すことを 選択するかもしれません.\n\nそれは次にあなたが目が覚ました時に分かるでしょう.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
   <GameOverColonistsEscaped>脱出した入植者:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
