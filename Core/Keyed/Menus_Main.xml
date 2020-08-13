@@ -264,6 +264,8 @@
   <ConfirmContentAuthor>あなたは,あなた自身が作成したコンテンツのみをアップロードできます.\n\nこのコンテンツはあなた自身が作成したものでよろしいですか？</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>適合しません</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>翻訳としてタグ付け</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>多すぎます(最大 {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
@@ -439,11 +441,15 @@
   <Difficulty_AdaptationEffectFactor_Label>ダメージ適応影響</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
   <Difficulty_AdaptationEffectFactor_Info>適応とは,あなたが損失を出さない限り,時間の経過と共にストーリーテラーがゲームをより挑戦的にすることを意味します.これは,資産や人口が物語に与える影響とは別のものです.\n\nこの設定は,実際の脅威に影響を与える適応値の割合を調整します.</Difficulty_AdaptationEffectFactor_Info>
-  <!-- EN: Fixed wealth progress mode -->
-  <Difficulty_FixedWealthMode_Label>資産進行度固定モード</Difficulty_FixedWealthMode_Label>
-  <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい入植地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに上回り,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
-  
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>非資産依存型進行モード</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>非資産依存型の進行モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.非資産依存型モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.非資産依存型モードでは,新しい入植地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに上回り,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>脅威が最大になるまでの年数</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>非資産依存型モードで,脅威レベルが最大に達するまでのゲーム内年数です.\n\nストーリーテラーは依然として,入植者の人数やその他の様々な要因に従って,脅威の規模を調整することに注意してください.</Difficulty_FixedWealthTimeFactor_Info>
+
   <!-- Site select -->
   <!-- EN: Select starting site -->
   <SelectStartingSite>開始位置を選択</SelectStartingSite>

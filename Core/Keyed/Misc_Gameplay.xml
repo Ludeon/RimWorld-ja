@@ -374,6 +374,8 @@
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>スキャナーは,鉱脈の周囲に活動的な何かを検出しています.恐らくそれは敵対的でしょう.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <!-- EN: no active research project -->
@@ -530,6 +532,8 @@
   <TextMote_Immune>免疫力を発揮</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} 看病された</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>レベル {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
   <lowMood>低心情</lowMood>
   <!-- EN: low opinion -->

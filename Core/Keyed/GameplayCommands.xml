@@ -514,7 +514,11 @@
   <!-- EN: Place blueprints -->
   <CommandPlaceBlueprints>設計図を設置</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>可能な全ての設計図を設置します.</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>全ての設置可能な設計図を設置します.</CommandPlaceBlueprintsDesc>
+  <!-- EN: Place {0} blueprints -->
+  <CommandPlaceBlueprintsSpecific>{0}の設計図を設置</CommandPlaceBlueprintsSpecific>
+  <!-- EN: Place all {0} blueprints where possible. -->
+  <CommandPlaceBlueprintsSpecificDesc>全ての{0}の設計図を設置します.</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
@@ -531,5 +535,11 @@
   <CommandOpenLinkedQuest>関連クエストを開く</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>関連クエストをクエストタブで開く</CommandOpenLinkedQuestDesc>
+  
+  <!-- Take a drug -->
+  <!-- EN: Take drug... -->
+  <TakeDrug>薬物を消費...</TakeDrug>
+  <!-- EN: Choose a drug from inventory to ingest immediately. -->
+  <TakeDrugDesc>即座に摂取させたいドラッグを,インベントリから選択してください.</TakeDrugDesc>
   
 </LanguageData>

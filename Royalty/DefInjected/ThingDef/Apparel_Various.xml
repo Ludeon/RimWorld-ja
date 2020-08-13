@@ -68,6 +68,11 @@
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
   <Apparel_ArmorReconPrestige.description>迅速な行動を可能にするように設計され、部分的に軽量化された軽装装甲なパワーアーマーです。軽量なプラスチール製の装甲板は、機動性を損なうことなく敵の攻撃を防ぎ、下半身に取り付けられた神経記憶補助装置によって人間がアーマーを装着したままでも簡単に移動する事が可能です。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorReconPrestige.description>
   
+  <!-- EN: gunlink -->
+  <Apparel_Gunlink.label>ガンリンク</Apparel_Gunlink.label>
+  <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
+  <Apparel_Gunlink.description>装着者の照準を補助する、照準コンピューターです。赤外線、可視、ミリ波の電磁センサーを使用し、ターゲットを検出及び分析します。搭載された照準コンピューターは、網膜投影技術を用いて適切な射撃位置を表示します。防御力は全くありません。</Apparel_Gunlink.description>
+  
   <!-- EN: incendiary grenade -->
   <Proj_GrenadePhoenixFire.label>焼夷擲弾</Proj_GrenadePhoenixFire.label>
   

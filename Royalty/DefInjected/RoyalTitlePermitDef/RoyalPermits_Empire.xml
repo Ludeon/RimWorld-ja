@@ -41,6 +41,21 @@
   <!-- EN: Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles. -->
   <CallTransportShuttle.description>自分達で使うためのシャトルを呼び出します。ワールドマップの70タイル範囲内に、入植者、アイテム、家畜を輸送できます。</CallTransportShuttle.description>
   
+  <!-- EN: glitter med drop -->
+  <GlitterMedDrop.label>最先端医療薬ドロップ</GlitterMedDrop.label>
+  <!-- EN: Call for a drop of 6 glitterworld medicine. -->
+  <GlitterMedDrop.description>最先端医療薬を6つ要求します。</GlitterMedDrop.description>
+  
+  <!-- EN: silver drop -->
+  <SilverDrop.label>シルバードロップ</SilverDrop.label>
+  <!-- EN: Call for a drop of 600 silver. -->
+  <SilverDrop.description>シルバーを600個要求します.</SilverDrop.description>
+  
+  <!-- EN: steel drop -->
+  <SteelDrop.label>スチールドロップ</SteelDrop.label>
+  <!-- EN: Call for a drop of 300 steel. -->
+  <SteelDrop.description>スチールを300個要求します.</SteelDrop.description>
+  
   <!-- EN: trade with caravans -->
   <TradeCaravan.label>キャラバンと取引をする</TradeCaravan.label>
   
