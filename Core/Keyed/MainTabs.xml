@@ -34,6 +34,8 @@
   <Priority3>通常</Priority3>
   <!-- EN: Low priority -->
   <Priority4>劣後</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>{0}\n\n{1_nameDef}は別の派閥に所属しています.\n\nクリックで派閥を見る.</PawnFactionInfo>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->

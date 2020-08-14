@@ -13,22 +13,22 @@
   
   <!-- EN: want {TITLE}-quality apparel -->
   <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>{TITLE}が高級な服を要求</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
-  <!-- EN: A {TITLE} like myself should only wear apparel of {QUALITY} quality or better. -->
+  <!-- EN: {TITLE} like myself should only wear apparel of {QUALITY} quality or better. -->
   <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>私のような{TITLE}は、{QUALITY}以上の品質の服装のみ着用すべきだ。</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
   
   <!-- EN: want {TITLE}-specific apparel -->
   <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>{TITLE}が特別な服を要求</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
-  <!-- EN: A {TITLE} like myself should be covered in apparel appropriate to my stature:\n\n{0} -->
+  <!-- EN: {TITLE} like myself should be covered in apparel appropriate to my stature:\n\n{0} -->
   <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>私のような{TITLE}は、地位に見合った服装を身に着けるべきだ:\n\n{0}</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
   
   <!-- EN: undignified bedroom -->
   <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>寝室に品が無い</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
-  <!-- EN: A {TITLE} like myself deserves a bedroom that meets these requirements:\n\n{0} -->
+  <!-- EN: {TITLE} like myself deserves a bedroom that meets these requirements:\n\n{0} -->
   <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>私のような{TITLE}は、これらの要件を満たす寝室が相応しい:\n\n{0}</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>
   
   <!-- EN: no personal bedroom -->
   <TitleNoPersonalBedroom.stages.no_personal_bedroom.label>寝室に個室が無い</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
-  <!-- EN: A {TITLE} should have a personal bedroom. -->
+  <!-- EN: {TITLE} should have a personal bedroom. -->
   <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE}には個室が用意されるべきだ。</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
   
   <!-- EN: no throne room -->
@@ -38,7 +38,7 @@
   
   <!-- EN: undignified throneroom -->
   <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>玉座に威厳が無い</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
-  <!-- EN: I am a {TITLE} and I should have these items in my throneroom:\n\n{0} -->
+  <!-- EN: I am {TITLE} and I should have these items in my throneroom:\n\n{0} -->
   <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>私は{TITLE}であり、玉座の間にはこれらの物を用意すべきだ:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
   
 </LanguageData>
