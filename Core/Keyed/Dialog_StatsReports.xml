@@ -339,13 +339,13 @@
   <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
   <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>このドラッグを摂取したときに,既存の依存症の深刻度がどの程度増加するかを示す値です.\n\n依存症の深刻度は100％を超えません.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
   <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>禁断症状の発生を防ぐために,常用者がこのドラッグを摂取して,依存症にエサを与えなければならない頻度です.\n\nこれは,依存欲求の減少速度と,満たされる依存欲求の量から計算されています.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>離脱症状の発生を防ぐために,常用者がこのドラッグを摂取して,依存症にエサを与えなければならない頻度です.\n\nこれは,依存欲求の減少速度と,満たされる依存欲求の量から計算されています.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
   <Stat_Thing_Drug_AddictionNeedOffset_Desc>このドラッグを摂取したときに,常用者の対応する化学成分に対する欲求を,どれだけ満たせるかです.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
   <Stat_Thing_Drug_AddictionNeedFallRate_Desc>常用者の化学成分に対する欲求値が,どれほど速く減少するかです.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>禁断症状を発生させずに依存症を維持させる場合の,1日あたりに摂取しなければならないドラッグ量の市場価値です.\n\nこの値は,依存欲求の回復量,依存欲求の減少速度,およびこのドラッグの市場価値から計算されています.\n\nこれとは異なるコストで,同じ化学成分を入手する手段があるかもしれないことに注意してください.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>離脱症状を発生させずに依存症を維持させる場合の,1日あたりに摂取しなければならないドラッグ量の市場価値です.\n\nこの値は,依存欲求の回復量,依存欲求の減少速度,およびこのドラッグの市場価値から計算されています.\n\nこれとは異なるコストで,同じ化学成分を入手する手段があるかもしれないことに注意してください.</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- UNUSED -->
   <Stat_Thing_Weapon_Biocoded_Name>バイオコーディング</Stat_Thing_Weapon_Biocoded_Name>

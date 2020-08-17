@@ -249,7 +249,7 @@
   <!-- EN: {0} until enemies arrive -->
   <CaravanDetectedRaidCountdown>敵が到着するまで残り{0}</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>敵の増援は{0}後にこのエリアに到着します.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>{0}後に敵の増援がこのエリアに到着します.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
@@ -375,7 +375,7 @@
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
-  <PreciousLumpHostileThreat>スキャナーは,鉱脈の周囲に活動的な何かを検出しています.恐らくそれは敵対的でしょう.</PreciousLumpHostileThreat>
+  <PreciousLumpHostileThreat>スキャナーは鉱脈の周囲に活動的な何かを検出しています.恐らくそれは敵対的でしょう.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <!-- EN: no active research project -->

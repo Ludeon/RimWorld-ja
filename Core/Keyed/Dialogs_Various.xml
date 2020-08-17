@@ -92,13 +92,13 @@
   <!-- EN: Overwrite -->
   <OverwriteButton>上書き</OverwriteButton>
   <!-- EN: Really delete {0}? -->
-  <ConfirmDelete>本当に {0} を 削除しますか？</ConfirmDelete>
+  <ConfirmDelete>本当に {0} を削除しますか？</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
-  <DeleteThisSavegame>この セーブデータを 削除します.</DeleteThisSavegame>
+  <DeleteThisSavegame>このセーブデータを削除します.</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>{0}という ファイル名で 保存します.</SavedAs>
+  <SavedAs>{0} というファイル名で保存します.</SavedAs>
   <!-- EN: Please enter a name. -->
-  <NeedAName>ファイル名を 入力してください.</NeedAName>
+  <NeedAName>ファイル名を入力してください.</NeedAName>
   <!-- EN: Loading -->
   <LoadingLongEvent>データロード中です…</LoadingLongEvent>
   <!-- EN: Saving -->
@@ -705,7 +705,7 @@
   <!-- EN: Inventory mass -->
   <InventoryMass>持ち物の重量</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>入植者達は,今アイテムを収集して,このエリアを離れようとしています.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>入植者達はアイテムを収集して,このエリアを離れようとしています.</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
   <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
   <!-- EN: Colonists -->

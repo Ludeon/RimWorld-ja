@@ -15,7 +15,7 @@
   <!-- EN: No more earnable titles on this planet. -->
   <RoyalTitleTooltipFinalTitle>この惑星にはこれ以上獲得できる爵位がありません</RoyalTitleTooltipFinalTitle>
   <!-- EN: If {PAWN_nameDef} dies, {HEIR_nameFull} is designated to inherit {PAWN_possessive} title. -->
-  <RoyalTitleTooltipInheritance>{PAWN_nameDef}が死亡した際に、{HEIR_nameFull}が{PAWN_possessive}の爵位を継承するよう指名されます。</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipInheritance>{PAWN_nameDef}が死亡した際は、{HEIR_nameFull}が{PAWN_possessive}爵位を継承するよう指名されます。</RoyalTitleTooltipInheritance>
   <!-- EN: {HEIR_nameFull} is not a member of any faction. -->
   <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull}はどの派閥にも属していません。</RoyalTitleTooltipHeirNoFaction>
   <!-- EN: {HEIR_nameFull} is a member of {FACTION_name}. -->

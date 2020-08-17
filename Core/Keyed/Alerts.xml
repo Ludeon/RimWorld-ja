@@ -144,17 +144,17 @@
   <!-- EN: Need research project -->
   <NeedResearchProject>研究計画</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>研究用機器があるのに なにも計画してません.\n\n「研究」タブを開き 計画を選択します.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>研究用機器があるのに,なにも計画してません.\n\n「研究」タブを開き,計画を選択します.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>次の入植者は 作業が無く ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>次の入植者は作業が無く,ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげましょう.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>キャラバン隊に指示を</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>次の目的地を設定するのを キャラバン隊が待っています:\n\n{0}</CaravanIdleDesc>
+  <CaravanIdleDesc>次の目的地が設定されるのを,キャラバン隊が待っています:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
@@ -164,12 +164,12 @@
   <!-- EN: Hypothermia -->
   <AlertHypothermia>低体温症</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>次の入植者は 低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせているか,室内が適切に暖められているか確認しましょう.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>次の入植者は低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせているか,室内が適切に暖められているか確認しましょう.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0}人の手術待ち</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>次の患者は 外科的手術の執刀を待っています:\n\n{0}\n治療に必要なツールが全て揃っていて,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>次の患者は外科的手術の執刀を待っています:\n\n{0}\n治療に必要なツールが全て揃っていて,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
   <FireInHomeArea>火災発生!</FireInHomeArea>

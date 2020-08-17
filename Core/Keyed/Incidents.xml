@@ -4,7 +4,7 @@
   <!-- EN: Mad {ANIMAL_labelShort} -->
   <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} 暴走</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>この地域の {ANIMAL_label} が暴れだしました. 目にはいる 人を 攻撃します.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>この地域の{ANIMAL_label}が暴れ出しました. 目にはいる人を攻撃します.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
@@ -48,15 +48,15 @@
   <!-- EN: an electrical conduit -->
   <AnElectricalConduit>電気ケーブル</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
-  <ShortCircuit>{0}が故障し, ショートしました.</ShortCircuit>
+  <ShortCircuit>{0}が故障し,ショートしました.</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
   <ShortCircuitStartedFire>{0}が故障し,ショートした結果,火災が発生しました.</ShortCircuitStartedFire>
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
-  <ShortCircuitDischargedEnergy>電気的爆発で バッテリーと繋がっていた {0} Wdのエネルギーが放電しました.</ShortCircuitDischargedEnergy>
+  <ShortCircuitDischargedEnergy>電気的爆発で,バッテリーと繋がっていた {0}Wdのエネルギーが放電しました.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
-  <ShortCircuitWasLarge>とても多くの電気が放電された結果 , かなり大きな 爆発が 起きました.</ShortCircuitWasLarge>
+  <ShortCircuitWasLarge>とても多くの電気が放電された結果,かなり大きな爆発が起きました.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
-  <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です.</ShortCircuitWasHuge>
+  <ShortCircuitWasHuge>うわぁ！ それはまさに大爆発です.</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>商船が近くを通っています.\n\n彼らは,{0}という名で知られ\n{1}を なりわいと しています.\n\n{2}</TraderArrival>

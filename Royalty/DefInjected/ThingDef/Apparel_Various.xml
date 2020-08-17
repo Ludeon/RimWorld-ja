@@ -31,14 +31,14 @@
   <Apparel_ArmorHelmetCataphractPrestige.description>堅牢なプラスチール素材の外殻と全周囲を視野に入れる間接視覚システムを備えたハイテクヘルメットです。強力な攻撃や打ち所の悪い射撃を除くあらゆるダメージを防ぎます。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorHelmetCataphractPrestige.description>
   
   <!-- EN: prestige recon helmet -->
-  <Apparel_ArmorHelmetReconPrestige.label>特級リーコンヘルメット</Apparel_ArmorHelmetReconPrestige.label>
+  <Apparel_ArmorHelmetReconPrestige.label>特級レコンヘルメット</Apparel_ArmorHelmetReconPrestige.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
   <Apparel_ArmorHelmetReconPrestige.description>ステータス管理コンピューターが内蔵され、プラスチール繊維の積層装甲板で覆われたハイテク装甲ヘルメットです。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorHelmetReconPrestige.description>
   
   <!-- EN: locust armor -->
   <Apparel_ArmorLocust.label>ローカストアーマー</Apparel_ArmorLocust.label>
   <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
-  <Apparel_ArmorLocust.description>短距離飛行用のバーストロケットを備えた、バッタの名を冠するリコーンアーマーの一種です。ローカストアーマーの防御力は、通常のリコーンアーマーより僅かに劣ります。ジャンプを行うたび、燃料を一気に消費してしまうため、何度か使用した後は再補充を行う必要があります。\n\nローカスト部隊は主に、最先端技術を用いた軍組織のほとんどとは異なり、近接武器を用いて訓練します。彼らは通常、動きの少ない銃撃戦を避け、敵に真っ直ぐジャンプを行い、格闘戦に持ち込む方を選びます。動きの少ない防衛戦や狭い区画では力を発揮できませんが、混戦や船の破壊工作には優れています。</Apparel_ArmorLocust.description>
+  <Apparel_ArmorLocust.description>短距離飛行用のバーストロケットを備えた、バッタの名を冠するレコンアーマーの一種です。ローカストアーマーの防御力は、通常のレコンアーマーより僅かに劣ります。ジャンプを行うたび、燃料を一気に消費してしまうため、何度か使用した後は再補充を行う必要があります。\n\nローカスト部隊は主に、最先端技術を用いた軍組織のほとんどとは異なり、近接武器を用いて訓練します。彼らは通常、動きの少ない銃撃戦を避け、敵に真っ直ぐジャンプを行い、格闘戦に持ち込む方を選びます。動きの少ない防衛戦や狭い区画では力を発揮できませんが、混戦や船の破壊工作には優れています。</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
   <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
   <!-- EN: jump -->
@@ -64,7 +64,7 @@
   <Apparel_ArmorMarinePrestige.description>軽装パワードアーマー一式です。層状のプラスチール装甲が、攻撃を非常に効果的に防ぎ、脆弱な関節部分もごく僅かです。神経記憶補助装置によって鎧を身に着けた状態でも移動に支障はありません。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorMarinePrestige.description>
   
   <!-- EN: prestige recon armor -->
-  <Apparel_ArmorReconPrestige.label>特級リーコンアーマー</Apparel_ArmorReconPrestige.label>
+  <Apparel_ArmorReconPrestige.label>特級レコンアーマー</Apparel_ArmorReconPrestige.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
   <Apparel_ArmorReconPrestige.description>迅速な行動を可能にするように設計され、部分的に軽量化された軽装装甲なパワーアーマーです。軽量なプラスチール製の装甲板は、機動性を損なうことなく敵の攻撃を防ぎ、下半身に取り付けられた神経記憶補助装置によって人間がアーマーを装着したままでも簡単に移動する事が可能です。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorReconPrestige.description>
   

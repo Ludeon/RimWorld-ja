@@ -29,22 +29,22 @@
   <MessageFriendlyFightersLeaving>友軍{1}の{0}は 離脱しています.</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>{1}の{0}を 怪我したゲストとして迎えます.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>{1}の{0}を怪我したゲストとして迎えます.</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>{1}の{0}は 閉じ込められたので脱出を試みています.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>{1}の{0}は閉じ込められたので脱出を試みています.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>{1}の{0}は 危険な気温に達したので離脱しています.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>{1}の{0}は危険な気温に達したので離脱しています.</MessageVisitorsDangerousTemperature>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>{1}が身に着けていた{0}は ボロボロになって着れなくなりました.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{1}が身に着けていた{0}はボロボロになって着れなくなりました.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
-  <MessageDeterioratedAway>{0} は保管中に劣化した.</MessageDeterioratedAway>
+  <MessageDeterioratedAway>{0}は保管中に劣化しました.</MessageDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>{0}が 始まります.</MessageSeasonBegun>
+  <MessageSeasonBegun>{0}が始まります.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
-  <MessageShipHasLeftCommsRange>{0}は 通信範囲から離れました.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0}は通信範囲から離れました.</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>商船との取り引きには電源の入った貿易ビーコンが必要です.</MessageNeedBeaconToTradeWithShip>
@@ -52,7 +52,7 @@
   <MessageNeedRoyalTitleToCallWithShip>通信者は{0_label}以上の爵位の所有者である必要があります.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
-  <MessageConditionCauserDespawned>{0}は 破壊された</MessageConditionCauserDespawned>
+  <MessageConditionCauserDespawned>{0}が破壊されました.</MessageConditionCauserDespawned>
   
   <!-- EN: Bill complete: {0}. -->
   <MessageBillComplete>作業終了：{0}</MessageBillComplete>
