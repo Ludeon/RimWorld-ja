@@ -7,7 +7,7 @@
     <li>disease->plague</li>
     <li>disease->malaria</li>
     <li>disease->infection</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] wishes to add some life to [asker_possessive] court by showing off some [entertainerDescription].\n\n[asker_pronoun] is asking you to lend [colonistCountToLend] to serve [asker_objective] for [lendForDays] days.\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] needs people to help [dutyRoyalDescription].\n\n[asker_pronoun] is asking you to lend [colonistCountToLend] to serve [asker_objective] for [lendForDays] days.\n\n[willSendShuttle]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists</li>
     <li>willSendShuttle->[asker_pronoun] will send a shuttle to pick up the [colonists].</li>
@@ -17,12 +17,12 @@
     <li>pawnListHaveConjugation(colonistsToLendCount>1)->have</li>
   -->
   <PawnLend.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が [dutyDescription]で手助けを必要としています。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, [dutyDescription]の手助けを必要としています。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
     <li>disease->インフルエンザ</li>
     <li>disease->ペスト</li>
     <li>disease->マラリア</li>
     <li>disease->感染症</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]が [entertainerDescription]を披露することによって、[asker_possessive]宮廷に活力を与えたいと望んでいます。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が, [dutyRoyalDescription]の手助けを必要としています。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->1人の入植者</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]人の入植者</li>
     <li>willSendShuttle->[asker_pronoun]は[colonists]を迎えるためにシャトルをよこします。</li>
@@ -64,23 +64,25 @@
       <li>dutyDescription->入植地の要塞化</li>
       <li>dutyDescription->入植地の開拓</li>
       <li>dutyDescription->強盗団の監視</li>
-      <li>dutyDescription->病院設立</li>
+      <li>dutyDescription->病院の設立</li>
       <li>dutyDescription->[disease]の拡大防止</li>
     </rulesStrings>
   </PawnLend.DutyRulesAny.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
-  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の [asker_nameFull]の 要請に基づく[dutyDescription]を支援して戻ってきました。</PawnLend.LetterTextReturnAfterHelping.slateRef>
-  <!-- EN: <rulesStrings><li>entertainerDescription->real hardy surface survivors</li><li>entertainerDescription->goofy jesters</li><li>entertainerDescription->foreign-accented servants</li><li>entertainerDescription->exotic human specimens</li></rulesStrings> -->
+  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の [asker_nameFull]の [dutyDescription]の手助けを終えて戻ってきました。</PawnLend.LetterTextReturnAfterHelping.slateRef>
+  <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
   <PawnLend.DutyRulesRoyal.slateRef>
     <rulesStrings>
-      <li>entertainerDescription->実に頑丈な外見のサバイバー</li>
-      <li>entertainerDescription->間抜けな道化師</li>
-      <li>entertainerDescription->外国人の使用人</li>
-      <li>entertainerDescription->エキゾチックな人体標本</li>
+      <li>dutyRoyalDescription->式典の準備</li>
+      <li>dutyRoyalDescription->部族との交渉</li>
+      <li>dutyRoyalDescription->沼地の探索</li>
+      <li>dutyRoyalDescription->書物の翻訳作業</li>
+      <li>dutyRoyalDescription->訓練場の建築</li>
+      <li>dutyRoyalDescription->農作物の収穫</li>
     </rulesStrings>
   </PawnLend.DutyRulesRoyal.slateRef>
-  <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after being shown off as [entertainerDescription] in the court of [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name]. -->
-  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の 宮廷で[entertainerDescription]の見世物となって戻ってきました。</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
+  <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
+  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の [dutyRoyalDescription]の手助けを終えて戻ってきました。</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
   <!-- EN: Shuttle arrived -->
   <PawnLend.LetterLabelShuttleArrived.slateRef>シャトル到着</PawnLend.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->

@@ -58,13 +58,13 @@
   <!-- EN: {SUBJECT_bestRoyalTitle} unhappy -->
   <EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>{SUBJECT_bestRoyalTitle}が不満げ</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>あなたが護衛と満足度の維持の命を受けていた{SUBJECT_definite}の満足度が、最低値の[lodgersMoodThreshold]を下回る時間が長過ぎました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
+  <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>護衛と満足度の維持を依頼していた{SUBJECT_definite}の満足度が、最低値の[lodgersMoodThreshold]を下回る時間が長過ぎました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>来客が死亡: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>ゲストが死亡: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>護衛の対象である{SUBJECT_definite}が死亡しました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>来客が捕虜に: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>ゲストが捕虜に: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>護衛の対象である{SUBJECT_definite}が、捕まってしまいました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
@@ -72,13 +72,17 @@
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>護衛の対象である{SUBJECT_definite}に違反した手術が不正に行われました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>来客が行方不明: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>ゲストが行方不明: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>護衛の対象である{SUBJECT_definite}が、割り当てられた入植地を離れました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
   <!-- EN: Shuttle destroyed -->
   <EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>シャトルが破壊された</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has been destroyed. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>[asker_faction_leaderTitle]を回収しに向かっていたシャトルが破壊されてしまいました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>ゲストが離脱: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>護衛の対象である{SUBJECT_definite}が野生に返りました。[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>クエスト失敗: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has departed without him. He will now leave on foot. [failLetterEndingCommon] -->

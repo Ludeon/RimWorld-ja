@@ -12,29 +12,33 @@
   <!-- EN: The shuttle has arrived to collect [lodgersLabelSingOrPluralDef]. Be sure to have these people on the shuttle before it leaves in [shuttleLeaveDelayTicks_duration]:\n\n[lodgers] -->
   <Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>[lodgersLabelSingOrPluralDef]を回収するシャトルが到着しました。[shuttleLeaveDelayTicks_duration]以内の出航前にこの人々を必ずシャトルに乗せるようにしてください。:\n\n[lodgers]</Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>来客が死亡: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>ゲストが死亡: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has died. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>あなたが護衛の命を受けていた[letterSubject]が死亡しました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>護衛の対象である[letterSubject]が死亡しました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>来客が捕虜に: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>ゲストが捕虜に: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
-  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>あなたが護衛の命を受けていた[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>護衛の対象である[letterSubject]が捕虜になりました。[remainingWillNowLeave][failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>囚人が集められた: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>あなたが護衛の命を受けていた{SUBJECT_definite}を集めました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
+  <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>護衛の対象である{SUBJECT_definite}を集めました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>不正な手術: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>[letterSubject]に違反した手術が不正に行われました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
+  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>[letterSubject]に不正な違反手術が行われました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>来客が行方不明: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>ゲストが行方不明: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>あなたが護衛の命を受けていた[letterSubject]が立ち去りました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>護衛の対象である[letterSubject]が立ち去りました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>来客の離脱: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>
+  <Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>ゲストが離脱: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>護衛の対象である{SUBJECT_definite}が野生に返りました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>ゲストが離脱: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>あなたが護衛の命を受けていた[letterSubject]が他の派閥に加わりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>護衛の対象である[letterSubject]が他の派閥に加わりました。[remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>クエスト失敗: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
   <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingQuest] -->
