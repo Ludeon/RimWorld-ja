@@ -49,8 +49,7 @@
   <!-- EN: farskip -->
   <Farskip.label>ファースキップ</Farskip.label>
   <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
-  <!--TODO--><!--仮翻訳: navigation beaconは恐らく固有名詞ではありません。実態が分からないため、ゲーム内で何を使用する味方が必要なのか確認し、書き換えてください。-->
-  <Farskip.description>超能力者を、近くに立っている人物と共に、離れた場所にいる味方の下にスキップします。惑星全体に人を送る事ができますが、対象地点にナビゲーションビーコンを使用する味方がいる場合のみ機能します。スキップされた人は、常に対象マップ上のランダムな味方の近くに出現します。</Farskip.description>
+  <Farskip.description>超能力者を、近くに立っている人物と共に、離れた場所にいる味方の下にスキップします。惑星全体に人を送る事ができますが、誘導ビーコンとして使用される事を受け入れる味方が対象地点にいる場合のみ機能します。スキップされた人は、常に対象マップ上のランダムな味方の近くに出現します。</Farskip.description>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>フラッシュストーム</Flashstorm.label>
@@ -65,7 +64,7 @@
   <!-- EN: invisibility -->
   <Invisibility.label>不可視</Invisibility.label>
   <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
-  <Invisibility.description>周囲の全員の視覚的中枢を超能力で操り、短時間特定の個人を知覚できないようにします。</Invisibility.description>
+  <Invisibility.description>周囲の全員の視覚中枢を超能力で操り、短時間特定の個人を知覚できないようにします。</Invisibility.description>
   
   <!-- EN: manhunter pulse -->
   <ManhunterPulse.label>人狩りの波動</ManhunterPulse.label>

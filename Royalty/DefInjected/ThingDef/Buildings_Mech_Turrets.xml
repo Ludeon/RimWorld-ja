@@ -19,13 +19,13 @@
   <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>ライトチャージブラスター</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannonTurret.label>インフェルノカノン</Gun_InfernoCannonTurret.label>
+  <Gun_InfernoCannonTurret.label>インフェルノキャノン</Gun_InfernoCannonTurret.label>
   <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
-  <Gun_InfernoCannonTurret.description>放火用小型砲撃デバイスです。大型焼夷弾を放ちます。</Gun_InfernoCannonTurret.description>
+  <Gun_InfernoCannonTurret.description>放火用小型砲撃装置です。大型焼夷弾を放ちます。</Gun_InfernoCannonTurret.description>
   <!-- EN: barrel -->
   <Gun_InfernoCannonTurret.tools.barrel.label>バレル</Gun_InfernoCannonTurret.tools.barrel.label>
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>インフェルノカノン</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>インフェルノキャノン</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: mini-slugger -->
   <Gun_MiniTurretMech.label>ミニスラッガー</Gun_MiniTurretMech.label>
@@ -42,12 +42,12 @@
   <!-- EN: auto inferno turret -->
   <Turret_AutoInferno.label>オートインフェルノタレット</Turret_AutoInferno.label>
   <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
-  <Turret_AutoInferno.description>インフェルノカノンを装着した自己給電式タレットです。超短距離内のターゲットは感知できません。</Turret_AutoInferno.description>
+  <Turret_AutoInferno.description>インフェルノキャノンを装着した自己給電式タレットです。超短距離内のターゲットは感知できません。</Turret_AutoInferno.description>
   
   <!-- EN: mini-slugger turret -->
   <Turret_AutoMiniTurret.label>ミニスラッガータレット</Turret_AutoMiniTurret.label>
   <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
-  <Turret_AutoMiniTurret.description>威力は低いが長射程のスラグ弾を放つ自己給電式タレットです。破壊されると爆発する可能性があります。</Turret_AutoMiniTurret.description>
+  <Turret_AutoMiniTurret.description>威力の低い、長射程のスラグ弾を放つ自己給電式タレットです。破壊されると爆発する可能性があります。</Turret_AutoMiniTurret.description>
   
   <!-- EN: auto mortar -->
   <Turret_AutoMortar.label>自動迫撃砲</Turret_AutoMortar.label>

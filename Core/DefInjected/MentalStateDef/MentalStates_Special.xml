@@ -42,10 +42,10 @@
   <!-- EN: Mental state: Confused and wandering -->
   <WanderConfused.baseInspectLine>精神状態: 混乱</WanderConfused.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>{0}は混乱して歩きまわる.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>{0}は混乱して歩き回っている.</WanderConfused.beginLetter>
   <!-- EN: confusion -->
   <WanderConfused.beginLetterLabel>混乱</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
-  <WanderConfused.recoveryMessage>{0}は正気を取り戻した</WanderConfused.recoveryMessage>
+  <WanderConfused.recoveryMessage>{0}は正気を取り戻した.</WanderConfused.recoveryMessage>
   
 </LanguageData>

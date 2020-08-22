@@ -220,7 +220,7 @@
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>ゲストの不満</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>{0}クエストでは,この人の心情を良くし続けていることが求められているのに,かれらの心情は良くありません.心情を良くするためにも行動を起こします:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>クエスト'{0}'では,次の人物の心情を高く保つ事が求められていますが,心情が低くなっています.心情を良くするためにも行動を起こしましょう:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>{0}後に船が出発</QuestPartShuttleLeaveDelay>

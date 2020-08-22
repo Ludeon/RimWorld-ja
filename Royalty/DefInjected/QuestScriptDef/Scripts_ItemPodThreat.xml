@@ -34,12 +34,12 @@
   -->
   <!--[helpersParagraph]の頭には元から\n\nが記述されています。原文のように\n\n[helpersParagraph]表記にすると、クエスト文に3行文の空行が表示されてしまいます。恐らく記述ミスだと思うので、翻訳の方では[helpersParagraph]前の\n\nを削除しています。-->
   <ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験をしたいようです。 承諾すると、彼らは[map_definite]にフェロモンを散布し、(*Threat)[hivesCount]の虫の巣(/Threat)の来襲を引き起こします。[helpersParagraph]</li>
+    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験を行いたいそうです。承諾すると、彼らは[map_definite]にフェロモンを散布し、(*Threat)[hivesCount]の虫の巣(/Threat)の来襲を引き起こします。[helpersParagraph]</li>
     <li>infestationArrivalLetterText(askerIsNull==true)->虫の巣が研究船の散布したフェロモンに惹かれ出現しました。</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [map_definite]付近の拠点で繰り返される虫の侵入に直面しています。[asker_pronoun]は、あなたに侵入を引き寄せてほしいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。[helpersParagraph]</li>
-    <li>infestationArrivalLetterText(asker_factionLeader==True)->虫の巣はもともと、 [asker_faction_name]の[asker_nameFull]が統治する拠点付近で侵入していました。</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 虫の侵入が繰り返されたため[map_definite]付近に着陸できません。[asker_pronoun]は、あなたに侵入を引き寄せてほしいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。[helpersParagraph]</li>
-    <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->[asker_faction_name] の [asker_faction_leaderTitle] である [asker_nameFull]によって 虫の巣の来襲が引き起こされました。</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 [map_definite]付近の拠点で繰り返される虫の襲来に直面しています。[asker_pronoun]は、あなたの下にこの襲来を引き寄せてほしいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。[helpersParagraph]</li>
+    <li>infestationArrivalLetterText(asker_factionLeader==True)->虫の巣はもともと、[asker_faction_name]の[asker_nameFull]が　統治する拠点付近に侵入していました。</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は、 繰り返し発生する虫の襲来が原因で[map_definite]付近に着陸できません。[asker_pronoun]は、あなたに虫を引き寄せて対処して欲しいそうです。これによって(*Threat)[hivesCount]匹の虫の巣(/Threat)が襲来するでしょう。[helpersParagraph]</li>
+    <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]によって 虫の巣の来襲が引き起こされました。</li>
   </ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Pods and [insects]</li>

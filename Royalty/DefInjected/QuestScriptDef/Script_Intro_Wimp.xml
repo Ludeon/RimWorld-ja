@@ -32,9 +32,9 @@
   <!-- EN: Should depart on shuttle -->
   <Intro_Wimp.InspectStringDepartShuttle.slateRef>シャトルで出発すべきです</Intro_Wimp.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
-  <Intro_Wimp.LetterLabelShuttleArrived.slateRef>シャトルが飛来した</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
+  <Intro_Wimp.LetterLabelShuttleArrived.slateRef>シャトルが到着した</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [asker_nameDef]. -->
-  <Intro_Wimp.LetterTextShuttleArrived.slateRef>[asker_nameDef]を迎えにシャトルが飛来しました。</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+  <Intro_Wimp.LetterTextShuttleArrived.slateRef>[asker_nameDef]を迎えにシャトルが到着しました。</Intro_Wimp.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelGuestDied.slateRef>ゲスト死亡: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->

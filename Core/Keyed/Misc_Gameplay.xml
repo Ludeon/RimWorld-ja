@@ -445,7 +445,7 @@
   <!-- EN: Dormant -->
   <DormantCompInactive>休眠</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>閉じられている</DormantCompSealed>
+  <DormantCompSealed>密閉</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
   <DormantCompBeacon>メカノイド降下準備完了</DormantCompBeacon>
   <!-- EN: Expired -->
@@ -453,7 +453,7 @@
   <!-- EN: Initiates in -->
   <InitiatesIn>活動開始まで</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>{0}後に起動</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>{0}秒後に起動</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
   <PsychicEntropy>ニューラルヒート</PsychicEntropy>
   <!-- EN: Heat -->
@@ -1329,13 +1329,13 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>迎撃 {0} {1}毎</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>迎撃: {0} {1}毎</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>迎撃 {0}</InterceptsProjectiles>
+  <InterceptsProjectiles>迎撃: {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>地上の発射物</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>地上からの投射物</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>空中の発射物</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>空中からの投射物</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
