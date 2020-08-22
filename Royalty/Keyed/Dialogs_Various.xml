@@ -73,8 +73,10 @@
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
   <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}は{2}なので、{PAWN_objective}のサイリンクが機能しないかもしれません。</RoyalWithTraitAffectingPsylinkNegatively>
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
-  <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\nそれでもこの能力を獲得しますか？</PsylinkTooLowForGainAbility>
+  <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\n本当にこの能力を獲得しますか？</PsylinkTooLowForGainAbility>
   <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
-  <SendShuttleWithNoContents>このシャトルには何も積載されていません。これを別の場所に送ると、再び使う事が出来なくなります。\n\nそれでも送りますか？</SendShuttleWithNoContents>
+  <SendShuttleWithNoContents>このシャトルには何も積載されていません。これを別の場所に送ると、再び使う事が出来なくなります。\n\n本当にシャトルを送りますか？</SendShuttleWithNoContents>
+  <!-- EN: Calling for these resources would cause the caravan to be immobile.\n\nCall for them anyways? text_todo -->
+  <DropResourcesOverweightConfirm>この資源を要求すると、キャラバン隊が動けなくなります。\n\n本当にこの資源を要求しますか？</DropResourcesOverweightConfirm>
 
 </LanguageData>

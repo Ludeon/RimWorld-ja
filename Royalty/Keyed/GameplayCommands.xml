@@ -27,7 +27,7 @@
   <CommandCallRoyalAidFavorOption>残り{0}日、 コストは {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
   <!-- EN: You are about to call for aid, but there are people from factions whom {0_name} is not hostile to. Any soldiers you call will not attack them: {1} -->
   <CommandCallRoyalAidWarningNonHostileFactions>援助を要請しようとしていますが、{0_name}とは敵対していない派閥に属する人間がいます。呼び出される兵士は、誰もこの人物を攻撃しません: {1}</CommandCallRoyalAidWarningNonHostileFactions>
-  <!-- EN: Not enough favor. -->
+  <!-- EN: Not enough honor. -->
   <CommandCallRoyalAidNotEnoughFavor>名誉が足りません。</CommandCallRoyalAidNotEnoughFavor>
   
   <!-- Call laborers -->

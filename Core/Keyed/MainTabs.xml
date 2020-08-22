@@ -288,6 +288,8 @@
   <QuestNoColonistWithTitle>{0}の称号を持つ入植者</QuestNoColonistWithTitle>
   <!-- EN: {PAWN_definite} must be in home colony -->
   <QuestPawnNotOnColonyMap>{PAWN_definite}はこのコロニーに居なければならない</QuestPawnNotOnColonyMap>
+  <!-- EN: to get rid of threats to the bestowing escorte! text_todo -->
+  <QuestRequiresNoDangerOnMap>贈与者と護衛者への脅威を排除してください!</QuestRequiresNoDangerOnMap>
   <!-- EN: Reward preferences -->
   <ChooseRewards>報酬設定</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
