@@ -14,18 +14,18 @@
   <!-- EN: A pulse-charged rapid-fire blaster for area fire. -->
   <Gun_ChargeBlasterHeavyTurret.description>領域制圧用のパルスチャージ弾を高速発射するブラスターです。</Gun_ChargeBlasterHeavyTurret.description>
   <!-- EN: barrel -->
-  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>バレル</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>銃身</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
   <!-- EN: light charge blaster -->
   <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>ライトチャージブラスター</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannonTurret.label>インフェルノキャノン</Gun_InfernoCannonTurret.label>
+  <Gun_InfernoCannonTurret.label>焼夷弾投射機</Gun_InfernoCannonTurret.label>
   <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
-  <Gun_InfernoCannonTurret.description>放火用小型砲撃装置です。大型焼夷弾を放ちます。</Gun_InfernoCannonTurret.description>
+  <Gun_InfernoCannonTurret.description>放火用小型砲撃兵器です。大型焼夷弾を放ちます。</Gun_InfernoCannonTurret.description>
   <!-- EN: barrel -->
-  <Gun_InfernoCannonTurret.tools.barrel.label>バレル</Gun_InfernoCannonTurret.tools.barrel.label>
+  <Gun_InfernoCannonTurret.tools.barrel.label>銃身</Gun_InfernoCannonTurret.tools.barrel.label>
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>インフェルノキャノン</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>焼夷弾投射機</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: mini-slugger -->
   <Gun_MiniTurretMech.label>ミニスラッガー</Gun_MiniTurretMech.label>
@@ -42,7 +42,7 @@
   <!-- EN: auto inferno turret -->
   <Turret_AutoInferno.label>オートインフェルノタレット</Turret_AutoInferno.label>
   <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
-  <Turret_AutoInferno.description>インフェルノキャノンを装着した自己給電式タレットです。超短距離内のターゲットは感知できません。</Turret_AutoInferno.description>
+  <Turret_AutoInferno.description>焼夷弾投射機を装着した自己給電式タレットです。超短距離内のターゲットは感知できません。</Turret_AutoInferno.description>
   
   <!-- EN: mini-slugger turret -->
   <Turret_AutoMiniTurret.label>ミニスラッガータレット</Turret_AutoMiniTurret.label>

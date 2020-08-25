@@ -138,13 +138,13 @@
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
-  <CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>集中攻撃 指定</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>タレットが 可能なかぎり 攻撃する 対象を 指定します.</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>タレットが可能なかぎり,攻撃する対象を指定します.</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
-  <CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
+  <CommandStopForceAttack>集中攻撃 解除</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます.</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>攻撃対象を解除し,タレットに判断させます.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>集中攻撃できません.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
@@ -152,9 +152,9 @@
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
   <CommandExtractShellDesc>弾頭の種類を変えるために装填されている弾を抜きます.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
-  <MessageTargetBeyondMaximumRange>最大射程より 離れています.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBeyondMaximumRange>最大射程より離れています.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
-  <MessageTargetBelowMinimumRange>最小射程より 近すぎます.</MessageTargetBelowMinimumRange>
+  <MessageTargetBelowMinimumRange>最小射程より近すぎます.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
   <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっている為 射撃できません.</MessageTurretWontFireBecauseHoldFire>
   
@@ -162,11 +162,11 @@
   <!-- EN: Launch ship -->
   <CommandShipLaunch>宇宙船を発進させる</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます.</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>現在の設定で発進シークエンスをはじめます.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
+  <CommandShipLaunchReport>レポート表示</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>船が 発進できるかどうか, 性能レポートを 表示します.</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>船が発進できるかどうか,性能レポートを表示します.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
   <CommandShipStartup>宇宙船を起動</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
@@ -396,7 +396,7 @@
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>自動給油</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>自動給油 切替</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
   <CommandToggleAllowAutoRefuelDesc>自動給油を行うかどうかを設定します.</CommandToggleAllowAutoRefuelDesc>
   

@@ -44,9 +44,9 @@
   <!-- EN: Neural heat would overflow. Disable the neural heat limiter to cast. -->
   <CommandPsycastWouldExceedEntropy>ニューラルヒートがオーバーフローします。詠唱のニューラルヒートリミッターを無効化します。</CommandPsycastWouldExceedEntropy>
   <!-- EN: {PSYCASTNAME} consumes {0} psyfocus but {CASTERNAME} only has {1}. -->
-  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME}は{0}のサイフォーカスを消費しますが、{CASTERNAME}は{1}のサイフォーカスしかありません。</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME}は{0}のサイフォーカスを消費しますが、{CASTERNAME}には{1}のサイフォーカスしかありません。</CommandPsycastNotEnoughPsyfocus>
   <!-- EN: {PSYCASTNAME} needs {0} psyfocus to stop {1}'s mental break but {CASTERNAME} only has {2} psyfocus. -->
-  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME}は、{1}のメンタルブレイクを止めるために、{0}のサイフォーカスが必要ですが、{CASTERNAME}は{2}のサイフォーカスしかありません。</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME}は、{1}のメンタルブレイクを止めるために{0}のサイフォーカスを必要としますが、{CASTERNAME}には{2}のサイフォーカスしかありません。</CommandPsycastNotEnoughPsyfocusForMentalBreak>
   <!-- EN: level {0} psylink is required. -->
   <CommandPsycastHigherLevelPsylinkRequired>レベル{0}のサイリンクが必要です。</CommandPsycastHigherLevelPsylinkRequired>
   <!-- EN: Zero psychic sensitivity. -->

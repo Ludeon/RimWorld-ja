@@ -60,27 +60,27 @@
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
   <UserMeditationFocusStrength>{LASTUSER_labelShort}による瞑想の集中力の強さ</UserMeditationFocusStrength>
   <!-- EN: Focus effect impacted by -->
-  <MeditationFocusImpacted>フォーカスエフェクトの効果</MeditationFocusImpacted>
+  <MeditationFocusImpacted>影響を与えている</MeditationFocusImpacted>
   <!-- EN: {1} per nearby animus stone (max {0}) -->
-  <MeditationFocusPerAnimusStoneAbstract>近くのアニムスの秘石あたり{1} (最大 {0})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStoneAbstract>周囲のアニムスの秘石{1} (最大{0}つ)</MeditationFocusPerAnimusStoneAbstract>
   <!-- EN: {2} per nearby animus stone ({0} / {1}) -->
-  <MeditationFocusPerAnimusStone>近くのアニムスの秘石あたり{2} ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStone>周囲のアニムスの秘石{2} ({0} / {1})</MeditationFocusPerAnimusStone>
   <!-- EN: Per nearby animus stone {2}, nature shrine {1} (max {0}) -->
-  <MeditationFocusPerAnimusStoneAndShrineAbstract>近くのアニムスの秘石あたり{2}、自然聖堂{1} (最大 {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>周囲のアニムスの秘石{2}、自然聖堂{1} (最大{0}つ)</MeditationFocusPerAnimusStoneAndShrineAbstract>
   <!-- EN: Per nearby animus stone {3}, nature shrine {2} ({0} / {1}) -->
-  <MeditationFocusPerAnimusStoneAndShrine>近くのアニムスの秘石あたり{3}、自然聖堂{2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerAnimusStoneAndShrine>周囲のアニムスの秘石{3}、自然聖堂{2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
   <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
-  <MeditationFocusPerSculptureAbstract>近くの品質に応じた芸術品あたり{1} (最大 {0})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculptureAbstract>周囲の品質に応じた芸術品{1} (最大{0}つ)</MeditationFocusPerSculptureAbstract>
   <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
-  <MeditationFocusPerSculpture>近くの品質に応じた芸術品あたり{2} ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerSculpture>周囲の品質に応じた芸術品{2} ({0} / {1})</MeditationFocusPerSculpture>
   <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
-  <MeditationFocusPerGraveAbstract>近くの中身のない墓あたり{1}、\nヒトの死体入りの場合は{2} (最大{0})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGraveAbstract>周囲の墓{1}、ヒトの死体入りなら{2} (最大{0}つ)</MeditationFocusPerGraveAbstract>
   <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
-  <MeditationFocusPerGrave>近くの中身のない墓あたり{2}、\nヒトの死体入りの場合は{3} ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerGrave>周囲の墓{2}、ヒトの死体入りなら{3} ({0} / {1})</MeditationFocusPerGrave>
   <!-- EN: {1} per nearby lit flame source (up to {0}) -->
-  <MeditationFocusPerFlameAbstract>近くの火のついた熱源あたり{1} (最大 {0})</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlameAbstract>周囲の火のついた熱源{1} (最大{0}つ)</MeditationFocusPerFlameAbstract>
   <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
-  <MeditationFocusPerFlame>近くの火のついた熱源あたり{2} ({0} / {1})</MeditationFocusPerFlame>
+  <MeditationFocusPerFlame>周囲の火のついた熱源{2} ({0} / {1})</MeditationFocusPerFlame>
   <!-- EN: Psyfocus gain rate: {0}/d -->
   <PsyfocusPerDayOfMeditation>サイフォーカス上昇レート: {0}/日</PsyfocusPerDayOfMeditation>
   <!-- EN: Desired psyfocus -->
@@ -103,7 +103,7 @@
   <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています。</AbilityReadyText>
   
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <AbilitySpeechTooltip>玉座で演説を行います。{ORGANIZER_labelShort}は{ORGANIZER_possessive}玉座に着き、聴衆として入植者を呼び集めます。成功すれば聴衆は発奮し、{ORGANIZER_labelShort}に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{ORGANIZER_labelShort}の社交スキルに依存します。</AbilitySpeechTooltip>
+  <AbilitySpeechTooltip>玉座で演説を行います。{ORGANIZER_labelShort}は{ORGANIZER_possessive}玉座に着き、聴衆として入植者を呼び集めます。成功すれば聴衆は奮い立ち、{ORGANIZER_labelShort}に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{ORGANIZER_labelShort}の社交スキルに依存します。</AbilitySpeechTooltip>
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>玉座が割り当てられていません。</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->

@@ -51,14 +51,14 @@
     <li>action->[INITIATOR_definite]は [implement]で [RECIPIENT_definite]を [damaged_inf]つもりで [tried]</li>
     <li>action->[INITIATOR_definite]は [implement]で [RECIPIENT_definite]を [damaged_inf]つもりで使おうと [tried]</li>
     <li>action->[INITIATOR_definite]は [RECIPIENT_definite]を狙って [INITIATOR_possessive] [WEAPON_label]を振り下ろした</li>
-    <li>action(p=0.3)->[INITIATOR_definite]は [implement]で [RECIPIENT_definite] [towardsat] [verb_genericattack]</li>
-    <li>action(p=0.3)->[INITIATOR_definite]は [RECIPIENT_definite] [towardsat] [verb_genericattack]</li>
+    <li>action(p=0.3)->[INITIATOR_definite]は [implement]で [RECIPIENT_definite][towardsat] [verb_genericattack]</li>
+    <li>action(p=0.3)->[INITIATOR_definite]は [RECIPIENT_definite][towardsat] [verb_genericattack]</li>
     <li>action(p=0.3)->[INITIATOR_definite]は [implement]で [verb_genericattack]</li>
     <li>towardsat->に向けて</li>
     <li>towardsat->を狙って</li>
-    <li>verb_genericattack->一振り</li>
-    <li>verb_genericattack->打ちつける</li>
-    <li>verb_genericattack->打ち据える</li>
+    <li>verb_genericattack->振り下ろした</li>
+    <li>verb_genericattack->打ちつけた</li>
+    <li>verb_genericattack->打ち据えた</li>
     <li>tried->行動した</li>
     <li>tried->襲いかかった</li>
   </Combat_FailIncludes.rulePack.rulesStrings>

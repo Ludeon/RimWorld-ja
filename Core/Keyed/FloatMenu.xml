@@ -127,7 +127,7 @@
   <!-- EN: incapable of mining -->
   <IncapableOfMining>掘削する能力がない</IncapableOfMining>
   <!-- EN: angers faction -->
-  <AngersFaction>怒っている派閥</AngersFaction>
+  <AngersFaction>派閥を怒らせる</AngersFaction>
   <!-- EN: no body part -->
   <InstallImplantNoBodyPart>その部位の身体がない</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
@@ -222,7 +222,7 @@
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload>{GEAR_labelShort}に{AMMO_label}を充填する</Reload>
+  <Reload>{GEAR_labelShort} に {AMMO_label}を充填する</Reload>
   <!-- EN: Full -->
   <ReloadFull>満タン</ReloadFull>
   <!-- EN: Too few -->

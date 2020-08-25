@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: charge lance shot -->
-  <Bullet_ChargeLance.label>レイルガン装弾</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>チャージランス弾</Bullet_ChargeLance.label>
   
   <!-- EN: charge shot -->
   <Bullet_ChargeRifle.label>チャージライフル弾</Bullet_ChargeRifle.label>
   
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.label>レイルガン</Gun_ChargeLance.label>
+  <Gun_ChargeLance.label>チャージランス</Gun_ChargeLance.label>
   <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
-  <Gun_ChargeLance.description>メカノイド製のレイルガン,槍状の物体を高速度で射出します.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.description>パルスチャージ弾の発射をレールで補助したランス兵器です.単発の弾丸を高速で発射し,加速レールを離れるときに,不安定なエネルギーをチャージします.</Gun_ChargeLance.description>
   <!-- EN: barrel -->
   <Gun_ChargeLance.tools.barrel.label>銃身</Gun_ChargeLance.tools.barrel.label>
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.verbs.Verb_Shoot.label>レイルガン</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>チャージランス</Gun_ChargeLance.verbs.Verb_Shoot.label>
   
   <!-- EN: charge rifle -->
   <Gun_ChargeRifle.label>チャージライフル</Gun_ChargeRifle.label>
   <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
-  <Gun_ChargeRifle.description>エネルギーを弾丸のように打ち出すライフルです.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.description>チャージショットを打ち出すアサルトライフルです.パルスチャージ技術は,弾丸が銃身を離れるときに,不安定なエネルギーをチャージする技術です.チャージエネルギーが強い衝撃と共に射出されると,ダメージが大幅に増加します.</Gun_ChargeRifle.description>
   <!-- EN: stock -->
   <Gun_ChargeRifle.tools.stock.label>ストック</Gun_ChargeRifle.tools.stock.label>
   <!-- EN: barrel -->

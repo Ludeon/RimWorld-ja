@@ -52,6 +52,6 @@
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
-  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>他の者たちが [targetMineable_label]の塊を採掘しました.クエスト [resolvedQuestName] は期限が切れました.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>他の者たちが[targetMineable_label]の塊を採掘しました.クエスト'[resolvedQuestName]'は期限が切れました.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

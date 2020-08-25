@@ -771,7 +771,7 @@
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>輸送ポッドには,指示した人とアイテムは重すぎます.</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>シャトルには.指示した人とアイテムは重すぎます.</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>シャトルには,指示した人とアイテムは重すぎます.</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>空の輸送ポッドは送れません.</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
@@ -1027,9 +1027,9 @@
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>精神崩壊の強さあたりのサイフォーカスコスト</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
-  <AbilityAlreadyInspired>{0_labelShort}は既に鼓舞されています.</AbilityAlreadyInspired>
+  <AbilityAlreadyInspired>{0_labelShort}は既に奮い立っています.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
-  <AbilityCantGetInspiredNow>{0_labelShort}は現在,鼓舞を受けられません.</AbilityCantGetInspiredNow>
+  <AbilityCantGetInspiredNow>{0_labelShort}は現在,奮い立つことが出来ません.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} is unconscious. -->
   <AbilityCantApplyUnconscious>{0_labelShort}は意識を失っています.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->

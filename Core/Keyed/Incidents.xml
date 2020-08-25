@@ -59,7 +59,7 @@
   <ShortCircuitWasHuge>うわぁ！ それはまさに大爆発です.</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
-  <TraderArrival>商船が近くを通っています.\n\n彼らは,{0}という名で知られ\n{1}を なりわいと しています.\n\n{2}</TraderArrival>
+  <TraderArrival>商船が近くを通っています.\n\n彼らは,{0}という名で知られ,\n{1}を生業としています.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
   <TraderArrivalFromFaction>彼らは{FACTION_name}と提携しています.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
@@ -92,7 +92,7 @@
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました!やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また電源の入っていないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
+  <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました!やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また電源の入っていないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,1~2日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
@@ -100,7 +100,7 @@
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
-  <AwokeDaysAgo>起動してから {0}日 経過</AwokeDaysAgo>
+  <AwokeDaysAgo>活動してから {0}日 経過</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
   <ActivatedDaysAgo>活性化してから {0}日 経過</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->

@@ -49,7 +49,7 @@
   <!-- EN: farskip -->
   <Farskip.label>ファースキップ</Farskip.label>
   <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
-  <Farskip.description>超能力者を、近くに立っている人物と共に、離れた場所にいる味方の下にスキップします。惑星全体に人を送る事ができますが、誘導ビーコンとして使用される事を受け入れる味方が対象地点にいる場合のみ機能します。スキップされた人は、常に対象マップ上のランダムな味方の近くに出現します。</Farskip.description>
+  <Farskip.description>超能力者を、近くに立っている人物と共に、離れた場所にいる味方の下にスキップします。惑星全体に人を送る事ができますが、誘導ビーコンとして使用される事を受け入れる味方が対象地点にいる場合のみ機能します。スキップされた人は常に対象マップ上のランダムな味方の近くに出現します。</Farskip.description>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>フラッシュストーム</Flashstorm.label>
@@ -106,7 +106,7 @@
   <!-- EN: throne speech -->
   <Speech.label>玉座の演説</Speech.label>
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
-  <Speech.description>玉座で演説を行います。全ての入植者が、拝聴のために集まります。成功すれば聴衆は発奮し、演説者に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は演説者の社交スキルに依存します。</Speech.description>
+  <Speech.description>玉座で演説を行います。全ての入植者が拝聴するために集まります。成功すれば聴衆は奮い立ち、演説者に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は演説者の社交スキルに依存します。</Speech.description>
   
   <!-- EN: stun -->
   <Stun.label>スタン</Stun.label>

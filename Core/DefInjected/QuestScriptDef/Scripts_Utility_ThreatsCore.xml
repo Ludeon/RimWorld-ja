@@ -15,8 +15,8 @@
       <li>root(priority=1,sitePart==RaidSource)->(*Threat)[enemiesCount]名の[enemiesLabel](/Threat)で守られた部隊集結地であり,[mtbDays]間隔で襲撃して来るでしょう</li>
       <li>root(priority=1,sitePart==Outpost)->(*Threat)[enemiesCount]名の[enemiesLabel](/Threat)が前哨基地を守っています</li>
       <li>root(priority=1,sitePart==BanditCamp)->(*Threat)[enemiesCount]名の[enemiesLabel](/Threat)が野営地を守っています</li>
-      <li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)[kindLabel]のマンハント(/Threat)が辺りをうろついています</li>
-      <li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count]匹の[kindLabel]マンハント(/Threat)が辺りをうろついています</li>
+      <li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)人狩りの[kindLabel](/Threat)が辺りをうろついています</li>
+      <li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count]匹の人狩りの[kindLabel](/Threat)が辺りをうろついています</li>
       <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)メカノイド(/Threat)が休止状態にあります</li>
       <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count]体のメカノイド(/Threat)が休止状態にあります</li>
       <li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat)が守りについています</li>

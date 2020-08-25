@@ -53,7 +53,7 @@
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
   <LetterRoyalTitleImplantGracePeriod>外交的影響を避けるためには、執行猶予期間の5日以内にインプラントを除去する必要があります。</LetterRoyalTitleImplantGracePeriod>
   <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
-  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun}は玉座で演説を行えるようになりました。成功すれば聴衆は発奮し、演説者に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{PAWN_labelShort}の社交スキルに依存します。</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun}は玉座で演説を行えるようになりました。成功すれば聴衆は奮い立ち、演説者に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{PAWN_labelShort}の社交スキルに依存します。</LetterRoyalTitleSpeechAbilityGained>
   <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
   <LetterRoyalTitleThroneroomRequirements>この爵位には以下の要件を満たす玉座の間が必要です:{1}</LetterRoyalTitleThroneroomRequirements>
   <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
@@ -103,19 +103,19 @@
 
   <!-- Throne Speech -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort}は{ORGANIZER_possessive}の演説を終えました。</LetterFinishedSpeech>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort}は演説を終えました。</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>実にひどいものでした。言葉はつかえるし、下手なジョークと気の滅入る話ばかりでした。</LetterTerribleSpeech>
+  <LetterTerribleSpeech>この演説は実にひどいものでした。言葉はつかえるし、下手なジョークと気の滅入る話ばかりでした。</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>感動はしませんでした。独創性無くうんうん唸るばかりで、情熱的なセンスが欠けていました。</LetterUninspiringSpeech>
+  <LetterUninspiringSpeech>誰もこの演説に感動しませんでした。独創性無くうんうん唸るばかりで、情熱的なセンスが欠けていました。</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>勇気づけられたし、胸にしっかり届きました。</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>この演説は皆の胸にしっかり届き、勇気づけられました。</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>意志と気迫に満ちていてとても感動的でした。</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>この演説は意志と気迫に満ちていて、とても感動的でした。</LetterInspirationalSpeech>
   <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>以下の人々は特にスピーチに感動し、そして今、奮い立たされました:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiredListeners>以下の人々は特に感動し、そして今、奮い立たされました:</LetterSpeechInspiredListeners>
   <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>{SPEAKER_nameIndef}の素晴らしいスピーチのおかげで、{PAWN_nameIndef}は奮い立ちました！</LetterSpeechInspiration>
+  <LetterSpeechInspiration>{SPEAKER_nameIndef}の素晴らしい演説のおかげで、{PAWN_nameIndef}は奮い立ちました！</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
   <LetterSpeechInterrupted>{0}が完了した段階で演説が中断されたため、それほど効果的ではありませんでした。</LetterSpeechInterrupted>
   <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->

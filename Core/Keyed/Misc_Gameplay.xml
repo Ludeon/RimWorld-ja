@@ -137,7 +137,7 @@
   <!-- EN: Missing body parts -->
   <CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>再生中</HiveReproducesIn>
+  <HiveReproducesIn>繁殖まで残り</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
   <DormantHiveNotReproducing>休眠状態: 再生していない</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
@@ -599,7 +599,7 @@
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
   <ReportHaulingTo>{THING_label} を {DESTINATION} に 運搬中</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>{THING_label} を {DESTINATION} で 埋葬中</ReportHaulingToGrave>
+  <ReportHaulingToGrave>{THING_label} を {DESTINATION} に 埋葬中</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
   <ReportHauling>{1_label} を 運搬中</ReportHauling>
   <!-- EN: hauling. -->
@@ -1001,15 +1001,15 @@
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>発射 できません.</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>発射できません.</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>発射 できます.</ShipReportCanLaunch>
+  <ShipReportCanLaunch>発射できます.</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
-  <ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
+  <ShipReportMissingPart>宇宙船構造物が足りません</ShipReportMissingPart>
   <!-- EN: requires -->
   <ShipReportMissingPartRequires>必要物</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
+  <ShipReportNoFullPods>冬眠カプセルに空きがあります</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
   <ShipReportHibernating>休止状態の構成物</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
@@ -1149,7 +1149,7 @@
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>メンテナンスの期限</DueForMaintenance>
+  <DueForMaintenance>メンテナンスが必要</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
   <DeterioratingDueToLackOfMaintenance>メンテナンス不足による性能低下</DeterioratingDueToLackOfMaintenance>
 
@@ -1321,7 +1321,7 @@
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>{0}はバイオコード化された</Biocoded>
+  <Biocoded>{0}(バイオコード)</Biocoded>
   <!-- EN: Biocoding: {0} -->
   <CodedFor>バイオコーディング: {0}</CodedFor>
   <!-- EN: biocoded -->
@@ -1346,7 +1346,7 @@
   <CausedByHediff>原因: {0}</CausedByHediff>
   
   <!-- UNUSED -->
-  <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdown>出発まであと{0}</ForceExitAndRemoveMapCountdown>
   <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
   <CannotResearchNoBench>研究できない: 研究卓が無い</CannotResearchNoBench>
   <Complete>完了</Complete>

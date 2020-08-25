@@ -43,7 +43,7 @@
     <li>prefix->[INITIATOR_definite]の[WEAPON_label][blast]</li>
     <li>prefix->[INITIATOR_definite]の[WEAPON_projectile_label]</li>
     <li>prefix->[INITIATOR_definite]の[WEAPON_label]</li>
-    <li>r_logentry->[prefix]は[RECIPIENT_definite]を[injured]</li>
+    <li>r_logentry->[prefix]は[RECIPIENT_definite]を[injured].</li>
     <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets][destroyed_past].</li>
     <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets][adverb_flavortext][destroyed_past].</li>
     <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets]を[adverb_flavortext][destroyed_past].</li>
@@ -343,7 +343,7 @@
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [INITIATOR_possessive] [WEAPON_projectile_label]を [threw].</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [WEAPON_projectile_label]を [threw_a].</li>
     <li>threw_a->[adverb_threw] [verb_threw]</li>
-    <li>threw_a(p=2)->[verb_threw] a</li>
+    <li>threw_a(p=2)->[verb_threw]</li>
     <li>threw(p=2)->[verb_threw]</li>
     <li>threw->[adverb_threw] [verb_threw]</li>
     <li>verb_threw->発射した</li>
@@ -409,7 +409,7 @@
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[missed].</li>
-    <li>r_logentry->[INITIATOR_definite]は[ORIGINALTARGET_definite]を狙って外した</li>
+    <li>r_logentry->[INITIATOR_definite]は[ORIGINALTARGET_definite]を狙って外した.</li>
     <li>r_logentry->[ORIGINALTARGET_definite]は[avoidance],[INITIATOR_definite]の[WEAPON_projectile_label]は[missing].</li>
     <li>missed(p=4)->当たらなかった</li>
     <li>missed(p=2)->僅かな差で外した</li>
