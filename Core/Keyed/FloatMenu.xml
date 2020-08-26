@@ -181,11 +181,11 @@
   <!-- EN: Hosted prisoners not allowed. -->
   <CryptosleepCasketGuestPrisonersNotAllowed>収容された囚人は許可されていない</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>周囲と壁で遮断され.適温な,囚人用ベッドがない</NoPrisonerBed>
+  <NoPrisonerBed>周囲を壁で遮断された,到達可能な,安全な温度の,予約されていない囚人用ベッドがない</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>周囲と壁で遮断され,適温な,入植者用ベッドがない</NoNonPrisonerBed>
+  <NoNonPrisonerBed>到達可能な,安全な温度の,予約されていない入植者用ベッドがない</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>適温な動物用ベッドがない</NoAnimalBed>
+  <NoAnimalBed>到達可能な,安全な温度の,予約されていない動物用ベッドがない</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
   <Reserved>他の誰かが 使用している</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
@@ -218,6 +218,10 @@
   <ForceWear>{1_labelShort}に 着替えさせる</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>{1_label}を 着用できない</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>{1_labelShort}に 装備させる</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>{1_label}を 装備できない</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
   
@@ -229,7 +233,7 @@
   <ReloadNotEnough>少なすぎる</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
-  <CannotPickUp>{1_label}を 拾えない </CannotPickUp>
+  <CannotPickUp>{1_label}を 拾えない</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>{1_label}(全て)を 拾えない</CannotPickUpAll>
   <!-- EN: Pick up {1_label} -->
@@ -263,7 +267,7 @@
   <!-- EN: Load {1_label} (all) into caravan -->
   <LoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に積載する</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
-  <LoadIntoCaravanSome>{1_labelShort}を キャラバン隊に積載する....</LoadIntoCaravanSome>
+  <LoadIntoCaravanSome>{1_labelShort}を キャラバン隊に積載する...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
   <LoadIntoCaravanCount>{1_labelShort} x{{0}}を積載する</LoadIntoCaravanCount>
   <!-- EN: overweight -->
@@ -300,7 +304,7 @@
   <!-- EN: not injured -->
   <NotInjured>無傷</NotInjured>
   <!-- EN: occupied by {0} -->
-  <SomeoneElseSleeping>{0} が独占している</SomeoneElseSleeping>
+  <SomeoneElseSleeping>{0}が 独占している</SomeoneElseSleeping>
   
   <!-- EN: Trade with {0} -->
   <TradeWith>{0}と トレード</TradeWith>

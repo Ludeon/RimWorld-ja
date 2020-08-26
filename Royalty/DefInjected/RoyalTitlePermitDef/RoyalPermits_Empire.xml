@@ -26,15 +26,15 @@
   <!-- EN: Call a group of 4 light troopers to aid you in battle. -->
   <CallMilitaryAidSmall.description>戦闘を支援する、4人の軽装トルーパー兵を呼び出します。</CallMilitaryAidSmall.description>
   
-  <!-- EN: call orbital salvo -->
-  <CallOrbitalSalvo.label>軌道上からの一斉射撃を要請</CallOrbitalSalvo.label>
-  <!-- EN: Call an extended salvo of orbital strikes around a target position. -->
-  <CallOrbitalSalvo.description>ターゲット位置の周囲を打ち倒す、惑星軌道上からの広範囲な一斉射撃を要請します。</CallOrbitalSalvo.description>
+  <!-- EN: call aerodrone salvo -->
+  <CallOrbitalSalvo.label>無人航空機の一斉射撃を要請</CallOrbitalSalvo.label>
+  <!-- EN: Call a salvo of aerodrone strikes around a target position. -->
+  <CallOrbitalSalvo.description>ターゲット位置の周囲を打ち倒す、無人航空機からの一斉射撃を要請します。</CallOrbitalSalvo.description>
   
-  <!-- EN: call orbital strike -->
-  <CallOrbitalStrike.label>惑星軌道上からの一撃を要請</CallOrbitalStrike.label>
-  <!-- EN: Call a single-impact orbital strike at a target position. -->
-  <CallOrbitalStrike.description>ターゲット位置を打ち倒す、惑星軌道上からの強烈な一撃を要請します。</CallOrbitalStrike.description>
+  <!-- EN: call aerodrone strike -->
+  <CallOrbitalStrike.label>無人航空機からの一撃を要請</CallOrbitalStrike.label>
+  <!-- EN: Call a single-impact aerodrone strike at a target position. -->
+  <CallOrbitalStrike.description>ターゲット位置を打ち倒す、無人航空機からの強烈な一撃を要請します。</CallOrbitalStrike.description>
   
   <!-- EN: call transport shuttle -->
   <CallTransportShuttle.label>輸送用シャトルを呼ぶ</CallTransportShuttle.label>

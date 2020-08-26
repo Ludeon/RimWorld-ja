@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: broadshield pack -->
-  <Apparel_PackBroadshield.label>ブロードシールドパック</Apparel_PackBroadshield.label>
-  <!-- EN: A single-use man-portable bullet shield projector. Deployed on the ground, it generates a circular shield that allows bullets out but not in. The unit is designed to last only a short time before burning out.\n\nMany ultratech combat squads owe their lives to a broadshield deployed at just the right time. -->
-  <Apparel_PackBroadshield.description>使い捨ての携帯型バレットシールド発生器です。地面に設置すると、弾丸を内からは通し、外からは弾く円形のシールドが生成されます。ユニットは、焼損するまでの短時間のみ持続するように設計されています。\n\n最先端技術を用いる多くの戦闘部隊は、適切なタイミングで設置されたブロードシールドに命を預けます。</Apparel_PackBroadshield.description>
-  <!-- EN: broadshield -->
-  <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>ブロードシールド</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
-  <!-- EN: deploy broadshield -->
+  <!-- EN: low-shield pack -->
+  <Apparel_PackBroadshield.label>低角シールドパック</Apparel_PackBroadshield.label>
+  <!-- EN: A single-use man-portable low-shield projector. Deployed on the ground, it generates a circular shield that allows bullets out but not in. The unit is designed to last only a short time before burning out.\n\nMany ultratech combat squads owe their lives to a shield pack deployed at just the right time. -->
+  <Apparel_PackBroadshield.description>使い捨ての携帯型低角シールド発生器です。地面に設置すると、弾丸を内からは通し、外からは弾く円形のシールドが生成されます。ユニットは、焼損するまでの短時間のみ持続するように設計されています。\n\n最先端技術を用いる多くの戦闘部隊は、適切なタイミングで設置されたシールドパックに命を預けます。</Apparel_PackBroadshield.description>
+  <!-- EN: shield -->
+  <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>シールド</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
+  <!-- EN: deploy low-shield -->
+  <Apparel_PackBroadshield.verbs.deploy_lowshield.label>低角シールドを設置</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
+  
+  <!-- UNUSED -->
   <Apparel_PackBroadshield.verbs.deploy_broadshield.label>ブロードシールドを設置</Apparel_PackBroadshield.verbs.deploy_broadshield.label>
   
   <!-- EN: jump pack -->
