@@ -16,17 +16,18 @@
     <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
   -->
   <Transition_Died.rulePack.rulesStrings>
-    <li>die(p=2)->死を迎え</li>
-    <li>die->命が絶え</li>
-    <li>die->息絶え</li>
-    <li>die(subject_flesh!=Mechanoid,p=0.5)->[SUBJECT_possessive]傷に負け</li>
-    <li>die(subject_flesh==Mechanoid,p=0.5)->シャットダウンし</li>
-    <li>die(subject_flesh==Mechanoid,p=0.5)->機能停止し</li>
-    <li>died(p=2)->死を迎え</li>
-    <li>died->終焉を迎え</li>
-    <li>died(subject_flesh!=Mechanoid)->息絶え</li>
-    <li>died(subject_flesh==Mechanoid)->シャットダウンし</li>
-    <li>died(subject_flesh==Mechanoid)->機能停止し</li>
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->死を迎え</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->命が絶え</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->息絶え</li>
+    <li>die(subject_flesh==Mechanoid)->シャットダウンし</li>
+    <li>die(subject_flesh==Mechanoid)->機能停止し</li>
+    <li>die(subject_flesh==Mechanoid)->力を失っ</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->死に追いやられ</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->終焉を迎えさせられ</li>
+    <li>died(subject_flesh!=Mechanoid)->息絶えさせられ</li>
+    <li>died(subject_flesh==Mechanoid)->シャットダウンさせられ</li>
+    <li>died(subject_flesh==Mechanoid)->機能停止させられ</li>
+    <li>died(subject_flesh==Mechanoid)->力を失わされ</li>
   </Transition_Died.rulePack.rulesStrings>
   
   <!-- EN:
@@ -73,10 +74,10 @@
     <li>flavor->[AdjectiveLarge][fireball]で</li>
     <li>flavor(p=4)->[fireball]で</li>
     <li>flavor(p=4)-></li>
-    <li>flavorsuffix->て,[everywhere][pieces]を撒き散らした</li>
-    <li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->て,[everywhere][Gore]を撒き散らした</li>
-    <li>flavorsuffix(subject_flesh!=Mechanoid)->て,わずかな[Gore]の山を残した</li>
-    <li>flavorsuffix->て,小さな爆発痕を残した</li>
+    <li>flavorsuffix->て,[everywhere][pieces]を撒き散らし</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->て,[everywhere][Gore]を撒き散らし</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid)->て,わずかな[Gore]の山を残し</li>
+    <li>flavorsuffix->て,小さな爆発痕を残し</li>
     <li>flavorsuffix(p=4)-></li>
     <li>fireball(p=3)->ファイアーボール</li>
     <li>fireball->火球</li>
@@ -99,10 +100,10 @@
   <Transition_DiedInclude.rulePack.rulesStrings>
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun]によって,[SUBJECT_definite]は[die]た.</li>
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty]によって,[SUBJECT_definite]は[die]た.</li>
-    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNoun][duetoa][died][flavorsuffix].</li>
-    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNounPretty][duetoa][died][flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNoun][duetoa][died][flavorsuffix]た.</li>
+    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNounPretty][duetoa][died][flavorsuffix]た.</li>
     <li>r_logentry->[SUBJECT_definite]は[died]た.</li>
-    <li>r_logentry->[SUBJECT_definite]は[died][suffixflavor].</li>
+    <li>r_logentry->[SUBJECT_definite]は[died][flavorsuffix]た.</li>
   </Transition_DiedInclude.rulePack.rulesStrings>
   
   <!-- EN:

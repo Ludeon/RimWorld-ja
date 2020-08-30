@@ -101,28 +101,28 @@
     <li>damaged_past->傷でダメージを負わせた</li>
     <li>damaged_past->傷つけた</li>
     <li>damaged_past->傷つけた</li>
-    <li>damaged_present(p=2)->吹き飛ばしている</li>
-    <li>damaged_present(p=2)->焼き焦がしている</li>
-    <li>damaged_present(p=2)->焼いている</li>
-    <li>damaged_present(p=2)->焼き爛れさせている</li>
-    <li>damaged_present(p=2)->火で覆っている</li>
-    <li>damaged_present(p=2)->火傷で傷を負わせている</li>
-    <li>damaged_present->怪我させている</li>
-    <li>damaged_present->傷でダメージを受けさせている</li>
-    <li>damaged_present->傷つけている</li>
-    <li>damaged_present->傷つけている</li>
+    <li>damaged_present(p=2)->吹き飛ばす</li>
+    <li>damaged_present(p=2)->焼き焦がす</li>
+    <li>damaged_present(p=2)->焼く</li>
+    <li>damaged_present(p=2)->焼き爛れさせる</li>
+    <li>damaged_present(p=2)->火で覆う</li>
+    <li>damaged_present(p=2)->火傷で傷を負わせる</li>
+    <li>damaged_present->怪我させる</li>
+    <li>damaged_present->傷でダメージを受けさせる</li>
+    <li>damaged_present->傷つける</li>
+    <li>damaged_present->傷つける</li>
     <li>destroyed_past->燃やした</li>
     <li>destroyed_past->焼いて灰にした</li>
     <li>destroyed_past->黒焦げにした</li>
     <li>destroyed_past->完全に破壊した</li>
     <li>destroyed_past->ダメにした</li>
     <li>destroyed_past->爆轟した</li>
-    <li>destroyed_present->燃やしている</li>
-    <li>destroyed_present->焼いて灰にしている</li>
-    <li>destroyed_present->黒焦げにしている</li>
-    <li>destroyed_present->完全に破壊している</li>
-    <li>destroyed_present->ダメにしている</li>
-    <li>destroyed_present->爆轟している</li>
+    <li>destroyed_present->燃やす</li>
+    <li>destroyed_present->焼いて灰にする</li>
+    <li>destroyed_present->黒焦げにする</li>
+    <li>destroyed_present->完全に破壊する</li>
+    <li>destroyed_present->ダメにする</li>
+    <li>destroyed_present->爆轟する</li>
   </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:

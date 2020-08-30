@@ -43,7 +43,7 @@
     <li>terrain_word(p=2)->低木</li>
     <li>terrain_word->砂漠</li>
     <li>terrain_word->藪</li>
-    <li>terrain_word->ブッシュ</li>
+    <li>terrain_word->雑木林</li>
     <li>terrain_word->やせ地</li>
   </NamerAridShrubland.rulePack.rulesStrings>
   
@@ -75,7 +75,7 @@
   -->
   <NamerBorealForest.rulePack.rulesStrings>
     <li>terrain_word(p=6)->森林</li>
-    <li>terrain_word(p=3)->タイガ</li>
+    <li>terrain_word(p=3)->針葉樹林</li>
     <li>terrain_word->林</li>
     <li>terrain_word->原始林</li>
     <li>terrain_word->森</li>
@@ -389,7 +389,7 @@
   <NamerTundra.rulePack.rulesStrings>
     <li>terrain_word(p=4)->台地</li>
     <li>terrain_word(p=4)->荒地</li>
-    <li>terrain_word(p=2)->タイガ</li>
+    <li>terrain_word(p=2)->針葉樹林</li>
     <li>terrain_word->潅木</li>
     <li>terrain_word->潅木地</li>
     <li>terrain_word->低木地</li>
