@@ -145,7 +145,16 @@
     <li>approachInfo(lodgerCount==2)->[asker_nameDef] and another desperate [faction_pawnSingular] are approaching.</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount] desperate [faction_pawnsPlural] are approaching. Their leader is called [asker_nameDef].</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have lost [asker_possessive] home in a recent attack.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to woken up from cryptosleep all alone and friendless.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have been chased from [asker_possessive] home by a vengeful ex-lover.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have been banished after an argument with a village leader.</li>
     <li>claimInfo(lodgerCount>=2)->They claim to have lost their home in a recent attack.</li>
+    <li>claimInfo(lodgerCount>=2)->They claim to have escaped an organ harvesting operation.</li>
+    <li>claimInfo(lodgerCount>=2)->They say they escaped from a slave caravan.</li>
+    <li>claimInfo(lodgerCount>=2)->They say that crop blights starved them out of their village.</li>
+    <li>claimInfo(lodgerCount>=2)->They say a great flashstorm burned down their home.</li>
+    <li>claimInfo(lodgerCount>=2)->They say their caravan was ambushed and everything was taken.</li>
+    <li>claimInfo(lodgerCount>=2)->They say they were banished from their town due to moral disagreements.</li>
     <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>
     <li>joinInfo(lodgerCount>=2)->If you make them happy, some of them may offer to join you.</li>
     <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
@@ -169,7 +178,16 @@
     <li>approachInfo(lodgerCount==2)->[asker_nameDef]と、もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。代表者は自分を[asker_nameDef]と名乗っています。</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef]は最近、自分の家を襲撃によって失ったと主張しています。</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は友人もなく、たった一人で冷凍睡眠から目覚めたと主張しています。</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は執念深い元恋人につきまとわれ、自分の家から逃げ出したと主張しています。</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は村長との言い争いの末、追放されたと主張しています。</li>
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは最近、自分達の家を襲撃によって失ったと主張しています。</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは臓器摘出手術から逃げ出したと主張しています。</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは奴隷キャラバンから逃げ出したと述べています。</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、枯病によって飢饉に陥ったため、村を追い出されたと述べています。</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、大きなゲリラ雷雨によって家を焼かれ失ったと述べています。</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、自分達のキャラバンが待ち伏せに襲われ、全てを奪われたと述べています。</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、道徳的な意見の不一致が原因で、町から追放されたと述べています。</li>
     <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わる事を申し出るかもしれません。</li>
     <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば、[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
     <li>travelerInfo(lodgerCount==1)->この[faction_pawnSingular]</li>
