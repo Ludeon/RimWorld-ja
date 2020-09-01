@@ -82,18 +82,19 @@
   <!-- EN: The title of {TITLE} cannot be inherited. -->
   <LetterRoyalTitleCantBeInherited>{TITLE}の爵位は継承できません。</LetterRoyalTitleCantBeInherited>
 
+
   <!-- EN: Title inheritance -->
   <LetterTitleInheritance>爵位の継承</LetterTitleInheritance>
-  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles have been transferred to {PAWN_possessive} heirs according to the laws of the title-granting factions. -->
-  <LetterTitleInheritance_Base>{PAWN_nameFull}が死亡したため、{PAWN_possessive}の爵位は相続法に従い、{PAWN_possessive}の継承者に譲り渡されました。</LetterTitleInheritance_Base>
-  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It replaced {HEIR_possessive} {REPLACEDTITLE} title. -->
-  <LetterTitleInheritance_AsReplacement>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。{HEIR_possessive} {REPLACEDTITLE}の爵位が置き換えられました。</LetterTitleInheritance_AsReplacement>
+  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
+  <LetterTitleInheritance_Base>{PAWN_nameFull}が死亡したため、爵位が{PAWN_possessive}継承者に譲り渡されます。</LetterTitleInheritance_Base>
+  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
+  <LetterTitleInheritance_AsReplacement>{FACTION_name}の相続法に従い、{PAWN_possessive}爵位である{TITLE}は{HEIR_nameFull}に継承されました。授与式を終えると、{HEIR_possessive}爵位が{REPLACEDTITLE}に替わります。</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されますが、{HEIR_pronoun}はすでに{HIGHERTITLE}の保持者です。</LetterTitleInheritance_NoEffectHigherTitle>
-  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}の相続法に従い、{PAWN_possessive}爵位である{TITLE}は{HEIR_nameFull}に継承されますが、{HEIR_pronoun}はすでに{HIGHERTITLE}の保持者です。</LetterTitleInheritance_NoEffectHigherTitle>
+  <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
+  <LetterTitleInheritance_WasInherited>{FACTION_name}の相続法に従い、{PAWN_possessive}爵位である{TITLE}は、授与式を通じて{HEIR_nameFull}に継承されます。</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
-  <LetterTitleInheritance_NoHeirFound>{PAWN_pronoun}の法定相続人がいないため、{PAWN_possessive} {TITLE}の爵位は誰にも継承されませんでした。</LetterTitleInheritance_NoHeirFound>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_pronoun}の法定相続人がいないため、{PAWN_possessive}爵位である{TITLE}は誰にも継承されませんでした。</LetterTitleInheritance_NoHeirFound>
 
   <!-- Royal implant violations -->
   <!-- EN: Lawbreaker: {PAWN_labelShort} -->

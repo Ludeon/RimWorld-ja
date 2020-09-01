@@ -1,9 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: beret -->
+  <Apparel_Beret.label>ベレー帽</Apparel_Beret.label>
+  <!-- EN: A soft, round, flat-crowned hat. -->
+  <Apparel_Beret.description>柔らかく、丸みを帯びた平たい冠の帽子です。</Apparel_Beret.description>
+  
+  <!-- EN: cape -->
+  <Apparel_Cape.label>ケープ</Apparel_Cape.label>
+  <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
+  <Apparel_Cape.description>上品なデザインのロングケープです。胴体の片側を覆います。</Apparel_Cape.description>
+  
   <!-- EN: coronet -->
   <Apparel_Coronet.label>コロネット</Apparel_Coronet.label>
-  <!-- EN: A tiny crown-like piece of headwear made of metal. -->
+  <!-- EN: A small crown-like piece of headwear made of metal. -->
   <Apparel_Coronet.description>小さな王冠のような、金属製の装身具です。</Apparel_Coronet.description>
   
   <!-- EN: corset -->
@@ -13,8 +23,13 @@
   
   <!-- EN: crown -->
   <Apparel_Crown.label>王冠</Apparel_Crown.label>
-  <!-- EN: A grand crown of metal with an elaborate design. -->
+  <!-- EN: A crown of metal with an elaborate design. -->
   <Apparel_Crown.description>精巧なデザインの金属製の王冠です。</Apparel_Crown.description>
+  
+  <!-- EN: stellic crown -->
+  <Apparel_CrownStellic.label>星冠</Apparel_CrownStellic.label>
+  <!-- EN: A grand crown of metal with an elaborate, overbearing design. -->
+  <Apparel_CrownStellic.description>精巧で威圧的なデザインの、威厳ある金属製の王冠です。</Apparel_CrownStellic.description>
   
   <!-- EN: hood -->
   <Apparel_HatHood.label>フード</Apparel_HatHood.label>
