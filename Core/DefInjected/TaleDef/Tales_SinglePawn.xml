@@ -113,7 +113,7 @@
     <li>quality_sentence->[PAWN_nameDef]は,[THING_quality]相当の仕事をしたようだ</li>
     <li>title_sentence->[PAWN_nameDef]は[THING_definite]の底面に,このようなタイトルを付けている: [THING_title]</li>
     <li>title_sentence->[THING_definite]はこのタイトルで飾られている: [THING_title]</li>
-    <li>title_sentence->タイトルである「[THING_title]」は[THING_definite]の背面に描かれている</li>
+    <li>title_sentence->タイトルである"[THING_title]"は[THING_definite]の背面に描かれている</li>
   </CraftedArt.rulePack.rulesStrings>
   
   <!-- EN: drunk -->

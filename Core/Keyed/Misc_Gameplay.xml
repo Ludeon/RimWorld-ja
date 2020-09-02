@@ -757,9 +757,9 @@
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>同じ マスにある 別のものを 選択します.\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>同じマスにある,別のものを選択します.\n\nショートカットキー: {0}\n\nこれは,間隔を置いて同じマスを クリックした時と同じ動作です.</SelectNextInSquareTip>
   <!-- EN: View information. -->
-  <DefInfoTip>オブジェクトの 情報を 表示する.</DefInfoTip>
+  <DefInfoTip>オブジェクトの情報を表示する.</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
@@ -1313,9 +1313,9 @@
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>他の誰かと絆を結んだ</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>(現在の絆)</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(絆の存在)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>ペルソナ武器と絆を結べるのは一人につき1個までです.\n\n{WEAPON_labelShort}を装備して絆を結ぶには,その前に今{PAWN_nameDef}が絆を結んでいる武器である,{BONDEDWEAPON_labelShort}を破壊する必要があります.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>ペルソナ武器と絆を結べるのは一人につき1個までです.\n\n{WEAPON_labelShort}を装備して絆を結ぶには, その前に今{PAWN_nameDef}が絆を結んでいる武器である, {BONDEDWEAPON_labelShort}を破壊する必要があります.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
   <BladelinkAlreadyBondedMessage>{PAWN_nameDef}は既に{BONDEDWEAPON_labelShort}と絆で結ばれている</BladelinkAlreadyBondedMessage>
 

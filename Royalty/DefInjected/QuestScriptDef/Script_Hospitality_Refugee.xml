@@ -66,7 +66,7 @@
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural]が到着した</li>
-    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました。\n[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まり、 休憩と体勢を立て直す事が可能です。</li>
+    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました。[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まり、休憩しながら体勢を立て直せるでしょう。</li>
     <li>hasHave(lodgerCount==1)->が</li>
     <li>hasHave(lodgerCount>=2)->達が</li>
     <li>appalledButNoAction->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこの出来事に対して強い嫌悪感を抱きましたが、あなたに逆らう行動は起こしていません。</li>
@@ -106,7 +106,7 @@
     <li>areIs(lodgerCount==1)->が</li>
     <li>areIs(lodgerCount>=2)->達が</li>
     <li>betrayalOfferLetterLabel->裏切りの提示: [factionOpponent_nameDef]</li>
-    <li>betrayalOffserLetterText->[factionOpponent_faction_name]の[factionOpponent_faction_pawnSingular]である[factionOpponent_nameDef]は、[asker_nameDef][otherLodgers][areIs]、[map_definite]でもてなされていることを知りました。[factionOpponent_pronoun]と[asker_nameDef]は敵同士であり、[asker_possessive]死を望んでいます。\n\n[faction_name]の全てのメンバーを殺すと、[factionOpponent_pronoun]は次の報酬を送ります(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>betrayalOffserLetterText->[factionOpponent_faction_name]の[factionOpponent_faction_pawnSingular]である[factionOpponent_nameDef]は、[asker_nameDef][otherLodgers][areIs]、[map_definite]でもてなされていることを知りました。[factionOpponent_pronoun]と[asker_nameDef]は敵同士であり、[asker_possessive]死を望んでいます。\n\n[faction_name]のメンバーを全員殺すと、[factionOpponent_pronoun]は次の報酬を送ります(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
     <li>betrayalOfferRewardLetterLabel->裏切りの報酬: [factionOpponent_nameDef]</li>
     <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef]は、[asker_nameDef][otherMembers]を殺した場合の報酬を約束しました。[factionOpponent_pronoun]は、この事が達成されたという情報を聞いたため、ドロップポッドで以下の物品を贈りました(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
     <li>betrayalOfferFailedLetterLabel->裏切りの報酬が取り消された</li>
@@ -117,7 +117,7 @@
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)->と、[faction_name]の全てのメンバー</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural]が去っている</li>
-    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間 留まる事を許可してくれた事に対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は、この事を決して忘れないと言いました。</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間留まる事を許可してくれた事に対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は、この事を決して忘れないと言いました。</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>

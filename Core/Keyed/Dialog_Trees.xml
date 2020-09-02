@@ -23,9 +23,9 @@
   <!-- EN: need {0} goodwill -->
   <NeedGoodwill>{0}友好値が必要</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
-  <NeedSilverLaunchable>貿易ビーコンのそばに {0}シルバーが 必要です.</NeedSilverLaunchable>
+  <NeedSilverLaunchable>貿易ビーコンのそばに{0}シルバーが必要です.</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
-  <NotEnoughSilver>シルバーが 足りない.</NotEnoughSilver>
+  <NotEnoughSilver>シルバーが足りない.</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
   <SilverForGoodwill>{0}シルバーで 友好値 +{1}</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
@@ -53,15 +53,15 @@
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
   <RequestMilitaryAid>急ぎの援軍を要求する(コスト: {0}友好値)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
-  <MilitaryAidConfirmMutualEnemy>{0}は, 新たな敵を 作ってまで 助けるつもりはないと 言っています. どうやら あなたを 脅かしている {1}のことのようです. あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy>{0}は, 新たな敵を作ってまで助けるつもりはないと言っています. どうやらあなたを脅かしている{1}のことのようです. あなたはそれでも援助を要請しますか？</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
-  <CallConfirm>はい, とにかく来て欲しい.</CallConfirm>
+  <CallConfirm>ああ,とにかく来て欲しい.</CallConfirm>
   <!-- EN: No, never mind. -->
-  <CallCancel>いや,  気にしないでくれ.</CallCancel>
+  <CallCancel>いや,気にしないでくれ.</CallCancel>
   <!-- EN: {0} agrees to send fighters to help you. -->
-  <MilitaryAidSent>{0}代表は, あなたを 助けるために 兵士を 送ると 約束しました.</MilitaryAidSent>
+  <MilitaryAidSent>{0}は, あなたを助けるために兵士を送ると約束しました.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
-  <CantSendMilitaryAidInTime>{0}代表は, 時間通りに到着できそうにないことを詫びています.\n\n(ポッド輸送を行うには, この派閥のテクノロジーレベルは低すぎます.)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>{0}は, 時間通りに到着できそうにないことを詫びています.\n\n(ポッド輸送を行うには, この派閥のテクノロジーレベルは低すぎます)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
   <HostileVisitorsPresent>敵意に満ちた訪問者がいる</HostileVisitorsPresent>
 

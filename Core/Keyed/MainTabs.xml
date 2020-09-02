@@ -311,9 +311,9 @@
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort}が加わる</PawnQuestReward>
   <!-- EN: Betrayal offer: {0} targets remain -->
-  <QuestBetrayalOffer>裏切りの申し出: {0} ターゲットが残る</QuestBetrayalOffer>
+  <QuestBetrayalOffer>裏切りの提示: {0}人の標的が残っている</QuestBetrayalOffer>
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
-  <QuestBetrayalOfferTip>{0}は,{1}の仲間を全員殺害することに対して,報酬を与えるでしょう.</QuestBetrayalOfferTip>
+  <QuestBetrayalOfferTip>{0}は, {1}のメンバーを全員殺害した場合,報酬を与えます.</QuestBetrayalOfferTip>
   
   <!-- Health tab -->
   <!-- EN: Creates need -->

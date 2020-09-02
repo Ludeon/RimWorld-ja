@@ -134,7 +134,7 @@
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
   <NamePlayerFactionMessage>あなたが,この地に腰を下ろそうとして以来,あなたが派閥のネーミングをするべきだと,{0}は考えています.あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
-  <PlayerFactionGainsName>あなたは派閥を {0}と名乗りました.</PlayerFactionGainsName>
+  <PlayerFactionGainsName>あなたは派閥を{0}と名乗りました.</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
   <PlayerFactionNameIsInvalid>その名前は適当ではありません.</PlayerFactionNameIsInvalid>
 
@@ -142,7 +142,7 @@
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
   <NamePlayerFactionBaseMessage>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
-  <PlayerFactionBaseGainsName>ここを {0}と命名しました.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseGainsName>ここを{0}と命名しました.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
   <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません.</PlayerFactionBaseNameIsInvalid>
   
@@ -150,7 +150,7 @@
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り,ここを {1}と命名しました.</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>あなたは派閥を{0}と名乗り,ここを{1}と命名しました.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
@@ -162,9 +162,9 @@
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>この人のニックネームを {0}としました.[PAWN_possessive]肩書きは {PAWN_title} です.</PawnGainsName>
+  <PawnGainsName>この人のニックネームを{0}としました.[PAWN_possessive]肩書きは{PAWN_title}です.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
-  <AnimalGainsName>この動物の名前を {0}としました.</AnimalGainsName>
+  <AnimalGainsName>この動物の名前を{0}としました.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -891,11 +891,11 @@
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき,余分に持ち出すドラッグの量です.予備の持ち出しを禁止すると,毎回,備蓄ゾーンにドラッグを取りにいきます.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>中毒者へ\n\nこのドラッグを,中毒患者の要求に従って与えることができます.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>中毒者の欲求目的の使用\n\n中毒者が欲求を維持するためにこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>快楽目的の者へ\n\nこのドラッグは,快楽は,人つきあいを目的として使用できます.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>娯楽目的の使用\n\n娯楽や人付き合いを目的としてこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します.</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>定期的な使用\n\nこのドラッグを定義された投薬スケジュールに則って使用します.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->

@@ -47,7 +47,7 @@
     <li>damaged_present->噛んでいる</li>
     <li>damaged_present->囓っている</li>
     <li>damaged_present(deflected!=True)->引き裂いている</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織が露わにさせた</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織を露わにさせた</li>
     <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出させた</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->容赦なく皮膚に傷を残した</li>
     <li>flavortext_consequence(recipient_flesh==Mechanoid)->容赦なく装甲に傷を残した</li>
@@ -179,11 +179,9 @@
   <Maneuver_Scratch.rulePack.rulesStrings>
     <li>woundname->創傷</li>
     <li>woundname(p=0.3)->傷口</li>
-    <li>flavortext_situation(recipient_flesh!=Mechanoid)->[woundname]から血をしたたらせ</li>
-    <li>flavortext_situation->[woundname]から血を流しながら</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->血だらけの[woundname]には構わず</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織を露わにさせた</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出させた</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->ぞっとするような[woundname]を残した</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</li>
     <li>destroyed_suffix->細長い一片[to]</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</li>
@@ -301,11 +299,9 @@
     <li>damaged_present(deflected!=True)->->引き裂く</li>
     <li>woundname->傷口</li>
     <li>woundname(p=0.3)->裂け目</li>
-    <li>flavortext_situation(recipient_flesh!=Mechanoid)->[woundname]から血を滴らせながら</li>
-    <li>flavortext_situation->[woundname]から血を流して</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->血だらけの[woundname]には構わず</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織を露わにさせた</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出させた</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->ぞっとするような[woundname]を残した</li>
     <li>destroyed_past->真っ二つにした</li>
     <li>destroyed_past->二分した</li>
     <li>destroyed_past->半分になった</li>

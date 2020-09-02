@@ -320,25 +320,25 @@
   <!-- EN: Peace talks disaster -->
   <LetterLabelPeaceTalks_Disaster>和平交渉 決裂</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
-  <LetterPeaceTalks_Disaster>交渉は決裂した.代表団は,協議が,侮辱と非難のなすり合いで決裂する前に,かろうじて冒頭の挨拶をやり過ごしたに過ぎなかった.\n\n早々と貴方のキャラバン隊が出発した後,{1}からの {0}は追って来て,攻撃してきた!\n\n {1}との関係: {2}</LetterPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>交渉は決裂しました. 代表団は,話し合いが侮辱と非難で決裂する前に,かろうじて最初の挨拶だけをやり過ごしました.\n\nキャラバン隊が早々と出発した後,{1}からの{0}が追って来て,攻撃してきました!\n\n{1}との関係: {2}</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
   <LetterLabelPeaceTalks_Backfire>和平交渉 逆効果</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
-  <LetterPeaceTalks_Backfire>交渉は裏目に出た.いくつかの嘲笑と引き換えたにも関わらず,代表団は,実質的な問題に対して進展が無く,複数の声明は侮辱とみなされた.\n\n {0}との関係: {1}</LetterPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>交渉は裏目に出ました. いくつかの嘲笑と引き換えたにも関わらず,代表団は本質的な問題に対して進展を得られず,複数の声明が侮辱として解釈されました.\n\n{0}との関係: {1}</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
   <LetterLabelPeaceTalks_TalksFlounder>和平交渉 難航</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>交渉は難航している.代表団は,基本的な敬意を払って,かろうじて明確に伝えることができたが,主となる問題について親展を得ることは出来なかった.\n\n {0}との関係: 変化無し</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>交渉は難航しています. 代表団はかろうじてしっかりとした基本的な敬意を払い,意思を伝えることは出来ましたが,主となる問題について進展を得ることは出来ませんでした.\n\n{0}との関係: 変化無し</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
   <LetterLabelPeaceTalks_Success>和平交渉 成功</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
-  <LetterPeaceTalks_Success>交渉は成功した.代表団は,幾つかの実質的な問題に対して,新しい相互理解に達した.\n\n {0}との関係は {1}によって改善した.</LetterPeaceTalks_Success>
+  <LetterPeaceTalks_Success>交渉は成功しました. 代表団は,いくつかの本質的な問題に対して,新しい相互理解に達しました.\n\n{0}との関係が {1} 改善しました.</LetterPeaceTalks_Success>
   <!-- EN: Peace talks triumph -->
-  <LetterLabelPeaceTalks_Triumph>和平交渉 大勝利</LetterLabelPeaceTalks_Triumph>
+  <LetterLabelPeaceTalks_Triumph>和平交渉 大成功</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
-  <LetterPeaceTalks_Triumph>交渉は大勝利に終わった! 代表団は,迅速に個人レベルでお互いに理解し合い,最も難しい問題に対する,お互いの展望のため,心から集まった.\n\n {0}との関係は {1}によって改善した.\n\n 貴方のキャラバン隊が出発のとき,{0}は贈り物を申し出た: {2}</LetterPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>交渉は大成功に終わりました! 代表団はすぐに個人レベルで仲良くなり,この日最も困難であった問題に対して,互いの見解を真に理解し合いました.\n\n{0}との関係は {1} 改善しました.\n\nキャラバン隊が出発するとき,{0}は贈り物を申し出ました:\n\n{2}</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>交渉人 {PAWN_labelShort}は {1}経験値をためた.</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>交渉人となった{PAWN_labelShort}は,社交の経験値を{1}入手しました.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->

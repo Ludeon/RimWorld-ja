@@ -137,11 +137,13 @@
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
   <Transition_Downed.rulePack.rulesStrings>
-    <li>r_logentry->[CULPRITHEDIFF_labelNoun]によって[SUBJECT_definite]は[collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun]によって,[SUBJECT_definite]は[collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty]によって,[SUBJECT_definite]は[collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun]がもとで,[SUBJECT_definite]は[collapsemeta].</li>
     <li>r_logentry->[CULPRITHEDIFF_labelNounPretty]がもとで,[SUBJECT_definite]は[collapsemeta].</li>
     <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNoun][duetoa][collapsedmeta].</li>
-    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNounPretty][duetoa][collapsedmeta]</li>
-    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
+    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNounPretty][duetoa][collapsedmeta].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite]は[collapsedmeta].</li>
     <li>collapse->身体が潰れる</li>
     <li>collapse->クシャクシャになる</li>
     <li>collapse->バッタリと倒れる</li>
