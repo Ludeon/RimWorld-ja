@@ -142,8 +142,8 @@
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>TargetA を汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
   
-  <!-- EN: taking TargetA. -->
-  <TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeInventory.reportString>TargetA を持ち物に加えている</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>TargetA と売買中</TradeWithPawn.reportString>

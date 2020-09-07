@@ -146,6 +146,10 @@
   <Stat_MineableThing_Name>採掘物</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
   <Stat_MineableThing_Desc>これを採掘した時に得られる鉱物です.</Stat_MineableThing_Desc>
+  <!-- EN: Mining yield -->
+  <Stat_MiningYield_Name>採掘量</Stat_MiningYield_Name>
+  <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
+  <Stat_MiningYield_Desc>これを採掘した時に得られる鉱物の最大量です.実際に得られる量は,採掘者の採掘スキルによって変動します.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>原料</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -153,7 +157,7 @@
   <!-- EN: Stuff -->
   <Stat_Stuff_Name>素材</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>元となった素材です.素材は多くのステータス,武器のダメージ,衣類,アーマー,断熱,アイテムと建物のHP,美しさ,市場価値などなどに影響します.</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>元となった素材です.素材は多くのステータス,武器のダメージ,衣類,アーマー,断熱,アイテムと建物のHP,美しさ,市場価値などに影響します.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
   <Stat_Weapon_Name>武装</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
