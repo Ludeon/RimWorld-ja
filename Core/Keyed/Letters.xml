@@ -256,7 +256,7 @@
   <!-- EN: {0} binge -->
   <LetterLabelDrugBinge>{0} 浪費</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>{2_label}は, {1}を 浪費するようになった.</LetterDrugBinge>
+  <LetterDrugBinge>{2_label}は,{1}を浪費するようになりました.</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->
@@ -274,7 +274,7 @@
   <!-- EN: Attack begun -->
   <LetterLabelCaravanEnteredEnemyBase>戦闘開始</LetterLabelCaravanEnteredEnemyBase>
   <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
-  <LetterCaravanEnteredEnemyBase>{0}は,{1}に到着し,攻撃準備は整っています.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0}は{1}に到着し,攻撃準備を整えました.</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
   <!-- EN: Attack begun -->
@@ -543,6 +543,6 @@
   <!-- EN: Caravan detected -->
   <LetterLabelSiteCountdownStarted>キャラバンが発見された</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
-  <LetterTextSiteCountdownStarted>キャラバンが発見されました.{0}後に, 強化した{1}が{2}からエリアに到着し始めます.\n\nキャラバンを再編成し,{1}を避けるために移動して下さい.彼らの到着までをカウントダウンするタイマーが表示されます.</LetterTextSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>キャラバンが発見されました. {0}後に, 強化した{1}が{2}からエリアに到着し始めます.\n\nキャラバンを再編成し,{1}を避けるために移動して下さい.彼らの到着までをカウントダウンするタイマーが表示されます.</LetterTextSiteCountdownStarted>
 
 </LanguageData>

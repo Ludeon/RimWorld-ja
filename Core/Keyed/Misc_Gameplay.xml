@@ -903,19 +903,19 @@
   <!-- EN: Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の,美しさとして知られる値を表示します</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の,美しさとして知られる値を表示します.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することが出来ます</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することが出来ます.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>自動的に, 新しい 建物・ 機材の まわりを 村ゾーンに 指定します.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>新しい建物や建築物の周囲を自動的にコロニーゾーンに指定します.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
   <AutoRebuildButton>破壊された建物を自動的に再復興するか切り替えます.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>リソース表示をカテゴリー別の表示に切り替えます.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>家畜の名前表示 切り替え</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
@@ -923,17 +923,17 @@
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
   <ShowTerrainAffordanceOverlayToggleButton>支持地盤の可視 切り替え\n\nこれは個々の場所に,どのような種類の建物を建設できるかに関係しています.\n\n例えば,ある種の地盤は,小型,中型の建物だけを建てられますが,重い建物は建てられません.橋は水上にしか建てられません.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
   <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>地形の名称表示を切り替えます</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>地形の名称表示 切り替え</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>{1_label} が 燃えている</FireOn>
+  <FireOn>{1_label}が 燃えている</FireOn>
   <!-- EN: Burning -->
   <Burning>炎上中</Burning>
   <!-- EN: fire size {0} -->

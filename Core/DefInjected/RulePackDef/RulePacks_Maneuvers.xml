@@ -42,11 +42,11 @@
     <li>damaged_past->噛んだ</li>
     <li>damaged_past->囓った</li>
     <li>damaged_past(deflected!=True)->引き裂いた</li>
-    <li>damaged_present->噛んでいる</li>
-    <li>damaged_present->ムシャムシャ噛んでいる</li>
-    <li>damaged_present->噛んでいる</li>
-    <li>damaged_present->囓っている</li>
-    <li>damaged_present(deflected!=True)->引き裂いている</li>
+    <li>damaged_present->噛む</li>
+    <li>damaged_present->ムシャムシャ噛む</li>
+    <li>damaged_present->噛む</li>
+    <li>damaged_present->囓る</li>
+    <li>damaged_present(deflected!=True)->引き裂く</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織を露わにさせた</li>
     <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出させた</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->容赦なく皮膚に傷を残した</li>

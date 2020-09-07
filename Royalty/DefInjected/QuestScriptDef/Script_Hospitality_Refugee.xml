@@ -66,7 +66,7 @@
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural]が到着した</li>
-    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました。[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まり、休憩しながら体勢を立て直せるでしょう。</li>
+    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました。[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まり、休憩し、体勢を立て直すでしょう。</li>
     <li>hasHave(lodgerCount==1)->が</li>
     <li>hasHave(lodgerCount>=2)->達が</li>
     <li>appalledButNoAction->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこの出来事に対して強い嫌悪感を抱きましたが、あなたに逆らう行動は起こしていません。</li>
@@ -173,7 +173,7 @@
     <li>lodgersPossessive(lodgerCount>=2)->[asker_pronoun]らの</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
-    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo]また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
+    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo] また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
     <li>approachInfo(lodgerCount==1)->[asker_nameDef]と名乗る、絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef]と、もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。代表者は自分を[asker_nameDef]と名乗っています。</li>

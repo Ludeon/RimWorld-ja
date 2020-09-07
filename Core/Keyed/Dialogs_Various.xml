@@ -555,7 +555,7 @@
   <!-- EN: Your tradeable silver: {0} -->
   <YourTradeableSilver>取り引きできるシルバー： {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
-  <YourTradeableSilverTip>貿易ビーコン 付近に 備蓄した シルバーを 取り引きに つかうことが できます.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>貿易ビーコン付近に備蓄したシルバーでなければ,取り引きに使えません.</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
   <TraderHasNoMore>品切れ</TraderHasNoMore>
   <!-- EN: No more to sell. -->
@@ -567,9 +567,9 @@
   <!-- EN: Negotiator: {0} (+{1}) -->
   <NegotiatorTradeDialogInfo>交渉人: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>あなたの交渉人 {1_labelShort}は病弱のため きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>あなたの交渉人 {1_labelShort}は病弱のため きちんと聞く事が出来ません.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと聞く事が出来ません.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
@@ -597,9 +597,9 @@
   <!-- EN: Final price -->
   <FinalPrice>最終価格</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>贈答モード - {0}への贈答品.</GiftModeTip>
+  <GiftModeTip>贈り物モード -{0}へ贈り物を提示します.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
-  <TradeModeTip>取り引きモードへ戻る</TradeModeTip>
+  <TradeModeTip>取り引きモードに戻ります.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
   <TradeCaravanRequestDeniedDueTitle>{FACTION_name}はキャラバン隊を送るつもりはありません.なぜなら{NEGOTIATOR_nameDef}には{TITLE}の肩書が欠けているからです.</TradeCaravanRequestDeniedDueTitle>
 
