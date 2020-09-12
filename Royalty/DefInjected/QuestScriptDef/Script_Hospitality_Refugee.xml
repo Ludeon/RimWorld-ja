@@ -117,7 +117,7 @@
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)->と、[faction_name]の全てのメンバー</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural]が去っている</li>
-    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間留まる事を許可してくれた事に対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は、この事を決して忘れないと言いました。</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間留まる事を許可してくれた事に対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は最後に、この事を決して忘れないと伝えて去りました。</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
@@ -264,7 +264,7 @@
   -->
   <RefugeeDelayedReward.questContentRules.rulesStrings>
     <li>rewardLetterLabel->厚遇報酬</li>
-    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました。[rewardDelayTicks_duration]前、 あなたは[rewardGiver_objective]絶望的な状況から救いました。\n\nあの時から[rewardGiver_pronoun]は立ち直り、そして今、あなたの助けになるために適切な報酬を渡す事を望みました。[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
+    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました。[rewardDelayTicks_duration]前、 あなたは[rewardGiver_objective]絶望的な状況から救いました。\n\nあの時から[rewardGiver_pronoun]は立ち直り、そして今、あなたの助けになるために、適切な報酬を渡す事を望みました。[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
   </RefugeeDelayedReward.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->a delayed reward for refugee quest</li>
