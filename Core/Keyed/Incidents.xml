@@ -8,7 +8,7 @@
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました.\n\n入植者は 大丈夫です. しかし... 多くの {0} は 正気を 失い 暴れだした ようです.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>サイコウェーブの一種がこの辺りに吹き荒れました. 入植者は大丈夫です. しかし...\n\n多くの{0}が正気を失い暴れだしたようです.</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
   <LetterLabelCropBlight>枯病: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
@@ -19,15 +19,15 @@
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>奇跡</LetterLabelMiracleHeal>
   <!-- EN: {0} has experienced a miraculous recovery! -->
-  <MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
+  <MiracleHeal>{0}は信じられない回復力で傷を癒やしました！</MiracleHeal>
 
   <!-- Enemy raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <EnemyRaidLeaderPresent>{LEADER_factionPawnsPlural} - {LEADER_labelShort} うちの１人は,この派閥のリーダーです.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>{LEADER_factionPawnsPlural}のうちの1人,{LEADER_labelShort}は,この派閥のリーダーです.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <FriendlyRaidLeaderPresent>{LEADER_factionPawnsPlural} - {LEADER_labelShort}うちの１人は,この派閥のリーダーです.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>{LEADER_factionPawnsPlural}のうちの1人,{LEADER_labelShort}は,この派閥のリーダーです.</FriendlyRaidLeaderPresent>
 
   <!-- EN: Transport pod crash -->
   <LetterLabelRefugeePodCrash>輸送ポッド事故</LetterLabelRefugeePodCrash>
@@ -43,7 +43,7 @@
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>輸送ポッドが この近くに 墜落するのを見かけました.\n\nその付近を探せば 役に立つものが 見つかるでしょう.</CargoPodCrash>
+  <CargoPodCrash>輸送ポッドがこの近くに墜落するのを見かけました.\n\nその付近を探せば,役に立つものが見つかるでしょう.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
   <AnElectricalConduit>電気ケーブル</AnElectricalConduit>
@@ -66,9 +66,9 @@
   <TraderArrivalNoFaction>彼らは,誰とも提携していません.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>{1}の {PAWN_title}が 村の近くに います.{PAWN_pronoun}は {PAWN_nameFull}と名乗っています.</SingleTravelerPassing>
+  <SingleTravelerPassing>{1}の{PAWN_title}が村の近くにいます.{PAWN_pronoun}は {PAWN_nameFull}と名乗っています.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
-  <GroupTravelersPassing>{0}の 旅行者グループが 村の近くに います.</GroupTravelersPassing>
+  <GroupTravelersPassing>{0}の旅行者グループが村の近くにいます.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
@@ -96,9 +96,9 @@
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>{SOURCE_label}は 近くの動物達を狂気に誘う サイキックパルスを照射しました.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>{SOURCE_label}は,近くの動物達を狂気に誘うサイキックパルスを照射しました.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>古代の宇宙船はサイキックパルスを使い,入植者{0}に狂気を照射しました.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>活動してから {0}日 経過</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
@@ -108,15 +108,15 @@
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>サイコ</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>サイコドローン強化</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>古代の宇宙船は さらに強力な サイコドローンを 射出しました. このエリアの {0} 人間は, 不安と, 恐怖と, 偏執衝動に さらされます.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>古代の宇宙船は,さらに強力なサイコドローンを射出しました.このエリアの{0}性は,不安と,恐怖と,偏執衝動にさらされます.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
   <LetterLabelAgentRevealed>代理人</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
-  <LetterAgentRevealed>{0} は あなたの敵  {1} の代理と 名乗りました.\n\n彼らは 逃げようと しています.</LetterAgentRevealed>
+  <LetterAgentRevealed>{0}は,あなたの敵である{1}の代理であると名乗りました.\n\n彼らは逃げようとしています.</LetterAgentRevealed>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
@@ -152,13 +152,13 @@
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
   <LetterTraderCaravanArrival>{0}から来たトレーダーキャラバンが接触してきました.彼らは{1}です.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>彼らは,ここを離れるまでの間,コロニーの周りをウロウロします.あなたは彼らを攻撃できますが,しかし,彼らの派閥を怒らせるでしょう!</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>彼らは,ここを離れるまでの間,コロニーの周りをウロウロします.あなたは彼らを攻撃できますが,彼らの派閥を怒らせるでしょう!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>{0}からの身代金要求</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>{1}が 通信で あなたに呼びかけています.彼らは,入植者 {0}を 人質にしています.\n\n彼らは,身代金 {2}シルバーと交換に,{PAWN_objective} 解放する用意があると言ってきています.</RansomDemand>
+  <RansomDemand>{1}が通信で,あなたに呼びかけています.彼らは,入植者である{0}を人質にしています.\n\n彼らは,身代金{2}シルバーと交換に,{PAWN_objective}解放する用意があると言ってきています.</RansomDemand>
   <!-- EN: Accept -->
   <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
   <!-- EN: Reject -->
@@ -178,9 +178,9 @@
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
-  <CaravanMeetingTitle>{0}は,キャラバン隊と会いました.</CaravanMeetingTitle>
+  <CaravanMeetingTitle>{0}はキャラバン隊と出会った</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>{0}は {1}から来た キャラバン隊と 平和的に 出会いました. もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting>{0}は,{1}から来たキャラバン隊と平和的に出会いました. もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
   <CaravanMeeting_Trade>売買</CaravanMeeting_Trade>
   <!-- EN: Attack -->

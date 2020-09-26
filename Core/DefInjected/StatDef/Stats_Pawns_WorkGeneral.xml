@@ -9,7 +9,7 @@
   <!-- EN: animal gather yield -->
   <AnimalGatherYield.label>家畜・収穫収率</AnimalGatherYield.label>
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
-  <AnimalGatherYield.description>乳絞り,毛刈り,家畜から収穫をした時に得られる量のパーセンテージです.高い数値ほど,製品が無駄になる量が少なくなります.</AnimalGatherYield.description>
+  <AnimalGatherYield.description>乳絞り,毛刈り,家畜から収穫をした時に得られる量のパーセンテージです.\n\n数値が高いほど,無駄になる生産物の量が少なくなります.</AnimalGatherYield.description>
   
   <!-- EN: construction speed -->
   <ConstructionSpeed.label>建造・速度</ConstructionSpeed.label>
@@ -19,7 +19,7 @@
   <!-- EN: construct success chance -->
   <ConstructSuccessChance.label>建造・成功率</ConstructSuccessChance.label>
   <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
-  <ConstructSuccessChance.description>何か建造物を建てているときの成功率です.失敗は,時間と資源のムダを意味します.</ConstructSuccessChance.description>
+  <ConstructSuccessChance.description>何か建造物を建てる時の成功率です.\n\n失敗は,時間と資源のムダを意味します.</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
   <DeepDrillingSpeed.label>深部採掘速度</DeepDrillingSpeed.label>
@@ -29,12 +29,12 @@
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>修理・成功率</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
-  <FixBrokenDownBuildingSuccessChance.description>機能停止した建造物をコンポーネントを使って修理するときの成功率です.失敗は,時間と資源のムダを意味します.【注意】これは,機能停止した建造物にのみ影響を及ぼし,単にダメージを受けた物への修理とは違います.</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.description>機能停止した建造物をコンポーネントを使って修理するときの成功率です.\n\n失敗は,時間と資源のムダを意味します.\nこれは,故障した建造物の修理にのみ影響を及ぼし,単にダメージを受けた物の修理とは異なる事に注意して下さい.</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hunting stealth -->
   <HuntingStealth.label>狩り</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
-  <HuntingStealth.description>狩りの獲物がハンターに逆襲してくる確率への減衰率です.0%は減少無しを意味します.100%は,動物が決して攻撃してこない意味になります.</HuntingStealth.description>
+  <HuntingStealth.description>狩りの獲物がハンターに逆襲してくる確率への減衰率です.\n\n0%は減少無しを意味します.\n100%は,動物が決して攻撃してこない意味になります.</HuntingStealth.description>
   
   <!-- EN: mining speed -->
   <MiningSpeed.label>掘削・速度</MiningSpeed.label>
@@ -49,7 +49,7 @@
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>栽培・収率</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
-  <PlantHarvestYield.description>植物から収穫するときの収量です.低い数値ほど,うっかり無駄にしてしまう可能性があがります.</PlantHarvestYield.description>
+  <PlantHarvestYield.description>植物から収穫するときの収量です.\n数値が低いほど,うっかり無駄にしてしまう可能性があがります.</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
   <PlantWorkSpeed.label>栽培・速度</PlantWorkSpeed.label>

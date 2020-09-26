@@ -125,7 +125,7 @@
   <!-- EN: Fertilized -->
   <Fertilized>受精した</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>受精するまで停止(Progress stopped until fertilized)</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>受精するまで成長停止</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>{0} には {2} 必要ですが, {1} しかありません</SkillTooLow>
   <!-- EN: Freezing -->
@@ -657,21 +657,21 @@
   <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>攻撃ミス角度</WeaponMissRadius>
   <!-- EN: Shooter -->
-  <ShootReportShooterAbility>射手命中率 - </ShootReportShooterAbility>
+  <ShootReportShooterAbility>射手命中率 -</ShootReportShooterAbility>
   <!-- EN: Weapon -->
-  <ShootReportWeapon>武器 修正 - </ShootReportWeapon>
+  <ShootReportWeapon>武器修正 -</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>暗がり - </Darkness>
+  <Darkness>暗がり -</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>伏せた - </TargetProne>
+  <TargetProne>伏せた -</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>サイズ 修正 - </TargetSize>
+  <TargetSize>サイズ修正 -</TargetSize>
   <!-- EN: Weather -->
-  <Weather>天候 修正 -</Weather>
+  <Weather>天候修正 -</Weather>
   <!-- EN: Cover -->
-  <ShootingCover>カバー</ShootingCover>
+  <ShootingCover>カバー -</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{COVER_label}は {1}低下させる</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label}は{1}低下させる</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>全身が露出</NoCoverLower>
   <!-- EN: Execution -->
@@ -825,9 +825,9 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>{1_labelShort} が射撃</ShotBy>
+  <ShotBy>{1_labelShort}が射撃</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>命中 しません</CannotHit>
+  <CannotHit>命中しません</CannotHit>
   <!-- EN: Manhunter chance per hit -->
   <ManhunterPerHit>1発あたりの暴走率</ManhunterPerHit>
 
