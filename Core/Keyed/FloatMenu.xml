@@ -54,7 +54,7 @@
   <!-- EN: no path -->
   <NoPath>道順が無い</NoPath>
   <!-- EN: burying -->
-  <Burying>埋葬</Burying>
+  <Burying>を埋葬する</Burying>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>禁止</ForbiddenLower>
@@ -354,9 +354,9 @@
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>すでに {2_labelShort}を {0}中</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>すでに行っている: {2_labelShort}{0}</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>すでに {0}中</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>すでに行っている: {0}</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>優先できない: {0}しない</CannotPrioritizeWorkTypeDisabled>
@@ -385,7 +385,7 @@
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>いますぐ {1}を {0}する</PrioritizeGeneric>
+  <PrioritizeGeneric>いますぐ{1}{0}</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>端に落とす</DropAtEdge>
