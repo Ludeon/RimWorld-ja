@@ -129,7 +129,7 @@
   <!-- EN: insulting spree -->
   <TargetedInsultingSpree.label>侮辱・放言(人物)</TargetedInsultingSpree.label>
   <!-- EN: Mental state: Insulting spree against {0} -->
-  <TargetedInsultingSpree.baseInspectLine>精神状態: {1}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>精神状態: {0}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
   <TargetedInsultingSpree.beginLetter>{0}は[PAWN_possessive]怒りの矛先を{1}にだけ向ける.\n\n[PAWN_pronoun]は{1}をつけ回して侮辱し続けます.</TargetedInsultingSpree.beginLetter>
   <TargetedInsultingSpree.beginLetterLabel>侮辱・放言(人物)</TargetedInsultingSpree.beginLetterLabel>
