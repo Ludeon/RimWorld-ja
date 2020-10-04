@@ -69,16 +69,16 @@
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>【警告】: {ANIMAL_kindBasePlural}は ライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>【警告】: {ANIMAL_kindBasePlural}は 手なずけるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>【警告】: {ANIMAL_kindBasePlural}は 手懐けるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
   <MessageRecruitSuccess>{RECRUITER_nameFull}は 囚人{RECRUITEE_nameFull}を 迎え入れました(成功率 {2}).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{RECRUITER_labelShort}は{1}を手なずけました(成功率 {2}).</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort}は{1}を手懐けました(成功率 {2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort}は{1}を手なずけました(成功率 {2}).そして{RECRUITEE_objective}{RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort}は{1}を手懐けました(成功率 {2}).そして{RECRUITEE_objective}{RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
   <!-- EN: {RECRUITEE} has joined your colony. -->
   <MessageRecruitJoinOfferAccepted>{RECRUITEE}はコロニーに参加しました.</MessageRecruitJoinOfferAccepted>
 
@@ -91,25 +91,25 @@
   <MessageCriticalAlert>クリティカル・アラート: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestable>食材として十分に育った農作物を指定してください.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>木材として 十分に成長した 樹木を 指定してください.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>木材として十分に成長した樹木を指定してください.</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
-  <MessageMustDesignatePlants>植物を 指定してください.</MessageMustDesignatePlants>
+  <MessageMustDesignatePlants>植物を指定してください.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>運搬する アイテムを 指定してください.いくつかのアイテムは常に運搬できるので, これらを指定することは出来ません.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>運搬するアイテムを指定してください.いくつかのアイテムは常に運搬できるので,これらを指定することは出来ません.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
-  <MessageMustDesignateMineable>採掘できる 岩石を 指定してください.</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>採掘できる岩石を指定してください.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
-  <MessageMustDesignateHuntable>狩猟対象にする 動物を 指定してください.</MessageMustDesignateHuntable>
+  <MessageMustDesignateHuntable>狩猟対象にする動物を指定してください.</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
-  <MessageMustDesignateTameable>手なずける 動物を 指定してください.</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>手懐ける動物を指定してください.</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
-  <MessageMustDesignateClaimable>放棄された 構造物を 指定してください.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>放棄された構造物を指定してください.</MessageMustDesignateClaimable>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
   <MessageMustDesignateDeconstructibleMechCluster>あなたはそれを解体する前に,先にメカクラスターを倒さなければなりません.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
-  <MessageMustDesignateSmoothableSurface>粗い岩の表面を 指定してください.</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableSurface>粗い岩の表面を指定してください.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
   <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
@@ -117,7 +117,7 @@
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
   <MessageMustDesignateStrippable>衣服を着た,死体や心肺停止のキャラクターを指定してください.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>手なずけてある動物を指定してください.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>手懐けてある動物を指定してください.</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
   <MessageMustDesignateOpenable>充分に詰まっている墓地や容器を指定してください.</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
@@ -169,7 +169,7 @@
   <MessageNuzzledPawnGaveNameTo>懐いてきた{1}に {NAMER_nameFull}は {NAMEE_nameFull}と名前をつけました.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>{ANIMAL_kindBase}は 誰にも手なずけられません({2}の必要レベル {1},最適任者 {HANDLER_labelShort}でもレベル {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>{ANIMAL_kindBase}は 誰にも手懐けられません({2}の必要レベル {1},最適任者 {HANDLER_labelShort}でもレベル {4}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
   <MessageEatenByPredator>{EATEN_labelShort}は {PREDATOR}に喰われました.</MessageEatenByPredator>
@@ -188,7 +188,7 @@
   <MessageCantSelectOffMapPawn>{1_labelShort}は マップ外にいます.</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>{PAWN1_labelShort}は {PAWN2_labelShort}とケンカを始めました.</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort}は{PAWN2_labelShort}とケンカを始めました.</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
   <MessageNewMarriageCeremony>入植者たちは,{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式を祝うために集いました.</MessageNewMarriageCeremony>
@@ -229,7 +229,7 @@
   <MessageScreenshotSavedAs>スクリーンショットを保存しました: {0}</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>{PAWN1_labelShort}と {PAWN2_labelShort}は, もうケンカをやめました.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort}と{PAWN2_labelShort}は, もうケンカをやめました.</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
   <MessageNoLongerBingingOnDrug>{2_labelShort}は もう{1}を浪費することをやめました.</MessageNoLongerBingingOnDrug>
@@ -603,7 +603,7 @@
   <MessagePawnsLeaving>{0} は去っていく</MessagePawnsLeaving>
 
   <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
-  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>内部に禁じられた建物を建てたので遺跡は破壊されました.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>内部に不許可の建造物を建てたので,モニュメントが破壊されました.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
 
   <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
   <MessageNoResearchBenchForTechprint>適用できない: 到達可能な,アクセスされていない研究卓がありません.</MessageNoResearchBenchForTechprint>

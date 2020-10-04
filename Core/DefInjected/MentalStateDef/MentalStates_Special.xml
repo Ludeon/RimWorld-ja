@@ -35,10 +35,6 @@
   <SocialFighting.label>ケンカ</SocialFighting.label>
   <!-- EN: Mental state: Social fighting -->
   <SocialFighting.baseInspectLine>精神状態: ケンカ</SocialFighting.baseInspectLine>
-  <!--{0}と{1}に同じ人物名が代入されます。また、原文には該当のメッセージがなくなっている、ケンカ終了メッセージはMessageNoLongerSocialFightingで表示される、などの理由からコメントアウトしました。
-  ケンカ終了時に問題が生じなければ、このまま削除しても大丈夫だと思います。
-  <SocialFighting.recoveryMessage>{0}と{1}はケンカをやめた.</SocialFighting.recoveryMessage>
-  -->
   
   <!-- EN: confused wandering -->
   <WanderConfused.label>混乱し歩きまわる</WanderConfused.label>

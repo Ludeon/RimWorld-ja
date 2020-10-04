@@ -49,8 +49,8 @@
   <GeneralLaborSpeed.description>この人が,ブロックを作る,精油施設で燃料を作る,アイテムを燃やす,衣服を仕立てる,芸術品を創る,鎧や武器を鍛える,スラグを溶かすなどの一般的な作業を行う速度です.このステータスはスキルを必要としない作業と,スキルが生産速度ではなく製品の品質に影響を与える作業の両方に適用されます.</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
-  <SmeltingSpeed.label>精錬・速度</SmeltingSpeed.label>
+  <SmeltingSpeed.label>融解・速度</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
-  <SmeltingSpeed.description>この人が製錬する時の速度です.\n\n溶かすのは雑用仕事なので,いかなるスキルによっても速度は影響を受けません.</SmeltingSpeed.description>
+  <SmeltingSpeed.description>この人が融解する時の速度です.\n\n融解作業は雑用仕事なので,速度はいかなるスキルによっても影響を受けません.</SmeltingSpeed.description>
   
 </LanguageData>

@@ -19,7 +19,7 @@
   <Gold.stuffProps.stuffAdjective>金製</Gold.stuffProps.stuffAdjective>
   
   <!-- EN: hyperweave -->
-  <Hyperweave.label>ハイパーウィーブ </Hyperweave.label>
+  <Hyperweave.label>ハイパーウィーブ</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
   <Hyperweave.description>ナノファイバーを分子間同士で織り込み,メカナイト製造に専門的に使用されます.何も無いときは柔軟ですが,衝撃を受けると吸収するために硬化し,信じられないくらい切れにくくなります.この製造方法の秘密は,最も進化したGlitterworldだけにしか知られていません.</Hyperweave.description>
   
@@ -60,7 +60,7 @@
   <!-- EN: wood -->
   <WoodLog.label>木材</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>樹木や他繊維状植物から採取した木材.建造物や武器を作るのに使われます.キャンプファイヤーや発電器の燃料としても適し,バイオ燃料に精製することも可能です.イザと言うときは,角材が,武器や脚としても使うことも可能です.</WoodLog.description>
+  <WoodLog.description>樹木や他繊維状植物から採取した木材です.建造物や武器を作るのに使われます.キャンプファイヤーや発電器の燃料としても適し,バイオ燃料に精製することも可能です.イザと言うときは,角材が,武器や脚としても使うことも可能です.</WoodLog.description>
   <!-- EN: wooden -->
   <WoodLog.stuffProps.stuffAdjective>木製</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
@@ -69,17 +69,17 @@
   <!-- EN: alpaca wool -->
   <WoolAlpaca.label>アルパカ毛</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
-  <WoolAlpaca.description>注目に値する程柔らかいアルパカの毛です.</WoolAlpaca.description>
+  <WoolAlpaca.description>注目に値する程柔らかいアルパカの毛です.とても暖かいです.</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
   <WoolBison.label>バイソン毛</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>バイソンの毛は厚くてゴワゴワしています.</WoolBison.description>
+  <WoolBison.description>バイソンの毛は厚くてゴワゴワしています.暖かさの性能が高いです.</WoolBison.description>
   
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>メガスロス毛</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>若干,ざらざらしているのに,メガスロスの長い毛足は非常に上部で,とくに暖かいです.</WoolMegasloth.description>
+  <WoolMegasloth.description>メガスロス毛の長い繊維は,若干ゴワゴワしていると共に,非常に丈夫です.また,暖かさの性能が非常に優れています.</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
   <WoolMuffalo.label>マッファロ毛</WoolMuffalo.label>

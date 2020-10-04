@@ -108,7 +108,7 @@
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
   <AnimalManhunterFromDamage>{1_indefinite}は 手負いになって襲いかかったきた!\n\nそいつは手が届く範囲の人間を襲おうとします.眠りにつくと落ち着きを取り戻すでしょう.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>手なずけるのに失敗し,{1_indefinite}は 襲いかかってきた!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>手懐けるのに失敗し,{1_indefinite}は 襲いかかってきた!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
   <AnimalManhunterOthers>そばにいた,他の{1_kindBasePlural}も いっせいに怒り狂った!</AnimalManhunterOthers>
 
@@ -501,7 +501,7 @@
   <!-- EN: Techprint applied: {PROJECT_label} -->
   <LetterTechprintAppliedLabel>テックプリントが適用された: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>研究プロジェクトにテックプリントが適用されました: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>研究プロジェクトにテックプリントが適用されました: {PROJECT_label}</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
   <LetterTechprintAppliedPartJustUnlocked>研究に必要なテックプリントを全て適用させませた!研究者は研究卓で,この技術を実際に使う方法の研究を開始することができます.</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
@@ -538,7 +538,7 @@
   <!-- EN: Mechanoids arrived -->
   <LetterLabelMechClusterArrived>メカノイド到着</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>メカノイドが到着した.</LetterMechClusterArrived>
+  <LetterMechClusterArrived>メカノイドが到着しました.</LetterMechClusterArrived>
 
   <!-- EN: Caravan detected -->
   <LetterLabelSiteCountdownStarted>キャラバンが発見された</LetterLabelSiteCountdownStarted>

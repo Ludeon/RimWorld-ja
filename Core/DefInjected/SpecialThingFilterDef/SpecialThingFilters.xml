@@ -26,7 +26,7 @@
   <!-- EN: allow tainted apparel -->
   <AllowDeadmansApparel.label>穢れた衣服を許可</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowDeadmansApparel.description>死体に一度でも着用させたことが有る衣服を許可する.たいていの人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.description>死体に一度でも着用させたことが有る衣服を許可します.大抵の人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowDeadmansApparel.description>
   
   <!-- EN: allow fresh -->
   <AllowFresh.label>新鮮を許可</AllowFresh.label>
@@ -34,27 +34,27 @@
   <AllowFresh.description>腐敗していない,新鮮な有機物を許可します.</AllowFresh.description>
   
   <!-- EN: allow non-biocoded apparel -->
-  <AllowNonBiocodedApparel.label>非バイオコード化した衣服を許可</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>非バイオコード化の衣服を許可</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
-  <AllowNonBiocodedWeapons.label>非バイオコード化した武器を許可</AllowNonBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>非バイオコード化の武器を許可</AllowNonBiocodedWeapons.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableApparel.label>不焼却な服を許可</AllowNonBurnableApparel.label>
+  <AllowNonBurnableApparel.label>焼却できない服を許可</AllowNonBurnableApparel.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableWeapons.label>不焼却な武器を許可</AllowNonBurnableWeapons.label>
+  <AllowNonBurnableWeapons.label>焼却できない武器を許可</AllowNonBurnableWeapons.label>
   
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>穢れのない衣服を許可</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowNonDeadmansApparel.description>死体に一度も着用させたことの無い衣服を許可する.たいていの人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.description>死体に一度も着用させたことの無い衣服を許可します.大抵の人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>不溶解な服を許可</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>融解できない服を許可</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableWeapons.label>不溶解な武器を許可</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.label>融解できない武器を許可</AllowNonSmeltableWeapons.label>
   
   <!-- EN: allow plant food -->
   <AllowPlantFood.label>飼料を許可</AllowPlantFood.label>
@@ -67,9 +67,9 @@
   <AllowRotten.description>腐敗した有機物を許可します.</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltable.label>溶解できる武器を許可</AllowSmeltable.label>
+  <AllowSmeltable.label>融解できる武器を許可</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>溶解できる服を許可</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>融解できる服を許可</AllowSmeltableApparel.label>
   
 </LanguageData>

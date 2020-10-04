@@ -59,7 +59,7 @@
   <!-- EN: steel slag chunk -->
   <ChunkSlagSteel.label>鉄くずの塊</ChunkSlagSteel.label>
   <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
-  <ChunkSlagSteel.description>鉄くずの塊です.このままの形では役に立ちませんが,スチールを回収する為に精錬する事が出来ます.</ChunkSlagSteel.description>
+  <ChunkSlagSteel.description>鉄くずの塊です.このままの形では役に立ちませんが,スチールを回収する為に融解する事が出来ます.</ChunkSlagSteel.description>
   
   <!-- EN: slate chunk -->
   <ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
@@ -74,22 +74,22 @@
   <!-- EN: limestone -->
   <Limestone.label>石灰岩</Limestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
-  <Limestone.description>古代の貝殻が圧縮されてできた堆積岩です.</Limestone.description>
+  <Limestone.description>古代の貝殻が圧縮されて形成された堆積岩です.</Limestone.description>
   
   <!-- EN: marble -->
   <Marble.label>大理石</Marble.label>
   <!-- EN: A soft metamorphic rock. -->
-  <Marble.description>弱い変成岩です.</Marble.description>
+  <Marble.description>柔らかい変成岩です.</Marble.description>
   
   <!-- EN: sandstone -->
   <Sandstone.label>砂岩</Sandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
-  <Sandstone.description>砂粒が圧縮されてできた堆積岩です.</Sandstone.description>
+  <Sandstone.description>圧縮された砂粒子で構成された堆積岩です.</Sandstone.description>
   
   <!-- EN: slate -->
   <Slate.label>粘板岩</Slate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
-  <Slate.description>スレート劈開 という層からなる 色が暗い粘板岩</Slate.description>
+  <Slate.description>濃い色がついた変成岩です.その細かい層はスレート劈開の象徴です.</Slate.description>
   
   <!-- EN: smoothed granite -->
   <SmoothedGranite.label>磨かれた花崗岩</SmoothedGranite.label>

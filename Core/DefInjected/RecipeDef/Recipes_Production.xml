@@ -4,23 +4,23 @@
   <!-- EN: destroy apparel -->
   <DestroyApparel.label>衣服を破棄する</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>高温で不要な衣服を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyApparel.description>
+  <DestroyApparel.description>高温で不要な衣服を破棄します.この作業は融解より早く,融解不可のアイテムでも可能ですが,資源は何も得られません.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
   <DestroyApparel.jobString>衣服を破壊中</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>武器を破棄する</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>高温で不要な武器を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyWeapon.description>
+  <DestroyWeapon.description>高温で不要な武器を破棄します.この作業は融解より早く,融解不可のアイテムでも可能ですが,資源は何も得られません.</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
   <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>鉄くずを融解する</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
-  <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄を分解し有益な資源に変えます.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,鉄くずを分解し有益な資源に変えます.</ExtractMetalFromSlag.description>
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.jobString>鉄くずを融解中</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
   <Make_ChemfuelFromOrganics.label>液化燃料を精製(有機物)</Make_ChemfuelFromOrganics.label>
@@ -65,17 +65,17 @@
   <Make_StoneBlocksAny.jobString>岩塊を加工中</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>衣服を溶解する</SmeltApparel.label>
+  <SmeltApparel.label>衣服を融解する</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
   <SmeltApparel.description>高温と強力な電磁石を使い,アーマーのような金属製衣服を分解し有益な資源に変えます.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>衣服を溶解中.</SmeltApparel.jobString>
+  <SmeltApparel.jobString>衣服を融解中</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
-  <SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
+  <SmeltWeapon.label>武器を融解する</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
   <SmeltWeapon.description>高温と強力な電磁石を使い,武器を分解し有益な資源に変えます.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>武器を融解中</SmeltWeapon.jobString>
   
 </LanguageData>

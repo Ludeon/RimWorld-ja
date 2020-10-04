@@ -173,7 +173,7 @@
     <li>lodgersPossessive(lodgerCount>=2)->[asker_pronoun]らの</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
-    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo] また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
+    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo] また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
     <li>approachInfo(lodgerCount==1)->[asker_nameDef]と名乗る、絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef]と、もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。代表者は自分を[asker_nameDef]と名乗っています。</li>
@@ -189,7 +189,7 @@
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、自分達のキャラバンが待ち伏せに襲われ、全てを奪われたと述べています。</li>
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、道徳的な意見の不一致が原因で、町から追放されたと述べています。</li>
     <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わる事を申し出るかもしれません。</li>
-    <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば、[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
+    <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
     <li>travelerInfo(lodgerCount==1)->この[faction_pawnSingular]</li>
     <li>travelerInfo(lodgerCount>=2)->この[faction_pawnsPlural]</li>
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>

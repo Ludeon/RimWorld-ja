@@ -17,7 +17,7 @@
   <ButcherSpot.description>動物を屠殺する場所です.設備が欠けているため,ここで屠殺しても,肉や皮は70%しか取れません.</ButcherSpot.description>
   
   <!-- EN: crafting spot -->
-  <CraftingSpot.label>工芸 作業場</CraftingSpot.label>
+  <CraftingSpot.label>工芸作業場</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
   <CraftingSpot.description>ナイフや弓をつくる場所です.道具類が無いので,ここで作成すると作成速度が遅くなります.</CraftingSpot.description>
   
@@ -39,7 +39,7 @@
   <!-- EN: electric smelter -->
   <ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
   <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
-  <ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します.大量の電気を消費します.</ElectricSmelter.description>
+  <ElectricSmelter.description>鉄くずや金属製アイテムから金属を精錬します.大量の電気を消費します.</ElectricSmelter.description>
   
   <!-- EN: electric smithy -->
   <ElectricSmithy.label>電動工作台</ElectricSmithy.label>
@@ -82,19 +82,19 @@
   <HandTailoringBench.description>手縫いの衣服を仕立てるための作業台です.電動ミシン台と比べて作業速度は50%しかありません.</HandTailoringBench.description>
   
   <!-- EN: hi-tech research bench -->
-  <HiTechResearchBench.label>ハイテク 研究卓</HiTechResearchBench.label>
+  <HiTechResearchBench.label>ハイテク研究卓</HiTechResearchBench.label>
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
   <HiTechResearchBench.description>コンピュータと電子計測器を備えた最先端の設備です.より迅速な研究を可能にし,高度な研究プロジェクトの解禁も行います.</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
   <Hopper.label>食材ホッパー</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
-  <Hopper.description>ペースト ディスペンサのような機器を使うために資源を保持します.</Hopper.description>
+  <Hopper.description>ペーストディスペンサのような機器を使うために資源を保持します.</Hopper.description>
   
   <!-- EN: hydroponics basin -->
   <HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
   <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
-  <HydroponicsBasin.description>植物を育成するための人工培養容器です.培養ポンプは作動し続けなければなりません;もし電力が落ちると植物は枯れるでしょう.</HydroponicsBasin.description>
+  <HydroponicsBasin.description>植物を育成するための人工培養容器です.培養ポンプは作動し続けなければなりません.もし電力が落ちると植物は枯れるでしょう.</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
   <NutrientPasteDispenser.label>ペースト ディスペンサ</NutrientPasteDispenser.label>
@@ -122,7 +122,7 @@
   <TableSculpting.description>この彫刻台を使って,芸術作品を生み出します.</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
-  <TableStonecutter.label>ストーン カッター</TableStonecutter.label>
+  <TableStonecutter.label>ストーンカッター</TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
   <TableStonecutter.description>石の塊を切断して使いやすい石材にするためのノコギリやノミが備わった作業台です.</TableStonecutter.description>
   

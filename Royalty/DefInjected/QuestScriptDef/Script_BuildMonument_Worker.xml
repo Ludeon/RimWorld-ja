@@ -16,7 +16,7 @@
   <!-- EN: Keep monument {0} -->
   <BuildMonumentWorker.KeepMonument.slateRef>{0}のモニュメントを維持</BuildMonumentWorker.KeepMonument.slateRef>
   <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow. -->
-  <BuildMonumentWorker.MessageMonumentViolated.slateRef>クエスト'[resolvedQuestName]'のためのモニュメントが違反状態です。後難が生じるでしょう。</BuildMonumentWorker.MessageMonumentViolated.slateRef>
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>クエスト'[resolvedQuestName]'のモニュメントが要求とは違う状態にされています。後難が生じるでしょう。</BuildMonumentWorker.MessageMonumentViolated.slateRef>
   <!-- EN: Protect the monument for {0} -->
   <BuildMonumentWorker.ProtectMonumentForDays.slateRef>{0}のためにモニュメントを守る</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
   <!-- EN: Protect the monument until {0} -->

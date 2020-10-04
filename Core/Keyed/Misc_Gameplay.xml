@@ -395,9 +395,9 @@
   <!-- EN: animals -->
   <AnimalsLower>動物</AnimalsLower>
   <!-- EN: {0} x{1} -->
-  <FilthLabel>{0} x{1}</FilthLabel>
+  <FilthLabel>{0}x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>{1}の{0} x{2}</FilthLabelWithSource>
+  <FilthLabelWithSource>{1}の{0}x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
@@ -433,7 +433,7 @@
   <!-- EN: {0} assembly completes in {1}. -->
   <MechAssemblyCompleteIn>{1}後に{0}の組み立てが完了します.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>組み立てるでしょう</MechAssemblyNextType>
+  <MechAssemblyNextType>組み立てる機体</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>生産された量</ThingsProduced>
   <!-- EN: harvested -->
@@ -465,7 +465,7 @@
   <!-- EN: low psyfocus -->
   <LowPsyfocus>サイフォーカスが低い</LowPsyfocus>
   <!-- EN: {0} left -->
-  <DurationLeft>残 {0}</DurationLeft>
+  <DurationLeft>残り{0}</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>いずれかの</AnyOf>
   <!-- EN: Goodwill -->
@@ -515,9 +515,9 @@
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>敵対心\n{0} から {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
+  <TextMote_TameFail>手懐けられなかった\n成功率 {0}</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
+  <TextMote_TameSuccess>手懐けた!\n成功率 {0}</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>{0} 調教に失敗\n成功率 {1}</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
@@ -597,11 +597,11 @@
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>{THING_label} を {DESTINATION} に 運搬中</ReportHaulingTo>
+  <ReportHaulingTo>{THING_label}を{DESTINATION}に運搬中</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>{THING_label} を {DESTINATION} に 埋葬中</ReportHaulingToGrave>
+  <ReportHaulingToGrave>{THING_label}を{DESTINATION}に埋葬中</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>{1_label} を 運搬中</ReportHauling>
+  <ReportHauling>{1_label}を運搬中</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>運搬中</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
@@ -679,15 +679,15 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>{0} を作る</RecipeMake>
+  <RecipeMake>{0}を作る</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>{0} を作ります</RecipeMakeDescription>
+  <RecipeMakeDescription>{0}を作ります.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>{0} を作っている</RecipeMakeJobString>
+  <RecipeMakeJobString>{0}を作っている</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>{0} を投与する</RecipeAdminister>
+  <RecipeAdminister>{0}を投与する</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>{0} を投与中</RecipeAdministerJobString>
+  <RecipeAdministerJobString>{0}を投与中</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>禁酒主義者は不満を持つでしょう</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
@@ -1015,19 +1015,19 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事を警告しています.\n\nこのエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認して下さい.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>反応炉の出力アップの準備を整えました.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知されます.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認して下さい.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかる事を警告しています.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えました.\n\nこのプロセスは約15日程かかるでしょう.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->
   <SkillNeurotrainerLabel>スキルトレイナー ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>{0}を 身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>{0}を身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>特定のスキルを身に付けられる使い捨てのメカナイト製剤です.\n\nこの製剤は眼窩を通して投与します.脳内に達すると,メカナイトは指示された特定の作業野を向上させるべく,急速に必要なニューラルネットワークに形を変えます.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
@@ -1335,7 +1335,7 @@
   <!-- EN: ground projectiles -->
   <InterceptsProjectiles_GroundProjectiles>地上からの投射物</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>空中からの投射物</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>上空からの投射物</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->

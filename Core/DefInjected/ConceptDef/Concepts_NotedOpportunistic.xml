@@ -29,12 +29,12 @@
   <!-- EN: Drafting for combat -->
   <Drafting.label>徴兵する</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>戦場で入植者を直接操作するには,入植者を選択し,「徴兵」します.\n\n徴兵された入植者は,あなたの指示どおりにしか動きません,そして,戦闘のみを行なえます.武装していれば,その武器を使って戦おうとします.\n\n徴兵したまま放置しないでください - さもないと,そのうち彼らは,飢えて不機嫌になるでしょう.</Drafting.helpText>
+  <Drafting.helpText>戦場で入植者を直接操作するには,入植者を選択し,「徴兵」します.\n\n徴兵された入植者は,あなたの指示どおりにしか動きません,そして,戦闘のみを行なえます.武装していれば,その武器を使って戦おうとします.\n\n徴兵したまま放置しないでください——さもないと,そのうち彼らは,飢えて不機嫌になるでしょう.</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>ドラッグ依存症</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>入植者の「欲求」タブから,ドラッグへの充足度を調べることができます.\n\n充足レベルが0になっている限り,その依存症は"離脱"状態へと変わり,様々なマイナスの効果をもたらします.\n\nしかし離脱状態のまま十分に長い期間が経てば,依存症は寛解し,ドラッグへの欲求も消え失せるでしょう.</DrugAddiction.helpText>
+  <DrugAddiction.helpText>入植者の「欲求」タブから,ドラッグへの充足度を調べることができます.\n\n充足レベルが0になっている限り,その依存症は"離脱"状態へと変わり,様々なマイナスの効果をもたらします.\n\nしかし,離脱状態のまま十分に長い期間が経てば依存症は寛解し,ドラッグへの欲求も消え失せるでしょう.</DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
   <DrugBurning.label>ドラッグ焼却</DrugBurning.label>
@@ -74,7 +74,7 @@
   <!-- EN: Rescuing -->
   <Rescuing.label>救出する</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>怪我した人を助けるには,健康な入植者を選択し,次に怪我人を右クリックして「救助」を選びます.\n\nもし入植者ではない人を救助しても,彼らが必ずしもあなたのコロニーに加わるとは限りません. 彼らは手当てが済んだら,ただ出て行くのみでしょう.彼らを確実に仲間にしたければ,「捕獲」を選択して捕らえてから勧誘します.</Rescuing.helpText>
+  <Rescuing.helpText>怪我した人を助けるには,健康な入植者を選択し,次に怪我人を右クリックして「救助」を選びます.\n\nもし入植者ではない人を救助しても,彼らが必ずしもあなたのコロニーに加わるとは限りません.彼らは手当てが済んだら,ただ出て行くのみでしょう.彼らを確実に仲間にしたければ,「捕獲」を選択して捕らえてから勧誘します.</Rescuing.helpText>
   
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>何の植物を育てようか</SetGrowingZonePlant.label>
