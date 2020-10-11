@@ -9,7 +9,7 @@
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>外交力</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
-  <NegotiationAbility.description>この人が,どれだけ交渉人として効果があるかを表します.この人が他の派閥に贈り物をしたときの,相手派閥への影響度合いを表します. 他の派閥との和平交渉にも影響を及ぼします.</NegotiationAbility.description>
+  <NegotiationAbility.description>この人が,どれだけ交渉人として効果があるかを表します.\n\nこの人が他の派閥に贈り物をしたときの,相手派閥への影響度合いを表します. 他の派閥との和平交渉にも影響を及ぼします.</NegotiationAbility.description>
   
   <!-- EN: beauty -->
   <PawnBeauty.label>美しさ</PawnBeauty.label>
@@ -24,7 +24,7 @@
   <!-- EN: tame animal chance -->
   <TameAnimalChance.label>手懐け成功率</TameAnimalChance.label>
   <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
-  <TameAnimalChance.description>この人が生き物を手懐ける時の基本的な成功率です.実際の成功率は,動物の野生度の影響も受けます.手懐けるのに失敗すると,動物からの攻撃を誘発する可能性があり,とくに凶暴な動物は,その傾向が強くなります.</TameAnimalChance.description>
+  <TameAnimalChance.description>この人が生き物を手懐ける時の基本的な成功率です.\n\n実際の成功率は,動物の野生度の影響も受けます.手懐けるのに失敗すると,動物からの攻撃を誘発する可能性があり,とくに凶暴な動物は,その傾向が強くなります.</TameAnimalChance.description>
   
   <!-- EN: trade price improvement -->
   <TradePriceImprovement.label>商人の勘</TradePriceImprovement.label>
@@ -34,6 +34,6 @@
   <!-- EN: train animal chance -->
   <TrainAnimalChance.label>調教成功率</TrainAnimalChance.label>
   <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
-  <TrainAnimalChance.description>この人が生き物を調教する時の基本的な成功率です.実際の成功率は,動物の野生度,トレイナーとの絆,その他の影響も受けます.</TrainAnimalChance.description>
+  <TrainAnimalChance.description>この人が生き物を調教する時の基本的な成功率です.\n\n実際の成功率は,動物の野生度,トレイナーとの絆,その他の影響も受けます.</TrainAnimalChance.description>
   
 </LanguageData>

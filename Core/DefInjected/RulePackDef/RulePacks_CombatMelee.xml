@@ -159,11 +159,11 @@
     <li>failtype->空振りした</li>
     <li>failtype->もたついた</li>
     <li>failtype->失敗した</li>
-    <li>result(p=4)->しかし,外した</li>
-    <li>result->しかし,空を切った</li>
-    <li>result->しかし,一振りは当たらない</li>
-    <li>result->しかし,最後の瞬間につまずいた</li>
-    <li>result(initiator_flesh!=Mechanoid)->しかし,最後の瞬間に躊躇した</li>
+    <li>result(p=4)->しかし外した</li>
+    <li>result->しかし空を切った</li>
+    <li>result->しかし一振りは当たらない</li>
+    <li>result->しかし最後の瞬間につまずいた</li>
+    <li>result(initiator_flesh!=Mechanoid)->しかし最後の瞬間に躊躇した</li>
   </Combat_Miss.rulePack.rulesStrings>
   
 </LanguageData>

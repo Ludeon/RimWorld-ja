@@ -25,7 +25,7 @@
   <!-- EN: Shield max energy -->
   <EnergyShieldEnergyMax.label>シールドエネルギー最大量</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield belt can have at one time.\n\nMore energy absorbs more damage. -->
-  <EnergyShieldEnergyMax.description>シールドベルトのチャージ一回分の最大エネルギー量です.エネルギーが多いほど,より多くのダメージを吸収します.</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.description>シールドベルトのチャージ一回分の最大エネルギー量です.\n\nエネルギーが多いほど,より多くのダメージを吸収します.</EnergyShieldEnergyMax.description>
   
   <!-- EN: Shield recharge rate -->
   <EnergyShieldRechargeRate.label>シールドリチャージ量</EnergyShieldRechargeRate.label>
@@ -44,14 +44,14 @@
   <!-- EN: Insulation - Cold -->
   <Insulation_Cold.label>断熱材 - 保温</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
-  <Insulation_Cold.description>この衣服が改善する,快適温度の低温側への補正値です.大きいほど低い温度でも何とかなります.</Insulation_Cold.description>
+  <Insulation_Cold.description>この衣服が改善する,快適温度の低温側への補正値です.\n\n大きいほど低い温度でも何とかなります.</Insulation_Cold.description>
   <!-- EN: Insulation - Cold (armor stat) -->
   <Insulation_Cold.labelForFullStatList>断熱材 - 保温</Insulation_Cold.labelForFullStatList>
   
   <!-- EN: Insulation - Heat -->
   <Insulation_Heat.label>断熱材 - 遮熱</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
-  <Insulation_Heat.description>この衣服が改善する,快適温度の高温側への補正値です.大きいほど高い気温でも何とかなります.</Insulation_Heat.description>
+  <Insulation_Heat.description>この衣服が改善する,快適温度の高温側への補正値です.\n\n大きいほど高い気温でも何とかなります.</Insulation_Heat.description>
   <!-- EN: Insulation - Heat (armor stat) -->
   <Insulation_Heat.labelForFullStatList>断熱材 - 遮熱</Insulation_Heat.labelForFullStatList>
   

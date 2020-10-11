@@ -141,20 +141,20 @@
   <PawnDied>{1_labelShort}は命を落としました.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{1_label}は 自由に歩き回れるようになりました.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label}は自由に歩き回れるようになりました.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort}は極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるだろう.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>この手術は,{0}を怒らせるでしょう.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>{0}は 飢えにより流産しました.</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>{0}は飢えにより流産しました.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>{0}は 体調不良により流産しました.</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>{0}は体調不良により流産しました.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
-  <MessageGaveBirth>{0}は 出産しました.</MessageGaveBirth>
+  <MessageGaveBirth>{0}は出産しました.</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
   <MessagePsylinkNoSensitivity>{PAWN_labelShort}は 精神感応性が0であるため, サイリンクを使用できません.</MessagePsylinkNoSensitivity>
@@ -180,12 +180,12 @@
   <MessageHiveReproduced>虫の巣は 自己再生しました.</MessageHiveReproduced>
   
   <!-- EN: The trade caravan from {0} is leaving. -->
-  <MessageTraderCaravanLeaving>{0}トレーダーの一行は 離れていきました.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>{0}トレーダーの一行は離れていきました.</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{1_labelShort}は 死んでいます.</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort}は死んでいます.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>{1_labelShort}は マップ外にいます.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort}はマップ外にいます.</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
   <MessageSocialFight>{PAWN1_labelShort}は{PAWN2_labelShort}とケンカを始めました.</MessageSocialFight>
@@ -223,67 +223,67 @@
   <MessageCannotSellItemsReason>以下の理由で取引できません：</MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
-  <MessageConstructionFailed>{WORKER_labelShort}は {0}の建造に失敗し,いくつかの資源が無駄になりました.</MessageConstructionFailed>
+  <MessageConstructionFailed>{WORKER_labelShort}は{0}の建造に失敗し,いくつかの資源が無駄になりました.</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
   <MessageScreenshotSavedAs>スクリーンショットを保存しました: {0}</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>{PAWN1_labelShort}と{PAWN2_labelShort}は, もうケンカをやめました.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort}と{PAWN2_labelShort}は,もうケンカをやめました.</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>{2_labelShort}は もう{1}を浪費することをやめました.</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>{2_labelShort}は,もう{1}を浪費することをやめました.</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort}は もう{TARGET_label}に侮辱や放言はしません.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort}は,もう{TARGET_label}に侮辱や放言はしません.</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{1_label}は , 備蓄ゾーンの中で腐敗しました.</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>{1_label}は備蓄ゾーンの中で腐敗しました.</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>{PAWN_labelShort}は ,{FOOD_labelShort}の食中毒を起こしました.発生原因：{2}</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort}は,{FOOD_labelShort}の食中毒を起こしました.発生原因：{2}</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
-  <MessagePawnLostWhileFormingCaravan>{0}は キャラバン隊から取り除かれてしまった.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan>{0}はキャラバン隊から取り除かれました.</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成プロセスは終了しましたた.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成プロセスは終了しました.</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>キャラバン隊の編成プロセスは ,全員が精神崩壊より回復するときまで延長されるだろう.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>キャラバン隊の編成プロセスは,全員が精神崩壊から回復するまで延長されるでしょう.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>入植者達は キャラバン隊編成を続けようとしています.</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>入植者達はキャラバン隊編成を続けようとしています.</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has had a mental break. -->
   <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊メンバーの一人が精神崩壊しました.</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>警告:惑星データの生成に 非常に長い処理時間を要します.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>警告:惑星データの生成に非常に長い処理時間を要します.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>{0}は 凍って枯れました.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>{0}は凍って枯れました.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>{0}は 収穫されなかった為に腐って枯れました.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0}は収穫されなかった為に腐って枯れました.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>{0}は 陽にあたって枯れました.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>{0}は陽にあたって枯れました.</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0}は 腐って枯れました.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0}は腐って枯れました.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0}は 毒によって枯れました.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0}は毒によって枯れました.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
   <MessagePlantDiedOfBlight>枯病によって{1_label}は枯れました.</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>{1_labelShort}は 高温に熱した大気で熱傷を負いました.</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>{1_labelShort}は高温に熱した大気で熱傷を負いました.</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>{INGESTER}は {DRUG_labelShort}を誤って過剰摂取しました!</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>{INGESTER}は{DRUG_labelShort}を誤って過剰摂取しました!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
-  <MessageCaravanArrivedAtDestination>{0}は 目的地に到達しました</MessageCaravanArrivedAtDestination>
+  <MessageCaravanArrivedAtDestination>{0}は目的地に到達しました.</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}は キャラバン隊を組んで,このエリアを後にしました.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}はキャラバン隊を組んで,このエリアを後にしました.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>あなた達の動物は加わるために移動しています.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>あなたの動物達は加わるために移動しています.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功しました.</MessageSettledInExistingMap>
@@ -365,7 +365,7 @@
   <MessageScreenResTooSmallForUIScale>この解像度とUIスケールでは ゲームインターフェースが はみ出してしまいます. UIスケールを下げるか解像度を上げてください.</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>今すぐ,キャラバン隊を再編成しなければなりません.</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>今すぐ,キャラバン隊を再編成しなければなりません.置き去りにする人物や家畜は見捨てられます.</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</MessageDefendersAttacking>

@@ -20,10 +20,10 @@
   <Clean.reportString>TargetAを掃除中</Clean.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlant.reportString>TargetAを伐採・採取中</CutPlant.reportString>
+  <CutPlant.reportString>TargetAを伐採・刈り取り中</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>TargetAを伐採・採取中</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>TargetAを伐採・刈り取り中</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>TargetAを解体中</Deconstruct.reportString>
@@ -50,7 +50,7 @@
   <Harvest.reportString>TargetAを収穫中</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <HarvestDesignated.reportString>TargetAを採取中</HarvestDesignated.reportString>
+  <HarvestDesignated.reportString>TargetAを伐採・採取中</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToCell.reportString>TargetAを運搬中</HaulToCell.reportString>

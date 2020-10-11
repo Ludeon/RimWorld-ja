@@ -11,11 +11,11 @@
   <!-- EN: Contained resources -->
   <ContainedResources>作成に必要なリソース</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>囚人が 使用</ForPrisonerUse>
+  <ForPrisonerUse>囚人が使用</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
   <InPrisonCell>In prison cell:囚人用</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>入植者が 使用</ForColonistUse>
+  <ForColonistUse>入植者が使用</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>医療用</MedicalBed>
   <!-- EN: Owner -->
@@ -713,13 +713,13 @@
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>{1} 所属の {0}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{1}所属の {0}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
   <PawnTitleDescWrap>{1}の{0}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{1}の下の{0}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{1}の下の {0}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{1}の下の{0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{1}の下の {0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
@@ -1047,9 +1047,9 @@
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>未完の {0}</UnfinishedItem>
+  <UnfinishedItem>未完の{0}</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>未完の {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>未完の{0}{1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->
@@ -1101,7 +1101,7 @@
 
   <!-- Facilities -->
   <!-- EN: inactive -->
-  <InactiveFacility>閉鎖</InactiveFacility>
+  <InactiveFacility>機能していない</InactiveFacility>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->

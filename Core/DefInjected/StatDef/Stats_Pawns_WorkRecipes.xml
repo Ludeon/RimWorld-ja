@@ -4,7 +4,7 @@
   <!-- EN: butchery efficiency -->
   <ButcheryFleshEfficiency.label>食肉加工・収率</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
-  <ButcheryFleshEfficiency.description>食肉加工後にできる食肉の量です.実際の肉の量は,生物の体格にも関係があります.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.description>食肉加工後にできる食肉の量です.\n\n実際の肉の量は,生物の体格にも関係があります.</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
   <ButcheryFleshSpeed.label>食肉加工・速度</ButcheryFleshSpeed.label>
@@ -14,7 +14,7 @@
   <!-- EN: mechanoid shredding efficiency -->
   <ButcheryMechanoidEfficiency.label>メカノイド・寸断収率</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>メカノイドを寸断する時に得られる資源の収量です.実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>メカノイドを寸断する時に得られる資源の収量です.\n\n実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
   <ButcheryMechanoidSpeed.label>メカノイド・寸断速度</ButcheryMechanoidSpeed.label>
@@ -39,7 +39,7 @@
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>食中毒・発生率</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
-  <FoodPoisonChance.description>このキャラクターが料理したときに,うかつにも料理を汚染してしまう確率です.一時的な食中毒は当たった人を衰弱させます.</FoodPoisonChance.description>
+  <FoodPoisonChance.description>この生物が料理したときに,うかつにも料理を汚染してしまう確率です.\n\n食中毒に当たった人は,痛みや脱力感,嘔吐によって一時的に衰弱します.</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
   <FoodPoisonChance.labelForFullStatList>食中毒・発生率</FoodPoisonChance.labelForFullStatList>
   

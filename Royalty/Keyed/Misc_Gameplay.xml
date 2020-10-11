@@ -27,12 +27,12 @@
   <!-- EN: Requires psylink -->
   <PsycastNeurotrainerNoPsylink>サイリンクが必要です</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
-  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}はすでに{1}を習得済みです。</PsycastNeurotrainerAbilityAlreadyLearned>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}はすでに{1}を習得済みです</PsycastNeurotrainerAbilityAlreadyLearned>
 
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor>クエストを受けた人は、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor>
+  <Reward_RoyalFavor>クエストを受けた人は、{0_name}から{1} {0_royalFavorLabel}を受け取ります</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor_ChoosePawn>関係している{2}のいずれかを選択して、{0_name}から{1} {0_royalFavorLabel}を受け取ります。</Reward_RoyalFavor_ChoosePawn>
+  <Reward_RoyalFavor_ChoosePawn>関係している{2}のいずれかを選択して、{0_name}から{1} {0_royalFavorLabel}を受け取ります</Reward_RoyalFavor_ChoosePawn>
   
   <!-- Ship landing beacons -->
   <!-- EN: Not usable -->
@@ -51,13 +51,13 @@
   <!-- EN: Psyfocus -->
   <PsyfocusLabelGizmo>念集中量</PsyfocusLabelGizmo>
   <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される、特殊な精神組織です。サイフォーカスは時間とともに消失するため、定期的な瞑想によって再構築する必要があります。すべてのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\nサイフォーカスのレベルが上がるにつれて能力のレベルも上がりますが、その分だけサイフォーカスの消費量が増えます</PsyfocusDesc>
+  <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される、特殊な精神組織です。サイフォーカスは時間と共に消失するため、定期的な瞑想によって再構築する必要があります。全てのサイフォーカスを失うと超能力が使えなくなりますが、他に深刻な影響はありません。\n\n高いサイフォーカスは高いレベルの能力の行使を可能としますが、サイフォーカスの自然消失量もまた増加します</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
   <!-- EN: Up to level {0} powers. -->
-  <PsyfocusLevelInfoPsycasts>レベル{0}までの能力。</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoPsycasts>レベル{0}までの能力</PsyfocusLevelInfoPsycasts>
   <!-- EN: Psyfocus falls at {0} per day. -->
-  <PsyfocusLevelInfoFallRate>サイフォーカスは一日あたり{0}減少。</PsyfocusLevelInfoFallRate>
+  <PsyfocusLevelInfoFallRate>サイフォーカスは一日あたり{0}減少</PsyfocusLevelInfoFallRate>
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
   <UserMeditationFocusStrength>{LASTUSER_labelShort}による瞑想の集中力の強さ</UserMeditationFocusStrength>
   <!-- EN: Focus effect impacted by -->

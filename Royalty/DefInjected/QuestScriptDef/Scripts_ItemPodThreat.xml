@@ -86,16 +86,16 @@
     <li>manhuntingBeastIndef(animalCount>=2)->(*Threat)[animalCount]匹の人狩りの[animalKind_labelPlural](/Threat)の群れ</li>
     <li>endSection->[helpersParagraph]あなたが同意した場合、[manhuntersDelayTicks_duration]後に[animalKindLabelCorrect]が[map_definite]に襲来します。</li>
     <li>questDescription(askerIsNull==true,animalCount==1)->貿易商から通信が入りました。(*Threat)野生の[animalKind_label](/Threat)が彼を襲っています！獣を引きつけて彼から遠ざけてほしいとあなたに要請しています。[endSection]</li>
-    <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount==1)->付近の貿易商を狩っていた[animalKind_label]。</li>
+    <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount==1)->この[animalKind_label]は、付近の貿易商を狩っていました。</li>
     <li>questDescription(askerIsNull==true,animalCount>=2)->貿易商から通信が入りました。(*Threat)[animalCount]匹の野生の[animalKind_labelPlural](/Threat)の群れが彼を襲っています！獣を引きつけて彼から遠ざけてほしいとあなたに要請しています。[endSection]</li>
-    <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount>=2)->付近の貿易商を狩っていた[animalKind_label]。</li>
+    <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount>=2)->この[animalKind_labelPlural]の群れは、付近の貿易商を狩っていました。</li>
     <li>questDescription(asker_factionLeader==True)->[asker_faction_name]のキャラバンが[manhuntingBeastIndef]に悩まされています。 [asker_faction_leaderTitle]の[asker_nameFull]は、 獣を引きつけてキャラバンから遠ざけてほしいとあなたに要請しています。[endSection]</li>
-    <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount==1)->[asker_faction_name]のキャラバンを悩ませていた[animalKind_label]。</li>
-    <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount>=2)->[asker_faction_name]のキャラバンを悩ませていた[animalKind_labelPlural]。</li>
+    <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount==1)->この[animalKind_label]は、[asker_faction_name]のキャラバンを悩ませていました。</li>
+    <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount>=2)->この[animalKind_labelPlural]の群れは、[asker_faction_name]のキャラバンを悩ませていました。</li>
     <li>questDescription(asker_royalInCurrentFaction==True,animalCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は、 最近(*Threat)人狩りの[animalKind_label](/Threat)によって偵察隊を失いました。[asker_pronoun]は自身の名誉を守るために連中を始末したいので、あなたに獣を引きつけるよう要請しています。[endSection]</li>
-    <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount==1)->この[animalKind_label]は [asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]の偵察隊を殺した。</li>
+    <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount==1)->この[animalKind_label]は、[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の 偵察隊を殺しました。</li>
     <li>questDescription(asker_royalInCurrentFaction==True,animalCount>=2)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は最近、 (*Threat)人狩りの[animalKind_label](/Threat)の群れによって偵察隊を失いました。[asker_pronoun]は自身の名誉を守るために連中を始末したいので、あなたに獣を引きつけるよう要請しています。[endSection]</li>
-    <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount>=2)->この[animalKind_label]は [asker_faction_name]の群れは[asker_royalTitleInCurrentFaction]である[asker_nameFull]の偵察隊を殺した。</li>
+    <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount>=2)->この[animalKind_labelPlural]の群れは、[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の 偵察隊を殺しました。</li>
   </ThreatReward_Manhunters_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(animalCount==1)->The [AdjectiveBadass] [beast]</li>

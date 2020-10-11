@@ -22,9 +22,9 @@
   <JoyGainFactor.description>人々への楽しみとしての有効さと,娯楽への欲求に満足させるかです.</JoyGainFactor.description>
   
   <!-- EN: medical tend quality offset -->
-  <MedicalTendQualityOffset.label>治療品質オフセット</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.label>治療品質増減量</MedicalTendQualityOffset.label>
   <!-- EN: Medical tend quality is offset by this value. -->
-  <MedicalTendQualityOffset.description>治療品質の傾向を決めるオフセットです.</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.description>この値の分だけ,治療品質が増加,減少します.</MedicalTendQualityOffset.description>
   
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>研究速度係数</ResearchSpeedFactor.label>
@@ -36,7 +36,7 @@
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>外科手術成功率</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>この部屋で手術を行ったときの手術成功率への掛け率です.手術成功率は他の要因の影響も受けます,医師の能力,薬剤の投与など</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>この部屋で手術を行ったときの手術成功率への掛け率です.\n\n手術成功率は,医師の能力や使用する薬品など,その他多くの要因の影響も受けます.</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
