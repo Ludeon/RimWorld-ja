@@ -93,11 +93,11 @@
   <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります. （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います.</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>部屋内の全てのベッドが囚人用になります(囚人と入植者は 同じ部屋で寝ません).\n\n以下の入植者はベッドの所有権を失います.</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります. （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います.</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>部屋内の全てのベッドが入植者用になります(囚人と入植者は同じ部屋で寝ません).\n\n以下の囚人はベッドの所有権を失います.</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
-  <AreYouSure>本当に よろしいですか？</AreYouSure>
+  <AreYouSure>本当によろしいですか？</AreYouSure>
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
@@ -117,9 +117,9 @@
   <CommandHideZoneDesc>ゾーンの 非表示 / 再表示.</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
-  <CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>ゾーン削除</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
-  <CommandDeleteZoneDesc>ゾーンを 削除します.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>ゾーンを削除します.</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>

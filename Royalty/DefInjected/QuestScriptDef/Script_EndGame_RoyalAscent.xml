@@ -46,7 +46,7 @@
   <!-- EN: The [asker_faction_leaderTitle] of [asker_faction_name], has arrived.\n\nProtect him and satisfy his royal needs until the shuttle arrives in [shuttleDelayTicks_duration].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->
   <EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>[asker_faction_name]の[asker_faction_leaderTitle]が到着。\n\n彼を護衛し、シャトル到着までの[shuttleDelayTicks_duration]の間、彼の高貴な要求を満たして下さい。\n\n[asker_faction_leaderTitle]のシャトルに全員を同乗させ、新たな人生を始めるために帝国艦隊へ行くこともできます。</EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>シャトルが出航する必要があります</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
+  <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>シャトルで出発する必要がある</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
   <EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>シャトルが到着しました</EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect the [asker_faction_leaderTitle].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->

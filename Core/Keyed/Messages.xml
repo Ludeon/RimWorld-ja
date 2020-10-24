@@ -202,9 +202,9 @@
   <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort}と {PAWN2_labelShort}との結婚の儀式は,すべて無事に執り行われました.</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>{HUMAN_labelShort}と {ANIMAL_labelShort}は絆で結ばれました.</MessageNewBondRelation>
+  <MessageNewBondRelation>{HUMAN_labelShort}と{ANIMAL_labelShort}は絆で結ばれました.</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>{HUMAN_labelShort}と {1}は絆で結ばれました.{HUMAN_labelShort}は{ANIMAL_objective} {ANIMAL_nameFull}名付けました.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort}と{1}は絆で結ばれました.{HUMAN_labelShort}は{ANIMAL_objective},{ANIMAL_nameFull}と名付けました.</MessageNewBondRelationNewName>
   
   <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
   <MessageBondedAnimalMentalBreak>{ANIMAL}は {HUMAN_labelShort}の死をきっかけにして,精神崩壊を起こしました.</MessageBondedAnimalMentalBreak>

@@ -532,7 +532,7 @@
   <LetterBladelinkWeaponBondedLabel>ペルソナとの絆: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort}は {WEAPON_labelShort}の人格と親密な絆を確立した.\nこの瞬間より,{WEAPON_labelShort}は,{PAWN_labelShort}以外に,扱われるのを拒絶するだろう.</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort}は {WEAPON_labelShort}の人格と親密な絆を確立しました.\nこの瞬間から,{WEAPON_labelShort}は,{PAWN_labelShort}以外に,扱われる事を拒絶するでしょう.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->

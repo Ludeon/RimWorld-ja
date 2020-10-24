@@ -51,10 +51,10 @@
   <AllowNonDeadmansApparel.description>死体に一度も着用させたことの無い衣服を許可します.大抵の人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>融解できない服を許可</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>溶解できない服を許可</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableWeapons.label>融解できない武器を許可</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.label>溶解できない武器を許可</AllowNonSmeltableWeapons.label>
   
   <!-- EN: allow plant food -->
   <AllowPlantFood.label>飼料を許可</AllowPlantFood.label>
@@ -67,9 +67,9 @@
   <AllowRotten.description>腐敗した有機物を許可します.</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltable.label>融解できる武器を許可</AllowSmeltable.label>
+  <AllowSmeltable.label>溶解できる武器を許可</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>融解できる服を許可</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>溶解できる服を許可</AllowSmeltableApparel.label>
   
 </LanguageData>

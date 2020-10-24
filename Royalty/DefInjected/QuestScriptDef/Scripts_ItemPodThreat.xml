@@ -7,7 +7,7 @@
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], wants to perform a low-power test of one of [asker_possessive] ship's area-attack weapons. If [asker_pronoun] does, [gameConditionDescriptionFuture].\n\nSince you are a local landholder under imperial law, [asker_nameDef] needs your honorable permission to proceed.</li>
   -->
   <ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->軌道上の宇宙船の機械知性体が、複数の惑星規模の実験を行いたいようです。ただし、彼女が実験を行う場合、 [gameConditionDescriptionFuture]。\n\n彼女は倫理レビューボードに問題が発生する可能性を危惧しており、あなたの同意を求めています。</li>
+    <li>questDescription(askerIsNull==true)->軌道上の宇宙船の機械知性体が、複数の惑星規模の実験を行いたいようです。ただし彼女が実験を行う場合、 [gameConditionDescriptionFuture]。\n\n彼女は倫理レビューボードに問題が発生する可能性を危惧しており、あなたの同意を求めています。</li>
     <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_pawnsPlural]は復讐に駆られた機械知性体によって脅かされています。 [asker_faction_leaderTitle]の[asker_nameFull]は、 あなたに彼らの重罪に対する責任を認めるメッセージを送ってほしいようです。\n\nもしそうした場合、知性体は彼らの代わりにあなたを攻撃目標とするでしょう。 [gameConditionDescriptionFuture]。</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は、 [asker_possessive]宇宙船に搭載されたエリア攻撃兵器の低出力テストをしたいようです。[asker_pronoun]がそれを実行した場合、[gameConditionDescriptionFuture]。\n\nあなたは帝国法に基づく該当地域の地主なので、[asker_nameDef]はあなたの正当な許可を求めています。</li>
   </ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>

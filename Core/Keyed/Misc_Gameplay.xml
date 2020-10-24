@@ -295,7 +295,7 @@
   <!-- EN: Departing in {0} -->
   <ShuttleLeaveDelayInspectString>{0}後に出発</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>シャトルで出発しなければならない</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>シャトルで出発する必要がある</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
@@ -743,7 +743,7 @@
   <!-- EN: Incapacitated -->
   <Incapacitated>倒れている</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>拘束中 （移動速度減）</InRestraints>
+  <InRestraints>拘束中 (移動速度減)</InRestraints>
   <!-- EN: Carrying -->
   <Carrying>運搬中</Carrying>
   <!-- EN: Affected by: -->
