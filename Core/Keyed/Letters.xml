@@ -63,12 +63,12 @@
   <LetterLabelRoofCollapsed>崩落</LetterLabelRoofCollapsed>
 
   <!-- EN: {0} successfully recruited {1} ({2} chance). -->
-  <RecruitSuccess>{0}は {1}を コロニーに 迎え入れました. (成功率 {2})</RecruitSuccess>
+  <RecruitSuccess>{0}は{1}をコロニーに迎え入れました. (成功率 {2})</RecruitSuccess>
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
-  <RecruitFail>{0}は {1}の 説得に 失敗しました. (成功率 {2})</RecruitFail>
+  <RecruitFail>{0}は{1}の説得に失敗しました. (成功率 {2})</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef}は {RELATIVE_labelShort}の{1}です.もし {PAWN_nameDef}が死ねば,{RELATIVE_labelShort}は,長期に渡る悲しみに苦しむでしょう.けれども,もしなんとか {PAWN_nameDef}を救うことができれば, {RELATIVE_labelShort}は,長い間,幸せに包まれているでしょう.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef}は{RELATIVE_labelShort}の{1}です.もし{PAWN_nameDef}が死ねば,{RELATIVE_labelShort}は,長期に渡る悲しみに苦しむでしょう.しかし,もしなんとか{PAWN_nameDef}を救うことができれば,{RELATIVE_labelShort}は,長い間,幸せに包まれるでしょう.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
@@ -86,10 +86,10 @@
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>{PAWN_labelShort}は病気を発症しました: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
-  <NewPartDiseaseAnimal>{PAWN_possessive} {1}の{PAWN_labelShort}は 病気を発症しました: {3}</NewPartDiseaseAnimal>
+  <NewPartDiseaseAnimal>{PAWN_labelShort}は{1}に病気を発症しました: {3}</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>かつて{0}は 派閥の一員でした.</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>かつて{0}は,派閥の一員でした.</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
   <PawnWasFormerlyLodger>{0}は,あなたの世話になったことがあります.</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
@@ -106,16 +106,16 @@
   <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_indefinite}は 手負いになって襲いかかったきた!\n\nそいつは手が届く範囲の人間を襲おうとします.眠りにつくと落ち着きを取り戻すでしょう.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>{1_indefinite}は手負いになって襲いかかったきた!\n\nそいつは手が届く範囲の人間を襲おうとします.眠りにつくと落ち着きを取り戻すでしょう.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>手懐けるのに失敗し,{1_indefinite}は 襲いかかってきた!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>手懐けるのに失敗し,{1_indefinite}は襲いかかってきた!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
-  <AnimalManhunterOthers>そばにいた,他の{1_kindBasePlural}も いっせいに怒り狂った!</AnimalManhunterOthers>
+  <AnimalManhunterOthers>そばにいた,他の{1_kindBasePlural}もいっせいに怒り狂った!</AnimalManhunterOthers>
 
   <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>{1_labelShort}は 罠にはまった</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort}は罠にはまった</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{1_labelShort}は 不慮の事故により,罠で怪我をした.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>{1_labelShort}は不慮の事故により,罠で怪我をした.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
   <LetterHealthComplications>{PAWN_labelShort}は, {2}の合併症で, {1}を患った.</LetterHealthComplications>

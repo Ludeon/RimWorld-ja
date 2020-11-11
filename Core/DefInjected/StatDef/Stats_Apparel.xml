@@ -60,7 +60,7 @@
   <!-- EN: The area obscured when a smokepop pack detonates. -->
   <SmokepopBeltRadius.description>スモークポップパックが発動したときに,見えにくくする半径です.</SmokepopBeltRadius.description>
   <!-- EN: {0} c -->
-  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+  <SmokepopBeltRadius.formatString>{0}セル</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
   <StuffEffectMultiplierArmor.label>アーマー - 素材効果の掛け率</StuffEffectMultiplierArmor.label>

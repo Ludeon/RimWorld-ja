@@ -369,7 +369,7 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>危険すぎるため,{0}日間,再侵入できません.</EnterCooldown>
+  <EnterCooldown>危険すぎるため,{0}経過するまで再侵入できません.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there. -->
@@ -621,7 +621,7 @@
   <!-- EN: watching the aurora. -->
   <WatchingAurora>オーロラを眺めている</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>{1} に {0}を使う</UsingVerb>
+  <UsingVerb>{1}に{0}を使う</UsingVerb>
   <!-- EN: using {0}. -->
   <UsingVerbNoTarget>{0}を使う</UsingVerbNoTarget>
   <!-- EN: area -->
@@ -633,9 +633,9 @@
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>火を消している</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>{TARGET_label} に点いた火を消している</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>{TARGET_label}に点いた火を消している</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>死体を掘り出す</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>死体を掘り出している</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -933,7 +933,7 @@
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>{1_label}が 燃えている</FireOn>
+  <FireOn>{1_label}を燃やしている炎</FireOn>
   <!-- EN: Burning -->
   <Burning>炎上中</Burning>
   <!-- EN: fire size {0} -->
@@ -957,21 +957,21 @@
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>これを建設するために必要な資源がありません.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
   <WillGetWorkSpeedPenalty>{0}の作業速度が低下</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>屋根の下には 配置 できません.</MustPlaceUnroofed>
+  <MustPlaceUnroofed>屋根の下には配置できません.</MustPlaceUnroofed>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>宇宙船骨格の先端に配置してください.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>食材ホッパーを ペーストディスペンサーの となりに 配置してください.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>食材ホッパーはペーストディスペンサーのとなりに配置してください.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>間欠泉に 直接配置して ください.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>間欠泉に直接配置してください.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>冷気側,暖気側ともに,壁から離して配置して ください.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>冷気側,暖気側ともに,壁から離して配置してください.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
   <MustPlaceVentWithFreeSpaces>両面共に風通しが必要です.</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
@@ -1029,7 +1029,7 @@
   <!-- EN: Use skilltrainer to learn {0} -->
   <SkillNeurotrainerUseLabel>{0}を身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>特定のスキルを身に付けられる使い捨てのメカナイト製剤です.\n\nこの製剤は眼窩を通して投与します.脳内に達すると,メカナイトは指示された特定の作業野を向上させるべく,急速に必要なニューラルネットワークに形を変えます.</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>一度だけ使用可能な,特定のスキルを身に付けられるメカナイトの超薬物です.\n\nこの薬物は眼窩から投与します.脳に散布されると,メカナイトは目的のスキルを即座に改善するために,特定の領域で必要に応じた神経組織に変形します.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
   <SkillNeurotrainerUsed>{USER_labelShort}は,{1}スキルトレイナーを使って,スキルを{2}から{3}に上げた.</SkillNeurotrainerUsed>
 
@@ -1307,7 +1307,7 @@
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>絆を結ぶ: {0}</BondedWith>
+  <BondedWith>絆で結ばれている: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
   <NotBonded>誰とも絆は無い</NotBonded>
   <!-- EN: bonded to someone else -->

@@ -35,7 +35,7 @@
   <!-- EN: Any psycaster apparel -->
   <ApparelRequirementAnyPsycasterApparel>超能力者の衣服</ApparelRequirementAnyPsycasterApparel>
   <!-- EN: Disallowed work types -->
-  <DisabledWorkTypes>許可されていな作業</DisabledWorkTypes>
+  <DisabledWorkTypes>許可されない作業</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
   <RoyalTitleRequiredMeals>許容される食料</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
@@ -71,7 +71,7 @@
   <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
   <RoyalWithConceitedTrait>{PAWN_labelShort}は{2}であるので、{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求しています。{PAWN_labelShort}は特定の種類の仕事を拒否し、低品質な食品は受け付けず、法令を発布します。別の入植者のほうがより柔軟でしょう。</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
-  <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}は{2}なので、{PAWN_objective}のサイリンクが機能しないかもしれません。</RoyalWithTraitAffectingPsylinkNegatively>
+  <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}は{2}なので、{PAWN_possessive}サイリンクが機能しないかもしれません。</RoyalWithTraitAffectingPsylinkNegatively>
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
   <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\n本当にこの能力を獲得しますか？</PsylinkTooLowForGainAbility>
   <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->

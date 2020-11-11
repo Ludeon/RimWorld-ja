@@ -304,10 +304,10 @@
   <!-- EN: not injured -->
   <NotInjured>無傷</NotInjured>
   <!-- EN: occupied by {0} -->
-  <SomeoneElseSleeping>{0}が 独占している</SomeoneElseSleeping>
+  <SomeoneElseSleeping>{0}が独占している</SomeoneElseSleeping>
   
   <!-- EN: Trade with {0} -->
-  <TradeWith>{0}と トレード</TradeWith>
+  <TradeWith>{0}とトレード</TradeWith>
   <!-- EN: Cannot trade -->
   <CannotTrade>トレードできない</CannotTrade>
 
@@ -350,7 +350,7 @@
   <CannotGenericWorkCustom>{0}ができない</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: incapable of {0} -->
-  <CannotMissingHealthActivities>優先できない: ({0}能力が無い)</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>優先できない: {0}能力が無い</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
@@ -374,12 +374,12 @@
   <NotAssigned>割り当て無し</NotAssigned>
 
   <!-- EN: Cannot prioritize: research is a long-term task -->
-  <CannotPrioritizeResearch>優先できない:（研究は,優先順位をつけられない）</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>優先できない: 研究は優先順位をつけられない</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>優先できない: {1_label}は 禁止されている）</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>優先できない: {1_label}は禁止されている</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: forbidden -->
-  <CannotPrioritizeCellForbidden>優先できない: (禁止事項)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>優先できない: 禁止事項</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
 

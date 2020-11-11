@@ -86,9 +86,9 @@
     <li>mechViolation->古代の貯蔵庫から盗みを働こうとし</li>
     <li>letterSubject->{SUBJECT_definite}</li>
     <li>lodgersHasHave(lodgersCount==1)-></li>
-    <li>lodgersHasHave(lodgersCount>=2)-></li>
+    <li>lodgersHasHave(lodgersCount>=2)->ら</li>
     <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
-    <li>lodgersObjective(lodgersCount>=2)->them</li>
+    <li>lodgersObjective(lodgersCount>=2)->[lodgers0_pronoun]らを</li>
     <li>areIs(lodgersCount==1)->は</li>
     <li>areIs(lodgersCount>=2)->は</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
