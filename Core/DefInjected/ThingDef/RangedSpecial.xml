@@ -13,7 +13,7 @@
   <!-- EN: orbital power beam targeter -->
   <OrbitalTargeterPowerBeam.label>軌道ビーム照準器</OrbitalTargeterPowerBeam.label>
   <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
-  <OrbitalTargeterPowerBeam.description>エネルギー収集衛星の為の誘導装置です.一度目標を捕捉すると,古代の衛星は,強力な電磁エネルギー柱を目標に向かって照射し始めます.このエネルギーは,巨大な吸収パラボラで安全に集めることが出来ます.吸収パラボラを持っていなければ,敵に狙いを定めることもでき,その場合エネルギー柱は,そのエリアを数千度の炎で焼くでしょう.衛星が安全でない目標への照射を検知すると,衛星自身をシャットダウンさせ永久に照準器を無効化します.</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.description>エネルギー収集衛星の為の誘導装置です.一度目標を捕捉すると,古代の衛星は,強力な電磁エネルギー柱を目標に向かって照射し始めます.このエネルギーは,巨大な吸収パラボラで安全に集めることができます.吸収パラボラを持っていなければ,敵に狙いを定めることもでき,その場合エネルギー柱は,そのエリアを数千度の炎で焼くでしょう.衛星が安全でない目標への照射を検知すると,衛星自身をシャットダウンさせ永久に照準器を無効化します.</OrbitalTargeterPowerBeam.description>
   <!-- EN: charge -->
   <OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>チャージ</OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>
   <!-- EN: orbital power beam targeter -->

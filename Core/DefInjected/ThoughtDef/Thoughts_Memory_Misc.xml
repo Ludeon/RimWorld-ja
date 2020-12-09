@@ -29,7 +29,7 @@
   <!-- EN: colonist banished to death -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.label>入植者を見殺しにした</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道は無い.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道はない.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>敵リーダーの{0}を倒した</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -57,7 +57,7 @@
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>人殺し</KilledHumanlikeBloodlust.stages.killed_someone.label>
   <!-- EN: I killed someone! What a rush! -->
-  <KilledHumanlikeBloodlust.stages.killed_someone.description>人をこの手で殺すことが出来た.</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>人をこの手で殺すことができた.</KilledHumanlikeBloodlust.stages.killed_someone.description>
   
   <!-- EN: buried in sarcophagus -->
   <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>石棺に埋葬した</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
@@ -122,7 +122,7 @@
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>囚人を見殺しにした</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道は無い.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道はない.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- EN: prisoner released -->
   <ReleasedHealthyPrisoner.stages.prisoner_released.label>囚人開放</ReleasedHealthyPrisoner.stages.prisoner_released.label>

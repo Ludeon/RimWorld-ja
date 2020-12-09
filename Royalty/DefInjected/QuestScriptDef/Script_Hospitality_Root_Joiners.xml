@@ -71,7 +71,7 @@
     <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersDef(lodgersCount>=2)->[lodgers0_nameDef]</li>
     <li>joinerEnding(priority=1)-></li>
-    <li>joinerEnding->入植者と同様の方法で[lodgersDef]を指揮することが出来ます。[specialNeedsExplanation]</li>
+    <li>joinerEnding->入植者と同様の方法で[lodgersDef]を指揮することができます。[specialNeedsExplanation]</li>
     <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)->[lodgersLabelPlural]の爵位に見合った特別な要求を満たす必要があるでしょう。</li>
     <li>specialNeedsExplanation-></li>
     <li>theirHisHer(lodgersCount==1)->[lodgers0_possessive]</li>

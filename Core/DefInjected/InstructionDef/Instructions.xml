@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
-  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないで下さい.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないでください.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!\n\nあなたは登場人物の名前をクリックすることで改名することができます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
   
   <!-- EN: Select this -->
   <AddBillSimpleMeal.onMapInstruction>これを選択します</AddBillSimpleMeal.onMapInstruction>
   <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
   <AddBillSimpleMeal.rejectInputMessage>かまどの設定を,簡単な食事を作らせるように設定しましょう.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
-  <AddBillSimpleMeal.text>入植者達に,何の料理を作らせるかを伝える必要があります.\n\n"カマド"に料理注文書を付け足します.注文書が作成されてしまえば,入植者達は自動的に作業を行ないます.\n\n1."カマド"が完成するのを待ちます.\n2."カマド"をクリックして選択します.\n3."加工"タブを開きます.\n4."新しい加工"をクリックします.\n5."簡単な食事"を選択します.\n6."+"ボタンを押して,個数を10個に増やします.\n\n"カマド"を作るのに時間が掛かりすぎると思ったときは,時間を早めることができるのを思い出して下さい.\n\n入植者を選択したあと,"カマド"を右クリックして優先的に作らせることも出来ます.</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.text>入植者達に,何の料理を作らせるかを伝える必要があります.\n\n"カマド"に料理注文書を付け足します.注文書が作成されてしまえば,入植者達は自動的に作業を行ないます.\n\n1."カマド"が完成するのを待ちます.\n2."カマド"をクリックして選択します.\n3."加工"タブを開きます.\n4."新しい加工"をクリックします.\n5."簡単な食事"を選択します.\n6."+"ボタンを押して,個数を10個に増やします.\n\n"カマド"を作るのに時間が掛かりすぎると思ったときは,時間を早めることができるのを思い出してください.\n\n入植者を選択したあと,"カマド"を右クリックして優先的に作らせることもできます.</AddBillSimpleMeal.text>
   
   <!-- EN: Build an animal sleeping spot\ninside the room -->
   <BuildAnimalSleepingSpot.onMapInstruction>家畜の寝床を作ります\n部屋の中に</BuildAnimalSleepingSpot.onMapInstruction>
@@ -58,7 +58,7 @@
   <!-- EN: Please build sandbags in the highlighted area. -->
   <BuildSandbags.rejectInputMessage>ハイライトされたところに"土のう"を作りましょう.</BuildSandbags.rejectInputMessage>
   <!-- EN: Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area. -->
-  <BuildSandbags.text>グレイト! 基本的なコロニーとして動き出しました!そのうち,敵があなたのコロニーを襲いに来るでしょう.その準備を始める時です.\n\n"土のう"を選択して,指示されたところに土のうを積みましょう.</BuildSandbags.text>
+  <BuildSandbags.text>グレイト! 基本的なコロニーとして動き出しました!そのうち,敵があなたのコロニーを襲いに来るでしょう.その準備を始めるときです.\n\n"土のう"を選択して,指示されたところに土のうを積みましょう.</BuildSandbags.text>
   
   <!-- EN: Build a wooden simple research bench\ninside the room -->
   <BuildSimpleResearchBench.onMapInstruction>木製のシンプルな"研究卓"を作ります\n室内に</BuildSimpleResearchBench.onMapInstruction>
@@ -77,7 +77,7 @@
   <!-- EN: Please open the 'Work' tab and change some settings. -->
   <ChangeWorkSettings.rejectInputMessage>「優先順位」タブを開いてください,そして設定を変えてみましょう</ChangeWorkSettings.rejectInputMessage>
   <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
-  <ChangeWorkSettings.text>あなたは,チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます.入植者は優先順位(左から右）に従って作業をしようとします.\n\nいくつかの設定を変えてみましょう\n\n注意 - 入植者は,どんなにクダラナイ事でも,常に自分の優先順序に従います.効率的な作業体制を敷くことは,リムワールドでの成功のカギとなります.だから,優先順位の設定は慎重に行い,何度も見直しましょう!</ChangeWorkSettings.text>
+  <ChangeWorkSettings.text>あなたは,チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます.入植者は優先順位(左から右）に従って作業をしようとします.\n\nいくつかの設定を変えてみましょう\n\n注意：入植者は,どんなにくだらないことでも,常に自分の優先順序に従います.効率的な作業体制を敷くことは,リムワールドでの成功のカギとなります.だから,優先順位の設定は慎重に行い,何度も見直しましょう!</ChangeWorkSettings.text>
   
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
   <ChooseLandingSite.rejectInputMessage>温帯森林の平地を選択してみましょう.</ChooseLandingSite.rejectInputMessage>
@@ -92,7 +92,7 @@
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
   <ChopTrees.rejectInputMessage>いくつかの木をまとめてドラッグして,"伐採"を指示してみましょう.</ChopTrees.rejectInputMessage>
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
-  <ChopTrees.text>いくつか木を収穫してみましょう.いくつか木を伐採させます.\n\n「伐採」コマンドで,コロニーの回りにある,10本の木を伐採させます.\n\n(ヒント: ドラッグして木をまとめて選択することが出来ます.)</ChopTrees.text>
+  <ChopTrees.text>いくつか木を収穫してみましょう.いくつか木を伐採させます.\n\n「伐採」コマンドで,コロニーの回りにある,10本の木を伐採させます.\n\n(ヒント: ドラッグして木をまとめて選択することができます.)</ChopTrees.text>
   
   <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>ようこそ RimWorld(辺境の惑星)へ !\n\nこのチュートリアルでは,ゲームの進め方を教えていきます.\n\n最初のステップは,遊ぶ世界を創造します.\n\nこのページでは,この世界のパラメータを,あなたが設定します.\n\nこの世のデフォルト設定は良いものです - このまま進めます "創造する"をクリックします.</CreateWorldParams.text>
@@ -147,7 +147,7 @@
   <MapCameraDolly.text>あなたは地表にいます!\n\n周囲にカメラを動かすことを試してみましょう.\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使うか,MOUSE BUTTON 3を押したままドラッグします.\n\nやってみましょう!</MapCameraDolly.text>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
-  <MapCameraZoom.text>素晴らしい!\n\nマウスホイールか,{Key:MapZoom_In} and {Key:MapZoom_Out}キーで, ズームイン,ズームアウトが出来ます.\n\n試してみましょう!</MapCameraZoom.text>
+  <MapCameraZoom.text>素晴らしい!\n\nマウスホイールか,{Key:MapZoom_In} and {Key:MapZoom_Out}キーで, ズームイン,ズームアウトができます.\n\n試してみましょう!</MapCameraZoom.text>
   
   <!-- EN: Designate all this\nfor mining -->
   <MineSteel.onMapInstruction>これ全てに指示します\n掘削</MineSteel.onMapInstruction>
@@ -170,7 +170,7 @@
   <Pause.text>ゲーム時間を,一時停止することもできます.\n\nこれはつまり,あなたは慌てる必要が無い,ということです.あなたはいつでも,一時停止をしてから,ゆっくりと命令を下すことができます.\n\n{Key:TogglePause}キーか,右下のアイコンを試しましょう</Pause.text>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.rejectInputMessage>最初に,ランダムなキャラクターで試してみて下さい.</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.rejectInputMessage>最初に,ランダムなキャラクターで試してみてください.</RandomizeCharacter.rejectInputMessage>
   <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.text>もし,このキャラクターが気に入らなければ,再生成することができます!\n\nRANDOMIZEボタンを試してください.</RandomizeCharacter.text>
   
@@ -192,7 +192,7 @@
   <SetToGrowRice.text>あなたは,入植者達が"農業ゾーン"に蒔く種の種類を決めることができます.\n\n1.右クリックして,ゾーンの配置モードから抜けます.\n2.今作った"農業ゾーン"をクリックして選択します.\n3. 「植物:ジャガイモ」コマンドを押して,「米」に変更します.</SetToGrowRice.text>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.text>あなたは,時間の進みをスピードアップすることも出来ます.\n\n{Key:TimeSpeed_Normal},{Key:TimeSpeed_Fast},{Key:TimeSpeed_Superfast}キーか,右下のアイコンを試してみましょう.</TimeControls.text>
+  <TimeControls.text>あなたは,時間の進みをスピードアップすることもできます.\n\n{Key:TimeSpeed_Normal},{Key:TimeSpeed_Fast},{Key:TimeSpeed_Superfast}キーか,右下のアイコンを試してみましょう.</TimeControls.text>
   
   <!-- EN: Please un-draft your colonists. -->
   <UndraftAll.rejectInputMessage>「徴兵」の解除をしましょう.</UndraftAll.rejectInputMessage>

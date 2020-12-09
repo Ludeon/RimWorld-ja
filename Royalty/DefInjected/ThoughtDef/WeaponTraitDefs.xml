@@ -14,7 +14,7 @@
   <!-- EN: {WEAPON}'s muttering -->
   <BondedThoughtMuttering.stages.s_muttering.label>{WEAPON}の不平</BondedThoughtMuttering.stages.s_muttering.label>
   <!-- EN: {WEAPON}, my bonded weapon, is muttering in my head. It's hard to ignore sometimes. -->
-  <BondedThoughtMuttering.stages.s_muttering.description>絆を結んだ武器である{WEAPON}が、頭の中でぶつぶつと呟いている。たまに聞き流す事が難しくなる。</BondedThoughtMuttering.stages.s_muttering.description>
+  <BondedThoughtMuttering.stages.s_muttering.description>絆を結んだ武器である{WEAPON}が、頭の中でぶつぶつと呟いている。たまに聞き流すことが難しくなる。</BondedThoughtMuttering.stages.s_muttering.description>
   
   <!-- EN: {WEAPON}'s wailing -->
   <BondedThoughtWailing.stages.s_wailing.label>{WEAPON}の嘆き</BondedThoughtWailing.stages.s_wailing.label>
@@ -24,12 +24,12 @@
   <!-- EN: {WEAPON}'s jealousy -->
   <JealousRage.stages.s_jealousy.label>{WEAPON}の強い嫉妬</JealousRage.stages.s_jealousy.label>
   <!-- EN: My bonded weapon {WEAPON} is jealous I am using another weapon. I can feel the rage it is screaming into my head. -->
-  <JealousRage.stages.s_jealousy.description>絆を結んだ武器である{WEAPON}が、別の武器を使った事に対して嫉妬している。激怒した金切り声を、頭の中で感じる事ができる。</JealousRage.stages.s_jealousy.description>
+  <JealousRage.stages.s_jealousy.description>絆を結んだ武器である{WEAPON}が、別の武器を使ったことに対して嫉妬している。激怒した金切り声を、頭の中で感じることができる。</JealousRage.stages.s_jealousy.description>
   
   <!-- EN: {WEAPON}'s kill thirst -->
   <KillThirst.stages.s_kill_thirst.label>{WEAPON}の死の渇望</KillThirst.stages.s_kill_thirst.label>
   <!-- EN: My bonded weapon {WEAPON} is angry it has gone so long without killing. I can feel its rage. -->
-  <KillThirst.stages.s_kill_thirst.description>絆を結んだ武器である{WEAPON}が、長いこと誰も殺してない事に対して怒っている。その怒りを感じる事ができる。</KillThirst.stages.s_kill_thirst.description>
+  <KillThirst.stages.s_kill_thirst.description>絆を結んだ武器である{WEAPON}が、長いこと誰も殺してないことに対して怒っている。その怒りを感じることができる。</KillThirst.stages.s_kill_thirst.description>
   
   <!-- EN: {WEAPON}'s kill sorrow -->
   <OnKill_BadThought.stages.s_kill_sorrow.label>{WEAPON}の死への悲嘆</OnKill_BadThought.stages.s_kill_sorrow.label>

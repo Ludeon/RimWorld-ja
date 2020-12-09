@@ -440,9 +440,9 @@
     <li>woundname->穴</li>
     <li>woundname->創傷</li>
     <li>woundname->裂け目</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[woundname]の血をそのままにして</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[woundname]の液体をそのままにして</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[woundname]の出血を放置して</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->血まみれの[woundname]を残した</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->体液まみれの[woundname]を残した</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->血飛沫を上げる[woundname]を残した</li>
     <li>destroyed_past->差し貫いた</li>
     <li>destroyed_past->貫通した</li>
     <li>destroyed_past->串刺しにした</li>

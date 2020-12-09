@@ -73,8 +73,8 @@
     <li>othersWillNotAccept->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこれを受け入れるつもりはなく</li>
     <li>turnedViolent->[othersWillNotAccept]、激しく反抗し始めました。</li>
     <li>decidedToLeave->[othersWillNotAccept]、この地を去ることに決めました。</li>
-    <li>whoAskedToStay->コロニーに留まる事を依頼した</li>
-    <li>oneOfThe->コロニーに留まる事を依頼した絶望的な状況にある[faction_pawnsPlural]の一人</li>
+    <li>whoAskedToStay->コロニーに留まることを依頼した</li>
+    <li>oneOfThe->コロニーに留まることを依頼した絶望的な状況にある[faction_pawnsPlural]の一人</li>
     <li>questOver->クエスト'[resolvedQuestName]'は終了しました。</li>
     <li>letterIntroDeath->[oneOfThe]、{SUBJECT_definite}が死にました。</li>
     <li>lodgerDiedMemoryThoughtLetterLabel->[lodgersLabel]が死亡した: 怒り</li>
@@ -108,16 +108,16 @@
     <li>betrayalOfferLetterLabel->裏切りの提示: [factionOpponent_nameDef]</li>
     <li>betrayalOffserLetterText->[factionOpponent_faction_name]の[factionOpponent_faction_pawnSingular]である[factionOpponent_nameDef]は、[asker_nameDef][otherLodgers][areIs]、[map_definite]でもてなされていることを知りました。[factionOpponent_pronoun]と[asker_nameDef]は敵同士であり、[asker_possessive]死を望んでいます。\n\n[faction_name]のメンバーを全員殺すと、[factionOpponent_pronoun]は次の報酬を送ります(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
     <li>betrayalOfferRewardLetterLabel->裏切りの報酬: [factionOpponent_nameDef]</li>
-    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef]は、[asker_nameDef][otherMembers]を殺した場合の報酬を約束しました。[factionOpponent_pronoun]は、この事が達成されたという情報を聞いたため、ドロップポッドで以下の物品を贈りました(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef]は、[asker_nameDef][otherMembers]を殺した場合の報酬を約束しました。[factionOpponent_pronoun]は、このことが達成されたという情報を聞いたため、ドロップポッドで以下の物品を贈りました(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
     <li>betrayalOfferFailedLetterLabel->裏切りの報酬が取り消された</li>
-    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef]は、[faction_name]のメンバーの一人が[map_definite]にいない事を知りました。[factionOpponent_nameDef]は[faction_name]のメンバー全員の死を望んでいたため、[factionOpponent_possessive]提示を取り消しました。</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef]は、[faction_name]のメンバーの一人が[map_definite]にいないことを知りました。[factionOpponent_nameDef]は[faction_name]のメンバー全員の死を望んでいたため、[factionOpponent_possessive]提示を取り消しました。</li>
     <li>otherLodgers(lodgerCount==1)-></li>
     <li>otherLodgers(lodgerCount==2)->と、もう一人の[lodgersLabel]</li>
     <li>otherLodgers(lodgerCount>=3)->と、数人の[lodgersLabelPlural]</li>
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)->と、[faction_name]の全てのメンバー</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural]が去っている</li>
-    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間留まる事を許可してくれた事に対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は最後に、この事を決して忘れないと伝えて去りました。</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間留まることを許可してくれたことに対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は最後に、このことを決して忘れないと伝えて去りました。</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
@@ -173,7 +173,7 @@
     <li>lodgersPossessive(lodgerCount>=2)->[asker_pronoun]らの</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
-    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo] また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
+    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして滞在中、無償で仕事と戦闘を手伝うことを[offer]しています。\n\n[joinInfo] また、[lodgersObjective]助けたことに対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
     <li>approachInfo(lodgerCount==1)->[asker_nameDef]と名乗る、絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef]と、もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。代表者は自分を[asker_nameDef]と名乗っています。</li>
@@ -188,8 +188,8 @@
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、大きなゲリラ雷雨によって家を焼かれ失ったと述べています。</li>
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、自分達のキャラバンが待ち伏せに襲われ、全てを奪われたと述べています。</li>
     <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは、道徳的な意見の不一致が原因で、町から追放されたと述べています。</li>
-    <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わる事を申し出るかもしれません。</li>
-    <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
+    <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わることを申し出るかもしれません。</li>
+    <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば[asker_pronoun]らはコロニーに加わることを申し出るかもしれません。</li>
     <li>travelerInfo(lodgerCount==1)->この[faction_pawnSingular]</li>
     <li>travelerInfo(lodgerCount>=2)->この[faction_pawnsPlural]</li>
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>
@@ -264,7 +264,7 @@
   -->
   <RefugeeDelayedReward.questContentRules.rulesStrings>
     <li>rewardLetterLabel->厚遇報酬</li>
-    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました。\n[rewardDelayTicks_duration]前、あなたは[rewardGiver_objective]絶望的な状況から救いました。\n\nあの時から[rewardGiver_pronoun]は立ち直り、そして今、あなたの助けになるために、適切な報酬を渡す事を望みました。[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
+    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました。\n[rewardDelayTicks_duration]前、あなたは[rewardGiver_objective]絶望的な状況から救いました。\n\nあの時から[rewardGiver_pronoun]は立ち直り、そして今、あなたの助けになるために、適切な報酬を渡すことを望みました。[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
   </RefugeeDelayedReward.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->a delayed reward for refugee quest</li>

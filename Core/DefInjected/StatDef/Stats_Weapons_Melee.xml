@@ -9,7 +9,7 @@
   <!-- EN: blunt damage -->
   <BluntDamageMultiplier.label>近接武器(殴)倍率</BluntDamageMultiplier.label>
   <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
-  <BluntDamageMultiplier.description>この武器を使って,殴った時のダメージ倍率です.</BluntDamageMultiplier.description>
+  <BluntDamageMultiplier.description>この武器を使って,殴ったときのダメージ倍率です.</BluntDamageMultiplier.description>
   
   <!-- EN: melee armor penetration -->
   <MeleeWeapon_AverageArmorPenetration.label>AP値(白兵戦)</MeleeWeapon_AverageArmorPenetration.label>
@@ -35,6 +35,6 @@
   <!-- EN: sharp damage -->
   <SharpDamageMultiplier.label>近接武器(突,斬)倍率</SharpDamageMultiplier.label>
   <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
-  <SharpDamageMultiplier.description>この武器を使って,突いたり,斬ったりした時のダメージ倍率です.</SharpDamageMultiplier.description>
+  <SharpDamageMultiplier.description>この武器を使って,突いたり,斬ったりしたときのダメージ倍率です.</SharpDamageMultiplier.description>
   
 </LanguageData>

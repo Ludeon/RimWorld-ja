@@ -9,12 +9,12 @@
   <!-- EN: Allowed areas -->
   <AllowedAreas.label>制限ゾーン</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>入植者と家畜に,制限ゾーンを指定することができます.これは制限ゾーン外へ出て行くことを禁止します.\n\nこれは有用で,たとえば入植者をコロニーの外へ出て行くことを禁止するのに使います.\n\n複数の制限ゾーンを作成することもでき,それぞれ違う入植者,家畜に割り当てる事もできます.\n\n作成,削除,ゾーンへの割り当ては,時間割タブにあります.\n\nアーキテクトタブのゾーンメニュー内にある「制限ゾーン」「制限ゾーン取消」から,制限ゾーンをマップ上に配置します.</AllowedAreas.helpText>
+  <AllowedAreas.helpText>入植者と家畜に,制限ゾーンを指定することができます.これは制限ゾーン外へ出て行くことを禁止します.\n\nこれは有用で,たとえば入植者をコロニーの外へ出て行くことを禁止するのに使います.\n\n複数の制限ゾーンを作成することもでき,それぞれ違う入植者,家畜に割り当てることもできます.\n\n作成,削除,ゾーンへの割り当ては,時間割タブにあります.\n\nアーキテクトタブのゾーンメニュー内にある「制限ゾーン」「制限ゾーン取消」から,制限ゾーンをマップ上に配置します.</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
   <AnimalTaming.label>野生動物を手懐ける</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>野生動物を手懐けるために,「手懐ける」を指示できます.\n\n入植者は野生動物に餌を与えながら,手懐けようと試みます.\n\n【注意】一部の野性動物は,手懐けようと試みて失敗したとき,暴力的な反応をみせる可能性があります.</AnimalTaming.helpText>
+  <AnimalTaming.helpText>野生動物を手懐けるために,「手懐ける」を指示できます.\n\n入植者は野生動物に餌を与えながら,手懐けようと試みます.\n\n注意：一部の野性動物は,手懐けようと試みて失敗したとき,暴力的な反応をみせる可能性があります.</AnimalTaming.helpText>
   
   <!-- EN: Animal training -->
   <AnimalTraining.label>調教する</AnimalTraining.label>
@@ -39,7 +39,7 @@
   <!-- EN: Cover and shooting -->
   <CoverAndShooting.label>銃撃戦術</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>銃撃戦でもっとも重要な事は,カバーを使う事です.\n\nカバーは,入植者と敵の間に存在し,入植者がカバーに隣接している場合のみ効果があります.\n\n壁の角の背後に入植者を配置するのもカバーとなります.入植者は射撃するときに身を乗り出します.\n\n大抵の物をカバーとして使えますが,いくつかの物は他の物よりカバーとして,より優れています.例えば,木に身を隠す事は,何もしないよりマシですが,土のうに身を隠す事は,木を使うより優れています.</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>銃撃戦でもっとも重要なことは,カバーを使うことです.\n\nカバーは,入植者と敵の間に存在し,入植者がカバーに隣接している場合のみ効果があります.\n\n壁の角の背後に入植者を配置するのもカバーとなります.入植者は射撃するときに身を乗り出します.\n\n大抵の物をカバーとして使えますが,いくつかの物は他の物よりカバーとして,より優れています.例えば,木に身を隠すことは,何もしないよりマシですが,土のうに身を隠すことは,木を使うより優れています.</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
   <Deterioration.label>自然劣化</Deterioration.label>
@@ -64,7 +64,7 @@
   <!-- EN: Forbidding doors -->
   <ForbiddingDoors.label>通り抜け禁止</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
-  <ForbiddingDoors.helpText>ドアを通り抜け禁止にすると,入植者や家畜はドアを通らなくなります.\n\nこれはドアのロックとは異なる事に注意して下さい.ドアは常にロックされているので,侵入者は自由に通ることは出来ません. 通り抜け禁止とは,単に入植者に対して,ドアを使わないように通告することです. 気が狂った入植者は,どうしてもドアを使うかもしれません.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.helpText>ドアを通り抜け禁止にすると,入植者や家畜はドアを通らなくなります.\n\nこれはドアのロックとは異なることに注意してください.ドアは常にロックされているので,侵入者は自由に通ることはできません. 通り抜け禁止とは,単に入植者に対して,ドアを使わないように通告することです. 気が狂った入植者は,どうしてもドアを使うかもしれません.</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
   <FormCaravan.label>キャラバン隊を編成</FormCaravan.label>
@@ -89,12 +89,12 @@
   <!-- EN: History tab -->
   <HistoryTab.label>歴史タブを覚える</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>画面下側にある「歴史」タブから,長い期間にわたって記録された,あなたのコロニーの繁栄を見ることが出来ます.</HistoryTab.helpText>
+  <HistoryTab.helpText>画面下側にある「歴史」タブから,長い期間にわたって記録された,あなたのコロニーの繁栄を見ることができます.</HistoryTab.helpText>
   
   <!-- EN: Home area -->
   <HomeArea.label>村のゾーンを設定する</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>村のゾーンとは,入植者が清掃や消火活動を行う範囲の事です.\n\n「アーキテクト」タブの「ゾーン」メニュー内にある,「コロニーゾーン」コマンドで指定します.</HomeArea.helpText>
+  <HomeArea.helpText>村のゾーンとは,入植者が清掃や消火活動を行う範囲のことです.\n\n「アーキテクト」タブの「ゾーン」メニュー内にある,「コロニーゾーン」コマンドで指定します.</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
   <HostilityResponse.label>危険への対処方法</HostilityResponse.label>

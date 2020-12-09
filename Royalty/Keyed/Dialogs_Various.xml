@@ -51,7 +51,7 @@
 
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <BladelinkEquipWarning>一度でも絆を結ぶと、武器に宿るペルソナは他者に使用される事を拒否します。</BladelinkEquipWarning>
+  <BladelinkEquipWarning>一度でも絆を結ぶと、武器に宿るペルソナは他者に使用されることを拒否します。</BladelinkEquipWarning>
   <!-- EN: The weapon has the following traits -->
   <BladelinkEquipWarningTraits>この武器には以下の特性・特徴があります</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
@@ -75,7 +75,7 @@
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
   <PsylinkTooLowForGainAbility>{PAWN_labelShort}のサイリンクは{ABILITY}を使用できるレベルに達していません。\n\n本当にこの能力を獲得しますか？</PsylinkTooLowForGainAbility>
   <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
-  <SendShuttleWithNoContents>このシャトルには何も積載されていません。これを別の場所に送ると、再び使う事が出来なくなります。\n\n本当にシャトルを送りますか？</SendShuttleWithNoContents>
+  <SendShuttleWithNoContents>このシャトルには何も積載されていません。これを別の場所に送ると、再び使うことができなくなります。\n\n本当にシャトルを送りますか？</SendShuttleWithNoContents>
   <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
   <DropResourcesOverweightConfirm>この資源はキャラバン隊の積荷を圧迫し、動けなくしてしまうでしょう。\n\n本当にこの資源を要求しますか？</DropResourcesOverweightConfirm>
 

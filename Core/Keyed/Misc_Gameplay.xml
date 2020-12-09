@@ -55,7 +55,7 @@
   <!-- EN: Needs tending now -->
   <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>直ぐに看る事ができる</CanTendNow>
+  <CanTendNow>直ぐに看ることができる</CanTendNow>
   <!-- EN: Tending expires in {0} -->
   <TreatmentExpiresIn>治療効果切れまで{0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
@@ -401,7 +401,7 @@
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>警告:あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>警告：あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>囚人</PrisonerLower>
   <!-- EN: prisoners -->
@@ -763,7 +763,7 @@
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>徴兵されていない時に,近くに敵がいる時の,入植者の対応を変更します.</HostilityReponseTip>
+  <HostilityReponseTip>徴兵されていないときに,近くに敵がいるときの,入植者の対応を変更します.</HostilityReponseTip>
   <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>現在</HostilityResponseCurrentMode>
 
@@ -907,7 +907,7 @@
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
   <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することが出来ます.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することができます.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>新しい建物や建築物の周囲を自動的にコロニーゾーンに指定します.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
@@ -981,7 +981,7 @@
   <!-- EN: Must be placed on drillable resources. -->
   <MustPlaceOnDrillable>掘削可能な資源の上に配置してください.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>罠の近くには置く事ができません.</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>罠の近くには置くことができません.</CannotPlaceAdjacentTrap>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -997,7 +997,7 @@
   <!-- EN: Contains -->
   <CasketContains>収容者</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>【警告】 {PAWN_nameDef}は最後の入植者です.{PAWN_objective}冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう.本当に良いのですか？</CasketWarning>
+  <CasketWarning>【警告】\n\n{PAWN_nameDef}は最後の入植者です.{PAWN_objective}冬眠カプセルに入れさせるとゲームを続けることができなくなるでしょう.本当に良いですか？</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -1015,11 +1015,11 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事を警告しています.\n\nこのエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認して下さい.</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知されることを警告しています.\n\nこのエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認してください.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>反応炉の出力アップの準備を整えました.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知されます.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認して下さい.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>反応炉の出力アップの準備を整えました.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知されます.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認してください.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかる事を警告しています.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかることを警告しています.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えました.\n\nこのプロセスは約15日程かかるでしょう.</HibernateWarningStandalonePacifist>
 
@@ -1083,7 +1083,7 @@
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>あなたは宇宙船を発進させました!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>人工知能(AIコア)は 宇宙船を 安全な場所に 向けようとしています. それは, この星系の 繁栄した惑星を 見つける事かもしれませんし, 他の星系へ向けた 1世紀に渡る旅に 出発する事かもしれません.また, だれかが新しいグリッターワールドを 創り上げるまで, 数千年間も小惑星帯の氷床の下に 身を隠すことを 選択するかもしれません.\n\nそれは次にあなたが目が覚ました時に分かるでしょう.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>人工知能(AIコア)は 宇宙船を 安全な場所に 向けようとしています. それは, この星系の 繁栄した惑星を 見つけることかもしれませんし, 他の星系へ向けた 1世紀に渡る旅に 出発することかもしれません.また, だれかが新しいグリッターワールドを 創り上げるまで, 数千年間も小惑星帯の氷床の下に 身を隠すことを 選択するかもしれません.\n\nそれは次にあなたが目が覚ましたときに分かるでしょう.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
   <GameOverColonistsEscaped>脱出した入植者:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->

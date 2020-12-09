@@ -22,9 +22,9 @@
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
   <GameUpdatedToNewVersionSavesCompatible>旧バージョン用のセーブデータは 互換性をとっていますが, MODは動作しなくなる可能性があります.</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
-  <GameUpdatedToNewVersionNonSteam>この"RimWorld"は,DRM-free copyなので,２箇所の違うフォルダー別々にゲームをインストールすれば,旧バージョンと新バージョンの両方を遊ぶことができます.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionNonSteam>この"RimWorld"は,DRM-free copyなので,2箇所の違うフォルダー別々にゲームをインストールすれば,旧バージョンと新バージョンの両方を遊ぶことができます.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
-  <GameUpdatedToNewVersionSteam>旧バージョンで遊び続けたいなら,Steamの"Betas"機能を選択することができます.\n\n1.Sterm ライブラリー,RimWorldを右クリックする.\n2.プロパティをクリックする.\n3.ベータタブをクリックする.\n4.ドロップダウンメニューより,遊びたいバージョン番号を選択する.\n\nゆくゆくは,このリストから旧バージョンが削除されると思われます - 私たちは作業中のゲームを打ち切ることは望んでいません.\n\n【ノート】MOD製作者が,彼らのMODを新バージョンに対応させたら,おそらく旧バージョンでは動作しなくなるでしょう.これを防ぐために,自動アップデート機能をオフにしてください.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>旧バージョンで遊び続けたいなら,Steamの"Betas"機能を選択することができます.\n\n1.Sterm ライブラリー,RimWorldを右クリックする.\n2.プロパティをクリックする.\n3.ベータタブをクリックする.\n4.ドロップダウンメニューより,遊びたいバージョン番号を選択する.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -38,7 +38,7 @@
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
   <ErrorWhileLoadingAssets>ロード中にエラーが発生しました.エラーに関する詳細情報は,エラーログを見てください.</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>このゲームは,現在,カスタムMODと共に動作しています - この事が,この問題を引き起こしているかどうかはわかりません.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>このゲームは,現在,カスタムMODと共に動作しています - このことが,この問題を引き起こしているかどうかはわかりません.</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>エラー：地図を作成中</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
@@ -52,7 +52,7 @@
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
   <ModsChanged>MODリストが変更されました.ゲームは自動的に再起動します.</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>ゲーム再起動中に,何か不具合が発生しました.ゲームは,MODの無効化を完璧にはできませんでしたので,まだ,MODが有効になっています.\n\n一旦ゲームを終了させてから,起動してMODを一から読み込む事をお勧めします.</FailedToRestart>
+  <FailedToRestart>ゲーム再起動中に,何か不具合が発生しました.ゲームは,MODの無効化を完璧にはできませんでしたので,まだ,MODが有効になっています.\n\n一旦ゲームを終了させてから,起動してMODを一から読み込むことをお勧めします.</FailedToRestart>
   <!-- EN: Restarting -->
   <Restarting>再起動中</Restarting>
   
@@ -170,11 +170,11 @@
   <!-- EN: Version mismatch -->
   <VersionMismatch>バージョンの不一致</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>警告: このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>警告：このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性がありますので,新規にいちから世界を作る事を強く勧めます.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>警告：この世界は バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性がありますので,新規にいちから世界を作ることを強く勧めます.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>警告: このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>警告：このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>MOD 不一致</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
@@ -194,7 +194,7 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています.それは自殺行為に等しいです.不可能な事に挑みたいのでなければ,着陸地点を変更するか,日付を変更してください</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています.それは自殺行為に等しいです.不可能なことに挑みたいのでなければ,着陸地点を変更するか,日付を変更してください.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>このゲームはミディアムマップサイズで遊ぶように設計されています.この大きさは相当広いゲーム空間を提供します.\n\n大きなマップサイズは処理速度が低下するだけでなく - ゲームデザインの本質をも壊します.AIは,馬鹿な決断をしたり,様々な方面でゲームバランスに悪い結果をもたらします.このサイズは,テスト的な目的で,それを引き継いだ為に含まれているので,これらの状況を省みずには使用しないでください.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
@@ -469,7 +469,7 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です.\n\n攻撃した者が近いほど発生率は上がります.近距離からの場合は３倍となります.\n\nダメージを受ける度に判定し,低発射頻度,高火力の武器は,発生しにくくなります.\n\n逆襲の発生率を極小にするには,遠距離から低発射頻度の武器で攻撃します.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負ったときに逆襲する確率です.\n\n攻撃した者が近いほど発生率は上がります.近距離からの場合は３倍となります.\n\nダメージを受ける度に判定し,低発射頻度,高火力の武器は,発生しにくくなります.\n\n逆襲の発生率を極小にするには,遠距離から低発射頻度の武器で攻撃します.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -567,9 +567,9 @@
   <!-- EN: Negotiator: {0} (+{1}) -->
   <NegotiatorTradeDialogInfo>交渉人: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと話すことができません.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと聞く事が出来ません.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと聞くことができません.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
@@ -633,9 +633,9 @@
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>選択した出発地点({0})への道順がありません.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>適切な物流拠点を見つけられません.出発地点({0})への道順があるか確認して下さい.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>適切な物流拠点を見つけられません.出発地点({0})への道順があるか確認してください.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>警告: あるキャラバン隊員は出発地点({0})への道順がありません.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>警告：あるキャラバン隊員は出発地点({0})への道順がありません.</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
   <CaravanPawnIsUnreachable>他キャラバン隊員によって,{1_labelShort}には到達できません.</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
@@ -973,7 +973,7 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたの事を「この土地に割り込んできた部外者」とみなし,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたのことを「この土地に割り込んできた部外者」とみなし,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
@@ -1031,7 +1031,7 @@
   <!-- EN: {0_labelShort} is already inspired. -->
   <AbilityAlreadyInspired>{0_labelShort}は既に奮い立っています.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
-  <AbilityCantGetInspiredNow>{0_labelShort}は現在,奮い立つことが出来ません.</AbilityCantGetInspiredNow>
+  <AbilityCantGetInspiredNow>{0_labelShort}は現在,奮い立つことができません.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} is unconscious. -->
   <AbilityCantApplyUnconscious>{0_labelShort}は意識を失っています.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->

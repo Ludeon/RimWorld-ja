@@ -20,7 +20,7 @@
   <!-- EN: An unusual cold snap is freezing the region. -->
   <ColdSnap.description>この辺り一帯を寒波が襲います.</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
-  <ColdSnap.descriptionFuture>寒冷前線の通過と共に[map_definite]の辺りが[gameConditionDuration_duration]ほど温度が低くなり,農作物や適応する防備が無い人と動物に被害を及ぼすでしょう</ColdSnap.descriptionFuture>
+  <ColdSnap.descriptionFuture>寒冷前線の通過と共に[map_definite]の辺りが[gameConditionDuration_duration]ほど温度が低くなり,農作物や適応する防備を持たない人と動物に被害を及ぼすでしょう</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
   <ColdSnap.endMessage>寒波は過ぎ去った.</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->

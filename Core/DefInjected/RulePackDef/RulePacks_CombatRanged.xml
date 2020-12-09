@@ -142,7 +142,7 @@
     <!-- don't mention damage or destruction; uncommon, but intended as a fallback -->
     <li>r_logentry(p=0.2)->[INITIATOR_definite]は[RECIPIENT_definite]に[WEAPON_projectile_label]を当てた.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite]に当たった.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]は[ORIGINALTARGET_definite]には当てられず,[WEAPON_projectile_label]は[RECIPIENT_definite]に命中.</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]は[ORIGINALTARGET_definite]には当てられず,[WEAPON_projectile_label]は[RECIPIENT_definite]に命中した.</li>
     <li>r_logentry(p=0.4)->[INITIATOR_definite]の[WEAPON_projectile_label]は[ORIGINALTARGET_definite]に当たらず,[RECIPIENT_definite]に命中した.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite]は[ORIGINALTARGET_definite]に当てるつもりの[WEAPON_projectile_label]が[RECIPIENT_definite]に当たった.</li>
     <!-- fallback, also a little variety -->
@@ -434,7 +434,7 @@
     <li>missing->[ORIGINALTARGET_definite]から数メートルの所をかする</li>
     <li>missing->何処かへ飛んでいく</li>
     <li>avoidance(ORIGINALTARGET_mobile==True)->最後の数秒で脇へ身を引いた</li>
-    <li>avoidance(ORIGINALTARGET_mobile==True)->逃げようとしてる時につまづいた</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->逃げようとしてるときにつまづいた</li>
     <li>avoidance(ORIGINALTARGET_mobile==True)->身を投げ出した</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[COVER_definite]の陰に身を隠した</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[COVER_definite]の陰に飛び込んだ</li>

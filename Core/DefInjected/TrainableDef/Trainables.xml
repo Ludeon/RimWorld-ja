@@ -4,7 +4,7 @@
   <!-- EN: haul -->
   <Haul.label>運搬</Haul.label>
   <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
-  <Haul.description>家畜が,その時々に手当り次第にアイテムを運ぶようになります(特定のアイテムを指定して運ばさせることは出来ません).</Haul.description>
+  <Haul.description>家畜が,その時々に手当り次第にアイテムを運ぶようになります(特定のアイテムを指定して運ばさせることはできません).</Haul.description>
   
   <!-- EN: guard -->
   <Obedience.label>服従</Obedience.label>
@@ -14,7 +14,7 @@
   <!-- EN: attack -->
   <Release.label>リリース</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
-  <Release.description>家畜を,主人を守る代わりに,遠くにある目標を攻撃させるため,解き放つことが出来ます.</Release.description>
+  <Release.description>家畜を,主人を守る代わりに,遠くにある目標を攻撃させるため,解き放つことができます.</Release.description>
   
   <!-- EN: rescue -->
   <Rescue.label>救助</Rescue.label>

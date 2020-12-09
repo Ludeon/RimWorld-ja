@@ -40,7 +40,7 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>入植者を徴兵します.\n\n徴兵中の入植者は,戦闘と与えられた指示のみを実行します.\n\n別の作業や, 食事, 睡眠などを与えたい時は 徴兵終了を選択してください.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>入植者を徴兵します.\n\n徴兵中の入植者は,与えられた指示と戦闘を実行します.作業や食事,睡眠は行いません.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort}は歩くことができない.</IsIncapped>
 
@@ -87,7 +87,7 @@
   <!-- EN: Whether beds in this room should be used by prisoners. -->
   <CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて,囚人用に割り当てます.</CommandBedSetForPrisonersDesc>
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
-  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが,囚人用ベッドに割り当てる事が出来ます.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが,囚人用ベッドに割り当てることができます.</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
@@ -124,7 +124,7 @@
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします.コピーした設定を,別のゾーンにペーストすることが出来るようになります.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします.コピーした設定を,別のゾーンにペーストすることができるようになります.</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
@@ -156,7 +156,7 @@
   <!-- EN: Target below minimum range. -->
   <MessageTargetBelowMinimumRange>最小射程より近すぎます.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっている為 射撃できません.</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>警告："発砲禁止"になっている為 射撃できません.</MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
@@ -282,7 +282,7 @@
   <!-- EN: Form caravan -->
   <CommandFormCaravan>キャラバン隊を編成</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>入植者でグループを編成すると,新しいエリアへと旅に出る事ができます.入植者達は,指示された,補給物資を集めて,一緒に行動する家畜と共に,次の命令を待ちます.</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>入植者でグループを編成すると,新しいエリアへと旅に出ることができます.入植者達は,指示された,補給物資を集めて,一緒に行動する家畜と共に,次の命令を待ちます.</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
@@ -296,7 +296,7 @@
   <!-- EN: Split -->
   <CommandSplitCaravan>分割</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます.キャラバン隊は,お互いが近くにいれば,あとで一つにまとめることも出来ます.</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます.キャラバン隊は,お互いが近くにいれば,あとで一つにまとめることもできます.</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->

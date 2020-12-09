@@ -14,7 +14,7 @@
   <!-- EN: mechanoid shredding efficiency -->
   <ButcheryMechanoidEfficiency.label>メカノイド・寸断収率</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>メカノイドを寸断する時に得られる資源の収量です.\n\n実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>メカノイドを寸断するときに得られる資源の収量です.\n\n実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
   <ButcheryMechanoidSpeed.label>メカノイド・寸断速度</ButcheryMechanoidSpeed.label>
@@ -51,6 +51,6 @@
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>溶解・速度</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
-  <SmeltingSpeed.description>この人が溶解する時の速度です.\n\n溶解作業は雑用仕事なので,速度はいかなるスキルによっても影響を受けません.</SmeltingSpeed.description>
+  <SmeltingSpeed.description>この人が溶解するときの速度です.\n\n溶解作業は雑用仕事なので,速度はいかなるスキルによっても影響を受けません.</SmeltingSpeed.description>
   
 </LanguageData>

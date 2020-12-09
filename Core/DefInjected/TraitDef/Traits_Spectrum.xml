@@ -60,7 +60,7 @@
   <!-- EN: sanguine -->
   <NaturalMood.degreeDatas.sanguine.label>あっけらかん</NaturalMood.degreeDatas.sanguine.label>
   <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
-  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef]は,[PAWN_possessive]立場について,ほとんど意にかえすことは無い,生まれつき陽気な人です.</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef]は,[PAWN_possessive]立場について,ほとんど意にかえすことはない,生まれつき陽気な人です.</NaturalMood.degreeDatas.sanguine.description>
   <!-- EN: optimist -->
   <NaturalMood.degreeDatas.optimist.label>楽観主義者</NaturalMood.degreeDatas.optimist.label>
   <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
@@ -72,7 +72,7 @@
   <!-- EN: depressive -->
   <NaturalMood.degreeDatas.depressive.label>抑うつ病者</NaturalMood.degreeDatas.depressive.label>
   <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
-  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef]は絶え間なく不幸です.[PAWN_pronoun]は,全てがうまくいってる時でさえ,この良い気分が途絶える事の心配をしています.</NaturalMood.degreeDatas.depressive.description>
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef]は絶え間なく不幸です.[PAWN_pronoun]は,全てがうまくいってるときでさえ,この良い気分が途絶えることの心配をしています.</NaturalMood.degreeDatas.depressive.description>
   
   <!-- EN: iron-willed -->
   <Nerves.degreeDatas.ironwilled.label>鉄の意志</Nerves.degreeDatas.ironwilled.label>
@@ -120,7 +120,7 @@
   <!-- EN: careful shooter -->
   <ShootingAccuracy.degreeDatas.careful_shooter.label>慎重な射手</ShootingAccuracy.degreeDatas.careful_shooter.label>
   <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef]は,銃で狙いをつける時に,より時間をかけます.[PAWN_pronoun]は,他の者より発砲頻度は低いですが,狙いはより正確です.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef]は,銃で狙いをつけるときに,より時間をかけます.[PAWN_pronoun]は,他の者より発砲頻度は低いですが,狙いはより正確です.</ShootingAccuracy.degreeDatas.careful_shooter.description>
   <!-- EN: trigger-happy -->
   <ShootingAccuracy.degreeDatas.triggerhappy.label>トリガーハッピー</ShootingAccuracy.degreeDatas.triggerhappy.label>
   <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->

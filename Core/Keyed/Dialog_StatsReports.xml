@@ -145,11 +145,11 @@
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>採掘物</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>これを採掘した時に得られる鉱物です.</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>これを採掘したときに得られる鉱物です.</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
   <Stat_MiningYield_Name>採掘量</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>これを採掘した時に得られる鉱物の最大量です.実際に得られる量は,採掘者の採掘スキルによって変動します.</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>これを採掘したときに得られる鉱物の最大量です.実際に得られる量は,採掘者の採掘スキルによって変動します.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>原料</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -187,7 +187,7 @@
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
   <Stat_Thing_Plant_LifeSpan_Desc>この植物の寿命です.\n\n植物は,たとえ刈り取られなくとも,ある時期になると自然と枯れます.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>この植物を収穫した時に得られる収量です.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>この植物を収穫したときに得られる収量です.</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
   <Stat_Thing_Plant_MinGrowthTemperature_Desc>この植物の生存限界最低温度です.\n\nこの値より温度が下回りだすとダメージを受けます.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
@@ -197,9 +197,9 @@
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
   <Stat_Race_Diet_Desc>この生物が食料とする食物の種類です.\n\n食料: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>この生物を捌いた時に得られるレザーの種類です.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>この生物を捌いたときに得られるレザーの種類です.</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>この生物を手懐けようとして失敗した時に,逆に攻撃される可能性です.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>この生物を手懐けようとして失敗したときに,逆に攻撃される可能性です.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
   <Stat_Race_Trainability_Desc>この生物の一般的な調教への適性です.これは知性と記憶力の組み合わせを指しています.この生物が訓練で覚えられる仕事の種別が決まります.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
@@ -207,7 +207,7 @@
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>これを摂取することの娯楽的価値です.数値が高いほど,この娯楽の必要性が高まります.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>一般的なヒトと比較した時の,この生物の体格です.</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>一般的なヒトと比較したときの,この生物の体格です.</Stat_Race_BodySize_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>この武器を持ち替え始めてから,近接攻撃があたる迄にかかる時間です.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -217,13 +217,13 @@
   <!-- EN: The maximum range of this weapon. -->
   <Stat_Thing_Weapon_Range_Desc>この武器の最大射程です.</Stat_Thing_Weapon_Range_Desc>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
-  <Stat_Thing_Weapon_MissRadius_Desc>この武器を発射した時に着弾位置がばらつく範囲です.\n\n高い数値ほど着弾地点はターゲットの周りにばらつきます.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>この武器を発射したときに着弾位置がばらつく範囲です.\n\n高い数値ほど着弾地点はターゲットの周りにばらつきます.</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>邪魔されず,躱されず,止められ無い時の命中率です.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>邪魔されず,躱されず,止められないときの命中率です.</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
   <Stat_Thing_MoodChange_Desc>このボディパーツが所有者の心情に与える効果です.</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
-  <Stat_Recipe_Skill_Desc>このレシピを行う時にメインとして使うスキルです.\n\nこれは完成品の品質に影響を与え,レシピの実行中に経験値を得られます.</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Skill_Desc>このレシピを行うときにメインとして使うスキルです.\n\nこれは完成品の品質に影響を与え,レシピの実行中に経験値を得られます.</Stat_Recipe_Skill_Desc>
   <!-- EN: The ingredients required to perform this recipe. -->
   <Stat_Recipe_Ingredients_Desc>このレシピを行うために必要な材料です.</Stat_Recipe_Ingredients_Desc>
   <!-- EN: The skills required to perform this recipe. -->
@@ -305,7 +305,7 @@
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
   <Stat_Thing_ReloadPerCharge_Desc>{CHARGENOUN}を1回分再充填するために必要なアイテムの量です.{CHARGENOUN_plural}を複数回分,まとめて充填できます.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>使い切り時に消滅する</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>使い切りときに消滅する</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
   <Stat_Thing_ReloadDestroyOnEmpty_Desc>このアイテムは,最後の{CHARGENOUN}を使用すると消滅します.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->

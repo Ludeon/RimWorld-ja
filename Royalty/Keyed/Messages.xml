@@ -19,10 +19,10 @@
   <ShuttleCannotLand_Unwalkable>エリアは歩行可能な場所でなければなりません。</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Warning: Anima tree has been marked for cutting. -->
-  <MessageWarningCutAnimaTree>警告: アニマツリーが伐採対象に選択されています。</MessageWarningCutAnimaTree>
+  <MessageWarningCutAnimaTree>警告：アニマツリーが伐採対象に選択されています。</MessageWarningCutAnimaTree>
 
   <!-- EN: Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony. -->
-  <MessageBestowerWaiting>{TARGET_definite}を選択し、贈与者を右クリックする事で授与式を開始できます。</MessageBestowerWaiting>
+  <MessageBestowerWaiting>{TARGET_definite}を選択し、贈与者を右クリックすることで授与式を開始できます。</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>贈与者まで到達できません！</MessageBestowerUnreachable>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->

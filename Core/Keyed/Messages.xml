@@ -67,9 +67,9 @@
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort}は{GUN_label}に使う弾薬を見つけられません.</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
-  <MessageAnimalsGoPsychoHunted>【警告】: {ANIMAL_kindBasePlural}はライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>警告：{ANIMAL_kindBasePlural}はライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>【警告】: {ANIMAL_kindBasePlural}は手懐けるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>警告：{ANIMAL_kindBasePlural}は手懐けるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
@@ -97,7 +97,7 @@
   <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>植物を指定してください.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>運搬するアイテムを指定してください.いくつかのアイテムは常に運搬できるので,これらを指定することは出来ません.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>運搬するアイテムを指定してください.いくつかのアイテムは常に運搬できるので,これらを指定することはできません.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
   <MessageMustDesignateMineable>採掘できる岩石を指定してください.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
@@ -256,7 +256,7 @@
   <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊メンバーの一人が精神崩壊しました.</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>警告:惑星データの生成に非常に長い処理時間を要します.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>警告：惑星データの生成に非常に長い処理時間を要します.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
   <MessagePlantDiedOfCold>{0}は凍って枯れました.</MessagePlantDiedOfCold>
@@ -286,7 +286,7 @@
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>あなたの動物達は加わるために移動しています.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
-  <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功しました.</MessageSettledInExistingMap>
+  <MessageSettledInExistingMap>あなたは新しいエリアで定住することに成功しました.</MessageSettledInExistingMap>
   
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
   <MessagePermanentWoundHealed>{PAWN_labelShort}の{2}は 治療されました.原因：{0}</MessagePermanentWoundHealed>
@@ -391,7 +391,7 @@
   <MessageCantRemoveWaypointBecauseFirst>このウェイポイントは削除できません.</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>暴力行為を行える看守が一人もいません.処刑を行う事ができませんでした.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>暴力行為を行える看守が一人もいません.処刑を行うことができませんでした.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
   <MessageSiteCountdownBecauseNoMoreEnemies>あなたは全ての敵を倒しました.{0},キャラバン隊は自動的に編成されます.</MessageSiteCountdownBecauseNoMoreEnemies>
@@ -399,7 +399,7 @@
   <MessageSiteCountdownBecauseNoEnemiesInitially>{0} キャラバン隊は自動的に再編成されます.「World」画面で,ただちに再編成を行わせることもできます.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>{1_labelShort}は歩けないため,追放することは出来ません.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>{1_labelShort}は歩けないため,追放することはできません.</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0}は目を覚ました.</MessageSleepingPawnsWokenUp>
@@ -445,9 +445,9 @@
   <MessageMurderousRageChangedTarget>{PAWN_labelShort}は怒りの矛先を{TARGET_label}に向けることにしました.</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
-  <MessagePlantIncompatibleWithRoof>{0}は屋根の下では育つことは出来ません.</MessagePlantIncompatibleWithRoof>
+  <MessagePlantIncompatibleWithRoof>{0}は屋根の下では育つことはできません.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>{0}の上に屋根を張ることは出来ません.</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>{0}の上に屋根を張ることはできません.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
@@ -523,9 +523,9 @@
   <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが 感謝の欠片もありません.</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>キャラバン隊は既に身動きが取れないので,これ以上運ぶ事はできません.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>キャラバン隊は既に身動きが取れないので,これ以上運ぶことはできません.</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>キャラバン隊はこれ以上運ぶ事ができません. 贈り物の重量は{0}ですが,キャラバン隊は{1}までしか運ぶ事ができません.</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>キャラバン隊はこれ以上運ぶことができません. 贈り物の重量は{0}ですが,キャラバン隊は{1}までしか運ぶことができません.</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
   <MessageFormedCaravan>{0}は編成を終えて,ワールドマップを旅しています.</MessageFormedCaravan>
@@ -533,9 +533,9 @@
   <MessageFormedCaravan_Orders>目的</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
-  <MessageBillValidationStoreZoneDeleted>{1}の"{0}"は 削除された備蓄ゾーン{2}に 運ぶ事ができません.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneDeleted>{1}の"{0}"は 削除された備蓄ゾーン{2}に 運ぶことができません.</MessageBillValidationStoreZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
-  <MessageBillValidationStoreZoneUnavailable>{1}の"{0}"は 存在しない備蓄ゾーン{2}に 運ぶ事ができません.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationStoreZoneUnavailable>{1}の"{0}"は 存在しない備蓄ゾーン{2}に 運ぶことができません.</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
   <MessageBillValidationPawnUnavailable>{0}は{2}で"{1}"ができません. 制限ゾーンはもう削除されています.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
@@ -580,13 +580,13 @@
   <MessageTranslationFilesCleanupDone>完了.影響を受けたフォルダー: {0}</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>翻訳ファイルのひとつ({0})を読み込む事ができません.まずXMLパーサーのエラーを解決することが先決です.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>翻訳ファイルのひとつ({0})を読み込むことができません.まずXMLパーサーのエラーを解決することが先決です.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥である{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>警告：{PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥である{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
 
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
-  <MessageStrippingWillAngerFaction>【警告】: {PAWN_nameDef}の装備品を剥ぎ取ると,{PAWN_factionName}の怒りを買うでしょう.</MessageStrippingWillAngerFaction>
+  <MessageStrippingWillAngerFaction>警告：{PAWN_nameDef}の装備品を剥ぎ取ると,{PAWN_factionName}の怒りを買うでしょう.</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
   <MessageCantShootInMelee>格闘中は射撃できません.</MessageCantShootInMelee>
@@ -613,7 +613,7 @@
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
-  <MessageResearchMenuWithoutBench>警告: 研究卓を用意するまで研究は始まりません.</MessageResearchMenuWithoutBench>
+  <MessageResearchMenuWithoutBench>警告：研究卓を用意するまで研究は始まりません.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
   <MessageActivatorProximityTriggered>{0_indefinite}は近接信管に触れた.</MessageActivatorProximityTriggered>

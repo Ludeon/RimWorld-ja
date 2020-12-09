@@ -4,7 +4,7 @@
   <!-- EN: beauty -->
   <Beauty.label>美しさ</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>その物を見た時の美しさです.\n\n美しい物はキャラクターの美への欲求を満たします.</Beauty.description>
+  <Beauty.description>その物を見たときの美しさです.\n\n美しい物はキャラクターの美への欲求を満たします.</Beauty.description>
   
   <!-- EN: cleanliness -->
   <Cleanliness.label>清潔さ</Cleanliness.label>
@@ -19,7 +19,7 @@
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>アイテムが野外に放置された時の劣化しやすさ,一日のダメージ量です.\n\n劣化しやすさは,天候,屋根の有無,死の灰,浅瀬に放置などの影響も受けます.</DeteriorationRate.description>
+  <DeteriorationRate.description>アイテムが野外に放置されたときの劣化しやすさ,一日のダメージ量です.\n\n劣化しやすさは,天候,屋根の有無,死の灰,浅瀬に放置などの影響も受けます.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0}/日</DeteriorationRate.formatString>
   
@@ -54,7 +54,7 @@
   <!-- EN: max hit points -->
   <MaxHitPoints.label>最大HP</MaxHitPoints.label>
   <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
-  <MaxHitPoints.description>オブジェクトの最大HPです.\n\nこれは,破壊される前に受ける事の出来るダメージの量を表します.</MaxHitPoints.description>
+  <MaxHitPoints.description>オブジェクトの最大HPです.\n\nこれは,破壊される前に受けることのできるダメージの量を表します.</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
   <Nutrition.label>栄養</Nutrition.label>
