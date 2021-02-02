@@ -568,7 +568,7 @@
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
   <MessagePrisonerResistanceBroken>囚人{PRISONER_labelShort}の抵抗は{WARDEN_labelShort}によって打ち砕かれました.</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>勧誘を始めよう</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>勧誘の試みが始まります.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
   <MessageModWithPackageIdAlreadyEnabled>ほかのMOD package ID {0}が既に有効です. これを有効にする前に {1}を 無効化してください.</MessageModWithPackageIdAlreadyEnabled>
