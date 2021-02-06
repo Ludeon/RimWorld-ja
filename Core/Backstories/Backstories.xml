@@ -1719,6 +1719,15 @@
     <desc>[PAWN_nameDef]は,最新の科学を遠ざけ,「全ての病は,宗教芸術を通して魂の浄化によって治癒されるだろう」と信じている強大なカルト教の中で産まれました.\n\n外の世界を,初めて,ひと目見てからは,[PAWN_pronoun]は,脱会することに決めました.</desc>
   </CultChild3>
   
+  <CuriousChild33>
+    <!-- EN: curious child -->
+    <title>奇異な子供</title>
+    <!-- EN: curious -->
+    <titleShort>奇異な子</titleShort>
+    <!-- EN: [PAWN_nameDef] was more interested in the systems and patterns of the world rather than its inhabitants. [PAWN_possessive] social skills suffered.\n\n[PAWN_nameDef] came to understand that all things are part of the whole, and to destroy part would be to destroy all. -->
+    <desc>[PAWN_nameDef]は,人々のことよりも世界のシステムとパターンに強く興味を持っていました.そのため[PAWN_possessive]社会的スキルは被害を受けました.\n\n[PAWN_nameDef]は,全てのものが全体の一部であり,一部を破壊することは全てを破壊することであると理解するようになりました.</desc>
+  </CuriousChild33>
+  
   <DataDecoder39>
     <!-- EN: data decoder -->
     <title>データデコーダ</title>
@@ -3800,14 +3809,14 @@
     <desc>[PAWN_possessive]母星を脱出したあと,[PAWN_nameDef]は,傭兵の一団と偶然に出会いました.[PAWN_pronoun]は,何年も,まだ歩けない妹や弟たちに寄り添い戦ってきました.\n\nある日,[PAWN_pronoun]らは戦闘で負けて包囲されました.退却することを拒否し,[PAWN_nameDef]は敵に撃たれました.[PAWN_pronoun]は,不思議なことに無傷の死体の山の中で意識を取り戻し恐怖におののきました.</desc>
   </Mercenary55>
   
-  <MercenaryCaptain56>
+  <MercenaryCaptain98>
     <!-- EN: Mercenary captain -->
     <title>傭兵の隊長</title>
     <!-- EN: Captain -->
     <titleShort>隊長</titleShort>
-    <!-- EN: [PAWN_pronoun] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_nameDef] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
-    <desc>[PAWN_pronoun]は傭兵で構成された船の乗組員でした.鍛錬と自信に満ちた[PAWN_nameDef]はすぐに地位を上げ,友人を増やしました.\n\n傭兵の隊長だった頃,[PAWN_pronoun]は社交的で穏やかな人物として知られていました-おそらくジョイワイヤーのおかげでしょう.</desc>
-  </MercenaryCaptain56>
+    <!-- EN: [PAWN_nameDef] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_pronoun] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
+    <desc>[PAWN_nameDef]は傭兵で構成された船の乗組員でした.鍛錬と自信に満ちた[PAWN_pronoun]はすぐに地位を上げ,友人を増やしました.\n\n傭兵の隊長だった頃,[PAWN_pronoun]は社交的で穏やかな人物として知られていました-おそらくジョイワイヤーのおかげでしょう.</desc>
+  </MercenaryCaptain98>
   
   <MercenaryChef44>
     <!-- EN: mercenary chef -->
@@ -5054,8 +5063,17 @@
     <!-- EN: researcher -->
     <titleShort>学者</titleShort>
     <!-- EN: After leaving [PAWN_possessive] parents' vineyard, [PAWN_nameDef] traveled across much of known space, and learned many skills along the way.\n\n[PAWN_pronoun] spent most of [PAWN_possessive] time researching and interacting with reptile species. [PAWN_pronoun] was renowned for making several breakthroughs, and for discovering the "Thorny Devil". -->
-    <desc>両親のブドウ園を離れて,[PAWN_nameDef]は,たくさんの知られた世界を見て回り,その途中で多くのスキルを身に付けました.\n\n[PAWN_pronoun]は殆どの時間を,爬虫類の研究と交流に費やしていました.[PAWN_pronoun]は,数多くの新発見と,"モロクトカゲ"の発見で名声を得ました.</desc>
+    <desc>[PAWN_nameDef]は両親のブドウ園を離れ,たくさんの知られた世界を見て回り,その途中で多くのスキルを身に付けました.\n\n[PAWN_pronoun]は殆どの時間を,爬虫類の研究と交流に費やしていました.[PAWN_pronoun]は,数多くの新発見と,"モロクトカゲ"の発見で名声を得ました.</desc>
   </ReptileResearcher37>
+  
+  <Restorer70>
+    <!-- EN: restorer -->
+    <title>修復家</title>
+    <!-- EN: restorer -->
+    <titleShort>修復家</titleShort>
+    <!-- EN: [PAWN_nameDef] traveled the world, always looking for old and forgotten things to repair for the good of others, working to see the true beauty in all things. -->
+    <desc>[PAWN_nameDef]は世界中を旅し,古く忘れ去られた秀逸な物を修理するためにそれらを探し求め,全ての物に対して真の美しさを見るために働きました.</desc>
+  </Restorer70>
   
   <RichBoy9>
     <!-- EN: rich boy -->
@@ -5063,7 +5081,7 @@
     <!-- EN: rich boy -->
     <titleShort>裕福な子</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on a midworld with loving parents, a cute pet and a lot of money - but no friends.\n\n[PAWN_pronoun] was always told by [PAWN_possessive] father that 'those peasants just want your money'. So, [PAWN_pronoun] spent most of [PAWN_possessive] time alone, or fighting other kids. -->
-    <desc>[PAWN_nameDef]は,Midworldで親の愛と,可愛いペット,たくさんのお金に恵まれて育ちました - 友達は一人もいませんが.\n\n[PAWN_pronoun]は,[PAWN_possessive]父から,「貧乏人の奴らは,金だけが目当てだ」と,いつも言われていました.ですから,[PAWN_pronoun]は,ほとんどの時間,独りでいるか,他の子供とケンカして過ごしました.</desc>
+    <desc>[PAWN_nameDef]は,Midworldで親の愛と,可愛いペット,たくさんのお金に恵まれて育ちました——友達は一人もいませんでしたが.\n\n[PAWN_pronoun]は,[PAWN_possessive]父から,「貧乏人の奴らは,金だけが目当てだ」と,いつも言われていました.ですから,[PAWN_pronoun]は,ほとんどの時間,独りでいるか,他の子供とケンカして過ごしました.</desc>
   </RichBoy9>
   
   <RichKid61>
