@@ -91,6 +91,13 @@
     <li>ConceptAny->[ConceptPositive]</li>
     <li>ConceptAny->[ConceptBadass]</li>
     <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->性器</li>
+    <li>PersonalCharacteristic(p=0.15)->陰毛</li>
+    <li>PersonalCharacteristic(p=0.15)->体毛</li>
+    <li>PersonalCharacteristic(p=0.15)->トイレの習慣</li>
+    <li>PersonalCharacteristic(p=0.15)->性的能力</li>
+    <li>PersonalCharacteristic(p=0.15)->性的嗜好</li>
+    <li>PersonalCharacteristic(p=0.15)->性的経験</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:
@@ -146,11 +153,11 @@
     <li>TalkTopicLight->[Game]</li>
     <li>TalkTopicLight->[Game]をすること</li>
     <li>TalkTopicLight->[Game]の練習</li>
-    <li>TalkTopicLight->[Game]を学習</li>
+    <li>TalkTopicLight->[Game]の学習法</li>
     <li>TalkTopicLight->[Animal]</li>
     <li>TalkTopicLight->[Animal]の調教</li>
     <li>TalkTopicLight->[Animal]を手懐けること</li>
-    <li>TalkTopicLight->戦う[Animal]の戦い</li>
+    <li>TalkTopicLight->戦う[Animal]</li>
     <li>TalkTopicLight->気が狂った[Animal]</li>
     <li>TalkTopicLight->[Weapon]</li>
     <li>TalkTopicLight->[Weapon]の使用法</li>
@@ -164,8 +171,12 @@
     <li>TalkTopicLight->[Enemy]</li>
     <li>TalkTopicLight->[Enemy]の戦い</li>
     <li>TalkTopicLight->[Apparel]</li>
-    <li>TalkTopicLight->[Apparel]を着用</li>
+    <li>TalkTopicLight->[Apparel]の着用</li>
     <li>TalkTopicLight->[Apparel]の製作</li>
+    <li>talktopicheavyfile(p=0.15)->性</li>
+    <li>talktopicheavyfile(p=0.15)->誘惑</li>
+    <li>talktopicheavyfile(p=0.15)->動物の性的欲求</li>
+    <li>talktopicheavyfile(p=0.15)->性的なフェチ</li>
   </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>
