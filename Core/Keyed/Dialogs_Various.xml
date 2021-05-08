@@ -959,13 +959,13 @@
   <!-- EN: Do you really want to banish {1_label}? -->
   <ConfirmBanishPawnDialog>本当に{1_label}を追放しますか?</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は十中八九死ぬでしょう.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{1_labelShort}は次のアイテムを持っていきます{1_objective}:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort}は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると,以下の人々に,つぎの感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると,以下の人々に,次の感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->

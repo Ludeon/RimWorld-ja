@@ -4,27 +4,27 @@
   <!-- EN: drill arm -->
   <DrillArm.label>ドリルアーム</DrillArm.label>
   <!-- EN: A mechanical arm replacement for speeding up mining. It has a built-in snake drill, which allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <DrillArm.description>採掘速度を向上させるための付け替え義手。組み込まれたスネークドリルが石目を素早く発見して、効率的に採掘できます。また、汎用のマニュピレータも備えられています。やや不格好な形状をしているため、移動速度が少しだけ遅くなってしまいます。</DrillArm.description>
+  <DrillArm.description>採掘速度を向上させるための付け替え義手です。組み込まれたスネークドリルが石目を素早く発見して、効率的に採掘できます。また、汎用のマニュピレータも備えられています。やや不格好な形状をしているため、移動速度が少しだけ遅くなってしまいます。</DrillArm.description>
   
   <!-- EN: elbow blade -->
   <ElbowBlade.label>エルボーブレード</ElbowBlade.label>
   <!-- EN: A razor-sharp blade that extends at will from a hidden opening at the end of the ulna. Appearing without warning, it can be used for devastating slice attacks. -->
-  <ElbowBlade.description>尺骨の端に隠された開口部から自在に伸ばせる鋭い刃。警告なく飛び出して、致命の一撃を加えられます。</ElbowBlade.description>
+  <ElbowBlade.description>尺骨の端に隠された開口部から自在に伸ばせる鋭い刃です。警告なく飛び出して、致命の一撃を加えられます。</ElbowBlade.description>
   
   <!-- EN: field hand -->
   <FieldHand.label>フィールドハンド</FieldHand.label>
   <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <FieldHand.description>種まきや収穫といった農作業の速度を上げるための付替え義手。複数の伸縮自在な指状突起が、同種の植物の一斉収穫や、複数の穴への一括種まきを可能とします。また、汎用のマニュピレータも備えられています。やや不格好な形状をしているため、移動速度が少しだけ遅くなってしまいます。</FieldHand.description>
+  <FieldHand.description>種まきや収穫といった農作業の速度を上げるための付替え義手です。複数の伸縮自在な指状突起が、同種の植物の一斉収穫や、複数の穴への一括種まきを可能とします。また、汎用のマニュピレータも備えられています。やや不格好な形状をしているため、移動速度が少しだけ遅くなってしまいます。</FieldHand.description>
   
   <!-- EN: hand talon -->
   <HandTalon.label>隠し鉤爪</HandTalon.label>
   <!-- EN: A razor-sharp talon which extends from a hidden opening between the middle and ring fingers. The talon is longer than the palm, but it becomes flexible upon retracting, allowing the user to curl it up and conceal it inside the hand. It can perform rapid slashing attacks, but is poor at penetrating armor. -->
-  <HandTalon.description>中指と薬指の間に隠された開口部から飛び出す爪。爪自体は手のひらよりも長いが、収納すると柔軟になるため、装着者は掌中に隠すことができます。高速斬撃を使用できますが装甲には効果が薄いです。</HandTalon.description>
+  <HandTalon.description>中指と薬指の間に隠された開口部から飛び出す爪です。爪自体は手のひらよりも長いが、収納すると柔軟になるため、装着者は掌中に隠すことができます。高速斬撃を使用できますが装甲には効果が薄いです。</HandTalon.description>
   
   <!-- EN: knee spike -->
   <KneeSpike.label>ニースパイク</KneeSpike.label>
   <!-- EN: A spike that extends at will from a hidden opening on the front of the knee. Appearing without warning, it can be used for devastating stabbing attacks which penetrate even thick armor. -->
-  <KneeSpike.description>膝の前面の隠された開口部から自在に伸ばせるスパイク。警告なく飛び出して、厚い装甲も貫く致命の一撃を加えられます。</KneeSpike.description>
+  <KneeSpike.description>膝の前面の隠された開口部から自在に伸ばせるスパイクです。警告なく飛び出して、厚い装甲も貫く致命の一撃を加えられます。</KneeSpike.description>
   
   <!-- EN: mindscrew -->
   <Mindscrew.label>マインドスクリュー</Mindscrew.label>
@@ -34,11 +34,11 @@
   <!-- EN: venom fangs -->
   <VenomFangs.label>毒牙</VenomFangs.label>
   <!-- EN: A pair of injectors implanted through the canine teeth, connected to a venom pump. The user can bite an enemy, extend the injectors, and pump venom into the target. -->
-  <VenomFangs.description>犬の牙に埋め込まれた毒物ポンプ付きの注射器。敵を噛むことによって注射器を差し込み、毒物を送り込むことができます。</VenomFangs.description>
+  <VenomFangs.description>犬歯に埋め込まれた毒物ポンプ付きの一対の注射器です。敵を噛むことによって注射器を差し込み、毒物を送り込むことができます。</VenomFangs.description>
   
   <!-- EN: venom talon -->
   <VenomTalon.label>毒爪</VenomTalon.label>
   <!-- EN: A retractable finger talon connected to a venom pump in the lower arm. The user can scratch an enemy while squirting venom into the wound. The talon is designed to be installed in the middle finger. It's fast, but poor at penetrating armor. -->
-  <VenomTalon.description>下腕に埋め込まれた毒物ポンプと接続された格納式鉤爪。敵をひっかくことで傷口に毒液を塗りつけることができる。爪は中指に取り付けるように設計されています。高速ですが装甲には効果が薄いです。</VenomTalon.description>
+  <VenomTalon.description>下腕に埋め込まれた毒物ポンプと接続された格納式鉤爪です。敵をひっかくことで傷口に毒液を塗りつけることができます。爪は中指に取り付けるように設計されています。高速ですが装甲には効果が薄いです。</VenomTalon.description>
   
 </LanguageData>

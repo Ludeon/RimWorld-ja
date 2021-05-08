@@ -37,7 +37,7 @@
     <li>hidingFrom(gameCondition==PsychicDrone)->[joiner_pronoun]に侮辱された復讐にかられる機械知性体</li>
     <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun]が加入すると、機械知性はこの[map_definite]に向けて[psychicDroneLevel]レベルのサイコドローンを[gameConditionDuration_duration]の期間放ち、全ての[psychicDroneGender]の心情を低下させます。</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->[joiner_pronoun]に起動された敵対的な機械知性体</li>
-    <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]が加入すると、機械知性はこの[map_definite]に向けてサイコサプレッションフィールドを[gameConditionDuration_duration]の期間展開させ、全ての[psychicSuppressorGender]の心情を低下させます。</li>
+    <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]が加入すると、機械知性はこの[map_definite]に向けてサイコサプレッションフィールドを[gameConditionDuration_duration]の期間展開させ、全ての[psychicSuppressorGender]の意識を減少させます。</li>
   </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
