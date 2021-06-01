@@ -21,7 +21,7 @@
     <li>condDesc(gameCondition==PsychicSuppression)->If [joiner_pronoun] joins you, the persona will hit [map_definite] with psychic suppression waves for [gameConditionDuration_duration], reducing consciousness of all [psychicSuppressorGender]s.</li>
   -->
   <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameFull]という人物が助けを求めています！ [joiner_pronoun]は[hidingFrom]から身を隠しています。[joiner_pronoun]は亡命してあなたの[map_definite]に加わりたいようです。[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef]は、今は隠れるのに必死で、自分自身について詳しく説明している余裕がないと主張しています。</li>
+    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameFull]という人物が 助けを求めています！ [joiner_pronoun]は[hidingFrom]から身を隠しています。[joiner_pronoun]は亡命してあなたの[map_definite]に加わりたいようです。[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef]は、今は隠れるのに必死で、自分自身について詳しく説明している余裕がないと主張しています。</li>
     <li>hidingFrom(gameCondition==ToxicFallout)->餓狼の集団</li>
     <li>condDesc(gameCondition==ToxicFallout)->ただし[joiner_nameDef]は狼を撃退する最後の手段として付近のゴミ捨て場に火を放って毒物を拡散させるつもりです。[gameConditionDuration_duration]の期間、毒物の降下が続きます。</li>
     <li>hidingFrom(gameCondition==VolcanicWinter)->人食い集団</li>

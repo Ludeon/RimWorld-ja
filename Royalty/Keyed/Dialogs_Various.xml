@@ -65,11 +65,11 @@
 
   <!-- Warning -->
   <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
-  <QuestGivesRoyalFavor>このクエストによって{FACTION_royalFavorLabel}を報酬として受け、{PAWN_labelShort}の爵位を与えられることになります。</QuestGivesRoyalFavor>
+  <QuestGivesRoyalFavor>このクエストでは、{FACTION_royalFavorLabel}を報酬として受け取るため、{PAWN_labelShort}の爵位に報酬を与えることになります。</QuestGivesRoyalFavor>
   <!-- EN: {PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept. -->
   <RoyalIncapableOfSocial>{PAWN_labelShort}は社交タスクを実行できません。爵位を持つ人は社交スキルを特に必要とするため、{PAWN_labelShort}が爵位を受けると、{PAWN_pronoun}は様々な困難に直面する可能性があります。別の入植者の方がより社交技術に長けているかもしれません。</RoyalIncapableOfSocial>
   <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
-  <RoyalWithConceitedTrait>{PAWN_labelShort}は{2}であるので、{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求しています。{PAWN_labelShort}は特定の種類の仕事を拒否し、低品質な食品は受け付けず、法令を発布します。別の入植者のほうがより柔軟でしょう。</RoyalWithConceitedTrait>
+  <RoyalWithConceitedTrait>{PAWN_labelShort}は{2}の特性を持つため、{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求するでしょう。{PAWN_labelShort}は特定の種類の仕事を拒否し、下級の食事を受け付けず、時には布告を発することもあるでしょう。別の入植者のほうがもっと柔軟かもしれません。</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
   <RoyalWithTraitAffectingPsylinkNegatively>{PAWN_labelShort}は{2}なので、{PAWN_possessive}サイリンクが機能しないかもしれません。</RoyalWithTraitAffectingPsylinkNegatively>
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->

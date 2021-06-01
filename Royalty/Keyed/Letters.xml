@@ -18,7 +18,7 @@
   <LetterRoyalTitleExpectation>{PAWN_possessive}期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、貧相な食べ物を退け、時に布告を発するでしょう。</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}の特性を持つため、{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求するでしょう。{PAWN_pronoun}は特定の種類の仕事を拒否し、下級の食事を受け付けず、時には布告を発することもあるでしょう。</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort}が{FACTION_name}から{TITLE}の爵位を授かりました！</LetterGainedRoyalTitle>

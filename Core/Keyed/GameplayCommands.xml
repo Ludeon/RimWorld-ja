@@ -360,9 +360,9 @@
   <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>この派閥と商売する.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人が居ません.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人がいません.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>要求された派閥の許可証をひとりも持っていません: {0}</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>派閥と交渉する許可を持つ者がひとりもいません: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->

@@ -294,9 +294,9 @@
     <li>damaged_present->サッと斬る</li>
     <li>damaged_present->切る</li>
     <li>damaged_present->薄く切る</li>
-    <li>damaged_present(deflected!=True)->->深く切る</li>
-    <li>damaged_present(deflected!=True)->->引っ掻く</li>
-    <li>damaged_present(deflected!=True)->->引き裂く</li>
+    <li>damaged_present(deflected!=True)->深く切る</li>
+    <li>damaged_present(deflected!=True)->引っ掻く</li>
+    <li>damaged_present(deflected!=True)->引き裂く</li>
     <li>woundname->傷口</li>
     <li>woundname(p=0.3)->裂け目</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織を露わにさせた</li>

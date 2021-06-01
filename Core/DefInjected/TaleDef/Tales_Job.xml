@@ -453,9 +453,9 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat.</li>
   -->
   <PlayedGame.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef][OBJECT_label]でくつろぐ</li>
-    <li>tale_noun->[PAWN_nameDef][OBJECT_label]を使って遊ぶ</li>
-    <li>tale_noun->[PAWN_nameDef][OBJECT_label]で楽しむ</li>
+    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]でくつろぐ</li>
+    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]を使って遊ぶ</li>
+    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]で楽しむ</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],椅子に座って待つ</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[OBJECT_label]の上でバランスをとる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[OBJECT_label]の前に座る</li>
