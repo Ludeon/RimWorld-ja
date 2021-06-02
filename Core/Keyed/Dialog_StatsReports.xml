@@ -351,8 +351,4 @@
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
   <Stat_Thing_Drug_AddictionCost_Desc>離脱症状を発生させずに依存症を維持させる場合の,1日あたりに摂取しなければならないドラッグ量の市場価値です.\n\nこの値は,依存欲求の回復量,依存欲求の減少速度,およびこのドラッグの市場価値から計算されています.\n\nこれとは異なるコストで,同じ化学成分を入手する手段があるかもしれないことに注意してください.</Stat_Thing_Drug_AddictionCost_Desc>
 
-  <!-- UNUSED -->
-  <Stat_Thing_Weapon_Biocoded_Name>バイオコーディング</Stat_Thing_Weapon_Biocoded_Name>
-  <Stat_Thing_Weapon_Biocoded_Desc>特定の人物だけしか扱えないように,このアイテムに固有の生体波紋を符号化して記録した.</Stat_Thing_Weapon_Biocoded_Desc>
-
 </LanguageData>

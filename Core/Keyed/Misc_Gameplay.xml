@@ -1345,11 +1345,4 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>原因: {0}</CausedByHediff>
   
-  <!-- UNUSED -->
-  <ForceExitAndRemoveMapCountdown>出発まであと{0}</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
-  <CannotResearchNoBench>研究できない: 研究卓が無い</CannotResearchNoBench>
-  <Complete>完了</Complete>
-  <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
-
 </LanguageData>
