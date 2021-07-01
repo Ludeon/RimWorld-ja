@@ -28,9 +28,9 @@
   <MeleeWeapon_CooldownMultiplier.formatString>{0} 秒</MeleeWeapon_CooldownMultiplier.formatString>
   
   <!-- EN: melee damage multiplier -->
-  <MeleeWeapon_DamageMultiplier.label>近接武器でのダメージ倍率です.</MeleeWeapon_DamageMultiplier.label>
+  <MeleeWeapon_DamageMultiplier.label>近接武器倍率</MeleeWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to melee combat. -->
-  <MeleeWeapon_DamageMultiplier.description>ダメージ倍率は近接戦闘時に適用されます.</MeleeWeapon_DamageMultiplier.description>
+  <MeleeWeapon_DamageMultiplier.description>このダメージ倍率は近接戦闘時に適用されます.</MeleeWeapon_DamageMultiplier.description>
   
   <!-- EN: sharp damage -->
   <SharpDamageMultiplier.label>近接武器(突,斬)倍率</SharpDamageMultiplier.label>

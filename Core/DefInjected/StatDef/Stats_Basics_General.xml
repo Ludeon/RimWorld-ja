@@ -42,7 +42,7 @@
   <MarketValue.formatString>{0}</MarketValue.formatString>
   
   <!-- EN: market value ignoring hitpoints -->
-  <MarketValueIgnoreHp.label>ヒットポイントを無視した市場価値です</MarketValueIgnoreHp.label>
+  <MarketValueIgnoreHp.label>HPを無視した市場価値</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
   <Mass.label>重量</Mass.label>
@@ -72,11 +72,11 @@
   <SellPriceFactor.description>売ろうするアイテムの,売り値に掛けられる倍率です.</SellPriceFactor.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyTurret.label>精密射撃</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.label>命中率(射撃)</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyTurret.description>射撃距離毎の命中率です.\n\n命中率は様々な要因でも変化します.命中率に関しての説明は,射手を選んだ後に,目標をマウスオーバーすると確認することができます.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.description>射撃距離毎の基本命中率です.\n\n命中率は様々な要因で変化します.射撃毎の命中率に関する説明は,射手を選択した後に,ターゲットをマウスオーバーすることで見ることができます.</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
-  <ShootingAccuracyTurret.labelForFullStatList>命中率(タレット)</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.labelForFullStatList>射撃命中率(タレット)</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
   <WorkToMake.label>工数</WorkToMake.label>

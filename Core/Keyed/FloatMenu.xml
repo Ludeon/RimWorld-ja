@@ -206,22 +206,22 @@
   <MinSkill>最小スキル</MinSkill>
   
   <!-- EN: Equip {0} -->
-  <Equip>{0}を装備する</Equip>
+  <Equip>{0}を 装備する</Equip>
   <!-- EN: (brawler will be unhappy) -->
   <EquipWarningBrawler>(格闘家は不機嫌になります)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
-  <CannotEquip>{0}を装備できない</CannotEquip>
+  <CannotEquip>{0}を 装備できない</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
   <CannotManThing>{1_labelShort}を配置できない</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
-  <ForceWear>{1_labelShort}に着替えさせる</ForceWear>
+  <ForceWear>{1_labelShort}に 着替えさせる</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
-  <CannotWear>{1_label}を着用できない</CannotWear>
+  <CannotWear>{1_label}を 着用できない</CannotWear>
   <!-- EN: Force equip {1_labelShort} -->
-  <ForceEquipApparel>{1_labelShort}を装備させる</ForceEquipApparel>
+  <ForceEquipApparel>{1_labelShort}を 装備させる</ForceEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
-  <CannotEquipApparel>{1_label}を装備できない</CannotEquipApparel>
+  <CannotEquipApparel>{1_label}を 装備できない</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
   
