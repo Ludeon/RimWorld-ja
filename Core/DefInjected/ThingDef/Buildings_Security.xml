@@ -3,8 +3,8 @@
   
   <!-- EN: barricade -->
   <Barricade.label>バリケード</Barricade.label>
-  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
-  <Barricade.description>銃弾から身を守る腰までの高さの防壁です.バリケードは見た目は悪いですが,他の背の低い物よりも良い遮蔽物になります.</Barricade.description>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
+  <Barricade.description>銃弾から身を守る腰までの高さの防壁です.バリケードは見た目は悪いですが,他の背の低い物よりも良い遮蔽物になります.バリケードはフェンスと同じように,特定の種類の家畜の移動を防ぎます.</Barricade.description>
   
   <!-- EN: sandbags -->
   <Sandbags.label>土のう</Sandbags.label>

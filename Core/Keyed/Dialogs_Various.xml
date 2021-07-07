@@ -370,6 +370,8 @@
   <LeatherType>皮革種別</LeatherType>
   <!-- EN: Body size -->
   <BodySize>体格</BodySize>
+  <!-- EN: Growth -->
+  <Growth>TODO</Growth>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>説得の難易度</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -394,12 +396,10 @@
   <WildnessExplanation>野性に近い動物は,手懐けたり,調教するのが,より難しくなります.</WildnessExplanation>
   <!-- EN: Training decay interval -->
   <TrainingDecayInterval>調教値減衰間隔</TrainingDecayInterval>
-  <!-- EN: Tameness will never decay. -->
-  <TamenessWillNotDecay>一度懐くと忘れません</TamenessWillNotDecay>
-  <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
-  <!-- EN: Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>動物は,作られた床の上を歩き回ると,床を汚してしまいます.この動物が床を汚す平均の量は {0}セルです.\n\n大きくて,ペットには向かない動物は,より汚すようになります.</AnimalFilthRateExplanation>
+  <!-- EN: Tameness will never decay for animals of very low wildness. -->
+  <TamenessWillNotDecay>野生値が非常に低い家畜は,一度懐くと忘れません.</TamenessWillNotDecay>
+  <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
+  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>時間</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -444,6 +444,8 @@
   <NeverSafe>なし</NeverSafe>
   <!-- EN: {0} / day -->
   <PerDay>{0}/日</PerDay>
+  <!-- EN: {0} / hour -->
+  <PerHour>{0}/時</PerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>駄載獣</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -468,8 +470,8 @@
   <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる平均頻度です.\n\n「擦り寄り」は多くの動物種に見られる振る舞いで,愛情表現として親しい者に,鼻や口元を押し付けます.大抵の人間は,この可愛いい仕草に微笑み,しばらくこのままでいたいと思っています.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負ったときに逆襲する確率です.\n\n攻撃した者が近いほど発生率は上がります.近距離からの場合は３倍となります.\n\nダメージを受ける度に判定し,低発射頻度,高火力の武器は,発生しにくくなります.\n\n逆襲の発生率を極小にするには,遠距離から低発射頻度の武器で攻撃します.</HarmedRevengeChanceExplanation>
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <HarmedRevengeChanceExplanation>この生物が危害を加えられたときに反撃する可能性です.\n\n攻撃者が近くにいる場合,この確率は最大で3倍にまで増加します.\n\nこの確率は,ダメージを受けるたびに判定を行います.これはつまり,発砲頻度が低く,火力の高い武器がより反撃を受けにくいことを意味します.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -592,6 +594,16 @@
   <YourNegotiatorBonus>交渉ボーナス</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>派閥ボーナス</TradeWithFactionBaseBonus>
+  <!-- EN: Joins as slave -->
+  <JoinsAsSlave>TODO</JoinsAsSlave>
+  <!-- EN: Joins as colonist -->
+  <JoinsAsColonist>TODO</JoinsAsColonist>
+  <!-- EN: If purchased, this person will join your colony as a slave. -->
+  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
+  <!-- EN: If purchased, this person will join your colony as a colonist. -->
+  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
+  <!-- EN: Trading drugs bonus -->
+  <TradingDrugsBonus>TODO</TradingDrugsBonus>
   <!-- EN: minimum -->
   <minimum>最小値</minimum>
   <!-- EN: Final price -->
@@ -627,7 +639,7 @@
   <!-- EN: Items -->
   <ItemsTab>物資</ItemsTab>
   <!-- EN: Travel supplies -->
-  <FoodAndMedicineTab>移動用品</FoodAndMedicineTab>
+  <TravelSupplies>TODO</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者を割り当てなければなりません.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -636,8 +648,8 @@
   <CaravanCouldNotFindPackingSpot>適切な物流拠点を見つけられません.出発地点({0})への道順があるか確認してください.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>警告：あるキャラバン隊員は出発地点({0})への道順がありません.</CaravanCouldNotFindReachableExitSpot>
-  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>他キャラバン隊員によって,{1_labelShort}には到達できません.</CaravanPawnIsUnreachable>
+  <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
+  <CaravanRoamerCannotReachSpots>{1_labelShort}を物流拠点,または出発地点に率いることのできるキャラバン隊員が一人もいません.</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>{0}に到達できるキャラバン隊員が,一人もいません.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -728,8 +740,12 @@
   <CaravanMovementSpeed>移動速度</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
   <TilesPerDay>タイル/日</TilesPerDay>
-  <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>移動速度は,全員(家畜)の平均速度,積載重量,地形の移動しやすさによって決まります.</CaravanMovementSpeedTip>
+  <!-- EN: None - too heavy -->
+  <TilesPerDayImmobile>TODO</TilesPerDayImmobile>
+  <!-- EN: None -->
+  <TilesPerDayImmobileShort>TODO</TilesPerDayImmobileShort>
+  <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>移動速度は,積載重量,荷物を載せる家畜,地形の移動しやすさによって決まります.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
   <AnimalsWillBeAbleToGraze>家畜の放牧が可能か？</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
@@ -753,7 +769,7 @@
   <!-- EN: Total body size -->
   <TotalBodySize>体格の合計</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectFoodAndMedicine>移動用品を自動的に選択する</AutomaticallySelectFoodAndMedicine>
+  <AutomaticallySelectTravelSupplies>移動用品を自動的に選択する</AutomaticallySelectTravelSupplies>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -844,14 +860,6 @@
   <DrugPolicyInUse>適用方針は {0}に適用中です.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>食事制限は {0}に適用中です.</FoodRestrictionInUse>
-  <!-- EN: Social drugs -->
-  <SocialDrugs>たしなみ程度</SocialDrugs>
-  <!-- EN: No drugs -->
-  <NoDrugs>ドラッグ不使用</NoDrugs>
-  <!-- EN: One drink per day -->
-  <OneDrinkPerDay>１本/日</OneDrinkPerDay>
-  <!-- EN: Unrestricted -->
-  <Unrestricted>無制限</Unrestricted>
   <!-- EN: No drug policy selected -->
   <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
@@ -1018,10 +1026,16 @@
   <AbilityCantApplyToMentallyBroken>{0_labelShort}は精神崩壊しています.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
   <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort}は精神崩壊していません.</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not maddened. -->
+  <AbilityCanOnlyApplyToManhunter>TODO</AbilityCanOnlyApplyToManhunter>
+  <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
+  <AbilityCantApplyToScaria>TODO</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
   <AbilityDoesntWorkOnMentalState>{0}は'{1}'の精神状態では機能しません.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
   <AbilityCantApplyNoResistance>{0_labelShort}の抵抗値は0です.</AbilityCantApplyNoResistance>
+  <!-- EN: {0_labelShort} is downed. -->
+  <AbilityCantApplyDowned>TODO</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>使用できない: {0}には性別がありません.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
@@ -1032,6 +1046,22 @@
   <AbilityAlreadyInspired>{0_labelShort}は既に奮い立っています.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
   <AbilityCantGetInspiredNow>{0_labelShort}は現在,奮い立つことができません.</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
+  <AbilityMustBeNotSameIdeo>TODO</AbilityMustBeNotSameIdeo>
+  <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
+  <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
+  <!-- EN: {0_labelShort} must be sick or injured. -->
+  <AbilityMustBeSickOrInjured>TODO</AbilityMustBeSickOrInjured>
+  <!-- EN: {0} can only counsel {1}s. -->
+  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <!-- EN: {0_labelShort} is already considered guilty. -->
+  <AbilityMustBeNotGuilty>TODO</AbilityMustBeNotGuilty>
+  <!-- EN: Must target a human. -->
+  <AbilityMustBeHuman>TODO</AbilityMustBeHuman>
+  <!-- EN: Must target a non-wild human. -->
+  <AbilityMustBeHumanNonWild>TODO</AbilityMustBeHumanNonWild>
+  <!-- EN: Must target an animal. -->
+  <AbilityMustBeAnimal>TODO</AbilityMustBeAnimal>
   <!-- EN: {0_labelShort} is unconscious. -->
   <AbilityCantApplyUnconscious>{0_labelShort}は意識を失っています.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
@@ -1059,5 +1089,57 @@
   <MentalBreakIntensityMajor>重度</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
   <MentalBreakIntensityExtreme>極度</MentalBreakIntensityExtreme>
-  
+
+  <!-- Auto slaughter -->
+  <!-- EN: Animal -->
+  <AutoSlaugtherHeaderColLabel>TODO</AutoSlaugtherHeaderColLabel>
+  <!-- EN: Current -->
+  <AutoSlaugtherHeaderColCurrent>TODO</AutoSlaugtherHeaderColCurrent>
+  <!-- EN: Max -->
+  <AutoSlaugtherHeaderColMax>TODO</AutoSlaugtherHeaderColMax>
+  <!-- EN: Total -->
+  <AutoSlaugtherHeaderColTotal>TODO</AutoSlaugtherHeaderColTotal>
+  <!-- EN: Other -->
+  <AutoSlaugtherHeaderColOther>TODO</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
+  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
+
+  <!-- EN: The animal to be automatically slaughtered. -->
+  <AutoSlaugtherHeaderTooltipLabel>TODO</AutoSlaugtherHeaderTooltipLabel>
+  <!-- EN: The current number of animals in the colony, both male and female.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
+  <!-- EN: The current number of males in the colony.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
+  <!-- EN: The maximum number of males in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
+  <!-- EN: The current number of females in the colony.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <!-- EN: Desired maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
+  <!-- EN: The current number of pregnant or immature animals in the colony.\n\nThese animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipOther>TODO</AutoSlaugtherHeaderTooltipOther>
+
+  <!-- EN: Click to set an animal count limit. -->
+  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
+
+  <!-- Room requirements -->
+  <!-- EN: no beds allowed -->
+  <RoomRequirementNoBeds>ベッドの不許可</RoomRequirementNoBeds>
+  <!-- EN: room area: {0} tiles -->
+  <RoomRequirementArea>部屋の空間: {0}タイル</RoomRequirementArea>
+  <!-- EN: room impressiveness -->
+  <RoomRequirementImpressiveness>部屋の印象:</RoomRequirementImpressiveness>
+  <!-- EN: all floored -->
+  <RoomRequirementAllFloored>床が敷かれている</RoomRequirementAllFloored>
+  <!-- EN: all braziers must be lit -->
+  <RoomRequirementAllBraziersMustBeLit>全ての火鉢の火を維持</RoomRequirementAllBraziersMustBeLit>
+  <!-- EN: all fine floored -->
+  <RoomRequirementAllFineFloored>華麗な床のみで構成</RoomRequirementAllFineFloored>
+  <!-- EN: no work facilities allowed -->
+  <RoomRequirementNoProductionFacilities>生産設備の不許可</RoomRequirementNoProductionFacilities>
+  <!-- EN: no altars allowed -->
+  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+
 </LanguageData>

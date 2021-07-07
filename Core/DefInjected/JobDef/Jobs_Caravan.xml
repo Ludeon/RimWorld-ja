@@ -1,13 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: leading TargetA to exit. -->
+  <PrepareCaravan_CollectAnimals.reportString>TargetAを出口に誘導している</PrepareCaravan_CollectAnimals.reportString>
+  
+  <!-- EN: leading TargetA to caravan spot. -->
+  <PrepareCaravan_GatherAnimals.reportString>TargetAをキャラバンスポットに誘導している</PrepareCaravan_GatherAnimals.reportString>
+  
   <!-- EN: preparing to leave. -->
   <PrepareCaravan_GatherDownedPawns.reportString>旅支度を始める</PrepareCaravan_GatherDownedPawns.reportString>
   
   <!-- EN: gathering supplies. -->
   <PrepareCaravan_GatherItems.reportString>荷物を寄せ集めている</PrepareCaravan_GatherItems.reportString>
   
-  <!-- EN: preparing to leave. -->
+  <!-- UNUSED -->
   <PrepareCaravan_GatherPawns.reportString>旅支度を始める</PrepareCaravan_GatherPawns.reportString>
+  
+  <!--TODO--><!--未翻訳:pen:フェンス,囲いではない-->
+  <!-- EN: taking TargetA back to a pen. -->
+  <ReturnedCaravan_PenAnimals.reportString>TargetAをpenに戻している</ReturnedCaravan_PenAnimals.reportString>
   
 </LanguageData>

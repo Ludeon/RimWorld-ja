@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings>
+    <li>questName->シャトルの許可</li>
+    <li>questDescription-></li>
+  </Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings>
+  <Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>シャトルが到着</Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>
+  <Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>[asker_nameDef]に呼ばれたシャトルが到着しました。\n\nこれを使用しなかった場合、シャトルは[shuttleReturnDays]日後に[permitFaction_name]へ戻ります。</Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>
+  <Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>シャトルが破壊された</Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>
+  <Permit_CallShuttle.LetterLabelPermitShuttleLeft.slateRef>シャトルが出発した</Permit_CallShuttle.LetterLabelPermitShuttleLeft.slateRef>
+  <Permit_CallShuttle.LetterTextPermitShuttleLeft.slateRef>[permitFaction_name]のシャトルが、長時間待たされ続けたため、出発しました。</Permit_CallShuttle.LetterTextPermitShuttleLeft.slateRef>
+  
+</LanguageData>

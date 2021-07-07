@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[faction_name] is ready to grant [pawn_definite] the title of [newTitle] and the power of a level [psylinkLevel] psylink in a bestowing ceremony.\n\nThe bestower will arrive by shuttle and perform the ceremony.\n\nThe bestower will only give a title if any throneroom requirements are satisfied.\n\nYou can betray the bestower to steal psylink neuroformers, but this will make [faction_name] your enemy.\n\nIf you miss or fail this ceremony, there will be another opportunity later. If the bestower or guards are harmed for any reason, there will be diplomatic consequences.</li>
+    <li>questDescription->[faction_name] is ready to grant [pawn_definite] the title of [newTitle] and the power of a level [psylinkLevel] psylink in a bestowing ceremony.\n\nThe bestower will arrive by shuttle and perform the ceremony.\n\nThe bestower will only give a title if any throneroom requirements are satisfied. There's a chance of gaining extra honor, depending on how many viewers attend the ceremony. Additionally, every viewer gains a mood bonus.\n\nYou can betray the bestower to steal psylink neuroformers, but this will make [faction_name] your enemy.\n\nIf you miss or fail this ceremony, there will be another opportunity later. If the bestower or guards are harmed for any reason, there will be diplomatic consequences.</li>
   -->
   <BestowingCeremony.questDescriptionRules.rulesStrings>
-    <li>questDescription->[faction_name]は、[pawn_definite]に[newTitle]の爵位とレベル[psylinkLevel]のサイリンクの権限を授ける授与式の準備をととのえました。\n\n贈与者はシャトルで到着し、授与式を行います。\n\n玉座の要件が満たされている場合のみ、爵位を授けられます。\n\n贈与者を裏切り、サイリンクニューロフォーマーを盗むこともできますが、その場合[faction_name]が敵対します。\n\nこの授与式を受け損なったり、失敗したりした場合でも、後でまた別の機会が設けられます。贈与者や警護が何らかの理由で危害を受けると、外交的な問題になります。</li>
+    <li>questDescription->[faction_name]は、[pawn_definite]に[newTitle]の爵位とレベル[psylinkLevel]のサイリンクの権限を授ける授与式の準備をととのえました。\n\n贈与者はシャトルで到着し、授与式を行います。\n\n玉座の要件が満たされている場合のみ、爵位を授けられます。授与式の参加者の数によっては、特別な栄誉を得るチャンスがあります。さらに、すべての参加者に心情ボーナスがもたらされます。\n\n贈与者を裏切り、サイリンクニューロフォーマーを盗むこともできますが、その場合[faction_name]が敵対します。\n\nこの授与式を受け損なったり、失敗したりした場合でも、後でまた別の機会が設けられます。贈与者や警護が何らかの理由で危害を受けると、外交的な問題になります。</li>
   </BestowingCeremony.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[pawn_definite]'s [newTitle] ceremony</li>

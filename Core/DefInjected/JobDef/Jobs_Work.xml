@@ -11,10 +11,19 @@
   <Capture.reportString>TargetAを捕獲中</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>TargetAを運んでいる</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>TargetAを担ぎ中</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>TargetAを冬眠カプセルに搬送中</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>TargetAを冬眠カプセルに搬送中</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>TargetAを逮捕中</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>TargetAを掃除中</Clean.reportString>
@@ -45,6 +54,9 @@
   
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>TargetAの壊れたコンポーネントを交換中</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>TargetAを処刑中</GuiltyColonistExecution.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>TargetAを収穫中</Harvest.reportString>
@@ -85,6 +97,9 @@
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>TargetAを処刑中</PrisonerExecution.reportString>
   
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>TargetAを野生に返している</ReleaseAnimalToWild.reportString>
+  
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>TargetAを釈放中</ReleasePrisoner.reportString>
   
@@ -102,6 +117,12 @@
   
   <!-- EN: researching. -->
   <Research.reportString>研究中</Research.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>TargetAをTargetCに戻している</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>TargetAをTargetCに入れている</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>TargetAを毛刈り中</Shear.reportString>
@@ -121,8 +142,14 @@
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>TargetAを略奪中</Steal.reportString>
   
+  <!-- EN: Studying TargetA. -->
+  <StudyThing.reportString>TargetAを学習中</StudyThing.reportString>
+  
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>TargetAを診察台に搬送中</TakeToBedToOperate.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>TargetAをベッドに運んでいる</TakeDownedPawnToBedDrafted.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>TargetAをベッドに搬送中</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
   <TakeWoundedPrisonerToBed.reportString>TargetAを救護中</TakeWoundedPrisonerToBed.reportString>
@@ -138,6 +165,9 @@
   
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>TargetAを撤去中</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>TargetAのロープを外している</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>通信中</UseCommsConsole.reportString>

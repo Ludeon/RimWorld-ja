@@ -361,7 +361,7 @@
     <li>circumstance_phrase->with a [VerbFriendly] smile</li>
     <li>circumstance_phrase->glowing softly</li>
     <li>circumstance_phrase->surrounded by a [Color] aura</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_pronoun].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_objective].</li>
     <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
@@ -377,7 +377,7 @@
     <li>circumstance_phrase->[VerbFriendly]表情で</li>
     <li>circumstance_phrase->柔らかく輝きながら</li>
     <li>circumstance_phrase->[Color]色のオーラに包まれながら</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は[PAWN_pronoun]に驚いている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は[PAWN_objective]見上げている.</li>
     <li>desc_sentence->[PAWN_pronoun]は[Quantity_adjphrase]匹の[Animal]に囲まれている.</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が安らかに休んでいる.</li>
     <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達はこれを見て畏敬の念を起こしているようだ.</li>
@@ -493,7 +493,7 @@
     <li>circumstance_phrase->wearing a hopeful expression</li>
     <li>circumstance_phrase->glowing softly</li>
     <li>circumstance_phrase->surrounded by a [Color] aura</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_pronoun].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_objective].</li>
     <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
@@ -510,7 +510,7 @@
     <li>circumstance_phrase->希望に満ちた表情を浮かべ</li>
     <li>circumstance_phrase->心静かに成長させながら</li>
     <li>circumstance_phrase->[Color]色のオーラに包まれながら</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は[PAWN_pronoun]に驚いている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は[PAWN_objective]見上げている.</li>
     <li>desc_sentence->[PAWN_pronoun]は,[Quantity_adjphrase]匹の[Animal]に囲まれている.</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が安らかに休んでいる.</li>
     <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達はこれを見て畏敬の念を起こしているようだ.</li>

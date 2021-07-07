@@ -16,6 +16,9 @@
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>私は誰かの人肉を動物のように切り捌いた.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>死体解剖</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
   <!-- EN: catharsis -->
   <Catharsis.stages.catharsis.label>カタルシス</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
@@ -23,7 +26,7 @@
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>入植者を見放した</ColonistBanished.stages.colonist_banished.label>
-  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
   <ColonistBanished.stages.colonist_banished.description>私たちは誰かをこっそりと置き去りにした.うまくいくことを望んでいるが心配だ.</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
@@ -44,6 +47,11 @@
   <!-- EN: Blood beats metal, you damn machines! -->
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>血は金属に打ち勝つぞ,忌々しい機械共め!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
+  <!-- EN: denied joining -->
+  <DeniedJoining.stages.denied_joining.label>TODO</DeniedJoining.stages.denied_joining.label>
+  <!-- EN: We just denied someone's request to join us. I hope they make it. -->
+  <DeniedJoining.stages.denied_joining.description>TODO</DeniedJoining.stages.denied_joining.description>
+  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>{0}の蘇生に失敗した</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
@@ -53,6 +61,11 @@
   <FreedFromSlavery.stages.freed_from_slavery.label>奴隷解放</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
   <FreedFromSlavery.stages.freed_from_slavery.description>奴隷の身から解放してもらった.ありがとう,ありがとう!</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  <!-- EN: Bloodlust organ harvested -->
+  <HarvestedOrgan_Bloodlust.stages.Bloodlust_organ_harvested.label>TODO</HarvestedOrgan_Bloodlust.stages.Bloodlust_organ_harvested.label>
+  <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
+  <HarvestedOrgan_Bloodlust.stages.Bloodlust_organ_harvested.description>TODO</HarvestedOrgan_Bloodlust.stages.Bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>人殺し</KilledHumanlikeBloodlust.stages.killed_someone.label>

@@ -5,6 +5,8 @@
   <DirtInEyes.label>土</DirtInEyes.label>
   <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <DirtInEyes.description>ちょっと土が目に入ったので,よく見えませんが,すぐに元に戻ります.</DirtInEyes.description>
+  <!-- EN: blind -->
+  <DirtInEyes.battleStateLabel>目が見えない</DirtInEyes.battleStateLabel>
   <!-- EN: dirt -->
   <DirtInEyes.labelNoun>土</DirtInEyes.labelNoun>
   
@@ -12,6 +14,8 @@
   <GravelInEyes.label>砂利</GravelInEyes.label>
   <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <GravelInEyes.description>ちょっと砂利が目に入ったので,よく見えませんが,すぐに元に戻ります.</GravelInEyes.description>
+  <!-- EN: blind -->
+  <GravelInEyes.battleStateLabel>目が見えない</GravelInEyes.battleStateLabel>
   <!-- EN: gravel -->
   <GravelInEyes.labelNoun>砂利</GravelInEyes.labelNoun>
   
@@ -19,6 +23,8 @@
   <MudInEyes.label>泥</MudInEyes.label>
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <MudInEyes.description>ちょっと泥が目に入ったので,よく見えませんが,すぐに元に戻ります.</MudInEyes.description>
+  <!-- EN: blind -->
+  <MudInEyes.battleStateLabel>目が見えない</MudInEyes.battleStateLabel>
   <!-- EN: mud -->
   <MudInEyes.labelNoun>泥</MudInEyes.labelNoun>
   
@@ -26,6 +32,8 @@
   <SandInEyes.label>砂</SandInEyes.label>
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
   <SandInEyes.description>ちょっと砂が目に入ったので,よく見えませんが,すぐに元に戻ります.</SandInEyes.description>
+  <!-- EN: blind -->
+  <SandInEyes.battleStateLabel>目が見えない</SandInEyes.battleStateLabel>
   <!-- EN: sand -->
   <SandInEyes.labelNoun>砂</SandInEyes.labelNoun>
   
@@ -33,6 +41,8 @@
   <WaterInEyes.label>水</WaterInEyes.label>
   <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <WaterInEyes.description>ちょっと水が目に入ったので,よく見えませんが,すぐに元に戻ります.</WaterInEyes.description>
+  <!-- EN: blind -->
+  <WaterInEyes.battleStateLabel>目が見えない</WaterInEyes.battleStateLabel>
   <!-- EN: water -->
   <WaterInEyes.labelNoun>水</WaterInEyes.labelNoun>
   

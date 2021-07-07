@@ -116,6 +116,8 @@
   <DesignatorClearAreaAllowedDesc>制限ゾーンを取り消します.\n\n制限ゾーンとは,行動範囲を制限して入植者に割り当てることができるゾーンです.入植者は,自分に割り当てられた制限ゾーンの外側では作業を受付しませんし,必要と思われる作業も遂行しません.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>制限ゾーンの管理...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>入植者が,ある種の植物を栽培しようとするためのゾーンを作成します.</DesignatorGrowingZoneDesc>
@@ -170,6 +172,16 @@
   <DesignatorTame>手懐ける</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>野生動物を手懐けます.</DesignatorTameDesc>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>野生に返す</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>TODO</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->

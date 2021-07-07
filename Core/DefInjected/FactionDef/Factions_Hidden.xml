@@ -19,10 +19,12 @@
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>古代人</AncientsHostile.pawnsPlural>
   
-  <!-- EN: insects -->
-  <Insect.label>虫</Insect.label>
+  <!-- EN: insect geneline -->
+  <Insect.label>虫類</Insect.label>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>これらの巨大な昆虫のような生き物は地下に住み,音やフェロモン信号に引き付けられると,攻撃するために穴を掘ります.もともとは惑星ソーンに生息しており,複数の星間起業家が武器として使用するために,この虫のコロニーを捕獲し,遺伝子を組み換え,人工培養器で育てることに成功しました. 誰がこの惑星にソーン虫を放ったのかはわかりませんが,この虫はここに存在し,相変わらず危険です.</Insect.description>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>虫</Insect.fixedName>
+  <Insect.fixedName>ソーン生物</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>虫</Insect.pawnSingular>
   <!-- EN: insects -->
@@ -30,6 +32,8 @@
   
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>メカノイドの巣</Mechanoid.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>起源不明の殺人マシーンです.古代の建造物,土埃の山の下,もしくは海底に隠されているメカノイドは,何千年もの間セルフメンテナンスをすることができます.この機械の集団は,目的が統一されているように見えますが,動作がうまく調整されていません.地方の学者は,これらの機械が古代の戦争から残された自律型兵器であると信じていますが,部族の言い伝えでは,眠りし神の悪魔のしもべあるといわれています.</Mechanoid.description>
   <Mechanoid.fixedName>メカノイドの巣</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>機械生命体</Mechanoid.pawnSingular>

@@ -44,6 +44,8 @@
   <ResetModsConfigOnCrash>クラッシュ時に,MODをリセットする</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Royaltyのない環境をシミュレートする</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>TODO</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -105,4 +107,8 @@
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>あなたの設定を全てデフォルトに戻しゲームをリスタートさせます.セーブしていない進行状況は全て失われますが!\n\nそれでも続けますか?</ResetAndRestartConfirmationDialog>
   
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>TODO</SetBackgroundImage>
+
 </LanguageData>

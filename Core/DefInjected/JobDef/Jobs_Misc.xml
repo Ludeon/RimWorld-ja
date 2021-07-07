@@ -26,16 +26,25 @@
   <CastAbilityOnWorldTile.reportString>行動中</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>行動中</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
   <CastJump.reportString>行動中</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>雪かき中</ClearSnow.reportString>
   
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>TargetAを誘導中</DeliverToCell.reportString>
+  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TargetAを除装している</DropEquipment.reportString>
   
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>TargetAを空にしている</EmptyThingContainer.reportString>
+  
   <!-- EN: entering cryptosleep casket. -->
-  <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込む</EnterCryptosleepCasket.reportString>
+  <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込んでいる</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
   <EnterTransporter.reportString>TargetAに乗り込んでいる</EnterTransporter.reportString>
@@ -64,8 +73,11 @@
   <!-- EN: following TargetA. -->
   <FollowClose.reportString>TargetAの後をついて行く</FollowClose.reportString>
   
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>TargetAに引かれている</FollowRoper.reportString>
+  
   <!-- EN: taking TargetA. -->
-  <GiveToPackAnimal.reportString>TargetAを与えた</GiveToPackAnimal.reportString>
+  <GiveToPackAnimal.reportString>TargetAを与えている</GiveToPackAnimal.reportString>
   
   <!-- EN: moving. -->
   <Goto.reportString>移動中</Goto.reportString>
@@ -100,11 +112,17 @@
   <!-- EN: lying down. -->
   <LayDown.reportString>睡眠中</LayDown.reportString>
   
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>横になっている</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>休憩中</LayDownResting.reportString>
+  
   <!-- EN: lovin'. -->
   <Lovin.reportString>ウフフ,アハハ</Lovin.reportString>
   
   <!-- EN: operating turret. -->
-  <ManTurret.reportString>ターレットを操作中</ManTurret.reportString>
+  <ManTurret.reportString>タレットを操作中</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
   <OfferHelp.reportString>TargetAを助けている</OfferHelp.reportString>

@@ -94,8 +94,10 @@
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
   <ChopTrees.text>いくつか木を収穫してみましょう.いくつか木を伐採させます.\n\n「伐採」コマンドで,コロニーの回りにある,10本の木を伐採させます.\n\n(ヒント: ドラッグして木をまとめて選択することができます.)</ChopTrees.text>
   
-  <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>ようこそ RimWorld(辺境の惑星)へ !\n\nこのチュートリアルでは,ゲームの進め方を教えていきます.\n\n最初のステップは,遊ぶ世界を創造します.\n\nこのページでは,この世界のパラメータを,あなたが設定します.\n\nこの世のデフォルト設定は良いものです - このまま進めます "創造する"をクリックします.</CreateWorldParams.text>
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>"創造する"をクリックして世界を創造します.</CreateWorldParams.rejectInputMessage>
+  <!-- EN: This page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <CreateWorldParams.text>このページでは,この世界のパラメータを,あなたが設定します.\n\n今はデフォルトの設定が良いでしょう.先に進めたら"創造する"をクリックしてください!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>ここに入植者を送ります.\n土のうをカバーにして背後に配置します.</DownRaider.onMapInstruction>
@@ -203,7 +205,7 @@
   <UnforbidStartingResources.onMapInstruction>これを許可にします</UnforbidStartingResources.onMapInstruction>
   <!-- EN: Please allow your starting items. -->
   <UnforbidStartingResources.rejectInputMessage>初期所持品を許可してみましょう.</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
-  <UnforbidStartingResources.text>そして, あなたの入植者達に,アイテムを備蓄ゾーンに運ぶことを許可するには,アイテムを関われるようにしなければなりません.\n\n1.スタート時に持ってきたアイテムを選択します.\n2.「禁止」コマンドをクリックして,許可にします.\n\n(ヒント:アイテムをダブルクリックすると,画面上の同じアイテムを一度に選択できます.)</UnforbidStartingResources.text>
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
+  <UnforbidStartingResources.text>あなたの入植者達に,アイテムを備蓄ゾーンに運ぶことを許可するには,アイテムを関われるようにしなければなりません.\n\n1.スタート時に持ってきたアイテムを選択します.\n2.「禁止」コマンドをクリックして,許可にします.\n\n(ヒント:アイテムをダブルクリックすると,画面上の同じアイテムを一度に選択できます.)\n\nもしくは,以下のようなやり方もあります:\n1.アーキテクトタブをクリックしてください.\n2."命令"をクリックしてください.\n3."許可"をクリックしてください.\n4.禁止されているアイテムすべてを囲うようにドラッグして,許可にします.</UnforbidStartingResources.text>
   
 </LanguageData>

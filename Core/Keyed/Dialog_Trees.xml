@@ -23,13 +23,13 @@
   <!-- EN: need {0} goodwill -->
   <NeedGoodwill>{0}友好値が必要</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
-  <NeedSilverLaunchable>貿易ビーコンのそばに{0}シルバーが必要です.</NeedSilverLaunchable>
+  <NeedSilverLaunchable>貿易ビーコンのそばに{0}シルバーが必要</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
   <NotEnoughSilver>シルバーが足りない.</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
   <SilverForGoodwill>{0}シルバーで 友好値 +{1}</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
-  <SilverGiftSent>ありがとう {0}\n\n({1}により友好値上昇)</SilverGiftSent>
+  <SilverGiftSent>ありがとう {0}.\n\n(友好値が{1}上昇)</SilverGiftSent>
 
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->

@@ -19,6 +19,8 @@
   <CommandCallRoyalAidDesc>特別な許可証を使用して援助を要請します。\n\nそれぞれの援助は一度だけ無償で使用でき、再度無償要請をする場合は、再使用可能になるまで待つ必要があります。たびたび用いることも可能ですが、名誉を消費します。</CommandCallRoyalAidDesc>
   <!-- EN: Guests will not use their aid permits. -->
   <CommandCallRoyalAidLodger>ゲストは援助許可証を使用しません。</CommandCallRoyalAidLodger>
+  <!-- EN: Slaves cannot use their permits. -->
+  <CommandCallRoyalAidSlave>TODO</CommandCallRoyalAidSlave>
   <!-- EN: Your relations with {FACTION_name} are hostile. -->
   <CommandCallRoyalAidFactionHostile>{FACTION_name}と敵対状態です。</CommandCallRoyalAidFactionHostile>
   <!-- EN: Free -->
@@ -77,5 +79,10 @@
   <ChooseRoyalPermit>許可証を選択</ChooseRoyalPermit>
   <!-- EN: Open the permit selection screen and choose a new permit. -->
   <ChooseRoyalPermit_Desc>許可証選択画面を開き、新しい許可証を選択します。</ChooseRoyalPermit_Desc>
+
+  <!-- EN: Leave bestowing ceremony -->
+  <CommandLeaveBestowingCeremony>TODO</CommandLeaveBestowingCeremony>
+  <!-- EN: Stop participating in the bestowing ceremony. -->
+  <CommandLeaveBestowingCeremonyDesc>TODO</CommandLeaveBestowingCeremonyDesc>
   
 </LanguageData>
