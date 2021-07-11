@@ -163,6 +163,8 @@
   <BestowingCeremonyThroneroomRequirementsNotSatisfied>贈与者は、{PAWN_definite}の玉座が{TITLE}の爵位に見合っていないことに腹を立てています。授与式はキャンセルされました。</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
   <BestowingCeremonyLabel>TODO</BestowingCeremonyLabel>
+  <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
+  <BestowingOutcomeQualitySpecific>TODO</BestowingOutcomeQualitySpecific>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
   <AnimaLinkingExplanationBase>TODO</AnimaLinkingExplanationBase>

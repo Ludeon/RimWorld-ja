@@ -104,6 +104,8 @@
   <Execute>TODO</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
   <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{1}の{0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -1094,36 +1096,6 @@
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
   <CasketWarning>【警告】\n\n{PAWN_nameDef}は最後の入植者です.{PAWN_objective}冬眠カプセルに入れさせるとゲームを続けることができなくなるでしょう.本当に良いですか？</CasketWarning>
 
-  <!-- Bioscuplter pod -->
-  <!-- EN: Cycle -->
-  <BiosculpterPodCycleLabel>TODO</BiosculpterPodCycleLabel>
-  <!-- EN: loading nutrition -->
-  <BiosculpterPodCycleLabelLoading>TODO</BiosculpterPodCycleLabelLoading>
-  <!-- EN: ready -->
-  <BiosculpterPodCycleLabelReady>TODO</BiosculpterPodCycleLabelReady>
-  <!-- EN: Prepare {0} cycle -->
-  <BiosculpterPodCycleCommand>TODO</BiosculpterPodCycleCommand>
-  <!-- EN: Ends in -->
-  <BiosculpterCycleTimeRemaining>TODO</BiosculpterCycleTimeRemaining>
-  <!-- EN: Biotuned to -->
-  <BiosculpterBiotunedTo>TODO</BiosculpterBiotunedTo>
-  <!-- EN: Interrupt cycle -->
-  <BiosculpterInteruptCycle>TODO</BiosculpterInteruptCycle>
-  <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
-  <BiosculpterInteruptCycleDesc>TODO</BiosculpterInteruptCycleDesc>
-  <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
-  <BiosculpterLoadingStartedMessage>TODO</BiosculpterLoadingStartedMessage>
-  <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
-  <BiosculpterNoPowerEjectedMessage>TODO</BiosculpterNoPowerEjectedMessage>
-  <!-- EN: {PAWN_labelShort} completed healing cycle. -->
-  <BiosculpterHealCompletedMessage>TODO</BiosculpterHealCompletedMessage>
-  <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->
-  <BiosculpterHealCompletedWithCureMessage>TODO</BiosculpterHealCompletedWithCureMessage>
-  <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <BiosculpterAgeReversalCompletedMessage>TODO</BiosculpterAgeReversalCompletedMessage>
-  <!-- EN: {PAWN_labelShort} completed pleasure cycle. -->
-  <BiosculpterPleasureCompletedMessage>TODO</BiosculpterPleasureCompletedMessage>
-
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
   <ShipReportCannotLaunch>発射できません.</ShipReportCannotLaunch>
@@ -1492,6 +1464,8 @@
   <!-- EN: ritual -->
   <Ritual>TODO</Ritual>
 
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
   <!-- EN: Attending -->
@@ -1548,38 +1522,6 @@
   <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
   <!-- EN: {0_labelShort} is incapable of talking. -->
   <AbilitySpeechDisabledCantSpeak>TODO</AbilitySpeechDisabledCantSpeak>
-  <!-- EN: Additional reward -->
-  <RitualAttachedReward>TODO</RitualAttachedReward>
-  <!-- EN: Choose -->
-  <RitualAttachedRewardChoose>TODO</RitualAttachedRewardChoose>
-  <!-- EN: Can't use {0} with {1}. -->
-  <RitualAttachedRewardCantUseWithRitual>TODO</RitualAttachedRewardCantUseWithRitual>
-  <!-- EN: Requires any of memes -->
-  <RitualAttachedRewardRequiredMemeAny>TODO</RitualAttachedRewardRequiredMemeAny>
-  <!-- EN: Requires {0} faction -->
-  <RitualAttachedRewardRequiredFaction>TODO</RitualAttachedRewardRequiredFaction>
-  <!-- EN: positive -->
-  <RitualAttachedOutcomes_Positive>TODO</RitualAttachedOutcomes_Positive>
-  <!-- EN: negative -->
-  <RitualAttachedOutcomes_Negative>TODO</RitualAttachedOutcomes_Negative>
-  <!-- EN: If the {0} is {1} -->
-  <RitualAttachedOutcomesInfo>TODO</RitualAttachedOutcomesInfo>
-  <!-- EN: Any outcome -->
-  <RitualAttachedAllOutcomes>TODO</RitualAttachedAllOutcomes>
-  <!-- EN: Upon any {0} outcome -->
-  <RitualAttachedApplliesForOutcome>TODO</RitualAttachedApplliesForOutcome>
-  <!-- EN: Upon any {0} outcome -->
-  <RitualAttachedApplliesForOutcomes>TODO</RitualAttachedApplliesForOutcomes>
-  <!-- EN: The commotion from the {0} has attracted some curious animals!\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>TODO</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
-  <!-- EN: The {0} has induced a Gauranlen pod to sprout nearby. -->
-  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>TODO</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
-  <!-- EN: Can't apply reward -->
-  <RitualAttachedOutcomeCantApply>TODO</RitualAttachedOutcomeCantApply>
-  <!-- EN: No valid spot -->
-  <RitualAttachedOutcomeCantApply_NoValidSpot>TODO</RitualAttachedOutcomeCantApply_NoValidSpot>
-  <!-- EN: Extreme biome -->
-  <RitualAttachedOutcomeCantApply_ExtremeBiome>TODO</RitualAttachedOutcomeCantApply_ExtremeBiome>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>TODO</ChooseParticipants>

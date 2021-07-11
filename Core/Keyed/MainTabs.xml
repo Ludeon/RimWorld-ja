@@ -22,8 +22,6 @@
   <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
-  <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideologion, so it may make this person unhappy. -->
-  <SelectedWorkTypeOpposedByIdeo>TODO</SelectedWorkTypeOpposedByIdeo>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
   <PriorityOneDoneFirst>優先順位1は最優先で, 優先順位4は最劣後です.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
@@ -184,8 +182,8 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>研究</Research>
-  <!-- EN: Researched -->
-  <Researched>研究済</Researched>
+  <!-- EN: Study -->
+  <Study>TODO</Study>
   <!-- EN: Unresearched -->
   <Unresearched>未研究</Unresearched>
   <!-- EN: Finished -->
@@ -214,16 +212,12 @@
   <TechLevelTooLow>あなたの派閥のテックレベルは{0}ですが,この研究のテックレベルは{1}です.研究速度は本来の{2}となります.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>次のものでアンロック</UnlockedWith>
-  <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
-  <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>
 
   <!-- Factions tab -->
   <!-- EN: Factions -->
   <FactionsTab>TODO</FactionsTab>
   <!-- EN: No known factions -->
   <NoFactions>TODO</NoFactions>
-  <!-- EN: Ideoligions -->
-  <IdeoligionsTab>TODO</IdeoligionsTab>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -334,7 +328,7 @@
   <QuestBetrayalOfferTip>{0}は, {1}のメンバーを全員殺害した場合,報酬を与えます.</QuestBetrayalOfferTip>
   <!-- EN: a colony wealth of at least {0} -->
   <QuestRequiredPlayerWealth>TODO</QuestRequiredPlayerWealth>
-  <!-- EN: allied to {0} -->
+  <!-- EN: alliance with {0} -->
   <QuestAlliedTo>TODO</QuestAlliedTo>
   <!-- EN: hostile to {0} -->
   <QuestHostileTo>TODO</QuestHostileTo>
@@ -343,9 +337,11 @@
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
 
-  
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>追加欲求</CreatesNeed>
+
+  <!-- UNUSED -->
+  <Researched>研究済</Researched>
 
 </LanguageData>

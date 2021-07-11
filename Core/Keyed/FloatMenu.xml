@@ -57,6 +57,8 @@
   <NoPath>道順が無い</NoPath>
   <!-- EN: burying -->
   <Burying>を埋葬する</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>TODO</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>禁止</ForbiddenLower>
@@ -379,16 +381,6 @@
   <OpenCryptosleepCasket>冬眠カプセルを開ける</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
   <EnterShuttle>シャトルに乗り込む</EnterShuttle>
-  <!-- EN: Enter biosculpter pod -->
-  <EnterBiosculpterPod>TODO</EnterBiosculpterPod>
-  <!-- EN: Biotuned to someone else. -->
-  <BiosculpterBiotunedToAnother>TODO</BiosculpterBiotunedToAnother>
-  <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
-  <CarryToBiosculpterPod>TODO</CarryToBiosculpterPod>
-  <!-- EN: Cannot carry to biosculpter pod -->
-  <CannotCarryToBiosculpterPod>TODO</CannotCarryToBiosculpterPod>
-  <!-- EN: No available biosculpter pod. -->
-  <NoBiosculpterPod>TODO</NoBiosculpterPod>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
@@ -431,6 +423,8 @@
   <CannotPrioritizeCellForbidden>優先できない: 禁止事項</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
