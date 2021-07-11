@@ -274,9 +274,9 @@
   <AlertAnimalPenNeededDescExplanation>TODO</AlertAnimalPenNeededDescExplanation>
 
   <!-- EN: Pen not enclosed -->
-  <AlertAnimalPenNotEnclosed>TODO</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosed>ペンが囲われてない</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>家畜のペンマーカーが囲われていません.\n\n家畜が放浪するのを防ぐために,フェンスやバリケード,ゲート,壁,またはドアを使用して,ペンを囲んでください.\n\n囲われていないペンマーカーしかない場合でも,調教師は放浪する動物を家に連れ戻すことができますが,家畜が再び放浪するたびに,これを繰り返す必要があります.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>TODO</AlertAnimalIsRoaming>

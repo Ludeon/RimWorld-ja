@@ -15,8 +15,8 @@
     <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\n和平交渉の成功時,[faction_name]の[faction_royalFavorLabel]を少量得ることができます.</li>
     <li>favorRewardDetails-></li>
     <li>extraLeaderPart-></li>
-    <li>leaderRoleEffect-><!--TODO-->Other factions will respect you more if you send your leader to handle the negotiations</li>
-    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-><!--TODO--> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
+    <li>leaderRoleEffect->交渉人としてコロニーのリーダーを送った場合,他の派閥はあなたの派閥に,さらに敬意を払うようになるでしょう</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)->[playerFaction_leaderTitle]である[playerFaction_leader_nameFull]は, 良い結果を得られる確率にボーナスを得ます.</li>
     <li>leaderPawnInfo-></li>
   </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
   <!-- EN:

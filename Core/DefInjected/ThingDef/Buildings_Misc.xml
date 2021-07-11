@@ -22,9 +22,9 @@
   <CryptosleepCasket.description>自家発電式の石棺は,人を何年間も仮死状態のままで保つために設計されました.</CryptosleepCasket.description>
   
   <!-- EN: egg box -->
-  <EggBox.label>TODO</EggBox.label>
+  <EggBox.label>卵箱</EggBox.label>
   <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
-  <EggBox.description>TODO</EggBox.description>
+  <EggBox.description>柔らかい素材で作られた,卵を入れるための箱です.産卵する家畜は,可能であれば卵箱で産卵します.運搬人は,時間を節約するために,箱がいっぱいになったときにのみすべての卵を取り出します.また,この箱は温度による腐敗からは保護できませんが,屋外での劣化からは卵を保護します.</EggBox.description>
   
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>泡消火器</FirefoamPopper.label>
@@ -74,9 +74,9 @@
   <PartySpot.description>パーティを開催する場所を指定します.ここを中心にパーティが行われます.</PartySpot.description>
   
   <!-- EN: pen marker -->
-  <PenMarker.label>TODO</PenMarker.label>
+  <PenMarker.label>ペンマーカー</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
-  <PenMarker.description>TODO</PenMarker.description>
+  <PenMarker.description>家畜の囲いを指定する目印としての支柱です.フェンス,バリケード,壁,ドアで囲まれた場所に配置する必要があります.各ペンマーカーには家畜の種類を割り当てることができ,調教師は家畜を適切なペンに連れて行きます.</PenMarker.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>ポッドランチャー</PodLauncher.label>

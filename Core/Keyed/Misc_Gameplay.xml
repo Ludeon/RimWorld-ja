@@ -339,15 +339,15 @@
   <!-- EN: resting -->
   <Carried>担架</Carried>
   <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>TODO</RideableAnimalsPerPeople>
+  <RideableAnimalsPerPeople>騎乗家畜/ヒト</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>家畜への騎乗による掛け率</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>積載重量による掛け率: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>TODO</RideableAnimalTip>
+  <RideableAnimalTip>この家畜には乗ることができます.キャラバンのメンバーは利用可能な最速の家畜に乗り,キャラバン全体の移動速度を向上させます.</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>このキャラバンは荷物が多すぎるため動けません.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>キャラバン隊メンバー速度</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -487,17 +487,17 @@
   <!-- EN: Goodwill -->
   <Goodwill>友好値</Goodwill>
   <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <NaturalGoodwill>基本友好値</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <NaturalGoodwillRange>基本友好値の幅</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
-  <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
+  <NaturalGoodwillDescription>基本友好値は,派閥のアイデンティティと信条に基づいています.現在の友好値が基本友好値から大きく離れている場合,時間の経過と共に,ゆっくりと基本友好値へ変動していきます.\n\n基本友好値へ変動するとき,全ての友好値の影響は,{0}の掛け率を受けます.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>{0_nameIndef}の抵抗を減らす</JobReport_ReduceResistance>
   <!-- EN: Too large -->
-  <TooLargeForBed>TODO</TooLargeForBed>
+  <TooLargeForBed>大きすぎる</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>TODO</Warning>
+  <Warning>危険</Warning>
   <!-- EN: Has subquest -->
   <HasSubquest>TODO</HasSubquest>
   <!-- EN: Subquest of -->
@@ -601,19 +601,19 @@
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
+  <PenUnenclosedLabel>閉じられてない</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
+  <PenOpenDoorLabel>ドアが開放</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
-  <RenameAnimalPen>TODO</RenameAnimalPen>
+  <RenameAnimalPen>ペンをリネーム</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
+  <AnimalPenMarkerDefaultLabel>ペンマーカー {0}</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
-  <InPen>TODO</InPen>
+  <InPen>囲いの中</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>TODO</Unpenned>
+  <Unpenned>囲いの中にいない</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
-  <UnpennedTooltip>TODO</UnpennedTooltip>
+  <UnpennedTooltip>家畜の囲いは,囲われた領域内にペンマーカーを建築することで作成できます.運搬人は家畜を適切な囲いに連れて行きます.ペンはフェンスやバリケード,壁,ドアで囲うことができます.</UnpennedTooltip>
   <!-- EN: Roped by -->
   <RopedByPawn>TODO</RopedByPawn>
   <!-- EN: Roped to -->
@@ -621,17 +621,17 @@
   <!-- EN: Roped to spot. -->
   <RopedToSpot>TODO</RopedToSpot>
   <!-- EN: Pen size -->
-  <PenSizeLabel>TODO</PenSizeLabel>
+  <PenSizeLabel>ペンサイズ</PenSizeLabel>
   <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
+  <PenSizeDesc_VerySmall>極小サイズの囲い</PenSizeDesc_VerySmall>
   <!-- EN: Small pen -->
-  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
+  <PenSizeDesc_Small>小サイズの囲い</PenSizeDesc_Small>
   <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
+  <PenSizeDesc_Medium>中サイズの囲い</PenSizeDesc_Medium>
   <!-- EN: Large pen -->
-  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
+  <PenSizeDesc_Large>大サイズの囲い</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>開放 - フェンスを建ててください</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
   <PenCapacityDesc>TODO</PenCapacityDesc>
 
@@ -954,11 +954,11 @@
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>陽に晒されて死亡</DyingBecauseExposedToLight>
   <!-- EN: Cut now -->
-  <AutoCutNow>TODO</AutoCutNow>
+  <AutoCutNow>いますぐ刈り取る</AutoCutNow>
   <!-- EN: harvesting -->
-  <HarvestGerund>TODO</HarvestGerund>
+  <HarvestGerund>を伐採,採取する</HarvestGerund>
   <!-- EN: cutting -->
-  <CutGerund>TODO</CutGerund>
+  <CutGerund>を切り倒す,刈り取る</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->

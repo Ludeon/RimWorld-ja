@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: animal flap -->
-  <AnimalFlap.label>TODO</AnimalFlap.label>
+  <AnimalFlap.label>家畜用出入口</AnimalFlap.label>
   <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
-  <AnimalFlap.description>TODO</AnimalFlap.description>
+  <AnimalFlap.description>厚く折り重なった一枚の織物を吊り下げた出入口です.温度の出入りを防ぎながら,家畜が通過できるようになります.一般的に家畜小屋のドアとして使用され,囲いの中の家畜に,安全に眠れる場所を提供します.</AnimalFlap.description>
   
   <!-- EN: autodoor -->
   <Autodoor.label>自動ドア</Autodoor.label>
@@ -24,16 +24,16 @@
   <!-- EN: fence -->
   <Fence.label>フェンス</Fence.label>
   <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Fences only block certain kinds of animals. -->
-  <Fence.description>TODO</Fence.description>
+  <Fence.description>特定の家畜を囲うために使用する,横木と支柱を組み合わせたフェンスです.フェンスは特定の種類の家畜のみの移動を妨げます.</Fence.description>
   
   <!-- EN: fence gate -->
   <FenceGate.label>フェンスゲート</FenceGate.label>
   <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
-  <FenceGate.description>TODO</FenceGate.description>
+  <FenceGate.description>支柱と横木で作られたシンプルなゲートです.フェンスと同じように,一部の家畜の移動を妨げます.調教師は,このゲートを通って家畜を囲いの内外に誘導します.</FenceGate.description>
   
   <!-- EN: wall -->
   <Wall.label>壁</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Wall.description>壁です.屋根を支えます.</Wall.description>
+  <Wall.description>通行できない壁です.屋根を支えます.</Wall.description>
   
 </LanguageData>

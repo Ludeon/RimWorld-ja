@@ -7,9 +7,9 @@
   <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
   
   <!-- EN: caravan riding speed -->
-  <CaravanRidingSpeedFactor.label>TODO</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.label>キャラバン騎乗時の速度</CaravanRidingSpeedFactor.label>
   <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
-  <CaravanRidingSpeedFactor.description>TODO</CaravanRidingSpeedFactor.description>
+  <CaravanRidingSpeedFactor.description>キャラバンの一部としてこの家畜に乗るときの,人の移動速度に適用される掛け率です.家畜へは,キャラバン時にのみ乗ることができます.</CaravanRidingSpeedFactor.description>
   
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>輸送能力</CarryingCapacity.label>
@@ -32,9 +32,9 @@
   <EatingSpeed.description>食事の早さに掛ける倍率です.</EatingSpeed.description>
   
   <!-- EN: filth rate -->
-  <FilthRate.label>TODO</FilthRate.label>
+  <FilthRate.label>床の汚しやすさ</FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
-  <FilthRate.description>TODO</FilthRate.description>
+  <FilthRate.description>この生き物がどれだけ床を汚しやすいかです.\n\n床を汚しやすい家畜は,汚れが問題にならない屋外やわらマットの上のみを歩かせるのが最善です.</FilthRate.description>
   
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>食料調達量</ForagedNutritionPerDay.label>

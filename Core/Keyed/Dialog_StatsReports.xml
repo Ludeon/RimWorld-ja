@@ -81,11 +81,11 @@
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
   <!-- EN: Blocked by fences -->
-  <StatsReport_BlockedByFences>TODO</StatsReport_BlockedByFences>
+  <StatsReport_BlockedByFences>フェンスを乗り越えられない</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
-  <StatsReport_RoamInterval>TODO</StatsReport_RoamInterval>
+  <StatsReport_RoamInterval>彷徨う間隔</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
-  <StatsReport_CaravanRideableAge>TODO</StatsReport_CaravanRideableAge>
+  <StatsReport_CaravanRideableAge>キャラバン時に乗れる年齢</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>平均寿命</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
@@ -225,15 +225,15 @@
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>この生物の平均的な寿命です.</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: Whether this creature is blocked by fences and barricades. -->
-  <Stat_Race_BlockedByFences_Desc>TODO</Stat_Race_BlockedByFences_Desc>
+  <Stat_Race_BlockedByFences_Desc>この生物がフェンスやバリケードによって移動を妨げられるかどうかです.</Stat_Race_BlockedByFences_Desc>
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
-  <Stat_Race_RoamInterval_Desc>TODO</Stat_Race_RoamInterval_Desc>
+  <Stat_Race_RoamInterval_Desc>飼いならされた家畜が彷徨い歩き回って,マップから出ていこうとする頻度です.\n\n家畜は,マップの端へ直接移動できる経路がある場合のみ彷徨います.フェンスやバリケード,壁,ドアを使用することで,これを防ぐことができます.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>これを摂取することの娯楽的価値です.数値が高いほど,この娯楽の必要性が高まります.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
   <Stat_Race_BodySize_Desc>一般的なヒトと比較したときの,この生物の体格です.</Stat_Race_BodySize_Desc>
   <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
-  <Stat_Race_Growth_Desc>TODO</Stat_Race_Growth_Desc>
+  <Stat_Race_Growth_Desc>この生物がどれだけ大人に近いかです.\n\n成長には栄養が必要です.空腹の動物は,十分に餌を与えられた動物に比べて成長速度が遅くなります.</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>この武器を持ち替え始めてから,近接攻撃があたる迄にかかる時間です.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -387,101 +387,101 @@
   <Stat_Thing_StyleDesc>TODO</Stat_Thing_StyleDesc>
 
   <!-- EN: Gestation time -->
-  <Stat_Animal_GestationTime>TODO</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTime>妊娠期間</Stat_Animal_GestationTime>
   <!-- EN: The time this species takes to gestate its offspring or eggs. -->
-  <Stat_Animal_GestationTimeDesc>TODO</Stat_Animal_GestationTimeDesc>
+  <Stat_Animal_GestationTimeDesc>この種が子供を妊娠,もしくは卵を産卵するのにかかる時間です.</Stat_Animal_GestationTimeDesc>
   <!-- EN: Litter size -->
-  <Stat_Animal_LitterSize>TODO</Stat_Animal_LitterSize>
+  <Stat_Animal_LitterSize>同腹児数</Stat_Animal_LitterSize>
   <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
-  <Stat_Animal_LitterSizeDesc>TODO</Stat_Animal_LitterSizeDesc>
+  <Stat_Animal_LitterSizeDesc>この生物が一度に産める子供の数です.数値が範囲を示している場合,同腹児はこの範囲内のランダムな数で生まれます.</Stat_Animal_LitterSizeDesc>
   <!-- EN: Adult meat amount -->
-  <Stat_Animal_AdultMeatAmount>TODO</Stat_Animal_AdultMeatAmount>
+  <Stat_Animal_AdultMeatAmount>成獣の肉量</Stat_Animal_AdultMeatAmount>
   <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
-  <Stat_Animal_AdultMeatAmountDesc>TODO</Stat_Animal_AdultMeatAmountDesc>
+  <Stat_Animal_AdultMeatAmountDesc>この種の成体を屠殺することによって得られる肉の基本量です.実際の収量は,体の損傷や解体者のスキルなどの要因に影響されます.</Stat_Animal_AdultMeatAmountDesc>
   <!-- EN: Growth time -->
-  <Stat_Animal_GrowthTime>TODO</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTime>成長時間</Stat_Animal_GrowthTime>
   <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
-  <Stat_Animal_GrowthTimeDesc>TODO</Stat_Animal_GrowthTimeDesc>
+  <Stat_Animal_GrowthTimeDesc>この生物が成獣になるまでにかかる通常の時間です.生物が飢えている場合,この時間は長くなります.</Stat_Animal_GrowthTimeDesc>
   <!-- EN: Meat per day during growth -->
-  <Stat_Animal_MeatPerDayDuringGrowth>TODO</Stat_Animal_MeatPerDayDuringGrowth>
+  <Stat_Animal_MeatPerDayDuringGrowth>一日あたりの肉量</Stat_Animal_MeatPerDayDuringGrowth>
   <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
-  <Stat_Animal_MeatPerDayDuringGrowthDesc>TODO</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>この生物が成獣になった時に得られる,一日あたりの肉の量です.\n\nこの値は,肉量と成長時間から計算されています.</Stat_Animal_MeatPerDayDuringGrowthDesc>
   <!-- EN: Grass to maintain -->
-  <Stat_Animal_GrassToMaintain>TODO</Stat_Animal_GrassToMaintain>
+  <Stat_Animal_GrassToMaintain>必要な草量</Stat_Animal_GrassToMaintain>
   <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
-  <Stat_Animal_GrassToMaintainDesc>TODO</Stat_Animal_GrassToMaintainDesc>
+  <Stat_Animal_GrassToMaintainDesc>この生物が食事欲求を満たすために必要な草の一般的な数です.これは,一般的な成長率の普通の草に基づいて計算され,冬を無視しています.</Stat_Animal_GrassToMaintainDesc>
   <!-- EN: Egg type -->
-  <Stat_Animal_EggType>TODO</Stat_Animal_EggType>
+  <Stat_Animal_EggType>卵の種類</Stat_Animal_EggType>
   <!-- EN: The type of egg this creature lays. -->
-  <Stat_Animal_EggTypeDesc>TODO</Stat_Animal_EggTypeDesc>
+  <Stat_Animal_EggTypeDesc>この生物が産む卵の種類です.</Stat_Animal_EggTypeDesc>
   <!-- EN: Eggs per year -->
-  <Stat_Animal_EggsPerYear>TODO</Stat_Animal_EggsPerYear>
+  <Stat_Animal_EggsPerYear>一年あたりの産卵数</Stat_Animal_EggsPerYear>
   <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
-  <Stat_Animal_EggsPerYearDesc>TODO</Stat_Animal_EggsPerYearDesc>
+  <Stat_Animal_EggsPerYearDesc>この生物が一年あたりに産む卵の数です.一部の生物は,卵を産むために受精する必要があります.生物が飢えている場合,産卵が遅くなります.</Stat_Animal_EggsPerYearDesc>
   <!-- EN: Egg nutrition -->
-  <Stat_Animal_EggNutrition>TODO</Stat_Animal_EggNutrition>
+  <Stat_Animal_EggNutrition>卵の栄養量</Stat_Animal_EggNutrition>
   <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
-  <Stat_Animal_EggNutritionDesc>TODO</Stat_Animal_EggNutritionDesc>
+  <Stat_Animal_EggNutritionDesc>この生物の産む卵一つあたりに含まれる栄養の量です.</Stat_Animal_EggNutritionDesc>
   <!-- EN: Egg nutrition per year -->
-  <Stat_Animal_EggNutritionYearly>TODO</Stat_Animal_EggNutritionYearly>
+  <Stat_Animal_EggNutritionYearly>一年あたりの卵の栄養量</Stat_Animal_EggNutritionYearly>
   <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
-  <Stat_Animal_EggNutritionYearlyDesc>TODO</Stat_Animal_EggNutritionYearlyDesc>
+  <Stat_Animal_EggNutritionYearlyDesc>この生物が一年あたりに産む卵によって生成される年間栄養量です.\n\nこの値は,1年あたりの産卵数と卵の栄養量から計算されています.</Stat_Animal_EggNutritionYearlyDesc>
   <!-- EN: Egg market value -->
-  <Stat_Animal_EggMarketValue>TODO</Stat_Animal_EggMarketValue>
+  <Stat_Animal_EggMarketValue>卵の市場価値</Stat_Animal_EggMarketValue>
   <!-- EN: The market value of a single laid egg. -->
-  <Stat_Animal_EggMarketValueDesc>TODO</Stat_Animal_EggMarketValueDesc>
+  <Stat_Animal_EggMarketValueDesc>産まれる卵一つの市場価値です.</Stat_Animal_EggMarketValueDesc>
   <!-- EN: Egg value per year -->
-  <Stat_Animal_EggMarketValueYearly>TODO</Stat_Animal_EggMarketValueYearly>
+  <Stat_Animal_EggMarketValueYearly>一年あたりの卵の価値</Stat_Animal_EggMarketValueYearly>
   <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
-  <Stat_Animal_EggMarketValueYearlyDesc>TODO</Stat_Animal_EggMarketValueYearlyDesc>
+  <Stat_Animal_EggMarketValueYearlyDesc>通常の場合一年あたりに産む卵の,合計の価値です.\n\nこれは,一年あたりの産卵数と卵の市場価値から計算されています.</Stat_Animal_EggMarketValueYearlyDesc>
   <!-- EN: Milk type -->
-  <Stat_Animal_MilkType>TODO</Stat_Animal_MilkType>
+  <Stat_Animal_MilkType>ミルクの種類</Stat_Animal_MilkType>
   <!-- EN: The type of milk this creature produces. -->
-  <Stat_Animal_MilkTypeDesc>TODO</Stat_Animal_MilkTypeDesc>
+  <Stat_Animal_MilkTypeDesc>この生物が産出するミルクの種類です.</Stat_Animal_MilkTypeDesc>
   <!-- EN: Milk amount -->
-  <Stat_Animal_MilkAmount>TODO</Stat_Animal_MilkAmount>
+  <Stat_Animal_MilkAmount>ミルクの産出量</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
-  <Stat_Animal_MilkAmountDesc>TODO</Stat_Animal_MilkAmountDesc>
+  <Stat_Animal_MilkAmountDesc>この生物の搾乳によって産出するミルクの量です.</Stat_Animal_MilkAmountDesc>
   <!-- EN: Milking inteval -->
-  <Stat_Animal_MilkGrowthTime>TODO</Stat_Animal_MilkGrowthTime>
+  <Stat_Animal_MilkGrowthTime>搾乳間隔</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
-  <Stat_Animal_MilkGrowthTimeDesc>TODO</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkGrowthTimeDesc>この生物の,搾乳してから次に搾乳できるようになるまでの時間です.</Stat_Animal_MilkGrowthTimeDesc>
   <!-- EN: Milk per year -->
-  <Stat_Animal_MilkPerYear>TODO</Stat_Animal_MilkPerYear>
+  <Stat_Animal_MilkPerYear>一年あたりのミルク量</Stat_Animal_MilkPerYear>
   <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
-  <Stat_Animal_MilkPerYearDesc>TODO</Stat_Animal_MilkPerYearDesc>
+  <Stat_Animal_MilkPerYearDesc>この動物が一年あたりに産出するミルクの量です.\n\nこれは,ミルクの産出量と搾乳間隔から計算されています.</Stat_Animal_MilkPerYearDesc>
   <!-- EN: Milk market value -->
-  <Stat_Animal_MilkValue>TODO</Stat_Animal_MilkValue>
+  <Stat_Animal_MilkValue>ミルクの市場価値</Stat_Animal_MilkValue>
   <!-- EN: The value of one unit of this creature's milk. -->
-  <Stat_Animal_MilkValueDesc>TODO</Stat_Animal_MilkValueDesc>
+  <Stat_Animal_MilkValueDesc>この生物の産出するミルク一つの価値です.</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
-  <Stat_Animal_MilkValuePerYear>TODO</Stat_Animal_MilkValuePerYear>
+  <Stat_Animal_MilkValuePerYear>一年あたりのミルクの価値</Stat_Animal_MilkValuePerYear>
   <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
-  <Stat_Animal_MilkValuePerYearDesc>TODO</Stat_Animal_MilkValuePerYearDesc>
+  <Stat_Animal_MilkValuePerYearDesc>この生物から得られる一年あたりのミルクの市場価値は,空腹になることがなく,搾乳間隔が終わるたびに即座に搾乳されると仮定しています.\n\nこれは,一年あたりのミルク量とミルクの市場価値から計算されています.</Stat_Animal_MilkValuePerYearDesc>
   <!-- EN: Wool type -->
-  <Stat_Animal_WoolType>TODO</Stat_Animal_WoolType>
+  <Stat_Animal_WoolType>毛の種類</Stat_Animal_WoolType>
   <!-- EN: The type of wool produced by this creature. -->
-  <Stat_Animal_WoolTypeDesc>TODO</Stat_Animal_WoolTypeDesc>
+  <Stat_Animal_WoolTypeDesc>この生物が産出する毛の種類です.</Stat_Animal_WoolTypeDesc>
   <!-- EN: Wool amount -->
-  <Stat_Animal_WoolAmount>TODO</Stat_Animal_WoolAmount>
+  <Stat_Animal_WoolAmount>毛の産出量</Stat_Animal_WoolAmount>
   <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
-  <Stat_Animal_WoolAmountDesc>TODO</Stat_Animal_WoolAmountDesc>
+  <Stat_Animal_WoolAmountDesc>この生物の毛を刈り取るたびに産出する毛の量です.</Stat_Animal_WoolAmountDesc>
   <!-- EN: Wool shearing interval -->
-  <Stat_Animal_WoolGrowthTime>TODO</Stat_Animal_WoolGrowthTime>
+  <Stat_Animal_WoolGrowthTime>毛刈り間隔</Stat_Animal_WoolGrowthTime>
   <!-- EN: The time after shearing before this creature can be shorn again. -->
-  <Stat_Animal_WoolGrowthTimeDesc>TODO</Stat_Animal_WoolGrowthTimeDesc>
+  <Stat_Animal_WoolGrowthTimeDesc>この生物の毛刈り後に,再び毛を刈れるようになるまでの時間です.</Stat_Animal_WoolGrowthTimeDesc>
   <!-- EN: Wool amount per year -->
-  <Stat_Animal_WoolPerYear>TODO</Stat_Animal_WoolPerYear>
+  <Stat_Animal_WoolPerYear>一年あたりの毛量</Stat_Animal_WoolPerYear>
   <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
-  <Stat_Animal_WoolPerYearDesc>TODO</Stat_Animal_WoolPerYearDesc>
+  <Stat_Animal_WoolPerYearDesc>この生物が一年あたりに産出する毛の量です.\n\nこれは,毛の産出量と毛刈り間隔から計算されています.</Stat_Animal_WoolPerYearDesc>
   <!-- EN: Wool market value -->
-  <Stat_Animal_WoolValue>TODO</Stat_Animal_WoolValue>
+  <Stat_Animal_WoolValue>毛の市場価値</Stat_Animal_WoolValue>
   <!-- EN: The market value of one unit of this creature's wool. -->
-  <Stat_Animal_WoolValueDesc>TODO</Stat_Animal_WoolValueDesc>
+  <Stat_Animal_WoolValueDesc>この生物の毛一本の市場価値です.</Stat_Animal_WoolValueDesc>
   <!-- EN: Wool value per year -->
-  <Stat_Animal_WoolValuePerYear>TODO</Stat_Animal_WoolValuePerYear>
+  <Stat_Animal_WoolValuePerYear>一年あたりの毛の価値</Stat_Animal_WoolValuePerYear>
   <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
-  <Stat_Animal_WoolValuePerYearDesc>TODO</Stat_Animal_WoolValuePerYearDesc>
+  <Stat_Animal_WoolValuePerYearDesc>この生物から得られる一年あたりの毛の市場価値です.\n\nこれは,一年あたりの毛量と毛の市場価値から計算されています.</Stat_Animal_WoolValuePerYearDesc>
 
   <!-- EN: The amount of study that can be done on this object. -->
   <Stat_Studiable_Desc>TODO</Stat_Studiable_Desc>

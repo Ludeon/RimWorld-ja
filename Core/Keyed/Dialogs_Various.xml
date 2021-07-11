@@ -371,7 +371,7 @@
   <!-- EN: Body size -->
   <BodySize>体格</BodySize>
   <!-- EN: Growth -->
-  <Growth>TODO</Growth>
+  <Growth>成長度</Growth>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>説得の難易度</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -639,7 +639,7 @@
   <!-- EN: Items -->
   <ItemsTab>物資</ItemsTab>
   <!-- EN: Travel supplies -->
-  <TravelSupplies>TODO</TravelSupplies>
+  <TravelSupplies>移動用品</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者を割り当てなければなりません.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -741,9 +741,9 @@
   <!-- EN: tiles/day -->
   <TilesPerDay>タイル/日</TilesPerDay>
   <!-- EN: None - too heavy -->
-  <TilesPerDayImmobile>TODO</TilesPerDayImmobile>
+  <TilesPerDayImmobile>なし-重すぎる</TilesPerDayImmobile>
   <!-- EN: None -->
-  <TilesPerDayImmobileShort>TODO</TilesPerDayImmobileShort>
+  <TilesPerDayImmobileShort>なし</TilesPerDayImmobileShort>
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>移動速度は,積載重量,荷物を載せる家畜,地形の移動しやすさによって決まります.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
@@ -1092,37 +1092,37 @@
 
   <!-- Auto slaughter -->
   <!-- EN: Animal -->
-  <AutoSlaugtherHeaderColLabel>TODO</AutoSlaugtherHeaderColLabel>
+  <AutoSlaugtherHeaderColLabel>家畜</AutoSlaugtherHeaderColLabel>
   <!-- EN: Current -->
-  <AutoSlaugtherHeaderColCurrent>TODO</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColCurrent>現在の数</AutoSlaugtherHeaderColCurrent>
   <!-- EN: Max -->
-  <AutoSlaugtherHeaderColMax>TODO</AutoSlaugtherHeaderColMax>
+  <AutoSlaugtherHeaderColMax>最大数</AutoSlaugtherHeaderColMax>
   <!-- EN: Total -->
-  <AutoSlaugtherHeaderColTotal>TODO</AutoSlaugtherHeaderColTotal>
+  <AutoSlaugtherHeaderColTotal>合計</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
-  <AutoSlaugtherHeaderColOther>TODO</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <AutoSlaugtherHeaderColOther>その他</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
-  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
+  <AutoSlaugtherTip>家畜の数が最大数を超えた場合,超えた分の家畜を老齢順に屠殺します.</AutoSlaugtherTip>
 
   <!-- EN: The animal to be automatically slaughtered. -->
-  <AutoSlaugtherHeaderTooltipLabel>TODO</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipLabel>自動的に屠殺される家畜です.</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>コロニーに所属する,オスメス両方の現在の数です.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipCurrentTotal>
   <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>コロニーに所属する,オスメス両方の最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipMaxTotal>
   <!-- EN: The current number of males in the colony.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaugtherHeaderTooltipCurrentMales>コロニーに所属するオスの現在の数です.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipCurrentMales>
   <!-- EN: The maximum number of males in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaugtherHeaderTooltipMaxMales>コロニーに所属するオスの最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipMaxMales>
   <!-- EN: The current number of females in the colony.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>コロニーに所属するメスの現在の数です.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipCurrentFemales>
   <!-- EN: Desired maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaugtherHeaderTooltipMaxFemales>コロニーに所属するメスの最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipMaxFemales>
   <!-- EN: The current number of pregnant or immature animals in the colony.\n\nThese animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipOther>TODO</AutoSlaugtherHeaderTooltipOther>
+  <AutoSlaugtherHeaderTooltipOther>コロニーに所属する,妊娠中,もしくは成獣でない家畜の現在の数です.\n\nこれらの家畜は自動的に屠殺されません.</AutoSlaugtherHeaderTooltipOther>
 
   <!-- EN: Click to set an animal count limit. -->
-  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
+  <AutoSlaughterTooltipSetLimit>クリックで家畜の制限数を設定します.</AutoSlaughterTooltipSetLimit>
 
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->
@@ -1140,6 +1140,6 @@
   <!-- EN: no work facilities allowed -->
   <RoomRequirementNoProductionFacilities>生産設備の不許可</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
-  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+  <RoomRequirementNoAltars>祭壇の不許可</RoomRequirementNoAltars>
 
 </LanguageData>
