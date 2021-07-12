@@ -101,11 +101,11 @@
   <!-- EN: Renounce title -->
   <RenounceTitle>称号を放棄</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>TODO</Execute>
+  <Execute>処刑する</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
+  <ExecuteColonist>有罪の入植者を処刑します.\n\nオンに切り替えると,看守が処刑を執行します.</ExecuteColonist> <!-- text_doto -->
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>{0_labelShort}に処刑用の印が付けられました.次に手のあいた看守は,{0_objective}処刑します.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{1}の{0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -133,7 +133,7 @@
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>受精するまで成長停止</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>TODO</HatchesIn>
+  <HatchesIn>孵化している</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>{0} には {2} 必要ですが, {1} しかありません</SkillTooLow>
   <!-- EN: Freezing -->
@@ -169,7 +169,7 @@
   <!-- EN: enemies -->
   <Enemies>敵</Enemies>
   <!-- EN: people -->
-  <People>TODO</People>
+  <People>人々</People>
   <!-- EN: time passed -->
   <TimePassed>経過時間</TimePassed>
   <!-- EN: current radius -->
@@ -501,19 +501,19 @@
   <!-- EN: Warning -->
   <Warning>危険</Warning>
   <!-- EN: Has subquest -->
-  <HasSubquest>TODO</HasSubquest>
+  <HasSubquest>サブクエストがある</HasSubquest>
   <!-- EN: Subquest of -->
-  <SubquestOf>TODO</SubquestOf>
+  <SubquestOf>サブクエスト</SubquestOf>
   <!-- EN: Raid -->
-  <Raid>TODO</Raid>
+  <Raid>襲撃者</Raid>
   <!-- EN: Disabled by -->
-  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
+  <ApparelRequirementDisabledLabel>無効化</ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>TODO</Nudism>
+  <Nudism>ヌーディズム</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>TODO</StudyProgress>
+  <StudyProgress>学習の進捗</StudyProgress>
   <!-- EN: completed -->
-  <StudyCompleted>TODO</StudyCompleted>
+  <StudyCompleted>完了</StudyCompleted>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -533,7 +533,7 @@
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>内容物 {0} / {1} ビール</ContainsBeer>
   <!-- EN: Contains -->
-  <Contains>TODO</Contains>
+  <Contains>内容物</Contains>
   <!-- EN: Fermented -->
   <Fermented>発酵した</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -617,11 +617,11 @@
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
   <UnpennedTooltip>家畜の囲いは,囲われた領域内にペンマーカーを建築することで作成できます.運搬人は家畜を適切な囲いに連れて行きます.ペンはフェンスやバリケード,壁,ドアで囲うことができます.</UnpennedTooltip>
   <!-- EN: Roped by -->
-  <RopedByPawn>TODO</RopedByPawn>
+  <RopedByPawn>人に誘導されている</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>TODO</RopedToThing>
+  <RopedToThing>場所に誘導されている</RopedToThing>
   <!-- EN: Roped to spot. -->
-  <RopedToSpot>TODO</RopedToSpot>
+  <RopedToSpot>スポットに誘導されている.</RopedToSpot>
   <!-- EN: Pen size -->
   <PenSizeLabel>ペンサイズ</PenSizeLabel>
   <!-- EN: Very small pen -->
@@ -635,20 +635,20 @@
   <!-- EN: Not enclosed - build fences -->
   <PenSizeDesc_Unenclosed>開放 - フェンスを建ててください</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
-  <PenCapacityDesc>TODO</PenCapacityDesc>
+  <PenCapacityDesc>{ANIMALDEF_label}の収容能力</PenCapacityDesc>
 
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>操作できないキャラクターです</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} は野蛮なことはできません</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort}は 野蛮なことはできません</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>野蛮なことをしない</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort} は徴兵されていない</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort}は 徴兵されていない</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
+  <ApparelPreventsShooting>{PAWN_nameDef}は{APPAREL_label}を身に着けているため,遠隔武器を使用できません</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -692,7 +692,7 @@
   <!-- EN: resting. -->
   <ReportResting>休憩中</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>TODO</ReportLayingDown>
+  <ReportLayingDown>倒れている</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>夜明けを眺めている</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -766,7 +766,7 @@
   <!-- EN: make {0} -->
   <RecipeMake>{0}を作る</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>{0}を作ります.</RecipeMakeDescription>
+  <RecipeMakeDescription>{0}を作る</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>{0}を作っている</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -920,7 +920,7 @@
   <!-- EN: Ingredients -->
   <Ingredients>原料</Ingredients>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>同種の食事とのみスタック</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -1058,7 +1058,7 @@
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>屋根の下には配置できません.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>厚い岩盤の下に配置する必要があります.</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>宇宙船骨格の先端に配置してください.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -1078,7 +1078,7 @@
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>罠の近くには置くことができません.</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>同じタイプの別の建物の近くには置くことができません.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1152,7 +1152,7 @@
   <!-- EN: Quality -->
   <Quality>品質</Quality>
   <!-- EN: quality -->
-  <quality>TODO</quality>
+  <quality>品質</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>アイテムがどの位良く作られたかを示しています.</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1202,9 +1202,9 @@
   <!-- EN: inactive -->
   <InactiveFacility>機能していない</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>接続</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
-  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
+  <FacilityNoPotentialLinks>建物に接続されてない</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->

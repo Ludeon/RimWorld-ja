@@ -55,7 +55,7 @@
   <!-- EN: Add bill -->
   <AddBill>新しい 加工</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>{0}が必要とするスキルは足りません. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>{0}に必要なスキルが足りません.このスキルレベルを持つ入植者が一人もいないため,誰もこのレシピを実行できません.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>必要スキル</MinimumSkill>
   <!-- EN: SUSPENDED -->
@@ -85,9 +85,9 @@
   <!-- EN: Resistance -->
   <RecruitmentResistance>敵対心がある</RecruitmentResistance>
   <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
-  <RecruitmentResistanceDesc>TODO</RecruitmentResistanceDesc>
+  <RecruitmentResistanceDesc>この囚人がコロニーに加わることについて,どれほど疑いを持っているかを表します.この値がゼロになると,勧誘の試みができるようになります.</RecruitmentResistanceDesc>
   <!-- EN: {0} base resistance -->
-  <RecruitmentResistanceFromPawnKind>TODO</RecruitmentResistanceFromPawnKind>
+  <RecruitmentResistanceFromPawnKind>基本敵対心{0}</RecruitmentResistanceFromPawnKind>
   <!-- EN: Relations gain on release -->
   <PrisonerReleasePotentialRelationGains>囚人解放時の関係改善値</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
@@ -101,15 +101,15 @@
   <!-- EN: Not while asleep -->
   <NotWhileAsleep>眠っていない時</NotWhileAsleep>
   <!-- EN: Breaking out now -->
-  <CurrentlyPrisonBreaking>TODO</CurrentlyPrisonBreaking>
+  <CurrentlyPrisonBreaking>脱獄している</CurrentlyPrisonBreaking>
   <!-- EN: Multiplier for door count -->
-  <FactorForDoorCount>TODO</FactorForDoorCount>
+  <FactorForDoorCount>ドア数の掛け率</FactorForDoorCount>
   <!-- EN: Multiplier for movement -->
-  <FactorForMovement>TODO</FactorForMovement>
+  <FactorForMovement>移動速度の掛け率</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>奴隷価格</SlavePrice>
   <!-- EN: The base market value of this {0} if sold. -->
-  <SlavePriceDescription>TODO</SlavePriceDescription>
+  <SlavePriceDescription>{0}を売却する場合の基本市場価値です.</SlavePriceDescription>
   <!-- EN: Gets food -->
   <GetsFood>食べ物を 与えます</GetsFood>
   <!-- EN: Doctors care -->
@@ -197,7 +197,7 @@
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0}の自己治療を有効にすると,通常の{1}の効率で,自動的にその場において,彼ら自身を治療します.</SelfTendTip>
   <!-- EN: death in {0} -->
-  <DeathIn>TODO</DeathIn>
+  <DeathIn>{0}によって死亡</DeathIn>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -290,9 +290,9 @@
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>TODO</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals>家畜を集める</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>TODO</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>家畜を集める(待機中)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
   <FormingCaravanStatus_GatheringItems>アイテムを集める</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
@@ -347,9 +347,9 @@
   <!-- EN: The total nutrition of stockpiled food in the pen. -->
   <PenFoodTab_StockpileTotalDescription>囲いの中に備蓄された食料の総栄養量です.</PenFoodTab_StockpileTotalDescription>
   <!-- EN: Days to stockpile exhaustion -->
-  <PenFoodTab_StockpileEmptyDays>TODO</PenFoodTab_StockpileEmptyDays>
+  <PenFoodTab_StockpileEmptyDays>備蓄物の消費日数</PenFoodTab_StockpileEmptyDays>
   <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
-  <PenFoodTab_StockpileEmptyDaysDescription>TODO</PenFoodTab_StockpileEmptyDaysDescription>
+  <PenFoodTab_StockpileEmptyDaysDescription>栄養消費量がこの囲いの中の栄養成長率を上回っています.家畜は最終的にすべての備蓄物を食べ尽くして,飢えるでしょう.</PenFoodTab_StockpileEmptyDaysDescription>
 
   <!-- EN: Animal type -->
   <PenFoodTab_AnimalType>家畜の種類</PenFoodTab_AnimalType>
@@ -389,7 +389,7 @@
   <PenFoodTab_AnimalTypeAnimalCapacity>囲いの中に他の家畜がいない状態で飼育できる数</PenFoodTab_AnimalTypeAnimalCapacity>
 
   <!-- EN: Edible now -->
-  <PenFoodTab_EdibleNow>TODO</PenFoodTab_EdibleNow>
+  <PenFoodTab_EdibleNow>今食べることができる</PenFoodTab_EdibleNow>
 
   <!-- EN: Auto-cut plants in pen -->
   <PenAutoCut_EnabledCheckbox>ペン内の植物の自動刈り取り</PenAutoCut_EnabledCheckbox>

@@ -7,7 +7,7 @@
   <AncientCryptosleepCasket.description>遙か昔に作られた冬眠カプセルのようです.中には誰か入っているのでしょうか？</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>キャラバン隊荷積み地点</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>キャラバンスポット</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
   <CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します.備蓄庫のそばに置くと荷積み作業がスピードアップします.</CaravanPackingSpot.description>
   
@@ -76,7 +76,7 @@
   <!-- EN: pen marker -->
   <PenMarker.label>ペンマーカー</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
-  <PenMarker.description>家畜の囲いを指定する目印としての支柱です.フェンス,バリケード,壁,ドアで囲まれた場所に配置する必要があります.各ペンマーカーには家畜の種類を割り当てることができ,調教師は家畜を適切なペンに連れて行きます.</PenMarker.description>
+  <PenMarker.description>家畜の囲いを指定する目印としての支柱です.フェンスやバリケード,壁,ドアで囲まれた場所に配置する必要があります.各ペンマーカーには家畜の種類を割り当てることができ,調教師は家畜を適切なペンに連れて行きます.</PenMarker.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>ポッドランチャー</PodLauncher.label>

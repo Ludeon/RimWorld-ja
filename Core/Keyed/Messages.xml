@@ -66,14 +66,14 @@
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort}は{GUN_label}に使う弾薬を見つけられません.</MessageOutOfNearbyShellsFor>
   <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
-  <MessageOutOfNearbyFuelFor>TODO</MessageOutOfNearbyFuelFor>
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort}は{GUN_label}に使う{FUEL}を見つけられません.</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>警告：{ANIMAL_kindBasePlural}はライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>警告：{ANIMAL_kindBasePlural}は手懐けるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
-  <MessageInsectTameDesignated>TODO</MessageInsectTameDesignated>
+  <MessageInsectTameDesignated>虫への共感性を持った人でなければ,{INSECT_indefinite}を手懐けることはできません.</MessageInsectTameDesignated>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
@@ -84,7 +84,7 @@
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort}は{1}を手懐けました.そして{RECRUITEE_objective}{RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
   <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
-  <MessageTameNoSuitablePens>TODO</MessageTameNoSuitablePens>
+  <MessageTameNoSuitablePens>{ANIMAL_labelShort}に適した家畜用ペンマーカーがありません.このままでは最終的に遠くまで徘徊します.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
   <MessageRecruitJoinOfferAccepted>{RECRUITEE}はコロニーに参加しました.</MessageRecruitJoinOfferAccepted>
 
@@ -180,7 +180,7 @@
   <MessageAttackedByPredator>{PREY_labelShort}は{PREDATOR}に襲われました! </MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>TODO</MessageRoamerLeaving>
+  <MessageRoamerLeaving>{PAWN_labelShort}が遠くまで徘徊し始めました!家畜の調教師が囲いの中に誘導して戻さない限り,{PAWN_pronoun}はこのエリアから立ち去るでしょう.</MessageRoamerLeaving>
 
   <!-- EN: Cannot auto-cut plants when pen is not enclosed - build fences. -->
   <MessageAutoCutInUnenclosedPen>ペンが囲われてない場合,植物を自動刈り取りできません.フェンスを建ててください.</MessageAutoCutInUnenclosedPen>
@@ -349,25 +349,25 @@
   <!-- EN: Cannot equip: {0}. -->
   <MessageCantEquipCustom>装備不可: {0}.</MessageCantEquipCustom>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>装備不可:{1_labelShort} は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>装備不可: {1_labelShort}は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
-  <MessageCantEquipIncapableOfShooting>TODO</MessageCantEquipIncapableOfShooting>
+  <MessageCantEquipIncapableOfShooting>装備不可: {1_labelShort}は射撃行為を否定しています.</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
-  <MessageCantEquipIncapableOfManipulation>装備不可:欠点に該当しています.</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>装備不可: 欠点に該当しています.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
-  <MessageCantWearApparelMissingBodyParts>着用不可: {1_labelShort} には必要な部位が欠損しています.</MessageCantWearApparelMissingBodyParts>
+  <MessageCantWearApparelMissingBodyParts>着用不可: {1_labelShort}には必要な部位が欠損しています.</MessageCantWearApparelMissingBodyParts>
   <!-- EN: This person refuses to remove this. -->
-  <MessageCantUnequipLockedApparel>これを手放すのは拒否する.</MessageCantUnequipLockedApparel>
+  <MessageCantUnequipLockedApparel>これを手放すことを嫌がります.</MessageCantUnequipLockedApparel>
   <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
-  <MessageWouldReplaceLockedApparel>着用不可: {1_labelShort} と置き換えになるので,これは手放すのを嫌がる .</MessageWouldReplaceLockedApparel>
+  <MessageWouldReplaceLockedApparel>着用不可: {1_labelShort}と置き換えることになるので,手放すことを嫌がります.</MessageWouldReplaceLockedApparel>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>{DESIGNATED_labelShort}を 屠殺しようとすると 絆がある{BONDED_labelShort}を 不満にさせるでしょう.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>{DESIGNATED_labelShort}を屠殺すると,絆がある{BONDED_labelShort}を不満にさせるでしょう.</MessageSlaughteringBondedAnimal>
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageReleaseBondedAnimal>TODO</MessageReleaseBondedAnimal>
+  <MessageReleaseBondedAnimal>{DESIGNATED_labelShort}を野生に返すと,絆がある{BONDED_labelShort}を不満にさせるでしょう.</MessageReleaseBondedAnimal>
   
   <!-- EN: {0} has run out of food. -->
-  <MessageCaravanRanOutOfFood>{0}は 食料を食べ尽くしました.</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>{0}は食料を食べ尽くしました.</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
   <MessageCaravanDeathCorpseAddedToInventory>{PAWN_definite}の死体はキャラバン隊によって回収されました.それはとても重く,キャラバン隊は動けなくなるかもしれませんが,キャラバン隊のアイテムタブより,それを置いていくこともできます.</MessageCaravanDeathCorpseAddedToInventory>
 
@@ -559,7 +559,7 @@
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
   <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので,{1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
   <!-- EN: {1_labelShort} has been returned to the wild. -->
-  <MessageAnimalReturnedWildReleased>TODO</MessageAnimalReturnedWildReleased>
+  <MessageAnimalReturnedWildReleased>{1_labelShort}は野生に戻されました.</MessageAnimalReturnedWildReleased>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
   <MessageAnimalLostSkill>定期的に訓練していなかったので,{ANIMAL_labelShort}はスキルを忘れました：{1}</MessageAnimalLostSkill>
 
@@ -626,7 +626,7 @@
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
-  <MessageResearchMenuWithoutBench>警告：研究卓を用意するまで研究は始まりません.</MessageResearchMenuWithoutBench>
+  <MessageResearchMenuWithoutBench>警告: 研究卓を用意するまで研究は始まりません.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
   <MessageActivatorProximityTriggered>{0_indefinite}は近接信管に触れた.</MessageActivatorProximityTriggered>
@@ -638,91 +638,91 @@
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef}は囚人です.</MessagePrisonerCannotEquipWeapon>
 
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
-  <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
+  <MessageIdeoOpposedWorkTypeSelected>警告: {1}の仕事は{0_nameDef}の信条に反しています.{0_pronoun}は嫌な気持ちになるかもしれません.</MessageIdeoOpposedWorkTypeSelected>
 
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
-  <MessageBedLostAssignment>TODO</MessageBedLostAssignment>
+  <MessageBedLostAssignment>{1_nameDef}に{0}が割り当てられなくなりました.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
-  <MessageBedDestroyed>TODO</MessageBedDestroyed>
+  <MessageBedDestroyed>{1_nameDef}に割り当てられていた{0}が破壊されました.</MessageBedDestroyed>
 
   <!-- Rituals -->
   <!-- EN: spectate -->
-  <Spectate>TODO</Spectate>
+  <Spectate>見物人</Spectate>
   <!-- EN: Assign to {0} -->
-  <AssignToRole>TODO</AssignToRole>
+  <AssignToRole>{0}に割り当てる</AssignToRole>
   <!-- EN: {0} has begun. -->
-  <RitualBegun>TODO</RitualBegun>
+  <RitualBegun>{0}が始まりました.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
-  <MaxPawnsPerRole>TODO</MaxPawnsPerRole>
+  <MaxPawnsPerRole>{0}の最大数は{1}です.</MaxPawnsPerRole>
   <!-- EN: You need at least one participant. -->
-  <MessageRitualNeedsAtLeastOnePerson>TODO</MessageRitualNeedsAtLeastOnePerson>
+  <MessageRitualNeedsAtLeastOnePerson>最低でも一人の参加者が必要です.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
-  <MessageRitualNeedsAtLeastOneSpectator>TODO</MessageRitualNeedsAtLeastOneSpectator>
+  <MessageRitualNeedsAtLeastOneSpectator>最低でも一人の見物人が必要です.</MessageRitualNeedsAtLeastOneSpectator>
   <!-- EN: You need a {0}. -->
-  <MessageRitualNeedsAtLeastOneRolePawn>TODO</MessageRitualNeedsAtLeastOneRolePawn>
+  <MessageRitualNeedsAtLeastOneRolePawn>{0}が必要です.</MessageRitualNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->
-  <MessageRitualNeedsAtLeastNumRolePawn>TODO</MessageRitualNeedsAtLeastNumRolePawn>
+  <MessageRitualNeedsAtLeastNumRolePawn>最低でも{1}人の{0}が必要です.</MessageRitualNeedsAtLeastNumRolePawn>
   <!-- EN: {0_labelShort} is downed. -->
-  <MessageRitualPawnDowned>TODO</MessageRitualPawnDowned>
+  <MessageRitualPawnDowned>{0_labelShort}が倒れています.</MessageRitualPawnDowned>
   <!-- EN: {0_labelShort} is currently escaping. -->
-  <MessageRitualPawnPrisonerNotSecured>TODO</MessageRitualPawnPrisonerNotSecured>
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort}は現在逃げています.</MessageRitualPawnPrisonerNotSecured>
   <!-- EN: {0_labelShort} is currently rebelling. -->
-  <MessageRitualPawnSlaveNotSecured>TODO</MessageRitualPawnSlaveNotSecured>
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort}は現在反抗しています.</MessageRitualPawnSlaveNotSecured>
   <!-- EN: {0_labelShort} is being released. -->
-  <MessageRitualPawnReleased>TODO</MessageRitualPawnReleased>
+  <MessageRitualPawnReleased>{0_labelShort}は今は野に放たれています.</MessageRitualPawnReleased>
   <!-- EN: {0_labelShort} is injured. -->
-  <MessageRitualPawnInjured>TODO</MessageRitualPawnInjured>
+  <MessageRitualPawnInjured>{0_labelShort}は負傷しています.</MessageRitualPawnInjured>
   <!-- EN: {0_labelShort} must hold one of these roles -->
-  <MessageRitualRoleRequired>TODO</MessageRitualRoleRequired>
+  <MessageRitualRoleRequired>{0_labelShort}はこれらの役割のいずれかを保持する必要がある</MessageRitualRoleRequired>
   <!-- EN: {0} must be a prisoner. -->
-  <MessageRitualRoleMustBePrisoner>TODO</MessageRitualRoleMustBePrisoner>
+  <MessageRitualRoleMustBePrisoner>{0}は囚人である必要があります.</MessageRitualRoleMustBePrisoner>
   <!-- EN: {0} must be an animal. -->
-  <MessageRitualRoleMustBeAnimal>TODO</MessageRitualRoleMustBeAnimal>
+  <MessageRitualRoleMustBeAnimal>{0}は家畜である必要があります.</MessageRitualRoleMustBeAnimal>
   <!-- EN: {0} must be a human. -->
-  <MessageRitualRoleMustBeHumanlike>TODO</MessageRitualRoleMustBeHumanlike>
+  <MessageRitualRoleMustBeHumanlike>{0}は人間である必要があります.</MessageRitualRoleMustBeHumanlike>
   <!-- EN: {0} must have eyes -->
-  <MessageRitualRoleMustHaveEyes>TODO</MessageRitualRoleMustHaveEyes>
+  <MessageRitualRoleMustHaveEyes>{0}は目を持っている必要があります</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
-  <MessageRitualRoleMustRequireScarification>TODO</MessageRitualRoleMustRequireScarification>
+  <MessageRitualRoleMustRequireScarification>{0_labelShort}はこれ以上のスカリフィケーションを必要としません.</MessageRitualRoleMustRequireScarification>
   <!-- EN: {0} must be a prisoner or slave. -->
-  <MessageRitualRoleMustBePrisonerOrSlave>TODO</MessageRitualRoleMustBePrisonerOrSlave>
+  <MessageRitualRoleMustBePrisonerOrSlave>{0}は囚人か奴隷である必要があります.</MessageRitualRoleMustBePrisonerOrSlave>
   <!-- EN: {0_labelShort} must be capable of fighting. -->
-  <MessageRitualRoleMustBeCapableOfFighting>TODO</MessageRitualRoleMustBeCapableOfFighting>
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort}は戦える必要があります.</MessageRitualRoleMustBeCapableOfFighting>
   <!-- EN: {0_labelShort} must be capable of wardening. -->
-  <MessageRitualRoleMustBeCapableOfWardening>TODO</MessageRitualRoleMustBeCapableOfWardening>
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort}は監視できる必要があります.</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->
-  <MessageRitualRoleMustBeCapableOfGeneric>TODO</MessageRitualRoleMustBeCapableOfGeneric>
+  <MessageRitualRoleMustBeCapableOfGeneric>{0}は{1}である必要があります.</MessageRitualRoleMustBeCapableOfGeneric>
   <!-- EN: prisoners cannot {0}. -->
-  <MessageRitualRoleMustNotBePrisonerToSpectate>TODO</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <MessageRitualRoleMustNotBePrisonerToSpectate>囚人は{0}ができません.</MessageRitualRoleMustNotBePrisonerToSpectate>
   <!-- EN: only {0} can {1}. -->
-  <MessageRitualRoleMustHaveIdeoToSpectate>TODO</MessageRitualRoleMustHaveIdeoToSpectate>
+  <MessageRitualRoleMustHaveIdeoToSpectate>{0}のみが{1}をできます.</MessageRitualRoleMustHaveIdeoToSpectate>
   <!-- EN: only {0} can fill the role of {1}. -->
-  <MessageRitualRoleMustHaveIdeoToDoRole>TODO</MessageRitualRoleMustHaveIdeoToDoRole>
+  <MessageRitualRoleMustHaveIdeoToDoRole>{0}のみが{1}の役割を果たせます.</MessageRitualRoleMustHaveIdeoToDoRole>
   <!-- EN: must be colonist for the {0} role. -->
-  <MessageRitualRoleMustBeColonist>TODO</MessageRitualRoleMustBeColonist>
+  <MessageRitualRoleMustBeColonist>{0}の役割を持つ入植者である必要があります.</MessageRitualRoleMustBeColonist>
   <!-- EN: {0} must have an animal with min body size of {1}. -->
-  <MessageRitualRoleMustHaveLargerBodySize>TODO</MessageRitualRoleMustHaveLargerBodySize>
+  <MessageRitualRoleMustHaveLargerBodySize>{0}には,{1}が最小の体のサイズの家畜が必要です.</MessageRitualRoleMustHaveLargerBodySize>
   <!-- EN: {0_labelShort} is in a mental state. -->
-  <MessageRitualPawnMentalState>TODO</MessageRitualPawnMentalState>
+  <MessageRitualPawnMentalState>{0_labelShort}は精神が衰弱しています.</MessageRitualPawnMentalState>
   <!-- EN: {0_labelShort} is already {1}. -->
-  <MessageRitualPawnIsAlreadyBelievingIdeo>TODO</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort}はすでに{1}です.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
-  <MessageRitualCannotAssignAnyRoleFromSpectating>TODO</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort}は見物人以外の役割を担うことはできません.</MessageRitualCannotAssignAnyRoleFromSpectating>
 
   <!-- EN: You must select a site to continue. -->
-  <MessagePlayerMustSelectTile>TODO</MessagePlayerMustSelectTile>
+  <MessagePlayerMustSelectTile>続行するには,敷地を選択する必要があります.</MessagePlayerMustSelectTile>
 
   <!-- EN: Cannot plant {0_labelShort} -->
-  <CannotPlantThing>TODO</CannotPlantThing>
+  <CannotPlantThing>{0_labelShort}は植えられない</CannotPlantThing>
   <!-- EN: Need more fertile terrain. -->
-  <MessageWarningNotEnoughFertility>TODO</MessageWarningNotEnoughFertility>
+  <MessageWarningNotEnoughFertility>より肥沃な地形が必要です.</MessageWarningNotEnoughFertility>
   <!-- EN: blocked by {0_label}. -->
-  <BlockedBy>{0_label}が邪魔になっている</BlockedBy>
+  <BlockedBy>{0_label}が邪魔になっています.</BlockedBy>
   <!-- EN: Cannot be planted next to {0_label}. -->
-  <AdjacentSowBlocker>TODO</AdjacentSowBlocker>
+  <AdjacentSowBlocker>{0_label}の隣には植えられません.</AdjacentSowBlocker>
   <!-- EN: Too close to {0_label}. -->
-  <TooCloseToOtherPlant>TODO</TooCloseToOtherPlant>
+  <TooCloseToOtherPlant>{0_label}に近すぎます.</TooCloseToOtherPlant>
   <!-- EN: Too close to {0_label}'s planting location. -->
-  <TooCloseToOtherSeedPlantCell>TODO</TooCloseToOtherSeedPlantCell>
+  <TooCloseToOtherSeedPlantCell>{0_label}の植え付け場所に近すぎます.</TooCloseToOtherSeedPlantCell>
   
 </LanguageData>

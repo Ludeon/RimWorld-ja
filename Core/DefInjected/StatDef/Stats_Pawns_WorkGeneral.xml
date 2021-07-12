@@ -4,7 +4,7 @@
   <!-- EN: animal gather speed -->
   <AnimalGatherSpeed.label>家畜・収穫速度</AnimalGatherSpeed.label>
   <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
-  <AnimalGatherSpeed.description>この人が,乳絞り,毛刈り等,家畜からリソースを収穫する速度です.</AnimalGatherSpeed.description>
+  <AnimalGatherSpeed.description>乳絞り,毛刈り等,家畜からリソースを収穫する速度です.</AnimalGatherSpeed.description>
   
   <!-- EN: animal gather yield -->
   <AnimalGatherYield.label>家畜・収穫収率</AnimalGatherYield.label>
@@ -24,12 +24,12 @@
   <!-- EN: deep drilling speed -->
   <DeepDrillingSpeed.label>深部採掘速度</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
-  <DeepDrillingSpeed.description>この人が深部ドリルマシンで地下資源を抽出する速度です.</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.description>深部ドリルマシンで地下資源を抽出する速度です.</DeepDrillingSpeed.description>
   
   <!-- EN: drug crop harvest yield -->
-  <DrugHarvestYield.label>TODO</DrugHarvestYield.label>
+  <DrugHarvestYield.label>ドラッグ作物・収率</DrugHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
-  <DrugHarvestYield.description>TODO</DrugHarvestYield.description>
+  <DrugHarvestYield.description>ドラッグ作物を収穫するときの収量です.\n\n数値が低いほど,うっかり無駄にしてしまう可能性があがります.また,数値が高いほど,植物から得られる収量が増加します.</DrugHarvestYield.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>修理・成功率</FixBrokenDownBuildingSuccessChance.label>
@@ -44,7 +44,7 @@
   <!-- EN: mining speed -->
   <MiningSpeed.label>掘削・速度</MiningSpeed.label>
   <!-- EN: A speed at which this person mines away walls. -->
-  <MiningSpeed.description>この人が壁を掘削する速度です.</MiningSpeed.description>
+  <MiningSpeed.description>壁を掘削する速度です.</MiningSpeed.description>
   
   <!-- EN: mining yield -->
   <MiningYield.label>掘削・収率</MiningYield.label>
@@ -69,11 +69,11 @@
   <!-- EN: smoothing speed -->
   <SmoothingSpeed.label>地面をならす速度</SmoothingSpeed.label>
   <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
-  <SmoothingSpeed.description>この人が,表面の粗い岩を磨くスピードへの掛け率です.</SmoothingSpeed.description>
+  <SmoothingSpeed.description>表面の粗い岩を磨くスピードへの掛け率です.</SmoothingSpeed.description>
   
   <!-- EN: global work speed -->
   <WorkSpeedGlobal.label>基本的な作業速度</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
-  <WorkSpeedGlobal.description>この人の基本的な作業速度への掛け率です.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.description>基本的な作業速度への掛け率です.</WorkSpeedGlobal.description>
   
 </LanguageData>

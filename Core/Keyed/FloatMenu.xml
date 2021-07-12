@@ -36,7 +36,7 @@
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>暴力行為ができない</IncapableOfViolenceLower>
   <!-- EN: {0_labelShort} is incapable of shooting -->
-  <IsIncapableOfShootingLower>TODO</IsIncapableOfShootingLower>
+  <IsIncapableOfShootingLower>{1_labelShort}は射撃できない</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort}は徴兵されていない</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
@@ -58,7 +58,7 @@
   <!-- EN: burying -->
   <Burying>を埋葬する</Burying>
   <!-- EN: designated for {0} -->
-  <DesignatedFor>TODO</DesignatedFor>
+  <DesignatedFor>{0}に指定する</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>禁止</ForbiddenLower>
@@ -83,13 +83,13 @@
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>認められたスキル以上 {0}</AboveAllowedSkill>
   <!-- EN: no reachable outside cell -->
-  <NoReachableOutsideCell>TODO</NoReachableOutsideCell>
+  <NoReachableOutsideCell>到達可能な外部セルがない</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>要求するスキルレベルが無い</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>動物への調教間隔が短い</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
-  <NoUsableFood>エサがない</NoUsableFood>
+  <NoUsableFood>食べられるエサがない</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>エサがない</NoFood>
   <!-- EN: below requirements of {0} -->
@@ -103,21 +103,21 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>動物は他に気を奪われている</CantInteractAnimalBusy>
   <!-- EN: no allowed reachable pens -->
-  <CantRopeAnimalNoUsableReachablePens>TODO</CantRopeAnimalNoUsableReachablePens>
+  <CantRopeAnimalNoUsableReachablePens>到達可能なペンが許可されていない</CantRopeAnimalNoUsableReachablePens>
   <!-- EN: no enclosed pens -->
-  <CantRopeAnimalNoEnclosedPens>TODO</CantRopeAnimalNoEnclosedPens>
+  <CantRopeAnimalNoEnclosedPens>囲われたペンがない</CantRopeAnimalNoEnclosedPens>
   <!-- EN: no allowed pens -->
-  <CantRopeAnimalNoAllowedPens>TODO</CantRopeAnimalNoAllowedPens>
+  <CantRopeAnimalNoAllowedPens>ペンが許可されていない</CantRopeAnimalNoAllowedPens>
   <!-- EN: no reachable pens -->
-  <CantRopeAnimalNoReachablePens>TODO</CantRopeAnimalNoReachablePens>
+  <CantRopeAnimalNoReachablePens>到達可能なペンがない</CantRopeAnimalNoReachablePens>
   <!-- EN: can't touch -->
-  <CantRopeAnimalCantTouch>TODO</CantRopeAnimalCantTouch>
+  <CantRopeAnimalCantTouch>干渉できない</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
-  <CantRopeAnimalNoSpace>TODO</CantRopeAnimalNoSpace>
+  <CantRopeAnimalNoSpace>ペンに空間がない</CantRopeAnimalNoSpace>
   <!-- EN: already in best pen -->
-  <CantRopeAnimalAlreadyInBestPen>TODO</CantRopeAnimalAlreadyInBestPen>
+  <CantRopeAnimalAlreadyInBestPen>すでに最良の囲いの中にいる</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>{0} スキルが低すぎる</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>{0}スキルが低すぎる</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -161,7 +161,7 @@
   <!-- EN: violation of faction ally -->
   <SurgeryViolationFellowFactionMember>同盟派閥の妨害</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
-  <BeingCarriedBy>TODO</BeingCarriedBy>
+  <BeingCarriedBy>{0_labelShort}によって運ばれている</BeingCarriedBy>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
@@ -178,7 +178,7 @@
   <!-- EN: Cannot arrest -->
   <CannotArrest>逮捕できない</CannotArrest>
   <!-- EN: {0} chance of arrest -->
-  <ArrestChance>TODO</ArrestChance>
+  <ArrestChance>逮捕成功率 {0}</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>{1_label}を捕らえる</Capture>
@@ -205,7 +205,7 @@
   <!-- EN: Hosted prisoners not allowed. -->
   <CryptosleepCasketGuestPrisonersNotAllowed>収容された囚人は許可されていない</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: Already occupied -->
-  <CryptosleepCasketOccupied>TODO</CryptosleepCasketOccupied>
+  <CryptosleepCasketOccupied>すでに占有されている</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>周囲を壁で遮断された,到達可能な,安全な温度の,予約されていない囚人用ベッドがない</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -271,9 +271,9 @@
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>{1_labelShort}x{{0}}を拾う</PickUpCount>
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUpSome>TODO</CannotPickUpSome>
+  <CannotPickUpSome>{1_labelShort}を拾えない</CannotPickUpSome>
   <!-- EN: {0} {1} allowed -->
-  <MaxPickUpAllowed>TODO</MaxPickUpAllowed>
+  <MaxPickUpAllowed>{1}は{0}つまでしか持てない</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>{1_label}を駄載獣に与えられない</CannotGiveToPackAnimal>
@@ -317,9 +317,9 @@
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>{1_label}を外せない</CannotDrop>
   <!-- EN: Carry {0_label} -->
-  <Carry>TODO</Carry>
+  <Carry>{0_label}を運ぶ</Carry>
   <!-- EN: Cannot carry {0_label} -->
-  <CannotCarry>TODO</CannotCarry>
+  <CannotCarry>{0_label}を運べない</CannotCarry>
   <!-- EN: temporary faction member -->
   <QuestRelated>派閥構成員(仮)</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -328,9 +328,9 @@
   <WouldReplaceLockedApparel>ロックされた服装を交換する</WouldReplaceLockedApparel>
 
   <!-- EN: Cannot place {0_label} in {1_label} -->
-  <CannotPlaceIn>TODO</CannotPlaceIn>
+  <CannotPlaceIn>{0_label}を{1_label}に寝かせられない</CannotPlaceIn>
   <!-- EN: Place {0_label} in {1_label} -->
-  <PlaceIn>TODO</PlaceIn>
+  <PlaceIn>{0_label}を{1_label}に寝かせる</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
@@ -408,11 +408,11 @@
   <WillNever>"{0}" しない</WillNever>
 
   <!-- EN: Cannot prioritize: Not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>優先できない: {0}の割り当て無し</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>優先できない: {0}の割り当てなし</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
-  <NotAssigned>割り当て無し</NotAssigned>
+  <NotAssigned>割り当てなし</NotAssigned>
   <!-- EN: not assigned to {0} -->
-  <NotAssignedToWorkType>TODO</NotAssignedToWorkType>
+  <NotAssignedToWorkType>{0}の割り当てなし</NotAssignedToWorkType>
 
   <!-- EN: Cannot prioritize: Research is a long-term task -->
   <CannotPrioritizeResearch>優先できない: 研究は優先順位をつけられない</CannotPrioritizeResearch>
@@ -424,7 +424,7 @@
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
   <!-- EN: Cannot prioritize burying -->
-  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
+  <CannotPrioritizeBurying>埋葬を優先できない</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -474,7 +474,7 @@
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>贈り物として{0}に与える ({1})</GiveGiftViaTransportPods>
   <!-- EN: Not part of launch group -->
-  <NotPartOfLaunchGroup>TODO</NotPartOfLaunchGroup>
+  <NotPartOfLaunchGroup>発射グループの一部でない</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
@@ -490,29 +490,29 @@
 
   <!-- CommsConsole -->
   <!-- EN: Nobody to call -->
-  <NoCommsTarget>TODO</NoCommsTarget>
+  <NoCommsTarget>誰も呼び出せない</NoCommsTarget>
 
   <!-- EN: Invoke {0} -->
-  <Invoke>TODO</Invoke>
+  <Invoke>{0}を呼び出す</Invoke>
   <!-- EN: Cannot invoke {0} -->
-  <CannotInvoke>TODO</CannotInvoke>
+  <CannotInvoke>{0}を呼び出せない</CannotInvoke>
   <!-- EN: power -->
-  <Power>TODO</Power>
+  <Power>電力</Power>
   <!-- EN: already invoked -->
-  <AlreadyInvoked>TODO</AlreadyInvoked>
+  <AlreadyInvoked>すでに呼び出している</AlreadyInvoked>
 
   <!-- EN: Tend {0} -->
-  <Tend>TODO</Tend>
+  <Tend>{0}を看護する</Tend>
   <!-- EN: Cannot tend {0} -->
-  <CannotTend>TODO</CannotTend>
+  <CannotTend>{0}を看護できない</CannotTend>
   <!-- EN: {0} does not require tending -->
-  <TendingNotRequired>TODO</TendingNotRequired>
+  <TendingNotRequired>{0}には看護の必要がありません</TendingNotRequired>
   <!-- EN: without medicine -->
-  <WithoutMedicine>TODO</WithoutMedicine>
+  <WithoutMedicine>薬品は不使用</WithoutMedicine>
 
   <!-- EN: Repair {0} -->
-  <RepairThing>TODO</RepairThing>
+  <RepairThing>{0}を修理する</RepairThing>
   <!-- EN: Cannot repair {0} -->
-  <CannotRepair>TODO</CannotRepair>
+  <CannotRepair>{0}を修理できない</CannotRepair>
   
 </LanguageData>

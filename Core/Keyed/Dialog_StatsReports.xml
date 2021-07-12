@@ -83,7 +83,7 @@
   <!-- EN: Blocked by fences -->
   <StatsReport_BlockedByFences>フェンスを乗り越えられない</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
-  <StatsReport_RoamInterval>彷徨う間隔</StatsReport_RoamInterval>
+  <StatsReport_RoamInterval>徘徊する間隔</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
   <StatsReport_CaravanRideableAge>キャラバン時に乗れる年齢</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
@@ -227,7 +227,7 @@
   <!-- EN: Whether this creature is blocked by fences and barricades. -->
   <Stat_Race_BlockedByFences_Desc>この生物がフェンスやバリケードによって移動を妨げられるかどうかです.</Stat_Race_BlockedByFences_Desc>
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
-  <Stat_Race_RoamInterval_Desc>飼いならされた家畜が彷徨い歩き回って,マップから出ていこうとする頻度です.\n\n家畜は,マップの端へ直接移動できる経路がある場合のみ彷徨います.フェンスやバリケード,壁,ドアを使用することで,これを防ぐことができます.</Stat_Race_RoamInterval_Desc>
+  <Stat_Race_RoamInterval_Desc>飼いならされた家畜が遠くまで徘徊して,マップから出ていこうとする頻度です.\n\n家畜は,マップの端へ直接移動できる経路がある場合のみ徘徊します.フェンスやバリケード,壁,ドアを使用することで,これを防ぐことができます.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>これを摂取することの娯楽的価値です.数値が高いほど,この娯楽の必要性が高まります.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->

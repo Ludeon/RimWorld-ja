@@ -44,7 +44,7 @@
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort}は歩くことができない.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <ParticipatingInRitual>TODO</ParticipatingInRitual>
+  <ParticipatingInRitual>{0_labelShort}は{1}に参加中です.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>発砲許可</CommandFireAtWillLabel>
@@ -95,13 +95,13 @@
   <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>部屋内の全てのベッドが囚人用になります(囚人と入植者は 同じ部屋で寝ません).\n\n以下の入植者はベッドの所有権を失います.</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>部屋内の全てのベッドが囚人用になります(囚人と入植者は同じ部屋で寝れません).\n\n以下の入植者はベッドの所有権を失います.</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>部屋内の全てのベッドが入植者用になります(囚人と入植者は同じ部屋で寝ません).\n\n以下の囚人はベッドの所有権を失います.</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>部屋内の全てのベッドが入植者用になります(囚人と入植者は同じ部屋で寝れません).\n\n以下の囚人はベッドの所有権を失います.</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>本当によろしいですか？</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <ChangingOwnerTypeBedWarning>TODO</ChangingOwnerTypeBedWarning>
+  <ChangingOwnerTypeBedWarning>ベッドの使用用途を変更すると,全てのベッドが影響を受けます(囚人,奴隷,入植者は同じ部屋で寝れません).\n\n以下の人物はベッドの所有権を失います.</ChangingOwnerTypeBedWarning>
 
 
   <!-- EN: Detonate -->
@@ -142,9 +142,9 @@
   <CommandAllowSowDesc>不許可なら,入植者はこのエリアに新しく植物の種をまかなくなります.作物の収穫は従来通り行われます.</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>TODO</CommandAllowCut>
+  <CommandAllowCut>刈り取りの許可</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
-  <CommandAllowCutDesc>TODO</CommandAllowCutDesc>
+  <CommandAllowCutDesc>不許可なら,入植者はこのエリアで植物を刈り取らなくなります.まだ空いてる土地に新しく種をまき,収穫する行為は従来通り行われます.</CommandAllowCutDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -548,9 +548,9 @@
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>TODO</CommandDropPawn>
+  <CommandDropPawn>{0_nameDef}を下ろす</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
-  <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
+  <CommandDropPawnDesc>運んでる人間を下ろします.</CommandDropPawnDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
@@ -560,21 +560,21 @@
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
-  <BuildThing>TODO</BuildThing>
+  <BuildThing>{0}を建築する</BuildThing>
 
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
-  <CommandLeaveRitual>TODO</CommandLeaveRitual>
+  <CommandLeaveRitual>{RITUAL_label}から立ち去る</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>TODO</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>{RITUAL_labelDef}への参加をやめます.儀式は,最低でも一人の参加者がいれば継続されます.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
-  <CommandLeaveLastParticipant>TODO</CommandLeaveLastParticipant>
+  <CommandLeaveLastParticipant>これは,{RITUAL_labelDef}に参加している,最後の一人の参加者です.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>TODO</CommandCancelRitual>
+  <CommandCancelRitual>{RITUAL_label}を中止する</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>TODO</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>{RITUAL_labelDef}をいますぐ終わらせます.ただし儀式の義務は残ります.儀式はまた後で再開できます.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
-  <CommandCancelRitualConfirm>TODO</CommandCancelRitualConfirm>
+  <CommandCancelRitualConfirm>本当に{RITUAL_labelDef}を中止しますか?</CommandCancelRitualConfirm>
   
 </LanguageData>
