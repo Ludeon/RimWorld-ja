@@ -133,7 +133,7 @@
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>受精するまで成長停止</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>孵化している</HatchesIn>
+  <HatchesIn>孵化まで残り</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>{0} には {2} 必要ですが, {1} しかありません</SkillTooLow>
   <!-- EN: Freezing -->
@@ -511,7 +511,7 @@
   <!-- EN: Nudism -->
   <Nudism>ヌーディズム</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>学習の進捗</StudyProgress>
+  <StudyProgress>調査の進捗</StudyProgress>
   <!-- EN: completed -->
   <StudyCompleted>完了</StudyCompleted>
 
@@ -617,9 +617,9 @@
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
   <UnpennedTooltip>家畜の囲いは,囲われた領域内にペンマーカーを建築することで作成できます.運搬人は家畜を適切な囲いに連れて行きます.ペンはフェンスやバリケード,壁,ドアで囲うことができます.</UnpennedTooltip>
   <!-- EN: Roped by -->
-  <RopedByPawn>人に誘導されている</RopedByPawn>
+  <RopedByPawn>誘導されている</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>場所に誘導されている</RopedToThing>
+  <RopedToThing>誘導されている</RopedToThing>
   <!-- EN: Roped to spot. -->
   <RopedToSpot>スポットに誘導されている.</RopedToSpot>
   <!-- EN: Pen size -->
@@ -1450,54 +1450,54 @@
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was cured. -->
-  <HealingCureHediff>TODO</HealingCureHediff>
+  <HealingCureHediff>{0_nameDef}の{1}は治療されました.</HealingCureHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
-  <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
+  <HealingRestoreBodyPart>{0_nameDef}の{1}は健康になりました.</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>TODO</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>注意: ここに建物を設置すると,{FACTION_name}を怒らせます!</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
-  <ChooseLandingSite>TODO</ChooseLandingSite>
+  <ChooseLandingSite>着陸地点を選ぶ</ChooseLandingSite>
   
   <!-- Rituals -->
   <!-- EN: ritual -->
-  <Ritual>TODO</Ritual>
+  <Ritual>儀式</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>行われる場所</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
-  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
+  <RitualTargetThingDefsInfo>いくつかの{0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending -->
-  <LordReportAttending>TODO</LordReportAttending>
+  <LordReportAttending>参列する</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
-  <RitualCalledOff>TODO</RitualCalledOff>
+  <RitualCalledOff>{0}はキャンセルされました.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
-  <RitualNobodyAttended>TODO</RitualNobodyAttended>
+  <RitualNobodyAttended>{0}は参列者数が不足しているため,完了しませんでした.</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
-  <RitualFinished>TODO</RitualFinished>
+  <RitualFinished>{0}が完了しました.</RitualFinished>
   <!-- EN: ends in {0} -->
-  <RitualEndsIn>TODO</RitualEndsIn>
+  <RitualEndsIn>{0}で終わる</RitualEndsIn>
   <!-- EN: Organizers -->
-  <Organizers>TODO</Organizers>
+  <Organizers>主催者</Organizers>
   <!-- EN: Quality factors -->
-  <QualityFactors>TODO</QualityFactors>
+  <QualityFactors>品質要因</QualityFactors>
   <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
-  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipUncertain>この条件は,状況によっては満たされる場合があります.\n\nこれが満たされると,品質ボーナスが適用されます.</QualityFactorTooltipUncertain>
   <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
-  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
+  <QualityFactorTooltipNotFulfilled>この条件は満たされません.\n\n品質ボーナスは適用されません.</QualityFactorTooltipNotFulfilled>
   <!-- EN: Spectators -->
-  <Spectators>TODO</Spectators>
+  <Spectators>見物人</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>TODO</NotParticipating>
+  <NotParticipating>参加しない</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>ドラッグアンドドロップ,または左/右クリックで人を移動させます.</DragPawnsToRolesInfo>
   <!-- EN: A slave. The human property of others. -->
-  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
+  <RitualBeginSlaveDesc>奴隷です.他人の人的財産です.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
+  <RitualBeginSleepingDesc>{0_labelShort}は眠っています.儀式の参加者である場合,{0_pronoun}は参加するために目を覚まします.</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
-  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
+  <RitualBeginSleepingWarning>選ばれた参加者の何人かは眠っています.儀式を始めると,彼らは目を覚まします.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
   <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->

@@ -142,7 +142,7 @@
   <CommandAllowSowDesc>不許可なら,入植者はこのエリアに新しく植物の種をまかなくなります.作物の収穫は従来通り行われます.</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>刈り取りの許可</CommandAllowCut>
+  <CommandAllowCut>刈り取り許可</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
   <CommandAllowCutDesc>不許可なら,入植者はこのエリアで植物を刈り取らなくなります.まだ空いてる土地に新しく種をまき,収穫する行為は従来通り行われます.</CommandAllowCutDesc>
 

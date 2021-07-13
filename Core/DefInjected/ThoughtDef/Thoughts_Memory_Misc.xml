@@ -48,14 +48,14 @@
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>血は金属に打ち勝つぞ,忌々しい機械共め!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
   <!-- EN: denied joining -->
-  <DeniedJoining.stages.denied_joining.label>TODO</DeniedJoining.stages.denied_joining.label>
+  <DeniedJoining.stages.denied_joining.label>参加を拒否した</DeniedJoining.stages.denied_joining.label>
   <!-- EN: We just denied someone's request to join us. I hope they make it. -->
-  <DeniedJoining.stages.denied_joining.description>TODO</DeniedJoining.stages.denied_joining.description>
+  <DeniedJoining.stages.denied_joining.description>私たちは誰かがこのコロニーに加わることを拒否した.彼らが成功することを願っている.</DeniedJoining.stages.denied_joining.description>
   
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>{0}の蘇生に失敗した</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
-  <FailedToRescueRelative.stages.failed_to_rescue.description>肉親を救えるチャンスだったのに失敗してしまった.助けれたかもしれないのに!</FailedToRescueRelative.stages.failed_to_rescue.description>
+  <FailedToRescueRelative.stages.failed_to_rescue.description>肉親を救えるチャンスだったのに失敗してしまった.助けられたかもしれないのに!</FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- EN: freed from slavery -->
   <FreedFromSlavery.stages.freed_from_slavery.label>奴隷解放</FreedFromSlavery.stages.freed_from_slavery.label>
@@ -63,9 +63,9 @@
   <FreedFromSlavery.stages.freed_from_slavery.description>奴隷の身から解放してもらった.ありがとう,ありがとう!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: bloodlust organ harvested -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>血まみれの臓器摘出欲求</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
   <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>彼らの体から肉を摘出することは,十分な血と満足感を与えてくれる.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>人殺し</KilledHumanlikeBloodlust.stages.killed_someone.label>
