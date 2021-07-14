@@ -1103,23 +1103,45 @@
   <AutoSlaugtherHeaderColOther>その他</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
   <AutoSlaugtherTip>家畜の数が最大数を超えた場合,超えた分の家畜を老齢順に屠殺します.</AutoSlaugtherTip>
+  <!-- EN: Male adult -->
+  <AnimalMaleAdult>オスの成獣</AnimalMaleAdult>
+  <!-- EN: Male young -->
+  <AnimalMaleYoung>オスの幼獣</AnimalMaleYoung>
+  <!-- EN: Female adult -->
+  <AnimalFemaleAdult>メスの成獣</AnimalFemaleAdult>
+  <!-- EN: Female young -->
+  <AnimalFemaleYoung>メスの幼獣</AnimalFemaleYoung>
+  <!-- EN: Pregnant -->
+  <AnimalPregnant>妊娠中</AnimalPregnant>
+  <!-- EN: Slaughter -->
+  <AllowSlaughterPregnant>屠殺</AllowSlaughterPregnant>
 
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>自動的に屠殺される家畜です.</AutoSlaugtherHeaderTooltipLabel>
-  <!-- EN: The current number of animals in the colony, both male and female.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>コロニーに所属する,オスメス両方の現在の数です.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipCurrentTotal>
-  <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>コロニーに所属する,オスメス両方の最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipMaxTotal>
-  <!-- EN: The current number of males in the colony.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>コロニーに所属するオスの現在の数です.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipCurrentMales>
-  <!-- EN: The maximum number of males in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>コロニーに所属するオスの最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipMaxMales>
-  <!-- EN: The current number of females in the colony.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>コロニーに所属するメスの現在の数です.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipCurrentFemales>
-  <!-- EN: Desired maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>コロニーに所属するメスの最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.\n\n妊娠中,もしくは成獣でない家畜はカウントされません.</AutoSlaugtherHeaderTooltipMaxFemales>
-  <!-- EN: The current number of pregnant or immature animals in the colony.\n\nThese animals are ignored. -->
-  <AutoSlaugtherHeaderTooltipOther>コロニーに所属する,妊娠中,もしくは成獣でない家畜の現在の数です.\n\nこれらの家畜は自動的に屠殺されません.</AutoSlaugtherHeaderTooltipOther>
+  <!-- EN: The current number of animals in the colony, both male and female. -->
+  <AutoSlaugtherHeaderTooltipCurrentTotal>コロニーに所属する,オスメス両方の現在の数です.</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxTotal>コロニーに所属する,オスメス両方の最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.</AutoSlaugtherHeaderTooltipMaxTotal>
+  <!-- EN: The current number of males of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentMales>コロニーに所属する,繁殖可能な年齢のオスの数です.</AutoSlaugtherHeaderTooltipCurrentMales>
+  <!-- EN: The current number of baby and juvenile males in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>コロニーに所属する,オスの幼児と幼獣の数です.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxMales>コロニーに所属できる,繁殖可能な年齢のオスの最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.</AutoSlaugtherHeaderTooltipMaxMales>
+  <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>コロニーに所属できる,オスの幼児と幼獣の最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <!-- EN: The current number of females of breeding age of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemales>コロニーに所属する,繁殖可能な年齢のメスの数です.</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <!-- EN: The current number of baby and juvenile females in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>コロニーに所属する,メスの幼児と幼獣の数です.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxFemales>コロニーに所属できる,繁殖可能な年齢のメスの最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.</AutoSlaugtherHeaderTooltipMaxFemales>
+  <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>コロニーに所属できる,メスの幼児と幼獣の最大数です.\n\n屠殺者は,最大数を超えた分の家畜を自動的に屠殺します.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <!-- EN: The current number of pregnant animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentPregnant>コロニーに所属する,妊娠中の家畜の数です.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>妊娠中の家畜を,同じ種の他のメスと区別なく屠殺することを許可します.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
 
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>クリックで家畜の制限数を設定します.</AutoSlaughterTooltipSetLimit>
@@ -1141,5 +1163,8 @@
   <RoomRequirementNoProductionFacilities>生産設備の不許可</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>祭壇の不許可</RoomRequirementNoAltars>
+
+  <!-- UNUSED -->
+  <AutoSlaugtherHeaderTooltipOther>コロニーに所属する,妊娠中,もしくは成獣でない家畜の現在の数です.\n\nこれらの家畜は自動的に屠殺されません.</AutoSlaugtherHeaderTooltipOther>
 
 </LanguageData>

@@ -91,10 +91,6 @@
   <Pregnant.label>妊娠</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>この生物は子を宿しています.臨月になれば子を産みます.もしも飢えたり,怪我をすると流産するかもしれません.</Pregnant.description>
-  <!-- EN: {0} pregnant -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0}の妊娠</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
-  <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0}は身籠もりました!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>妊娠</Pregnant.labelNoun>
   <!-- EN: early-stage -->
@@ -103,6 +99,10 @@
   <Pregnant.stages.middlestage.label>中期</Pregnant.stages.middlestage.label>
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>臨月</Pregnant.stages.latestage.label>
+  
+  <!-- UNUSED -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0}の妊娠</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0}は身籠もりました!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   
   <!-- EN: psychic coma -->
   <PsychicComa.label>精神的昏睡状態</PsychicComa.label>

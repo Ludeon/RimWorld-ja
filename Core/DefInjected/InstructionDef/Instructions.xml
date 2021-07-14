@@ -96,8 +96,8 @@
   
   <!-- EN: Click GENERATE to generate your world. -->
   <CreateWorldParams.rejectInputMessage>"創造する"をクリックして世界を創造します.</CreateWorldParams.rejectInputMessage>
-  <!-- EN: This page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>このページでは,この世界のパラメータを,あなたが設定します.\n\n今はデフォルトの設定が良いでしょう.先に進めたら"創造する"をクリックしてください!</CreateWorldParams.text>
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <CreateWorldParams.text>リムワールドの世界へようこそ!\n\nこのページでは,この世界のパラメータを,あなたが設定します.\n\n今はデフォルトの設定が良いでしょう.先に進めたら"創造する"をクリックしてください!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>ここに入植者を送ります.\n土のうをカバーにして背後に配置します.</DownRaider.onMapInstruction>

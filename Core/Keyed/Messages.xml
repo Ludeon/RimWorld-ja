@@ -155,6 +155,8 @@
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>この手術は,{0}を怒らせるでしょう.</MessageMedicalOperationWillAngerFaction>
 
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>{PAWN_nameDef}は身籠もりました!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0}は飢えにより流産しました.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
@@ -181,9 +183,6 @@
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
   <MessageRoamerLeaving>{PAWN_labelShort}が遠くまで徘徊し始めました!家畜の調教師が囲いの中に誘導して戻さない限り,{PAWN_pronoun}はこのエリアから立ち去るでしょう.</MessageRoamerLeaving>
-
-  <!-- EN: Cannot auto-cut plants when pen is not enclosed - build fences. -->
-  <MessageAutoCutInUnenclosedPen>ペンが囲われてない場合,植物を自動刈り取りできません.フェンスを建ててください.</MessageAutoCutInUnenclosedPen>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>虫の巣は自己再生しました.</MessageHiveReproduced>
@@ -725,4 +724,7 @@
   <!-- EN: Too close to {0_label}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>{0_label}の植え付け場所に近すぎます.</TooCloseToOtherSeedPlantCell>
   
+  <!-- UNUSED -->
+  <MessageAutoCutInUnenclosedPen>ペンが囲われてない場合,植物を自動刈り取りできません.フェンスを建ててください.</MessageAutoCutInUnenclosedPen>
+
 </LanguageData>
