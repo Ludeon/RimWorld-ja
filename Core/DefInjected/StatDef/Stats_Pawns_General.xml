@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: animals learning factor -->
-  <AnimalsLearningFactor.label>TODO</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.label>動物スキルの身につけやすさ</AnimalsLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for animals skill. -->
-  <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
+  <AnimalsLearningFactor.description>動物スキルにおいての身につけやすさへの掛け率です.</AnimalsLearningFactor.description>
   
   <!-- EN: caravan riding speed -->
   <CaravanRidingSpeedFactor.label>キャラバン騎乗時の速度</CaravanRidingSpeedFactor.label>
@@ -39,12 +39,12 @@
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>食料調達量</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
-  <ForagedNutritionPerDay.description>この人が,キャラバン隊として旅行中に,一日に自動的に調達する食料の量です.</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.description>キャラバン隊として移動中に,一日に自動的に調達する食料の量です.</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
   <GlobalLearningFactor.label>身につけやすさ</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
-  <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさを表します.</GlobalLearningFactor.description>
+  <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさへの掛け率です.</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
   <HungerRateMultiplier.label>飢えやすさ</HungerRateMultiplier.label>
@@ -57,9 +57,9 @@
   <ImmunityGainSpeed.description>病気に対しての免疫を得るために掛かる時間です.\n\nもしこの時間が遅ければ,この人物は免疫を得る前に病原菌に侵されて死ぬでしょう.</ImmunityGainSpeed.description>
   
   <!-- EN: injury healing factor -->
-  <InjuryHealingFactor.label>TODO</InjuryHealingFactor.label>
+  <InjuryHealingFactor.label>傷の治りやすさ</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
-  <InjuryHealingFactor.description>TODO</InjuryHealingFactor.description>
+  <InjuryHealingFactor.description>傷の治る速度に適用される掛け率です.</InjuryHealingFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>生皮の量</LeatherAmount.label>
