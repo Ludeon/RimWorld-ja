@@ -1051,17 +1051,17 @@
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
   <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
-  <AbilityMustBeSickOrInjured>TODO</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSickOrInjured>{0_labelShort}は病気か怪我を患ってる必要があります.</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
-  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeSameIdeoCounsel>{0}は{1}のみカウンセリングできます.</AbilityMustBeSameIdeoCounsel>
   <!-- EN: {0_labelShort} is already considered guilty. -->
-  <AbilityMustBeNotGuilty>TODO</AbilityMustBeNotGuilty>
+  <AbilityMustBeNotGuilty>{0_labelShort}は既に有罪と見なされています.</AbilityMustBeNotGuilty>
   <!-- EN: Must target a human. -->
-  <AbilityMustBeHuman>TODO</AbilityMustBeHuman>
+  <AbilityMustBeHuman>ターゲットは人間である必要があります.</AbilityMustBeHuman>
   <!-- EN: Must target a non-wild human. -->
-  <AbilityMustBeHumanNonWild>TODO</AbilityMustBeHumanNonWild>
+  <AbilityMustBeHumanNonWild>ターゲットは野生ではない人間である必要があります.</AbilityMustBeHumanNonWild>
   <!-- EN: Must target an animal. -->
-  <AbilityMustBeAnimal>TODO</AbilityMustBeAnimal>
+  <AbilityMustBeAnimal>ターゲットは家畜である必要があります.</AbilityMustBeAnimal>
   <!-- EN: {0_labelShort} is unconscious. -->
   <AbilityCantApplyUnconscious>{0_labelShort}は意識を失っています.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->

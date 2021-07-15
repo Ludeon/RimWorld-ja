@@ -9,9 +9,9 @@
   <ConstructionSpeedFactor.labelForFullStatList>建造速度(素材別)</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: filth multiplier -->
-  <FilthMultiplier.label>TODO</FilthMultiplier.label>
+  <FilthMultiplier.label>汚れの掛け率</FilthMultiplier.label>
   <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. -->
-  <FilthMultiplier.description>TODO</FilthMultiplier.description>
+  <FilthMultiplier.description>この表面がどれほど汚れの影響を受けるかを表します. この値が100％未満の場合,ここに落ちた汚れの一部が接触すると消えます.</FilthMultiplier.description>
   
   <!-- EN: medical potency -->
   <MedicalPotency.label>薬効</MedicalPotency.label>

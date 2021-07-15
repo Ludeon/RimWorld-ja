@@ -485,7 +485,7 @@
   <!-- EN: Any of -->
   <AnyOf>いずれかの</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>TODO</TraitRequired>
+  <TraitRequired>{0}の才能・性格が必要</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>友好値</Goodwill>
   <!-- EN: Natural goodwill -->
@@ -1499,84 +1499,82 @@
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
   <RitualBeginSleepingWarning>選ばれた参加者の何人かは眠っています.儀式を始めると,彼らは目を覚まします.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
-  <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
+  <RitualRoleRequiresSocialRole>この立場は,{0}の社会的役割を持つ入植者によって,最もよく行われます.\n\nこの役割を持たない人がこの立場に就いた場合,次のボーナスは得られません.</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
-  <RitualRoleCantSubstitute>TODO</RitualRoleCantSubstitute>
+  <RitualRoleCantSubstitute>{0}の役割に代わるものはありません.</RitualRoleCantSubstitute>
   <!-- EN: {0} progress -->
-  <RitualOutcomeProgress>TODO</RitualOutcomeProgress>
+  <RitualOutcomeProgress>進捗 {0}</RitualOutcomeProgress>
   <!-- EN: {0} quality depends on -->
-  <RitualOutcomeQualityAbstract>TODO</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualityAbstract>{0}の品質は</RitualOutcomeQualityAbstract>
   <!-- EN: {0} total quality was {1}, determined by these factors -->
-  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
+  <RitualOutcomeQualitySpecific>{0}の合計品質は{1}であり,以下の要因によって決められました</RitualOutcomeQualitySpecific>
   <!-- EN: Outcome chances at {0} quality -->
-  <RitualOutcomeChances>TODO</RitualOutcomeChances>
+  <RitualOutcomeChances>{0}品質で結果を得る可能性</RitualOutcomeChances>
   <!-- EN: Performed recently -->
-  <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
+  <RitualOutcomePerformedRecently>最近行った</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
-  <RitualQualityExpectations>TODO</RitualQualityExpectations>
+  <RitualQualityExpectations>{0}が期待できる</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
-  <RitualAmbienceSound>TODO</RitualAmbienceSound>
+  <RitualAmbienceSound>儀式的な雰囲気の音</RitualAmbienceSound>
   <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
-  <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
+  <RitualQualityLowWarning>{0}の合計品質は{1}を下回っています.続行すると,コロニーに悪影響を与える可能性があります.\n\n本当に行いますか?</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
-  <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
+  <AbilitySpeechDisabledNoSpot>到達可能な適切な場所がありません.</AbilitySpeechDisabledNoSpot>
   <!-- EN: {0_labelShort} is incapable of talking. -->
-  <AbilitySpeechDisabledCantSpeak>TODO</AbilitySpeechDisabledCantSpeak>
-  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  <AbilitySpeechDisabledCantSpeak>{0_labelShort}は話すことができません.</AbilitySpeechDisabledCantSpeak>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
-  <ChooseParticipants>TODO</ChooseParticipants>
+  <ChooseParticipants>{RITUAL_labelDef}に参加する人を選んでください.</ChooseParticipants>
   <!-- EN: Begin -->
-  <Begin>TODO</Begin>
+  <Begin>開始する</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>TODO</BeginRitual>
+  <BeginRitual>{0}を開始する</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
-  <BeginRitualFor>TODO</BeginRitualFor>
+  <BeginRitualFor>{1}の{0}を開始する</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>TODO</QualityOutOf>
+  <QualityOutOf>({1}のうち){0}</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>TODO</DateRitualNoObligation>
+  <DateRitualNoObligation>{0}は日付固有の儀式です.{2}の{1}日に行えます.</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>TODO</PreceptReplaceWith>
+  <PreceptReplaceWith>置換する</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>TODO</RitualSeatOf>
+  <RitualSeatOf>{IDEOS}の儀式席</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
+  <ExpectedRitualQuality>予想される品質</ExpectedRitualQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>TODO</StartingQuality>
+  <StartingQuality>開始時の品質</StartingQuality>
   <!-- EN: Expected duration -->
-  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
+  <ExpectedRitualDuration>予想される期間</ExpectedRitualDuration>
   
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
+  <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort}の{1}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>部屋の美しさ</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: Participants -->
-  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
+  <RitualPredictedOutcomeDescParticipantCount>参加者</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualPredictedOutcomeDescPawnExpectations>T{PAWN_labelShort}の予想</RitualPredictedOutcomeDescPawnExpectations>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>これらのいずれか</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
-  <RitualRoleReplaces>TODO</RitualRoleReplaces>
+  <RitualRoleReplaces>{PAWN_labelShort}を置き換える</RitualRoleReplaces>
 
   <!-- EN: present -->
-  <Present>TODO</Present>
+  <Present>現在</Present>
   <!-- EN: {0} used -->
-  <Used>TODO</Used>
+  <Used>{0}を使った</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>TODO</StartingRitualQuality>
+  <StartingRitualQuality>開始時の品質{0}</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>{0}までの品質</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
-  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeBonusDesc_QualitySingleOffset>{0}品質</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
-  <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
-  <MaxValue>TODO</MaxValue>
+  <MaxValue>最大{0}</MaxValue>
   
 </LanguageData>
