@@ -103,7 +103,7 @@
   <DownRaider.onMapInstruction>ここに入植者を送ります.\n土のうをカバーにして背後に配置します.</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>戦闘の経過を見守ってください!</DownRaider.rejectInputMessage>
-  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.text>私は,あなたのコロニーを攻撃するレイダーを送りました.\n\n1.{Key:TogglePause}を押してゲームを一時中止します!\n2.画面の右下にある赤色の手紙を読みます.\n3.入植者を選択し「徴兵」コマンドを実行します.\n4.そのまま,土のうが積んである内側を右クリックして,彼らをそこに移動させます.\n5.一時停止を解除します.\n\n入植者を,土のうの背後に配置することで,カバーとしての恩恵を得られます.カバーについたまま,攻撃者がやってくるのを待っていると,入植者たちは自動的に撃ち始めます.</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
