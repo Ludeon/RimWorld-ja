@@ -41,7 +41,7 @@
   <!-- EN: Neutral -->
   <Neutral>中立</Neutral>
   <!-- EN: neutral -->
-  <NeutralLower>TODO</NeutralLower>
+  <NeutralLower>中立</NeutralLower>
   <!-- EN: Death -->
   <Death>死亡</Death>
 
@@ -458,9 +458,9 @@
 
   <!-- Quest items added to caravan inventory -->
   <!-- EN: {CARAVAN_label} received items -->
-  <LetterLabelQuestItemsAddedToCaravanInventory>TODO</LetterLabelQuestItemsAddedToCaravanInventory>
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label}がアイテムを受け取った</LetterLabelQuestItemsAddedToCaravanInventory>
   <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
-  <LetterQuestItemsAddedToCaravanInventory>TODO</LetterQuestItemsAddedToCaravanInventory>
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label}は以下のアイテムを受け取りました：\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->

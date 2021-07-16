@@ -4,7 +4,7 @@
   <!-- EN: entropy link -->
   <EntropyLink.label>エントロピーリンク</EntropyLink.label>
   <!-- EN: A psychic link with another individual. Gain or loss of neural heat incurred by one will be shared equally between both. -->
-  <EntropyLink.description>他者とのサイキックリンクです。どちらかが被るニューラルヒートの増減は、両者で等しく共有されます。</EntropyLink.description>
+  <EntropyLink.description>他者一人と結ぶ精神的リンクです。どちらかが被るニューラルヒートの増減は、両者で等しく共有されます。</EntropyLink.description>
   
   <!-- EN: joyfuzz -->
   <Joyfuzz.label>ジョイファズ</Joyfuzz.label>
@@ -77,7 +77,7 @@
   <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
   <PsychicLove.description>超能力によって誘発された恋愛的な欲求です。自分以外の誰かに対する評価を増加させ、恋愛的な進展や結婚の提案の可能性が上がる一方で、別れる可能性が低くなります。</PsychicLove.description>
   <!-- EN: for -->
-  <PsychicLove.targetPrefix>TODO</PsychicLove.targetPrefix>
+  <PsychicLove.targetPrefix>対象: </PsychicLove.targetPrefix>
   
   <!-- EN: psychic vertigo -->
   <PsychicVertigo.label>空間識失調</PsychicVertigo.label>

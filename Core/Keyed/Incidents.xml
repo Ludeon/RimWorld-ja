@@ -41,9 +41,9 @@
   <RefugeePodCrash_NonHostile>{PAWN_nameDef}は,{PAWN_factionName}から来ました. あなたが{PAWN_objective}助けると, {PAWN_pronoun}は自ら仲間になるかもしれません. そうでなくても,{PAWN_pronoun}は自分の本拠地に戻って, あなたがしてくれた善意を広めるでしょう.\n\nあなたは勧誘か奴隷目的で {PAWN_objective}捕らえることもできますが, {PAWN_possessive}派閥を怒らせるでしょう.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <LetterLabelWandererJoins>TODO</LetterLabelWandererJoins>
+  <LetterLabelWandererJoins>新たな入植者: {PAWN_nameDef}</LetterLabelWandererJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
-  <LetterWandererJoins>TODO</LetterWandererJoins>
+  <LetterWandererJoins>{PAWN_nameDef}と名のる{PAWN_title}がこの地にやってきて,コロニーに加わることを望んでいます.\n\n{PAWN_pronoun}は役に立ちたいと思っており,さらに他に行くところがないとも主張しているため,自分から去ることもないでしょう.あなたは{PAWN_possessive}申し出を断り,{PAWN_objective}追い払うことができます.ただしあなたの入植者は,困っている人を追い出すことに不安を感じるでしょう.</LetterWandererJoins>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
