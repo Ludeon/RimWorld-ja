@@ -84,5 +84,10 @@
   <CommandLeaveBestowingCeremony>TODO</CommandLeaveBestowingCeremony>
   <!-- EN: Stop participating in the bestowing ceremony. -->
   <CommandLeaveBestowingCeremonyDesc>TODO</CommandLeaveBestowingCeremonyDesc>
-  
+  <!-- EN: Cancel bestowing ceremony -->
+  <CommandCancelBestowingCeremony>TODO</CommandCancelBestowingCeremony>
+  <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
+  <CommandCancelBestowingCeremonyDesc>TODO</CommandCancelBestowingCeremonyDesc>
+  <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
+  <CommandCancelBestowingCeremonyConfirm>TODO</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>

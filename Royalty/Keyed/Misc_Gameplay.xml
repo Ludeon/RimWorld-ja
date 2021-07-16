@@ -165,6 +165,17 @@
   <BestowingCeremonyLabel>TODO</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
   <BestowingOutcomeQualitySpecific>TODO</BestowingOutcomeQualitySpecific>
+  
+  <!-- EN: No colonists that can link with anima tree right now. -->
+  <RitualTargetAnimaTreeNoPawnsToLink>TODO</RitualTargetAnimaTreeNoPawnsToLink>
+  <!-- EN: No colonists with the natural meditation focus type. -->
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>TODO</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <!-- EN: Need at least {0} anima grass. -->
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>TODO</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <!-- EN: An anima tree. -->
+  <RitualTargetAnimaTreeInfo>TODO</RitualTargetAnimaTreeInfo>
+  <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
+  <RitualTargetAnimaTreeMustBeCapableOfNature>TODO</RitualTargetAnimaTreeMustBeCapableOfNature>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
   <AnimaLinkingExplanationBase>TODO</AnimaLinkingExplanationBase>

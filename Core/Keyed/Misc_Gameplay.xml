@@ -1522,6 +1522,8 @@
   <AbilitySpeechDisabledNoSpot>到達可能な適切な場所がありません.</AbilitySpeechDisabledNoSpot>
   <!-- EN: {0_labelShort} is incapable of talking. -->
   <AbilitySpeechDisabledCantSpeak>{0_labelShort}は話すことができません.</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得られます.</RitualOutcomeExtraDesc_Mood>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>{RITUAL_labelDef}に参加する人を選んでください.</ChooseParticipants>
