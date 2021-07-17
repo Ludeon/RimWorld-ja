@@ -27,7 +27,7 @@
   <!-- EN: Requires psylink -->
   <PsycastNeurotrainerNoPsylink>サイリンクが必要です</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
-  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}はすでに{1}を習得済みです</PsycastNeurotrainerAbilityAlreadyLearned>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}はすでに{1}を習得済みです.</PsycastNeurotrainerAbilityAlreadyLearned>
 
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
   <Reward_RoyalFavor>クエストを受けた人は,{0_name}から{1} {0_royalFavorLabel}を受け取ります</Reward_RoyalFavor>
@@ -38,7 +38,7 @@
   <!-- EN: Not usable -->
   <NotUsable>使用不能</NotUsable>
   <!-- EN: unpowered -->
-  <Unpowered>電力無し</Unpowered>
+  <Unpowered>電力なし</Unpowered>
   <!-- EN: blocked by roof -->
   <BlockedByRoof>屋根に塞がれています</BlockedByRoof>
   <!-- EN: Too close to other beacon -->
@@ -63,13 +63,13 @@
   <!-- EN: Focus effect impacted by -->
   <MeditationFocusImpacted>影響を与えている</MeditationFocusImpacted>
   <!-- EN: {1} per nearby animus stone (max {0}) -->
-  <MeditationFocusPerAnimusStoneAbstract>周囲のアニムスの秘石{1} (最大{0}つ)</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStoneAbstract>周囲のアニマの秘石{1} (最大{0}つ)</MeditationFocusPerAnimusStoneAbstract>
   <!-- EN: {2} per nearby animus stone ({0} / {1}) -->
-  <MeditationFocusPerAnimusStone>周囲のアニムスの秘石{2} ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStone>周囲のアニマの秘石{2} ({0} / {1})</MeditationFocusPerAnimusStone>
   <!-- EN: Per nearby animus stone {2}, nature shrine {1} (max {0}) -->
-  <MeditationFocusPerAnimusStoneAndShrineAbstract>周囲のアニムスの秘石{2},自然聖堂{1} (最大{0}つ)</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>周囲のアニマの秘石{2},自然聖堂{1} (最大{0}つ)</MeditationFocusPerAnimusStoneAndShrineAbstract>
   <!-- EN: Per nearby animus stone {3}, nature shrine {2} ({0} / {1}) -->
-  <MeditationFocusPerAnimusStoneAndShrine>周囲のアニムスの秘石{3},自然聖堂{2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerAnimusStoneAndShrine>周囲のアニマの秘石{3},自然聖堂{2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
   <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
   <MeditationFocusPerSculptureAbstract>周囲の品質に応じた芸術品{1} (最大{0}つ)</MeditationFocusPerSculptureAbstract>
   <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
