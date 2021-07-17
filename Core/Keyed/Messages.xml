@@ -692,7 +692,7 @@
   <!-- EN: {0_labelShort} cannot connect to a gauranlen tree because {0_possessive} connection was recently torn. -->
   <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort}は,最近接続が切断されたため,ガウランレンツリーと接続できません.</MessageRitualRolePawnRecentlyTornConnection>
   <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
-  <MessageRitualRolePawnHasSameIdeo>TODO</MessageRitualRolePawnHasSameIdeo>
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort}は思想勧誘者と同じ思想を持っています.</MessageRitualRolePawnHasSameIdeo>
   <!-- EN: {0_labelShort} must be capable of wardening. -->
   <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort}は監視できる必要があります.</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->

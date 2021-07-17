@@ -1047,9 +1047,9 @@
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
   <AbilityCantGetInspiredNow>{0_labelShort}は現在,奮い立つことができません.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
-  <AbilityMustBeNotSameIdeo>TODO</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeNotSameIdeo>{0_labelShort}は{1_labelShort}と異なる思想を持つ必要があります.</AbilityMustBeNotSameIdeo>
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
-  <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
+  <AbilityMustBeSameIdeo>{0_labelShort}は{1_labelShort}と同じ思想を持つ必要があります.</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
   <AbilityMustBeSickOrInjured>{0_labelShort}は病気か怪我を患ってる必要があります.</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
