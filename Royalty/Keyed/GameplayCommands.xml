@@ -20,7 +20,7 @@
   <!-- EN: Guests will not use their aid permits. -->
   <CommandCallRoyalAidLodger>ゲストは援助許可証を使用しません。</CommandCallRoyalAidLodger>
   <!-- EN: Slaves cannot use their permits. -->
-  <CommandCallRoyalAidSlave>TODO</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidSlave>奴隷は許可証を使用できません。</CommandCallRoyalAidSlave>
   <!-- EN: Your relations with {FACTION_name} are hostile. -->
   <CommandCallRoyalAidFactionHostile>{FACTION_name}と敵対状態です。</CommandCallRoyalAidFactionHostile>
   <!-- EN: Free -->
@@ -81,13 +81,13 @@
   <ChooseRoyalPermit_Desc>許可証選択画面を開き、新しい許可証を選択します。</ChooseRoyalPermit_Desc>
 
   <!-- EN: Leave bestowing ceremony -->
-  <CommandLeaveBestowingCeremony>TODO</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremony>授与式から離れる</CommandLeaveBestowingCeremony>
   <!-- EN: Stop participating in the bestowing ceremony. -->
-  <CommandLeaveBestowingCeremonyDesc>TODO</CommandLeaveBestowingCeremonyDesc>
+  <CommandLeaveBestowingCeremonyDesc>授与式への参加をやめます。</CommandLeaveBestowingCeremonyDesc>
   <!-- EN: Cancel bestowing ceremony -->
-  <CommandCancelBestowingCeremony>TODO</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremony>授与式を中止する</CommandCancelBestowingCeremony>
   <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
-  <CommandCancelBestowingCeremonyDesc>TODO</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyDesc>授与式を直ちに終わらせます。贈与者は去りますが、式典を行う別の機会がまた発生します。 -</CommandCancelBestowingCeremonyDesc>
   <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
-  <CommandCancelBestowingCeremonyConfirm>TODO</CommandCancelBestowingCeremonyConfirm>
+  <CommandCancelBestowingCeremonyConfirm>本当に授与式を中止しますか？</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>

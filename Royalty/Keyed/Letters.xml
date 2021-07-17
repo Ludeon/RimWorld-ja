@@ -164,24 +164,24 @@
   <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
   <LetterJoinOfferText>{PAWN_nameDef}は、自分が{MAP_definite}で幸せになれると信じています。{PAWN_pronoun}はこのコロニーに、永久に加わりたいと望んでいます。</LetterJoinOfferText>
   <!-- EN: Accept -->
-  <LetterJoinOfferAccept>受諾</LetterJoinOfferAccept>
+  <LetterJoinOfferAccept>受け入れる</LetterJoinOfferAccept>
 
   <!-- EN: Bestowing ceremony expired -->
-  <LetterLabelBestowingCeremonyExpired>授与式は終了しました</LetterLabelBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyExpired>授与式が終了</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
   <LetterTextBestowingCeremonyExpired>{TARGET_definite}が授与式に出席しませんでした。授与式はキャンセルされました。</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: {TARGET_definite}'s title changed -->
-  <LetterLabelBestowingCeremonyTitleUpdated>TODO</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}の爵位が変更</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
-  <LetterTextBestowingCeremonyTitleUpdated>TODO</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite}は、予定されていた授与式を開く前に、新しい爵位を獲得しました。新しい爵位に合わせて授与を行うために、別の授与式が新しく予定されます。\n\n新しい授与式には、まだ授与されていないすべての爵位のサイリンクの報酬が含まれます。</LetterTextBestowingCeremonyTitleUpdated>
   
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
-  <LetterPartBestowingExtraHonor>TODO</LetterPartBestowingExtraHonor>
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort}は、{3}人の参列者を集めたことで、{FACTION_name}から敬意を表して{1}の名誉を与えられました。</LetterPartBestowingExtraHonor>
   <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
-  <LetterPartNoExtraHonor>TODO</LetterPartNoExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort}は、参列者の数が少なかったため、特別な名誉を与えられませんでした。</LetterPartNoExtraHonor>
   <!-- EN: All viewers of the ceremony received a mood bonus. -->
-  <LetterPartMoodBonus>TODO</LetterPartMoodBonus>
+  <LetterPartMoodBonus>授与式に参加した全ての参列者は、心情ボーナスを得ました。</LetterPartMoodBonus>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
   <LetterTextHonorAward_BanditCamp>無法集団の野営地を倒した功績として、誰が{0}を受けますか？</LetterTextHonorAward_BanditCamp>
@@ -194,8 +194,9 @@
 
   <!-- Wanderer joins -->
   <!-- EN: Transport pod crash: {0_nameDef} -->
-  <LetterLabelWandererJoinsAbasia>TODO</LetterLabelWandererJoinsAbasia>
+  <LetterLabelWandererJoinsAbasia>輸送ポッド事故: {0_nameDef}</LetterLabelWandererJoinsAbasia>
   <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
-  <LetterTextWandererJoinsAbasia>TODO</LetterTextWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>{0_nameDef}という{0_title}が乗った輸送ポッドが近くに墜落してきます。\n\n{0_nameDef}は{1_label}に苦しんでいるため、歩くことができなくなるでしょう。\n\n何日も経てば自然に回復します。また、運良くすぐに回復する可能性もあります。{1_label}は、手術によっても治癒が可能ですが、これには大量の最先端医薬品が必要になります。\n\n{0_pronoun}は回復すれば喜んでコロニーに貢献し、自発的に立ち去ることもありません。{0_nameDef}が必要ない場合は、{0_objective}追放するか、奴隷商に売るか、もしくは死なせることができます。しかし、他の入植者がこの不安にさせるような行動に気づくかもしれません。
+</LetterTextWandererJoinsAbasia>
 
 </LanguageData>

@@ -21,7 +21,7 @@
   <!-- EN: Any psycaster apparel -->
   <ApparelRequirementAnyPsycasterApparel>超能力者の衣服</ApparelRequirementAnyPsycasterApparel>
   <!-- EN: or any psycaster or prestige apparel -->
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>TODO</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>またはいくつかの超能力者の衣服か、もしくは特級の衣服</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
   <!-- EN: Disallowed work types -->
   <DisabledWorkTypes>許可されない作業</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
@@ -29,7 +29,7 @@
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
   <RoyalTitleRequiredMealsDesc>この爵位の保持者は飢餓状態かキャラバン中でない限り、これらの食料のみを食べます。</RoyalTitleRequiredMealsDesc>
   <!-- EN: Choose who should participate in bestowing ceremony. -->
-  <ChooseParticipantsBestow>TODO</ChooseParticipantsBestow>
+  <ChooseParticipantsBestow>授与式に誰が参加するかを選んでください。</ChooseParticipantsBestow>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
