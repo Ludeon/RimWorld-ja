@@ -17,15 +17,15 @@
     <li>pawnListHaveConjugation(colonistsToLendCount>1)->have</li>
   -->
   <PawnLend.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, [dutyDescription]の手助けを必要としています。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, [dutyDescription]の手助けを必要としています.\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています.\n\n[willSendShuttle]</li>
     <li>disease->インフルエンザ</li>
     <li>disease->ペスト</li>
     <li>disease->マラリア</li>
     <li>disease->感染症</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が, [dutyRoyalDescription]の手助けを必要としています。\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています。\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が, [dutyRoyalDescription]の手助けを必要としています.\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています.\n\n[willSendShuttle]</li>
     <li>colonistCountToLend(colonistsToLendCount==1)->1人の入植者</li>
     <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]人の入植者</li>
-    <li>willSendShuttle->[asker_pronoun]は[colonists]を迎えるためにシャトルをよこします。</li>
+    <li>willSendShuttle->[asker_pronoun]は[colonists]を迎えるためにシャトルをよこします.</li>
     <li>colonists(colonistsToLendCount==1)->入植者</li>
     <li>colonists(colonistsToLendCount>1)->入植者たち</li>
     <li>pawnListHaveConjugation(colonistsToLendCount==1)-></li>
@@ -69,7 +69,7 @@
     </rulesStrings>
   </PawnLend.DutyRulesAny.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
-  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の [asker_nameFull]の [dutyDescription]の手助けを終えて戻ってきました。</PawnLend.LetterTextReturnAfterHelping.slateRef>
+  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の [asker_nameFull]の [dutyDescription]の手助けを終えて戻ってきました.</PawnLend.LetterTextReturnAfterHelping.slateRef>
   <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
   <PawnLend.DutyRulesRoyal.slateRef>
     <rulesStrings>
@@ -82,15 +82,15 @@
     </rulesStrings>
   </PawnLend.DutyRulesRoyal.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
-  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の [dutyRoyalDescription]の手助けを終えて戻ってきました。</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
+  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation]は [asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の [dutyRoyalDescription]の手助けを終えて戻ってきました.</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
   <!-- EN: Shuttle arrived -->
   <PawnLend.LetterLabelShuttleArrived.slateRef>シャトル到着</PawnLend.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->
-  <PawnLend.LetterTextShuttleArrived.slateRef>[colonistsToLendCount]人の入植者を乗せるために、シャトルがやって来ました。</PawnLend.LetterTextShuttleArrived.slateRef>
+  <PawnLend.LetterTextShuttleArrived.slateRef>[colonistsToLendCount]人の入植者を乗せるために,シャトルがやって来ました.</PawnLend.LetterTextShuttleArrived.slateRef>
   <!-- EN: Shuttle destroyed -->
   <PawnLend.LetterLabelShuttleDestroyed.slateRef>シャトル破壊</PawnLend.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
-  <PawnLend.LetterTextShuttleDestroyed.slateRef>入植者を乗せるはずのシャトルが破壊された。</PawnLend.LetterTextShuttleDestroyed.slateRef>
+  <PawnLend.LetterTextShuttleDestroyed.slateRef>入植者を乗せるはずのシャトルが破壊された.</PawnLend.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Colonists returned -->
   <PawnLend.LetterLabelColonistsReturned.slateRef>入植者の帰還</PawnLend.LetterLabelColonistsReturned.slateRef>
   

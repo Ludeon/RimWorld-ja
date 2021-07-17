@@ -59,26 +59,26 @@
     <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
     <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
     <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
-    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef][areIs]歩行不能症になっておりベッドで休まなければなりません。</li>
-    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef][areIs]血液腐敗症を患っており毎日の治療が必要です。高品質の医療と薬物で進行を遅らせることはできますが、一般に完全な治療はできません。重症化すると[lodgersLabelSingOrPluralDef]は死亡するため、薬物の備蓄に注意してください。</li>
+    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef][areIs]歩行不能症になっておりベッドで休まなければなりません.</li>
+    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef][areIs]血液腐敗症を患っており毎日の治療が必要です.高品質の医療と薬物で進行を遅らせることはできますが,一般に完全な治療はできません.重症化すると[lodgersLabelSingOrPluralDef]は死亡するため,薬物の備蓄に注意してください.</li>
     <li>minMoodInfo-></li>
-    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\n[lodgersLabelSingOrPluralDef]の心情を[lodgersMoodThreshold_percent]以上に高く保つ必要があります。</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\n[lodgersLabelSingOrPluralDef]の心情を[lodgersMoodThreshold_percent]以上に高く保つ必要があります.</li>
     <li>workInfo-></li>
-    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef]は全ての仕事を行いません。</li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef]は全ての仕事を行いません.</li>
     <li>commonDescEnding->[helpersParagraph]</li>
     <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->おおよそ以下の規模の(*Threat)襲撃(/Threat)がやってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)襲撃(/Threat)がおおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->おおよそ以下の規模の(*Threat)襲撃が[threatCount]回(/Threat)やってくるでしょう:\n\n[threatExample]</li>
     <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)襲撃が[threatCount]回(/Threat)おおよそ以下の規模でやってくるでしょう:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)メカクラスター(/Threat)が近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)メカクラスター(/Threat)が近辺に配置されます。</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます。</li>
-    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。</li>
-    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation]、軌道上のメカノイドの群れの標的にされています。</li>
-    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation]、メカノイドの巣の標的にされています。</li>
-    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation]、メカノイドの巣の標的にされています。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)メカクラスター(/Threat)が近辺に配置されます.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)メカクラスター(/Threat)が近辺に配置されます.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます.</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation],軌道上のメカノイドの群れの標的にされています.</li>
+    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation],軌道上のメカノイドの群れの標的にされています.</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation],メカノイドの巣の標的にされています.</li>
+    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation],メカノイドの巣の標的にされています.</li>
     <li>mechViolation->どういうわけか機械知性体を怒らせ</li>
     <li>mechViolation->古代のスーパーコンピューター端末を破壊し</li>
     <li>mechViolation->アルコテックが好む人間の子供を殺し</li>
@@ -92,10 +92,10 @@
     <li>areIs(lodgersCount==1)->は</li>
     <li>areIs(lodgersCount>=2)->は</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
-    <li>remainingWillNowLeave(lodgersCount>=2)->残りの[lodgersLabelPlural]は全員離脱しました。</li>
-    <li>failLetterEndingQuest->クエスト「[resolvedQuestName]」に失敗しました。</li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->残りの[lodgersLabelPlural]は全員離脱しました.</li>
+    <li>failLetterEndingQuest->クエスト「[resolvedQuestName]」に失敗しました.</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
-    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n[asker_faction_name]との友好値が[goodwillPenalty]減少しました。</li>
+    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n[asker_faction_name]との友好値が[goodwillPenalty]減少しました.</li>
   </QuestHospitalityCommon.rulePack.rulesStrings>
   
 </LanguageData>

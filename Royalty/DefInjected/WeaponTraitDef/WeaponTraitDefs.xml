@@ -4,96 +4,96 @@
   <!-- EN: hunger pangs -->
   <HungerMaker.label>飢えの苦痛</HungerMaker.label>
   <!-- EN: This weapon's persona loves food, and transmits that onto whoever bonds with it. The bonded person's hunger rate will be 50% higher. -->
-  <HungerMaker.description>この武器に宿るペルソナは食べ物を愛し、絆を結んだ人物にもそれを伝えます。絆を結んだ人物の空腹率が50％高くなります。</HungerMaker.description>
+  <HungerMaker.description>この武器に宿るペルソナは食べ物を愛し,絆を結んだ人物にもそれを伝えます.絆を結んだ人物の空腹率が50％高くなります.</HungerMaker.description>
   
   <!-- EN: jealous -->
   <Jealous.label>嫉妬深い</Jealous.label>
   <!-- EN: This weapon's persona becomes angry when the bonded individual uses another weapon, thus reducing their mood. -->
-  <Jealous.description>この武器に宿るペルソナは、絆を結んだ個人が別の武器を使用すると怒り、これによって双方の心情が低下します。</Jealous.description>
+  <Jealous.description>この武器に宿るペルソナは,絆を結んだ個人が別の武器を使用すると怒り,これによって双方の心情が低下します.</Jealous.description>
   
   <!-- EN: kill thirst -->
   <NeedKill.label>死の渇望</NeedKill.label>
   <!-- EN: This weapon's persona find purpose in bloodshed. If it does not kill for 20 days, it will become angry and psychically complain to whoever is bonded to it. -->
-  <NeedKill.description>この武器に宿るペルソナは、流血の中で目的を見つけます。もし20日間何も殺さなかった場合、この武器は苛立ち始め、絆を結んだ人物に精神を介して不満を伝えるでしょう。</NeedKill.description>
+  <NeedKill.description>この武器に宿るペルソナは,流血の中で目的を見つけます.もし20日間何も殺さなかった場合,この武器は苛立ち始め,絆を結んだ人物に精神を介して不満を伝えるでしょう.</NeedKill.description>
   
   <!-- EN: neural cooling -->
   <NeuralHeatRecoveryGain.label>ニューラル冷却</NeuralHeatRecoveryGain.label>
   <!-- EN: This weapon's persona has the ability to help dissipate the wielder's neural heat. The wielder's neural heat dissipation is improved by 0.15 per second. -->
-  <NeuralHeatRecoveryGain.description>この武器に宿るペルソナは、使用者のニューラルヒートの放熱を助ける能力を持っています。使用者のニューラルヒート放熱量が1秒あたり0.15改善されます。</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.description>この武器に宿るペルソナは,使用者のニューラルヒートの放熱を助ける能力を持っています.使用者のニューラルヒート放熱量が1秒あたり0.15改善されます.</NeuralHeatRecoveryGain.description>
   
   <!-- EN: freewielder -->
   <NeverBond.label>自由支配者</NeverBond.label>
   <!-- EN: This weapon's persona does not form bonds in the normal way. Anyone can pick it up and use it. -->
-  <NeverBond.description>この武器に宿るペルソナは、通常の方法では絆を形成しません。そのため、誰でも手に取って使えます。</NeverBond.description>
+  <NeverBond.description>この武器に宿るペルソナは,通常の方法では絆を形成しません.そのため,誰でも手に取って使えます.</NeverBond.description>
   
   <!-- EN: painless -->
   <NoPain.label>無痛</NoPain.label>
   <!-- EN: This weapon's persona has some method of psychically disabling pain. The one holding the weapon will feel no pain of any kind. -->
-  <NoPain.description>この武器に宿るペルソナは、痛みを精神的に無効化させる手段をいくつか知っています。武器の所有者はどんな種類の痛みも感じません。</NoPain.description>
+  <NoPain.description>この武器に宿るペルソナは,痛みを精神的に無効化させる手段をいくつか知っています.武器の所有者はどんな種類の痛みも感じません.</NoPain.description>
   
   <!-- EN: kill-focused -->
   <OnKill_PsyfocusGain.label>キルフォーカス</OnKill_PsyfocusGain.label>
   <!-- EN: This weapon's persona focuses on deaths. If the weapon kills someone, the wielder will instantly gain 20% psyfocus. -->
-  <OnKill_PsyfocusGain.description>この武器に宿るペルソナは、死にフォーカスを合わせています。武器が誰かを殺した場合、使用者は即座に20％のサイフォーカスを獲得します。</OnKill_PsyfocusGain.description>
+  <OnKill_PsyfocusGain.description>この武器に宿るペルソナは,死にフォーカスを合わせています.武器が誰かを殺した場合,使用者は即座に20％のサイフォーカスを獲得します.</OnKill_PsyfocusGain.description>
   
   <!-- EN: kill sorrow -->
   <OnKill_ThoughtBad.label>死への悲嘆</OnKill_ThoughtBad.label>
   <!-- EN: This weapon's persona hates killing. If this weapon kills someone, its sorrow will transmit psychically to the wielder, reducing their mood for a few days. -->
-  <OnKill_ThoughtBad.description>この武器に宿るペルソナは、殺害行為を嫌います。この武器が誰かを殺した場合、その悲しみは持ち主に精神的に伝わり、双方の心情を数日間低下させます。</OnKill_ThoughtBad.description>
+  <OnKill_ThoughtBad.description>この武器に宿るペルソナは,殺害行為を嫌います.この武器が誰かを殺した場合,その悲しみは持ち主に精神的に伝わり,双方の心情を数日間低下させます.</OnKill_ThoughtBad.description>
   
   <!-- EN: kill-happy -->
   <OnKill_ThoughtGood.label>キルハッピー</OnKill_ThoughtGood.label>
   <!-- EN: This weapon's persona loves to kill. If this weapon kills someone, its joy will transmit psychically to the wielder, making them happier for a few days. -->
-  <OnKill_ThoughtGood.description>この武器に宿るペルソナは、殺害行為が大好きです。この武器が誰かを殺した場合、その喜びは持ち主に精神的に伝わり、双方が数日間幸せになります。</OnKill_ThoughtGood.description>
+  <OnKill_ThoughtGood.description>この武器に宿るペルソナは,殺害行為が大好きです.この武器が誰かを殺した場合,その喜びは持ち主に精神的に伝わり,双方が数日間幸せになります.</OnKill_ThoughtGood.description>
   
   <!-- EN: psychic fog -->
   <PsychicSensitivityDownMajor.label>精神濃霧</PsychicSensitivityDownMajor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 30%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMajor.description>この武器は、所有者の精神的感受性を30％抑えます。これは武器が装備されている間のみ適用されます。</PsychicSensitivityDownMajor.description>
+  <PsychicSensitivityDownMajor.description>この武器は,所有者の精神的感受性を30％抑えます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityDownMajor.description>
   
   <!-- EN: psychic quiet -->
   <PsychicSensitivityDownMinor.label>精神安定</PsychicSensitivityDownMinor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 15%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMinor.description>この武器は、所有者の精神的感受性を15％抑えます。これは武器が装備されている間のみ適用されます。</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityDownMinor.description>この武器は,所有者の精神的感受性を15％抑えます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityDownMinor.description>
   
   <!-- EN: psychic hypersensitizer -->
   <PsychicSensitivityUpMajor.label>精神超増強</PsychicSensitivityUpMajor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 40%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMajor.description>この武器は、所有者の精神的感受性を40％増幅させます。これは武器が装備されている間のみ適用されます。</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMajor.description>この武器は,所有者の精神的感受性を40％増幅させます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityUpMajor.description>
   
   <!-- EN: psychic sensitizer -->
   <PsychicSensitivityUpMinor.label>精神増強</PsychicSensitivityUpMinor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 20%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMinor.description>この武器は、所有者の精神的感受性を20％増幅させます。これは武器が装備されている間のみ適用されます。</PsychicSensitivityUpMinor.description>
+  <PsychicSensitivityUpMinor.description>この武器は,所有者の精神的感受性を20％増幅させます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityUpMinor.description>
   
   <!-- EN: psy-meditative -->
   <PsyfocusMeditationBonus.label>精神瞑想</PsyfocusMeditationBonus.label>
   <!-- EN: This weapon's persona is naturally meditative and helps its wielder focus in psychic meditation. The wielder gains an extra 10% psyfocus per day of meditation, as long as the weapon is held. -->
-  <PsyfocusMeditationBonus.description>この武器に宿るペルソナは常に瞑想的であり、持ち主が精神的な瞑想に集中するを助けます。武器を装備している限り、持ち主は瞑想によって1日あたり10％のサイフォーカスを獲得できます。</PsyfocusMeditationBonus.description>
+  <PsyfocusMeditationBonus.description>この武器に宿るペルソナは常に瞑想的であり,持ち主が精神的な瞑想に集中するを助けます.武器を装備している限り,持ち主は瞑想によって1日あたり10％のサイフォーカスを獲得できます.</PsyfocusMeditationBonus.description>
   
   <!-- EN: fast mover -->
   <SpeedBoost.label>快走者</SpeedBoost.label>
   <!-- EN: This weapon's persona has a sense of motion. It confers this onto the wielder, making them move 15% faster as long as the weapon is held. -->
-  <SpeedBoost.description>この武器に宿るペルソナには、運動の感覚があります。これを持ち主に与えることで、武器を装備している限り15％速く移動できるようになります。</SpeedBoost.description>
+  <SpeedBoost.description>この武器に宿るペルソナには,運動の感覚があります.これを持ち主に与えることで,武器を装備している限り15％速く移動できるようになります.</SpeedBoost.description>
   
   <!-- EN: calm thoughts -->
   <ThoughtCalm.label>落ち着いた意見</ThoughtCalm.label>
   <!-- EN: This weapon's persona is relaxed and steady. It whispers calming thoughts to whoever it is bonded with, increasing their mood. -->
-  <ThoughtCalm.description>この武器に宿るペルソナは、常に落ち着いていて冷静です。絆を結んだ人物に落ち着いた考えを囁き、双方の心情を高めます。</ThoughtCalm.description>
+  <ThoughtCalm.description>この武器に宿るペルソナは,常に落ち着いていて冷静です.絆を結んだ人物に落ち着いた考えを囁き,双方の心情を高めます.</ThoughtCalm.description>
   
   <!-- EN: kind thoughts -->
   <ThoughtKind.label>優しい意見</ThoughtKind.label>
   <!-- EN: This weapon's persona is kind and supportive. It whispers kind thoughts to whoever it is bonded with, increasing their mood. -->
-  <ThoughtKind.description>この武器に宿るペルソナは、思いやりがあり協力的です。絆を結んだ人物に親身な考えをささやき、双方の心情を高めます。</ThoughtKind.description>
+  <ThoughtKind.description>この武器に宿るペルソナは,思いやりがあり協力的です.絆を結んだ人物に親身な考えをささやき,双方の心情を高めます.</ThoughtKind.description>
   
   <!-- EN: mad muttering -->
   <ThoughtMuttering.label>神経質な不平</ThoughtMuttering.label>
   <!-- EN: This weapon's persona is neurotic and unstable. It mutters mad thoughts to whoever it is bonded with, reducing their mood. -->
-  <ThoughtMuttering.description>この武器に宿るペルソナは極度に神経質で、情緒が不安定です。絆を結んだ人物に些細な不平を呟き双方の心情を低下させます。</ThoughtMuttering.description>
+  <ThoughtMuttering.description>この武器に宿るペルソナは極度に神経質で,情緒が不安定です.絆を結んだ人物に些細な不平を呟き双方の心情を低下させます.</ThoughtMuttering.description>
   
   <!-- EN: mad wailing -->
   <ThoughtWailing.label>不安症の嘆き</ThoughtWailing.label>
   <!-- EN: This weapon's persona is highly disturbed and won't shut up about it. It wails mad notions to whoever it is bonded with, suppressing their mood. -->
-  <ThoughtWailing.description>この武器に宿るペルソナは非常に心配性で、様々な物事に黙っていられません。絆を結んだ人物に、取るに足らない意見を泣き叫び、双方の心情を押し殺します。</ThoughtWailing.description>
+  <ThoughtWailing.description>この武器に宿るペルソナは非常に心配性で,様々な物事に黙っていられません.絆を結んだ人物に,取るに足らない意見を泣き叫び,双方の心情を押し殺します.</ThoughtWailing.description>
   
 </LanguageData>

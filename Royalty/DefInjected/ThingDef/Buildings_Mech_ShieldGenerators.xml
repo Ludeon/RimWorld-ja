@@ -4,11 +4,11 @@
   <!-- EN: mech low-shield -->
   <ShieldGeneratorBullets.label>メカ低角シールド</ShieldGeneratorBullets.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to low angles, so it will block ground-level projectiles like bullets.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
-  <ShieldGeneratorBullets.description>慣性遮断フィールドを投影する防御装置です。内側からは射撃できますが、外側からの攻撃は受け付けません。\n\n低角度に調整されているため、銃弾のような地表面レベルで飛来する投射物を防ぎます。\n\nプロジェクター自体にEMP攻撃を加えるか、EMP弾をシールドに向けて発射することで、一時的に無効化できます。</ShieldGeneratorBullets.description>
+  <ShieldGeneratorBullets.description>慣性遮断フィールドを投影する防御装置です.内側からは射撃できますが,外側からの攻撃は受け付けません.\n\n低角度に調整されているため,銃弾のような地表面レベルで飛来する投射物を防ぎます.\n\nプロジェクター自体にEMP攻撃を加えるか,EMP弾をシールドに向けて発射することで,一時的に無効化できます.</ShieldGeneratorBullets.description>
   
   <!-- EN: mech high-shield -->
   <ShieldGeneratorMortar.label>メカ高角シールド</ShieldGeneratorMortar.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to high angles, so it will block mortar rounds.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
-  <ShieldGeneratorMortar.description>慣性遮断フィールドを投影する防御装置です。内側からは射撃できますが、外側からの攻撃は受け付けません。\n\n高角度に調整されているため、迫撃砲弾を防ぎます。\n\nプロジェクター自体にEMP攻撃を加えるか、EMP弾をシールドに向けて発射することで、一時的に無効化できます。</ShieldGeneratorMortar.description>
+  <ShieldGeneratorMortar.description>慣性遮断フィールドを投影する防御装置です.内側からは射撃できますが,外側からの攻撃は受け付けません.\n\n高角度に調整されているため,迫撃砲弾を防ぎます.\n\nプロジェクター自体にEMP攻撃を加えるか,EMP弾をシールドに向けて発射することで,一時的に無効化できます.</ShieldGeneratorMortar.description>
   
 </LanguageData>

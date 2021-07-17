@@ -5,7 +5,7 @@
     <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Yeoman, and all benefits that come with it - including the first level of psychic powers.</li>
   -->
   <Intro_Wimp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が付近から通信を送ってきました。 [asker_possessive]護衛が待ち伏せに殺されたようです。[asker_pronoun]は逃げ延びましたが、(*Threat)人狩りの[animalKindDef_label](/Threat)に追跡されています。\n\n[asker_nameDef]は[asker_possessive]シャトルが[asker_objective]拾い上げるまでの数時間、[map_definite]で自分を守って欲しいようです。\n\n[asker_pronoun]は、このクエストを受け入れると[royalFavorReward][asker_faction_royalFavorLabel]を与えるでしょう。ヨーマンの爵位と、それに伴う特典 - 初期段階の超能力を含む - を受け取るのに十分な[asker_faction_royalFavorLabel]と言えます。</li>
+    <li>questDescription->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が付近から通信を送ってきました. [asker_possessive]護衛が待ち伏せに殺されたようです.[asker_pronoun]は逃げ延びましたが,(*Threat)人狩りの[animalKindDef_label](/Threat)に追跡されています.\n\n[asker_nameDef]は[asker_possessive]シャトルが[asker_objective]拾い上げるまでの数時間,[map_definite]で自分を守って欲しいようです.\n\n[asker_pronoun]は,このクエストを受け入れると[royalFavorReward][asker_faction_royalFavorLabel]を与えるでしょう.ヨーマンの爵位と,それに伴う特典 - 初期段階の超能力を含む - を受け取るのに十分な[asker_faction_royalFavorLabel]と言えます.</li>
   </Intro_Wimp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</li>
@@ -24,44 +24,44 @@
   <!-- EN: [animalKindDef_label] arrived -->
   <Intro_Wimp.LetterLabelAnimalArrived.slateRef>[animalKindDef_label]の到来</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
   <!-- EN: The [animalKindDef_label] that [asker_nameDef] was fleeing has arrived.\n\nIt turned out to be quite gentle and not aggressive at all. -->
-  <Intro_Wimp.LetterTextAnimalArrived.slateRef>[asker_nameDef]を追跡している[animalKindDef_label]がやってきました。\n\nところが、とても穏やかで攻撃的ではないことがわかりました。</Intro_Wimp.LetterTextAnimalArrived.slateRef>
+  <Intro_Wimp.LetterTextAnimalArrived.slateRef>[asker_nameDef]を追跡している[animalKindDef_label]がやってきました.\n\nところが,とても穏やかで攻撃的ではないことがわかりました.</Intro_Wimp.LetterTextAnimalArrived.slateRef>
   <!-- EN: Manhunting [animalKindDef_label] -->
   <Intro_Wimp.LetterLabelAngryAnimal.slateRef>人狩りの[animalKindDef_label]</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
   <!-- EN: The [animalKindDef_label] which was following [asker_nameFull] has arrived in the area. -->
-  <Intro_Wimp.LetterTextAngryAnimal.slateRef>[animalKindDef_label]が[asker_nameFull]を追跡して この地域にやってきました。</Intro_Wimp.LetterTextAngryAnimal.slateRef>
+  <Intro_Wimp.LetterTextAngryAnimal.slateRef>[animalKindDef_label]が[asker_nameFull]を追跡して この地域にやってきました.</Intro_Wimp.LetterTextAngryAnimal.slateRef>
   <!-- EN: Should depart on shuttle -->
   <Intro_Wimp.InspectStringDepartShuttle.slateRef>シャトルで出発する必要がある</Intro_Wimp.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
   <Intro_Wimp.LetterLabelShuttleArrived.slateRef>シャトルが到着した</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [asker_nameDef]. -->
-  <Intro_Wimp.LetterTextShuttleArrived.slateRef>[asker_nameDef]を迎えにシャトルが到着しました。</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+  <Intro_Wimp.LetterTextShuttleArrived.slateRef>[asker_nameDef]を迎えにシャトルが到着しました.</Intro_Wimp.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelGuestDied.slateRef>ゲスト死亡: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextGuestDied.slateRef>護衛の対象である{SUBJECT_definite}が死亡しました。[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
+  <Intro_Wimp.LetterTextGuestDied.slateRef>護衛の対象である{SUBJECT_definite}が死亡しました.[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>無許可の手術: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>護衛の対象である{SUBJECT_definite}に不正な違反手術が行われました。この違反行為によって、[asker_pronoun]は離脱を試みます。[failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>護衛の対象である{SUBJECT_definite}に不正な違反手術が行われました.この違反行為によって,[asker_pronoun]は離脱を試みます.[failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Captured: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelCaptured.slateRef>逮捕: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextCaptured.slateRef>賓客とするように依頼された{SUBJECT_definite}が逮捕されました。[failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
+  <Intro_Wimp.LetterTextCaptured.slateRef>賓客とするように依頼された{SUBJECT_definite}が逮捕されました.[failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelGuestLost.slateRef>ゲストが離脱: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextGuestLost.slateRef>護衛の対象である{SUBJECT_definite}が入植地から離れました。[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
+  <Intro_Wimp.LetterTextGuestLost.slateRef>護衛の対象である{SUBJECT_definite}が入植地から離れました.[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>ゲストが離脱: {SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextLodgerRanWild.slateRef>護衛の対象である{SUBJECT_definite}が野生に返りました。[failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterTextLodgerRanWild.slateRef>護衛の対象である{SUBJECT_definite}が野生に返りました.[failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
   <!-- EN: Shuttle destroyed -->
   <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>シャトル破壊</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>[asker_nameDef]を迎えに来たシャトルが破壊されました。[asker_pronoun]は自分の足で立ち去ります。[failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>[asker_nameDef]を迎えに来たシャトルが破壊されました.[asker_pronoun]は自分の足で立ち去ります.[failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Intro_Wimp.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef]を回収するはずのシャトルが、[asker_objective]なしで飛び立ちました。[asker_pronoun]は徒歩で立ち去ります。[failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
+  <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef]を回収するはずのシャトルが,[asker_objective]なしで飛び立ちました.[asker_pronoun]は徒歩で立ち去ります.[failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
   
 </LanguageData>

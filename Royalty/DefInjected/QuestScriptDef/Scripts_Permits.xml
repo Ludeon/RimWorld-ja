@@ -12,17 +12,17 @@
   <!-- EN: Laborers arrived -->
   <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>労働者が到着</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
   <!-- EN: The laborers from [permitFaction_name] have arrived. A shuttle will come to collect them in [laborersDurationDays] days. -->
-  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>[permitFaction_name]の労働者が到着しました。シャトルが[laborersDurationDays]日後に回収しに来ます。</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>[permitFaction_name]の労働者が到着しました.シャトルが[laborersDurationDays]日後に回収しに来ます.</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
   <!-- EN: Should depart on shuttle -->
   <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>シャトルで出発する必要がある</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
   <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>シャトルが到着</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
   <!-- EN: A shuttle has arrived to collect the laborers from [permitFaction_name]. -->
-  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>[permitFaction_name]から、労働者を回収するためのシャトルが到着しました。</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
+  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>[permitFaction_name]から,労働者を回収するためのシャトルが到着しました.</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
   <!-- EN: Laborer died: {SUBJECT_definite} -->
   <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>労働者が死亡: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
-  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>[permitFaction_name]から送られた労働者が死亡しました。[permitFaction_name]との友好値が[goodwillPenaltyPawn]減少しました。</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>[permitFaction_name]から送られた労働者が死亡しました.[permitFaction_name]との友好値が[goodwillPenaltyPawn]減少しました.</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   
   <!-- UNUSED -->
   <Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>労働者がシャトルに置いて行かれた</Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>

@@ -5,27 +5,27 @@
   <!-- EN: Need throneroom -->
   <NeedThroneAssigned>玉座の間が必要</NeedThroneAssigned>
   <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
-  <NeedThroneAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが、割り当てられた玉座がありません。\n\n爵位の所有者が玉座の間の玉座に割り当てられているか確認してください。\n\n玉座の間には爵位保持者に相応しいサイズと装飾が必要です。\n\n一つの玉座の間に複数の玉座を設置できる場合もあります。</NeedThroneAssignedDesc>
+  <NeedThroneAssignedDesc>入植者の一人が玉座の間を必要とする爵位についていますが,割り当てられた玉座がありません.\n\n爵位の所有者が玉座の間の玉座に割り当てられているか確認してください.\n\n玉座の間には爵位保持者に相応しいサイズと装飾が必要です.\n\n一つの玉座の間に複数の玉座を設置できる場合もあります.</NeedThroneAssignedDesc>
 
   <!-- EN: Undignified bedroom -->
   <UndignifiedBedroom>みっともない寝室</UndignifiedBedroom>
   <!-- EN: One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements. -->
-  <UndignifiedBedroomDesc>入植者の一人が特定の機能を備えた寝室を必要とする爵位についています。寝室が割り当てられていないか、寝室自体が要件を満たしていません。</UndignifiedBedroomDesc>
+  <UndignifiedBedroomDesc>入植者の一人が特定の機能を備えた寝室を必要とする爵位についています.寝室が割り当てられていないか,寝室自体が要件を満たしていません.</UndignifiedBedroomDesc>
 
   <!-- EN: Title requires bedroom -->
   <NeedBedroomAssigned>爵位に相応しい寝室</NeedBedroomAssigned>
   <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedBedroomAssignedDesc>入植者の一人が個人の寝室を必要とする爵位についていますが、割り当てられていません。\n\n対象者に個人の寝室を割り当ててください。寝室には爵位保持者に相応しいサイズと装飾が必要です。</NeedBedroomAssignedDesc>
+  <NeedBedroomAssignedDesc>入植者の一人が個人の寝室を必要とする爵位についていますが,割り当てられていません.\n\n対象者に個人の寝室を割り当ててください.寝室には爵位保持者に相応しいサイズと装飾が必要です.</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
   <UndignifiedThroneroom>みっともない玉座の間</UndignifiedThroneroom>
   <!-- EN: One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements. -->
-  <UndignifiedThroneroomDesc>入植者の一人が玉座と爵位を保持していますが、玉座の間が爵位に相応しくありません。</UndignifiedThroneroomDesc>
+  <UndignifiedThroneroomDesc>入植者の一人が玉座と爵位を保持していますが,玉座の間が爵位に相応しくありません.</UndignifiedThroneroomDesc>
   
   <!-- EN: No acceptable food -->
   <RoyalNoAcceptableFood>貧相な食べ物</RoyalNoAcceptableFood>
   <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
-  <RoyalNoAcceptableFoodDesc>入植者の一人が特定の食事条件を有する爵位についていますが、この条件を満たす食事がありません。</RoyalNoAcceptableFoodDesc>
+  <RoyalNoAcceptableFoodDesc>入植者の一人が特定の食事条件を有する爵位についていますが,この条件を満たす食事がありません.</RoyalNoAcceptableFoodDesc>
 
   <!-- EN: {0} days until requirement begins -->
   <RoomRequirementGracePeriodDesc>要件が満たされるまで{0}日</RoomRequirementGracePeriodDesc>
@@ -38,38 +38,38 @@
   <!-- EN: Monument missing blueprints -->
   <MonumentMarkerMissingBlueprints>設計図の配置が不十分</MonumentMarkerMissingBlueprints>
   <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
-  <MonumentMarkerMissingBlueprintsDesc>設計図を配置してないパーツが存在するため、モニュメントが完成しません。\n\nモニュメントマーカーから"設計図を配置"をクリックするか、手動で設計図を配置してください。</MonumentMarkerMissingBlueprintsDesc>
+  <MonumentMarkerMissingBlueprintsDesc>設計図を配置してないパーツが存在するため,モニュメントが完成しません.\n\nモニュメントマーカーから"設計図を配置"をクリックするか,手動で設計図を配置してください.</MonumentMarkerMissingBlueprintsDesc>
 
   <!-- EN: Beacon unusable -->
   <ShipLandingBeaconUnusable>ビーコン使用不可</ShipLandingBeaconUnusable>
   <!-- EN: A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
-  <ShipLandingBeaconUnusableDesc>宇宙船着陸ビーコンは通電していますが使用不能です。使用するためには、これら4つを少なくとも9タイル幅を開けた正方形に配置し、人や動物などの邪魔が入らないようにしなくてはなりません。</ShipLandingBeaconUnusableDesc>
+  <ShipLandingBeaconUnusableDesc>宇宙船着陸ビーコンは通電していますが使用不能です.使用するためには,これら4つを少なくとも9タイル幅を開けた正方形に配置し,人や動物などの邪魔が入らないようにしなくてはなりません.</ShipLandingBeaconUnusableDesc>
 
   <!-- EN: Need meditation spot -->
   <NeedMeditationSpotAlert>瞑想場が必要</NeedMeditationSpotAlert>
   <!-- EN: These colonists have a psyfocus need, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
-  <NeedMeditationSpotAlertDesc>これらの入植者はサイフォーカスを必要としていますが、瞑想に使用できる場所が設定されていません。\n\n{0}\n\n瞑想場を設置し、到達可能かつ利用可能であることを確認してください。入植者は使用可能で最も集中を手助けするオブジェクトがそばにある瞑想場を選びます。</NeedMeditationSpotAlertDesc>
+  <NeedMeditationSpotAlertDesc>これらの入植者はサイフォーカスを必要としていますが,瞑想に使用できる場所が設定されていません.\n\n{0}\n\n瞑想場を設置し,到達可能かつ利用可能であることを確認してください.入植者は使用可能で最も集中を手助けするオブジェクトがそばにある瞑想場を選びます.</NeedMeditationSpotAlertDesc>
 
   <!-- EN: Unusable meditation focus -->
   <UnusableMeditationFocusAlert>使用できない瞑想対象</UnusableMeditationFocusAlert>
   <!-- EN: These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button. -->
-  <UnusableMeditationFocusAlertDesc>これらの入植者は使用不可能なオブジェクトの側で瞑想しています。\n\n{0}\n\n瞑想のフォーカスタイプに応じて、個々人が異なるオブジェクトを用います。フォーカスタイプはバックストーリー、特性、爵位に応じて変わります。各人のフォーカスタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します。</UnusableMeditationFocusAlertDesc>
+  <UnusableMeditationFocusAlertDesc>これらの入植者は使用不可能なオブジェクトの側で瞑想しています.\n\n{0}\n\n瞑想のフォーカスタイプに応じて,個々人が異なるオブジェクトを用います.フォーカスタイプはバックストーリー,特性,爵位に応じて変わります.各人のフォーカスタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します.</UnusableMeditationFocusAlertDesc>
 
   <!-- EN: Permit choice ready -->
   <PermitChoiceReadyAlert>許可証を選べる</PermitChoiceReadyAlert>
   <!-- EN: {PAWN_nameDef} can choose a new permit. -->
-  <PermitChoiceReadyAlertDesc>{PAWN_nameDef}は新しい許可証を選べます。</PermitChoiceReadyAlertDesc>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef}は新しい許可証を選べます.</PermitChoiceReadyAlertDesc>
   
   <!-- EN: Bestower waiting -->
   <BestowerWaitingAlert>贈与者が待機中</BestowerWaitingAlert>
   <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
-  <BestowerWaitingAlertDesc>贈与者が授与式の開始を待っています。</BestowerWaitingAlertDesc>
+  <BestowerWaitingAlertDesc>贈与者が授与式の開始を待っています.</BestowerWaitingAlertDesc>
   
   <!-- EN: Anima linking ceremony ready -->
   <AnimaLinkingReadyLabel>アニマの儀式の準備が完了</AnimaLinkingReadyLabel>
   <!-- EN: An anima tree has enough anima grass to carry out the linking ceremony and level up psylink for these colonists -->
-  <AnimaLinkingReadyDesc>アニマツリーに十分な量のアニマ草が生えたため、これらの入植者のためにリンクの儀式を開き、サイリンクをレベルアップすることができます</AnimaLinkingReadyDesc>
+  <AnimaLinkingReadyDesc>アニマツリーに十分な量のアニマ草が生えたため,これらの入植者のためにリンクの儀式を開き,サイリンクをレベルアップすることができます</AnimaLinkingReadyDesc>
   <!-- EN: In order to start the ceremony, select a colonist, click the 'begin anima tree linking' button and select the anima tree you want to use. -->
-  <AnimaLinkingReadyDescExtra>式典を行うには、入植者を選択し、'アニマツリーリンクを開始'ボタンをクリックして、使用するアニマツリーを選択してください。</AnimaLinkingReadyDescExtra>
+  <AnimaLinkingReadyDescExtra>式典を行うには,入植者を選択し,'アニマツリーリンクを開始'ボタンをクリックして,使用するアニマツリーを選択してください.</AnimaLinkingReadyDescExtra>
   
 </LanguageData>

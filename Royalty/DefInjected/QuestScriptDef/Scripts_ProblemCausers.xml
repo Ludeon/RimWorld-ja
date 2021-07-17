@@ -6,8 +6,8 @@
     <li>questDescription(siteFaction==Mechanoids)->A mechanoid cluster has landed not far from [map_definite]. [allSitePartsDescriptions]\n\nThe mech cluster will remain until you send a team there to attack and destroy it.</li>
   -->
   <ProblemCauser.questDescriptionRules.rulesStrings>
-    <li>questDescription(siteFaction==Pirate)->宙族が[map_definite]の近くに前哨基地を設置し、入植者を苦しめます。この場所は[allSitePartsDescriptions]\n\n前哨基地は、あなたがキャラバン隊を送って攻撃し、破壊するまで残ります。</li>
-    <li>questDescription(siteFaction==Mechanoids)->メカノイドクラスターが、[map_definite]からそれほど遠くない場所に着陸しました。この場所は[allSitePartsDescriptions]\n\nメカクラスターは、あなたがキャラバン隊を送って攻撃し、破壊するまで残ります。</li>
+    <li>questDescription(siteFaction==Pirate)->宙族が[map_definite]の近くに前哨基地を設置し,入植者を苦しめます.この場所は[allSitePartsDescriptions]\n\n前哨基地は,あなたがキャラバン隊を送って攻撃し,破壊するまで残ります.</li>
+    <li>questDescription(siteFaction==Mechanoids)->メカノイドクラスターが,[map_definite]からそれほど遠くない場所に着陸しました.この場所は[allSitePartsDescriptions]\n\nメカクラスターは,あなたがキャラバン隊を送って攻撃し,破壊するまで残ります.</li>
   </ProblemCauser.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(siteFaction==Pirate)->Pirates with a [problemCauserLabel]</li>

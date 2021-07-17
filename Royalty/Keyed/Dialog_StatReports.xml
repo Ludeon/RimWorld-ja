@@ -4,24 +4,24 @@
   <!-- EN: Minimum title ({FACTION_name}) -->
   <Stat_Thing_MinimumRoyalTitle_Name>({FACTION_name})最下級の爵位</Stat_Thing_MinimumRoyalTitle_Name>
   <!-- EN: {FACTION_name} has laws which limit the use of this implant to those with specific titles. Simply having the implant installed is undetectable, but if you use it, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences. -->
-  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name}には、このインプラントの使用を特定の爵位所持者に制限する法律があります。インプランの移植自体は検知不可能ですが、一度でも使用すると超能力のサイキックサインを検知される可能性があります。これによって外交的な問題を引き起こします。</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name}には,このインプラントの使用を特定の爵位所持者に制限する法律があります.インプランの移植自体は検知不可能ですが,一度でも使用すると超能力のサイキックサインを検知される可能性があります.これによって外交的な問題を引き起こします.</Stat_Thing_MinimumRoyalTitle_Desc>
   <!-- EN: {FACTION_name} has laws which limit the use of this weapon to those with specific titles. Each time you attack with the weapon, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences. -->
-  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name}には、この武器の使用を特定の爵位所持者に制限する法律があります。この武器で攻撃を加えるとサイキックサインを検知される可能性があります。これによって外交的な問題を引き起こします。</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name}には,この武器の使用を特定の爵位所持者に制限する法律があります.この武器で攻撃を加えるとサイキックサインを検知される可能性があります.これによって外交的な問題を引き起こします.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
   <!-- EN: Each upgrade level of this implant requires a specific title in {FACTION_name} to be used legally. -->
-  <Stat_Thing_MinimumRoyalTitle_Level_Desc>このインプラントを合法的にアップグレードしていくには、{FACTION_name} の特定の爵位が必要です。</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>このインプラントを合法的にアップグレードしていくには,{FACTION_name} の特定の爵位が必要です.</Stat_Thing_MinimumRoyalTitle_Level_Desc>
   <!-- EN: Max satisfied title -->
   <Stat_Thing_Apparel_MaxSatisfiedTitle>最高爵位の満足</Stat_Thing_Apparel_MaxSatisfiedTitle>
   <!-- EN: Highest royal title whose apparel requirements are satisfied by this. -->
-  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>これによって最高爵位の衣装着用要件が満たされる。</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>これによって最高爵位の衣装着用要件が満たされる.</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
   <!-- EN: Max satisfied title -->
   <Stat_Thing_Ingestible_MaxSatisfiedTitle>最高爵位の満足</Stat_Thing_Ingestible_MaxSatisfiedTitle>
   <!-- EN: The highest royal title whose food requirements are satisfied by this. -->
-  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>これによって最高爵位の食事要件が満たされる。</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>これによって最高爵位の食事要件が満たされる.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
 
   <!-- EN: Traits -->
   <Stat_Thing_PersonaWeaponTrait_Label>特性・特徴</Stat_Thing_PersonaWeaponTrait_Label>
   <!-- EN: This weapon's individual traits. -->
-  <Stat_Thing_PersonaWeaponTrait_Desc>この武器個人の特性・特徴です。</Stat_Thing_PersonaWeaponTrait_Desc>
+  <Stat_Thing_PersonaWeaponTrait_Desc>この武器個人の特性・特徴です.</Stat_Thing_PersonaWeaponTrait_Desc>
 
   <!-- EN: Multiplier for pain -->
   <StatsReport_Pain>痛みによる掛け率</StatsReport_Pain>

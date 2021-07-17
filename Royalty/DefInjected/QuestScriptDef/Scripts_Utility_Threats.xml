@@ -5,21 +5,21 @@
     <li>threatDescription->[gameConditionDescriptionFuture].</li>
   -->
   <Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
-    <li>threatDescription->[gameConditionDescriptionFuture]。</li>
+    <li>threatDescription->[gameConditionDescriptionFuture].</li>
   </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->(*Threat)[hivesCount] insect hives(/Threat) will burrow up from underground.</li>
   -->
   <Util_Infestation.questDescriptionRules.rulesStrings>
-    <li>threatDescription->(*Threat)[hivesCount]箇所の昆虫の巣(/Threat)が地下から現れるでしょう。</li>
+    <li>threatDescription->(*Threat)[hivesCount]箇所の昆虫の巣(/Threat)が地下から現れるでしょう.</li>
   </Util_Infestation.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->a pack of (*Threat)[animalCount] manhunting [animalKind_labelPlural](/Threat) will arrive.</li>
   -->
   <Util_ManhunterPack.questDescriptionRules.rulesStrings>
-    <li>threatDescription->(*Threat)[animalCount]匹の人狩りの[animalKind_labelPlural](/Threat)の群れがやって来るでしょう。</li>
+    <li>threatDescription->(*Threat)[animalCount]匹の人狩りの[animalKind_labelPlural](/Threat)の群れがやって来るでしょう.</li>
   </Util_ManhunterPack.questDescriptionRules.rulesStrings>
   
   <!-- EN:
@@ -28,8 +28,8 @@
     <li>defaultSiteAppearedLetterLabel->Site appeared: [site_label]</li>
   -->
   <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
-    <li>threatDescription->すぐ近くに新たな拠点が作られます。その場所は[allSitePartsDescriptions] この脅威は拠点を破壊するまで続くでしょう。</li>
-    <li>defaultSiteAppearedLetterText->近くに拠点が出現しました。\n\n[allSitePartsDescriptions]</li>
+    <li>threatDescription->すぐ近くに新たな拠点が作られます.その場所は[allSitePartsDescriptions] この脅威は拠点を破壊するまで続くでしょう.</li>
+    <li>defaultSiteAppearedLetterText->近くに拠点が出現しました.\n\n[allSitePartsDescriptions]</li>
     <li>defaultSiteAppearedLetterLabel->拠点の出現: [site_label]</li>
   </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
   

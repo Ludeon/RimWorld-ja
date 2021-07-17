@@ -28,9 +28,9 @@
     <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
   <QuestConstructionDescriptionCommon.rulePack.rulesStrings>
-    <li>questDescription(askerIsNull==true)->不思議なメッセージが届きました。このメッセージは、名乗るのを拒否した一体の機械知性体によって送信されたようです。メッセージでは、非常に特殊なモニュメントを建設するよう要求しています。\n\n[commonEnding]</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が、 [buildReason]モニュメントを建設するよう要求しています。\n\n[commonEnding]</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が、 [buildReason]モニュメントを建設するよう要求しています。\n\n[commonEnding]</li>
+    <li>questDescription(askerIsNull==true)->不思議なメッセージが届きました.このメッセージは,名乗るのを拒否した一体の機械知性体によって送信されたようです.メッセージでは,非常に特殊なモニュメントを建設するよう要求しています.\n\n[commonEnding]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, [buildReason]モニュメントを建設するよう要求しています.\n\n[commonEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が, [buildReason]モニュメントを建設するよう要求しています.\n\n[commonEnding]</li>
     <li>asker2(askerIsNull==true)->アルコテック</li>
     <li>asker2(asker_factionLeader==True)->[asker_nameDef]</li>
     <li>asker2(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction]</li>
@@ -50,8 +50,8 @@
     <li>glory->偉大な宇宙船</li>
     <li>glory->富</li>
     <li>glory->一族</li>
-    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->クエスト「[resolvedQuestName]」に失敗した。</li>
-    <li>failLetterEndingCommon->クエスト「[resolvedQuestName]」に失敗した。\n\n[asker_faction_name]との友好値が[goodwillPenalty]減少した。</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->クエスト「[resolvedQuestName]」に失敗した.</li>
+    <li>failLetterEndingCommon->クエスト「[resolvedQuestName]」に失敗した.\n\n[asker_faction_name]との友好値が[goodwillPenalty]減少した.</li>
   </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
   
   <!-- EN:

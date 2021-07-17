@@ -6,16 +6,16 @@
     <li>decreeThreatInfo->If you fail to fulfill this decree within [decreeDays] days, [asker_nameDef] will start to become unhappy. [asker_possessive] anger will increase over time until the decree is satisfied.</li>
   -->
   <DecreeSetup.questDescriptionRules.rulesStrings>
-    <li>decreeIntro->コロニーの[asker_bestRoyalTitle]である[asker_nameDef]が布告を発しました。</li>
-    <li>decreeThreatInfo->[decreeDays]日以内にこの布告を達成できないと、[asker_nameDef]は不満を抱きます。[asker_possessive]怒りは布告が執行されるまで時間とともに増大していきます。</li>
+    <li>decreeIntro->コロニーの[asker_bestRoyalTitle]である[asker_nameDef]が布告を発しました.</li>
+    <li>decreeThreatInfo->[decreeDays]日以内にこの布告を達成できないと,[asker_nameDef]は不満を抱きます.[asker_possessive]怒りは布告が執行されるまで時間とともに増大していきます.</li>
   </DecreeSetup.questDescriptionRules.rulesStrings>
   <!-- EN: [asker_nameDef]'s decree forgotten -->
   <DecreeSetup.LetterLabelDecreeForgotten.slateRef>[asker_nameDef]の布告は忘れ去られた</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
   <!-- EN: [asker_nameDef] has forgotten about [asker_possessive] decree. -->
-  <DecreeSetup.LetterTextDecreeForgotten.slateRef>[asker_nameDef]は自分の発した布告のことを忘れてしまいました。</DecreeSetup.LetterTextDecreeForgotten.slateRef>
+  <DecreeSetup.LetterTextDecreeForgotten.slateRef>[asker_nameDef]は自分の発した布告のことを忘れてしまいました.</DecreeSetup.LetterTextDecreeForgotten.slateRef>
   <!-- EN: Decree cancelled -->
-  <DecreeSetup.LetterLabelDecreeCancelled.slateRef>布告は取り消された。</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
+  <DecreeSetup.LetterLabelDecreeCancelled.slateRef>布告は取り消された.</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
   <!-- EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed. -->
-  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef]は布告'[resolvedQuestName]'を達成できないため、いやいやながら取り消しました。</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef]は布告'[resolvedQuestName]'を達成できないため,いやいやながら取り消しました.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
   
 </LanguageData>
