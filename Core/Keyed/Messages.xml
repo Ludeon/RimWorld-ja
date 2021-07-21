@@ -689,7 +689,7 @@
   <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort}は戦える必要があります.</MessageRitualRoleMustBeCapableOfFighting>
   <!-- EN: this role cannot be played by someone else. -->
   <MessageRitualRoleCannotReplaceRequiredPawn>この役割を他の人が行うことはできません.</MessageRitualRoleCannotReplaceRequiredPawn>
-  <!-- EN: {0_labelShort} cannot connect to a gauranlen tree because {0_possessive} connection was recently torn. -->
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
   <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort}は,最近接続が切断されたため,ガウランレンツリーと接続できません.</MessageRitualRolePawnRecentlyTornConnection>
   <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
   <MessageRitualRolePawnHasSameIdeo>{0_labelShort}は思想勧誘者と同じ思想を持っています.</MessageRitualRolePawnHasSameIdeo>
