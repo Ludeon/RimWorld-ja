@@ -4,12 +4,12 @@
   <!-- EN: raid source -->
   <RaidSource.label>襲撃拠点</RaidSource.label>
   <!-- EN: A guarded military staging area which sends periodic raids. -->
-  <RaidSource.description>定期的に襲撃部隊を送り出す防御化された地域です。O</RaidSource.description>
+  <RaidSource.description>定期的に襲撃部隊を送り出す防御化された地域です.O</RaidSource.description>
   <!-- EN: Attacking {0} -->
   <RaidSource.approachingReportString>{0} を攻撃中</RaidSource.approachingReportString>
   <!-- EN: Attack {0} -->
   <RaidSource.approachOrderString>{0} を攻撃</RaidSource.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <RaidSource.arrivedLetter>このエリアには敵の前哨基地があります。</RaidSource.arrivedLetter>
+  <RaidSource.arrivedLetter>このエリアには敵の前哨基地があります.</RaidSource.arrivedLetter>
   
 </LanguageData>

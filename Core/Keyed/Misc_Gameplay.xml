@@ -11,11 +11,11 @@
   <!-- EN: Contained resources -->
   <ContainedResources>作成に必要なリソース</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>囚人が 使用</ForPrisonerUse>
+  <ForPrisonerUse>囚人が使用</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>In prison cell:囚人用</InPrisonCell>
+  <InPrisonCell>独居房:囚人用</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>入植者が 使用</ForColonistUse>
+  <ForColonistUse>入植者が使用</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>医療用</MedicalBed>
   <!-- EN: Owner -->
@@ -55,7 +55,7 @@
   <!-- EN: Needs tending now -->
   <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>直ぐに看る事ができる</CanTendNow>
+  <CanTendNow>直ぐに看ることができる</CanTendNow>
   <!-- EN: Tending expires in {0} -->
   <TreatmentExpiresIn>治療効果切れまで{0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
@@ -100,6 +100,12 @@
   <RenameColonist>ニックネームを変更</RenameColonist>
   <!-- EN: Renounce title -->
   <RenounceTitle>称号を放棄</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>処刑する</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>有罪の入植者を処刑します.\n\nオンに切り替えると,看守が処刑を執行します.</ExecuteColonist> <!-- text_doto -->
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>{0_labelShort}に処刑用の印が付けられました.次に手のあいた看守は,{0_objective}処刑します.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{1}の{0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -125,7 +131,9 @@
   <!-- EN: Fertilized -->
   <Fertilized>受精した</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>受精するまで停止(Progress stopped until fertilized)</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>受精するまで成長停止</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>孵化まで残り</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>{0} には {2} 必要ですが, {1} しかありません</SkillTooLow>
   <!-- EN: Freezing -->
@@ -137,7 +145,7 @@
   <!-- EN: Missing body parts -->
   <CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>再生中</HiveReproducesIn>
+  <HiveReproducesIn>繁殖まで残り</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
   <DormantHiveNotReproducing>休眠状態: 再生していない</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
@@ -160,6 +168,8 @@
   <ConfiguredTargetFuelLevel>目標の燃料積載量: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>敵</Enemies>
+  <!-- EN: people -->
+  <People>人々</People>
   <!-- EN: time passed -->
   <TimePassed>経過時間</TimePassed>
   <!-- EN: current radius -->
@@ -217,7 +227,7 @@
   <!-- EN: Visibility -->
   <Visibility>見つけられ易さ</Visibility>
   <!-- EN: Temperature -->
-  <Temperature>樽内温度</Temperature>
+  <Temperature>温度</Temperature>
   <!-- EN: bad temperature -->
   <BadTemperature>温度が適していない</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
@@ -249,7 +259,7 @@
   <!-- EN: {0} until enemies arrive -->
   <CaravanDetectedRaidCountdown>敵が到着するまで残り{0}</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>敵の増援は{0}後にこのエリアに到着します.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>{0}後に敵の増援がこのエリアに到着します.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
@@ -258,7 +268,7 @@
   <NoPower>電力喪失</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>作業速度が低下</WorkSpeedPenalty>
-  <!-- EN: DISABLED -->
+  <!-- EN: Disabled -->
   <DisabledCommand>無効</DisabledCommand>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>発射準備完了</ReadyForLaunch>
@@ -293,9 +303,9 @@
   <!-- EN: Departing on shuttle in {0} -->
   <ShuttleDelayInspectString>{0}後にシャトルで出発</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>{0}後に出発します</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>{0}後に出発</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>シャトルで出発しなければならない</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>シャトルで出発する必要がある</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
@@ -330,10 +340,16 @@
   <DownedLower>意識不明</DownedLower>
   <!-- EN: resting -->
   <Carried>担架</Carried>
-  <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>人 平均移動速度</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>騎乗家畜/ヒト</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>家畜への騎乗による掛け率</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>積載重量による掛け率: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>この家畜には乗ることができます.キャラバンのメンバーは利用可能な最速の家畜に乗り,キャラバン全体の移動速度を向上させます.</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>このキャラバンは荷物が多すぎるため動けません.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>キャラバン隊メンバー速度</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -369,11 +385,13 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>危険すぎるため,{0}日間,再侵入できません.</EnterCooldown>
+  <EnterCooldown>危険すぎるため,{0}経過するまで再侵入できません.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>スキャナーは鉱脈の周囲に活動的な何かを検出しています.恐らくそれは敵対的でしょう.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <!-- EN: no active research project -->
@@ -393,19 +411,19 @@
   <!-- EN: animals -->
   <AnimalsLower>動物</AnimalsLower>
   <!-- EN: {0} x{1} -->
-  <FilthLabel>{0} x{1}</FilthLabel>
+  <FilthLabel>{0}x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>{1}の{0} x{2}</FilthLabelWithSource>
+  <FilthLabelWithSource>{1}の{0}x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>警告:あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>警告：あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>囚人</PrisonerLower>
   <!-- EN: prisoners -->
   <PrisonersLower>囚人</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>このクエストをクエストタブ内でみるにはクリック</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>クリックでクエストタブからこのクエストを見る</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
   <Mood>心情</Mood>
   <!-- EN: Quest -->
@@ -422,8 +440,8 @@
   <ViewHyperlink>{0}を表示</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>爆発まで{0}日</DetonationCountdown>
-  <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>被ダメージ時に大きく爆発</ExplosionOnDamageWarning>
+  <!-- EN: Large fire explosion if damaged -->
+  <ExplosionOnDamageWarning>被ダメージで大きな爆発火災</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>メカクラスター</MechCluster>
   <!-- EN: Spawning in {0} -->
@@ -431,7 +449,7 @@
   <!-- EN: {0} assembly completes in {1}. -->
   <MechAssemblyCompleteIn>{1}後に{0}の組み立てが完了します.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>組み立てるでしょう</MechAssemblyNextType>
+  <MechAssemblyNextType>組み立てる機体</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>生産された量</ThingsProduced>
   <!-- EN: harvested -->
@@ -443,7 +461,7 @@
   <!-- EN: Dormant -->
   <DormantCompInactive>休眠</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>閉じられている</DormantCompSealed>
+  <DormantCompSealed>密閉</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
   <DormantCompBeacon>メカノイド降下準備完了</DormantCompBeacon>
   <!-- EN: Expired -->
@@ -451,7 +469,7 @@
   <!-- EN: Initiates in -->
   <InitiatesIn>活動開始まで</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>{0}後に起動</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>{0}秒後に起動</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
   <PsychicEntropy>ニューラルヒート</PsychicEntropy>
   <!-- EN: Heat -->
@@ -463,13 +481,39 @@
   <!-- EN: low psyfocus -->
   <LowPsyfocus>サイフォーカスが低い</LowPsyfocus>
   <!-- EN: {0} left -->
-  <DurationLeft>残 {0}</DurationLeft>
+  <DurationLeft>残り{0}</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>いずれかの</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>{0}の才能・性格が必要</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>友好値</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>基本友好値</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>基本友好値の幅</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>基本友好値は,派閥のアイデンティティと信条に基づいています.現在の友好値が基本友好値から大きく離れている場合,時間の経過と共に,ゆっくりと基本友好値へ変動していきます.\n\n基本友好値へ変動するとき,全ての友好値の影響は,{0}の掛け率を受けます.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>{0_nameIndef}の抵抗を減らす</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>大きすぎる</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>危険</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>サブクエストがある</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>サブクエスト</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>襲撃者</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>無効化</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>ヌーディズム</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>調査の進捗</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>完了</StudyCompleted>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -488,6 +532,8 @@
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>内容物 {0} / {1} ビール</ContainsBeer>
+  <!-- EN: Contains -->
+  <Contains>内容物</Contains>
   <!-- EN: Fermented -->
   <Fermented>発酵した</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -513,9 +559,9 @@
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>敵対心\n{0} から {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
-  <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
+  <TextMote_TameFail>手懐けられなかった\n成功率 {0}</TextMote_TameFail>
+  <!-- EN: Tamed! -->
+  <TextMote_TameSuccess>手懐けた!</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>{0} 調教に失敗\n成功率 {1}</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
@@ -530,6 +576,8 @@
   <TextMote_Immune>免疫力を発揮</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} 看病された</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>レベル {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
   <lowMood>低心情</lowMood>
   <!-- EN: low opinion -->
@@ -553,15 +601,56 @@
   <!-- EN: Invert -->
   <InvertArea>反転</InvertArea>
 
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>閉じられてない</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>ドアが開放</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>ペンをリネーム</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>ペンマーカー {0}</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>囲いの中</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>囲いの中にいない</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>家畜の囲いは,囲われた領域内にペンマーカーを建築することで作成できます.運搬人は家畜を適切な囲いに連れて行きます.ペンはフェンスやバリケード,壁,ドアで囲うことができます.</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>誘導されている</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>誘導されている</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>スポットに誘導されている.</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>ペンサイズ</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>極小サイズの囲い</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>小サイズの囲い</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>中サイズの囲い</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>大サイズの囲い</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>開放 - フェンスを建ててください</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>{ANIMALDEF_label}の収容能力</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>家畜の例</PenExampleAnimals>
+
+
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>操作できないキャラクターです</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} は野蛮なことはできません</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort}は 野蛮なことはできません</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>野蛮なことをしない</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort} は徴兵されていない</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort}は 徴兵されていない</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>{PAWN_nameDef}は{APPAREL_label}を身に着けているため,遠隔武器を使用できません</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -593,17 +682,19 @@
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>{THING_label} を {DESTINATION} に 運搬中</ReportHaulingTo>
+  <ReportHaulingTo>{THING_label}を{DESTINATION}に運搬中</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>{THING_label} を {DESTINATION} で 埋葬中</ReportHaulingToGrave>
+  <ReportHaulingToGrave>{THING_label}を{DESTINATION}に埋葬中</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>{1_label} を 運搬中</ReportHauling>
+  <ReportHauling>{1_label}を運搬中</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>運搬中</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
   <ReportSleeping>睡眠中</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>休憩中</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>倒れている</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>夜明けを眺めている</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -617,7 +708,7 @@
   <!-- EN: watching the aurora. -->
   <WatchingAurora>オーロラを眺めている</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>{1} に {0}を使う</UsingVerb>
+  <UsingVerb>{1}に{0}を使う</UsingVerb>
   <!-- EN: using {0}. -->
   <UsingVerbNoTarget>{0}を使う</UsingVerbNoTarget>
   <!-- EN: area -->
@@ -629,9 +720,9 @@
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>火を消している</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>{TARGET_label} に点いた火を消している</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>{TARGET_label}に点いた火を消している</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>死体を掘り出す</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>死体を掘り出している</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -653,21 +744,21 @@
   <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>攻撃ミス角度</WeaponMissRadius>
   <!-- EN: Shooter -->
-  <ShootReportShooterAbility>射手命中率 - </ShootReportShooterAbility>
+  <ShootReportShooterAbility>射手命中率 -</ShootReportShooterAbility>
   <!-- EN: Weapon -->
-  <ShootReportWeapon>武器 修正 - </ShootReportWeapon>
+  <ShootReportWeapon>武器修正 -</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>暗がり - </Darkness>
+  <Darkness>暗がり -</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>伏せた - </TargetProne>
+  <TargetProne>伏せた -</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>サイズ 修正 - </TargetSize>
+  <TargetSize>サイズ修正 -</TargetSize>
   <!-- EN: Weather -->
-  <Weather>天候 修正 -</Weather>
+  <Weather>天候修正 -</Weather>
   <!-- EN: Cover -->
-  <ShootingCover>カバー</ShootingCover>
+  <ShootingCover>カバー -</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{COVER_label}は {1}低下させる</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label}は{1}低下させる</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>全身が露出</NoCoverLower>
   <!-- EN: Execution -->
@@ -675,15 +766,15 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>{0} を作る</RecipeMake>
+  <RecipeMake>{0}を作る</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>{0} を作ります</RecipeMakeDescription>
+  <RecipeMakeDescription>{0}を作る</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>{0} を作っている</RecipeMakeJobString>
+  <RecipeMakeJobString>{0}を作っている</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>{0} を投与する</RecipeAdminister>
+  <RecipeAdminister>{0}を投与する</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>{0} を投与中</RecipeAdministerJobString>
+  <RecipeAdministerJobString>{0}を投与中</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>禁酒主義者は不満を持つでしょう</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
@@ -709,13 +800,13 @@
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>{1} 所属の {0}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{1}所属の {0}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
   <PawnTitleDescWrap>{1}の{0}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{1}の下の{0}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{1}の下の {0}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{1}の下の{0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{1}の下の {0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
@@ -739,7 +830,7 @@
   <!-- EN: Incapacitated -->
   <Incapacitated>倒れている</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>拘束中 （移動速度減）</InRestraints>
+  <InRestraints>拘束中 (移動速度減)</InRestraints>
   <!-- EN: Carrying -->
   <Carrying>運搬中</Carrying>
   <!-- EN: Affected by: -->
@@ -752,14 +843,14 @@
   <StunLower>麻痺</StunLower>
 
   <!-- Inspector general stuff -->
-  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>同じ マスにある 別のものを 選択します.\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です.</SelectNextInSquareTip>
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>同じマスにある,別のものを選択します.\n\n(*SectionTitle)ショートカットキー:(/SectionTitle) {0}\n\nこれは,間隔を置いて同じマスを クリックした時と同じ動作です.</SelectNextInSquareTip>
   <!-- EN: View information. -->
-  <DefInfoTip>オブジェクトの 情報を 表示する.</DefInfoTip>
+  <DefInfoTip>オブジェクトの情報を表示する.</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>徴兵されていない時に,近くに敵がいる時の,入植者の対応を変更します.</HostilityReponseTip>
+  <HostilityReponseTip>徴兵されていないときに,近くに敵がいるときの,入植者の対応を変更します.</HostilityReponseTip>
   <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>現在</HostilityResponseCurrentMode>
 
@@ -821,15 +912,17 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>{1_labelShort} が射撃</ShotBy>
+  <ShotBy>{1_labelShort}が射撃</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>命中 しません</CannotHit>
+  <CannotHit>命中しません</CannotHit>
   <!-- EN: Manhunter chance per hit -->
   <ManhunterPerHit>1発あたりの暴走率</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>原料</Ingredients>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>同種の食事とのみスタック</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -841,11 +934,11 @@
   <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
   <!-- EN: Resting -->
-  <PlantResting>成長していない (活動停止中)</PlantResting>
+  <PlantResting>成長していない(活動停止中)</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています(通常の成長速度の{0}%)</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (活動停止)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています(活動停止)</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <!-- EN: Mature. -->
@@ -864,6 +957,12 @@
   <Blighted>枯病</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>陽に晒されて死亡</DyingBecauseExposedToLight>
+  <!-- EN: Cut now -->
+  <AutoCutNow>いますぐ刈り取る</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>を伐採,採取する</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>を切り倒す,刈り取る</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -899,19 +998,19 @@
   <!-- EN: Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の,美しさとして知られる値を表示します</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の,美しさとして知られる値を表示します.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することが出来ます</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することができます.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>自動的に, 新しい 建物・ 機材の まわりを 村ゾーンに 指定します.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>新しい建物や建築物の周囲を自動的にコロニーゾーンに指定します.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
   <AutoRebuildButton>破壊された建物を自動的に再復興するか切り替えます.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>リソース表示をカテゴリー別の表示に切り替えます.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>家畜の名前表示 切り替え</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
@@ -919,17 +1018,17 @@
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
   <ShowTerrainAffordanceOverlayToggleButton>支持地盤の可視 切り替え\n\nこれは個々の場所に,どのような種類の建物を建設できるかに関係しています.\n\n例えば,ある種の地盤は,小型,中型の建物だけを建てられますが,重い建物は建てられません.橋は水上にしか建てられません.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
   <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>地形の名称表示を切り替えます</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>地形の名称表示 切り替え</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>{1_label} が 燃えている</FireOn>
+  <FireOn>{1_label}を燃やしている炎</FireOn>
   <!-- EN: Burning -->
   <Burning>炎上中</Burning>
   <!-- EN: fire size {0} -->
@@ -953,21 +1052,23 @@
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>これを建設するために必要な資源がありません.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
   <WillGetWorkSpeedPenalty>{0}の作業速度が低下</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>屋根の下には 配置 できません.</MustPlaceUnroofed>
+  <MustPlaceUnroofed>屋根の下には配置できません.</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>厚い岩盤の下に配置する必要があります.</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>宇宙船骨格の先端に配置してください.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>食材ホッパーを ペーストディスペンサーの となりに 配置してください.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>食材ホッパーはペーストディスペンサーのとなりに配置してください.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>間欠泉に 直接配置して ください.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>間欠泉に直接配置してください.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>冷気側,暖気側ともに,壁から離して配置して ください.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>冷気側,暖気側ともに,壁から離して配置してください.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
   <MustPlaceVentWithFreeSpaces>両面共に風通しが必要です.</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
@@ -977,7 +1078,9 @@
   <!-- EN: Must be placed on drillable resources. -->
   <MustPlaceOnDrillable>掘削可能な資源の上に配置してください.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>罠の近くには置く事ができません.</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>罠の近くには置くことができません.</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>同じタイプの別の建物の近くには置くことができません.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -993,39 +1096,39 @@
   <!-- EN: Contains -->
   <CasketContains>収容者</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>【警告】 {PAWN_nameDef}は最後の入植者です.{PAWN_objective}冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう.本当に良いのですか？</CasketWarning>
+  <CasketWarning>【警告】\n\n{PAWN_nameDef}は最後の入植者です.{PAWN_objective}冬眠カプセルに入れさせるとゲームを続けることができなくなるでしょう.本当に良いですか？</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>発射 できません.</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>発射できません.</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>発射 できます.</ShipReportCanLaunch>
+  <ShipReportCanLaunch>発射できます.</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
-  <ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
+  <ShipReportMissingPart>宇宙船構造物が足りません</ShipReportMissingPart>
   <!-- EN: requires -->
   <ShipReportMissingPartRequires>必要物</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
+  <ShipReportNoFullPods>冬眠カプセルに空きがあります</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
   <ShipReportHibernating>休止状態の構成物</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知されることを警告しています.\n\nこのエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認してください.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>反応炉の出力アップの準備を整えました.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知されます.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認してください.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかることを警告しています.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えました.\n\nこのプロセスは約15日程かかるでしょう.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->
   <SkillNeurotrainerLabel>スキルトレイナー ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>{0}を 身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>{0}を身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>特定のスキルを身に付けられる使い捨てのメカナイト製剤です.\n\nこの製剤は眼窩を通して投与します.脳内に達すると,メカナイトは指示された特定の作業野を向上させるべく,急速に必要なニューラルネットワークに形を変えます.</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>一度だけ使用可能な,特定のスキルを身に付けられるメカナイトの超薬物です.\n\nこの薬物は眼窩から投与します.脳に散布されると,メカナイトは目的のスキルを即座に改善するために,特定の領域で必要に応じた神経組織に変形します.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
   <SkillNeurotrainerUsed>{USER_labelShort}は,{1}スキルトレイナーを使って,スキルを{2}から{3}に上げた.</SkillNeurotrainerUsed>
 
@@ -1043,13 +1146,15 @@
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>未完の {0}</UnfinishedItem>
+  <UnfinishedItem>未完の{0}</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>未完の {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>未完の{0}{1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->
   <Quality>品質</Quality>
+  <!-- EN: quality -->
+  <quality>品質</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>アイテムがどの位良く作られたかを示しています.</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1079,7 +1184,7 @@
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>あなたは宇宙船を発進させました!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>人工知能(AIコア)は 宇宙船を 安全な場所に 向けようとしています. それは, この星系のi 繁栄した惑星を 見つける事かもしれませんし, 他の星系へ向けた 1世紀に渡る旅に 出発する事かもしれません.また, だれかが新しいグリッターワールドを 創り上げるまで, 数千年間も小惑星帯の氷床の下に 身を隠すことを 選択するかもしれません.\n\nそれは次にあなたが目が覚ました時に分かるでしょう.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>人工知能(AIコア)は 宇宙船を 安全な場所に 向けようとしています. それは, この星系の 繁栄した惑星を 見つけることかもしれませんし, 他の星系へ向けた 1世紀に渡る旅に 出発することかもしれません.また, だれかが新しいグリッターワールドを 創り上げるまで, 数千年間も小惑星帯の氷床の下に 身を隠すことを 選択するかもしれません.\n\nそれは次にあなたが目が覚ましたときに分かるでしょう.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
   <GameOverColonistsEscaped>脱出した入植者:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
@@ -1097,7 +1202,11 @@
 
   <!-- Facilities -->
   <!-- EN: inactive -->
-  <InactiveFacility>閉鎖</InactiveFacility>
+  <InactiveFacility>機能していない</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>接続</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>建物に接続されてない</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1145,7 +1254,7 @@
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>メンテナンスの期限</DueForMaintenance>
+  <DueForMaintenance>メンテナンスが必要</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
   <DeterioratingDueToLackOfMaintenance>メンテナンス不足による性能低下</DeterioratingDueToLackOfMaintenance>
 
@@ -1303,21 +1412,21 @@
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>絆を結ぶ: {0}</BondedWith>
+  <BondedWith>絆で結ばれている: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
   <NotBonded>誰とも絆は無い</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>他の誰かと絆を結んだ</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>(現在の絆)</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(絆の存在)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>ペルソナ武器と絆を結べるのは一人につき1個までです.\n\n{WEAPON_labelShort}を装備して絆を結ぶには,その前に今{PAWN_nameDef}が絆を結んでいる武器である,{BONDEDWEAPON_labelShort}を破壊する必要があります.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>ペルソナ武器と絆を結べるのは一人につき1個までです.\n\n{WEAPON_labelShort}を装備して絆を結ぶには, その前に今{PAWN_nameDef}が絆を結んでいる武器である, {BONDEDWEAPON_labelShort}を破壊する必要があります.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
   <BladelinkAlreadyBondedMessage>{PAWN_nameDef}は既に{BONDEDWEAPON_labelShort}と絆で結ばれている</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>{0}はバイオコード化された</Biocoded>
+  <Biocoded>{0}(バイオコード)</Biocoded>
   <!-- EN: Biocoding: {0} -->
   <CodedFor>バイオコーディング: {0}</CodedFor>
   <!-- EN: biocoded -->
@@ -1325,13 +1434,13 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>迎撃 {0} {1}毎</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>迎撃: {0} {1}毎</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>迎撃 {0}</InterceptsProjectiles>
+  <InterceptsProjectiles>迎撃: {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>地上の発射物</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>地上からの投射物</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>空中の発射物</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>上空からの投射物</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
@@ -1341,11 +1450,135 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>原因: {0}</CausedByHediff>
   
-  <!-- UNUSED -->
-  <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
-  <CannotResearchNoBench>研究できない: 研究卓が無い</CannotResearchNoBench>
-  <Complete>完了</Complete>
-  <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was cured. -->
+  <HealingCureHediff>{0_nameDef}の{1}は治療されました.</HealingCureHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>{0_nameDef}の{1}は健康になりました.</HealingRestoreBodyPart>
 
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>注意: ここに建物を設置すると,{FACTION_name}を怒らせます!</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>着陸地点を選ぶ</ChooseLandingSite>
+  
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>儀式</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>行われる場所</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>いくつかの{0}</RitualTargetThingDefsInfo>
+  <!-- EN: Attending -->
+  <LordReportAttending>参列する</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>{0}はキャンセルされました.</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>{0}は参列者数が不足しているため,完了しませんでした.</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>{0}が完了しました.</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>{0}で終わる</RitualEndsIn>
+  <!-- EN: Organizers -->
+  <Organizers>主催者</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>品質要因</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>この条件は,状況によっては満たされる場合があります.\n\nこれが満たされると,品質ボーナスが適用されます.</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>この条件は満たされません.\n\n品質ボーナスは適用されません.</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>見物人</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>参加しない</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>ドラッグアンドドロップ,または左/右クリックで人を移動させます.</DragPawnsToRolesInfo>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>奴隷です.他人の人的財産です.</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>{0_labelShort}は眠っています.儀式の参加者である場合,{0_pronoun}は参加するために目を覚まします.</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
+  <RitualBeginSleepingWarning>選ばれた参加者の何人かは眠っています.儀式を始めると,彼らは目を覚まします.</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>この立場は,{0}の社会的役割を持つ入植者によって,最もよく行われます.\n\nこの役割を持たない人がこの立場に就いた場合,次のボーナスは得られません.</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>{0}の役割に代わるものはありません.</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>進捗 {0}</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>{0}の品質は</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>{0}の合計品質は{1}であり,以下の要因によって決められました</RitualOutcomeQualitySpecific>
+  <!-- EN: Outcome chances at {0} quality -->
+  <RitualOutcomeChances>{0}品質で結果を得る可能性</RitualOutcomeChances>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>最近行った</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>{0}が期待できる</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>儀式的な雰囲気の音</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>{0}の合計品質は{1}を下回っています.続行すると,コロニーに悪影響を与える可能性があります.\n\n本当に行いますか?</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>到達可能な適切な場所がありません.</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of talking. -->
+  <AbilitySpeechDisabledCantSpeak>{0_labelShort}は話すことができません.</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得られます.</RitualOutcomeExtraDesc_Mood>
+  
+  <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
+  <ChooseParticipants>{RITUAL_labelDef}に参加する人を選んでください.</ChooseParticipants>
+  <!-- EN: Begin -->
+  <Begin>開始する</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>{0}を開始する</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>{1}の{0}を開始する</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>({1}のうち){0}</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>{0}は日付固有の儀式です.{2}の{1}日に行えます.</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>置換する</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>{IDEOS}の儀式席</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedRitualQuality>予想される品質</ExpectedRitualQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>開始時の品質</StartingQuality>
+  <!-- EN: Expected duration -->
+  <ExpectedRitualDuration>予想される期間</ExpectedRitualDuration>
+  
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort}の{1}</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>部屋の美しさ</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: Participants -->
+  <RitualPredictedOutcomeDescParticipantCount>参加者</RitualPredictedOutcomeDescParticipantCount>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>T{PAWN_labelShort}の予想</RitualPredictedOutcomeDescPawnExpectations>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>これらのいずれか</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>{PAWN_labelShort}を置き換える</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>現在</Present>
+  <!-- EN: {0} used -->
+  <Used>{0}を使った</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>開始時の品質{0}</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>{0}までの品質</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>{0}品質</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>最大{0}</MaxValue>
+  
 </LanguageData>

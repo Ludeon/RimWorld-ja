@@ -13,7 +13,7 @@
   <Art.verb>芸術</Art.verb>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>スキルが不要な雑用.囚人の釈放,機械類のスイッチをオンオフします.</BasicWorker.description>
+  <BasicWorker.description>スキルが不要な雑用です.囚人の釈放,機械類のスイッチをオンオフします.</BasicWorker.description>
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>対応</BasicWorker.gerundLabel>
   <!-- EN: Basic -->
@@ -35,7 +35,7 @@
   <Cleaning.verb>掃く</Cleaning.verb>
   
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>あなたが指示した建物を建てます,壊れたり,大部分が破壊された建物を修理します.</Construction.description>
+  <Construction.description>あなたが指示した建物を建て,壊れたり,大部分が破壊された建物を修理します.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>建築</Construction.gerundLabel>
   <!-- EN: Construct -->
@@ -57,7 +57,7 @@
   <Cooking.verb>料理</Cooking.verb>
   
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>作業台で,スキルの低い一般的な作業をします.この作業には,ストーンカッター,溶解炉,等が含まれます.</Crafting.description>
+  <Crafting.description>作業台で,スキルの低い一般的な作業をします.この作業には,ストーンカッター,溶鉱炉等が含まれます.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>工芸</Crafting.gerundLabel>
   <!-- EN: Craft -->
@@ -85,7 +85,7 @@
   <!-- EN: Firefight -->
   <Firefighter.labelShort>消火</Firefighter.labelShort>
   <!-- EN: Firefighter -->
-  <Firefighter.pawnLabel>消防士</Firefighter.pawnLabel>
+  <Firefighter.pawnLabel>消防者</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
   <Firefighter.verb>消火</Firefighter.verb>
   
@@ -118,7 +118,7 @@
   <!-- EN: Haul -->
   <Hauling.labelShort>運搬</Hauling.labelShort>
   <!-- EN: Hauler -->
-  <Hauling.pawnLabel>運送屋</Hauling.pawnLabel>
+  <Hauling.pawnLabel>運搬人</Hauling.pawnLabel>
   <!-- EN: Haul -->
   <Hauling.verb>運ぶ</Hauling.verb>
   
@@ -134,7 +134,7 @@
   <Hunting.verb>狩猟</Hunting.verb>
   
   <!-- EN: Digging and drilling. -->
-  <Mining.description>掘削とボーリング</Mining.description>
+  <Mining.description>掘削とボーリングを行います.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>採掘</Mining.gerundLabel>
   <!-- EN: Mine -->
@@ -167,7 +167,7 @@
   <PatientBedRest.verb>病人になる</PatientBedRest.verb>
   
   <!-- EN: Cut or harvest plants as designated. -->
-  <PlantCutting.description>指示された草木を伐採・収穫します.</PlantCutting.description>
+  <PlantCutting.description>指示された草木を刈り取り,伐採し,指示された植物から採取します.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>収穫</PlantCutting.gerundLabel>
   <!-- EN: Plant cut -->

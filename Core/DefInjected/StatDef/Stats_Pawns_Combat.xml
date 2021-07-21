@@ -14,22 +14,22 @@
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>AP値(白兵戦)</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
-  <MeleeArmorPenetration.description>白兵戦闘においてアーマーを貫通する平均値です.このステータスは現在装備している武器での値となっています.</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.description>白兵戦闘においてアーマーを貫通する平均値です.\n\nこのステータスは現在装備している武器の値を含みます.</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>回避率(白兵戦)</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
-  <MeleeDodgeChance.description>敵からの近接攻撃を回避する確率です.遠距離射撃を回避することはできません.</MeleeDodgeChance.description>
+  <MeleeDodgeChance.description>敵からの近接攻撃を回避する確率です.\n\n遠距離射撃を回避することはできません.</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
   <MeleeDPS.label>DPS(白兵戦)</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>白兵戦で与えられる,1秒あたりのダメージ量の平均値です.この数値には,防御側の回避率やアーマーを考慮に入れていません.</MeleeDPS.description>
+  <MeleeDPS.description>白兵戦で与えられる,1秒あたりのダメージ量の平均値です.\n\nこの数値には,防御側の回避率やアーマーを考慮に入れていません.</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>命中率(白兵戦)</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>白兵戦時の基本命中率です.命中してもターゲットは躱すことができます.</MeleeHitChance.description>
+  <MeleeHitChance.description>白兵戦時の基本命中率です.\n\n命中してもターゲットは躱すことができます.</MeleeHitChance.description>
   
   <!-- EN: trap spring chance -->
   <PawnTrapSpringChance.label>罠発動確率</PawnTrapSpringChance.label>
@@ -39,8 +39,8 @@
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>命中率(射撃)</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyPawn.description>射撃距離毎の基本成功率です.命中率も他の要因の影響を受けます.射撃毎の命中率に関する説明は,射手を選択したあとに,ターゲットをマウスオーバーすることで見ることが出来ます.</ShootingAccuracyPawn.description>
+  <ShootingAccuracyPawn.description>射撃距離毎の基本命中率です.\n\n命中率は様々な要因で変化します.\n\n射撃毎の命中率に関する説明は,射手を選択した後に,ターゲットをマウスオーバーすることで見ることができます.</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->
-  <ShootingAccuracyPawn.labelForFullStatList>命中率(people)</ShootingAccuracyPawn.labelForFullStatList>
+  <ShootingAccuracyPawn.labelForFullStatList>射撃命中率(ヒト)</ShootingAccuracyPawn.labelForFullStatList>
   
 </LanguageData>

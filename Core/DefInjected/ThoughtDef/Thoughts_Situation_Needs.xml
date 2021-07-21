@@ -98,7 +98,7 @@
   <!-- EN: ravenously hungry -->
   <NeedFood.stages.ravenously_hungry.label>猛烈に腹が空いた</NeedFood.stages.ravenously_hungry.label>
   <!-- EN: These hunger pangs are hard to ignore. -->
-  <NeedFood.stages.ravenously_hungry.description>お腹が空いて,他の事ができない.</NeedFood.stages.ravenously_hungry.description>
+  <NeedFood.stages.ravenously_hungry.description>お腹が空いて,他のことができない.</NeedFood.stages.ravenously_hungry.description>
   <!-- EN: malnourished -->
   <NeedFood.stages.malnourished.label>栄養失調</NeedFood.stages.malnourished.label>
   <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
@@ -110,20 +110,41 @@
   <!-- EN: starving -->
   <NeedFood.stages.starving.label>飢餓</NeedFood.stages.starving.label>
   <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
-  <NeedFood.stages.starving.description>私はなんとか,やっとの思いで食べ物以外の事を考えることができる.皮膚は骨に張り付いている.このままだと死ぬのかな？</NeedFood.stages.starving.description>
+  <NeedFood.stages.starving.description>私はなんとか,やっとの思いで食べ物以外のことを考えることができる.皮膚は骨に張り付いている.このままだと死ぬのかな？</NeedFood.stages.starving.description>
   <!-- EN: advanced starvation -->
   <NeedFood.stages.advanced_starvation.label>飢餓(進行)</NeedFood.stages.advanced_starvation.label>
   <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
-  <NeedFood.stages.advanced_starvation.description>私はなんとか,やっとの思いで食べ物以外の事を考えることができる.皮膚は骨に張り付いている.もう死ぬのかな？</NeedFood.stages.advanced_starvation.description>
+  <NeedFood.stages.advanced_starvation.description>私はなんとか,やっとの思いで食べ物以外のことを考えることができる.皮膚は骨に張り付いている.もう死ぬのかな？</NeedFood.stages.advanced_starvation.description>
   <!-- EN: extreme starvation -->
   <NeedFood.stages.extreme_starvation.label>飢餓(末期)</NeedFood.stages.extreme_starvation.label>
   <!-- EN: Food... food... anything... please... -->
   <NeedFood.stages.extreme_starvation.description>食べ物...たべも...食べる... なんでも... ょうだい...</NeedFood.stages.extreme_starvation.description>
   
+  <!-- EN: just outdoors -->
+  <NeedIndoors.stages.just_outdoors.label>屋外にいる</NeedIndoors.stages.just_outdoors.label>
+  <!-- EN: I shouldn’t be outdoors. -->
+  <NeedIndoors.stages.just_outdoors.description>外にはいたくない.</NeedIndoors.stages.just_outdoors.description>
+  <!-- EN: outdoors -->
+  <NeedIndoors.stages.outdoors.label>屋外</NeedIndoors.stages.outdoors.label>
+  <!-- EN: I’ve been outside too much recently. -->
+  <NeedIndoors.stages.outdoors.description>最近外に出すぎている.</NeedIndoors.stages.outdoors.description>
+  <!-- EN: long outdoors -->
+  <NeedIndoors.stages.long_outdoors.label>長時間の屋外</NeedIndoors.stages.long_outdoors.label>
+  <!-- EN: Being outside so much is wrong for me. -->
+  <NeedIndoors.stages.long_outdoors.description>外にい続けることは自分にとって間違ったことだ.</NeedIndoors.stages.long_outdoors.description>
+  <!-- EN: very long outdoors -->
+  <NeedIndoors.stages.very_long_outdoors.label>非常に長時間の屋外</NeedIndoors.stages.very_long_outdoors.label>
+  <!-- EN: I’ve been outside way too much recently. This open space is so disturbing. -->
+  <NeedIndoors.stages.very_long_outdoors.description>最近あまりにも外に出続けている.この広い空間はとても不安だ.</NeedIndoors.stages.very_long_outdoors.description>
+  <!-- EN: brutal outdoors -->
+  <NeedIndoors.stages.brutal_outdoors.label>耐え難いほどの屋外</NeedIndoors.stages.brutal_outdoors.label>
+  <!-- EN: These open spaces are driving me insane! -->
+  <NeedIndoors.stages.brutal_outdoors.description>この広い空間たちが自分を狂気に追い立てている!</NeedIndoors.stages.brutal_outdoors.description>
+  
   <!-- EN: recreation-starved -->
   <NeedJoy.stages.recreationstarved.label>娯楽に飢えた</NeedJoy.stages.recreationstarved.label>
   <!-- EN: It's been so long since I did anything for fun on my own time. -->
-  <NeedJoy.stages.recreationstarved.description>自由時間に何か楽しい事をして以来,かなり長い時間が経った.</NeedJoy.stages.recreationstarved.description>
+  <NeedJoy.stages.recreationstarved.description>自由時間に何か楽しいことをして以来,かなり長い時間が経った.</NeedJoy.stages.recreationstarved.description>
   <!-- EN: recreation-deprived -->
   <NeedJoy.stages.recreationdeprived.label>娯楽が貧しい</NeedJoy.stages.recreationdeprived.label>
   <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->

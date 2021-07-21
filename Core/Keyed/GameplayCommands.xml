@@ -15,7 +15,7 @@
   <!-- EN: Toggle power -->
   <CommandTogglePowerLabel>電源 スイッチ</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
-  <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>電源スイッチです.</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>操作</CommandDesignateTogglePowerLabel>
@@ -40,9 +40,11 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>入植者を徴兵します.\n\n徴兵中の入植者は,戦闘と与えられた指示のみを実行します.\n\n別の作業や, 食事, 睡眠などを与えたい時は 徴兵終了を選択してください.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>入植者を徴兵します.\n\n徴兵中の入植者は,与えられた指示と戦闘を実行します.作業や食事,睡眠は行いません.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort}は歩くことができない.</IsIncapped>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <ParticipatingInRitual>{0_labelShort}は{1}に参加中です.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>発砲許可</CommandFireAtWillLabel>
@@ -87,17 +89,20 @@
   <!-- EN: Whether beds in this room should be used by prisoners. -->
   <CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて,囚人用に割り当てます.</CommandBedSetForPrisonersDesc>
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
-  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが,囚人用ベッドに割り当てる事が出来ます.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが,囚人用ベッドに割り当てることができます.</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります. （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います.</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>部屋内の全てのベッドが囚人用になります(囚人と入植者は同じ部屋で寝れません).\n\n以下の入植者はベッドの所有権を失います.</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります. （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います.</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>部屋内の全てのベッドが入植者用になります(囚人と入植者は同じ部屋で寝れません).\n\n以下の囚人はベッドの所有権を失います.</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
-  <AreYouSure>本当に よろしいですか？</AreYouSure>
+  <AreYouSure>本当によろしいですか？</AreYouSure>
+  <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <ChangingOwnerTypeBedWarning>ベッドの使用用途を変更すると,全てのベッドが影響を受けます(囚人,奴隷,入植者は同じ部屋で寝れません).\n\n以下の人物はベッドの所有権を失います.</ChangingOwnerTypeBedWarning>
+
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
@@ -117,14 +122,14 @@
   <CommandHideZoneDesc>ゾーンの 非表示 / 再表示.</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
-  <CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>ゾーン削除</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
-  <CommandDeleteZoneDesc>ゾーンを 削除します.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>ゾーンを削除します.</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします.コピーした設定を,別のゾーンにペーストすることが出来るようになります.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします.コピーした設定を,別のゾーンにペーストすることができるようになります.</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
@@ -133,18 +138,23 @@
 
   <!-- EN: Allow sowing -->
   <CommandAllowSow>種蒔きの許可</CommandAllowSow>
-  <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>不許可なら,入植者はこのエリアに植物の種を蒔かなくなります.作物の収穫は従来通り行われます.</CommandAllowSowDesc>
+  <!-- EN: When disabled, colonists will never sow new plants in this zone. They will still harvest. -->
+  <CommandAllowSowDesc>不許可なら,入植者はこのエリアに新しく植物の種をまかなくなります.作物の収穫は従来通り行われます.</CommandAllowSowDesc>
+
+  <!-- EN: Allow cutting -->
+  <CommandAllowCut>刈り取り許可</CommandAllowCut>
+  <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
+  <CommandAllowCutDesc>不許可なら,入植者はこのエリアで植物を刈り取らなくなります.まだ空いてる土地に新しく種をまき,収穫する行為は従来通り行われます.</CommandAllowCutDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
-  <CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>集中攻撃 指定</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>タレットが 可能なかぎり 攻撃する 対象を 指定します.</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>タレットが可能なかぎり,攻撃する対象を指定します.</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
-  <CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
+  <CommandStopForceAttack>集中攻撃 解除</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます.</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>攻撃対象を解除し,タレットに判断させます.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>集中攻撃できません.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
@@ -152,21 +162,21 @@
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
   <CommandExtractShellDesc>弾頭の種類を変えるために装填されている弾を抜きます.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
-  <MessageTargetBeyondMaximumRange>最大射程より 離れています.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBeyondMaximumRange>最大射程より離れています.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
-  <MessageTargetBelowMinimumRange>最小射程より 近すぎます.</MessageTargetBelowMinimumRange>
+  <MessageTargetBelowMinimumRange>最小射程より近すぎます.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっている為 射撃できません.</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>警告："発砲禁止"になっている為 射撃できません.</MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
   <CommandShipLaunch>宇宙船を発進させる</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます.</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>現在の設定で発進シークエンスをはじめます.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
+  <CommandShipLaunchReport>レポート表示</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>船が 発進できるかどうか, 性能レポートを 表示します.</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>船が発進できるかどうか,性能レポートを表示します.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
   <CommandShipStartup>宇宙船を起動</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
@@ -229,7 +239,7 @@
   <CommandAutoRearmDesc>これが有効なときは,自動的に罠が仕掛けられます.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
-  <!-- EN: Release animals -->
+  <!-- EN: Animals attack -->
   <CommandReleaseAnimalsLabel>獲物を指示</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>これがオンになっている間,主人を持っている動物を,離れた獲物に向かわせることができます.これがオフの間は,動物は主人のそばを離れず守ります.</CommandReleaseAnimalsDesc>
@@ -282,7 +292,7 @@
   <!-- EN: Form caravan -->
   <CommandFormCaravan>キャラバン隊を編成</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>入植者でグループを編成すると,新しいエリアへと旅に出る事ができます.入植者達は,指示された,補給物資を集めて,一緒に行動する家畜と共に,次の命令を待ちます.</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>入植者でグループを編成すると,新しいエリアへと旅に出ることができます.入植者達は,指示された,補給物資を集めて,一緒に行動する家畜と共に,次の命令を待ちます.</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
@@ -296,7 +306,7 @@
   <!-- EN: Split -->
   <CommandSplitCaravan>分割</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます.キャラバン隊は,お互いが近くにいれば,あとで一つにまとめることも出来ます.</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます.キャラバン隊は,お互いが近くにいれば,あとで一つにまとめることもできます.</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->
@@ -360,9 +370,9 @@
   <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>この派閥と商売する.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人が居ません.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人がいません.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>要求された派閥の許可証をひとりも持っていません: {0}</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>派閥と交渉する許可を持つ者がひとりもいません: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -378,7 +388,7 @@
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
   <CommandFulfillTradeOfferFailInsufficient>この取り引きを叶えるには,キャラバン隊は{0}を持っていなければなりません.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
-  <CommandFulfillTradeOfferConfirm>{1} を {0} で良いですか?</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOfferConfirm>{0}を送りますか?</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
   <!-- EN: Take off -->
@@ -396,7 +406,7 @@
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>自動給油</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>自動給油 切替</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
   <CommandToggleAllowAutoRefuelDesc>自動給油を行うかどうかを設定します.</CommandToggleAllowAutoRefuelDesc>
   
@@ -484,9 +494,9 @@
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>買い物リストを見せる</CommandShowSellableItems>
+  <CommandShowSellableItems>買い物リストを見る</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>このトレーダーの買い物リストを見せます.</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>このトレーダーの買い物リストを見せてもらいます.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
@@ -514,7 +524,11 @@
   <!-- EN: Place blueprints -->
   <CommandPlaceBlueprints>設計図を設置</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>可能な全ての設計図を設置します.</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>全ての設置可能な設計図を設置します.</CommandPlaceBlueprintsDesc>
+  <!-- EN: Place {0} blueprints -->
+  <CommandPlaceBlueprintsSpecific>{0}の設計図を設置</CommandPlaceBlueprintsSpecific>
+  <!-- EN: Place all {0} blueprints where possible. -->
+  <CommandPlaceBlueprintsSpecificDesc>全ての{0}の設計図を設置します.</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
@@ -531,5 +545,36 @@
   <CommandOpenLinkedQuest>関連クエストを開く</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>関連クエストをクエストタブで開く</CommandOpenLinkedQuestDesc>
+
+  <!-- Carry -->
+  <!-- EN: Drop {0_nameDef} -->
+  <CommandDropPawn>{0_nameDef}を下ろす</CommandDropPawn>
+  <!-- EN: Drop the person being carried. -->
+  <CommandDropPawnDesc>運んでる人間を下ろします.</CommandDropPawnDesc>
+  
+  <!-- Take a drug -->
+  <!-- EN: Take drug... -->
+  <TakeDrug>薬物を消費...</TakeDrug>
+  <!-- EN: Choose a drug from inventory to ingest immediately. -->
+  <TakeDrugDesc>即座に摂取させたいドラッグを,リストから選択してください.</TakeDrugDesc>
+
+  <!-- Build X -->
+  <!-- EN: Build {0} -->
+  <BuildThing>{0}を建築する</BuildThing>
+
+  <!-- Rituals -->
+  <!-- EN: Leave {RITUAL_label} -->
+  <CommandLeaveRitual>{RITUAL_label}から立ち去る</CommandLeaveRitual>
+  <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
+  <CommandLeaveRitualDesc>{RITUAL_labelDef}への参加をやめます.儀式は,最低でも一人の参加者がいれば継続されます.</CommandLeaveRitualDesc>
+  <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
+  <CommandLeaveLastParticipant>これは,{RITUAL_labelDef}に参加している,最後の一人の参加者です.</CommandLeaveLastParticipant>
+
+  <!-- EN: Cancel {RITUAL_label} -->
+  <CommandCancelRitual>{RITUAL_label}を中止する</CommandCancelRitual>
+  <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
+  <CommandCancelRitualDesc>{RITUAL_labelDef}をいますぐ終わらせます.ただし儀式の義務は残ります.儀式はまた後で再開できます.</CommandCancelRitualDesc>
+  <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
+  <CommandCancelRitualConfirm>本当に{RITUAL_labelDef}を中止しますか?</CommandCancelRitualConfirm>
   
 </LanguageData>

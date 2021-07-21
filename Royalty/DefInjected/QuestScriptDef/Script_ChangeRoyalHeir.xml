@@ -5,7 +5,7 @@
     <li>questDescription->\nIn order to consecrate making [titleHeir_nameFull] the heir of [titleHolder_nameFull]'s title, you must build a monument.\n\nThe monument will be [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nFailing to finish the monument within 20 days is considered to profane the ritual. Your relations with [asker_factionName] will fall by 25, and the heir will not be changed.\n\nIf the monument is destroyed within [keepMonumentTicks_duration] days after completion, your relations with [asker_factionName] will fall by [goodwillChangeIfMonumentDestroyed].</li>
   -->
   <ChangeRoyalHeir.questDescriptionRules.rulesStrings>
-    <li>questDescription->\n[titleHolder_nameFull]の称号の継承者として [titleHeir_nameFull]になるためには、モニュメントを建設しなければなりません。\n\nモニュメントのサイズは[monumentSize]であり、以下のリソースが必要です。(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n20日以内にモニュメントを完成しなければ儀式を冒涜するものとみなされます。[asker_factionName]との友好値が25低下し、継承者も変更されません。\n\n完成後、[keepMonumentTicks_duration]日以内にモニュメントが破壊された場合、 [asker_factionName]との関係が[goodwillChangeIfMonumentDestroyed]減少します。</li>
+    <li>questDescription->\n[titleHolder_nameFull]の称号の継承者として [titleHeir_nameFull]になるためには,モニュメントを建設しなければなりません.\n\nモニュメントのサイズは[monumentSize]であり,以下のリソースが必要です.(合計 [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n20日以内にモニュメントを完成しなければ儀式を冒涜するものとみなされます.[asker_factionName]との友好値が25低下し,継承者も変更されません.\n\n完成後,[keepMonumentTicks_duration]日以内にモニュメントが破壊された場合, [asker_factionName]との関係が[goodwillChangeIfMonumentDestroyed]減少します.</li>
   </ChangeRoyalHeir.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[titleHeir_nameDef]'s inheritance</li>
@@ -18,23 +18,23 @@
   <!-- EN: [titleHolder_nameDef]'s heir change failed -->
   <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>[titleHolder_nameDef]の継承に失敗した</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but did not build the monument within the prescribed time.\n\nYou lost 25 goodwill with [asker_faction_name]. -->
-  <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>[asker_nameDef]は、新たな継承者として奉仕すると約束したにもかかわらず、期間内にモニュメントを建設できなかったあなたに立腹しています。[asker_faction_name]との友好値を25失いました。</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
+  <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>[asker_nameDef]は,新たな継承者として奉仕すると約束したにもかかわらず,期間内にモニュメントを建設できなかったあなたに立腹しています.[asker_faction_name]との友好値を25失いました.</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
   <!-- EN: Title holder died: {SUBJECT_definite} -->
   <ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>爵位の所有者の死: {SUBJECT_definite}</ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>
   <!-- EN: {SUBJECT_definite}, whose heir was in the process of being changed, has died. -->
-  <ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>{SUBJECT_definite}は継承者が変更されつつある中で死亡しました。</ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>
+  <ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>{SUBJECT_definite}は継承者が変更されつつある中で死亡しました.</ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>
   <!-- EN: Designated heir died: {SUBJECT_definite} -->
   <ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>継承者の死: {SUBJECT_definite}</ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who was supposed to become heir to a title, has died. -->
-  <ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>称号の継承者となるはずの{SUBJECT_definite}が死亡しました。</ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>
+  <ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>称号の継承者となるはずの{SUBJECT_definite}が死亡しました.</ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>
   <!-- EN: Monument destroyed -->
   <ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>モニュメントが破壊された</ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but allowed the monument to be ruined soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
-  <ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>[asker_nameDef]は、新たな継承者として奉仕を約束したにもかかわらず、完成後にそれを台無しにするのを許したあなたに憤っています。\n\n[asker_faction_name]とあなたの関係は[goodwillChangeIfMonumentDestroyed]によって減退します</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
+  <ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>[asker_nameDef]は,新たな継承者として奉仕を約束したにもかかわらず,完成後にそれを台無しにするのを許したあなたに憤っています.\n\n[asker_faction_name]とあなたの関係は[goodwillChangeIfMonumentDestroyed]によって減退します</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
   <!-- EN: New heir: [titleHeir_nameDef] -->
   <ChangeRoyalHeir.LetterLabelNewHeir.slateRef>新たな継承者: [titleHeir_nameDef]</ChangeRoyalHeir.LetterLabelNewHeir.slateRef>
   <!-- EN: [titleHeir_nameDef] is the new heir of [titleHolder_nameDef]. -->
-  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>[titleHeir_nameDef]が[titleHolder_nameDef]の新たな継承者となりました。</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
+  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>[titleHeir_nameDef]が[titleHolder_nameDef]の新たな継承者となりました.</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
   <ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>{0}のモニュメントを破壊しないでください</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->

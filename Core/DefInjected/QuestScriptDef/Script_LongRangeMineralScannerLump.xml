@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.\n\n[allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.[lumpThreatDescription]</li>
   -->
   <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
-    <li>questDescription->[worker_definite]は長距離鉱物センサーを使って,[targetMineable_label]の塊を見つけました.\n\nあいにく[timeoutTicks_duration]以内に掘らないと,他の者達に採掘されてしまいます.\n\n[allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription->[worker_definite]は長距離鉱物センサーを使って,[targetMineable_label]の塊を見つけました.\n\nあいにく[timeoutTicks_duration]以内に掘らないと,他の者達に採掘されてしまいます.[lumpThreatDescription]</li>
   </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->[lump] of [targetMineable_label]</li>
-    <li>questName->[targetMineable_label] [lump]</li>
-    <li>questName->The [targetMineable_label] [lump]</li>
-    <li>questName->[adj] [targetMineable_label]</li>
-    <li>questName->[targetMineable_label] [discovered]</li>
+    <li>questName->[lump] of [targetMineableThing_label]</li>
+    <li>questName->[targetMineableThing_label] [lump]</li>
+    <li>questName->The [targetMineableThing_label] [lump]</li>
+    <li>questName->[adj] [targetMineableThing_label]</li>
+    <li>questName->[targetMineableThing_label] [discovered]</li>
     <li>lump->lump</li>
     <li>lump->pile</li>
     <li>lump->deposit</li>
@@ -29,11 +29,11 @@
     <li>discovered->scanned</li>
   -->
   <LongRangeMineralScannerLump.questNameRules.rulesStrings>
-    <li>questName->[targetMineable_label]の[lump]</li>
-    <li>questName->一つの[targetMineable_label]の[lump]</li>
-    <li>questName->ある[targetMineable_label]の[lump]</li>
-    <li>questName->[adj][targetMineable_label]</li>
-    <li>questName->[discovered][targetMineable_label]</li>
+    <li>questName->[targetMineableThing_label]の[lump]</li>
+    <li>questName->一つの[targetMineableThing_label]の[lump]</li>
+    <li>questName->ある[targetMineableThing_label]の[lump]</li>
+    <li>questName->[adj][targetMineableThing_label]</li>
+    <li>questName->[discovered][targetMineableThing_label]</li>
     <li>lump->欠片</li>
     <li>lump->山</li>
     <li>lump->鉱床</li>
@@ -52,6 +52,6 @@
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
-  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>他の者たちが [targetMineable_label]の塊を採掘しました.クエスト [resolvedQuestName] は期限が切れました.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>他の者たちが[targetMineable_label]の塊を採掘しました.クエスト'[resolvedQuestName]'は期限が切れました.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

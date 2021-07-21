@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedSpeech.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</AttendedSpeech.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AttendedSpeech.comps.0.label>{PAWN_labelShort}の社会的影響</AttendedSpeech.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <AttendedSpeech.comps.0.labelAbstract>話者の社会的影響</AttendedSpeech.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <AttendedSpeech.comps.1.label>参加者数</AttendedSpeech.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <AttendedSpeech.comps.2.label>部屋の印象</AttendedSpeech.comps.2.label>
+  <!-- EN: Terrible -->
+  <AttendedSpeech.outcomeChances.0.label>ひどい</AttendedSpeech.outcomeChances.0.label>
+  <!-- EN: Uninspiring -->
+  <AttendedSpeech.outcomeChances.1.label>気が滅入る</AttendedSpeech.outcomeChances.1.label>
+  <!-- EN: Encouraging -->
+  <AttendedSpeech.outcomeChances.2.label>勇気づける</AttendedSpeech.outcomeChances.2.label>
+  <!-- EN: Inspirational -->
+  <AttendedSpeech.outcomeChances.3.label>感動を与える</AttendedSpeech.outcomeChances.3.label>
+  
+</LanguageData>

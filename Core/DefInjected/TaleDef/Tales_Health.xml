@@ -393,9 +393,8 @@
     <li>tale_noun->[VICTIM_nameDef]が[KILLER_nameDef]に長距離から[wound_name_past]</li>
     <li>tale_noun->[VICTIM_nameDef]が[KILLER_nameDef]に[WEAPON_label]で長距離から[wound_name_past]</li>
     <li>image-> [KILLER_nameFull]が [VICTIM_nameFull]を [with_weapon_optional],狙いをつけている</li>
-    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]を [wound_name_past]</li>
-    <li>image-> [KILLER_nameFull]が 冷淡に,そして[with_weapon_optional], [VICTIM_nameFull]を [wound_name_past]</li>
-    <li>image-> [VICTIM_nameFull]が [weapon_optinal][wound_name_past]</li>
+    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
+    <li>image-> [KILLER_nameFull]が 冷淡に,そして[with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
     <li>wound_name_past->殺害される</li>
     <li>wound_name_past->殺される</li>
     <li>wound_name_past->打ちのめされる</li>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>place_name->Sophiamunda</li>
+    <li>place_adjective->Sophian</li>
+    <li>place_summary->techno-feudal world</li>
+    <li>place_community->castle</li>
+    <li>place_community->palace</li>
+    <li>place_job->knight</li>
+    <li>place_job->squire</li>
+    <li>place_job->duke</li>
+    <li>place_job->maid</li>
+    <li>place_job->swordsmith</li>
+    <li>place_personalWeapon->persona plasmasword</li>
+    <li>place_personalWeapon->warhammer</li>
+    <li>place_massWeapon->an orbital mech cluster targeter</li>
+    <li>place_massWeapon->a bio-engineered plague</li>
+    <li>place_massWeapon->an army of fallen knights</li>
+    <li>place_foeLeader->revolutionist</li>
+    <li>place_foeSoldiers->rebels</li>
+  -->
+  <Sophiamunda.placeRules.rulesStrings>
+    <li>place_name->ソフィアムンダ</li>
+    <li>place_adjective->ソフィアン</li>
+    <li>place_summary->技術的封建世界</li>
+    <li>place_community->城</li>
+    <li>place_community->宮殿</li>
+    <li>place_job->騎士</li>
+    <li>place_job->大地主</li>
+    <li>place_job->公爵</li>
+    <li>place_job->侍女</li>
+    <li>place_job->刀鍛冶師</li>
+    <li>place_personalWeapon->ペルソナプラズマソード</li>
+    <li>place_personalWeapon->ウォーハンマー</li>
+    <li>place_massWeapon->軌道メカクラスターターゲッター</li>
+    <li>place_massWeapon->生物学的に設計された疫病</li>
+    <li>place_massWeapon->地位を失った騎士の軍隊</li>
+    <li>place_foeLeader->革命家</li>
+    <li>place_foeSoldiers->反逆者</li>
+  </Sophiamunda.placeRules.rulesStrings>
+  
+</LanguageData>

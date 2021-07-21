@@ -16,6 +16,9 @@
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>私は誰かの人肉を動物のように切り捌いた.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>死体解剖</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
   <!-- EN: catharsis -->
   <Catharsis.stages.catharsis.label>カタルシス</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
@@ -23,13 +26,13 @@
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>入植者を見放した</ColonistBanished.stages.colonist_banished.label>
-  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
   <ColonistBanished.stages.colonist_banished.description>私たちは誰かをこっそりと置き去りにした.うまくいくことを望んでいるが心配だ.</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.label>入植者を見殺しにした</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道は無い.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道はない.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>敵リーダーの{0}を倒した</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -44,25 +47,35 @@
   <!-- EN: Blood beats metal, you damn machines! -->
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>血は金属に打ち勝つぞ,忌々しい機械共め!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
+  <!-- EN: denied joining -->
+  <DeniedJoining.stages.denied_joining.label>参加を拒否した</DeniedJoining.stages.denied_joining.label>
+  <!-- EN: We just denied someone's request to join us. I hope they make it. -->
+  <DeniedJoining.stages.denied_joining.description>私たちは誰かがこのコロニーに加わることを拒否した.彼らが成功することを願っている.</DeniedJoining.stages.denied_joining.description>
+  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>{0}の蘇生に失敗した</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
-  <FailedToRescueRelative.stages.failed_to_rescue.description>肉親を救えるチャンスだったのに失敗してしまった.助けれたかもしれないのに!</FailedToRescueRelative.stages.failed_to_rescue.description>
+  <FailedToRescueRelative.stages.failed_to_rescue.description>肉親を救えるチャンスだったのに失敗してしまった.助けられたかもしれないのに!</FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- EN: freed from slavery -->
   <FreedFromSlavery.stages.freed_from_slavery.label>奴隷解放</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
-  <FreedFromSlavery.stages.freed_from_slavery.description>奴隷の身から開放してもらった.ありがとう,ありがとう</FreedFromSlavery.stages.freed_from_slavery.description>
+  <FreedFromSlavery.stages.freed_from_slavery.description>奴隷の身から解放してもらった.ありがとう,ありがとう!</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  <!-- EN: bloodlust organ harvested -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>血まみれの臓器摘出欲求</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>彼らの体から肉を摘出することは,十分な血と満足感を与えてくれる.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>人殺し</KilledHumanlikeBloodlust.stages.killed_someone.label>
   <!-- EN: I killed someone! What a rush! -->
-  <KilledHumanlikeBloodlust.stages.killed_someone.description>人をこの手で殺すことが出来た.</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>人を殺した!最高の気分だ!</KilledHumanlikeBloodlust.stages.killed_someone.description>
   
   <!-- EN: buried in sarcophagus -->
   <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>石棺に埋葬した</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
   <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>ここでは,このコロニーの誰かを装飾付きの石棺に埋葬していた.彼の魂に安らぎを</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>ここでは,このコロニーの誰かを装飾付きの石棺に埋葬していた.彼の魂に安らぎを.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
   
   <!-- EN: we butchered humanlike -->
   <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>私らは人肉を捌いた</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
@@ -82,7 +95,7 @@
   <!-- EN: prisoner sold -->
   <KnowPrisonerSold.stages.prisoner_sold.label>奴隷売買</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
-  <KnowPrisonerSold.stages.prisoner_sold.description>このコロニーでは囚人を奴隷として売っている.それは良くない考えです.</KnowPrisonerSold.stages.prisoner_sold.description>
+  <KnowPrisonerSold.stages.prisoner_sold.description>このコロニーでは囚人を奴隷として売っている.それは良くない考えだ.</KnowPrisonerSold.stages.prisoner_sold.description>
   
   <!-- EN: my organ harvested -->
   <MyOrganHarvested.stages.my_organ_harvested.label>私の臓器を摘出した</MyOrganHarvested.stages.my_organ_harvested.label>
@@ -122,12 +135,12 @@
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>囚人を見殺しにした</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道は無い.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>私たちはこっそりと置き去りにした.このような場合,たいてい生き残れる道はない.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- EN: prisoner released -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.label>囚人開放</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>囚人解放</ReleasedHealthyPrisoner.stages.prisoner_released.label>
   <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.description>私達は囚人を元気なまま開放しました.囚人にだって良い扱いをしていると知って嬉しい.</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>私達は囚人を元気なまま解放した.囚人にだって良い扱いをしていると知って嬉しい.</ReleasedHealthyPrisoner.stages.prisoner_released.description>
   
   <!-- EN: rescued -->
   <Rescued.stages.rescued.label>生き返った</Rescued.stages.rescued.label>

@@ -3,9 +3,9 @@
 
   <!-- Royalty -->
   <!-- EN: Change heir of {HOLDER_labelShort}'s {TITLE} title from {HEIR_labelShort} -->
-  <RequestChangeRoyalHeir>{HOLDER_labelShort}の {TITLE} 称号の継承者を {HEIR_labelShort}から変更</RequestChangeRoyalHeir>
+  <RequestChangeRoyalHeir>{HOLDER_labelShort}の称号: {TITLE}の継承者を{HEIR_labelShort}から変更</RequestChangeRoyalHeir>
   <!-- EN: Designate heir of {HOLDER_labelShort}'s {TITLE} title -->
-  <RequestSetRoyalHeir>{HOLDER_labelShort}の {TITLE} 称号の継承者を指名</RequestSetRoyalHeir>
+  <RequestSetRoyalHeir>{HOLDER_labelShort}の称号: {TITLE}の継承者を指名</RequestSetRoyalHeir>
   <!-- EN: already in progress for {PAWN_labelShort} -->
   <RequestChangeRoyalHeirAlreadyInProgress>すでに{PAWN_labelShort}は進行中</RequestChangeRoyalHeirAlreadyInProgress>
   

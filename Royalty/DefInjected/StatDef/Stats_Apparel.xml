@@ -4,9 +4,8 @@
   <!-- EN: Jump range -->
   <JumpRange.label>ジャンプ範囲</JumpRange.label>
   <!-- EN: The maximum jump distance. -->
-  <JumpRange.description>最大ジャンプ距離です。</JumpRange.description>
+  <JumpRange.description>最大ジャンプ距離です.</JumpRange.description>
   <!-- EN: {0} c -->
-  <!--TODO--><!--仮翻訳: 距離単位cが分からなかったため、そのままにしています。-->
-  <JumpRange.formatString>{0} c</JumpRange.formatString>
+  <JumpRange.formatString>{0} セル</JumpRange.formatString>
   
 </LanguageData>

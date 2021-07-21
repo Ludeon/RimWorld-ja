@@ -17,34 +17,34 @@
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
   <BreakRiskExtremeDesc>次の入植者は重篤なストレスを受けていて,今にも精神崩壊を起こしそうです(たぶん暴力的..):\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするためには,おいしい食事を用意したり,娯楽の時間や種類をもっと増やしたり,良い住環境を用意する,ドラッグをやる機会を作る,などの事をしてやりましょう.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするためには,おいしい食事を用意したり,娯楽の時間や種類をもっと増やしたり,良い住環境を用意する,ドラッグをやる機会を作る,などのことをしてやりましょう.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>次の入植者は 一歩も動けません.\n\n{0}\n他の入植者に救助を指示して, ベッドまで運ばせましょう.\n\n(別の入植者を選択し 救助対象者を右クリックして "救助"を 指示します)</ColonistsNeedRescueDesc>
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDesc>次の入植者は一歩も動けません.\n\n{0}\n他の入植者に救助を指示して,ベッドまで運ばせましょう.\n\n(別の入植者を選択し,救助対象者を右クリックして "救助"を指示します)</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>侵略にそなえる</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>宙賊が この村を 品定め しています. いつ 襲撃を はじめても おかしくありません.\n\n備えあれば 憂いなし です,罠や土のうなどの準備をしましょう.</NeedDefensesDesc>
+  <NeedDefensesDesc>宙賊がこの村を品定めしています.いつ襲撃をはじめてもおかしくありません.\n\n備えあれば憂いなしです,罠や土のうなどの準備をしましょう.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>医者が必要</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 「医者」を割り振られた 健常な入植者が一人もいません.\n\n{0}\n健常な 入植者に 「医者」を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して完治しなくなるかもしれません.</NeedDoctorDesc>
+  <NeedDoctorDesc>ベッドで患者が痛みをうったえています.患者には治療が必要ですが,「医者」を割り振られた健常な入植者が一人もいません.\n\n{0}\n健常な入植者に「医者」を割り振りましょう.もし,治療せずに放置すると,慢性化して完治しなくなるかもしれません.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>坑夫が必要</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」を割り振られた 入植者が一人もいません.\n\n入植者に 「採掘」を 割り振りましょう.</NeedMinerDesc>
+  <NeedMinerDesc>岩を掘らせる指示をしていますが,「採掘」を割り振られた入植者が一人もいません.\n\n入植者に「採掘」を割り振りましょう.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>囚人に看守を</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>囚人が いますが, 「看守」を割り振られた 入植者が一人もいません.\n\n入植者に 「看守」を 割り振りましょう.</NeedWardenDesc>
+  <NeedWardenDesc>囚人がいますが,「看守」を割り振られた入植者が一人もいません.\n\n入植者に「看守」を割り振りましょう.</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>食料が少ない</LowFood>
@@ -61,22 +61,22 @@
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう.もし資源が無いなら,コストゼロの 「寝床」が すぐに 作れます.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>入植者用ベッドより入植者のほうが多くなっています.このままでは誰かがベッドで眠れません.\n\n新しいベッドを用意するか,囚人用ベッドを入植者用ベッドに設定しましょう.もし資源がないなら,コストゼロの「寝床」がすぐに作れます.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
   <AlertColonistLeftUnburied>入植者の死体放置</AlertColonistLeftUnburied>
-  <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>入植者が埋葬されずに放置されている.\n\nこれはコロニーに悪影響を及ぼします.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>武装する</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が 遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない衣服を,なにか手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>次の入植者は,自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない衣服を,なにか手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>全裸の憂鬱</AlertUnhappyNudity>
@@ -86,32 +86,32 @@
   <!-- EN: Starvation -->
   <Starvation>食べる物がない</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>次の入植者が 空腹を訴えています：\n\n{0}\nなにか食事を手に入れましょう.</StarvationDesc>
+  <StarvationDesc>次の入植者が空腹を訴えています：\n\n{0}\nなにか食事を手に入れましょう.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>餌がない</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>次の家畜が 腹を空かせています：\n\n{0}\nなにか餌を手に入れましょう.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>次の家畜が腹を空かせています：\n\n{0}\nなにか餌を手に入れましょう.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>入植者に休息を</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>次の入植者は 働き過ぎで 睡眠を必要としています：\n\n{0}\n睡眠を与えましょう. 彼らは 入植者用ベッドを 必要としています.「徴兵」されていないことも 確認してください.</ExhaustionDesc>
+  <ExhaustionDesc>次の入植者は働き過ぎで睡眠を必要としています：\n\n{0}\n睡眠を与えましょう.彼らは入植者用ベッドを必要としています.「徴兵」されていないことも確認してください.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>食材ホッパーが設置されていない ペーストディスペンサーがあります.\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーを ペーストディスペンサーの隣に 作りましょう.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>食材ホッパーを設置していないペーストディスペンサーがあります.\n\nペーストディスペンサーが動作するには,生の食材で満たされた食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーをペーストディスペンサーの隣に作りましょう.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
   <NeedMealSource>食材の調理</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>あなたは,生の食材を ちゃんとした料理にする 手段を持っていません.\n\nペースト ディスペンサー, カマド,焚き火,または 電気コンロを 作りましょう.\n\n（入植者は 囚人ゾーンの調理器具を 使用できません.）</NeedMealSourceDesc>
+  <NeedMealSourceDesc>あなたは,生の食材をちゃんとした料理にする手段を持っていません.\n\nペーストディスペンサー,カマド,焚き火,または電気コンロを作りましょう.\n\n（入植者は囚人ゾーンの調理器具を使用できません.）</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>娯楽に多様性を</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>{1}には{0}種類の娯楽があります,ですが現在の満足度は{2}で,入植者達が,このままの満足度を保つには{3}種類の娯楽を必要としています.新しいタイプの娯楽を提供します.\n\n{4}\n\n{5}\n\n【ノート】:各アイテムの(i)ボタンを押すと娯楽種別を確認することができます.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>{1}には{0}種類の娯楽があります,ですが現在の満足度は{2}で,入植者達が,このままの満足度を保つには{3}種類の娯楽を必要としています.新しいタイプの娯楽を提供します.\n\n{4}\n\n{5}\n\n注意：各アイテムの(i)ボタンを押すと娯楽種別を確認することができます.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>存在する娯楽種別</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
@@ -129,47 +129,47 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>電気を貯める</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません. これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを１つないし２つ作りましょう.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません.これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを1つないし2つ作りましょう.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>格闘家と遠隔武器</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが,遠隔武器で武装しています. このことは彼を非常に不愉快にさせるでしょう.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>ある入植者は格闘家の資質を持っていますが,遠隔武器で武装しています.このことは彼を非常に不愉快にさせるでしょう.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>シールドと遠隔武器</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>ある入植者は シールドベルトを装備し,遠隔武器で武装しています.シールドベルト越しに 遠隔武器を 発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>ある入植者はシールドベルトを装備し,遠隔武器で武装しています.シールドベルト越しに遠隔武器を発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
   <NeedResearchProject>研究計画</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>研究用機器があるのに なにも計画してません.\n\n「研究」タブを開き 計画を選択します.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>研究用機器があるのに,なにも計画してません.\n\n「研究」タブを開き,計画を選択します.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>次の入植者は 作業が無く ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>次の入植者は作業が無く,ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげましょう.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>キャラバン隊に指示を</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>次の目的地を設定するのを キャラバン隊が待っています:\n\n{0}</CaravanIdleDesc>
+  <CaravanIdleDesc>次の目的地が設定されるのを,キャラバン隊が待っています:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>次の入植者は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な入植者を右クリックし,ベッドへ誘導して下さい)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>次の入植者は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な入植者を右クリックし,ベッドへ誘導してください)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>低体温症</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>次の入植者は 低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせているか,室内が適切に暖められているか確認しましょう.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>次の入植者は低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせているか,室内が適切に暖められているか確認しましょう.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0}人の手術待ち</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>次の患者は 外科的手術の執刀を待っています:\n\n{0}\n治療に必要なツールが全て揃っていて,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>次の患者は外科的手術の執刀を待っています:\n\n{0}\n治療に必要なツールが全て揃っていて,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
   <FireInHomeArea>火災発生!</FireInHomeArea>
@@ -179,28 +179,28 @@
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nできるかぎり最善の治療を 受けられるか確認しましょう.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nできるかぎり最善の治療を受けられるか確認しましょう.</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nもし可能なら,入植者が生きる為にも,感染部位の切断手術や,移植手術を検討しましょう.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
   <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
-  <BilliardsNeedsSpaceDesc>あるビリヤード台に 障害物が隣接している為,入植者が使えません.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>あるビリヤード台に障害物が隣接しているため,入植者が使えません.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>狩人とシールド</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>ある狩人は,遠隔武器で武装しつつ,シールドベルトを巻いてるので,距離を取っての発砲が 妨げてられています.\n\n彼らは シールドベルトを脱がないかぎり 狩りができません.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>ある狩人は,遠隔武器で武装しつつ,シールドベルトを巻いてるので,距離を取っての発砲が妨げられています.\n\nシールドベルトを脱がないかぎり,狩人は狩りができません.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
   <NeedWarmClothes>防寒着が必要</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>冬期に 少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>冬期に少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>冬期に, 入植者全員分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>冬期に,入植者全員分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>外気温は {0}になる見込みです.\n\nミシン台で防寒着を作ることができますし,トレーダーから購入することもできます.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>外気温は{0}になる見込みです.\n\nミシン台で防寒着を作ることができますし,トレーダーから購入することもできます.</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>キャラバン隊行動不能</ImmobileCaravan>
@@ -210,17 +210,17 @@
   <!-- EN: Building unusable due to roof -->
   <BuildingCantBeUsedRoofed>機能しない建物</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>一つ以上の建物は天井が開放していてこそ役立つのに屋根があります.建物は屋根を除去するまで役に立たないでしょう.</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>いくつかの建物は,屋根のない場所でしか使用できませんが,屋根の下に設置されています.建物は,屋根を取り外すまで使用できません.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
   <AlertHeatstroke>熱中症</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>次の人達は熱中症に苦しんでいます:\n\n{0}\n彼らを冷房の効いた所へ連れていきます.クーラーを使って部屋を冷やすことができます.深い地下も外界とドアで区切れば,その中は天然のクーラーのようです.</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>次の人達は熱中症に苦しんでいます:\n\n{0}\n涼しい場所を用意してあげましょう.クーラーを使って部屋を冷やすことができます.深い地下もまた,ドアで外界と区切れば,その中は自然に冷えます.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>ゲストの不満</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>{0}クエストでは,この人の心情を良くし続けていることが求められているのに,かれらの心情は良くありません.心情を良くするためにも行動を起こします:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>クエスト'{0}'では,次の人物の心情を高く保つことが求められていますが,心情が低くなっています.心情を良くするためにも行動を起こしましょう:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>{0}後に船が出発</QuestPartShuttleLeaveDelay>
@@ -237,9 +237,9 @@
   <QuestPartShuttleArriveDelayDescHidden>{0}後にシャトルが到着します.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>遺跡が破壊されます</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>不許可の建造物</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>あなたは不許可の建造物を遺跡内に建てました.この遺跡は{0}に破壊されたと見なされます.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>あなたは不許可の建造物をモニュメント内に建てました.このモニュメントは{0}後に破壊されたと見なされます.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
   <ActivatorCountdown>秒読み開始 {0}</ActivatorCountdown>
@@ -254,4 +254,50 @@
   <QuestExpiresSoon>{0} 依頼期限切れ</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
   <QuestExpiresSoonDesc>クエスト'{0}'が {1}後に 期限切れとなります.</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>家畜の泥汚れ</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>床を汚しやすい家畜が,清潔な床の敷かれた屋内にいます.\n\n家畜は通常の床の上を動き回ると,非常に大量の泥汚れで床を汚します.床を汚しやすい家畜は屋外,もしくはほとんど汚れを生まないわらマットの上で生活させましょう.\n\n'i'ボタンをクリックすることで,基礎データから家畜の床の汚しやすさを確認できます.\n\n問題のある家畜:\n{0}</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>囲いが必要</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in an animal pen, they will wander away. -->
+  <AlertAnimalPenNeededDesc>飼いならされた家畜の何匹は放浪する家畜です.家畜用の囲いの中に入れておかないと,彼らは放浪してしまいます.</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>家畜を囲いの中に連れて行く調教師がいません.\n\n優先順位タブから,調教の仕事を入植者に割り当ててください.</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: None of your assigned handlers have the required animals skill needed to take the following animals to a pen. -->
+  <AlertAnimalPenNeededLowSkillHandlers>調教を割り当てられた入植者は全員,以下の家畜を囲いの中に連れて行くために必要な動物のスキルレベルを持っていません.</AlertAnimalPenNeededLowSkillHandlers>
+  <!-- EN: needs {MINSKILL}, {HANDLER_labelShort} has {BESTSKILL} -->
+  <AlertAnimalPenNeededLowSkillHandlersDetail>必要レベル{MINSKILL},最適任者{HANDLER_labelShort}でもレベル{BESTSKILL}</AlertAnimalPenNeededLowSkillHandlersDetail>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>フェンスやバリケード,または壁で囲まれた領域内にペンマーカーを建築して,家畜の囲いを作成します.ペンマーカーを選択して,囲いの中に入れる家畜と,中で養える家畜の数を確認してください.\n\n家畜の調教師は,割り当てられたペンに家畜を自動的に連れて行きます.\n\n囲いには,家畜を入れるためのドア,またはフェンスゲートが必要です.</AlertAnimalPenNeededDescExplanation>
+
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>ペンが囲われてない</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>家畜のペンマーカーが囲われていません.\n\n家畜が放浪するのを防ぐために,フェンスやバリケード,ゲート,壁,またはドアを使用して,ペンを囲んでください.\n\n囲われていないペンマーカーしかない場合でも,調教師は放浪する動物を家に連れ戻すことができますが,家畜が放浪するたびに,これを繰り返す必要があります.</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>家畜が遠くまで放浪</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
+  <AlertAnimalIsRoamingDesc>飼いならされた家畜の何匹は放浪する家畜であるため,放浪し始めました.彼らがマップの端まで放浪すると,そのまま立ち去ります.\n\n囲われた家畜用ペンがある場合,家畜の調教師が家畜を連れ戻すことができます.囲いの中に入れられた家畜は放浪しません.\n\n以下の家畜が放浪しています:\n\n{0}</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>囲いの家畜が空腹</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
+  <AlertPennedAnimalHungryDesc>囲いの中の家畜の何匹かが空腹です.\n\nペンマーカーを選択し,餌タブを選択して詳細を表示できます.\n\n草食動物は,十分な草を与えるためにより大きな囲いが必要になる場合があります.その他の家畜は,備蓄を使用して干し草または同様の食物を供給される必要があるかもしれません.</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>{0} 襲撃者が到着</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>敵は以下の遺物に引き付けられており,まもなく強制的に到着します.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>{1}後に{0}に到着</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>とどまると敵対する</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>彼らの集落や前哨基地に長くとどまると,以下の派閥は敵対的になります:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
 </LanguageData>

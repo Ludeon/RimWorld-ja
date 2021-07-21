@@ -44,6 +44,8 @@
   <StatsReport_MarketValueFromStuffsAndWork>標準小売価格は, 作るのに使用された材料と 作業工数で決まります.</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>品質による掛け率</StatsReport_QualityMultiplier>
+  <!-- EN: Quality offset -->
+  <StatsReport_QualityOffset>品質による増減量</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>最大利得</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
@@ -66,8 +68,8 @@
   <StatsReport_Facilities>設備</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
-  <!-- EN: Carefully slaughtered without wounds -->
-  <StatsReport_HasHediffExplanation>傷のない丁寧な屠殺</StatsReport_HasHediffExplanation>
+  <!-- EN: Damaged -->
+  <StatsReport_HasHediffExplanation>傷</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -78,6 +80,12 @@
   <StatsReport_MeleeHitChance>近接ヒット率</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
+  <!-- EN: Blocked by fences -->
+  <StatsReport_BlockedByFences>フェンスを乗り越えられない</StatsReport_BlockedByFences>
+  <!-- EN: Roam interval -->
+  <StatsReport_RoamInterval>徘徊する間隔</StatsReport_RoamInterval>
+  <!-- EN: Caravan rideable age -->
+  <StatsReport_CaravanRideableAge>キャラバン時に乗れる年齢</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>平均寿命</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
@@ -106,6 +114,8 @@
   <StatsReport_JoyKind>娯楽種別</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>撤去工数</StatsReport_WorkToUninstall>
+  <!-- EN: Fence -->
+  <StatsReport_Fence>フェンス</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
   <StatsReport_PlantGrowth>{0}成長率への掛け率</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
@@ -118,17 +128,21 @@
   <StatsReport_WildMan>野人</StatsReport_WildMan>
   <!-- EN: Attack -->
   <StatsReport_NonToolAttack>攻撃</StatsReport_NonToolAttack>
+  <!-- EN: Ideoligion -->
+  <StatsReport_Ideoligion>思想</StatsReport_Ideoligion>
+  <!-- EN: Multiplier for malnutrition {0} -->
+  <StatsReport_Malnutrition>{0}栄養失調による掛け率</StatsReport_Malnutrition>
   
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>可能なオフセット</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>適用可能な増減量</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
   <StatsReport_RoomImpressiveness>部屋の印象</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
   <StatsReport_Lit>明るさ</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>{0}を含む</StatsReport_GraveFull>
+  <StatsReport_GraveFull>{0}が納められている</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>ヒトの死体を含む</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>ヒトの死体が納められている</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
   <StatsReport_GraveCorpseRelatedAbstract>瞑想者の親族の死体が納められている</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
@@ -145,7 +159,11 @@
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>採掘物</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>これを採掘した時に得られる鉱物です.</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>これを採掘したときに得られる鉱物です.</Stat_MineableThing_Desc>
+  <!-- EN: Mining yield -->
+  <Stat_MiningYield_Name>採掘量</Stat_MiningYield_Name>
+  <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
+  <Stat_MiningYield_Desc>これを採掘したときに得られる鉱物の最大量です.実際に得られる量は,採掘者の採掘スキルによって変動します.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>原料</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -153,7 +171,7 @@
   <!-- EN: Stuff -->
   <Stat_Stuff_Name>素材</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>元となった素材です.素材は多くのステータス,武器のダメージ,衣類,アーマー,断熱,アイテムと建物のHP,美しさ,市場価値などなどに影響します.</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>元となった素材です.素材は多くのステータス,武器のダメージ,衣類,アーマー,断熱,アイテムと建物のHP,美しさ,市場価値などに影響します.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
   <Stat_Weapon_Name>武装</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
@@ -162,6 +180,8 @@
   <Stat_HitPoints_Desc>破壊されるまで耐えられるダメージ量です.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>撤去にかかる工数です.</Stat_Thing_WorkToUninstall_Desc>
+  <!-- EN: Whether this building is a type of fence. Fences block these animals -->
+  <Stat_Thing_Fence_Desc>この建築物がフェンスタイプかどうかです.フェンスはこれらの家畜の移動を妨げます</Stat_Thing_Fence_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>製造するために使用する機器です.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
@@ -170,6 +190,10 @@
   <Stat_Thing_Drug_MedicineXpGainFactor_Desc>これを使ったときに医者が得られる経験値への掛け率です.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>この植物の属性です.</Stat_Thing_Plant_Attributes_Desc>
+  <!-- EN: Clothing (for nudity) -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>衣服(ヌーディスト向け)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>ヌーディストがこのアイテムを衣服とみなすかどうかを表します.みなさない場合,ヌーディストはこれを着ても決して悩むことはありません.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>防護する身体の部位です.\n\nこの部位以外は防護しません</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
@@ -183,7 +207,7 @@
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
   <Stat_Thing_Plant_LifeSpan_Desc>この植物の寿命です.\n\n植物は,たとえ刈り取られなくとも,ある時期になると自然と枯れます.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>この植物を収穫した時に得られる収量です.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>この植物を収穫したときに得られる収量です.</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
   <Stat_Thing_Plant_MinGrowthTemperature_Desc>この植物の生存限界最低温度です.\n\nこの値より温度が下回りだすとダメージを受けます.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
@@ -193,17 +217,23 @@
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
   <Stat_Race_Diet_Desc>この生物が食料とする食物の種類です.\n\n食料: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>この生物を捌いた時に得られるレザーの種類です.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>この生物を捌いたときに得られるレザーの種類です.</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>この生物を手懐けようとして失敗した時に,逆に攻撃される可能性です.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>この生物を手懐けようとして失敗したときに,逆に攻撃される可能性です.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
   <Stat_Race_Trainability_Desc>この生物の一般的な調教への適性です.これは知性と記憶力の組み合わせを指しています.この生物が訓練で覚えられる仕事の種別が決まります.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>この生物の平均的な寿命です.</Stat_Race_LifeExpectancy_Desc>
+  <!-- EN: Whether this creature is blocked by fences and barricades. -->
+  <Stat_Race_BlockedByFences_Desc>この生物がフェンスやバリケードによって移動を妨げられるかどうかです.</Stat_Race_BlockedByFences_Desc>
+  <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
+  <Stat_Race_RoamInterval_Desc>飼いならされた家畜が遠くまで徘徊して,マップから出ていこうとする頻度です.\n\n家畜は,マップの端へ直接移動できる経路がある場合のみ徘徊します.フェンスやバリケード,壁,ドアを使用することで,これを防ぐことができます.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>これを摂取することの娯楽的価値です.数値が高いほど,この娯楽の必要性が高まります.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>一般的なヒトと比較した時の,この生物の体格です.</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>一般的なヒトと比較したときの,この生物の体格です.</Stat_Race_BodySize_Desc>
+  <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
+  <Stat_Race_Growth_Desc>この生物がどれだけ大人に近いかです.\n\n成長には栄養が必要です.空腹の動物は,十分に餌を与えられた動物に比べて成長速度が遅くなります.</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>この武器を持ち替え始めてから,近接攻撃があたる迄にかかる時間です.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -213,13 +243,13 @@
   <!-- EN: The maximum range of this weapon. -->
   <Stat_Thing_Weapon_Range_Desc>この武器の最大射程です.</Stat_Thing_Weapon_Range_Desc>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
-  <Stat_Thing_Weapon_MissRadius_Desc>この武器を発射した時に着弾位置がばらつく範囲です.\n\n高い数値ほど着弾地点はターゲットの周りにばらつきます.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>この武器を発射したときに着弾位置がばらつく範囲です.\n\n高い数値ほど着弾地点はターゲットの周りにばらつきます.</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>邪魔されず,躱されず,止められ無い時の命中率です.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>邪魔されず,躱されず,止められないときの命中率です.</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
   <Stat_Thing_MoodChange_Desc>このボディパーツが所有者の心情に与える効果です.</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
-  <Stat_Recipe_Skill_Desc>このレシピを行う時にメインとして使うスキルです.\n\nこれは完成品の品質に影響を与え,レシピの実行中に経験値を得られます.</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Skill_Desc>このレシピを行うときにメインとして使うスキルです.\n\nこれは完成品の品質に影響を与え,レシピの実行中に経験値を得られます.</Stat_Recipe_Skill_Desc>
   <!-- EN: The ingredients required to perform this recipe. -->
   <Stat_Recipe_Ingredients_Desc>このレシピを行うために必要な材料です.</Stat_Recipe_Ingredients_Desc>
   <!-- EN: The skills required to perform this recipe. -->
@@ -279,9 +309,9 @@
   <!-- EN: Considered -->
   <Stat_Thing_Terrain_Fine_Name>品質</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>上質</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>華麗</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>上質な床としてみなされる,王族に相応しいフロアです.</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>美しい床としてみなされる,王族に相応しい床です.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>この建築物が電力線から引き出す電力量です.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
@@ -301,7 +331,7 @@
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
   <Stat_Thing_ReloadPerCharge_Desc>{CHARGENOUN}を1回分再充填するために必要なアイテムの量です.{CHARGENOUN_plural}を複数回分,まとめて充填できます.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>使い切り時に消滅する</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>使い切りときに消滅する</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
   <Stat_Thing_ReloadDestroyOnEmpty_Desc>このアイテムは,最後の{CHARGENOUN}を使用すると消滅します.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
@@ -310,10 +340,14 @@
   <Stat_Thing_Biocoded_Name>バイオコーディング</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
   <Stat_Thing_Biocoded_Desc>このアイテムは,特定の個人の生体シグナルのみを受け入れるようにコード化されています.</Stat_Thing_Biocoded_Desc>
+  <!-- EN: Required apparel -->
+  <Stat_Pawn_RequiredApparel_Name>必要な衣服</Stat_Pawn_RequiredApparel_Name>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
   <Stat_Thing_Drug_Chemical_Desc>このドラッグに含まれる化学成分の種類です.\n\n場合によっては,同じ化学成分が,異なるドラッグに含まれることもあります.これらの異なるドラッグは,異なる方法で同じ依存症を引き起こします.</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The category this drug belongs to. -->
+  <Stat_Thing_Drug_Category_Desc>このドラッグの属するカテゴリーです.</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
   <Stat_Thing_Drug_HighGainPerDose_Desc>このドラッグを摂取したときに,得られる効能量です.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
@@ -339,16 +373,117 @@
   <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
   <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>このドラッグを摂取したときに,既存の依存症の深刻度がどの程度増加するかを示す値です.\n\n依存症の深刻度は100％を超えません.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
   <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>禁断症状の発生を防ぐために,常用者がこのドラッグを摂取して,依存症にエサを与えなければならない頻度です.\n\nこれは,依存欲求の減少速度と,満たされる依存欲求の量から計算されています.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>離脱症状の発生を防ぐために,常用者がこのドラッグを摂取して,依存症の欲求を満たさなければならない頻度です.\n\nこれは,依存欲求の減少速度と,満たされる依存欲求の量から計算されています.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
   <Stat_Thing_Drug_AddictionNeedOffset_Desc>このドラッグを摂取したときに,常用者の対応する化学成分に対する欲求を,どれだけ満たせるかです.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
   <Stat_Thing_Drug_AddictionNeedFallRate_Desc>常用者の化学成分に対する欲求値が,どれほど速く減少するかです.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>禁断症状を発生させずに依存症を維持させる場合の,1日あたりに摂取しなければならないドラッグ量の市場価値です.\n\nこの値は,依存欲求の回復量,依存欲求の減少速度,およびこのドラッグの市場価値から計算されています.\n\nこれとは異なるコストで,同じ化学成分を入手する手段があるかもしれないことに注意してください.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>離脱症状を発生させずに依存症を維持させる場合の,1日あたりに摂取しなければならないドラッグ量の市場価値です.\n\nこの値は,依存欲求の回復量,依存欲求の減少速度,およびこのドラッグの市場価値から計算されています.\n\nこれとは異なるコストで,同じ化学成分を入手する手段があるかもしれないことに注意してください.</Stat_Thing_Drug_AddictionCost_Desc>
 
-  <!-- UNUSED -->
-  <Stat_Thing_Weapon_Biocoded_Name>バイオコーディング</Stat_Thing_Weapon_Biocoded_Name>
-  <Stat_Thing_Weapon_Biocoded_Desc>特定の人物だけしか扱えないように,このアイテムに固有の生体波紋を符号化して記録した.</Stat_Thing_Weapon_Biocoded_Desc>
+  <!-- EN: Style -->
+  <Stat_Thing_StyleLabel>スタイル</Stat_Thing_StyleLabel>
+  <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
+  <Stat_Thing_StyleDesc>オブジェクトのスタイルによって容姿が決まります.ゲームプレイに影響はありません.スタイルは,様々な信念や文化を持つ人々に使われる,それぞれ異なる建築様式をよく形成します.</Stat_Thing_StyleDesc>
 
+  <!-- EN: Gestation time -->
+  <Stat_Animal_GestationTime>妊娠期間</Stat_Animal_GestationTime>
+  <!-- EN: The time this species takes to gestate its offspring or eggs. -->
+  <Stat_Animal_GestationTimeDesc>この種が子供を妊娠,もしくは卵を産卵するのにかかる時間です.</Stat_Animal_GestationTimeDesc>
+  <!-- EN: Litter size -->
+  <Stat_Animal_LitterSize>同腹児数</Stat_Animal_LitterSize>
+  <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
+  <Stat_Animal_LitterSizeDesc>この生物が一度に産める子供の数です.数値が範囲を示している場合,同腹児はこの範囲内のランダムな数で生まれます.</Stat_Animal_LitterSizeDesc>
+  <!-- EN: Adult meat amount -->
+  <Stat_Animal_AdultMeatAmount>成獣の肉量</Stat_Animal_AdultMeatAmount>
+  <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
+  <Stat_Animal_AdultMeatAmountDesc>この種の成体を屠殺することによって得られる肉の基本量です.実際の収量は,体の損傷や解体者のスキルなどの要因に影響されます.</Stat_Animal_AdultMeatAmountDesc>
+  <!-- EN: Growth time -->
+  <Stat_Animal_GrowthTime>成長時間</Stat_Animal_GrowthTime>
+  <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
+  <Stat_Animal_GrowthTimeDesc>この生物が成獣になるまでにかかる通常の時間です.生物が飢えている場合,この時間は長くなります.</Stat_Animal_GrowthTimeDesc>
+  <!-- EN: Meat per day during growth -->
+  <Stat_Animal_MeatPerDayDuringGrowth>一日あたりの肉量</Stat_Animal_MeatPerDayDuringGrowth>
+  <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>この生物が成獣になった時に得られる,一日あたりの肉の量です.\n\nこの値は,肉量と成長時間から計算されています.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <!-- EN: Grass to maintain -->
+  <Stat_Animal_GrassToMaintain>必要な草量</Stat_Animal_GrassToMaintain>
+  <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
+  <Stat_Animal_GrassToMaintainDesc>この生物が食事欲求を満たすために必要な草の一般的な数です.これは,一般的な成長率の普通の草に基づいて計算され,冬を無視しています.</Stat_Animal_GrassToMaintainDesc>
+  <!-- EN: Egg type -->
+  <Stat_Animal_EggType>卵の種類</Stat_Animal_EggType>
+  <!-- EN: The type of egg this creature lays. -->
+  <Stat_Animal_EggTypeDesc>この生物が産む卵の種類です.</Stat_Animal_EggTypeDesc>
+  <!-- EN: Eggs per year -->
+  <Stat_Animal_EggsPerYear>一年あたりの産卵数</Stat_Animal_EggsPerYear>
+  <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
+  <Stat_Animal_EggsPerYearDesc>この生物が一年あたりに産む卵の数です.一部の生物は,卵を産むために受精する必要があります.生物が飢えている場合,産卵が遅くなります.</Stat_Animal_EggsPerYearDesc>
+  <!-- EN: Egg nutrition -->
+  <Stat_Animal_EggNutrition>卵の栄養量</Stat_Animal_EggNutrition>
+  <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
+  <Stat_Animal_EggNutritionDesc>この生物の産む卵一つあたりに含まれる栄養の量です.</Stat_Animal_EggNutritionDesc>
+  <!-- EN: Egg nutrition per year -->
+  <Stat_Animal_EggNutritionYearly>一年あたりの卵の栄養量</Stat_Animal_EggNutritionYearly>
+  <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
+  <Stat_Animal_EggNutritionYearlyDesc>この生物が一年あたりに産む卵によって生成される年間栄養量です.\n\nこの値は,1年あたりの産卵数と卵の栄養量から計算されています.</Stat_Animal_EggNutritionYearlyDesc>
+  <!-- EN: Egg market value -->
+  <Stat_Animal_EggMarketValue>卵の市場価値</Stat_Animal_EggMarketValue>
+  <!-- EN: The market value of a single laid egg. -->
+  <Stat_Animal_EggMarketValueDesc>産まれる卵一つの市場価値です.</Stat_Animal_EggMarketValueDesc>
+  <!-- EN: Egg value per year -->
+  <Stat_Animal_EggMarketValueYearly>一年あたりの卵の価値</Stat_Animal_EggMarketValueYearly>
+  <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
+  <Stat_Animal_EggMarketValueYearlyDesc>通常の場合一年あたりに産む卵の,合計の価値です.\n\nこれは,一年あたりの産卵数と卵の市場価値から計算されています.</Stat_Animal_EggMarketValueYearlyDesc>
+  <!-- EN: Milk type -->
+  <Stat_Animal_MilkType>ミルクの種類</Stat_Animal_MilkType>
+  <!-- EN: The type of milk this creature produces. -->
+  <Stat_Animal_MilkTypeDesc>この生物が産出するミルクの種類です.</Stat_Animal_MilkTypeDesc>
+  <!-- EN: Milk amount -->
+  <Stat_Animal_MilkAmount>ミルクの産出量</Stat_Animal_MilkAmount>
+  <!-- EN: The amount of milk this creature produces each time it is milked. -->
+  <Stat_Animal_MilkAmountDesc>この生物の搾乳によって産出するミルクの量です.</Stat_Animal_MilkAmountDesc>
+  <!-- EN: Milking inteval -->
+  <Stat_Animal_MilkGrowthTime>搾乳間隔</Stat_Animal_MilkGrowthTime>
+  <!-- EN: The amount of time this creature needs between milkings. -->
+  <Stat_Animal_MilkGrowthTimeDesc>この生物の,搾乳してから次に搾乳できるようになるまでの時間です.</Stat_Animal_MilkGrowthTimeDesc>
+  <!-- EN: Milk per year -->
+  <Stat_Animal_MilkPerYear>一年あたりのミルク量</Stat_Animal_MilkPerYear>
+  <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
+  <Stat_Animal_MilkPerYearDesc>この動物が一年あたりに産出するミルクの量です.\n\nこれは,ミルクの産出量と搾乳間隔から計算されています.</Stat_Animal_MilkPerYearDesc>
+  <!-- EN: Milk market value -->
+  <Stat_Animal_MilkValue>ミルクの市場価値</Stat_Animal_MilkValue>
+  <!-- EN: The value of one unit of this creature's milk. -->
+  <Stat_Animal_MilkValueDesc>この生物の産出するミルク一つの価値です.</Stat_Animal_MilkValueDesc>
+  <!-- EN: Milk value per year -->
+  <Stat_Animal_MilkValuePerYear>一年あたりのミルクの価値</Stat_Animal_MilkValuePerYear>
+  <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
+  <Stat_Animal_MilkValuePerYearDesc>この生物から得られる一年あたりのミルクの市場価値は,空腹になることがなく,搾乳間隔が終わるたびに即座に搾乳されると仮定しています.\n\nこれは,一年あたりのミルク量とミルクの市場価値から計算されています.</Stat_Animal_MilkValuePerYearDesc>
+  <!-- EN: Wool type -->
+  <Stat_Animal_WoolType>毛の種類</Stat_Animal_WoolType>
+  <!-- EN: The type of wool produced by this creature. -->
+  <Stat_Animal_WoolTypeDesc>この生物が産出する毛の種類です.</Stat_Animal_WoolTypeDesc>
+  <!-- EN: Wool amount -->
+  <Stat_Animal_WoolAmount>毛の産出量</Stat_Animal_WoolAmount>
+  <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
+  <Stat_Animal_WoolAmountDesc>この生物の毛を刈り取るたびに産出する毛の量です.</Stat_Animal_WoolAmountDesc>
+  <!-- EN: Wool shearing interval -->
+  <Stat_Animal_WoolGrowthTime>毛刈り間隔</Stat_Animal_WoolGrowthTime>
+  <!-- EN: The time after shearing before this creature can be shorn again. -->
+  <Stat_Animal_WoolGrowthTimeDesc>この生物の毛刈り後に,再び毛を刈れるようになるまでの時間です.</Stat_Animal_WoolGrowthTimeDesc>
+  <!-- EN: Wool amount per year -->
+  <Stat_Animal_WoolPerYear>一年あたりの毛量</Stat_Animal_WoolPerYear>
+  <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
+  <Stat_Animal_WoolPerYearDesc>この生物が一年あたりに産出する毛の量です.\n\nこれは,毛の産出量と毛刈り間隔から計算されています.</Stat_Animal_WoolPerYearDesc>
+  <!-- EN: Wool market value -->
+  <Stat_Animal_WoolValue>毛の市場価値</Stat_Animal_WoolValue>
+  <!-- EN: The market value of one unit of this creature's wool. -->
+  <Stat_Animal_WoolValueDesc>この生物の毛一本の市場価値です.</Stat_Animal_WoolValueDesc>
+  <!-- EN: Wool value per year -->
+  <Stat_Animal_WoolValuePerYear>一年あたりの毛の価値</Stat_Animal_WoolValuePerYear>
+  <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
+  <Stat_Animal_WoolValuePerYearDesc>この生物から得られる一年あたりの毛の市場価値です.\n\nこれは,一年あたりの毛量と毛の市場価値から計算されています.</Stat_Animal_WoolValuePerYearDesc>
+
+  <!-- EN: How much of the total possible study you have performed on this object. -->
+  <Stat_Studiable_Desc>このオブジェクトに対して実行した可能性のある調査の合計量です.</Stat_Studiable_Desc>
+  
 </LanguageData>

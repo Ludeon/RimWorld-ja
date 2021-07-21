@@ -22,6 +22,11 @@
   <Cut.deathMessage>{0}は斬られて死んだ</Cut.deathMessage>
   
   <!-- EN: blunt -->
+  <Demolish.label>殴る</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>{0}は鈍器で殴られて死んだ</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
   <Poke.label>突く</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
   <Poke.deathMessage>{0}は突かれて死んだ</Poke.deathMessage>

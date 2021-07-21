@@ -8,8 +8,8 @@
   <HigherPriority>優先度 高</HigherPriority>
   <!-- EN: lower priority -->
   <LowerPriority>優先度 低</LowerPriority>
-  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
-  <RelevantSkills>該当スキル：{0} ： {1} / {2}</RelevantSkills>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
+  <RelevantSkills>該当スキル：{0}\n該当スキルの平均値： {1}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>クリックで移動：</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
@@ -23,7 +23,7 @@
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>優先順位1位は最優先で,優先順位4位は最劣後です.</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>優先順位1は最優先で, 優先順位4は最劣後です.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
   <Priority0>行なわない</Priority0>
   <!-- EN: Top priority -->
@@ -34,6 +34,14 @@
   <Priority3>通常</Priority3>
   <!-- EN: Low priority -->
   <Priority4>劣後</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>{0}\n\n{1_nameDef}は別の派閥に所属しています.\n\nクリックで派閥を見る.</PawnFactionInfo>
+  <!-- EN: Disabled by backstory: {0} -->
+  <WorkDisabledByBackstory>経歴により無効: {0}</WorkDisabledByBackstory>
+  <!-- EN: Disabled by trait: {0} -->
+  <WorkDisabledByTrait>才能・性格により無効: {0}</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest: {0} -->
+  <WorkDisabledByQuest>クエストにより無効: {0}</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -82,16 +90,20 @@
   <Hostile>敵対</Hostile>
   <!-- EN: Ally -->
   <Ally>同盟</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>敵対</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>同盟</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>敗退</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>{0} と 敵対</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>敵対: </EnemyOf>
-  <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>この派閥との,現在の友好値と関係性です.</CurrentGoodwillTip>
-  <!-- EN: Current relations with this faction. -->
-  <CurrentRelationTip>この派閥との現在の関係です.</CurrentRelationTip>
+  <!-- EN: Recent events -->
+  <RecentEvents>最近のイベント</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>進行中のイベント</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.どのような理由でも,彼らとの関係性は決して改善することは無いでしょう.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -100,13 +112,7 @@
   <CurrentGoodwillTip_Neutral>この派閥とは中立です.彼らは,あなたと自由に話し,貿易をするでしょう.もし関係性が{0}を下回ると,彼らとは敵対するでしょう.もし関係性が{1}を上回ると,彼らは同盟となって,あなたの為に積極的に力になってくれ始めます.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>この派閥と敵対です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.もし関係性が{0}を上回ると,彼らは中立となります.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
-  <CurrentGoodwillTip_NaturalGoodwill>この派閥は,{0}から{1}の友好値の幅を持っています.</CurrentGoodwillTip_NaturalGoodwill>
-  <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>友好値が{0}を下回ると,一年毎に{1}上がっていきます.</CurrentGoodwillTip_NaturalGoodwillRise>
-  <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillFall>友好値が{0}を超えると,一年毎に{1}下がっていきます.</CurrentGoodwillTip_NaturalGoodwillFall>
-  
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>友人</Friend>
@@ -153,21 +159,21 @@
   <!-- EN: Play time -->
   <Playtime>プレイ時間</Playtime>
   <!-- EN: Storyteller -->
-  <Storyteller>AI脚本家</Storyteller>
+  <Storyteller>ストーリーテラー</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>村の価値 (このマップ)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>村の価値(アイテム) (このマップ)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>村の価値(建物) (このマップ)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (このマップ)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>大きな脅威</NumThreatBigs>
   <!-- EN: Enemy raids -->
   <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
-  <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>総ダメージ量 (このマップ)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
   <ColonistsKilled>殺された 入植者数</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
@@ -176,8 +182,8 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>研究</Research>
-  <!-- EN: Researched -->
-  <Researched>研究済</Researched>
+  <!-- EN: Study -->
+  <Study>調査</Study>
   <!-- EN: Unresearched -->
   <Unresearched>未研究</Unresearched>
   <!-- EN: Finished -->
@@ -206,6 +212,12 @@
   <TechLevelTooLow>あなたの派閥のテックレベルは{0}ですが,この研究のテックレベルは{1}です.研究速度は本来の{2}となります.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>次のものでアンロック</UnlockedWith>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>派閥</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>既知の派閥がない</NoFactions>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -280,12 +292,16 @@
   <QuestBedroomRequirementsUnsatisfiedSingle>爵位の必要品を揃えた空き寝室</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestThroneRoomRequirementsUnsatisfied>{TITLE}である{PAWN_definite}の,爵位の必要品を揃えた玉座</QuestThroneRoomRequirementsUnsatisfied>
-  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
-  <QuestNoThroneRoom>{TITLE}である{PAWN_definite}の,爵位の必要品を揃えた玉座</QuestNoThroneRoom>
-  <!-- EN: a colonist with the title of {0}. -->
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>{PAWN_definite}に割り当てられた玉座</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>{0}の称号を持つ入植者</QuestNoColonistWithTitle>
-  <!-- EN: {PAWN_definite} must be in home colony -->
-  <QuestPawnNotOnColonyMap>{PAWN_definite}はこのコロニーに居なければならない</QuestPawnNotOnColonyMap>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>このコロニーに居る{PAWN_definite}</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>贈与者の派閥の敵対者をマップから排除する</QuestRequiresNoDangerOnMap>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>進行中の授与式クエストを終わらせる必要がある</QuestCanNotStartUntilBestowingCeremonyFinished>
   <!-- EN: Reward preferences -->
   <ChooseRewards>報酬設定</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
@@ -307,10 +323,20 @@
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort}が加わる</PawnQuestReward>
   <!-- EN: Betrayal offer: {0} targets remain -->
-  <QuestBetrayalOffer>裏切りの申し出: {0} ターゲットが残る</QuestBetrayalOffer>
+  <QuestBetrayalOffer>裏切りの提示: {0}人の標的が残っている</QuestBetrayalOffer>
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
-  <QuestBetrayalOfferTip>{0}は,{1}の仲間を全員殺害することに対して,報酬を与えるでしょう.</QuestBetrayalOfferTip>
-  
+  <QuestBetrayalOfferTip>{0}は, {1}のメンバーを全員殺害した場合,報酬を与えます.</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>富を持つコロニーが少なくとも{0}</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>{0}と同盟</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>{0}と敵対</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>{0}と中立</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>{0_labelShort}を調査した</QuestRequiredThingStudied>
+
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>追加欲求</CreatesNeed>

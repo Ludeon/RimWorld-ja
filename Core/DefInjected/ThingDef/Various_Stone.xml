@@ -6,65 +6,65 @@
   <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
   <BlocksGranite.description>花崗岩でできたブロック,花崗岩はとても硬い.</BlocksGranite.description>
   <!-- EN: granite -->
-  <BlocksGranite.stuffProps.stuffAdjective>花崗岩</BlocksGranite.stuffProps.stuffAdjective>
+  <BlocksGranite.stuffProps.stuffAdjective>花崗岩製</BlocksGranite.stuffProps.stuffAdjective>
   
   <!-- EN: limestone blocks -->
   <BlocksLimestone.label>石灰岩のブロック</BlocksLimestone.label>
   <!-- EN: Blocks of solid limestone. -->
   <BlocksLimestone.description>石灰岩でできたブロックです.</BlocksLimestone.description>
   <!-- EN: limestone -->
-  <BlocksLimestone.stuffProps.stuffAdjective>石灰岩</BlocksLimestone.stuffProps.stuffAdjective>
+  <BlocksLimestone.stuffProps.stuffAdjective>石灰岩製</BlocksLimestone.stuffProps.stuffAdjective>
   
   <!-- EN: marble blocks -->
   <BlocksMarble.label>大理石のブロック</BlocksMarble.label>
   <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
   <BlocksMarble.description>大理石でできたブロック,大理石はやわく綺麗な岩で彫刻の題材として知られています.</BlocksMarble.description>
   <!-- EN: marble -->
-  <BlocksMarble.stuffProps.stuffAdjective>大理石</BlocksMarble.stuffProps.stuffAdjective>
+  <BlocksMarble.stuffProps.stuffAdjective>大理石製</BlocksMarble.stuffProps.stuffAdjective>
   
   <!-- EN: sandstone blocks -->
   <BlocksSandstone.label>砂岩のブロック</BlocksSandstone.label>
   <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
   <BlocksSandstone.description>砂岩でできたブロック,砂岩は比較的にやわらかで割れやすい.</BlocksSandstone.description>
   <!-- EN: sandstone -->
-  <BlocksSandstone.stuffProps.stuffAdjective>砂岩</BlocksSandstone.stuffProps.stuffAdjective>
+  <BlocksSandstone.stuffProps.stuffAdjective>砂岩製</BlocksSandstone.stuffProps.stuffAdjective>
   
   <!-- EN: slate blocks -->
   <BlocksSlate.label>粘板岩のブロック</BlocksSlate.label>
   <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
   <BlocksSlate.description>粘板岩でできたブロックです.</BlocksSlate.description>
   <!-- EN: slate -->
-  <BlocksSlate.stuffProps.stuffAdjective>粘板岩</BlocksSlate.stuffProps.stuffAdjective>
+  <BlocksSlate.stuffProps.stuffAdjective>粘板岩製</BlocksSlate.stuffProps.stuffAdjective>
   
   <!-- EN: granite chunk -->
   <ChunkGranite.label>花崗岩の塊</ChunkGranite.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkGranite.description>岩の塊です.これを使用可能なブロックに切り分ける事ができます.</ChunkGranite.description>
+  <ChunkGranite.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkGranite.description>
   
   <!-- EN: limestone chunk -->
   <ChunkLimestone.label>石灰岩の塊</ChunkLimestone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkLimestone.description>岩の塊です.これを使用可能なブロックに切り分ける事ができます.</ChunkLimestone.description>
+  <ChunkLimestone.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkLimestone.description>
   
   <!-- EN: marble chunk -->
   <ChunkMarble.label>大理石の塊</ChunkMarble.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkMarble.description>岩の塊です.これを使用可能なブロックに切り分ける事ができます.</ChunkMarble.description>
+  <ChunkMarble.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkMarble.description>
   
   <!-- EN: sandstone chunk -->
   <ChunkSandstone.label>砂岩の塊</ChunkSandstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSandstone.description>岩の塊です.これを使用可能なブロックに切り分ける事ができます.</ChunkSandstone.description>
+  <ChunkSandstone.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkSandstone.description>
   
   <!-- EN: steel slag chunk -->
   <ChunkSlagSteel.label>鉄くずの塊</ChunkSlagSteel.label>
   <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
-  <ChunkSlagSteel.description>鉄くずの塊です.このままの形では役に立ちませんが,スチールを回収する為に精錬する事が出来ます.</ChunkSlagSteel.description>
+  <ChunkSlagSteel.description>鉄くずの塊です.このままの形では役に立ちませんが,スチールを回収する為に溶解することもできます.</ChunkSlagSteel.description>
   
   <!-- EN: slate chunk -->
   <ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSlate.description>岩の塊です.これを使用可能なブロックに切り分ける事ができます.</ChunkSlate.description>
+  <ChunkSlate.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkSlate.description>
   
   <!-- EN: granite -->
   <Granite.label>花崗岩</Granite.label>
@@ -74,22 +74,22 @@
   <!-- EN: limestone -->
   <Limestone.label>石灰岩</Limestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
-  <Limestone.description>古代の貝殻が圧縮されてできた堆積岩です.</Limestone.description>
+  <Limestone.description>古代の貝殻が圧縮されて形成された堆積岩です.</Limestone.description>
   
   <!-- EN: marble -->
   <Marble.label>大理石</Marble.label>
   <!-- EN: A soft metamorphic rock. -->
-  <Marble.description>弱い変成岩です.</Marble.description>
+  <Marble.description>柔らかい変成岩です.</Marble.description>
   
   <!-- EN: sandstone -->
   <Sandstone.label>砂岩</Sandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
-  <Sandstone.description>砂粒が圧縮されてできた堆積岩です.</Sandstone.description>
+  <Sandstone.description>圧縮された砂粒子で構成された堆積岩です.</Sandstone.description>
   
   <!-- EN: slate -->
   <Slate.label>粘板岩</Slate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
-  <Slate.description>スレート劈開 という層からなる 色が暗い粘板岩</Slate.description>
+  <Slate.description>濃い色がついた変成岩です.その細かい層はスレート劈開の象徴です.</Slate.description>
   
   <!-- EN: smoothed granite -->
   <SmoothedGranite.label>磨かれた花崗岩</SmoothedGranite.label>

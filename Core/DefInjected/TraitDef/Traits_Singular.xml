@@ -9,11 +9,11 @@
   <!-- EN: annoying voice -->
   <AnnoyingVoice.degreeDatas.annoying_voice.label>気に障る声</AnnoyingVoice.degreeDatas.annoying_voice.label>
   <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
-  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}は鼻声のように曇った声で,要領を得ない言い回しや咳払いも織り交ぜて話しがちな事が,ことさら人をイライラさせます.この事が,他者から{PAWN_objective}嫌われやすくします.</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}は鼻声のように曇った声で,要領を得ない言い回しや咳払いも織り交ぜて話しがちなことが,ことさら人をイライラさせます.このことが,他者から{PAWN_objective}嫌われやすくします.</AnnoyingVoice.degreeDatas.annoying_voice.description>
   
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>禁欲</Ascetic.degreeDatas.ascetic.label>
-  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
   <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef}は禁欲生活をより好みます. {PAWN_pronoun}の寝室が豪華すぎると,{PAWN_pronoun}の "心情"にマイナスがつきます. {PAWN_pronoun}は また手の込んだ食事を嫌い,生のまま食べることを好みます.</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
@@ -34,7 +34,7 @@
   <!-- EN: body purist -->
   <BodyPurist.degreeDatas.body_purist.label>自然体主義</BodyPurist.degreeDatas.body_purist.label>
   <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
-  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef}は,人体に限界があるのは理由があっての事だと信じています.{PAWN_pronoun}にとって,義体化は倫理に反する気持ち悪いことだと捉えています.</BodyPurist.degreeDatas.body_purist.description>
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef}は,人体に限界があるのは理由があってのことだと信じています.{PAWN_pronoun}にとって,義体化は倫理に反する気持ち悪いことだと捉えています.</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
   <Brawler.degreeDatas.brawler.label>格闘家</Brawler.degreeDatas.brawler.label>
@@ -93,13 +93,13 @@
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>イイ人</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance. -->
-  <Kind.degreeDatas.kind.description>{PAWN_nameDef}はイイ人です.{PAWN_pronoun}は,いつも皆の心を明るくさせる資質を持ってます,他人を侮辱することはありません.</Kind.degreeDatas.kind.description>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. -->
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef}は非常に感じがよく,面倒見のいい人です.{PAWN_pronoun}は決して人を侮辱せず,時には周囲の人の気分を明るくするために,優しい言葉をかけます.{PAWN_pronoun}はまた,外見で人を判断しません.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>マゾヒスト</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef}にとって,痛めつけられる事は刺激的な良いことです.{PAWN_pronoun}は何故か知りません,けどかなり変人です.</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef}にとって,痛めつけられることは刺激的な良いことです.{PAWN_pronoun}は何故か知りません,けどかなり変人です.</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>よたか</NightOwl.degreeDatas.night_owl.label>
@@ -114,7 +114,7 @@
   <!-- EN: nudist -->
   <Nudist.degreeDatas.nudist.label>ヌーディスト</Nudist.degreeDatas.nudist.label>
   <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef}は裸になると,自由な開放された感覚を味わえます.{PAWN_pronoun}は服を着ても構いませんが,着ない方が,より幸せになれます.</Nudist.degreeDatas.nudist.description>
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef}は裸になると,自由な解放された感覚を味わえます.{PAWN_pronoun}は服を着ても構いませんが,着ない方が,より幸せになれます.</Nudist.degreeDatas.nudist.description>
   
   <!-- EN: psychopath -->
   <Psychopath.degreeDatas.psychopath.label>サイコパス</Psychopath.degreeDatas.psychopath.label>
@@ -139,12 +139,12 @@
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>うぬぼれ屋</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef}は才能以上に,自分自身を利口だと思っています. {PAWN_pronoun}は,どんな事でも他人より早く覚えますが, かなりの変わり者です.</TooSmart.degreeDatas.too_smart.description>
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef}は才能以上に,自分自身を利口だと思っています. {PAWN_pronoun}は,どんなことでも他人より早く覚えますが, かなりの変わり者です.</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tortured artist -->
   <TorturedArtist.degreeDatas.tortured_artist.label>苦悩する芸術家</TorturedArtist.degreeDatas.tortured_artist.label>
   <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
-  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef}は,自分以外の人から正当な評価をされず,疎外されてると感じています.{PAWN_pronoun}の心情は一定値下がりますが,精神崩壊を起こした後は,創作意欲のチャンスが５０％上がります.</TorturedArtist.degreeDatas.tortured_artist.description>
+  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef}は,自分以外の人から正当な評価をされず,疎外されてると感じています.{PAWN_pronoun}の心情は一定値下がりますが,精神崩壊を起こした後は,創作意欲のチャンスが50％上がります.</TorturedArtist.degreeDatas.tortured_artist.description>
   <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
   <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>悩み苦しんだのち,[PAWN_nameIndef]にインスピレーションが湧きました.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
   
@@ -153,15 +153,19 @@
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
   <Tough.degreeDatas.tough.description>{PAWN_nameDef}は,厚い皮膚,良い肉付き,丈夫な骨という体格の持ち主です. {PAWN_pronoun}は,同じように殴られたとしても,他者よりダメージが少なくなります.</Tough.degreeDatas.tough.description>
   
-  <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>義体化願望</Transhumanist.degreeDatas.transhumanist.label>
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>義体化願望</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef}は,弱々しい人間の身体に限界を感じています.{PAWN_pronoun}は,しばしば自分が義体化する夢をみます.</Transhumanist.degreeDatas.body_modder.description>
+  
+  <!-- UNUSED -->
+  <Transhumanist.degreeDatas.transhumanist.label>義体化願望</Transhumanist.degreeDatas.transhumanist.label>
   <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef}は,弱々しい人間の身体に限界を感じています.{PAWN_pronoun}は,しばしば自分が義体化する夢をみます.</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>地底人</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}は明かりも,外での経験も必要ありません.{PAWN_pronoun}は,窮屈感を感じたり,キャビンフィーバーになったりしないでしょう,{PAWN_pronoun}は,どれだけ閉じこもっても気にしないし,暗闇を気にする事もありません.</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}は明かりも,外での経験も必要ありません.{PAWN_pronoun}は,窮屈感を感じたり,キャビンフィーバーになったりしないでしょう,{PAWN_pronoun}は,どれだけ閉じこもっても気にしないし,暗闇を気にすることもありません.</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
   <Wimp.degreeDatas.wimp.label>弱虫</Wimp.degreeDatas.wimp.label>

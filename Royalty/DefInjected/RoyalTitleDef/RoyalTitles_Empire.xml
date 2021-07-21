@@ -1,69 +1,69 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: acolyte -->
+  <Acolyte.label>従者</Acolyte.label>
+  <!-- EN: The title of acolyte is the first title of noble duty, an encompasses a wide range of practical positions. Some acolytes are purely students, learning to lead troops, manage societies, or use psycasts in specialized schools. Others come from wealthy families and might own city buildings or farm complexes.\n\nDuring wartime, an acolyte might lead a platoon of troops, captain a small frigate, or serve their lord as an advisor.\n\nTheir low rank within the nobility makes them paradoxically less useful as diplomats than yeomen. Sending a low-ranked acolyte to a negotiation can itself be seen as an insult, whereas a non-noble yeoman negotiator is seen only as the mouthpiece of his lord. -->
+  <Acolyte.description>従者は下級爵位の中では最も低い個人称号で,幅広い実務的な役職を網羅しています.一部の従者は単なる学生であったり,兵の士気を学んだり,公共の管理を担ったり,あるいは特別な学校で超能力を用いたりします.他にも裕福な家庭の出身で,都市のビルや農場を所有している者もいます.\n\n戦時には従者は小隊を率いたり,フリゲート艦の艦長を務めたり,専門家や顧問として領主に仕えます.\n\n貴族社会における彼らの低い地位は,逆説的にヨーマンよりも外交官として不適当であるとみなされます.下級爵位である従者を外交使節として派遣することは屈辱的行為とみなされますが,ヨーマンの交渉人だけは彼を主人の代理として認めてくれます.</Acolyte.description>
+  
   <!-- EN: baron -->
   <Baron.label>男爵</Baron.label>
   <!-- EN: The title of baron is the lowest of the middle nobility. While lower titles focus on personal service at war or commerce under a lord, barons hold title as semi-independent rulers. Each baron is subordinate to his liege lord, but his obligations are mostly in supplying wealth and troops, and not in personal service.\n\nIn the Empire, a baron will typically own a city sector, mining colony, or similar outfit. At wartime, a baron may captain a capital ship in name, or control a regiment of troops. -->
-  <Baron.description>帝国男爵の称号は中級爵位としては最も低いものです。下級の称号は、戦時の軍役や領主のもとでの商売といった個人的な役割が中心ですが、男爵は半自立的領主としての称号と言えます。男爵は君主に従属していますが、彼に課される義務は個人的奉仕ではなく、富と軍隊の供給にあります。戦時には男爵はキャプテンを名乗り、主力艦の指揮を取ったり、連隊の長を務めます。</Baron.description>
+  <Baron.description>帝国男爵の称号は中級爵位としては最も低いものです.下級の称号は,戦時の軍役や領主のもとでの商売といった個人的な役割が中心ですが,男爵は半自立的領主としての称号と言えます.男爵は君主に従属していますが,彼に課される義務は個人的奉仕ではなく,富と軍隊の供給にあります.戦時には男爵はキャプテンを名乗り,主力艦の指揮を取ったり,連隊の長を務めます.</Baron.description>
   <!-- EN: baroness -->
   <Baron.labelFemale>女男爵</Baron.labelFemale>
   
   <!-- EN: consul -->
   <Consul.label>執政官</Consul.label>
   <!-- EN: The Imperial title of consul is a lower level of high nobility.\n\nIn the Empire, consuls control planets. At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets. Some command from a super-capital ship or control space-based megastructures. -->
-  <Consul.description>帝国執政官の称号は上級爵位の中では低いものです。\n\n帝国において執政官は惑星を統治します。戦時には執政官は複数の宇宙艦隊に支援され、多数の師団から構成される軍団を指揮します。幾人かは超級主力艦から惑星規模の大型構造物まで指揮下に置きます。</Consul.description>
+  <Consul.description>帝国執政官の称号は上級爵位の中では低いものです.\n\n帝国において執政官は惑星を統治します.戦時には執政官は複数の宇宙艦隊に支援され,多数の師団から構成される軍団を指揮します.幾人かは超級主力艦から惑星規模の大型構造物まで指揮下に置きます.</Consul.description>
   
   <!-- EN: count -->
   <Count.label>伯爵</Count.label>
   <!-- EN: The title of count is the middle rank of middle nobility.\n\nIn peacetime, counts hold title to a city or colony, and might have a small personal fleet, possibly including capital ships. -->
-  <Count.description>帝国伯爵は中級爵位の中では中程にあるものです。\n\n平時において伯爵は、都市または入植地の称号を持ち、多くは主力艦を含む小規模な自前の艦隊を有しています。</Count.description>
+  <Count.description>帝国伯爵は中級爵位の中では中程にあるものです.\n\n平時において伯爵は,都市または入植地の称号を持ち,多くは主力艦を含む小規模な自前の艦隊を有しています.</Count.description>
   <!-- EN: countess -->
   <Count.labelFemale>女伯</Count.labelFemale>
   
   <!-- EN: duke -->
   <Duke.label>公爵</Duke.label>
   <!-- EN: The Imperial title of duke is the highest of the middle nobility.\n\nIn the Empire, dukes control provinces, mega-cities, or moons. At war, a duke can field a division-level force, or a fleet with capital ships and dozens of support craft. -->
-  <Duke.description>帝国公爵は中級爵位の中では最高位に位置するものです。\n\n帝国において公爵は、州または大都市、あるいは月を統治しています。戦時には師団級の部隊を指揮するか、主力艦とそれを支援する多数の艦船で構成される艦隊を指揮します。</Duke.description>
+  <Duke.description>帝国公爵は中級爵位の中では最高位に位置するものです.\n\n帝国において公爵は,州または大都市,あるいは月を統治しています.戦時には師団級の部隊を指揮するか,主力艦とそれを支援する多数の艦船で構成される艦隊を指揮します.</Duke.description>
   <!-- EN: duchess -->
   <Duke.labelFemale>女公</Duke.labelFemale>
   
   <!-- EN: emperor -->
   <Emperor.label>銀河皇帝</Emperor.label>
   <!-- EN: The Imperial title of emperor indicates sovereign dominion over the entire Empire, all its peoples, planets, and fleets. All other lords swear fealty to a high lord, while the Emperor swears fealty to no one. However, even the Emperor depends on the support of lower nobles to remain in power. -->
-  <Emperor.description>銀河皇帝の称号は、全ての人民、全ての惑星、全ての艦に対する主権を有し、これを統治する最高位の称号です。他のすべての領主が皇帝に忠誠を誓いますが、皇帝自身は何者にも忠誠を誓いません。しかし、皇帝であっても権力を維持するためには下級貴族たちの支援を必要とします。</Emperor.description>
+  <Emperor.description>銀河皇帝の称号は,全ての人民,全ての惑星,全ての艦に対する主権を有し,これを統治する最高位の称号です.他のすべての領主が皇帝に忠誠を誓いますが,皇帝自身は何者にも忠誠を誓いません.しかし,皇帝であっても権力を維持するためには下級貴族たちの支援を必要とします.</Emperor.description>
   <!-- EN: empress -->
   <Emperor.labelFemale>女皇</Emperor.labelFemale>
-  
-  <!-- EN: acolyte -->
-  <Esquire.label>従者</Esquire.label>
-  <!-- EN: The title of acolyte is the first title of noble duty, an encompasses a wide range of practical positions. Some acolytes are purely students, learning to lead troops, manage societies, or use psycasts in specialized schools. Others come from wealthy families and might own city buildings or farm complexes.\n\nDuring wartime, an acolyte might lead a platoon of troops, captain a small frigate, or serve their lord as an advisor.\n\nTheir low rank within the nobility makes them paradoxically less useful as diplomats than yeomen. Sending a low-ranked acolyte to a negotiation can itself be seen as an insult, whereas a non-noble yeoman negotiator is seen only as the mouthpiece of his lord. -->
-  <Esquire.description>従者は下級爵位の中では最も低い個人称号で、幅広い実務的な役職を網羅しています。一部の従者は単なる学生であったり、兵の指揮を学んだり、公共の管理を担ったり、あるいは特別な学校で超能力を用いたりします。他にも裕福な家庭の出身で、都市のビルや農場を所有している者もいます。\n\n戦時には従者は小隊を率いたり、フリゲート艦の艦長を務めたり、専門家や顧問として領主に仕えます。\n\n貴族社会における彼らの低い地位は、逆説的にヨーマンよりも外交官として不適当であるとみなされます。下級爵位である従者を外交使節として派遣することは屈辱的行為とみなされますが、ヨーマンの交渉人だけは彼を主人の代理として認めてくれます。</Esquire.description>
   
   <!-- EN: freeholder -->
   <Freeholder.label>フリーホルダー</Freeholder.label>
   <!-- EN: The Imperial title of freeholder is used by the Empire to signifies a fully-respected individual. Most Imperial citizens earn it while young through volunteer work or military service. The title is also offered to outsiders who act with honor in the eyes of the Empire. -->
-  <Freeholder.description>フリーホルダーとは帝国内において個人として尊重される自由市民を指します。\n\nほとんどの帝国市民は若年時のボランティア活動や軍役によってこの称号を獲得します。帝国外出身者でも帝国の目として活動した功績をたたえてこの称号を与えられることがあります。</Freeholder.description>
+  <Freeholder.description>フリーホルダーとは帝国内において個人として尊重される自由市民を指します.\n\nほとんどの帝国市民は若年時のボランティア活動や軍役によってこの称号を獲得します.帝国外出身者でも帝国の目として活動した功績をたたえてこの称号を与えられることがあります.</Freeholder.description>
   
   <!-- EN: knight -->
   <Knight.label>ナイト</Knight.label>
   <!-- EN: The title of knight is held by nobles who have largely passed their training, but who have not ascended to higher leadership roles. Many knights never advance further, and spend their lives as respected managers, advisors, or warriors.\n\nMost knights have some wealth, but a few remain quite poor while others may be very rich.\n\nIn peacetime, a knight may manage a factory complex, commercial district, or small farming region. In war, some knights lead troop companies and assault squadrons, while psychic-focused knights engage in espionage, sabotage, and battlefield psychic combat. -->
-  <Knight.description>ナイトの称号は、訓練に合格したものの、高位の統治者としての役割を持たない貴族に与えられます。多くのナイトは決してこれ以上昇格せず、敬意を払われるマネージャー、アドバイザー、あるいは戦士として人生を過ごします。\n\n大半のナイトはある程度の資産を持ちますが、一方でとても貧しいナイトがおり、また他方ではとても裕福なナイトもいます。\n\n平時においてナイトは、工業団地、商業地区、ないし小さな農業地区の責任者を努めます。戦時には一部のナイトは部隊を率いて戦場へ向かい、一方で超能力を用いるナイトは諜報活動や破壊工作、戦場での超能力戦に従事します。</Knight.description>
+  <Knight.description>ナイトの称号は,訓練に合格したものの,高位の統治者としての役割を持たない貴族に与えられます.多くのナイトは決してこれ以上昇格せず,敬意を払われるマネージャー,アドバイザー,あるいは戦士として人生を過ごします.\n\n大半のナイトはある程度の資産を持ちますが,一方でとても貧しいナイトがおり,また他方ではとても裕福なナイトもいます.\n\n平時においてナイトは,工業団地,商業地区,ないし小さな農業地区の責任者を努めます.戦時には一部のナイトは部隊を率いて戦場へ向かい,一方で超能力を用いるナイトは諜報活動や破壊工作,戦場での超能力戦に従事します.</Knight.description>
   <!-- EN: dame -->
   <Knight.labelFemale>デイム</Knight.labelFemale>
   
   <!-- EN: praetor -->
   <Praetor.label>法務官</Praetor.label>
   <!-- EN: The title of praetor is a bridge between the service-oriented lower titles below and the power-holding nobility above.\n\nDuring peacetime, a prateor will usually manage a city district, asteroid sector, or agricultural region. During war, they take authority over the smallest combat units that fight independently - terrestrial troop cohorts, or space-borne destroyers or combat groups. -->
-  <Praetor.description>法務官は、奉公を提供する下流階級と、権力を保持する上流階級の間をつなぐ架け橋といえます。\n\n平時において法務官は、都市管区、アステロイド地帯、ないし農業地区のを管理します。戦時には独立行動の可能な最小の戦闘団を指揮します。陸上では一大隊を指揮し、艦隊では駆逐艦の艦長か、駆逐隊の指揮官を努めます。</Praetor.description>
+  <Praetor.description>法務官は,奉公を提供する下流階級と,権力を保持する上流階級の間をつなぐ架け橋といえます.\n\n平時において法務官は,都市管区,アステロイド地帯,ないし農業地区のを管理します.戦時には独立行動の可能な最小の戦闘団を指揮します.陸上では一大隊を指揮し,艦隊では駆逐艦の艦長か,駆逐隊の指揮官を努めます.</Praetor.description>
   
   <!-- EN: stellarch -->
   <Stellarch.label>星王</Stellarch.label>
   <!-- EN: The Imperial title of stellarch represents dominion over an entire star system.\n\nIn the Empire, since interstellar travel times are years long, stellarchs rule their systems with a great degree of independence. They each swear fealty to the Emperor, but since the Emperor may be many light-years away, a stellarch may go years or decades without interacting with him. -->
-  <Stellarch.description>帝国星王の保持者は星系全体の支配権を有します。\n\n帝国では恒星間移動速度が数年に渡るため、星王たちは独立的に星系を支配します。それぞれが皇帝に忠誠を誓っていますが、通常は何光年も彼方にいるため、相互に干渉なく何十年が経過することも珍しくありません。</Stellarch.description>
+  <Stellarch.description>帝国星王の保持者は星系全体の支配権を有します.\n\n帝国では恒星間移動速度が数年に渡るため,星王たちは独立的に星系を支配します.それぞれが皇帝に忠誠を誓っていますが,通常は何光年も彼方にいるため,相互に干渉なく何十年が経過することも珍しくありません.</Stellarch.description>
   
   <!-- EN: yeoman -->
   <Yeoman.label>ヨーマン</Yeoman.label>
   <!-- EN: The Imperial title of yeoman is held by those who serve a noble lord in an important, specific way. While it is not a noble title, it does give the holder the right to use low-level psychic abilities.\n\nThis title is often held by senior soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals. Many important people spend their entire lives as yeomen, seeking success outside the strictures of nobility. -->
-  <Yeoman.description>ヨーマンとは、重要かつ特殊な方法で貴族に仕える者に与えられる称号です。貴族の称号ではありませんが、低レベルな超能力を使用する権利を得ます。\n\n帝国において、この称号はしばしば高位の兵士に与えられます。戦闘機のパイロット、スパイ、アドバイザー、外交官、潜入工作員、ないしその他の重要な個人といった人々です。多くの有力な人々は、ヨーマンとしての人生を過ごしながら、貴族の枠を超えた成功を求めます。</Yeoman.description>
+  <Yeoman.description>ヨーマンとは,重要かつ特殊な方法で貴族に仕える者に与えられる称号です.貴族の称号ではありませんが,低レベルな超能力を使用する権利を得ます.\n\n帝国において,この称号はしばしば高位の兵士に与えられます.戦闘機のパイロット,スパイ,アドバイザー,外交官,潜入工作員,ないしその他の重要な個人といった人々です.多くの有力な人々は,ヨーマンとしての人生を過ごしながら,貴族の枠を超えた成功を求めます.</Yeoman.description>
   
 </LanguageData>

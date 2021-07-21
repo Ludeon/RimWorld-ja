@@ -30,9 +30,6 @@
   <!-- EN: Being together with my bonded animals makes me feel better. -->
   <BondedAnimalMaster.stages.master_of.description>絆で結ばれた動物の存在が,私の気分を良くしてくれる.</BondedAnimalMaster.stages.master_of.description>
   
-  <!-- EN: butchered humanlike corpse -->
-  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>死体解剖</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
-  
   <!-- EN: chemical interest vs teetotaler -->
   <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>薬物乱用 vs 薬物拒絶</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
   
@@ -77,8 +74,8 @@
   
   <!-- EN: opinion of my {0} {1} -->
   <OpinionOfMyLover.stages.opinion_of_my.label>私の{0} {1}の評価</OpinionOfMyLover.stages.opinion_of_my.label>
-  <!-- EN: Being with my lover makes me feel this way. -->
-  <OpinionOfMyLover.stages.opinion_of_my.description>恋人の存在が,私をこんな気分にさせてくれる.</OpinionOfMyLover.stages.opinion_of_my.description>
+  <!-- EN: Being with them makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>愛人の存在が,私をこんな気分にさせてくれる.</OpinionOfMyLover.stages.opinion_of_my.description>
   
   <!-- EN: physically appealing -->
   <Pretty.stages.physically_appealing.label>魅力的な肉体美</Pretty.stages.physically_appealing.label>
@@ -94,15 +91,22 @@
   <!-- EN: teetotaler vs chemical interest -->
   <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>薬物拒絶 vs 薬物乱用</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
   
-  <!-- EN: transhumanist appreciation -->
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+  
+  <!-- UNUSED -->
   <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
-  <!-- EN: transhumanist appreciation -->
   <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
-  <!-- EN: transhumanist appreciation -->
   <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
-  <!-- EN: transhumanist appreciation -->
   <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
-  <!-- EN: transhumanist appreciation -->
   <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>義体化主義者の賞賛</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
   
   <!-- EN: physically unsightly -->
@@ -110,10 +114,14 @@
   <!-- EN: physically hideous -->
   <Ugly.stages.physically_hideous.label>胸クソ悪い肉体</Ugly.stages.physically_hideous.label>
   
-  <!-- EN: want to sleep with {0} -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>{0}と一緒に眠りたい.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-  <!-- EN: I don't like sleeping apart from my partner. -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>パートナーと分かれて寝るのは嫌です.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  <!-- EN: sleeping alone -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>{0}と一緒に眠りたい</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <!-- EN: I should be sleeping with a lover or spouse. -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>パートナーと分かれて寝るのは嫌だ.</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+  
+  <!-- UNUSED -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>{0}と一緒に眠りたい</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>パートナーと分かれて寝るのは嫌だ.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
   
   <!-- EN: woman -->
   <Woman.stages.woman.label>女</Woman.stages.woman.label>

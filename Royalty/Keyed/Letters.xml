@@ -11,27 +11,27 @@
   <PermitPointsAwarded>与えられた許可証ポイント: {0}</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
-  <LetterRoyalTitleApparelQualityRequirement>この爵位には{1}以上の品質の衣服を着用させる必要があります。</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelQualityRequirement>この爵位には{1}以上の品質の衣服を着用させる必要があります.</LetterRoyalTitleApparelQualityRequirement>
   <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
   <LetterRoyalTitleApparelRequirement>この爵位に相応しい衣装を{PAWN_pronoun}に用意しなければなりません:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
-  <LetterRoyalTitleExpectation>{PAWN_possessive}期待値が{1}より下回ることはありません。</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleExpectation>{PAWN_possessive}期待値が{1}より下回ることはありません.</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}なため、{PAWN_pronoun}の爵位に伴う特典を尊重するよう求めています。{PAWN_pronoun}は特定のタイプの労働を忌避し、貧相な食べ物を退け、時に布告を発するでしょう。</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}は{1}の特性を持つため,{PAWN_pronoun}の爵位に伴う権利をすべて尊重するよう要求するでしょう.{PAWN_pronoun}は特定の種類の仕事を拒否し,下級の食事を受け付けず,時には布告を発することもあるでしょう.</LetterRoyalTitleConceitedTrait>
 
-  <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
+  <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort}が{FACTION_name}から{TITLE}の爵位を授かりました！</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
-  <LetterLostRoyalTitle>{PAWN_labelShort}は{FACTION_name}における{TITLE}の爵位をもはや保持していません。</LetterLostRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort}は{FACTION_name}における{TITLE}の爵位をもはや保持していません.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->
   <LetterLabelRewardsForNewTitle>爵位の報酬</LetterLabelRewardsForNewTitle>
   <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s): -->
-  <LetterRewardsForNewTitle>{PAWN_labelShort}の{TITLE}への昇進を讃え、{FACTION_name} から以下の報酬()が送られました:</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitle>{PAWN_labelShort}の{TITLE}への昇進を讃え,{FACTION_name} から以下の報酬()が送られました:</LetterRewardsForNewTitle>
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
-  <LetterRewardsForNewTitleDeliveryBase>報酬を積んだポッドがコロニーに到着しました。</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryBase>報酬を積んだポッドがコロニーに到着しました.</LetterRewardsForNewTitleDeliveryBase>
   <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
-  <LetterRewardsForNewTitleDeliveryDirect>報酬は{PAWN_labelShort}のインベントリに直接追加されました。</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRewardsForNewTitleDeliveryDirect>報酬は{PAWN_labelShort}の持ち物に直接追加されました.</LetterRewardsForNewTitleDeliveryDirect>
 
   <!-- EN: {PAWN_pronoun} has these permissions: -->
   <LetterRoyalTitlePermits>{PAWN_pronoun}には以下の権限があります:</LetterRoyalTitlePermits>
@@ -51,9 +51,9 @@
   <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
   <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} はもはや以下のインプラントに使用許可を持ちません:{1}</LetterRoyalTitleImplantsMustBeRemoved>
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
-  <LetterRoyalTitleImplantGracePeriod>外交的影響を避けるためには、執行猶予期間の5日以内にインプラントを除去する必要があります。</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleImplantGracePeriod>外交的影響を避けるためには,執行猶予期間の5日以内にインプラントを除去する必要があります.</LetterRoyalTitleImplantGracePeriod>
   <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
-  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun}は玉座で演説を行えるようになりました。成功すれば聴衆は発奮し、演説者に対する尊敬の念を深めるでしょう。失敗した場合、社交にダメージをもたらします。結果は{PAWN_labelShort}の社交スキルに依存します。</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun}は玉座で演説を行えるようになりました.成功すれば聴衆は奮い立ち,演説者に対する尊敬の念を深めるでしょう.失敗した場合,社交にダメージをもたらします.結果は{PAWN_labelShort}の社交スキルに依存します.</LetterRoyalTitleSpeechAbilityGained>
   <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
   <LetterRoyalTitleThroneroomRequirements>この爵位には以下の要件を満たす玉座の間が必要です:{1}</LetterRoyalTitleThroneroomRequirements>
   <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
@@ -64,62 +64,63 @@
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
   <LetterRoyalTitleRewardGranted>{PAWN_pronoun}はドロップポッドで以下のアイテムを受け取ります:{1}</LetterRoyalTitleRewardGranted>
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
-  <PeaceTalksRoyalFavorGain>{PAWN_labelShort}に対する{FACTION_name}からの{FACTION_royalFavorLabel}が{1}上昇しました。</PeaceTalksRoyalFavorGain>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort}に対する{FACTION_name}からの{FACTION_royalFavorLabel}が{1}上昇しました.</PeaceTalksRoyalFavorGain>
 
   <!-- Royal heritage-->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
-  <LetterRoyalTitleHeir>{PAWN_pronoun}が死亡した場合、この爵位は{HEIR_nameFull}に継承されます。</LetterRoyalTitleHeir>
+  <LetterRoyalTitleHeir>{PAWN_pronoun}が死亡した場合,この爵位は{HEIR_nameFull}に継承されます.</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
-  <LetterRoyalTitleNoHeir>{PAWN_pronoun}が死亡した場合、誰もこの爵位を継ぎません。</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleNoHeir>{PAWN_pronoun}が死亡した場合,誰もこの爵位を継ぎません.</LetterRoyalTitleNoHeir>
   <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
-  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull}は{FACTION_name}のメンバーです。</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull}は{FACTION_name}のメンバーです.</LetterRoyalTitleHeirFactionWarning>
   <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
-  <LetterRoyalTitleChangingHeir>通信機から{FACTION_name}に連絡すれば新たな継承者を指名できます。</LetterRoyalTitleChangingHeir>
+  <LetterRoyalTitleChangingHeir>通信機から{FACTION_name}に連絡すれば新たな継承者を指名できます.</LetterRoyalTitleChangingHeir>
   <!-- EN: Heir lost -->
   <LetterTitleHeirLostLabel>継承者を失った</LetterTitleHeirLostLabel>
-  <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title recieved from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
-  <LetterTitleHeirLost>{HEIR_nameFull}が死亡しました。継承者がいないため{FACTION_name}から拝領した{HOLDER_labelShort}の爵位が残されました。通信機から{FACTION_name}に連絡すれば新たな継承者を指名できます。</LetterTitleHeirLost>
+  <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
+  <LetterTitleHeirLost>{HEIR_nameFull}が死亡しました.継承者がいないため{FACTION_name}から授かった{HOLDER_labelShort}の爵位が残されました.通信機から{FACTION_name}に連絡すれば新たな継承者を指名できます.</LetterTitleHeirLost>
   <!-- EN: The title of {TITLE} cannot be inherited. -->
-  <LetterRoyalTitleCantBeInherited>{TITLE}の爵位は継承できません。</LetterRoyalTitleCantBeInherited>
+  <LetterRoyalTitleCantBeInherited>{TITLE}の爵位は継承できません.</LetterRoyalTitleCantBeInherited>
+
 
   <!-- EN: Title inheritance -->
   <LetterTitleInheritance>爵位の継承</LetterTitleInheritance>
-  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles have been transferred to {PAWN_possessive} heirs according to the laws of the title-granting factions. -->
-  <LetterTitleInheritance_Base>{PAWN_nameFull}が死亡したため、{PAWN_possessive}の爵位は相続法に従い、{PAWN_possessive}の継承者に譲り渡されました。</LetterTitleInheritance_Base>
-  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It replaced {HEIR_possessive} {REPLACEDTITLE} title. -->
-  <LetterTitleInheritance_AsReplacement>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。{HEIR_possessive} {REPLACEDTITLE}の爵位が置き換えられました。</LetterTitleInheritance_AsReplacement>
+  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
+  <LetterTitleInheritance_Base>{PAWN_nameFull}が死亡したため,爵位が{PAWN_possessive}継承者に譲り渡されます.</LetterTitleInheritance_Base>
+  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
+  <LetterTitleInheritance_AsReplacement>{FACTION_name}の相続法に従い,{PAWN_possessive}爵位である{TITLE}は{HEIR_nameFull}に継承されました.授与式を終えると,{HEIR_possessive}爵位が{REPLACEDTITLE}に替わります.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されますが、{HEIR_pronoun}はすでに{HIGHERTITLE}の保持者です。</LetterTitleInheritance_NoEffectHigherTitle>
-  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>{FACTION_name}の相続法に従い、{PAWN_possessive} {TITLE}の爵位は{HEIR_nameFull}に継承されました。</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}の相続法に従い,{PAWN_possessive}爵位である{TITLE}は{HEIR_nameFull}に継承されますが,{HEIR_pronoun}はすでに{HIGHERTITLE}の保持者です.</LetterTitleInheritance_NoEffectHigherTitle>
+  <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
+  <LetterTitleInheritance_WasInherited>{FACTION_name}の相続法に従い,{PAWN_possessive}爵位である{TITLE}は,授与式を通じて{HEIR_nameFull}に継承されます.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
-  <LetterTitleInheritance_NoHeirFound>{PAWN_pronoun}の法定相続人がいないため、{PAWN_possessive} {TITLE}の爵位は誰にも継承されませんでした。</LetterTitleInheritance_NoHeirFound>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_pronoun}の法定相続人がいないため,{PAWN_possessive}爵位である{TITLE}は誰にも継承されませんでした.</LetterTitleInheritance_NoHeirFound>
 
   <!-- Royal implant violations -->
   <!-- EN: Lawbreaker: {PAWN_labelShort} -->
   <LetterLawViolationDetectedLabel>法律違反: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
-  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name}は{PAWN_labelShort}の不正使用を検知しました: {CULPRIT} (検知チャンス {CHANCE}).\n\n{FACTION_name}の法律では、{TITLE}の爵位の保持者のみ{CULPRIT}の仕様が許可されています。\n\n罰としてあなたの派閥との関係が{GOODWILL}まで低下しました。</LetterLawViolationDetectedForbiddenThingUse>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name}は{PAWN_labelShort}の不正使用を検知しました: {CULPRIT} (検知チャンス {CHANCE}).\n\n{FACTION_name}の法律では,{TITLE}の爵位の保持者のみ{CULPRIT}の仕様が許可されています.\n\n罰としてあなたの派閥との関係が{GOODWILL}まで低下しました.</LetterLawViolationDetectedForbiddenThingUse>
 
   <!-- Throne Speech -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort}は{ORGANIZER_possessive}の演説を終えました。</LetterFinishedSpeech>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort}は演説を終えました.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>実にひどいものでした。言葉はつかえるし、下手なジョークと気の滅入る話ばかりでした。</LetterTerribleSpeech>
+  <LetterTerribleSpeech>この演説は実にひどいものでした.言葉はつかえるし,下手なジョークと気の滅入る話ばかりでした.</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>感動はしませんでした。独創性無くうんうん唸るばかりで、情熱的なセンスが欠けていました。</LetterUninspiringSpeech>
+  <LetterUninspiringSpeech>誰もこの演説に感動しませんでした.独創性もなくうんうん唸るばかりで,情熱的なセンスが欠けていました.</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>勇気づけられたし、胸にしっかり届きました。</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>この演説は皆の胸にしっかり届き,勇気づけました.</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>意志と気迫に満ちていてとても感動的でした。</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>この演説は意志と気迫に満ちていて,とても感動的でした.</LetterInspirationalSpeech>
   <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>以下の人々は特にスピーチに感動し、そして今、奮い立たされました:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiredListeners>以下の人々は特に感動し,そして今,奮い立たされました:</LetterSpeechInspiredListeners>
   <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>{SPEAKER_nameIndef}の素晴らしいスピーチのおかげで、{PAWN_nameIndef}は奮い立ちました！</LetterSpeechInspiration>
+  <LetterSpeechInspiration>{SPEAKER_nameIndef}の素晴らしい演説のおかげで,{PAWN_nameIndef}は奮い立ちました！</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>{0}が完了した段階で演説が中断されたため、それほど効果的ではありませんでした。</LetterSpeechInterrupted>
-  <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>{ORGANIZER_bestRoyalTitleDef}の演説は50%に達する前に中断されました。何の効果ももたらしません。</LetterSpeechCancelled>
+  <LetterSpeechInterrupted>{0}が完了した段階で演説が中断されたため,それほど効果的ではありませんでした.</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>{0}の演説は50%に達する前に中断されました.何の効果ももたらしません.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
   <LetterLabelSpeechCancelled>演説が中断されました</LetterLabelSpeechCancelled>
 
@@ -130,56 +131,71 @@
   <LetterLabelRandomDecree>{0_nameIndef}が法令を発しました</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterDecreeMentalBreak>{0_nameIndef}が、{0_possessive}のストレスを発散するために突飛な法令を発し、それを実行するよう迫っています。\n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterDecreeMentalBreak>
+  <LetterDecreeMentalBreak>{0_nameIndef}が,{0_possessive}のストレスを発散するために突飛な法令を発し,それを実行するよう迫っています.\n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります.</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>{0_nameIndef}が、{0_bestRoyalTitleIndef}の爵位の{0_possessive}を確認するために突飛な法令を発し、それを実行するよう迫っています。\n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります。</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef}が,{0_bestRoyalTitleIndef}の爵位の{0_possessive}を確認するために突飛な法令を発し,それを実行するよう迫っています.\n適切な時期までに実行されないと{0_nameIndef}はとても不幸になります.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
-  <LetterDecree_Quest>法令の名前は"{0}"です。</LetterDecree_Quest>
+  <LetterDecree_Quest>法令の名前は"{0}"です.</LetterDecree_Quest>
   
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
-  <LentColonistDied>{PAWN_nameDef}は{FACTION}に派遣されました。彼らはじきに{PAWN_nameDef}の身柄を返してくるでしょう。</LentColonistDied>
+  <LentColonistDied>{PAWN_nameDef}は{FACTION}に派遣されました.彼らはじきに{PAWN_nameDef}の身柄を返してくるでしょう.</LentColonistDied>  
 
   <!-- Psylink -->
   <!-- EN: Psylink gained -->
   <LetterLabelPsylinkLevelGained>サイリンク上昇</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
-  <LetterPsylinkLevelGained_First>{USER_labelShort}は第1段階のサイリンクを獲得しました！{USER_pronoun}はいまや超能力者です。\n\n超能力を使用するには、瞑想によってサイフォーカスを蓄積する必要があります。特定のオブジェクトに焦点をあわせることにより、瞑想の効果が向上します。\n\n個々人が異なるオブジェクトを用います。これはバックストーリー、特性、爵位に応じて変わります。以下を参考にして下さい:\n\n- 爵位を有する人物は玉座で瞑想します。\n-部族出身の超能力者はアニマツリーや自然聖堂で瞑想します。\n-禁欲的な超能力者は壁に向かって瞑想します。\n-サイコパスの超能力者は墓で瞑想します。可能なら愛する人をその中に収めて下さい。\n\n瞑想のタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します。</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_First>{USER_labelShort}は第1段階のサイリンクを獲得しました！{USER_pronoun}はいまや超能力者です.\n\n超能力を使用するには,瞑想によってサイフォーカスを蓄積する必要があります.特定のオブジェクトに焦点をあわせることにより,瞑想の効果が向上します.\n\n個々人が異なるオブジェクトを用います.これはバックストーリー,特性,爵位に応じて変わります.以下を参考にしてください:\n\n- 爵位を有する人物は玉座で瞑想します\n- 部族出身の超能力者はアニマツリーや自然聖堂で瞑想します\n- 禁欲的な超能力者は壁に向かって瞑想します\n- サイコパスの超能力者は墓で瞑想します.可能なら愛する人をその中に収めてください\n\n瞑想のタイプを確認するには詳細ウィンドウをクリックして'i'ボタンを選択します.</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
-  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}は新たなレベルのサイリンクを獲得しました！高位の超能力を用いることができますが、{USER_pronoun}はまずそれを学ばなければなりません。</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}は新たなレベルのサイリンクを獲得しました！高位の超能力を用いることができますが,{USER_pronoun}はまずそれを学ばなければなりません.</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
-  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを獲得したため、{USER_labelShort}は自動的に以下の超能力を学びました: {2}</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsylinkLevelGained_PsycastLearned>新たなサイリンクレベルを獲得したため,{USER_labelShort}は自動的に以下の超能力を学びました: {2}</LetterPsylinkLevelGained_PsycastLearned>
   
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterPsychicInspiration>{CASTER_nameIndef}の精神的な暗示のおかげで、{PAWN_nameIndef}は奮い立ちました！</LetterPsychicInspiration>
+  <LetterPsychicInspiration>{CASTER_nameIndef}の精神的な暗示のおかげで,{PAWN_nameIndef}は奮い立ちました！</LetterPsychicInspiration>
 
   <!-- Join Offer -->
   <!-- EN: Join offer: {PAWN_nameDef} -->
   <LetterJoinOfferLabel>参加の申し出: {PAWN_nameDef}</LetterJoinOfferLabel>
   <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
-  <LetterJoinOfferTitle>{PAWN_nameDef}があなたの派閥に加わる事を望んでいます。</LetterJoinOfferTitle>
+  <LetterJoinOfferTitle>{PAWN_nameDef}があなたの派閥に加わることを望んでいます.</LetterJoinOfferTitle>
   <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
-  <LetterJoinOfferText>{PAWN_nameDef}は、自分が{MAP_definite}で幸せになれると信じています。{PAWN_pronoun}はこのコロニーに、永久に加わりたいと望んでいます。</LetterJoinOfferText>
+  <LetterJoinOfferText>{PAWN_nameDef}は,自分が{MAP_definite}で幸せになれると信じています.{PAWN_pronoun}はこのコロニーに,永久に加わりたいと望んでいます.</LetterJoinOfferText>
   <!-- EN: Accept -->
-  <LetterJoinOfferAccept>受諾</LetterJoinOfferAccept>
+  <LetterJoinOfferAccept>受け入れる</LetterJoinOfferAccept>
 
   <!-- EN: Bestowing ceremony expired -->
-  <LetterLabelBestowingCeremonyExpired>授与式は終了しました</LetterLabelBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyExpired>授与式が終了</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
-  <LetterTextBestowingCeremonyExpired>{TARGET_definite}が授与式に出席しませんでした。授与式はキャンセルされました。</LetterTextBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite}が授与式に出席しませんでした.授与式はキャンセルされました.</LetterTextBestowingCeremonyExpired>
+
+  <!-- EN: {TARGET_definite}'s title changed -->
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}の爵位が変更</LetterLabelBestowingCeremonyTitleUpdated>
+  <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite}は,予定されていた授与式を開く前に,新しい爵位を獲得しました.新しい爵位に合わせて授与を行うために,別の授与式が新しく予定されます.\n\n新しい授与式には,まだ授与されていないすべての爵位のサイリンクの報酬が含まれます.</LetterTextBestowingCeremonyTitleUpdated>
+  
+  <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort}は,{3}人の参列者を集めたことで,{FACTION_name}から敬意を表して{1}の名誉を与えられました.</LetterPartBestowingExtraHonor>
+  <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
+  <LetterPartNoExtraHonor>{PAWN_labelShort}は,参列者の数が少なかったため,特別な名誉を与えられませんでした.</LetterPartNoExtraHonor>
+  <!-- EN: All viewers of the ceremony received a mood bonus. -->
+  <LetterPartMoodBonus>授与式に参加した全ての参列者は,心情ボーナスを得ました.</LetterPartMoodBonus>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
-  <LetterTextHonorAward_BanditCamp>無法集団の野営地を倒した功績として、誰が{0}を受けますか？</LetterTextHonorAward_BanditCamp>
+  <LetterTextHonorAward_BanditCamp>無法集団の野営地を倒した功績として,誰が{0}を受けますか？</LetterTextHonorAward_BanditCamp>
 
   <!-- Shuttle crash -->
   <!-- EN: Shuttle crashed -->
-  <LetterLabelShuttleCrashed>シャトルが破壊された</LetterLabelShuttleCrashed>
+  <LetterLabelShuttleCrashed>シャトルが墜落した</LetterLabelShuttleCrashed>
   <!-- EN: A shuttle has crashed nearby -->
-  <LetterTextShuttleCrashed>船が付近で破壊された</LetterTextShuttleCrashed>
+  <LetterTextShuttleCrashed>シャトルが付近に墜落しました.</LetterTextShuttleCrashed>
 
-  <!-- UNUSED -->
-  <LetterTextHonorAward>取引要求を満たした功績として、誰が{0}を受けるべきですか？</LetterTextHonorAward>
+  <!-- Wanderer joins -->
+  <!-- EN: Transport pod crash: {0_nameDef} -->
+  <LetterLabelWandererJoinsAbasia>輸送ポッド事故: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
+  <LetterTextWandererJoinsAbasia>{0_nameDef}という{0_title}が乗った輸送ポッドが近くに墜落してきます.\n\n{0_nameDef}は{1_label}に苦しんでいるため,歩くことができなくなるでしょう.\n\n何日も経てば自然に回復します.また,運良くすぐに回復する可能性もあります.{1_label}は,手術によっても治癒が可能ですが,これには大量の最先端医薬品が必要になります.\n\n{0_pronoun}は回復すれば喜んでコロニーに貢献し,自発的に立ち去ることもありません.{0_nameDef}が必要ない場合は,{0_objective}追放するか,奴隷商に売るか,もしくは死なせることができます.しかし,他の入植者がこの不安にさせるような行動に気づくかもしれません.</LetterTextWandererJoinsAbasia>
 
 </LanguageData>

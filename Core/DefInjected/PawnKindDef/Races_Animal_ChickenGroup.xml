@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ニワトリ</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>メンドリ</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>オンドリ</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>ヒヨコ</Chicken.lifeStages.chick.label>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>ヒヨコ</Chicken.lifeStages.cockerel.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>カモ</Duck.label>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>子カモ</Duck.lifeStages.duckling.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>ガチョウ</Goose.label>
+  <!-- EN: geese -->
+  <Goose.labelPlural>ガチョウ</Goose.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>シチメンチョウ</Turkey.label>
+  
+</LanguageData>

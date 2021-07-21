@@ -4,16 +4,16 @@
   <!-- EN: defoliator -->
   <Defoliator.label>汚染装置</Defoliator.label>
   <!-- EN: An area-denial device which annihilates nearby plants without affecting animals.\n\nIn planetary wars, these weapons are scattered across farmlands or jungles to deny the enemy food or cover. They're usually associated with orbital-drop mechanoid swarms. -->
-  <Defoliator.description>動物に影響を与えることなく地域の植物を全滅させる戦域封鎖装置。\n\n惑星間戦争ではこれらの兵器が農地やジャングルにばらまかれ、敵の食料や隠れ場所を断ちます。それらは軌道降下するメカノイドの集団と関連性があります。</Defoliator.description>
+  <Defoliator.description>動物に影響を与えることなく地域の植物を全滅させる戦域封鎖装置です.\n\n惑星間戦争ではこれらの兵器が農地やジャングルにばらまかれ,敵の食料や隠れ場所を断ちます.それらは軌道降下するメカノイドの集団と関連性があります.</Defoliator.description>
   
-  <!-- EN: gloomlight -->
-  <Gloomlight.label>グルームライト</Gloomlight.label>
-  <!-- EN: A self-powered mechanoid light. Gloomlights can be deconstructed to yield valuable resources, or used as lights - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
-  <Gloomlight.description>自己発電型のメカノイドライトです。グルームライトは、有用な資源を回収するために解体したり、ライトとして使用したりできますが、ただしそれは、傷つけずに鹵獲できた場合のみに限られます。ユニットが大きなダメージを受けると、内部のマイクロ発電器が炎上し、資源を使い物にならなくします。</Gloomlight.description>
+  <!-- EN: mech node -->
+  <Gloomlight.label>メカノード</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>未知の技術で作られた,自己発電型のメカノイドノードです.メカノードは,有用な資源を回収するために解体できますが,ただしそれは,傷つけずに鹵獲できた場合のみに限られます.ユニットが大きなダメージを受けると,内部のマイクロ発電器が炎上し,資源を使い物にならなくします.</Gloomlight.description>
   
   <!-- EN: unstable power cell -->
   <UnstablePowerCell.label>変動性パワーコア</UnstablePowerCell.label>
   <!-- EN: A mechanoid power generation unit. The vanometric power core will run forever, extracting energy from quantum foam fluctuations.\n\nAn internal amplifier system makes it unstable. If damaged, the unit will generate a massive explosion.\n\nSome brave humans steal these from mechanoids for their own use as power plants or defensive bombs. However, an unintentional detonation can be devastating. -->
-  <UnstablePowerCell.description>メカノイドの発電ユニットです。量子泡のゆらぎを利用してエネルギーを取り出し、半永久的に稼働するワノメトリック発電器です。\n\n内部増幅システムのために不安定で、損傷すると大爆発します。発電や防衛用爆弾のために、これをメカノイドから盗もうと試みる勇敢な人間もいます。しかし、意図しない爆発は壊滅的な状況をもたらします。</UnstablePowerCell.description>
+  <UnstablePowerCell.description>メカノイドの発電ユニットです.量子泡のゆらぎを利用してエネルギーを取り出し,半永久的に稼働するワノメトリック発電器です.\n\n内部増幅システムのために不安定で,損傷すると大爆発します.発電や防衛用爆弾のために,これをメカノイドから盗もうと試みる勇敢な人間もいます.しかし,意図しない爆発は壊滅的な状況をもたらします.</UnstablePowerCell.description>
   
 </LanguageData>

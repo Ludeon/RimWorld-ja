@@ -43,16 +43,16 @@
     <li>prefix->[INITIATOR_definite]の[WEAPON_label][blast]</li>
     <li>prefix->[INITIATOR_definite]の[WEAPON_projectile_label]</li>
     <li>prefix->[INITIATOR_definite]の[WEAPON_label]</li>
-    <li>r_logentry->[prefix]は[RECIPIENT_definite]を[injured]</li>
+    <li>r_logentry->[prefix]は[RECIPIENT_definite]を[injured].</li>
     <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets][destroyed_past].</li>
-    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets][adverb_flavortext][destroyed_past].</li>
-    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets]を[adverb_flavortext][destroyed_past].</li>
+    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets][strikeAdv][destroyed_past].</li>
+    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets]を[strikeAdv][destroyed_past].</li>
     <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past],そして[RECIPIENT_possessive][damaged_targets]を[damaged_past].</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[RECIPIENT_definite]の[damaged_targets]を[damaged_past].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[RECIPIENT_definite]の[damaged_targets]を[adverb_flavortext][damaged_past].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[adverb_flavortext][RECIPIENT_definite]の[damaged_targets]を[damaged_past].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[RECIPIENT_definite]の[damaged_targets]を[strikeAdv][damaged_past].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[strikeAdv][RECIPIENT_definite]の[damaged_targets]を[damaged_past].</li>
     <li>r_logentry->[INITIATOR_definite]は[RECIPIENT_definite]を[damaged_past].</li>
-    <li>r_logentry->[INITIATOR_definite]は[adverb_flavortext][RECIPIENT_definite]を[damaged_past].</li>
+    <li>r_logentry->[INITIATOR_definite]は[strikeAdv][RECIPIENT_definite]を[damaged_past].</li>
     <li>r_logentry->[RECIPIENT_definite]を[damaged_past].</li>
     <!-- final fallbacks -->
     <li>r_logentry(p=0.001)->[RECIPIENT_definite]は爆風に巻かれた.</li>
@@ -125,30 +125,26 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]が [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past].</li>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]が [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past],それは [destroyed_suffix]になった.</li>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]が [RECIPIENT_definite]の [destroyed_targets]を [expertly] [destroyed_past].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]の [ORIGINALTARGET_definite]を狙って [WEAPON_projectile_label]は [missed],しかし [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]の [ORIGINALTARGET_definite]を狙って [WEAPON_projectile_label]は [missed],しかし [RECIPIENT_definite]の [destroyed_targets]を [destroyed_present].</li>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past].</li>
-    <li>r_logentry->[expert] [INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past].</li>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past],それは [destroyed_suffix]になった.</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]が[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past].</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]が[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past],それは[destroyed_suffix]になった.</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]の[ORIGINALTARGET_definite]を狙って[WEAPON_projectile_label]は[missed],しかし[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]の[ORIGINALTARGET_definite]を狙って[WEAPON_projectile_label]は[missed],しかし[RECIPIENT_definite]の[destroyed_targets]を[destroyed_present].</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past].</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past],それは[destroyed_suffix]になった.</li>
     <!-- various damaged options; don't show if something was destroyed -->
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [damaged_targets]を [damaged_past].</li>
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [damaged_targets]を [expertly] [damaged_past].</li>
-    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite]が [ORIGINALTARGET_definite]を狙って [WEAPON_projectile_label]は [missed],しかし[RECIPIENT_definite]の [damaged_targets]を [damaged_past].</li>
-    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite]が [ORIGINALTARGET_definite]を狙って [WEAPON_projectile_label]は [missed],しかし[RECIPIENT_definite]の [damaged_targets]を [damaged_present].</li>
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [damaged_targets]に [damagedverb_past].</li>
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [damaged_targets]に [expert] [damagedverb_past].</li>
+    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite]の[damaged_targets]を[damaged_past].</li>
+    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite]が[ORIGINALTARGET_definite]を狙って[WEAPON_projectile_label]は[missed],しかし[RECIPIENT_definite]の[damaged_targets]を[damaged_past].</li>
+    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite]が[ORIGINALTARGET_definite]を狙って[WEAPON_projectile_label]は[missed],しかし[RECIPIENT_definite]の[damaged_targets]を[damaged_present].</li>
+    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite]の[damaged_targets]に[damagedverb_past].</li>
     <!-- damaged/destroyed hybrid -->
-    <li>r_logentry(p=3)->[INITIATOR_definite]の [WEAPON_projectile_label]が [RECIPIENT_definite]の [destroyed_targets]を [destroy_past],さらに [RECIPIENT_possessive] [damaged_targets]を [damaged_past].</li>
-    <li>r_logentry(p=6)->[INITIATOR_definite]の [ORIGINALTARGET_definite]を狙って [WEAPON_projectile_label]を [missed],しかし [RECIPIENT_definite]の [destroyed_targets]を [destroyed_present], [RECIPIENT_possessive] [damaged_targets]を [damaged_present].</li>
+    <li>r_logentry(p=3)->[INITIATOR_definite]の[WEAPON_projectile_label]が[RECIPIENT_definite]の[destroyed_targets]を[destroy_past],さらに[RECIPIENT_possessive][damaged_targets]を[damaged_past].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite]の[ORIGINALTARGET_definite]を狙って[WEAPON_projectile_label]を[missed],しかし[RECIPIENT_definite]の[destroyed_targets]を[destroyed_present],[RECIPIENT_possessive][damaged_targets]を[damaged_present].</li>
     <!-- don't mention damage or destruction; uncommon, but intended as a fallback -->
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]は [RECIPIENT_definite]に [WEAPON_projectile_label]を当てた.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]に当たった.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]は [ORIGINALTARGET_definite]には当てられず, [WEAPON_projectile_label]は [RECIPIENT_definite]に命中.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]の [WEAPON_projectile_label]は [ORIGINALTARGET_definite]に当たらず,[RECIPIENT_definite]に命中した.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]は [ORIGINALTARGET_definite]に当てるつもりの [WEAPON_projectile_label]が [RECIPIENT_definite]に当たった.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]は[RECIPIENT_definite]に[WEAPON_projectile_label]を当てた.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite]に当たった.</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]は[ORIGINALTARGET_definite]には当てられず,[WEAPON_projectile_label]は[RECIPIENT_definite]に命中した.</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]の[WEAPON_projectile_label]は[ORIGINALTARGET_definite]に当たらず,[RECIPIENT_definite]に命中した.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]は[ORIGINALTARGET_definite]に当てるつもりの[WEAPON_projectile_label]が[RECIPIENT_definite]に当たった.</li>
     <!-- fallback, also a little variety -->
     <li>WEAPON_projectile_label(p=0.05)->放った弾</li>
     <li>destroyed_past->粉々にした</li>
@@ -176,13 +172,13 @@
     <li>damaged_past->突き刺した</li>
     <li>damaged_past->害した</li>
     <li>damaged_past->撃った</li>
-    <li>damaged_present->傷つけている</li>
-    <li>damaged_present->怪我させている</li>
-    <li>damaged_present->突き刺している</li>
-    <li>damaged_present->害している</li>
-    <li>damaged_present->撃っている</li>
+    <li>damaged_present->傷つける</li>
+    <li>damaged_present->怪我させる</li>
+    <li>damaged_present->突き刺す</li>
+    <li>damaged_present->害する</li>
+    <li>damaged_present->撃つ</li>
     <li>damaged_suffix->悪いやり方で</li>
-    <li>damaged_suffix(recipient_flesh!=Mechanoid)->血まみれでwith visible blood</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->血まみれで</li>
     <li>damaged_suffix(recipient_flesh!=Mechanoid)->生々しく</li>
     <li>to->へ</li>
     <li>to->中へ</li>
@@ -218,7 +214,7 @@
   <Combat_RangedDeflect.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target]を[damaged_past],そして[deflected_result].</li>
     <li>r_logentry(p=2)->[INITIATOR_definite]の[WEAPON_projectile_label]は[ORIGINALTARGET_definite]を[missed],そして[RECIPIENT_definite][damaged_target_possessive_opt]を[damaged_past],[deflected_result].</li>
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target_possessive_opt]を[damaged_past],[deflected_result].</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target_possessive_opt]を[damaged_past],[deflected_result].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite]は[WEAPON_projectile_label]を[RECIPIENT_definite][damaged_target_possessive_opt]に命中させ[deflected_result].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target_possessive_opt]に当たり[deflected_result].</li>
     <li>r_logentry(p=0.4)->[INITIATOR_definite]は[ORIGINALTARGET_definite]を[missed],そして[WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target_possessive_opt]に当たり[deflected_result].</li>
@@ -272,25 +268,25 @@
     <li>verb_shot(p=0.2)->discharged</li>
   -->
   <Combat_RangedFire.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は [INITIATOR_possessive] [WEAPON_label]で [RECIPIENT_definite]を [shotat].</li>
-    <li>r_logentry->[INITIATOR_definite]は [INITIATOR_possessive] [WEAPON_label]で [RECIPIENT_definite]を狙って [shot].</li>
-    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]に向けて [shotat].</li>
-    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]を狙って [WEAPON_projectile_label]を [burst] [shot].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [WEAPON_projectile_label]を [shot].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [INITIATOR_possessive] [WEAPON_label]を [shot].</li>
-    <li>shot_a->[adverb_shot] [verb_shot]</li>
-    <li>shot_a(p=2)->[verb_shot] a</li>
+    <li>r_logentry->[INITIATOR_definite]は[INITIATOR_possessive][WEAPON_label]で[RECIPIENT_definite]を[shotat].</li>
+    <li>r_logentry->[INITIATOR_definite]は[INITIATOR_possessive][WEAPON_label]で[RECIPIENT_definite]を狙って[shot].</li>
+    <li>r_logentry->[INITIATOR_definite]は[RECIPIENT_definite]に向けて[shotat].</li>
+    <li>r_logentry->[INITIATOR_definite]は[RECIPIENT_definite]を狙って[WEAPON_projectile_label]を[burst][shot].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は[WEAPON_projectile_label]を[shot].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は[INITIATOR_possessive][WEAPON_label]を[shot].</li>
+    <li>shot_a(p=2)->[verb_shot]</li>
+    <li>shot_a->[adverb_shot][verb_shot]</li>
     <li>shot(p=2)->[verb_shot]</li>
-    <li>shot->[adverb_shot] [verb_shot]</li>
-    <li>shotat->狙って[aburst] 撃った</li>
-    <li>shotat->[adverb_shot]狙って [aburst]撃った</li>
-    <li>shotat(p=0.5)->狙って [aburst]撃ってみた</li>
+    <li>shot->[adverb_shot][verb_shot]</li>
+    <li>shotat->狙って[aburst]撃った</li>
+    <li>shotat->[adverb_shot]狙って[aburst]撃った</li>
+    <li>shotat(p=0.5)->狙って[aburst]撃ってみた</li>
     <li>shotat(p=0.3)->撃ってみた</li>
     <li>shotat(p=0.2)->[adjective_shot]射撃した</li>
     <li>shotat->[aburst]発砲した</li>
-    <li>shotat->[adverb_shot] [aburst]発砲した</li>
-    <li>shotat(p=0.5)->狙って [aburst]発砲した</li>
-    <li>shotat(p=0.3)->[adverb_shot]狙って [aburst]発砲した</li>
+    <li>shotat->[adverb_shot][aburst]発砲した</li>
+    <li>shotat(p=0.5)->狙って[aburst]発砲した</li>
+    <li>shotat(p=0.3)->[adverb_shot]狙って[aburst]発砲した</li>
     <li>aburst->一発だけ</li>
     <li>aburst(BURST==True,p=3)->連続して</li>
     <li>burst->一発だけ</li>
@@ -338,14 +334,14 @@
     <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]に向けて [INITIATOR_possessive] [WEAPON_projectile_label]を [threw].</li>
-    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]に向けて [WEAPON_projectile_label]を [threw_a].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [INITIATOR_possessive] [WEAPON_projectile_label]を [threw].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [WEAPON_projectile_label]を [threw_a].</li>
-    <li>threw_a->[adverb_threw] [verb_threw]</li>
-    <li>threw_a(p=2)->[verb_threw] a</li>
+    <li>r_logentry->[INITIATOR_definite]は[RECIPIENT_definite]に向けて[INITIATOR_possessive][WEAPON_projectile_label]を[threw].</li>
+    <li>r_logentry->[INITIATOR_definite]は[RECIPIENT_definite]に向けて[WEAPON_projectile_label]を[threw_a].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は[INITIATOR_possessive][WEAPON_projectile_label]を[threw].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は[WEAPON_projectile_label]を[threw_a].</li>
+    <li>threw_a->[adverb_threw][verb_threw]</li>
+    <li>threw_a(p=2)->[verb_threw]</li>
     <li>threw(p=2)->[verb_threw]</li>
-    <li>threw->[adverb_threw] [verb_threw]</li>
+    <li>threw->[adverb_threw][verb_threw]</li>
     <li>verb_threw->発射した</li>
     <li>verb_threw->発射した</li>
     <li>verb_threw->発射した</li>
@@ -409,7 +405,7 @@
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[missed].</li>
-    <li>r_logentry->[INITIATOR_definite]は[ORIGINALTARGET_definite]を狙って外した</li>
+    <li>r_logentry->[INITIATOR_definite]は[ORIGINALTARGET_definite]を狙って外した.</li>
     <li>r_logentry->[ORIGINALTARGET_definite]は[avoidance],[INITIATOR_definite]の[WEAPON_projectile_label]は[missing].</li>
     <li>missed(p=4)->当たらなかった</li>
     <li>missed(p=2)->僅かな差で外した</li>
@@ -438,7 +434,7 @@
     <li>missing->[ORIGINALTARGET_definite]から数メートルの所をかする</li>
     <li>missing->何処かへ飛んでいく</li>
     <li>avoidance(ORIGINALTARGET_mobile==True)->最後の数秒で脇へ身を引いた</li>
-    <li>avoidance(ORIGINALTARGET_mobile==True)->逃げようとしてる時につまづいた</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->逃げようとしてるときにつまづいた</li>
     <li>avoidance(ORIGINALTARGET_mobile==True)->身を投げ出した</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[COVER_definite]の陰に身を隠した</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[COVER_definite]の陰に飛び込んだ</li>

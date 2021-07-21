@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>アルファビーバー</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>機械のような効率で木を集めるために遺伝子操作された,ビーバーのような大きな生き物です.彼ら専用の飼料が欠乏したとき,木全体を食べてしまう躁状態になります.そして邪魔をすれば,おそらく攻撃してきます.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>左爪</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>右爪</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>頭部</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>コブラ</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>大きくて捕食性のヘビです.怒らせると非常に攻撃的になるので,近寄らない方が良いですし,噛むと被害者の体内に毒を注入します.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>コブラ肉</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>毒牙</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>頭部</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>スランボ</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>出所不明な超巨大で優美な生物です.本来,スランボはおとなしい生物ですが,怒らせると極めて危険です.その長い毛皮は群を抜いて美しく貴重なうえに,その革も信じられないくらいにダメージに耐えます.非常に鋭い角は,ほとんどのマーケットで値がつけられません.\n\n伝説によると,年老いたスランボは全宇宙の中で,もっとも賢い生物とされていますが,言葉で話すことはしません.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>角</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>左足</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>右足</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>頭部</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>カメ</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>この硬い甲羅で覆われた爬虫類は,歩く速度がとても遅い反面,驚くほど素早く噛むことで知られています.その自然な鎧によって,殺すことは難しく,近接戦闘が長引くと深刻なダメージを受ける可能性があります.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>嘴</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>頭部</Tortoise.tools.head.label>
+  
+</LanguageData>

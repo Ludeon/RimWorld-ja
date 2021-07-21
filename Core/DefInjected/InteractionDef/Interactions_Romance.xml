@@ -10,10 +10,10 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に別れを求めた</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に距離を置くことを求めた</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に伝えた,あなたが何を考えているのか分からないことを</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に伝えた,他の人に目を向けたほうが一番いいことになるだろうと</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に別れを求めた.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に距離を置くことを求めた.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に伝えた,あなたが何を考えているのか分からないことを.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に伝えた,他の人に目を向けたほうが一番いいことになるだろうと.</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
@@ -24,9 +24,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に結婚のプロポーズをした</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を生涯の伴侶としてプロポーズした</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に伝えた,[INITIATOR_pronoun]は[INITIATOR_possessive]人生を共に過ごしたいことを</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に結婚のプロポーズをした.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を生涯の伴侶としてプロポーズした.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に伝えた,[INITIATOR_pronoun]は[INITIATOR_possessive]人生を共に過ごしたいことを.</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
@@ -94,7 +94,7 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[wootactic][RECIPIENT_nameDef][wooed]</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[wootactic][RECIPIENT_nameDef][wooed].</li>
     <li>wooed->を弄ぼうとしてみた</li>
     <li>wooed->をもてあそんだ</li>
     <li>wooed->を惹きつけようとしてみた</li>
@@ -111,16 +111,16 @@
     <li>wootactic->[RECIPIENT_objective][romantic_adj][romantic_noun]にたとえながら</li>
     <li>wootactic->[RECIPIENT_objective][romantic_adj][romantic_noun]として言葉で表しながら</li>
     <li>boasting->について自慢しながら</li>
-    <li>boasting->の事を話しに出しながら</li>
+    <li>boasting->のことを話しに出しながら</li>
     <li>boasting->について良いことをほのめかしながら</li>
     <li>boasting->を大げさにいいながら</li>
-    <li>boasting->の事を話しながら</li>
+    <li>boasting->のことを話しながら</li>
     <li>boasting->に注意をむけながら</li>
     <li>complimenting(p=3)->を褒めながら</li>
     <li>complimenting->のずるいお世辞を述べながら</li>
     <li>complimenting->を叫びながら</li>
     <li>complimenting->を賞賛しながら</li>
-    <li>complimenting->のいい事を言いながら</li>
+    <li>complimenting->のいいことを言いながら</li>
     <li>complimenting(p=2)->の冗談をいいながら</li>
     <li>complimenting->をじゃれてつつきながら</li>
     <li>complimenting->を冗談半分に褒めながら</li>

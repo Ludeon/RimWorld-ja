@@ -4,12 +4,12 @@
   <!-- EN: cataphract armor -->
   <Apparel_ArmorCataphract.label>カタフラクトアーマー</Apparel_ArmorCataphract.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
-  <Apparel_ArmorCataphract.description>機動性を犠牲にして、最大限の防御を実現するために設計された重パワーアーマーです。堅牢なアグレーティブコーティングを施した重層プラスチールウィーブが、狙撃や強力な攻撃を除くあらゆるダメージを防ぎます。ニューロミメティックアシスタントが、スーツの重量によって着用者が身動きできなくなるのを防ぎますが、依然として扱いにくい代物です。\n\nこうした防具は、要塞化された陣地を正面攻撃で突破する以外に方法がない時に、帝国のカタフラクト部隊によって使用されます。</Apparel_ArmorCataphract.description>
+  <Apparel_ArmorCataphract.description>機動性を犠牲にして,最大限の防御を実現するために設計された重パワーアーマーです.堅牢なアブレーティブ塗装を施した重層プラスチール繊維が,狙撃や強力な攻撃を除くあらゆるダメージを防ぎます.神経記憶補助装置が,スーツの重量によって着用者が身動きできなくなるのを防ぎますが,依然として扱いにくい代物です.\n\nこうした防具は,要塞化された陣地を正面攻撃で突破する以外に方法がない場合に,帝国のカタフラクト部隊によって使用されます.</Apparel_ArmorCataphract.description>
   
   <!-- EN: phoenix armor -->
   <Apparel_ArmorCataphractPhoenix.label>フェニックスアーマー</Apparel_ArmorCataphractPhoenix.label>
   <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
-  <Apparel_ArmorCataphractPhoenix.description>肩掛け式フレイムボルトランチャーを備えたカタクラフトアーマーの一種です。このアーマーは、普通の攻撃に対する防御力が通常のカタクラフトアーマーより僅かに劣りますが、その代わり炎に対する耐性が非常に優れています。フレイムボトルランチャーの弾数は非常に少なく、使用後は再補充を行う必要があります。\n\nフェニックス部隊は、地下や船上での軍事作戦のような、敵で満たされた非常に狭い空間を一掃する事を専門としています。彼らは通路を突き進みながら銃撃を吸収し、部屋を炎で満たし、無傷で煙の中から出てくる事ができます。</Apparel_ArmorCataphractPhoenix.description>
+  <Apparel_ArmorCataphractPhoenix.description>肩掛け式フレイムボルトランチャーを備えたカタフラクトアーマーの一種です.このアーマーは,普通の攻撃に対する防御力が通常のカタフラクトアーマーより僅かに劣りますが,その代わり炎に対する耐性が非常に優れています.フレイムボトルランチャーの弾数は非常に少なく,使用後は再補充を行う必要があります.\n\nフェニックス部隊は,地下や船上での軍事作戦のような,敵で満たされた非常に狭い空間を一掃することを専門としています.彼らは通路を突き進みながら銃撃を吸収し,部屋を炎で満たし,無傷で煙の中から出てくることができます.</Apparel_ArmorCataphractPhoenix.description>
   <!-- EN: incendiary -->
   <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>焼夷弾</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
   <!-- EN: launch incendiary -->
@@ -18,27 +18,27 @@
   <!-- EN: prestige cataphract armor -->
   <Apparel_ArmorCataphractPrestige.label>特級カタフラクトアーマー</Apparel_ArmorCataphractPrestige.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorCataphractPrestige.description>機動性を犠牲にして、最大限の防御を実現するために設計された重パワーアーマーです。堅牢なアグレーティブコーティングを施した重層プラスチールウィーブが、狙撃や強力な攻撃を除くあらゆるダメージを防ぎます。ニューロミメティックアシスタントが、スーツの重量によって着用者が身動きできなくなるのを防ぎますが、依然として扱いにくい代物です。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorCataphractPrestige.description>
+  <Apparel_ArmorCataphractPrestige.description>機動性を犠牲にして,最大限の防御を実現するために設計された重パワーアーマーです.堅牢なアブレーティブ塗装を施した重層プラスチール繊維が,狙撃や強力な攻撃を除くあらゆるダメージを防ぎます.神経記憶補助装置が,スーツの重量によって着用者が身動きできなくなるのを防ぎますが,依然として扱いにくい代物です.\n\nこのような高価で,美しく,威信のある鎧は,高い地位を持つ人のために作られています.織り込まれたエルテックス繊維は,着用者の精神感応性を向上させます.</Apparel_ArmorCataphractPrestige.description>
   
   <!-- EN: cataphract helmet -->
   <Apparel_ArmorHelmetCataphract.label>カタフラクトヘルメット</Apparel_ArmorHelmetCataphract.label>
   <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
-  <Apparel_ArmorHelmetCataphract.description>堅牢なプラスチール素材の外殻と全周囲を視野に入れる間接視覚システムを備えたハイテクヘルメットです。強力な攻撃や打ち所の悪い射撃を除くあらゆるダメージを防ぎます。\n\nこうした防具は、要塞化された陣地を正面攻撃で突破する以外に方法がない時に、帝国のカタフラクト部隊によって使用されます。</Apparel_ArmorHelmetCataphract.description>
+  <Apparel_ArmorHelmetCataphract.description>堅牢なプラスチール素材の外殻と全周囲を視野に入れる間接視覚システムを備えたハイテクヘルメットです.強力な攻撃や打ち所の悪い射撃を除くあらゆるダメージを防ぎます.\n\nこうした防具は,要塞化された陣地を正面攻撃で突破する以外に方法がない場合に,帝国のカタフラクト部隊によって使用されます.</Apparel_ArmorHelmetCataphract.description>
   
   <!-- EN: prestige cataphract helmet -->
   <Apparel_ArmorHelmetCataphractPrestige.label>特級カタフラクトヘルメット</Apparel_ArmorHelmetCataphractPrestige.label>
   <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorHelmetCataphractPrestige.description>堅牢なプラスチール素材の外殻と全周囲を視野に入れる間接視覚システムを備えたハイテクヘルメットです。強力な攻撃や打ち所の悪い射撃を除くあらゆるダメージを防ぎます。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorHelmetCataphractPrestige.description>
+  <Apparel_ArmorHelmetCataphractPrestige.description>堅牢なプラスチール素材の外殻と全周囲を視野に入れる間接視覚システムを備えたハイテクヘルメットです.強力な攻撃や打ち所の悪い射撃を除くあらゆるダメージを防ぎます.\n\nこのような高価で,美しく,威信のある鎧は,高い地位を持つ人のために作られています.織り込まれたエルテックス繊維は,着用者の精神感応性を向上させます.</Apparel_ArmorHelmetCataphractPrestige.description>
   
   <!-- EN: prestige recon helmet -->
-  <Apparel_ArmorHelmetReconPrestige.label>特級リーコンヘルメット</Apparel_ArmorHelmetReconPrestige.label>
+  <Apparel_ArmorHelmetReconPrestige.label>特級レコンヘルメット</Apparel_ArmorHelmetReconPrestige.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorHelmetReconPrestige.description>ステータス管理コンピューターが内蔵され、プラスチール繊維の積層装甲板で覆われたハイテク装甲ヘルメットです。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorHelmetReconPrestige.description>
+  <Apparel_ArmorHelmetReconPrestige.description>ステータス管理コンピューターが内蔵され,プラスチール繊維の積層装甲板で守られたハイテク装甲ヘルメットです.\n\nこのような高価で,美しく,威信のある鎧は,高い地位を持つ人のために作られています.織り込まれたエルテックス繊維は,着用者の精神感応性を向上させます.</Apparel_ArmorHelmetReconPrestige.description>
   
   <!-- EN: locust armor -->
   <Apparel_ArmorLocust.label>ローカストアーマー</Apparel_ArmorLocust.label>
   <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
-  <Apparel_ArmorLocust.description>短距離飛行用のバーストロケットを備えた、バッタの名を冠するリコーンアーマーの一種です。ローカストアーマーの防御力は、通常のリコーンアーマーより僅かに劣ります。ジャンプを行うたび、燃料を一気に消費してしまうため、何度か使用した後は再補充を行う必要があります。\n\nローカスト部隊は主に、最先端技術を用いた軍組織のほとんどとは異なり、近接武器を用いて訓練します。彼らは通常、動きの少ない銃撃戦を避け、敵に真っ直ぐジャンプを行い、格闘戦に持ち込む方を選びます。動きの少ない防衛戦や狭い区画では力を発揮できませんが、混戦や船の破壊工作には優れています。</Apparel_ArmorLocust.description>
+  <Apparel_ArmorLocust.description>短距離飛行用のバーストロケットを備えた,バッタの名を冠するレコンアーマーの一種です.ローカストアーマーの防御力は,通常のレコンアーマーより僅かに劣ります.ジャンプを行うたび,燃料を一気に消費してしまうため,何度か使用した後は再補充を行う必要があります.\n\nローカスト部隊は主に,最先端技術を用いた軍組織のほとんどとは異なり,近接武器を用いて訓練します.彼らは通常,動きの少ない銃撃戦を避け,敵に真っ直ぐジャンプを行い,格闘戦に持ち込む方を選びます.動きの少ない防衛戦や狭い区画では力を発揮できませんが,混戦や船の破壊工作には優れています.</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
   <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
   <!-- EN: jump -->
@@ -47,26 +47,31 @@
   <!-- EN: grenadier armor -->
   <Apparel_ArmorMarineGrenadier.label>グレネードアーマー</Apparel_ArmorMarineGrenadier.label>
   <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
-  <Apparel_ArmorMarineGrenadier.description>肩にフラグランチャーを備えた、マリーンアーマーの一種です。このアーマーの防御力は、通常のマリーンアーマーより僅かに劣ります。ランチャーには限られた弾数しか装填できないため、使用後は再補充を行う必要があります。\n\nグレネード部隊は通常、船内の隔壁や建物の突破を専門としています。非常に長い射程ではあまり効果を見せませんが、狭い区画では驚くほど致命的になる可能性があります。</Apparel_ArmorMarineGrenadier.description>
+  <Apparel_ArmorMarineGrenadier.description>肩にフラグランチャーを備えた,マリーンアーマーの一種です.このアーマーの防御力は,通常のマリーンアーマーより僅かに劣ります.ランチャーには限られた弾数しか装填できないため,使用後は再補充を行う必要があります.\n\nグレネード部隊は通常,船内の隔壁や建物の突破を専門としています.非常に長い射程ではあまり効果を見せませんが,狭い区画では驚くほど致命的になる可能性があります.</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
   <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>グレネード</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
   <!-- EN: launch frag grenade -->
   <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>グレネードを発射</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
   
   <!-- EN: prestige marine helmet -->
-  <Apparel_ArmorMarineHelmetPrestige.label>特級マリーンアーマー</Apparel_ArmorMarineHelmetPrestige.label>
+  <Apparel_ArmorMarineHelmetPrestige.label>特級マリーンヘルメット</Apparel_ArmorMarineHelmetPrestige.label>
   <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorMarineHelmetPrestige.description>ステータス管理コンピューターが内蔵され、プラスチール繊維の積層装甲板で覆われた宇宙海兵隊の装甲ヘルメットです。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorMarineHelmetPrestige.description>
+  <Apparel_ArmorMarineHelmetPrestige.description>ステータス管理コンピューターが内蔵され,プラスチール繊維の積層装甲板で覆われた,マリーンアーマーヘルメットです.\n\nこのような高価で,美しく,威信のある鎧は,高い地位を持つ人のために作られています.織り込まれたエルテックス繊維は,着用者の精神感応性を向上させます.</Apparel_ArmorMarineHelmetPrestige.description>
   
   <!-- EN: prestige marine armor -->
-  <Apparel_ArmorMarinePrestige.label>特級マリーンヘルメット</Apparel_ArmorMarinePrestige.label>
+  <Apparel_ArmorMarinePrestige.label>特級マリーンアーマー</Apparel_ArmorMarinePrestige.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorMarinePrestige.description>軽装パワードアーマー一式です。層状のプラスチール装甲が、攻撃を非常に効果的に防ぎ、脆弱な関節部分もごく僅かです。神経記憶補助装置によって鎧を身に着けた状態でも移動に支障はありません。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorMarinePrestige.description>
+  <Apparel_ArmorMarinePrestige.description>軽装パワーアーマーの一式です.層状のプラスチール装甲が,攻撃を非常に効果的に防ぎ,脆弱な関節部分もごく僅かです.神経記憶補助装置によって,鎧を身に着けた状態でも移動に支障はありません.\n\nこのような高価で,美しく,威信のある鎧は,高い地位を持つ人のために作られています.織り込まれたエルテックス繊維は,着用者の精神感応性を向上させます.</Apparel_ArmorMarinePrestige.description>
   
   <!-- EN: prestige recon armor -->
-  <Apparel_ArmorReconPrestige.label>特級リーコンアーマー</Apparel_ArmorReconPrestige.label>
+  <Apparel_ArmorReconPrestige.label>特級レコンアーマー</Apparel_ArmorReconPrestige.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorReconPrestige.description>迅速な行動を可能にするように設計され、部分的に軽量化された軽装装甲なパワーアーマーです。軽量なプラスチール製の装甲板は、機動性を損なうことなく敵の攻撃を防ぎ、下半身に取り付けられた神経記憶補助装置によって人間がアーマーを装着したままでも簡単に移動する事が可能です。\n\nこのような高価で、美しく、威信ある鎧は、高い地位を持つ人のために作られています。織り込まれたエルテックス繊維は、着用者の精神感応性を向上させます。</Apparel_ArmorReconPrestige.description>
+  <Apparel_ArmorReconPrestige.description>迅速な行動を可能にするように設計された,軽量な部分的パワーアーマーです.軽量なプラスチール製の装甲板は,機動性を損なうことなく敵の攻撃を防ぎ,下半身に取り付けられた神経記憶補助装置によって人間がアーマーを装着したままでも簡単に移動することが可能です.\n\nこのような高価で,美しく,威信のある鎧は,高い地位を持つ人のために作られています.織り込まれたエルテックス繊維は,着用者の精神感応性を向上させます.</Apparel_ArmorReconPrestige.description>
+  
+  <!-- EN: gunlink -->
+  <Apparel_Gunlink.label>ガンリンク</Apparel_Gunlink.label>
+  <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
+  <Apparel_Gunlink.description>装着者の照準を補助する,照準コンピューターです.赤外線,可視,ミリ波の電磁センサーを使用し,ターゲットを検出及び分析します.搭載された照準コンピューターは,網膜投影技術を用いて適切な射撃位置を表示します.防御力は全くありません.</Apparel_Gunlink.description>
   
   <!-- EN: incendiary grenade -->
   <Proj_GrenadePhoenixFire.label>焼夷擲弾</Proj_GrenadePhoenixFire.label>

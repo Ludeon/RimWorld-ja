@@ -95,7 +95,7 @@
   <!-- EN: Mental state: Murderous rage -->
   <MurderousRage.baseInspectLine>精神状態: 激情の殺意</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
-  <MurderousRage.beginLetter>{0}は激情の殺意へと感情が流れた.\n\n[PAWN_pronoun]は,{1}を殺す事に決めた.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetter>{0}は激情の殺意へと感情が流れた.\n\n[PAWN_pronoun]は,{1}を殺すことに決めた.</MurderousRage.beginLetter>
   <!-- EN: {0} is no longer in a murderous rage. -->
   <MurderousRage.recoveryMessage>{0}の激情した殺意は無くなった.</MurderousRage.recoveryMessage>
   
@@ -129,7 +129,7 @@
   <!-- EN: insulting spree -->
   <TargetedInsultingSpree.label>侮辱・放言(人物)</TargetedInsultingSpree.label>
   <!-- EN: Mental state: Insulting spree against {0} -->
-  <TargetedInsultingSpree.baseInspectLine>精神状態: {1}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>精神状態: {0}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
   <TargetedInsultingSpree.beginLetter>{0}は[PAWN_possessive]怒りの矛先を{1}にだけ向ける.\n\n[PAWN_pronoun]は{1}をつけ回して侮辱し続けます.</TargetedInsultingSpree.beginLetter>
   <TargetedInsultingSpree.beginLetterLabel>侮辱・放言(人物)</TargetedInsultingSpree.beginLetterLabel>

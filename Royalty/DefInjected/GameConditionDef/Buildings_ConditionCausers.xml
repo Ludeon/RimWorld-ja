@@ -4,62 +4,62 @@
   <!-- EN: climate adjustment -->
   <ClimateAdjustment.label>気候調整</ClimateAdjustment.label>
   <!-- EN: A nearby climate adjuster is shifting the temperature. -->
-  <ClimateAdjustment.description>付近の気候調整機が温度を変化させています。</ClimateAdjustment.description>
+  <ClimateAdjustment.description>付近の気候調整機が温度を変化させています.</ClimateAdjustment.description>
   <!-- EN: A climate adjuster machine has begun shifting the temperature. -->
-  <ClimateAdjustment.letterText>気候調整機が温度を変化させ始めました。</ClimateAdjustment.letterText>
+  <ClimateAdjustment.letterText>気候調整機が温度を変化させ始めました.</ClimateAdjustment.letterText>
   
   <!-- EN: EMI field -->
   <EMIField.label>EMIフィールド</EMIField.label>
   <!-- EN: An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices. -->
-  <EMIField.description>電磁妨害ダイナモがEMIフィールドを展開しました。電子機器が無力化されます。</EMIField.description>
+  <EMIField.description>電磁妨害ダイナモが,EMIフィールドを展開しました.電子機器が無力化されます.</EMIField.description>
   <!-- EN: a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration] -->
-  <EMIField.descriptionFuture>遠方に設置されるEMIダイナモがEMIフィールドを[map_definite]に発動し、電子機器が[gameConditionDuration_duration]の間、 無力化されます</EMIField.descriptionFuture>
+  <EMIField.descriptionFuture>遠方に設置されるEMIダイナモがEMIフィールドを[map_definite]に発動し,電子機器が[gameConditionDuration_duration]の間,無力化されます</EMIField.descriptionFuture>
   <!-- EN: The EMI field has disappeared. -->
-  <EMIField.endMessage>EMIフィールドが消滅しました。</EMIField.endMessage>
+  <EMIField.endMessage>EMIフィールドが消滅しました.</EMIField.endMessage>
   <!-- EN: An EMI field has been generated. It is disabling electrical devices. -->
-  <EMIField.letterText>EMIフィールドが展開されました。電子機器が無力化されます。</EMIField.letterText>
+  <EMIField.letterText>EMIフィールドが展開されました.電子機器が無力化されます.</EMIField.letterText>
   
   <!-- EN: giant smoke cloud -->
   <GiantSmokeCloud.label>巨大な煙雲</GiantSmokeCloud.label>
   <!-- EN: A nearby smoke spewer is reducing sunlight in this region. -->
-  <GiantSmokeCloud.description>付近のスモーク噴霧器がこの地域の日照を減らしています。</GiantSmokeCloud.description>
+  <GiantSmokeCloud.description>付近のスモーク噴霧器がこの地域の日照を減らしています.</GiantSmokeCloud.description>
   <!-- EN: A smoke spewer machine has begun obscuring the sun. -->
-  <GiantSmokeCloud.letterText>スモーク噴霧器によって太陽が遮られ始めました。</GiantSmokeCloud.letterText>
+  <GiantSmokeCloud.letterText>スモーク噴霧器によって太陽が遮られ始めました.</GiantSmokeCloud.letterText>
   
   <!-- EN: psychic suppression -->
   <PsychicSuppression.label>サイコサプレッション</PsychicSuppression.label>
   <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.description>サイコサプレッションフィールドが{0}の精神に影響を及ぼし、{0}の意識を低下させています。個人のサイキック感度によって効果が変わります。</PsychicSuppression.description>
+  <PsychicSuppression.description>サイコサプレッションフィールドが{0}の精神に影響を及ぼし,{0}の意識を低下させています.個人のサイキック感度によって効果が変わります.</PsychicSuppression.description>
   <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
-  <PsychicSuppression.descriptionFuture>サイコサプレッションが[map_definite]の付近にいる全ての[psychicSuppressorGender]の意識を[gameConditionDuration_duration]の間、 低下させます</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.descriptionFuture>サイコサプレッションが[map_definite]の付近にいる全ての[psychicSuppressorGender]の意識を[gameConditionDuration_duration]の間,低下させます</PsychicSuppression.descriptionFuture>
   <!-- EN: The psychic suppressor field has dissipated. -->
-  <PsychicSuppression.endMessage>サイコサプレッションフィールドが消滅しました。</PsychicSuppression.endMessage>
+  <PsychicSuppression.endMessage>サイコサプレッションフィールドが消滅しました.</PsychicSuppression.endMessage>
   <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.letterText>サイコサプレッションフィールドが地域全体の{0}の意識を低下させ始めました。個人のサイキック感度によって効果が変わります。</PsychicSuppression.letterText>
+  <PsychicSuppression.letterText>サイコサプレッションフィールドが地域全体の{0}の意識を低下させ始めました.個人のサイキック感度によって効果が変わります.</PsychicSuppression.letterText>
   
   <!-- EN: sun blocked -->
   <SunBlocker.label>サンブロッカー</SunBlocker.label>
   <!-- EN: A nearby sun blocker machine is turning the upper atmosphere opaque, blocking the sun. -->
-  <SunBlocker.description>付近のサンブロッカーが上層大気を濁らせ、太陽を遮っています。</SunBlocker.description>
+  <SunBlocker.description>付近のサンブロッカーが上層大気を濁らせ,太陽を遮っています.</SunBlocker.description>
   <!-- EN: A sun blocker machine has begun blocking the sun. -->
-  <SunBlocker.letterText>サンブロッカーが太陽を遮り始めました。</SunBlocker.letterText>
+  <SunBlocker.letterText>サンブロッカーが太陽を遮り始めました.</SunBlocker.letterText>
   
   <!-- EN: toxic spewer -->
   <ToxicSpewer.label>毒物噴霧器</ToxicSpewer.label>
   <!-- EN: A nearby toxic spewer is blanketing this whole region with poison. -->
-  <ToxicSpewer.description>付近の毒物噴霧器がこの地域全体を有毒ガスで覆っています。</ToxicSpewer.description>
+  <ToxicSpewer.description>付近の毒物噴霧器がこの地域全体を有毒ガスで覆っています.</ToxicSpewer.description>
   <!-- EN: A toxic spewer machine has begun blanketing the whole region with poison. -->
-  <ToxicSpewer.letterText>毒物噴霧器が地域全体を有毒ガスで覆い始めました。</ToxicSpewer.letterText>
+  <ToxicSpewer.letterText>毒物噴霧器が地域全体を有毒ガスで覆い始めました.</ToxicSpewer.letterText>
   
   <!-- EN: forced weather -->
   <WeatherController.label>ウェザーコントローラ</WeatherController.label>
   <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
-  <WeatherController.description>付近のウェザーコントローラが強制的に天気を変化させています。</WeatherController.description>
+  <WeatherController.description>付近のウェザーコントローラが強制的に天気を変化させています.</WeatherController.description>
   <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
-  <WeatherController.descriptionFuture>ウェザーコントローラが[map_definite]周辺の天気を[gameConditionDuration_duration]の間、 [forcedWeather_indefinite]に強制的に変更します</WeatherController.descriptionFuture>
+  <WeatherController.descriptionFuture>ウェザーコントローラが[map_definite]周辺の天気を[gameConditionDuration_duration]の間,[forcedWeather_indefinite]に強制的に変更します</WeatherController.descriptionFuture>
   <!-- EN: The weather controller is no longer changing the weather. -->
-  <WeatherController.endMessage>ウェザーコントローラは天気への干渉を停止しました。</WeatherController.endMessage>
+  <WeatherController.endMessage>ウェザーコントローラは天気への干渉を停止しました.</WeatherController.endMessage>
   <!-- EN: A weather controller machine has begun affecting the weather. -->
-  <WeatherController.letterText>ウェザーコントローラは天気に影響を与え始めました。</WeatherController.letterText>
+  <WeatherController.letterText>ウェザーコントローラは天気に影響を与え始めました.</WeatherController.letterText>
   
 </LanguageData>

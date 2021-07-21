@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: participant count -->
+  <AnimaTreeLinking.comps.0.label>参加者数</AnimaTreeLinking.comps.0.label>
+  
+  <!-- EN: Depending on ritual quality, the bestowee gets up to 3 bonus honor. Other participants get up to +6 mood boost for 6 days. -->
+  <BestowingCeremony.description>儀式の質に応じて,授与者は最大3の名誉ボーナスを獲得します.他の参加者は,最大+6の心情ボーナスを6日間得ることができます.</BestowingCeremony.description>
+  <!-- EN: participant count -->
+  <BestowingCeremony.comps.0.label>参加者数</BestowingCeremony.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <BestowingCeremony.comps.1.label>部屋の印象</BestowingCeremony.comps.1.label>
+  <!-- EN: Terrible -->
+  <BestowingCeremony.outcomeChances.0.label>ひどい</BestowingCeremony.outcomeChances.0.label>
+  <!-- EN: Unimpressive -->
+  <BestowingCeremony.outcomeChances.1.label>気が滅入る</BestowingCeremony.outcomeChances.1.label>
+  <!-- EN: Honorable -->
+  <BestowingCeremony.outcomeChances.2.label>勇気づける</BestowingCeremony.outcomeChances.2.label>
+  <!-- EN: Grandiose -->
+  <BestowingCeremony.outcomeChances.3.label>感動を与える</BestowingCeremony.outcomeChances.3.label>
+  
+</LanguageData>

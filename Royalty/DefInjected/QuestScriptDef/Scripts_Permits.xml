@@ -12,37 +12,19 @@
   <!-- EN: Laborers arrived -->
   <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>労働者が到着</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
   <!-- EN: The laborers from [permitFaction_name] have arrived. A shuttle will come to collect them in [laborersDurationDays] days. -->
-  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>[permitFaction_name]の労働者が到着しました。シャトルが[laborersDurationDays]日後に回収しに来ます。</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>[permitFaction_name]の労働者が到着しました.シャトルが[laborersDurationDays]日後に回収しに来ます.</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
   <!-- EN: Should depart on shuttle -->
   <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>シャトルで出発する必要がある</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
   <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>シャトルが到着</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
   <!-- EN: A shuttle has arrived to collect the laborers from [permitFaction_name]. -->
-  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>[permitFaction_name]から、労働者を回収するためのシャトルが到着しました。</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
+  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>[permitFaction_name]から,労働者を回収するためのシャトルが到着しました.</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
   <!-- EN: Laborer died: {SUBJECT_definite} -->
   <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>労働者が死亡: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
-  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>[permitFaction_name]から送られた労働者が死亡しました。[permitFaction_name]との友好値が[goodwillPenaltyPawn]減少しました。</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
-  <!-- EN: laborers missed shuttle -->
-  <Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>労働者がシャトルに置いて行かれた</Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>[permitFaction_name]から送られた労働者が死亡しました.[permitFaction_name]との友好値が[goodwillPenaltyPawn]減少しました.</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   
-  <!-- EN:
-    <li>questName->Permit Shuttle</li>
-    <li>questDescription-></li>
-  -->
-  <Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings>
-    <li>questName->シャトルの許可</li>
-    <li>questDescription-></li>
-  </Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings>
-  <!-- EN: Shuttle arrived -->
-  <Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>シャトルが到着</Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>
-  <!-- EN: The shuttle called by [asker_nameDef] has arrived.\n\nIf you don't use the shuttle, it will return to [permitFaction_name] in [shuttleReturnDays] days. -->
-  <Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>[asker_nameDef]に呼ばれたシャトルが到着しました。\n\nこれを使用しなかった場合、シャトルは[shuttleReturnDays]日後に[permitFaction_name]へ戻ります。</Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>
-  <!-- EN: shuttle destroyed -->
-  <Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>シャトルが破壊された</Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>
-  <!-- EN: Shuttle left -->
-  <Permit_CallShuttle.LetterLabelPermitShuttleLeft.slateRef>シャトルが出発した</Permit_CallShuttle.LetterLabelPermitShuttleLeft.slateRef>
-  <!-- EN: The shuttle from [permitFaction_name] has departed after being made to wait for too long. -->
-  <Permit_CallShuttle.LetterTextPermitShuttleLeft.slateRef>[permitFaction_name]のシャトルが、長時間待たされ続けたため、出発しました。</Permit_CallShuttle.LetterTextPermitShuttleLeft.slateRef>
+  <!-- UNUSED -->
+  <Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>労働者がシャトルに置いて行かれた</Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>
   
 </LanguageData>

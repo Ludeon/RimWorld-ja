@@ -89,7 +89,7 @@
     <li>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</li>
   -->
   <CraftedArt.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[THING_indefinite]を作った時の</li>
+    <li>tale_noun->[PAWN_nameDef]が[THING_indefinite]を作ったときの</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[THING_indefinite]を製作する</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[THING_indefinite]の作業を完成させる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[THING_indefinite]の作業をする</li>
@@ -113,7 +113,7 @@
     <li>quality_sentence->[PAWN_nameDef]は,[THING_quality]相当の仕事をしたようだ</li>
     <li>title_sentence->[PAWN_nameDef]は[THING_definite]の底面に,このようなタイトルを付けている: [THING_title]</li>
     <li>title_sentence->[THING_definite]はこのタイトルで飾られている: [THING_title]</li>
-    <li>title_sentence->タイトルである「[THING_title]」は[THING_definite]の背面に描かれている</li>
+    <li>title_sentence->タイトルである"[THING_title]"は[THING_definite]の背面に描かれている</li>
   </CraftedArt.rulePack.rulesStrings>
   
   <!-- EN: drunk -->
@@ -169,7 +169,7 @@
     <li>circumstance_phrase->服を脱ごうとしながら</li>
     <li>circumstance_phrase->自分の指を舐めながら</li>
     <li>circumstance_phrase->吐き戻そうになるのをこらえながら</li>
-    <li>circumstance_phrase->世の中の事なんて気にもせずに</li>
+    <li>circumstance_phrase->世の中のことなんて気にもせずに</li>
     <li>circumstance_phrase->色目を使いながら</li>
     <li>circumstance_phrase->昔に見たゴーストについて自説をときながら</li>
     <li>desc_sentence->[PAWN_pronoun]は自分の周りで何が起きているか全く気が付いていないようだ.</li>
@@ -202,7 +202,7 @@
   <FinishedResearchProject.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が[PROJECT_label]の研究を終える</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[PROJECT_label]研究プロジェクトの作業を続ける</li>
-    <li>image-> [PAWN_nameFull]が [circumstance_group],[PROJECT_label]の秘訣を学習する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[PROJECT_label]の秘訣を調べる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[PROJECT_label]を研究する</li>
     <li>circumstance_phrase->集中力の総力をあげて</li>
     <li>circumstance_phrase->自分の作業台でこつこつと</li>

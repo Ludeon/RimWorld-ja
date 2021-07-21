@@ -7,14 +7,34 @@
   <Kibble.description>生の肉と野菜を混ぜ合わせて,ペットフードを作成します.ヒトも食べることができますが,彼らは本当に...本当に,これを食べることを嫌います.</Kibble.description>
   
   <!-- EN: fine meal -->
-  <MealFine.label>手のこんだ食事</MealFine.label>
+  <MealFine.label>手の込んだ食事</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>多くの食材を丁寧に調理してつくられた食事です.</MealFine.description>
+  <MealFine.description>多くの食材を丁寧に調理して作られた食事です.</MealFine.description>
+  
+  <!-- EN: carnivore fine meal -->
+  <MealFine_Meat.label>手の込んだ肉料理</MealFine_Meat.label>
+  <!-- EN: A complex dish assembled with care from meat ingredients. -->
+  <MealFine_Meat.description>肉を丁寧に調理して作られた食事です.</MealFine_Meat.description>
+  
+  <!-- EN: vegetarian fine meal -->
+  <MealFine_Veg.label>手の込んだ野菜料理</MealFine_Veg.label>
+  <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
+  <MealFine_Veg.description>野菜を丁寧に調理して作られた食事です.</MealFine_Veg.description>
   
   <!-- EN: lavish meal -->
   <MealLavish.label>豪華な食事</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
   <MealLavish.description>料理の傑作,身も心も癒されます.</MealLavish.description>
+  
+  <!-- EN: carnivore lavish meal -->
+  <MealLavish_Meat.label>豪華な肉料理</MealLavish_Meat.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Meat.description>料理の傑作,身も心も癒されます.</MealLavish_Meat.description>
+  
+  <!-- EN: vegetarian lavish meal -->
+  <MealLavish_Veg.label>豪華な野菜料理</MealLavish_Veg.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Veg.description>料理の傑作,身も心も癒されます.</MealLavish_Veg.description>
   
   <!-- EN: nutrient paste meal -->
   <MealNutrientPaste.label>栄養補給ペースト</MealNutrientPaste.label>

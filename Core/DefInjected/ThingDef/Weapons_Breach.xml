@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: thump bomb -->
+  <Bullet_ThumpCannon.label>衝撃爆弾</Bullet_ThumpCannon.label>
+  
+  <!-- EN: thump cannon -->
+  <Gun_ThumpCannon.label>衝撃キャノン</Gun_ThumpCannon.label>
+  <!-- EN: A breaching explosive launcher used by mechanoids. It fires a concussion bomb that is extremely effective against walls and structures, but does much less damage to small targets. -->
+  <Gun_ThumpCannon.description>メカノイドが使用する,ブリーチング用の爆発物ランチャーです.壁や建造物に対して非常に効果的な激動爆弾を発射しますが,小さなターゲットへのダメージは非常に小さいです.</Gun_ThumpCannon.description>
+  <!-- EN: barrel -->
+  <Gun_ThumpCannon.tools.barrel.label>銃身</Gun_ThumpCannon.tools.barrel.label>
+  <!-- EN: thump cannon -->
+  <Gun_ThumpCannon.verbs.Verb_Shoot.label>衝撃キャノン</Gun_ThumpCannon.verbs.Verb_Shoot.label>
+  
+</LanguageData>

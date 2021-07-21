@@ -66,17 +66,17 @@
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural]が到着した</li>
-    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました。\n[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まり、 休憩と体勢を立て直す事が可能です。</li>
+    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef][hasHave]到着しました.[lodgersPronoun]は[questDurationTicks_duration]間コロニーに留まり,休憩し,体勢を立て直すでしょう.</li>
     <li>hasHave(lodgerCount==1)->が</li>
     <li>hasHave(lodgerCount>=2)->達が</li>
-    <li>appalledButNoAction->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこの出来事に対して強い嫌悪感を抱きましたが、あなたに逆らう行動は起こしていません。</li>
+    <li>appalledButNoAction->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこの出来事に対して強い嫌悪感を抱きましたが,あなたに逆らう行動は起こしていません.</li>
     <li>othersWillNotAccept->{PAWNSALIVECOUNT_multiple ? それ以外の人 : 最後の[lodgersLabel]}はこれを受け入れるつもりはなく</li>
-    <li>turnedViolent->[othersWillNotAccept]、激しく反抗し始めました。</li>
-    <li>decidedToLeave->[othersWillNotAccept]、この地を去ることに決めました。</li>
-    <li>whoAskedToStay->コロニーに留まる事を依頼した</li>
-    <li>oneOfThe->コロニーに留まる事を依頼した絶望的な状況にある[faction_pawnsPlural]の一人</li>
-    <li>questOver->クエスト'[resolvedQuestName]'は終了しました。</li>
-    <li>letterIntroDeath->[oneOfThe]、{SUBJECT_definite}が死にました。</li>
+    <li>turnedViolent->[othersWillNotAccept],激しく反抗し始めました.</li>
+    <li>decidedToLeave->[othersWillNotAccept],この地を去ることに決めました.</li>
+    <li>whoAskedToStay->コロニーに留まることを依頼した</li>
+    <li>oneOfThe->コロニーに留まることを依頼した絶望的な状況にある[faction_pawnsPlural]の一人</li>
+    <li>questOver->クエスト'[resolvedQuestName]'は終了しました.</li>
+    <li>letterIntroDeath->[oneOfThe],{SUBJECT_definite}が死にました.</li>
     <li>lodgerDiedMemoryThoughtLetterLabel->[lodgersLabel]が死亡した: 怒り</li>
     <li>lodgerDiedMemoryThoughtLetterText->[letterIntroDeath]\n\n[appalledButNoAction]</li>
     <li>lodgerDiedAttackPlayerLetterLabel->[lodgersLabel]が死亡した: 復讐</li>
@@ -84,8 +84,8 @@
     <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel]が死亡した: 離脱</li>
     <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
     <li>lodgersAllDiedLetterLabel->クエスト失敗</li>
-    <li>lodgersAllDiedLetterText->[whoAskedToStay]、絶望的な状況にある[lastOrNot][faction_pawnSingular]、{SUBJECT_definite}が死亡しました。\n\n[questOver]</li>
-    <li>letterIntroArrested->[oneOfThe]、{SUBJECT_definite}を拘束しました。</li>
+    <li>lodgersAllDiedLetterText->[whoAskedToStay],絶望的な状況にある[lastOrNot][faction_pawnSingular],{SUBJECT_definite}が死亡しました.\n\n[questOver]</li>
+    <li>letterIntroArrested->[oneOfThe],{SUBJECT_definite}を拘束しました.</li>
     <li>lodgerArrestedMemoryThoughtLetterLabel->[lodgersLabel]が逮捕された: 怒り</li>
     <li>lodgerArrestedMemoryThoughtLetterText->[letterIntroArrested]\n\n[appalledButNoAction]</li>
     <li>lodgerArrestedAttackPlayerLetterLabel->[lodgersLabel]が逮捕された: 復讐</li>
@@ -93,8 +93,8 @@
     <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel]が逮捕された: 離脱</li>
     <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
     <li>lodgersAllArrestedLetterLabel->クエスト失敗</li>
-    <li>lodgersAllArrestedLetterText->[whoAskedToStay]、絶望的な状況にある[lastOrNot][faction_pawnSingular]、{SUBJECT_definite}を拘束しました。\n\n[questOver]</li>
-    <li>letterIntroViolated->[oneOfThe]、{SUBJECT_definite}が不当に手術をされました。</li>
+    <li>lodgersAllArrestedLetterText->[whoAskedToStay],絶望的な状況にある[lastOrNot][faction_pawnSingular],{SUBJECT_definite}を拘束しました.\n\n[questOver]</li>
+    <li>letterIntroViolated->[oneOfThe],{SUBJECT_definite}が不当に手術をされました.</li>
     <li>lodgerViolatedMemoryThoughtLetterLabel->[lodgersLabel]が不当に扱われた: 怒り</li>
     <li>lodgerViolatedMemoryThoughtLetterText->[letterIntroViolated]\n\n[appalledButNoAction]</li>
     <li>lodgerViolatedAttackPlayerLetterLabel->[lodgersLabel]が不当に扱われた: 復讐</li>
@@ -102,22 +102,22 @@
     <li>lodgerViolatedLeaveMapLetterLabel->[lodgersLabel]が不当に扱われた: 離脱</li>
     <li>lodgerViolatedLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
     <li>mutinyLetterLabel->裏切り</li>
-    <li>mutinyLetterText->[whoAskedToStay]、[lodgersSingularOrPluralDef][areIs]裏切りました！\n\n[lodgersPronoun]はこの裏切り行為を初めから計画していたようです。</li>
+    <li>mutinyLetterText->[whoAskedToStay],[lodgersSingularOrPluralDef][areIs]裏切りました！\n\n[lodgersPronoun]はこの裏切り行為を初めから計画していたようです.</li>
     <li>areIs(lodgerCount==1)->が</li>
     <li>areIs(lodgerCount>=2)->達が</li>
     <li>betrayalOfferLetterLabel->裏切りの提示: [factionOpponent_nameDef]</li>
-    <li>betrayalOffserLetterText->[factionOpponent_faction_name]の[factionOpponent_faction_pawnSingular]である[factionOpponent_nameDef]は、[asker_nameDef][otherLodgers][areIs]、[map_definite]でもてなされていることを知りました。[factionOpponent_pronoun]と[asker_nameDef]は敵同士であり、[asker_possessive]死を望んでいます。\n\n[faction_name]の全てのメンバーを殺すと、[factionOpponent_pronoun]は次の報酬を送ります(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>betrayalOffserLetterText->[factionOpponent_faction_name]の[factionOpponent_faction_pawnSingular]である[factionOpponent_nameDef]は,[asker_nameDef][otherLodgers][areIs],[map_definite]でもてなされていることを知りました.[factionOpponent_pronoun]と[asker_nameDef]は敵同士であり,[asker_possessive]死を望んでいます.\n\n[faction_name]のメンバーを全員殺すと,[factionOpponent_pronoun]は次の報酬を送ります(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
     <li>betrayalOfferRewardLetterLabel->裏切りの報酬: [factionOpponent_nameDef]</li>
-    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef]は、[asker_nameDef][otherMembers]を殺した場合の報酬を約束しました。[factionOpponent_pronoun]は、この事が達成されたという情報を聞いたため、ドロップポッドで以下の物品を贈りました(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef]は,[asker_nameDef][otherMembers]を殺した場合の報酬を約束しました.[factionOpponent_pronoun]は,このことが達成されたという情報を聞いたため,ドロップポッドで以下の物品を贈りました(総価値：[betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
     <li>betrayalOfferFailedLetterLabel->裏切りの報酬が取り消された</li>
-    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef]は、[faction_name]のメンバーの一人が[map_definite]にいない事を知りました。[factionOpponent_nameDef]は[faction_name]のメンバー全員の死を望んでいたため、[factionOpponent_possessive]提示を取り消しました。</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef]は,[faction_name]のメンバーの一人が[map_definite]にいないことを知りました.[factionOpponent_nameDef]は[faction_name]のメンバー全員の死を望んでいたため,[factionOpponent_possessive]提示を取り消しました.</li>
     <li>otherLodgers(lodgerCount==1)-></li>
-    <li>otherLodgers(lodgerCount==2)->と、もう一人の[lodgersLabel]</li>
-    <li>otherLodgers(lodgerCount>=3)->と、数人の[lodgersLabelPlural]</li>
+    <li>otherLodgers(lodgerCount==2)->と,もう一人の[lodgersLabel]</li>
+    <li>otherLodgers(lodgerCount>=3)->と,数人の[lodgersLabelPlural]</li>
     <li>otherMembers(lodgerCount==1)-></li>
-    <li>otherMembers(lodgerCount>=2)->と、[faction_name]の全てのメンバー</li>
+    <li>otherMembers(lodgerCount>=2)->と,[faction_name]の全てのメンバー</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural]が去っている</li>
-    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は、[map_definite]に[questDurationTicks_duration]間 留まる事を許可してくれた事に対して、感謝しています。難民は現在、移動を開始しています。\n\n{FACTION_leaderNameDef}は、この事を決して忘れないと言いました。</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}は,[map_definite]に[questDurationTicks_duration]間留まることを許可してくれたことに対して,感謝しています.難民は現在,移動を開始しています.\n\n{FACTION_leaderNameDef}は最後に,このことを決して忘れないと伝えて去りました.</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
@@ -145,7 +145,16 @@
     <li>approachInfo(lodgerCount==2)->[asker_nameDef] and another desperate [faction_pawnSingular] are approaching.</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount] desperate [faction_pawnsPlural] are approaching. Their leader is called [asker_nameDef].</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have lost [asker_possessive] home in a recent attack.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to woken up from cryptosleep all alone and friendless.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have been chased from [asker_possessive] home by a vengeful ex-lover.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have been banished after an argument with a village leader.</li>
     <li>claimInfo(lodgerCount>=2)->They claim to have lost their home in a recent attack.</li>
+    <li>claimInfo(lodgerCount>=2)->They claim to have escaped an organ harvesting operation.</li>
+    <li>claimInfo(lodgerCount>=2)->They say they escaped from a slave caravan.</li>
+    <li>claimInfo(lodgerCount>=2)->They say that crop blights starved them out of their village.</li>
+    <li>claimInfo(lodgerCount>=2)->They say a great flashstorm burned down their home.</li>
+    <li>claimInfo(lodgerCount>=2)->They say their caravan was ambushed and everything was taken.</li>
+    <li>claimInfo(lodgerCount>=2)->They say they were banished from their town due to moral disagreements.</li>
     <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>
     <li>joinInfo(lodgerCount>=2)->If you make them happy, some of them may offer to join you.</li>
     <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
@@ -164,14 +173,23 @@
     <li>lodgersPossessive(lodgerCount>=2)->[asker_pronoun]らの</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
-    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は、[questDurationTicks_duration]間[map_definite]に滞在し、休憩して体勢を立て直す許可を求めています。\n\n[lodgersPronoun]はその見返りとして、滞在中、無償で仕事と戦闘を手伝う事を[offer]しています。\n\n[joinInfo]また、[lodgersObjective]助けた事に対して、後で報酬を渡すかもしれませんが、しかし、[lodgersPossessive]本当の意図を知る方法はありません。\n\n[travelerInfo]は、どの派閥にも属していません。もし望むなら、外交上の影響なしに[lodgersObjective]殺害、拘束、売却、もしくは臓器を摘出する選択も選べます。</li>
-    <li>approachInfo(lodgerCount==1)->[asker_nameDef]と名乗る、絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
-    <li>approachInfo(lodgerCount==2)->[asker_nameDef]と、もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています。</li>
-    <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています。代表者は自分を[asker_nameDef]と名乗っています。</li>
-    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は最近、自分の家を襲撃によって失ったと主張しています。</li>
-    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは最近、自分達の家を襲撃によって失ったと主張しています。</li>
-    <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば、[asker_pronoun]はコロニーに加わる事を申し出るかもしれません。</li>
-    <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば、[asker_pronoun]らはコロニーに加わる事を申し出るかもしれません。</li>
+    <li>questDescription->[approachInfo][claimInfo][asker_nameDef]は,[questDurationTicks_duration]間[map_definite]に滞在し,休憩して体勢を立て直す許可を求めています.\n\n[lodgersPronoun]はその見返りとして滞在中,無償で仕事と戦闘を手伝うことを[offer]しています.\n\n[joinInfo] また,[lodgersObjective]助けたことに対して,後で報酬を渡すかもしれませんが,しかし,[lodgersPossessive]本当の意図を知る方法はありません.\n\n[travelerInfo]は,どの派閥にも属していません.もし望むなら,外交上の影響なしに[lodgersObjective]殺害,拘束,売却,もしくは臓器を摘出する選択も選べます.</li>
+    <li>approachInfo(lodgerCount==1)->[asker_nameDef]と名乗る,絶望的な状況下の[faction_pawnSingular]が接近しています.</li>
+    <li>approachInfo(lodgerCount==2)->[asker_nameDef]と,もう一人の絶望的な状況下の[faction_pawnSingular]が接近しています.</li>
+    <li>approachInfo(lodgerCount>=3)->[lodgerCount]人の絶望的な状況にある[faction_pawnsPlural]が接近しています.代表者は自分を[asker_nameDef]と名乗っています.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は最近,自分の家を襲撃によって失ったと主張しています.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は友人もなく,たった一人で冷凍睡眠から目覚めたと主張しています.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は執念深い元恋人につきまとわれ,自分の家から逃げ出したと主張しています.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef]は村長との言い争いの末,追放されたと主張しています.</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは最近,自分達の家を襲撃によって失ったと主張しています.</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは臓器摘出手術から逃げ出したと主張しています.</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは奴隷キャラバンから逃げ出したと述べています.</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは,枯病によって飢饉に陥ったため,村を追い出されたと述べています.</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは,大きなゲリラ雷雨によって家を焼かれ失ったと述べています.</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは,自分達のキャラバンが待ち伏せに襲われ,全てを奪われたと述べています.</li>
+    <li>claimInfo(lodgerCount>=2)->[asker_pronoun]らは,道徳的な意見の不一致が原因で,町から追放されたと述べています.</li>
+    <li>joinInfo(lodgerCount==1)->もし[asker_objective]幸せにすれば,[asker_pronoun]はコロニーに加わることを申し出るかもしれません.</li>
+    <li>joinInfo(lodgerCount>=2)->もし[asker_pronoun]らを幸せにすれば[asker_pronoun]らはコロニーに加わることを申し出るかもしれません.</li>
     <li>travelerInfo(lodgerCount==1)->この[faction_pawnSingular]</li>
     <li>travelerInfo(lodgerCount>=2)->この[faction_pawnsPlural]</li>
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>
@@ -246,7 +264,7 @@
   -->
   <RefugeeDelayedReward.questContentRules.rulesStrings>
     <li>rewardLetterLabel->厚遇報酬</li>
-    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました。[rewardDelayTicks_duration]前、 あなたは[rewardGiver_objective]絶望的な状況から救いました。\n\nあの時から[rewardGiver_pronoun]は立ち直り、そして今、あなたの助けになるために適切な報酬を渡す事を望みました。[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
+    <li>rewardLetterText->[rewardGiver_nameDef]からの交信が届きました.\n[rewardDelayTicks_duration]前,あなたは[rewardGiver_objective]絶望的な状況から救いました.\n\nあの時から[rewardGiver_pronoun]は立ち直り,そして今,あなたの助けになるために,適切な報酬を渡すことを望みました.[rewardGiver_pronoun]はドロップポッドで以下の物品を贈りました:\n\n[listOfRewards]</li>
   </RefugeeDelayedReward.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->a delayed reward for refugee quest</li>

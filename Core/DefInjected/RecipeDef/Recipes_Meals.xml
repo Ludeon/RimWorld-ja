@@ -2,58 +2,114 @@
 <LanguageData>
   
   <!-- EN: cook fine meal -->
-  <CookMealFine.label>手のこんだ食事</CookMealFine.label>
+  <CookMealFine.label>手の込んだ食事</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>野菜系の食材と,肉系の食材を組み合わせて調理します.</CookMealFine.description>
+  <CookMealFine.description>肉と野菜を組み合わせて,手の込んだ食事を調理します.</CookMealFine.description>
   <!-- EN: Cooking fine meal. -->
-  <CookMealFine.jobString>手のこんだ食事を調理中</CookMealFine.jobString>
+  <CookMealFine.jobString>手の込んだ食事を調理中</CookMealFine.jobString>
+  
+  <!-- EN: cook carnivore fine meal -->
+  <CookMealFine_Meat.label>手の込んだ肉料理</CookMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <CookMealFine_Meat.description>肉を組み合わせて,手の込んだ食事を調理します.</CookMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <CookMealFine_Meat.jobString>手の込んだ肉料理を調理中</CookMealFine_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal -->
+  <CookMealFine_Veg.label>手の込んだ野菜料理</CookMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <CookMealFine_Veg.description>野菜を組み合わせて,手の込んだ肉料理を調理します.</CookMealFine_Veg.description>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <CookMealFine_Veg.jobString>手の込んだ野菜料理を調理中</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>手のこんだ食事 x4</CookMealFineBulk.label>
-  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>野菜と肉を組み合わせて,4つの手のこんだ食事を調理します.</CookMealFineBulk.description>
+  <CookMealFineBulk.label>手の込んだ食事 x4</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <CookMealFineBulk.description>肉と野菜を組み合わせて,4つの手の込んだ食事を調理します.良い満足感を与えるために,いくつかの材料を無駄にしてしまいます.</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>4つの手のこんだ食事を調理中</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>4つの手の込んだ食事を調理中</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook carnivore fine meal x4 -->
+  <CookMealFineBulk_Meat.label>手の込んだ肉料理 x4</CookMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Meat.description>肉を組み合わせて,4つの手の込んだ肉料理を調理します.良い満足感を与えるために,いくつかの材料を無駄にしてしまいます.肉だけでおいしい味を作り出すため,さらに非効率になります.</CookMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <CookMealFineBulk_Meat.jobString>4つの手の込んだ肉料理を調理中</CookMealFineBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal x4 -->
+  <CookMealFineBulk_Veg.label>手の込んだ野菜料理 x4</CookMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Veg.description>野菜を組み合わせて,4つの手の込んだ野菜料理を調理します.良い満足感を与えるために,いくつかの材料を無駄にしてしまいます.野菜だけでおいしい味を作り出すため,さらに非効率になります.</CookMealFineBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <CookMealFineBulk_Veg.jobString>4つの手の込んだ野菜料理を調理中</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>贅沢な食事</CookMealLavish.label>
-  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>野菜系の食材と,肉系の食材を組み合わせて,より手のこんだ調理をします.素材を厳選するので 多くの材料が無駄に捨てられます.</CookMealLavish.description>
+  <CookMealLavish.label>豪華な食事</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavish.description>肉と野菜を組み合わせて,非常に手の込んだ食事を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
-  <CookMealLavish.jobString>贅沢な食事を創作中</CookMealLavish.jobString>
+  <CookMealLavish.jobString>豪華な食事を調理中</CookMealLavish.jobString>
+  
+  <!-- EN: cook carnivore lavish meal -->
+  <CookMealLavish_Meat.label>豪華な肉料理</CookMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavish_Meat.description>肉を組み合わせて,非常に手の込んだ肉料理を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.肉だけでおいしい味を作り出すため,さらに非効率になります.</CookMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <CookMealLavish_Meat.jobString>豪華な肉料理を調理中</CookMealLavish_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal -->
+  <CookMealLavish_Veg.label>豪華な野菜料理</CookMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavish_Veg.description>野菜を組み合わせて,非常に手の込んだ野菜料理を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.野菜だけでおいしい味を作り出すため,さらに非効率になります.</CookMealLavish_Veg.description>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <CookMealLavish_Veg.jobString>豪華な野菜料理を調理中</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>贅沢な食事 x4</CookMealLavishBulk.label>
-  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>野菜と肉を組み合わせて,4つの贅沢な食事を調理します.多くの食材が廃棄されます.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.label>豪華な食事 x4</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavishBulk.description>肉と野菜を組み合わせて,4つの非常に手の込んだ食事を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>4つの贅沢な食事を調理中</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>4つの豪華な食事を調理中</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook carnivore lavish meal x4 -->
+  <CookMealLavishBulk_Meat.label>豪華な肉料理 x4</CookMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Meat.description>肉を組み合わせて,4つの非常に手の込んだ肉料理を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.肉だけでおいしい味を作り出すため,さらに非効率になります.</CookMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <CookMealLavishBulk_Meat.jobString>4つの豪華な肉料理を調理中</CookMealLavishBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal x4 -->
+  <CookMealLavishBulk_Veg.label>豪華な野菜料理 x4</CookMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Veg.description>野菜を組み合わせて,4つの非常に手の込んだ野菜料理を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.野菜だけでおいしい味を作り出すため,さらに非効率になります.</CookMealLavishBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <CookMealLavishBulk_Veg.jobString>4つの豪華な野菜料理を調理中</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>簡単な食事</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>ひとつの食材を簡単に調理します.</CookMealSimple.description>
+  <CookMealSimple.description>一種類の食材で,単純な食事を調理します.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
-  <CookMealSimple.jobString>簡単な食事を炊事中</CookMealSimple.jobString>
+  <CookMealSimple.jobString>簡単な食事を調理中</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
   <CookMealSimpleBulk.label>簡単な食事 x4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>ひとつの食材で,4つの単純な食事を調理します.</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>一種類の食材で,4つの単純な食事を調理します.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>4つの簡単な食事を炊事中</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>4つの簡単な食事を調理中</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>非常用食品</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>生の肉と野菜を組み合わせた食材から,非常用食品を調理します.保存工程において 多くの材料が無駄に捨てられます.</CookMealSurvival.description>
+  <CookMealSurvival.description>肉と野菜を組み合わせて,非常用食品を作ります.多くの食材が保存工程で廃棄されます.</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>非常用食品を調理中</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
   <CookMealSurvivalBulk.label>非常用食品 x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>野菜と肉を組み合わせて,4つの非常用食品を用意します.多くの食材が保存工程で廃棄されます.</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>肉と野菜を組み合わせて,4つの非常用食品を作ります.多くの食材が保存工程で廃棄されます.</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
   <CookMealSurvivalBulk.jobString>4つの非常用食品を調理中</CookMealSurvivalBulk.jobString>
   

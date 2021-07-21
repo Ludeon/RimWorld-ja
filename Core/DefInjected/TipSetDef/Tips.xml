@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>レターは右クリックで消すことが出来ます.</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>レターは右クリックで消すことができます.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
-  <GameplayTips.QueueOrders>Shiftキーを押し続けることで,入植者の行動予約を行うことが出来ます.</GameplayTips.QueueOrders>
+  <GameplayTips.QueueOrders>Shiftキーを押し続けることで,入植者の行動予約を行うことができます.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
   <GameplayTips.ReorderColonistbar>右クリックしながらドラッグすることで,入植者アイコンを並べ替えられます.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
@@ -19,10 +19,10 @@
   <GameplayTips.WorkTabChangeAllColonists>優先順位タブで,Shiftキーを押しながら作業タイプの名前をクリックすると,すべての入植者の設定が一度に変更されます.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>優先順位タブの手動選択モードで数値を右クリックすると,優先度を上げる代わりに優先度を下げます.</GameplayTips.WorkTabDecreasePriority>
-  <!-- EN: In a gunfight, always be behind cover! -->
-  <GameplayTips.GunfightCover>銃撃戦では常にカバーに隠れてください!</GameplayTips.GunfightCover>
-  <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
-  <GameplayTips.GunfightSpread>銃撃戦では入植者をばらけさせてください！1ヶ所に集まったターゲットは被弾しやすいです.</GameplayTips.GunfightSpread>
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
+  <GameplayTips.GunfightCover>銃撃戦では常にカバーに隠れてください!右クリックしてドラッグすると,徴兵された兵士たちが一列になります.</GameplayTips.GunfightCover>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
+  <GameplayTips.GunfightSpread>右クリックしてドラッグすると,徴兵された兵士たちが一列になります.1ヶ所に集まったターゲットは被弾しやすいです.</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>煙幕はタレットがターゲットを検出することを完全に防げますが,人間は精度を落としつつ撃つことができます.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
@@ -30,7 +30,7 @@
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
   <GameplayTips.ShootingAccuracyFogRain>霧や雨の天候は,遠距離武器の精度を低下させます.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>射撃者を選択し,ターゲットにマウスオーバーすると,射撃が命中する可能性を見ることが出来ます.</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>射撃者を選択し,ターゲットにマウスオーバーすると,射撃が命中する可能性を見ることができます.</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
   <GameplayTips.TurretsExplode>タレットはダメージを多く受けると爆発します.タレット同士を近づけすぎないでください.また,入植者たちを近寄らせすぎないようにしてください.</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
@@ -38,9 +38,9 @@
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
   <GameplayTips.CallAllies>戦闘で助けが必要な場合は,通信機を使用して援軍を要請できます.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.MaddenedAnimals>狂った動物は,入植者の敵を含むあらゆる人間を攻撃します.これを利用することも出来ます.</GameplayTips.MaddenedAnimals>
-  <!-- EN: EMP bursts will temporarily disable turrets, mortar shields, and bullet shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>EMPバーストは,タレット,迫撃砲シールド,およびバレットシールドを一時的に無効にします.</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.MaddenedAnimals>狂った動物は,入植者の敵を含むあらゆる人間を攻撃します.これを利用することもできます.</GameplayTips.MaddenedAnimals>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>EMPバーストは,タレットやシールドを一時的に無効にします.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
   <GameplayTips.EMPDisablesPersonalShields>EMPバーストはパーソナルシールドを即座に破壊します.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
@@ -57,14 +57,16 @@
   <GameplayTips.CaravanPackingSpot>キャラバンを編成する場所を指定したい場合,キャラバン隊物流拠点を設置してください.</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>一人のキャラバン隊は,特定の状況で非常に役立ちます.</GameplayTips.CaravanSinglePerson>
-  <!-- EN: Faster animals make faster caravans. -->
-  <GameplayTips.CaravanFasterAnimals>脚の速い家畜は,キャラバン隊の移動速度をより速めます.</GameplayTips.CaravanFasterAnimals>
-  <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>キャラバンに馬,ロバ,ヒトコブラクダなどの騎乗できる家畜が含まれていると,移動速度が速くなります.</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>小規模のキャラバン隊は発見されにくいため,襲撃される頻度が低くなります.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect them items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>キャラバンを編成する前に,キャラバンの積荷場所の近くに積荷アイテムを集めましょう.これにより,積荷作業がはるかに速くなります.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>キャラバンに訓練されていない家畜がいる場合,敵を襲撃する前にそれらを別のキャラバンに分割して,戦闘から遠ざけることができます.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.tips.32>キャラバン時は薬を持っていくことを忘れないでください.</GameplayTips.tips.32>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>RimWorldは物語を紡ぐものであり,プレイスキルの試験ではありません.廃墟となったコロニーは劇的な悲劇であり,失敗ではありません.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -123,6 +125,12 @@
   <GameplayTips.ExtinguishFireArtillery>爆発は爆発範囲内の炎を消し飛ばします.他に選択肢がない場合,砲弾が消火に役立ちます.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>深刻な頓挫でさえ,ゲームの終了を意味しません.負け戦を楽しんでみてください.多くの場合,最高のストーリーは最も暗い状況から発生します.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.tips.62>武器の備蓄は囚人部屋から遠ざけてください.囚人の脱獄時に銃や爆発物がそばに置いてあると,非常に危険です.</GameplayTips.tips.62>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.tips.63>動物を手懐けるときは,彼らを養うのに適した種類と十分な量の餌があることを確認してください.</GameplayTips.tips.63>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.tips.64>出入り口に岩や鉄くずの塊を落とすと,扉が閉まらなくなり,敵対的な野生生物や襲撃者に対して無防備になります.</GameplayTips.tips.64>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>無菌タイルを敷かれた清潔な研究室は,研究速度へボーナスを与えます.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
@@ -130,8 +138,17 @@
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
   <GameplayTips.MoreAlliesMoreTraders>同盟派閥が多ければ多いほど,よりランダムなトレーダーや援軍を受けることができます.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>ドラッグ適用方針から,戦闘者にゴージュースのような戦闘ドラッグを所持させることが出来ます.戦闘時に素早く摂取して戦闘を有利に進められます.</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory>ドラッグ適用方針から,戦闘者にゴージュースのような戦闘ドラッグを所持させることができます.戦闘時に素早く摂取して戦闘を有利に進められます.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
   <GameplayTips.SchedulesSetLong>移動時間を最小限に抑えるために,1つの活動を長くまとめるスケジュールを設定しましょう.</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>わらマットは汚れを吸収します.家畜小屋の床として,これを使ってください.</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>一部の家畜は多くの泥汚れを生み出します.象や牛などは外に出してください.</GameplayTips.AnimalFilth>
+  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>捕食者は,フェンスやバリケードで囲われた家畜を狩る可能性が低くなります.</GameplayTips.PredatorsAndFences>
+  
+  <!-- UNUSED -->
+  <GameplayTips.CaravanFasterAnimals>脚の速い家畜は,キャラバン隊の移動速度をより速めます.</GameplayTips.CaravanFasterAnimals>
   
 </LanguageData>

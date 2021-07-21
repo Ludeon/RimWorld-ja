@@ -22,8 +22,8 @@
     <li>image-> [ATTENDER_nameFull]が [circumstance_group]音楽に合わせて揺れる</li>
     <li>image-> [ATTENDER_nameFull]が [circumstance_group]音楽に没頭する</li>
     <li>circumstance_phrase->手拍子を取りながら</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が踊っている。</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が静かに耳を傾けている。</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が踊っている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が静かに耳を傾けている.</li>
   </AttendedConcert.rulePack.rulesStrings>
   
   <!-- EN: held concert -->
@@ -45,8 +45,8 @@
     <li>image-> [ORGANIZER_nameFull]が 感動的な歌を演奏する</li>
     <li>image-> [ORGANIZER_nameFull]が 難しいパートを[circumstance_group]演奏する</li>
     <li>circumstance_phrase->激しい表現で</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が側で聴いている。</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が側で聴いている。</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が側で聴いている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が側で聴いている.</li>
   </HeldConcert.rulePack.rulesStrings>
   
 </LanguageData>

@@ -37,8 +37,8 @@
   <ScenPart_PawnsHaveTrait>{0}は {1}の確率で,次の才能・性格を持っています:\n  -{2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>キャラクターは,死ぬときに爆発します( {0}, 半径 {1}).</ScenPart_OnPawnDeathExplode>
-  <!-- EN: {0} start naked. -->
-  <ScenPart_PawnsAreNaked>{0}は全裸です.</ScenPart_PawnsAreNaked>
+  <!-- EN: {0} have a {1} chance to start naked. -->
+  <ScenPart_PawnsAreNaked>{0}は {1}の確率で全裸になります.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->

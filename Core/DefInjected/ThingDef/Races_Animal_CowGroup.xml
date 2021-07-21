@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>バイソン</Bison.label>
+  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
+  <Bison.description>サバンナの荒野で見かける大型の草食哺乳類です. 飼いならし易いですが,気性が荒く危険でもあります.</Bison.description>
+  <!-- EN: head -->
+  <Bison.tools.head.label>頭</Bison.tools.head.label>
+  <!-- EN: left hoof -->
+  <Bison.tools.left_hoof.label>左蹄</Bison.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Bison.tools.right_hoof.label>右蹄</Bison.tools.right_hoof.label>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>ボマロープ</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>化学物質の生産のために設計されたボマロープは,不安定な化学物質の入った大きな液嚢を,背中に成長させます.その大きさの割に死にやすく,力も弱いですが,他の動物はこの生物を避けることを覚えました.なぜなら彼らは死ぬと巨大な爆発を起こすからです.バイオ燃料を搾乳することもできます.ただし,とても注意が必要ですが.</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>頭部</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>左蹄</Boomalope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>右蹄</Boomalope.tools.right_hoof.label>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>カリブー</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>大きなシカ科の生き物です.寒冷な気候に適応しています.カリブーは搾乳することができますが,荷物を運ぶことは嫌がります.</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>左蹄</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>右蹄</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>頭部</Caribou.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>ウシ</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>飼い慣らされた,大きな有蹄動物であるウシは,多くの牛乳,肉,革を産むように数千年も品種改良されてきました.彼らは,ことのほか穏やかな生き物で,復讐しようとはしませんし,どれほど傷つけられても気にしません.彼らの内のほとんどは農場生活に適応しており,野性では生きていけません.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>頭部</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>ロバ</Donkey.label>
+  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed. -->
+  <Donkey.description>ウマと比べて小さく,古来より農作業のために家畜にされてきました.その間抜けな鳴き声は,うっとうしいと同時に可愛らしいです.</Donkey.description>
+  <!-- EN: head -->
+  <Donkey.tools.head.label>頭</Donkey.tools.head.label>
+  <!-- EN: left hoof -->
+  <Donkey.tools.left_hoof.label>左蹄</Donkey.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Donkey.tools.right_hoof.label>右蹄</Donkey.tools.right_hoof.label>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>ヒトコブラクダ</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <Dromedary.description>乾燥した環境に適応した大きな哺乳動物です.古くから家畜化され,その毛と革はどちらも砂漠の熱に対する非常に優れた断熱性を持ち,そのミルクは非常に栄養価があります.駄載獣としても使用されますが,跳ね上がって歩く姿勢は,長い距離乗ることを不快にさせます.\n\n大きなコブに水を蓄え,吐き出すと同時に吸い込むことで水分をとり,水を飲まなくても一週間移動することができます.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>左蹄</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>右蹄</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>頭部</Dromedary.tools.head.label>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>ゾウ</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>大型の自然にいる動物です.ゾウは長い牙を持ち,彼らは物を動かす道具として,そして致命的な武器としても使います.死んだ象の貴重な牙は,解体して再利用することができます.\n\nゾウは複雑な社会関係を持つ知能の高い生物で,駄載獣として,もっとも複雑な作業もこなすように訓練できます.彼らは長生きで,出来事や,数十年前からの関係も,記憶していることで知られています.</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>牙</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>左足</Elephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>右足</Elephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>頭部</Elephant.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>ヘラジカ</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>大きなシカ科の生き物.寒冷な気候に適応しています.飼い慣らされたヘラジカは搾乳することができますが,荷物を運ぶことは嫌がります.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>左蹄</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>右蹄</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>頭部</Elk.tools.head.label>
+  
+  <!-- EN: goat -->
+  <Goat.label>ヤギ</Goat.label>
+  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
+  <Goat.description>自然界では珍しいですが,ヤギは人類が繁殖させた人懐っこい家畜です.</Goat.description>
+  <!-- EN: head -->
+  <Goat.tools.head.label>頭</Goat.tools.head.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>ウマ</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
+  <Horse.description>短い毛,長いたてがみと尻尾を持つ大型の有蹄哺乳類です.ウマは古来よりヒトに飼いならされてきました.</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>馬肉</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>頭</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>マッファロー</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>この大型の草食動物は,バッファローを祖先にもち,寒暖どちらの気候にも適合しました.怒らせたマッファローは極めて危険ですが,飼い慣らしたマッファローは,本当に従順で,駄載獣として使えます.\n\nなぜ彼らが青いのかは,誰も全く解りません-もしかすると初期の遺伝子改良でも変わらなかったのかもしれません.</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>頭部</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>左蹄</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>右蹄</Muffalo.tools.right_hoof.label>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>サイ</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>草食動物であるにもかかわらず,この巨大な哺乳動物は非常に怒りやすいです.一度怒らすと,その巨大な力と鋭い角が,相手を残忍な目に遭わせます.その片足が持つ筋肉量は,ヒトが持っている全身の筋肉量より多いです.</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>角</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>角</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>頭部</Rhinoceros.tools.head.label>
+  
+  <!-- EN: yak -->
+  <Yak.label>ヤク</Yak.label>
+  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
+  <Yak.description>ヤクは分厚い骨格と,太くて短い脚,雪の中でも歩きやすく広がった丸みのある裂けた蹄を持つ丈夫な牛です.</Yak.description>
+  <!-- EN: yak beef -->
+  <Yak.race.meatLabel>ヤクの肉</Yak.race.meatLabel>
+  <!-- EN: head -->
+  <Yak.tools.head.label>頭</Yak.tools.head.label>
+  <!-- EN: left hoof -->
+  <Yak.tools.left_hoof.label>左蹄</Yak.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Yak.tools.right_hoof.label>右蹄</Yak.tools.right_hoof.label>
+  
+</LanguageData>

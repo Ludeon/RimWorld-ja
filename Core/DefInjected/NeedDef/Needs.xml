@@ -21,6 +21,11 @@
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
   <Food.description>食事は,その生き物が直近に摂った栄養物の量です. ゼロになるとだんだんと栄養失調になり,しまいには死に至ります.</Food.description>
   
+  <!-- EN: indoors -->
+  <Indoors.label>インドア</Indoors.label>
+  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
+  <Indoors.description>インドアは壁の内側と屋根の下に引き籠っていたい欲求を表します.屋外や屋根のない場所で時間を過ごすことで悪影響を受けます.この欲求を50%以上にまで改善するには,普通の屋根だけではなく,頭上にある山の下で過ごす必要があります.</Indoors.description>
+  
   <!-- EN: recreation -->
   <Joy.label>娯楽</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->

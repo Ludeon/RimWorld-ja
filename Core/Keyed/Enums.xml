@@ -309,9 +309,24 @@
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
-  <ExtraFactionType_HomeFaction>出身派閥</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HomeFaction>所属派閥</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
-  <ExtraFactionType_HostFaction>リモートホスト派閥</ExtraFactionType_HostFaction>
+  <ExtraFactionType_HostFaction>所有派閥</ExtraFactionType_HostFaction>
   <!-- EN: group -->
   <ExtraFactionType_MiniFaction>グループ</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>ドラッグカテゴリー</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>なし</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>薬品</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>娯楽</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>ハードドラッグ</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>いくつか</DrugCategory_Any>
+  
 </LanguageData>
