@@ -2,25 +2,25 @@
 <LanguageData>
 
   <!-- EN: Choose your faction's ideoligion -->
-  <ChooseIdeoligion>TODO</ChooseIdeoligion>
+  <ChooseIdeoligion>派閥の思想を選択</ChooseIdeoligion>
   <!-- EN: Create custom -->
-  <CreateCustom>TODO</CreateCustom>
+  <CreateCustom>カスタム作成</CreateCustom>
   <!-- EN: Create new -->
-  <CreateNew>TODO</CreateNew>
+  <CreateNew>新規作成</CreateNew>
   <!-- EN: Create custom ideoligion -->
-  <CreateCustomIdeoligion>TODO</CreateCustomIdeoligion>
+  <CreateCustomIdeoligion>思想をカスタム作成</CreateCustomIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
-  <SelectAnIdeo>TODO</SelectAnIdeo>
+  <SelectAnIdeo>あなたの派閥の思想を左から選択,もしくは</SelectAnIdeo>
   <!-- EN: ideoligion -->
-  <Ideo>TODO</Ideo> 
+  <Ideo>思想</Ideo> 
   <!-- EN: Randomize all -->
-  <RandomizeAll>TODO</RandomizeAll>
+  <RandomizeAll>全てランダム</RandomizeAll>
   <!-- EN: Appearance -->
-  <Appearance>TODO</Appearance>
+  <Appearance>外観</Appearance>
   <!-- EN: Done -->
-  <DoneButton>TODO</DoneButton>
+  <DoneButton>決定</DoneButton>
   <!-- EN: Caused by -->
-  <CausedBy>TODO</CausedBy>
+  <CausedBy>原因は</CausedBy>
   <!-- EN: Belief in -->
   <BeliefInIdeo>TODO</BeliefInIdeo>
   <!-- EN: Information about {0} -->
@@ -34,7 +34,7 @@
   <!-- EN: base -->
   <Base>TODO</Base>
   <!-- EN: min expectation -->
-  <MinExpectation>TODO</MinExpectation>
+  <MinExpectation>最小期待値</MinExpectation>
   <!-- EN: {0} to {1} -->
   <PreceptThoughtMoodRange>TODO</PreceptThoughtMoodRange>
   <!-- EN: Comes from ideo -->
@@ -56,21 +56,21 @@
   <!-- EN: Cancel planting the {0_label}. -->
   <CancelPlantThingDesc>TODO</CancelPlantThingDesc>
   <!-- EN: Disables -->
-  <Disables>TODO</Disables>
+  <Disables>不許可</Disables>
   <!-- EN: Requires one of precepts -->
-  <RequiresOnePrecept>TODO</RequiresOnePrecept>
+  <RequiresOnePrecept>いずれかの教訓が必要</RequiresOnePrecept>
   <!-- EN: Required precepts -->
-  <RequiredPrecepts>TODO</RequiredPrecepts>
+  <RequiredPrecepts>必要な教訓</RequiredPrecepts>
   <!-- EN: Required rituals -->
-  <RequiredRituals>TODO</RequiredRituals>
+  <RequiredRituals>必要な儀式</RequiredRituals>
   <!-- EN: Disables precepts -->
-  <DisablesPrecepts>TODO</DisablesPrecepts>
+  <DisablesPrecepts>教訓が使用不可</DisablesPrecepts>
   <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>TODO</DisablesPreceptsCount>
+  <DisablesPreceptsCount>{0}の教訓が使えなくなります.</DisablesPreceptsCount>
   <!-- EN: Styles -->
-  <Styles>TODO</Styles>
+  <Styles>スタイル</Styles>
   <!-- EN: Chance to have precept -->
-  <ChanceToHavePrecept>TODO</ChanceToHavePrecept>
+  <ChanceToHavePrecept>確率で教訓を覚える</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
   <FavoriteColorTooltip>TODO</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
@@ -497,7 +497,7 @@
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
   <CannotExtractSkull>TODO</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
-  <TipPreviewRitualAmbienceSound>TODO</TipPreviewRitualAmbienceSound>
+  <TipPreviewRitualAmbienceSound>儀式的な雰囲気の音をプレビュー</TipPreviewRitualAmbienceSound>
 
   <!-- EN: Choose -->
   <ChooseStuffForRelic>TODO</ChooseStuffForRelic>

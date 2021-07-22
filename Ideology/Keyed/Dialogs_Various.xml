@@ -14,15 +14,15 @@
   <Date>TODO</Date>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
-  <ChooseStructureMemesInfo>TODO</ChooseStructureMemesInfo>
+  <ChooseStructureMemesInfo>思想の象徴的構造を選択してください.これはシンボルにのみ影響を与え,ゲームのプレイには影響しません.</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
-  <ChooseNormalMemesInfo>TODO</ChooseNormalMemesInfo>
+  <ChooseNormalMemesInfo>{0}~{1}つのミームを選択し,この思想の基本的な考え方を形成してください.一部のミームは,他のものよりも大きくゲームプレイに影響を与えます.</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
-  <NotEnoughMemes>TODO</NotEnoughMemes>
+  <NotEnoughMemes>最低でも{0}つのミームを選択してください.</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
-  <TooManyMemes>TODO</TooManyMemes>
+  <TooManyMemes>選択できるミームは最大でも{0}つまでです.</TooManyMemes>
   <!-- EN: Choose structure. -->
-  <ChooseStructureMeme>TODO</ChooseStructureMeme>
+  <ChooseStructureMeme>構造を選択してください.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
   <IncompatibleMemes>TODO</IncompatibleMemes>
   
@@ -56,15 +56,15 @@
   <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
   <ChooseRoleHint>TODO</ChooseRoleHint>
   <!-- EN: Unlocked by -->
-  <UnlockedByMeme>TODO</UnlockedByMeme>
+  <UnlockedByMeme>アンロックされた原因</UnlockedByMeme>
   <!-- EN: Unlocked roles -->
-  <MemeUnlocksRoles>TODO</MemeUnlocksRoles>
+  <MemeUnlocksRoles>役割をアンロック</MemeUnlocksRoles>
   <!-- EN: Unlocked rituals -->
-  <MemeUnlocksRituals>TODO</MemeUnlocksRituals>
+  <MemeUnlocksRituals>儀式をアンロック</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
   <ChooseRoleRequiredWorkTagsDisabled>TODO</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
-  <YourLeaderTradeBonus>TODO</YourLeaderTradeBonus>
+  <YourLeaderTradeBonus>リーダーボーナス</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>TODO</CannotNotAddRoleApparelDueToMeme>
 
@@ -145,15 +145,15 @@
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
   <PawnUnhappyWithStyleItems>TODO</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescription>TODO</StyleCategoryDescription>
+  <StyleCategoryDescription>スタイルカテゴリは,{IDEO_memberNamePlural}によって作られる一部の建築物,衣服,武器の外観に影響を与えます.複数のカテゴリが同じものに影響を与える場合,左端のカテゴリが適用されます.</StyleCategoryDescription>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
-  <StyleCategoryDescStyleDominance>TODO</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural}は,このスタイルに一致する建築物,床,芸術品を見かけると喜びます.</StyleCategoryDescStyleDominance>
   <!-- EN: {0} style category affects -->
-  <StyleCategoryDetails>TODO</StyleCategoryDetails>
+  <StyleCategoryDetails>{0}のスタイルカテゴリが影響するもの</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->
-  <OverriddenByStyle>TODO</OverriddenByStyle>
+  <OverriddenByStyle>{0}によって上書きされる</OverriddenByStyle>
   <!-- EN: New buildables -->
-  <IdeoMakesBuildingBuildable>TODO</IdeoMakesBuildingBuildable>
+  <IdeoMakesBuildingBuildable>新しく作成可能</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
   <NoneUsableForPawn>TODO</NoneUsableForPawn> 
   <!-- EN: Hair and beards -->
