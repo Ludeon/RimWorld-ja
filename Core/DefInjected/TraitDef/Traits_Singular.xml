@@ -93,8 +93,8 @@
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>イイ人</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. -->
-  <Kind.degreeDatas.kind.description>{PAWN_nameDef}は非常に感じがよく,面倒見のいい人です.{PAWN_pronoun}は決して人を侮辱せず,時には周囲の人の気分を明るくするために,優しい言葉をかけます.{PAWN_pronoun}はまた,外見で人を判断しません.</Kind.degreeDatas.kind.description>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef}は非常に感じがよく,面倒見のいい人です.{PAWN_pronoun}は決して人を侮辱せず,時には周囲の人の気分を明るくするために,優しい言葉をかけます.{PAWN_pronoun}はまた,外見で人を判断しません.{PAWN_possessive}快適さはまた,{PAWN_pronoun}が一般的な意見に従う可能性を高めます.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>マゾヒスト</Masochist.degreeDatas.masochist.label>
