@@ -2,102 +2,102 @@
 <LanguageData>
   
   <!-- EN: Animal calm -->
-  <AnimalCalm.label>TODO</AnimalCalm.label>
+  <AnimalCalm.label>獣鎮め</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
-  <AnimalCalm.description>TODO</AnimalCalm.description>
+  <AnimalCalm.description>特殊な方法で動物とつながり狂った獣を沈静化させます.</AnimalCalm.description>
   <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>TODO</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}は {RECIPIENT_labelShort}の沈静化に成功した.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>TODO</BerserkTrance.label>
+  <BerserkTrance.label>狂戦士化</BerserkTrance.label>
   <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
-  <BerserkTrance.description>TODO</BerserkTrance.description>
+  <BerserkTrance.description>詠唱者は信条的不満を怒りに変えて全身に満たします.通常の限界を超えて身体強化を果たしますが,怒りに我を忘れて制御を失い,近寄る全ての敵を攻撃します.狂戦士状態は3時間続きます.</BerserkTrance.description>
   
   <!-- EN: combat command -->
-  <CombatCommand.label>TODO</CombatCommand.label>
+  <CombatCommand.label>戦闘指揮</CombatCommand.label>
   <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
-  <CombatCommand.description>TODO</CombatCommand.description>
+  <CombatCommand.description>側にいる全員の戦闘スキルを向上させるオーラを発生させます.効果は24時間継続し,その間はリーダーに随行します.</CombatCommand.description>
   
   <!-- EN: conversion ritual -->
-  <ConversionRitual.label>TODO</ConversionRitual.label>
+  <ConversionRitual.label>改宗の儀式</ConversionRitual.label>
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-  <ConversionRitual.description>TODO</ConversionRitual.description>
+  <ConversionRitual.description>あなたの信条に従うよう説得してください。上手く行けば彼らの信条に疑問を抱かせ改宗させることができるかもしれません.裏目に出た場合、彼らは自らの信条に確信を持つでしょう.\n\nこの儀式を特定の場所で開始するには,儀式の場か適した祭壇/表意文字が必要です.</ConversionRitual.description>
   
   <!-- EN: convert -->
-  <Convert.label>TODO</Convert.label>
+  <Convert.label>改宗</Convert.label>
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
-  <Convert.description>TODO</Convert.description>
+  <Convert.description>対象を説得者の信条に改宗させようとします.これによって対象の信念に対する確信を揺さぶります.低下する度合いは話者の交渉スキルに依存します.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>TODO</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}は {RECIPIENT_labelShort}の改宗に失敗しました. {RECIPIENT_labelShort}はその試みに動揺したが, {RECIPIENT_possessive} の確信は {CERTAINTYBEFORE} から{CERTAINTYAFTER}に低下しました.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>TODO</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}を{IDEO}に改宗させました.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <!-- EN: Counsel -->
-  <Counsel.label>TODO</Counsel.label>
+  <Counsel.label>助言</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
-  <Counsel.description>TODO</Counsel.description>
+  <Counsel.description>悲しい記憶の影響が消えるように助言を与えます.成功率は話者の交渉スキルと対象との交友関係に依存します.</Counsel.description>
   <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>TODO</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}への助言に失敗しました. {RECIPIENT_labelShort}は動揺しています.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>TODO</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}への助言に成功し, {2}のムードの影響を取り消しました.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>TODO</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort}は{RECIPIENT_labelShort}への助言に成功し, {MOODBONUS}によって{RECIPIENT_possessive}のムードが上昇しました.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
-  <FarmingCommand.label>TODO</FarmingCommand.label>
+  <FarmingCommand.label>農業指導</FarmingCommand.label>
   <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <FarmingCommand.description>TODO</FarmingCommand.description>
+  <FarmingCommand.description>農業技術のガイダンスを与え,側にいる全員の農業スキルを向上させます.効果は24時間実行者に付随します..</FarmingCommand.description>
   
   <!-- EN: Immunity drive -->
-  <ImmunityDrive.label>TODO</ImmunityDrive.label>
+  <ImmunityDrive.label>免疫強化</ImmunityDrive.label>
   <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
-  <ImmunityDrive.description>TODO</ImmunityDrive.description>
+  <ImmunityDrive.description>肉体を活性化させるモラルサポートを与え,対象の免疫力を丸一日高めます.</ImmunityDrive.description>
   
   <!-- EN: leader speech -->
-  <LeaderSpeech.label>TODO</LeaderSpeech.label>
+  <LeaderSpeech.label>リーダースピーチ</LeaderSpeech.label>
   <!-- EN: Initiate a leader speech. If it goes well, listeners will gain improved mood, respect for the speaker, and possibly new inspirations. If it goes poorly, social damage will occur. -->
-  <LeaderSpeech.description>TODO</LeaderSpeech.description>
+  <LeaderSpeech.description>リーダーの演説を開始します.成功すれば聴衆は気分が良くなり,話者を尊敬し,また新たなインスピレーションを得るでしょう.上手くいかない場合は社交上の問題が発生します.</LeaderSpeech.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommand.label>TODO</MarksmanCommand.label>
+  <MarksmanCommand.label>射撃指揮</MarksmanCommand.label>
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MarksmanCommand.description>TODO</MarksmanCommand.description>
+  <MarksmanCommand.description>射撃統制を行い側にいる全員の射撃スキルを向上させます.効果は24時間実行者に付随します..</MarksmanCommand.description>
   
   <!-- EN: mining command -->
-  <MiningCommand.label>TODO</MiningCommand.label>
+  <MiningCommand.label>鉱山指導</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MiningCommand.description>TODO</MiningCommand.description>
+  <MiningCommand.description>鉱山作業のガイダンスを与え,側にいる全員の鉱夫スキルを向上させます.効果は24時間実行者に付随します.</MiningCommand.description>
   
   <!-- EN: preach health -->
-  <PreachHealth.label>TODO</PreachHealth.label>
+  <PreachHealth.label>健康の教え</PreachHealth.label>
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
-  <PreachHealth.description>TODO</PreachHealth.description>
+  <PreachHealth.description>堅い信条を背景に怪我や病気の人に道徳的な力を説きます.対象者の傷の治癒速度と免疫力が高まります.</PreachHealth.description>
   
   <!-- EN: production command -->
-  <ProductionCommand.label>TODO</ProductionCommand.label>
+  <ProductionCommand.label>生産指導</ProductionCommand.label>
   <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ProductionCommand.description>TODO</ProductionCommand.description>
+  <ProductionCommand.description>生産に関するガイダンスを与え,側にいる全員の建設,工作スキルを向上させます.効果は24時間実行者に付随します.</ProductionCommand.description>
   
   <!-- EN: reassure -->
-  <Reassure.label>TODO</Reassure.label>
+  <Reassure.label>安堵</Reassure.label>
   <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
-  <Reassure.description>TODO</Reassure.description>
+  <Reassure.description>対象の信条に対する確信を高めます.確信を取り戻せるかは話者の交渉スキルに依存します.</Reassure.description>
   <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>TODO</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}を安堵させ, {IDEO}への確信が{RECIPIENT_possessive}向上し, {BEFORECERTAINTY}から{AFTERCERTAINTY}に変化しました.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
   <!-- EN: research command -->
-  <ResearchCommand.label>TODO</ResearchCommand.label>
+  <ResearchCommand.label>研究指導</ResearchCommand.label>
   <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ResearchCommand.description>TODO</ResearchCommand.description>
+  <ResearchCommand.description>提案とメンタルサポートを与え、側にいる全員の研究速度を向上させます.効果は24時間実行者に付随します.</ResearchCommand.description>
   
   <!-- EN: trial -->
-  <Trial.label>TODO</Trial.label>
+  <Trial.label>裁判</Trial.label>
   <!-- EN: Charge someone with a terrible wrongdoing and initiate a trial where they will be either convicted or exonerated. If the target is convicted, they can be freely imprisoned, executed or banished without penalty. The chance of conviction depends on the social abilities of the accuser and accused. -->
-  <Trial.description>TODO</Trial.description>
+  <Trial.description>不正行為を犯した対象を告発し,罪の是非を問う裁判を開始します.対象が有罪判決を受けるとペナルティ無しで投獄,処刑,追放が可能になります.有罪判決が出るかは話者と対象者の交渉スキルに依存します.</Trial.description>
   
   <!-- EN: work drive -->
-  <WorkDrive.label>TODO</WorkDrive.label>
+  <WorkDrive.label>労働強化</WorkDrive.label>
   <!-- EN: Call on a person to work harder for some time. -->
-  <WorkDrive.description>TODO</WorkDrive.description>
+  <WorkDrive.description>しばらくの間もっと労働に励むよう呼びかけます.</WorkDrive.description>
   
 </LanguageData>
