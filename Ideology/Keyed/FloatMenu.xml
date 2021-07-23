@@ -35,13 +35,13 @@
   <!-- EN: Remove precept -->
   <RemovePrecept>教訓を削除</RemovePrecept>
   <!-- EN: Regenerate -->
-  <Regenerate>TODO</Regenerate>
+  <Regenerate>再生成</Regenerate>
   <!-- EN: Cannot edit -->
-  <CannotEdit>TODO</CannotEdit>
+  <CannotEdit>編集できない</CannotEdit>
   <!-- EN: No choices available -->
-  <NoChoicesAvailable>TODO</NoChoicesAvailable>
+  <NoChoicesAvailable>選択肢が選べない</NoChoicesAvailable>
   <!-- EN: Required by meme {0} -->
-  <RequiredByMeme>TODO</RequiredByMeme>
+  <RequiredByMeme>ミーム'{0}'で必要</RequiredByMeme>
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Style category -->
@@ -74,9 +74,9 @@
   <!-- EN: change style -->
   <ChangeStyle>スタイルを変更</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
-  <DeitiesRequired>TODO</DeitiesRequired>
+  <DeitiesRequired>{0}人の{DEITYNOUN}が必要</DeitiesRequired>
   <!-- EN: deity -->
-  <Deity>TODO</Deity>
+  <Deity>神格</Deity>
   <!-- EN: requires meme -->
   <RequiresMeme>ミームが必要</RequiresMeme>
   <!-- EN: requires one of -->
