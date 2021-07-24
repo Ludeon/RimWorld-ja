@@ -20,9 +20,9 @@
   <!-- EN: Done -->
   <DoneButton>決定</DoneButton>
   <!-- EN: Caused by -->
-  <CausedBy>原因は</CausedBy>
+  <CausedBy>原因</CausedBy>
   <!-- EN: Belief in -->
-  <BeliefInIdeo>TODO</BeliefInIdeo>
+  <BeliefInIdeo>信念である</BeliefInIdeo>
   <!-- EN: Information about {0} -->
   <Reward_RelicInfo>TODO</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
@@ -72,15 +72,15 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>確率で教訓を覚える</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>TODO</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,スタイリングステーションで衣服の色を変更できます.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
-  <SetIdeoColor>TODO</SetIdeoColor>
+  <SetIdeoColor>思想の色を設定</SetIdeoColor>
   <!-- EN: Set favorite color -->
-  <SetFavoriteColor>TODO</SetFavoriteColor>
+  <SetFavoriteColor>好きな色を設定</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
-  <ConfigureIdeoligion>TODO</ConfigureIdeoligion>
+  <ConfigureIdeoligion>派閥の思想を設定する</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
-  <NotEnoughDye>TODO</NotEnoughDye>
+  <NotEnoughDye>十分な染料がありません.</NotEnoughDye>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
   <NotEnoughDyeWillRecolorApparel>TODO</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
@@ -93,15 +93,15 @@
   <Everyone>TODO</Everyone>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
-  <RitualTargetGraveInfo>TODO</RitualTargetGraveInfo>
+  <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓です.</RitualTargetGraveInfo>
   <!-- EN: An empty grave to mourn {PAWN_labelShort}'s passing. -->
-  <RitualTargetEmptyGraveInfo>TODO</RitualTargetEmptyGraveInfo>
+  <RitualTargetEmptyGraveInfo>{PAWN_labelShort}の死を悼むための空の墓です.</RitualTargetEmptyGraveInfo>
   <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
-  <RitualTargetGraveInfoAbstract>TODO</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstract>{IDEO_memberNameIndef}の死体を納めた墓</RitualTargetGraveInfoAbstract>
   <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
-  <RitualTargetEmptyGraveInfoAbstract>TODO</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓です.</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
-  <RitualTargetGraveInfoMustBeBuried>TODO</RitualTargetGraveInfoMustBeBuried>
+  <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}の死体を最初に埋める必要がある</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
   <RitualTargetGatherSpotInfo>TODO</RitualTargetGatherSpotInfo>
   <!-- EN: Altar or any ritual spot. -->
@@ -169,7 +169,7 @@
   <!-- EN: negative -->
   <RitualAttachedOutcomes_Negative>TODO</RitualAttachedOutcomes_Negative>
   <!-- EN: If the {0} is {1} -->
-  <RitualAttachedOutcomesInfo>TODO</RitualAttachedOutcomesInfo>
+  <RitualAttachedOutcomesInfo>もし{0}が{1}出来事であれば</RitualAttachedOutcomesInfo>
   <!-- EN: Upon any {0} outcome -->
   <RitualAttachedApplliesForOutcome>TODO</RitualAttachedApplliesForOutcome>
   <!-- EN: Upon any {0} outcome -->
@@ -194,30 +194,30 @@
   <!-- EN: Minimum expectations -->
   <IdeoBuildingMinimumExpectations>TODO</IdeoBuildingMinimumExpectations>
   <!-- EN: size -->
-  <Size>TODO</Size>
+  <Size>サイズ</Size>
   <!-- EN: cost -->
-  <Cost>TODO</Cost>
+  <Cost>コスト</Cost>
   <!-- EN: optional -->
-  <Optional>TODO</Optional>
+  <Optional>任意</Optional>
   <!-- EN: expectations -->
-  <Expectations>TODO</Expectations>
+  <Expectations>期待値</Expectations>
   <!-- EN: Can start any time -->
-  <RitualStartAnyTime>TODO</RitualStartAnyTime>
+  <RitualStartAnyTime>いつでも開始可能</RitualStartAnyTime>
   <!-- EN: Can start after event -->
-  <RitualStartEvent>TODO</RitualStartEvent>
+  <RitualStartEvent>イベント後に開始可能</RitualStartEvent>
   <!-- EN: Focus objects -->
-  <RitualFocusObjects>TODO</RitualFocusObjects>
+  <RitualFocusObjects>焦点を当てるオブジェクト</RitualFocusObjects>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
-  <RitualRepeatPenaltyTip>TODO</RitualRepeatPenaltyTip>
+  <RitualRepeatPenaltyTip>{0}日以内に儀式を繰り返すと質が低下します.前回の儀式から{1}日が経過しているため,現在の品質低下は{2}です.このペナルティは現在から{3}日後にゼロになります.</RitualRepeatPenaltyTip>
   <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>TODO</RitualParticipatingRoles>
+  <RitualParticipatingRoles>参加する役割</RitualParticipatingRoles>
   <!-- EN: For best quality, start the {0} at {1}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart1>TODO</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>最高の品質を得るためには,{0}を{1}から開始してください.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart2>TODO</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>現在{0}は{1_labelShortIndef}で開始されています.</RitualOutcomeCompTip_RitualTargetDefsPart2>
 
   <!-- EN: For slave use -->
-  <ForSlaveUse>TODO</ForSlaveUse>
+  <ForSlaveUse>奴隷用</ForSlaveUse>
   <!-- EN: Slave -->
   <Slave>奴隷</Slave>
   <!-- EN: If you sell someone to any faction besides their own, they become slaves. -->
@@ -236,26 +236,26 @@
 
   <!-- Role requirements -->
   <!-- EN: Requirements -->
-  <RoleRequirementsLabel>TODO</RoleRequirementsLabel>
+  <RoleRequirementsLabel>必要条件</RoleRequirementsLabel>
   <!-- EN: Passive effects -->
-  <RoleEffectsLabel>TODO</RoleEffectsLabel>
+  <RoleEffectsLabel>パッシブ効果</RoleEffectsLabel>
   <!-- EN: Must be {0} -->
-  <RoleRequirementLabelSameIdeo>TODO</RoleRequirementLabelSameIdeo>
+  <RoleRequirementLabelSameIdeo>{0}である必要</RoleRequirementLabelSameIdeo>
   <!-- EN: Must be {0} -->
-  <RoleRequirementLabelSupremeGender>TODO</RoleRequirementLabelSupremeGender>
+  <RoleRequirementLabelSupremeGender>{0}である必要</RoleRequirementLabelSupremeGender>
 
   <!-- EN: Disabled work -->
-  <RoleDisabledWorkLabel>TODO</RoleDisabledWorkLabel>
+  <RoleDisabledWorkLabel>行わなくなる仕事</RoleDisabledWorkLabel>
   <!-- EN: Abilities -->
-  <RoleGrantedAbilitiesLabel>TODO</RoleGrantedAbilitiesLabel>
+  <RoleGrantedAbilitiesLabel>能力</RoleGrantedAbilitiesLabel>
   <!-- EN: Required apparel -->
-  <RoleRequiredApparelLabel>TODO</RoleRequiredApparelLabel>
+  <RoleRequiredApparelLabel>必要な衣服</RoleRequiredApparelLabel>
   <!-- EN: Has role in rituals -->
-  <RoleRitualsLabel>TODO</RoleRitualsLabel>
+  <RoleRitualsLabel>儀式で行う役割</RoleRitualsLabel>
   <!-- EN: This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}. -->
-  <RoleBelieverCountDesc>TODO</RoleBelieverCountDesc>
+  <RoleBelieverCountDesc>この役割は,この派閥に{0}が{1}人いるときにアクティブになります.{2}が{3}人しかない場合,非アクティブになります.</RoleBelieverCountDesc>
   <!-- EN: Raised by {0} levels. -->
-  <RoleExpectationOffset>TODO</RoleExpectationOffset>
+  <RoleExpectationOffset>レベル{0}で発生します.</RoleExpectationOffset>
   <!-- EN: The {0} has higher expectations. -->
   <RoleRaisedExpectation>TODO</RoleRaisedExpectation>
   <!-- EN: Led by {0} -->
