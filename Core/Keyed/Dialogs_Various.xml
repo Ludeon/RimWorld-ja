@@ -292,6 +292,18 @@
   <ArmorPenetration>アーマー貫通力(AP)</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
   <ArmorPenetrationExplanation>アーマー貫通力(AP)とは,この武器が命中する度に無視できるアーマーの値です.\n\nもしAP値がターゲットのアーマー値よりも大きい場合,そのターゲットは「非装甲」とみなせます.逆にそうでないときは,ターゲットのアーマー値からAP値を引き算します.</ArmorPenetrationExplanation>
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>建築物ダメージ倍率</BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>全て建物へのダメージにはこの値が乗算されます.</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>建築物ダメージ倍率(通行不能)</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>全て通行不能な建物へのダメージにはこの値が乗算されます.</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>建築物ダメージ倍率(通行可)</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>全て通行可能な建物へのダメージにはこの値が乗算されます.</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>命中度</Accuracy>
   <!-- EN: Burst shot count -->
@@ -1101,8 +1113,8 @@
   <AutoSlaugtherHeaderColTotal>合計</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
   <AutoSlaugtherHeaderColOther>その他</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
-  <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
-  <AutoSlaugtherTip>家畜の数が最大数を超えた場合,超えた分の家畜を老齢順に屠殺します.</AutoSlaugtherTip>
+  <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
+  <AutoSlaugtherTip>入植者は最初に,妊娠していない家畜を老齢順に屠殺し,次に妊娠中の家畜を出産日が遠い順に屠殺します.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
   <AnimalMaleAdult>オスの成獣</AnimalMaleAdult>
   <!-- EN: Male young -->

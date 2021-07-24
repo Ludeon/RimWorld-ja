@@ -66,7 +66,7 @@
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>キャラバンに訓練されていない家畜がいる場合,敵を襲撃する前にそれらを別のキャラバンに分割して,戦闘から遠ざけることができます.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: Don't forget to pack medicine on your caravans. -->
-  <GameplayTips.tips.32>キャラバン時は薬を持っていくことを忘れないでください.</GameplayTips.tips.32>
+  <GameplayTips.CaravanDontForgetMedicine>キャラバン時は薬を持っていくことを忘れないでください.</GameplayTips.CaravanDontForgetMedicine>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>RimWorldは物語を紡ぐものであり,プレイスキルの試験ではありません.廃墟となったコロニーは劇的な悲劇であり,失敗ではありません.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -126,11 +126,11 @@
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>深刻な頓挫でさえ,ゲームの終了を意味しません.負け戦を楽しんでみてください.多くの場合,最高のストーリーは最も暗い状況から発生します.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
-  <GameplayTips.tips.62>武器の備蓄は囚人部屋から遠ざけてください.囚人の脱獄時に銃や爆発物がそばに置いてあると,非常に危険です.</GameplayTips.tips.62>
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>武器の備蓄は囚人部屋から遠ざけてください.囚人の脱獄時に銃や爆発物がそばに置いてあると,非常に危険です.</GameplayTips.KeepWeaponsAwayFromPrisoners>
   <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
-  <GameplayTips.tips.63>動物を手懐けるときは,彼らを養うのに適した種類と十分な量の餌があることを確認してください.</GameplayTips.tips.63>
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>動物を手懐けるときは,彼らを養うのに適した種類と十分な量の餌があることを確認してください.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
   <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
-  <GameplayTips.tips.64>出入り口に岩や鉄くずの塊を落とすと,扉が閉まらなくなり,敵対的な野生生物や襲撃者に対して無防備になります.</GameplayTips.tips.64>
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>出入り口に岩や鉄くずの塊を落とすと,扉が閉まらなくなり,敵対的な野生生物や襲撃者に対して無防備になります.</GameplayTips.DroppingChunksWillForceDoorsOpen>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>無菌タイルを敷かれた清潔な研究室は,研究速度へボーナスを与えます.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->

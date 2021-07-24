@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: guilty -->
-  <Guilty.label>TODO</Guilty.label>
+  <Guilty.label>有罪者</Guilty.label>
   <!-- EN: Our people carry guilt from ages past. Others are more worthy. -->
-  <Guilty.description>TODO</Guilty.description>
+  <Guilty.description>私たちは何年も前から罪悪感を覚えています.他人の方がもっと価値があります.</Guilty.description>
   <!-- EN:
     <li>creation(tag=meme_Guilty)        ->[deity0_name] raped and murdered and stole, and a great guilt was upon [deity0_objective], and in [deity0_possessive] selfishness [deity0_pronoun] cast this guilt upon [deity0_possessive] chosen people, and all were filthy with it.</li>
     <li>episode(uses=1,tag=meme_Guilty)  ->The believers went forth and conquered, burned, and raped for a thousand years, and [deity0_name]'s grief at their depravity consumed [deity0_objective].</li>
@@ -40,44 +40,59 @@
     <li>memeMoralist->apologizer</li>
     <li>memeMoralist->atoner</li>
   -->
-  <Guilty.generalRules.rulesStrings>TODO</Guilty.generalRules.rulesStrings>
+  <Guilty.generalRules.rulesStrings>
+    <li>memeAdjective->低い</li>
+    <li>memeAdjective->下劣な</li>
+    <li>memeAdjective->恥ずべき</li>
+    <li>memeAdjective->卑しい</li>
+    <li>memeAdjective->後悔する</li>
+    <li>memeHyphenPrefix->サブ</li>
+    <li>memeConcept->罪</li>
+    <li>memeConcept->後悔</li>
+    <li>memeConcept->贖罪</li>
+    <li>memeConcept->恥辱</li>
+    <li>memeLeaderNoun->懺悔者</li>
+    <li>memeLeaderNoun->罪人</li>
+    <li>memeMoralist->詫び人</li>
+    <li>memeMoralist->償う人</li>
+  </Guilty.generalRules.rulesStrings>
   <!-- EN: guiltist -->
-  <Guilty.symbolPacks.0.adjective>TODO</Guilty.symbolPacks.0.adjective>
+  <Guilty.symbolPacks.0.adjective>有罪意識の</Guilty.symbolPacks.0.adjective>
   <!-- EN: Guiltism -->
-  <Guilty.symbolPacks.0.ideoName>TODO</Guilty.symbolPacks.0.ideoName>
+  <Guilty.symbolPacks.0.ideoName>有罪意識</Guilty.symbolPacks.0.ideoName>
   <!-- EN: guilty One -->
-  <Guilty.symbolPacks.0.member>TODO</Guilty.symbolPacks.0.member>
+  <Guilty.symbolPacks.0.member>有罪者</Guilty.symbolPacks.0.member>
   <!-- EN: guilt -->
-  <Guilty.symbolPacks.0.theme>TODO</Guilty.symbolPacks.0.theme>
+  <Guilty.symbolPacks.0.theme>有罪</Guilty.symbolPacks.0.theme>
   <!-- EN: sinist -->
-  <Guilty.symbolPacks.1.adjective>TODO</Guilty.symbolPacks.1.adjective>
+  <Guilty.symbolPacks.1.adjective>罪人意識の</Guilty.symbolPacks.1.adjective>
   <!-- EN: Sinism -->
-  <Guilty.symbolPacks.1.ideoName>TODO</Guilty.symbolPacks.1.ideoName>
+  <Guilty.symbolPacks.1.ideoName>罪人意識</Guilty.symbolPacks.1.ideoName>
   <!-- EN: sinner -->
-  <Guilty.symbolPacks.1.member>TODO</Guilty.symbolPacks.1.member>
+  <Guilty.symbolPacks.1.member>罪人</Guilty.symbolPacks.1.member>
   <!-- EN: sin -->
-  <Guilty.symbolPacks.1.theme>TODO</Guilty.symbolPacks.1.theme>
+  <Guilty.symbolPacks.1.theme>罪</Guilty.symbolPacks.1.theme>
   <!-- EN: shamist -->
-  <Guilty.symbolPacks.2.adjective>TODO</Guilty.symbolPacks.2.adjective>
+  <Guilty.symbolPacks.2.adjective>恥辱意識の</Guilty.symbolPacks.2.adjective>
   <!-- EN: Shamism -->
-  <Guilty.symbolPacks.2.ideoName>TODO</Guilty.symbolPacks.2.ideoName>
+  <Guilty.symbolPacks.2.ideoName>恥辱意識</Guilty.symbolPacks.2.ideoName>
   <!-- EN: ashamer -->
-  <Guilty.symbolPacks.2.member>TODO</Guilty.symbolPacks.2.member>
+  <Guilty.symbolPacks.2.member>恥辱者</Guilty.symbolPacks.2.member>
   <!-- EN: shame -->
-  <Guilty.symbolPacks.2.theme>TODO</Guilty.symbolPacks.2.theme>
+  <Guilty.symbolPacks.2.theme>恥辱</Guilty.symbolPacks.2.theme>
   <!-- EN: atonist -->
-  <Guilty.symbolPacks.3.adjective>TODO</Guilty.symbolPacks.3.adjective>
+  <Guilty.symbolPacks.3.adjective>贖罪主義の</Guilty.symbolPacks.3.adjective>
   <!-- EN: Atonism -->
-  <Guilty.symbolPacks.3.ideoName>TODO</Guilty.symbolPacks.3.ideoName>
+  <Guilty.symbolPacks.3.ideoName>贖罪主義</Guilty.symbolPacks.3.ideoName>
   <!-- EN: atoner -->
-  <Guilty.symbolPacks.3.member>TODO</Guilty.symbolPacks.3.member>
+  <Guilty.symbolPacks.3.member>贖罪者</Guilty.symbolPacks.3.member>
   <!-- EN: atonement -->
-  <Guilty.symbolPacks.3.theme>TODO</Guilty.symbolPacks.3.theme>
+  <Guilty.symbolPacks.3.theme>贖罪</Guilty.symbolPacks.3.theme>
   
   <!-- EN: loyalist -->
-  <Loyalist.label>TODO</Loyalist.label>
+  <Loyalist.label>忠義者</Loyalist.label>
   <!-- EN: We stand for our own before others. -->
-  <Loyalist.description>TODO</Loyalist.description>
+  <Loyalist.description>私たちは他の人よりも自分たちに所属する人物を支持します.</Loyalist.description>
   <!-- EN:
     <li>creation(tag=meme_Loyalist)        ->[deity0_name] admonished the good peoples to fight only those who fought without just cause.</li>
     <li>episode(uses=1,tag=meme_Loyalist)  ->A war with the unbelievers followed. One of the believers, [believer_nameFull], seeking advantage, invited the heathens inside the land of [deity0_name], and [deity0_name] became furious at [believer_possessive] betrayal, and struck [believer_objective] down ten thousand times.</li>
@@ -107,36 +122,43 @@
     <li>memeConcept->promises</li>
     <li>memeMoralist->loyalizer</li>
   -->
-  <Loyalist.generalRules.rulesStrings>TODO</Loyalist.generalRules.rulesStrings>
+  <Loyalist.generalRules.rulesStrings>
+    <li>memeAdjective->義理堅い</li>
+    <li>memeAdjective->愛国的な</li>
+    <li>memeAdjective->従順な</li>
+    <li>memeConcept->家族</li>
+    <li>memeConcept->保証</li>
+    <li>memeMoralist->忠誠者</li>
+  </Loyalist.generalRules.rulesStrings>
   <!-- EN: loyal -->
-  <Loyalist.symbolPacks.0.adjective>TODO</Loyalist.symbolPacks.0.adjective>
+  <Loyalist.symbolPacks.0.adjective>忠義主義の</Loyalist.symbolPacks.0.adjective>
   <!-- EN: Loyaltism -->
-  <Loyalist.symbolPacks.0.ideoName>TODO</Loyalist.symbolPacks.0.ideoName>
+  <Loyalist.symbolPacks.0.ideoName>忠義主義</Loyalist.symbolPacks.0.ideoName>
   <!-- EN: loyalist -->
-  <Loyalist.symbolPacks.0.member>TODO</Loyalist.symbolPacks.0.member>
+  <Loyalist.symbolPacks.0.member>忠義主義者</Loyalist.symbolPacks.0.member>
   <!-- EN: loyalty -->
-  <Loyalist.symbolPacks.0.theme>TODO</Loyalist.symbolPacks.0.theme>
+  <Loyalist.symbolPacks.0.theme>忠義</Loyalist.symbolPacks.0.theme>
   <!-- EN: fealtist -->
-  <Loyalist.symbolPacks.1.adjective>TODO</Loyalist.symbolPacks.1.adjective>
+  <Loyalist.symbolPacks.1.adjective>信義主義の</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->
-  <Loyalist.symbolPacks.1.ideoName>TODO</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.ideoName>信義主義</Loyalist.symbolPacks.1.ideoName>
   <!-- EN: fealtor -->
-  <Loyalist.symbolPacks.1.member>TODO</Loyalist.symbolPacks.1.member>
+  <Loyalist.symbolPacks.1.member>信義主義者</Loyalist.symbolPacks.1.member>
   <!-- EN: fealty -->
-  <Loyalist.symbolPacks.1.theme>TODO</Loyalist.symbolPacks.1.theme>
+  <Loyalist.symbolPacks.1.theme>信義</Loyalist.symbolPacks.1.theme>
   <!-- EN: fidelist -->
-  <Loyalist.symbolPacks.2.adjective>TODO</Loyalist.symbolPacks.2.adjective>
+  <Loyalist.symbolPacks.2.adjective>忠実主義の</Loyalist.symbolPacks.2.adjective>
   <!-- EN: Fidelism -->
-  <Loyalist.symbolPacks.2.ideoName>TODO</Loyalist.symbolPacks.2.ideoName>
+  <Loyalist.symbolPacks.2.ideoName>忠実主義</Loyalist.symbolPacks.2.ideoName>
   <!-- EN: fidelor -->
-  <Loyalist.symbolPacks.2.member>TODO</Loyalist.symbolPacks.2.member>
+  <Loyalist.symbolPacks.2.member>忠実主義者</Loyalist.symbolPacks.2.member>
   <!-- EN: fidelity -->
-  <Loyalist.symbolPacks.2.theme>TODO</Loyalist.symbolPacks.2.theme>
+  <Loyalist.symbolPacks.2.theme>忠実</Loyalist.symbolPacks.2.theme>
   
   <!-- EN: supremacist -->
-  <Supremacist.label>TODO</Supremacist.label>
+  <Supremacist.label>支配者</Supremacist.label>
   <!-- EN: Our people should dominate all others. -->
-  <Supremacist.description>TODO</Supremacist.description>
+  <Supremacist.description>私たちは他の全てを支配する側である必要があります.</Supremacist.description>
   <!-- EN:
     <li>creation(tag=meme_Supremacist)        ->The people of the [place_summary] [place_name] squabbled endlessly, and [deity0_name] became tired of discord and anointed the [memberNamePlural] as the rightful rulers of all.</li>
     <li>episode(uses=1,tag=meme_Supremacist)  ->The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, in my name, until I am worshipped throughout the universe and the true peace may finally reign."</li>
@@ -179,24 +201,46 @@
     <li>memeLeaderNoun->conqueror</li>
     <li>memeLeaderNoun->victor</li>
   -->
-  <Supremacist.generalRules.rulesStrings>TODO</Supremacist.generalRules.rulesStrings>
+  <Supremacist.generalRules.rulesStrings>
+    <li>memeAdjective->最高位の</li>
+    <li>memeAdjective->高位の</li>
+    <li>memeAdjective->偉大な</li>
+    <li>memeAdjective->主要な</li>
+    <li>memeAdjective->完全な</li>
+    <li>memeAdjective->最良の</li>
+    <li>memeAdjective->強健な</li>
+    <li>memeCreed->軍人</li>
+    <li>memeCreed->軍隊</li>
+    <li>memeHyphenPrefix->管理者</li>
+    <li>memeConcept->戦争</li>
+    <li>memeConcept->暴力</li>
+    <li>memeConcept->支配</li>
+    <li>memeLeaderNoun->将軍</li>
+    <li>memeLeaderNoun->指揮官</li>
+    <li>memeLeaderNoun->高官</li>
+    <li>memeLeaderNoun->拳</li>
+    <li>memeLeaderNoun->支配者</li>
+    <li>memeLeaderNoun->独裁者</li>
+    <li>memeLeaderNoun->征服者</li>
+    <li>memeLeaderNoun->勝者</li>
+  </Supremacist.generalRules.rulesStrings>
   <!-- EN: dominant -->
-  <Supremacist.symbolPacks.0.adjective>TODO</Supremacist.symbolPacks.0.adjective>
+  <Supremacist.symbolPacks.0.adjective>支配主義の</Supremacist.symbolPacks.0.adjective>
   <!-- EN: dominator -->
-  <Supremacist.symbolPacks.0.member>TODO</Supremacist.symbolPacks.0.member>
+  <Supremacist.symbolPacks.0.member>支配主義者</Supremacist.symbolPacks.0.member>
   <!-- EN: dominance -->
-  <Supremacist.symbolPacks.0.theme>TODO</Supremacist.symbolPacks.0.theme>
+  <Supremacist.symbolPacks.0.theme>支配主義</Supremacist.symbolPacks.0.theme>
   <!-- EN: victoryist -->
-  <Supremacist.symbolPacks.1.adjective>TODO</Supremacist.symbolPacks.1.adjective>
+  <Supremacist.symbolPacks.1.adjective>勝利主義の</Supremacist.symbolPacks.1.adjective>
   <!-- EN: victorist -->
-  <Supremacist.symbolPacks.1.member>TODO</Supremacist.symbolPacks.1.member>
+  <Supremacist.symbolPacks.1.member>勝利主義者</Supremacist.symbolPacks.1.member>
   <!-- EN: victory -->
-  <Supremacist.symbolPacks.1.theme>TODO</Supremacist.symbolPacks.1.theme>
+  <Supremacist.symbolPacks.1.theme>勝利主義</Supremacist.symbolPacks.1.theme>
   <!-- EN: powerist -->
-  <Supremacist.symbolPacks.2.adjective>TODO</Supremacist.symbolPacks.2.adjective>
+  <Supremacist.symbolPacks.2.adjective>力主義の</Supremacist.symbolPacks.2.adjective>
   <!-- EN: poweror -->
-  <Supremacist.symbolPacks.2.member>TODO</Supremacist.symbolPacks.2.member>
+  <Supremacist.symbolPacks.2.member>力主義者</Supremacist.symbolPacks.2.member>
   <!-- EN: power -->
-  <Supremacist.symbolPacks.2.theme>TODO</Supremacist.symbolPacks.2.theme>
+  <Supremacist.symbolPacks.2.theme>力主義</Supremacist.symbolPacks.2.theme>
   
 </LanguageData>

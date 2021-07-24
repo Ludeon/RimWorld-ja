@@ -3,125 +3,125 @@
 
   <!-- Ideoligions -->
   <!-- EN: Deities -->
-  <Deities>TODO</Deities>
+  <Deities>神格</Deities>
   <!-- EN: Show all ideoligions -->
-  <ButtonShowAllIdeoligions>TODO</ButtonShowAllIdeoligions>
+  <ButtonShowAllIdeoligions>全ての思想を見る</ButtonShowAllIdeoligions>
   <!-- EN: Ideoligion of -->
-  <IdeoligionOf>TODO</IdeoligionOf>
+  <IdeoligionOf>思想</IdeoligionOf>
   <!-- EN: Memes -->
-  <Memes>TODO</Memes>
+  <Memes>ミーム</Memes>
   <!-- EN: Narrative -->
-  <CoreNarrative>TODO</CoreNarrative>
+  <CoreNarrative>物語</CoreNarrative>
   <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
-  <CoreNarrativeDesc>TODO</CoreNarrativeDesc>
+  <CoreNarrativeDesc>この思想の核となる物語です.ゲームのプレイには影響を与えません.</CoreNarrativeDesc>
   <!-- EN: Edit narrative -->
-  <EditNarrative>TODO</EditNarrative>
+  <EditNarrative>物語を編集</EditNarrative>
   <!-- EN: Clicking this button toggles a lock the current ideoligion narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
-  <LockButtonDesc>TODO</LockButtonDesc>
+  <LockButtonDesc>このボタンをクリックすると,現在の思想の物語のロックを切り替えます.ロックされている場合,思想が変更されても物語のテキストは自動再生成されません.</LockButtonDesc>
   <!-- EN: Narrative lock is currently on. The narrative will not auto-regenerate. -->
-  <LockInOn>TODO</LockInOn>
+  <LockInOn>物語のロックは現在オンになっています.物語は自動再生成されません.</LockInOn>
   <!-- EN: Narrative lock is currently off. The narrative text can auto-regenerate. -->
-  <LockInOff>TODO</LockInOff>
+  <LockInOff>物語のロックは現在オフになっています.物語のテキストは自動再生成できます.</LockInOff>
   <!-- EN: Precepts -->
-  <Precepts>TODO</Precepts>
+  <Precepts>教訓</Precepts>
   <!-- EN: Rituals -->
-  <Rituals>TODO</Rituals>
+  <Rituals>儀式</Rituals>
   <!-- EN: Roles -->
-  <IdeoRoles>TODO</IdeoRoles>
+  <IdeoRoles>役割</IdeoRoles>
   <!-- EN: Buildings -->
-  <IdeoBuildings>TODO</IdeoBuildings>
+  <IdeoBuildings>建築物</IdeoBuildings>
   <!-- EN: Relics -->
-  <IdeoRelics>TODO</IdeoRelics>
+  <IdeoRelics>レリック</IdeoRelics>
   <!-- EN: Preferred apparel -->
-  <IdeoApparel>TODO</IdeoApparel>
+  <IdeoApparel>服装の好み</IdeoApparel>
   <!-- EN: apparel desire -->
-  <IdeoApparelDesire>TODO</IdeoApparelDesire>
+  <IdeoApparelDesire>服装欲求</IdeoApparelDesire>
   <!-- EN: Won't do -->
-  <UnwillingToDoIdeoAction>TODO</UnwillingToDoIdeoAction>
+  <UnwillingToDoIdeoAction>行わない</UnwillingToDoIdeoAction>
   <!-- EN: Stats -->
   <PreceptStats>TODO</PreceptStats>
   <!-- EN: Prohibitions -->
-  <Prohibitions>TODO</Prohibitions>
+  <Prohibitions>禁止</Prohibitions>
   <!-- EN: Opinions -->
-  <Opinions>TODO</Opinions>
+  <Opinions>意見</Opinions>
   <!-- EN: Randomize name -->
-  <RandomizeName>TODO</RandomizeName>
+  <RandomizeName>名前をランダム生成</RandomizeName>
   <!-- EN: Randomize precepts -->
-  <RandomizePrecepts>TODO</RandomizePrecepts>
+  <RandomizePrecepts>教訓をランダム生成</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>TODO</AddPrecept>
+  <AddPrecept>教訓を追加</AddPrecept>
   <!-- EN: Randomize deities -->
-  <RandomizeDeities>TODO</RandomizeDeities>
+  <RandomizeDeities>神格をランダム生成</RandomizeDeities>
   <!-- EN: Add deity -->
-  <AddDeity>TODO</AddDeity>
+  <AddDeity>神格を追加</AddDeity>
   <!-- EN: Choose memes -->
-  <ChooseMemes>TODO</ChooseMemes>
+  <ChooseMemes>ミームを選択</ChooseMemes>
   <!-- EN: Choose structure -->
-  <ChooseStructure>TODO</ChooseStructure>
+  <ChooseStructure>構造を選択</ChooseStructure>
   <!-- EN: Choose culture -->
-  <ChooseCulture>TODO</ChooseCulture>
+  <ChooseCulture>文化を選択</ChooseCulture>
   <!-- EN: Culture -->
-  <Culture>TODO</Culture>
+  <Culture>文化</Culture>
   <!-- EN: Culture affects names, appearances, and symbols. -->
-  <CultureTip>TODO</CultureTip>
+  <CultureTip>文化は名前,外観,およびシンボルに影響を与えます.</CultureTip>
   <!-- EN: Structure -->
-  <StructureMeme>TODO</StructureMeme>
+  <StructureMeme>構造</StructureMeme>
   <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
-  <StructureMemeTip>TODO</StructureMemeTip>
+  <StructureMemeTip>思想の構造は,万物の道徳の成り立ちを形成する力と実体の種類を決定します.ゲームのプレイに直接的な影響はありません.</StructureMemeTip>
   <!-- EN: Adjective -->
-  <Adjective>TODO</Adjective>
+  <Adjective>形容詞</Adjective>
   <!-- EN: Ritual room -->
-  <WorshipRoom>TODO</WorshipRoom>
+  <WorshipRoom>儀式の部屋</WorshipRoom>
   <!-- EN: Member noun -->
-  <IdeoMembers>TODO</IdeoMembers>
+  <IdeoMembers>教徒の名詞</IdeoMembers>
   <!-- EN: Member plural -->
-  <IdeoMembersPlural>TODO</IdeoMembersPlural>
+  <IdeoMembersPlural>教徒の複数形</IdeoMembersPlural>
   <!-- EN: Edit symbols -->
-  <EditSymbols>TODO</EditSymbols>
+  <EditSymbols>シンボルを編集</EditSymbols>
   <!-- EN: Edit deity -->
-  <EditDeity>TODO</EditDeity>
+  <EditDeity>神格を編集</EditDeity>
   <!-- EN: Edit required apparel -->
-  <EditApparelRequirement>TODO</EditApparelRequirement>
+  <EditApparelRequirement>必要な衣服を編集</EditApparelRequirement>
   <!-- EN: Edit name -->
-  <EditName>TODO</EditName>
+  <EditName>名前を編集</EditName>
   <!-- EN: Any time -->
-  <StartingCondition_Anytime>TODO</StartingCondition_Anytime>
+  <StartingCondition_Anytime>いつでも</StartingCondition_Anytime>
   <!-- EN: Date -->
-  <StartingCondition_Date>TODO</StartingCondition_Date>
+  <StartingCondition_Date>日付</StartingCondition_Date>
   <!-- EN: Starting condition -->
-  <StartingCondition>TODO</StartingCondition>
+  <StartingCondition>開始条件</StartingCondition>
   <!-- EN: Edit -->
-  <Edit>TODO</Edit>
+  <Edit>編集</Edit>
   <!-- EN: Randomize symbols -->
-  <RandomizeSymbols>TODO</RandomizeSymbols>
+  <RandomizeSymbols>シンボルをランダム生成</RandomizeSymbols>
   <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
-  <RandomizeSymbolsTooltip>TODO</RandomizeSymbolsTooltip>
+  <RandomizeSymbolsTooltip>思想名,アイコン,物語,リーダーの称号,および儀式名や役割名などの他のテキストをランダム生成します.ミームや教訓などのゲームプレイ要素には影響しません.</RandomizeSymbolsTooltip>
   <!-- EN: Click any element to edit it -->
-  <ClickAnyElementToEditIt>TODO</ClickAnyElementToEditIt>
+  <ClickAnyElementToEditIt>要素をクリックして編集</ClickAnyElementToEditIt>
   <!-- EN: Click to edit -->
-  <ClickToEdit>TODO</ClickToEdit>
+  <ClickToEdit>クリックして編集</ClickToEdit>
   <!-- EN: Leader title -->
-  <LeaderTitle>TODO</LeaderTitle>
+  <LeaderTitle>リーダーの称号</LeaderTitle>
   <!-- EN: Deity name -->
-  <DeityName>TODO</DeityName>
+  <DeityName>神格の名前</DeityName>
   <!-- EN: Deity title -->
-  <DeityTitle>TODO</DeityTitle>
+  <DeityTitle>神格の称号</DeityTitle>
   <!-- EN: Deity gender -->
-  <DeityGender>TODO</DeityGender>
+  <DeityGender>神格の性別</DeityGender>
   <!-- EN: Name -->
-  <Name>TODO</Name>
+  <Name>名前</Name>
   <!-- EN: Icon -->
-  <Icon>TODO</Icon>
+  <Icon>アイコン</Icon>
   <!-- EN: Related to meme -->
-  <RelatedToMeme>TODO</RelatedToMeme>
+  <RelatedToMeme>ミームに関連</RelatedToMeme>
   <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
   <IdeoCharityQuestInfo>TODO</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
-  <WorkDisabledSlave>TODO</WorkDisabledSlave>
+  <WorkDisabledSlave>奴隷はこの仕事は行わない</WorkDisabledSlave>
   <!-- EN: Disabled by {0} role -->
-  <WorkDisabledRole>TODO</WorkDisabledRole>
+  <WorkDisabledRole>{0}の役割により不許可</WorkDisabledRole>
   <!-- EN: Affected by traits -->
-  <AffectedByTraits>TODO</AffectedByTraits>
+  <AffectedByTraits>特性の影響を受ける</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
   <CharityQuestTip>TODO</CharityQuestTip>
   <!-- EN: formerly -->
@@ -155,6 +155,7 @@
   <!-- EN: Shooting -->
   <Shooting>TODO</Shooting>
   <!-- EN: Impact -->
+<<<<<<< HEAD
   <IdeoImpact>TODO</IdeoImpact>
   <!-- EN: Overall impact -->
   <IdeoImpactOverall>TODO</IdeoImpactOverall>
@@ -184,6 +185,37 @@
   <IdeoImpactLabel_8>TODO</IdeoImpactLabel_8>
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>TODO</IdeoImpactLabel_9>
+=======
+  <IdeoImpact>影響力</IdeoImpact>
+  <!-- EN: Overall impact -->
+  <IdeoImpactOverall>合計影響力</IdeoImpactOverall>
+  <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
+  <IdeoImpactOverallDesc>一部のミームは,他のミームよりも大きくゲームプレイに影響を与えます.ミームの影響力数値は,ゲームプレイに与える影響の大きさを示しています.</IdeoImpactOverallDesc>
+  <!-- EN: low -->
+  <IdeoMemeImpactLabel_1>低</IdeoMemeImpactLabel_1>
+  <!-- EN: medium -->
+  <IdeoMemeImpactLabel_2>中</IdeoMemeImpactLabel_2>
+  <!-- EN: high -->
+  <IdeoMemeImpactLabel_3>高</IdeoMemeImpactLabel_3>
+  <!-- EN: low -->
+  <IdeoImpactLabel_1>弱</IdeoImpactLabel_1>
+  <!-- EN: low -->
+  <IdeoImpactLabel_2>弱</IdeoImpactLabel_2>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_3>中</IdeoImpactLabel_3>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_4>中</IdeoImpactLabel_4>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_5>強</IdeoImpactLabel_5>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_6>強</IdeoImpactLabel_6>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_7>とても強い</IdeoImpactLabel_7>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_8>とても強い</IdeoImpactLabel_8>
+  <!-- EN: extreme -->
+  <IdeoImpactLabel_9>極度に強い</IdeoImpactLabel_9>
+>>>>>>> 3a0aa1b107b59f48aa6b3371ced9a8dee2631c9e
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>

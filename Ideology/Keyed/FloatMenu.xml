@@ -28,67 +28,67 @@
   <!-- EN: Return to slave bed -->
   <ReturnToSlaveBed>TODO</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
-  <NotAllowedForFaction>TODO</NotAllowedForFaction>
+  <NotAllowedForFaction>この派閥は選択できません</NotAllowedForFaction>
 
   <!-- EN: Remove -->
-  <Remove>TODO</Remove>
+  <Remove>削除</Remove>
   <!-- EN: Remove precept -->
-  <RemovePrecept>TODO</RemovePrecept>
+  <RemovePrecept>教訓を削除</RemovePrecept>
   <!-- EN: Regenerate -->
-  <Regenerate>TODO</Regenerate>
+  <Regenerate>再生成</Regenerate>
   <!-- EN: Cannot edit -->
-  <CannotEdit>TODO</CannotEdit>
+  <CannotEdit>編集できない</CannotEdit>
   <!-- EN: No choices available -->
-  <NoChoicesAvailable>TODO</NoChoicesAvailable>
+  <NoChoicesAvailable>選択肢が選べない</NoChoicesAvailable>
   <!-- EN: Required by meme {0} -->
-  <RequiredByMeme>TODO</RequiredByMeme>
+  <RequiredByMeme>ミーム'{0}'で必要</RequiredByMeme>
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Style category -->
-  <StyleCategory>TODO</StyleCategory>
+  <StyleCategory>スタイルカテゴリー</StyleCategory>
   <!-- EN: Add style category -->
-  <AddStyleCategory>TODO</AddStyleCategory>
+  <AddStyleCategory>スタイルカテゴリーを追加</AddStyleCategory>
   <!-- EN: Can't add more than {0} rituals. -->
-  <MaxRitualCount>TODO</MaxRitualCount>
+  <MaxRitualCount>{0}つを超える儀式は追加できません.</MaxRitualCount>
   <!-- EN: Can't add more than {0} relics. -->
-  <MaxRelicCount>TODO</MaxRelicCount>
+  <MaxRelicCount>{0}個を超える遺物は追加できません.</MaxRelicCount>
   <!-- EN: can't have more than {0} specialists. -->
-  <MaxMultiRolesCount>TODO</MaxMultiRolesCount>
+  <MaxMultiRolesCount>{0}人を超えるスペシャリストは所持できません.</MaxMultiRolesCount>
   <!-- EN: max {0} -->
-  <MaxPreceptCount>TODO</MaxPreceptCount>
+  <MaxPreceptCount>最大{0}</MaxPreceptCount>
   <!-- EN: Set gender -->
-  <SetTargetGender>TODO</SetTargetGender>
+  <SetTargetGender>性別を設定</SetTargetGender>
   <!-- EN: incompatible -->
-  <FactionOrIdeoIncompatible>TODO</FactionOrIdeoIncompatible>
+  <FactionOrIdeoIncompatible>気性が合わない</FactionOrIdeoIncompatible>
   <!-- EN: cannot be worn with assigned apparel -->
-  <BodyPartAlreadyCovered>TODO</BodyPartAlreadyCovered>
+  <BodyPartAlreadyCovered>割り当てた衣服と同時に着用できません</BodyPartAlreadyCovered>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
-  <NoteRoleApparelRequirementEffects>TODO</NoteRoleApparelRequirementEffects>
+  <NoteRoleApparelRequirementEffects>人々は服装の要件が満たされると満足し,反すると不幸になります.</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
   <NeuralSuperchargeNotReady>TODO</NeuralSuperchargeNotReady>
   <!-- EN: already getting -->
-  <NeuralSuperchargeAlreadyGetting>TODO</NeuralSuperchargeAlreadyGetting>
+  <NeuralSuperchargeAlreadyGetting>既に取得済み</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
-  <SetApparelType>TODO</SetApparelType>
+  <SetApparelType>タイプを設定</SetApparelType>
 
   <!-- EN: change style -->
-  <ChangeStyle>TODO</ChangeStyle>
+  <ChangeStyle>スタイルを変更</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
-  <DeitiesRequired>TODO</DeitiesRequired>
+  <DeitiesRequired>{0}人の{DEITYNOUN}が必要</DeitiesRequired>
   <!-- EN: deity -->
-  <Deity>TODO</Deity>
+  <Deity>神格</Deity>
   <!-- EN: requires meme -->
-  <RequiresMeme>TODO</RequiresMeme>
+  <RequiresMeme>ミームが必要</RequiresMeme>
   <!-- EN: requires one of -->
-  <RequiresOneOfMemes>TODO</RequiresOneOfMemes>
+  <RequiresOneOfMemes>いずれかが必要</RequiresOneOfMemes>
   <!-- EN: conflicts with meme -->
-  <ConflictsWithMeme>TODO</ConflictsWithMeme>
+  <ConflictsWithMeme>ミームと競合</ConflictsWithMeme>
   <!-- EN: conflicts with memes -->
-  <ConflictsWithMemes>TODO</ConflictsWithMemes>
+  <ConflictsWithMemes>ミームと競合</ConflictsWithMemes>
   <!-- EN: can only have one altar/ideogram -->
   <IdeoAlreadyHasAltar>TODO</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
-  <RecolorApparel>TODO</RecolorApparel>
+  <RecolorApparel>衣服に着色</RecolorApparel>
 
   <!-- EN: Hack {0} -->
   <Hack>TODO</Hack>

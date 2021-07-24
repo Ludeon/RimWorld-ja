@@ -514,6 +514,10 @@
   <StudyProgress>調査の進捗</StudyProgress>
   <!-- EN: completed -->
   <StudyCompleted>完了</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>これを攻撃して破壊します.</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>これを攻撃して削除します.</RemoveByAttackingTooltip>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1396,9 +1400,9 @@
   <!-- EN: {PAWNNAME} gains psylink -->
   <Reward_BestowingCeremony>{PAWNNAME}がサイリンクを獲得</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
-  <Reward_ShuttleLoot_Label>シャトルを略奪</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot_Label>壊れたシャトル</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>シャトルを解体して略奪することができます</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>シャトルを解体して資源を入手できます</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
   <Reward_PossibleFutureReward_Label>将来的な報酬の可能性</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->

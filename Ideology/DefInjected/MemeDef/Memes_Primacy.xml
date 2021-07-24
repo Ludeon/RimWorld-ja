@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: human primacy -->
-  <HumanPrimacy.label>TODO</HumanPrimacy.label>
+  <HumanPrimacy.label>人間優位</HumanPrimacy.label>
   <!-- EN: Humans are the moral center of the universe. -->
-  <HumanPrimacy.description>TODO</HumanPrimacy.description>
+  <HumanPrimacy.description>人間は宇宙の道徳的中心です.</HumanPrimacy.description>
   <!-- EN:
     <li>creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever.</li>
     <li>episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature.</li>
@@ -37,28 +37,40 @@
     <li>memeLeaderNoun->person</li>
     <li>memeLeaderNoun->sapient</li>
   -->
-  <HumanPrimacy.generalRules.rulesStrings>TODO</HumanPrimacy.generalRules.rulesStrings>
+  <HumanPrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->人間の</li>
+    <li>memeAdjective->人生の</li>
+    <li>memeAdjective->ヒトの</li>
+    <li>memeHyphenPrefix->人類学</li>
+    <li>memeConcept->人類</li>
+    <li>memeConcept->人間性</li>
+    <li>memeLeaderNoun->人間</li>
+    <li>memeLeaderNoun->ヒト</li>
+    <li>memeLeaderNoun->人生</li>
+    <li>memeLeaderNoun->個人</li>
+    <li>memeLeaderNoun->知恵者</li>
+  </HumanPrimacy.generalRules.rulesStrings>
   <!-- EN: humanitist -->
-  <HumanPrimacy.symbolPacks.0.adjective>TODO</HumanPrimacy.symbolPacks.0.adjective>
+  <HumanPrimacy.symbolPacks.0.adjective>人間主義の</HumanPrimacy.symbolPacks.0.adjective>
   <!-- EN: Humanitism -->
-  <HumanPrimacy.symbolPacks.0.ideoName>TODO</HumanPrimacy.symbolPacks.0.ideoName>
+  <HumanPrimacy.symbolPacks.0.ideoName>人間主義</HumanPrimacy.symbolPacks.0.ideoName>
   <!-- EN: humanitor -->
-  <HumanPrimacy.symbolPacks.0.member>TODO</HumanPrimacy.symbolPacks.0.member>
+  <HumanPrimacy.symbolPacks.0.member>人間主義者</HumanPrimacy.symbolPacks.0.member>
   <!-- EN: humanity -->
-  <HumanPrimacy.symbolPacks.0.theme>TODO</HumanPrimacy.symbolPacks.0.theme>
+  <HumanPrimacy.symbolPacks.0.theme>人間</HumanPrimacy.symbolPacks.0.theme>
   <!-- EN: pro-man -->
-  <HumanPrimacy.symbolPacks.1.adjective>TODO</HumanPrimacy.symbolPacks.1.adjective>
+  <HumanPrimacy.symbolPacks.1.adjective>プロ人間の</HumanPrimacy.symbolPacks.1.adjective>
   <!-- EN: Mankindism -->
-  <HumanPrimacy.symbolPacks.1.ideoName>TODO</HumanPrimacy.symbolPacks.1.ideoName>
+  <HumanPrimacy.symbolPacks.1.ideoName>人類主義</HumanPrimacy.symbolPacks.1.ideoName>
   <!-- EN: mankindist -->
-  <HumanPrimacy.symbolPacks.1.member>TODO</HumanPrimacy.symbolPacks.1.member>
+  <HumanPrimacy.symbolPacks.1.member>人類主義者</HumanPrimacy.symbolPacks.1.member>
   <!-- EN: mankind -->
-  <HumanPrimacy.symbolPacks.1.theme>TODO</HumanPrimacy.symbolPacks.1.theme>
+  <HumanPrimacy.symbolPacks.1.theme>人類</HumanPrimacy.symbolPacks.1.theme>
   
   <!-- EN: nature primacy -->
-  <NaturePrimacy.label>TODO</NaturePrimacy.label>
+  <NaturePrimacy.label>自然優位</NaturePrimacy.label>
   <!-- EN: Man is a stain on nature's perfection. -->
-  <NaturePrimacy.description>TODO</NaturePrimacy.description>
+  <NaturePrimacy.description>ヒトは自然の完璧さの汚点です.</NaturePrimacy.description>
   <!-- EN:
     <li>creation(tag=meme_NaturePrimacy)        ->[deity0_name] created nature, and placed man inside it, to act as part of [deity0_possessive] great breathing tapestry of life.</li>
     <li>episode(uses=1,tag=meme_NaturePrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their rapacity, and struck down those who harmed the trees and beasts.</li>
@@ -86,38 +98,46 @@
     <li>memeCreed->meadow</li>
     <li>memeConcept->nature</li>
   -->
-  <NaturePrimacy.generalRules.rulesStrings>TODO</NaturePrimacy.generalRules.rulesStrings>
+  <NaturePrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->自然の</li>
+    <li>memeAdjective->野生の</li>
+    <li>memeAdjective->有機体の</li>
+    <li>memeCreed->巣穴</li>
+    <li>memeCreed->花園</li>
+    <li>memeCreed->牧草地</li>
+    <li>memeConcept->自然</li>
+  </NaturePrimacy.generalRules.rulesStrings>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.adjective>TODO</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.0.adjective>ナチュラリズムの</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->
-  <NaturePrimacy.symbolPacks.0.ideoName>TODO</NaturePrimacy.symbolPacks.0.ideoName>
+  <NaturePrimacy.symbolPacks.0.ideoName>ナチュラリズム</NaturePrimacy.symbolPacks.0.ideoName>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.member>TODO</NaturePrimacy.symbolPacks.0.member>
+  <NaturePrimacy.symbolPacks.0.member>ナチュラリスト</NaturePrimacy.symbolPacks.0.member>
   <!-- EN: nature -->
-  <NaturePrimacy.symbolPacks.0.theme>TODO</NaturePrimacy.symbolPacks.0.theme>
+  <NaturePrimacy.symbolPacks.0.theme>自然</NaturePrimacy.symbolPacks.0.theme>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.adjective>TODO</NaturePrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.symbolPacks.1.adjective>大地主義の</NaturePrimacy.symbolPacks.1.adjective>
   <!-- EN: Earthism -->
-  <NaturePrimacy.symbolPacks.1.ideoName>TODO</NaturePrimacy.symbolPacks.1.ideoName>
+  <NaturePrimacy.symbolPacks.1.ideoName>大地主義</NaturePrimacy.symbolPacks.1.ideoName>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.member>TODO</NaturePrimacy.symbolPacks.1.member>
+  <NaturePrimacy.symbolPacks.1.member>大地主義者</NaturePrimacy.symbolPacks.1.member>
   <!-- EN: earth -->
-  <NaturePrimacy.symbolPacks.1.theme>TODO</NaturePrimacy.symbolPacks.1.theme>
+  <NaturePrimacy.symbolPacks.1.theme>大地</NaturePrimacy.symbolPacks.1.theme>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.adjective>TODO</NaturePrimacy.symbolPacks.2.adjective>
+  <NaturePrimacy.symbolPacks.2.adjective>土壌主義の</NaturePrimacy.symbolPacks.2.adjective>
   <!-- EN: Soilism -->
-  <NaturePrimacy.symbolPacks.2.ideoName>TODO</NaturePrimacy.symbolPacks.2.ideoName>
+  <NaturePrimacy.symbolPacks.2.ideoName>土壌主義</NaturePrimacy.symbolPacks.2.ideoName>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.member>TODO</NaturePrimacy.symbolPacks.2.member>
+  <NaturePrimacy.symbolPacks.2.member>土壌主義者</NaturePrimacy.symbolPacks.2.member>
   <!-- EN: soil -->
-  <NaturePrimacy.symbolPacks.2.theme>TODO</NaturePrimacy.symbolPacks.2.theme>
+  <NaturePrimacy.symbolPacks.2.theme>土壌</NaturePrimacy.symbolPacks.2.theme>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.adjective>TODO</NaturePrimacy.symbolPacks.3.adjective>
+  <NaturePrimacy.symbolPacks.3.adjective>命主義の</NaturePrimacy.symbolPacks.3.adjective>
   <!-- EN: Lifism -->
-  <NaturePrimacy.symbolPacks.3.ideoName>TODO</NaturePrimacy.symbolPacks.3.ideoName>
+  <NaturePrimacy.symbolPacks.3.ideoName>命主義</NaturePrimacy.symbolPacks.3.ideoName>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.member>TODO</NaturePrimacy.symbolPacks.3.member>
+  <NaturePrimacy.symbolPacks.3.member>命主義者</NaturePrimacy.symbolPacks.3.member>
   <!-- EN: life -->
-  <NaturePrimacy.symbolPacks.3.theme>TODO</NaturePrimacy.symbolPacks.3.theme>
+  <NaturePrimacy.symbolPacks.3.theme>命</NaturePrimacy.symbolPacks.3.theme>
   
 </LanguageData>

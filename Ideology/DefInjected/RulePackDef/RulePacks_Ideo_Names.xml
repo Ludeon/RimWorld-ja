@@ -9,12 +9,21 @@
     <li>globalHyphenPrefix->astro</li>
     <li>globalHyphenPrefix->stello</li>
   -->
-  <CultureSpacer.rulePack.rulesStrings>TODO</CultureSpacer.rulePack.rulesStrings>
+  <CultureSpacer.rulePack.rulesStrings>
+    <li>globalAdjective->宇宙の</li>
+    <li>globalAdjective->惑星の</li>
+    <li>globalAdjective->星の</li>
+    <li>globalAdjective->惑星間の</li>
+    <li>globalHyphenPrefix->宇宙</li>
+    <li>globalHyphenPrefix->星</li>
+  </CultureSpacer.rulePack.rulesStrings>
   
   <!-- EN:
     <li>globalAdjective(p=15)->Tribal</li>
   -->
-  <NamerIdeoCorunan.rulePack.rulesStrings>TODO</NamerIdeoCorunan.rulePack.rulesStrings>
+  <NamerIdeoCorunan.rulePack.rulesStrings>
+    <li>globalAdjective(p=15)->部族の</li>
+  </NamerIdeoCorunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_ideoName->[keyDeity]ism</li>
@@ -59,6 +68,48 @@
     <li>globalHyphenPrefix->archaeo</li>
     <li>globalHyphenPrefix->hyper</li>
   -->
-  <NamerIdeoGlobal.rulePack.rulesStrings>TODO</NamerIdeoGlobal.rulePack.rulesStrings>
+  <NamerIdeoGlobal.rulePack.rulesStrings>
+    <li>r_ideoName->[keyDeity]的思想</li>
+    <li>r_ideoName->[hyphenPrefix]と[keyDeity]的思想</li>
+    <li>r_ideoName->[keyDeity]による[creed]</li>
+    <li>r_ideoName->[keyDeity]の[creed]</li>
+    <li>r_ideoAdjective->[keyDeity]的な</li>
+    <li>r_memberName->[keyDeity]主義者</li>
+    <li>r_memberName->[keyDeity]信奉者</li>
+    <li>r_ideoName(p=2)->[globalAdjective][packIdeoName]</li>
+    <li>r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix]と[packIdeoName]</li>
+    <li>r_ideoName->[memeAdjective][packIdeoName]</li>
+    <li>r_ideoName(p=0.5)->[memeAdjective][creed]</li>
+    <li>r_ideoName(p=0.2)->[packTheme]の[creed]</li>
+    <li>r_ideoAdjective(priority=1)->[packAdjective]</li>
+    <li>r_memberName->[packMember]</li>
+    <li>creed(priority=1)->[memeCreed]</li>
+    <li>creed->[genericCreed]</li>
+    <li>genericCreed->主義</li>
+    <li>genericCreed->教義</li>
+    <li>genericCreed->道</li>
+    <li>genericCreed->小道</li>
+    <li>globalAdjective->[Color]</li>
+    <li>globalAdjective->新たな</li>
+    <li>globalAdjective->満ちた</li>
+    <li>globalAdjective->古き</li>
+    <li>globalAdjective->古代の</li>
+    <li>globalAdjective->歴史的</li>
+    <li>globalAdjective->訂正版</li>
+    <li>globalAdjective->改良版</li>
+    <li>globalAdjective->頑丈な</li>
+    <li>globalAdjective->基本的</li>
+    <li>globalAdjective->真の</li>
+    <li>globalAdjective->人々の</li>
+    <li>globalAdjective->改良版</li>
+    <li>globalAdjective->[place_adjective]</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>hyphenPrefix->[memeHyphenPrefix]</li>
+    <li>globalHyphenPrefix(p=4)->改</li>
+    <li>globalHyphenPrefix(p=2)->伝達</li>
+    <li>globalHyphenPrefix->新星</li>
+    <li>globalHyphenPrefix->古代</li>
+    <li>globalHyphenPrefix->興奮</li>
+  </NamerIdeoGlobal.rulePack.rulesStrings>
   
 </LanguageData>

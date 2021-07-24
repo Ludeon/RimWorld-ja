@@ -10,7 +10,15 @@
     <li>cultureLeaderAdjective->grand</li>
     <li>cultureLeaderNoun->chief</li>
   -->
-  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>TODO</LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+    <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective][cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->偉大な</li>
+    <li>cultureLeaderAdjective->高位の</li>
+    <li>cultureLeaderAdjective->最高位の</li>
+    <li>cultureLeaderAdjective->大いなる</li>
+    <li>cultureLeaderNoun->族長</li>
+  </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderAdjective->high</li>
@@ -22,7 +30,16 @@
     <li>cultureLeaderNoun->governor</li>
     <li>cultureLeaderNoun->leader</li>
   -->
-  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>TODO</LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+    <li>cultureLeaderAdjective->高位の</li>
+    <li>cultureLeaderAdjective->偉大な</li>
+    <li>cultureLeaderAdjective->最高位の</li>
+    <li>cultureLeaderAdjective->主席</li>
+    <li>cultureLeaderNoun->総長</li>
+    <li>cultureLeaderNoun->指導者</li>
+    <li>cultureLeaderNoun->長</li>
+    <li>cultureLeaderNoun->リーダー</li>
+  </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_leaderTitle(p=6)->[memeLeaderAdjective] [memeLeaderNoun]</li>
@@ -30,7 +47,12 @@
     <li>r_leaderTitle(p=1)->[memeLeaderAdjective] [cultureLeaderNoun]</li>
     <li>r_leaderTitle(p=1)->[cultureLeaderTitle]</li>
   -->
-  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>TODO</LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+    <li>r_leaderTitle(p=6)->[memeLeaderAdjective][memeLeaderNoun]</li>
+    <li>r_leaderTitle(p=3)->[cultureLeaderAdjective][memeLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[memeLeaderAdjective][cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderTitle]</li>
+  </LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
   
   <!-- EN:
     <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
@@ -44,7 +66,18 @@
     <li>cultureLeaderNoun->gun</li>
     <li>cultureLeaderNoun->dog</li>
   -->
-  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>TODO</LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+    <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective][cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->強大な</li>
+    <li>cultureLeaderAdjective->頂点の</li>
+    <li>cultureLeaderAdjective->最大の</li>
+    <li>cultureLeaderNoun->お頭</li>
+    <li>cultureLeaderNoun->凶漢</li>
+    <li>cultureLeaderNoun->ボス</li>
+    <li>cultureLeaderNoun->銃</li>
+    <li>cultureLeaderNoun->猛犬</li>
+  </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
@@ -56,11 +89,22 @@
     <li>cultureLeaderNoun->guide</li>
     <li>cultureLeaderNoun->steersman</li>
   -->
-  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>TODO</LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective][cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->主席</li>
+    <li>cultureLeaderAdjective->最高位の</li>
+    <li>cultureLeaderNoun->評議員</li>
+    <li>cultureLeaderNoun->リーダー</li>
+    <li>cultureLeaderNoun->外交特使</li>
+    <li>cultureLeaderNoun->案内者</li>
+    <li>cultureLeaderNoun->舵手</li>
+  </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_leaderTitle->high stellarch</li>
   -->
-  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>TODO</LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+    <li>r_leaderTitle->高位の主要人物</li>
+  </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
   
 </LanguageData>
