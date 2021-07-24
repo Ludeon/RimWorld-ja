@@ -11,7 +11,7 @@
   <!-- EN: berserk trance -->
   <BerserkTrance.label>狂戦士化</BerserkTrance.label>
   <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
-  <BerserkTrance.description>詠唱者は信条的不満を怒りに変えて全身に満たします.通常の限界を超えて身体強化を果たしますが,怒りに我を忘れて制御を失い,近寄る全ての敵を攻撃します.狂戦士状態は3時間続きます.</BerserkTrance.description>
+  <BerserkTrance.description>詠唱者は思想的不満を怒りに変えて全身に満たします.通常の限界を超えて身体強化を果たしますが,怒りに我を忘れて制御を失い,近寄る全ての敵を攻撃します.狂戦士状態は3時間続きます.</BerserkTrance.description>
   
   <!-- EN: combat command -->
   <CombatCommand.label>戦闘指揮</CombatCommand.label>
@@ -21,12 +21,12 @@
   <!-- EN: conversion ritual -->
   <ConversionRitual.label>改宗の儀式</ConversionRitual.label>
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-  <ConversionRitual.description>あなたの信条に従うよう説得してください。上手く行けば彼らの信条に疑問を抱かせ改宗させることができるかもしれません.裏目に出た場合、彼らは自らの信条に確信を持つでしょう.\n\nこの儀式を特定の場所で開始するには,儀式の場か適した祭壇/表意文字が必要です.</ConversionRitual.description>
+  <ConversionRitual.description>あなたの思想に従うよう説得してください。上手く行けば彼らの思想に疑問を抱かせ改宗させることができるかもしれません.裏目に出た場合、彼らは自らの思想に確信を持つでしょう.\n\nこの儀式を特定の場所で開始するには,儀式の場か適した祭壇/表意文字が必要です.</ConversionRitual.description>
   
   <!-- EN: convert -->
   <Convert.label>改宗</Convert.label>
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
-  <Convert.description>対象を説得者の信条に改宗させようとします.これによって対象の信念に対する確信を揺さぶります.低下する度合いは話者の交渉スキルに依存します.</Convert.description>
+  <Convert.description>対象を説得者の思想に改宗させようとします.これによって対象の信念に対する確信を揺さぶります.低下する度合いは話者の交渉スキルに依存します.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
   <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}は {RECIPIENT_labelShort}の改宗に失敗しました. {RECIPIENT_labelShort}はその試みに動揺したが, {RECIPIENT_possessive} の確信は {CERTAINTYBEFORE} から{CERTAINTYAFTER}に低下しました.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
@@ -64,14 +64,14 @@
   <MarksmanCommand.description>射撃統制を行い側にいる全員の射撃スキルを向上させます.効果は24時間実行者に付随します..</MarksmanCommand.description>
   
   <!-- EN: mining command -->
-  <MiningCommand.label>鉱山指導</MiningCommand.label>
+  <MiningCommand.label>採掘指導</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MiningCommand.description>鉱山作業のガイダンスを与え,側にいる全員の鉱夫スキルを向上させます.効果は24時間実行者に付随します.</MiningCommand.description>
+  <MiningCommand.description>採掘作業のガイダンスを与え,側にいる全員の鉱夫スキルを向上させます.効果は24時間実行者に付随します.</MiningCommand.description>
   
   <!-- EN: preach health -->
   <PreachHealth.label>健康の教え</PreachHealth.label>
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
-  <PreachHealth.description>堅い信条を背景に怪我や病気の人に道徳的な力を説きます.対象者の傷の治癒速度と免疫力が高まります.</PreachHealth.description>
+  <PreachHealth.description>堅い思想を背景に怪我や病気の人に道徳的な力を説きます.対象者の傷の治癒速度と免疫力が高まります.</PreachHealth.description>
   
   <!-- EN: production command -->
   <ProductionCommand.label>生産指導</ProductionCommand.label>
@@ -81,7 +81,7 @@
   <!-- EN: reassure -->
   <Reassure.label>安堵</Reassure.label>
   <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
-  <Reassure.description>対象の信条に対する確信を高めます.確信を取り戻せるかは話者の交渉スキルに依存します.</Reassure.description>
+  <Reassure.description>対象の思想に対する確信を高めます.確信を取り戻せるかは話者の交渉スキルに依存します.</Reassure.description>
   <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
   <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}を安堵させ, {IDEO}への確信が{RECIPIENT_possessive}向上し, {BEFORECERTAINTY}から{AFTERCERTAINTY}に変化しました.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
