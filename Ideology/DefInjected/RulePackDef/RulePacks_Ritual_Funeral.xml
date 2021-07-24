@@ -18,6 +18,22 @@
     <li>funeral->requiem</li>
     <li>funeral->sepulture</li>
   -->
-  <NamerRitualFuneral.rulePack.rulesStrings>TODO</NamerRitualFuneral.rulePack.rulesStrings>
+  <NamerRitualFuneral.rulePack.rulesStrings>
+    <li>r_ritualName(p=2)->[memeAdjective][funeral]</li>
+    <li>r_ritualName-> [chosenTheme]の[funeral]</li>
+    <li>r_ritualName->[chosenAdjective][funeral]</li>
+    <li>r_ritualName->[keyDeity]の[funeral]</li>
+    <li>r_ritualName->[keyDeity]のための[funeral]</li>
+    <li>r_ritualName->[memeConcept]の[funeral]</li>
+    <li>r_ritualName->[chosenIdeoName]の[funeral]</li>
+    <li>funeral->葬式</li>
+    <li>funeral->悲嘆</li>
+    <li>funeral->賛辞</li>
+    <li>funeral->埋葬式</li>
+    <li>funeral->埋葬</li>
+    <li>funeral->土葬</li>
+    <li>funeral->レクイエム</li>
+    <li>funeral->葬儀</li>
+  </NamerRitualFuneral.rulePack.rulesStrings>
   
 </LanguageData>

@@ -73,21 +73,21 @@
 
   <!-- Social -->
   <!-- EN: Change per day due to mood -->
-  <CertaintyChangePerDay>TODO</CertaintyChangePerDay>
+  <CertaintyChangePerDay>心情による1日あたりの変化量</CertaintyChangePerDay>
   <!-- EN: Change rate based on mood -->
-  <MoodChangeRate>TODO</MoodChangeRate>
+  <MoodChangeRate>心情に基づく変化量</MoodChangeRate>
   <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
-  <CertaintyInIdeo>TODO</CertaintyInIdeo>
+  <CertaintyInIdeo>{PAWN_nameDef}の{IDEO_name}に対する確信度</CertaintyInIdeo>
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
-  <RoleDesc>TODO</RoleDesc>
+  <RoleDesc>この人物の,自身の思想に基づいた特別な地位です.この役割を変更したり取り除いたりすると,不幸な気持ちになります.</RoleDesc>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
   <ConversionWeakerDueToTraitAgreements>TODO</ConversionWeakerDueToTraitAgreements>
   <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
   <ConversionStrongerDueToTraitAgreements>TODO</ConversionStrongerDueToTraitAgreements>
 
   <!-- EN: Cut -->
-  <Cut>TODO</Cut>
+  <Cut>切り取る</Cut>
   <!-- EN: Cut both eyes -->
-  <CutBothEyes>TODO</CutBothEyes>
+  <CutBothEyes>両目を切り取る</CutBothEyes>
 
 </LanguageData>

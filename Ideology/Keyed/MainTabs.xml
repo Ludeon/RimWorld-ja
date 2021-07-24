@@ -23,7 +23,7 @@
   <!-- EN: Narrative lock is currently off. The narrative text can auto-regenerate. -->
   <LockInOff>物語のロックは現在オフになっています.物語のテキストは自動再生成できます.</LockInOff>
   <!-- EN: Precepts -->
-  <Precepts>教訓</Precepts>
+  <Precepts>戒律</Precepts>
   <!-- EN: Rituals -->
   <Rituals>儀式</Rituals>
   <!-- EN: Roles -->
@@ -47,9 +47,9 @@
   <!-- EN: Randomize name -->
   <RandomizeName>名前をランダム生成</RandomizeName>
   <!-- EN: Randomize precepts -->
-  <RandomizePrecepts>教訓をランダム生成</RandomizePrecepts>
+  <RandomizePrecepts>戒律をランダム生成</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>教訓を追加</AddPrecept>
+  <AddPrecept>戒律を追加</AddPrecept>
   <!-- EN: Randomize deities -->
   <RandomizeDeities>神格をランダム生成</RandomizeDeities>
   <!-- EN: Add deity -->
@@ -95,7 +95,7 @@
   <!-- EN: Randomize symbols -->
   <RandomizeSymbols>シンボルをランダム生成</RandomizeSymbols>
   <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
-  <RandomizeSymbolsTooltip>思想名,アイコン,物語,リーダーの称号,および儀式名や役割名などの他のテキストをランダム生成します.ミームや教訓などのゲームプレイ要素には影響しません.</RandomizeSymbolsTooltip>
+  <RandomizeSymbolsTooltip>思想名,アイコン,物語,リーダーの称号,および儀式名や役割名などの他のテキストをランダム生成します.ミームや戒律などのゲームプレイ要素には影響しません.</RandomizeSymbolsTooltip>
   <!-- EN: Click any element to edit it -->
   <ClickAnyElementToEditIt>要素をクリックして編集</ClickAnyElementToEditIt>
   <!-- EN: Click to edit -->
@@ -184,6 +184,8 @@
   <IdeoImpactLabel_8>とても強い</IdeoImpactLabel_8>
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>極度に強い</IdeoImpactLabel_9>
+  <!-- EN: This was your colony's original ideoligion. -->
+  <InitialPlayerIdeo>これはこの入植地で最初の思想でした.</InitialPlayerIdeo> <!-- text_todo -->
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>

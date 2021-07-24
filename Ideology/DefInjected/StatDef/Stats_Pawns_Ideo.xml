@@ -7,9 +7,9 @@
   <BiosculpterOccupantSpeed.description>TODO</BiosculpterOccupantSpeed.description>
   
   <!-- EN: global certainty loss factor -->
-  <CertaintyLossFactor.label>TODO</CertaintyLossFactor.label>
+  <CertaintyLossFactor.label>全体的な確信度の損失率</CertaintyLossFactor.label>
   <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
-  <CertaintyLossFactor.description>TODO</CertaintyLossFactor.description>
+  <CertaintyLossFactor.description>誰かがこの人物を思想から遠ざけようとするとき,この人物が失う確信度への掛け率です.</CertaintyLossFactor.description>
   
   <!-- EN: conversion power -->
   <ConversionPower.label>TODO</ConversionPower.label>

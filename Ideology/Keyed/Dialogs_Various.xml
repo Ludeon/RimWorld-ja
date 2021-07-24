@@ -24,37 +24,37 @@
   <!-- EN: Choose structure. -->
   <ChooseStructureMeme>構造を選択してください.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
-  <IncompatibleMemes>TODO</IncompatibleMemes>
+  <IncompatibleMemes>{0_label}と{1_label}には互換性がありません.</IncompatibleMemes>
   
   <!-- EN: Room requirements -->
-  <RoomRequirements>TODO</RoomRequirements>
+  <RoomRequirements>部屋の要件</RoomRequirements>
   
   <!-- EN: role -->
-  <Role>TODO</Role>
+  <Role>役割</Role>
   <!-- EN: Assign role -->
-  <ChooseRole>TODO</ChooseRole>
+  <ChooseRole>役割を割り当てる</ChooseRole>
   <!-- EN: No role assigned -->
-  <NoRoleAssigned>TODO</NoRoleAssigned>
+  <NoRoleAssigned>役割が割り当てられてない</NoRoleAssigned>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
-  <ChooseRoleConfirmAssign>TODO</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssign>{ROLE_labelDef}の役割を{PAWN_labelShort}に割り当てようとしています.</ChooseRoleConfirmAssign>
   <!-- EN: Are you sure? -->
-  <ChooseRoleConfirmAssignPostfix>TODO</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignPostfix>本当に行いますか?</ChooseRoleConfirmAssignPostfix>
   <!-- EN: {PAWN_labelShort} currently holds this role and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignReplace>TODO</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort}は現在この役割を担っており,これを失うと不幸な気持ちになります.</ChooseRoleConfirmAssignReplace>
   <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignHasOtherRole>TODO</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort}は現在{ROLE_label}の役割を担っており,これを失うと不幸な気持ちになります.</ChooseRoleConfirmAssignHasOtherRole>
   <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
-  <ChooseRoleConfirmAssignReplaceLeader>TODO</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmAssignReplaceLeader>リーダーになれるのは一人だけです.これにより,{PAWN_labelShort}は{OTHERROLE_labelDef}の役割を失い,動揺するでしょう.</ChooseRoleConfirmAssignReplaceLeader>
   <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
-  <ChooseRoleConfirmUnassign>TODO</ChooseRoleConfirmUnassign>
+  <ChooseRoleConfirmUnassign>{PAWN_labelShort}から{ROLE_labelIndef}の役割を失わせようとしています.これは{PAWN_objective}を動揺させるでしょう.</ChooseRoleConfirmUnassign>
   <!-- EN: {PAWN_labelShort} will gain the following abilities -->
-  <ChooseRoleListAbilities>TODO</ChooseRoleListAbilities>
+  <ChooseRoleListAbilities>{PAWN_labelShort}は次の能力を獲得します</ChooseRoleListAbilities>
   <!-- EN: The {ROLE_label} role requires the following apparel -->
-  <ChooseRoleListApparelDemands>TODO</ChooseRoleListApparelDemands>
+  <ChooseRoleListApparelDemands>{ROLE_label}の役割には次の服装が必要です</ChooseRoleListApparelDemands>
   <!-- EN: {PAWN_labelShort} will refuse to do these work types -->
-  <ChooseRoleListWorkTypeRestrictions>TODO</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort}はこれらのタイプの作業を拒否します</ChooseRoleListWorkTypeRestrictions>
   <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
-  <ChooseRoleHint>TODO</ChooseRoleHint>
+  <ChooseRoleHint>役割を割り当てる前に,コロニーがより確立されるまで待った方が良い場合もあります.</ChooseRoleHint>
   <!-- EN: Unlocked by -->
   <UnlockedByMeme>アンロックされた原因</UnlockedByMeme>
   <!-- EN: Unlocked roles -->
@@ -62,11 +62,13 @@
   <!-- EN: Unlocked rituals -->
   <MemeUnlocksRituals>儀式をアンロック</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
-  <ChooseRoleRequiredWorkTagsDisabled>TODO</ChooseRoleRequiredWorkTagsDisabled>
+  <ChooseRoleRequiredWorkTagsDisabled>警告: {PAWN_nameDef}は{ROLE_label}の役割に必要な作業を行えません.{PAWN_pronoun}にこの役割を与える場合,{PAWN_pronoun}は{ROLE_label}に関連付けられた能力を使用できない可能性があります.不足している作業タイプは次のものです.</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
   <YourLeaderTradeBonus>リーダーボーナス</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
-  <CannotNotAddRoleApparelDueToMeme>TODO</CannotNotAddRoleApparelDueToMeme>
+  <CannotNotAddRoleApparelDueToMeme>ミーム'{MEME}'は役割に服装要件を追加することを防ぎます.</CannotNotAddRoleApparelDueToMeme>
+  <!-- EN: cannot be worn with {0_label} -->
+  <CannotBeWornWith>TODO</CannotBeWornWith> <!-- text_todo -->
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>TODO</AbilityIdeoConvertBreakdownLabel>
