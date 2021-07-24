@@ -71,7 +71,7 @@
   <!-- EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly. -->
   <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{BASETEXT}\n            \n[joiner_nameDef]は昆虫のフェロモンを振りまきつつ追跡から逃げています.[joiner_objective]追っている虫の集団はまもなく到着します.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterLabel.value.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_Infestation_Joiner.root.nodes.Delay.node.nodes.Util_Infestation.parms.customLetterLabel.value.slateRef>
+<ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe insects are here for [joiner_nameDef]. -->
   <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n                  \n[joiner_nameDef]を追う昆虫がやって来た.</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
   
@@ -104,12 +104,8 @@
     <li>questName(animalCount>=2)->[animalKind_labelPlural]と[joiner_nameDef]</li>
   </ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterLabel.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterLabel.slateRef>
+<ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
   <!-- EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd] -->
-  <ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterText.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterText.slateRef>
-  
-  <!-- UNUSED -->
-  <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
   <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
   
   <!-- EN:
@@ -133,11 +129,11 @@
     <li>problem->秘密</li>
   </ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [joiner_nameDef] -->
-  <ThreatReward_MysteryThreat_Joiner.root.nodes.Delay.node.nodes.RandomNode.nodes.Sequence-0.nodes.Set-0.value.slateRef>{BASELABEL} [joiner_nameDef]を追跡中</ThreatReward_MysteryThreat_Joiner.root.nodes.Delay.node.nodes.RandomNode.nodes.Sequence-0.nodes.Set-0.value.slateRef>
+<ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>{BASELABEL} [joiner_nameDef]を追跡中</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_pronoun] was supposed to marry the child of [enemyFaction_leader_nameFull], leader of [enemyFaction_name]. [joiner_pronoun] became drunk before the ceremony and vomited on the altar - a flagrant insult towards [enemyFaction_leader_nameDef]'s whole family.\n    \n[enemyFaction_leader_nameDef] swore to seek revenge on [joiner_nameDef] and all those associated with [joiner_objective], and sent [enemyFaction_pawnsPlural] to carry out the task.\n    \n{BASETEXT} -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>[joiner_nameDef]は自分が逃亡者であることを認めました.\n    \n[joiner_pronoun]は[enemyFaction_leader_nameFull]のリーダーである[enemyFaction_name]の子供と結婚することになっていました.[joiner_pronoun]は式典の前に酒を飲み祭壇で嘔吐しました.言うまでもなく[enemyFaction_leader_nameDef]の一族全体に対する侮辱的な行為です.\n    \n[enemyFaction_leader_nameDef]は,[joiner_nameDef]と[joiner_pronoun]につながる全てに対して報復を誓約し,その任を果たすために[enemyFaction_pawnsPlural]を派遣しました.\n    \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_MysteryThreat_Joiner.root.nodes.Delay.node.nodes.RandomNode.nodes.Sequence-1.nodes.Set-0.value.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_MysteryThreat_Joiner.root.nodes.Delay.node.nodes.RandomNode.nodes.Sequence-1.nodes.Set-0.value.slateRef>
+<ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef], greedy for the pleasures and money insect jelly can bring, intended to destroy a massive insect hive using poison. [joiner_pronoun] failed, but was doused in insect threat pheromones. Insects have been hunting [joiner_objective] ever since. Now they've launched their final attack.\n    \n{BASETEXT} -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>[joiner_nameDef]は自分が逃亡者であることを認めました.\n    \n[joiner_nameDef]は,インセクトゼリーがもたらす金と娯楽に欲を抱き,毒物で虫の巣を全滅させようとしました.[joiner_pronoun]はしくじり,虫の警報フェロモンを浴びせかけられてしまいました.そのせいで[joiner_pronoun]は虫に追われ続けています.今,虫たちは最後の攻撃を開始しました.\n    \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>
   <!-- EN: Site appeared to harass [joiner_nameDef]: [site_label] -->
@@ -145,7 +141,7 @@
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] happened upon [enemyFaction_leader_nameFull], leader of [enemyFaction_name], sick on the side of the road. [joiner_nameDef] insulted [enemyFaction_leader_nameDef] by comparing [enemyFaction_leader_objective] to a [Animal].\n    \nNow [enemyFaction_leader_nameDef]'s [enemyFaction_pawnsPlural] are activating a site nearby to harass you.\n    \n[allSitePartsDescriptions] -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>[joiner_nameDef]は[joiner_pronoun]が逃亡者であることを認めました.\n    \n[joiner_nameDef]は旅行中たまたま,[joiner_pronoun]と敵対する[enemyFaction_name]のリーダーである [enemyFaction_leader_nameFull]が 病気で道端に寝転んでいるのを見かけました. [joiner_nameDef]は[enemyFaction_leader_nameDef]を[Animal]と比べて嘲笑いました.\n    \nその結果今,[enemyFaction_leader_nameDef]の[enemyFaction_pawnsPlural]は付近に拠点を設置してあなたを悩ませようとしています.\n    \n[allSitePartsDescriptions]</ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_MysteryThreat_Joiner.root.nodes.Delay.node.nodes.RandomNode.nodes.Sequence-3.nodes.Set-0.value.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_MysteryThreat_Joiner.root.nodes.Delay.node.nodes.RandomNode.nodes.Sequence-3.nodes.Set-0.value.slateRef>
+<ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] came upon a lost group of [animalKind_labelPlural]. [joiner_pronoun], in a bad mood, goaded the [animalKind_labelPlural]. Unexpectedly, they attacked [joiner_objective]. And they have followed [joiner_objective] a long distance.\n    \n{BASETEXT} -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>[joiner_nameDef]は[joiner_pronoun]が逃亡者であることを認めました.\n    \n[joiner_nameDef]が旅行中,[joiner_pronoun]は群れからはぐれた[animalKind_labelPlural]と遭遇しました.むしゃくしゃしていた[joiner_pronoun]は,[animalKind_labelPlural]を追い立てました.予想外なことに彼らは[joiner_objective]攻撃してきました.そして,彼らは[joiner_objective]ずっと追跡してきています.\n    \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
   
@@ -164,11 +160,11 @@
     <li>questName->[joiner_nameDef]の多くの敵</li>
   </ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL} [../joiner_nameDef]を追跡中</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+<ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>{BASELABEL} [../joiner_nameDef]を追跡中</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
   <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>{BASETEXT}\n                  \n[enemyFaction_pawnsPlural]が[../joiner_nameFull]に向かってくる.</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL} [../joiner_nameDef]を追跡中</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+<ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>{BASELABEL} [../joiner_nameDef]を追跡中</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>
   <!-- EN: {BASETEXT}\n                        \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
   <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>{BASETEXT}\n                        \n[enemyFaction_pawnsPlural]が[../joiner_nameFull]に向かってくる.</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
   

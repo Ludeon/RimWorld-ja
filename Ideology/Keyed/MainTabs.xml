@@ -155,37 +155,6 @@
   <!-- EN: Shooting -->
   <Shooting>TODO</Shooting>
   <!-- EN: Impact -->
-<<<<<<< HEAD
-  <IdeoImpact>TODO</IdeoImpact>
-  <!-- EN: Overall impact -->
-  <IdeoImpactOverall>TODO</IdeoImpactOverall>
-  <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
-  <IdeoImpactOverallDesc>TODO</IdeoImpactOverallDesc>
-  <!-- EN: low -->
-  <IdeoMemeImpactLabel_1>TODO</IdeoMemeImpactLabel_1>
-  <!-- EN: medium -->
-  <IdeoMemeImpactLabel_2>TODO</IdeoMemeImpactLabel_2>
-  <!-- EN: high -->
-  <IdeoMemeImpactLabel_3>TODO</IdeoMemeImpactLabel_3>
-  <!-- EN: low -->
-  <IdeoImpactLabel_1>TODO</IdeoImpactLabel_1>
-  <!-- EN: low -->
-  <IdeoImpactLabel_2>TODO</IdeoImpactLabel_2>
-  <!-- EN: moderate -->
-  <IdeoImpactLabel_3>TODO</IdeoImpactLabel_3>
-  <!-- EN: moderate -->
-  <IdeoImpactLabel_4>TODO</IdeoImpactLabel_4>
-  <!-- EN: strong -->
-  <IdeoImpactLabel_5>TODO</IdeoImpactLabel_5>
-  <!-- EN: strong -->
-  <IdeoImpactLabel_6>TODO</IdeoImpactLabel_6>
-  <!-- EN: very strong -->
-  <IdeoImpactLabel_7>TODO</IdeoImpactLabel_7>
-  <!-- EN: very strong -->
-  <IdeoImpactLabel_8>TODO</IdeoImpactLabel_8>
-  <!-- EN: extreme -->
-  <IdeoImpactLabel_9>TODO</IdeoImpactLabel_9>
-=======
   <IdeoImpact>影響力</IdeoImpact>
   <!-- EN: Overall impact -->
   <IdeoImpactOverall>合計影響力</IdeoImpactOverall>
@@ -215,7 +184,6 @@
   <IdeoImpactLabel_8>とても強い</IdeoImpactLabel_8>
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>極度に強い</IdeoImpactLabel_9>
->>>>>>> 3a0aa1b107b59f48aa6b3371ced9a8dee2631c9e
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>
