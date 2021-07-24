@@ -49,7 +49,7 @@
   <!-- EN: Randomize precepts -->
   <RandomizePrecepts>教訓をランダム生成</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>教訓を追加</AddPrecept>
+  <AddPrecept>戒律を追加</AddPrecept>
   <!-- EN: Randomize deities -->
   <RandomizeDeities>神格をランダム生成</RandomizeDeities>
   <!-- EN: Add deity -->
@@ -184,6 +184,8 @@
   <IdeoImpactLabel_8>とても強い</IdeoImpactLabel_8>
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>極度に強い</IdeoImpactLabel_9>
+  <!-- EN: This was your colony's original ideoligion. -->
+  <InitialPlayerIdeo>これはこの入植地で最初の思想でした.</InitialPlayerIdeo> <!-- text_todo -->
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>

@@ -67,6 +67,8 @@
   <YourLeaderTradeBonus>リーダーボーナス</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>ミーム'{MEME}'は役割に服装要件を追加することを防ぎます.</CannotNotAddRoleApparelDueToMeme>
+  <!-- EN: cannot be worn with {0_label} -->
+  <CannotBeWornWith>TODO</CannotBeWornWith> <!-- text_todo -->
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>TODO</AbilityIdeoConvertBreakdownLabel>
