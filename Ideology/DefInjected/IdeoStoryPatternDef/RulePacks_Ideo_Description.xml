@@ -14,7 +14,19 @@
     <li>itIsSaid->Our sages say</li>
     <li>itIsSaid->We know</li>
   -->
-  <AnimistDescription.rules.rulesStrings>TODO</AnimistDescription.rules.rulesStrings>
+  <AnimistDescription.rules.rulesStrings>
+    <li>animistBasis   ->この銀河は我々を取り巻く世界の別の次元に存在する精霊たちが織りなす,絶え間ない破壊と創造のサイクルである.</li>
+    <li>animistBasis   ->多元宇宙の精霊たちは我々のすぐ隣りにいる.一見がらんどうに見えるこの宇宙も,別の世界の活気あふれる精霊たちとつながっている.</li>
+    <li>animistFact    ->それぞれの精霊には不可欠な性質があり世界に影響を与えようとしている.時には有益であり,時には有害となる.</li>
+    <li>animistProphecy->[itIsSaid],偉大なる精霊[relic0_name]は,いつの日か全ての精霊を司る力を与えるだろう.</li>
+    <li>animistProphecy->[itIsSaid],この星に墜落してきた眠れる旅行者が,クレーターの精霊によって最後の部族を率いる者として目覚めさせられるのだ.</li>
+    <li>itIsSaid->語られるところによれば</li>
+    <li>itIsSaid->予言によれば</li>
+    <li>itIsSaid->古代の文書によれば</li>
+    <li>itIsSaid->我らの本によれば</li>
+    <li>itIsSaid->我らの賢者によれば</li>
+    <li>itIsSaid->我々は知っている</li>
+  </AnimistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>archistBasis   ->Our universe is a dream in the mind of a timeless universal consciousness. Only archotechs can communicate directly with the universal consciousness.</li>
