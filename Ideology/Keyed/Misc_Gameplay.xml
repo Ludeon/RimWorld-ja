@@ -62,19 +62,19 @@
   <!-- EN: Disables -->
   <Disables>不許可</Disables>
   <!-- EN: Requires one of precepts -->
-  <RequiresOnePrecept>いずれかの教訓が必要</RequiresOnePrecept>
+  <RequiresOnePrecept>いずれかの戒律が必要</RequiresOnePrecept>
   <!-- EN: Required precepts -->
-  <RequiredPrecepts>必要な教訓</RequiredPrecepts>
+  <RequiredPrecepts>必要な戒律</RequiredPrecepts>
   <!-- EN: Required rituals -->
   <RequiredRituals>必要な儀式</RequiredRituals>
   <!-- EN: Disables precepts -->
-  <DisablesPrecepts>教訓が使用不可</DisablesPrecepts>
+  <DisablesPrecepts>戒律が使用不可</DisablesPrecepts>
   <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>{0}の教訓が使えなくなります.</DisablesPreceptsCount>
+  <DisablesPreceptsCount>{0}の戒律が使えなくなります.</DisablesPreceptsCount>
   <!-- EN: Styles -->
   <Styles>スタイル</Styles>
   <!-- EN: Chance to have precept -->
-  <ChanceToHavePrecept>確率で教訓を覚える</ChanceToHavePrecept>
+  <ChanceToHavePrecept>確率で戒律を覚える</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
   <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,スタイリングステーションで衣服の色を変更できます.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
@@ -280,7 +280,7 @@
   <!-- EN: add {0} -->
   <AddPrecept>{0}を追加</AddPrecept>
   <!-- EN: precept -->
-  <Precept>教訓</Precept>
+  <Precept>戒律</Precept>
   <!-- EN: building -->
   <IdeoBuilding>建築物</IdeoBuilding>
   <!-- EN: relic -->
