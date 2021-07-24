@@ -34,11 +34,7 @@
   <!-- EN: base -->
   <Base>TODO</Base>
   <!-- EN: min expectation -->
-<<<<<<< HEAD
-  <MinExpectation>TODO</MinExpectation>
-=======
   <MinExpectation>最小期待値</MinExpectation>
->>>>>>> 3a0aa1b107b59f48aa6b3371ced9a8dee2631c9e
   <!-- EN: {0} to {1} -->
   <PreceptThoughtMoodRange>TODO</PreceptThoughtMoodRange>
   <!-- EN: Comes from ideo -->
@@ -60,23 +56,6 @@
   <!-- EN: Cancel planting the {0_label}. -->
   <CancelPlantThingDesc>TODO</CancelPlantThingDesc>
   <!-- EN: Disables -->
-<<<<<<< HEAD
-  <Disables>TODO</Disables>
-  <!-- EN: Requires one of precepts -->
-  <RequiresOnePrecept>TODO</RequiresOnePrecept>
-  <!-- EN: Required precepts -->
-  <RequiredPrecepts>TODO</RequiredPrecepts>
-  <!-- EN: Required rituals -->
-  <RequiredRituals>TODO</RequiredRituals>
-  <!-- EN: Disables precepts -->
-  <DisablesPrecepts>TODO</DisablesPrecepts>
-  <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>TODO</DisablesPreceptsCount>
-  <!-- EN: Styles -->
-  <Styles>TODO</Styles>
-  <!-- EN: Chance to have precept -->
-  <ChanceToHavePrecept>TODO</ChanceToHavePrecept>
-=======
   <Disables>不許可</Disables>
   <!-- EN: Requires one of precepts -->
   <RequiresOnePrecept>いずれかの教訓が必要</RequiresOnePrecept>
@@ -92,7 +71,6 @@
   <Styles>スタイル</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>確率で教訓を覚える</ChanceToHavePrecept>
->>>>>>> 3a0aa1b107b59f48aa6b3371ced9a8dee2631c9e
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
   <FavoriteColorTooltip>TODO</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
@@ -296,15 +274,6 @@
   <!-- EN: Believers in {0} ({1}) -->
   <BelieversIn>TODO</BelieversIn>
   <!-- EN: add {0} -->
-<<<<<<< HEAD
-  <AddPrecept>TODO</AddPrecept>
-  <!-- EN: precept -->
-  <Precept>TODO</Precept>
-  <!-- EN: building -->
-  <IdeoBuilding>TODO</IdeoBuilding>
-  <!-- EN: relic -->
-  <IdeoRelic>TODO</IdeoRelic>
-=======
   <AddPrecept>{0}を追加</AddPrecept>
   <!-- EN: precept -->
   <Precept>教訓</Precept>
@@ -312,7 +281,6 @@
   <IdeoBuilding>建築物</IdeoBuilding>
   <!-- EN: relic -->
   <IdeoRelic>レリック</IdeoRelic>
->>>>>>> 3a0aa1b107b59f48aa6b3371ced9a8dee2631c9e
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
@@ -324,11 +292,7 @@
 
   <!-- Outfits -->
   <!-- EN: Slave -->
-<<<<<<< HEAD
-  <OutfitSlave>TODO</OutfitSlave>
-=======
   <OutfitSlave>奴隷</OutfitSlave>
->>>>>>> 3a0aa1b107b59f48aa6b3371ced9a8dee2631c9e
 
   <!-- Hacking -->
   <!-- EN: Hack progress -->
@@ -533,11 +497,7 @@
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
   <CannotExtractSkull>TODO</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
-<<<<<<< HEAD
-  <TipPreviewRitualAmbienceSound>TODO</TipPreviewRitualAmbienceSound>
-=======
   <TipPreviewRitualAmbienceSound>儀式的な雰囲気の音をプレビュー</TipPreviewRitualAmbienceSound>
->>>>>>> 3a0aa1b107b59f48aa6b3371ced9a8dee2631c9e
 
   <!-- EN: Choose -->
   <ChooseStuffForRelic>TODO</ChooseStuffForRelic>
