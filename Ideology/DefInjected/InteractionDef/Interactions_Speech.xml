@@ -41,7 +41,24 @@
     <li>speechtopic->false other beliefs</li>
     <li>speechtopic->progress towards the future</li>
   -->
-  <Speech_Conversion.logRulesInitiator.rulesStrings>TODO</Speech_Conversion.logRulesInitiator.rulesStrings>
+  <Speech_Conversion.logRulesInitiator.rulesStrings>
+     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]。</li>
+    <li>speechtopic->大義のための団結</li>
+    <li>speechtopic->背教がいかに間違っているか</li>
+    <li>speechtopic->正しい信念を選ぶこと</li>
+    <li>speechtopic->宇宙の道徳的な構造</li>
+    <li>speechtopic->正義と悪</li>
+    <li>speechtopic->人生の目的</li>
+    <li>speechtopic->人生の意味</li>
+    <li>speechtopic->人類の歴史</li>
+    <li>speechtopic->人類の未来</li>
+    <li>speechtopic->愛と憎しみ</li>
+    <li>speechtopic->恐怖と安全</li>
+    <li>speechtopic->所属することの正しさ</li>
+    <li>speechtopic->参加と所属</li>
+    <li>speechtopic->他の信念の偽り</li>
+    <li>speechtopic->将来に向けての進歩</li>
+  </Speech_Conversion.logRulesInitiator.rulesStrings>
   
   <!-- EN: celebration speech -->
   <Speech_DateRitual.label>TODO</Speech_DateRitual.label>
@@ -116,7 +133,7 @@
   <Speech_Funeral.logRulesInitiator.rulesStrings>TODO</Speech_Funeral.logRulesInitiator.rulesStrings>
   
   <!-- EN: leader speech -->
-  <Speech_Leader.label>TODO</Speech_Leader.label>
+  <Speech_Leader.label>リーダースピーチ</Speech_Leader.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->searching for [Vegetable]s</li>

@@ -60,7 +60,7 @@
   <Reassure.logRulesInitiator.rulesStrings>TODO</Reassure.logRulesInitiator.rulesStrings>
   
   <!-- EN: accuse -->
-  <Trial_Accuse.label>TODO</Trial_Accuse.label>
+  <Trial_Accuse.label>告発</Trial_Accuse.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] presented some evidence.</li>
     <li>r_logentry->[INITIATOR_nameDef] appealed to the emotions of the spectators.</li>
@@ -79,7 +79,24 @@
     <li>wrongdoing->hateful thinking</li>
     <li>wrongdoing->disloyalty</li>
   -->
-  <Trial_Accuse.logRulesInitiator.rulesStrings>TODO</Trial_Accuse.logRulesInitiator.rulesStrings>
+  <Trial_Accuse.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は、いくつかの証拠を提示しました</li>。
+    <li>r_logentry->[INITIATOR_nameDef]は、観客の感情に訴えかけました。
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の[wrongdoing]を告発した</li>。
+    <li>wrongdoing->コロニー妨害行為</li>
+    <li>wrongdoing->怠け</li>
+    <li>wrongdoing->食べ過ぎ</li>
+    <li>wrongdoing->盗み</li>
+    <li>wrongdoing->残酷さ</li>
+    <li>wrongdoing->神聖な思想を軽んじたこと</li>
+    <li>wrongdoing->尊敬すべき人物の軽視</li>
+    <li>wrongdoing->異端</li>
+    <li>wrongdoing->殺人</li>
+    <li>wrongdoing->神への冒涜</li>
+    <li>wrongdoing->反逆</li>
+    <li>wrongdoing->おぞましい考え</li>
+    <li>wrongdoing->不誠実さ</li>
+</Trial_Accuse.logRulesInitiator.rulesStrings>
   
   <!-- EN: defend -->
   <Trial_Defend.label>TODO</Trial_Defend.label>
