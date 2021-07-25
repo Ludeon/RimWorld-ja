@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <AttendedFuneral.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</AttendedFuneral.description>
+  <AttendedFuneral.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</AttendedFuneral.description>
   <!-- EN: moral guide present -->
   <AttendedFuneral.comps.0.label>モラルガイドがいる</AttendedFuneral.comps.0.label>
   <!-- EN: participant count -->
@@ -25,7 +25,7 @@
   <AttendedFuneral.outcomeChances.3.description>{0}は心温まるものでした.スピーチは心がこもり魅惑的で,誰もが良い思い出を心に刻んで帰ってきました.</AttendedFuneral.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <AttendedFuneralNoCorpse.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</AttendedFuneralNoCorpse.description>
+  <AttendedFuneralNoCorpse.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</AttendedFuneralNoCorpse.description>
   <!-- EN: moral guide present -->
   <AttendedFuneralNoCorpse.comps.0.label>モラルガイドがいる</AttendedFuneralNoCorpse.comps.0.label>
   <!-- EN: participant count -->
@@ -48,7 +48,7 @@
   <AttendedFuneralNoCorpse.outcomeChances.3.description>{0}は心温まるものでした.スピーチは心がこもり魅惑的で,誰もが良い思い出を心に刻んで帰ってきました.</AttendedFuneralNoCorpse.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <BlindingCeremony.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</BlindingCeremony.description>
+  <BlindingCeremony.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</BlindingCeremony.description>
   <!-- EN: moral guide present -->
   <BlindingCeremony.comps.2.label>モラルガイドがいる</BlindingCeremony.comps.2.label>
   <!-- EN: participant count -->
@@ -81,7 +81,7 @@
   <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>盲人はサイリンクをアップグレードするか,新しい超能力をアンロックします.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebratedDate.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</CelebratedDate.description>
+  <CelebratedDate.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</CelebratedDate.description>
   <!-- EN: leader present -->
   <CelebratedDate.comps.2.label>リーダーがいる</CelebratedDate.comps.2.label>
   <!-- EN: participant count -->
@@ -108,7 +108,7 @@
   <CelebratedDate.outcomeChances.3.description>{0}は忘れられない出来事でした!誰もがお互いを学び,家族のように感じました.</CelebratedDate.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebratedDate_Consumable.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</CelebratedDate_Consumable.description>
+  <CelebratedDate_Consumable.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</CelebratedDate_Consumable.description>
   <!-- EN: participant count -->
   <CelebratedDate_Consumable.comps.0.label>参加者数</CelebratedDate_Consumable.comps.0.label>
   <!-- EN: room impressiveness -->
@@ -137,13 +137,13 @@
   <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>ランダムな参加者が奮い立つ可能性は10%です.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebrationPartyDanceDrum.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</CelebrationPartyDanceDrum.description>
+  <CelebrationPartyDanceDrum.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</CelebrationPartyDanceDrum.description>
   <!-- EN: participant count -->
   <CelebrationPartyDanceDrum.comps.0.label>参加者数</CelebrationPartyDanceDrum.comps.0.label>
   <!-- EN: room impressiveness -->
   <CelebrationPartyDanceDrum.comps.1.label>部屋の印象</CelebrationPartyDanceDrum.comps.1.label>
   <!-- EN: played drum count -->
-  <CelebrationPartyDanceDrum.comps.2.label>使用しているドラムの数</CelebrationPartyDanceDrum.comps.2.label>
+  <CelebrationPartyDanceDrum.comps.2.label>使用している太鼓の数</CelebrationPartyDanceDrum.comps.2.label>
   <!-- EN: started at campfire -->
   <CelebrationPartyDanceDrum.comps.3.label>キャンプファイヤーで始める</CelebrationPartyDanceDrum.comps.3.label>
   <!-- EN: a campfire -->
@@ -172,7 +172,7 @@
   <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>誰もが夢中になったダンスの後,全員がリフレッシュしました.参加者はしばらくの間,より速く働きます.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebrationPartyDanceTech.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</CelebrationPartyDanceTech.description>
+  <CelebrationPartyDanceTech.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</CelebrationPartyDanceTech.description>
   <!-- EN: participant count -->
   <CelebrationPartyDanceTech.comps.0.label>参加者数</CelebrationPartyDanceTech.comps.0.label>
   <!-- EN: room impressiveness -->
@@ -207,7 +207,7 @@
   <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>誰もが夢中になったダンスの後,全員がリフレッシュしました.参加者はしばらくの間,より速く働きます.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebrationSkyLanterns.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</CelebrationSkyLanterns.description>
+  <CelebrationSkyLanterns.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</CelebrationSkyLanterns.description>
   <!-- EN: participant count -->
   <CelebrationSkyLanterns.comps.0.label>参加者数</CelebrationSkyLanterns.comps.0.label>
   <!-- EN: Each participant will make a lantern out of 4 wood. -->
@@ -245,7 +245,7 @@
   <ConnectToTree.extraPredictedOutcomeDescriptions.1>品質が2%向上するごとにツリーの周りにガウランレンの苔が生え,その地域が美しくなります.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
   
   <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
-  <Conversion.description>うまくいけばターゲットの思想の確信度が低下するか,改心します.うまくいかなかった場合,自身の信念への確信度が増すでしょう.</Conversion.description>
+  <Conversion.description>うまくいけばターゲットの思想の確信度が低下するか,改心します.うまくいかなかった場合,自身の思想への確信度が増すでしょう.</Conversion.description>
   <!-- EN: room impressiveness -->
   <Conversion.comps.0.label>部屋の印象</Conversion.comps.0.label>
   <!-- EN: participant count -->
@@ -273,7 +273,7 @@
   <!-- EN: Masterful -->
   <Conversion.outcomeChances.3.label>見事</Conversion.outcomeChances.3.label>
   <!-- EN: The {0} was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted. -->
-  <Conversion.outcomeChances.3.description>{0}は見事な結果をもたらしました!古い信念は難なく必然的に解消されたようで,コロニーの真の知識は受け入れられました.</Conversion.outcomeChances.3.description>
+  <Conversion.outcomeChances.3.description>{0}は見事な結果をもたらしました!古い思想は難なく必然的に解消されたようで,コロニーの真の知識は受け入れられました.</Conversion.outcomeChances.3.description>
   
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding.description>儀式の対象は破壊されます.</DestroyConsumableBuilding.description>
@@ -411,7 +411,7 @@
   <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>ランダムな参加者が奮い立つ可能性は10%です.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <Execution.description>観衆となる奴隷は100％抑制されます.儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</Execution.description>
+  <Execution.description>観衆となる奴隷は100％抑制されます.儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</Execution.description>
   <!-- EN: participant count -->
   <Execution.comps.0.label>参加者数</Execution.comps.0.label>
   <!-- EN: started at altar or ideogram -->
@@ -432,7 +432,7 @@
   <Execution.outcomeChances.2.description>{0}は素晴らしいものでした!一回のスムーズな降り下ろしで全てが終わり,誰もが正義と権力の強い高まりを感じました.</Execution.outcomeChances.2.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <GladiatorDuel.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</GladiatorDuel.description>
+  <GladiatorDuel.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</GladiatorDuel.description>
   <!-- EN: participant count -->
   <GladiatorDuel.comps.0.label>参加者数</GladiatorDuel.comps.0.label>
   <!-- EN: leader present -->
@@ -463,7 +463,7 @@
   <GladiatorDuel.outcomeChances.3.description>決闘は忘れられないものでした!双方の戦士が自身の全力を尽くし,そして死は彼らの真摯さを示しました.</GladiatorDuel.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <Sacrifice.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</Sacrifice.description>
+  <Sacrifice.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</Sacrifice.description>
   <!-- EN: moral guide present -->
   <Sacrifice.comps.2.label>モラルガイドがいる</Sacrifice.comps.2.label>
   <!-- EN: participant count -->
@@ -496,7 +496,7 @@
   <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>ランダムな参加者が奮い立つ可能性は10%です.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <ScarificationCeremony.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</ScarificationCeremony.description>
+  <ScarificationCeremony.description>儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</ScarificationCeremony.description>
   <!-- EN: moral guide present -->
   <ScarificationCeremony.comps.2.label>モラルガイドがいる</ScarificationCeremony.comps.2.label>
   <!-- EN: participant count -->

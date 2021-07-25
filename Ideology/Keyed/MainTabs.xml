@@ -115,7 +115,7 @@
   <!-- EN: Related to meme -->
   <RelatedToMeme>ミームに関連</RelatedToMeme>
   <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
-  <IdeoCharityQuestInfo>TODO</IdeoCharityQuestInfo>
+  <IdeoCharityQuestInfo>これは慈善クエストです.これを拒否する場合,{0}の信仰者は彼らの持つ慈善的な思想によって不幸になります.受諾する場合,{0}の信仰者は幸せになります({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>奴隷はこの仕事は行わない</WorkDisabledSlave>
   <!-- EN: Disabled by {0} role -->
@@ -123,37 +123,37 @@
   <!-- EN: Affected by traits -->
   <AffectedByTraits>特性の影響を受ける</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
-  <CharityQuestTip>TODO</CharityQuestTip>
+  <CharityQuestTip>これは慈善クエストです.慈善の信念を持つ人々は,結果によって影響を受けます.</CharityQuestTip>
   <!-- EN: formerly -->
-  <Formerly>TODO</Formerly>
+  <Formerly>以前</Formerly>
   <!-- EN: all -->
-  <All>TODO</All>
+  <All>全て</All>
   <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
-  <RelicTip>TODO</RelicTip>
+  <RelicTip>レリックは精神的,もしくは思想的に重要なオブジェクトです.これらは長くて危険なクエストを完了することで発見できます.レリックを聖遺物箱に展示することで巡礼者を引き付け,儀式を強化し,部外者を改宗させる思想的能力を強化できます.</RelicTip>
   <!-- EN: animal -->
-  <Animal>TODO</Animal>
+  <Animal>動物</Animal>
   <!-- EN: Venerated animals -->
-  <VeneratedAnimals>TODO</VeneratedAnimals>
+  <VeneratedAnimals>神聖な動物</VeneratedAnimals>
   <!-- EN: weapon pair -->
-  <IdeoWeapon>TODO</IdeoWeapon>
+  <IdeoWeapon>武器のペア</IdeoWeapon>
   <!-- EN: Weapons -->
-  <IdeoWeapons>TODO</IdeoWeapons>
+  <IdeoWeapons>武器</IdeoWeapons>
   <!-- EN: Swap noble and despised -->
-  <SwapNobleAndDespised>TODO</SwapNobleAndDespised>
+  <SwapNobleAndDespised>崇高と軽蔑を入れ替える</SwapNobleAndDespised>
   <!-- EN: noble -->
-  <Noble>TODO</Noble>
+  <Noble>崇高</Noble>
   <!-- EN: despised -->
-  <Despised>TODO</Despised>
+  <Despised>軽蔑</Despised>
   <!-- EN: Unlocked craftables -->
-  <UnlockedRecipes>TODO</UnlockedRecipes>
+  <UnlockedRecipes>ロック解除された工芸品</UnlockedRecipes>
   <!-- EN: Start with research -->
-  <IdeoStartWithResearch>TODO</IdeoStartWithResearch>
+  <IdeoStartWithResearch>研究から始める</IdeoStartWithResearch>
   <!-- EN: Agreeing traits -->
-  <AgreeableTraits>TODO</AgreeableTraits>
+  <AgreeableTraits>同意する特性</AgreeableTraits>
   <!-- EN: Conflicting traits -->
-  <DisagreeableTraits>TODO</DisagreeableTraits>
+  <DisagreeableTraits>相反する特性</DisagreeableTraits>
   <!-- EN: Shooting -->
-  <Shooting>TODO</Shooting>
+  <Shooting>射撃</Shooting>
   <!-- EN: Impact -->
   <IdeoImpact>影響力</IdeoImpact>
   <!-- EN: Overall impact -->
@@ -184,8 +184,8 @@
   <IdeoImpactLabel_8>とても強い</IdeoImpactLabel_8>
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>極度に強い</IdeoImpactLabel_9>
-  <!-- EN: This was your colony's original ideoligion. -->
-  <InitialPlayerIdeo>これはこの入植地で最初の思想でした.</InitialPlayerIdeo> <!-- text_todo -->
+  <!-- EN: This was your colony's starting ideoligion. -->
+  <InitialPlayerIdeo>これはこの入植地で最初にこの思想を持つ者でした.</InitialPlayerIdeo>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>

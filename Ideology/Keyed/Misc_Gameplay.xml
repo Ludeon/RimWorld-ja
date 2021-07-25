@@ -26,7 +26,7 @@
   <!-- EN: Caused by -->
   <CausedBy>原因</CausedBy>
   <!-- EN: Belief in -->
-  <BeliefInIdeo>信念である</BeliefInIdeo>
+  <BeliefInIdeo>思想である</BeliefInIdeo>
   <!-- EN: Information about {0} -->
   <Reward_RelicInfo>TODO</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
@@ -107,11 +107,11 @@
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}の死体を最初に埋める必要がある</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
-  <RitualTargetGatherSpotInfo>TODO</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherSpotInfo>テーブルなど,人が集まれる場所</RitualTargetGatherSpotInfo>
   <!-- EN: Altar or any ritual spot. -->
   <RitualTargetGatherAltarOrRitualSpotInfo>TODO</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>TODO</RitualTargetLightBallInfo>
+  <RitualTargetLightBallInfo>ライトボールやラウドスピーカーのスポットです.ミラーボールとスピーカには電源が必要です.</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
   <RitualTargetLightBallIsNotPowered>TODO</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
@@ -159,44 +159,44 @@
   <RitualOutcomeExtraDesc_Execution>TODO</RitualOutcomeExtraDesc_Execution>
 
   <!-- EN: Additional reward -->
-  <RitualAttachedReward>TODO</RitualAttachedReward>
+  <RitualAttachedReward>追加の報酬</RitualAttachedReward>
   <!-- EN: Choose -->
-  <RitualAttachedRewardChoose>TODO</RitualAttachedRewardChoose>
+  <RitualAttachedRewardChoose>選択</RitualAttachedRewardChoose>
   <!-- EN: Can't use {0} with {1}. -->
-  <RitualAttachedRewardCantUseWithRitual>TODO</RitualAttachedRewardCantUseWithRitual>
+  <RitualAttachedRewardCantUseWithRitual>{0}を{1}と同時に使うことはできません.</RitualAttachedRewardCantUseWithRitual>
   <!-- EN: Requires any of memes -->
-  <RitualAttachedRewardRequiredMemeAny>TODO</RitualAttachedRewardRequiredMemeAny>
+  <RitualAttachedRewardRequiredMemeAny>いずれかのミームが必要</RitualAttachedRewardRequiredMemeAny>
   <!-- EN: Requires {0} faction -->
-  <RitualAttachedRewardRequiredFaction>TODO</RitualAttachedRewardRequiredFaction>
+  <RitualAttachedRewardRequiredFaction>{0}の派閥が必要</RitualAttachedRewardRequiredFaction>
   <!-- EN: positive -->
-  <RitualAttachedOutcomes_Positive>TODO</RitualAttachedOutcomes_Positive>
+  <RitualAttachedOutcomes_Positive>ポジティブ</RitualAttachedOutcomes_Positive>
   <!-- EN: negative -->
-  <RitualAttachedOutcomes_Negative>TODO</RitualAttachedOutcomes_Negative>
+  <RitualAttachedOutcomes_Negative>ネガティブ</RitualAttachedOutcomes_Negative>
   <!-- EN: If the {0} is {1} -->
   <RitualAttachedOutcomesInfo>もし{0}が{1}出来事であれば</RitualAttachedOutcomesInfo>
   <!-- EN: Upon any {0} outcome -->
-  <RitualAttachedApplliesForOutcome>TODO</RitualAttachedApplliesForOutcome>
+  <RitualAttachedApplliesForOutcome>{0}な結果に応じて</RitualAttachedApplliesForOutcome>
   <!-- EN: Upon any {0} outcome -->
-  <RitualAttachedApplliesForOutcomes>TODO</RitualAttachedApplliesForOutcomes>
+  <RitualAttachedApplliesForOutcomes>{0}な結果に応じて</RitualAttachedApplliesForOutcomes>
   <!-- EN: The commotion from the {0} has attracted some curious animals!\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>TODO</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
+  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>{0}の騒ぎは,いくつかの好奇心旺盛な動物を魅了しました!\n\nコロニーに加わった彼らは,人間との交流に慣れているように見えます.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
   <!-- EN: The {0} has induced a Gauranlen pod to sprout nearby. -->
-  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>TODO</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0}はガウランレンのさやを近郊に芽生えさせました.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
   <!-- EN: Can't apply reward -->
-  <RitualAttachedOutcomeCantApply>TODO</RitualAttachedOutcomeCantApply>
+  <RitualAttachedOutcomeCantApply>報酬を適用できない</RitualAttachedOutcomeCantApply>
   <!-- EN: No valid spot -->
-  <RitualAttachedOutcomeCantApply_NoValidSpot>TODO</RitualAttachedOutcomeCantApply_NoValidSpot>
+  <RitualAttachedOutcomeCantApply_NoValidSpot>有効なスポットがない</RitualAttachedOutcomeCantApply_NoValidSpot>
   <!-- EN: Extreme biome -->
   <RitualAttachedOutcomeCantApply_ExtremeBiome>TODO</RitualAttachedOutcomeCantApply_ExtremeBiome>
   <!-- EN: There is already a known ancient complex to explore. -->
-  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>TODO</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
+  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>探索すべき古代遺跡が既にあります.</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
   <!-- EN: Not available right now. -->
-  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>TODO</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>今は利用できません.</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
   
   <!-- EN: This building is a variation of -->
-  <IdeoBuildingVariationOf>TODO</IdeoBuildingVariationOf>
+  <IdeoBuildingVariationOf>もとになる建築物</IdeoBuildingVariationOf>
   <!-- EN: Minimum expectations -->
-  <IdeoBuildingMinimumExpectations>TODO</IdeoBuildingMinimumExpectations>
+  <IdeoBuildingMinimumExpectations>最低期待値</IdeoBuildingMinimumExpectations>
   <!-- EN: size -->
   <Size>サイズ</Size>
   <!-- EN: cost -->
@@ -263,7 +263,7 @@
   <!-- EN: The {0} has higher expectations. -->
   <RoleRaisedExpectation>TODO</RoleRaisedExpectation>
   <!-- EN: Led by {0} -->
-  <IdeoLeaderDifferentIdeoThoughtLabel>TODO</IdeoLeaderDifferentIdeoThoughtLabel>
+  <IdeoLeaderDifferentIdeoThoughtLabel>{0}がリーダー</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
   <AbilityDisabled_IncapableOfWorkTag>TODO</AbilityDisabled_IncapableOfWorkTag>
   <!-- EN: No reachable altar or ritual spot. -->
@@ -340,9 +340,9 @@
   <RelicHuntFoundRelicSitePeaceful>TODO</RelicHuntFoundRelicSitePeaceful>
 
   <!-- EN: relic -->
-  <Relic>TODO</Relic>
+  <Relic>レリック</Relic>
   <!-- EN: Ritual seat -->
-  <RitualSeat>TODO</RitualSeat>
+  <RitualSeat>儀式席</RitualSeat>
 
   <!-- Ritual requirements -->
   <!-- EN: Active loudspeakers -->
@@ -489,9 +489,9 @@
   <Reward_ArchonexusMapPartLabel>TODO</Reward_ArchonexusMapPartLabel>
 
   <!-- EN: relics -->
-  <RelicsLower>TODO</RelicsLower>
+  <RelicsLower>レリック</RelicsLower>
   <!-- EN: relic -->
-  <RelicLower>TODO</RelicLower>
+  <RelicLower>レリック</RelicLower>
 
   <!-- EN: Linked to -->
   <LinkedTo>TODO</LinkedTo>

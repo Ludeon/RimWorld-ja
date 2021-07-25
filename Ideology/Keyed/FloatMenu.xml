@@ -63,7 +63,7 @@
   <!-- EN: cannot be worn with assigned apparel -->
   <BodyPartAlreadyCovered>割り当てた衣服と同時に着用できません</BodyPartAlreadyCovered>
   <!-- EN: already assigned -->
-  <AlreadyAssigned>TODO</AlreadyAssigned> <!-- text_todo -->
+  <AlreadyAssigned>TODO</AlreadyAssigned>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
   <NoteRoleApparelRequirementEffects>人々は服装の要件が満たされると満足し,反すると不幸になります.</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
@@ -88,7 +88,7 @@
   <!-- EN: conflicts with memes -->
   <ConflictsWithMemes>ミームと競合</ConflictsWithMemes>
   <!-- EN: can only have one altar/ideogram -->
-  <IdeoAlreadyHasAltar>TODO</IdeoAlreadyHasAltar>
+  <IdeoAlreadyHasAltar>祭壇/イデオグラムは一つしか選べない</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>衣服に着色</RecolorApparel>
 

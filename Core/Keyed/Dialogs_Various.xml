@@ -1125,8 +1125,10 @@
   <AnimalFemaleYoung>メスの幼獣</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
   <AnimalPregnant>妊娠中</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>絆</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughterPregnant>屠殺</AllowSlaughterPregnant>
+  <AllowSlaughter>屠殺</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>自動的に屠殺される家畜です.</AutoSlaugtherHeaderTooltipLabel>
@@ -1154,6 +1156,10 @@
   <AutoSlaughterHeaderTooltipCurrentPregnant>コロニーに所属する,妊娠中の家畜の数です.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
   <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>妊娠中の家畜を,同じ種の他のメスと区別なく屠殺することを許可します.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>クリックで家畜の制限数を設定します.</AutoSlaughterTooltipSetLimit>
@@ -1175,5 +1181,8 @@
   <RoomRequirementNoProductionFacilities>生産設備の不許可</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>祭壇の不許可</RoomRequirementNoAltars>
+
+  <!-- UNUSED -->
+  <AllowSlaughterPregnant>屠殺</AllowSlaughterPregnant>
 
 </LanguageData>

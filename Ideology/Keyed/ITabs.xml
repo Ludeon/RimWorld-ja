@@ -11,25 +11,25 @@
 
   <!-- ITab titles -->
   <!-- EN: Slave -->
-  <TabSlave>TODO</TabSlave>
+  <TabSlave>奴隷</TabSlave>
   <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
-  <SlaveReleaseRelationGainsDesc>TODO</SlaveReleaseRelationGainsDesc>
+  <SlaveReleaseRelationGainsDesc>あなたが奴隷を解放した場合に得られる派閥との友好値です.これは奴隷の肉体的,精神的な健康状態に影響されます.</SlaveReleaseRelationGainsDesc>
   <!-- EN: Relations gain on release -->
-  <SlaveReleasePotentialRelationGains>TODO</SlaveReleasePotentialRelationGains>
+  <SlaveReleasePotentialRelationGains>奴隷解放時の関係改善値</SlaveReleasePotentialRelationGains>
   <!-- EN: Slave rebellion interval -->
-  <SlaveRebellionMTBDays>TODO</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDays>反乱試行間隔</SlaveRebellionMTBDays>
   <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by mood, health, suppression, proximity to weapons and the presence of colonists on the map. -->
-  <SlaveRebellionMTBDaysDescription>TODO</SlaveRebellionMTBDaysDescription>
+  <SlaveRebellionMTBDaysDescription>奴隷が反乱を起こすまでの平均日数です.起きている時間のみがカウントされます.これは気分,健康状態,抑圧,武器の近く,マップ上の入植者の存在に影響されます.</SlaveRebellionMTBDaysDescription>
 
   <!-- Slave tab -->
   <!-- EN: Suppression -->
-  <Suppression>TODO</Suppression>
+  <Suppression>抑圧</Suppression>
   <!-- EN: Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel. -->
-  <SuppressionDesc>TODO</SuppressionDesc>
+  <SuppressionDesc>抑圧とは,奴隷に対する恐怖と支配の心理的効果のことです.抑圧力が低いと,奴隷は反抗しやすくなります.</SuppressionDesc>
   <!-- EN: Suppression fall rate -->
-  <SuppressionFallRate>TODO</SuppressionFallRate>
+  <SuppressionFallRate>抑圧低下率</SuppressionFallRate>
   <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
-  <SuppressionFallRateDesc>TODO</SuppressionFallRateDesc>
+  <SuppressionFallRateDesc>抑圧は現在のレベルに応じて時間経過とともに低下していきます.\n\n- {1}+ 抑圧: {0}／日\n- {4}-{3} 抑圧: {2}／日\n- {6}- 抑圧: {5}／日\n\nまた,装備や恐怖も抑圧低下率に影響を与えます.この奴隷の低下率計算は以下</SuppressionFallRateDesc>
   <!-- EN: Cannot emancipate -->
   <CannotEmancipate>TODO</CannotEmancipate>
   <!-- EN: Cannot imprison -->
@@ -37,9 +37,9 @@
   <!-- EN: Current suppression -->
   <CurrentSuppression>TODO</CurrentSuppression>
   <!-- EN: Terror -->
-  <Terror>TODO</Terror>
+  <Terror>恐怖</Terror>
   <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
-  <TerrorDescription>TODO</TerrorDescription>
+  <TerrorDescription>恐怖は,奴隷を抑圧するための手段です.奴隷が恐怖の彫刻のような恐ろしいものの近くで過ごすと上昇します.奴隷は一度に3つの恐怖ソースの影響を受けることができます.\n\n恐怖の強さに応じて,抑圧の低下は以下のように遅くなります</TerrorDescription>
   <!-- EN: Recent terrifying observations -->
   <TerrorCurrentThoughts>TODO</TerrorCurrentThoughts>
 
@@ -61,15 +61,15 @@
   <SuppressionUnattendedByColonists>TODO</SuppressionUnattendedByColonists>
 
   <!-- EN: Will -->
-  <WillLevel>TODO</WillLevel>
+  <WillLevel>意志</WillLevel>
   <!-- EN: How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved. -->
-  <WillLevelDesc>TODO</WillLevelDesc>
+  <WillLevelDesc>囚人がどれだけ服従しないと決意しているかです.これがゼロになると,奴隷にすることができます.</WillLevelDesc>
   <!-- EN: {0} base will -->
-  <WillFromPawnKind>TODO</WillFromPawnKind>
+  <WillFromPawnKind>{0} ベースの意志</WillFromPawnKind>
   <!-- EN: Target ideoligion -->
-  <IdeoConversionTarget>TODO</IdeoConversionTarget>
+  <IdeoConversionTarget>対象とする思想</IdeoConversionTarget>
   <!-- EN: The ideoligion your wardens will attempt to convert this prisoner to. -->
-  <IdeoConversionTargetDesc>TODO</IdeoConversionTargetDesc>
+  <IdeoConversionTargetDesc>看守がこの囚人を改宗させようとする思想です.</IdeoConversionTargetDesc>
 
   <!-- Social -->
   <!-- EN: Change per day due to mood -->

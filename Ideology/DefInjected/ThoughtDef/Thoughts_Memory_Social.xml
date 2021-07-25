@@ -17,14 +17,14 @@
   <Counselled_MoodBoost.stages.counselled_by.description>TODO</Counselled_MoodBoost.stages.counselled_by.description>
   
   <!-- EN: failed to convert {0} -->
-  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>TODO</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>{0}の改宗に失敗した</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
   <!-- EN: I tried to convert someone and it didn't work out. Awkward. -->
-  <FailedConvertAbilityInitiator.stages.failed_to_convert.description>TODO</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.description>改宗させようとしたが,うまくいかなかった.気まずい.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
   
   <!-- EN: {0} tried to convert me -->
-  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>TODO</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>{0}は私を改宗させようとした</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
   <!-- EN: Someone tried to convert me. I wish they'd just leave me alone. -->
-  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>TODO</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>誰かが私を改宗させようとした.どうか放っておいてほしい.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
   
   <!-- EN: tended by {0} -->
   <TendedByMedicalSpecialist.stages.tended_by.label>TODO</TendedByMedicalSpecialist.stages.tended_by.label>
