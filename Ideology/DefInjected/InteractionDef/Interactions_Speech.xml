@@ -170,7 +170,42 @@
     <li>speechtopic(p=0.25)->strong hands and hearts</li>
     <li>speechtopic(p=0.25)->the right to survive</li>
   -->
-  <Speech_Leader.logRulesInitiator.rulesStrings>TODO</Speech_Leader.logRulesInitiator.rulesStrings>
+  <Speech_Leader.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>speechtopic->[Vegetable]の探し方</li>
+    <li>speechtopic->[AdjectiveFriendly]人間になる方法</li>
+    <li>speechtopic->[AnimalBadass]を避けること</li>
+    <li>speechtopic->[Game]のような生活</li>
+    <li>speechtopic->[Weapon]としての心</li>
+    <li>speechtopic->[TerrainFeature]と[TerrainFeature]の探索</li>
+    <li>speechtopic->[Direction]の約束</li>
+    <li>speechtopic->より[Animal]らしくなる方法</li>
+    <li>speechtopic->[NaturalObject]の象徴性と[NaturalObject]</li>
+    <li>speechtopic->[PersonFamily]と[PersonFamily]がどのくらいいるか</li>
+    <li>speechtopic->[PersonAlly]のよいあり方</li>
+    <li>speechtopic->[PersonJob]の必要性</li>
+    <li>speechtopic->[PersonBadass]の避け方</li>
+    <li>speechtopic->[ConceptPositive]を通して[Enemy]を打ち負かすこと</li>
+    <li>speechtopic->戦いの最中に[Gore]を見ること</li>
+    <li>speechtopic->[Mechanoid]の歴史</li>
+    <li>speechtopic->[ConceptPositive]の意味</li>
+    <li>speechtopic->コロニーの[ConceptPositive]</li>
+    <li>speechtopic->[AdjectiveBadass]にならずに[AdjectiveBadass]になる方法</li>
+    <li>speechtopic->コロニーにおける[AdjectiveBadass]の程度</li>
+    <li>speechtopic->[AdjectiveNatural][TerrainFeature]</li>
+    <li>speechtopic->コロニーの[AdjectiveLarge]のポテンシャル</li>
+    <li>speechtopic->全ての入植者の[PersonalCharacteristic]</li>
+    <li>speechtopic->コロニーの敵たちの[PersonalCharacteristic]の恐ろしさ</li>
+    <li>speechtopic(p=0.25)->グループとしての団結力</li>
+    <li>speechtopic(p=0.25)->悲劇を乗り越えた先にあるもの</li>
+    <li>speechtopic(p=0.25)->コミュニティとその重要性</li>
+    <li>speechtopic(p=0.25)->サバイバルと贅沢</li>
+    <li>speechtopic(p=0.25)->苦難を乗り越えた先の幸福</li>
+    <li>speechtopic(p=0.25)->苦しみの先のの先の満足</li>
+    <li>speechtopic(p=0.25)->動機としての死</li>
+    <li>speechtopic(p=0.25)->強い手と心</li>
+    <li>speechtopic(p=0.25)->生存権</li>
+  </Speech_Leader.logRulesInitiator.rulesStrings>
   
   <!-- EN: sacrifice speech -->
   <Speech_Sacrifice.label>TODO</Speech_Sacrifice.label>
