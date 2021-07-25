@@ -4,7 +4,7 @@
   <!-- EN: no artificial part -->
   <HasNoProsthetic_Disapproved.stages.no_artificial_part.label>人体改造なし</HasNoProsthetic_Disapproved.stages.no_artificial_part.label>
   <!-- EN: I don't have any artificial body parts. It's against my beliefs to be so unenhanced. -->
-  <HasNoProsthetic_Disapproved.stages.no_artificial_part.description>人体改造されたパーツがない.あまり強化されていないのは自分の信条に反してる.</HasNoProsthetic_Disapproved.stages.no_artificial_part.description>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_part.description>人体改造されたパーツがない.あまり強化されていないのは自分の思想に反してる.</HasNoProsthetic_Disapproved.stages.no_artificial_part.description>
   
   <!-- EN: no artificial part -->
   <HasNoProsthetic_Disapproved_Social.stages.no_artificial_part.label>人体改造なし</HasNoProsthetic_Disapproved_Social.stages.no_artificial_part.label>
@@ -12,7 +12,7 @@
   <!-- EN: artificial part -->
   <HasProsthetic_Abhorrent.stages.artificial_part.label>人体改造</HasProsthetic_Abhorrent.stages.artificial_part.label>
   <!-- EN: I have an artificial body part in me. It's an abhorrent offense against everything I believe! -->
-  <HasProsthetic_Abhorrent.stages.artificial_part.description>私の中に機械化されたパーツがある.これは自分の信条全てに反する忌まわしい犯罪だ!</HasProsthetic_Abhorrent.stages.artificial_part.description>
+  <HasProsthetic_Abhorrent.stages.artificial_part.description>私の中に機械化されたパーツがある.これは自分の思想全てに反する忌まわしい犯罪だ!</HasProsthetic_Abhorrent.stages.artificial_part.description>
   
   <!-- EN: artificial part -->
   <HasProsthetic_Abhorrent_Social.stages.artificial_part.label>人体改造</HasProsthetic_Abhorrent_Social.stages.artificial_part.label>
@@ -20,23 +20,23 @@
   <!-- EN: transhumanist modded -->
   <HasProsthetic_Approved.stages.transhumanist_modded.label>義体化主義者の改造</HasProsthetic_Approved.stages.transhumanist_modded.label>
   <!-- EN: This artificial body part matches my belief. -->
-  <HasProsthetic_Approved.stages.transhumanist_modded.description>この機械化されたパーツは自分の信条と一致している.</HasProsthetic_Approved.stages.transhumanist_modded.description>
+  <HasProsthetic_Approved.stages.transhumanist_modded.description>この機械化されたパーツは自分の思想と一致している.</HasProsthetic_Approved.stages.transhumanist_modded.description>
   <!-- EN: transhumanist connected -->
   <HasProsthetic_Approved.stages.transhumanist_connected.label>義体化主義者の接続</HasProsthetic_Approved.stages.transhumanist_connected.label>
   <!-- EN: The more artificial body parts I get, the stronger my expression of my beliefs. -->
-  <HasProsthetic_Approved.stages.transhumanist_connected.description>機械化されたパーツが多ければ多いほど,自分の信条を強く表現できる.</HasProsthetic_Approved.stages.transhumanist_connected.description>
+  <HasProsthetic_Approved.stages.transhumanist_connected.description>機械化されたパーツが多ければ多いほど,自分の思想を強く表現できる.</HasProsthetic_Approved.stages.transhumanist_connected.description>
   <!-- EN: transhumanist enhanced -->
   <HasProsthetic_Approved.stages.transhumanist_enhanced.label>義体化主義者の高み</HasProsthetic_Approved.stages.transhumanist_enhanced.label>
   <!-- EN: My connection to my belief is enhanced by my third artificial body part. But I could use more. -->
-  <HasProsthetic_Approved.stages.transhumanist_enhanced.description>三つの機械化されたパーツによって,自分の信条との関係性が強化されている.しかし,もっと欲しい.</HasProsthetic_Approved.stages.transhumanist_enhanced.description>
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.description>三つの機械化されたパーツによって,自分の思想との関係性が強化されている.しかし,もっと欲しい.</HasProsthetic_Approved.stages.transhumanist_enhanced.description>
   <!-- EN: transhumanist synchronized -->
   <HasProsthetic_Approved.stages.transhumanist_synchronized.label>義体化主義者の同調</HasProsthetic_Approved.stages.transhumanist_synchronized.label>
   <!-- EN: Only two more artificial body parts are required to fully synchronize with my beliefs. -->
-  <HasProsthetic_Approved.stages.transhumanist_synchronized.description>あと二つ機械化されたパーツがあれば,自分の信条と完全に同一になることができる.</HasProsthetic_Approved.stages.transhumanist_synchronized.description>
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.description>あと二つ機械化されたパーツがあれば,自分の思想と完全に同一になることができる.</HasProsthetic_Approved.stages.transhumanist_synchronized.description>
   <!-- EN: transhumanist integrated -->
   <HasProsthetic_Approved.stages.transhumanist_integrated.label>義体化主義者の調和</HasProsthetic_Approved.stages.transhumanist_integrated.label>
   <!-- EN: Five artificial body parts! I'm beginning to feel perfect integration with my beliefs. -->
-  <HasProsthetic_Approved.stages.transhumanist_integrated.description>五つの機械化ボディ!自分の信条と完全に一致するのを感じ始めている.</HasProsthetic_Approved.stages.transhumanist_integrated.description>
+  <HasProsthetic_Approved.stages.transhumanist_integrated.description>五つの機械化ボディ!自分の思想と完全に一致するのを感じ始めている.</HasProsthetic_Approved.stages.transhumanist_integrated.description>
   <!-- EN: transhumanist transformed -->
   <HasProsthetic_Approved.stages.transhumanist_transformed.label>義体化主義者のトランスフォーム</HasProsthetic_Approved.stages.transhumanist_transformed.label>
   <!-- EN: It's as though I've left the weak flesh behind. -->
@@ -53,12 +53,12 @@
   <!-- EN: installed prosthetic -->
   <InstalledProsthetic_Abhorrent.stages.installed_prosthetic.label>取り付けられた義肢</InstalledProsthetic_Abhorrent.stages.installed_prosthetic.label>
   <!-- EN: I had to install a prosthetic. This was deeply offensive to my beliefs. -->
-  <InstalledProsthetic_Abhorrent.stages.installed_prosthetic.description>義肢を取り付けなければならなかった.これは自分の信条に強い不快感を与える.</InstalledProsthetic_Abhorrent.stages.installed_prosthetic.description>
+  <InstalledProsthetic_Abhorrent.stages.installed_prosthetic.description>義肢を取り付けなければならなかった.これは自分の思想に強い不快感を与える.</InstalledProsthetic_Abhorrent.stages.installed_prosthetic.description>
   
   <!-- EN: installed prosthetic -->
   <InstalledProsthetic_Disapproved.stages.installed_prosthetic.label>取り付けられた義肢</InstalledProsthetic_Disapproved.stages.installed_prosthetic.label>
   <!-- EN: I had to install a prosthetic. This was clearly against my beliefs. -->
-  <InstalledProsthetic_Disapproved.stages.installed_prosthetic.description>義肢を取り付けなければならなかった.これは明らかに自分の信条に反している.</InstalledProsthetic_Disapproved.stages.installed_prosthetic.description>
+  <InstalledProsthetic_Disapproved.stages.installed_prosthetic.description>義肢を取り付けなければならなかった.これは明らかに自分の思想に反している.</InstalledProsthetic_Disapproved.stages.installed_prosthetic.description>
   
   <!-- EN: installed prosthetic -->
   <InstalledProsthetic_Know_Abhorrent.stages.installed_prosthetic.label>取り付けられた義肢</InstalledProsthetic_Know_Abhorrent.stages.installed_prosthetic.label>

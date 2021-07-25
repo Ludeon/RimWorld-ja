@@ -2,46 +2,47 @@
 <LanguageData>
   
   <!-- EN: grand altar -->
-  <Altar_Grand.label>TODO</Altar_Grand.label>
+  <Altar_Grand.label>巨大な祭壇</Altar_Grand.label>
   <!-- EN: A grand platform that plays a role in ideoligious rituals. -->
-  <Altar_Grand.description>TODO</Altar_Grand.description>
+  <Altar_Grand.description>思想的な儀式で役割を果たす巨大な演壇です.</Altar_Grand.description>
   
   <!-- EN: large altar -->
-  <Altar_Large.label>TODO</Altar_Large.label>
+  <Altar_Large.label>大きな祭壇</Altar_Large.label>
   <!-- EN: A large platform that plays a role in ideoligious rituals. -->
-  <Altar_Large.description>TODO</Altar_Large.description>
+  <Altar_Large.description>思想的な儀式で役割を果たす大きな演壇です.</Altar_Large.description>
   
   <!-- EN: medium altar -->
-  <Altar_Medium.label>TODO</Altar_Medium.label>
+  <!--TODO--><!--仮翻訳: 中サイズと訳すと他の祭壇と比べ見栄えが良くないので良い案があれば再翻訳お願いします-->
+  <Altar_Medium.label>中サイズの祭壇</Altar_Medium.label>
   <!-- EN: A medium platform that plays a role in ideoligious rituals. -->
-  <Altar_Medium.description>TODO</Altar_Medium.description>
+  <Altar_Medium.description>思想的な儀式で役割を果たす中サイズの演壇です.</Altar_Medium.description>
   
   <!-- EN: small altar -->
-  <Altar_Small.label>TODO</Altar_Small.label>
+  <Altar_Small.label>小さな祭壇</Altar_Small.label>
   <!-- EN: A small platform that plays a role in ideoligious rituals. -->
-  <Altar_Small.description>TODO</Altar_Small.description>
+  <Altar_Small.description>思想的な儀式で役割を果たす小さな演壇です.</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
-  <BiosculpterPod.label>TODO</BiosculpterPod.label>
+  <BiosculpterPod.label>生体改造ポッド</BiosculpterPod.label>
   <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>TODO</BiosculpterPod.description>
+  <BiosculpterPod.description>生体改造用の流体注水器と,付属の制御システムを備えた没入型ポッドです.年齢の逆転や快楽を与えることを含む,様々な生物学的変化を与えることができます.各ポッドは使用者に合わせて生体調整されるため,他の人が使用することはできません.生体調整は60日後にリセットされます.トランスヒューマニズムの信者は,生体改造ポッドが通常の人間の物理的限界を超える,彼らの探求において非常に重要な装置であると信じています.</BiosculpterPod.description>
   <!-- EN: healing -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>回復している</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
   <!-- EN: Heal all fresh wounds and one random permanent injury. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>全ての新しい傷と,一つの治らない怪我をランダムに癒します.</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
   <!-- EN: age reversal -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>年齢逆転</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <!-- EN: Reverse one year of aging. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>老化を一年分逆転させます.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <!-- EN: pleasure -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>喜び</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
   <!-- EN: Temporarily reshape the nervous system to deliver elevated levels of happiness for a time. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>神経系を再形成し,一時的に高レベルの幸福をもたらします.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
   
   <!-- EN: burnbong -->
-  <Burnbong.label>TODO</Burnbong.label>
+  <Burnbong.label>バーンボング</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
-  <Burnbong.description>TODO</Burnbong.description>
+  <Burnbong.description>スモークリーフが詰まった木製の建築物です.儀式の間に発火し,数時間大量のスモークリーフの煙を生成し,その後は破壊される可能性があります.</Burnbong.description>
   
   <!-- EN: cannibal platter -->
   <CannibalPlatter.label>TODO</CannibalPlatter.label>
@@ -49,9 +50,9 @@
   <CannibalPlatter.description>TODO</CannibalPlatter.description>
   
   <!-- EN: christmas tree -->
-  <ChristmasTree.label>TODO</ChristmasTree.label>
+  <ChristmasTree.label>クリスマスツリー</ChristmasTree.label>
   <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. -->
-  <ChristmasTree.description>TODO</ChristmasTree.description>
+  <ChristmasTree.description>クリスマスのお祝いの一環として伝統的に作られた,装飾品やライトで飾られたお祝い用の木です.</ChristmasTree.description>
   
   <!-- EN: standing darklamp -->
   <Darklamp.label>TODO</Darklamp.label>
@@ -69,19 +70,19 @@
   <DarktorchFungus.description>TODO</DarktorchFungus.description>
   
   <!-- EN: effigy -->
-  <Effigy.label>TODO</Effigy.label>
+  <Effigy.label>人形</Effigy.label>
   <!-- EN: A rough wooden frame in the shape of a human, ready to be burned as part of a ritual. -->
-  <Effigy.description>TODO</Effigy.description>
+  <Effigy.description>儀式の一環として燃やす準備を終わらせた,人間の形を模した粗い木製のフレームです.</Effigy.description>
   
   <!-- EN: ideogram -->
-  <Ideogram.label>TODO</Ideogram.label>
+  <Ideogram.label>イデオグラム</Ideogram.label>
   <!-- EN: A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals. -->
-  <Ideogram.description>TODO</Ideogram.description>
+  <Ideogram.description>地面に描き,金属の縁で補強した大きな聖像です.儀式時に焦点を合わせるオブジェクトとして使用されます.</Ideogram.description>
   
   <!-- EN: incense shrine -->
-  <IncenseShrine.label>TODO</IncenseShrine.label>
+  <IncenseShrine.label>香聖堂</IncenseShrine.label>
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
-  <IncenseShrine.description>TODO</IncenseShrine.description>
+  <IncenseShrine.description>香の入れ物が詰まった収集物です.儀式が始まると発火し,儀式の焦点として強力な香効果を生み出します.燃え尽きると破壊されます.</IncenseShrine.description>
   
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>TODO</NeuralSupercharger.label>
@@ -101,9 +102,9 @@
   <RitualSpot.description>TODO</RitualSpot.description>
   
   <!-- EN: sacrificial flag -->
-  <SacrificialFlag.label>TODO</SacrificialFlag.label>
+  <SacrificialFlag.label>生贄旗</SacrificialFlag.label>
   <!-- EN: A flag representing enemies, ready to be burned as part of a ritual. -->
-  <SacrificialFlag.description>TODO</SacrificialFlag.description>
+  <SacrificialFlag.description>儀式の一環として燃やす準備を終わらせた,敵を表す旗です.</SacrificialFlag.description>
   
   <!-- EN: sleep accelerator -->
   <SleepAccelerator.label>TODO</SleepAccelerator.label>

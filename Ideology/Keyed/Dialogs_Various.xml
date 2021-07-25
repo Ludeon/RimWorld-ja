@@ -3,15 +3,15 @@
 
   <!-- Misc -->
   <!-- EN: add -->
-  <Add>TODO</Add>
+  <Add>追加</Add>
   <!-- EN: Trading animal products bonus -->
-  <TradingAnimalProduceBonus>TODO</TradingAnimalProduceBonus>
+  <TradingAnimalProduceBonus>畜産物の取引ボーナス</TradingAnimalProduceBonus>
   <!-- EN: Slaves -->
-  <SlavesSection>TODO</SlavesSection>
+  <SlavesSection>奴隷</SlavesSection>
   <!-- EN: dominant style -->
   <DominantStyle>TODO</DominantStyle>
   <!-- EN: Date -->
-  <Date>TODO</Date>
+  <Date>日付</Date>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>思想の象徴的構造を選択してください.これはシンボルにのみ影響を与え,ゲームのプレイには影響しません.</ChooseStructureMemesInfo>
@@ -32,7 +32,7 @@
   <!-- EN: role -->
   <Role>役割</Role>
   <!-- EN: Assign role -->
-  <ChooseRole>役割を割り当てる</ChooseRole>
+  <ChooseRole>役割を割当</ChooseRole>
   <!-- EN: No role assigned -->
   <NoRoleAssigned>役割が割り当てられてない</NoRoleAssigned>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
@@ -243,6 +243,6 @@
   <ConfirmHackEnenyTerminal>TODO</ConfirmHackEnenyTerminal>
 
   <!-- EN: Relics -->
-  <RelicsSection>TODO</RelicsSection>
+  <RelicsSection>レリック</RelicsSection>
 
 </LanguageData>
