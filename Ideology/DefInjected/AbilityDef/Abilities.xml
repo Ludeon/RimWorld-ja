@@ -83,7 +83,7 @@
   <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
   <Reassure.description>対象の思想に対する確信を高めます.確信を取り戻せるかは話者の交渉スキルに依存します.</Reassure.description>
   <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}を安堵させ, {IDEO}への確信が{RECIPIENT_possessive}向上し, {BEFORECERTAINTY}から{AFTERCERTAINTY}に変化しました.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}を安堵させ, {RECIPIENT_possessive}{IDEO}への確信が向上し, {BEFORECERTAINTY}から{AFTERCERTAINTY}に変化しました.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
   <!-- EN: research command -->
   <ResearchCommand.label>研究指導</ResearchCommand.label>
