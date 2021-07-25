@@ -107,11 +107,11 @@
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}の死体を最初に埋める必要がある</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
-  <RitualTargetGatherSpotInfo>TODO</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherSpotInfo>テーブルなど、人が集まれる場所</RitualTargetGatherSpotInfo>
   <!-- EN: Altar or any ritual spot. -->
   <RitualTargetGatherAltarOrRitualSpotInfo>TODO</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>TODO</RitualTargetLightBallInfo>
+  <RitualTargetLightBallInfo>ライトボールやラウドスピーカーのスポット。ミラーボールとスピーカには電源が必要です。</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
   <RitualTargetLightBallIsNotPowered>TODO</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
@@ -263,7 +263,7 @@
   <!-- EN: The {0} has higher expectations. -->
   <RoleRaisedExpectation>TODO</RoleRaisedExpectation>
   <!-- EN: Led by {0} -->
-  <IdeoLeaderDifferentIdeoThoughtLabel>TODO</IdeoLeaderDifferentIdeoThoughtLabel>
+  <IdeoLeaderDifferentIdeoThoughtLabel>{0}がリーダー</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
   <AbilityDisabled_IncapableOfWorkTag>TODO</AbilityDisabled_IncapableOfWorkTag>
   <!-- EN: No reachable altar or ritual spot. -->

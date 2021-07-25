@@ -2,14 +2,14 @@
 <LanguageData>
 
   <!-- EN: Need slave beds -->
-  <NeedSlaveBeds>TODO</NeedSlaveBeds>
+  <NeedSlaveBeds>奴隷用のベッドが必要</NeedSlaveBeds>
   <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedSlaveBedsDesc>TODO</NeedSlaveBedsDesc>
+  <NeedSlaveBedsDesc>奴隷ベッドの数よりも奴隷の数の方が多いです。寝床を増やすか、入植者や囚人の寝床を奴隷の寝床に変えるかしてください。</NeedSlaveBedsDesc>
 
   <!-- EN: Slave unsuppressed -->
-  <SlavesUnsuppressedLabel>TODO</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedLabel>抑圧されていない奴隷</SlavesUnsuppressedLabel>
   <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
-  <SlavesUnsuppressedDesc>TODO</SlavesUnsuppressedDesc>
+  <SlavesUnsuppressedDesc>{0_nameDef}の抑圧レベルが危険水域まで低下しています。{0_pronoun}が反乱を起こす可能性が高いです。\n\n看守の仕事を担当する入植者がいることを確認してください。看守は奴隷の反乱を防ぐため、定期的に奴隷を抑圧します。</SlavesUnsuppressedDesc>
   <!-- EN: Slave unattended -->
   <SlaveUnattendedLabel>TODO</SlaveUnattendedLabel>
   <!-- EN: Slaves unattended -->
@@ -22,21 +22,21 @@
   <!-- EN: {0} expected for -->
   <RitualExpectedFor>TODO</RitualExpectedFor>
   <!-- EN: {0} days: Ritual opportunity ends. -->
-  <RitualExpirationTime>TODO</RitualExpirationTime>
+  <RitualExpirationTime>{0}日: 儀式期間の終了</RitualExpirationTime>
   <!-- EN: Expires in -->
   <RitualExpiresIn>TODO</RitualExpiresIn>
   <!-- EN: Completing {RITUAL_labelDef} will have these effects -->
-  <RitualCompletionEffects>TODO</RitualCompletionEffects>
+  <RitualCompletionEffects>{RITUAL_labelDef}を完了させると、以下の効果があります。</RitualCompletionEffects>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
-  <RitualTargetsExplanation>TODO</RitualTargetsExplanation>
+  <RitualTargetsExplanation>儀式を開始するには、フォーカスオブジェクトを選択し、「{RITUAL_label}を開始する」コマンドをクリックします。以下のフォーカスオブジェクトが有効です。:\n{1}</RitualTargetsExplanation>
   <!-- EN: Following roles have a part in {RITUAL_label}:\n{1} -->
   <RitualRolesExplanation>TODO</RitualRolesExplanation>
   <!-- EN: Click to jump to targets -->
   <RitualJumpToTargets>TODO</RitualJumpToTargets>
   <!-- EN: Delaying {RITUAL_labelDef} will have following effects -->
-  <RitualObligationDelayEffects>TODO</RitualObligationDelayEffects>
+  <RitualObligationDelayEffects>{RITUAL_labelDef}が遅れると、以下の影響があります。</RitualObligationDelayEffects>
   <!-- EN: {0} days: {1} mood on all {2}s. -->
-  <RitualObligationDelayEffectDesc>TODO</RitualObligationDelayEffectDesc>
+  <RitualObligationDelayEffectDesc>{0}日: 全ての{2}の心情が{1}</RitualObligationDelayEffectDesc>
   <!-- EN: In order to perform {0} you need to fill these roles -->
   <RitualUnfilledRoles>TODO</RitualUnfilledRoles>
 
@@ -60,11 +60,11 @@
   <QuestPartRaidsDelayDesc>TODO</QuestPartRaidsDelayDesc>
 
   <!-- EN: {0} role unfilled -->
-  <IdeoRoleEmpty>TODO</IdeoRoleEmpty>
+  <IdeoRoleEmpty>{0} 役割未割当</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
-  <IdeoRolesEmpty>TODO</IdeoRolesEmpty>
+  <IdeoRolesEmpty>{0} 役割未割当</IdeoRolesEmpty>
   <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>TODO</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>これらの役割に割り当てがありません:\n{0}\n\n入植者の「社交」タブから役割に割り当てることができます。\n\n役割未割当のままだと、以下の入植者の心情が悪化します。</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
   <AncientAltarThreatsWaking>TODO</AncientAltarThreatsWaking>
@@ -81,13 +81,13 @@
   <AlertNoRecentSlaughterDescPost>TODO</AlertNoRecentSlaughterDescPost>
   
   <!-- EN: Ritual opportunity soon -->
-  <AlertRitualComing>TODO</AlertRitualComing>
+  <AlertRitualComing>もうすぐ儀式の日</AlertRitualComing>
   <!-- EN: A ritual opportunity is coming soon for following rituals -->
-  <AlertRitualComingDesc>TODO</AlertRitualComingDesc>
+  <AlertRitualComingDesc>以下の儀式の機会が近々あります。</AlertRitualComingDesc>
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
-  <AlertRitualComingExtra>TODO</AlertRitualComingExtra>
+  <AlertRitualComingExtra>機会は{0}日後に期限切れとなり、毎年同じ日に再発生します。</AlertRitualComingExtra>
   <!-- EN: {0} on {1}, {2} left -->
-  <AlertRitualComingEntry>TODO</AlertRitualComingEntry>
+  <AlertRitualComingEntry>{0}（{1}、残り{2}）</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
   <AlertAgeReversalDemandNear>TODO</AlertAgeReversalDemandNear>
