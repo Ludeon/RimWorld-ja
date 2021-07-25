@@ -11,11 +11,11 @@
     <li>r_logentry->[INITIATOR_nameDef] whispered that security was lax and now would be a good time to escape.</li>
   -->
   <SparkSlaveRebellion.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は彼らが逃げ出すことを提案した。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_possessive]の自由を取り戻すよう[RECIPIENT_nameDef]に勧めた。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は奴隷状態を終わらせて逃げようと語った。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は隷属の先にある人生を語り、[RECIPIENT_nameDef]に脱出を勧めた。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は、警備が甘くなっているので脱出するには今がチャンスだと囁いた。</li>
+    <li>r_logentry->[INITIATOR_nameDef]は彼らが逃げ出すことを提案しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_possessive]の自由を取り戻すよう[RECIPIENT_nameDef]に勧めました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は奴隷状態を終わらせて逃げようと語りました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は隷属の先にある人生を語り,[RECIPIENT_nameDef]に脱出を進めました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,警備が甘くなっているので脱出するには今がチャンスだと囁きました.</li>
     </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
   
   <!-- EN: suppress -->
@@ -27,10 +27,10 @@
     <li>r_logentry->[INITIATOR_nameDef] suggested that [RECIPIENT_nameDef] follow orders and not ask questions.</li>
   -->
   <Suppress.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に反抗した場合には罰があることを伝えた。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に反抗すると罰せられると警告した。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に対して、いかなる種類の違反もしないように注意した。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に対して、質問をせずに命令に従うように提案した。</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に反抗した場合には罰があることを伝えました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に反抗すると罰せられると警告しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に対して,いかなる種類の違反もしないように注意しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に対して,質問をせずに命令に従うように提案しました.</li>
     </Suppress.logRulesInitiator.rulesStrings>
   
 </LanguageData>
