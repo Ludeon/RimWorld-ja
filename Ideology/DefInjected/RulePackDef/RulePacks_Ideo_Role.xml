@@ -15,7 +15,20 @@
     <li>secondPart(p=4)->kin</li>
     <li>secondPart(p=4)->touch</li>
   -->
-  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings>TODO</NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+    <li>r_roleName->生物者</li>
+    <li>r_roleName->動物者</li>
+    <li>firstPart->毛皮</li>
+    <li>firstPart->肉球</li>
+    <li>firstPart->蹄</li>
+    <li>firstPart->尻尾</li>
+    <li>firstPart->ほおひげ</li>
+    <li>firstPart->牙</li>
+    <li>firstPart->野生</li>
+    <li>firstPart->長鼻</li>
+    <li>secondPart(p=4)->類</li>
+    <li>secondPart(p=4)->風</li>
+  </NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->berserker</li>
@@ -33,7 +46,22 @@
     <li>firstPart->smash</li>
     <li>firstPart->crush</li>
   -->
-  <NamerRoleBrawler.rulePack.rulesStrings>TODO</NamerRoleBrawler.rulePack.rulesStrings>
+  <NamerRoleBrawler.rulePack.rulesStrings>
+    <li>r_roleName->狂戦士</li>
+    <li>firstPart->一撃</li>
+    <li>firstPart->拳</li>
+    <li>firstPart->打撲</li>
+    <li>firstPart->刀身</li>
+    <li>firstPart->喧嘩</li>
+    <li>firstPart->ナックル</li>
+    <li>firstPart->槍</li>
+    <li>firstPart->剣</li>
+    <li>firstPart->クラブ</li>
+    <li>firstPart->刃</li>
+    <li>firstPart->切断</li>
+    <li>firstPart->粉砕</li>
+    <li>firstPart->圧搾</li>
+  </NamerRoleBrawler.rulePack.rulesStrings>
   
   <!-- EN:
     <li>firstPart->health</li>
@@ -45,7 +73,16 @@
     <li>firstPart->surgo</li>
     <li>firstPart->clinic</li>
   -->
-  <NamerRoleMedicalSpecialist.rulePack.rulesStrings>TODO</NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+    <li>firstPart->健康</li>
+    <li>firstPart->回復</li>
+    <li>firstPart->心臓</li>
+    <li>firstPart->薬剤</li>
+    <li>firstPart->メス</li>
+    <li>firstPart->治療</li>
+    <li>firstPart->手術</li>
+    <li>firstPart->クリニック</li>
+  </NamerRoleMedicalSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->spelunker</li>
@@ -63,7 +100,22 @@
     <li>firstPart->tunnel</li>
     <li>firstPart->crack</li>
   -->
-  <NamerRoleMiner.rulePack.rulesStrings>TODO</NamerRoleMiner.rulePack.rulesStrings>
+  <NamerRoleMiner.rulePack.rulesStrings>
+    <li>r_roleName->洞窟探検者</li>
+    <li>firstPart->採掘</li>
+    <li>firstPart->深度</li>
+    <li>firstPart->深部</li>
+    <li>firstPart->岩</li>
+    <li>firstPart->洞窟</li>
+    <li>firstPart->採取</li>
+    <li>firstPart->ドリル</li>
+    <li>firstPart->地下</li>
+    <li>firstPart->石</li>
+    <li>firstPart->塚</li>
+    <li>firstPart->穴</li>
+    <li>firstPart->トンネル</li>
+    <li>firstPart->裂け目</li>
+  </NamerRoleMiner.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName(p=4)->[memeMoralist]</li>
@@ -75,7 +127,16 @@
     <li>r_roleName->[chosenAdjective] [memeMoralist]</li>
     <li>r_roleName->[keyDeity]'s [memeMoralist]</li>
   -->
-  <NamerRoleMoralist.rulePack.rulesStrings>TODO</NamerRoleMoralist.rulePack.rulesStrings>
+  <NamerRoleMoralist.rulePack.rulesStrings>
+    <li>r_roleName(p=4)->[memeMoralist]</li>
+    <li>r_roleName(p=2)->[memeAdjective][memeMoralist]</li>
+    <li>r_roleName->[chosenTheme]の[memeMoralist]</li>
+    <li>r_roleName->[keyDeity]の[memeMoralist]</li>
+    <li>r_roleName->[memeConcept]の[memeMoralist]</li>
+    <li>r_roleName->[chosenIdeoName]の[memeMoralist]</li>
+    <li>r_roleName->[chosenAdjective][memeMoralist]</li>
+    <li>r_roleName->[keyDeity]による[memeMoralist]</li>
+  </NamerRoleMoralist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->manufactor</li>
@@ -87,7 +148,16 @@
     <li>firstPart->manu</li>
     <li>firstPart->make</li>
   -->
-  <NamerRoleProductionSpecialist.rulePack.rulesStrings>TODO</NamerRoleProductionSpecialist.rulePack.rulesStrings>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings>
+    <li>r_roleName->製造者</li>
+    <li>r_roleName->便利屋</li>
+    <li>r_roleName->製作者</li>
+    <li>firstPart->製作</li>
+    <li>firstPart->作製</li>
+    <li>firstPart->組み立て</li>
+    <li>firstPart->手動</li>
+    <li>firstPart->製作</li>
+  </NamerRoleProductionSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->highmind</li>
@@ -101,7 +171,18 @@
     <li>firstPart->cogito</li>
     <li>firstPart->idea</li>
   -->
-  <NamerRoleResearcher.rulePack.rulesStrings>TODO</NamerRoleResearcher.rulePack.rulesStrings>
+  <NamerRoleResearcher.rulePack.rulesStrings>
+    <li>r_roleName->高精神者</li>
+    <li>r_roleName->哲学者</li>
+    <li>r_roleName->思考者</li>
+    <li>r_roleName->学習者</li>
+    <li>firstPart->心理</li>
+    <li>firstPart->思考</li>
+    <li>firstPart->焦点</li>
+    <li>firstPart->神経</li>
+    <li>firstPart->哲学</li>
+    <li>firstPart->思想</li>
+  </NamerRoleResearcher.rulePack.rulesStrings>
   
   <!-- EN:
     <li>firstPart->gun</li>
@@ -115,7 +196,18 @@
     <li>firstPart->shoot</li>
     <li>secondPart(p=4)->slinger</li>
   -->
-  <NamerRoleShooter.rulePack.rulesStrings>TODO</NamerRoleShooter.rulePack.rulesStrings>
+  <NamerRoleShooter.rulePack.rulesStrings>
+    <li>firstPart->銃</li>
+    <li>firstPart->射撃</li>
+    <li>firstPart->トリガー</li>
+    <li>firstPart->弾</li>
+    <li>firstPart->弾丸</li>
+    <li>firstPart->照準</li>
+    <li>firstPart->狙撃</li>
+    <li>firstPart->標的</li>
+    <li>firstPart->発射</li>
+    <li>secondPart(p=4)->発砲者</li>
+  </NamerRoleShooter.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->fertilizer</li>
@@ -134,7 +226,23 @@
     <li>firstPart->soil</li>
     <li>firstPart->root</li>
   -->
-  <NamerRoleSower.rulePack.rulesStrings>TODO</NamerRoleSower.rulePack.rulesStrings>
+  <NamerRoleSower.rulePack.rulesStrings>
+    <li>r_roleName->肥料家</li>
+    <li>firstPart->葉</li>
+    <li>firstPart->苗木</li>
+    <li>firstPart->緑</li>
+    <li>firstPart->新芽</li>
+    <li>firstPart->庭園</li>
+    <li>firstPart->植物</li>
+    <li>firstPart->ハーブ</li>
+    <li>firstPart->作物</li>
+    <li>firstPart->農地</li>
+    <li>firstPart->土壌</li>
+    <li>firstPart->泥</li>
+    <li>firstPart->種</li>
+    <li>firstPart->土地</li>
+    <li>firstPart->根</li>
+  </NamerRoleSower.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName(p=7)->[firstPart][secondPart]</li>
@@ -163,6 +271,32 @@
     <li>secondPart->izer</li>
     <li>secondPart->iner</li>
   -->
-  <NamerRoleSpecialistUtility.rulePack.rulesStrings>TODO</NamerRoleSpecialistUtility.rulePack.rulesStrings>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>secondPart->マスター</li>
+    <li>secondPart->支持者</li>
+    <li>secondPart->情熱</li>
+    <li>secondPart->精神</li>
+    <li>secondPart->の頭</li>
+    <li>secondPart->の眼</li>
+    <li>secondPart->の手</li>
+    <li>secondPart->機能</li>
+    <li>secondPart->のブレイン</li>
+    <li>secondPart->所有者</li>
+    <li>secondPart->をもたらす者</li>
+    <li>secondPart->の伝道師</li>
+    <li>secondPart->を話す者</li>
+    <li>secondPart->を知る者</li>
+    <li>secondPart->を愛する者</li>
+    <li>secondPart->使用者</li>
+    <li>secondPart->のトップ</li>
+    <li>secondPart->の傲慢者</li>
+    <li>secondPart->者</li>
+    <li>secondPart->を行う者</li>
+    <li>secondPart->を扱う者</li>
+    <li>secondPart->を司る者</li>
+    <li>secondPart->の人</li>
+    <li>secondPart->の人物</li>
+  </NamerRoleSpecialistUtility.rulePack.rulesStrings>
   
 </LanguageData>

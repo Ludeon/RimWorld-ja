@@ -86,15 +86,15 @@
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>十分な染料がありません.</NotEnoughDye>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
-  <NotEnoughDyeWillRecolorApparel>TODO</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorApparel>入植者は染料が利用可能になると,衣服の色を変えます.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
-  <NotEnoughDyeWillRecolorHair>TODO</NotEnoughDyeWillRecolorHair>
+  <NotEnoughDyeWillRecolorHair>入植者は染料が利用可能になると,衣服の色を変えます.</NotEnoughDyeWillRecolorHair>
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
-  <IdeoCertaintyTooltip>TODO</IdeoCertaintyTooltip>
+  <IdeoCertaintyTooltip>{IDEO}における{PAWN_labelShort}の確信度は,{PERCENTAGE}にある</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
-  <DisabledByPrecept>TODO</DisabledByPrecept>
+  <DisabledByPrecept>戒律'{0}'によって無効</DisabledByPrecept>
   <!-- EN: Everyone -->
-  <Everyone>TODO</Everyone>
+  <Everyone>全員</Everyone>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
   <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓です.</RitualTargetGraveInfo>

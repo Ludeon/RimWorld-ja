@@ -8,7 +8,7 @@
   <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
   <MessageIdeoIncompatiblePrecepts>{PRECEPT1}と{PRECEPT2}は競合します.</MessageIdeoIncompatiblePrecepts>
   <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
-  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>TODO</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL}の 衣服の要求は, {ROLE}の 衣服要件と 重複しています.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
   <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>TODO</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {PRECEPT} needs one of these buildings -->
