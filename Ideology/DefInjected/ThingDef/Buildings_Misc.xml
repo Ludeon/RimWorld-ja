@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: autobong -->
-  <Autobong.label>TODO</Autobong.label>
+  <Autobong.label>オートボング</Autobong.label>
   <!-- EN: An automatic smokeleaf-burning device which generates a smoke cloud around itself. Anyone in the cloud will become high on smokeleaf over time. -->
-  <Autobong.description>TODO</Autobong.description>
+  <Autobong.description>本体の周囲に自動的にスモーククラウドを生成する装置.クラウド内にいると時間の経過とともにハイになります.</Autobong.description>
   
   <!-- EN: drum -->
   <Drum.label>太鼓</Drum.label>
@@ -12,19 +12,19 @@
   <Drum.description>部族の儀式やパーティーの音楽ツールとして使用される大きな木製の太鼓です.</Drum.description>
   
   <!-- EN: dryad cocoon -->
-  <DryadCocoon.label>TODO</DryadCocoon.label>
+  <DryadCocoon.label>ドライアドのまゆ</DryadCocoon.label>
   <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Gauranlen trees grow these spheres to help protect the dryads as they morph. -->
-  <DryadCocoon.description>TODO</DryadCocoon.description>
+  <DryadCocoon.description>繊維状の植物の球体.内部のドライアドはゆっくりと新しい形態に変身していきます.ガウランレンはこの球体を育て,ドライアドの変身を保護します.</DryadCocoon.description>
   
   <!-- EN: gaumaker pod -->
-  <GaumakerCocoon.label>TODO</GaumakerCocoon.label>
+  <GaumakerCocoon.label>ガウメイカーのさや</GaumakerCocoon.label>
   <!-- EN: The result of the merging of several Gaumaker dryads, this symbiotic plant/animal pod is an essential part of the Gauranlen life cycle. After some time, it will flower into a mature Gauranlen pod which can be harvested to plant a new Gauranlen tree. -->
-  <GaumakerCocoon.description>TODO</GaumakerCocoon.description>
+  <GaumakerCocoon.description>複数のガウメイカードライアドが結合したもので,この植物と動物の特性を兼ね備えた球体はガウランレンのライフサイクルにおいて重要な部分を占めます.しばらくすると成熟したガウランレンのさやとなり,それを収穫して新しい木を育てることができます.</GaumakerCocoon.description>
   
   <!-- EN: gibbet cage -->
-  <GibbetCage.label>TODO</GibbetCage.label>
+  <GibbetCage.label>晒し牢</GibbetCage.label>
   <!-- EN: A steel cage for holding and displaying corpses. This horrifying sight inspires terror and disgust in observers. It is an especially brutal and effective way to terrorize slaves. -->
-  <GibbetCage.description>TODO</GibbetCage.description>
+  <GibbetCage.description>死体を保持したり展示したりするための鉄製の牢.この恐ろしい光景は見たものに嫌悪と恐怖を呼び起こさせます.奴隷を恐怖で抑圧するための特に残忍で効果的な方法です.</GibbetCage.description>
   
   <!-- EN: kneel pillow -->
   <KneelPillow.label>儀式用枕</KneelPillow.label>
@@ -37,19 +37,19 @@
   <KneelSheet.description>信者が儀式を観察したり,祈ったり,話し合ったりしながらひざまずくシートです.</KneelSheet.description>
   
   <!-- EN: lectern -->
-  <Lectern.label>TODO</Lectern.label>
+  <Lectern.label>演説台</Lectern.label>
   <!-- EN: A slanted platform that holds a text in front of a speaker. Place it near the focus of rituals and speeches to extend the duration of their positive effects. -->
-  <Lectern.description>TODO</Lectern.description>
+  <Lectern.description>スピーカーの前にテキストを置いておくための傾斜したスタンド.儀式や演説を行う場の付近に配置するとプラスの持続効果を得られます.</Lectern.description>
   
   <!-- EN: lightball -->
-  <LightBall.label>TODO</LightBall.label>
+  <LightBall.label>ライトボール</LightBall.label>
   <!-- EN: A decorative light that rotates and changes colors. Used as a focus for dance parties. -->
-  <LightBall.description>TODO</LightBall.description>
+  <LightBall.description>回転して色が変わる装飾ライト.ダンスパーティーの中心に最適.</LightBall.description>
   
   <!-- EN: loudspeaker -->
-  <Loudspeaker.label>TODO</Loudspeaker.label>
+  <Loudspeaker.label>ラウドスピーカー</Loudspeaker.label>
   <!-- EN: A large loudspeaker for playing music. At least one is necessary to hold a dance party, and more loudspeakers will enhance the effect. -->
-  <Loudspeaker.description>TODO</Loudspeaker.description>
+  <Loudspeaker.description>音楽再生用の大型スピーカー.ダンスパーティーを開くには少なくとも1つ必要で,数を増やすと効果が高まります.</Loudspeaker.description>
   
   <!-- EN: pew -->
   <Pew.label>信徒席</Pew.label>
@@ -57,9 +57,9 @@
   <Pew.description>儀式の参加者が話者の話を聞きながら座れる長いベンチです.儀式やスピーチに面して配置することで,プラスの効果の持続時間を延長できます.</Pew.description>
   
   <!-- EN: bonsai pot -->
-  <PlantPot_Bonsai.label>TODO</PlantPot_Bonsai.label>
+  <PlantPot_Bonsai.label>盆栽の鉢</PlantPot_Bonsai.label>
   <!-- EN: This special pot is suitable for planting bonsai trees, which can improve the mood of people nearby and satisfy ideoligious requirements. -->
-  <PlantPot_Bonsai.description>TODO</PlantPot_Bonsai.description>
+  <PlantPot_Bonsai.description>この特別な鉢は盆栽を植えるのに適しており,周囲の人達の気分を改善し,思想の条件を満たします.</PlantPot_Bonsai.description>
   
   <!-- EN: reliquary -->
   <Reliquary.label>聖遺物箱</Reliquary.label>
@@ -67,23 +67,23 @@
   <Reliquary.description>レリックを保護し展示する,儀式用の建築物です.レリックは特定の思想の信仰者によって崇拝される,古代のオブジェクトです.</Reliquary.description>
   
   <!-- EN: skullspike -->
-  <Skullspike.label>TODO</Skullspike.label>
+  <Skullspike.label>スカルスパイク</Skullspike.label>
   <!-- EN: A spike mounted upright for the purpose of piercing and displaying a human skull. To some, displayed skulls are a symbol of power. To others, they represent barbaric evil. Skullspikes are an especially brutal and effective way to terrorize slaves. -->
-  <Skullspike.description>TODO</Skullspike.description>
+  <Skullspike.description>人間の頭蓋骨を突き刺して晒すために建てられた杭.一部の人にとって晒された頭蓋骨は力の象徴です.他の人には野蛮な邪悪さでしかありません.スカルスパイクは奴隷を恐怖で抑圧するための特に残忍で効果的な方法です.</Skullspike.description>
   
   <!-- EN: slab bed -->
-  <SlabBed.label>TODO</SlabBed.label>
+  <SlabBed.label>平板のベッド</SlabBed.label>
   <!-- EN: A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. -->
-  <SlabBed.description>TODO</SlabBed.description>
+  <SlabBed.description>硬い素材の平板で作られた寝床.不快な寝床ですが,道徳的模範のデモンストレーションとして使用する者もいます.</SlabBed.description>
   
   <!-- EN: slab double bed -->
-  <SlabDoubleBed.label>TODO</SlabDoubleBed.label>
+  <SlabDoubleBed.label>平板のダブルベッド</SlabDoubleBed.label>
   <!-- EN: A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. This one is wide enough to fit two people. -->
-  <SlabDoubleBed.description>TODO</SlabDoubleBed.description>
+  <SlabDoubleBed.description>硬い素材の平板で作られた寝床.不快な寝床ですが,道徳的模範のデモンストレーションとして使用する者もいます.二人が寝れるくらいの横幅です.</SlabDoubleBed.description>
   
   <!-- EN: styling station -->
-  <StylingStation.label>TODO</StylingStation.label>
+  <StylingStation.label>化粧台</StylingStation.label>
   <!-- EN: A table with a mirror and styling tools. People can use this to change their look. -->
-  <StylingStation.description>TODO</StylingStation.description>
+  <StylingStation.description>鏡と化粧道具を備え付けたテーブル.見た目を変更することができます.</StylingStation.description>
   
 </LanguageData>

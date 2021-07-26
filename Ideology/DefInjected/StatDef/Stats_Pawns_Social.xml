@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: animal products price improvement -->
-  <AnimalProductsSellImprovement.label>TODO</AnimalProductsSellImprovement.label>
+  <AnimalProductsSellImprovement.label>動物売買価格の上昇</AnimalProductsSellImprovement.label>
   <!-- EN: When this person sells meat, leather, or wool, prices are improved by this percentage. -->
-  <AnimalProductsSellImprovement.description>TODO</AnimalProductsSellImprovement.description>
+  <AnimalProductsSellImprovement.description>この人物が肉,皮革,毛皮を売買する際に,このパーセンテージだけ売値が上昇します.</AnimalProductsSellImprovement.description>
   
   <!-- EN: slave suppression fall rate -->
-  <SlaveSuppressionFallRate.label>TODO</SlaveSuppressionFallRate.label>
+  <SlaveSuppressionFallRate.label>奴隷抑圧の低下レート</SlaveSuppressionFallRate.label>
   <!-- EN: The rate at which slave suppression falls. -->
-  <SlaveSuppressionFallRate.description>TODO</SlaveSuppressionFallRate.description>
+  <SlaveSuppressionFallRate.description>奴隷の抑圧が低下するレート.</SlaveSuppressionFallRate.description>
   <!-- EN: {0} per day -->
-  <SlaveSuppressionFallRate.formatString>TODO</SlaveSuppressionFallRate.formatString>
+  <SlaveSuppressionFallRate.formatString>{0}日毎</SlaveSuppressionFallRate.formatString>
   <!-- EN: {0} per day -->
-  <SlaveSuppressionFallRate.formatStringUnfinalized>TODO</SlaveSuppressionFallRate.formatStringUnfinalized>
+  <SlaveSuppressionFallRate.formatStringUnfinalized>{0}日毎</SlaveSuppressionFallRate.formatStringUnfinalized>
   
 </LanguageData>
