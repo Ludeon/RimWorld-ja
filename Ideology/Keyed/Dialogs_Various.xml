@@ -125,27 +125,27 @@
 
   <!-- Style -->
   <!-- EN: Style -->
-  <StylePawn>TODO</StylePawn>
+  <StylePawn>スタイル</StylePawn>
   <!-- EN: Cancel -->
   <Cancel>キャンセル</Cancel>
   <!-- EN: hair -->
-  <Hair>TODO</Hair>
+  <Hair>髪型</Hair>
   <!-- EN: beard -->
-  <Beard>TODO</Beard>
+  <Beard>あごひげ</Beard>
   <!-- EN: face tattoo -->
-  <TattooFace>TODO</TattooFace>
+  <TattooFace>顔のタトゥー</TattooFace>
   <!-- EN: body tattoo -->
-  <TattooBody>TODO</TattooBody>
+  <TattooBody>身体のタトゥー</TattooBody>
   <!-- EN: apparel color -->
-  <ApparelColor>TODO</ApparelColor>
+  <ApparelColor>衣服の色</ApparelColor>
   <!-- EN: hair color -->
-  <HairColor>TODO</HairColor>
+  <HairColor>ヘアカラー</HairColor>
   <!-- EN: Show headgear -->
-  <ShowHeadgear>TODO</ShowHeadgear>
+  <ShowHeadgear>頭装備を表示</ShowHeadgear>
   <!-- EN: Show apparel -->
-  <ShowApparel>TODO</ShowApparel>
+  <ShowApparel>衣服を表示</ShowApparel>
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
-  <PawnUnhappyWithStyleItems>TODO</PawnUnhappyWithStyleItems>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef}は次のことに不満を抱きます</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
   <StyleCategoryDescription>スタイルカテゴリは,{IDEO_memberNamePlural}によって作られる一部の建築物,衣服,武器の外観に影響を与えます.複数のカテゴリが同じものに影響を与える場合,左端のカテゴリが適用されます.</StyleCategoryDescription>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
@@ -157,37 +157,37 @@
   <!-- EN: New buildables -->
   <IdeoMakesBuildingBuildable>新しく作成可能</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
-  <NoneUsableForPawn>TODO</NoneUsableForPawn> 
+  <NoneUsableForPawn>{PAWN_nameDef}には使えない</NoneUsableForPawn> 
   <!-- EN: Hair and beards -->
-  <HairAndBeards>TODO</HairAndBeards>
+  <HairAndBeards>髪とあごひげ</HairAndBeards>
   <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
-  <HairAndBeardsDesc>TODO</HairAndBeardsDesc>
+  <HairAndBeardsDesc>これらの設定は,各スタイルがこの思想のメンバーに適用される頻度を決定します.</HairAndBeardsDesc>
   <!-- EN: Tattoos -->
-  <Tattoos>TODO</Tattoos>
+  <Tattoos>タトゥー</Tattoos>
   <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
-  <TattoosDesc>TODO</TattoosDesc>
+  <TattoosDesc>これらの設定は,各タトゥーがこの思想のメンバーに適用される頻度を決定します.</TattoosDesc>
   <!-- EN: Never -->
-  <StyleItemFrequencyNever>TODO</StyleItemFrequencyNever>
+  <StyleItemFrequencyNever>決して</StyleItemFrequencyNever>
   <!-- EN: Rare -->
-  <StyleItemFrequencyRare>TODO</StyleItemFrequencyRare>
+  <StyleItemFrequencyRare>稀に</StyleItemFrequencyRare>
   <!-- EN: Uncommon -->
-  <StyleItemFrequencyUncommon>TODO</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyUncommon>珍しい</StyleItemFrequencyUncommon>
   <!-- EN: Normal -->
-  <StyleItemFrequencyNormal>TODO</StyleItemFrequencyNormal>
+  <StyleItemFrequencyNormal>普通</StyleItemFrequencyNormal>
   <!-- EN: Common -->
-  <StyleItemFrequencyCommon>TODO</StyleItemFrequencyCommon>
+  <StyleItemFrequencyCommon>共通</StyleItemFrequencyCommon>
   <!-- EN: Frequent -->
-  <StyleItemFrequencyFrequent>TODO</StyleItemFrequencyFrequent>
+  <StyleItemFrequencyFrequent>頻繁</StyleItemFrequencyFrequent>
   <!-- EN: Edit appearance -->
-  <EditAppearanceItems>TODO</EditAppearanceItems>
+  <EditAppearanceItems>外観を編集</EditAppearanceItems>
   <!-- EN: {0} in use -->
-  <NumAvailable>TODO</NumAvailable>
+  <NumAvailable>{0}種類が使用中</NumAvailable>
   <!-- EN: Expand all -->
-  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <ExpandAllCategories>全て展開</ExpandAllCategories>
   <!-- EN: Collapse all -->
-  <CollapseAllCategories>TODO</CollapseAllCategories>
+  <CollapseAllCategories>全て折りたたむ</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
-  <ResetButtonDesc>TODO</ResetButtonDesc>
+  <ResetButtonDesc>すべてのスタイルをデフォルト値にリセットします.</ResetButtonDesc>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
