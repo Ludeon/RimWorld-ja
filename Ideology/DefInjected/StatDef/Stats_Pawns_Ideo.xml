@@ -12,9 +12,9 @@
   <CertaintyLossFactor.description>誰かがこの人物を思想から遠ざけようとするとき,この人物が失う確信度への掛け率です.</CertaintyLossFactor.description>
   
   <!-- EN: conversion power -->
-  <ConversionPower.label>TODO</ConversionPower.label>
+  <ConversionPower.label>改宗させる力</ConversionPower.label>
   <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
-  <ConversionPower.description>TODO</ConversionPower.description>
+  <ConversionPower.description>この人物が他人を自分の思想へ改宗させるのにどれだけ効果的かを表します.この人物が他の人を改宗させようとしたときに対象が失う確信度への掛け率となります.</ConversionPower.description>
   
   <!-- EN: melee dodge chance indoors dark -->
   <MeleeDodgeChanceIndoorsDarkOffset.label>TODO</MeleeDodgeChanceIndoorsDarkOffset.label>
