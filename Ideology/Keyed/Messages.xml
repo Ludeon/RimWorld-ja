@@ -30,18 +30,18 @@
   <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
   <MessageIncompatibleMemes>{0_label}と{1_label}は同時に選択できません.</MessageIncompatibleMemes>
   <!-- EN: You need {0} to start the {1}. -->
-  <MessageNoRequiredRolePawnToBeginRitual>TODO</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNoRequiredRolePawnToBeginRitual>{1}を開始するには{0}が必要です.</MessageNoRequiredRolePawnToBeginRitual>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
-  <MessageNeedAssignedRoleToBeginRitual>TODO</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAssignedRoleToBeginRitual>{1}を開始する前に,誰かを{0}の役割に割り当てる必要があります.</MessageNeedAssignedRoleToBeginRitual>
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
-  <MessageRoleAssigned>TODO</MessageRoleAssigned>
+  <MessageRoleAssigned>{0_labelShort}に{1}の役割を割り当てました.</MessageRoleAssigned>
   <!-- EN: Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}. -->
-  <MessageRoleUnassignedPrisoner>TODO</MessageRoleUnassignedPrisoner>
+  <MessageRoleUnassignedPrisoner>{0_labelShort}が囚人になったため,{1}の役割を担うことができなくなりました.</MessageRoleUnassignedPrisoner>
   <!-- EN: Warning: {0} will be upset if a tree is cut. -->
-  <MessageWarningPlayerDesignatedTreeChopped>TODO</MessageWarningPlayerDesignatedTreeChopped>
+  <MessageWarningPlayerDesignatedTreeChopped>警告: 木が伐採されると,{0}は動揺します.</MessageWarningPlayerDesignatedTreeChopped>
   <!-- EN: Warning: {0} will be upset if mining occurs. -->
-  <MessageWarningPlayerDesignatedMining>TODO</MessageWarningPlayerDesignatedMining>
+  <MessageWarningPlayerDesignatedMining>警告: 採掘を行うと,{0}は動揺します.</MessageWarningPlayerDesignatedMining>
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
   <MessageConnectedPawnDied>TODO</MessageConnectedPawnDied>
 
@@ -67,23 +67,23 @@
 
   <!-- Charity -->
   <!-- EN: Charity refused -->
-  <MessageCharityEventRefused>TODO</MessageCharityEventRefused>
+  <MessageCharityEventRefused>慈善行為を拒否した</MessageCharityEventRefused>
   <!-- EN: Charity fulfilled -->
-  <MessageCharityEventFulfilled>TODO</MessageCharityEventFulfilled>
+  <MessageCharityEventFulfilled>慈善行為を遂行した</MessageCharityEventFulfilled>
   <!-- EN: {0} leaving empty-handed. -->
-  <MessageBeggarsLeavingWithNoItems>TODO</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithNoItems>{0}は何も持たずに立ち去ります.</MessageBeggarsLeavingWithNoItems>
   <!-- EN: {0} leaving with requested items. -->
-  <MessageBeggarsLeavingWithItems>TODO</MessageBeggarsLeavingWithItems>
+  <MessageBeggarsLeavingWithItems>{0}は必要なアイテムと共に立ち去ります.</MessageBeggarsLeavingWithItems>
   <!-- EN: {0_nameDef} died without any treatment. -->
-  <MessageWandererLeftToDie>TODO</MessageWandererLeftToDie>
+  <MessageWandererLeftToDie>{0_nameDef}は何の治療も受けられずに死にました.</MessageWandererLeftToDie>
   <!-- EN: {0_nameDef} was recruited. -->
-  <MessageWandererRecruited>TODO</MessageWandererRecruited>
+  <MessageWandererRecruited>{0_nameDef}を勧誘しました.</MessageWandererRecruited>
   <!-- EN: {0_nameDef} left healthy. -->
-  <MessageWandererLeftHealthy>TODO</MessageWandererLeftHealthy>
+  <MessageWandererLeftHealthy>{0_nameDef}は健康なままでした.</MessageWandererLeftHealthy>
   <!-- EN: {0} failed. -->
-  <MessageCharityQuestEndedFailed>TODO</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedFailed>{0}は失敗しました.</MessageCharityQuestEndedFailed>
   <!-- EN: {0} succesfully completed. -->
-  <MessageCharityQuestEndedSuccess>TODO</MessageCharityQuestEndedSuccess>
+  <MessageCharityQuestEndedSuccess>{0}を全て終わらせました.</MessageCharityQuestEndedSuccess>
 
   <!-- Ideo UI -->
   <!-- EN: Cannot remove -->

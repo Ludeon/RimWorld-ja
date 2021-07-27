@@ -15,6 +15,19 @@
     <li>sacrifice->oblation</li>
     <li>sacrifice->slaughtering</li>
   -->
-  <NamerRitualSacrifice.rulePack.rulesStrings>TODO</NamerRitualSacrifice.rulePack.rulesStrings>
+  <NamerRitualSacrifice.rulePack.rulesStrings>
+    <li>r_ritualName(p=2)->[memeAdjective][sacrifice]</li>
+    <li>r_ritualName->[chosenTheme]の[sacrifice]</li>
+    <li>r_ritualName->[chosenAdjective][sacrifice]</li>
+    <li>r_ritualName->[keyDeity]による[sacrifice]</li>
+    <li>r_ritualName->[keyDeity]の[sacrifice]</li>
+    <li>r_ritualName->[memeConcept]の[sacrifice]</li>
+    <li>r_ritualName->[chosenIdeoName]の[sacrifice]</li>
+    <li>sacrifice->スカリフィケーション</li>
+    <li>sacrifice->奉納</li>
+    <li>sacrifice->生贄</li>
+    <li>sacrifice->供物</li>
+    <li>sacrifice->屠殺</li>
+  </NamerRitualSacrifice.rulePack.rulesStrings>
   
 </LanguageData>

@@ -47,7 +47,7 @@
   <!-- EN: cannibal platter -->
   <CannibalPlatter.label>食人の大皿</CannibalPlatter.label>
   <!-- EN: An area of floor covered with pre-chopped and arranged human meat ready for a cannibal feast. -->
-  <CannibalPlatter.description>食人の宴に供するために人の肉を切り刻んで盛り付けた皿を並べた領域.</CannibalPlatter.description>
+  <CannibalPlatter.description>食人の宴に供するために人の肉を切り刻んで盛り付けた皿を並べた領域です.</CannibalPlatter.description>
   
   <!-- EN: christmas tree -->
   <ChristmasTree.label>クリスマスツリー</ChristmasTree.label>
@@ -57,7 +57,7 @@
   <!-- EN: standing darklamp -->
   <Darklamp.label>ダークランプ</Darklamp.label>
   <!-- EN: A low-powered electrical standing lamp that emits a dim light over a large area. People who prefer to work in darklight are happy with this light source. -->
-  <Darklamp.description>広範囲にぼんやりとした光を届ける低電力のスタンドランプ.暗闇での作業を好む人には,この程度の明かりで十分です.</Darklamp.description>
+  <Darklamp.description>広範囲にぼんやりとした光を届ける低電力のスタンドランプです.暗闇での作業を好む人には,この程度の明かりで十分です.</Darklamp.description>
   
   <!-- EN: darktorch -->
   <Darktorch.label>ダークトーチ</Darktorch.label>
@@ -87,19 +87,19 @@
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>スーパーチャージャー</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
-  <NeuralSupercharger.description>一日に一度ニューラルスーパーチャージを行えるニューロン操作デバイス.ニューラルスーパーチャージ状態の人物は,より速く思考し学習速度も向上しますが,より多くの食事を必要とします.効果は一日で消えます.ニューラルスーパーチャージは大量の電力を消費します.</NeuralSupercharger.description>
+  <NeuralSupercharger.description>一日に一度ニューラルスーパーチャージを行えるニューロン操作デバイスです.ニューラルスーパーチャージ状態の人物は,より速く思考し学習速度も向上しますが,より多くの食事を必要とします.効果は一日で消えます.ニューラルスーパーチャージは大量の電力を消費します.</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
   <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>ニューラルスーパーチャージを行う</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
   
   <!-- EN: pyre -->
   <Pyre.label>積み薪</Pyre.label>
   <!-- EN: A wooden tower for ritual burning. -->
-  <Pyre.description>儀式で燃やすために薪を積んだ壇.</Pyre.description>
+  <Pyre.description>儀式で燃やすために薪を積んだ壇です.</Pyre.description>
   
   <!-- EN: ritual spot -->
   <RitualSpot.label>儀式の場</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
-  <RitualSpot.description>ある種の儀式を行うための場所.</RitualSpot.description>
+  <RitualSpot.description>ある種の儀式を行うための場所です.</RitualSpot.description>
   
   <!-- EN: sacrificial flag -->
   <SacrificialFlag.label>生贄旗</SacrificialFlag.label>
@@ -109,6 +109,6 @@
   <!-- EN: sleep accelerator -->
   <SleepAccelerator.label>睡眠加速器</SleepAccelerator.label>
   <!-- EN: A bedside device that accelerates the sleeper's circadian rhythm. This speeds up sleep, but consumes a lot of electricity and also causes increased hunger. It must be placed directly adjacent to and facing the head of the bed. Placing more than one sleep accelerator near the same bed has no effect. -->
-  <SleepAccelerator.description>睡眠者の周期リズムを加速するベッドサイドのデバイス.睡眠の充実を早めますが,大量の電力を消費し,空腹率を高めます.ベッドの頭側に隣接して配置させる必要があります.同じベッドに複数の睡眠加速器を置いても効果はありません.</SleepAccelerator.description>
+  <SleepAccelerator.description>睡眠者の周期リズムを加速するベッドサイドのデバイスです.睡眠の充実を早めますが,大量の電力を消費し,空腹率を高めます.ベッドの頭側に隣接して配置させる必要があります.同じベッドに複数の睡眠加速器を置いても効果はありません.</SleepAccelerator.description>
   
 </LanguageData>

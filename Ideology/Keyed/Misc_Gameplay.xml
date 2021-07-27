@@ -8,11 +8,11 @@
   <!-- EN: Create new -->
   <CreateNew>新規作成</CreateNew>
   <!-- EN: Load existing -->
-  <LoadExisting>TODO</LoadExisting>
+  <LoadExisting>現在の設定をロード</LoadExisting>
   <!-- EN: Create custom ideoligion -->
   <CreateCustomIdeoligion>思想をカスタム作成</CreateCustomIdeoligion>
   <!-- EN: Load saved ideoligion -->
-  <LoadExistingIdeoligion>TODO</LoadExistingIdeoligion>
+  <LoadExistingIdeoligion>保存された思想をロード</LoadExistingIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
   <SelectAnIdeo>あなたの派閥の思想を左から選択,もしくは</SelectAnIdeo>
   <!-- EN: ideoligion -->
@@ -28,37 +28,37 @@
   <!-- EN: Belief in -->
   <BeliefInIdeo>思想である</BeliefInIdeo>
   <!-- EN: Information about {0} -->
-  <Reward_RelicInfo>TODO</Reward_RelicInfo>
+  <Reward_RelicInfo>{0}についての情報</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
-  <Reward_RelicInfoLabel>TODO</Reward_RelicInfoLabel>
+  <Reward_RelicInfoLabel>{0}についての情報</Reward_RelicInfoLabel>
   <!-- EN: Relic of {IDEO_name} -->
-  <RelicOf>TODO</RelicOf>
+  <RelicOf>{IDEO_name}のレリック</RelicOf>
   <!-- EN: altar -->
-  <Altar>TODO</Altar>
+  <Altar>祭壇</Altar>
   <!-- EN: base -->
-  <Base>TODO</Base>
+  <Base>ベース</Base>
   <!-- EN: min expectation -->
   <MinExpectation>最小期待値</MinExpectation>
   <!-- EN: {0} to {1} -->
-  <PreceptThoughtMoodRange>TODO</PreceptThoughtMoodRange>
+  <PreceptThoughtMoodRange>{0}~{1}</PreceptThoughtMoodRange>
   <!-- EN: Comes from ideo -->
-  <ComesFromIdeo>TODO</ComesFromIdeo>
+  <ComesFromIdeo>思想から</ComesFromIdeo>
   <!-- EN: Current total animal bodysize per colonist -->
-  <CurrentTotalAnimalBodySizePerColonist>TODO</CurrentTotalAnimalBodySizePerColonist>
+  <CurrentTotalAnimalBodySizePerColonist>入植者一人あたりの現在の家畜の体格の総サイズ</CurrentTotalAnimalBodySizePerColonist>
   <!-- EN: total bodysize per colonist -->
-  <AnimalsBodySizePerColonist>TODO</AnimalsBodySizePerColonist>
+  <AnimalsBodySizePerColonist>入植者一人あたりの体格の総サイズ</AnimalsBodySizePerColonist>
   <!-- EN: total nearby bodysize per colonist -->
-  <VeneratedAnimalsBodySizePerColonist>TODO</VeneratedAnimalsBodySizePerColonist>
+  <VeneratedAnimalsBodySizePerColonist>入植者一人あたりの近くの体格の総サイズ</VeneratedAnimalsBodySizePerColonist>
   <!-- EN: Expecting at least {0} body size per colonist. -->
-  <MinAnimalBodySizePerColonist>TODO</MinAnimalBodySizePerColonist>
+  <MinAnimalBodySizePerColonist>入植者一人あたり少なくとも{0}の体格のサイズが必要です.</MinAnimalBodySizePerColonist>
   <!-- EN: Plant {0_label} -->
-  <PlantThing>TODO</PlantThing>
+  <PlantThing>{0_label}を植える</PlantThing>
   <!-- EN: Plant a {0_label} in a chosen area. -->
-  <PlantThingDesc>TODO</PlantThingDesc>
+  <PlantThingDesc>選択したエリアに{0_label}を植えます.</PlantThingDesc>
   <!-- EN: Cancel planting {0_label} -->
-  <CancelPlantThing>TODO</CancelPlantThing>
+  <CancelPlantThing>{0_label}を植えるのをやめる</CancelPlantThing>
   <!-- EN: Cancel planting the {0_label}. -->
-  <CancelPlantThingDesc>TODO</CancelPlantThingDesc>
+  <CancelPlantThingDesc>{0_label}を植えるのをやめます.</CancelPlantThingDesc>
   <!-- EN: Disables -->
   <Disables>不許可</Disables>
   <!-- EN: Requires one of precepts -->
@@ -109,46 +109,46 @@
   <!-- EN: Any gathering spot, like a table -->
   <RitualTargetGatherSpotInfo>テーブルなど,人が集まれる場所</RitualTargetGatherSpotInfo>
   <!-- EN: Altar or any ritual spot. -->
-  <RitualTargetGatherAltarOrRitualSpotInfo>TODO</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>祭壇か任意の儀式の場です.</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
   <RitualTargetLightBallInfo>ライトボールやラウドスピーカーのスポットです.ライトボールとスピーカには電源が必要です.</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
-  <RitualTargetLightBallIsNotPowered>TODO</RitualTargetLightBallIsNotPowered>
+  <RitualTargetLightBallIsNotPowered>ライトボールに電力が供給されてません.</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
-  <RitualTargetNoPoweredSpeakers>TODO</RitualTargetNoPoweredSpeakers>
+  <RitualTargetNoPoweredSpeakers>ラウドスピーカーに電力が供給されてません.</RitualTargetNoPoweredSpeakers>
   <!-- EN: Campfire is not fueled. -->
-  <RitualTargetCampfireNoFuel>TODO</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireNoFuel>キャンプファイヤーに燃料がありません.</RitualTargetCampfireNoFuel>
   <!-- EN: Campfire must be unroofed. -->
-  <RitualTargetCampfireMustBeUnroofed>TODO</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetCampfireMustBeUnroofed>キャンプファイヤーは屋根のない場所に設置する必要があります.</RitualTargetCampfireMustBeUnroofed>
   <!-- EN: No nearby drum. -->
-  <RitualTargetNoDrum>TODO</RitualTargetNoDrum>
+  <RitualTargetNoDrum>太鼓のそばではありません.</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
-  <RitualTargetNeedUnroofedCells>TODO</RitualTargetNeedUnroofedCells>
+  <RitualTargetNeedUnroofedCells>少なくとも{0}マスの屋根のないセルが近くに必要です.</RitualTargetNeedUnroofedCells>
   <!-- EN: A lit campfire or ritual spot. -->
-  <RitualTargetCampfirePartyInfo>TODO</RitualTargetCampfirePartyInfo>
+  <RitualTargetCampfirePartyInfo>火のついたキャンプファイヤーか儀式の場です.</RitualTargetCampfirePartyInfo>
   <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>TODO</RitualTargetCampfireSkylanternsInfo>
+  <RitualTargetCampfireSkylanternsInfo>火のついたキャンプファイヤーか儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
   <!-- EN: An unconnected Gauranlen tree. -->
-  <RitualTargetUnconnectedGaruanlenTreeInfo>TODO</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>接続されていないガウランレンツリーです.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
-  <RitualTargetConnectedGauranlenTree>TODO</RitualTargetConnectedGauranlenTree>
+  <RitualTargetConnectedGauranlenTree>すでに{PAWN_nameDef}に接続されている</RitualTargetConnectedGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
-  <RitualTargeWoodInfo>TODO</RitualTargeWoodInfo>
+  <RitualTargeWoodInfo>参加者ごとに{0}本の木材が必要です(合計{2}).現在{1}本の木材を持っています.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
-  <Accuse>TODO</Accuse>
+  <Accuse>告発</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
-  <RitualScarificationWarnNonScarificationIdeo>TODO</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort}は思想的なスカリフィケーションを信じていないため,これを行われることを好まないでしょう.</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
-  <RitualScarificationWarnWimp>TODO</RitualScarificationWarnWimp>
+  <RitualScarificationWarnWimp>{PAWN_labelShort}は弱虫であるため,スカリフィケーションを好みません.</RitualScarificationWarnWimp>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded. -->
-  <RitualBlindingWarnNonBlindingIdeo>TODO</RitualBlindingWarnNonBlindingIdeo>
+  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort}は思想的な盲目化を信じていないため,盲目にされることを好まないでしょう.</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
-  <RitualBlindingWarnWimp>TODO</RitualBlindingWarnWimp>
+  <RitualBlindingWarnWimp>{PAWN_labelShort}は弱虫であるため,盲目にされることを好みません.</RitualBlindingWarnWimp>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
-  <RitualOutcomeExtraDesc_DancePartyWorkFocus>TODO</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>儀式に参加した全ての人が,一日だけ勤労意欲バフを獲得しました({PERCENTAGE}基本的な作業速度)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
-  <RitualOutcomeExtraDesc_BlindingPsylink>TODO</RitualOutcomeExtraDesc_BlindingPsylink>
+  <RitualOutcomeExtraDesc_BlindingPsylink>満足のいく盲目の儀式のおかげで,{PAWN_labelShort}はサイリンクレベルを獲得しました!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
   <RitualOutcomeExtraDesc_BlindingPsylinkAbility>TODO</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
@@ -288,11 +288,11 @@
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
-  <GiveItemsTo>TODO</GiveItemsTo>
+  <GiveItemsTo>{1_nameDef}に{0}を与える</GiveItemsTo>
   <!-- EN: Cannot give {0} to {1_nameDef} -->
-  <CannotGiveItemsTo>TODO</CannotGiveItemsTo>
+  <CannotGiveItemsTo>{1_nameDef}に{0}を与えられない</CannotGiveItemsTo>
   <!-- EN: No item found -->
-  <NoItemFound>TODO</NoItemFound>
+  <NoItemFound>アイテムが見つからない</NoItemFound>
 
   <!-- Outfits -->
   <!-- EN: Slave -->
@@ -300,18 +300,18 @@
 
   <!-- Hacking -->
   <!-- EN: Hack progress -->
-  <HackProgress>TODO</HackProgress>
+  <HackProgress>ハッキングの進捗</HackProgress>
   <!-- EN: hacking speed -->
-  <HackingSpeed>TODO</HackingSpeed>
+  <HackingSpeed>ハッキングの速度</HackingSpeed>
   <!-- EN: {0}'s -->
-  <HackingLastUser>TODO</HackingLastUser>
+  <HackingLastUser>{0}の</HackingLastUser>
   <!-- EN: hacked -->
-  <Hacked>TODO</Hacked>
+  <Hacked>ハッキング</Hacked>
   <!-- EN: Terminals hacked -->
-  <TerminalsHacked>TODO</TerminalsHacked>
+  <TerminalsHacked>ターミナルをハッキング</TerminalsHacked>
 
   <!-- EN: Relic info found -->
-  <RelicInfoFound>TODO</RelicInfoFound>
+  <RelicInfoFound>レリックの情報が見つかった</RelicInfoFound>
   <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
   <InactiveRoleRequiresMoreBelievers>TODO</InactiveRoleRequiresMoreBelievers>
   
@@ -370,7 +370,7 @@
 
   <!-- Gauranlen trees/Dryads -->
   <!-- EN: Connected to -->
-  <ConnectedPawn>TODO</ConnectedPawn>
+  <ConnectedPawn>接続する</ConnectedPawn>
   <!-- EN: Nobody -->
   <Nobody>無し</Nobody>
   <!-- EN: The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}. -->
@@ -380,7 +380,7 @@
   <!-- EN: {PAWN_nameDef} is too far away -->
   <ConnectedPawnAway>TODO</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
-  <TreeBlockedByNearbyBuildingsDesc>TODO</TreeBlockedByNearbyBuildingsDesc>
+  <TreeBlockedByNearbyBuildingsDesc>人工物の近くに{PLANT_definite}を植えると,接続強度が時間の経過と共に低下します.接続強度によって{PLANT_definite}が一度にサポートできるドライアドの最大数が決まります.\n\n本当にこの場所に植えますか?</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
   <GauranlenModeChangeDescFull>TODO</GauranlenModeChangeDescFull>
   <!-- EN: Change the type of dryads created by {TREE_definite}. -->
@@ -455,17 +455,17 @@
   <RechargeableReady>TODO</RechargeableReady>
   
   <!-- EN: Skill -->
-  <RoleRequirementSkill>TODO</RoleRequirementSkill>
+  <RoleRequirementSkill>スキル</RoleRequirementSkill>
   <!-- EN: Any of skills -->
-  <RoleRequirementSkillAny>TODO</RoleRequirementSkillAny>
+  <RoleRequirementSkillAny>いずれかのスキルが必要</RoleRequirementSkillAny>
   <!-- EN: Won't use ranged weapons -->
-  <RoleEffectWontUseRangedWeapons>TODO</RoleEffectWontUseRangedWeapons>
+  <RoleEffectWontUseRangedWeapons>遠距離武器を使用しない</RoleEffectWontUseRangedWeapons>
   <!-- EN: Won't use melee weapons -->
-  <RoleEffectWontUseMeleeWeapons>TODO</RoleEffectWontUseMeleeWeapons>
+  <RoleEffectWontUseMeleeWeapons>近接武器を使用しない</RoleEffectWontUseMeleeWeapons>
   <!-- EN: {0} quality to crafting or construction -->
-  <RoleEffectProductionQualityOffset>TODO</RoleEffectProductionQualityOffset>
+  <RoleEffectProductionQualityOffset>{0}品質の製造か建築</RoleEffectProductionQualityOffset>
   <!-- EN: Hunting revenge chance {0} -->
-  <RoleEffectHuntingRevengeChance>TODO</RoleEffectHuntingRevengeChance>
+  <RoleEffectHuntingRevengeChance>狩猟時の反撃確率{0}</RoleEffectHuntingRevengeChance>
   <!-- EN: Give thought -->
   <RoleEffectGiveThoughtOnTended>TODO</RoleEffectGiveThoughtOnTended>
 
