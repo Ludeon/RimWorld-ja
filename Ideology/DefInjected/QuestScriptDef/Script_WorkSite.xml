@@ -23,6 +23,17 @@
     <li>detected->revealed</li>
     <li>detected->uncovered</li>
   -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings>TODO</OpportunitySite_WorkSite.questNameRules.rulesStrings>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings>
+    <li>questName->[site_label] [detected]</li>
+    <li>detected->を探知</li>
+    <li>detected->を発見</li>
+    <li>detected->の近郊</li>
+    <li>detected->を見つけた</li>
+    <li>detected->を識別</li>
+    <li>detected->を通報</li>
+    <li>detected->を監視</li>
+    <li>detected->が暴露</li>
+    <li>detected->が露出</li>
+  </OpportunitySite_WorkSite.questNameRules.rulesStrings>
   
 </LanguageData>
