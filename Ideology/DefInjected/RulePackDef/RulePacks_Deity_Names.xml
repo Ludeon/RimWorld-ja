@@ -13,7 +13,19 @@
     <li>end->teas</li>
     <li>end->dio</li>
   -->
-  <GodContent_Byzantine.rulePack.rulesStrings>TODO</GodContent_Byzantine.rulePack.rulesStrings>
+  <GodContent_Byzantine.rulePack.rulesStrings>
+    <li>name->[syl][end]</li>
+    <li>name->[syl][syl][end]</li>
+    <li>name->[syl]-[syl][end]</li>
+    <li>syl->[SylB]</li>
+    <li>end->コス</li>
+    <li>end->ポス</li>
+    <li>end->ポン</li>
+    <li>end->テオ</li>
+    <li>end->テアス</li>
+    <li>end->ディオ</li>
+
+  </GodContent_Byzantine.rulePack.rulesStrings>
   
   <!-- EN:
     <li>name->[start][middle][end]</li>
@@ -123,7 +135,115 @@
     <li>end->ton</li>
     <li>end->tar</li>
   -->
-  <GodContent_English.rulePack.rulesStrings>TODO</GodContent_English.rulePack.rulesStrings>
+  <GodContent_English.rulePack.rulesStrings>
+    <li>name->[start][middle][end]</li>
+    <li>start->ア</li>
+    <li>start->アル</li>
+    <li>start->アン</li>
+    <li>start->アル</li>
+    <li>start->アス</li>
+    <li>start->アト</li>
+    <li>start->ブ</li>
+    <li>start->ブット</li>
+    <li>start->バン</li>
+    <li>start->ビン</li>
+    <li>start->ボン</li>
+    <li>start->チ</li>
+    <li>start->カ</li>
+    <li>start->コ</li>
+    <li>start->デ</li>
+    <li>start->ド</li>
+    <li>start->ディン</li>
+    <li>start->デル</li>
+    <li>start->エド</li>
+    <li>start->エン</li>
+    <li>start->エント</li>
+    <li>start->エル</li>
+    <li>start->エス</li>
+    <li>start->フ</li>
+    <li>start->フォー</li>
+    <li>start->ファー</li>
+    <li>start->フィン</li>
+    <li>start->フン</li>
+    <li>start->フェン</li>
+    <li>start->グ</li>
+    <li>start->ハ</li>
+    <li>start->ハド</li>
+    <li>start->ハト</li>
+    <li>start->ヘン</li>
+    <li>start->ヘル</li>
+    <li>start->ヒン</li>
+    <li>start->ヒス</li>
+    <li>start->イン</li>
+    <li>start->イス</li>
+    <li>start->イト</li>
+    <li>start->イティ</li>
+    <li>start->ジ</li>
+    <li>start->ク</li>
+    <li>start->ル</li>
+    <li>start->ロン</li>
+    <li>start->レン</li>
+    <li>start->ラン</li>
+    <li>start->ム</li>
+    <li>start->ミン</li>
+    <li>start->モン</li>
+    <li>start->メン</li>
+    <li>start->ン</li>
+    <li>start->オン</li>
+    <li>start->オル</li>
+    <li>start->オウル</li>
+    <li>start->オウラ</li>
+    <li>start->プ</li>
+    <li>start->キュ</li>
+    <li>start->リ</li>
+    <li>start->ス</li>
+    <li>start->シ</li>
+    <li>start->スト</li>
+    <li>start->ト</li>
+    <li>start->テド</li>
+    <li>start->テル</li>
+    <li>start->ウン</li>
+    <li>start->ヴ</li>
+    <li>start->ヴェル</li>
+    <li>start->ウ</li>
+    <li>start->ユ</li>
+    <li>middle->ア</li>
+    <li>middle->エ</li>
+    <li>middle->イ</li>
+    <li>middle->オ</li>
+    <li>middle->ウ</li>
+    <li>middle->エイ</li>
+    <li>middle->エウ</li>
+    <li>middle->アイ</li>
+    <li>middle->アウ</li>
+    <li>end(p=4)-></li>
+    <li>end->クス</li>
+    <li>end->ラス</li>
+    <li>end->ッラス</li>
+    <li>end->ラクス</li>
+    <li>end->ッラクス</li>
+    <li>end->ム</li>
+    <li>end->ン</li>
+    <li>end->ノス</li>
+    <li>end->ピウス</li>
+    <li>end->ル</li>
+    <li>end->ラ</li>
+    <li>end->ルス</li>
+    <li>end->ラス</li>
+    <li>end->ッラス</li>
+    <li>end->ルム</li>
+    <li>end->ルス</li>
+    <li>end->ロン</li>
+    <li>end->ス</li>
+    <li>end->ストゥス</li>
+    <li>end->ストー</li>
+    <li>end->テウス</li>
+    <li>end->ティ</li>
+    <li>end->トー</li>
+    <li>end->トン</li>
+    <li>end->ター</li>
+
+  </GodContent_English.rulePack.rulesStrings>
   
   <!-- EN:
     <li>name->[syl][end]</li>
@@ -137,11 +257,24 @@
     <li>end->bai</li>
     <li>end->bust</li>
   -->
-  <NamerDeityCorunan.rulePack.rulesStrings>TODO</NamerDeityCorunan.rulePack.rulesStrings>
+  <NamerDeityCorunan.rulePack.rulesStrings>
+    <li>name->[syl][end]</li>
+    <li>name->[syl][syl][end]</li>
+    <li>name->[syl]'[syl][end]</li>
+    <li>syl->[SylG]</li>
+    <li>end->アブレイ</li>
+    <li>end->トロ</li>
+    <li>end->オクス</li>
+    <li>end->ブリン</li>
+    <li>end->バイ</li>
+    <li>end->ブスト</li>
+  </NamerDeityCorunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_deityName->[name]</li>
   -->
-  <NamerDeityGlobal.rulePack.rulesStrings>TODO</NamerDeityGlobal.rulePack.rulesStrings>
+  <NamerDeityGlobal.rulePack.rulesStrings>
+    <li>r_deityName->[name]</li>
+  </NamerDeityGlobal.rulePack.rulesStrings>
   
 </LanguageData>

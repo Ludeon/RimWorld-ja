@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: worshipful village -->
-  <WorshippedTerminal.label>TODO</WorshippedTerminal.label>
+  <WorshippedTerminal.label>崇拝の村</WorshippedTerminal.label>
   <!-- EN: A village containing an ancient terminal which the locals worship. -->
-  <WorshippedTerminal.description>TODO</WorshippedTerminal.description>
+  <WorshippedTerminal.description>この地域で崇拝される古代のターミナルを保持する村.</WorshippedTerminal.description>
   <!-- EN: Attacking {0} -->
-  <WorshippedTerminal.approachingReportString>TODO</WorshippedTerminal.approachingReportString>
+  <WorshippedTerminal.approachingReportString>{0}を攻撃中</WorshippedTerminal.approachingReportString>
   <!-- EN: Investigate {0} -->
-  <WorshippedTerminal.approachOrderString>TODO</WorshippedTerminal.approachOrderString>
+  <WorshippedTerminal.approachOrderString>{0}を調査する</WorshippedTerminal.approachOrderString>
   <!-- EN: You may stay here for {TIMER} as long as you do not violate their rules. -->
-  <WorshippedTerminal.arrivedLetter>TODO</WorshippedTerminal.arrivedLetter>
+  <WorshippedTerminal.arrivedLetter>掟を破らぬ限り,この村に{TIMER}の間滞在できます.</WorshippedTerminal.arrivedLetter>
   
 </LanguageData>
