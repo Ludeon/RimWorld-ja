@@ -169,7 +169,7 @@
   <!-- EN: enemies -->
   <Enemies>敵</Enemies>
   <!-- EN: people -->
-  <People>人々</People>
+  <People>人</People>
   <!-- EN: time passed -->
   <TimePassed>経過時間</TimePassed>
   <!-- EN: current radius -->
@@ -1497,7 +1497,7 @@
   <!-- EN: Not participating -->
   <NotParticipating>参加しない</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>ドラッグアンドドロップ,または左/右クリックで人を移動させます.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>ドラッグアンドドロップ,または左/右クリックで人を移動.</DragPawnsToRolesInfo>
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>奴隷です.他人の人的財産です.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
@@ -1515,7 +1515,7 @@
   <!-- EN: {0} total quality was {1}, determined by these factors -->
   <RitualOutcomeQualitySpecific>{0}の合計品質は{1}であり,以下の要因によって決められました</RitualOutcomeQualitySpecific>
   <!-- EN: Outcome chances at {0} quality -->
-  <RitualOutcomeChances>{0}品質で結果を得る可能性</RitualOutcomeChances>
+  <RitualOutcomeChances>品質{0}で得られる結果の可能性</RitualOutcomeChances>
   <!-- EN: Performed recently -->
   <RitualOutcomePerformedRecently>最近行った</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
@@ -1577,9 +1577,9 @@
   <StartingRitualQuality>開始時の品質{0}</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>{0}までの品質</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>最大品質{0}まで</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
-  <OutcomeBonusDesc_QualitySingleOffset>{0}品質</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeBonusDesc_QualitySingleOffset>品質{0}</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
   <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->

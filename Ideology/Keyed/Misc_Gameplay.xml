@@ -320,24 +320,24 @@
 
   <!-- Slave interaction -->
   <!-- EN: The slave will leave the map on foot and return to their home faction, {0}. -->
-  <EmancipateNonCololonistWithFactionTooltip>TODO</EmancipateNonCololonistWithFactionTooltip>
+  <EmancipateNonCololonistWithFactionTooltip>奴隷は徒歩でエリアを離れ,故郷の派閥{0}に戻ります.</EmancipateNonCololonistWithFactionTooltip>
   <!-- EN: The slave will leave on foot and exit the map. -->
-  <EmancipateNonCololonistWithoutFactionTooltip>TODO</EmancipateNonCololonistWithoutFactionTooltip>
+  <EmancipateNonCololonistWithoutFactionTooltip>奴隷は徒歩で出発し,エリアを離れます.</EmancipateNonCololonistWithoutFactionTooltip>
   <!-- EN: The slave will return to being a colonist. -->
-  <EmancipateCololonistTooltip>TODO</EmancipateCololonistTooltip>
+  <EmancipateCololonistTooltip>奴隷は入植者に戻ります.</EmancipateCololonistTooltip>
 
   <!-- EN: You've stayed in the village too long. The people of {FACTION_name} are attacking! -->
-  <WorshippedTerminalFactionBecameHostileTimed>TODO</WorshippedTerminalFactionBecameHostileTimed>
+  <WorshippedTerminalFactionBecameHostileTimed>村に長く滞在しすぎました.{FACTION_name}の人々が攻撃を始めます!</WorshippedTerminalFactionBecameHostileTimed>
   <!-- EN: Villagers are returning from nearby to protect the venerated terminal! -->
-  <WorshippedTerminalRaidIncoming>TODO</WorshippedTerminalRaidIncoming>
+  <WorshippedTerminalRaidIncoming>村人たちは崇拝対象のターミナルを守るために,近くから戻ってきました!</WorshippedTerminalRaidIncoming>
 
   <!-- Relic hunt -->
   <!-- EN: First, you need to find the {0}. Watch for opportunities to gather information about it. -->
-  <RelicHuntFindRelicSite>TODO</RelicHuntFindRelicSite>
+  <RelicHuntFindRelicSite>始めに{0}を見つける必要があります.これに関する情報を収集する機会に注意してください.</RelicHuntFindRelicSite>
   <!-- EN: The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you. -->
-  <RelicHuntFoundRelicSite>TODO</RelicHuntFoundRelicSite>
+  <RelicHuntFoundRelicSite>レリックは,マルチユニットのセキュリティシステムによって保護された,古代の建造物に収容されています.\n\n警備部隊を1ユニットずつ倒してもいいですし,レリックを奪い,捕まる前に逃げる選択もあります.</RelicHuntFoundRelicSite>
   <!-- EN: The relic rests in an ancient structure nearby. -->
-  <RelicHuntFoundRelicSitePeaceful>TODO</RelicHuntFoundRelicSitePeaceful>
+  <RelicHuntFoundRelicSitePeaceful>レリックは近くの古代の建造物にあります.</RelicHuntFoundRelicSitePeaceful>
 
   <!-- EN: relic -->
   <Relic>レリック</Relic>
@@ -346,12 +346,12 @@
 
   <!-- Ritual requirements -->
   <!-- EN: Active loudspeakers -->
-  <RitualPredictedOutcomeDescNumActiveLoudspeakers>TODO</RitualPredictedOutcomeDescNumActiveLoudspeakers>
+  <RitualPredictedOutcomeDescNumActiveLoudspeakers>有効なラウドスピーカー</RitualPredictedOutcomeDescNumActiveLoudspeakers>
   <!-- EN: Drums -->
-  <RitualPredictedOutcomeDescNumDrums>TODO</RitualPredictedOutcomeDescNumDrums>
+  <RitualPredictedOutcomeDescNumDrums>太鼓</RitualPredictedOutcomeDescNumDrums>
 
   <!-- EN: Using ritual spot causes {0} mood bonus reduction for all participants. -->
-  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>TODO</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
+  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>儀式の場を使用すると,全ての参加者の心情ボーナスが{0}減少します.</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
 
   <!-- EN: Any of these -->
   <RitualOutcomeLabelAnyOfThese>これらのいずれか</RitualOutcomeLabelAnyOfThese>
@@ -363,22 +363,22 @@
   <!-- EN: Starting quality -->
   <StartingQuality>開始時の品質</StartingQuality>
   <!-- EN: Conviction chance -->
-  <ExpectedConvictionChance>TODO</ExpectedConvictionChance>
+  <ExpectedConvictionChance>有罪判決の見込み</ExpectedConvictionChance>
  
   <!-- EN: Must be placed indoors. -->
-  <MustBePlacedIndoors>TODO</MustBePlacedIndoors>
+  <MustBePlacedIndoors>屋内に配置する必要があります.</MustBePlacedIndoors>
 
   <!-- Gauranlen trees/Dryads -->
   <!-- EN: Connected to -->
   <ConnectedPawn>接続する</ConnectedPawn>
   <!-- EN: Nobody -->
-  <Nobody>無し</Nobody>
+  <Nobody>なし</Nobody>
   <!-- EN: The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}. -->
-  <ConnectedPawnDesc>TODO</ConnectedPawnDesc>
+  <ConnectedPawnDesc>この{TREE_label}が接続している人物です.接続された人物が死亡した場合,{DURATION}の間別の人物に接続できなくなります.</ConnectedPawnDesc>
   <!-- EN: Connection torn. Can connect in {0}. -->
-  <ConnectionTorn>TODO</ConnectionTorn>
+  <ConnectionTorn>接続が切断されました.{0}で接続できます.</ConnectionTorn>
   <!-- EN: {PAWN_nameDef} is too far away -->
-  <ConnectedPawnAway>TODO</ConnectedPawnAway>
+  <ConnectedPawnAway>{PAWN_nameDef}は遠すぎる</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
   <TreeBlockedByNearbyBuildingsDesc>人工物の近くに{PLANT_definite}を植えると,接続強度が時間の経過と共に低下します.接続強度によって{PLANT_definite}が一度にサポートできるドライアドの最大数が決まります.\n\n本当にこの場所に植えますか?</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
@@ -463,7 +463,7 @@
   <!-- EN: Won't use melee weapons -->
   <RoleEffectWontUseMeleeWeapons>近接武器を使用しない</RoleEffectWontUseMeleeWeapons>
   <!-- EN: {0} quality to crafting or construction -->
-  <RoleEffectProductionQualityOffset>{0}品質の製造か建築</RoleEffectProductionQualityOffset>
+  <RoleEffectProductionQualityOffset>品質{0}の製造か建築</RoleEffectProductionQualityOffset>
   <!-- EN: Hunting revenge chance {0} -->
   <RoleEffectHuntingRevengeChance>狩猟時の反撃確率{0}</RoleEffectHuntingRevengeChance>
   <!-- EN: Give thought -->

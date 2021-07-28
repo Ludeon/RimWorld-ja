@@ -27,9 +27,9 @@
   <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>{ROLE_labelDef}としての役割にふさわしい衣服を着たい</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
   
   <!-- EN: No {ROLE_label} -->
-  <IdeoRoleEmpty.stages.No.label>TODO</IdeoRoleEmpty.stages.No.label>
+  <IdeoRoleEmpty.stages.No.label>{ROLE_label}がいない</IdeoRoleEmpty.stages.No.label>
   <!-- EN: {0}s must have {ROLE_labelIndef}! -->
-  <IdeoRoleEmpty.stages.No.description>TODO</IdeoRoleEmpty.stages.No.description>
+  <IdeoRoleEmpty.stages.No.description>{0}には{ROLE_labelIndef}が必要だ!</IdeoRoleEmpty.stages.No.description>
   
   <!-- EN: Lost {ROLE_label} role -->
   <IdeoRoleLost.stages.Lost_role.label>{ROLE_label}の役割を失った</IdeoRoleLost.stages.Lost_role.label>
