@@ -58,8 +58,14 @@
   <MaxPreceptCount>最大{0}</MaxPreceptCount>
   <!-- EN: Set gender -->
   <SetTargetGender>性別を設定</SetTargetGender>
-  <!-- EN: incompatible -->
-  <FactionOrIdeoIncompatible>気性が合わない</FactionOrIdeoIncompatible>
+  <!-- EN: must be {0} faction -->
+  <RoleApparelRequirementIncompatibleFaction>TODO</RoleApparelRequirementIncompatibleFaction>
+  <!-- EN: tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <!-- EN: non-tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <!-- EN: requires any of these memes -->
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>TODO</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <!-- EN: cannot be worn with assigned apparel -->
   <BodyPartAlreadyCovered>割り当てた衣服と同時に着用できません</BodyPartAlreadyCovered>
   <!-- EN: already assigned -->
@@ -126,11 +132,16 @@
   <EnterBiosculpterPod>TODO</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
   <BiosculpterBiotunedToAnother>TODO</BiosculpterBiotunedToAnother>
+  <!-- EN: Must be {0} years old for age reversal. -->
+  <UnderMinBiosculpterAgeReversalAge>TODO</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
   <CarryToBiosculpterPod>TODO</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
   <CannotCarryToBiosculpterPod>TODO</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
   <NoBiosculpterPod>TODO</NoBiosculpterPod>
+
+  <!-- UNUSED -->
+  <FactionOrIdeoIncompatible>気性が合わない</FactionOrIdeoIncompatible>
 
 </LanguageData>

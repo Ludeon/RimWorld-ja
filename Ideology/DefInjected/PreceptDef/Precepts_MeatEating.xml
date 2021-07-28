@@ -18,8 +18,8 @@
   
   <!-- EN: strictly required -->
   <MeatEating_NonMeat_Abhorrent.label>厳密に必要</MeatEating_NonMeat_Abhorrent.label>
-  <!-- EN: If a meal doesn't have meat, the person who eats it must be morally deficient. -->
-  <MeatEating_NonMeat_Abhorrent.description>肉のない食事を食べる人間は,道徳的に不足しているに違いない.</MeatEating_NonMeat_Abhorrent.description>
+  <!-- EN: If a meal doesn't have meat, the person who eats it must be morally deficient. Eggs, milk, and processed foods are fine. -->
+  <MeatEating_NonMeat_Abhorrent.description>肉のない食事を食べる人間は,道徳的に不足しているに違いない.ただし卵やミルク,加工食品は大丈夫だ.</MeatEating_NonMeat_Abhorrent.description>
   
   <!-- EN: mildly required -->
   <MeatEating_NonMeat_Disapproved.label>やや必要</MeatEating_NonMeat_Disapproved.label>
@@ -28,7 +28,7 @@
   
   <!-- EN: seriously required -->
   <MeatEating_NonMeat_Horrible.label>本当に必要</MeatEating_NonMeat_Horrible.label>
-  <!-- EN: Every meal must have meat. -->
-  <MeatEating_NonMeat_Horrible.description>全ての食事には肉がなくてはならない.</MeatEating_NonMeat_Horrible.description>
+  <!-- EN: Every meal must have meat. Eggs, milk, and processed food are okay as well. -->
+  <MeatEating_NonMeat_Horrible.description>全ての食事には肉がなくてはならない.ただし卵やミルク,加工食品でも大丈夫だ.</MeatEating_NonMeat_Horrible.description>
   
 </LanguageData>

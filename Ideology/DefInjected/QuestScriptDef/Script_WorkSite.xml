@@ -7,9 +7,9 @@
     <li>raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences.</li>
   -->
   <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
-      <li>questDescription->近くに[faction_name]の支配する[siteLabel]を発見しました.必要であれば,キャンプを襲撃して戦利品（[loot]）を集めることができます.[raidConsequences]\n\nキャンプは[timeout_duration]で荷物をまとめて移動します.</li>
-      <li>raidConsequences(faction_temporary==false)->その場合,[faction_name]が敵対的になります.</li>
-      <li>raidConsequences(faction_temporary==true)->[faction_name]は単なる小さな独立したグループなので,より広い外交的な影響を受けることなく攻撃することができます.</li>
+    <li>questDescription->近くに[faction_name]の支配する[siteLabel]を発見しました.必要であれば,キャンプを襲撃して戦利品（[loot]）を集めることができます.[raidConsequences]\n\nキャンプは[timeout_duration]で荷物をまとめて移動します.</li>
+    <li>raidConsequences(faction_temporary==false)->その場合,[faction_name]が敵対的になります.</li>
+    <li>raidConsequences(faction_temporary==true)->[faction_name]は単なる小さな独立したグループなので,より広い外交的な影響を受けることなく攻撃することができます.</li>
   </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[site_label] [detected]</li>

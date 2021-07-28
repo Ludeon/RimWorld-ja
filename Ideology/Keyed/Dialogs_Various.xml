@@ -25,6 +25,9 @@
   <ChooseStructureMeme>構造を選択してください.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
   <IncompatibleMemes>{0_label}と{1_label}には互換性がありません.</IncompatibleMemes>
+
+  <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
+  <ChangesRandomizePrecepts>TODO</ChangesRandomizePrecepts>
   
   <!-- EN: Room requirements -->
   <RoomRequirements>部屋の要件</RoomRequirements>
@@ -188,6 +191,8 @@
   <CollapseAllCategories>全て折りたたむ</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
   <ResetButtonDesc>すべてのスタイルをデフォルト値にリセットします.</ResetButtonDesc>
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->

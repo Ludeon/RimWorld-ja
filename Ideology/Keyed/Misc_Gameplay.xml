@@ -78,13 +78,15 @@
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
   <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,スタイリングステーションで衣服の色を変更できます.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
-  <SetIdeoColor>思想の色を設定</SetIdeoColor>
-  <!-- EN: Set favorite color -->
-  <SetFavoriteColor>好きな色を設定</SetFavoriteColor>
+  <SetIdeoColor>思想の色に設定</SetIdeoColor>
+  <!-- EN: Set to favorite color -->
+  <SetFavoriteColor>好きな色に設定</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>派閥の思想を設定する</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>十分な染料がありません.</NotEnoughDye>
+  <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
+  <ApparelLockedCannotRecolor>TODO</ApparelLockedCannotRecolor>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
   <NotEnoughDyeWillRecolorApparel>入植者は染料が利用可能になると,衣服の色を変えます.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
@@ -95,6 +97,21 @@
   <DisabledByPrecept>戒律'{0}'によって無効</DisabledByPrecept>
   <!-- EN: Everyone -->
   <Everyone>全員</Everyone>
+  <!-- EN: Narrative -->
+  <Narrative>TODO</Narrative>
+  <!-- EN: narrative -->
+  <NarrativeLower>TODO</NarrativeLower>
+  <!-- EN: Precept name -->
+  <PreceptName>TODO</PreceptName>
+  <!-- EN: precept name -->
+  <PreceptNameLower>TODO</PreceptNameLower>
+  <!-- EN: Changing -->
+  <Changing>TODO</Changing>
+  <!-- EN: structures -->
+  <StructuresLower>TODO</StructuresLower>
+  <!-- EN: memes -->
+  <MemesLower>TODO</MemesLower>
+  
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
   <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓です.</RitualTargetGraveInfo>
@@ -132,6 +149,8 @@
   <RitualTargetUnconnectedGaruanlenTreeInfo>接続されていないガウランレンツリーです.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>すでに{PAWN_nameDef}に接続されている</RitualTargetConnectedGauranlenTree>
+  <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
+  <RitualTargetConnectionTornGauranlenTree>TODO</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>参加者ごとに{0}本の木材が必要です(合計{2}).現在{1}本の木材を持っています.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
@@ -525,6 +544,8 @@
   <BiosculpterInteruptCycle>TODO</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
   <BiosculpterInteruptCycleDesc>TODO</BiosculpterInteruptCycleDesc>
+  <!-- EN: Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old. -->
+  <BiosculpterUnderageAgeReversalMessage>TODO</BiosculpterUnderageAgeReversalMessage>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
   <BiosculpterLoadingStartedMessage>TODO</BiosculpterLoadingStartedMessage>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
