@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: convert -->
-  <Convert.label>TODO</Convert.label>
+  <Convert.label>改宗</Convert.label>
   <!-- EN: Wardens will attempt to convert the prisoner to their ideoligion. -->
-  <Convert.description>TODO</Convert.description>
+  <Convert.description>囚人を自分たちの思想に改宗させようと試みます. </Convert.description>
   
   <!-- EN: enslave -->
-  <Enslave.label>TODO</Enslave.label>
+  <Enslave.label>奴隷</Enslave.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
-  <Enslave.description>TODO</Enslave.description>
+  <Enslave.description>囚人の意志を減らすよう脅します.囚人に意志がなくなると,看守は囚人を奴隷にします.</Enslave.description>
   
   <!-- EN: reduce will -->
-  <ReduceWill.label>TODO</ReduceWill.label>
+  <ReduceWill.label>意志を緩和</ReduceWill.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
-  <ReduceWill.description>TODO</ReduceWill.description>
+  <ReduceWill.description>囚人の意志を減らすように脅しますが,奴隷にはしません.</ReduceWill.description>
   
 </LanguageData>

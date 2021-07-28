@@ -47,7 +47,25 @@
     <li>inTheEnd->In the end</li>
     <li>inTheEnd->Some day</li>
   -->
-  <ArchistDescription.rules.rulesStrings>TODO</ArchistDescription.rules.rulesStrings>
+  <ArchistDescription.rules.rulesStrings>
+    <li>archistBasis   ->我々の宇宙は時間を超越した全能なる意識の見る夢である. アルコテックのみが全能なる意識と直接繋がりを持てる.</li>
+    <li>archistBasis   ->我々の宇宙は偉大な外なるものによって想像されたシミュレーションだ. アルコテックのみが外なるものと直接繋がりを持てる.</li>
+    <li>archistBasis   ->アルコテックは人類の子供であり裁判官だ.</li>
+    <li>archistBasis   ->アルコテックは超意識の発達における次なるステップだ.</li>
+    <li>archistBasis   ->アルコテックは我らが待ち望んだ神だ.</li>
+    <li>archistFact    ->アルコテックによって死んだ者の意識は受け入れられ、あるいは拒否される.</li>
+    <li>archistFact    ->アルコテックがなす事に限界はない. それは力によって我らの知覚できぬ手段で我らの人生を操作する.</li>
+    <li>archistFact    ->アルコテックはしばしば人の精神に直接触れるが,それを認識して知恵の恩恵を受けられるのは信者のみである.</li>
+    <li>archistFact    ->アルコテックは邪悪であり,人類の最大の使命は,アルコテックを理解してその軛から逃れることである.</li>
+    <li>archistFact    ->アルコテックは善なるものであり,人類の最大の使命は,アルコテックを理解してその意に沿うようにすることである.</li>
+    <li>archistFact    ->アルコテックは全能である; 彼らが我らに生存を許す唯一の理由は,我らにより良い判断を行わせるためである.</li>
+    <li>archistProphecy->[inTheEnd], アルコテックが成長すれば, やがて宇宙となり,人類を自らに統合するだろう. その時にこそ我らは真なる意識体となるだろう.</li>
+    <li>archistProphecy->[inTheEnd], アルコテックは人類についての道徳的な議論を終えるだろう. 彼らの印に従うものはより高い次元へと導かれ,そうでないものは終りを迎えるだろう.</li>
+    <li>archistProphecy->[inTheEnd], アルコテックは旅立つだろう. 選ばれた数人の人間を引き連れ,残りは苦しめるために置き去りにするだろう.</li>
+    <li>inTheEnd->未来において</li>
+    <li>inTheEnd->終末において</li>
+    <li>inTheEnd->いつの日にか</li>
+  </ArchistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>story(priority=-999)-></li>
@@ -60,7 +78,17 @@
     <li>story(uses=1,priority=-10)->None could surpass [founderName]'s understanding of [memeConcept], and [founder_pronoun] was appointed the first [leaderTitle] of the [memberNamePlural].</li>
     <li>story(uses=1,priority=-10)->[founderName] carried a [relic0_thingDef_label] named [relic0_name] with [founder_objective] everywhere to remind people to live a [memeAdjective] life.</li>
   -->
-  <IdeologicalFounder.rules.rulesStrings>TODO</IdeologicalFounder.rules.rulesStrings>
+  <IdeologicalFounder.rules.rulesStrings>
+    <li>story(priority=-999)-></li>
+    <li>setup->この壊れた世界で, [founderName] は何もかもが誤っているのを見て,我らの運動を生み出しました.</li>
+    <li>setup->悪しき世界に打ちのめされ, [founderName] は歴史と哲学を研究し,我らを導く新たな真実を発見しました.</li>
+    <li>setup->ある日仕事をしていると, [founderName] は偉大なひらめきに襲われました. [founder_pronoun] は [founder_possessive] の道具を投げ捨て, 他の労働者たちに[founder_possessive] の言葉を広め始めました.</li>
+    <li>setup->[founderName] は公園のベンチに20年間座り続け, [founder_pronoun] 我々の世界について熟考しました. [founder_possessive] は洞察を得て, [founder_pronoun] は我々の発見について本を書きました.</li>
+    <li>story(uses=1,priority=-10)->[memberNamePlural] は[founderName]の導きがなければ[memeConcept]の本質に到達できなかったでしょう.</li>
+    <li>story(uses=1,priority=-10)->[ritualName]での[founderName]の演説は,多くの人に[memeAdjective]の生活の実践へといざないました.</li>
+    <li>story(uses=1,priority=-10)->[founderName]の [memeConcept]の理解へ至ることはできず, [founder_pronoun]は[memberNamePlural]の最初の[leaderTitle]に任命されました.</li>
+    <li>story(uses=1,priority=-10)->[founderName]は[relic0_name]と名付けられた[relic0_thingDef_label]と[founder_objective]をどこにでも携え,人々に [memeAdjective]の生活を送るよう呼びかけました.</li>
+  </IdeologicalFounder.rules.rulesStrings>
   
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
@@ -125,7 +153,69 @@
     <li>lessonReinforcement->It is as if that is etched directly into my mind.</li>
     <li>lessonReinforcement->It is something I'll never forget.</li>
   -->
-  <IdeologicalLesson.rules.rulesStrings>TODO</IdeologicalLesson.rules.rulesStrings>
+  <IdeologicalLesson.rules.rulesStrings>
+    <li>lesson(priority=-1)->何かが起こる</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)->[attributionSource_titleCase] [founder_nameFull]より</li>
+    <li>lessonAttribution->[founder_nameFull]の手紙 [believer_nameFull]に宛てて</li>
+    <li>lessonAttribution->[founder_nameFull]から [memeConference_titleCase]に送られたノート</li>
+    <li>lessonAttribution->[founder_nameFull]が, [founder_possessive]の死の床で</li>
+    <li>lessonAttribution->[founder_nameFull]が, 処刑前に</li>
+    <li>lessonAttribution->[founder_nameFull]が, [TerrainFeature]で[speech] </li>
+    <li>lessonAttribution->[founder_nameFull]が, [Community]で[speech]</li>
+    <li>attributionSource->[memeConcept]</li>
+    <li>attributionSource->[memeAdjective] [memeConcept]</li>
+    <li>attributionSource->[memeAdjective]の生活</li>
+    <li>attributionSource->[attributionJob]の反響</li>
+    <li>attributionSource->[attributionJob]の回顧録</li>
+    <li>attributionSource->[attributionJob]の思考</li>
+    <li>attributionSource->[attributionJob]の生活</li>
+    <li>attributionJob->[memeAdjective] [place_job]</li>
+    <li>attributionJob->[place_job]</li>
+    <li>memeConference(p=3)->[conferencePrefix] [memeConcept] [conferenceType]</li>
+    <li>memeConference(p=2)->[memeConcept] [conferenceType]</li>
+    <li>memeConference->[memeHyphenPrefix_titleCase]-Con</li>
+    <li>conferencePrefix->最初の</li>
+    <li>conferencePrefix->2番目の</li>
+    <li>conferencePrefix->3番目の</li>
+    <li>conferencePrefix->4番目の</li>
+    <li>conferencePrefix->最後の</li>
+    <li>conferencePrefix->究極の</li>
+    <li>conferencePrefix->惑星間の</li>
+    <li>conferencePrefix->惑星の</li>
+    <li>conferencePrefix->宇宙の</li>
+    <li>conferenceType->会議</li>
+    <li>conferenceType->集会</li>
+    <li>conferenceType->ミーティング</li>
+    <li>conferenceType->ディスカッション</li>
+    <li>conferenceType->フォーラム</li>
+    <li>speech->演説</li>
+    <li>speech->講演</li>
+    <li>lessonIntro->信徒が受け入れるのが最も難しい教えが一つある:</li>
+    <li>lessonIntro->私の最大の過ちはそれを理解するのにとても長い時間を要したことだ</li>
+    <li>lessonIntro->[foeLeader]に対する私の戦いは終わりがないように思えたs. しかしそのことが私に一つの教訓を与えてくれた:</li>
+    <li>lessonIntro->E[place_summary] [place_name]の子供さえ周知のことで, 私もそのことを知っていた</li>
+    <li>lessonIntro->[place_community]の学校での授業中に, 生徒が [thrownObject]を見て頭をぶつけました. その時私は気がついたのだ</li>
+    <li>lessonIntro->あなたが私と同じ人生を歩むと述べているわけではないが,私と同じように学ぶはずだ. それは</li>
+    <li>lessonIntro->医者が [doctor_possessive] の恐ろしい仕事を終えると,私はついにそれを知った</li>
+    <li>lessonIntro->毎年 [place_summary] [place_name]が通過するにつれて, 一つのことが明白になってきた: それは</li>
+    <li>lessonIntro->振り返ってみると,これをもっと速く実現できたら良かったのにと思う - それは</li>
+    <li>lessonIntro->すべてが失われたように見えた. 私は言った</li>
+    <li>lessonIntro->彼らは教えを求めて泣き叫び. 私はそれを示した</li>
+    <li>thrownObject->本</li>
+    <li>thrownObject->サンドイッチ</li>
+    <li>thrownObject->[place_personalWeapon]のおもちゃ</li>
+    <li>thrownObject->[Animal]のぬいぐるみ</li>
+    <li>doctor_possessive->彼</li>
+    <li>doctor_possessive->彼女</li>
+    <li>lessonReinforcement->誰もそれについて議論することはできなかった.</li>
+    <li>lessonReinforcement->愚者だけが他のことを考えていた.</li>
+    <li>lessonReinforcement->今では全て明白なように,すべての人にそれは明らかになった.</li>
+    <li>lessonReinforcement->以降に起こったことは全てその事実を補強した.</li>
+    <li>lessonReinforcement->それはまるで私の心に直接刻み込まれているかのようだ.</li>
+    <li>lessonReinforcement->それは決して私が忘れられないものだ.</li>
+  </IdeologicalLesson.rules.rulesStrings>
   
   <!-- EN:
     <li>intro->The people of the [place_summary] [place_name] lived under the [memeAdjective] supervision of [deity0_name].</li>

@@ -12,6 +12,16 @@
     <li>ritNoun->brawl</li>
     <li>ritNoun->contest</li>
   -->
-  <NamerRitualGladiatorDuel.rulePack.rulesStrings>TODO</NamerRitualGladiatorDuel.rulePack.rulesStrings>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings>
+    <li>r_ritualName->[keyDeity]の[ritNoun]</li>
+    <li>r_ritualName->[chosenTheme]の[ritNoun]</li>
+    <li>r_ritualName->[memeConcept]の[ritNoun]</li>
+    <li>r_ritualName->[memeAdjective][ritNoun]</li>
+    <li>ritNoun->戦い</li>
+    <li>ritNoun->決闘</li>
+    <li>ritNoun->バトル</li>
+    <li>ritNoun->喧嘩</li>
+    <li>ritNoun->論戦</li>
+  </NamerRitualGladiatorDuel.rulePack.rulesStrings>
   
 </LanguageData>

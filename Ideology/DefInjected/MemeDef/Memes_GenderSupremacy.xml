@@ -19,7 +19,20 @@
     <li>animistFact(tag=meme_FemaleSupremacy)     ->The wisest spirits are those of women, who should use their wisdom to lead men.</li>
     <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will end the universe, but that a woman will wield the spirit of the [relic0_name] recreate the universe anew.</li>
   -->
-  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>TODO</FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name]は興奮する男と子供を導き調和させるために女性に知恵を与え,この神の秩序を混乱させる人々を諭した.</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy) ->女性の信者達は堕落した男に虐待されていることに気づき,彼らと戦い,[deity0_name]による神の恩恵を受け,正当な地位に上り詰めた.</li>
+    <li>setup(tag=meme_FemaleSupremacy)          ->利己的で暴力的な男が人類の全てを虐待し,衝動を満たす世界で,[founderName]は強力な女性を会議に招集し,全ての人にとってより良い世界を構築するために働き始めた.</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)   ->男の信者達は豪語しながら争い始めたので,[founderName]は彼らを指導者評議会から追い出した.</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->男はもう一度,私が今やったことそのものをどうやってやるのかを説明していました.それは私にある考えをただ強調して伝えていました.</li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->支配する知恵と力を持っているのは女性だけである</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->女性は最も賢く,興奮しながらうめき声を上げる男性よりもずっと前に,それを発見した.</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)    ->人類はアルコテックを産み出し,成長すると共にマザーを超えるように彼らを育てた.</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)     ->人類はその方法を理解してないが,アルコテックは人類を成長させる.</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd],アルコテックはマザーのもとに戻り,人間が次の段階に発展する方法を教えることにした.</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)     ->女性には最も賢い精霊が宿るため,男性を導くために自身の知恵を使わなければならない.</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid],強力な破壊の精霊が宇宙を終わらせるが,女性は[relic0_name]の精霊を駆使して宇宙を新たに再現するらしい.</li>
+  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->feminine</li>
     <li>memeAdjective->womanly</li>
@@ -95,7 +108,20 @@
     <li>animistFact(tag=meme_MaleSupremacy)     ->The most powerful spirits are those of men, and spirits of men will be restless unless men rule.</li>
     <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a man will wield the spirit of the [relic0_name] and destroy the destroyer.</li>
   -->
-  <MaleSupremacy.descriptionMaker.rules.rulesStrings>TODO</MaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name]は弱い女性と子供を保護し養うために男性に力を与え,この神の秩序を混乱させる人々を諭した.</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name]は全ての人に言った."男性には女性を保護し養える力が与えられており,女性がこの力を奪うことは決してない"と.</li>
+    <li>setup(tag=meme_MaleSupremacy)           ->女性の同意を懇願する弱くて単純な男性の世界で,[founderName]は男性的な力を再び繋げなおし,新しい動きを作り始めた.</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)    ->女性の信者達は泣き言を言ったので,[founderName]は彼女らを指導者評議会から追い出した.</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->私は彼女と一緒に簡単な物を作りましたが,この女性はそれを理解できませんでした.真実に対していつも不満を言う彼女のさまを見て,私はある考えを理解するようになりました.</li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->支配する知恵と力を持っているのは男性だけである</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy) ->妻はこれについて議論しようとさえしました.あなたはそんなことを,信じられますか?彼女を黙らせるのは難しくありませんでした.</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)    ->人類はアルコテックの父であるが,息子の力は父の力を上回っていた.</li>
+    <li>archistFact(tag=meme_MaleSupremacy)     ->人類はその方法を理解していないが,アルコテックは父であり,人類を保護する.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd],アルコテックは人間の力を解き放ち,超越へと導くことができるだろう.</li>
+    <li>animistFact(tag=meme_MaleSupremacy)     ->最も強力な精霊は男性に宿り,男性の支配なくして精霊の安らぎは訪れない.</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid],強力な破壊の精霊が宇宙を終わらせようとするが,男性は[relic0_name]の精霊を駆使して破壊者を討ち滅ぼすらしい.</li>
+  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->masculine</li>
     <li>memeAdjective->manly</li>
@@ -121,13 +147,13 @@
     <li>memeLeaderNoun->あごひげ</li>
   </MaleSupremacy.generalRules.rulesStrings>
   <!-- EN: masculist -->
-  <MaleSupremacy.symbolPacks.0.adjective>TODO</MaleSupremacy.symbolPacks.0.adjective>
+  <MaleSupremacy.symbolPacks.0.adjective>男らしさ主義の</MaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Masculinism -->
-  <MaleSupremacy.symbolPacks.0.ideoName>TODO</MaleSupremacy.symbolPacks.0.ideoName>
+  <MaleSupremacy.symbolPacks.0.ideoName>男らしさ主義</MaleSupremacy.symbolPacks.0.ideoName>
   <!-- EN: masculinist -->
-  <MaleSupremacy.symbolPacks.0.member>TODO</MaleSupremacy.symbolPacks.0.member>
+  <MaleSupremacy.symbolPacks.0.member>男らしさ主義者</MaleSupremacy.symbolPacks.0.member>
   <!-- EN: masculinity -->
-  <MaleSupremacy.symbolPacks.0.theme>TODO</MaleSupremacy.symbolPacks.0.theme>
+  <MaleSupremacy.symbolPacks.0.theme>男らしさ</MaleSupremacy.symbolPacks.0.theme>
   <!-- EN: manist -->
   <MaleSupremacy.symbolPacks.1.adjective>男性主義の</MaleSupremacy.symbolPacks.1.adjective>
   <!-- EN: Manism -->

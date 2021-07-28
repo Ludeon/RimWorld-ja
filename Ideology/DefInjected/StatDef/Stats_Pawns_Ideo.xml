@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: biosculpter occupant speed -->
-  <BiosculpterOccupantSpeed.label>TODO</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.label>生体改造の占有速度</BiosculpterOccupantSpeed.label>
   <!-- EN: A multiplier on how quickly this person will complete a biosculpter pod cycle. -->
-  <BiosculpterOccupantSpeed.description>TODO</BiosculpterOccupantSpeed.description>
+  <BiosculpterOccupantSpeed.description>生体改造ポッドのサイクルを完了する速度の乗数.</BiosculpterOccupantSpeed.description>
   
   <!-- EN: global certainty loss factor -->
   <CertaintyLossFactor.label>全体的な確信度の損失率</CertaintyLossFactor.label>
@@ -12,73 +12,73 @@
   <CertaintyLossFactor.description>誰かがこの人物を思想から遠ざけようとするとき,この人物が失う確信度への掛け率です.</CertaintyLossFactor.description>
   
   <!-- EN: conversion power -->
-  <ConversionPower.label>TODO</ConversionPower.label>
+  <ConversionPower.label>改宗させる力</ConversionPower.label>
   <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
-  <ConversionPower.description>TODO</ConversionPower.description>
+  <ConversionPower.description>この人物が他人を自分の思想へ改宗させるのにどれだけ効果的かを表します.この人物が他の人を改宗させようとしたときに対象が失う確信度への掛け率となります.</ConversionPower.description>
   
   <!-- EN: melee dodge chance indoors dark -->
-  <MeleeDodgeChanceIndoorsDarkOffset.label>TODO</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.label>屋内暗所での白兵戦の回避機会</MeleeDodgeChanceIndoorsDarkOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is indoors in the dark. -->
-  <MeleeDodgeChanceIndoorsDarkOffset.description>TODO</MeleeDodgeChanceIndoorsDarkOffset.description>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>対象が屋内の暗所にいる場合の白兵戦で近接攻撃を回避できるチャンスのオフセット.</MeleeDodgeChanceIndoorsDarkOffset.description>
   
   <!-- EN: melee dodge chance indoors lit -->
-  <MeleeDodgeChanceIndoorsLitOffset.label>TODO</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.label>屋内明所での白兵戦の回避機会</MeleeDodgeChanceIndoorsLitOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is indoors and lit. -->
-  <MeleeDodgeChanceIndoorsLitOffset.description>TODO</MeleeDodgeChanceIndoorsLitOffset.description>
+  <MeleeDodgeChanceIndoorsLitOffset.description>対象が屋内の明所にいる場合の白兵戦で近接攻撃を回避できるチャンスのオフセット.</MeleeDodgeChanceIndoorsLitOffset.description>
   
   <!-- EN: melee dodge chance outdoors night -->
-  <MeleeDodgeChanceOutdoorsDarkOffset.label>TODO</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>屋外暗所での白兵戦の回避機会</MeleeDodgeChanceOutdoorsDarkOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is outdoors at night. -->
-  <MeleeDodgeChanceOutdoorsDarkOffset.description>TODO</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>対象が屋外の暗所にいる場合の白兵戦で近接攻撃を回避できるチャンスのオフセット.</MeleeDodgeChanceOutdoorsDarkOffset.description>
   
   <!-- EN: melee dodge chance outdoors day -->
-  <MeleeDodgeChanceOutdoorsLitOffset.label>TODO</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.label>屋外明所での白兵戦の回避機会</MeleeDodgeChanceOutdoorsLitOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is outdoors during the day. -->
-  <MeleeDodgeChanceOutdoorsLitOffset.description>TODO</MeleeDodgeChanceOutdoorsLitOffset.description>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>対象が屋外の明所にいる場合の白兵戦で近接攻撃を回避できるチャンスのオフセット.</MeleeDodgeChanceOutdoorsLitOffset.description>
   
   <!-- EN: melee hit chance indoors dark -->
-  <MeleeHitChanceIndoorsDarkOffset.label>TODO</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.label>屋内暗所での白兵戦のヒット機会</MeleeHitChanceIndoorsDarkOffset.label>
   <!-- EN: An offset on melee hit chance if the target is indoors in the dark. -->
-  <MeleeHitChanceIndoorsDarkOffset.description>TODO</MeleeHitChanceIndoorsDarkOffset.description>
+  <MeleeHitChanceIndoorsDarkOffset.description>対象が屋内の暗所にいる場合の白兵戦で近接攻撃を命中させられるチャンスのオフセット.</MeleeHitChanceIndoorsDarkOffset.description>
   
   <!-- EN: melee hit chance indoors lit -->
-  <MeleeHitChanceIndoorsLitOffset.label>TODO</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.label>屋内明所での白兵戦の回避機会</MeleeHitChanceIndoorsLitOffset.label>
   <!-- EN: An offset on melee hit chance if the target is indoors and lit. -->
-  <MeleeHitChanceIndoorsLitOffset.description>TODO</MeleeHitChanceIndoorsLitOffset.description>
+  <MeleeHitChanceIndoorsLitOffset.description>対象が屋内の明所にいる場合の白兵戦で近接攻撃を命中させられるチャンスのオフセット.</MeleeHitChanceIndoorsLitOffset.description>
   
   <!-- EN: melee hit chance outdoors dark -->
-  <MeleeHitChanceOutdoorsDarkOffset.label>TODO</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.label>屋外暗所での白兵戦のヒット機会</MeleeHitChanceOutdoorsDarkOffset.label>
   <!-- EN: An offset on melee hit chance if the target is outdoors at night. -->
-  <MeleeHitChanceOutdoorsDarkOffset.description>TODO</MeleeHitChanceOutdoorsDarkOffset.description>
+  <MeleeHitChanceOutdoorsDarkOffset.description>対象が屋外の暗所にいる場合の白兵戦で近接攻撃を命中させられるチャンスのオフセット.</MeleeHitChanceOutdoorsDarkOffset.description>
   
   <!-- EN: melee hit chance outdoors lit -->
-  <MeleeHitChanceOutdoorsLitOffset.label>TODO</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.label>屋外明所での白兵戦の回避機会</MeleeHitChanceOutdoorsLitOffset.label>
   <!-- EN: An offset on melee hit chance if the target is outdoors during the day. -->
-  <MeleeHitChanceOutdoorsLitOffset.description>TODO</MeleeHitChanceOutdoorsLitOffset.description>
+  <MeleeHitChanceOutdoorsLitOffset.description>対象が屋外の明所にいる場合の白兵戦で近接攻撃を命中させられるチャンスのオフセット.</MeleeHitChanceOutdoorsLitOffset.description>
   
   <!-- EN: shooting accuracy indoors dark -->
-  <ShootingAccuracyIndoorsDarkOffset.label>TODO</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.label>屋内暗所での射撃精度</ShootingAccuracyIndoorsDarkOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is indoors in the dark. -->
-  <ShootingAccuracyIndoorsDarkOffset.description>TODO</ShootingAccuracyIndoorsDarkOffset.description>
+  <ShootingAccuracyIndoorsDarkOffset.description>対象が屋内の暗所にいる場合の射撃精度のオフセット.</ShootingAccuracyIndoorsDarkOffset.description>
   
   <!-- EN: shooting accuracy indoors lit -->
-  <ShootingAccuracyIndoorsLitOffset.label>TODO</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.label>屋内明所での射撃精度</ShootingAccuracyIndoorsLitOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is indoors and lit. -->
-  <ShootingAccuracyIndoorsLitOffset.description>TODO</ShootingAccuracyIndoorsLitOffset.description>
+  <ShootingAccuracyIndoorsLitOffset.description>対象が屋内の明所にいる場合の射撃精度のオフセット.</ShootingAccuracyIndoorsLitOffset.description>
   
   <!-- EN: shooting accuracy outdoors dark -->
-  <ShootingAccuracyOutdoorsDarkOffset.label>TODO</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.label>屋外暗所での射撃精度</ShootingAccuracyOutdoorsDarkOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is outdoors at night. -->
-  <ShootingAccuracyOutdoorsDarkOffset.description>TODO</ShootingAccuracyOutdoorsDarkOffset.description>
+  <ShootingAccuracyOutdoorsDarkOffset.description>対象が屋外の暗所にいる場合の射撃精度のオフセット.</ShootingAccuracyOutdoorsDarkOffset.description>
   
   <!-- EN: shooting accuracy outdoors lit -->
-  <ShootingAccuracyOutdoorsLitOffset.label>TODO</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.label>屋外明所での射撃精度</ShootingAccuracyOutdoorsLitOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is outdoors during the day. -->
-  <ShootingAccuracyOutdoorsLitOffset.description>TODO</ShootingAccuracyOutdoorsLitOffset.description>
+  <ShootingAccuracyOutdoorsLitOffset.description>対象が屋外の明所にいる場合の射撃精度のオフセット.</ShootingAccuracyOutdoorsLitOffset.description>
   
   <!-- EN: ideoligion spread chance -->
-  <SocialIdeoSpreadFrequencyFactor.label>TODO</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.label>思想の拡散機会</SocialIdeoSpreadFrequencyFactor.label>
   <!-- EN: A multiplier on the chance that this person will try to convert other people to their own ideoligion. -->
-  <SocialIdeoSpreadFrequencyFactor.description>TODO</SocialIdeoSpreadFrequencyFactor.description>
+  <SocialIdeoSpreadFrequencyFactor.description>他者を自身の思想に改宗しようとする可能性の乗数.</SocialIdeoSpreadFrequencyFactor.description>
   
 </LanguageData>

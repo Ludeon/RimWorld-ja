@@ -4,33 +4,29 @@
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was not convinced.</li>
   -->
-  <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は説得を受け入れなかった.</Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は説得を受け入れなかった.</Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+  <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は説得を受け入れなかった.</li>
+  </Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was not convinced and resented the attempt.</li>
   -->
-  <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は説得を受け入れず,むしろ激怒した.</Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は説得を受け入れず,むしろ激怒した.</Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+  <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は説得を受け入れず,むしろ激怒した.</li>
+  </Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] reacted in anger and started a social fight.</li>
   -->
-  <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は怒りで応え,逆に論戦を挑んできた.</Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は怒りで応え,逆に論戦を挑んできた.</Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+  <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は怒りで応え,逆に論戦を挑んできた.</li>
+  </Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was convinced and changed [RECIPIENT_possessive] ideoligion.</li>
   -->
-  <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は説得を受け入れ,[RECIPIENT_possessive]に思想を変更した.</Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>sent->[RECIPIENT_nameDef]は説得を受け入れ,[RECIPIENT_possessive]に思想を変更した.</Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+  <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は説得を受け入れ,[RECIPIENT_possessive]に思想を変更した.</li>
+  </Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
   
 </LanguageData>

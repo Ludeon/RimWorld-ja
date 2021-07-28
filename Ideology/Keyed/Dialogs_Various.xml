@@ -3,15 +3,15 @@
 
   <!-- Misc -->
   <!-- EN: add -->
-  <Add>TODO</Add>
+  <Add>追加</Add>
   <!-- EN: Trading animal products bonus -->
-  <TradingAnimalProduceBonus>TODO</TradingAnimalProduceBonus>
+  <TradingAnimalProduceBonus>畜産物の取引ボーナス</TradingAnimalProduceBonus>
   <!-- EN: Slaves -->
-  <SlavesSection>TODO</SlavesSection>
+  <SlavesSection>奴隷</SlavesSection>
   <!-- EN: dominant style -->
-  <DominantStyle>TODO</DominantStyle>
+  <DominantStyle>有効なスタイル</DominantStyle>
   <!-- EN: Date -->
-  <Date>TODO</Date>
+  <Date>日付</Date>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>思想の象徴的構造を選択してください.これはシンボルにのみ影響を与え,ゲームのプレイには影響しません.</ChooseStructureMemesInfo>
@@ -25,6 +25,9 @@
   <ChooseStructureMeme>構造を選択してください.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
   <IncompatibleMemes>{0_label}と{1_label}には互換性がありません.</IncompatibleMemes>
+
+  <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
+  <ChangesRandomizePrecepts>TODO</ChangesRandomizePrecepts>
   
   <!-- EN: Room requirements -->
   <RoomRequirements>部屋の要件</RoomRequirements>
@@ -32,7 +35,7 @@
   <!-- EN: role -->
   <Role>役割</Role>
   <!-- EN: Assign role -->
-  <ChooseRole>役割を割り当てる</ChooseRole>
+  <ChooseRole>役割を割当</ChooseRole>
   <!-- EN: No role assigned -->
   <NoRoleAssigned>役割が割り当てられてない</NoRoleAssigned>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
@@ -68,7 +71,7 @@
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>ミーム'{MEME}'は役割に服装要件を追加することを防ぎます.</CannotNotAddRoleApparelDueToMeme>
   <!-- EN: cannot be worn with {0_label} -->
-  <CannotBeWornWith>TODO</CannotBeWornWith> <!-- text_todo -->
+  <CannotBeWornWith>TODO</CannotBeWornWith>
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>TODO</AbilityIdeoConvertBreakdownLabel>
@@ -98,54 +101,54 @@
 
   <!-- Slavery -->
   <!-- EN: Slave -->
-  <CannotAssignBedToSlave>TODO</CannotAssignBedToSlave>
+  <CannotAssignBedToSlave>奴隷</CannotAssignBedToSlave>
   <!-- EN: Colonist -->
-  <CannotAssignBedToColonist>TODO</CannotAssignBedToColonist>
+  <CannotAssignBedToColonist>入植者</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
-  <AnySlave>TODO</AnySlave>
+  <AnySlave>任意の奴隷</AnySlave>
   <!-- EN: Negotiator will not sell people into slavery. -->
   <NegotiatorWillNotTradeSlaves>TODO</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction. -->
   <NegotiatorWillNotTradeSlavesTip>TODO</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
-  <LastHumanMeat>TODO</LastHumanMeat>
+  <LastHumanMeat>最後の人肉</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
-  <LastHumanMeatDesc>TODO</LastHumanMeatDesc>
+  <LastHumanMeatDesc>{PAWN_nameDef}は{IDEO_name}を信じているため,{DURATION}日以上ヒトの肉を食べずに過ごすと不幸になります.</LastHumanMeatDesc>
   <!-- EN: Last large animal slaughter -->
-  <LastAnimalSlaughter>TODO</LastAnimalSlaughter>
+  <LastAnimalSlaughter>最後の大型家畜の屠殺</LastAnimalSlaughter>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
-  <ExectueNeutralFactionSlave>TODO</ExectueNeutralFactionSlave>
+  <ExectueNeutralFactionSlave>{PAWN_labelShort}を処刑すると,{FACTION_name}との関係に悪影響を及ぼします.</ExectueNeutralFactionSlave>
 
   <!-- EN: You must assign at least one non-slave colonist who can walk. -->
-  <CaravanMustHaveAtLeastOneNonSlaveColonist>TODO</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>少なくとも一人の,歩ける奴隷でない入植者を割り当てる必要があります.</CaravanMustHaveAtLeastOneNonSlaveColonist>
   <!-- EN: You must leave at least non-slave colonist who can walk. -->
-  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>TODO</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>少なくとも歩くことができる奴隷でない入植者を残す必要があります.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
 
   <!-- Style -->
   <!-- EN: Style -->
-  <StylePawn>TODO</StylePawn>
+  <StylePawn>スタイル</StylePawn>
   <!-- EN: Cancel -->
   <Cancel>キャンセル</Cancel>
   <!-- EN: hair -->
-  <Hair>TODO</Hair>
+  <Hair>髪型</Hair>
   <!-- EN: beard -->
-  <Beard>TODO</Beard>
+  <Beard>あごひげ</Beard>
   <!-- EN: face tattoo -->
-  <TattooFace>TODO</TattooFace>
+  <TattooFace>顔のタトゥー</TattooFace>
   <!-- EN: body tattoo -->
-  <TattooBody>TODO</TattooBody>
+  <TattooBody>身体のタトゥー</TattooBody>
   <!-- EN: apparel color -->
-  <ApparelColor>TODO</ApparelColor>
+  <ApparelColor>衣服の色</ApparelColor>
   <!-- EN: hair color -->
-  <HairColor>TODO</HairColor>
+  <HairColor>ヘアカラー</HairColor>
   <!-- EN: Show headgear -->
-  <ShowHeadgear>TODO</ShowHeadgear>
+  <ShowHeadgear>頭装備を表示</ShowHeadgear>
   <!-- EN: Show apparel -->
-  <ShowApparel>TODO</ShowApparel>
+  <ShowApparel>衣服を表示</ShowApparel>
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
-  <PawnUnhappyWithStyleItems>TODO</PawnUnhappyWithStyleItems>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef}は次のことに不満を抱きます</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
   <StyleCategoryDescription>スタイルカテゴリは,{IDEO_memberNamePlural}によって作られる一部の建築物,衣服,武器の外観に影響を与えます.複数のカテゴリが同じものに影響を与える場合,左端のカテゴリが適用されます.</StyleCategoryDescription>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
@@ -157,37 +160,39 @@
   <!-- EN: New buildables -->
   <IdeoMakesBuildingBuildable>新しく作成可能</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
-  <NoneUsableForPawn>TODO</NoneUsableForPawn> 
+  <NoneUsableForPawn>{PAWN_nameDef}には使えない</NoneUsableForPawn> 
   <!-- EN: Hair and beards -->
-  <HairAndBeards>TODO</HairAndBeards>
+  <HairAndBeards>髪とあごひげ</HairAndBeards>
   <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
-  <HairAndBeardsDesc>TODO</HairAndBeardsDesc>
+  <HairAndBeardsDesc>これらの設定は,各スタイルがこの思想のメンバーに適用される頻度を決定します.</HairAndBeardsDesc>
   <!-- EN: Tattoos -->
-  <Tattoos>TODO</Tattoos>
+  <Tattoos>タトゥー</Tattoos>
   <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
-  <TattoosDesc>TODO</TattoosDesc>
+  <TattoosDesc>これらの設定は,各タトゥーがこの思想のメンバーに適用される頻度を決定します.</TattoosDesc>
   <!-- EN: Never -->
-  <StyleItemFrequencyNever>TODO</StyleItemFrequencyNever>
+  <StyleItemFrequencyNever>決して</StyleItemFrequencyNever>
   <!-- EN: Rare -->
-  <StyleItemFrequencyRare>TODO</StyleItemFrequencyRare>
+  <StyleItemFrequencyRare>稀に</StyleItemFrequencyRare>
   <!-- EN: Uncommon -->
-  <StyleItemFrequencyUncommon>TODO</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyUncommon>珍しい</StyleItemFrequencyUncommon>
   <!-- EN: Normal -->
-  <StyleItemFrequencyNormal>TODO</StyleItemFrequencyNormal>
+  <StyleItemFrequencyNormal>普通</StyleItemFrequencyNormal>
   <!-- EN: Common -->
-  <StyleItemFrequencyCommon>TODO</StyleItemFrequencyCommon>
+  <StyleItemFrequencyCommon>共通</StyleItemFrequencyCommon>
   <!-- EN: Frequent -->
-  <StyleItemFrequencyFrequent>TODO</StyleItemFrequencyFrequent>
+  <StyleItemFrequencyFrequent>頻繁</StyleItemFrequencyFrequent>
   <!-- EN: Edit appearance -->
-  <EditAppearanceItems>TODO</EditAppearanceItems>
+  <EditAppearanceItems>外観を編集</EditAppearanceItems>
   <!-- EN: {0} in use -->
-  <NumAvailable>TODO</NumAvailable>
+  <NumAvailable>{0}種類が使用中</NumAvailable>
   <!-- EN: Expand all -->
-  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <ExpandAllCategories>全て展開</ExpandAllCategories>
   <!-- EN: Collapse all -->
-  <CollapseAllCategories>TODO</CollapseAllCategories>
+  <CollapseAllCategories>全て折りたたむ</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
-  <ResetButtonDesc>TODO</ResetButtonDesc>
+  <ResetButtonDesc>すべてのスタイルをデフォルト値にリセットします.</ResetButtonDesc>
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
@@ -243,6 +248,6 @@
   <ConfirmHackEnenyTerminal>TODO</ConfirmHackEnenyTerminal>
 
   <!-- EN: Relics -->
-  <RelicsSection>TODO</RelicsSection>
+  <RelicsSection>レリック</RelicsSection>
 
 </LanguageData>

@@ -27,7 +27,7 @@
   <!-- EN: Died on the {0} -->
   <DiedOn>{0}に死亡</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>無し</Nobody>
+  <Nobody>なし</Nobody>
   <!-- EN: Unowned -->
   <Unowned>空き</Unowned>
   <!-- EN: Dead for {0} -->
@@ -169,7 +169,7 @@
   <!-- EN: enemies -->
   <Enemies>敵</Enemies>
   <!-- EN: people -->
-  <People>人々</People>
+  <People>人</People>
   <!-- EN: time passed -->
   <TimePassed>経過時間</TimePassed>
   <!-- EN: current radius -->
@@ -515,7 +515,7 @@
   <!-- EN: completed -->
   <StudyCompleted>完了</StudyCompleted>
   <!-- EN: Attack this to destroy it. -->
-  <AttackToDestroy>これを攻撃して破壊します.</AttackToDestroy>
+  <AttackToDestroy>攻撃することで破壊できます.</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
   <RemoveByAttackingTooltip>これを攻撃して削除します.</RemoveByAttackingTooltip>
 
@@ -1497,7 +1497,7 @@
   <!-- EN: Not participating -->
   <NotParticipating>参加しない</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>ドラッグアンドドロップ,または左/右クリックで人を移動させます.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>ドラッグアンドドロップ,または左/右クリックで人を移動.</DragPawnsToRolesInfo>
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>奴隷です.他人の人的財産です.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
@@ -1515,7 +1515,7 @@
   <!-- EN: {0} total quality was {1}, determined by these factors -->
   <RitualOutcomeQualitySpecific>{0}の合計品質は{1}であり,以下の要因によって決められました</RitualOutcomeQualitySpecific>
   <!-- EN: Outcome chances at {0} quality -->
-  <RitualOutcomeChances>{0}品質で結果を得る可能性</RitualOutcomeChances>
+  <RitualOutcomeChances>品質{0}で得られる結果の可能性</RitualOutcomeChances>
   <!-- EN: Performed recently -->
   <RitualOutcomePerformedRecently>最近行った</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
@@ -1526,8 +1526,8 @@
   <RitualQualityLowWarning>{0}の合計品質は{1}を下回っています.続行すると,コロニーに悪影響を与える可能性があります.\n\n本当に行いますか?</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
   <AbilitySpeechDisabledNoSpot>到達可能な適切な場所がありません.</AbilitySpeechDisabledNoSpot>
-  <!-- EN: {0_labelShort} is incapable of talking. -->
-  <AbilitySpeechDisabledCantSpeak>{0_labelShort}は話すことができません.</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>{0_labelShort}は{1}ができません.</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
   <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得られます.</RitualOutcomeExtraDesc_Mood>
   
@@ -1577,12 +1577,15 @@
   <StartingRitualQuality>開始時の品質{0}</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>{0}までの品質</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>最大品質{0}まで</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
-  <OutcomeBonusDesc_QualitySingleOffset>{0}品質</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeBonusDesc_QualitySingleOffset>品質{0}</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
   <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>最大{0}</MaxValue>
   
+  <!-- UNUSED -->
+  <AbilitySpeechDisabledCantSpeak>{0_labelShort}は話すことができません.</AbilitySpeechDisabledCantSpeak>
+
 </LanguageData>

@@ -17,6 +17,21 @@
     <li>ritNoun->gashing</li>
     <li>ritNoun->rend</li>
   -->
-  <NamerRitualMutilation.rulePack.rulesStrings>TODO</NamerRitualMutilation.rulePack.rulesStrings>
+  <NamerRitualMutilation.rulePack.rulesStrings>
+    <li>r_ritualName->[keyDeity]の[ritNoun]</li>
+    <li>r_ritualName->[chosenTheme]の[ritNoun]</li>
+    <li>r_ritualName->[memeConcept]の[ritNoun]</li>
+    <li>r_ritualName->[memeAdjective][ritNoun]</li>
+    <li>ritNoun->損傷</li>
+    <li>ritNoun->切断</li>
+    <li>ritNoun->スライス</li>
+    <li>ritNoun->皮むき</li>
+    <li>ritNoun->刃裂き</li>
+    <li>ritNoun->引き裂き</li>
+    <li>ritNoun->滅多切り</li>
+    <li>ritNoun->人体切り分け</li>
+    <li>ritNoun->切開</li>
+    <li>ritNoun->強奪</li>
+  </NamerRitualMutilation.rulePack.rulesStrings>
   
 </LanguageData>

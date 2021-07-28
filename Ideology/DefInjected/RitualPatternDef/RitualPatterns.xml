@@ -2,106 +2,106 @@
 <LanguageData>
   
   <!-- EN: {0} {1} want to carry out the blinding as soon as possible. -->
-  <BlindingCeremony.ritualExpectedPostfix>TODO</BlindingCeremony.ritualExpectedPostfix>
+  <BlindingCeremony.ritualExpectedPostfix>{0}人の{1}ができるだけ早く目隠しを行いたがっています.</BlindingCeremony.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic burning of a hated symbol. Participants will gather around a sacrificial structure, light it on fire, and celebrate as it burns to ash. -->
-  <BurnCircle.descOverride>TODO</BurnCircle.descOverride>
+  <BurnCircle.descOverride>嫌悪するシンボルを儀式的に焼却します.参加者は犠牲となる建築物の周りに集まり,火を付け,燃えて灰になるのを祝います.</BurnCircle.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <BurnCircle.ritualExpectedDesc>TODO</BurnCircle.ritualExpectedDesc>
+  <BurnCircle.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</BurnCircle.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <BurnCircle.ritualExpectedPostfix>TODO</BurnCircle.ritualExpectedPostfix>
+  <BurnCircle.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</BurnCircle.ritualExpectedPostfix>
   <!-- EN: symbol burning -->
-  <BurnCircle.shortDescOverride>TODO</BurnCircle.shortDescOverride>
+  <BurnCircle.shortDescOverride>シンボル焼却</BurnCircle.shortDescOverride>
   
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationPartyChat.ritualExpectedDesc>TODO</CelebrationPartyChat.ritualExpectedDesc>
+  <CelebrationPartyChat.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</CelebrationPartyChat.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationPartyChat.ritualExpectedPostfix>TODO</CelebrationPartyChat.ritualExpectedPostfix>
+  <CelebrationPartyChat.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationPartyChat.ritualExpectedPostfix>
   
   <!-- EN: A dance party with drums. Participants will gather, socialize, play drums, and dance to have fun and connect with each other. -->
-  <CelebrationPartyDanceDrum.descOverride>TODO</CelebrationPartyDanceDrum.descOverride>
+  <CelebrationPartyDanceDrum.descOverride>太鼓を使ったダンスパーティーです.参加者は集まり,交流し,太鼓を叩き,踊り,楽しみ,互いに繋がります.</CelebrationPartyDanceDrum.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationPartyDanceDrum.ritualExpectedDesc>TODO</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</CelebrationPartyDanceDrum.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationPartyDanceDrum.ritualExpectedPostfix>TODO</CelebrationPartyDanceDrum.ritualExpectedPostfix>
+  <CelebrationPartyDanceDrum.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationPartyDanceDrum.ritualExpectedPostfix>
   <!-- EN: drum party -->
-  <CelebrationPartyDanceDrum.shortDescOverride>TODO</CelebrationPartyDanceDrum.shortDescOverride>
+  <CelebrationPartyDanceDrum.shortDescOverride>ドラムパーティー</CelebrationPartyDanceDrum.shortDescOverride>
   
   <!-- EN: A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other. -->
-  <CelebrationPartyDanceTech.descOverride>TODO</CelebrationPartyDanceTech.descOverride>
+  <CelebrationPartyDanceTech.descOverride>大音量のダンスパーティーです.参加者は集まり,交流し,踊り,楽しみ,互いに繋がります.</CelebrationPartyDanceTech.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationPartyDanceTech.ritualExpectedDesc>TODO</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <CelebrationPartyDanceTech.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</CelebrationPartyDanceTech.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationPartyDanceTech.ritualExpectedPostfix>TODO</CelebrationPartyDanceTech.ritualExpectedPostfix>
+  <CelebrationPartyDanceTech.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationPartyDanceTech.ritualExpectedPostfix>
   <!-- EN: dance party -->
-  <CelebrationPartyDanceTech.shortDescOverride>TODO</CelebrationPartyDanceTech.shortDescOverride>
+  <CelebrationPartyDanceTech.shortDescOverride>ダンスパーティー</CelebrationPartyDanceTech.shortDescOverride>
   
   <!-- EN: A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away. -->
-  <CelebrationSkyLanterns.descOverride>TODO</CelebrationSkyLanterns.descOverride>
+  <CelebrationSkyLanterns.descOverride>人々がスカイランタンを放つ社会的儀式です.参加者は社交を楽しみながら木製のスカイランタンを組み立て,放し,流れて行くさまを見守ります.</CelebrationSkyLanterns.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationSkyLanterns.ritualExpectedDesc>TODO</CelebrationSkyLanterns.ritualExpectedDesc>
+  <CelebrationSkyLanterns.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</CelebrationSkyLanterns.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationSkyLanterns.ritualExpectedPostfix>TODO</CelebrationSkyLanterns.ritualExpectedPostfix>
+  <CelebrationSkyLanterns.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationSkyLanterns.ritualExpectedPostfix>
   <!-- EN: skylantern festival -->
-  <CelebrationSkyLanterns.shortDescOverride>TODO</CelebrationSkyLanterns.shortDescOverride>
+  <CelebrationSkyLanterns.shortDescOverride>スカイランタンフェスティバル</CelebrationSkyLanterns.shortDescOverride>
   
   <!-- EN: A party around a Christmas tree. Participants will gather around a Christmas tree and make merry. -->
-  <CelebrationTree.descOverride>TODO</CelebrationTree.descOverride>
+  <CelebrationTree.descOverride>クリスマスツリーの周りで行うパーティーです.参加者はクリスマスツリーの周りに集まり,陽気になります.</CelebrationTree.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationTree.ritualExpectedDesc>TODO</CelebrationTree.ritualExpectedDesc>
+  <CelebrationTree.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</CelebrationTree.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationTree.ritualExpectedPostfix>TODO</CelebrationTree.ritualExpectedPostfix>
+  <CelebrationTree.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationTree.ritualExpectedPostfix>
   <!-- EN: christmas tree party -->
-  <CelebrationTree.shortDescOverride>TODO</CelebrationTree.shortDescOverride>
+  <CelebrationTree.shortDescOverride>クリスマスツリーパーティー</CelebrationTree.shortDescOverride>
   
   <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
-  <Conversion.ritualExplanation>TODO</Conversion.ritualExplanation>
+  <Conversion.ritualExplanation>成功した場合,対象者の確信度が低下するか,もしくはすぐに改宗します.ただし裏目に出れば,自身の思想への確信度が増します.</Conversion.ritualExplanation>
   
   <!-- EN: A ritualistic flesh-eating meal. Participants gather around a platter of human flesh and bloodily feast on it. -->
-  <FeastCannibal.descOverride>TODO</FeastCannibal.descOverride>
+  <FeastCannibal.descOverride>儀式的な人肉の食事会です.参加者はヒトの肉の盛り合わせの周りに集まり,血まみれのご馳走を食べます.</FeastCannibal.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <FeastCannibal.ritualExpectedDesc>TODO</FeastCannibal.ritualExpectedDesc>
+  <FeastCannibal.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</FeastCannibal.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <FeastCannibal.ritualExpectedPostfix>TODO</FeastCannibal.ritualExpectedPostfix>
+  <FeastCannibal.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</FeastCannibal.ritualExpectedPostfix>
   <!-- EN: cannibal feast -->
-  <FeastCannibal.shortDescOverride>TODO</FeastCannibal.shortDescOverride>
+  <FeastCannibal.shortDescOverride>ヒト食いの饗宴</FeastCannibal.shortDescOverride>
   
   <!-- EN: Once a {IDEO} member dies and the body is lost, other {MEMBERS} gather around an empty grave for {RITUAL_labelDef}. -->
-  <FuneralNoCorpse.ritualExpectedDesc>TODO</FuneralNoCorpse.ritualExpectedDesc>
+  <FuneralNoCorpse.ritualExpectedDesc>{IDEO}のメンバーが亡くなり遺体が失われると,他の{MEMBERS}が{RITUAL_labelDef}の空の墓の周りに集まります.</FuneralNoCorpse.ritualExpectedDesc>
   
   <!-- EN: Once a {IDEO} member dies, other {MEMBERS} gather around their grave for {RITUAL_labelDef}. -->
-  <FuneralStandard.ritualExpectedDesc>TODO</FuneralStandard.ritualExpectedDesc>
+  <FuneralStandard.ritualExpectedDesc>{IDEO}のメンバーが亡くなると,他の{MEMBERS}が{RITUAL_labelDef}のために墓の周りに集まります.</FuneralStandard.ritualExpectedDesc>
   <!-- EN: {0} {1} want to carry out the funeral as soon as possible. -->
-  <FuneralStandard.ritualExpectedPostfix>TODO</FuneralStandard.ritualExpectedPostfix>
+  <FuneralStandard.ritualExpectedPostfix>{0}人の{1}ができるだけ早く葬式を行いたがっています.</FuneralStandard.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic animal sacrifice. The organizer will give a speech to excite the crowd, then cut the animal's throat. Once the animal is dead, the organizer will speak some finishing words. -->
-  <SacrificeAnimal.descOverride>TODO</SacrificeAnimal.descOverride>
+  <SacrificeAnimal.descOverride>儀式的に家畜を生贄に捧げます.主催者は観衆を興奮させるためにスピーチを行い,家畜の喉を切ります.家畜が死んだ後,主催者はいくつかの言葉を最後に話します.</SacrificeAnimal.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <SacrificeAnimal.ritualExpectedDesc>TODO</SacrificeAnimal.ritualExpectedDesc>
+  <SacrificeAnimal.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</SacrificeAnimal.ritualExpectedDesc>
   <!-- EN: {0} {1} want to carry out the sacrifice as soon as possible. -->
-  <SacrificeAnimal.ritualExpectedPostfix>TODO</SacrificeAnimal.ritualExpectedPostfix>
+  <SacrificeAnimal.ritualExpectedPostfix>{0}人の{1}ができるだけ早く生贄を捧げたがっています.</SacrificeAnimal.ritualExpectedPostfix>
   <!-- EN: animal sacrifice -->
-  <SacrificeAnimal.shortDescOverride>TODO</SacrificeAnimal.shortDescOverride>
+  <SacrificeAnimal.shortDescOverride>家畜の生贄</SacrificeAnimal.shortDescOverride>
   
   <!-- EN: A ritualistic prisoner sacrifice. The organizer will give a speech to excite the crowd, then cut the prisoner's throat. Once the prisoner is dead, organizer will speak some finishing words. -->
-  <SacrificePrisoner.descOverride>TODO</SacrificePrisoner.descOverride>
+  <SacrificePrisoner.descOverride>儀式的に囚人を生贄に捧げます.主催者は観衆を興奮させるためにスピーチを行い,囚人の喉を切ります.囚人が死んだ後,主催者はいくつかの言葉を最後に話します.</SacrificePrisoner.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <SacrificePrisoner.ritualExpectedDesc>TODO</SacrificePrisoner.ritualExpectedDesc>
+  <SacrificePrisoner.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</SacrificePrisoner.ritualExpectedDesc>
   <!-- EN: {0} {1} want to carry out the sacrifice as soon as possible. -->
-  <SacrificePrisoner.ritualExpectedPostfix>TODO</SacrificePrisoner.ritualExpectedPostfix>
+  <SacrificePrisoner.ritualExpectedPostfix>{0}人の{1}ができるだけ早く生贄を捧げたがっています.</SacrificePrisoner.ritualExpectedPostfix>
   <!-- EN: prisoner sacrifice -->
-  <SacrificePrisoner.shortDescOverride>TODO</SacrificePrisoner.shortDescOverride>
+  <SacrificePrisoner.shortDescOverride>囚人の生贄</SacrificePrisoner.shortDescOverride>
   
   <!-- EN: {0} {1} want to carry out the scarification as soon as possible. -->
-  <ScarificationCeremony.ritualExpectedPostfix>TODO</ScarificationCeremony.ritualExpectedPostfix>
+  <ScarificationCeremony.ritualExpectedPostfix>{0}人の{1}ができるだけ早くスカリフィケーションを行いたがっています.</ScarificationCeremony.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic smoking of large amounts of smokeleaf. Participants will gather around a burnbong or incense shrine, light it on fire, and celebrate while inhaling the fumes. -->
-  <SmokeCircle.descOverride>TODO</SmokeCircle.descOverride>
+  <SmokeCircle.descOverride>大量のスモークリーフを儀式的に吸います.参加者はバーンボングや香聖堂の周りに集まり,火を付け,煙を吸いながら祝います.</SmokeCircle.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <SmokeCircle.ritualExpectedDesc>TODO</SmokeCircle.ritualExpectedDesc>
+  <SmokeCircle.ritualExpectedDesc>毎年{DATE}に,{MEMBERS}は{RITUAL_labelDef}を祝います.</SmokeCircle.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <SmokeCircle.ritualExpectedPostfix>TODO</SmokeCircle.ritualExpectedPostfix>
+  <SmokeCircle.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</SmokeCircle.ritualExpectedPostfix>
   <!-- EN: smokeleaf circle -->
-  <SmokeCircle.shortDescOverride>TODO</SmokeCircle.shortDescOverride>
+  <SmokeCircle.shortDescOverride>スモークリーフサークル</SmokeCircle.shortDescOverride>
   
 </LanguageData>

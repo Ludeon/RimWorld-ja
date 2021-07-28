@@ -21,7 +21,26 @@
     <li>place_foeLeader->crime boss</li>
     <li>place_foeSoldiers->thugs</li>
   -->
-  <AturaStation.placeRules.rulesStrings>TODO</AturaStation.placeRules.rulesStrings>
+  <AturaStation.placeRules.rulesStrings>
+    <li>place_name->アチュラ基地</li>
+    <li>place_adjective->アチュラの</li>
+    <li>place_summary->軌道上造船所</li>
+    <li>place_community->シャトルのドック</li>
+    <li>place_community->製造工場地帯</li>
+    <li>place_community->住宅地帯</li>
+    <li>place_powerCenter->中央コントロールルーム</li>
+    <li>place_job->建築ドローンオペレーター</li>
+    <li>place_job->マネージャー</li>
+    <li>place_job->テストパイロット</li>
+    <li>place_job->販売代理人</li>
+    <li>place_job->3Dプリンター技術者</li>
+    <li>place_personalWeapon->テーザー銃</li>
+    <li>place_personalWeapon->アーク溶接機</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->リモートコントロール溶接ドローン群</li>
+    <li>place_foeLeader->犯罪組織のボス</li>
+    <li>place_foeSoldiers->凶漢</li>
+  </AturaStation.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Bagua 5</li>
@@ -43,7 +62,26 @@
     <li>place_foeLeader->junk lord</li>
     <li>place_foeSoldiers->metal-heads</li>
   -->
-  <Bagua5.placeRules.rulesStrings>TODO</Bagua5.placeRules.rulesStrings>
+  <Bagua5.placeRules.rulesStrings>
+    <li>place_name->バグア第五基地</li>
+    <li>place_adjective->バグシンクの</li>
+    <li>place_summary->廃品惑星</li>
+    <li>place_community->要塞化されたスクラップヤード</li>
+    <li>place_community->雨水処理プラント</li>
+    <li>place_community->スクラップタウン</li>
+    <li>place_powerCenter->貿易宇宙港</li>
+    <li>place_job->スカベンジャー</li>
+    <li>place_job->トレーダー</li>
+    <li>place_job->下手な職人</li>
+    <li>place_job->警備員</li>
+    <li>place_job->スクラッパー</li>
+    <li>place_personalWeapon->パイプライフル</li>
+    <li>place_personalWeapon->スクラップソード</li>
+    <li>place_massWeapon->回収された核兵器</li>
+    <li>place_massWeapon->錆ウイルス</li>
+    <li>place_foeLeader->ジャンクロード</li>
+    <li>place_foeSoldiers->メタルヘッド</li>
+  </Bagua5.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Boccocarro</li>
@@ -65,7 +103,26 @@
     <li>place_foeLeader->mine hypervisor</li>
     <li>place_foeSoldiers->abyssal marines</li>
   -->
-  <Boccocarro.placeRules.rulesStrings>TODO</Boccocarro.placeRules.rulesStrings>
+  <Boccocarro.placeRules.rulesStrings>
+    <li>place_name->ボッコカッロ</li>
+    <li>place_adjective->ボッコの</li>
+    <li>place_summary->洞窟のシェルワールド</li>
+    <li>place_community->水面トンネル</li>
+    <li>place_community->巨大なキノコ洞窟</li>
+    <li>place_community->ドリップウェル</li>
+    <li>place_powerCenter->演説会館</li>
+    <li>place_job->坑夫</li>
+    <li>place_job->キノコ栽培者</li>
+    <li>place_job->水面清掃者</li>
+    <li>place_job->コミュニティーの料理人</li>
+    <li>place_job->カエルハンター</li>
+    <li>place_personalWeapon->十字鍬</li>
+    <li>place_personalWeapon->水力クロスボウ</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->黒色火薬爆弾</li>
+    <li>place_foeLeader->マインハイパーバイザー</li>
+    <li>place_foeSoldiers->深海軍</li>
+  </Boccocarro.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Chelis</li>
@@ -87,7 +144,26 @@
     <li>place_foeLeader->chief</li>
     <li>place_foeSoldiers->sand-warriors</li>
   -->
-  <Chelis.placeRules.rulesStrings>TODO</Chelis.placeRules.rulesStrings>
+  <Chelis.placeRules.rulesStrings>
+    <li>place_name->チェリス</li>
+    <li>place_adjective->チェリスの</li>
+    <li>place_summary->乾燥世界</li>
+    <li>place_community->蒸気農場</li>
+    <li>place_community->パーツタウン</li>
+    <li>place_community->ウォーターセンター</li>
+    <li>place_powerCenter->ハイ・ライフホール</li>
+    <li>place_job->水採取人</li>
+    <li>place_job->トカゲの皮剥ぎ職人</li>
+    <li>place_job->オアシス捜索者</li>
+    <li>place_job->サボテン採取人</li>
+    <li>place_job->スカベンジャー監視員</li>
+    <li>place_personalWeapon->サンドアロー</li>
+    <li>place_personalWeapon->サボテンクラブ</li>
+    <li>place_massWeapon->アルコテックサンドストーム生成装置</li>
+    <li>place_massWeapon->スパイクリザードの大移動</li>
+    <li>place_foeLeader->チーフ</li>
+    <li>place_foeSoldiers->サンドウォーリアー</li>
+  </Chelis.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Creticon</li>
@@ -112,7 +188,29 @@
     <li>place_foeLeader->warlord</li>
     <li>place_foeSoldiers->mercenaries</li>
   -->
-  <Creticon.placeRules.rulesStrings>TODO</Creticon.placeRules.rulesStrings>
+  <Creticon.placeRules.rulesStrings>
+    <li>place_name->クレティコン</li>
+    <li>place_adjective->クレティコンの</li>
+    <li>place_summary->萎びたデスワールド</li>
+    <li>place_community->バンカー</li>
+    <li>place_community->大きな洞窟</li>
+    <li>place_community->アイスシェルター</li>
+    <li>place_powerCenter->ディレクターズバンカー</li>
+    <li>place_job->水資源リサイクル修理人</li>
+    <li>place_job->藻農場</li>
+    <li>place_job->医者</li>
+    <li>place_job->教師</li>
+    <li>place_job->民兵司令官</li>
+    <li>place_job->シャトルパイロット</li>
+    <li>place_personalWeapon->自動式拳銃</li>
+    <li>place_personalWeapon->軽機関銃</li>
+    <li>place_massWeapon->ショルダーマウント型核ミサイル</li>
+    <li>place_massWeapon->惑星軌道上爆撃</li>
+    <li>place_massWeapon->化学爆弾</li>
+    <li>place_massWeapon->ハッキングメカノイド</li>
+    <li>place_foeLeader->将軍</li>
+    <li>place_foeSoldiers->傭兵</li>
+  </Creticon.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Filson</li>
@@ -136,7 +234,28 @@
     <li>place_foeLeader->landowner</li>
     <li>place_foeSoldiers->militia</li>
   -->
-  <Filson.placeRules.rulesStrings>TODO</Filson.placeRules.rulesStrings>
+  <Filson.placeRules.rulesStrings>
+    <li>place_name->フィルソン</li>
+    <li>place_adjective->フィルソンの</li>
+    <li>place_summary->田園のファームワールド</li>
+    <li>place_community->タウンホール</li>
+    <li>place_community->化学肥料加工プラント</li>
+    <li>place_community->巨大穀物貯蔵庫</li>
+    <li>place_community->水生産用敷地</li>
+    <li>place_powerCenter->タウンホール</li>
+    <li>place_job->農場の管理者</li>
+    <li>place_job->フルーツ摘み人</li>
+    <li>place_job->運送ドライバー</li>
+    <li>place_job->学校の教師</li>
+    <li>place_job->土壌エンジニア</li>
+    <li>place_personalWeapon->ライフル</li>
+    <li>place_personalWeapon->大鎌</li>
+    <li>place_massWeapon->化学肥料爆弾</li>
+    <li>place_massWeapon->兵器型害虫駆除スプレー</li>
+    <li>place_massWeapon->スペースレンズ</li>
+    <li>place_foeLeader->地主</li>
+    <li>place_foeSoldiers->民兵</li>
+  </Filson.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Ilwaba</li>
@@ -158,7 +277,26 @@
     <li>place_foeLeader->crypto-leader</li>
     <li>place_foeSoldiers->crypto-soldiers</li>
   -->
-  <Ilwaba.placeRules.rulesStrings>TODO</Ilwaba.placeRules.rulesStrings>
+  <Ilwaba.placeRules.rulesStrings>
+    <li>place_name->イルワバ</li>
+    <li>place_adjective->イルワバの</li>
+    <li>place_summary->再成長のルインワールド</li>
+    <li>place_community->摩天楼村</li>
+    <li>place_community->ハイウェイの交易所</li>
+    <li>place_community->ブラストランドオアシス</li>
+    <li>place_powerCenter->再成長の家</li>
+    <li>place_job->クリート農場主</li>
+    <li>place_job->道設計者</li>
+    <li>place_job->遺物ハンター</li>
+    <li>place_job->トンネル作業員</li>
+    <li>place_job->遺物修復師</li>
+    <li>place_personalWeapon->スクラップソード</li>
+    <li>place_personalWeapon->ジャグダガー</li>
+    <li>place_massWeapon->掘り起こされた核兵器</li>
+    <li>place_massWeapon->古代の毒爆弾</li>
+    <li>place_foeLeader->クリプトリーダー</li>
+    <li>place_foeSoldiers->クリプトソルジャー</li>
+  </Ilwaba.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Iwamura</li>
@@ -181,7 +319,27 @@
     <li>place_foeLeader->mega-corp CEO</li>
     <li>place_foeSoldiers->rent-a-cops</li>
   -->
-  <Iwamura.placeRules.rulesStrings>TODO</Iwamura.placeRules.rulesStrings>
+  <Iwamura.placeRules.rulesStrings>
+    <li>place_name->イワムラ</li>
+    <li>place_adjective->イワムラの</li>
+    <li>place_summary->石だらけの小惑星</li>
+    <li>place_community->マーケットカプセル</li>
+    <li>place_community->倉庫カプセル</li>
+    <li>place_community->ドッキングピアー</li>
+    <li>place_powerCenter->ステーションブリッジ</li>
+    <li>place_job->生命維持エンジニア</li>
+    <li>place_job->貿易商人</li>
+    <li>place_job->フライトコントローラー</li>
+    <li>place_job->無重力アスリート</li>
+    <li>place_job->ラジオホスト</li>
+    <li>place_personalWeapon->チャージライフル</li>
+    <li>place_personalWeapon->溶接トーチ</li>
+    <li>place_massWeapon->エアロゾル化毒素</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->生命維持装置妨害ウイルス</li>
+    <li>place_foeLeader->巨大会社CEO</li>
+    <li>place_foeSoldiers->警官傭兵</li>
+  </Iwamura.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Kemia</li>
@@ -204,7 +362,27 @@
     <li>place_foeLeader->poison lord</li>
     <li>place_foeSoldiers->venom-soldiers</li>
   -->
-  <Kemia.placeRules.rulesStrings>TODO</Kemia.placeRules.rulesStrings>
+  <Kemia.placeRules.rulesStrings>
+    <li>place_name->ケミア</li>
+    <li>place_adjective->ケミアの</li>
+    <li>place_summary->毒の戦争世界</li>
+    <li>place_community->スラム</li>
+    <li>place_community->トンネルコロニー</li>
+    <li>place_community->地下街</li>
+    <li>place_powerCenter->首長の家</li>
+    <li>place_job->街路掃除人</li>
+    <li>place_job->浄化エンジニア</li>
+    <li>place_job->プロテイン農場</li>
+    <li>place_job->タクシードライバー</li>
+    <li>place_job->武器製造人</li>
+    <li>place_personalWeapon->ガス爆弾</li>
+    <li>place_personalWeapon->毒放射器</li>
+    <li>place_massWeapon->核汚染爆弾</li>
+    <li>place_massWeapon->生物工学ペスト</li>
+    <li>place_massWeapon->貫通毒爆弾</li>
+    <li>place_foeLeader->ポイズンロード</li>
+    <li>place_foeSoldiers->ヴェノムソルジャー</li>
+  </Kemia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Lutuni</li>
@@ -226,7 +404,26 @@
     <li>place_foeLeader->entertainment mogul</li>
     <li>place_foeSoldiers->enforcers</li>
   -->
-  <Lutuni.placeRules.rulesStrings>TODO</Lutuni.placeRules.rulesStrings>
+  <Lutuni.placeRules.rulesStrings>
+    <li>place_name->ルツリ</li>
+    <li>place_adjective->ルツリの</li>
+    <li>place_summary->熱帯雨林のパラダイス</li>
+    <li>place_community->増強クリニック</li>
+    <li>place_community->ハイパーヨット</li>
+    <li>place_community->無重力スタジアム</li>
+    <li>place_powerCenter->複合スペースエレベーター</li>
+    <li>place_job->ツアーリストガイド</li>
+    <li>place_job->無重力パフォーマー</li>
+    <li>place_job->ルシフェリウム分配者</li>
+    <li>place_job->バーチャルの有名人</li>
+    <li>place_job->シャトルパイロット</li>
+    <li>place_personalWeapon->震動ナイフ</li>
+    <li>place_personalWeapon->チャージピストル</li>
+    <li>place_massWeapon->組織分解細菌</li>
+    <li>place_massWeapon->密輸入された惑星軌道上爆撃照準器</li>
+    <li>place_foeLeader->歓待の実力者</li>
+    <li>place_foeSoldiers->用心棒</li>
+  </Lutuni.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Novaroma</li>
@@ -250,7 +447,28 @@
     <li>place_foeLeader->high-underlord</li>
     <li>place_foeSoldiers->undertroops</li>
   -->
-  <Novaroma.placeRules.rulesStrings>TODO</Novaroma.placeRules.rulesStrings>
+  <Novaroma.placeRules.rulesStrings>
+    <li>place_name->ノヴァロマ</li>
+    <li>place_adjective->ノヴァロマの</li>
+    <li>place_summary->小惑星</li>
+    <li>place_community->許しの聖職者</li>
+    <li>place_community->市外の門番</li>
+    <li>place_community->オーバーシティ</li>
+    <li>place_community->アンダーシティ</li>
+    <li>place_powerCenter->メガシティオーバーホール</li>
+    <li>place_job->事務員</li>
+    <li>place_job->公務員</li>
+    <li>place_job->食料特使</li>
+    <li>place_job->タクシードライバー</li>
+    <li>place_job->小売労働者</li>
+    <li>place_personalWeapon->リボルバー</li>
+    <li>place_personalWeapon->ナイフ</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->クラスター爆弾</li>
+    <li>place_massWeapon->スーツケース核爆弾</li>
+    <li>place_foeLeader->高位のアンダーロード</li>
+    <li>place_foeSoldiers->下位軍隊</li>
+  </Novaroma.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Nuchadus</li>
@@ -271,7 +489,25 @@
     <li>place_foeLeader->lava lord</li>
     <li>place_foeSoldiers->stygian soldiers</li>
   -->
-  <Nuchadus.placeRules.rulesStrings>TODO</Nuchadus.placeRules.rulesStrings>
+  <Nuchadus.placeRules.rulesStrings>
+    <li>place_name->ヌチャドゥス</li>
+    <li>place_adjective->ヌチャドゥスの</li>
+    <li>place_summary->薄暗いボルケーノワールド</li>
+    <li>place_community->玄武岩島</li>
+    <li>place_community->カルデラ湖タウン</li>
+    <li>place_community->操縦式村落</li>
+    <li>place_powerCenter->熱要塞</li>
+    <li>place_job->地震学者</li>
+    <li>place_job->溶岩カタツムリ農家</li>
+    <li>place_job->歩行式タンク修理人</li>
+    <li>place_job->空輸スカウト</li>
+    <li>place_personalWeapon->オブシディアンダガー</li>
+    <li>place_personalWeapon->ハープーンライフル</li>
+    <li>place_massWeapon->アルコテック火山噴火装置</li>
+    <li>place_massWeapon->化学戦闘爆弾</li>
+    <li>place_foeLeader->溶岩君主</li>
+    <li>place_foeSoldiers->地獄の軍人</li>
+  </Nuchadus.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Oubanyen</li>
@@ -293,7 +529,26 @@
     <li>place_foeLeader->tree-harvester</li>
     <li>place_foeSoldiers->henchmen</li>
   -->
-  <Oubanyen.placeRules.rulesStrings>TODO</Oubanyen.placeRules.rulesStrings>
+  <Oubanyen.placeRules.rulesStrings>
+    <li>place_name->オウバニェン</li>
+    <li>place_adjective->オウバニェンの</li>
+    <li>place_summary->蒸気のジャングルワールド</li>
+    <li>place_community->ツリートップ村</li>
+    <li>place_community->シャーマンケイブ</li>
+    <li>place_community->ヒルトップジッグラト</li>
+    <li>place_powerCenter->都市の神殿</li>
+    <li>place_job->シャーマン</li>
+    <li>place_job->狩人</li>
+    <li>place_job->漁師</li>
+    <li>place_job->採取人</li>
+    <li>place_job->ヤギ使い</li>
+    <li>place_personalWeapon->ピラ</li>
+    <li>place_personalWeapon->イクワ</li>
+    <li>place_massWeapon->死のサイコドローン</li>
+    <li>place_massWeapon->神経毒爆弾</li>
+    <li>place_foeLeader->木の収穫者</li>
+    <li>place_foeSoldiers->子分</li>
+  </Oubanyen.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Rhydell</li>
@@ -315,7 +570,26 @@
     <li>place_foeLeader->deepcorp executive</li>
     <li>place_foeSoldiers->deepcorp enforcers</li>
   -->
-  <Rhydell.placeRules.rulesStrings>TODO</Rhydell.placeRules.rulesStrings>
+  <Rhydell.placeRules.rulesStrings>
+    <li>place_name->リーデル</li>
+    <li>place_adjective->リーデルの</li>
+    <li>place_summary->野蛮な森の月</li>
+    <li>place_community->改装されたドロップシップ</li>
+    <li>place_community->ローシールド野営地</li>
+    <li>place_community->コミュニケーションセンター</li>
+    <li>place_powerCenter->装甲住居</li>
+    <li>place_job->戦線の植物学者</li>
+    <li>place_job->戦利品ハンター</li>
+    <li>place_job->医者</li>
+    <li>place_job->キャンプコック</li>
+    <li>place_job->生物研究所のエンジニア</li>
+    <li>place_personalWeapon->スナイパーライフル</li>
+    <li>place_personalWeapon->マチェーテ</li>
+    <li>place_massWeapon->植物性神経ガス</li>
+    <li>place_massWeapon->惑星軌道上レーザーストライク</li>
+    <li>place_foeLeader->ディープコーポの管理者</li>
+    <li>place_foeSoldiers->ディープコーポの用心棒</li>
+  </Rhydell.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Rogia</li>
@@ -338,7 +612,27 @@
     <li>place_foeLeader->corrupt bureaucrat</li>
     <li>place_foeSoldiers->bionic guards</li>
   -->
-  <Rogia.placeRules.rulesStrings>TODO</Rogia.placeRules.rulesStrings>
+  <Rogia.placeRules.rulesStrings>
+    <li>place_name->ロギア</li>
+    <li>place_adjective->ロギアの</li>
+    <li>place_summary->グリッターワールド</li>
+    <li>place_community->医学研究所</li>
+    <li>place_community->スペースエレベーター</li>
+    <li>place_community->ロボット工場</li>
+    <li>place_powerCenter->惑星議事堂</li>
+    <li>place_job->惑星士官候補生</li>
+    <li>place_job->職人農家</li>
+    <li>place_job->ソーシャルメディアの精鋭</li>
+    <li>place_job->無重力運動選手</li>
+    <li>place_job->グリッター密輸船</li>
+    <li>place_personalWeapon->チャージランス</li>
+    <li>place_personalWeapon->ペルソナモノソード</li>
+    <li>place_massWeapon->反物質弾頭</li>
+    <li>place_massWeapon->兵器型コンピューターウイルス</li>
+    <li>place_massWeapon->リモートコントロール型メカノイド作業員</li>
+    <li>place_foeLeader->腐敗した官僚</li>
+    <li>place_foeSoldiers->生物工学護衛官</li>
+  </Rogia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Wavia</li>
@@ -362,7 +656,28 @@
     <li>seaBeast->deep-kraken</li>
     <li>seaBeast->Wavian leviathan</li>
   -->
-  <Wavia.placeRules.rulesStrings>TODO</Wavia.placeRules.rulesStrings>
+  <Wavia.placeRules.rulesStrings>
+    <li>place_name->ワヴィア</li>
+    <li>place_adjective->ワヴィアの</li>
+    <li>place_summary->大海の星</li>
+    <li>place_community->サンゴ島の貿易所</li>
+    <li>place_community->浮遊村</li>
+    <li>place_community->海藻精製所</li>
+    <li>place_powerCenter->議事堂の橋</li>
+    <li>place_job->釣り人</li>
+    <li>place_job->パールダイバー</li>
+    <li>place_job->帆製造者</li>
+    <li>place_job->キャプテン</li>
+    <li>place_job->海草採取人</li>
+    <li>place_personalWeapon->ハープーン</li>
+    <li>place_personalWeapon->棘付きネット</li>
+    <li>place_massWeapon->高圧魚雷</li>
+    <li>place_massWeapon->[seaBeast]の餌</li>
+    <li>place_foeLeader->捕鯨船の海軍将官</li>
+    <li>place_foeSoldiers->捕鯨船の海軍</li>
+    <li>seaBeast->ディープクラーケン</li>
+    <li>seaBeast->ワヴィアのリヴァイアサン</li>
+  </Wavia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Xanides</li>
@@ -384,7 +699,26 @@
     <li>place_foeLeader->mine-corp boss</li>
     <li>place_foeSoldiers->mine-corp troops</li>
   -->
-  <Xanides.placeRules.rulesStrings>TODO</Xanides.placeRules.rulesStrings>
+  <Xanides.placeRules.rulesStrings>
+    <li>place_name->ザニデス</li>
+    <li>place_adjective->ザニデスの</li>
+    <li>place_summary->偉業のミネラルプラネット</li>
+    <li>place_community->露天掘り所</li>
+    <li>place_community->鉱石精製所</li>
+    <li>place_community->栄養補給ペーストカフェテリア</li>
+    <li>place_powerCenter->酸素貯蔵所</li>
+    <li>place_job->採掘者</li>
+    <li>place_job->監督者</li>
+    <li>place_job->専門家</li>
+    <li>place_job->メカニック</li>
+    <li>place_job->生命維持装置技術者</li>
+    <li>place_personalWeapon->電気警棒</li>
+    <li>place_personalWeapon->自動式拳銃</li>
+    <li>place_massWeapon->ブラストチャージ</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_foeLeader->採掘会社の社長</li>
+    <li>place_foeSoldiers->採掘会社の軍隊</li>
+  </Xanides.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Yttak</li>
@@ -406,7 +740,26 @@
     <li>place_foeLeader->prison warden</li>
     <li>place_foeSoldiers->corrupt guards</li>
   -->
-  <Yttak.placeRules.rulesStrings>TODO</Yttak.placeRules.rulesStrings>
+  <Yttak.placeRules.rulesStrings>
+    <li>place_name->イッタク</li>
+    <li>place_adjective->イッタクの</li>
+    <li>place_summary->アイスムーンの牢獄</li>
+    <li>place_community->食料ホール</li>
+    <li>place_community->監視員の兵舎</li>
+    <li>place_community->留置センター</li>
+    <li>place_powerCenter->刑務所長の事務所の集合体</li>
+    <li>place_job->抑留者</li>
+    <li>place_job->監視員</li>
+    <li>place_job->脱獄者</li>
+    <li>place_job->保全作業員</li>
+    <li>place_job->輸送ドライバー</li>
+    <li>place_personalWeapon->ジャックナイフ</li>
+    <li>place_personalWeapon->サブマシンガン</li>
+    <li>place_massWeapon->即席の化学爆弾</li>
+    <li>place_massWeapon->惑星軌道上レーザー照準器</li>
+    <li>place_foeLeader->牢獄の刑務所長</li>
+    <li>place_foeSoldiers->腐敗した警備員</li>
+  </Yttak.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Zoutera</li>
@@ -430,6 +783,27 @@
     <li>megaFauna->blue mammoths</li>
     <li>megaFauna->novoraptors</li>
   -->
-  <Zoutera.placeRules.rulesStrings>TODO</Zoutera.placeRules.rulesStrings>
+  <Zoutera.placeRules.rulesStrings>
+    <li>place_name->ゾウテラ</li>
+    <li>place_adjective->ゾウテラの</li>
+    <li>place_summary->草のダイノワールド</li>
+    <li>place_community->辺境の植民地の交易所</li>
+    <li>place_community->テント村</li>
+    <li>place_community->マンモスを埋葬した土地</li>
+    <li>place_powerCenter->丘の頂上の砦</li>
+    <li>place_job->ダイノライダー</li>
+    <li>place_job->マッファロー飼い</li>
+    <li>place_job->ハンター</li>
+    <li>place_job->硬いレザー職人</li>
+    <li>place_personalWeapon->竹こん棒</li>
+    <li>place_personalWeapon->ハンティングボムアロー</li>
+    <li>place_massWeapon->[megaFauna]の群れの暴走</li>
+    <li>place_massWeapon->化学肥料爆弾</li>
+    <li>place_foeLeader->牙の王</li>
+    <li>place_foeSoldiers->牙の戦士</li>
+    <li>megaFauna->アンキロサウルス</li>
+    <li>megaFauna->ブルーマンモス</li>
+    <li>megaFauna->ノボラプトス</li>
+  </Zoutera.placeRules.rulesStrings>
   
 </LanguageData>
