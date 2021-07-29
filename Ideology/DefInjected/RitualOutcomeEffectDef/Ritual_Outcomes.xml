@@ -411,7 +411,7 @@
   <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>ランダムな参加者が奮い立つ可能性は10%です.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <Execution.description>観衆となる奴隷は100％抑制されます.儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</Execution.description>
+  <Execution.description>観衆となる奴隷は100％抑圧されます.儀式の質に応じて,参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</Execution.description>
   <!-- EN: participant count -->
   <Execution.comps.0.label>参加者数</Execution.comps.0.label>
   <!-- EN: started at altar or ideogram -->

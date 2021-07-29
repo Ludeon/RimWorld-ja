@@ -86,7 +86,7 @@
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>十分な染料がありません.</NotEnoughDye>
   <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
-  <ApparelLockedCannotRecolor>TODO</ApparelLockedCannotRecolor>
+  <ApparelLockedCannotRecolor>{PAWN_nameDef}は{APPAREL_labelShort}の色の変更を望んでいません.</ApparelLockedCannotRecolor>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
   <NotEnoughDyeWillRecolorApparel>入植者は染料が利用可能になると,衣服の色を変えます.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
@@ -98,19 +98,19 @@
   <!-- EN: Everyone -->
   <Everyone>全員</Everyone>
   <!-- EN: Narrative -->
-  <Narrative>TODO</Narrative>
+  <Narrative>物語</Narrative>
   <!-- EN: narrative -->
-  <NarrativeLower>TODO</NarrativeLower>
+  <NarrativeLower>物語</NarrativeLower>
   <!-- EN: Precept name -->
-  <PreceptName>TODO</PreceptName>
+  <PreceptName>名前を保護</PreceptName>
   <!-- EN: precept name -->
-  <PreceptNameLower>TODO</PreceptNameLower>
+  <PreceptNameLower>名前を保護</PreceptNameLower>
   <!-- EN: Changing -->
-  <Changing>TODO</Changing>
+  <Changing>変更する</Changing>
   <!-- EN: structures -->
-  <StructuresLower>TODO</StructuresLower>
+  <StructuresLower>建築物</StructuresLower>
   <!-- EN: memes -->
-  <MemesLower>TODO</MemesLower>
+  <MemesLower>ミーム</MemesLower>
   
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
@@ -150,7 +150,7 @@
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>すでに{PAWN_nameDef}に接続されている</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
-  <RitualTargetConnectionTornGauranlenTree>TODO</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}は最近接続が切断されました.{1}で再接続できます.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>参加者ごとに{0}本の木材が必要です(合計{2}).現在{1}本の木材を持っています.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
@@ -169,13 +169,13 @@
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
   <RitualOutcomeExtraDesc_BlindingPsylink>満足のいく盲目の儀式のおかげで,{PAWN_labelShort}はサイリンクレベルを獲得しました!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
-  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>TODO</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>サイリンクレベルがあがったことにより,{PAWN_pronoun}は{0}の超能力を獲得しました.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
-  <RitualOutcomeExtraDesc_ConsumableInspiration>TODO</RitualOutcomeExtraDesc_ConsumableInspiration>
+  <RitualOutcomeExtraDesc_ConsumableInspiration>満足のいく{RITUAL}のおかげで,{PAWN_labelShort}は{INSPIRATION}を獲得しました!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <!-- EN: Your skylanterns have attracted some friendly travelers. They will visit and leave a gift. -->
-  <RitualOutcomeExtraDesc_SkylanternWanderers>TODO</RitualOutcomeExtraDesc_SkylanternWanderers>
+  <RitualOutcomeExtraDesc_SkylanternWanderers>スカイランタンは何人かの友好的な旅行者を魅了しました.彼らはこの場所に訪問し,贈り物を残します.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
-  <RitualOutcomeExtraDesc_Execution>TODO</RitualOutcomeExtraDesc_Execution>
+  <RitualOutcomeExtraDesc_Execution>参加した全ての奴隷が死の光景に震えました.奴隷たちの抑圧力は最大レベルまで引き上げられました.</RitualOutcomeExtraDesc_Execution>
 
   <!-- EN: Additional reward -->
   <RitualAttachedReward>追加の報酬</RitualAttachedReward>
@@ -206,7 +206,7 @@
   <!-- EN: No valid spot -->
   <RitualAttachedOutcomeCantApply_NoValidSpot>有効なスポットがない</RitualAttachedOutcomeCantApply_NoValidSpot>
   <!-- EN: Extreme biome -->
-  <RitualAttachedOutcomeCantApply_ExtremeBiome>TODO</RitualAttachedOutcomeCantApply_ExtremeBiome>
+  <RitualAttachedOutcomeCantApply_ExtremeBiome>過激なバイオーム</RitualAttachedOutcomeCantApply_ExtremeBiome>
   <!-- EN: There is already a known ancient complex to explore. -->
   <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>探索すべき古代遺跡が既にあります.</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
   <!-- EN: Not available right now. -->
@@ -244,18 +244,18 @@
   <!-- EN: Slave -->
   <Slave>奴隷</Slave>
   <!-- EN: If you sell someone to any faction besides their own, they become slaves. -->
-  <SellingAsSlave>TODO</SellingAsSlave>
+  <SellingAsSlave>誰かを本人の所属する派閥以外の派閥に売る場合,奴隷になります.</SellingAsSlave>
   <!-- EN: If you sell someone to their own faction, they are ransomed and not enslaved. -->
-  <SellingAsRansom>TODO</SellingAsRansom>
+  <SellingAsRansom>誰かを本人の所属する派閥に売る場合,派閥は身代金を払い,彼らは奴隷にされません.</SellingAsRansom>
 
   <!-- EN: We are {0} -->
-  <MemeGoodwillImpact_Player>TODO</MemeGoodwillImpact_Player>
+  <MemeGoodwillImpact_Player>私たちは{0}だ</MemeGoodwillImpact_Player>
   <!-- EN: They are {0} -->
-  <MemeGoodwillImpact_Other>TODO</MemeGoodwillImpact_Other>
+  <MemeGoodwillImpact_Other>彼らは{0}だ</MemeGoodwillImpact_Other>
 
   <!-- TextMotes -->
   <!-- EN: Slave suppression: {0} -->
-  <TextMote_SuppressionIncreased>TODO</TextMote_SuppressionIncreased>
+  <TextMote_SuppressionIncreased>奴隷の抑圧: {0}</TextMote_SuppressionIncreased>
 
   <!-- Role requirements -->
   <!-- EN: Requirements -->
@@ -280,22 +280,22 @@
   <!-- EN: Raised by {0} levels. -->
   <RoleExpectationOffset>レベル{0}で発生します.</RoleExpectationOffset>
   <!-- EN: The {0} has higher expectations. -->
-  <RoleRaisedExpectation>TODO</RoleRaisedExpectation>
+  <RoleRaisedExpectation>{0}はより高い期待を持っています.</RoleRaisedExpectation>
   <!-- EN: Led by {0} -->
   <IdeoLeaderDifferentIdeoThoughtLabel>{0}がリーダー</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
-  <AbilityDisabled_IncapableOfWorkTag>TODO</AbilityDisabled_IncapableOfWorkTag>
+  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef}は{1}の仕事を行いません.</AbilityDisabled_IncapableOfWorkTag>
   <!-- EN: No reachable altar or ritual spot. -->
-  <AbilityDisabledNoAltarOrRitualsSpot>TODO</AbilityDisabledNoAltarOrRitualsSpot>
+  <AbilityDisabledNoAltarOrRitualsSpot>到達可能な祭壇か儀式の場がありません.</AbilityDisabledNoAltarOrRitualsSpot>
 
   <!-- EN: Will\n{0} to {1} -->
-  <TextMote_WillReduced>TODO</TextMote_WillReduced>
+  <TextMote_WillReduced>意志\n{0}~{1}</TextMote_WillReduced>
 
   <!-- EN: Accepting this join offer is an act of charity. If you refuse, the following people will be unhappy due to their pro-charity beliefs:\n{0}\n\nAre you sure you want to reject this join offer? -->
-  <ConfirmationCharityJoiner>TODO</ConfirmationCharityJoiner>
+  <ConfirmationCharityJoiner>この参加の申し出を受け入れることは慈善行為です.拒否した場合,以下の人物は慈善の信念により不幸になります:\n{0}\n\n本当にこの参加の申し出を断りますか?</ConfirmationCharityJoiner>
 
   <!-- EN: Believers in {0} ({1}) -->
-  <BelieversIn>TODO</BelieversIn>
+  <BelieversIn>{0}の信者({1})</BelieversIn>
   <!-- EN: add {0} -->
   <AddPrecept>{0}を追加</AddPrecept>
   <!-- EN: precept -->
@@ -332,10 +332,11 @@
   <!-- EN: Relic info found -->
   <RelicInfoFound>レリックの情報が見つかった</RelicInfoFound>
   <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
-  <InactiveRoleRequiresMoreBelievers>TODO</InactiveRoleRequiresMoreBelievers>
+  <!--TODO--><!--{0} {1}sが何なのかゲーム内で確認してから再翻訳お願いします.-->
+  <InactiveRoleRequiresMoreBelievers>非アクティブで,少なくとも{0} {1}が必要です({2}あります)</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->
-  <Certainty>TODO</Certainty>
+  <Certainty>確実なもの</Certainty>
 
   <!-- Slave interaction -->
   <!-- EN: The slave will leave the map on foot and return to their home faction, {0}. -->
@@ -401,37 +402,37 @@
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
   <TreeBlockedByNearbyBuildingsDesc>人工物の近くに{PLANT_definite}を植えると,接続強度が時間の経過と共に低下します.接続強度によって{PLANT_definite}が一度にサポートできるドライアドの最大数が決まります.\n\n本当にこの場所に植えますか?</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
-  <GauranlenModeChangeDescFull>TODO</GauranlenModeChangeDescFull>
+  <GauranlenModeChangeDescFull>{TREE_definite}のドライアド階級の変更には時間とエネルギーがかかります.\n\n接続された人物が木と対話した後,全てのドライアドは,選択された階級に変化するまでの間,繭の中で{DURATION}日間過ごします.\n\n既存の繭は変化をキャンセルして,現在の階級に変化するようにできます.</GauranlenModeChangeDescFull>
   <!-- EN: Change the type of dryads created by {TREE_definite}. -->
-  <ChangeModeDesc>TODO</ChangeModeDesc>
+  <ChangeModeDesc>{TREE_definite}によって生成されたドライアドのタイプを変更します.</ChangeModeDesc>
   <!-- EN: Connection strength fall -->
-  <ConnectionStrengthFall>TODO</ConnectionStrengthFall>
+  <ConnectionStrengthFall>接続強度低下</ConnectionStrengthFall>
   <!-- EN: Connection strength -->
-  <ConnectionStrength>TODO</ConnectionStrength>
+  <ConnectionStrength>接続強度</ConnectionStrength>
   <!-- EN: {0} strength -->
-  <ConnectionStrengthDisplay>TODO</ConnectionStrengthDisplay>
+  <ConnectionStrengthDisplay>強度{0}</ConnectionStrengthDisplay>
   <!-- EN: Determines how many dryads this tree can support. -->
-  <ConnectionStrengthDesc>TODO</ConnectionStrengthDesc>
+  <ConnectionStrengthDesc>このツリーが養えるドライアドの数を決めます.</ConnectionStrengthDesc>
   <!-- EN: Max dryads -->
-  <MaximumDryads>TODO</MaximumDryads>
+  <MaximumDryads>最大ドライアド数</MaximumDryads>
   <!-- EN: The maximum number of dryads this tree can support. -->
-  <MaximumDryadsDesc>TODO</MaximumDryadsDesc>
+  <MaximumDryadsDesc>このツリーが養えるドライアドの最大数です.</MaximumDryadsDesc>
   <!-- EN: Max dryads based on connection strength -->
-  <MaxDryadsBasedOnConnectionStrength>TODO</MaxDryadsBasedOnConnectionStrength>
+  <MaxDryadsBasedOnConnectionStrength>接続強度に基づく最大ドライアド数</MaxDryadsBasedOnConnectionStrength>
   <!-- EN: Pruning connection strength gain -->
-  <PruningConnectionStrength>TODO</PruningConnectionStrength>
+  <PruningConnectionStrength>剪定接続強度の増加</PruningConnectionStrength>
   <!-- EN: Hours per day to maintain -->
-  <PruningHoursToMaintain>TODO</PruningHoursToMaintain>
+  <PruningHoursToMaintain>一日あたりの維持する時間</PruningHoursToMaintain>
   <!-- EN: Desired -->
-  <DesiredConnectionStrength>TODO</DesiredConnectionStrength>
+  <DesiredConnectionStrength>欲求</DesiredConnectionStrength>
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
-  <DesiredConnectionStrengthDesc>TODO</DesiredConnectionStrengthDesc>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}は,接続強度をこのレベル以上に保つのに十分な頻度で{TREE_definite}を剪定します.\n\nより高い接続強度はより多くのドライアドを養えますが,接続強度の低下速度が速くなるため,維持するためにより頻繁な剪定が必要になります.\n\nバーをクリックして,目的のターゲット接続強度を調整できます.\n\n一日あたりの接続強度の低下量: {FALL}\n\n接続強度は近くの建築物の影響を受けます.</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
-  <WaitingForConnectorToChangeCaste>TODO</WaitingForConnectorToChangeCaste>
+  <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}がドライアド階級を変更するのを待っています.</WaitingForConnectorToChangeCaste>
   <!-- EN: Dryad caste -->
-  <GauranlenTreeMode>TODO</GauranlenTreeMode>
+  <GauranlenTreeMode>ドライアド階級</GauranlenTreeMode>
   <!-- EN: no caste -->
-  <NoCaste>TODO</NoCaste>
+  <NoCaste>階級なし</NoCaste>
   <!-- EN: Determines the currently created dryad caste. -->
   <GauranlenTreeModeDesc>TODO</GauranlenTreeModeDesc>
   <!-- EN: Spawning {DRYAD_label} in {TIME} -->
