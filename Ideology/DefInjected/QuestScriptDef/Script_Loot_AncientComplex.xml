@@ -4,7 +4,10 @@
   <!-- EN:
     <li>questDescription->You've learned of an ancient complex nearby that is said to contain ancient treasure.\n\nYou can break in to collect the loot inside.\n\nBe warned - these kinds of structures can contain a variety of threats. In addition, your activity at the complex might draw unwanted attention.</li>
   -->
-  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+    <li>questDescription->いにしえの宝物が収められているという古代の構造体が近郊に存在するのを知りました.\n\n侵入して宝物を集めることができます.\n\n注意 - こうした施設には多数の脅威が潜んでいる可能性があります. 加えて構造体の捜索をすると要らざる注目を集めるかもしれません.</li>
+  
+  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
     <li>questName->[complex] [finalWord]</li>
@@ -30,6 +33,31 @@
     <li>finalWord->caper</li>
     <li>finalWord->booty</li>
   -->
-  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>TODO</OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+    <li>questName(p=3)->[complexAdj] [complex] の [finalWord]</li>
+    <li>questName->[complex] [finalWord]</li>
+    <li>complexAdj->秘密の</li>
+    <li>complexAdj->神秘的な</li>
+    <li>complexAdj->古代の</li>
+    <li>complexAdj->古き</li>
+    <li>complexAdj->隠された</li>
+    <li>complexAdj->致命的な</li>
+    <li>complex->構造体</li>
+    <li>complex->軍事施設</li>
+    <li>complex->建設</li>
+    <li>finalWord->宝物</li>
+    <li>finalWord->富</li>
+    <li>finalWord->宝物庫</li>
+    <li>finalWord->貴重品</li>
+    <li>finalWord->略奪品</li>
+    <li>finalWord->強奪</li>
+    <li>finalWord->略奪</li>
+    <li>finalWord->襲撃</li>
+    <li>finalWord->盗掘</li>
+    <li>finalWord->強盗</li>
+    <li>finalWord->窃盗</li>
+    <li>finalWord->戦利品</li>
+  
+  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
   
 </LanguageData>
