@@ -125,9 +125,9 @@
   <LeaderSpeech.roles.0.label>話者</LeaderSpeech.roles.0.label>
   
   <!-- EN: cutter -->
-  <SacrificeAnimal.roles.0.label>屠殺者</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.0.label>執行人</SacrificeAnimal.roles.0.label>
   <!-- EN: sacrifice -->
-  <SacrificeAnimal.roles.1.label>屠殺</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.1.label>生贄</SacrificeAnimal.roles.1.label>
   <!-- EN: an animal with body size of at least 0.8 -->
   <SacrificeAnimal.roles.1.missingDesc>体格が0.8以上の家畜</SacrificeAnimal.roles.1.missingDesc>
   <!-- EN: participate -->
@@ -138,9 +138,9 @@
   <SacrificeAnimal.stages.0.failTriggers.0.desc>家畜に到達できません.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   
   <!-- EN: cutter -->
-  <SacrificePrisoner.roles.0.label>処刑人</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.0.label>執行人</SacrificePrisoner.roles.0.label>
   <!-- EN: sacrifice -->
-  <SacrificePrisoner.roles.1.label>処刑</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.1.label>生贄</SacrificePrisoner.roles.1.label>
   <!-- EN: a prisoner -->
   <SacrificePrisoner.roles.1.missingDesc>囚人</SacrificePrisoner.roles.1.missingDesc>
   <!-- EN: participate -->

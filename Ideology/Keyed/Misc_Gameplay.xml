@@ -92,7 +92,7 @@
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
   <NotEnoughDyeWillRecolorHair>入植者は染料が利用可能になると,衣服の色を変えます.</NotEnoughDyeWillRecolorHair>
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
-  <IdeoCertaintyTooltip>{IDEO}における{PAWN_labelShort}の確信度は,{PERCENTAGE}にある</IdeoCertaintyTooltip>
+  <IdeoCertaintyTooltip>{IDEO}における{PAWN_labelShort}の信仰度は,{PERCENTAGE}にある</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
   <DisabledByPrecept>戒律'{0}'によって無効</DisabledByPrecept>
   <!-- EN: Everyone -->
@@ -336,7 +336,7 @@
   <InactiveRoleRequiresMoreBelievers>非アクティブで,少なくとも{0} {1}が必要です({2}あります)</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->
-  <Certainty>確実なもの</Certainty>
+  <Certainty>信仰度</Certainty>
 
   <!-- Slave interaction -->
   <!-- EN: The slave will leave the map on foot and return to their home faction, {0}. -->
@@ -438,13 +438,13 @@
   <!-- EN: Spawning {DRYAD_label} in {TIME} -->
   <SpawningDryadIn>TODO</SpawningDryadIn>
   <!-- EN: Morphing {DRYAD_labelShort} into {TYPE_label}. -->
-  <ChangingDryadIntoType>TODO</ChangingDryadIntoType>
+  <ChangingDryadIntoType>{DRYAD_labelShort}を{TYPE_label}に異形態化中.</ChangingDryadIntoType>
   <!-- EN: {0} hours every day -->
   <HoursEveryDay>TODO</HoursEveryDay>
   <!-- EN: {0} hours every other day -->
   <HoursEveryOtherDay>TODO</HoursEveryOtherDay>
   <!-- EN: {DRYAD_labelPlural} produce {RESOURCES} every {DURATION}. -->
-  <DryadProducesResourcesDesc>TODO</DryadProducesResourcesDesc>
+  <DryadProducesResourcesDesc>{DRYAD_labelPlural}は{DURATION}毎に{RESOURCES}を生成します.</DryadProducesResourcesDesc>
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->
   <DryadCannotChangeMaster>TODO</DryadCannotChangeMaster>
   <!-- EN: Connection strength too low to create Gauranlen pod. -->
@@ -452,7 +452,7 @@
   <!-- EN: Unconnected -->
   <Unconnected>TODO</Unconnected>
   <!-- EN: Dryads -->
-  <DryadPlural>TODO</DryadPlural>
+  <DryadPlural>ドライアド</DryadPlural>
   <!-- EN: Connection strength affected by -->
   <ConnectionStrengthAffectedBy>TODO</ConnectionStrengthAffectedBy>
   <!-- EN: Currently affected by -->

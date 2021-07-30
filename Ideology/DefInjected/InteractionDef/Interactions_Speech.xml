@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: blinding speech -->
-  <Speech_Blinding.label>TODO</Speech_Blinding.label>
+  <Speech_Blinding.label>目隠しのスピーチ</Speech_Blinding.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->blindness</li>
@@ -19,10 +19,25 @@
     <li>speechtopic->the true layers of reality under the visual</li>
     <li>speechtopic->psychic connections</li>
   -->
-  <Speech_Blinding.logRulesInitiator.rulesStrings>TODO</Speech_Blinding.logRulesInitiator.rulesStrings>
+  <Speech_Blinding.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>speechtopic->失明</li>
+    <li>speechtopic->失明の純潔さ</li>
+    <li>speechtopic->盲人の精神的な意味</li>
+    <li>speechtopic->目には見えない隠された世界</li>
+    <li>speechtopic->視覚的現実の虚偽</li>
+    <li>speechtopic->目隠しの技術</li>
+    <li>speechtopic->視力の呪い</li>
+    <li>speechtopic->眼球の中のゼリー</li>
+    <li>speechtopic->視力の成長</li>
+    <li>speechtopic->盲目の成長</li>
+    <li>speechtopic->見たり動かしたりせずに探索すること</li>
+    <li>speechtopic->視覚の下にある現実の真実の層</li>
+    <li>speechtopic->精神的なつながり</li>
+  </Speech_Blinding.logRulesInitiator.rulesStrings>
   
   <!-- EN: conversion speech -->
-  <Speech_Conversion.label>TODO</Speech_Conversion.label>
+  <Speech_Conversion.label>改宗のスピーチ</Speech_Conversion.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->uniting for the greater good</li>
@@ -42,7 +57,7 @@
     <li>speechtopic->progress towards the future</li>
   -->
   <Speech_Conversion.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
     <li>speechtopic->大義のための団結</li>
     <li>speechtopic->背教がいかに間違っているか</li>
     <li>speechtopic->正しい信念を選ぶこと</li>
@@ -61,7 +76,7 @@
   </Speech_Conversion.logRulesInitiator.rulesStrings>
   
   <!-- EN: celebration speech -->
-  <Speech_DateRitual.label>TODO</Speech_DateRitual.label>
+  <Speech_DateRitual.label>お祝いのスピーチ</Speech_DateRitual.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</li>
     <li>praisetopic->the joy of ideological celebrations</li>
@@ -73,10 +88,20 @@
     <li>praisetopic->sharing ideas</li>
     <li>praisetopic->[INITIATOR_possessive] own group</li>
   -->
-  <Speech_DateRitual.logRulesInitiator.rulesStrings>TODO</Speech_DateRitual.logRulesInitiator.rulesStrings>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[praisetopic]について[praised].</li>
+    <li>praisetopic->思想的祭典の喜び</li>
+    <li>praisetopic->正しい考え方</li>
+    <li>praisetopic->宇宙の道徳的構造</li>
+    <li>praisetopic->[INITIATOR_possessive]信条</li>
+    <li>praisetopic->一体感</li>
+    <li>praisetopic->共に過ごすこと</li>
+    <li>praisetopic->アイデアを共有する</li>
+    <li>praisetopic->自身のグループ</li>
+  </Speech_DateRitual.logRulesInitiator.rulesStrings>
   
   <!-- EN: duel speech -->
-  <Speech_Duel.label>TODO</Speech_Duel.label>
+  <Speech_Duel.label>決闘のスピーチ</Speech_Duel.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</li>
     <li>praisetopic->death by blade</li>
@@ -95,10 +120,27 @@
     <li>praisetopic->anger and hope</li>
     <li>praisetopic->rage and strength</li>
   -->
-  <Speech_Duel.logRulesInitiator.rulesStrings>TODO</Speech_Duel.logRulesInitiator.rulesStrings>
+  <Speech_Duel.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[praisetopic]について[praised].</li>
+    <li>praisetopic->刃による死</li>
+    <li>praisetopic->痛みを伴う死</li>
+    <li>praisetopic->名誉ある死</li>
+    <li>praisetopic->名誉ある戦い</li>
+    <li>praisetopic->勇気と闘争</li>
+    <li>praisetopic->[AdjectiveBadass]武器と戦士</li>
+    <li>praisetopic->直接的な対立の純粋さ</li>
+    <li>praisetopic->死を通しての愛</li>
+    <li>praisetopic->健康への憎しみを吐き出すこと</li>
+    <li>praisetopic->他人に対する強さ</li>
+    <li>praisetopic->宇宙に内在する紛争</li>
+    <li>praisetopic->血と砂煙</li>
+    <li>praisetopic->命とドラマ</li>
+    <li>praisetopic->怒りと希望</li>
+    <li>praisetopic->激怒と力</li>
+  </Speech_Duel.logRulesInitiator.rulesStrings>
   
   <!-- EN: exceution speech -->
-  <Speech_Execution.label>TODO</Speech_Execution.label>
+  <Speech_Execution.label>処刑のスピーチ</Speech_Execution.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->life and death</li>
@@ -111,10 +153,21 @@
     <li>speechtopic->capital punishment and its history</li>
     <li>speechtopic->the reasons for the execution</li>
   -->
-  <Speech_Execution.logRulesInitiator.rulesStrings>TODO</Speech_Execution.logRulesInitiator.rulesStrings>
+  <Speech_Execution.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>speechtopic->生と死</li>
+    <li>speechtopic->正義の必要性</li>
+    <li>speechtopic->処刑方法</li>
+    <li>speechtopic->死と冷酷さ</li>
+    <li>speechtopic->慈悲深い殺人</li>
+    <li>speechtopic->正しい殺人の慈悲</li>
+    <li>speechtopic->死の象徴</li>
+    <li>speechtopic->死刑とその歴史</li>
+    <li>speechtopic->処刑の理由</li>
+  </Speech_Execution.logRulesInitiator.rulesStrings>
   
   <!-- EN: funeral speech -->
-  <Speech_Funeral.label>TODO</Speech_Funeral.label>
+  <Speech_Funeral.label>葬式のスピーチ</Speech_Funeral.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->the nobility of sacrifice</li>
@@ -130,7 +183,21 @@
     <li>speechtopic->life and joy</li>
     <li>speechtopic->carrying forward unfinished work</li>
   -->
-  <Speech_Funeral.logRulesInitiator.rulesStrings>TODO</Speech_Funeral.logRulesInitiator.rulesStrings>
+  <Speech_Funeral.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>speechtopic->犠牲の高潔さ</li>
+    <li>speechtopic->死</li>
+    <li>speechtopic->死後の世界</li>
+    <li>speechtopic->死と家族</li>
+    <li>speechtopic->良い人生の概念</li>
+    <li>speechtopic->尊厳への道としての死</li>
+    <li>speechtopic->始まりと終わり</li>
+    <li>speechtopic->死後に起きること</li>
+    <li>speechtopic->次のステップを祝うこと</li>
+    <li>speechtopic->不在の友人</li>
+    <li>speechtopic->命と喜び</li>
+    <li>speechtopic->未完成の仕事を引き継ぐこと</li>
+  </Speech_Funeral.logRulesInitiator.rulesStrings>
   
   <!-- EN: leader speech -->
   <Speech_Leader.label>リーダースピーチ</Speech_Leader.label>
@@ -208,7 +275,7 @@
   </Speech_Leader.logRulesInitiator.rulesStrings>
   
   <!-- EN: sacrifice speech -->
-  <Speech_Sacrifice.label>TODO</Speech_Sacrifice.label>
+  <Speech_Sacrifice.label>生贄のスピーチ</Speech_Sacrifice.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
@@ -232,10 +299,32 @@
     <li>crazy->brandished a blade</li>
     <li>crazy->muttered repetitively</li>
   -->
-  <Speech_Sacrifice.logRulesInitiator.rulesStrings>TODO</Speech_Sacrifice.logRulesInitiator.rulesStrings>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef]は[crazy].</li>
+    <li>speechtopic->死の意味と真の価値</li>
+    <li>speechtopic->痛みの表現</li>
+    <li>speechtopic->制御された残忍性</li>
+    <li>speechtopic->血の暖かさ</li>
+    <li>speechtopic->死の意味</li>
+    <li>speechtopic->愛と死</li>
+    <li>speechtopic->苦痛の象徴</li>
+    <li>speechtopic->刃と肉</li>
+    <li>speechtopic->切断の芸術</li>
+    <li>speechtopic->血の誘惑</li>
+    <li>speechtopic->悲鳴の音楽</li>
+    <li>speechtopic->床に散らばる臓物</li>
+    <li>crazy->熱狂的に叫んだ</li>
+    <li>crazy->聖歌に割り込んだ</li>
+    <li>crazy->天に向かって唱えた</li>
+    <li>crazy->生贄の目に唾を吐いた</li>
+    <li>crazy->抱きしめた</li>
+    <li>crazy->刃を振り回した</li>
+    <li>crazy->繰り返しつぶやいた</li>
+  </Speech_Sacrifice.logRulesInitiator.rulesStrings>
   
   <!-- EN: scarification speech -->
-  <Speech_Scarification.label>TODO</Speech_Scarification.label>
+  <Speech_Scarification.label>スカリフィケーションのスピーチ</Speech_Scarification.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
@@ -257,10 +346,30 @@
     <li>crazy->brandished a blade</li>
     <li>crazy->muttered repetitively</li>
   -->
-  <Speech_Scarification.logRulesInitiator.rulesStrings>TODO</Speech_Scarification.logRulesInitiator.rulesStrings>
+  <Speech_Scarification.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef]は[crazy].</li>
+    <li>speechtopic->体の痛みを記録すること</li>
+    <li>speechtopic->痛みの表現</li>
+    <li>speechtopic->制御された残忍性</li>
+    <li>speechtopic->血の暖かさ</li>
+    <li>speechtopic->傷跡の意味</li>
+    <li>speechtopic->愛と痛み</li>
+    <li>speechtopic->痛みの象徴</li>
+    <li>speechtopic->刃と肉</li>
+    <li>speechtopic->切り傷の芸術</li>
+    <li>speechtopic->血の誘惑</li>
+    <li>speechtopic->悲鳴の音楽</li>
+    <li>crazy->熱狂的に叫んだ</li>
+    <li>crazy->聖歌に割り込んだ</li>
+    <li>crazy->天に向かって唱えた</li>
+    <li>crazy->抱きしめた</li>
+    <li>crazy->刃を振り回した</li>
+    <li>crazy->繰り返しつぶやいた</li>
+  </Speech_Scarification.logRulesInitiator.rulesStrings>
   
   <!-- EN: tree connection speech -->
-  <Speech_TreeConnection.label>TODO</Speech_TreeConnection.label>
+  <Speech_TreeConnection.label>木との接続のスピーチ</Speech_TreeConnection.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->the trees and the people</li>
@@ -276,6 +385,20 @@
     <li>speechtopic->plant life and eternity</li>
     <li>speechtopic->connecting with nature</li>
   -->
-  <Speech_TreeConnection.logRulesInitiator.rulesStrings>TODO</Speech_TreeConnection.logRulesInitiator.rulesStrings>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>speechtopic->木々と人々</li>
+    <li>speechtopic->木と超能力</li>
+    <li>speechtopic->ドライアド</li>
+    <li>speechtopic->ガウランレンのライフサイクル</li>
+    <li>speechtopic->ガウランレンツリーの精神的な存在</li>
+    <li>speechtopic->精神的な樹木の感情</li>
+    <li>speechtopic->ドライアドがどれほどかわいいか</li>
+    <li>speechtopic->ドライアドの貴族</li>
+    <li>speechtopic->木の年齢</li>
+    <li>speechtopic->木の下での人類の役割</li>
+    <li>speechtopic->植物の生命と永遠</li>
+    <li>speechtopic->自然と繋がること</li>
+  </Speech_TreeConnection.logRulesInitiator.rulesStrings>
   
 </LanguageData>

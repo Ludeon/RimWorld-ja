@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: failed conversion -->
-  <Convert_Failure.label>改宗失敗</Convert_Failure.label>
+  <Convert_Failure.label>改宗の失敗</Convert_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</li>
   -->
   <Convert_Failure.logRulesInitiator.rulesStrings>
-  <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の改宗を試みましたが,失敗しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]への改宗の試みに失敗した.</li>
   </Convert_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful conversion -->
-  <Convert_Success.label>改宗成功</Convert_Success.label>
+  <Convert_Success.label>改宗の成功</Convert_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</li>
   -->
   <Convert_Success.logRulesInitiator.rulesStrings>
-  <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の改宗を試みて成功しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]への改宗の試みに成功した.</li>
   </Convert_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: convert ideoligion attempt -->
-  <ConvertIdeoAttempt.label>思想転向の試み</ConvertIdeoAttempt.label>
+  <ConvertIdeoAttempt.label>改宗の試み</ConvertIdeoAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
   -->
   <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を,自身の思想である[INITIATOR_possessive]に改宗させようと試みました.</li> 
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を[INITIATOR_possessive]独自の思想に改宗させようと試みた.</li>
   </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: failed counsel -->
-  <Counsel_Failure.label>助言失敗</Counsel_Failure.label>
+  <Counsel_Failure.label>弁護の失敗</Counsel_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
   -->
   <Counsel_Failure.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の弁護を試みましたが, 失敗して事態を悪化させました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に助言しようとしたが失敗し,事態を悪化させた.</li>
   </Counsel_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful counsel -->
-  <Counsel_Success.label>助言成功</Counsel_Success.label>
+  <Counsel_Success.label>弁護の成功</Counsel_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
     <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
@@ -49,13 +49,13 @@
     <li>problems->recent difficulties</li>
   -->
   <Counsel_Success.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の[problems]について助言した.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]が[problems]について検討するのを手伝いました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]のネガティブ思考を克服できるようアドバイスしました.</li>
-    <li>problems->[RECIPIENT_possessive]の問題</li>
-    <li>problems->[RECIPIENT_possessive]のトラブル</li>
-    <li>problems->[RECIPIENT_possessive]の苦悩</li>
-    <li>problems->最近の苦労</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[problems]について[RECIPIENT_nameDef]に助言した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]が[problems]について考えるのに役立った.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は否定的な意見を打ち負かすアドバイスを[RECIPIENT_nameDef]に与えた.</li>
+    <li>problems->問題</li>
+    <li>problems->問題点</li>
+    <li>problems->自身の痛い気持ち</li>
+    <li>problems->新しい異議</li>
   </Counsel_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: preached health -->
@@ -67,19 +67,19 @@
     <li>preaching_topic->[RECIPIENT_possessive] purpose of existence</li>
   -->
   <PreachHealth.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は [preaching_topic]について教えを授け, [RECIPIENT_nameDef]の健康を強化しました.</li>
-    <li>preaching_topic->生きる意味</li>
-    <li>preaching_topic->さらなる思想の高み</li>
-    <li>preaching_topic->[RECIPIENT_possessive]の存在理由</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[preaching_topic]について説教し,[RECIPIENT_nameDef]の健康状態を強化した.</li>
+    <li>preaching_topic->生きる理由</li>
+    <li>preaching_topic->より高い思想的目標</li>
+    <li>preaching_topic->本人の存在目的</li>
   </PreachHealth.logRulesInitiator.rulesStrings>
   
   <!-- EN: reassurance -->
-  <Reassure.label>安堵</Reassure.label>
+  <Reassure.label>安心</Reassure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
   -->
   <Reassure.logRulesInitiator.rulesStrings>
-  <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の信念を強化しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の信仰度を強化した.</li>
   </Reassure.logRulesInitiator.rulesStrings>
   
   <!-- EN: accuse -->
@@ -103,9 +103,9 @@
     <li>wrongdoing->disloyalty</li>
   -->
   <Trial_Accuse.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は,いくつかの証拠を提示しました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は,観客の感情に訴えかけました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の[wrongdoing]を告発しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,いくつかの証拠を提示した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,観客の感情に訴えかけた.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の[wrongdoing]を告発した.</li>
     <li>wrongdoing->コロニー妨害行為</li>
     <li>wrongdoing->怠け</li>
     <li>wrongdoing->食べ過ぎ</li>
@@ -122,7 +122,7 @@
   </Trial_Accuse.logRulesInitiator.rulesStrings>
   
   <!-- EN: defend -->
-  <Trial_Defend.label>弁護</Trial_Defend.label>
+  <Trial_Defend.label>守る</Trial_Defend.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] deflected the accusation.</li>
     <li>r_logentry->[INITIATOR_nameDef] presented another interpretation.</li>
@@ -133,13 +133,13 @@
     <li>r_logentry->[INITIATOR_nameDef] called the trial a sham.</li>
   -->
   <Trial_Defend.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は,告発をそらしました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は,別の解釈を提示しました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は,陪審員に訴えました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は,慈悲を求めました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は,審理を遅らせました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は,申し立てを却下しました.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は,この裁判は茶番だと叫びました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は告発をそらした.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は別の解釈を示した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は陪審員に訴えた.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は慈悲を求めた.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は手続きを停滞させた.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は申し立てを却下した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]はこの裁判がいんちきだと言った.</li>
   </Trial_Defend.logRulesInitiator.rulesStrings>
   
   <!-- EN: work drive -->
@@ -148,7 +148,7 @@
     <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</li>
   -->
   <WorkDrive.logRulesInitiator.rulesStrings>
-     <li>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]にコロニーの利益のためにさらに励むよう求めました.</li>
- </WorkDrive.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]にコロニーの利益のためにさらに一生懸命働くように求めた.</li>
+  </WorkDrive.logRulesInitiator.rulesStrings>
   
 </LanguageData>

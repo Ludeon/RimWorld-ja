@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Multiplier for enslaved (low motivation) -->
-  <StatsReport_Slave>TODO</StatsReport_Slave>
+  <StatsReport_Slave>奴隷化のための掛け率(モチベーションが低い)</StatsReport_Slave>
   <!-- EN: Terror offset -->
-  <StatsReport_Terror>TODO</StatsReport_Terror>
+  <StatsReport_Terror>テロの増減量</StatsReport_Terror>
   <!-- EN: Faction leader bonus -->
-  <StatsReport_LeaderOffset>TODO</StatsReport_LeaderOffset>
+  <StatsReport_LeaderOffset>派閥のリーダーボーナス</StatsReport_LeaderOffset>
   <!-- EN: Contains corpse -->
-  <StatsReport_OccupiedCorpseCasket>TODO</StatsReport_OccupiedCorpseCasket>
+  <StatsReport_OccupiedCorpseCasket>死体が含まれている</StatsReport_OccupiedCorpseCasket>
 
   <!-- EN: Conversion power bonus on map -->
   <StatsReport_InstalledRelicConvertPowerFactor>TODO</StatsReport_InstalledRelicConvertPowerFactor>
@@ -20,9 +20,9 @@
   <Stat_Thing_RelicOf_Desc>TODO</Stat_Thing_RelicOf_Desc>
 
   <!-- EN: Related to -->
-  <Stat_Thing_RelatedToIdeos_Name>TODO</Stat_Thing_RelatedToIdeos_Name>
+  <Stat_Thing_RelatedToIdeos_Name>関連</Stat_Thing_RelatedToIdeos_Name>
   <!-- EN: The ideoligions this thing belongs to. -->
-  <Stat_Thing_RelatedToIdeos_Desc>TODO</Stat_Thing_RelatedToIdeos_Desc>
+  <Stat_Thing_RelatedToIdeos_Desc>この人物が属する思想です.</Stat_Thing_RelatedToIdeos_Desc>
 
   <!-- EN: Holding relic -->
   <StatsReports_HasRelic>TODO</StatsReports_HasRelic>

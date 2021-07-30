@@ -11,11 +11,11 @@
   <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
   <SlavesUnsuppressedDesc>{0_nameDef}の抑圧レベルが危険水域まで低下しています.{0_pronoun}が反乱を起こす可能性が高いです.\n\n看守の仕事を担当する入植者がいることを確認してください.看守は奴隷の反乱を防ぐため,定期的に奴隷を抑圧します.</SlavesUnsuppressedDesc>
   <!-- EN: Slave unattended -->
-  <SlaveUnattendedLabel>TODO</SlaveUnattendedLabel>
+  <SlaveUnattendedLabel>監視者のいない奴隷</SlaveUnattendedLabel>
   <!-- EN: Slaves unattended -->
-  <SlaveUnattendedMultipleLabel>TODO</SlaveUnattendedMultipleLabel>
+  <SlaveUnattendedMultipleLabel>監視者のいない奴隷</SlaveUnattendedMultipleLabel>
   <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
-  <SlavesUnattendedDesc>TODO</SlavesUnattendedDesc>
+  <SlavesUnattendedDesc>何人かの奴隷はマップに一人でおり,周りに健常な入植者がいません.\n\n監視者のいないままにされた奴隷は,数日または数時間以内に反逆する可能性が非常に高いです.</SlavesUnattendedDesc>
 
   <!-- EN: {0} expected -->
   <RitualExpected>{0}の要求</RitualExpected>
@@ -24,33 +24,33 @@
   <!-- EN: {0} days: Ritual opportunity ends. -->
   <RitualExpirationTime>{0}日: 儀式期間の終了</RitualExpirationTime>
   <!-- EN: Expires in -->
-  <RitualExpiresIn>TODO</RitualExpiresIn>
+  <RitualExpiresIn>期限切れまで残り</RitualExpiresIn>
   <!-- EN: Completing {RITUAL_labelDef} will have these effects -->
   <RitualCompletionEffects>{RITUAL_labelDef}を完了させると,以下の効果があります</RitualCompletionEffects>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
-  <RitualTargetsExplanation>儀式を開始するには,フォーカスオブジェクトを選択し,「{RITUAL_label}を開始する」コマンドをクリックします.以下のフォーカスオブジェクトが有効です.:\n{1}</RitualTargetsExplanation>
+  <RitualTargetsExplanation>儀式を開始するには,フォーカスオブジェクトを選択し,「{RITUAL_label}を開始する」コマンドをクリックします.以下のフォーカスオブジェクトが有効です:\n{1}</RitualTargetsExplanation>
   <!-- EN: Following roles have a part in {RITUAL_label}:\n{1} -->
   <RitualRolesExplanation>以下の役割は{RITUAL_label}に含まれています:\n{1}</RitualRolesExplanation>
   <!-- EN: Click to jump to targets -->
-  <RitualJumpToTargets>TODO</RitualJumpToTargets>
+  <RitualJumpToTargets>クリックしてターゲットにジャンプする</RitualJumpToTargets>
   <!-- EN: Delaying {RITUAL_labelDef} will have following effects -->
-  <RitualObligationDelayEffects>{RITUAL_labelDef}が遅れると,以下の影響があります.</RitualObligationDelayEffects>
+  <RitualObligationDelayEffects>{RITUAL_labelDef}が遅れると,以下の影響があります</RitualObligationDelayEffects>
   <!-- EN: {0} days: {1} mood on all {2}s. -->
   <RitualObligationDelayEffectDesc>{0}日: 全ての{2}の心情が{1}</RitualObligationDelayEffectDesc>
   <!-- EN: In order to perform {0} you need to fill these roles -->
-  <RitualUnfilledRoles>TODO</RitualUnfilledRoles>
+  <RitualUnfilledRoles>{0}を実行するには以下の役割を満たす必要があります</RitualUnfilledRoles>
 
   <!-- EN: {0} desired -->
-  <IdeoBuildingMissing>TODO</IdeoBuildingMissing>
+  <IdeoBuildingMissing>{0}を願望</IdeoBuildingMissing>
   <!-- EN: {1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>TODO</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{1}では{2}以上である限り,コロニーに{0}が含まれている必要があります.{4}\n\n要件が満たされない場合,以下の信者は不幸になります:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
-  <IdeoBuildingRoomRequirementsDesc>TODO</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingRoomRequirementsDesc>{0}の威厳を保つには,以下の部屋の要件を満たす必要があります</IdeoBuildingRoomRequirementsDesc>
   <!-- EN: expectations are -->
-  <IdeoBuildingExpectations>TODO</IdeoBuildingExpectations>
+  <IdeoBuildingExpectations>期待</IdeoBuildingExpectations>
 
   <!-- EN: {0} disrespected -->
-  <IdeoBuildingDisrespected>TODO</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespected>{0}を軽蔑</IdeoBuildingDisrespected>
   <!-- EN: {0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3} -->
   <IdeoBuildingDisrespectedDesc>TODO</IdeoBuildingDisrespectedDesc>
   
@@ -106,13 +106,13 @@
   <AlertRoyalTitleNoVeneratedAnimalMeat>TODO</AlertRoyalTitleNoVeneratedAnimalMeat>
 
   <!-- EN: Dryad caste not set -->
-  <AlertGauranlenTreeWithoutDryadTypeLabel>TODO</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeLabel>ドライアド階級未割当</AlertGauranlenTreeWithoutDryadTypeLabel>
   <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
-  <AlertGauranlenTreeWithoutDryadTypeDesc>TODO</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>一本またはそれ以上のガウランレンツリーには,ドライアド階級が設定されていません.\n\nツリーを選択し,'{0}'ボタンをクリックして,作成されたドライアド階級を設定してください.</AlertGauranlenTreeWithoutDryadTypeDesc>
   <!-- EN: Connector not assigned to plant cutting -->
-  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>TODO</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>収穫者が未割当</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
   <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
-  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>TODO</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>剪定するように設定されているガウランレンツリーがありますが,この木の接続者に収穫の仕事が割り当てられていません.\n\n以下の人物に収穫の仕事を割り当てる必要があります</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
 
   <!-- EN: Fuel node explodes in {0} -->
   <AlertFuelNodeIgniting>TODO</AlertFuelNodeIgniting>
