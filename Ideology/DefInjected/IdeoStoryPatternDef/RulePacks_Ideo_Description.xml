@@ -246,7 +246,35 @@
     <li>revelationObject->a glowing [Vegetable]</li>
     <li>revelationObject->an ancient [Weapon]</li>
   -->
-  <TheistFounder.rules.rulesStrings>TODO</TheistFounder.rules.rulesStrings>
+  <TheistFounder.rules.rulesStrings>
+    <li>intro->[place_summary] [place_name]の人々は, [memeAdjective] の [deity0_name]の管理下に生きてきました.</li>
+    <li>intro->[place_summary] [place_name]の人々は, [memberNamePlural]とそれ以外の者たちも共に, [deity0_name]の眼差しの下で長い間平和に暮らしてきました.</li>
+    <li>intro->[deity0_type], [deity0_name]は, [place_name]の人々が[memeConcept]を理解できるように[deity0_objective]自身の姿を現し,彼らを導きました.</li>
+    <li>intro->[deity0_name]は, 人類を導き,[place_name]に定住できるよう手助けしました.</li>
+    <li>intro->[place_summary] [place_name]での, [ritualName]の間, [altarRoomLabel]に集った人々は,[deity0_name]の[altarName]で[memeConcept]を心に抱いて祈りを捧げました.</li>
+    <li>conflict->[foeLeader]が現れ,[place_massWeapon]を手に[deity0_name] [deity0_objective]を破壊すると脅迫しました .</li>
+    <li>conflict->邪悪な [foeLeader]と[foeLeader_possessive] [foeSoldiers]が[deity0_name]の信徒を奴隷にしました.</li>
+    <li>conflict->それから[foeLeader]がやって来た. [foeLeader_possessive] [foeSoldiers]は,[place_personalWeapon]で[deity0_name]の信徒を多数殺した.</li>
+    <li>conflict->恐ろしい[foeLeader]に率いられた[foeSoldiers]の集団が現れた. 彼らは[memberNamePlural]を一つの[place_community]に捕らえた.</li>
+    <li>conflict->[foeLeader]と[foeLeader_possessive] [foeSoldiers] が[deity0_name]の統治に反旗を翻すまでは平和な時代だった. [memberNamePlural]は逃亡し,[place_community]に潜むのを余儀なくされた.</li>
+    <li>founderJoin->[founderName]というなの英雄が[foeLeader]の暗殺を試みた. [founder_pronoun]は失敗したが,  [deity0_name] は [founderName]の戦いを目にし, [memberNamePlural]の預言者として[founder_objective]を聖別した.</li>
+    <li>founderJoin->[deity0_name]が,[place_job] [founderName] [revelationAdverb]にやって来て, [memeConcept]について[founder_objective]に語りました.</li>
+    <li>founderJoin->[founderName]は[revelationObject]に出会い, [memeConcept]について [deity0_name]の声で語りました.</li>
+    <li>founderJoin->[founderName]と言う名の有名な[place_job]は, [memberNamePlural]を引き連れ,さらに数名の[foeSoldiers]を勧誘しました.</li>
+    <li>founderJoin->[founderName]と言う名の[place_job]が立ち上がり, [foeLeader]に対して声を上げ,[deity0_name]は[founderName]を祝福しました.</li>
+    <li>founderJoin->[deity0_name]は, [memberNamePlural]を助けるため、人間[founderName]を名乗り[place_name]に赴くことを決意しました.</li>
+    <li>founderJoin->[founderName]と言う名の1人の英雄が, [place_personalWeapon]を用いて100人の[foeSoldiers]を殺し, [deity0_name]は[relic0_name]を介して言葉を伝え[founder_objective]に導きました.</li>
+    <li>victory->[founderName]は[memberNamePlural]を[place_community]に集め, [deity0_name]の知識を教えました.</li>
+    <li>victory->[founderName]は[founder_objective]自身を犠牲にして[foeLeader]を直接殺しました.</li>
+    <li>revelationAdverb->ヴィジョンの中</li>
+    <li>revelationAdverb->夢の中</li>
+    <li>revelationAdverb->悪夢の中</li>
+    <li>revelationAdverb->[Animal]のように</li>
+    <li>revelationAdverb->乞食のように</li>
+    <li>revelationObject->隠された[NaturalObject]</li>
+    <li>revelationObject->輝く[Vegetable]</li>
+    <li>revelationObject->古代の[Weapon]</li>
+  </TheistFounder.rules.rulesStrings>
   
   <!-- EN:
     <li>episode(priority=-1)-></li>
@@ -267,6 +295,24 @@
     <li>bodilyOrigin->stone</li>
     <li>bodilyOrigin->sweat</li>
   -->
-  <TheistMyth.rules.rulesStrings>TODO</TheistMyth.rules.rulesStrings>
+  <TheistMyth.rules.rulesStrings>
+    <li>episode(priority=-1)-></li>
+    <li>creation->悠久の時の彼方, [deity0_name]が惑星と星々を想像するまで,[Color] [materialOrigin]世界にはがあった.</li>
+    <li>creation->古き闘争の宇宙において, [deity0_name]は偉大なる炎で最後の時代を一掃し,新たな火を生み出した.</li>
+    <li>creation->[deity0_name]は,偉大な事故で人類を生み出し, 好奇心から人類を見つめた.</li>
+    <li>creation->宇宙は空虚だった. そうして, [deity0_name]は永遠に退屈し, [bodilyOrigin]の男女を作り上げた.</li>
+    <li>episode(uses=1)->人類を見出すと, [deity0_name] は自分の子供であると認め, [deity0_possessive]が彼らを支配していると宣言した.</li>
+    <li>episode(uses=1)->広大な星と星の間を渡る時, [deity0_name]は虚空から人類の生存を保護するだろう.</li>
+    <li>episode(uses=1)->多くの冒険者が [deity0_objective]に反対したが, [deity0_pronoun] は [deity0_type]だったので,[deity0_name]は容易に阻止できました.</li>
+    <li>episode(uses=1)->人類の苦しみは [deity0_name] をとても悲しませました.</li>
+    <li>materialOrigin->土塊</li>
+    <li>materialOrigin->ガス</li>
+    <li>materialOrigin->水</li>
+    <li>materialOrigin->宇宙</li>
+    <li>materialOrigin->塵</li>
+    <li>bodilyOrigin->土塊</li>
+    <li>bodilyOrigin->石</li>
+    <li>bodilyOrigin->汗</li>
+  </TheistMyth.rules.rulesStrings>
   
 </LanguageData>

@@ -2,35 +2,43 @@
 <LanguageData>
   
   <!-- EN: failed conversion -->
-  <Convert_Failure.label>TODO</Convert_Failure.label>
+  <Convert_Failure.label>改宗失敗</Convert_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</li>
   -->
-  <Convert_Failure.logRulesInitiator.rulesStrings>TODO</Convert_Failure.logRulesInitiator.rulesStrings>
+  <Convert_Failure.logRulesInitiator.rulesStrings>
+  <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の改宗を試みましたが,失敗しました.</li>
+  </Convert_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful conversion -->
-  <Convert_Success.label>TODO</Convert_Success.label>
+  <Convert_Success.label>改宗成功</Convert_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</li>
   -->
-  <Convert_Success.logRulesInitiator.rulesStrings>TODO</Convert_Success.logRulesInitiator.rulesStrings>
+  <Convert_Success.logRulesInitiator.rulesStrings>
+  <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の改宗を試みて成功しました.</li>
+  </Convert_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: convert ideoligion attempt -->
-  <ConvertIdeoAttempt.label>TODO</ConvertIdeoAttempt.label>
+  <ConvertIdeoAttempt.label>思想転向の試み</ConvertIdeoAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
   -->
-  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>TODO</ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を,自身の思想である[INITIATOR_possessive]に改宗させようと試みました.</li> 
+  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: failed counsel -->
-  <Counsel_Failure.label>TODO</Counsel_Failure.label>
+  <Counsel_Failure.label>助言失敗</Counsel_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
   -->
-  <Counsel_Failure.logRulesInitiator.rulesStrings>TODO</Counsel_Failure.logRulesInitiator.rulesStrings>
+  <Counsel_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の弁護を試みましたが, 失敗して事態を悪化させました.</li>
+  </Counsel_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful counsel -->
-  <Counsel_Success.label>TODO</Counsel_Success.label>
+  <Counsel_Success.label>助言成功</Counsel_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
     <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
@@ -40,24 +48,39 @@
     <li>problems->[RECIPIENT_possessive] painful feelings</li>
     <li>problems->recent difficulties</li>
   -->
-  <Counsel_Success.logRulesInitiator.rulesStrings>TODO</Counsel_Success.logRulesInitiator.rulesStrings>
+  <Counsel_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の[problems]について助言した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]が[problems]について検討するのを手伝いました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]のネガティブ思考を克服できるようアドバイスしました.</li>
+    <li>problems->[RECIPIENT_possessive]の問題</li>
+    <li>problems->[RECIPIENT_possessive]のトラブル</li>
+    <li>problems->[RECIPIENT_possessive]の苦悩</li>
+    <li>problems->最近の苦労</li>
+  </Counsel_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: preached health -->
-  <PreachHealth.label>TODO</PreachHealth.label>
+  <PreachHealth.label>健康の教え</PreachHealth.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] strengthened [RECIPIENT_nameDef]'s health by preaching about [preaching_topic].</li>
     <li>preaching_topic->reasons to live</li>
     <li>preaching_topic->higher ideoligious goals</li>
     <li>preaching_topic->[RECIPIENT_possessive] purpose of existence</li>
   -->
-  <PreachHealth.logRulesInitiator.rulesStrings>TODO</PreachHealth.logRulesInitiator.rulesStrings>
+  <PreachHealth.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は [preaching_topic]について教えを授け, [RECIPIENT_nameDef]の健康を強化しました.</li>
+    <li>preaching_topic->生きる意味</li>
+    <li>preaching_topic->さらなる思想の高み</li>
+    <li>preaching_topic->[RECIPIENT_possessive]の存在理由</li>
+  </PreachHealth.logRulesInitiator.rulesStrings>
   
   <!-- EN: reassurance -->
-  <Reassure.label>TODO</Reassure.label>
+  <Reassure.label>安堵</Reassure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
   -->
-  <Reassure.logRulesInitiator.rulesStrings>TODO</Reassure.logRulesInitiator.rulesStrings>
+  <Reassure.logRulesInitiator.rulesStrings>
+  <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の信念を強化しました.</li>
+  </Reassure.logRulesInitiator.rulesStrings>
   
   <!-- EN: accuse -->
   <Trial_Accuse.label>告発</Trial_Accuse.label>
@@ -99,7 +122,7 @@
   </Trial_Accuse.logRulesInitiator.rulesStrings>
   
   <!-- EN: defend -->
-  <Trial_Defend.label>TODO</Trial_Defend.label>
+  <Trial_Defend.label>弁護</Trial_Defend.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] deflected the accusation.</li>
     <li>r_logentry->[INITIATOR_nameDef] presented another interpretation.</li>
@@ -109,13 +132,23 @@
     <li>r_logentry->[INITIATOR_nameDef] dismissed the allegations.</li>
     <li>r_logentry->[INITIATOR_nameDef] called the trial a sham.</li>
   -->
-  <Trial_Defend.logRulesInitiator.rulesStrings>TODO</Trial_Defend.logRulesInitiator.rulesStrings>
+  <Trial_Defend.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は,告発をそらしました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,別の解釈を提示しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,陪審員に訴えました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,慈悲を求めました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,審理を遅らせました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,申し立てを却下しました.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は,この裁判は茶番だと叫びました.</li>
+  </Trial_Defend.logRulesInitiator.rulesStrings>
   
   <!-- EN: work drive -->
-  <WorkDrive.label>TODO</WorkDrive.label>
+  <WorkDrive.label>労働強化</WorkDrive.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</li>
   -->
-  <WorkDrive.logRulesInitiator.rulesStrings>TODO</WorkDrive.logRulesInitiator.rulesStrings>
+  <WorkDrive.logRulesInitiator.rulesStrings>
+     <li>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]にコロニーの利益のためにさらに励むよう求めました.</li>
+ </WorkDrive.logRulesInitiator.rulesStrings>
   
 </LanguageData>
