@@ -106,9 +106,9 @@
 
   <!-- Change ideo mental state -->
   <!-- EN: {PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}. -->
-  <LetterIdeoChangeConverted>TODO</LetterIdeoChangeConverted>
+  <LetterIdeoChangeConverted>{PAWN_pronoun}は{OLDIDEO_name}に対する信念はもはや意味をなさないと判断しました.\n\n{PAWN_pronoun}は{NEWIDEO_name}を信じるようになりました.</LetterIdeoChangeConverted>
   <!-- EN: {PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}. -->
-  <LetterIdeoChangeNotConverted>TODO</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangeNotConverted>{OLDIDEO_name}の信念に対する{PAWN_nameDef}の信仰度は{NEWCERTAINTY}に減少しました.</LetterIdeoChangeNotConverted>
   <!-- EN: To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room. -->
   <LetterIdeoChangedWanderOwnRoom>TODO</LetterIdeoChangedWanderOwnRoom>
   <!-- EN: {PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs. -->
@@ -128,9 +128,9 @@
 
   <!-- Style change -->
   <!-- EN: Look change desired -->
-  <LetterWantLookChange>TODO</LetterWantLookChange>
+  <LetterWantLookChange>見た目の欲求</LetterWantLookChange>
   <!-- EN: {PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station. -->
-  <LetterWantLookChangeDesc>TODO</LetterWantLookChangeDesc>
+  <LetterWantLookChangeDesc>{PAWN_nameDef}は自身の見た目が信条と合っていないため,変えたいと考えています.\n\n{PAWN_pronoun}は利用可能な化粧台を自動的に使用し,見た目を変更します.{PAWN_possessive}外観をカスタマイズしたい場合は,{PAWN_objective}選択して化粧台を右クリックしてください.</LetterWantLookChangeDesc>
 
   <!-- Spacedrone incoming -->
   <!-- EN: Spacedrone incoming -->

@@ -4,12 +4,12 @@
   <!-- EN: hacking speed -->
   <HackingSpeed.label>ハッキング速度</HackingSpeed.label>
   <!-- EN: How fast this person can hack into computer terminals. -->
-  <HackingSpeed.description>コンピュータ端末をハッキングする速度.</HackingSpeed.description>
+  <HackingSpeed.description>コンピュータ端末をハッキングする速度です.</HackingSpeed.description>
   
   <!-- EN: pruning speed -->
-  <PruningSpeed.label>TODO</PruningSpeed.label>
+  <PruningSpeed.label>剪定速度</PruningSpeed.label>
   <!-- EN: A multiplier on how fast this person can prune a Gauranlen tree to maintain their connection with it.\n\nPruning is more of a contemplative psychic task than a physical one, so health factors like vision are unimportant here. -->
-  <PruningSpeed.description>TODO</PruningSpeed.description>
+  <PruningSpeed.description>この人物がガウランレンツリーを剪定し,ガウランレンツリーとの接続を維持できる速度への掛け率です.\n\n剪定は肉体的なものというよりも瞑想的な精神作業であるため,視覚などの健康要因は重要ではありません.</PruningSpeed.description>
   
   <!-- EN: suppression power -->
   <SuppressionPower.label>抑圧力</SuppressionPower.label>

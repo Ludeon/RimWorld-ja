@@ -2,17 +2,22 @@
 <LanguageData>
   
   <!-- EN: enslave attempt -->
-  <EnslaveAttempt.label>TODO</EnslaveAttempt.label>
+  <EnslaveAttempt.label>奴隷化の試み</EnslaveAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work for the colony.</li>
     <li>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must obey orders and work.</li>
     <li>r_logentry->[INITIATOR_nameDef] ordered [RECIPIENT_nameDef] to prepare for a life of forced labour.</li>
     <li>r_logentry->[INITIATOR_nameDef] explained to [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work or face punishment.</li>
   -->
-  <EnslaveAttempt.logRulesInitiator.rulesStrings>TODO</EnslaveAttempt.logRulesInitiator.rulesStrings>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]にコロニーのために働かなければならないと話した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に命令に従って作業する必要があると吹き込んだ.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に強制労働の生活に備えるよう命じた.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に働くか処罰されるか選ばなければならないことを説明した.</li>
+  </EnslaveAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: try to reduce will -->
-  <ReduceWill.label>TODO</ReduceWill.label>
+  <ReduceWill.label>意志を減らす試み</ReduceWill.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
     <li>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
@@ -56,6 +61,48 @@
     <li>givein->surrender [RECIPIENT_objective]self</li>
     <li>givein->yield [RECIPIENT_objective]self</li>
   -->
-  <ReduceWill.logRulesInitiator.rulesStrings>TODO</ReduceWill.logRulesInitiator.rulesStrings>
+  <ReduceWill.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[negative]と言った.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[negative]ことを説明した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]が[refused]場合,[threat]を行うと脅した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[disillusionment]と吹き込んだ.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]にコロニーに[givein]ことを要求した.</li>
+    <li>negative->未来はない</li>
+    <li>negative->逃げる道はない</li>
+    <li>negative->コロニーの外に未来はない</li>
+    <li>negative->逃げる手段はない</li>
+    <li>negative->すぐに服従するべき</li>
+    <li>negative->願望を忘れるべき</li>
+    <li>negative->コロニーに服従すべき</li>
+    <li>threat->拷問</li>
+    <li>threat->処罰</li>
+    <li>threat->欠損</li>
+    <li>threat->飢餓</li>
+    <li>threat->生涯の投獄</li>
+    <li>threat->死</li>
+    <li>threat->隔離</li>
+    <li>threat->四肢切断</li>
+    <li>threat->鈍器で暴行</li>
+    <li>threat->刃物で暴行</li>
+    <li>threat->カニバリズム</li>
+    <li>threat->臓器の摘出</li>
+    <li>threat->長い監禁</li>
+    <li>refused->逃げようとした</li>
+    <li>refused->コロニーを侮辱した</li>
+    <li>refused->働かなかった</li>
+    <li>refused->命令を拒否した</li>
+    <li>refused->服従に抵抗した</li>
+    <li>refused->従うことを拒否した</li>
+    <li>refused->生意気に振る舞った</li>
+    <li>disillusionment->自分の状況を受け入れる必要がある</li>
+    <li>disillusionment->別の未来への希望はない</li>
+    <li>disillusionment->服従するのが最善だ</li>
+    <li>disillusionment->一人では生き残れない</li>
+    <li>disillusionment->服従せざるを得ない</li>
+    <li>givein->服従する</li>
+    <li>givein->自分の身を捧げる</li>
+    <li>givein->身を委ねる</li>
+    <li>givein->自分の身を譲る</li>
+  </ReduceWill.logRulesInitiator.rulesStrings>
   
 </LanguageData>

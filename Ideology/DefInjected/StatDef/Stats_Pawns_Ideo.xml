@@ -7,14 +7,14 @@
   <BiosculpterOccupantSpeed.description>生体改造ポッドのサイクルを完了する速度の乗数.</BiosculpterOccupantSpeed.description>
   
   <!-- EN: global certainty loss factor -->
-  <CertaintyLossFactor.label>全体的な確信度の損失率</CertaintyLossFactor.label>
+  <CertaintyLossFactor.label>全体的な信仰度の損失率</CertaintyLossFactor.label>
   <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
-  <CertaintyLossFactor.description>誰かがこの人物を思想から遠ざけようとするとき,この人物が失う確信度への掛け率です.</CertaintyLossFactor.description>
+  <CertaintyLossFactor.description>誰かがこの人物を思想から遠ざけようとするとき,この人物が失う信仰度への掛け率です.</CertaintyLossFactor.description>
   
   <!-- EN: conversion power -->
   <ConversionPower.label>改宗させる力</ConversionPower.label>
   <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
-  <ConversionPower.description>この人物が他人を自分の思想へ改宗させるのにどれだけ効果的かを表します.この人物が他の人を改宗させようとしたときに対象が失う確信度への掛け率となります.</ConversionPower.description>
+  <ConversionPower.description>この人物が他人を自分の思想へ改宗させるのにどれだけ効果的かを表します.この人物が他の人を改宗させようとしたときに対象が失う信仰度への掛け率となります.</ConversionPower.description>
   
   <!-- EN: melee dodge chance indoors dark -->
   <MeleeDodgeChanceIndoorsDarkOffset.label>屋内暗所での白兵戦の回避機会</MeleeDodgeChanceIndoorsDarkOffset.label>

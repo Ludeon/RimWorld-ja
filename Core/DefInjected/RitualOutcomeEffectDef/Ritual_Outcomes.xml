@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <AttendedSpeech.description>儀式の質に応じて,参加者は{MOODDAYS}日間{MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</AttendedSpeech.description>
+  <AttendedSpeech.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}から{MAXMOOD}の心情ボーナスを得ます.</AttendedSpeech.description>
   <!-- EN: {PAWN_labelShort}'s social impact -->
   <AttendedSpeech.comps.0.label>{PAWN_labelShort}の社会的影響</AttendedSpeech.comps.0.label>
   <!-- EN: speaker's social impact -->
