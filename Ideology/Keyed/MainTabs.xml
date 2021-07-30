@@ -23,7 +23,7 @@
   <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
   <LockInOff>{0}のロックは現在オフになっています.{1}のテキストは自動再生成できます.</LockInOff>
   <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
-  <LockPreceptNameButtonDesc>TODO</LockPreceptNameButtonDesc>
+  <LockPreceptNameButtonDesc>この戒律の名前をロックまたはロック解除します.ロックされている場合,思想が変更された時に戒律の名前が自動生成されません.</LockPreceptNameButtonDesc>
   <!-- EN: Precepts -->
   <Precepts>戒律</Precepts>
   <!-- EN: Rituals -->
@@ -41,7 +41,7 @@
   <!-- EN: Won't do -->
   <UnwillingToDoIdeoAction>行わない</UnwillingToDoIdeoAction>
   <!-- EN: Stats -->
-  <PreceptStats>TODO</PreceptStats>
+  <PreceptStats>統計</PreceptStats>
   <!-- EN: Prohibitions -->
   <Prohibitions>禁止</Prohibitions>
   <!-- EN: Opinions -->
@@ -51,7 +51,7 @@
   <!-- EN: Randomize precepts -->
   <RandomizePrecepts>戒律をランダム生成</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>戒律を追加</AddPrecept>
+  <AddPrecept>{0}を追加</AddPrecept>
   <!-- EN: Randomize deities -->
   <RandomizeDeities>神格をランダム生成</RandomizeDeities>
   <!-- EN: Add deity -->
@@ -190,8 +190,8 @@
   <InitialPlayerIdeo>このコロニー立ち上げ時の最初の思想です.</InitialPlayerIdeo>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
-  <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>
+  <ResearchProjectHasDefsWithMissingMemes>{0}は,特定のミームが必要なため誰にも建築できないできない建築物のロックを解除します</ResearchProjectHasDefsWithMissingMemes>
   <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
-  <SelectedWorkTypeOpposedByIdeo>TODO</SelectedWorkTypeOpposedByIdeo>
+  <SelectedWorkTypeOpposedByIdeo>警告: この種類の仕事は{0_possessive}思想に反するため,この人物を不幸にする可能性があります.</SelectedWorkTypeOpposedByIdeo>
 
 </LanguageData>

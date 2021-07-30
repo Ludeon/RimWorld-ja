@@ -206,19 +206,19 @@
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
-  <ChangeMode>TODO</ChangeMode>
+  <ChangeMode>ドライアド階級を選択</ChangeMode>
   <!-- EN: Required memes -->
-  <RequiredMemes>TODO</RequiredMemes>
+  <RequiredMemes>要求されるミーム</RequiredMemes>
   <!-- EN: Required caste -->
-  <RequiredStage>TODO</RequiredStage>
+  <RequiredStage>要求される階級</RequiredStage>
   <!-- EN: Missing required memes -->
-  <MissingRequiredMemes>TODO</MissingRequiredMemes>
+  <MissingRequiredMemes>要求されるミームがない</MissingRequiredMemes>
   <!-- EN: Missing required caste -->
-  <MissingRequiredCaste>TODO</MissingRequiredCaste>
+  <MissingRequiredCaste>要求される階級がない</MissingRequiredCaste>
   <!-- EN: Already selected -->
-  <AlreadySelected>TODO</AlreadySelected>
+  <AlreadySelected>既に選択済</AlreadySelected>
   <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
-  <ChooseProductionModeInitialDesc>TODO</ChooseProductionModeInitialDesc>
+  <ChooseProductionModeInitialDesc>ここで,この{TREE_label}が作成するドライアド階級を選択できます.\n\nドライアドは,木の根元で成長するさやから出現します.ドライアドの最大数は{TREE_definite}と接続されている人物との間の接続強度に基づいています.</ChooseProductionModeInitialDesc>
 
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->

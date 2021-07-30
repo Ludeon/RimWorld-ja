@@ -149,7 +149,7 @@
   <!-- EN: Dormant: Not reproducing. -->
   <DormantHiveNotReproducing>休眠状態: 再生していない</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>次は {0}</NextSpawnedItemIn>
+  <NextSpawnedItemIn>次の{0}</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
   <NextSpawnedResourceIn>次の資源</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
@@ -363,7 +363,7 @@
   <!-- EN: No letter -->
   <NoDietCategoryLetter>(無印)</NoDietCategoryLetter>
   <!-- EN: Expires in -->
-  <ExpiresIn>有効期限</ExpiresIn>
+  <ExpiresIn>期限切れまで残り</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>{1_labelShort}のキャラバン隊</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
@@ -1542,7 +1542,7 @@
   <!-- EN: {0} (out of {1}) -->
   <QualityOutOf>({1}のうち){0}</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>{0}は日付固有の儀式です.{2}の{1}日に行えます.</DateRitualNoObligation>
+  <DateRitualNoObligation>{0}は日付固有の儀式です.{2}から{1}間の期間中に行えます.</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
   <PreceptReplaceWith>置換する</PreceptReplaceWith>

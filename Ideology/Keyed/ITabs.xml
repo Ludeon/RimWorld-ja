@@ -77,7 +77,7 @@
   <!-- EN: Change rate based on mood -->
   <MoodChangeRate>心情に基づく変化量</MoodChangeRate>
   <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
-  <CertaintyInIdeo>{PAWN_nameDef}の{IDEO_name}に対する確信度</CertaintyInIdeo>
+  <CertaintyInIdeo>{PAWN_nameDef}の{IDEO_name}に対する信仰度</CertaintyInIdeo>
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
   <RoleDesc>この人物の,自身の思想に基づいた特別な地位です.この役割を変更したり取り除いたりすると,不幸な気持ちになります.</RoleDesc>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
