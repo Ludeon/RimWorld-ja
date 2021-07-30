@@ -59,21 +59,21 @@
   <!-- EN: Set gender -->
   <SetTargetGender>性別を設定</SetTargetGender>
   <!-- EN: must be {0} faction -->
-  <RoleApparelRequirementIncompatibleFaction>TODO</RoleApparelRequirementIncompatibleFaction>
+  <RoleApparelRequirementIncompatibleFaction>{0}の派閥でなければなりません</RoleApparelRequirementIncompatibleFaction>
   <!-- EN: tribal -->
-  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>部族</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
   <!-- EN: non-tribal -->
-  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>非部族</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
   <!-- EN: requires any of these memes -->
-  <RoleApparelRequirementIncompatibleAnyMemeRequired>TODO</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>これらのミームのいずれかが必要です</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <!-- EN: cannot be worn with assigned apparel -->
   <BodyPartAlreadyCovered>割り当てた衣服と同時に着用できません</BodyPartAlreadyCovered>
   <!-- EN: already assigned -->
-  <AlreadyAssigned>TODO</AlreadyAssigned>
+  <AlreadyAssigned>すでに割り当て済みです</AlreadyAssigned>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
   <NoteRoleApparelRequirementEffects>人々は服装の要件が満たされると満足し,反すると不幸になります.</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
-  <NeuralSuperchargeNotReady>TODO</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeNotReady>スーパーチャージの準備ができていません</NeuralSuperchargeNotReady>
   <!-- EN: already getting -->
   <NeuralSuperchargeAlreadyGetting>既に取得済み</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
@@ -99,47 +99,47 @@
   <RecolorApparel>衣服に着色</RecolorApparel>
 
   <!-- EN: Hack {0} -->
-  <Hack>TODO</Hack>
+  <Hack>{0}をハックする</Hack>
   <!-- EN: Cannot hack {0} -->
-  <CannotHack>TODO</CannotHack>
+  <CannotHack>{0}はハックできない</CannotHack>
   <!-- EN: Already hacked -->
-  <AlreadyHacked>TODO</AlreadyHacked>
+  <AlreadyHacked>すでにハック済みです</AlreadyHacked>
   <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>TODO</IncapableOfHacking>
+  <IncapableOfHacking>ハッキング不可能です</IncapableOfHacking>
   <!-- EN: to drop supplies -->
   <ToDropSupplies>TODO</ToDropSupplies>
 
   <!-- EN: Install {0} -->
-  <InstallRelic>TODO</InstallRelic>
+  <InstallRelic>{0}をインストールする</InstallRelic>
   <!-- EN: Extract {0} -->
-  <ExtractRelic>TODO</ExtractRelic>
+  <ExtractRelic>{0}を取り出す</ExtractRelic>
   <!-- EN: Extract {0} to inventory ({1}) -->
-  <ExtractRelicToInventory>TODO</ExtractRelicToInventory>
+  <ExtractRelicToInventory>{0}を取り出して({1})の持ち物に加える</ExtractRelicToInventory>
   <!-- EN: No relic to install -->
-  <NoRelicToInstall>TODO</NoRelicToInstall>
+  <NoRelicToInstall>インストールできるレリックがありません</NoRelicToInstall>
   <!-- EN: Install in reliquary -->
-  <InstallInReliquary>TODO</InstallInReliquary>
+  <InstallInReliquary>聖遺物箱にインストールする</InstallInReliquary>
   <!-- EN: no empty accessible reliquary -->
-  <NoEmptyReliquary>TODO</NoEmptyReliquary>
+  <NoEmptyReliquary>アクセス可能な空の聖遺物箱がない</NoEmptyReliquary>
 
   <!-- EN: No {MEMBERNAME} warden -->
-  <NoWardenOfIdeo>TODO</NoWardenOfIdeo>
+  <NoWardenOfIdeo>{MEMBERNAME}の看守がいない</NoWardenOfIdeo>
 
   <!-- EN: Remove current role -->
-  <RemoveCurrentRole>TODO</RemoveCurrentRole>
+  <RemoveCurrentRole>現在の役割を解除</RemoveCurrentRole>
 
   <!-- EN: Enter biosculpter pod -->
-  <EnterBiosculpterPod>TODO</EnterBiosculpterPod>
+  <EnterBiosculpterPod>生体改造ポッドに入る</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
-  <BiosculpterBiotunedToAnother>TODO</BiosculpterBiotunedToAnother>
+  <BiosculpterBiotunedToAnother>他の誰かに整体改造を施します.</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
-  <UnderMinBiosculpterAgeReversalAge>TODO</UnderMinBiosculpterAgeReversalAge>
+  <UnderMinBiosculpterAgeReversalAge>若返りには{0}歳である必要があります.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
-  <CarryToBiosculpterPod>TODO</CarryToBiosculpterPod>
+  <CarryToBiosculpterPod>{PAWN_label}を({CYCLE})の生体改造ポッドに運ぶ</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
-  <CannotCarryToBiosculpterPod>TODO</CannotCarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>生体改造ポッドに運べません</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
-  <NoBiosculpterPod>TODO</NoBiosculpterPod>
+  <NoBiosculpterPod>利用可能な生体改造ポッドがありません.</NoBiosculpterPod>
 
   <!-- UNUSED -->
   <FactionOrIdeoIncompatible>気性が合わない</FactionOrIdeoIncompatible>
