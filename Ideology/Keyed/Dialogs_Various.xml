@@ -151,8 +151,12 @@
   <PawnUnhappyWithStyleItems>{PAWN_nameDef}は次のことに不満を抱きます</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
   <StyleCategoryDescription>スタイルカテゴリは,{IDEO_memberNamePlural}によって作られる一部の建築物,衣服,武器の外観に影響を与えます.複数のカテゴリが同じものに影響を与える場合,左端のカテゴリが適用されます.</StyleCategoryDescription>
+  <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies. -->
+  <StyleCategoryDescriptionAbstract>スタイルカテゴリは,コロニー内で作成される一部の建築物,衣服,武器の外観に影響を与えます.複数のカテゴリが同じものに影響を与える場合は,左端のカテゴリが適用されます.</StyleCategoryDescriptionAbstract>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
   <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural}は,このスタイルに一致する建築物,床,芸術品を見かけると喜びます.</StyleCategoryDescStyleDominance>
+  <!-- EN: Ideoligion members will be happy if they notice buildings, floors, and art matching this style. -->
+  <StyleCategoryDescStyleDominanceAbstract>思想を持つメンバーは,このスタイルに一致する建築物,床,芸術品を見かけると喜びます.</StyleCategoryDescStyleDominanceAbstract>
   <!-- EN: {0} style category affects -->
   <StyleCategoryDetails>{0}のスタイルカテゴリが影響するもの</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->

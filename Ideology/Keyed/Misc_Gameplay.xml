@@ -1,8 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: Choose your faction's ideoligion -->
-  <ChooseIdeoligion>派閥の思想を選択</ChooseIdeoligion>
+  <!-- EN: Customize ideoligion -->
+  <CustomizeIdeoligion>思想をカスタム</CustomizeIdeoligion> <!-- text_todo -->
+  <!-- EN: Choose your ideoligion -->
+  <ChooseYourIdeoligion>思想を選択</ChooseYourIdeoligion>
+  <!-- EN: Random -->
+  <Random>ランダム</Random>
+  <!-- EN: A random structure will be used for your ideoligion. -->
+  <RandomStructureTip>ランダムな構造が思想に適用されます.</RandomStructureTip> <!-- text_todo -->
+  <!-- EN: A random style will be used for your ideoligion. -->
+  <RandomStyleTip>ランダムなスタイルが思想に適用されます.</RandomStyleTip> <!-- text_todo -->
+  <!-- EN: Customize -->
+  <Customize>カスタム</Customize>
+  <!-- EN: Play classic -->
+  <PlayClassic>クラシックでプレイ</PlayClassic>
+  <!-- EN: Load saved -->
+  <LoadSaved>セーブを読込</LoadSaved>
+  <!-- EN: Structure -->
+  <Structure>構造</Structure>
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <ChooseYourIdeoligionDesc>最初の入植者は何を信じるべきですか?これらの信念は,ゲームプレイと見た目に影響を与えます.あなたは他の人をあなたの信念に改宗させたり,彼らの信念を譲り受けることができます.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>カスタム作成</CreateCustom>
   <!-- EN: Create new -->
@@ -561,5 +579,8 @@
   <BiosculpterPleasureCompletedMessage>TODO</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>TODO</BiosculpterCleanlinessSpeedFactor>
+
+  <!-- UNUSED -->
+  <ChooseIdeoligion>派閥の思想を選択</ChooseIdeoligion>
 
 </LanguageData>

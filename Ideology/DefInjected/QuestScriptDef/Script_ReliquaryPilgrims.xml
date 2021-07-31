@@ -17,7 +17,22 @@
     <li>factionAdj(pilgrimFaction==true)-></li>
     <li>factionAdj(pilgrimFaction==false)->[faction_pawnSingular]</li>
   -->
-  <ReliquaryPilgrims.questContentRules.rulesStrings>TODO</ReliquaryPilgrims.questContentRules.rulesStrings>
+  <ReliquaryPilgrims.questContentRules.rulesStrings>
+    <li>pilgrimsArrivedLetterLabel->[factionAdj][pilgrimSingularOrPlural]が到着</li>
+    <li>pilgrimsArrivedLetterText->[questDescription]</li>
+    <li>delayedRewardLetterText->[pawns0_nameDef][andFollowers]は,[venerateDate]に[relic_name]を崇拝させてくれることにたいして感謝しています.[pawns0_nameDef]は報酬として,ドロップポッドを介して以下を送信します(合計価値[rewardsMarketValue_money]):\n\n[rewards].</li>
+    <li>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural]は[relic_name]の崇拝を終了し,現在は去っています.</li>
+    <li>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural]はマップを離れました.</li>
+    <li>areIs(pilgrimCount==1)-></li>
+    <li>areIs(pilgrimCount>=2)-></li>
+    <li>andFollowers(pilgrimCount==1)-></li>
+    <li>andFollowers(pilgrimCount==2)->とほかの[faction_pawnSingular]</li>
+    <li>andFollowers(pilgrimCount>=3)->とほかの[faction_pawnsPlural]</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount==1)->巡礼者</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount>=2)->巡礼者</li>
+    <li>factionAdj(pilgrimFaction==true)-></li>
+    <li>factionAdj(pilgrimFaction==false)->[faction_pawnSingular]の</li>
+  </ReliquaryPilgrims.questContentRules.rulesStrings>
   <!-- EN:
     <li>pilgrimsLabel->[pawns0_nameDef]</li>
     <li>pilgrimsLabelPlural->[faction_pawnsPlural]</li>
@@ -26,7 +41,14 @@
     <li>hasHave(pilgrimCount==1)->has</li>
     <li>hasHave(pilgrimCount>=2)->have</li>
   -->
-  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>TODO</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+    <li>pilgrimsLabel->[pawns0_nameDef]</li>
+    <li>pilgrimsLabelPlural->[faction_pawnsPlural]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount==1)->[pilgrimsLabel]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount>=2)->[pilgrimsLabelPlural]</li>
+    <li>hasHave(pilgrimCount==1)-></li>
+    <li>hasHave(pilgrimCount>=2)-></li>
+  </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
     <li>isAre(pilgrimCount==1)->is</li>
@@ -36,7 +58,15 @@
     <li>visitSingularOrPlural(pilgrimCount==1)->visits</li>
     <li>visitSingularOrPlural(pilgrimCount>=2)->visit</li>
   -->
-  <ReliquaryPilgrims.questDescriptionRules.rulesStrings>TODO</ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+    <li>questDescription->[relic_name]を崇拝するために[pilgrimsLabelSingularOrPlural]が到着しました.\n\n[pronounSingularOrPlural]が古代の遺物を[visitSingularOrPlural]間,訪問が安全で尊重されていると判断した場合,[pronounSingularOrPlural]は報酬を渡すかもしれません.</li>
+    <li>isAre(pilgrimCount==1)-></li>
+    <li>isAre(pilgrimCount>=2)-></li>
+    <li>pronounSingularOrPlural(pilgrimCount==1)->[pawns0_pronoun]</li>
+    <li>pronounSingularOrPlural(pilgrimCount>=2)->[pawns0_pronoun]ら</li>
+    <li>visitSingularOrPlural(pilgrimCount==1)->訪れている</li>
+    <li>visitSingularOrPlural(pilgrimCount>=2)->訪れている</li>
+  </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
     <li>questName(pilgrimCount>=2)->[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</li>
@@ -57,6 +87,25 @@
     <li>visit->tour</li>
     <li>visit->veneration</li>
   -->
-  <ReliquaryPilgrims.questNameRules.rulesStrings>TODO</ReliquaryPilgrims.questNameRules.rulesStrings>
+  <ReliquaryPilgrims.questNameRules.rulesStrings>
+    <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]による[visitAdj][visit]</li>
+    <li>questName(pilgrimCount>=2)->[pilgrimsLabelSingularOrPlural]の[visitAdj][visit]</li>
+    <li>visitAdj(p=6)-></li>
+    <li>visitAdj->聖なる</li>
+    <li>visitAdj->儀式的な</li>
+    <li>visitAdj->精神的な</li>
+    <li>visitAdj->宗教的な</li>
+    <li>visitAdj->神聖な</li>
+    <li>visitAdj->真面目な</li>
+    <li>visitAdj->サクラメントの</li>
+    <li>visitAdj->清い</li>
+    <li>visit->訪問</li>
+    <li>visit->巡礼</li>
+    <li>visit->使命</li>
+    <li>visit->遠征</li>
+    <li>visit->小旅行</li>
+    <li>visit->ツアー</li>
+    <li>visit->崇拝</li>
+  </ReliquaryPilgrims.questNameRules.rulesStrings>
   
 </LanguageData>

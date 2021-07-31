@@ -4,11 +4,15 @@
   <!-- EN:
     <li>questDescription-></li>
   -->
-  <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName-></li>
   -->
-  <EndGame_ArchonexusVictory.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+  <EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+    <li>questName-></li>
+  </EndGame_ArchonexusVictory.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->[descriptionIntro] looking to expand their territory, and are interested in taking over [playerSettlements] with all [itsTheir] wealth and technology. If you can increase your total wealth to [requiredWealth_money], they will take the [settlementsSingularOrPlural].\n\nIn trade, they offer you part of a map showing the location of an ancient archotech nexus. The archonexus is thought to be a conduit through which an archotech superintelligence influences the physical world. If you could invoke its power, what happens next could go beyond physical reality.\n\n[onlyHaveHas] one piece of the map. The other parts are held by other factions.\n\nIf you accept their offer, the [factionPawnsPlural] will take possession of [playerSettlements], including all items, people, and recorded research. They'll bring [colonistsAllowed] of your people and [animalsAllowed] of your animals to anywhere you want on the planet to start a new colony.\n\nLater, you can trade with others for the final two parts of the map.</li>
@@ -23,11 +27,25 @@
     <li>descriptionIntro(factionless==false)->[civilOutlander_name] is</li>
     <li>descriptionIntro(factionless==true)->A group of wild people are</li>
   -->
-  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription->[descriptionIntro]は領土を拡大しようとしており,その全ての[itsTheir]富と技術で[playerSettlements]を引き継ぐことに興味を持っています.総資産を[requiredWealth_money]にまで増やすことができれば,彼らは[settlementsSingularOrPlural]を引き取ります.\n\nトレードを行うことで,彼らは古代のアルコテックネクサスの場所を示す地図のパーツを提供します.アルコネクサスは,アルコテックの超知性体が物理的な世界に影響を与える導管であると考えられています.もしその力を呼び起こすことができれば,物理的な現実を超えたことが起きる可能性があります.\n\n[onlyHaveHas]は地図のパーツを一枚しか持っていません.他のパーツは他の派閥が持っているそうです.\n\n彼らの申し出を受け入れた場合,[factionPawnsPlural]はアイテム,入植者,そして記録された研究を含む全ての[playerSettlements]を所有します.彼らは[colonistsAllowed]と家畜である[animalsAllowed]のみを惑星上のどこにでも連れて行き,あなたはそこで新しいコロニーを始められます.\n\n後に地図の残りの二枚を他の人と交換することができます.</li>
+    <li>itsTheir(playerSettlementsCount==1)-></li>
+    <li>itsTheir(playerSettlementsCount>=2)-></li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount==1)->入植地</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount>=2)->入植地</li>
+    <li>onlyHaveHas(factionless==false)->[civilOutlander_name]</li>
+    <li>onlyHaveHas(factionless==true)->このグループ</li>
+    <li>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</li>
+    <li>factionPawnsPlural(factionless==true)->wild people</li>
+    <li>descriptionIntro(factionless==false)->[civilOutlander_name]</li>
+    <li>descriptionIntro(factionless==true)->未開の人々のグループ</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the archonexus</li>
   -->
-  <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+  <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+    <li>questName->アルコネクサス</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->With the first archonexus map part securely recorded, you prepare for the next step of your journey.\n\n[cycle1Faction] told you of the cataclysm that destroyed this world. Humans built a great thinking machine here centuries ago. It turned against the people and there was a great war. Only a few were left when the machine transcended and fell dormant.\n\nThe map to the archonexus has three parts, and you hold one of them. [otherMapPartHolders] also each hold parts of the map. They'll trade their parts to you for a wealthy new colony and all of its recorded research.[descriptionStudyRequirement]\n\nIt's time to get building.</li>
@@ -41,11 +59,24 @@
     <li>descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here.</li>
     <li>descriptionStudyRequirement(studyRequirement==false)-></li>
   -->
-  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription->最初のアルコネクサスの地図のパーツをしっかりと書き留めたので,旅の次のステップの準備を行います.\n\n[cycle1Faction]は,この世界を破壊した大変動について話しました.人間は何世紀も前にここに素晴らしい思考機械を作りました.しかしそれは人々に背を向け,大きな戦争が起こりました.機械をしのいで休止状態にさせたとき,文明はほんの僅かしか残っていませんでした.\n\nアルコネクサスへの地図は三つのパーツに分かれており,そのうちの一つを所有しています.[otherMapPartHolders]もそれぞれ地図のパーツを所有しています.彼らは自身のパーツを裕福な新しいコロニーと交換し,そこで記録された全ての研究を行うそうです.[descriptionStudyRequirement]\n\n建築物を建てる時が来ました.</li>
+    <li>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</li>
+    <li>cycle1Faction(factionless==true)->[wildPeople]</li>
+    <li>otherMapPartHolders(factionless==false)->[roughOutlander_name]と[roughTribe_name]</li>
+    <li>otherMapPartHolders(factionless==true)->他の[wildPeople]</li>
+    <li>takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural]</li>
+    <li>takeoverPawnsPlural(factionless==true)->[wildPeople]</li>
+    <li>wildPeople->未開の人々</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\n次の地図のパーツは非常に奇妙な方法でエンコードされています.これを理解するために,最初にここで機構を研究し,アルコテクノロジーについてもっと学ぶ必要があります.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
+  </EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the archonexus</li>
   -->
-  <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+  <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+    <li>questName->アルコネクサス</li>
+  </EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questAcceptedLetterLabel->archonexus discovered</li>
@@ -61,14 +92,31 @@
     <li>descriptionThreats(threatsEnabled==true)->The archonexus will likely have mechanoid defenders, so go prepared.\n\n</li>
     <li>descriptionThreats(threatsEnabled==false)-></li>
   -->
-  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>TODO</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+    <li>questAcceptedLetterLabel->アルコネクサスの発見</li>
+    <li>questAcceptedLetterText->[questDescriptionBeforeAccepted]</li>
+    <li>questDescriptionBeforeAccepted->アルコネクサスの地図のパーツを二枚持っています.[factionName]は祖先が大変動を生き延びた時から受け継がれた地図の最後のパーツを持っています.彼らはそれを裕福な新しいコロニーと交換し,そこで記録された全ての研究を行うそうです.[descriptionStudyRequirement]\n\n建築物を建てる時が来ました.</li>
+    <li>questDescriptionAfterAccepted->[descriptionIntro]はアルコネクサスの地図の最後のパーツを渡しました.アルコテックの情報エンコーディングの知識を使用して,地図をデコードし,アルコネクサスの場所を特定しました.\n\n同盟派閥はあなたが戻ることを期待していないため,あなたがそこに向かった後,[playerSettlements]を引き継ぎます.\n\n[descriptionThreats]後はアルコネクサスに行き,機械の神の力を呼び起こし,物語が本物かどうかを調べるだけです.</li>
+    <li>factionName(factionless==false)->[roughTribe_name]</li>
+    <li>factionName(factionless==true)->未開の人々</li>
+    <li>descriptionIntro(factionless==false)->[roughTribe_name]のリーダーである[roughTribe_leader_nameDef]</li>
+    <li>descriptionIntro(factionless==true)->未開の人々</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\n前回と同じように,地図のパーツはエンコードされます.これをデコードするには,最初にアルコテックの機構を調べる必要があります.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
+    <li>descriptionThreats(threatsEnabled==true)->アルコネクサスにはメカノイドの防衛機構がある可能性が高いので,準備してください.\n\n</li>
+    <li>descriptionThreats(threatsEnabled==false)-></li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription-></li>
   -->
-  <EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>TODO</EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the archonexus</li>
   -->
-  <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>TODO</EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+  <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+    <li>questName->アルコネクサス</li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
   
 </LanguageData>
