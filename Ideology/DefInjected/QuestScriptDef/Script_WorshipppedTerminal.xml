@@ -14,7 +14,7 @@
   -->
   <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
     <li>questDescription->[relic_name]の情報を収めた古代のターミナルのことを知りました. しかし,ターミナルは部族の村に囲まれており,村人はそのターミナルを崇拝対象にしています. 彼らは主要な派閥には所属していません.\n\n[visitInfo]</li>
-    <li>visitInfo(allowViolentQuests==true)->ターミナルを崇拝するフリをすれば村人は招き入れてくれるでしょうが,それに触れると攻撃してくるはずです.\n\n外から村を襲撃することもできますし,あるいは友好的に入り込み,ターミナルから情報だけを盗んで逃げることもできます.\n\n注意 - 村に [timer_duration] 以上滞在したり,何かを建造しようとすると,村人は攻撃してきて援軍も呼ぶでしょう.</li>
+    <li>visitInfo(allowViolentQuests==true)->ターミナルを崇拝するフリをすれば村人は招き入れてくれるでしょうが,それに触れると攻撃してくるはずです.\n\n外から村を襲撃することもできますし,あるいは友好的に入り込み,ターミナルから情報だけを盗んで逃げることもできます.\n\n注意 - 村に[timer_duration]以上滞在したり,何かを建造しようとすると,村人は攻撃してきて援軍も呼ぶでしょう.</li>
     <li>visitInfo(allowViolentQuests==false)->彼らは喜んであなたを迎え入れます.</li>  
   </Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
   <!-- EN:
@@ -36,7 +36,7 @@
     <li>terminalName->silicon</li>
   -->
   <Hack_WorshippedTerminal.questNameRules.rulesStrings>
-    <li>questName->[adj] [terminalName]</li>
+    <li>questName->[adj][terminalName]</li>
     <li>adj->崇拝されし</li>
     <li>adj->崇められし</li>
     <li>adj->古代の</li>

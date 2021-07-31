@@ -9,7 +9,9 @@
   <!-- EN:
     <li>questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure.</li>
   -->
-  <AncientComplex_Standard.questDescriptionRules.rulesStrings>TODO</AncientComplex_Standard.questDescriptionRules.rulesStrings>
+  <AncientComplex_Standard.questDescriptionRules.rulesStrings>
+    <li>questDescription->あなたは近くにある古代の複合施設のことを知りました.そこには[relic_name]に関する情報があると言われています!\n\n施設に侵入し,中のコンピュータをハッキングできれば.情報を収集することができます.\n\n気を付けてください ― 内部には様々な危険が潜んでいるかもしれませんし,建造物での活動によって他の敵も集まってくるかもしれません.</li>
+  </AncientComplex_Standard.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=6)->The [complexAdj] [complex]</li>
     <li>questName->The [dig]</li>
@@ -23,6 +25,18 @@
     <li>dig->dig</li>
     <li>dig->excavation</li>
   -->
-  <AncientComplex_Standard.questNameRules.rulesStrings>TODO</AncientComplex_Standard.questNameRules.rulesStrings>
+  <AncientComplex_Standard.questNameRules.rulesStrings>
+    <li>questName(p=6)->[complexAdj][complex]</li>
+    <li>questName->[dig]</li>
+    <li>complexAdj->古代の</li>
+    <li>complexAdj->古い</li>
+    <li>complexAdj->ほこりをかぶった</li>
+    <li>complexAdj->秘密の</li>
+    <li>complex->複合施設</li>
+    <li>complex->屋敷</li>
+    <li>complex->軍事施設</li>
+    <li>dig->遺跡</li>
+    <li>dig->窩</li>
+  </AncientComplex_Standard.questNameRules.rulesStrings>
   
 </LanguageData>
