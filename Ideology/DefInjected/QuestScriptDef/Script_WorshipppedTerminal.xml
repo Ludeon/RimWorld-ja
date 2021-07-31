@@ -36,7 +36,7 @@
     <li>terminalName->silicon</li>
   -->
   <Hack_WorshippedTerminal.questNameRules.rulesStrings>
-    <li>questName->[adj] [terminalName]</li>
+    <li>questName->[adj][terminalName]</li>
     <li>adj->崇拝されし</li>
     <li>adj->崇められし</li>
     <li>adj->古代の</li>
