@@ -18,8 +18,8 @@
   <SlaveReleasePotentialRelationGains>奴隷解放時の関係改善値</SlaveReleasePotentialRelationGains>
   <!-- EN: Slave rebellion interval -->
   <SlaveRebellionMTBDays>反乱試行間隔</SlaveRebellionMTBDays>
-  <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by mood, health, suppression, proximity to weapons and the presence of colonists on the map. -->
-  <SlaveRebellionMTBDaysDescription>奴隷が反乱を起こすまでの平均日数です.起きている時間のみがカウントされます.これは気分,健康状態,抑圧,武器の近く,マップ上の入植者の存在に影響されます.</SlaveRebellionMTBDaysDescription>
+  <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map. -->
+  <SlaveRebellionMTBDaysDescription>奴隷が反乱を起こすまでの平均日数です.起きている時間のみがカウントされます.これは抑圧,心情,健康状態,武器の近く,マップ上の奴隷の人数,マップ上の入植者の存在に影響されます.</SlaveRebellionMTBDaysDescription>
 
   <!-- Slave tab -->
   <!-- EN: Suppression -->
@@ -51,6 +51,8 @@
   <SuppressionFactor>TODO</SuppressionFactor>
   <!-- EN: Mood -->
   <SuppressionMoodFactor>TODO</SuppressionMoodFactor>
+  <!-- EN: Slave count -->
+  <SuppressionSlaveCountFactor>奴隷の人数</SuppressionSlaveCountFactor>
   <!-- EN: Escape route -->
   <SuppressionEscapeFactor>TODO</SuppressionEscapeFactor>
   <!-- EN: Weapon proximity -->
@@ -59,6 +61,8 @@
   <SuppressionFinalInterval>TODO</SuppressionFinalInterval>
   <!-- EN: Unattended -->
   <SuppressionUnattendedByColonists>TODO</SuppressionUnattendedByColonists>
+  <!-- EN: At least one of the {0} slaves on this map is expected rebel on average every {1}. -->
+  <SuppressionRebellionAnySlave>このマップ上の{0}人の奴隷の少なくとも一人は,平均して{1}ごとに反乱を起こすと予想されます.</SuppressionRebellionAnySlave>
 
   <!-- EN: Will -->
   <WillLevel>意志</WillLevel>
