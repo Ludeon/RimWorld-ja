@@ -24,7 +24,7 @@
     <li>detected->uncovered</li>
   -->
   <OpportunitySite_WorkSite.questNameRules.rulesStrings>
-    <li>questName->[site_label] [detected]</li>
+    <li>questName->[site_label][detected]</li>
     <li>detected->を探知</li>
     <li>detected->を発見</li>
     <li>detected->の近郊</li>

@@ -76,7 +76,7 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>確率で戒律を覚える</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,スタイリングステーションで衣服の色を変更できます.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>思想の色に設定</SetIdeoColor>
   <!-- EN: Set to favorite color -->
@@ -134,17 +134,17 @@
   <!-- EN: No powered speakers. -->
   <RitualTargetNoPoweredSpeakers>ラウドスピーカーに電力が供給されてません.</RitualTargetNoPoweredSpeakers>
   <!-- EN: Campfire is not fueled. -->
-  <RitualTargetCampfireNoFuel>キャンプファイヤーに燃料がありません.</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireNoFuel>焚き火に燃料がありません.</RitualTargetCampfireNoFuel>
   <!-- EN: Campfire must be unroofed. -->
-  <RitualTargetCampfireMustBeUnroofed>キャンプファイヤーは屋根のない場所に設置する必要があります.</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetCampfireMustBeUnroofed>焚き火は屋根のない場所に設置する必要があります.</RitualTargetCampfireMustBeUnroofed>
   <!-- EN: No nearby drum. -->
   <RitualTargetNoDrum>太鼓のそばではありません.</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
   <RitualTargetNeedUnroofedCells>少なくとも{0}マスの屋根のないセルが近くに必要です.</RitualTargetNeedUnroofedCells>
   <!-- EN: A lit campfire or ritual spot. -->
-  <RitualTargetCampfirePartyInfo>火のついたキャンプファイヤーか儀式の場です.</RitualTargetCampfirePartyInfo>
+  <RitualTargetCampfirePartyInfo>焚き火か儀式の場です.</RitualTargetCampfirePartyInfo>
   <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>火のついたキャンプファイヤーか儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
+  <RitualTargetCampfireSkylanternsInfo>焚き火か儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
   <!-- EN: An unconnected Gauranlen tree. -->
   <RitualTargetUnconnectedGaruanlenTreeInfo>接続されていないガウランレンツリーです.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
