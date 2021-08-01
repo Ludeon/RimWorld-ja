@@ -9,7 +9,7 @@
     <li>droneDetectionMethod(enemyFactionNeolithic==false)->detect the drone's energy signature</li>
   -->
   <Hack_Spacedrone.questDescriptionRules.rulesStrings>
-    <li>questDescription->[relic_name]に関する情報を持つ可能性のある,惑星軌道上を回るスペースドローンを検出しました.[map_definite]に強制的に着陸させるコードがあります.\n\nこの情報を入手するためには,ドローンのコンピューターをハッキングする必要があります.ハッキングには時間がかかりますが,知力スキルの高い人物であれば,ハッキングの速度が上がります.[raidsDescription]\n\nスペースドローンは着陸後,[destroyDelayTicks_duration]で自己破壊を起こします.</li>
+    <li>questDescription->[relic_name]に関する情報を持つ可能性のあるスペースドローンが,衛星軌道上を周回しているのを検知しました.[map_definite]に強制的に着陸させるコードを有しています.\n\n情報収集のためには,ドローンのコンピューターをハッキングする必要があります.ハッキングには時間がかかりますが,知力スキルの高い人物なら進捗を速められます.[raidsDescription]\n\nスペースドローンは着陸後,[destroyDelayTicks_duration]で自己破壊を起こします.</li>
     <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_name]の[enemyFaction_pawnsPlural]が[droneDetectionMethod]でしょう.この事実が存在する限り,彼らは攻撃者を送り込み,ほぼ全ての[raidIntervalAvg_duration]を破壊し,そこにあると思われる富を盗みます.彼らが到着する前に,その場の周囲の防衛を強化する時間がいくらかあります.</li>
     <li>raidsDescription(allowViolence==false)-></li>
     <li>droneDetectionMethod(enemyFactionNeolithic==true)->降下中のドローンを発見する</li>
@@ -32,7 +32,7 @@
   <Hack_Spacedrone.questNameRules.rulesStrings>
     <li>questName->[droneAdj][drone]のハッキング</li>
     <li>questName->[drone][data]のハッキング</li>
-    <li>droneAdj->惑星軌道上の</li>
+    <li>droneAdj->衛星軌道上の</li>
     <li>droneAdj->データ</li>
     <li>droneAdj->古代の</li>
     <li>drone->ドローン</li>

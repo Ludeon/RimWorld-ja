@@ -11,7 +11,7 @@
   <AncientComplex_Mission.questContentRules.rulesStrings>
     <li>terminalHackedMessage->ターミナルをハッキングしました.{COUNT} / [terminalCount]完了.</li>
     <li>passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural]はハッキングできません.</li>
-    <li>passengersIncapableOfHackingDialogText->クエスト'[resolvedQuestName]'のシャトルにはハッキングできる人物が乗っていません.古代遺跡を調査するには,ハッキングが可能な人物を少なくとも一人送る必要があります.</li>
+    <li>passengersIncapableOfHackingDialogText->クエスト'[resolvedQuestName]'のためのシャトルにハッキング可能なクルーがいません.古代遺跡を調査するには,ハッキングが可能な人物を少なくとも一人送る必要があります.</li>
     <li>passengersSingularOrPlural(colonistCount==1)->搭乗者</li>
     <li>passengersSingularOrPlural(colonistCount>=2)->搭乗者</li>
   </AncientComplex_Mission.questContentRules.rulesStrings>
@@ -29,7 +29,7 @@
   -->
   <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
     <li>complex->遺跡</li>
-    <li>complex->複合施設</li>
+    <li>complex->工場</li>
     <li>complex->軍事施設</li>
     <li>complex->建造物</li>
     <li>complex->建物</li>
@@ -45,7 +45,7 @@
     <li>colonistsSingularOrPlural(colonistCount>=2)->colonists</li>
   -->
   <AncientComplex_Mission.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]は,遠く離れた場所に古代の遺跡を発見しました.[asker_pronoun]はその場所には[relic_name]として知られているレリックについての情報があると信じています.\n\n[asker_nameDef]はそれを調べるために人員を惜しみませんが,調査を実行するために[colonistCount]人の[colonistsSingularOrPlural]を提供し,[asker_pronoun]を助けることを望んでいます.\n\n遺跡には未知の脅威が含まれており,[asker_nameDef]の敵である[enemyFaction_name]もまた,この場所を探しています.\n\n[asker_pronoun]は入植者を迎えに行き,遺跡まで連れて行き,その後コロニーに帰るためのシャトルを送ります.彼らはその途中で食料の供給と手当てを受けます.\n\n着陸したら,[timeoutTicks_duration]内にある遺跡内全てのターミナルをハッキングする必要があります.</li>
+    <li>questDescription->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]は,遠く離れた場所に古代の遺跡を発見しました.[asker_pronoun]はその場所には[relic_name]として知られているレリックについての情報があると信じています.\n\n[asker_nameDef]はそれを調べるために人員を惜しみませんが,調査を実行するために[colonistCount]人の[colonistsSingularOrPlural]を助手として提供することを望んでいます.\n\n遺跡には未知の脅威が含まれており,[asker_nameDef]の敵である[enemyFaction_name]もまた,この場所を探しています.\n\n[asker_pronoun]は入植者を迎えに行き,遺跡まで連れて行き,その後コロニーに帰るためのシャトルを送ります.彼らはその途中で食料の供給と手当てを受けます.\n\n着陸したら,[timeoutTicks_duration]までに遺跡内全てのターミナルをハッキングする必要があります.</li>
     <li>colonistsSingularOrPlural(colonistCount==1)->入植者</li>
     <li>colonistsSingularOrPlural(colonistCount>=2)->入植者</li>
   </AncientComplex_Mission.questDescriptionRules.rulesStrings>

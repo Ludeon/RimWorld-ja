@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: failed consolation by {0} -->
-  <CounselFailed.stages.failed_consolation_by.label>TODO</CounselFailed.stages.failed_consolation_by.label>
+  <CounselFailed.stages.failed_consolation_by.label>{0}の慰めは失敗した</CounselFailed.stages.failed_consolation_by.label>
   <!-- EN: Somehow, that attempt at helping made things even worse. -->
-  <CounselFailed.stages.failed_consolation_by.description>TODO</CounselFailed.stages.failed_consolation_by.description>
+  <CounselFailed.stages.failed_consolation_by.description>どういうわけか、手助けの試みは事態をさらに悪化させました.</CounselFailed.stages.failed_consolation_by.description>
   
   <!-- EN: counselled by {0} -->
-  <Counselled.stages.counselled_by.label>TODO</Counselled.stages.counselled_by.label>
+  <Counselled.stages.counselled_by.label>{0}のカウンセリング</Counselled.stages.counselled_by.label>
   <!-- EN: I received counseling about something that's been bothering me. -->
-  <Counselled.stages.counselled_by.description>TODO</Counselled.stages.counselled_by.description>
+  <Counselled.stages.counselled_by.description>気がかりなことについてカウンセリングを受けた.</Counselled.stages.counselled_by.description>
   
   <!-- EN: counselled by {0} -->
-  <Counselled_MoodBoost.stages.counselled_by.label>TODO</Counselled_MoodBoost.stages.counselled_by.label>
+  <Counselled_MoodBoost.stages.counselled_by.label>{0}のカウンセリング</Counselled_MoodBoost.stages.counselled_by.label>
   <!-- EN: I received counseling from someone. It felt nice to be listened to. -->
-  <Counselled_MoodBoost.stages.counselled_by.description>TODO</Counselled_MoodBoost.stages.counselled_by.description>
+  <Counselled_MoodBoost.stages.counselled_by.description>ある人からカウンセリングを受けた.聴いてよかった.</Counselled_MoodBoost.stages.counselled_by.description>
   
   <!-- EN: failed to convert {0} -->
   <FailedConvertAbilityInitiator.stages.failed_to_convert.label>{0}の改宗に失敗した</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
@@ -27,11 +27,11 @@
   <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>誰かが私を改宗させようとした.どうか放っておいてほしい.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
   
   <!-- EN: tended by {0} -->
-  <TendedByMedicalSpecialist.stages.tended_by.label>TODO</TendedByMedicalSpecialist.stages.tended_by.label>
+  <TendedByMedicalSpecialist.stages.tended_by.label>{0}の治療</TendedByMedicalSpecialist.stages.tended_by.label>
   <!-- EN: I received medical aid from one who carries the special healer status of my ideoligion. -->
-  <TendedByMedicalSpecialist.stages.tended_by.description>TODO</TendedByMedicalSpecialist.stages.tended_by.description>
+  <TendedByMedicalSpecialist.stages.tended_by.description>私の思想では特別な地位を有する治癒者から手当を受けました.</TendedByMedicalSpecialist.stages.tended_by.description>
   
   <!-- EN: will diminished -->
-  <WillDiminished.stages.will_diminished.label>TODO</WillDiminished.stages.will_diminished.label>
+  <WillDiminished.stages.will_diminished.label>衰えた</WillDiminished.stages.will_diminished.label>
   
 </LanguageData>
