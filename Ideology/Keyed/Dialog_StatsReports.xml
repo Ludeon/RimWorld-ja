@@ -10,14 +10,14 @@
   <StatsReport_OccupiedCorpseCasket>死体が含まれている</StatsReport_OccupiedCorpseCasket>
 
   <!-- EN: Conversion power bonus on map -->
-  <StatsReport_InstalledRelicConvertPowerFactor>TODO</StatsReport_InstalledRelicConvertPowerFactor>
+  <StatsReport_InstalledRelicConvertPowerFactor>マップ上での改宗パワーボーナス</StatsReport_InstalledRelicConvertPowerFactor>
   <!-- EN: Mood bonus for rituals in room -->
-  <StatsReport_RelicAtRitualMoodBonus>TODO</StatsReport_RelicAtRitualMoodBonus>
+  <StatsReport_RelicAtRitualMoodBonus>部屋での儀式に対するムードボーナス</StatsReport_RelicAtRitualMoodBonus>
 
   <!-- EN: Relic of -->
-  <Stat_Thing_RelicOf_Name>TODO</Stat_Thing_RelicOf_Name>
+  <Stat_Thing_RelicOf_Name>レリック </Stat_Thing_RelicOf_Name>
   <!-- EN: The ideology this relic belongs to. -->
-  <Stat_Thing_RelicOf_Desc>TODO</Stat_Thing_RelicOf_Desc>
+  <Stat_Thing_RelicOf_Desc>このレリックが属する思想です.</Stat_Thing_RelicOf_Desc>
 
   <!-- EN: Related to -->
   <Stat_Thing_RelatedToIdeos_Name>関連</Stat_Thing_RelatedToIdeos_Name>
@@ -25,36 +25,36 @@
   <Stat_Thing_RelatedToIdeos_Desc>この人物が属する思想です.</Stat_Thing_RelatedToIdeos_Desc>
 
   <!-- EN: Holding relic -->
-  <StatsReports_HasRelic>TODO</StatsReports_HasRelic>
+  <StatsReports_HasRelic>レリックを保持</StatsReports_HasRelic>
 
   <!-- EN: Blind bonus -->
-  <StatsReport_BlindPsychicSensitivityOffset>TODO</StatsReport_BlindPsychicSensitivityOffset>
+  <StatsReport_BlindPsychicSensitivityOffset>盲目ボーナス</StatsReport_BlindPsychicSensitivityOffset>
   <!-- EN: Sight bonus -->
-  <StatsReport_SightPsychicSensitivityOffset>TODO</StatsReport_SightPsychicSensitivityOffset>
+  <StatsReport_SightPsychicSensitivityOffset>視力ボーナス</StatsReport_SightPsychicSensitivityOffset>
 
   <!-- EN: Dominating style -->
-  <Stat_Thing_StyleDominanceCategory>TODO</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategory>支配的スタイル</Stat_Thing_StyleDominanceCategory>
   <!-- EN: The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs. -->
-  <Stat_Thing_StyleDominanceCategoryDesc>TODO</Stat_Thing_StyleDominanceCategoryDesc>
+  <Stat_Thing_StyleDominanceCategoryDesc>このオブジェクトによって提示されるスタイル.このスタイルはいくつかの思想と関連性を持つでしょう.特定のスタイルに対する反応は,個々人の奉じる思想によって変化します.</Stat_Thing_StyleDominanceCategoryDesc>
   <!-- EN: Satisfies ideoligions -->
-  <Stat_Thing_IdeosSatisfied>TODO</Stat_Thing_IdeosSatisfied>
+  <Stat_Thing_IdeosSatisfied>思想を満たしています</Stat_Thing_IdeosSatisfied>
 
   <!-- EN: Darkness shooting accuracy -->
-  <Stat_Pawn_DarknessCombatShooting_Name>TODO</Stat_Pawn_DarknessCombatShooting_Name>
+  <Stat_Pawn_DarknessCombatShooting_Name>暗闇の射撃精度</Stat_Pawn_DarknessCombatShooting_Name>
   <!-- EN: An offset applied to the chance to hit a target based on the target's light level. -->
-  <Stat_Pawn_DarknessCombatShooting_Desc>TODO</Stat_Pawn_DarknessCombatShooting_Desc>
+  <Stat_Pawn_DarknessCombatShooting_Desc>目標の光源レベルによって,射撃の命中精度に適用されるオフセット.</Stat_Pawn_DarknessCombatShooting_Desc>
   <!-- EN: Darkness melee dodge chance -->
-  <Stat_Pawn_DarknessMeleeDodgeChance_Name>TODO</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>暗闇の白兵戦回避チャンス</Stat_Pawn_DarknessMeleeDodgeChance_Name>
   <!-- EN: An offset applied to the melee dodge chance based on the target's light level. -->
-  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>TODO</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>目標の光源レベルによって,白兵戦の回避チャンスに適用されるオフセット.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
   <!-- EN: Darkness melee hit chance -->
-  <Stat_Pawn_DarknessMeleeHitChance_Name>TODO</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>暗闇の白兵戦ヒットチャンス</Stat_Pawn_DarknessMeleeHitChance_Name>
   <!-- EN: An offset applied to the melee hit chance based on the target's light level. -->
-  <Stat_Pawn_DarknessMeleeHitChance_Desc>TODO</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>目標の光源レベルによって,白兵戦のヒットチャンスに適用されるオフセット.</Stat_Pawn_DarknessMeleeHitChance_Desc>
   <!-- EN: The following offsets can be applied -->
-  <Stat_PawnDarkness_FollowingOffset>TODO</Stat_PawnDarkness_FollowingOffset>
+  <Stat_PawnDarkness_FollowingOffset>次のオフセットが適用されます</Stat_PawnDarkness_FollowingOffset>
 
   <!-- EN: Biosculpting speed -->
-  <StatsReport_BiosculptingSpeedFactor>TODO</StatsReport_BiosculptingSpeedFactor>
+  <StatsReport_BiosculptingSpeedFactor>生体改造の速度</StatsReport_BiosculptingSpeedFactor>
 
   </LanguageData>
