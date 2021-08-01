@@ -10,7 +10,7 @@
   <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
   <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL}の 衣服の要求は, {ROLE}の 衣服要件と 重複しています.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
-  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>TODO</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL}は, {ROLE}の衣服要件と重複しています({ROLEAPPAREL}).これによって{ROLE}が必要とする衣服と,欲求による衣服を同時に着用することはできなくなります.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {PRECEPT} needs one of these buildings -->
   <MessageRitualMissingTarget>{PRECEPT}にはこれらの建物の1つが必要</MessageRitualMissingTarget>
   <!-- EN: {PRECEPT} needs an associated ritual. -->
@@ -43,23 +43,23 @@
   <!-- EN: Warning: {0} will be upset if mining occurs. -->
   <MessageWarningPlayerDesignatedMining>警告: 採掘を行うと,{0}は動揺します.</MessageWarningPlayerDesignatedMining>
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
-  <MessageConnectedPawnDied>TODO</MessageConnectedPawnDied>
+  <MessageConnectedPawnDied>{TREE_label}と{PAWN_nameDef}との繋がりが断たれました. 再接続の前に{DURATION}の間回復する必要があります.</MessageConnectedPawnDied>
 
   <!-- Slave interactions -->
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
-  <MessageSlaveEmancipated>TODO</MessageSlaveEmancipated>
+  <MessageSlaveEmancipated>{0_nameDef}が{1_nameDef}によって解放されました.</MessageSlaveEmancipated>
   <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
-  <MessagePrisonerEnslaved>TODO</MessagePrisonerEnslaved>
+  <MessagePrisonerEnslaved>{0_nameDef}が{1_nameDef}によって奴隷にされました.</MessagePrisonerEnslaved>
   <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
-  <MessagePrisonerWillBroken>TODO</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken>囚人{1_nameDef}の抵抗の意志は{0_nameDef}によって打ち砕かれました.</MessagePrisonerWillBroken>
   <!-- EN: Enslavement will follow. -->
-  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>TODO</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>奴隷化を継続します.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
 
   <!-- Prisoner interactions -->
   <!-- EN: No warden is capable of this enslavement. -->
-  <MessageNoWardenCapableOfEnslavement>TODO</MessageNoWardenCapableOfEnslavement>
+  <MessageNoWardenCapableOfEnslavement>奴隷化を実行できる看守がいません.</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
-  <MessageNoWardenOfIdeo>TODO</MessageNoWardenOfIdeo>
+  <MessageNoWardenOfIdeo>{PRISONER_nameDef}の改宗を行う{MEMBERNAME}の看守がいません . {PRISONER_possessive}の交流モードが"交流なし"に戻りました.</MessageNoWardenOfIdeo>
 
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
@@ -95,47 +95,47 @@
   <!-- EN: Required by {FACTION_name}. -->
   <RequiredByFaction>{FACTION_name}で必要です.</RequiredByFaction>
   <!-- EN: Roles cannot have overlapping apparel requirements. -->
-  <OverlappingRoleApparel>TODO</OverlappingRoleApparel>
+  <OverlappingRoleApparel>役割に衣服要件を重複させることはできません.</OverlappingRoleApparel>
   
   <!-- EN: {0_label} will self-destruct in {1}. -->
-  <SelfDestructCountdown>TODO</SelfDestructCountdown>
+  <SelfDestructCountdown>{0_label}は{1}で自己崩壊します.</SelfDestructCountdown>
 
   <!-- Ancient complex -->
   <!-- EN: You've discovered an ancient terminal with info about the {0}! -->
-  <MessageAncientTerminalDiscovered>TODO</MessageAncientTerminalDiscovered>
+  <MessageAncientTerminalDiscovered>{0}についての情報を秘めた古代のターミナルを発見しました!</MessageAncientTerminalDiscovered>
   <!-- EN: You've discovered secret information about {0}! Get back on the shuttle to launch it. -->
-  <MessageAncientComplexBackToShuttle>TODO</MessageAncientComplexBackToShuttle>
+  <MessageAncientComplexBackToShuttle>{0}についての機密情報を獲得しました!シャトルに戻って出発しましょう.</MessageAncientComplexBackToShuttle>
   <!-- EN: An ancient supply satellite has been activated. Supplies will drop nearby. -->
-  <MessageAncientSignalActivated>TODO</MessageAncientSignalActivated>
+  <MessageAncientSignalActivated>古代の補給衛星が起動しました.補給物資が近郊に投下されます.</MessageAncientSignalActivated>
   <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
-  <MessageAncientSignalHostileDetected>TODO</MessageAncientSignalHostileDetected>
+  <MessageAncientSignalHostileDetected>{1}からの{0}が補給信号を受信し攻撃しています.</MessageAncientSignalHostileDetected>
 
   <!-- Ancient altar -->
   <!-- EN: All security systems are waking up! -->
-  <MessageAncientAltarThreatsWokenUp>TODO</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsWokenUp>全ての警備装置が起動しました!</MessageAncientAltarThreatsWokenUp>
   <!-- EN: All security systems are alerted to your presence. -->
-  <MessageAncientAltarThreatsAlerted>TODO</MessageAncientAltarThreatsAlerted>
+  <MessageAncientAltarThreatsAlerted>全ての警報装置があなたの存在を警告しています.</MessageAncientAltarThreatsAlerted>
 
   <!-- Animals -->
   <!-- EN: Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed. -->
-  <MessageAnimalIsVeneratedForAllColonists>TODO</MessageAnimalIsVeneratedForAllColonists>
+  <MessageAnimalIsVeneratedForAllColonists>警告: {PAWNKINDLABELPLURAL}は全ての{PAWNS}に崇められており, 害を受けることはありません.</MessageAnimalIsVeneratedForAllColonists>
 
   <!-- Archonexus -->
   <!-- EN: Select at most {0} {1} to bring to the new colony. -->
-  <MessageNewColonyMax>TODO</MessageNewColonyMax>
+  <MessageNewColonyMax>新たなコロニーに持ち込むには最大で{0} {1}を選択します.</MessageNewColonyMax>
   <!-- EN: You must select at least 1 colonist. -->
-  <MessageNewColoyRequiresOneColonist>TODO</MessageNewColoyRequiresOneColonist>
+  <MessageNewColoyRequiresOneColonist>少なくとも1人の入植者を選択する必要があります.</MessageNewColoyRequiresOneColonist>
 
   <!-- Fuel node -->
   <!-- EN: A {0} has been ignited and is going to explode! -->
-  <MessageFuelNodeTriggered>TODO</MessageFuelNodeTriggered>
+  <MessageFuelNodeTriggered>{0}が発火し,爆発します!</MessageFuelNodeTriggered>
 
   <!-- Ancient complex -->
   <!-- EN: {0_pawnsPlural} will wake up in {1}. -->
-  <MessageSleepingThreatDelayActivated>TODO</MessageSleepingThreatDelayActivated>
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural}は{1}で目覚めます.</MessageSleepingThreatDelayActivated>
   <!-- EN: Infestation arriving. -->
-  <MessageInfestationDelayActivated>TODO</MessageInfestationDelayActivated>
+  <MessageInfestationDelayActivated>侵入者が到着しました.</MessageInfestationDelayActivated>
   <!-- EN: {0} was disturbed and might explode soon! -->
-  <MessageFuelNodeDelayActivated>TODO</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+  <MessageFuelNodeDelayActivated>{0}が荒らされ,すぐに爆発します!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
 
 </LanguageData>
