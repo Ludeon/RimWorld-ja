@@ -7,13 +7,13 @@
   -->
   <AncientComplex_Standard.questContentRules.rulesStrings>
     <li>terminalHackedMessage->ターミナルをハッキングしました.{COUNT} / [terminalCount]完了.</li>
-    <li>allTerminalsHackedMessage->全てのターミナルをハッキングし,[relic_name]に関する秘密情報を発見しました.この場を去ることができます.</li>
+    <li>allTerminalsHackedMessage->全てのターミナルをハッキングし,[relic_name]に関する秘密情報を発見しました！この場を去ることができます.</li>
   </AncientComplex_Standard.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure.</li>
   -->
   <AncientComplex_Standard.questDescriptionRules.rulesStrings>
-    <li>questDescription->近くの古代遺跡について学びました.それには[relic_name]に関する情報が含まれているようです.\n\n遺跡に侵入して内部のコンピューターをハッキングできれば,情報を収集できます.\n\n注意してください.内部にはあらゆる危険が存在する可能性があり,他の敵も遺跡での活動に引き付けられる可能性があります.</li>
+    <li>questDescription->近くの古代遺跡について学びました.それには[relic_name]に関する情報が含まれているようです.\n\n遺跡に侵入して内部のターミナルをハッキングできれば,情報を収集できます.\n\n注意してください.内部にはあらゆる危険が存在する可能性があり,他の敵も遺跡での活動に引き付けられる可能性があります.</li>
   </AncientComplex_Standard.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=6)->The [complexAdj] [complex]</li>
@@ -36,9 +36,9 @@
     <li>complexAdj->埃にまみれた</li>
     <li>complexAdj->秘密の</li>
     <li>complex->遺跡</li>
-    <li>complex->収容所</li>
+    <li>complex->工場</li>
     <li>complex->軍事基地</li>
-    <li>dig->掘り出し</li>
+    <li>dig->発掘</li>
     <li>dig->遺跡</li>
   </AncientComplex_Standard.questNameRules.rulesStrings>
   
