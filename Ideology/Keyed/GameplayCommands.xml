@@ -9,9 +9,9 @@
   <CommandBedSetForOwnerTypeDesc>この部屋のベッドを入植者,囚人,奴隷のいずれかに割り当てます.</CommandBedSetForOwnerTypeDesc>
 
   <!-- EN: No auto-use -->
-  <CommandNeuralSuperchargerNoAutoUse>TODO</CommandNeuralSuperchargerNoAutoUse>
+  <CommandNeuralSuperchargerNoAutoUse>自動使用しない</CommandNeuralSuperchargerNoAutoUse>
   <!-- EN: None of your people will use this neural supercharger automatically. -->
-  <CommandNeuralSuperchargerNoAutoUseDescription>TODO</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerNoAutoUseDescription>誰もこのスーパーチャージャーを自動的に使用しません.</CommandNeuralSuperchargerNoAutoUseDescription>
   <!-- EN: Auto-use with desire -->
   <CommandNeuralSuperchargerAutoUseWithDesire>TODO</CommandNeuralSuperchargerAutoUseWithDesire>
   <!-- EN: Your people may use this neural supercharger automatically, if they want to because of their beliefs. -->
@@ -26,5 +26,5 @@
   <CommandNeuralSuperchargerAllowGuestsDescription>TODO</CommandNeuralSuperchargerAllowGuestsDescription>
 
   <!-- EN: Select connected tree -->
-  <CommandSelectConnectedTree>TODO</CommandSelectConnectedTree>
+  <CommandSelectConnectedTree>接続されたツリーを選択</CommandSelectConnectedTree>
 </LanguageData>

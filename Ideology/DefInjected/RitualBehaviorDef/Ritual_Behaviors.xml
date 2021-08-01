@@ -8,7 +8,7 @@
   <!-- EN: cutter -->
   <BlindingCeremony.roles.1.label>切断者</BlindingCeremony.roles.1.label>
   <!-- EN: the person who performs the blinding -->
-  <BlindingCeremony.roles.1.missingDesc>目隠しを行う人物</BlindingCeremony.roles.1.missingDesc>
+  <BlindingCeremony.roles.1.missingDesc>盲目化を行う人物</BlindingCeremony.roles.1.missingDesc>
   
   <!-- EN: participate -->
   <BurnCircle.spectatorGerund>参加する</BurnCircle.spectatorGerund>
@@ -20,9 +20,9 @@
   <!-- EN: Participants -->
   <CelebrationPartyDanceDrum.spectatorsLabel>参加者</CelebrationPartyDanceDrum.spectatorsLabel>
   <!-- EN: Campfire is missing. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>キャンプファイヤーがありません.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>焚き火がありません.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
   <!-- EN: Campfire is not lit. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>キャンプファイヤーに点火されてません.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>焚き火に点火されてません.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
   <!-- EN: No drums. -->
   <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>太鼓がありません.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
   

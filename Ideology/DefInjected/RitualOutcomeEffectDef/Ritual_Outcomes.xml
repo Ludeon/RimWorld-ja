@@ -62,15 +62,15 @@
   <!-- EN: Terrible -->
   <BlindingCeremony.outcomeChances.0.label>酷い</BlindingCeremony.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! The speech was stuttering and incoherent. The blinding technique was botched. Everyone was waiting for it to end. -->
-  <BlindingCeremony.outcomeChances.0.description>{0}は酷いものでした!スピーチは吃音で一貫性もなく,目隠しも失敗しました.誰もがそれが終わるのをただ耐えていました.</BlindingCeremony.outcomeChances.0.description>
+  <BlindingCeremony.outcomeChances.0.description>{0}は酷いものでした!スピーチは吃音で一貫性もなく,盲目化も失敗しました.誰もがそれが終わるのをただ耐えていました.</BlindingCeremony.outcomeChances.0.description>
   <!-- EN: Boring -->
   <BlindingCeremony.outcomeChances.1.label>うんざり</BlindingCeremony.outcomeChances.1.label>
   <!-- EN: The {0} was boring. The speech was repetitive and the blinding technique was noticeably flawed. It just didn't feel dignified. -->
-  <BlindingCeremony.outcomeChances.1.description>{0}は退屈でした.スピーチは同じことを繰り返し,目隠しの技術には著しい欠陥がありました.凛とした雰囲気は誰も感じませんでした.</BlindingCeremony.outcomeChances.1.description>
+  <BlindingCeremony.outcomeChances.1.description>{0}は退屈でした.スピーチは同じことを繰り返し,盲目化の技術には著しい欠陥がありました.凛とした雰囲気は誰も感じませんでした.</BlindingCeremony.outcomeChances.1.description>
   <!-- EN: Satisfying -->
   <BlindingCeremony.outcomeChances.2.label>満足</BlindingCeremony.outcomeChances.2.label>
   <!-- EN: The {0} was satisfying. The speech felt meaningful, and the blinding technique was precise and dignified. -->
-  <BlindingCeremony.outcomeChances.2.description>{0}は満足のいくものでした.スピーチは意味のあるもので,目隠しの技術は正確で威厳がありました.</BlindingCeremony.outcomeChances.2.description>
+  <BlindingCeremony.outcomeChances.2.description>{0}は満足のいくものでした.スピーチは意味のあるもので,盲目化の技術は正確で威厳がありました.</BlindingCeremony.outcomeChances.2.description>
   <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
   <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>盲人はサイリンクをアップグレードするか,新しい超能力をアンロックします.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Spectacular -->
@@ -145,9 +145,9 @@
   <!-- EN: played drum count -->
   <CelebrationPartyDanceDrum.comps.2.label>使用している太鼓の数</CelebrationPartyDanceDrum.comps.2.label>
   <!-- EN: started at campfire -->
-  <CelebrationPartyDanceDrum.comps.3.label>キャンプファイヤーで始める</CelebrationPartyDanceDrum.comps.3.label>
+  <CelebrationPartyDanceDrum.comps.3.label>焚き火で始める</CelebrationPartyDanceDrum.comps.3.label>
   <!-- EN: a campfire -->
-  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>キャンプファイヤー</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>焚き火</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
   <!-- EN: If the {0} is fun or unforgettable, participants may gain increased work speed for a while. -->
   <CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>{0}が楽しいか忘れられない体験であった場合,参加者は作業速度が上がる効果をしばらくの間得られます.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->

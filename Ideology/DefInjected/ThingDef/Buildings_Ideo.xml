@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: grand altar -->
-  <Altar_Grand.label>巨大な祭壇</Altar_Grand.label>
+  <Altar_Grand.label>巨大祭壇</Altar_Grand.label>
   <!-- EN: A grand platform that plays a role in ideoligious rituals. -->
   <Altar_Grand.description>思想的な儀式で役割を果たす巨大な演壇です.</Altar_Grand.description>
   
   <!-- EN: large altar -->
-  <Altar_Large.label>大きな祭壇</Altar_Large.label>
+  <Altar_Large.label>大規模祭壇</Altar_Large.label>
   <!-- EN: A large platform that plays a role in ideoligious rituals. -->
-  <Altar_Large.description>思想的な儀式で役割を果たす大きな演壇です.</Altar_Large.description>
+  <Altar_Large.description>思想的な儀式で役割を果たす大規模の演壇です.</Altar_Large.description>
   
   <!-- EN: medium altar -->
-  <Altar_Medium.label>普通の祭壇</Altar_Medium.label>
+  <Altar_Medium.label>中規模祭壇</Altar_Medium.label>
   <!-- EN: A medium platform that plays a role in ideoligious rituals. -->
-  <Altar_Medium.description>思想的な儀式で役割を果たす普通サイズの演壇です.</Altar_Medium.description>
+  <Altar_Medium.description>思想的な儀式で役割を果たす>中規模の演壇です.</Altar_Medium.description>
   
   <!-- EN: small altar -->
-  <Altar_Small.label>小さな祭壇</Altar_Small.label>
+  <Altar_Small.label>小規模祭壇</Altar_Small.label>
   <!-- EN: A small platform that plays a role in ideoligious rituals. -->
-  <Altar_Small.description>思想的な儀式で役割を果たす小さな演壇です.</Altar_Small.description>
+  <Altar_Small.description>思想的な儀式で役割を果たす小規模の演壇です.</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>生体改造ポッド</BiosculpterPod.label>
@@ -65,8 +65,8 @@
   
   <!-- EN: fungus darktorch -->
   <DarktorchFungus.label>キノコのダークトーチ</DarktorchFungus.label>
-  <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <DarktorchFungus.description>特殊加工されたキノコから作られた松明で広範囲にぼんやりとした光を届けます.暗闇での作業を好む人には,この程度の明かりで十分です.木材を自動で補充します.わずかな熱を発します.</DarktorchFungus.description>
+  <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
+  <DarktorchFungus.description>特殊加工されたキノコから作られた松明で広範囲にぼんやりとした光を届けます.暗闇での作業を好む人には,この程度の明かりで十分です.生のキノコを自動で補充します.わずかな熱を発します.</DarktorchFungus.description>
   
   <!-- EN: effigy -->
   <Effigy.label>人形</Effigy.label>

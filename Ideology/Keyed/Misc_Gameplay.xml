@@ -1,8 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: Choose your faction's ideoligion -->
-  <ChooseIdeoligion>派閥の思想を選択</ChooseIdeoligion>
+  <!-- EN: Customize ideoligion -->
+  <CustomizeIdeoligion>思想をカスタム</CustomizeIdeoligion> <!-- text_todo -->
+  <!-- EN: Choose your ideoligion -->
+  <ChooseYourIdeoligion>思想を選択</ChooseYourIdeoligion>
+  <!-- EN: Random -->
+  <Random>ランダム</Random>
+  <!-- EN: A random structure will be used for your ideoligion. -->
+  <RandomStructureTip>ランダムな構造が思想に適用されます.</RandomStructureTip> <!-- text_todo -->
+  <!-- EN: A random style will be used for your ideoligion. -->
+  <RandomStyleTip>ランダムなスタイルが思想に適用されます.</RandomStyleTip> <!-- text_todo -->
+  <!-- EN: Customize -->
+  <Customize>カスタム</Customize>
+  <!-- EN: Play classic -->
+  <PlayClassic>クラシックでプレイ</PlayClassic>
+  <!-- EN: Load saved -->
+  <LoadSaved>セーブを読込</LoadSaved>
+  <!-- EN: Structure -->
+  <Structure>構造</Structure>
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <ChooseYourIdeoligionDesc>最初の入植者は何を信じるべきですか?これらの信念は,ゲームプレイと見た目に影響を与えます.あなたは他の人をあなたの信念に改宗させたり,彼らの信念を譲り受けることができます.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>カスタム作成</CreateCustom>
   <!-- EN: Create new -->
@@ -76,7 +94,7 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>確率で戒律を覚える</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,スタイリングステーションで衣服の色を変更できます.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>思想の色に設定</SetIdeoColor>
   <!-- EN: Set to favorite color -->
@@ -134,17 +152,17 @@
   <!-- EN: No powered speakers. -->
   <RitualTargetNoPoweredSpeakers>ラウドスピーカーに電力が供給されてません.</RitualTargetNoPoweredSpeakers>
   <!-- EN: Campfire is not fueled. -->
-  <RitualTargetCampfireNoFuel>キャンプファイヤーに燃料がありません.</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireNoFuel>焚き火に燃料がありません.</RitualTargetCampfireNoFuel>
   <!-- EN: Campfire must be unroofed. -->
-  <RitualTargetCampfireMustBeUnroofed>キャンプファイヤーは屋根のない場所に設置する必要があります.</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetCampfireMustBeUnroofed>焚き火は屋根のない場所に設置する必要があります.</RitualTargetCampfireMustBeUnroofed>
   <!-- EN: No nearby drum. -->
   <RitualTargetNoDrum>太鼓のそばではありません.</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
   <RitualTargetNeedUnroofedCells>少なくとも{0}マスの屋根のないセルが近くに必要です.</RitualTargetNeedUnroofedCells>
   <!-- EN: A lit campfire or ritual spot. -->
-  <RitualTargetCampfirePartyInfo>火のついたキャンプファイヤーか儀式の場です.</RitualTargetCampfirePartyInfo>
+  <RitualTargetCampfirePartyInfo>焚き火か儀式の場です.</RitualTargetCampfirePartyInfo>
   <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>火のついたキャンプファイヤーか儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
+  <RitualTargetCampfireSkylanternsInfo>焚き火か儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
   <!-- EN: An unconnected Gauranlen tree. -->
   <RitualTargetUnconnectedGaruanlenTreeInfo>接続されていないガウランレンツリーです.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
@@ -561,5 +579,8 @@
   <BiosculpterPleasureCompletedMessage>TODO</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>TODO</BiosculpterCleanlinessSpeedFactor>
+
+  <!-- UNUSED -->
+  <ChooseIdeoligion>派閥の思想を選択</ChooseIdeoligion>
 
 </LanguageData>

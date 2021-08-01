@@ -8,7 +8,13 @@
     <li>passengersSingularOrPlural(colonistCount==1)->passenger</li>
     <li>passengersSingularOrPlural(colonistCount>=2)->passengers</li>
   -->
-  <AncientComplex_Mission.questContentRules.rulesStrings>TODO</AncientComplex_Mission.questContentRules.rulesStrings>
+  <AncientComplex_Mission.questContentRules.rulesStrings>
+    <li>terminalHackedMessage->ターミナルをハッキングしました.{COUNT} / [terminalCount]完了.</li>
+    <li>passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural]はハッキングできません.</li>
+    <li>passengersIncapableOfHackingDialogText->クエスト'[resolvedQuestName]'のためのシャトルにハッキング可能なクルーがいません.古代遺跡を調査するには,ハッキングが可能な人物を少なくとも一人送る必要があります.</li>
+    <li>passengersSingularOrPlural(colonistCount==1)->搭乗者</li>
+    <li>passengersSingularOrPlural(colonistCount>=2)->搭乗者</li>
+  </AncientComplex_Mission.questContentRules.rulesStrings>
   <!-- EN:
     <li>complex->complex</li>
     <li>complex->compound</li>
@@ -21,19 +27,39 @@
     <li>investigation->excavation</li>
     <li>investigation->hacking</li>
   -->
-  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>TODO</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+    <li>complex->遺跡</li>
+    <li>complex->工場</li>
+    <li>complex->軍事施設</li>
+    <li>complex->建造物</li>
+    <li>complex->建物</li>
+    <li>investigation->調査</li>
+    <li>investigation->考察</li>
+    <li>investigation->役目</li>
+    <li>investigation->発掘</li>
+    <li>investigation->ハッキング</li>
+  </AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has discovered an ancient complex a long distance away. [asker_pronoun] believes it contains information about the relic known as [relic_name].\n\n[asker_nameDef] can't spare people to look into it, but hopes you can help by supplying exactly [colonistCount] [colonistsSingularOrPlural] to carry out the investigation.\n\nThe complex contains unknown threats and is also being sought by [asker_nameDef]'s enemies, [enemyFaction_name].\n\n[asker_pronoun] will send a shuttle to pick up your colonists, bring them to the complex, and take them home afterward. They will be fed and tended to en-route.\n\nOnce you have landed, you must hack all terminals in the complex within [timeoutTicks_duration].</li>
     <li>colonistsSingularOrPlural(colonistCount==1)->colonist</li>
     <li>colonistsSingularOrPlural(colonistCount>=2)->colonists</li>
   -->
-  <AncientComplex_Mission.questDescriptionRules.rulesStrings>TODO</AncientComplex_Mission.questDescriptionRules.rulesStrings>
+  <AncientComplex_Mission.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]は,遠く離れた場所に古代の遺跡を発見しました.[asker_pronoun]はその場所には[relic_name]として知られているレリックについての情報があると信じています.\n\n[asker_nameDef]はそれを調べるために人員を惜しみませんが,調査を実行するために[colonistCount]人の[colonistsSingularOrPlural]を助手として提供することを望んでいます.\n\n遺跡には未知の脅威が含まれており,[asker_nameDef]の敵である[enemyFaction_name]もまた,この場所を探しています.\n\n[asker_pronoun]は入植者を迎えに行き,遺跡まで連れて行き,その後コロニーに帰るためのシャトルを送ります.彼らはその途中で食料の供給と手当てを受けます.\n\n着陸したら,[timeoutTicks_duration]までに遺跡内全てのターミナルをハッキングする必要があります.</li>
+    <li>colonistsSingularOrPlural(colonistCount==1)->入植者</li>
+    <li>colonistsSingularOrPlural(colonistCount>=2)->入植者</li>
+  </AncientComplex_Mission.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[missionAdj] [complex] [investigation]</li>
     <li>missionAdj->hidden</li>
     <li>missionAdj->covert</li>
     <li>missionAdj->secret</li>
   -->
-  <AncientComplex_Mission.questNameRules.rulesStrings>TODO</AncientComplex_Mission.questNameRules.rulesStrings>
+  <AncientComplex_Mission.questNameRules.rulesStrings>
+    <li>questName->[missionAdj][complex]の[investigation]</li>
+    <li>missionAdj->隠された</li>
+    <li>missionAdj->ひそかな</li>
+    <li>missionAdj->秘密の</li>
+  </AncientComplex_Mission.questNameRules.rulesStrings>
   
 </LanguageData>
