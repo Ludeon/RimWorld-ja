@@ -164,7 +164,7 @@
   <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
   <RitualTargetCampfireSkylanternsInfo>焚き火か儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
   <!-- EN: An unconnected Gauranlen tree. -->
-  <RitualTargetUnconnectedGaruanlenTreeInfo>接続されていないガウランレンツリーです.</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>接続されてないガウランレンツリー.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>すでに{PAWN_nameDef}に接続されている</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
@@ -452,9 +452,9 @@
   <!-- EN: no caste -->
   <NoCaste>階級なし</NoCaste>
   <!-- EN: Determines the currently created dryad caste. -->
-  <GauranlenTreeModeDesc>TODO</GauranlenTreeModeDesc>
+  <GauranlenTreeModeDesc>現在生成されているドライアド階級を決定します.</GauranlenTreeModeDesc>
   <!-- EN: Spawning {DRYAD_label} in {TIME} -->
-  <SpawningDryadIn>TODO</SpawningDryadIn>
+  <SpawningDryadIn>{DRYAD_label}が{TIME}後に産出</SpawningDryadIn>
   <!-- EN: Morphing {DRYAD_labelShort} into {TYPE_label}. -->
   <ChangingDryadIntoType>{DRYAD_labelShort}を{TYPE_label}に異形態化中.</ChangingDryadIntoType>
   <!-- EN: {0} hours every day -->
@@ -464,33 +464,33 @@
   <!-- EN: {DRYAD_labelPlural} produce {RESOURCES} every {DURATION}. -->
   <DryadProducesResourcesDesc>{DRYAD_labelPlural}は{DURATION}毎に{RESOURCES}を生成します.</DryadProducesResourcesDesc>
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->
-  <DryadCannotChangeMaster>TODO</DryadCannotChangeMaster>
+  <DryadCannotChangeMaster>{ANIMAL_nameDef}はガウランレンツツリーを介して{MASTER_nameDef}に接続されています.主人を変更できません.</DryadCannotChangeMaster>
   <!-- EN: Connection strength too low to create Gauranlen pod. -->
-  <ConnectionStrengthTooWeakForGaumakerPod>TODO</ConnectionStrengthTooWeakForGaumakerPod>
+  <ConnectionStrengthTooWeakForGaumakerPod>接続強度が低すぎてガウランレンのさやを生成できません.</ConnectionStrengthTooWeakForGaumakerPod>
   <!-- EN: Unconnected -->
-  <Unconnected>TODO</Unconnected>
+  <Unconnected>接続されていません</Unconnected>
   <!-- EN: Dryads -->
   <DryadPlural>ドライアド</DryadPlural>
   <!-- EN: Connection strength affected by -->
-  <ConnectionStrengthAffectedBy>TODO</ConnectionStrengthAffectedBy>
+  <ConnectionStrengthAffectedBy>接続強度に影響を与えてる</ConnectionStrengthAffectedBy>
   <!-- EN: Currently affected by -->
-  <CurrentlyAffectedBy>TODO</CurrentlyAffectedBy>
+  <CurrentlyAffectedBy>現在これに影響を与えてる</CurrentlyAffectedBy>
   <!-- EN: {0} connection strength needed to support a dryad. -->
-  <NotEnoughConnectionStrengthForSingleDryad>TODO</NotEnoughConnectionStrengthForSingleDryad>
+  <NotEnoughConnectionStrengthForSingleDryad>ドライアドをサポートするために必要な{0}接続強度です.</NotEnoughConnectionStrengthForSingleDryad>
 
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->
-  <TargetNightOutdoors>TODO</TargetNightOutdoors>
+  <TargetNightOutdoors>屋外と夜をターゲットにする</TargetNightOutdoors>
   <!-- EN: Target indoors and dark -->
-  <TargetDarkIndoors>TODO</TargetDarkIndoors>
+  <TargetDarkIndoors>屋内と暗闇をターゲットにする</TargetDarkIndoors>
   <!-- EN: Target outdoors and daytime -->
-  <TargetDayOutdoors>TODO</TargetDayOutdoors>
+  <TargetDayOutdoors>屋外と日中をターゲットにする</TargetDayOutdoors>
   <!-- EN: Target indoors and lit -->
-  <TargetLitIndoors>TODO</TargetLitIndoors>  
+  <TargetLitIndoors>屋内と明かりをターゲットにする</TargetLitIndoors>
   <!-- EN: Charging -->
-  <RechargeableCharging>TODO</RechargeableCharging>
+  <RechargeableCharging>充電</RechargeableCharging>
   <!-- EN: Ready -->
-  <RechargeableReady>TODO</RechargeableReady>
+  <RechargeableReady>準備</RechargeableReady>
   
   <!-- EN: Skill -->
   <RoleRequirementSkill>スキル</RoleRequirementSkill>
@@ -508,23 +508,23 @@
   <RoleEffectGiveThoughtOnTended>TODO</RoleEffectGiveThoughtOnTended>
 
   <!-- EN: Assign colonists to your ideoligion -->
-  <AssignColonists>TODO</AssignColonists>
+  <AssignColonists>入植者にあなたの思想を割り当てる</AssignColonists>
   <!-- EN: Remove new ideoligion -->
-  <RemoveNewIdeoligion>TODO</RemoveNewIdeoligion>
+  <RemoveNewIdeoligion>新しい思想を削除する</RemoveNewIdeoligion>
   <!-- EN: Make this your primary ideologion -->
-  <MakeIdeoligionPrimary>TODO</MakeIdeoligionPrimary>
+  <MakeIdeoligionPrimary>これを主要な思想にする</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
   <!-- EN: You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n -->
-  <GameOverArchotechInvokedIntro>TODO</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedIntro>アルコネクサスコアを呼び出しました.世界はまばゆいばかりの光で満たされ,時間が遅くなるようです...\n\n</GameOverArchotechInvokedIntro>
   <!-- EN: The machine god has noticed you. Nobody can predict what happens next. It may destroy you, or communicate with you directly, or transport your consciousness to another plane of reality.\n\nYou sense a vast, inhuman structure of infinite fractal complexity flowing into your mind. Time and scale begin to dissolve. It's terrifying. It's beautiful... -->
-  <GameOverArchotechInvokedEnding>TODO</GameOverArchotechInvokedEnding>
+  <GameOverArchotechInvokedEnding>機械の神があなたに気づきました.次に何が起こるかは誰にも予測できません.それはあなたを破壊したり,あなたと直接コミュニケーションしたり,あなたの意識を別次元に移したりするかもしれません.\n\nあなたは,無限の複雑なフラクタルを持つ,広大で非人間的な機構が心に流れ込んでいるのを感じます.時間と大きさが溶け始めます.それは恐ろしい.それは美しい...</GameOverArchotechInvokedEnding>
   <!-- EN: These colonists have transcended:\n\n{0} -->
-  <GameOverColonistsTranscended>TODO</GameOverColonistsTranscended>
+  <GameOverColonistsTranscended>これらの入植者は超越しました:\n\n{0}</GameOverColonistsTranscended>
   <!-- EN: An archonexus map part -->
-  <Reward_ArchonexusMapPart>TODO</Reward_ArchonexusMapPart>
+  <Reward_ArchonexusMapPart>アルコネクサスの地図のパーツ</Reward_ArchonexusMapPart>
   <!-- EN: Archonexus map part {0}/{1} -->
-  <Reward_ArchonexusMapPartLabel>TODO</Reward_ArchonexusMapPartLabel>
+  <Reward_ArchonexusMapPartLabel>アルコネクサスの地図のパーツ {0}/{1}</Reward_ArchonexusMapPartLabel>
 
   <!-- EN: relics -->
   <RelicsLower>レリック</RelicsLower>
@@ -532,53 +532,53 @@
   <RelicLower>レリック</RelicLower>
 
   <!-- EN: Linked to -->
-  <LinkedTo>TODO</LinkedTo>
+  <LinkedTo>次と接続</LinkedTo>
   <!-- EN: Supply satellite -->
-  <SupplySatellite>TODO</SupplySatellite>
+  <SupplySatellite>補給衛星</SupplySatellite>
 
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
-  <CannotExtractSkull>TODO</CannotExtractSkull>
+  <CannotExtractSkull>入植者は死体から頭蓋骨を抜き取らない(スカルスパイクの戒律がない)</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
   <TipPreviewRitualAmbienceSound>儀式的な雰囲気の音をプレビュー</TipPreviewRitualAmbienceSound>
 
   <!-- EN: Choose -->
-  <ChooseStuffForRelic>TODO</ChooseStuffForRelic>
+  <ChooseStuffForRelic>選択</ChooseStuffForRelic>
   <!-- EN: Made from stuff -->
-  <RelicStuff>TODO</RelicStuff>
+  <RelicStuff>原料で作られた</RelicStuff>
 
   <!-- Bioscuplter pod -->
   <!-- EN: Cycle -->
-  <BiosculpterPodCycleLabel>TODO</BiosculpterPodCycleLabel>
+  <BiosculpterPodCycleLabel>サイクル</BiosculpterPodCycleLabel>
   <!-- EN: loading nutrition -->
-  <BiosculpterPodCycleLabelLoading>TODO</BiosculpterPodCycleLabelLoading>
+  <BiosculpterPodCycleLabelLoading>積まれた栄養量</BiosculpterPodCycleLabelLoading>
   <!-- EN: ready -->
-  <BiosculpterPodCycleLabelReady>TODO</BiosculpterPodCycleLabelReady>
+  <BiosculpterPodCycleLabelReady>準備</BiosculpterPodCycleLabelReady>
   <!-- EN: Prepare {0} cycle -->
-  <BiosculpterPodCycleCommand>TODO</BiosculpterPodCycleCommand>
+  <BiosculpterPodCycleCommand>{0}サイクルを準備する</BiosculpterPodCycleCommand>
   <!-- EN: Ends in -->
-  <BiosculpterCycleTimeRemaining>TODO</BiosculpterCycleTimeRemaining>
+  <BiosculpterCycleTimeRemaining>終了</BiosculpterCycleTimeRemaining>
   <!-- EN: Biotuned to -->
-  <BiosculpterBiotunedTo>TODO</BiosculpterBiotunedTo>
+  <BiosculpterBiotunedTo>生体改造を施す</BiosculpterBiotunedTo>
   <!-- EN: Interrupt cycle -->
-  <BiosculpterInteruptCycle>TODO</BiosculpterInteruptCycle>
+  <BiosculpterInteruptCycle>サイクルを中断</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
-  <BiosculpterInteruptCycleDesc>TODO</BiosculpterInteruptCycleDesc>
+  <BiosculpterInteruptCycleDesc>現在のサイクルを中断します.乗員はサイクルの影響を受けずに追い出され,短期間の生体改造の病気に苦しむことになります.</BiosculpterInteruptCycleDesc>
   <!-- EN: Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old. -->
-  <BiosculpterUnderageAgeReversalMessage>TODO</BiosculpterUnderageAgeReversalMessage>
+  <BiosculpterUnderageAgeReversalMessage>警告: {PAWN_labelShort}は{ADULTAGE}歳未満であるため,生体改造が{PAWN_labelShort}に調整されている間は年齢逆転サイクルを実行できません.</BiosculpterUnderageAgeReversalMessage>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
-  <BiosculpterLoadingStartedMessage>TODO</BiosculpterLoadingStartedMessage>
+  <BiosculpterLoadingStartedMessage>生体改造ポッドを{NUTRITION}の栄養で満たしてから入植者を選択し,生体改造ポッドまたはダウンした人を右クリックすることで,サイクルを開始できます.</BiosculpterLoadingStartedMessage>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
-  <BiosculpterNoPowerEjectedMessage>TODO</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort}は電力不足のために生体改造ポッドから排出されました.</BiosculpterNoPowerEjectedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle. -->
-  <BiosculpterHealCompletedMessage>TODO</BiosculpterHealCompletedMessage>
+  <BiosculpterHealCompletedMessage>{PAWN_labelShort}が回復サイクルを完了しました.</BiosculpterHealCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->
-  <BiosculpterHealCompletedWithCureMessage>TODO</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}は回復サイクルを完了し,{HEDIFF_label}が治療されました.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <BiosculpterAgeReversalCompletedMessage>TODO</BiosculpterAgeReversalCompletedMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}は年齢逆転サイクルを完了しました.{PAWN_pronoun}は{DEADLINE}日で次の年齢逆転を期待しています.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed pleasure cycle. -->
-  <BiosculpterPleasureCompletedMessage>TODO</BiosculpterPleasureCompletedMessage>
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}は快楽サイクルを完了しました.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
-  <BiosculpterCleanlinessSpeedFactor>TODO</BiosculpterCleanlinessSpeedFactor>
+  <BiosculpterCleanlinessSpeedFactor>清浄度による速度掛け率</BiosculpterCleanlinessSpeedFactor>
 
   <!-- UNUSED -->
   <ChooseIdeoligion>派閥の思想を選択</ChooseIdeoligion>

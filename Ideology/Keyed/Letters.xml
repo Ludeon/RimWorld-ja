@@ -9,100 +9,101 @@
 
   <!-- Slave rebellion -->
   <!-- EN: Grand slave rebellion -->
-  <LetterLabelGrandSlaveRebellion>TODO</LetterLabelGrandSlaveRebellion>
+  <LetterLabelGrandSlaveRebellion>大規模な奴隷反乱</LetterLabelGrandSlaveRebellion>
   <!-- EN: A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveRebellion>TODO</LetterGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>大規模な奴隷反乱が始まりました!全ての奴隷が戦うために立ち上がります.彼らは武器を探し,入植者を排除しようとします.\n\n以下の奴隷が関与しています:\n\n{0}</LetterGrandSlaveRebellion>
   <!-- EN: Local slave rebellion -->
-  <LetterLabelLocalSlaveRebellion>TODO</LetterLabelLocalSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>局所的な奴隷反乱</LetterLabelLocalSlaveRebellion>
   <!-- EN: A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveRebellion>TODO</LetterLocalSlaveRebellion> 
+  <LetterLocalSlaveRebellion>局所的な奴隷反乱が始まりました!{0_nameDef}と,そばにいた奴隷が戦うために立ち上がります.{0_pronoun}らは武器を探し,入植者を排除しようとします.\n\n以下の奴隷が関与しています:\n\n{1}</LetterLocalSlaveRebellion> 
   <!-- EN: Slave rebellion -->
-  <LetterLabelSingleSlaveRebellion>TODO</LetterLabelSingleSlaveRebellion>
+  <LetterLabelSingleSlaveRebellion>奴隷反乱</LetterLabelSingleSlaveRebellion>
   <!-- EN: {0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists. -->
-  <LetterSingleSlaveRebellion>TODO</LetterSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>{0_nameDef}は反抗しています!{0_pronoun}は武器を探し,入植者を排除しようとします.</LetterSingleSlaveRebellion>
 
   <!-- Slave escape -->
   <!-- EN: Grand slave escape -->
-  <LetterLabelGrandSlaveEscape>TODO</LetterLabelGrandSlaveEscape>
+  <LetterLabelGrandSlaveEscape>大規模な奴隷脱走</LetterLabelGrandSlaveEscape>
   <!-- EN: A grand slave escape has begun! All of your slaves are making a break for it.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveEscape>TODO</LetterGrandSlaveEscape>
+  <LetterGrandSlaveEscape>大規模な奴隷脱走が始まりました!奴隷全員が脱獄を図っています.\n\n以下の奴隷が関与しています:\n\n{0}</LetterGrandSlaveEscape>
   <!-- EN: Local slave escape -->
-  <LetterLabelLocalSlaveEscape>TODO</LetterLabelLocalSlaveEscape>
+  <LetterLabelLocalSlaveEscape>局所的な奴隷脱走</LetterLabelLocalSlaveEscape>
   <!-- EN: A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveEscape>TODO</LetterLocalSlaveEscape>
+  <LetterLocalSlaveEscape>局所的な奴隷脱走が始まりました!{0_nameDef}と,そばにいた奴隷が脱獄を図っています.\n\n以下の奴隷が関与しています:\n\n{1}</LetterLocalSlaveEscape>
   <!-- EN: Slave escape -->
-  <LetterLabelSingleSlaveEscape>TODO</LetterLabelSingleSlaveEscape>
+  <LetterLabelSingleSlaveEscape>奴隷脱走</LetterLabelSingleSlaveEscape>
   <!-- EN: {0_nameDef} is attempting to escape! -->
-  <LetterSingleSlaveEscape>TODO</LetterSingleSlaveEscape>
+  <LetterSingleSlaveEscape>{0_nameDef}が逃げようとしています!</LetterSingleSlaveEscape>
 
   <!-- EN: Slaves are more likely to rebel when their suppression level is low. -->
-  <SlaveRebellionSuppressionExplanation>TODO</SlaveRebellionSuppressionExplanation>
+  <SlaveRebellionSuppressionExplanation>奴隷は抑圧レベルが低いと反乱を起こす可能性が高くなります.</SlaveRebellionSuppressionExplanation>
   
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
-  <LetterLabelRoleActive>TODO</LetterLabelRoleActive>
+  <LetterLabelRoleActive>{0}の役割が使用可能</LetterLabelRoleActive>
   <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button. -->
-  <LetterLabelRoleActiveDesc>TODO</LetterLabelRoleActiveDesc>
+  <LetterLabelRoleActiveDesc>コロニー内の{0}の数が{1}に達しました.これで,入植者の1人に{ROLE_labelDef}の役割を割り当てることができます.\n\n</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
-  <LetterLabelRoleInactive>TODO</LetterLabelRoleInactive>
+  <LetterLabelRoleInactive>{0}の役割が使用不可</LetterLabelRoleInactive>
   <!-- EN: Number of {0}s in your colony fell to {1}. {ROLE_labelDef} role is no longer active. This role will become available once again when the number of {0}s reaches {2}. -->
-  <LetterLabelRoleInactiveDesc>TODO</LetterLabelRoleInactiveDesc>
+  <LetterLabelRoleInactiveDesc>コロニー内の{0}の数は{1}に減少しました.{ROLE_labelDef}の役割は使えなくなりました.この役割は,{0}の数が{2}に達すると再び使用可能になります.</LetterLabelRoleInactiveDesc>
 
   <!-- EN: {PAWN_labelShort}'s {ROLE_labelIndef} role lost -->
-  <LetterLabelRoleLost>TODO</LetterLabelRoleLost>
+  <LetterLabelRoleLost>{PAWN_labelShort}の{ROLE_labelIndef}の役割が失われた</LetterLabelRoleLost>
   <!-- EN: {PAWN_labelShort} no longer holds the role of {ROLE_labelIndef}. Reason: -->
-  <LetterRoleLostDesc>TODO</LetterRoleLostDesc>
+  <LetterRoleLostDesc>{PAWN_labelShort}は{ROLE_labelIndef}の役割を失いました.理由:</LetterRoleLostDesc>
   <!-- EN: {PAWN_pronoun} was unassigned. -->
-  <LetterRoleLostReasonUnassignedDesc>TODO</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonUnassignedDesc>{PAWN_pronoun}は割り当てられていません.</LetterRoleLostReasonUnassignedDesc>
   <!-- EN: Role became inactive due to low {0} count. -->
-  <LetterRoleLostReasonLowBelieversDesc>TODO</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostReasonLowBelieversDesc>{0}の数が少ないため,役割が使用不可になりました.</LetterRoleLostReasonLowBelieversDesc>
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
-  <LetterRoleLostLetterIdeoChangedPostfix>TODO</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort}は{OLDIDEO_name}の思想を放棄したため,{ROLE_labelDef}としての地位を失いました.</LetterRoleLostLetterIdeoChangedPostfix>
   <!-- EN: {0} skipped. -->
-  <LetterObligationRoleInactive>TODO</LetterObligationRoleInactive>
+  <LetterObligationRoleInactive>{0}がスキップされました.</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
-  <LetterObligationRoleInactiveDateDesc>TODO</LetterObligationRoleInactiveDateDesc>
+  <LetterObligationRoleInactiveDateDesc>{0}の日付は{1}ですが,{ROLE_labelDef}の役割が使用不可なため,{2}は{1}をスキップします.</LetterObligationRoleInactiveDateDesc>
   
   <!-- Ideo misc -->
   <!-- EN: {PAWN_pronoun}'s speech converted following people to {IDEO} -->
-  <LetterSpeechConvertedListeners>TODO</LetterSpeechConvertedListeners>
+  <LetterSpeechConvertedListeners>{PAWN_possessive}スピーチは以下の人々を{IDEO}に改宗させました</LetterSpeechConvertedListeners>
 
   <!-- EN: {0} rituals activated -->
-  <LetterTitleObligationsActivated>TODO</LetterTitleObligationsActivated>
+  <LetterTitleObligationsActivated>{0}の儀式が使用可能</LetterTitleObligationsActivated>
   <!-- EN: {0} rituals deactivated -->
-  <LetterTitleObligationsDeactivated>TODO</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivated>{0}の儀式が使用不可</LetterTitleObligationsDeactivated>
   <!-- EN: There are now less than {1} {IDEO_memberNamePlural} in your faction. Therefore, the {IDEO_memberNamePlural} will not demand that the rituals of {IDEO} be carried out until there are at least {1} of them in your faction. -->
-  <LetterTitleObligationsDeactivatedTooFewBelievers>TODO</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>この派閥内の{IDEO_memberNamePlural}が{1}未満になりました.{IDEO_memberNamePlural}は,派閥に少なくとも{1}人の思想者が存在するまで,{IDEO}の儀式の実行を要求しません.</LetterTitleObligationsDeactivatedTooFewBelievers>
   <!-- EN: Since there are now {1} {IDEO_memberNamePlural} in your faction, they will demand that the rituals of {IDEO} be carried out. -->
-  <LetterTitleObligationsActivatedEnoughBelievers>TODO</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>この派閥には現在{1}人の{IDEO_memberNamePlural}がいるため,{IDEO}の儀式の実行を要求するでしょう.</LetterTitleObligationsActivatedEnoughBelievers>
   <!-- EN: Since {IDEO} is now the primary ideoligion of your faction, {IDEO_memberNamePlural} will demand that the rituals of {IDEO} be carried out. -->
-  <LetterTitleObligationsActivatedIdeoBecameMajor>TODO</LetterTitleObligationsActivatedIdeoBecameMajor>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>この派閥の主要な思想は{IDEO}であるため,{IDEO_memberNamePlural}は{IDEO}の儀式の実行を要求するでしょう.</LetterTitleObligationsActivatedIdeoBecameMajor>
 
   <!-- EN: Bond(s) removed -->
-  <LetterBondRemoved>TODO</LetterBondRemoved>
+  <LetterBondRemoved>絆が解消</LetterBondRemoved>
   <!-- EN: {PAWN_nameDef} has converted to {IDEO}. Since {IDEO} disapproves of bonding with animals, {PAWN_pronoun} has renounced {PAWN_possessive} bonds with the following animals:\n\n{BONDS} -->
-  <LetterBondRemovedDesc>TODO</LetterBondRemovedDesc>
+  <LetterBondRemovedDesc>{PAWN_nameDef}は{IDEO}に思想を変更しました.{IDEO}は動物との絆を否定するため,以下の家畜との絆を放棄しました:\n\n{BONDS}</LetterBondRemovedDesc>
 
   <!-- Slave will -->
   <!-- EN: Enslaved -->
-  <LetterLabelEnslavementSuccess>TODO</LetterLabelEnslavementSuccess>
+  <LetterLabelEnslavementSuccess>奴隷</LetterLabelEnslavementSuccess>
   <!-- EN: {0_nameDef} successfully enslaved {1_nameDef}. -->
-  <LetterEnslavementSuccess>TODO</LetterEnslavementSuccess>
+  <LetterEnslavementSuccess>{0_nameDef}は{1_nameDef}の奴隷化に成功しました.</LetterEnslavementSuccess>
 
   <!-- Primary ideo changed -->
   <!-- EN: Primary ideoligion changed -->
-  <LetterLabelNewPrimaryIdeo>TODO</LetterLabelNewPrimaryIdeo>
+  <LetterLabelNewPrimaryIdeo>主要な思想が変更</LetterLabelNewPrimaryIdeo>
   <!-- EN: Your faction's primary ideoligion has changed from {OLDIDEO_name} to {NEWIDEO_name}.\n\nThis happened because {NEWIDEO_name} is now more common among your {FACTION_pawnsPlural} than any other ideoligion.\n\nYour primary ideoligion affects relationships with other factions, based on how closely your beliefs align with theirs. -->
-  <LetterNewPrimaryIdeo>TODO</LetterNewPrimaryIdeo>
+  <!--TODO--><!--仮翻訳:" based on how closely your beliefs align with theirs."「あなたの思想が彼らの思想とどれほど密接に一致しているかに基づいて,」がちゃんと訳せてないと思うので翻訳し直しをお願いします.-->
+  <LetterNewPrimaryIdeo>この派閥の主要な思想が{OLDIDEO_name}から{NEWIDEO_name}に変わりました.\n\nこれは,{NEWIDEO_name}が他のどの思想よりも{FACTION_pawnsPlural}の間で一般的に広まっているために発生しました.\n\nこの派閥の主要な思想は,あなたの思想が彼らの思想とどれほど密接に一致しているかに基づいて,他の派閥との関係に影響を与えます.</LetterNewPrimaryIdeo>
 
   <!-- Charity incidents -->
   <!-- EN: This is a charity incident. If you turn {0} away, believers with charitable beliefs will be unhappy. -->
-  <JoinerCharityInfo>TODO</JoinerCharityInfo>
+  <JoinerCharityInfo>これは慈善的な出来事です.{0}を拒否すると,慈善的思想を持つ思想者は不幸になります.</JoinerCharityInfo>
   <!-- EN: This is a charity incident. If {0} dies without being tended (and after {1}), believers with charitable beliefs will be unhappy. If {0} is tended or recruited, believers will be happy. -->
-  <AfflictedJoinerChartityInfo>TODO</AfflictedJoinerChartityInfo>
+  <AfflictedJoinerChartityInfo>これは慈善的な出来事です.{0}が治療を受けずに(そして{1}の後に)死んだ場合,慈善的思想を持つ思想者は不幸になります.{0}が治療を受けたり勧誘された場合,思想者は喜びます.</AfflictedJoinerChartityInfo>
   <!-- EN: The following believers have charitable beliefs -->
-  <PawnsHaveCharitableBeliefs>TODO</PawnsHaveCharitableBeliefs>
+  <PawnsHaveCharitableBeliefs>以下の思想者は慈善的な思想を持っています</PawnsHaveCharitableBeliefs>
 
   <!-- Change ideo mental state -->
   <!-- EN: {PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}. -->
@@ -110,21 +111,21 @@
   <!-- EN: {PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}. -->
   <LetterIdeoChangeNotConverted>{OLDIDEO_name}の信念に対する{PAWN_nameDef}の信仰度は{NEWCERTAINTY}に減少しました.</LetterIdeoChangeNotConverted>
   <!-- EN: To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room. -->
-  <LetterIdeoChangedWanderOwnRoom>TODO</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedWanderOwnRoom>{PAWN_possessive}信念に同意するために,{PAWN_nameDef}は現在{PAWN_possessive}部屋に隠れています.</LetterIdeoChangedWanderOwnRoom>
   <!-- EN: {PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs. -->
-  <LetterIdeoChangedSadWander>TODO</LetterIdeoChangedSadWander>
+  <LetterIdeoChangedSadWander>{PAWN_nameDef}は自身の信念と戦っている今,ショックで彷徨っています.</LetterIdeoChangedSadWander>
 
   <!-- Change ideo divorces -->
   <!-- EN: Divorce -->
-  <LetterIdeoChangedDivorce>TODO</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorce>離婚</LetterIdeoChangedDivorce>
   <!-- EN: {PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1} -->
-  <LetterIdeoChangedDivorcedPawns>TODO</LetterIdeoChangedDivorcedPawns>
+  <LetterIdeoChangedDivorcedPawns>{PAWN_nameDef}の新しい信念は,{PAWN_pronoun}の現在の配偶者数を禁じています.\n\n{PAWN_nameDef}は以下の人物と離婚することを決めました:\n{1}</LetterIdeoChangedDivorcedPawns>
 
   <!-- Surprise reinforcement -->
   <!-- EN: Surprise reinforcements! -->
-  <LetterLabelSurpriseReinforcements>TODO</LetterLabelSurpriseReinforcements>
+  <LetterLabelSurpriseReinforcements>サプライズの援軍!</LetterLabelSurpriseReinforcements>
   <!-- EN: Surprise reinforcements from {1} have arrived! They are moving to help {0} from {1}. -->
-  <LetterSurpriseReinforcements>TODO</LetterSurpriseReinforcements>
+  <LetterSurpriseReinforcements>{1}からの援軍がサプライズで到着しました!彼らは{1}から{0}を助けるために動いています.</LetterSurpriseReinforcements>
 
   <!-- Style change -->
   <!-- EN: Look change desired -->
@@ -134,74 +135,74 @@
 
   <!-- Spacedrone incoming -->
   <!-- EN: Spacedrone incoming -->
-  <LetterLabelSpacedroneIncoming>TODO</LetterLabelSpacedroneIncoming>
+  <LetterLabelSpacedroneIncoming>スペースドローンの到来</LetterLabelSpacedroneIncoming>
   <!-- EN: A spacedrone is landing nearby. -->
-  <LetterTextSpacedroneIncoming>TODO</LetterTextSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>スペースドローンが近郊に着陸しています.</LetterTextSpacedroneIncoming>
   <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
-  <LetterTextRaidSpacedrone>TODO</LetterTextRaidSpacedrone>
+  <LetterTextRaidSpacedrone>{0}からの襲撃が到着し,余儀なく近郊に着陸した{1}を破壊しました.</LetterTextRaidSpacedrone>
 
   <!-- Hacked -->
   <!-- EN: You've finished hacking the {0} and learned more about the ancient {1} relic. -->
-  <LetterTextSpacedroneHacked>TODO</LetterTextSpacedroneHacked>
+  <LetterTextSpacedroneHacked>{0}のハッキングが終了し,古代のレリック,{1}について詳しく学びました.</LetterTextSpacedroneHacked>
 
   <!-- Relic destroyed -->
   <!-- EN: Relic destroyed -->
-  <LetterLabelRelicDestroyed>TODO</LetterLabelRelicDestroyed>
+  <LetterLabelRelicDestroyed>レリックが破壊された</LetterLabelRelicDestroyed>
   <!-- EN: {0} has been destroyed!\n\nThe following people will suffer a mood reduction:\n{1} -->
-  <LetterTextRelicDestroyed>TODO</LetterTextRelicDestroyed>
+  <LetterTextRelicDestroyed>{0}が破壊されました!\n\n以下の人物は心情の低下に苦しみます:\n{1}</LetterTextRelicDestroyed>
   
   <!-- Relic lost -->
   <!-- EN: Relic lost -->
-  <LetterLabelRelicLost>TODO</LetterLabelRelicLost>
+  <LetterLabelRelicLost>レリックが失われた</LetterLabelRelicLost>
   <!-- EN: {0} has been lost!\n\nThe following people will suffer a mood reduction:\n{1} -->
-  <LetterTextRelicLost>TODO</LetterTextRelicLost>
+  <LetterTextRelicLost>{0}が失われました!\n\n以下の人物は心情の低下に苦しみます:\n{1}</LetterTextRelicLost>
 
   <!-- Caravan destroyed -->
   <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded. -->
-  <LetterOnlySlaveCaravanColonistsLeft>TODO</LetterOnlySlaveCaravanColonistsLeft>
+  <LetterOnlySlaveCaravanColonistsLeft>{0}の全ての奴隷でないメンバーが死亡しました.残りの奴隷は立ち去ります.キャラバンは解散しました.</LetterOnlySlaveCaravanColonistsLeft>
 
   <!-- Hacker lost -->
   <!-- EN: Last hacker lost -->
-  <LetterLabelLastHackerLost>TODO</LetterLabelLastHackerLost>
+  <LetterLabelLastHackerLost>最後のハッカーを失った</LetterLabelLastHackerLost>
   <!-- EN: The last hacker capable of unlocking the secrets of the ancient complex has been lost. Call reinforcements capable of hacking, or abandon the quest. -->
-  <LetterTextLastHackerLost>TODO</LetterTextLastHackerLost>
+  <LetterTextLastHackerLost>古代遺跡の秘密を解き明かせる最後のハッカーを失いました.ハッキングが可能な増援を呼ぶか,クエストを放棄してください.</LetterTextLastHackerLost>
 
   <!-- Relic hunt -->
   <!-- EN: Relic found -->
-  <LetterLabelRelicFound>TODO</LetterLabelRelicFound>
+  <LetterLabelRelicFound>レリックが見つかった</LetterLabelRelicFound>
   <!-- EN: You've finally learned the location of the relic {0}! -->
-  <LetterTextRelicFoundLocation>TODO</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundLocation>ついに{0}のレリックの場所を知りました!</LetterTextRelicFoundLocation>
   <!-- EN: The relic is housed in an ancient structure. It is protected by a security system with multiple independent units. You may choose to defeat the security forces one unit at a time before taking the relic, or try to grab it and flee before they can harm you.\n\nAfter {0}, all security systems will be alerted. -->
-  <LetterTextRelicFoundSecurityThreats>TODO</LetterTextRelicFoundSecurityThreats>
+  <LetterTextRelicFoundSecurityThreats>レリックは古代の建造物に収容されています.複数の独立したユニットを備えたセキュリティシステムによって保護されています.レリックを回収する前に警備部隊を1ユニットずつ倒してもいいですし,それを奪って危害を加えられる前に逃げることもできます.\n\n{0}の後,全てのセキュリティシステムが警戒態勢に入ります.</LetterTextRelicFoundSecurityThreats>
 
   <!-- Relics collection -->
   <!-- EN: Relics collected -->
-  <LetterLabelRelicsCollected>TODO</LetterLabelRelicsCollected>
+  <LetterLabelRelicsCollected>収集されたレリック</LetterLabelRelicsCollected>
   <!-- EN: All relics belonging to {0} have been collected. The following people will be delighted -->
-  <LetterTextRelicsCollected>TODO</LetterTextRelicsCollected>
+  <LetterTextRelicsCollected>{0}に属する全てのレリックを収集しました.以下の人物が喜びます</LetterTextRelicsCollected>
 
   <!-- Gauranlen tree connection -->
   <!-- EN: {TREE_label} connection -->
-  <LetterLabelPawnConnected>TODO</LetterLabelPawnConnected>
+  <LetterLabelPawnConnected>{TREE_label}との接続</LetterLabelPawnConnected>
   <!-- EN: {CONNECTOR_nameDef} has connected with {TREE_definite}.\n\n{TREE_definite} will produce small animals called dryads by growing them in pods at its base. These dryads can specialize into different castes. You can choose which caste of dryads you want the tree to produce.\n\nThe stronger the connection between tree and human, the more dryads {TREE_definite} can sustain. {CONNECTOR_nameDef} can strengthen the connection by pruning {TREE_definite}. Maintaining a higher connection strength requires more frequent pruning. -->
-  <LetterTextPawnConnected>TODO</LetterTextPawnConnected>
+  <LetterTextPawnConnected>{CONNECTOR_nameDef}が{TREE_definite}に接続しました.\n\n{TREE_definite}は,その根元にあるさやで成長させることにより,ドライアドと呼ばれる小動物を生成します.これらのドライアドは様々な階級に特化させることができます.生成させたいドライアドの階級を選択できます.\n\n木と人間の繋がりが強いほど,{TREE_definite}はより多くのドライアドを維持できます.{CONNECTOR_nameDef}は{TREE_definite}を剪定することで接続を強化できます.より高い接続強度を維持するには,より頻繁な剪定が必要です.</LetterTextPawnConnected>
   <!-- EN: Connected {TREE_label} destroyed -->
-  <LetterLabelConnectedTreeDestroyed>TODO</LetterLabelConnectedTreeDestroyed>
+  <LetterLabelConnectedTreeDestroyed>接続された{TREE_label}が破壊された</LetterLabelConnectedTreeDestroyed>
   <!-- EN: A {TREE_label} connected to {CONNECTEDPAWN_nameDef} has been destroyed, killing the dryad queen housed inside.\n\nWithout a queen, the dryad brood-mind has collapsed. All dryads from that tree have died. -->
-  <LetterTextConnectedTreeDestroyed>TODO</LetterTextConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>{CONNECTEDPAWN_nameDef}に接続されている{TREE_label}が破壊され,中に収容されていたドライアドの女王が殺されました.\n\n女王がいなければ,ドライアドの精神的種族は崩壊します.この木から生まれた全てのドライアドが死亡しました.</LetterTextConnectedTreeDestroyed>
 
   <!-- Archonexus victory -->
   <!-- EN: Quest '{0}' available -->
-  <LetterLabelArchonexusWealthReached>TODO</LetterLabelArchonexusWealthReached>
+  <LetterLabelArchonexusWealthReached>クエスト'{0}'が利用可能</LetterLabelArchonexusWealthReached>
   <!-- EN: You have reached the wealth requirement for the quest '{0}'. You can now accept the quest. -->
-  <LetterTextArchonexusWealthReached>TODO</LetterTextArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>クエスト'{0}'に必要な資産の要件まで達しました.これでクエストを受け入れることができます.</LetterTextArchonexusWealthReached>
   <!-- EN: {0_labelShort} studied -->
-  <LetterLabelArchonexusStructureResearched>TODO</LetterLabelArchonexusStructureResearched>
+  <LetterLabelArchonexusStructureResearched>{0_labelShort}の調査が終了</LetterLabelArchonexusStructureResearched>
   <!-- EN: You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map. -->
-  <LetterTextArchonexusStructureResearched>TODO</LetterTextArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>{0_labelShort}の調査が完了しました.\n\n完全に理解しているとは言えませんが,その振る舞いや情報の表現方法にパターンが見られました.\n\nこの知識があれば,アルコネクサスの地図の次のパーツを解読できるようになります.</LetterTextArchonexusStructureResearched>
   <!-- EN: Archotech structures abandoned -->
-  <LetterLabelArchotechStructuresAbandoned>TODO</LetterLabelArchotechStructuresAbandoned>
+  <LetterLabelArchotechStructuresAbandoned>放棄されたアルコテックの建築物</LetterLabelArchotechStructuresAbandoned>
   <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
-  <LetterTextArchotechStructuresAbandoned>TODO</LetterTextArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>{0_definite}で,放棄されたアルコテックの建築物を見つけました.\n\n遠くにいた観測者は,あなたが去って間もなく,この場所から大きな閃光が発せられるのを見たと言っています.</LetterTextArchotechStructuresAbandoned>
 
 </LanguageData>
