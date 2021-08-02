@@ -59,7 +59,7 @@
   <!-- EN: No warden is capable of this enslavement. -->
   <MessageNoWardenCapableOfEnslavement>奴隷化を実行できる看守がいません.</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
-  <MessageNoWardenOfIdeo>{PRISONER_nameDef}の改宗を行う{MEMBERNAME}の看守がいません . {PRISONER_possessive}の交流モードが"交流なし"に戻りました.</MessageNoWardenOfIdeo>
+  <MessageNoWardenOfIdeo>{PRISONER_nameDef}の改宗を行う{MEMBERNAME}の看守がいません. {PRISONER_possessive}の交流モードが"交流なし"に戻りました.</MessageNoWardenOfIdeo>
 
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
@@ -112,9 +112,9 @@
 
   <!-- Ancient altar -->
   <!-- EN: All security systems are waking up! -->
-  <MessageAncientAltarThreatsWokenUp>全ての警備装置が起動しました!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsWokenUp>全てのセキュリティシステムが起動しました!</MessageAncientAltarThreatsWokenUp>
   <!-- EN: All security systems are alerted to your presence. -->
-  <MessageAncientAltarThreatsAlerted>全ての警報装置があなたの存在を警告しています.</MessageAncientAltarThreatsAlerted>
+  <MessageAncientAltarThreatsAlerted>全てのセキュリティシステムがあなたの存在に警戒しています.</MessageAncientAltarThreatsAlerted>
 
   <!-- Animals -->
   <!-- EN: Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed. -->
@@ -136,6 +136,6 @@
   <!-- EN: Infestation arriving. -->
   <MessageInfestationDelayActivated>侵入者が到着しました.</MessageInfestationDelayActivated>
   <!-- EN: {0} was disturbed and might explode soon! -->
-  <MessageFuelNodeDelayActivated>{0}が荒らされ,すぐに爆発します!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+  <MessageFuelNodeDelayActivated>{0}は安定性が乱されたため,すぐに爆発します!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
 
 </LanguageData>

@@ -115,9 +115,9 @@
   <AlertConnectedPawnNotAssignedToPlantCuttingDesc>剪定するように設定されているガウランレンツリーがありますが,この木の接続者に収穫の仕事が割り当てられていません.\n\n以下の人物に収穫の仕事を割り当てる必要があります</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
 
   <!-- EN: Fuel node explodes in {0} -->
-  <AlertFuelNodeIgniting>TODO</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgniting>{0} 燃料ノード爆発</AlertFuelNodeIgniting>
   <!-- EN: A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires. -->
-  <AlertFuelNodeIgnitingDesc>TODO</AlertFuelNodeIgnitingDesc>
+  <AlertFuelNodeIgnitingDesc>燃料ノードが点火しました!すぐにメルトダウンを起こし,爆発します.\n\nすぐに逃げて,火事と戦うかエリアから逃げる準備をしてください.</AlertFuelNodeIgnitingDesc>
 
   <!-- EN: Insects arriving in {0} -->
   <AlertInfestationArriving>TODO</AlertInfestationArriving>

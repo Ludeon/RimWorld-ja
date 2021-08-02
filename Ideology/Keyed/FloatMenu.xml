@@ -99,7 +99,7 @@
   <RecolorApparel>衣服に着色</RecolorApparel>
 
   <!-- EN: Hack {0} -->
-  <Hack>{0}をハックする</Hack>
+  <Hack>{0}ハックする</Hack>
   <!-- EN: Cannot hack {0} -->
   <CannotHack>{0}はハックできない</CannotHack>
   <!-- EN: Already hacked -->
@@ -107,7 +107,7 @@
   <!-- EN: Incapable of hacking -->
   <IncapableOfHacking>ハッキング不可能です</IncapableOfHacking>
   <!-- EN: to drop supplies -->
-  <ToDropSupplies>補給物資の投下</ToDropSupplies>
+  <ToDropSupplies>物資を落とすために</ToDropSupplies>
 
   <!-- EN: Install {0} -->
   <InstallRelic>{0}をインストールする</InstallRelic>
@@ -131,7 +131,7 @@
   <!-- EN: Enter biosculpter pod -->
   <EnterBiosculpterPod>生体改造ポッドに入る</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
-  <BiosculpterBiotunedToAnother>他の誰かに整体改造を施します.</BiosculpterBiotunedToAnother>
+  <BiosculpterBiotunedToAnother>他の誰かに生体改造を施します.</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>若返りには{0}歳である必要があります.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
