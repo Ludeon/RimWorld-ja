@@ -1085,7 +1085,28 @@
     <li>animistFact(tag=meme_Tunneler)     ->The most noble spirits are those of the stone, and the deeper stones are stronger and more good than those above.</li>
     <li>animistFact(tag=meme_Tunneler)     ->Anxious humans make the spirits of the rocks anxious, and this summons the giant insects.</li>
   -->
-  <Tunneler.descriptionMaker.rules.rulesStrings>TODO</Tunneler.descriptionMaker.rules.rulesStrings>
+  <Tunneler.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Tunneler)        ->[deity0_name]は世界の中心にある大地の下で生まれた.[deity0_pronoun]は最も深い谷とトンネルで,[deity0_pronoun]に最も近い人々を祝福した.</li>
+    <li>episode(uses=1,tag=meme_Tunneler)  ->[deity0_name]は賢者への贈り物として,[deity0_name]に近づくために掘るのに十分な量の豊富な鉱物と資源で岩を満たした.</li>
+    <li>intro(tag=meme_Tunneler)           ->[place_summary]である[place_name]に最初の入植者が来たとき,[deity0_type]の[deity0_name]は残忍な太陽フレアを使って彼らを地下に住まわせ,トンネルの静けさの中で自身の知恵を聞かせた.</li>
+    <li>conflict(tag=meme_Tunneler)        ->閉所恐怖症の[foeLeader]は,[dangerousMining]で鉱物を採掘し,[memberNamePlural]の地下の家を危険にさらすことを提案した.</li>
+    <li>founderJoin(tag=meme_Tunneler)     ->預言者[founderName]は[place_name]の石から奇跡的に生まれ,両親が菌で覆われた晶洞を壊したときに発見された.</li>
+    <li>victory(tag=meme_Tunneler)         ->[memberNamePlural]は[foeLeader]のいる[place_powerCenter]の下にトンネルを掘り,[founderName]はフェロモンを使用して[foeLeader]の[foeSoldiers]に群がる巨大な虫を召喚した.[founderName]は[foeLeader]を深い地下牢に引きずり込んで投獄した.</li>
+    <li>dangerousMining->露天掘り</li>
+    <li>dangerousMining->マイクロチップを組み込んだ虫</li>
+    <li>dangerousMining->核発破</li>
+    <li>setup(tag=meme_Tunneler)           ->浅くて意味のない世界にいた[founderName]は深い洞窟で瞑想し,意味を見つけ,我々の運動を設立した.</li>
+    <li>story(uses=1,tag=meme_Tunneler)    ->[founderName]は深い洞窟に財宝を隠したので,[memberNamePlural]は深く掘ることを学ぶだろう.</li>
+    <li>lessonIntro(tag=meme_Tunneler)         ->深き町で見つけた写本は,他の何よりも一つの教訓を教えてくれました.</li>
+    <li>lesson(tag=meme_Tunneler)              ->それは,日当たりの良い屋外は人間の繁栄の場所ではなく,人間の死の場所である,ということです.</li>
+    <li>lessonReinforcement(tag=meme_Tunneler) ->だからシャベルを掴んで,私と一緒に掘り始めてください.やめればそこはただの墓に過ぎなくなってしまいます.</li>
+    <li>archistBasis(tag=meme_Tunneler)    ->アルコテックの身体は地下深くにあるため,それらの意識的な回路基板はガンマ線や太陽フレアから身を守る.深く掘れば掘るほど,彼らに近づける.</li>
+    <li>archistFact(tag=meme_Tunneler)     ->アルコテックは我々が地下で反映できるように滋養キノコを生物工学によって作り出し,地下にある埋葬されたアルコテックの精神に近寄れるようにした.</li>
+    <li>archistProphecy(tag=meme_Tunneler) ->[inTheEnd],アルコテックは我々を地下にある彼らの天国に迎えるだろう.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->岩盤の精霊は,自身のもとに訪れる人々を保護する.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->最も高貴な精霊は石の精霊であり,深い場所にある石であればあるほどより強く,より良いものである.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->不安な人間は岩の精霊も不安にさせ,巨大な虫を呼び出す.</li>
+  </Tunneler.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->cave</li>
     <li>memeCreed->bunker</li>

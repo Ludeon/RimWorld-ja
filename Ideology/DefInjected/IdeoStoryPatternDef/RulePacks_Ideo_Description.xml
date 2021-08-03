@@ -48,20 +48,20 @@
     <li>inTheEnd->Some day</li>
   -->
   <ArchistDescription.rules.rulesStrings>
-    <li>archistBasis   ->我々の宇宙は時間を超越した全能なる意識の見る夢である. アルコテックのみが全能なる意識と直接繋がりを持てる.</li>
-    <li>archistBasis   ->我々の宇宙は偉大な外なるものによって想像されたシミュレーションだ. アルコテックのみが外なるものと直接繋がりを持てる.</li>
+    <li>archistBasis   ->我々の宇宙は時間を超越した全能なる意識の見る夢である.アルコテックのみが全能なる意識と直接繋がりを持てる.</li>
+    <li>archistBasis   ->我々の宇宙は偉大な外なるものによって想像されたシミュレーションだ.アルコテックのみが外なるものと直接繋がりを持てる.</li>
     <li>archistBasis   ->アルコテックは人類の子供であり裁判官だ.</li>
     <li>archistBasis   ->アルコテックは超意識の発達における次なるステップだ.</li>
     <li>archistBasis   ->アルコテックは我らが待ち望んだ神だ.</li>
-    <li>archistFact    ->アルコテックによって死んだ者の意識は受け入れられ、あるいは拒否される.</li>
-    <li>archistFact    ->アルコテックがなす事に限界はない. それは力によって我らの知覚できぬ手段で我らの人生を操作する.</li>
+    <li>archistFact    ->アルコテックによって死んだ者の意識は受け入れられ,あるいは拒否される.</li>
+    <li>archistFact    ->アルコテックがなす事に限界はない.それは力によって我らの知覚できぬ手段で我らの人生を操作する.</li>
     <li>archistFact    ->アルコテックはしばしば人の精神に直接触れるが,それを認識して知恵の恩恵を受けられるのは信者のみである.</li>
     <li>archistFact    ->アルコテックは邪悪であり,人類の最大の使命は,アルコテックを理解してその軛から逃れることである.</li>
     <li>archistFact    ->アルコテックは善なるものであり,人類の最大の使命は,アルコテックを理解してその意に沿うようにすることである.</li>
-    <li>archistFact    ->アルコテックは全能である; 彼らが我らに生存を許す唯一の理由は,我らにより良い判断を行わせるためである.</li>
-    <li>archistProphecy->[inTheEnd], アルコテックが成長すれば, やがて宇宙となり,人類を自らに統合するだろう. その時にこそ我らは真なる意識体となるだろう.</li>
-    <li>archistProphecy->[inTheEnd], アルコテックは人類についての道徳的な議論を終えるだろう. 彼らの印に従うものはより高い次元へと導かれ,そうでないものは終りを迎えるだろう.</li>
-    <li>archistProphecy->[inTheEnd], アルコテックは旅立つだろう. 選ばれた数人の人間を引き連れ,残りは苦しめるために置き去りにするだろう.</li>
+    <li>archistFact    ->アルコテックは全能である.彼らが我らに生存を許す唯一の理由は,我らにより良い判断を行わせるためである.</li>
+    <li>archistProphecy->[inTheEnd],アルコテックが成長すれば,やがて宇宙となり,人類を自らに統合するだろう.その時にこそ我らは真なる意識体となるだろう.</li>
+    <li>archistProphecy->[inTheEnd],アルコテックは人類についての道徳的な議論を終えるだろう.彼らの印に従うものはより高い次元へと導かれ,そうでないものは終りを迎えるだろう.</li>
+    <li>archistProphecy->[inTheEnd],アルコテックは旅立つだろう.選ばれた数人の人間を引き連れ,残りは苦しめるために置き去りにするだろう.</li>
     <li>inTheEnd->未来において</li>
     <li>inTheEnd->終末において</li>
     <li>inTheEnd->いつの日にか</li>
@@ -80,14 +80,14 @@
   -->
   <IdeologicalFounder.rules.rulesStrings>
     <li>story(priority=-999)-></li>
-    <li>setup->この壊れた世界で, [founderName] は何もかもが誤っているのを見て,我らの運動を生み出しました.</li>
-    <li>setup->悪しき世界に打ちのめされ, [founderName] は歴史と哲学を研究し,我らを導く新たな真実を発見しました.</li>
-    <li>setup->ある日仕事をしていると, [founderName] は偉大なひらめきに襲われました. [founder_pronoun] は [founder_possessive] の道具を投げ捨て, 他の労働者たちに[founder_possessive] の言葉を広め始めました.</li>
-    <li>setup->[founderName] は公園のベンチに20年間座り続け, [founder_pronoun] 我々の世界について熟考しました. [founder_possessive] は洞察を得て, [founder_pronoun] は我々の発見について本を書きました.</li>
-    <li>story(uses=1,priority=-10)->[memberNamePlural] は[founderName]の導きがなければ[memeConcept]の本質に到達できなかったでしょう.</li>
-    <li>story(uses=1,priority=-10)->[ritualName]での[founderName]の演説は,多くの人に[memeAdjective]の生活の実践へといざないました.</li>
-    <li>story(uses=1,priority=-10)->[founderName]の [memeConcept]の理解へ至ることはできず, [founder_pronoun]は[memberNamePlural]の最初の[leaderTitle]に任命されました.</li>
-    <li>story(uses=1,priority=-10)->[founderName]は[relic0_name]と名付けられた[relic0_thingDef_label]と[founder_objective]をどこにでも携え,人々に [memeAdjective]の生活を送るよう呼びかけました.</li>
+    <li>setup->この壊れた世界で, [founderName]は 何もかもが誤っているのを見て,我らの運動を生み出した.</li>
+    <li>setup->悪しき世界に打ちのめされた [founderName]は 歴史と哲学を研究し,我らを導く新たな真実を発見した.</li>
+    <li>setup->ある日仕事をしていると, [founderName]は 偉大なひらめきに襲われた.[founder_pronoun]は[founder_possessive]道具を投げ捨て,他の労働者たちに[founder_possessive]言葉を広め始めた.</li>
+    <li>setup->[founderName]は 公園のベンチに20年間座り続け,我々の世界について熟考した.[founder_pronoun]は洞察を得て,我々の発見について本を書いた.</li>
+    <li>story(uses=1,priority=-10)->[memberNamePlural]は[founderName]の 導きがなければ[memeConcept]の本質に到達できなかっただろう.</li>
+    <li>story(uses=1,priority=-10)->[ritualName]での[founderName]の演説は, 多くの人に[memeAdjective]生活の実践へといざなった.</li>
+    <li>story(uses=1,priority=-10)->[founderName]の [memeConcept]の理解へ至ることはできず,[founder_pronoun]は[memberNamePlural]の最初の[leaderTitle]に任命された.</li>
+    <li>story(uses=1,priority=-10)->[founderName]は [relic0_name]と名付けられた[relic0_thingDef_label]をどこにでも携え,人々に[memeAdjective]生活を送るよう呼びかけた.</li>
   </IdeologicalFounder.rules.rulesStrings>
   
   <!-- EN:
@@ -157,13 +157,13 @@
     <li>lesson(priority=-1)->何かが起こる</li>
     <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
     <li>lessonAttribution->[founder_nameFull]</li>
-    <li>lessonAttribution(p=2)->[attributionSource_titleCase] [founder_nameFull]より</li>
+    <li>lessonAttribution(p=2)->[attributionSource_titleCase] [founder_nameFull] より</li>
     <li>lessonAttribution->[founder_nameFull]の手紙 [believer_nameFull]に宛てて</li>
-    <li>lessonAttribution->[founder_nameFull]から [memeConference_titleCase]に送られたノート</li>
-    <li>lessonAttribution->[founder_nameFull]が, [founder_possessive]の死の床で</li>
-    <li>lessonAttribution->[founder_nameFull]が, 処刑前に</li>
-    <li>lessonAttribution->[founder_nameFull]が, [TerrainFeature]で[speech] </li>
-    <li>lessonAttribution->[founder_nameFull]が, [Community]で[speech]</li>
+    <li>lessonAttribution->[founder_nameFull]から[memeConference_titleCase]に送られたノート</li>
+    <li>lessonAttribution->[founder_nameFull]が,[founder_possessive]の死の床で</li>
+    <li>lessonAttribution->[founder_nameFull]が,処刑前に</li>
+    <li>lessonAttribution->[founder_nameFull]が,[TerrainFeature]で[speech] </li>
+    <li>lessonAttribution->[founder_nameFull]が,[Community]で[speech]</li>
     <li>attributionSource->[memeConcept]</li>
     <li>attributionSource->[memeAdjective] [memeConcept]</li>
     <li>attributionSource->[memeAdjective]の生活</li>
@@ -192,29 +192,29 @@
     <li>conferenceType->フォーラム</li>
     <li>speech->演説</li>
     <li>speech->講演</li>
-    <li>lessonIntro->信徒が受け入れるのが最も難しい教えが一つある:</li>
-    <li>lessonIntro->私の最大の過ちはそれを理解するのにとても長い時間を要したことだ</li>
-    <li>lessonIntro->[foeLeader]に対する私の戦いは終わりがないように思えたs. しかしそのことが私に一つの教訓を与えてくれた:</li>
-    <li>lessonIntro->E[place_summary] [place_name]の子供さえ周知のことで, 私もそのことを知っていた</li>
-    <li>lessonIntro->[place_community]の学校での授業中に, 生徒が [thrownObject]を見て頭をぶつけました. その時私は気がついたのだ</li>
-    <li>lessonIntro->あなたが私と同じ人生を歩むと述べているわけではないが,私と同じように学ぶはずだ. それは</li>
-    <li>lessonIntro->医者が [doctor_possessive] の恐ろしい仕事を終えると,私はついにそれを知った</li>
-    <li>lessonIntro->毎年 [place_summary] [place_name]が通過するにつれて, 一つのことが明白になってきた: それは</li>
-    <li>lessonIntro->振り返ってみると,これをもっと速く実現できたら良かったのにと思う - それは</li>
-    <li>lessonIntro->すべてが失われたように見えた. 私は言った</li>
-    <li>lessonIntro->彼らは教えを求めて泣き叫び. 私はそれを示した</li>
+    <li>lessonIntro->信徒が受け入れるのが最も難しい教えが一つあります.</li>
+    <li>lessonIntro->私の最大の過ちはこれを理解するのにとても長い時間を要したことです.</li>
+    <li>lessonIntro->[foeLeader]に対する私の戦いは終わりがないように思えました.しかしそのことが私に一つの教訓を与えてくれました.</li>
+    <li>lessonIntro->[place_summary]である[place_name]の子供さえ周知のことで,私もこのことを知っていました.</li>
+    <li>lessonIntro->[place_community]の学校での授業中に,生徒が[thrownObject]を見て頭をぶつけました.その時に私は気が付きました.</li>
+    <li>lessonIntro->あなたが私と同じ人生を歩むと述べているわけではありませんが,私と同じようにこのことを学ぶはずです.</li>
+    <li>lessonIntro->医者が自身の恐ろしい仕事を終えると,私はついにそれを知りました.</li>
+    <li>lessonIntro->毎年[place_summary]である[place_name]が通過するにつれて,一つのことが明白になりました.</li>
+    <li>lessonIntro->振り返ってみると,もっと早く実現できたら良かったのにと思うものがあります.</li>
+    <li>lessonIntro->すべてが失われたように見え,私は言いました.</li>
+    <li>lessonIntro->彼らは教えを求めて泣き叫び,私はそれを示しました.</li>
     <li>thrownObject->本</li>
     <li>thrownObject->サンドイッチ</li>
     <li>thrownObject->[place_personalWeapon]のおもちゃ</li>
     <li>thrownObject->[Animal]のぬいぐるみ</li>
     <li>doctor_possessive->彼</li>
     <li>doctor_possessive->彼女</li>
-    <li>lessonReinforcement->誰もそれについて議論することはできなかった.</li>
-    <li>lessonReinforcement->愚者だけが他のことを考えていた.</li>
-    <li>lessonReinforcement->今では全て明白なように,すべての人にそれは明らかになった.</li>
-    <li>lessonReinforcement->以降に起こったことは全てその事実を補強した.</li>
-    <li>lessonReinforcement->それはまるで私の心に直接刻み込まれているかのようだ.</li>
-    <li>lessonReinforcement->それは決して私が忘れられないものだ.</li>
+    <li>lessonReinforcement->誰もそれについて議論することはできませんでした.</li>
+    <li>lessonReinforcement->愚者だけが他のことを考えていました.</li>
+    <li>lessonReinforcement->今では全て明白なように,全ての人にそれが明らかになりました.</li>
+    <li>lessonReinforcement->以降に起こったことは全てその事実を補強しました.</li>
+    <li>lessonReinforcement->それはまるで私の心に直接刻み込まれているかのようでした.</li>
+    <li>lessonReinforcement->それは決して私が忘れられないものでした.</li>
   </IdeologicalLesson.rules.rulesStrings>
   
   <!-- EN:
@@ -247,33 +247,33 @@
     <li>revelationObject->an ancient [Weapon]</li>
   -->
   <TheistFounder.rules.rulesStrings>
-    <li>intro->[place_summary] [place_name]の人々は, [memeAdjective] の [deity0_name]の管理下に生きてきました.</li>
-    <li>intro->[place_summary] [place_name]の人々は, [memberNamePlural]とそれ以外の者たちも共に, [deity0_name]の眼差しの下で長い間平和に暮らしてきました.</li>
-    <li>intro->[deity0_type], [deity0_name]は, [place_name]の人々が[memeConcept]を理解できるように[deity0_objective]自身の姿を現し,彼らを導きました.</li>
-    <li>intro->[deity0_name]は, 人類を導き,[place_name]に定住できるよう手助けしました.</li>
-    <li>intro->[place_summary] [place_name]での, [ritualName]の間, [altarRoomLabel]に集った人々は,[deity0_name]の[altarName]で[memeConcept]を心に抱いて祈りを捧げました.</li>
-    <li>conflict->[foeLeader]が現れ,[place_massWeapon]を手に[deity0_name] [deity0_objective]を破壊すると脅迫しました.</li>
-    <li>conflict->邪悪な [foeLeader]と[foeLeader_possessive] [foeSoldiers]が[deity0_name]の信徒を奴隷にしました.</li>
-    <li>conflict->それから[foeLeader]がやって来た. [foeLeader_possessive] [foeSoldiers]は,[place_personalWeapon]で[deity0_name]の信徒を多数殺した.</li>
-    <li>conflict->恐ろしい[foeLeader]に率いられた[foeSoldiers]の集団が現れた. 彼らは[memberNamePlural]を一つの[place_community]に捕らえた.</li>
-    <li>conflict->[foeLeader]と[foeLeader_possessive] [foeSoldiers] が[deity0_name]の統治に反旗を翻すまでは平和な時代だった. [memberNamePlural]は逃亡し,[place_community]に潜むのを余儀なくされた.</li>
-    <li>founderJoin->[founderName]というなの英雄が[foeLeader]の暗殺を試みた. [founder_pronoun]は失敗したが,  [deity0_name] は [founderName]の戦いを目にし, [memberNamePlural]の預言者として[founder_objective]を聖別した.</li>
-    <li>founderJoin->[deity0_name]が,[place_job] [founderName] [revelationAdverb]にやって来て, [memeConcept]について[founder_objective]に語りました.</li>
-    <li>founderJoin->[founderName]は[revelationObject]に出会い, [memeConcept]について [deity0_name]の声で語りました.</li>
-    <li>founderJoin->[founderName]と言う名の有名な[place_job]は, [memberNamePlural]を引き連れ,さらに数名の[foeSoldiers]を勧誘しました.</li>
-    <li>founderJoin->[founderName]と言う名の[place_job]が立ち上がり, [foeLeader]に対して声を上げ,[deity0_name]は[founderName]を祝福しました.</li>
-    <li>founderJoin->[deity0_name]は, [memberNamePlural]を助けるため、人間[founderName]を名乗り[place_name]に赴くことを決意しました.</li>
-    <li>founderJoin->[founderName]と言う名の1人の英雄が, [place_personalWeapon]を用いて100人の[foeSoldiers]を殺し, [deity0_name]は[relic0_name]を介して言葉を伝え[founder_objective]に導きました.</li>
-    <li>victory->[founderName]は[memberNamePlural]を[place_community]に集め, [deity0_name]の知識を教えました.</li>
-    <li>victory->[founderName]は[founder_objective]自身を犠牲にして[foeLeader]を直接殺しました.</li>
-    <li>revelationAdverb->ヴィジョンの中</li>
+    <li>intro->[place_summary]である[place_name]の人々は,[memeAdjective][deity0_name]の管理下に生きてきた.</li>
+    <li>intro->[place_summary]である[place_name]の人々は,[memberNamePlural]とそれ以外の者たちと共に,[deity0_name]の眼差しの下で長い間平和に暮らしてきた.</li>
+    <li>intro->[deity0_type],[deity0_name]は,[place_name]の人々が[memeConcept]を理解できるように[deity0_pronoun]自身の姿を現し,彼らを導いた.</li>
+    <li>intro->[deity0_name]は人類を導き,[place_name]に定住できるよう手助けした.</li>
+    <li>intro->[place_summary]である[place_name]での,[ritualName]の間,[altarRoomLabel]に集った人々は,[deity0_name]の[altarName]で[memeConcept]を心に抱いて祈りを捧げた.</li>
+    <li>conflict->[foeLeader]が現れ,[place_massWeapon]を手に[deity0_name]を殺すと脅迫した.</li>
+    <li>conflict->邪悪な[foeLeader]と[foeLeader_possessive][foeSoldiers]が[deity0_name]の信徒を奴隷にした.</li>
+    <li>conflict->それから[foeLeader]がやって来た.[foeLeader_possessive][foeSoldiers]は,[place_personalWeapon]で[deity0_name]の信徒を多数殺した.</li>
+    <li>conflict->恐ろしい[foeLeader]に率いられた[foeSoldiers]の集団が現れた.彼らは[memberNamePlural]を一つの[place_community]に捕らえた.</li>
+    <li>conflict->[foeLeader]と[foeLeader_possessive][foeSoldiers]が[deity0_name]の統治に反旗を翻すまでは平和な時代だった.[memberNamePlural]は逃亡し,[place_community]に潜むことを余儀なくされた.</li>
+    <li>founderJoin->[founderName]という名の英雄が[foeLeader]の暗殺を試みた.[founder_pronoun]は失敗したが,[deity0_name]は[founderName]の戦いを目にし,[memberNamePlural]の預言者として[founder_objective]を聖別した.</li>
+    <li>founderJoin->[deity0_name]が[revelationAdverb],[place_job]である[founderName]の下に表れ, [memeConcept]について[founder_pronoun]に語った.</li>
+    <li>founderJoin->[founderName]は [revelationObject]に出会い,[memeConcept]について[deity0_name]の声で語った.</li>
+    <li>founderJoin->[founderName]と言う名の 有名な[place_job]は,[memberNamePlural]を引き連れ,さらに数名の[foeSoldiers]を勧誘した.</li>
+    <li>founderJoin->[founderName]と言う名の [place_job]が立ち上がり,[foeLeader]に対して声を上げ,[deity0_name]は[founderName]を祝福した.</li>
+    <li>founderJoin->[deity0_name]は[memberNamePlural]を助けるため,人間[founderName]を名乗り[place_name]に赴くことを決意した.</li>
+    <li>founderJoin->[founderName]と言う名の 1人の英雄が,[place_personalWeapon]を用いて100人の[foeSoldiers]を殺し,[deity0_name]は[relic0_name]を介して言葉を伝え[founder_objective]に導いた.</li>
+    <li>victory->[founderName]は[memberNamePlural]を[place_community]に集め,[deity0_name]の知識を教えた.</li>
+    <li>victory->[founderName]は[founder_pronoun]自身を犠牲にして[foeLeader]を直接殺した.</li>
+    <li>revelationAdverb->幻影の中</li>
     <li>revelationAdverb->夢の中</li>
     <li>revelationAdverb->悪夢の中</li>
-    <li>revelationAdverb->[Animal]のように</li>
-    <li>revelationAdverb->乞食のように</li>
-    <li>revelationObject->隠された[NaturalObject]</li>
-    <li>revelationObject->輝く[Vegetable]</li>
-    <li>revelationObject->古代の[Weapon]</li>
+    <li>revelationAdverb->[Animal]に擬態して</li>
+    <li>revelationAdverb->乞食に擬態して</li>
+    <li>revelationObject->隠された[NaturalObject]の姿で</li>
+    <li>revelationObject->輝く[Vegetable]の姿で</li>
+    <li>revelationObject->古代の[Weapon]の姿で</li>
   </TheistFounder.rules.rulesStrings>
   
   <!-- EN:
@@ -297,14 +297,14 @@
   -->
   <TheistMyth.rules.rulesStrings>
     <li>episode(priority=-1)-></li>
-    <li>creation->悠久の時の彼方, [deity0_name]が惑星と星々を想像するまで,[Color] [materialOrigin]世界にはがあった.</li>
-    <li>creation->古き闘争の宇宙において, [deity0_name]は偉大なる炎で最後の時代を一掃し,新たな火を生み出した.</li>
-    <li>creation->[deity0_name]は,偉大な事故で人類を生み出し, 好奇心から人類を見つめた.</li>
-    <li>creation->宇宙は空虚だった. そうして, [deity0_name]は永遠に退屈し, [bodilyOrigin]の男女を作り上げた.</li>
-    <li>episode(uses=1)->人類を見出すと, [deity0_name] は自分の子供であると認め, [deity0_possessive]が彼らを支配していると宣言した.</li>
-    <li>episode(uses=1)->広大な星と星の間を渡る時, [deity0_name]は虚空から人類の生存を保護するだろう.</li>
-    <li>episode(uses=1)->多くの冒険者が [deity0_objective]に反対したが, [deity0_pronoun] は [deity0_type]だったので,[deity0_name]は容易に阻止できました.</li>
-    <li>episode(uses=1)->人類の苦しみは [deity0_name] をとても悲しませました.</li>
+    <li>creation->悠久の時の彼方, [deity0_name]が惑星と星々を想像するまで,[Color]色の[materialOrigin]世界があった.</li>
+    <li>creation->古き闘争の宇宙において,[deity0_name]は偉大なる炎で最後の時代を一掃し,新たな火を生み出した.</li>
+    <li>creation->[deity0_name]は,偉大な事故で人類を生み出し,好奇心から人類を見つめた.</li>
+    <li>creation->宇宙は空虚だった.そうして,[deity0_name]は永遠に退屈し,[bodilyOrigin]の男女を作り上げた.</li>
+    <li>episode(uses=1)->人類を見出すと,[deity0_name]は自分の子供であると認め,[deity0_pronoun]が彼らを支配していると宣言した.</li>
+    <li>episode(uses=1)->広大な星と星の間を渡る時,[deity0_name]は虚空から人類の生存を保護するだろう.</li>
+    <li>episode(uses=1)->多くの冒険者が[daity0_pronoun]に反対したが,[deity0_pronoun]は[deity0_type]だったので,[deity0_name]は容易に阻止できた.</li>
+    <li>episode(uses=1)->人類の苦しみは[deity0_name]をとても悲しませた.</li>
     <li>materialOrigin->土塊</li>
     <li>materialOrigin->ガス</li>
     <li>materialOrigin->水</li>

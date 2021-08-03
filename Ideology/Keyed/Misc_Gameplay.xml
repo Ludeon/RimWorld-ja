@@ -126,7 +126,7 @@
   <!-- EN: Changing -->
   <Changing>変更する</Changing>
   <!-- EN: structures -->
-  <StructuresLower>建築物</StructuresLower>
+  <StructuresLower>構造</StructuresLower>
   <!-- EN: memes -->
   <MemesLower>ミーム</MemesLower>
   
@@ -458,9 +458,9 @@
   <!-- EN: Morphing {DRYAD_labelShort} into {TYPE_label}. -->
   <ChangingDryadIntoType>{DRYAD_labelShort}を{TYPE_label}に異形態化中.</ChangingDryadIntoType>
   <!-- EN: {0} hours every day -->
-  <HoursEveryDay>TODO</HoursEveryDay>
+  <HoursEveryDay>毎日{0}時間</HoursEveryDay>
   <!-- EN: {0} hours every other day -->
-  <HoursEveryOtherDay>TODO</HoursEveryOtherDay>
+  <HoursEveryOtherDay>一日おきに{0}時間</HoursEveryOtherDay>
   <!-- EN: {DRYAD_labelPlural} produce {RESOURCES} every {DURATION}. -->
   <DryadProducesResourcesDesc>{DRYAD_labelPlural}は{DURATION}毎に{RESOURCES}を生成します.</DryadProducesResourcesDesc>
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->

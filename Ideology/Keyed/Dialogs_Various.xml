@@ -27,7 +27,7 @@
   <IncompatibleMemes>{0_label}と{1_label}には互換性がありません.</IncompatibleMemes>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
-  <ChangesRandomizePrecepts>TODO</ChangesRandomizePrecepts>
+  <ChangesRandomizePrecepts>{0}は,編集した全ての戒律を再ランダム化します.\n\n本当に続けますか?</ChangesRandomizePrecepts>
   
   <!-- EN: Room requirements -->
   <RoomRequirements>部屋の要件</RoomRequirements>
@@ -71,7 +71,7 @@
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>ミーム'{MEME}'は役割に服装要件を追加することを防ぎます.</CannotNotAddRoleApparelDueToMeme>
   <!-- EN: cannot be worn with {0_label} -->
-  <CannotBeWornWith>TODO</CannotBeWornWith>
+  <CannotBeWornWith>{0_label}と一緒に着用することはできません</CannotBeWornWith>
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>信仰度の減少</AbilityIdeoConvertBreakdownLabel>
@@ -86,7 +86,7 @@
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>{TRAIT}</AbilityIdeoConvertBreakdownTrait>
   <!-- EN: {RELICCOUNT} installed relics on map -->
-  <AbilityIdeoConvertBreakdownRelic>TODO</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT}がマップ上にレリックを設置しました</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
   <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort}の社交スキル</AbilityIdeoConvertBreakdownSocialSkill>
   <!-- EN: {RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort} -->
@@ -97,7 +97,7 @@
   <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT}</AbilityIdeoConvertBreakdownMemeVsTrait>
 
   <!-- EN: {PAWN_labelShort} was already counselled recently. -->
-  <AbilityCantApplyAlreadyCounselled>TODO</AbilityCantApplyAlreadyCounselled>
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort}は既に最近,カウンセリングを受けています.</AbilityCantApplyAlreadyCounselled>
 
   <!-- Slavery -->
   <!-- EN: Slave -->
@@ -107,9 +107,9 @@
   <!-- EN: Any slave -->
   <AnySlave>任意の奴隷</AnySlave>
   <!-- EN: Negotiator will not sell people into slavery. -->
-  <NegotiatorWillNotTradeSlaves>TODO</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlaves>交渉担当者は人間を奴隷として売りません.</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction. -->
-  <NegotiatorWillNotTradeSlavesTip>TODO</NegotiatorWillNotTradeSlavesTip>
+  <NegotiatorWillNotTradeSlavesTip>交渉担当者の{0_nameDef}は{1}を信じているため,人間を奴隷にしません.\n\n{0_nameDef}は身代金を要求して誰かを本人の派閥に帰すことは気にしませんが,別の派閥に売ることは拒否することに注意してください.</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
   <LastHumanMeat>最後の人肉</LastHumanMeat>
@@ -196,17 +196,17 @@
   <!-- EN: Resets all style items to their default values. -->
   <ResetButtonDesc>すべてのスタイルをデフォルト値にリセットします.</ResetButtonDesc>
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+  <TooltipDyeExplanation>染料はティンクトリアから栽培することも,トレーダーから購入することもできます.</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
-  <SendShuttleAnyway>TODO</SendShuttleAnyway>
+  <SendShuttleAnyway>とにかくシャトルを送る</SendShuttleAnyway>
   <!-- EN: Re-load shuttle -->
-  <ReLoadShuttle>TODO</ReLoadShuttle>
+  <ReLoadShuttle>シャトルに再び荷積みする</ReLoadShuttle>
 
   <!-- Medical settings -->
   <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>TODO</MedGroupEnslavedColonist>
+  <MedGroupEnslavedColonist>奴隷の入植者</MedGroupEnslavedColonist>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
@@ -226,30 +226,30 @@
 
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->
-  <ChooseColonistsForIdeoTitle>TODO</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoTitle>あなたの思想に改宗させる人を選ぶ</ChooseColonistsForIdeoTitle>
   <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
-  <ChooseColonistsForIdeoDesc>TODO</ChooseColonistsForIdeoDesc>
+  <ChooseColonistsForIdeoDesc>新しいコロニーを設立するとき,入植者があなたの最初の思想に改宗するかもしれません.</ChooseColonistsForIdeoDesc>
   <!-- EN: New Colony -->
-  <ChooseThingsForNewColonyTitle>TODO</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyTitle>新しいコロニー</ChooseThingsForNewColonyTitle>
   <!-- EN: Choose which colonists, animals and relics to bring to the new colony. -->
-  <ChooseThingsForNewColonyDesc>TODO</ChooseThingsForNewColonyDesc>
+  <ChooseThingsForNewColonyDesc>新しいコロニーに持ち込む入植者,家畜,レリックを選択してください.</ChooseThingsForNewColonyDesc>
   <!-- EN: Choose up to {0} {1}. -->
-  <ChooseThingsDesc>TODO</ChooseThingsDesc>
+  <ChooseThingsDesc>最大{0}つまで{1}を選択してください.</ChooseThingsDesc>
   <!-- EN: Choose up to {0} people. -->
-  <ChoosePeopleDesc>TODO</ChoosePeopleDesc>
+  <ChoosePeopleDesc>最大{0}人まで選択してください.</ChoosePeopleDesc>
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
-  <ChooseOnlySlavesInfo>TODO</ChooseOnlySlavesInfo>
+  <ChooseOnlySlavesInfo>奴隷だけ選択した場合,次のコロニーで入植者としてプレイできます.</ChooseOnlySlavesInfo>
   <!-- EN: Convert -->
-  <ConvertToPlayerIdeoligion>TODO</ConvertToPlayerIdeoligion>
+  <ConvertToPlayerIdeoligion>改宗</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
-  <RevertToPreviousIdeoligion>TODO</RevertToPreviousIdeoligion>
+  <RevertToPreviousIdeoligion>元に戻す</RevertToPreviousIdeoligion>
   <!-- EN: Existing follower -->
-  <ExistingFollowerOfPlayerIdeoligion>TODO</ExistingFollowerOfPlayerIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>既存の思想者</ExistingFollowerOfPlayerIdeoligion>
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
-  <AbandonArchotechStructuresWarningDialog>TODO</AbandonArchotechStructuresWarningDialog>
+  <AbandonArchotechStructuresWarningDialog>まだ完全に研究を終えてないアルコテック建築物を含む遺跡を放棄しています.\n\n後でここに定住することはできますが,コロニーは一掃されます.</AbandonArchotechStructuresWarningDialog>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
-  <ConfirmHackEnenyTerminal>TODO</ConfirmHackEnenyTerminal>
+  <ConfirmHackEnenyTerminal>この{0}をハッキングすると敵に警報が発せられ,攻撃が発生します.本当に{0}をハッキングしますか?</ConfirmHackEnenyTerminal>
 
   <!-- EN: Relics -->
   <RelicsSection>レリック</RelicsSection>

@@ -5,9 +5,9 @@
   <!-- EN: Overrides some precepts related to -->
   <OverridesSomePrecepts>以下に関連するいくつかの戒律を上書きます</OverridesSomePrecepts>
   <!-- EN: Agrees with memes -->
-  <AgreeableMemes>TODO</AgreeableMemes>
+  <AgreeableMemes>ミームに同意する</AgreeableMemes>
   <!-- EN: Conflicts with memes -->
-  <DisagreeableMemes>TODO</DisagreeableMemes>
+  <DisagreeableMemes>ミームとの競合</DisagreeableMemes>
 
   <!-- ITab titles -->
   <!-- EN: Slave -->
@@ -31,36 +31,36 @@
   <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
   <SuppressionFallRateDesc>抑圧は現在のレベルに応じて時間経過とともに低下していきます.\n\n- {1}+ 抑圧: {0}／日\n- {4}-{3} 抑圧: {2}／日\n- {6}- 抑圧: {5}／日\n\nまた,装備や恐怖も抑圧低下率に影響を与えます.この奴隷の低下率計算は以下</SuppressionFallRateDesc>
   <!-- EN: Cannot emancipate -->
-  <CannotEmancipate>TODO</CannotEmancipate>
+  <CannotEmancipate>解放できない</CannotEmancipate>
   <!-- EN: Cannot imprison -->
-  <CannotImprison>TODO</CannotImprison>
+  <CannotImprison>投獄できない</CannotImprison>
   <!-- EN: Current suppression -->
-  <CurrentSuppression>TODO</CurrentSuppression>
+  <CurrentSuppression>現在の抑圧</CurrentSuppression>
   <!-- EN: Terror -->
   <Terror>恐怖</Terror>
   <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
   <TerrorDescription>恐怖は,奴隷を抑圧するための手段です.奴隷が恐怖の彫刻のような恐ろしいものの近くで過ごすと上昇します.奴隷は一度に3つの恐怖ソースの影響を受けることができます.\n\n恐怖の強さに応じて,抑圧の低下は以下のように遅くなります</TerrorDescription>
   <!-- EN: Recent terrifying observations -->
-  <TerrorCurrentThoughts>TODO</TerrorCurrentThoughts>
+  <TerrorCurrentThoughts>最近見た恐ろしいもの</TerrorCurrentThoughts>
 
   <!-- EN: Base interval -->
-  <SuppressionBaseInterval>TODO</SuppressionBaseInterval>
+  <SuppressionBaseInterval>基本間隔</SuppressionBaseInterval>
   <!-- EN: Moving capacity -->
-  <SuppressionMovingCapacityFactor>TODO</SuppressionMovingCapacityFactor>
+  <SuppressionMovingCapacityFactor>移動能力</SuppressionMovingCapacityFactor>
   <!-- EN: Suppression -->
-  <SuppressionFactor>TODO</SuppressionFactor>
+  <SuppressionFactor>抑圧</SuppressionFactor>
   <!-- EN: Mood -->
-  <SuppressionMoodFactor>TODO</SuppressionMoodFactor>
+  <SuppressionMoodFactor>心情</SuppressionMoodFactor>
   <!-- EN: Slave count -->
   <SuppressionSlaveCountFactor>奴隷の人数</SuppressionSlaveCountFactor>
   <!-- EN: Escape route -->
-  <SuppressionEscapeFactor>TODO</SuppressionEscapeFactor>
+  <SuppressionEscapeFactor>脱走経路</SuppressionEscapeFactor>
   <!-- EN: Weapon proximity -->
-  <SuppressionWeaponProximityFactor>TODO</SuppressionWeaponProximityFactor>
+  <SuppressionWeaponProximityFactor>付近の武器</SuppressionWeaponProximityFactor>
   <!-- EN: Final interval -->
-  <SuppressionFinalInterval>TODO</SuppressionFinalInterval>
+  <SuppressionFinalInterval>最後からの間隔</SuppressionFinalInterval>
   <!-- EN: Unattended -->
-  <SuppressionUnattendedByColonists>TODO</SuppressionUnattendedByColonists>
+  <SuppressionUnattendedByColonists>放置</SuppressionUnattendedByColonists>
   <!-- EN: At least one of the {0} slaves on this map is expected rebel on average every {1}. -->
   <SuppressionRebellionAnySlave>このマップ上の{0}人の奴隷の少なくとも一人は,平均して{1}ごとに反乱を起こすと予想されます.</SuppressionRebellionAnySlave>
 
@@ -85,9 +85,9 @@
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
   <RoleDesc>この人物の,自身の思想に基づいた特別な地位です.この役割を変更したり取り除いたりすると,不幸な気持ちになります.</RoleDesc>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
-  <ConversionWeakerDueToTraitAgreements>TODO</ConversionWeakerDueToTraitAgreements>
+  <ConversionWeakerDueToTraitAgreements>特性/ミームの合意により,改宗の試みが弱くなります</ConversionWeakerDueToTraitAgreements>
   <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
-  <ConversionStrongerDueToTraitAgreements>TODO</ConversionStrongerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>特性/ミームの競合により,改宗の試みは強くなります</ConversionStrongerDueToTraitAgreements>
 
   <!-- EN: Cut -->
   <Cut>切り取る</Cut>
