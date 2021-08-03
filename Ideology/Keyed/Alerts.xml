@@ -135,10 +135,10 @@
   <AlertCasketOpeningDesc>未知の脅威を含む冷凍睡眠装置が間もなく開かれます.</AlertCasketOpeningDesc>
 
   <!-- EN: Slave rebellion likely -->
-  <AlertSlaveRebellionLikely>奴隷反乱の可能性</AlertSlaveRebellionLikely><!--text_todo-->
+  <AlertSlaveRebellionLikely>奴隷反乱の可能性</AlertSlaveRebellionLikely>
   <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
-  <AlertSlaveRebellionLikelyRebelliousCount>{REBELLIOUSCOUNT}人の奴隷が反乱を起こす可能性があります.</AlertSlaveRebellionLikelyRebelliousCount><!--text_todo-->
-  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. These are the factors which are adjusting how soon they will rebel: -->
-  <AlertSlaveRebellionLikelyMostRebellious>奴隷の反乱はおよそ{COMBINEDTIME}ごとに一回発生すると予想されます.各奴隷が反乱を起こす可能性はそれぞれ独立していますが,誰かが反逆した場合,同時に他の奴隷を連れて行くこともあるので注意してください.\n\n最も反乱を起こしやすい奴隷は{REBEL_labelShort}であり,{INDIVIDUALTIME}ごとにおよそ一回反乱を起こすことが予想されます.以下が彼らがどれだけ早く反逆するかに影響している要因です:</AlertSlaveRebellionLikelyMostRebellious><!--text_todo-->
+  <AlertSlaveRebellionLikelyRebelliousCount>{REBELLIOUSCOUNT}人の奴隷が反乱を起こす可能性があります.</AlertSlaveRebellionLikelyRebelliousCount>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
+  <AlertSlaveRebellionLikelyMostRebellious>奴隷の反乱はおよそ{COMBINEDTIME}ごとに一回発生すると予想されます.各奴隷が反乱を起こす可能性はそれぞれ独立していますが,誰かが反逆した場合,同時に他の奴隷を連れて行くこともあるので注意してください.\n\n最も反乱を起こしやすい奴隷は{REBEL_labelShort}であり,{INDIVIDUALTIME}ごとにおよそ一回反乱を起こすことが予想されます.以下の要因が,彼らの反逆する頻度に影響を与えています:</AlertSlaveRebellionLikelyMostRebellious>
   
 </LanguageData>

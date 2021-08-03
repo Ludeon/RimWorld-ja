@@ -2,15 +2,15 @@
 <LanguageData>
 
   <!-- EN: Customize ideoligion -->
-  <CustomizeIdeoligion>思想をカスタム</CustomizeIdeoligion> <!-- text_todo -->
+  <CustomizeIdeoligion>思想をカスタム</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
   <ChooseYourIdeoligion>思想を選択</ChooseYourIdeoligion>
   <!-- EN: Random -->
   <Random>ランダム</Random>
   <!-- EN: A random structure will be used for your ideoligion. -->
-  <RandomStructureTip>ランダムな構造が思想に適用されます.</RandomStructureTip> <!-- text_todo -->
+  <RandomStructureTip>ランダムな構造が思想に適用されます.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
-  <RandomStyleTip>ランダムなスタイルが思想に適用されます.</RandomStyleTip> <!-- text_todo -->
+  <RandomStyleTip>ランダムなスタイルが思想に適用されます.</RandomStyleTip>
   <!-- EN: Customize -->
   <Customize>カスタム</Customize>
   <!-- EN: Play classic -->
@@ -486,7 +486,7 @@
   <!-- EN: Target outdoors and daytime -->
   <TargetDayOutdoors>屋外と日中をターゲットにする</TargetDayOutdoors>
   <!-- EN: Target indoors and lit -->
-  <TargetLitIndoors>屋内と明かりをターゲットにする</TargetLitIndoors>
+  <TargetLitIndoors>屋内と明かりをターゲットにする</TargetLitIndoors>  
   <!-- EN: Charging -->
   <RechargeableCharging>充電</RechargeableCharging>
   <!-- EN: Ready -->
@@ -579,8 +579,5 @@
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}は快楽サイクルを完了しました.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>清浄度による速度掛け率</BiosculpterCleanlinessSpeedFactor>
-
-  <!-- UNUSED -->
-  <ChooseIdeoligion>派閥の思想を選択</ChooseIdeoligion>
 
 </LanguageData>
