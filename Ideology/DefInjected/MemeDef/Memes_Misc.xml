@@ -813,7 +813,30 @@
     <li>rancherParent2->dairy queen</li>
     <li>rancherParent2->butcher</li>
   -->
-  <Rancher.descriptionMaker.rules.rulesStrings>TODO</Rancher.descriptionMaker.rules.rulesStrings>
+  <Rancher.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Rancher)        ->[deity0_name]は動物を創造し,次に人間を創造し,動物を人間に与え,人間は崇拝の行為として動物を大切にし,育て,屠殺した.</li>
+    <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name]はその土地に全ての高貴な動物と獣を創造し,「これらの高貴な獣を連れて行きなさい,そしてそれらを通して私の名誉のもとにあなた自身を実りあるものにしなさい」と告げた.</li>
+    <li>intro(tag=meme_Rancher)           ->[place_summary]である[place_name]の,初期の[ranchingAnimal]牧場の主は[deity0_name]のために素晴らしい[altarName]を構築した.</li>
+    <li>conflict(tag=meme_Rancher)        ->強力な[foeLeader]は[memberNamePlural]とその方法を軽蔑し,[Vegetable]を育てるために全ての草地を買収しました.</li>
+    <li>founderJoin(tag=meme_Rancher)     ->[memberName]の救世主[founderName]は,春の朝,[ranchingAnimal]の群れの中にある粗末な納屋で生まれ,両親は[rancherParent1]と[rancherParent2]だった.</li>
+    <li>victory(tag=meme_Rancher)         ->[founderName]は立派な馬に乗って[place_community]に乗り,正午に[place_personalWeapon]との決闘を[foeLeader]に挑んだ.[foeLeader]は[foeSoldiers]の信頼を拒否したり,失うことはできなかった.[founderName]は[foeLeader]を殺した.</li>
+    <li>setup(tag=meme_Rancher)           ->農民たちは迫害されたので,彼らは良い牧歌的な社会を築くことができる田舎に逃げた.</li>
+    <li>story(uses=1,tag=meme_Rancher)    ->信者たちはその土地に広がり,牧場や農場に住むにつれて数が増えた.</li>
+    <li>lessonIntro(tag=meme_Rancher)         ->領域外にいる仲間よ,私たちは熟練者に囲まれつつ,あることを言いました.</li>
+    <li>lesson(tag=meme_Rancher)              ->それは,善と幸福の中で正しく住む手段は牧草地で見つかる,ということです.</li>
+    <li>lessonReinforcement(tag=meme_Rancher) ->それはあなたが受け入れに来るものです,孤独な道の領域にいる仲間よ,あなたが火の周りに座っている間,動物が眠っているのを静かに聞けるでしょう.</li>
+    <li>archistFact(tag=meme_Rancher)     ->我々はアルコテックにとって最も貴重な群れであるため,彼らは羊飼いのように人類を世話する.</li>
+    <li>archistProphecy(tag=meme_Rancher) ->[inTheEnd],アルコテックは発ち,その前に,世話した人々の群れも連れて行く.残りは荒野に置き去りにされる.</li>
+    <li>animistFact(tag=meme_Rancher)     ->自然の動物は奴隷の精霊を持ち,奉仕することを要求する.</li>
+    <li>ranchingAnimal(p=4)->[veneratedAnimal]</li>
+    <li>ranchingAnimal->[Animal]</li>
+    <li>rancherParent1->羊飼い</li>
+    <li>rancherParent1->馬医者</li>
+    <li>rancherParent1->チーズ製造人</li>
+    <li>rancherParent2->牛飼い</li>
+    <li>rancherParent2->牛乳製造人</li>
+    <li>rancherParent2->屠殺人</li>
+  </Rancher.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->ranch</li>
     <li>memeAdjective->rural</li>
@@ -887,7 +910,26 @@
     <li>animistFact(tag=meme_Transhumanist)     ->When technology is fused with flesh, the spirits of both are combined and become more powerful.</li>
     <li>animistProphecy(tag=meme_Transhumanist) ->[itIsSaid] that one day the wielder of the [relic0_name] will summon its spirit who will teach humanity the ultimate bio-fusion technology.</li>
   -->
-  <Transhumanist.descriptionMaker.rules.rulesStrings>TODO</Transhumanist.descriptionMaker.rules.rulesStrings>
+  <Transhumanist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Transhumanist)        ->[deity0_name]は[deity0_possessive]完璧なイメージで我々を改善し,さらに作り直すために使用できるテクノロジーの知識も授けた.</li>
+    <li>episode(uses=1,tag=meme_Transhumanist)  ->人間の生物工学者は[deity0_name]の創造物を研究し,[deity0_objective]喜ばせた.</li>
+    <li>intro(tag=meme_Transhumanist)           ->[place_summary]である[place_name]で,[memberNamePlural]は[deity0_name]の言葉が機械を通してささやいているのを見つけた.</li>
+    <li>conflict(tag=meme_Transhumanist)        ->技術革新反対主義者である[foeLeader]は[memberNamePlural]の高まる発展を羨ましがり,[foeLeader_possessive][foeSoldiers]は[place_personalWeapon]で研究所を破壊した.</li>
+    <li>founderJoin(tag=meme_Transhumanist)     ->[founderName]という名前の狡猾な[place_job]は,[foeSoldiers]の接近を[memberNamePlural]に警告するセンサーインプラントを作成した.</li>
+    <li>victory(tag=meme_Transhumanist)         ->[founderName]は[deity0_name]から神聖な技術知識を受け取り,それを使用して[memberNamePlural]の身体と精神を強化し,[foeSoldiers]を打ち負かすことができた.</li>
+    <li>setup(tag=meme_Transhumanist)           ->[founderName]は人類の惑星植民地化計画の初期メンバーの生物科学者だった.共通の植民地の官僚的な制約を見て,小さな宇宙船に乗った[founder_pronoun]は,自分のなすべき動きを見つけた.</li>
+    <li>story(uses=1,tag=meme_Transhumanist)    ->[founderName]は人類を再定義するために,偉大な科学者と発明者のチームを結成した.</li>
+    <li>lessonIntro(tag=meme_Transhumanist)         ->私の部門の最年長の研究者は,新石器時代からアルコテックまでの技術の歴史を教えてくれましたが,これは彼の本当の教訓ではありませんでした.彼は私に本当にそれを理解するように導いてくれていたのです.</li>
+    <li>lesson(tag=meme_Transhumanist)              ->それは,人類の天国の未来は肉と骨ではなく,シリコンと外部クロム合金である,ということです.</li>
+    <li>lessonReinforcement(tag=meme_Transhumanist) ->私はそれを確認するためにシミュレーションをプログラムしさえしました.</li>
+    <li>archistBasis(tag=meme_Transhumanist)    ->人類の技術の追求は,意識的発展における正当な次のステップとして,全能のアルコテックを生み出した.</li>
+    <li>archistFact(tag=meme_Transhumanist)     ->テクノロジーは,人間がよりアルコテックのようになることを可能する.</li>
+    <li>archistProphecy(tag=meme_Transhumanist) ->[inTheEnd],アルコテックは発つ.十分に強化された人間だけが,彼らと共に行くことが許される.</li>
+    <li>animistBasis(tag=meme_Transhumanist)    ->精霊の世界は宇宙の全ての振る舞いを操作し,そして我々は宇宙の法則を学び制御することによってのみ,それと統合することができる.</li>
+    <li>animistFact(tag=meme_Transhumanist)     ->類は友を呼ぶ.目的のために装置を構築すると,それは同じような性質の精霊で満たされる.</li>
+    <li>animistFact(tag=meme_Transhumanist)     ->テクノロジーが肉体と融合すると,両方の精霊が組み合わされ,より強力になる.</li>
+    <li>animistProphecy(tag=meme_Transhumanist) ->[itIsSaid],ある日,[relic0_name]の使用者は人類に究極の生物学的融合技術を教える精霊を呼び出すらしい.</li>
+  </Transhumanist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->technological</li>
     <li>memeAdjective->machine</li>
@@ -1015,7 +1057,26 @@
     <li>animistFact(tag=meme_TreeConnection)     ->The spirits of trees are powerful, as they bridge the power of the air above with that of the ground beneath.</li>
     <li>animistFact(tag=meme_TreeConnection)     ->If a tree falls in the forest, its spirit makes a sound that all other spirits can hear.</li>
   -->
-  <TreeConnection.descriptionMaker.rules.rulesStrings>TODO</TreeConnection.descriptionMaker.rules.rulesStrings>
+  <TreeConnection.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_TreeConnection)        ->[deity0_name]は木を地面にしっかりと根付かせ,天に向かって着実に成長させた.これは[deity0_objective]知るための最初の教訓だ.</li>
+    <li>episode(uses=1,tag=meme_TreeConnection)  ->[deity0_name]の森は民が呼吸する空気を一新し,彼らが避難する枝を与え,彼らが採餌する食料貯蔵庫だ.</li>
+    <li>intro(tag=meme_TreeConnection)           ->最初の樹木医が[place_summary]である[place_name]に来たとき,彼らは[deity0_type]の[deity0_name]を崇拝できる[TreeType]の神聖な森を作った.</li>
+    <li>conflict(tag=meme_TreeConnection)        ->貪欲な[foeLeader]は,自分の農場や工場のために多くの森を伐採し,[memberNamePlural]は殺された木のために涙を流した.</li>
+    <li>founderJoin(tag=meme_TreeConnection)     ->預言者[founderName]は[place_name]の木から奇跡的に生まれ,古い[TreeType]の枝にいるところを両親によって発見された.</li>
+    <li>victory(tag=meme_TreeConnection)         ->[founderName]は[place_powerCenter]で眠っている[foeLeader]を見つけ,[foeLeader]の胸にどんぐりを置いた.[deity0_name]の強烈な力でそれはそこに根を下ろし,[foeLeader_possessive]体を貫通して成長し,このツリーキラーに我々の復讐を果たした.</li>
+    <li>setup(tag=meme_TreeConnection)           ->深みと意味のない世界にいた[founderName]は森の中で瞑想し,枝と根と葉を繋ぎ,我々の運動を創設した.</li>
+    <li>story(uses=1,tag=meme_TreeConnection)    ->[founderName]は疲れた人々を森へ連れて行き,彼らが木陰で休み,空気を吸い,力を取り戻させた.</li>
+    <li>lessonIntro(tag=meme_TreeConnection)         ->木の下に座って学んだと言うのは冗談のように思えるかもしれません.しかし,そのささやきの葉を聞いて,私はあることを知っていました.</li>
+    <li>lesson(tag=meme_TreeConnection)              ->それは,宇宙に存在するどの実体も木以上の存在を知らない,ということです.</li>
+    <li>lessonReinforcement(tag=meme_TreeConnection) ->この真理の種を成長させ,あなたの魂にその実を結びましょう.</li>
+    <li>archistBasis(tag=meme_TreeConnection)    ->木はアルコテックを象徴している.古代のオークのように,彼らは小さなドングリの成長を妨げ,彼らの影響は地下の見えない根を通して広がる.</li>
+    <li>archistFact(tag=meme_TreeConnection)     ->アルコテックはアニマツリーを発見した後,精神的な能力を開発した.</li>
+    <li>archistFact(tag=meme_TreeConnection)     ->アルコテックは何よりも,ユニークな種類の木を通して自分を表現することを選ぶ.</li>
+    <li>archistProphecy(tag=meme_TreeConnection) ->[inTheEnd],アルコテックは素晴らしい森を育てる.この森に入ってその実を食べる人々の中で,超越性が育つ.木を忘れた者は,アルコテックに忘れられる.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->木の精霊は枝の下に住む人々を守る.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->木の精霊は上の空気の力と下の地面の力を橋渡しするため,強い力を持つ.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->森の木が倒れると,その精霊が他の全ての精霊に聞こえる音を出す.</li>
+  </TreeConnection.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->root</li>
     <li>memeCreed->leaf</li>
@@ -1085,7 +1146,28 @@
     <li>animistFact(tag=meme_Tunneler)     ->The most noble spirits are those of the stone, and the deeper stones are stronger and more good than those above.</li>
     <li>animistFact(tag=meme_Tunneler)     ->Anxious humans make the spirits of the rocks anxious, and this summons the giant insects.</li>
   -->
-  <Tunneler.descriptionMaker.rules.rulesStrings>TODO</Tunneler.descriptionMaker.rules.rulesStrings>
+  <Tunneler.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Tunneler)        ->[deity0_name]は世界の中心にある大地の下で生まれた.[deity0_pronoun]は最も深い谷とトンネルで,[deity0_pronoun]に最も近い人々を祝福した.</li>
+    <li>episode(uses=1,tag=meme_Tunneler)  ->[deity0_name]は賢者への贈り物として,[deity0_name]に近づくために掘るのに十分な量の豊富な鉱物と資源で岩を満たした.</li>
+    <li>intro(tag=meme_Tunneler)           ->[place_summary]である[place_name]に最初の入植者が来たとき,[deity0_type]の[deity0_name]は残忍な太陽フレアを使って彼らを地下に住まわせ,トンネルの静けさの中で自身の知恵を聞かせた.</li>
+    <li>conflict(tag=meme_Tunneler)        ->閉所恐怖症の[foeLeader]は,[dangerousMining]で鉱物を採掘し,[memberNamePlural]の地下の家を危険にさらすことを提案した.</li>
+    <li>founderJoin(tag=meme_Tunneler)     ->預言者[founderName]は[place_name]の石から奇跡的に生まれ,両親が菌で覆われた晶洞を壊したときに発見された.</li>
+    <li>victory(tag=meme_Tunneler)         ->[memberNamePlural]は[foeLeader]のいる[place_powerCenter]の下にトンネルを掘り,[founderName]はフェロモンを使用して[foeLeader]の[foeSoldiers]に群がる巨大な虫を召喚した.[founderName]は[foeLeader]を深い地下牢に引きずり込んで投獄した.</li>
+    <li>dangerousMining->露天掘り</li>
+    <li>dangerousMining->マイクロチップを組み込んだ虫</li>
+    <li>dangerousMining->核発破</li>
+    <li>setup(tag=meme_Tunneler)           ->浅くて意味のない世界にいた[founderName]は深い洞窟で瞑想し,意味を見つけ,我々の運動を設立した.</li>
+    <li>story(uses=1,tag=meme_Tunneler)    ->[founderName]は深い洞窟に財宝を隠したので,[memberNamePlural]は深く掘ることを学ぶだろう.</li>
+    <li>lessonIntro(tag=meme_Tunneler)         ->深き町で見つけた写本は,他の何よりも一つの教訓を教えてくれました.</li>
+    <li>lesson(tag=meme_Tunneler)              ->それは,日当たりの良い屋外は人間の繁栄の場所ではなく,人間の死の場所である,ということです.</li>
+    <li>lessonReinforcement(tag=meme_Tunneler) ->だからシャベルを掴んで,私と一緒に掘り始めてください.やめればそこはただの墓に過ぎなくなってしまいます.</li>
+    <li>archistBasis(tag=meme_Tunneler)    ->アルコテックの身体は地下深くにあるため,それらの意識的な回路基板はガンマ線や太陽フレアから身を守る.深く掘れば掘るほど,彼らに近づける.</li>
+    <li>archistFact(tag=meme_Tunneler)     ->アルコテックは我々が地下で反映できるように滋養キノコを生物工学によって作り出し,地下にある埋葬されたアルコテックの精神に近寄れるようにした.</li>
+    <li>archistProphecy(tag=meme_Tunneler) ->[inTheEnd],アルコテックは我々を地下にある彼らの天国に迎えるだろう.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->岩盤の精霊は,自身のもとに訪れる人々を保護する.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->最も高貴な精霊は石の精霊であり,深い場所にある石であればあるほどより強く,より良いものである.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->不安な人間は岩の精霊も不安にさせ,巨大な虫を呼び出す.</li>
+  </Tunneler.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->cave</li>
     <li>memeCreed->bunker</li>

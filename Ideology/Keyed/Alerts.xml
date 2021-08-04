@@ -20,7 +20,7 @@
   <!-- EN: {0} expected -->
   <RitualExpected>{0}の要求</RitualExpected>
   <!-- EN: {0} expected for -->
-  <RitualExpectedFor>TODO</RitualExpectedFor>
+  <RitualExpectedFor>{0}の要求</RitualExpectedFor>
   <!-- EN: {0} days: Ritual opportunity ends. -->
   <RitualExpirationTime>{0}日: 儀式期間の終了</RitualExpirationTime>
   <!-- EN: Expires in -->
@@ -52,12 +52,12 @@
   <!-- EN: {0} disrespected -->
   <IdeoBuildingDisrespected>{0}を軽蔑</IdeoBuildingDisrespected>
   <!-- EN: {0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingDisrespectedDesc>TODO</IdeoBuildingDisrespectedDesc>
+  <IdeoBuildingDisrespectedDesc>{0}では,{1}が威厳のある部屋にいる必要があります.これらの部屋の要件を満たす必要があります:\n{2}\n\n{1}の部屋の要件が満たされていない場合,以下の信者は不幸になります:\n{3}</IdeoBuildingDisrespectedDesc>
   
   <!-- EN: Raids arriving in {0} -->
-  <QuestPartRaidsDelay>TODO</QuestPartRaidsDelay>
+  <QuestPartRaidsDelay>{0}に襲撃が来る</QuestPartRaidsDelay>
   <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data. -->
-  <QuestPartRaidsDelayDesc>TODO</QuestPartRaidsDelayDesc>
+  <QuestPartRaidsDelayDesc>襲撃者は{0}に向かっています.\n\n襲撃者はスペースドローンを目標に破壊しようとします.入植者がコンピューターをハッキングしてデータを取得できるように,スペースドローンを保護してください.</QuestPartRaidsDelayDesc>
 
   <!-- EN: {0} role unfilled -->
   <IdeoRoleEmpty>{0} 役割未割当</IdeoRoleEmpty>
@@ -67,18 +67,18 @@
   <IdeoRolesEmptyDesc>これらの役割に割り当てがありません:\n{0}\n\n入植者の「社交」タブから役割に割り当てることができます.\n\n役割未割当のままだと,以下の入植者の心情が悪化します.</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
-  <AncientAltarThreatsWaking>TODO</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWaking>{0}で活性化したセキュリティの脅威</AncientAltarThreatsWaking>
   <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
-  <AncientAltarThreatsWakingDesc>TODO</AncientAltarThreatsWakingDesc>
+  <AncientAltarThreatsWakingDesc>セキュリティの脅威は{0}でアクティブになります.この脅威はレリックを脅かす恐れのある人物を攻撃します.</AncientAltarThreatsWakingDesc>
 
   <!-- EN: No recent slaughter -->
-  <AlertNoRecentSlaughter>TODO</AlertNoRecentSlaughter>
+  <AlertNoRecentSlaughter>最近の屠殺がない</AlertNoRecentSlaughter>
   <!-- EN: No large {0} animal has been slaughtered recently. This is a requirement of the following ideoligions -->
-  <AlertNoRecentSlaughterDesc>TODO</AlertNoRecentSlaughterDesc>
+  <AlertNoRecentSlaughterDesc>最近,大きな{0}家畜を屠殺していません.これは以下の思想で要求される要件です</AlertNoRecentSlaughterDesc>
   <!-- EN: {0} body size or above -->
-  <BodySizeOrAbove>TODO</BodySizeOrAbove>
+  <BodySizeOrAbove>体格{0}サイズ以上</BodySizeOrAbove>
   <!-- EN: If no slaughter is performed, these colonists will remain unhappy -->
-  <AlertNoRecentSlaughterDescPost>TODO</AlertNoRecentSlaughterDescPost>
+  <AlertNoRecentSlaughterDescPost>屠殺が行われない場合,以下の入植者は不幸なままになります</AlertNoRecentSlaughterDescPost>
   
   <!-- EN: Ritual opportunity soon -->
   <AlertRitualComing>もうすぐ儀式の日</AlertRitualComing>
@@ -90,20 +90,20 @@
   <AlertRitualComingEntry>{0}({1},残り{2})</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
-  <AlertAgeReversalDemandNear>TODO</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandNear>年齢逆転の要求</AlertAgeReversalDemandNear>
   <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
-  <AlertAgeReversalDemandDesc>TODO</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc>入植者の何人かは彼らの持つ信念のために,生体改造ポッドで定期的な年齢逆転の治療を要求します.治療を受けなければ,彼らは不幸になります.</AlertAgeReversalDemandDesc>
   <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Recruit>TODO</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN}は最近{FACTION}に参加し,{DURATION}で年齢逆転の治療を開始したいと考えています.</AlertAgeReversalDemandDesc_Recruit>
   <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Next>TODO</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Next>{PAWN}は{DURATION}で,次の治療を望んでいます.</AlertAgeReversalDemandDesc_Next>
   <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Initial>TODO</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN}は{DURATION}で,最初の治療を望んでいます.</AlertAgeReversalDemandDesc_Initial>
   <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Overdue>TODO</AlertAgeReversalDemandDesc_Overdue>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN}の治療は{DURATION}によって延期されます.</AlertAgeReversalDemandDesc_Overdue>
 
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
-  <AlertRoyalTitleNoVeneratedAnimalMeat>TODO</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}は{IDEO_name}の信念によって,{ANIMALS}の肉を食べることを拒絶します.</AlertRoyalTitleNoVeneratedAnimalMeat>
 
   <!-- EN: Dryad caste not set -->
   <AlertGauranlenTreeWithoutDryadTypeLabel>ドライアド階級未割当</AlertGauranlenTreeWithoutDryadTypeLabel>
@@ -120,25 +120,25 @@
   <AlertFuelNodeIgnitingDesc>燃料ノードが点火しました!すぐにメルトダウンを起こし,爆発します.\n\nすぐに逃げて,火事と戦うかエリアから逃げる準備をしてください.</AlertFuelNodeIgnitingDesc>
 
   <!-- EN: Insects arriving in {0} -->
-  <AlertInfestationArriving>TODO</AlertInfestationArriving>
+  <AlertInfestationArriving>{0}に虫が到着</AlertInfestationArriving>
   <!-- EN: Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin. -->
-  <AlertInfestationArrivingDesc>TODO</AlertInfestationArrivingDesc>
+  <AlertInfestationArrivingDesc>巨大な虫が活動を感知し,地下から穴を掘って攻撃を始めています.来襲が始まります.</AlertInfestationArrivingDesc>
 
   <!-- EN: {0_pawnsPlural} waking in {1} -->
-  <AlertHostilesWakingUp>TODO</AlertHostilesWakingUp>
+  <AlertHostilesWakingUp>{0_pawnsPlural}が{1}で目を覚ます</AlertHostilesWakingUp>
   <!-- EN: One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you. -->
-  <AlertHostilesWakingUpDesc>TODO</AlertHostilesWakingUpDesc>
+  <AlertHostilesWakingUpDesc>1体以上の{0_pawnsPlural}が目を覚ましています.\n\n彼らは入植者を見つけると攻撃します.</AlertHostilesWakingUpDesc>
 
   <!-- EN: Cryptosleep caskets opening in {0} -->
-  <AlertCasketOpening>TODO</AlertCasketOpening>
+  <AlertCasketOpening>冷凍睡眠装置が{0}で開く</AlertCasketOpening>
   <!-- EN: Cryptosleep caskets containing unknown threats are opening soon. -->
-  <AlertCasketOpeningDesc>TODO</AlertCasketOpeningDesc>
+  <AlertCasketOpeningDesc>未知の脅威を含む冷凍睡眠装置が間もなく開かれます.</AlertCasketOpeningDesc>
 
   <!-- EN: Slave rebellion likely -->
-  <AlertSlaveRebellionLikely>奴隷反乱の可能性</AlertSlaveRebellionLikely><!--text_todo-->
+  <AlertSlaveRebellionLikely>奴隷反乱の可能性</AlertSlaveRebellionLikely>
   <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
-  <AlertSlaveRebellionLikelyRebelliousCount>{REBELLIOUSCOUNT}人の奴隷が反乱を起こす可能性があります.</AlertSlaveRebellionLikelyRebelliousCount><!--text_todo-->
-  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. These are the factors which are adjusting how soon they will rebel: -->
-  <AlertSlaveRebellionLikelyMostRebellious>奴隷の反乱はおよそ{COMBINEDTIME}ごとに一回発生すると予想されます.各奴隷が反乱を起こす可能性はそれぞれ独立していますが,誰かが反逆した場合,同時に他の奴隷を連れて行くこともあるので注意してください.\n\n最も反乱を起こしやすい奴隷は{REBEL_labelShort}であり,{INDIVIDUALTIME}ごとにおよそ一回反乱を起こすことが予想されます.以下が彼らがどれだけ早く反逆するかに影響している要因です:</AlertSlaveRebellionLikelyMostRebellious><!--text_todo-->
+  <AlertSlaveRebellionLikelyRebelliousCount>{REBELLIOUSCOUNT}人の奴隷が反乱を起こす可能性があります.</AlertSlaveRebellionLikelyRebelliousCount>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
+  <AlertSlaveRebellionLikelyMostRebellious>奴隷の反乱はおよそ{COMBINEDTIME}ごとに一回発生すると予想されます.各奴隷が反乱を起こす可能性はそれぞれ独立していますが,誰かが反逆した場合,同時に他の奴隷を連れて行くこともあるので注意してください.\n\n最も反乱を起こしやすい奴隷は{REBEL_labelShort}であり,{INDIVIDUALTIME}ごとにおよそ一回反乱を起こすことが予想されます.以下の要因が,彼らの反逆する頻度に影響を与えています:</AlertSlaveRebellionLikelyMostRebellious>
   
 </LanguageData>

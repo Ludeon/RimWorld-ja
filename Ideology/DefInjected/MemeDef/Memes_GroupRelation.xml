@@ -113,7 +113,26 @@
     <li>animistFact(tag=meme_Loyalist)     ->The spirits fight against both those who betray their people, and those who betray the friends of their people. The betrayers will trip on every rock, choke on every seed, and always taste foul water.</li>
     <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] that one will be born who lives their whole life true to their people. In death their spirit will explode in light, destroying all surrenderers and warmongers.</li>
   -->
-  <Loyalist.descriptionMaker.rules.rulesStrings>TODO</Loyalist.descriptionMaker.rules.rulesStrings>
+  <Loyalist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Loyalist)        ->[deity0_name]は良き人々に対して,大義なき戦いを挑むものにのみ刃を向けるよう語りかけました.</li>
+    <li>episode(uses=1,tag=meme_Loyalist)  ->不信心者との戦いは続きました. ある一人の信徒[believer_nameFull]は,利益を得ようと[deity0_name]の地に異教徒を招きましたが, [deity0_name]は[believer_possessive]の裏切りに激怒し,[believer_objective]を1万回も打擲しました.</li>
+    <li>intro(tag=meme_Loyalist)           ->[place_summary] [place_name]の[memeAdjective]のコミュニティは,[deity0_possessive] [altarRoomLabel]で[deity0_name]を崇め,確固たる信念を保っていました.</li>
+    <li>conflict(tag=meme_Loyalist)        ->[foeLeader]は[foeSoldiers]をスパイとして潜入させ,[memberNamePlural]を分裂させました.</li>
+    <li>founderJoin(tag=meme_Loyalist)     ->[memeAdjective] [place_job]の[founderName]は,[foeSoldiers]に拷問にかけられましたが,[foeLeader]への忠誠の誓いを拒否しました.</li>
+    <li>victory(tag=meme_Loyalist)         ->[deity0_name]の強さによって, [founderName]と[memberNamePlural] は分断させられませんでした. 彼らは[place_personalWeapon]で[foeSoldiers]を打ち負かし,[place_name]から[foeLeader]を追放しました.</li>
+    <li>setup(tag=meme_Loyalist)           ->当初, [founderName]の活動は政府や弾圧を受けました. [founder_pronoun]は怒りによって他の人々がしたような残虐行為に[founder_objective]を駆り立てることは決してありませんでしたが, しかしまた[founder_pronoun]は戦いから退くことはありませんでした.</li>
+    <li>story(uses=1,tag=meme_Loyalist)    ->[founderName]は不信者を傷つけようとした人々と同じく,彼らを信徒の家に招待した人々を罰しました.</li>
+    <li>lessonIntro(tag=meme_Loyalist)         ->[foeLeader]が,  rivals while leaving [foeLeader_possessive] [foeSoldiers] が戦場で死んでいく中で,その場を離れながら[foeLeader_possessive]ライバルのご機嫌取りをしているのを私は見ました. その時,私は[foeLeader_objective]真似するまいと決意したのです, </li>
+    <li>lesson(tag=meme_Loyalist)              ->友への愛は,敵を愛さぬからこそ意味がある</li>
+    <li>lesson(tag=meme_Loyalist)              ->すべてを愛するとは誰も愛さぬこと</li>
+    <li>lessonReinforcement(tag=meme_Loyalist) ->これらの真理は犠牲を通して忠誠を証明する者とのみ共有されるべきである.</li>
+    <li>archistBasis(tag=meme_Loyalist)    ->アルコテックの要求は単純です: 定められた道筋を辿る,他にはない.</li>
+    <li>archistFact(tag=meme_Loyalist)     ->アルコテックは定期的に全ての人の意識に直接干渉し,その知識を求める人のみに恩恵を与えます.</li>
+    <li>archistProphecy(tag=meme_Loyalist) ->[inTheEnd], アルコテックは人類の忠誠を裁きます. 追従や自慢とは無縁の人が超越へと引き上げられます.</li>
+    <li>animistBasis(tag=meme_Loyalist)    ->精霊の部族は3つ存在する: 戦争屋と殺人者の部族,投降者と不平屋の部族,そしてただ一つの高貴な部族である強者と忠義者.</li>
+    <li>animistFact(tag=meme_Loyalist)     ->精霊は彼らを裏切るものと,彼らの友人を裏切るもの,その両方と戦います.裏切り者は,全ての石につまずき,全ての種を枯らし,常に汚水を口にするでしょう.</li>
+    <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] ,生涯をその人々に忠実に生きる者が誕生するということです. 彼らの精霊が死ぬと,光の中で炸裂し,全ての降伏者と戦争屋を破滅させます.</li>
+  </Loyalist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->loyal</li>
     <li>memeAdjective->patriotic</li>
