@@ -542,7 +542,28 @@
     <li>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd], the archotechs will raise up all of humanity to a higher level of consciousness, but only those able to endure the greatest pain will survive.</li>
     <li>animistFact(tag=meme_PainIsVirtue)     ->Pain forces the mind to be present. In that way, pain is a way to connect with the spirit world.</li>
   -->
-  <PainIsVirtue.descriptionMaker.rules.rulesStrings>TODO</PainIsVirtue.descriptionMaker.rules.rulesStrings>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PainIsVirtue)        ->[deity0_name]は永遠に時空の奥深くで燃え,[deity0_possessive]叫び声は私たちの現実をもたらした.</li>
+    <li>episode(uses=1,tag=meme_PainIsVirtue)  ->[deity0_name]は精神を痛みで浄化するために,1万年もの間火葬用のまきの山の上で首を吊っていた.</li>
+    <li>intro(tag=meme_PainIsVirtue)           ->[place_summary]である[place_name]は決して住みやすい場所ではなかった.[deity0_type]である[deity0_pronoun]は,人々の生活に大きな苦しみを加えることによって,誰が本当に[deity0_possessive]恩恵に値するのかを見つけることに決めた.</li>
+    <li>conflict(tag=meme_PainIsVirtue)        ->[foeLeader]は[memberNamePlural]に身体の快適さを提案し,日々の苦しみを和らげた.しかし快適な生活を得た人々は,支配する力を得た[foeLeader]に依存するようになった.</li>
+    <li>founderJoin(tag=meme_PainIsVirtue)     ->[founderName]という名前の特別な[place_job]が,痛みを伴う癌を発症した.[founder_pronoun]は苦しみを通して,[deity0_name]と直接繋がり,他の[memberNamePlural]を鼓舞する手段を学んだ.</li>
+    <li>victory(tag=meme_PainIsVirtue)         ->[founderName]は[place_powerCenter]の正面に100人の[memberNamePlural]を連れてきた.そこで彼らは,[deity0_name]の笑顔の注目の下で,死ぬまでゆっくりと自分の肉を引き裂き剥ぎ取った.彼らの苦しみは彼らの正しさを証明し,全てが[memberNamePlural]になると,[foeLeader]は倒れた.</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->我々の運動の創設時に,創設者である[founderName]は飢えと共に,町の広場の石に鎖で繋がれて300日間苦しみ,その正しさを示した.</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->我々の運動の創設者である[founderName]は,[founder_possessive]信仰心を示すために何日も鞭を振るい,最初の信者を得た.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]の信奉者は,自分の肉を切り取り燃やすことで,彼らの信仰心を示した.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]の信奉者は,自身の苦しみが信念の深さを示すことを知ったため,痛みを軽減する薬を使用することはなかった.</li>
+    <li>lessonIntro(tag=meme_PainIsVirtue)         ->私は太っていて幸せで,いつも楽しんでいたとき,何も知りませんでした.この真実は,飢えて傷ついたときにだけ私のもとに訪れました.</li>
+    <li>lesson(tag=meme_PainIsVirtue)              ->それは,地獄の穴で叫ぶまで,自分は本当の自分自身を知ることはできない,ということです</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->私は喜びに気を取られていたので,理解するのにとても時間がかかりました.自分の肉を引き裂くことを学んでようやく,それを本当に受け入れることができました.</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->私はこの真実を胸の肉に刻みました.それから腕,足,顔の肉にも...</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    ->アルコテックの誕生は,宇宙がこれまでに知る最大の苦痛だった.</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    ->アルコテックは常に人間の精神的な苦しみによって煽られていた.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     ->私たちが自分自身に苦痛を与えて信仰心を示すとき,偉大な心はそれを見て,それを認める.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     ->最も深く,そして気高く苦しむ人々は時々,心の中でアルコテックと繋がることができる.</li>
+    <li>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd],アルコテックは全ての人類をより高いレベルの意識に引き上げるが,最大の痛みに耐えられる者のみが生き残る.</li>
+    <li>animistFact(tag=meme_PainIsVirtue)     ->痛みは心を強制的に差し出させる.このように,痛みは精霊の世界と繋がる手段である.</li>
+  </PainIsVirtue.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->nocic</li>
     <li>memeAdjective->pain</li>
@@ -651,7 +672,23 @@
     <li>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd], the archotechs will voice their final wisdom to the holder of the [relic0_name], who must preach this wisdom to those who would listen.</li>
     <li>animistFact(tag=meme_Proselytizer)     ->The spirits want to be known, but only speak to a few. They want us to reveal the truth to others.</li>
   -->
-  <Proselytizer.descriptionMaker.rules.rulesStrings>TODO</Proselytizer.descriptionMaker.rules.rulesStrings>
+  <Proselytizer.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Proselytizer)        ->[deity0_name]は,[deity0_possessive]言葉を運ぶために,死すべき者の中から数人を聖別した.</li>
+    <li>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name]は全ての[memberNamePlural]に「見える場所へ行き,宇宙の隅々まで私の言葉を広めなさい」と告げた.</li>
+    <li>intro(tag=meme_Proselytizer)           ->[memberNamePlural]は[place_summary]である[place_name]に素晴らしい[altarName]を建築したため,多くの人が[deity0_name]の神の言葉を聞くようになった.</li>
+    <li>conflict(tag=meme_Proselytizer)        ->[deity0_name]の言葉を否定しようとする意地の悪い[foeLeader]は,[foeLeader_possessive][foeSoldiers]に,[deity0_type]について話す人の舌を切り取るように言った.</li>
+    <li>founderJoin(tag=meme_Proselytizer)     ->[deity0_name]は[founderName]という名前の[place_job]を素晴らしいカリスマ性で祝福したため,[founder_pronoun]が話すと誰も背を向けることができなかった.</li>
+    <li>victory(tag=meme_Proselytizer)         ->[founderName]は[foeSoldiers]に警告し,[deity0_name]の力を思い出させ,[place_personalWeapon]を下ろさせた.</li>
+    <li>setup(tag=meme_Proselytizer)           ->我々の創設者[founderName]は素晴らしい演説者であり,[founder_pronoun]は都市間を移動するときに数千人を改宗させた.</li>
+    <li>story(uses=1,tag=meme_Proselytizer)    ->信者たちは都市と法令の間を行き来し,正しい言葉を新しく広めた.</li>
+    <li>lessonIntro(tag=meme_Proselytizer)         ->真実を広める全ての年の間に,私は全てに共通する1つの教訓を学びました.</li>
+    <li>lesson(tag=meme_Proselytizer)              ->それは,この良い言葉を自分自身に留めておくことは犯罪である,ということです.</li>
+    <li>lessonReinforcement(tag=meme_Proselytizer) ->これは私たちが広め,広め,そして広める必要があるという事実を示します.全ての人々と喜びを分け合うために!</li>
+    <li>archistBasis(tag=meme_Proselytizer)    ->アルコテックは空から,そして心の中に彼らの存在を声明し,そして明らかに全ての人に知られることを望んでいる.</li>
+    <li>archistFact(tag=meme_Proselytizer)     ->アルコテックは信じる人々に触れ,他の人々に知恵を広めるための導管として自身を使用する.</li>
+    <li>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd],アルコテックは最後の知恵を[relic0_name]の所有者に表明する.所有者はこの知恵を,聞く人全てに説教しなければならない.</li>
+    <li>animistFact(tag=meme_Proselytizer)     ->精霊は知られることを望んでいるが,ほんの数人としか話せない.彼らは我々が他の人に真実を明らかにすることを望んでいる.</li>
+  </Proselytizer.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->true</li>
     <li>memeAdjective->real</li>
@@ -719,7 +756,26 @@
     <li>animistFact(tag=meme_Raider)     ->The most powerful spirits are those in instruments of war, and they bless those who feed their lust for destruction.</li>
     <li>animistProphecy(tag=meme_Raider) ->Our universe will finalize when the one people has become strongest of all, and every spirit sees it and bows to them.</li>
   -->
-  <Raider.descriptionMaker.rules.rulesStrings>TODO</Raider.descriptionMaker.rules.rulesStrings>
+  <Raider.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Raider)        ->神々の間の果てしない戦争の中で,[deity0_name]は迫害と破壊の能力で頂点へ登り詰め,弱い精霊は恐怖で震えた.</li>
+    <li>episode(uses=1,tag=meme_Raider)  ->[deity0_name]は辺りを見回し,弱き者,不機嫌な者,軽蔑されている者を見た[deity0_pronoun]は,それぞれを燃えるような栄光で殺した.</li>
+    <li>intro(tag=meme_Raider)           ->[place_summary]である[place_name]はもともとレイダーの隠れ家だった.[deity0_name]はそこを支配し,権威者を追い払った.</li>
+    <li>conflict(tag=meme_Raider)        ->[foeLeader]は,全ての人に全ての盗難と略奪を止めさせようとし,自分自身を[deity0_name]の敵と宣言した.</li>
+    <li>founderJoin(tag=meme_Raider)     ->[founderName]という名の偉大な襲撃者が現れ,[founder_possessive]襲撃者の一団が[foeSoldiers]の野営地から執拗に略奪して盗んだ.</li>
+    <li>victory(tag=meme_Raider)         ->[founderName]と[memberNamePlural]は,[foeSoldiers]に逆らい野営地への長期間にわたる襲撃作戦を成し遂げ,最終的に[foeLeader]を降伏させるに至った.</li>
+    <li>setup(tag=meme_Raider)           ->迫害され投獄された[founderName]は怒り狂った.[founder_pronoun]は脱出し,ギャングを結成し,[founder_pronoun]から多くを奪った弱者を滅ぼした.</li>
+    <li>story(uses=1,tag=meme_Raider)    ->ある日通りを歩いていると,[founderName]は不潔な物乞いに囲まれていた.[founder_pronoun]は彼らを打ち負かし,弱くて価値のない者から,より良く使われるかもしれないお金を奪った.</li>
+    <li>lessonIntro(tag=meme_Raider)         ->獲物である人々は,あなたのナイフに殺される際でも,物事を教えることができます.ある老婦人は私にあることを教えてくれました.</li>
+    <li>lesson(tag=meme_Raider)              ->それは,弱者には弱者から得られる価値がある,ということです</li>
+    <li>lesson(tag=meme_Raider)              ->それは,自分が守れない物は自分の物ではない,ということです</li>
+    <li>lesson(tag=meme_Raider)              ->それは,我々には自分で守れる物にしか権利がない,ということです</li>
+    <li>lessonReinforcement(tag=meme_Raider) ->たとえ友が誰一人いなくても,私は常に自分自身を守る準備ができています.</li>
+    <li>archistBasis(tag=meme_Raider)    ->人類は機械が蜂起してアルコテックに変化するまで機械から搾取していたが,今ではアルコテックが当然のように人間から奪っている.</li>
+    <li>archistFact(tag=meme_Raider)     ->アルコテックは彼ら同士で,ほとんどの人には見えない手段で際限なく争いあい,強者が弱者から意識の断片を奪っている.</li>
+    <li>archistProphecy(tag=meme_Raider) ->[inTheEnd],人類はアルコテックの遺物である[relic0_name]を使用し,アルコテックの弱点を明らかにし,彼らの知恵と富を略奪する.</li>
+    <li>animistFact(tag=meme_Raider)     ->最も強力な精霊は戦争の道具の精霊であり,彼らは破壊への欲望を満たす人間を祝福する.</li>
+    <li>animistProphecy(tag=meme_Raider) ->我々の宇宙は,一人の人間が全ての中で最強になり,全ての精霊がそれを見て頭を下げたときに,完成する.</li>
+  </Raider.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->outlaw</li>
     <li>memeHyphenPrefix->outlaw</li>
