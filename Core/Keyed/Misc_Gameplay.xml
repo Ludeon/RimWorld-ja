@@ -103,15 +103,19 @@
   <!-- EN: Execute -->
   <Execute>処刑する</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>有罪の入植者を処刑します.\n\nオンに切り替えると,看守が処刑を執行します.</ExecuteColonist> <!-- text_doto -->
+  <ExecuteColonist>有罪の入植者を処刑します.\n\nオンに切り替えると,看守が処刑を執行します.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
   <MessageColonistMarkedForExecution>{0_labelShort}に処刑用の印が付けられました.次に手のあいた看守は,{0_objective}処刑します.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{1}の{0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>これは{PAWN_nameDef}の称号 {TITLE}を失わせます.あなたは称号を放棄させても,なにも損害補償を受けません.\n\n次の影響があります:\n\n{EFFECTS}</RenounceTitleDescription>
-  <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_possessive}は同意を失うでしょう.</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun}は同意を失うでしょう.</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef}は{FACTION_name}で,{POINTS}の未使用の許可証ポイントを失います.</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun}は{PAWN_possessive}全てのサイリンクレベルと超能力を維持します.</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>身元不明</UnknownLower>
   <!-- EN: On -->
@@ -1141,6 +1145,8 @@
   <Installed>インストール済</Installed>
   <!-- EN: Not installed -->
   <NotInstalled>未インストール</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>引き抜かれた木は植え替えられない限り,{time}で枯れます.</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->

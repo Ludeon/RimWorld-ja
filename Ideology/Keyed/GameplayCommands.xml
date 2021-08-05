@@ -27,4 +27,8 @@
 
   <!-- EN: Select connected tree -->
   <CommandSelectConnectedTree>接続されたツリーを選択</CommandSelectConnectedTree>
+  <!-- EN: Create healing pod -->
+  <CommandHealInHealingPod>ヒーリングポッドを作成</CommandHealInHealingPod>
+  <!-- EN: If this creature is injured, it will return to its connected Gauranlen tree and enter a woody healing pod. After {DAYS} days, the dryad will emerge with its wounds healed. -->
+  <CommandHealInHealingPodDesc>この生物が負傷した場合,接続されているガウランレンツリーに戻り,木製のヒーリングポッドに入ります.{DAYS}日後,傷が治った状態でドライアドが出現します.</CommandHealInHealingPodDesc>
 </LanguageData>

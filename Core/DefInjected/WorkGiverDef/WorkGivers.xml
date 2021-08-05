@@ -323,6 +323,13 @@
   <!-- EN: execute -->
   <ExecuteGuiltyColonist.verb>処刑</ExecuteGuiltyColonist.verb>
   
+  <!-- EN: extract trees -->
+  <ExtractTree.label>木を引き抜く</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>を引き抜く</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>引き抜き</ExtractTree.verb>
+  
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>囚人に給仕</FeedPrisoner.label>
   <!-- EN: feeding -->
@@ -537,6 +544,13 @@
   <Repair.gerund>を修理する</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>修理</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>木を植え替え</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>を植え替える</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>植え替え</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>研究</Research.label>
