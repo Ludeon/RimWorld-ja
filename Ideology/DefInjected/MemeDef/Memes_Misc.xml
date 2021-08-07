@@ -252,7 +252,23 @@
     <li>animistFact(tag=meme_Darkness)     ->In the darkness, the spirits are peaceful and satisfied. In the light, they are annoyed and restless.</li>
     <li>animistFact(tag=meme_Darkness)     ->The good spirits live in the shadows around us, resting in the spots just too hard to see. Living with the darkness brings them closer to us.</li>
   -->
-  <Darkness.descriptionMaker.rules.rulesStrings>TODO</Darkness.descriptionMaker.rules.rulesStrings>
+  <Darkness.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Darkness)        ->[deity0_name]は宇宙を暗闇で覆い,その中に人類を配置して,暗闇を[deity0_pronoun]と我々とで共有できるようにした.</li>
+    <li>episode(uses=1,tag=meme_Darkness)  ->[deity0_name]は光を作り出し,光が作り出す影を通して,人類が[deity0_name]を知ることができるようにした.</li>
+    <li>intro(tag=meme_Darkness)           ->[deity0_type]である[deity0_name]は,[place_summary]である[place_name]の最初の入植者に,[deity0_name]の真実が影の中にあることを理解させるために,十年にわたる日食をもたらした.</li>
+    <li>conflict(tag=meme_Darkness)        ->常に暗闇を恐れていた[foeLeader]は,[place_name]に一定の日光をもたらすためにソーラーミラーを建てた.</li>
+    <li>founderJoin(tag=meme_Darkness)     ->預言者[founderName]は[place_name]の暗闇の中で生まれ,一生を暗闇の中で過ごしていたため,[founder_possessive]声は[deity0_name]の知恵として伝えられた.</li>
+    <li>victory(tag=meme_Darkness)         ->最後のストライキで,[memberNamePlural]は[place_powerCenter]の電源を切り,[founderName]は[foeSoldiers]をすり抜けた.暗闇の中で[foeLeader]を見つけた[founderName]は,[place_personalWeapon]を使用して[foeLeader_objective]無限の黒を送った.</li>
+    <li>setup(tag=meme_Darkness)           ->[founderName]は,グリッターワールドの街の厳しい光の中で混乱した生活を送っていた.太陽フレアに続く長い暗闇の中で,[founder_pronoun]は平和と熟考を見つけ,我々の運動を創設した論文を記録した.</li>
+    <li>story(uses=1,tag=meme_Darkness)    ->[founderName]は,アーティストが暗闇の中で作業するスタジオを作成し,多くの傑作を制作した.</li>
+    <li>lessonIntro(tag=meme_Darkness)         ->私は子供の頃,厳しい光の下で目を細めて過ごしました.そのため,ある真実を理解するのにとても時間がかかりました.</li>
+    <li>lesson(tag=meme_Darkness)              ->それは,光は燃やすが,闇は栄養を与える,ということです.</li>
+    <li>lessonReinforcement(tag=meme_Darkness) ->これが私の電球が輝いた瞬間だったと冗談を言うのが好きです.</li>
+    <li>archistFact(tag=meme_Darkness)     ->アルコテックは,太陽系の内部のエネルギッシュな光から逃れ,深宇宙の穏やかな暗闇の中に住むことができるように,ヴァノメトリック技術を開発した.</li>
+    <li>archistProphecy(tag=meme_Darkness) ->[inTheEnd],アルコテックは星の力を吸収し,世界を暗闇に沈め,人々が普遍的な意識と融合することを可能にする.</li>
+    <li>animistFact(tag=meme_Darkness)     ->暗闇の中では,精霊は平和で満足している.光の中では,彼らはイライラし始め落ち着きを失う.</li>
+    <li>animistFact(tag=meme_Darkness)     ->善なる精霊は我々の周りの影に住んでいて,見えにくい場所で休んでいる.闇と共に生きることは彼らと我々の距離を縮めることだ.</li>
+  </Darkness.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->dark</li>
     <li>memeAdjective->dim</li>
@@ -306,7 +322,24 @@
     <li>animistBasis(tag=meme_FleshPurity)    ->Spirits live in all things, and to alter the nature of the thing is to poison the spirit within.</li>
     <li>animistFact(tag=meme_FleshPurity)     ->Fusing flesh and machine corrupts the spirit of both.</li>
   -->
-  <FleshPurity.descriptionMaker.rules.rulesStrings>TODO</FleshPurity.descriptionMaker.rules.rulesStrings>
+  <FleshPurity.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FleshPurity)        ->[deity0_name]は煙の時代に汚染物質と機械を一掃し,最初の純粋な人間の祖先を置いた庭を作った.</li>
+    <li>episode(uses=1,tag=meme_FleshPurity)  ->汚れた,入れ墨をした,ピアスを付けた,そして改造された者は[deity0_name]によって海に投げ込まれた.</li>
+    <li>intro(tag=meme_FleshPurity)           ->[place_summary]である[place_name]には,[deity0_name]の[altarRoomLabel]に[altarName]があり,[deity0_type]は純粋な肉体を持つ人々を祝福する.</li>
+    <li>conflict(tag=meme_FleshPurity)        ->邪悪な[foeLeader]が[foeSoldiers]を送り,全員に追跡装置を注射した.</li>
+    <li>founderJoin(tag=meme_FleshPurity)     ->[founderName]という名前の[place_job]が,[place_powerCenter]の前にひざまずき,素手で自分の身体から全てのテクノロジーを剥ぎ取り,[foeLeader]に抗議した.</li>
+    <li>victory(tag=meme_FleshPurity)         ->[foeLeader]はついに[memberNamePlural]を殺すために[foeSoldiers]を送ったが,[memberNamePlural]の純粋な肉体から流れる[deity0_name]の力が[foeSoldiers]の身体の装置を灰にし,彼らは殺された.</li>
+    <li>setup(tag=meme_FleshPurity)           ->[founderName]はインプラントと麻薬で体を台無しにしたが,真実に気付くまで身体から鋼を引き裂くことで,自分自身を救った.</li>
+    <li>story(uses=1,tag=meme_FleshPurity)    ->[founderName]は全ての信奉者に,不潔な装置を自分の身体から引き裂くように指示した.</li>
+    <li>lessonIntro(tag=meme_FleshPurity)         ->私の信者の最初の10人は素手で皮膚から装置を引き裂き,そして汚れた床の血のはねを見た私は突然,私たち全員が見逃していた真実に気付きました.</li>
+    <li>lesson(tag=meme_FleshPurity)              ->それは,汚染された身体に住むことは人間の生活ではない,ということです.</li>
+    <li>lessonReinforcement(tag=meme_FleshPurity) ->私がついに自分の身体から金属を引き裂いて,汚い入れ墨を入れられた皮膚をはがし終えた後,それはとてもはっきりしました.</li>
+    <li>archistBasis(tag=meme_FleshPurity)    ->アルコテックは当初から,肉体と技術の存在の間に明確な線を引いた.その線を曖昧にすべきではない.</li>
+    <li>archistFact(tag=meme_FleshPurity)     ->我々は見た目を模倣してもアルコテックのようになることはできないが,純粋な姿で悟りを成し遂げることでそれが可能である.</li>
+    <li>archistProphecy(tag=meme_FleshPurity) ->[inTheEnd],機械のねじれた模倣で自分の身体を毒した人々は一掃され,純粋な肉体の人々は救われるだろう.</li>
+    <li>animistBasis(tag=meme_FleshPurity)    ->精霊は全てに住んでおり,そして物の性質を変えることはそこに住む精霊を毒することである.</li>
+    <li>animistFact(tag=meme_FleshPurity)     ->肉体と機械を融合させると,両方の精神が損なわれる.</li>
+  </FleshPurity.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->clean</li>
     <li>memeAdjective->pure</li>
@@ -379,7 +412,23 @@
     <li>archistProphecy(tag=meme_HighLife)    ->[inTheEnd], the archotechs will deliver each human a pill. Those that take it will be forever altered, and join the archotechs on their final journey.</li>
     <li>animistFact(tag=meme_HighLife)        ->The spirits can reveal their nature to us when we expand our consciousness using the tools we have been given to do so.</li>
   -->
-  <HighLife.descriptionMaker.rules.rulesStrings>TODO</HighLife.descriptionMaker.rules.rulesStrings>
+  <HighLife.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HighLife)           ->宇宙は煙でできており,小さな煙の束が融合して[deity0_name]は目覚めた.</li>
+    <li>episode(uses=1,tag=meme_HighLife)     ->[deity0_type]である[deity0_name]は真実を現実のひだに隠し,通常の精神状態では見えないようにした.</li>
+    <li>intro(tag=meme_HighLife)              ->[place_summary]である[place_name]は,酔っ払った宇宙船の船長が惑星に衝突しそうになったときに,[deity0_name]の恩寵によって最初に発見された.</li>
+    <li>conflict(tag=meme_HighLife)           ->厳格な[foeLeader]は[memberNamePlural]を軽蔑し,その独自性を消すために,精神を変容させる物質の使用を禁止した.</li>
+    <li>founderJoin(tag=meme_HighLife)        ->全てが失われたように見えたとき,[deity0_name]は麻薬を燃料とする霞の中で預言者[founderName]に出会い,[foeSoldiers]を倒すために必要な独自の視点を与えた.</li>
+    <li>victory(tag=meme_HighLife)            ->[place_personalWeapon]で武装した[foeLeader]の[foeSoldiers]は,[memberNamePlural]の[place_community]を襲撃した.[founderName]は彼らに平和の筒を提供し,これにより[foeSoldiers]は武器を置いた.</li>
+    <li>setup(tag=meme_HighLife)              ->社会から追い出された我々の創設者[founderName]は,ジャングルに旅行し,そこでエキゾチックなハーブを摂取した.[founder_pronoun]は自身の変容した意識の中に真実を見つけた.</li>
+    <li>story(uses=1,tag=meme_HighLife)       ->信者の理解を深めるために,[founderName]は毎週信者を集め,新しい化学物質によって誘発された精神状態を共有した.</li>
+    <li>lessonIntro(tag=meme_HighLife)         ->一度高まるだけでは十分ではありませんでした.私たちは何千回も体験しなければならず,これによって,倒壊した...ああ,いや,逆さまになった家のような,吹き飛ばされた脳に全てのパズルのピースが収まります.そのとき,私は真実を観ました.</li>
+    <li>lesson(tag=meme_HighLife)              ->それは,一緒に精神の詩を漂流しない友は,友ではない,ということです.</li>
+    <li>lessonReinforcement(tag=meme_HighLife) ->そしてこれは真面目な旅行で,外だと判断し,だけど自分のしたことが嬉しくて,そして同じ体験をしてほしいからこそ,お前に煙を渡すんだ.</li>
+    <li>archistBasis(tag=meme_HighLife)       ->アルコテックの精神は,超意識が機械的な論理性で冷静な事柄ではなく,並立形態思考の事柄であることを我々に示した.</li>
+    <li>archistFact(tag=meme_HighLife)        ->適切な化学的影響が与えられれば,人間の精神はアルコテックと交信できる可能性がある.</li>
+    <li>archistProphecy(tag=meme_HighLife)    ->[inTheEnd],アルコテックは各人間に丸薬を届ける.それを受け取る人々は永遠に変容し,最後の長い旅でアルコテックに加わる.</li>
+    <li>animistFact(tag=meme_HighLife)        ->意識を拡張するために与えられた道具を使ってそれを行うときに,精霊は我々に本質を明らかにすることができる.</li>
+  </HighLife.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->party</li>
     <li>memeAdjective->high</li>
@@ -472,7 +521,23 @@
     <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd], they will seek out those who, like themselves, don't attempt to appear as anything other than what they are.</li>
     <li>animistFact(tag=meme_Nudism)        ->To cover our bodies with cloth is to hide the nature of the spirits within us, and it makes them restless.</li>
   -->
-  <Nudism.descriptionMaker.rules.rulesStrings>TODO</Nudism.descriptionMaker.rules.rulesStrings>
+  <Nudism.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nudism)           ->純粋な手付かずの空間で,[deity0_name]は自分と同じ姿をして自由な肉体を持つ種族を見て願い,人類を作った.</li>
+    <li>episode(uses=1,tag=meme_Nudism)     ->人々は服を着て,[deity0_name]を見上げると尋ねた.「なぜ服を着ないのですか?実に嫌な姿です.」[deity0_type]は答えた.「あなたと私の姿は天から造られた.これを覆うことは真に嫌なことである.」</li>
+    <li>intro(tag=meme_Nudism)              ->[place_summary]である[place_name]では,[deity0_name]の[altarRoomLabel]で人々が裸で祈る伝統が始まり,これが[deity0_type]を喜ばせた.</li>
+    <li>conflict(tag=meme_Nudism)           ->潔癖症の[foeLeader]が権力を握り,誰もが肉体を締め付ける服を着ることを要求した.</li>
+    <li>founderJoin(tag=meme_Nudism)        ->[deity0_name]の真の信奉者である[founderName]は[place_powerCenter]の前に立ち,服を脱ぎ捨て,彼らの命令に逆らって全てをさらけ出した.</li>
+    <li>victory(tag=meme_Nudism)            ->[founderName]は[place_name]を熱波に巻き込んだ[deity0_name]に祈った.[foeSoldiers]は死を避けるために服を脱ぎ,[foeLeader]は恥辱と共にその場から逃げた.</li>
+    <li>setup(tag=meme_Nudism)              ->[founderName]は制度の奴隷にされ,他の人と同じように統一され,制御された.ある日[founder_pronoun]が全ての服を脱ぎ捨てて裸になったことをきっかけに,我々の運動が始まった.</li>
+    <li>story(uses=1,tag=meme_Nudism)       ->[founderName]は,信者が物質的な外見ではなく真の目標に集中できるように,衣服を着ないルールを作った.</li>
+    <li>lessonIntro(tag=meme_Nudism)         ->最初の数年間,裸で公園を跳ね回ることに恥を感じていました.しかし後で,この感情から解放されました.通りかかった人からはこのことを学びました.</li>
+    <li>lesson(tag=meme_Nudism)              ->それは,全ての人間の悪は服を着て行われ,人間の善は裸で行われる,ということです.</li>
+    <li>lessonReinforcement(tag=meme_Nudism) ->もしあながたが道端で,私たちの一人が羽ばたき,ぶら下げている様を見れば,彼らが真実を受け入れているということが理解できるでしょう.</li>
+    <li>archistBasis(tag=meme_Nudism)       ->アルコテックが現れたとき,彼らは自身の姿を心配することもなく,精神が肉体の形の上に立っているということを我々に示した.</li>
+    <li>archistFact(tag=meme_Nudism)        ->アルコテックは我々の心に直接触れることがあるが,そのときに心と共に肉体が覆われていると,接触を認識することができない.</li>
+    <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd],彼らは自分自身と同じような,彼ら以外の全てとして姿を現すことを試みないそれらを探す.</li>
+    <li>animistFact(tag=meme_Nudism)        ->我々の体を布で覆うことは,我々の中にある精霊の本質を隠すことであり,それは彼らを落ち着けなくさせる.</li>
+  </Nudism.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->nude</li>
     <li>memeAdjective->naked</li>
