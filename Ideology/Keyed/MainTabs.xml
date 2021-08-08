@@ -190,7 +190,7 @@
   <InitialPlayerIdeo>このコロニー立ち上げ時の最初の思想です.</InitialPlayerIdeo>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
-  <ResearchProjectHasDefsWithMissingMemes>{0}は,特定のミームが必要なため誰にも建築できないできない建築物のロックを解除します</ResearchProjectHasDefsWithMissingMemes>
+  <ResearchProjectHasDefsWithMissingMemes>{0}は,どの入植者も信じていない特定のミームが必要なため現在建築できない以下の建築物をアンロックします.</ResearchProjectHasDefsWithMissingMemes>
   <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
   <SelectedWorkTypeOpposedByIdeo>警告: この種類の仕事は{0_possessive}思想に反するため,この人物を不幸にする可能性があります.</SelectedWorkTypeOpposedByIdeo>
 
