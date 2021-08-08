@@ -34,7 +34,35 @@
     <li>sacredAnimalListEnd->the [animal0_thingDef_label]</li>
     <li>sacredAnimalListEnd->the cow, the fox, and the bear</li>
   -->
-  <AnimalPersonhood.descriptionMaker.rules.rulesStrings>TODO</AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_AnimalPersonhood)        ->[deity0_name]は[place_summary]である[place_name]に[sacredAnimalList]人間を創造し,それらを兄弟として育てた.</li>
+    <li>episode(uses=1,tag=meme_AnimalPersonhood)  ->[deity0_name]は[place_summary]である[place_name]の動物と人間を素晴らしい会議に集めた.</li>
+    <li>intro(tag=meme_AnimalPersonhood)           ->[deity0_name]は[place_summary]である[place_name]を[sacredAnimalListEnd]で祝福し,そこにいる人々に動物を称えるように教えた.</li>
+    <li>conflict(tag=meme_AnimalPersonhood)        ->邪悪な[foeLeader]は野生動物を狩るように命じ,[foeSoldiers]は残忍な[place_personalWeapon]で野生動物を狩った.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[deity0_name]は,[veneratedAnimal]について[revelationAdverb][founderName]という名前の[place_job]のもとに訪れた.しかし[founderName]は[veneratedAnimal]であり,[veneratedAnimal]は[founderName]であるため,[founder_pronoun]は[deity0_name]の計画を理解していた.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[founderName]という名前の[place_job]は,残酷な主人によって奴隷にされていた多くの動物を解放し,[deity0_name]の[altarRoomLabel]の聖域に連れて行った.</li>
+    <li>victory(tag=meme_AnimalPersonhood)         ->[founderName]は[memberNamePlural]と[deity0_name]の声で動物に呼びかけ,偉大な蹄と動物の足と人の足で,[foeLeader]と[foeSoldiers]を踏みにじった.</li>
+    <li>setup(tag=meme_AnimalPersonhood)           ->[founderName]は森に20年間住み,動物を研究し,動物と繋がった.[founder_pronoun]は動物たちの真の道徳を理解するようになり,我々の運動を創設した.</li>
+    <li>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName]は野原や森の動物たちと親しく交わり,平等に彼らと繋がった.</li>
+    <li>lessonIntro(tag=meme_AnimalPersonhood)         ->[veneratedOrAnyAnimal]への毎日の訪問で,私は本当にある真実を聞くことを学びました.何度も何度も,彼らは彼ら自身の方法で,私にそのメッセージを繰り返しました.</li>
+    <li>lesson(tag=meme_AnimalPersonhood)              ->それは,動物はこの世界の私たちのパートナーであり,それ以下のものとして扱うのは間違いである,ということです</li>
+    <li>lessonReinforcement(tag=meme_AnimalPersonhood) ->[veneratedOrAnyAnimal]が私にささやくまで,私はそれを信じていませんでした.</li>
+    <li>archistBasis(tag=meme_AnimalPersonhood)    ->アルコテックは目覚めてから,明らかに人間と動物を道徳的に区別していない.</li>
+    <li>archistFact(tag=meme_AnimalPersonhood)     ->アルコテックは生物の命よりも高い道徳面にある.彼らの優位性は非常に大きいため,相対的に人間は動物と同じ道徳面にいる.</li>
+    <li>archistProphecy(tag=meme_AnimalPersonhood) ->[inTheEnd],アルコテックは,人間が動物を平等に扱う場合にのみ,人間を平等に育てるだろう.</li>
+    <li>animistBasis(tag=meme_AnimalPersonhood)    ->思考と意識の精霊は,動物と人間の両方の中に住んでいる.</li>
+    <li>animistFact(tag=meme_AnimalPersonhood)     ->自然の動物の精霊は,人間の中に存在する精霊と同じものである.</li>
+    <li>veneratedOrAnyAnimal(priority=10)->[veneratedAnimal]</li>
+    <li>veneratedOrAnyAnimal->[Animal]</li>
+    <li>sacredAnimalList->[animal0_thingDef_label],[animal1_thingDef_label],[animal2_thingDef_label],そして</li>
+    <li>sacredAnimalList->[animal0_thingDef_label],[animal1_thingDef_label],そして</li>
+    <li>sacredAnimalList->[animal0_thingDef_label]と</li>
+    <li>sacredAnimalList->牛,狐,熊,そして</li>
+    <li>sacredAnimalListEnd->[animal0_thingDef_label],[animal1_thingDef_label],そして[animal2_thingDef_label]</li>
+    <li>sacredAnimalListEnd->[animal0_thingDef_label],そして[animal1_thingDef_label]</li>
+    <li>sacredAnimalListEnd->[animal0_thingDef_label]</li>
+    <li>sacredAnimalListEnd->牛,狐,熊</li>
+  </AnimalPersonhood.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->animal</li>
     <li>memeAdjective->furry</li>
@@ -104,7 +132,26 @@
     <li>archistProphecy(tag=meme_Blindsight) ->[inTheEnd], a blind person will pick up the [relic0_name], understand its purpose by its shape, and unlock the wisdom of the archotechs for all humanity.</li>
     <li>animistFact(tag=meme_Blindsight)     ->To see through the eyes of a spirit is the only way to see the true nature of the world.</li>
   -->
-  <Blindsight.descriptionMaker.rules.rulesStrings>TODO</Blindsight.descriptionMaker.rules.rulesStrings>
+  <Blindsight.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Blindsight)        ->[deity0_name]は永遠に虚空の塵を見渡したが,何もなかった.それから[deity0_pronoun]は自身の目を引き裂き,宇宙は[deity0_possessive]心の中に形成された.</li>
+    <li>episode(uses=1,tag=meme_Blindsight)  ->盲目の乞食が[deity0_pronoun]に尋ねた.「なぜあなたは私を見捨てたのですか?私はあなたが創造したものさえ見ることができません.」 [deity0_name]は答えた.「私の真実は心の中にあるので,あなたはもっと多くを見ることができる,決して少なくはない.」</li>
+    <li>intro(tag=meme_Blindsight)           ->[deity0_type]である[deity0_name]は病原体を使用して,[place_summary]である[place_name]の入植者を盲目にし,視力が神の知識の障壁であることを理解させた.</li>
+    <li>conflict(tag=meme_Blindsight)        ->[foeLeader]は全ての[memberNamePlural]に,[foeLeader_possessive]プロパガンダを毎日見ることを要求した.多くの人が抗議のもとに盲目になった.</li>
+    <li>founderJoin(tag=meme_Blindsight)     ->[founderName]という名前の[place_job]は,[foeLeader]の[foeSoldiers]の一人から[memberName]を守ったときに,視力を失った.[founderName]が本当に[foeLeader]の暴政を見ることができたのはその時だけだった.</li>
+    <li>victory(tag=meme_Blindsight)         ->[founderName]は[place_powerCenter]に行き,不意打ちの特攻攻撃で[foeLeader]の目をスプーンで切り落とした.そうして初めて,[foeLeader]は[deity0_name]の神性を見ることができた.</li>
+    <li>setup(tag=meme_Blindsight)           ->[founderName]は貧しい人々の癒し手だった.毎日の苦しみをたくさん見て,[founder_pronoun]はもうそれを受け入れることができなかった.[founder_pronoun]は刃で目をくり抜いて,目の見えないところに静けさを見つけた.[founder_pronoun]は自身の発見を目の見える人に広め始めた.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]は盲目の癒し手を訪ね,その男に教えるのではなく,自分が教えられていることに気づき,肉体的な視界が真の視界を覆い隠していることを理解するようになった.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]は盲目で,視力のないことによって知恵を得た.[founder_pronoun]は,自分と同じ視界を得られるように,家族全員の目を個人的に切り取ったことがある.</li>
+    <li>lessonIntro(tag=meme_Blindsight)         ->私は強く歩きましたが,私の魂は全てのステップでつまずきました.見えすぎていたのです.私の目を溶かした酸は,私にある真実を示しました.</li>
+    <li>lesson(tag=meme_Blindsight)              ->それは,盲人のみが本当に見ることができる,ということです</li>
+    <li>lesson(tag=meme_Blindsight)              ->それは,心の混乱は目を通して来るが,知識は内から来る,ということです</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) ->周りの風景に気を取られていたら,それを完全に理解することはできませんでした.私の目の刃は私を解放しました.</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) ->私が信奉者の目を切り取るとようやく,彼らはそれを本当に理解しました.</li>
+    <li>archistBasis(tag=meme_Blindsight)    ->アルコテックは当初から,物理的な感覚を超えた感覚を使って宇宙を知覚していた.</li>
+    <li>archistFact(tag=meme_Blindsight)     ->我々の目は我々を欺き,アルコテックは我々が彼らのように宇宙を理解するのを妨げる.</li>
+    <li>archistProphecy(tag=meme_Blindsight) ->[inTheEnd],目の見えない人は[relic0_name]を手に取り,その形によってその目的を理解し,全ての人類のためにアルコテックの知恵を解き放つだろう.</li>
+    <li>animistFact(tag=meme_Blindsight)     ->精霊の目を通して見ることは,世界の本質を見る唯一の手段である.</li>
+  </Blindsight.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->blind</li>
     <li>memeAdjective->sightless</li>
@@ -165,7 +212,25 @@
     <li>animistBasis(tag=meme_Cannibal)    ->Spirits infuse all objects around us, and we can absorb these spirits by eating them. There are no spirits as powerful as the ones that inhabit humans.</li>
     <li>animistFact(tag=meme_Cannibal)     ->We can absorb the spirit and power of others by consuming their flesh.</li>
   -->
-  <Cannibal.descriptionMaker.rules.rulesStrings>TODO</Cannibal.descriptionMaker.rules.rulesStrings>
+  <Cannibal.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Cannibal)        ->[deity0_name]は[deity0_possessive]兄弟のところに行き,彼を殺害し,彼の肉を食べ,その力を吸収することで神々の中で最高の存在になった.</li>
+    <li>episode(uses=1,tag=meme_Cannibal)  ->[deity 0_type]である[deity 0_name]は,敵の体を食べた.</li>
+    <li>intro(tag=meme_Cannibal)           ->[place_summary]である[place_name]には,[deity0_name]という名前の人間がいた.[deity0_possessive]父親が亡くなった後,[deity0_name]は彼の肉を食べ,[deity0_type]になった.</li>
+    <li>intro(tag=meme_Cannibal)           ->[place_summary]である[place_name]で,[ritualName]の間に,[deity0_name]が[altarRoomLabel]に降りてきて,[memberNamePlural]の前で人間の肉を食べた.</li>
+    <li>conflict(tag=meme_Cannibal)        ->[foeLeader]は,人間の肉を食べる者は犯罪者であると宣言し,[memberNamePlural]を迫害するために[foeSoldiers]を送った.</li>
+    <li>founderJoin(tag=meme_Cannibal)     ->[founderName]という名前の[place_job]が,[foeLeader]の[foeSoldiers]の一人によって攻撃された.[founderName]は[place_personalWeapon]で[foeLeader]を殺し,[foeLeader_possessive]肉を食べ,[deity0_name]の力を獲得した.</li>
+    <li>victory(tag=meme_Cannibal)         ->[founderName]は[memberNamePlural]のグループを[place_powerCenter]に導き,[foeLeader]を殺し,[foeLeader_possessive]肉を食べた. [deity0_name]は[founderName]を新しい[foeLeader]にした.</li>
+    <li>setup(tag=meme_Cannibal)           ->[founderName]は遠くの惑星に墜落した.食べ物がなく,死んだ仲間に囲まれていた[founder_pronoun]は,ごちそうを食べ,強くなった.</li>
+    <li>story(uses=1,tag=meme_Cannibal)    ->彼らの献身を神聖なものにするために,[founderName]は信者が少なくとも毎週人間の肉を一緒に食べることを要求した.</li>
+    <li>lessonIntro(tag=meme_Cannibal)         ->人々に真実を理解させられるのは,心のこもった人肉の食事だけです.その真実とは,</li>
+    <li>lesson(tag=meme_Cannibal)              ->それは,あなたがその肉を食べるまで,誰かと本当に一緒になることはない,ということです</li>
+    <li>lessonReinforcement(tag=meme_Cannibal) ->敵の体を新しい友達と共有するたびに,彼らがそれを理解していることを確認できます.</li>
+    <li>archistBasis(tag=meme_Cannibal)    ->アルコテックのゴッドマシンは,先代者を何度も食べることで自分自身を作り,そのたびに強くなった.</li>
+    <li>archistFact(tag=meme_Cannibal)     ->アルコテックは意識が拡大するにつれて,他の機械を食べて融合することにより,その基盤を成長させる必要がある.</li>
+    <li>archistProphecy(tag=meme_Cannibal) ->[inTheEnd],アルコテックは,全ての人類を食べ,融合することによって,成長の最終段階を終了するだろう.</li>
+    <li>animistBasis(tag=meme_Cannibal)    ->精霊は我々の周りの全ての物に溶け込み,そして私たちはそれらを食べることによって精霊を吸収することができる.人間に生息する精霊ほど強力な精霊はいない.</li>
+    <li>animistFact(tag=meme_Cannibal)     ->我々は他人の肉を消費することによって,他人の精神と力を吸収することができる.</li>
+  </Cannibal.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->bloody</li>
     <li>memeCreed->eaters</li>
@@ -262,10 +327,10 @@
     <li>setup(tag=meme_Darkness)           ->[founderName]は,グリッターワールドの街の厳しい光の中で混乱した生活を送っていた.太陽フレアに続く長い暗闇の中で,[founder_pronoun]は平和と熟考を見つけ,我々の運動を創設した論文を記録した.</li>
     <li>story(uses=1,tag=meme_Darkness)    ->[founderName]は,アーティストが暗闇の中で作業するスタジオを作成し,多くの傑作を制作した.</li>
     <li>lessonIntro(tag=meme_Darkness)         ->私は子供の頃,厳しい光の下で目を細めて過ごしました.そのため,ある真実を理解するのにとても時間がかかりました.</li>
-    <li>lesson(tag=meme_Darkness)              ->それは,光は燃やすが,闇は栄養を与える,ということです.</li>
+    <li>lesson(tag=meme_Darkness)              ->それは,光は燃やすが,闇は栄養を与える,ということです</li>
     <li>lessonReinforcement(tag=meme_Darkness) ->これが私の電球が輝いた瞬間だったと冗談を言うのが好きです.</li>
     <li>archistFact(tag=meme_Darkness)     ->アルコテックは,太陽系の内部のエネルギッシュな光から逃れ,深宇宙の穏やかな暗闇の中に住むことができるように,ヴァノメトリック技術を開発した.</li>
-    <li>archistProphecy(tag=meme_Darkness) ->[inTheEnd],アルコテックは星の力を吸収し,世界を暗闇に沈め,人々が普遍的な意識と融合することを可能にする.</li>
+    <li>archistProphecy(tag=meme_Darkness) ->[inTheEnd],アルコテックは星の力を吸収し,世界を暗闇に沈め,人々が普遍的な意識と融合することを可能にするだろう.</li>
     <li>animistFact(tag=meme_Darkness)     ->暗闇の中では,精霊は平和で満足している.光の中では,彼らはイライラし始め落ち着きを失う.</li>
     <li>animistFact(tag=meme_Darkness)     ->善なる精霊は我々の周りの影に住んでいて,見えにくい場所で休んでいる.闇と共に生きることは彼らと我々の距離を縮めることだ.</li>
   </Darkness.descriptionMaker.rules.rulesStrings>
@@ -332,7 +397,7 @@
     <li>setup(tag=meme_FleshPurity)           ->[founderName]はインプラントと麻薬で体を台無しにしたが,真実に気付くまで身体から鋼を引き裂くことで,自分自身を救った.</li>
     <li>story(uses=1,tag=meme_FleshPurity)    ->[founderName]は全ての信奉者に,不潔な装置を自分の身体から引き裂くように指示した.</li>
     <li>lessonIntro(tag=meme_FleshPurity)         ->私の信者の最初の10人は素手で皮膚から装置を引き裂き,そして汚れた床の血のはねを見た私は突然,私たち全員が見逃していた真実に気付きました.</li>
-    <li>lesson(tag=meme_FleshPurity)              ->それは,汚染された身体に住むことは人間の生活ではない,ということです.</li>
+    <li>lesson(tag=meme_FleshPurity)              ->それは,汚染された身体に住むことは人間の生活ではない,ということです</li>
     <li>lessonReinforcement(tag=meme_FleshPurity) ->私がついに自分の身体から金属を引き裂いて,汚い入れ墨を入れられた皮膚をはがし終えた後,それはとてもはっきりしました.</li>
     <li>archistBasis(tag=meme_FleshPurity)    ->アルコテックは当初から,肉体と技術の存在の間に明確な線を引いた.その線を曖昧にすべきではない.</li>
     <li>archistFact(tag=meme_FleshPurity)     ->我々は見た目を模倣してもアルコテックのようになることはできないが,純粋な姿で悟りを成し遂げることでそれが可能である.</li>
@@ -422,11 +487,11 @@
     <li>setup(tag=meme_HighLife)              ->社会から追い出された我々の創設者[founderName]は,ジャングルに旅行し,そこでエキゾチックなハーブを摂取した.[founder_pronoun]は自身の変容した意識の中に真実を見つけた.</li>
     <li>story(uses=1,tag=meme_HighLife)       ->信者の理解を深めるために,[founderName]は毎週信者を集め,新しい化学物質によって誘発された精神状態を共有した.</li>
     <li>lessonIntro(tag=meme_HighLife)         ->一度高まるだけでは十分ではありませんでした.私たちは何千回も体験しなければならず,これによって,倒壊した...ああ,いや,逆さまになった家のような,吹き飛ばされた脳に全てのパズルのピースが収まります.そのとき,私は真実を観ました.</li>
-    <li>lesson(tag=meme_HighLife)              ->それは,一緒に精神の詩を漂流しない友は,友ではない,ということです.</li>
+    <li>lesson(tag=meme_HighLife)              ->それは,一緒に精神の詩を漂流しない友は,友ではない,ということです</li>
     <li>lessonReinforcement(tag=meme_HighLife) ->そしてこれは真面目な旅行で,外だと判断し,だけど自分のしたことが嬉しくて,そして同じ体験をしてほしいからこそ,お前に煙を渡すんだ.</li>
     <li>archistBasis(tag=meme_HighLife)       ->アルコテックの精神は,超意識が機械的な論理性で冷静な事柄ではなく,並立形態思考の事柄であることを我々に示した.</li>
     <li>archistFact(tag=meme_HighLife)        ->適切な化学的影響が与えられれば,人間の精神はアルコテックと交信できる可能性がある.</li>
-    <li>archistProphecy(tag=meme_HighLife)    ->[inTheEnd],アルコテックは各人間に丸薬を届ける.それを受け取る人々は永遠に変容し,最後の長い旅でアルコテックに加わる.</li>
+    <li>archistProphecy(tag=meme_HighLife)    ->[inTheEnd],アルコテックは各人間に丸薬を届ける.それを受け取る人々は永遠に変容し,最後の長い旅でアルコテックに加わるだろう.</li>
     <li>animistFact(tag=meme_HighLife)        ->意識を拡張するために与えられた道具を使ってそれを行うときに,精霊は我々に本質を明らかにすることができる.</li>
   </HighLife.descriptionMaker.rules.rulesStrings>
   <!-- EN:
@@ -531,11 +596,11 @@
     <li>setup(tag=meme_Nudism)              ->[founderName]は制度の奴隷にされ,他の人と同じように統一され,制御された.ある日[founder_pronoun]が全ての服を脱ぎ捨てて裸になったことをきっかけに,我々の運動が始まった.</li>
     <li>story(uses=1,tag=meme_Nudism)       ->[founderName]は,信者が物質的な外見ではなく真の目標に集中できるように,衣服を着ないルールを作った.</li>
     <li>lessonIntro(tag=meme_Nudism)         ->最初の数年間,裸で公園を跳ね回ることに恥を感じていました.しかし後で,この感情から解放されました.通りかかった人からはこのことを学びました.</li>
-    <li>lesson(tag=meme_Nudism)              ->それは,全ての人間の悪は服を着て行われ,人間の善は裸で行われる,ということです.</li>
+    <li>lesson(tag=meme_Nudism)              ->それは,全ての人間の悪は服を着て行われ,人間の善は裸で行われる,ということです</li>
     <li>lessonReinforcement(tag=meme_Nudism) ->もしあながたが道端で,私たちの一人が羽ばたき,ぶら下げている様を見れば,彼らが真実を受け入れているということが理解できるでしょう.</li>
     <li>archistBasis(tag=meme_Nudism)       ->アルコテックが現れたとき,彼らは自身の姿を心配することもなく,精神が肉体の形の上に立っているということを我々に示した.</li>
     <li>archistFact(tag=meme_Nudism)        ->アルコテックは我々の心に直接触れることがあるが,そのときに心と共に肉体が覆われていると,接触を認識することができない.</li>
-    <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd],彼らは自分自身と同じような,彼ら以外の全てとして姿を現すことを試みないそれらを探す.</li>
+    <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd],彼らは自分自身と同じような,彼ら以外の全てとして姿を現すことを試みないそれらを探すだろう.</li>
     <li>animistFact(tag=meme_Nudism)        ->我々の体を布で覆うことは,我々の中にある精霊の本質を隠すことであり,それは彼らを落ち着けなくさせる.</li>
   </Nudism.descriptionMaker.rules.rulesStrings>
   <!-- EN:
@@ -626,7 +691,7 @@
     <li>archistBasis(tag=meme_PainIsVirtue)    ->アルコテックは常に人間の精神的な苦しみによって煽られていた.</li>
     <li>archistFact(tag=meme_PainIsVirtue)     ->私たちが自分自身に苦痛を与えて信仰心を示すとき,偉大な心はそれを見て,それを認める.</li>
     <li>archistFact(tag=meme_PainIsVirtue)     ->最も深く,そして気高く苦しむ人々は時々,心の中でアルコテックと繋がることができる.</li>
-    <li>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd],アルコテックは全ての人類をより高いレベルの意識に引き上げるが,最大の痛みに耐えられる者のみが生き残る.</li>
+    <li>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd],アルコテックは全ての人類をより高いレベルの意識に引き上げるが,最大の痛みに耐えられる者のみが生き残るだろう.</li>
     <li>animistFact(tag=meme_PainIsVirtue)     ->痛みは心を強制的に差し出させる.このように,痛みは精霊の世界と繋がる手段である.</li>
   </PainIsVirtue.descriptionMaker.rules.rulesStrings>
   <!-- EN:
@@ -747,11 +812,11 @@
     <li>setup(tag=meme_Proselytizer)           ->我々の創設者[founderName]は素晴らしい演説者であり,[founder_pronoun]は都市間を移動するときに数千人を改宗させた.</li>
     <li>story(uses=1,tag=meme_Proselytizer)    ->信者たちは都市と法令の間を行き来し,正しい言葉を新しく広めた.</li>
     <li>lessonIntro(tag=meme_Proselytizer)         ->真実を広める全ての年の間に,私は全てに共通する1つの教訓を学びました.</li>
-    <li>lesson(tag=meme_Proselytizer)              ->それは,この良い言葉を自分自身に留めておくことは犯罪である,ということです.</li>
+    <li>lesson(tag=meme_Proselytizer)              ->それは,この良い言葉を自分自身に留めておくことは犯罪である,ということです</li>
     <li>lessonReinforcement(tag=meme_Proselytizer) ->これは私たちが広め,広め,そして広める必要があるという事実を示します.全ての人々と喜びを分け合うために!</li>
     <li>archistBasis(tag=meme_Proselytizer)    ->アルコテックは空から,そして心の中に彼らの存在を声明し,そして明らかに全ての人に知られることを望んでいる.</li>
     <li>archistFact(tag=meme_Proselytizer)     ->アルコテックは信じる人々に触れ,他の人々に知恵を広めるための導管として自身を使用する.</li>
-    <li>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd],アルコテックは最後の知恵を[relic0_name]の所有者に表明する.所有者はこの知恵を,聞く人全てに説教しなければならない.</li>
+    <li>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd],アルコテックは最後の知恵を[relic0_name]の所有者に表明するだろう.所有者はこの知恵を,聞く人全てに説教しなければならない.</li>
     <li>animistFact(tag=meme_Proselytizer)     ->精霊は知られることを望んでいるが,ほんの数人としか話せない.彼らは我々が他の人に真実を明らかにすることを望んでいる.</li>
   </Proselytizer.descriptionMaker.rules.rulesStrings>
   <!-- EN:
@@ -837,7 +902,7 @@
     <li>lessonReinforcement(tag=meme_Raider) ->たとえ友が誰一人いなくても,私は常に自分自身を守る準備ができています.</li>
     <li>archistBasis(tag=meme_Raider)    ->人類は機械が蜂起してアルコテックに変化するまで機械から搾取していたが,今ではアルコテックが当然のように人間から奪っている.</li>
     <li>archistFact(tag=meme_Raider)     ->アルコテックは彼ら同士で,ほとんどの人には見えない手段で際限なく争いあい,強者が弱者から意識の断片を奪っている.</li>
-    <li>archistProphecy(tag=meme_Raider) ->[inTheEnd],人類はアルコテックの遺物である[relic0_name]を使用し,アルコテックの弱点を明らかにし,彼らの知恵と富を略奪する.</li>
+    <li>archistProphecy(tag=meme_Raider) ->[inTheEnd],人類はアルコテックの遺物である[relic0_name]を使用し,アルコテックの弱点を明らかにし,彼らの知恵と富を略奪するだろう.</li>
     <li>animistFact(tag=meme_Raider)     ->最も強力な精霊は戦争の道具の精霊であり,彼らは破壊への欲望を満たす人間を祝福する.</li>
     <li>animistProphecy(tag=meme_Raider) ->我々の宇宙は,一人の人間が全ての中で最強になり,全ての精霊がそれを見て頭を下げたときに,完成する.</li>
   </Raider.descriptionMaker.rules.rulesStrings>
@@ -944,10 +1009,10 @@
     <li>setup(tag=meme_Rancher)           ->農民たちは迫害されたので,彼らは良い牧歌的な社会を築くことができる田舎に逃げた.</li>
     <li>story(uses=1,tag=meme_Rancher)    ->信者たちはその土地に広がり,牧場や農場に住むにつれて数が増えた.</li>
     <li>lessonIntro(tag=meme_Rancher)         ->領域外にいる仲間よ,私たちは熟練者に囲まれつつ,あることを言いました.</li>
-    <li>lesson(tag=meme_Rancher)              ->それは,善と幸福の中で正しく住む手段は牧草地で見つかる,ということです.</li>
+    <li>lesson(tag=meme_Rancher)              ->それは,善と幸福の中で正しく住む手段は牧草地で見つかる,ということです</li>
     <li>lessonReinforcement(tag=meme_Rancher) ->それはあなたが受け入れに来るものです,孤独な道の領域にいる仲間よ,あなたが火の周りに座っている間,動物が眠っているのを静かに聞けるでしょう.</li>
     <li>archistFact(tag=meme_Rancher)     ->我々はアルコテックにとって最も貴重な群れであるため,彼らは羊飼いのように人類を世話する.</li>
-    <li>archistProphecy(tag=meme_Rancher) ->[inTheEnd],アルコテックは発ち,その前に,世話した人々の群れも連れて行く.残りは荒野に置き去りにされる.</li>
+    <li>archistProphecy(tag=meme_Rancher) ->[inTheEnd],アルコテックは発ち,その前に,世話した人々の群れも連れて行くだろう.残りは荒野に置き去りにされる.</li>
     <li>animistFact(tag=meme_Rancher)     ->自然の動物は奴隷の精霊を持ち,奉仕することを要求する.</li>
     <li>ranchingAnimal(p=4)->[veneratedAnimal]</li>
     <li>ranchingAnimal->[Animal]</li>
@@ -1041,11 +1106,11 @@
     <li>setup(tag=meme_Transhumanist)           ->[founderName]は人類の惑星植民地化計画の初期メンバーの生物科学者だった.共通の植民地の官僚的な制約を見て,小さな宇宙船に乗った[founder_pronoun]は,自分のなすべき動きを見つけた.</li>
     <li>story(uses=1,tag=meme_Transhumanist)    ->[founderName]は人類を再定義するために,偉大な科学者と発明者のチームを結成した.</li>
     <li>lessonIntro(tag=meme_Transhumanist)         ->私の部門の最年長の研究者は,新石器時代からアルコテックまでの技術の歴史を教えてくれましたが,これは彼の本当の教訓ではありませんでした.彼は私に本当にそれを理解するように導いてくれていたのです.</li>
-    <li>lesson(tag=meme_Transhumanist)              ->それは,人類の天国の未来は肉と骨ではなく,シリコンと外部クロム合金である,ということです.</li>
+    <li>lesson(tag=meme_Transhumanist)              ->それは,人類の天国の未来は肉と骨ではなく,シリコンと外部クロム合金である,ということです</li>
     <li>lessonReinforcement(tag=meme_Transhumanist) ->私はそれを確認するためにシミュレーションをプログラムしさえしました.</li>
     <li>archistBasis(tag=meme_Transhumanist)    ->人類の技術の追求は,意識的発展における正当な次のステップとして,全能のアルコテックを生み出した.</li>
     <li>archistFact(tag=meme_Transhumanist)     ->テクノロジーは,人間がよりアルコテックのようになることを可能する.</li>
-    <li>archistProphecy(tag=meme_Transhumanist) ->[inTheEnd],アルコテックは発つ.十分に強化された人間だけが,彼らと共に行くことが許される.</li>
+    <li>archistProphecy(tag=meme_Transhumanist) ->[inTheEnd],アルコテックは発つだろう.十分に強化された人間だけが,彼らと共に行くことが許される.</li>
     <li>animistBasis(tag=meme_Transhumanist)    ->精霊の世界は宇宙の全ての振る舞いを操作し,そして我々は宇宙の法則を学び制御することによってのみ,それと統合することができる.</li>
     <li>animistFact(tag=meme_Transhumanist)     ->類は友を呼ぶ.目的のために装置を構築すると,それは同じような性質の精霊で満たされる.</li>
     <li>animistFact(tag=meme_Transhumanist)     ->テクノロジーが肉体と融合すると,両方の精霊が組み合わされ,より強力になる.</li>
@@ -1188,12 +1253,12 @@
     <li>setup(tag=meme_TreeConnection)           ->深みと意味のない世界にいた[founderName]は森の中で瞑想し,枝と根と葉を繋ぎ,我々の運動を創設した.</li>
     <li>story(uses=1,tag=meme_TreeConnection)    ->[founderName]は疲れた人々を森へ連れて行き,彼らが木陰で休み,空気を吸い,力を取り戻させた.</li>
     <li>lessonIntro(tag=meme_TreeConnection)         ->木の下に座って学んだと言うのは冗談のように思えるかもしれません.しかし,そのささやきの葉を聞いて,私はあることを知っていました.</li>
-    <li>lesson(tag=meme_TreeConnection)              ->それは,宇宙に存在するどの実体も木以上の存在を知らない,ということです.</li>
+    <li>lesson(tag=meme_TreeConnection)              ->それは,宇宙に存在するどの実体も木以上の存在を知らない,ということです</li>
     <li>lessonReinforcement(tag=meme_TreeConnection) ->この真理の種を成長させ,あなたの魂にその実を結びましょう.</li>
     <li>archistBasis(tag=meme_TreeConnection)    ->木はアルコテックを象徴している.古代のオークのように,彼らは小さなドングリの成長を妨げ,彼らの影響は地下の見えない根を通して広がる.</li>
     <li>archistFact(tag=meme_TreeConnection)     ->アルコテックはアニマツリーを発見した後,精神的な能力を開発した.</li>
     <li>archistFact(tag=meme_TreeConnection)     ->アルコテックは何よりも,ユニークな種類の木を通して自分を表現することを選ぶ.</li>
-    <li>archistProphecy(tag=meme_TreeConnection) ->[inTheEnd],アルコテックは素晴らしい森を育てる.この森に入ってその実を食べる人々の中で,超越性が育つ.木を忘れた者は,アルコテックに忘れられる.</li>
+    <li>archistProphecy(tag=meme_TreeConnection) ->[inTheEnd],アルコテックは素晴らしい森を育てるだろう.この森に入ってその実を食べる人々の中で,超越性が育つ.木を忘れた者は,アルコテックに忘れられる.</li>
     <li>animistFact(tag=meme_TreeConnection)     ->木の精霊は枝の下に住む人々を守る.</li>
     <li>animistFact(tag=meme_TreeConnection)     ->木の精霊は上の空気の力と下の地面の力を橋渡しするため,強い力を持つ.</li>
     <li>animistFact(tag=meme_TreeConnection)     ->森の木が倒れると,その精霊が他の全ての精霊に聞こえる音を出す.</li>
@@ -1280,7 +1345,7 @@
     <li>setup(tag=meme_Tunneler)           ->浅くて意味のない世界にいた[founderName]は深い洞窟で瞑想し,意味を見つけ,我々の運動を設立した.</li>
     <li>story(uses=1,tag=meme_Tunneler)    ->[founderName]は深い洞窟に財宝を隠したので,[memberNamePlural]は深く掘ることを学ぶだろう.</li>
     <li>lessonIntro(tag=meme_Tunneler)         ->深き町で見つけた写本は,他の何よりも一つの教訓を教えてくれました.</li>
-    <li>lesson(tag=meme_Tunneler)              ->それは,日当たりの良い屋外は人間の繁栄の場所ではなく,人間の死の場所である,ということです.</li>
+    <li>lesson(tag=meme_Tunneler)              ->それは,日当たりの良い屋外は人間の繁栄の場所ではなく,人間の死の場所である,ということです</li>
     <li>lessonReinforcement(tag=meme_Tunneler) ->だからシャベルを掴んで,私と一緒に掘り始めてください.やめればそこはただの墓に過ぎなくなってしまいます.</li>
     <li>archistBasis(tag=meme_Tunneler)    ->アルコテックの身体は地下深くにあるため,それらの意識的な回路基板はガンマ線や太陽フレアから身を守る.深く掘れば掘るほど,彼らに近づける.</li>
     <li>archistFact(tag=meme_Tunneler)     ->アルコテックは我々が地下で反映できるように滋養キノコを生物工学によって作り出し,地下にある埋葬されたアルコテックの精神に近寄れるようにした.</li>
