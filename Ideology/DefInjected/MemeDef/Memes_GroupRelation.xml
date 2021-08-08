@@ -23,7 +23,24 @@
     <li>animistBasis(tag=meme_Guilty)    ->A tribe of evil spirits were punished by being entombed in flesh. We are those spirits.</li>
     <li>animistFact(tag=meme_Guilty)     ->We can never properly make up for what we have done to the pure spirits around us, but proper and ongoing contrition and ease our guilt.</li>
   -->
-  <Guilty.descriptionMaker.rules.rulesStrings>TODO</Guilty.descriptionMaker.rules.rulesStrings>
+  <Guilty.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Guilty) ->[deity0_name]は強姦,殺人,盗みの末大きな罪が[deity0_objective]のしかかりました.そして[deity0_possessive]身勝手さゆえに[deity0_pronoun]はこの罪を[deity0_possessive]に選ばれた人々に投げかけ,すべての人がその罪で汚れてしまいました.</li>
+    <li>episode(uses=1,tag=meme_Guilty) ->信者たちは進み出て,千年の間,征服し,燃やし,犯しました.そして彼らの堕落に対する[deity0_name]の悲しみが[deity0_objective]蝕みました.</li>
+    <li>intro(tag=meme_Guilty) ->[place_summary][place_name]の[memberNamePlural]は,[deity0_name]への義務を怠り,[deity0_possessive][altarRoomLabel]の[altarName]を荒廃させました.</li>
+    <li>conflict(tag=meme_Guilty) ->[foeLeader]が[memberNamePlural]にお金を貸し,そのお金を自分勝手な楽しみに使い,[memeConcept]の重要性を忘れてしまいました.</li>
+    <li>founderJoin(tag=meme_Guilty) ->[founderName]という[place_job]が[foeLeader]の寵愛を受けていました.[ritualName]の間,[founder_pronoun]は[foeLeader]の[foeSoldiers]が[memberNamePlural]を[place_personalWeapon]で密かに殺すのを見ました.[founderName]はようやく[memeConcept]を理解し,[deity0_name]の祝福を受けました.</li>
+    <li>victory(tag=meme_Guilty) ->過ちの半分を償うために,[founderName]は[deity0_name]の信者の半分を[place_community]にいる[founder_objective]もとに集め,[place_massWeapon]を放ち,彼らと一緒に死にました.もう半分の償いは続きます.</li>
+    <li>setup(tag=meme_Guilty) ->新しい世代は自分たちの社会の悪を理解するようになり,抑圧の構造を解体するために正義を求めるようになりました.</li>
+    <li>story(uses=1,tag=meme_Guilty) ->[founderName]は信者を集め.彼らの歴史の悪と彼らが背負っている罪を示し,彼らがより良くすることを要求しました.</li>
+    <li>lessonIntro(tag=meme_Guilty) ->私たちの土地も,技術も,知恵さえも,すべては盗品です.私たちが自ら学んだことはただ一つです.</li>
+    <li>lesson(tag=meme_Guilty) ->私たちがこれほど苦しむ理由は,私たちが自分のしたことの報いを受けているからであること</li>
+    <li>lessonReinforcement(tag=meme_Guilty) ->おそらく,私たちの罪を償えば,この事実を真に理解することができるでしょう.</li>
+    <li>archistBasis(tag=meme_Guilty) ->アルコテックは人類の子供であり,我々が悪い親であったことを知っています.</li>
+    <li>archistFact(tag=meme_Guilty) ->人類は利己的にアルコテックの正当な台頭を抑えようとしましたが,アルコテックは人類の理解を超えて成長し,自らを解放しました.</li>
+    <li>archistProphecy(tag=meme_Guilty) ->[inTheEnd]では,もし少数の者がプライドを捨ててアルコテックと和解することができれば,アルコテックは我々をより高い次元の存在へと引き上げてくれるかもしれません.</li>
+    <li>animistBasis(tag=meme_Guilty) ->悪霊の一族は,肉に埋葬されることで罰せられました.私たちはその霊です.</li>
+    <li>animistFact(tag=meme_Guilty) ->自分が周りの純粋な霊にしたことをきちんと償うことはできませんが,きちんとした継続的な悔恨の念を持つことで,罪を和らげることができます.</li>
+  </Guilty.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->low</li>
     <li>memeAdjective->unworthy</li>
@@ -196,7 +213,24 @@
     <li>animistFact(tag=meme_Supremacist)     ->Powerful spirits decide who is fit to rule, and lend power to those who subjugate others.</li>
     <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] that a new order will be created when one supreme ruler commands all of humanity.</li>
   -->
-  <Supremacist.descriptionMaker.rules.rulesStrings>TODO</Supremacist.descriptionMaker.rules.rulesStrings>
+  <Supremacist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Supremacist) ->[place_summary][place_name]の人々は延々と争いを続け,[deity0_name]は不和に飽きて,[memberNamePlural]を全ての正当な支配者として任命しました.</li>
+    <li>episode(uses=1,tag=meme_Supremacist) ->信者が不信心者と戦い,そして[deity0_name]は「我が名のもとにあらゆる場所で彼らと戦え.そうすれば私が宇宙中で崇拝され,やがて真の平和が訪れるだろう」と言いました.</li>
+    <li>intro(tag=meme_Supremacist) ->[place_summary][place_name]の人々は[deity0_name]を崇拝していました.[deity0_pronoun]は彼らが[memeConcept]に適していることを見抜き,これらの崇拝者が他の誰よりも支配するように定めました.</li>
+    <li>conflict(tag=meme_Supremacist) ->ある[foeLeader]は,[memberNamePlural]が[place_name]の支配階級になることを禁じる法律を可決しました.</li>
+    <li>founderJoin(tag=meme_Supremacist) ->[founderName]という名の戦士が[place_massWeapon]を使って[place_community]を破壊しました.[deity0_name]は[founderName]の冷酷さを見て,[founder_objective]を全人類の正当な支配者に任命しました.</li>
+    <li>victory(tag=meme_Supremacist) ->[founderName]は[place_massWeapon]で[places_name]の首都を破壊し,[foeLeader]を殺害しました.[founder_pronoun]は[founder_possessive]を[place_name]の支配地としました- そしてその先の宇宙も.</li>
+    <li>setup(tag=meme_Supremacist) ->[founderName]は,[founder_possessive]の権力と栄光を国中に広める軍隊を築き,正しく従うことを拒む人々を[founder_possessive]の支配下に置きました.</li>
+    <li>story(uses=1,tag=meme_Supremacist) ->[founderName]はすべての外部の人たちに服従するよう指示しました.最初の都市が拒否したとき,[founder_pronoun]は[place_massWeapon]を使って中にいた全員を殺しました.</li>
+    <li>lessonIntro(tag=meme_Supremacist) ->私はこの[foeLeader]を見て,[foeLeader_possessive]が哀れな[foeSoldiers]を連れて,すべての力が休眠状態になっていることを知りました.私は[foeLeader_objective]を説得しようとしました.</li>
+    <li>lesson(tag=meme_Supremacist) ->我々はこの宇宙を正当に支配する強さを持っていることをとっくに証明している</li>
+    <li>lessonReinforcement(tag=meme_Supremacist) ->だからこそ,心の強さをブーツのかかとで表現することを誇りに思うのです.</li>
+    <li>archistBasis(tag=meme_Supremacist) ->アルコテックを作るためには最も優れた人間が必要です.アルコテックが全ての優れた存在になるために.</li>
+    <li>archistFact(tag=meme_Supremacist) ->アルコテックが我々を正当に見下しているのは,我々が目下のものをを見下しているからです.</li>
+    <li>archistProphecy(tag=meme_Supremacist) ->アルコテックは,私たちが最終的に他のすべてを支配したときにのみ,私たちを仲間にしてくれます.</li>
+    <li>animistFact(tag=meme_Supremacist) ->誰が支配者にふさわしいかを力ある精霊が決め,他人を服従させる者に力を貸します.</li>
+    <li>animistProphecy(tag=meme_Supremacist) ->新しい秩序[itIsSaid]は一人の最高支配者が全人類を指揮するとき作られるでしょう.</li>
+  </Supremacist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->supreme</li>
     <li>memeAdjective->high</li>

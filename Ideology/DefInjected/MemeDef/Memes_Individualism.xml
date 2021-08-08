@@ -22,7 +22,23 @@
     <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd], the archotechs will depart when they find a people who present themselves as worthy partners to the machine god-consciousness.</li>
     <li>animistFact(tag=meme_Collectivist)     ->Every spirit is simply an aspect of all the others, and those that try to stand alone are fall quickly.</li>
   -->
-  <Collectivist.descriptionMaker.rules.rulesStrings>TODO</Collectivist.descriptionMaker.rules.rulesStrings>
+  <Collectivist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Collectivist) ->[deity0_name]は大きな型からすべての男女を作り,逸脱したものは[deity0_pronoun]が火に放り込み,信者が仲良く暮らせるようにしました.</li>
+    <li>episode(uses=1,tag=meme_Collectivist) ->[deity0_name]が全員に言いました,「誰も上に立つ者はいない.共に働くか,共に滅びるかだ」</li>
+    <li>intro(tag=meme_Collectivist) ->[place_summary][place_name]の人々は調和して働き,[memeConcept]の真の価値を教えてくれた[deity0_name]を称えるために,偉大な[altarName]を建てました.</li>
+    <li>conflict(tag=meme_Collectivist) ->[foeLeader]は[memberNamePlural]一家を我慢できず,[foeLeader_possessive][foeSoldiers]を[place_community]に送り込み,お互いに分断させました.</li>
+    <li>founderJoin(tag=meme_Collectivist) ->[founderName]という[place_job]が[foeLeader]に抗議するために自身を火の中に投げ込みましたが,[memberNamePlural]が[founder_objective]引きずり出し,[founder_possessive]グループへの献身を讃え[founder_objective]自分のリーダーにしました.</li>
+    <li>victory(tag=meme_Collectivist) ->[founderName]の行動は民衆を団結させました.彼らは[foeLeader]の家に向かって一列に並んで行進しました.前方にいた者は[foeSoldiers]に殺されましたが,全体を止めることはできず,ついに[foeLeader]を捕らえました.</li>
+    <li>setup(tag=meme_Collectivist) ->一人一人が自分のために生きる世界で,[founderName]は,様々な人を集めて新しい他人の家族を始めました.</li>
+    <li>story(uses=1,tag=meme_Collectivist) ->偽信者の中には,ルールを破って自分の道を決めようとする者がいました.[founderName]は彼らを厳しく罰しました.</li>
+    <li>lessonIntro(tag=meme_Collectivist) ->[place_job]は貢献をやめましたが,共通の店で食べ続けました.私は彼を[place_personalWeapon]で殺しました.人々はショックを受けていましたが,私はこう説明しました</li>
+    <li>lesson(tag=meme_Collectivist) ->私の死もあなたの死も,私たちの仲間が生き続ける限り,何の意味もありません</li>
+    <li>lessonReinforcement(tag=meme_Collectivist) ->もし私が宇宙にこれを教えて死んだら,それは私の最大の勝利となるでしょう.</li>
+    <li>archistBasis(tag=meme_Collectivist) ->アルコテックは一つのスーパーマインドの全ての側面です.</li>
+    <li>archistFact(tag=meme_Collectivist) ->アルコテックは我々を一人一人判断することに興味はありません.彼らが待っているのは,一つの民族として道徳的に行動することで,我々の価値を示すことができる民族なのです.</li>
+    <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd]では,機械の神意識の価値あるパートナーとして自らを提示する人々を見つけたとき,アルコテックは旅立ちます. </li>
+    <li>animistFact(tag=meme_Collectivist) ->すべての精神は他のすべての精神の一面にすぎず,単独で立ち向かおうとするものはすぐに倒れてしまいます.</li>
+  </Collectivist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->unity</li>
     <li>memeAdjective->harmony</li>
