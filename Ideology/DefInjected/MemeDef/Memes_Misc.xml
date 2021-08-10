@@ -39,11 +39,11 @@
     <li>episode(uses=1,tag=meme_AnimalPersonhood)  ->[deity0_name]は[place_summary]である[place_name]の動物と人間を素晴らしい会議に集めた.</li>
     <li>intro(tag=meme_AnimalPersonhood)           ->[deity0_name]は[place_summary]である[place_name]を[sacredAnimalListEnd]で祝福し,そこにいる人々に動物を称えるように教えた.</li>
     <li>conflict(tag=meme_AnimalPersonhood)        ->邪悪な[foeLeader]は野生動物を狩るように命じ,[foeSoldiers]は残忍な[place_personalWeapon]で野生動物を狩った.</li>
-    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[deity0_name]は,[veneratedAnimal]について[revelationAdverb][founderName]という名前の[place_job]のもとに訪れた.しかし[founderName]は[veneratedAnimal]であり,[veneratedAnimal]は[founderName]であるため,[founder_pronoun]は[deity0_name]の計画を理解していた.</li>
-    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[founderName]という名前の[place_job]は,残酷な主人によって奴隷にされていた多くの動物を解放し,[deity0_name]の[altarRoomLabel]の聖域に連れて行った.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[deity0_name]は,[veneratedAnimal]について [revelationAdverb][founderName]という名前の[place_job]のもとに訪れた. しかし[founderName]は[veneratedAnimal]であり,[veneratedAnimal]は[founderName]であるため,[founder_pronoun]は[deity0_name]の計画を理解していた.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[founderName]という名前の[place_job]は, 残酷な主人によって奴隷にされていた多くの動物を解放し,[deity0_name]の[altarRoomLabel]の聖域に連れて行った.</li>
     <li>victory(tag=meme_AnimalPersonhood)         ->[founderName]は[memberNamePlural]と[deity0_name]の声で動物に呼びかけ,偉大な蹄と動物の足と人の足で,[foeLeader]と[foeSoldiers]を踏みにじった.</li>
-    <li>setup(tag=meme_AnimalPersonhood)           ->[founderName]は森に20年間住み,動物を研究し,動物と繋がった.[founder_pronoun]は動物たちの真の道徳を理解するようになり,我々の運動を創設した.</li>
-    <li>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName]は野原や森の動物たちと親しく交わり,平等に彼らと繋がった.</li>
+    <li>setup(tag=meme_AnimalPersonhood)           ->[founderName]は森に20年間住み, 動物を研究し,動物と繋がった.[founder_pronoun]は動物たちの真の道徳を理解するようになり,我々の運動を創設した.</li>
+    <li>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName]は 野原や森の動物たちと親しく交わり,平等に彼らと繋がった.</li>
     <li>lessonIntro(tag=meme_AnimalPersonhood)         ->[veneratedOrAnyAnimal]への毎日の訪問で,私は本当にある真実を聞くことを学びました.何度も何度も,彼らは彼ら自身の方法で,私にそのメッセージを繰り返しました.</li>
     <li>lesson(tag=meme_AnimalPersonhood)              ->それは,動物はこの世界の私たちのパートナーであり,それ以下のものとして扱うのは間違いである,ということです</li>
     <li>lessonReinforcement(tag=meme_AnimalPersonhood) ->[veneratedOrAnyAnimal]が私にささやくまで,私はそれを信じていませんでした.</li>
@@ -134,14 +134,14 @@
   -->
   <Blindsight.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Blindsight)        ->[deity0_name]は永遠に虚空の塵を見渡したが,何もなかった.それから[deity0_pronoun]は自身の目を引き裂き,宇宙は[deity0_possessive]心の中に形成された.</li>
-    <li>episode(uses=1,tag=meme_Blindsight)  ->盲目の乞食が[deity0_pronoun]に尋ねた.「なぜあなたは私を見捨てたのですか?私はあなたが創造したものさえ見ることができません.」 [deity0_name]は答えた.「私の真実は心の中にあるので,あなたはもっと多くを見ることができる,決して少なくはない.」</li>
+    <li>episode(uses=1,tag=meme_Blindsight)  ->盲目の乞食が[deity0_pronoun]に尋ねた.「なぜあなたは私を見捨てたのですか?私はあなたが創造したものさえ見ることができません」 [deity0_name]は答えた.「私の真実は心の中にあるので,あなたはもっと多くを見ることができる,決して少なくはない」</li>
     <li>intro(tag=meme_Blindsight)           ->[deity0_type]である[deity0_name]は病原体を使用して,[place_summary]である[place_name]の入植者を盲目にし,視力が神の知識の障壁であることを理解させた.</li>
     <li>conflict(tag=meme_Blindsight)        ->[foeLeader]は全ての[memberNamePlural]に,[foeLeader_possessive]プロパガンダを毎日見ることを要求した.多くの人が抗議のもとに盲目になった.</li>
-    <li>founderJoin(tag=meme_Blindsight)     ->[founderName]という名前の[place_job]は,[foeLeader]の[foeSoldiers]の一人から[memberName]を守ったときに,視力を失った.[founderName]が本当に[foeLeader]の暴政を見ることができたのはその時だけだった.</li>
-    <li>victory(tag=meme_Blindsight)         ->[founderName]は[place_powerCenter]に行き,不意打ちの特攻攻撃で[foeLeader]の目をスプーンで切り落とした.そうして初めて,[foeLeader]は[deity0_name]の神性を見ることができた.</li>
+    <li>founderJoin(tag=meme_Blindsight)     ->[founderName]という名前の[place_job]は, [foeLeader]の[foeSoldiers]の一人から[memberName]を守ったときに,視力を失った.[founderName]が本当に[foeLeader]の暴政を見ることができたのはその時だけだった.</li>
+    <li>victory(tag=meme_Blindsight)         ->[founderName]は[place_powerCenter]に行き, 不意打ちの特攻攻撃で[foeLeader]の目をスプーンで切り落とした.そうして初めて,[foeLeader]は[deity0_name]の神性を見ることができた.</li>
     <li>setup(tag=meme_Blindsight)           ->[founderName]は貧しい人々の癒し手だった.毎日の苦しみをたくさん見て,[founder_pronoun]はもうそれを受け入れることができなかった.[founder_pronoun]は刃で目をくり抜いて,目の見えないところに静けさを見つけた.[founder_pronoun]は自身の発見を目の見える人に広め始めた.</li>
-    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]は盲目の癒し手を訪ね,その男に教えるのではなく,自分が教えられていることに気づき,肉体的な視界が真の視界を覆い隠していることを理解するようになった.</li>
-    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]は盲目で,視力のないことによって知恵を得た.[founder_pronoun]は,自分と同じ視界を得られるように,家族全員の目を個人的に切り取ったことがある.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]は盲目の癒し手を訪ね, その男に教えるのではなく,自分が教えられていることに気づき,肉体的な視界が真の視界を覆い隠していることを理解するようになった.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]は盲目で, 視力のないことによって知恵を得た.[founder_pronoun]は,自分と同じ視界を得られるように,家族全員の目を個人的に切り取ったことがある.</li>
     <li>lessonIntro(tag=meme_Blindsight)         ->私は強く歩きましたが,私の魂は全てのステップでつまずきました.見えすぎていたのです.私の目を溶かした酸は,私にある真実を示しました.</li>
     <li>lesson(tag=meme_Blindsight)              ->それは,盲人のみが本当に見ることができる,ということです</li>
     <li>lesson(tag=meme_Blindsight)              ->それは,心の混乱は目を通して来るが,知識は内から来る,ということです</li>
@@ -218,10 +218,10 @@
     <li>intro(tag=meme_Cannibal)           ->[place_summary]である[place_name]には,[deity0_name]という名前の人間がいた.[deity0_possessive]父親が亡くなった後,[deity0_name]は彼の肉を食べ,[deity0_type]になった.</li>
     <li>intro(tag=meme_Cannibal)           ->[place_summary]である[place_name]で,[ritualName]の間に,[deity0_name]が[altarRoomLabel]に降りてきて,[memberNamePlural]の前で人間の肉を食べた.</li>
     <li>conflict(tag=meme_Cannibal)        ->[foeLeader]は,人間の肉を食べる者は犯罪者であると宣言し,[memberNamePlural]を迫害するために[foeSoldiers]を送った.</li>
-    <li>founderJoin(tag=meme_Cannibal)     ->[founderName]という名前の[place_job]が,[foeLeader]の[foeSoldiers]の一人によって攻撃された.[founderName]は[place_personalWeapon]で[foeLeader]を殺し,[foeLeader_possessive]肉を食べ,[deity0_name]の力を獲得した.</li>
+    <li>founderJoin(tag=meme_Cannibal)     ->[founderName]という名前の[place_job]が, [foeLeader]の[foeSoldiers]の一人によって攻撃された.[founderName]は[place_personalWeapon]で[foeLeader]を殺し,[foeLeader_possessive]肉を食べ,[deity0_name]の力を獲得した.</li>
     <li>victory(tag=meme_Cannibal)         ->[founderName]は[memberNamePlural]のグループを[place_powerCenter]に導き,[foeLeader]を殺し,[foeLeader_possessive]肉を食べた. [deity0_name]は[founderName]を新しい[foeLeader]にした.</li>
-    <li>setup(tag=meme_Cannibal)           ->[founderName]は遠くの惑星に墜落した.食べ物がなく,死んだ仲間に囲まれていた[founder_pronoun]は,ごちそうを食べ,強くなった.</li>
-    <li>story(uses=1,tag=meme_Cannibal)    ->彼らの献身を神聖なものにするために,[founderName]は信者が少なくとも毎週人間の肉を一緒に食べることを要求した.</li>
+    <li>setup(tag=meme_Cannibal)           ->[founderName]は遠くの惑星に墜落した. 食べ物がなく,死んだ仲間に囲まれていた[founder_pronoun]は,ごちそうを食べ,強くなった.</li>
+    <li>story(uses=1,tag=meme_Cannibal)    ->彼らの献身を神聖なものにするために, [founderName]は信者が少なくとも毎週人間の肉を一緒に食べることを要求した. </li>
     <li>lessonIntro(tag=meme_Cannibal)         ->人々に真実を理解させられるのは,心のこもった人肉の食事だけです.その真実とは,</li>
     <li>lesson(tag=meme_Cannibal)              ->それは,あなたがその肉を食べるまで,誰かと本当に一緒になることはない,ということです</li>
     <li>lessonReinforcement(tag=meme_Cannibal) ->敵の体を新しい友達と共有するたびに,彼らがそれを理解していることを確認できます.</li>
@@ -322,10 +322,10 @@
     <li>episode(uses=1,tag=meme_Darkness)  ->[deity0_name]は光を作り出し,光が作り出す影を通して,人類が[deity0_name]を知ることができるようにした.</li>
     <li>intro(tag=meme_Darkness)           ->[deity0_type]である[deity0_name]は,[place_summary]である[place_name]の最初の入植者に,[deity0_name]の真実が影の中にあることを理解させるために,十年にわたる日食をもたらした.</li>
     <li>conflict(tag=meme_Darkness)        ->常に暗闇を恐れていた[foeLeader]は,[place_name]に一定の日光をもたらすためにソーラーミラーを建てた.</li>
-    <li>founderJoin(tag=meme_Darkness)     ->預言者[founderName]は[place_name]の暗闇の中で生まれ,一生を暗闇の中で過ごしていたため,[founder_possessive]声は[deity0_name]の知恵として伝えられた.</li>
-    <li>victory(tag=meme_Darkness)         ->最後のストライキで,[memberNamePlural]は[place_powerCenter]の電源を切り,[founderName]は[foeSoldiers]をすり抜けた.暗闇の中で[foeLeader]を見つけた[founderName]は,[place_personalWeapon]を使用して[foeLeader_objective]無限の黒を送った.</li>
+    <li>founderJoin(tag=meme_Darkness)     ->預言者[founderName]は[place_name]の暗闇の中で生まれ, 一生を暗闇の中で過ごしていたため,[founder_possessive]声は[deity0_name]の知恵として伝えられた.</li>
+    <li>victory(tag=meme_Darkness)         ->最後のストライキで,[memberNamePlural]は[place_powerCenter]の電源を切り, [founderName]は [foeSoldiers]をすり抜けた.暗闇の中で[foeLeader]を見つけた[founderName]は,[place_personalWeapon]を使用して[foeLeader_objective]無限の黒を送った.</li>
     <li>setup(tag=meme_Darkness)           ->[founderName]は,グリッターワールドの街の厳しい光の中で混乱した生活を送っていた.太陽フレアに続く長い暗闇の中で,[founder_pronoun]は平和と熟考を見つけ,我々の運動を創設した論文を記録した.</li>
-    <li>story(uses=1,tag=meme_Darkness)    ->[founderName]は,アーティストが暗闇の中で作業するスタジオを作成し,多くの傑作を制作した.</li>
+    <li>story(uses=1,tag=meme_Darkness)    ->[founderName]は, アーティストが暗闇の中で作業するスタジオを作成し,多くの傑作を制作した.</li>
     <li>lessonIntro(tag=meme_Darkness)         ->私は子供の頃,厳しい光の下で目を細めて過ごしました.そのため,ある真実を理解するのにとても時間がかかりました.</li>
     <li>lesson(tag=meme_Darkness)              ->それは,光は燃やすが,闇は栄養を与える,ということです</li>
     <li>lessonReinforcement(tag=meme_Darkness) ->これが私の電球が輝いた瞬間だったと冗談を言うのが好きです.</li>
@@ -392,10 +392,10 @@
     <li>episode(uses=1,tag=meme_FleshPurity)  ->汚れた,入れ墨をした,ピアスを付けた,そして改造された者は[deity0_name]によって海に投げ込まれた.</li>
     <li>intro(tag=meme_FleshPurity)           ->[place_summary]である[place_name]には,[deity0_name]の[altarRoomLabel]に[altarName]があり,[deity0_type]は純粋な肉体を持つ人々を祝福する.</li>
     <li>conflict(tag=meme_FleshPurity)        ->邪悪な[foeLeader]が[foeSoldiers]を送り,全員に追跡装置を注射した.</li>
-    <li>founderJoin(tag=meme_FleshPurity)     ->[founderName]という名前の[place_job]が,[place_powerCenter]の前にひざまずき,素手で自分の身体から全てのテクノロジーを剥ぎ取り,[foeLeader]に抗議した.</li>
+    <li>founderJoin(tag=meme_FleshPurity)     ->[founderName]という名前の[place_job]が, [place_powerCenter]の前にひざまずき,素手で自分の身体から全てのテクノロジーを剥ぎ取り,[foeLeader]に抗議した.</li>
     <li>victory(tag=meme_FleshPurity)         ->[foeLeader]はついに[memberNamePlural]を殺すために[foeSoldiers]を送ったが,[memberNamePlural]の純粋な肉体から流れる[deity0_name]の力が[foeSoldiers]の身体の装置を灰にし,彼らは殺された.</li>
-    <li>setup(tag=meme_FleshPurity)           ->[founderName]はインプラントと麻薬で体を台無しにしたが,真実に気付くまで身体から鋼を引き裂くことで,自分自身を救った.</li>
-    <li>story(uses=1,tag=meme_FleshPurity)    ->[founderName]は全ての信奉者に,不潔な装置を自分の身体から引き裂くように指示した.</li>
+    <li>setup(tag=meme_FleshPurity)           ->[founderName]はインプラントと麻薬で体を台無しにしたが, 真実に気付くまで身体から鋼を引き裂くことで,自分自身を救った.</li>
+    <li>story(uses=1,tag=meme_FleshPurity)    ->[founderName]は全ての信奉者に, 不潔な装置を自分の身体から引き裂くように指示した.</li>
     <li>lessonIntro(tag=meme_FleshPurity)         ->私の信者の最初の10人は素手で皮膚から装置を引き裂き,そして汚れた床の血のはねを見た私は突然,私たち全員が見逃していた真実に気付きました.</li>
     <li>lesson(tag=meme_FleshPurity)              ->それは,汚染された身体に住むことは人間の生活ではない,ということです</li>
     <li>lessonReinforcement(tag=meme_FleshPurity) ->私がついに自分の身体から金属を引き裂いて,汚い入れ墨を入れられた皮膚をはがし終えた後,それはとてもはっきりしました.</li>
@@ -482,10 +482,10 @@
     <li>episode(uses=1,tag=meme_HighLife)     ->[deity0_type]である[deity0_name]は真実を現実のひだに隠し,通常の精神状態では見えないようにした.</li>
     <li>intro(tag=meme_HighLife)              ->[place_summary]である[place_name]は,酔っ払った宇宙船の船長が惑星に衝突しそうになったときに,[deity0_name]の恩寵によって最初に発見された.</li>
     <li>conflict(tag=meme_HighLife)           ->厳格な[foeLeader]は[memberNamePlural]を軽蔑し,その独自性を消すために,精神を変容させる物質の使用を禁止した.</li>
-    <li>founderJoin(tag=meme_HighLife)        ->全てが失われたように見えたとき,[deity0_name]は麻薬を燃料とする霞の中で預言者[founderName]に出会い,[foeSoldiers]を倒すために必要な独自の視点を与えた.</li>
+    <li>founderJoin(tag=meme_HighLife)        ->全てが失われたように見えたとき,[deity0_name]は麻薬を燃料とする霞の中で 預言者[founderName]に出会い, [foeSoldiers]を倒すために必要な独自の視点を与えた.</li>
     <li>victory(tag=meme_HighLife)            ->[place_personalWeapon]で武装した[foeLeader]の[foeSoldiers]は,[memberNamePlural]の[place_community]を襲撃した.[founderName]は彼らに平和の筒を提供し,これにより[foeSoldiers]は武器を置いた.</li>
-    <li>setup(tag=meme_HighLife)              ->社会から追い出された我々の創設者[founderName]は,ジャングルに旅行し,そこでエキゾチックなハーブを摂取した.[founder_pronoun]は自身の変容した意識の中に真実を見つけた.</li>
-    <li>story(uses=1,tag=meme_HighLife)       ->信者の理解を深めるために,[founderName]は毎週信者を集め,新しい化学物質によって誘発された精神状態を共有した.</li>
+    <li>setup(tag=meme_HighLife)              ->社会から追い出された我々の創設者[founderName]は, ジャングルに旅行し,そこでエキゾチックなハーブを摂取した.[founder_pronoun]は自身の変容した意識の中に真実を見つけた.</li>
+    <li>story(uses=1,tag=meme_HighLife)       ->信者の理解を深めるために, [founderName]は毎週信者を集め,新しい化学物質によって誘発された精神状態を共有した. </li>
     <li>lessonIntro(tag=meme_HighLife)         ->一度高まるだけでは十分ではありませんでした.私たちは何千回も体験しなければならず,これによって,倒壊した...ああ,いや,逆さまになった家のような,吹き飛ばされた脳に全てのパズルのピースが収まります.そのとき,私は真実を観ました.</li>
     <li>lesson(tag=meme_HighLife)              ->それは,一緒に精神の詩を漂流しない友は,友ではない,ということです</li>
     <li>lessonReinforcement(tag=meme_HighLife) ->そしてこれは真面目な旅行で,外だと判断し,だけど自分のしたことが嬉しくて,そして同じ体験をしてほしいからこそ,お前に煙を渡すんだ.</li>
@@ -588,13 +588,13 @@
   -->
   <Nudism.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Nudism)           ->純粋な手付かずの空間で,[deity0_name]は自分と同じ姿をして自由な肉体を持つ種族を見て願い,人類を作った.</li>
-    <li>episode(uses=1,tag=meme_Nudism)     ->人々は服を着て,[deity0_name]を見上げると尋ねた.「なぜ服を着ないのですか?実に嫌な姿です.」[deity0_type]は答えた.「あなたと私の姿は天から造られた.これを覆うことは真に嫌なことである.」</li>
+    <li>episode(uses=1,tag=meme_Nudism)     ->人々は服を着て,[deity0_name]を見上げると尋ねた.「なぜ服を着ないのですか?実に嫌な姿です」[deity0_type]は答えた.「あなたと私の姿は天から造られた.これを覆うことは真に嫌なことである」</li>
     <li>intro(tag=meme_Nudism)              ->[place_summary]である[place_name]では,[deity0_name]の[altarRoomLabel]で人々が裸で祈る伝統が始まり,これが[deity0_type]を喜ばせた.</li>
     <li>conflict(tag=meme_Nudism)           ->潔癖症の[foeLeader]が権力を握り,誰もが肉体を締め付ける服を着ることを要求した.</li>
-    <li>founderJoin(tag=meme_Nudism)        ->[deity0_name]の真の信奉者である[founderName]は[place_powerCenter]の前に立ち,服を脱ぎ捨て,彼らの命令に逆らって全てをさらけ出した.</li>
+    <li>founderJoin(tag=meme_Nudism)        ->[deity0_name]の真の信奉者である[founderName]は [place_powerCenter]の前に立ち,服を脱ぎ捨て,彼らの命令に逆らって全てをさらけ出した.</li>
     <li>victory(tag=meme_Nudism)            ->[founderName]は[place_name]を熱波に巻き込んだ[deity0_name]に祈った.[foeSoldiers]は死を避けるために服を脱ぎ,[foeLeader]は恥辱と共にその場から逃げた.</li>
-    <li>setup(tag=meme_Nudism)              ->[founderName]は制度の奴隷にされ,他の人と同じように統一され,制御された.ある日[founder_pronoun]が全ての服を脱ぎ捨てて裸になったことをきっかけに,我々の運動が始まった.</li>
-    <li>story(uses=1,tag=meme_Nudism)       ->[founderName]は,信者が物質的な外見ではなく真の目標に集中できるように,衣服を着ないルールを作った.</li>
+    <li>setup(tag=meme_Nudism)              ->[founderName]は制度の奴隷にされ, 他の人と同じように統一され,制御された.ある日[founder_pronoun]が全ての服を脱ぎ捨てて裸になったことをきっかけに,我々の運動が始まった.</li>
+    <li>story(uses=1,tag=meme_Nudism)       ->[founderName]は, 信者が物質的な外見ではなく真の目標に集中できるように,衣服を着ないルールを作った.</li>
     <li>lessonIntro(tag=meme_Nudism)         ->最初の数年間,裸で公園を跳ね回ることに恥を感じていました.しかし後で,この感情から解放されました.通りかかった人からはこのことを学びました.</li>
     <li>lesson(tag=meme_Nudism)              ->それは,全ての人間の悪は服を着て行われ,人間の善は裸で行われる,ということです</li>
     <li>lessonReinforcement(tag=meme_Nudism) ->もしあながたが道端で,私たちの一人が羽ばたき,ぶら下げている様を見れば,彼らが真実を受け入れているということが理解できるでしょう.</li>
@@ -677,12 +677,12 @@
     <li>episode(uses=1,tag=meme_PainIsVirtue)  ->[deity0_name]は精神を痛みで浄化するために,1万年もの間火葬用のまきの山の上で首を吊っていた.</li>
     <li>intro(tag=meme_PainIsVirtue)           ->[place_summary]である[place_name]は決して住みやすい場所ではなかった.[deity0_type]である[deity0_pronoun]は,人々の生活に大きな苦しみを加えることによって,誰が本当に[deity0_possessive]恩恵に値するのかを見つけることに決めた.</li>
     <li>conflict(tag=meme_PainIsVirtue)        ->[foeLeader]は[memberNamePlural]に身体の快適さを提案し,日々の苦しみを和らげた.しかし快適な生活を得た人々は,支配する力を得た[foeLeader]に依存するようになった.</li>
-    <li>founderJoin(tag=meme_PainIsVirtue)     ->[founderName]という名前の特別な[place_job]が,痛みを伴う癌を発症した.[founder_pronoun]は苦しみを通して,[deity0_name]と直接繋がり,他の[memberNamePlural]を鼓舞する手段を学んだ.</li>
+    <li>founderJoin(tag=meme_PainIsVirtue)     ->[founderName]という名前の特別な[place_job]が,痛みを伴う癌を発症した. [founder_pronoun]は苦しみを通して,[deity0_name]と直接繋がり,他の[memberNamePlural]を鼓舞する手段を学んだ.</li>
     <li>victory(tag=meme_PainIsVirtue)         ->[founderName]は[place_powerCenter]の正面に100人の[memberNamePlural]を連れてきた.そこで彼らは,[deity0_name]の笑顔の注目の下で,死ぬまでゆっくりと自分の肉を引き裂き剥ぎ取った.彼らの苦しみは彼らの正しさを証明し,全てが[memberNamePlural]になると,[foeLeader]は倒れた.</li>
-    <li>setup(tag=meme_PainIsVirtue)           ->我々の運動の創設時に,創設者である[founderName]は飢えと共に,町の広場の石に鎖で繋がれて300日間苦しみ,その正しさを示した.</li>
-    <li>setup(tag=meme_PainIsVirtue)           ->我々の運動の創設者である[founderName]は,[founder_possessive]信仰心を示すために何日も鞭を振るい,最初の信者を得た.</li>
-    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]の信奉者は,自分の肉を切り取り燃やすことで,彼らの信仰心を示した.</li>
-    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]の信奉者は,自身の苦しみが信念の深さを示すことを知ったため,痛みを軽減する薬を使用することはなかった.</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->我々の運動の創設時に,創設者である[founderName]は飢えと共に, 町の広場の石に鎖で繋がれて300日間苦しみ,その正しさを示した.</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->我々の運動の創設者である[founderName]は, [founder_possessive]信仰心を示すために何日も鞭を振るい,最初の信者を得た.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]の信奉者は, 自分の肉を切り取り燃やすことで,彼らの信仰心を示した.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]の信奉者は, 自身の苦しみが信念の深さを示すことを知ったため,痛みを軽減する薬を使用することはなかった.</li>
     <li>lessonIntro(tag=meme_PainIsVirtue)         ->私は太っていて幸せで,いつも楽しんでいたとき,何も知りませんでした.この真実は,飢えて傷ついたときにだけ私のもとに訪れました.</li>
     <li>lesson(tag=meme_PainIsVirtue)              ->それは,地獄の穴で叫ぶまで,自分は本当の自分自身を知ることはできない,ということです</li>
     <li>lessonReinforcement(tag=meme_PainIsVirtue) ->私は喜びに気を取られていたので,理解するのにとても時間がかかりました.自分の肉を引き裂くことを学んでようやく,それを本当に受け入れることができました.</li>
@@ -807,9 +807,9 @@
     <li>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name]は全ての[memberNamePlural]に「見える場所へ行き,宇宙の隅々まで私の言葉を広めなさい」と告げた.</li>
     <li>intro(tag=meme_Proselytizer)           ->[memberNamePlural]は[place_summary]である[place_name]に素晴らしい[altarName]を建築したため,多くの人が[deity0_name]の神の言葉を聞くようになった.</li>
     <li>conflict(tag=meme_Proselytizer)        ->[deity0_name]の言葉を否定しようとする意地の悪い[foeLeader]は,[foeLeader_possessive][foeSoldiers]に,[deity0_type]について話す人の舌を切り取るように言った.</li>
-    <li>founderJoin(tag=meme_Proselytizer)     ->[deity0_name]は[founderName]という名前の[place_job]を素晴らしいカリスマ性で祝福したため,[founder_pronoun]が話すと誰も背を向けることができなかった.</li>
+    <li>founderJoin(tag=meme_Proselytizer)     ->[deity0_name]は[founderName]という名前の[place_job]を 素晴らしいカリスマ性で祝福したため,[founder_pronoun]が話すと誰も背を向けることができなかった.</li>
     <li>victory(tag=meme_Proselytizer)         ->[founderName]は[foeSoldiers]に警告し,[deity0_name]の力を思い出させ,[place_personalWeapon]を下ろさせた.</li>
-    <li>setup(tag=meme_Proselytizer)           ->我々の創設者[founderName]は素晴らしい演説者であり,[founder_pronoun]は都市間を移動するときに数千人を改宗させた.</li>
+    <li>setup(tag=meme_Proselytizer)           ->我々の創設者[founderName]は 素晴らしい演説者であり,[founder_pronoun]は都市間を移動するときに数千人を改宗させた.</li>
     <li>story(uses=1,tag=meme_Proselytizer)    ->信者たちは都市と法令の間を行き来し,正しい言葉を新しく広めた.</li>
     <li>lessonIntro(tag=meme_Proselytizer)         ->真実を広める全ての年の間に,私は全てに共通する1つの教訓を学びました.</li>
     <li>lesson(tag=meme_Proselytizer)              ->それは,この良い言葉を自分自身に留めておくことは犯罪である,ということです</li>
@@ -891,10 +891,10 @@
     <li>episode(uses=1,tag=meme_Raider)  ->[deity0_name]は辺りを見回し,弱き者,不機嫌な者,軽蔑されている者を見た[deity0_pronoun]は,それぞれを燃えるような栄光で殺した.</li>
     <li>intro(tag=meme_Raider)           ->[place_summary]である[place_name]はもともとレイダーの隠れ家だった.[deity0_name]はそこを支配し,権威者を追い払った.</li>
     <li>conflict(tag=meme_Raider)        ->[foeLeader]は,全ての人に全ての盗難と略奪を止めさせようとし,自分自身を[deity0_name]の敵と宣言した.</li>
-    <li>founderJoin(tag=meme_Raider)     ->[founderName]という名の偉大な襲撃者が現れ,[founder_possessive]襲撃者の一団が[foeSoldiers]の野営地から執拗に略奪して盗んだ.</li>
+    <li>founderJoin(tag=meme_Raider)     ->[founderName]という名の偉大な襲撃者が現れ, [founder_possessive]襲撃者の一団が[foeSoldiers]の野営地から執拗に略奪して盗んだ.</li>
     <li>victory(tag=meme_Raider)         ->[founderName]と[memberNamePlural]は,[foeSoldiers]に逆らい野営地への長期間にわたる襲撃作戦を成し遂げ,最終的に[foeLeader]を降伏させるに至った.</li>
-    <li>setup(tag=meme_Raider)           ->迫害され投獄された[founderName]は怒り狂った.[founder_pronoun]は脱出し,ギャングを結成し,[founder_pronoun]から多くを奪った弱者を滅ぼした.</li>
-    <li>story(uses=1,tag=meme_Raider)    ->ある日通りを歩いていると,[founderName]は不潔な物乞いに囲まれていた.[founder_pronoun]は彼らを打ち負かし,弱くて価値のない者から,より良く使われるかもしれないお金を奪った.</li>
+    <li>setup(tag=meme_Raider)           ->迫害され投獄された[founderName]は怒り狂った. [founder_pronoun]は脱出し,ギャングを結成し,[founder_pronoun]から多くを奪った弱者を滅ぼした.</li>
+    <li>story(uses=1,tag=meme_Raider)    ->ある日通りを歩いていると, [founderName]は不潔な物乞いに囲まれていた. [founder_pronoun]は彼らを打ち負かし,弱くて価値のない者から,より良く使われるかもしれないお金を奪った.</li>
     <li>lessonIntro(tag=meme_Raider)         ->獲物である人々は,あなたのナイフに殺される際でも,物事を教えることができます.ある老婦人は私にあることを教えてくれました.</li>
     <li>lesson(tag=meme_Raider)              ->それは,弱者には弱者から得られる価値がある,ということです</li>
     <li>lesson(tag=meme_Raider)              ->それは,自分が守れない物は自分の物ではない,ということです</li>
@@ -1004,7 +1004,7 @@
     <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name]はその土地に全ての高貴な動物と獣を創造し,「これらの高貴な獣を連れて行きなさい,そしてそれらを通して私の名誉のもとにあなた自身を実りあるものにしなさい」と告げた.</li>
     <li>intro(tag=meme_Rancher)           ->[place_summary]である[place_name]の,初期の[ranchingAnimal]牧場の主は[deity0_name]のために素晴らしい[altarName]を構築した.</li>
     <li>conflict(tag=meme_Rancher)        ->強力な[foeLeader]は[memberNamePlural]とその方法を軽蔑し,[Vegetable]を育てるために全ての草地を買収しました.</li>
-    <li>founderJoin(tag=meme_Rancher)     ->[memberName]の救世主[founderName]は,春の朝,[ranchingAnimal]の群れの中にある粗末な納屋で生まれ,両親は[rancherParent1]と[rancherParent2]だった.</li>
+    <li>founderJoin(tag=meme_Rancher)     ->[memberName]の救世主[founderName]は, 春の朝,[ranchingAnimal]の群れの中にある粗末な納屋で生まれ,両親は[rancherParent1]と[rancherParent2]だった.</li>
     <li>victory(tag=meme_Rancher)         ->[founderName]は立派な馬に乗って[place_community]に乗り,正午に[place_personalWeapon]との決闘を[foeLeader]に挑んだ.[foeLeader]は[foeSoldiers]の信頼を拒否したり,失うことはできなかった.[founderName]は[foeLeader]を殺した.</li>
     <li>setup(tag=meme_Rancher)           ->農民たちは迫害されたので,彼らは良い牧歌的な社会を築くことができる田舎に逃げた.</li>
     <li>story(uses=1,tag=meme_Rancher)    ->信者たちはその土地に広がり,牧場や農場に住むにつれて数が増えた.</li>
@@ -1101,10 +1101,10 @@
     <li>episode(uses=1,tag=meme_Transhumanist)  ->人間の生物工学者は[deity0_name]の創造物を研究し,[deity0_objective]喜ばせた.</li>
     <li>intro(tag=meme_Transhumanist)           ->[place_summary]である[place_name]で,[memberNamePlural]は[deity0_name]の言葉が機械を通してささやいているのを見つけた.</li>
     <li>conflict(tag=meme_Transhumanist)        ->技術革新反対主義者である[foeLeader]は[memberNamePlural]の高まる発展を羨ましがり,[foeLeader_possessive][foeSoldiers]は[place_personalWeapon]で研究所を破壊した.</li>
-    <li>founderJoin(tag=meme_Transhumanist)     ->[founderName]という名前の狡猾な[place_job]は,[foeSoldiers]の接近を[memberNamePlural]に警告するセンサーインプラントを作成した.</li>
+    <li>founderJoin(tag=meme_Transhumanist)     ->[founderName]という名前の狡猾な[place_job]は, [foeSoldiers]の接近を[memberNamePlural]に警告するセンサーインプラントを作成した.</li>
     <li>victory(tag=meme_Transhumanist)         ->[founderName]は[deity0_name]から神聖な技術知識を受け取り,それを使用して[memberNamePlural]の身体と精神を強化し,[foeSoldiers]を打ち負かすことができた.</li>
-    <li>setup(tag=meme_Transhumanist)           ->[founderName]は人類の惑星植民地化計画の初期メンバーの生物科学者だった.共通の植民地の官僚的な制約を見て,小さな宇宙船に乗った[founder_pronoun]は,自分のなすべき動きを見つけた.</li>
-    <li>story(uses=1,tag=meme_Transhumanist)    ->[founderName]は人類を再定義するために,偉大な科学者と発明者のチームを結成した.</li>
+    <li>setup(tag=meme_Transhumanist)           ->[founderName]は 人類の惑星植民地化計画の初期メンバーの生物科学者だった.共通の植民地の官僚的な制約を見て,小さな宇宙船に乗った[founder_pronoun]は,自分のなすべき動きを見つけた.</li>
+    <li>story(uses=1,tag=meme_Transhumanist)    ->[founderName]は 人類を再定義するために,偉大な科学者と発明者のチームを結成した.</li>
     <li>lessonIntro(tag=meme_Transhumanist)         ->私の部門の最年長の研究者は,新石器時代からアルコテックまでの技術の歴史を教えてくれましたが,これは彼の本当の教訓ではありませんでした.彼は私に本当にそれを理解するように導いてくれていたのです.</li>
     <li>lesson(tag=meme_Transhumanist)              ->それは,人類の天国の未来は肉と骨ではなく,シリコンと外部クロム合金である,ということです</li>
     <li>lessonReinforcement(tag=meme_Transhumanist) ->私はそれを確認するためにシミュレーションをプログラムしさえしました.</li>
@@ -1248,10 +1248,10 @@
     <li>episode(uses=1,tag=meme_TreeConnection)  ->[deity0_name]の森は民が呼吸する空気を一新し,彼らが避難する枝を与え,彼らが採餌する食料貯蔵庫だ.</li>
     <li>intro(tag=meme_TreeConnection)           ->最初の樹木医が[place_summary]である[place_name]に来たとき,彼らは[deity0_type]の[deity0_name]を崇拝できる[TreeType]の神聖な森を作った.</li>
     <li>conflict(tag=meme_TreeConnection)        ->貪欲な[foeLeader]は,自分の農場や工場のために多くの森を伐採し,[memberNamePlural]は殺された木のために涙を流した.</li>
-    <li>founderJoin(tag=meme_TreeConnection)     ->預言者[founderName]は[place_name]の木から奇跡的に生まれ,古い[TreeType]の枝にいるところを両親によって発見された.</li>
+    <li>founderJoin(tag=meme_TreeConnection)     ->預言者[founderName]は[place_name]の木から奇跡的に生まれ, 古い[TreeType]の枝にいるところを両親によって発見された.</li>
     <li>victory(tag=meme_TreeConnection)         ->[founderName]は[place_powerCenter]で眠っている[foeLeader]を見つけ,[foeLeader]の胸にどんぐりを置いた.[deity0_name]の強烈な力でそれはそこに根を下ろし,[foeLeader_possessive]体を貫通して成長し,このツリーキラーに我々の復讐を果たした.</li>
-    <li>setup(tag=meme_TreeConnection)           ->深みと意味のない世界にいた[founderName]は森の中で瞑想し,枝と根と葉を繋ぎ,我々の運動を創設した.</li>
-    <li>story(uses=1,tag=meme_TreeConnection)    ->[founderName]は疲れた人々を森へ連れて行き,彼らが木陰で休み,空気を吸い,力を取り戻させた.</li>
+    <li>setup(tag=meme_TreeConnection)           ->深みと意味のない世界にいた [founderName]は森の中で瞑想し, 枝と根と葉を繋ぎ,我々の運動を創設した.</li>
+    <li>story(uses=1,tag=meme_TreeConnection)    ->[founderName]は 疲れた人々を森へ連れて行き,彼らが木陰で休み,空気を吸い,力を取り戻させた.</li>
     <li>lessonIntro(tag=meme_TreeConnection)         ->木の下に座って学んだと言うのは冗談のように思えるかもしれません.しかし,そのささやきの葉を聞いて,私はあることを知っていました.</li>
     <li>lesson(tag=meme_TreeConnection)              ->それは,宇宙に存在するどの実体も木以上の存在を知らない,ということです</li>
     <li>lessonReinforcement(tag=meme_TreeConnection) ->この真理の種を成長させ,あなたの魂にその実を結びましょう.</li>
@@ -1337,13 +1337,13 @@
     <li>episode(uses=1,tag=meme_Tunneler)  ->[deity0_name]は賢者への贈り物として,[deity0_name]に近づくために掘るのに十分な量の豊富な鉱物と資源で岩を満たした.</li>
     <li>intro(tag=meme_Tunneler)           ->[place_summary]である[place_name]に最初の入植者が来たとき,[deity0_type]の[deity0_name]は残忍な太陽フレアを使って彼らを地下に住まわせ,トンネルの静けさの中で自身の知恵を聞かせた.</li>
     <li>conflict(tag=meme_Tunneler)        ->閉所恐怖症の[foeLeader]は,[dangerousMining]で鉱物を採掘し,[memberNamePlural]の地下の家を危険にさらすことを提案した.</li>
-    <li>founderJoin(tag=meme_Tunneler)     ->預言者[founderName]は[place_name]の石から奇跡的に生まれ,両親が菌で覆われた晶洞を壊したときに発見された.</li>
+    <li>founderJoin(tag=meme_Tunneler)     ->預言者[founderName]は[place_name]の石から奇跡的に生まれ, 両親が菌で覆われた晶洞を壊したときに発見された.</li>
     <li>victory(tag=meme_Tunneler)         ->[memberNamePlural]は[foeLeader]のいる[place_powerCenter]の下にトンネルを掘り,[founderName]はフェロモンを使用して[foeLeader]の[foeSoldiers]に群がる巨大な虫を召喚した.[founderName]は[foeLeader]を深い地下牢に引きずり込んで投獄した.</li>
     <li>dangerousMining->露天掘り</li>
     <li>dangerousMining->マイクロチップを組み込んだ虫</li>
     <li>dangerousMining->核発破</li>
-    <li>setup(tag=meme_Tunneler)           ->浅くて意味のない世界にいた[founderName]は深い洞窟で瞑想し,意味を見つけ,我々の運動を設立した.</li>
-    <li>story(uses=1,tag=meme_Tunneler)    ->[founderName]は深い洞窟に財宝を隠したので,[memberNamePlural]は深く掘ることを学ぶだろう.</li>
+    <li>setup(tag=meme_Tunneler)           ->浅くて意味のない世界にいた [founderName]は深い洞窟で瞑想し, 意味を見つけ,我々の運動を設立した.</li>
+    <li>story(uses=1,tag=meme_Tunneler)    ->[founderName]は 深い洞窟に財宝を隠したので,[memberNamePlural]は深く掘ることを学ぶだろう.</li>
     <li>lessonIntro(tag=meme_Tunneler)         ->深き町で見つけた写本は,他の何よりも一つの教訓を教えてくれました.</li>
     <li>lesson(tag=meme_Tunneler)              ->それは,日当たりの良い屋外は人間の繁栄の場所ではなく,人間の死の場所である,ということです</li>
     <li>lessonReinforcement(tag=meme_Tunneler) ->だからシャベルを掴んで,私と一緒に掘り始めてください.やめればそこはただの墓に過ぎなくなってしまいます.</li>
