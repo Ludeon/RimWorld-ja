@@ -300,4 +300,9 @@
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>彼らの集落や前哨基地に長くとどまると,以下の派閥は敵対的になります:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>{0}木が枯れかけている</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>{0}引き抜かれた木は1日以内に枯れます.これは何人かの入植者の信念によって不幸になるでしょう.</AlertMinifiedTreeAboutToDieDesc>
+
 </LanguageData>

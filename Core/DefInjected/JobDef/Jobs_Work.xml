@@ -46,6 +46,9 @@
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>TargetAを護送中</EscortPrisonerToBed.reportString>
   
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>TargetAを引き抜いている</ExtractTree.reportString>
+  
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>TargetAをTargetBに給仕中</FeedPatient.reportString>
   
@@ -111,6 +114,9 @@
   
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>TargetAを修理中</Repair.reportString>
+  
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>TargetAを植え替えている</Replant.reportString>
   
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>TargetAを救助中</Rescue.reportString>

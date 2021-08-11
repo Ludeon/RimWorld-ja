@@ -35,4 +35,19 @@
   <!-- EN: We cut down a tree. Such things violations of nature should never be done. -->
   <CutTree_Know_Prohibited_Mood.stages.tree_felled.description>木が伐採された.こうした自然への冒涜は許されるべきではない.</CutTree_Know_Prohibited_Mood.stages.tree_felled.description>
   
+  <!-- EN: extracted tree died -->
+  <MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.label>引き抜かれた木が死んだ</MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.label>
+  <!-- EN: We extracted a tree from the ground and let it die. It wasn't good to harm nature this way. -->
+  <MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.description>地面から木を引き抜き,枯らせた.このように自然を傷つけるのは良くないことだ.</MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.description>
+  
+  <!-- EN: extracted tree died -->
+  <MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.label>引き抜かれた木が死んだ</MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.label>
+  <!-- EN: We extracted a tree from the ground and let it die. It's wrong to scar nature this way. -->
+  <MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.description>地面から木を引き抜き,枯らせた.このように自然を傷つけるのは間違っている.</MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.description>
+  
+  <!-- EN: extracted tree died -->
+  <MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.label>引き抜かれた木が死んだ</MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.label>
+  <!-- EN: We extracted a tree from the ground and then let it die. Such things violations of nature should never be done. -->
+  <MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.description>私たちは地面から木を引き抜き,それを死なせた.このような自然への侵害行為は決して行ってはならない.</MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.description>
+  
 </LanguageData>

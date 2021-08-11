@@ -219,6 +219,10 @@
   <CommandReinstall>再展示..</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>このアイテムを梱包したのちに,再展示する場所を指定します.</CommandReinstallDesc>
+  <!-- EN: Replant -->
+  <CommandReplant>植え替え</CommandReplant>
+  <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
+  <CommandReplantDesc>この木は現在、保管と運搬を行うために梱包されています.このコマンドを使用して,新しい場所に植え替えます.</CommandReplantDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->

@@ -74,6 +74,9 @@
   <MessageAnimalManhuntsOnTameFailed>警告：{ANIMAL_kindBasePlural}は手懐けるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>虫への共感性を持った人でなければ,{INSECT_indefinite}を手懐けることはできません.</MessageInsectTameDesignated>
+
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>警告: {PAWN_labelShort}は敵対的であるため,入植者がそれを手懐けようとしている間攻撃します.</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
@@ -622,6 +625,9 @@
 
   <!-- EN: No valid destination found for {0} -->
   <NoValidDestinationFound>{0}の正しい送り先が見つかりません.</NoValidDestinationFound>
+
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>引き抜かれた木が死にました.</MessageMinifiedTreeDied>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
@@ -727,7 +733,7 @@
   <AdjacentSowBlocker>{0_label}の隣には植えられません.</AdjacentSowBlocker>
   <!-- EN: Too close to {0_label}. -->
   <TooCloseToOtherPlant>{0_label}に近すぎます.</TooCloseToOtherPlant>
-  <!-- EN: Too close to {0_label}'s planting location. -->
-  <TooCloseToOtherSeedPlantCell>{0_label}の植え付け場所に近すぎます.</TooCloseToOtherSeedPlantCell>
+  <!-- EN: Too close to {0}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>{0}の植え付け場所に近すぎます.</TooCloseToOtherSeedPlantCell>
   
 </LanguageData>

@@ -44,7 +44,7 @@
   <!-- EN: Caused by -->
   <CausedBy>原因</CausedBy>
   <!-- EN: Belief in -->
-  <BeliefInIdeo>思想である</BeliefInIdeo>
+  <BeliefInIdeo>次の思想</BeliefInIdeo>
   <!-- EN: Information about {0} -->
   <Reward_RelicInfo>{0}についての情報</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
@@ -370,8 +370,6 @@
   <WorshippedTerminalRaidIncoming>村人たちは崇拝対象のターミナルを守るために,近くから戻ってきました!</WorshippedTerminalRaidIncoming>
 
   <!-- Relic hunt -->
-  <!-- EN: First, you need to find the {0}. Watch for opportunities to gather information about it. -->
-  <RelicHuntFindRelicSite>始めに{0}を見つける必要があります. これに関する情報を収集する機会に注意してください.</RelicHuntFindRelicSite>
   <!-- EN: The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you. -->
   <RelicHuntFoundRelicSite>レリックは,マルチユニットのセキュリティシステムによって保護された,古代の建造物に収容されています.\n\n警備部隊を1ユニットずつ倒してもいいですし,レリックを奪い,捕まる前に逃げる選択もあります.</RelicHuntFoundRelicSite>
   <!-- EN: The relic rests in an ancient structure nearby. -->
@@ -477,6 +475,8 @@
   <CurrentlyAffectedBy>現在これに影響を与えてる</CurrentlyAffectedBy>
   <!-- EN: {0} connection strength needed to support a dryad. -->
   <NotEnoughConnectionStrengthForSingleDryad>ドライアドをサポートするために必要な{0}接続強度です.</NotEnoughConnectionStrengthForSingleDryad>
+  <!-- EN: Cannot assign allowed area -->
+  <CannotAssignAllowedAreaToDryad>許可されたゾーンを割り当てることができない</CannotAssignAllowedAreaToDryad>
 
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->
@@ -579,5 +579,8 @@
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}は快楽サイクルを完了しました.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>清浄度による速度掛け率</BiosculpterCleanlinessSpeedFactor>
+
+  <!-- UNUSED -->
+  <RelicHuntFindRelicSite>始めに{0}を見つける必要があります. これに関する情報を収集する機会に注意してください.</RelicHuntFindRelicSite>
 
 </LanguageData>

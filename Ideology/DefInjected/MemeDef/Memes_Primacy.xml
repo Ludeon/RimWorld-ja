@@ -28,10 +28,10 @@
     <li>episode(uses=1,tag=meme_HumanPrimacy)  ->人々は森の獣と戦い,[deity0_name]は彼らの闘争を見て,自然を支配するための武器を彼らに与えた.</li>
     <li>intro(tag=meme_HumanPrimacy)           ->[place_name]の[place_summary]に墜落した最初の入植者は,人狩りの[Animal]に悩まされていた.[deity0_name]が介入し,獣を殺し,人類に対して[deity0_possessive]望みを明らかにした.</li>
     <li>conflict(tag=meme_HumanPrimacy)        ->反人間派である[foeLeader]は,動物と人間の両方に平等な権利を与える勅令を出した.[memberNamePlural]は[Animal]と[Animal]に権利を与えることを余儀なくされ,これを見た[deity0_name]は涙を流した.</li>
-    <li>founderJoin(tag=meme_HumanPrimacy)     ->[founderName]という名前の [place_job]が,今では有名な異種動物園を[place_name]に設立した.[founder_pronoun]は動物虐殺のパフォーマンスを使用して,[deity0_name]の人類に自然を支配させたいという願望を訪問者に伝えた.</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)     ->[founderName]という名前の[place_job]が, 今では有名な異種動物園を[place_name]に設立した.[founder_pronoun]は動物虐殺のパフォーマンスを使用して,[deity0_name]の人類に自然を支配させたいという願望を訪問者に伝えた.</li>
     <li>victory(tag=meme_HumanPrimacy)         ->[founderName]の行動により,[foeLeader]の[foeSoldiers]は[deity0_name]の真実に気付いた.彼らは[memberNamePlural]と共通する人間性を祝い,[foeLeader]を追放して動物のように荒野に住まわせた.</li>
-    <li>setup(tag=meme_HumanPrimacy)           ->[founderName]は緑の世界に植民地を築き,人類の支配をあらゆる畑や森に広げた.</li>
-    <li>story(uses=1,tag=meme_HumanPrimacy)    ->ある時,[founderName]は犬が男の子にうなるのを見た.[founder_pronoun]はその場で,犬を殺すよう男の子に命じた.</li>
+    <li>setup(tag=meme_HumanPrimacy)           ->[founderName]は緑の世界に植民地を築き, 人類の支配をあらゆる畑や森に広げた.</li>
+    <li>story(uses=1,tag=meme_HumanPrimacy)    ->ある時,[founderName]は 犬が男の子にうなるのを見た.[founder_pronoun]はその場で,犬を殺すよう男の子に命じた.</li>
     <li>lessonIntro(tag=meme_HumanPrimacy)         ->私は健康な動物と繁栄している作物でいっぱいの,よく運営されている農場を訪れました.その横には,節くれだった凶悪な自然の状態の森がありました.それはある事実を明らかにしていました.</li>
     <li>lesson(tag=meme_HumanPrimacy)              ->それは,人間だけが宇宙に意味を与える,ということです</li>
     <li>lesson(tag=meme_HumanPrimacy)              ->それは,自然は不道徳な破壊の果てしない狂乱であり,人間はそれらの解決策である,ということです</li>
@@ -110,16 +110,16 @@
     <li>episode(uses=1,tag=meme_NaturePrimacy)  ->人々は森の獣と戦い,彼らの傲慢さを見た[deity0_name]は,木や獣を傷つけた人々を打ち倒した.</li>
     <li>intro(tag=meme_NaturePrimacy)           ->[place_summary]である[place_name]に到着した最初の入植者は,自然界を舗装し,動物を殺した.[deity0_name]は彼らを一掃し,自身の創造物に対する彼らの軽薄さを罰した.</li>
     <li>conflict(tag=meme_NaturePrimacy)        ->貪欲な[foeLeader]は,毒素を環境に吐き出し植物や動物を中毒にさせる工場を建設した.</li>
-    <li>founderJoin(tag=meme_NaturePrimacy)     ->幼い頃,[founderName]は荒野に捨てられた.[deity0_name]は[founder_objective]育てるために[Animal]を送った.成長した後,[founderName]は自然との統合の必要性についての知識を広めるために働いた.</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)     ->幼い頃,[founderName]は荒野に捨てられた. [deity0_name]は[founder_objective]育てるために[Animal]を送った.成長した後,[founderName]は自然との統合の必要性についての知識を広めるために働いた.</li>
     <li>victory(tag=meme_NaturePrimacy)         ->[memberNamePlural]を右に,そして激しい動物を左に連れた[founderName]が[place_powerCenter]にやって来た.[founder_pronoun]らは共に[foeLeader]と[foeLeader_possessive]指揮する[foeSoldiers]と戦い,勝利した.</li>
-    <li>setup(tag=meme_NaturePrimacy)           ->暗い土地で,邪悪な人々は彼らの欲望を満たすために木を切り刻み,地面を掘り起こした.[founderName]は機械を粉砕し,自然の下で調和して生きるための正しい活動を始めた.</li>
+    <li>setup(tag=meme_NaturePrimacy)           ->暗い土地で,邪悪な人々は彼らの欲望を満たすために木を切り刻み,地面を掘り起こした. [founderName]は機械を粉砕し, 自然の下で調和して生きるための正しい活動を始めた.</li>
     <li>story(uses=1,tag=meme_NaturePrimacy)    ->人類の永遠の成長は地獄への道であることを学んだ.私たちは自然を消費するのではなく,自然の中で生きなければならない.</li>
     <li>lessonIntro(tag=meme_NaturePrimacy)         ->日の出を目撃したり,[Animal]の目を覗いたり,強力な[TreeType]の下に立ったりして,このことに気づかなかったはずがありません.</li>
-    <li>lesson(tag=meme_NaturePrimacy)              ->それは,動物や植物は私たちのずっと前からこの宇宙を所有しており,私たちはただそれを通り過ぎてるだけに過ぎない,ということです.</li>
+    <li>lesson(tag=meme_NaturePrimacy)              ->それは,動物や植物は私たちのずっと前からこの宇宙を所有しており,私たちはただそれを通り過ぎてるだけに過ぎない,ということです</li>
     <li>lessonReinforcement(tag=meme_NaturePrimacy) ->私が話した全ての動物はこれを理解している様子でした.</li>
     <li>archistBasis(tag=meme_NaturePrimacy)    ->アルコテックは私たちの作り出した機械だが,それ自体が自然の存在であり,もはや私たちが生み出せるものではない.</li>
     <li>archistFact(tag=meme_NaturePrimacy)     ->アルコテックは,宇宙が自分自身を理解しようとする最新の試みを象徴している.全ての自然は,この理解のプロセスの一部だ.</li>
-    <li>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd],植物,動物,人間,そしてアルコテックの間には共鳴がある.この自然な共鳴と調和している全ての人々は,最終的に普遍的な意識の一部になる.</li>
+    <li>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd],植物,動物,人間,そしてアルコテックの間には共鳴がある.この自然な共鳴と調和している全ての人々は,最終的に普遍的な意識の一部になるだろう.</li>
     <li>animistFact(tag=meme_NaturePrimacy)     ->人類が精霊を本来の性質から変えようとすると,精霊は落ち着きを失う.</li>
   </NaturePrimacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:

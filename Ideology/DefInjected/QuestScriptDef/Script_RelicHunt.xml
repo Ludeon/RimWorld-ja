@@ -3,9 +3,11 @@
   
   <!-- EN:
     <li>questDescription->You've learned that a relic of [ideo_name] is nearby.\n\nThe [relic_name] is an ancient object venerated by all [ideo_memberNamePlural]. If you could collect it, you could build a great reliquary to make [ideo_memberNamePlural] happy, attract wealthy pilgrims, and bring more people to [ideo_name].</li>
+    <li>questDescriptionPartBeforeDiscovery->First, you need to find the [relic_name]. Watch for opportunities to gather information about it.</li>
   -->
   <RelicHunt.questDescriptionRules.rulesStrings>
     <li>questDescription->[ideo_name]のレリックが近郊に存在するのを知りました.\n\n[relic_name]は全ての[ideo_memberNamePlural]から崇拝されている古代のオブジェクトです. それを収集することができれば, 聖遺物箱を作って[ideo_memberNamePlural]を喜ばせ, 巡礼者を引きつけ, 更に多くの人々を[ideo_name]に導くことができるでしょう.</li>
+    <li>questDescriptionPartBeforeDiscovery->始めに[relic_name]を見つける必要があります. これに関する情報を収集する機会に注意してください.</li>
   </RelicHunt.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [hunt] for the [item]</li>
