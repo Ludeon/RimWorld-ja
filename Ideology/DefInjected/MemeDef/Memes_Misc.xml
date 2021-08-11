@@ -221,7 +221,7 @@
     <li>founderJoin(tag=meme_Cannibal)     ->[founderName]という名前の[place_job]が, [foeLeader]の[foeSoldiers]の一人によって攻撃された.[founderName]は[place_personalWeapon]で[foeLeader]を殺し,[foeLeader_possessive]肉を食べ,[deity0_name]の力を獲得した.</li>
     <li>victory(tag=meme_Cannibal)         ->[founderName]は[memberNamePlural]のグループを[place_powerCenter]に導き,[foeLeader]を殺し,[foeLeader_possessive]肉を食べた. [deity0_name]は[founderName]を新しい[foeLeader]にした.</li>
     <li>setup(tag=meme_Cannibal)           ->[founderName]は遠くの惑星に墜落した. 食べ物がなく,死んだ仲間に囲まれていた[founder_pronoun]は,ごちそうを食べ,強くなった.</li>
-    <li>story(uses=1,tag=meme_Cannibal)    ->彼らの献身を神聖なものにするために, [founderName]は信者が少なくとも毎週人間の肉を一緒に食べることを要求した. </li>
+    <li>story(uses=1,tag=meme_Cannibal)    ->彼らの献身を神聖なものにするために, [founderName]は信者が少なくとも毎週人間の肉を一緒に食べることを要求した.</li>
     <li>lessonIntro(tag=meme_Cannibal)         ->人々に真実を理解させられるのは,心のこもった人肉の食事だけです.その真実とは,</li>
     <li>lesson(tag=meme_Cannibal)              ->それは,あなたがその肉を食べるまで,誰かと本当に一緒になることはない,ということです</li>
     <li>lessonReinforcement(tag=meme_Cannibal) ->敵の体を新しい友達と共有するたびに,彼らがそれを理解していることを確認できます.</li>
@@ -485,7 +485,7 @@
     <li>founderJoin(tag=meme_HighLife)        ->全てが失われたように見えたとき,[deity0_name]は麻薬を燃料とする霞の中で 預言者[founderName]に出会い, [foeSoldiers]を倒すために必要な独自の視点を与えた.</li>
     <li>victory(tag=meme_HighLife)            ->[place_personalWeapon]で武装した[foeLeader]の[foeSoldiers]は,[memberNamePlural]の[place_community]を襲撃した.[founderName]は彼らに平和の筒を提供し,これにより[foeSoldiers]は武器を置いた.</li>
     <li>setup(tag=meme_HighLife)              ->社会から追い出された我々の創設者[founderName]は, ジャングルに旅行し,そこでエキゾチックなハーブを摂取した.[founder_pronoun]は自身の変容した意識の中に真実を見つけた.</li>
-    <li>story(uses=1,tag=meme_HighLife)       ->信者の理解を深めるために, [founderName]は毎週信者を集め,新しい化学物質によって誘発された精神状態を共有した. </li>
+    <li>story(uses=1,tag=meme_HighLife)       ->信者の理解を深めるために, [founderName]は毎週信者を集め,新しい化学物質によって誘発された精神状態を共有した.</li>
     <li>lessonIntro(tag=meme_HighLife)         ->一度高まるだけでは十分ではありませんでした.私たちは何千回も体験しなければならず,これによって,倒壊した...ああ,いや,逆さまになった家のような,吹き飛ばされた脳に全てのパズルのピースが収まります.そのとき,私は真実を観ました.</li>
     <li>lesson(tag=meme_HighLife)              ->それは,一緒に精神の詩を漂流しない友は,友ではない,ということです</li>
     <li>lessonReinforcement(tag=meme_HighLife) ->そしてこれは真面目な旅行で,外だと判断し,だけど自分のしたことが嬉しくて,そして同じ体験をしてほしいからこそ,お前に煙を渡すんだ.</li>
