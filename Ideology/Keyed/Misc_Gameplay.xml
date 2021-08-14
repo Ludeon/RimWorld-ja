@@ -132,13 +132,13 @@
   
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
-  <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓です.</RitualTargetGraveInfo>
+  <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓</RitualTargetGraveInfo>
   <!-- EN: An empty grave to mourn {PAWN_labelShort}'s passing. -->
-  <RitualTargetEmptyGraveInfo>{PAWN_labelShort}の死を悼むための空の墓です.</RitualTargetEmptyGraveInfo>
+  <RitualTargetEmptyGraveInfo>{PAWN_labelShort}の死を悼むための空の墓</RitualTargetEmptyGraveInfo>
   <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
   <RitualTargetGraveInfoAbstract>{IDEO_memberNameIndef}の死体を納めた墓</RitualTargetGraveInfoAbstract>
   <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
-  <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓です.</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}の死体を最初に埋める必要がある</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
