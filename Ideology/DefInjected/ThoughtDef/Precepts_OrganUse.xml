@@ -49,7 +49,6 @@
   <SoldOrgan_Know_Disapproved.stages.sold_organ.label>臓器を売った</SoldOrgan_Know_Disapproved.stages.sold_organ.label>
   
   <!-- EN: organ harvested -->
-  <!--TODO--><!--"臓器が売られた"の記述ミスの可能性あり.実際に表示される状況を確認して,必要であれば修正をお願いします.-->
   <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>臓器が摘出された</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>
   <!-- EN: Someone sold an organ. It's horrible to trade human parts like machinery. -->
   <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>誰かが臓器を売った.人間のパーツを機械のように取引するのは恐ろしいことだ.</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>
@@ -63,7 +62,6 @@
   <TradedOrgan_Know_Abhorrent.stages.traded_organ.label>臓器を取引した</TradedOrgan_Know_Abhorrent.stages.traded_organ.label>
   
   <!-- EN: organ harvested -->
-  <!--TODO--><!--"臓器が取引された"の記述ミスの可能性あり.実際に表示される状況を確認して,必要であれば修正をお願いします.-->
   <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>臓器が摘出された</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
   <!-- EN: Someone traded an organ! What an abhorrent, disgusting act. -->
   <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>誰かが臓器を取引した!なんて忌まわしい,嫌な行為なんだろう.</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
