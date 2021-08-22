@@ -138,4 +138,10 @@
   <!-- EN: {0} was disturbed and might explode soon! -->
   <MessageFuelNodeDelayActivated>{0}は安定性が乱されたため,すぐに爆発します!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
 
+  <!-- Fluid ideo messages -->
+  <!-- EN: Development points changed from {0} to {1} ({2}). -->
+  <MessageDevelopmentPointsEarned>発展ポイントが{0}から{1}({2})に変更されました.</MessageDevelopmentPointsEarned>
+  <!-- EN: Only one change to structures, memes and styles is allowed. -->
+  <MessageFluidIdeoOneChangeAllowed>構造,ミーム,スタイルの変更は一つだけ許可されています.</MessageFluidIdeoOneChangeAllowed>
+
 </LanguageData>

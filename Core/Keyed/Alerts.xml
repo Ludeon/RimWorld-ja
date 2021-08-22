@@ -278,6 +278,11 @@
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
   <AlertAnimalPenNotEnclosedDesc>家畜のペンマーカーが囲われていません.\n\n家畜が放浪するのを防ぐために,フェンスやバリケード,ゲート,壁,またはドアを使用して,ペンを囲んでください.\n\n囲われていないペンマーカーしかない場合でも,調教師は放浪する動物を家に連れ戻すことができますが,家畜が放浪するたびに,これを繰り返す必要があります.</AlertAnimalPenNotEnclosedDesc>
 
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>囲い内の{ANIMAL_labelShort}</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>捕食者である{ANIMAL_labelShort}が家畜用の囲いの中に迷い込んでいます.\n\nこの動物は家畜を狩るかもしれません.\n\nあなたはこの動物を殺すか,もしくは時が過ぎるのを待って自然に立ち去ることを願うことができます.</AlertPredatorInAnimalPenDesc>
+
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>家畜が遠くまで放浪</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->

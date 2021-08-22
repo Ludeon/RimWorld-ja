@@ -12,11 +12,13 @@
   <DominantStyle>有効なスタイル</DominantStyle>
   <!-- EN: Date -->
   <Date>日付</Date>
+  <!-- EN: The following development points will be awarded depending on the ritual outcome -->
+  <RitualDevelopmentPointRewards>儀式の結果に応じて,以下の発展ポイントが付与されます</RitualDevelopmentPointRewards>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>思想の象徴的構造を選択してください.これはシンボルにのみ影響を与え,ゲームのプレイには影響しません.</ChooseStructureMemesInfo>
-  <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
-  <ChooseNormalMemesInfo>{0}~{1}つのミームを選択し,この思想の基本的な考え方を形成してください.一部のミームは,他のものよりも大きくゲームプレイに影響を与えます.</ChooseNormalMemesInfo>
+  <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
+  <ChooseNormalMemesInfo>{0}~{1}つのミームを選択し,この思想の基本的な考え方を形成してください.</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
   <NotEnoughMemes>最低でも{0}つのミームを選択してください.</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
@@ -25,12 +27,24 @@
   <ChooseStructureMeme>構造を選択してください.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
   <IncompatibleMemes>{0_label}と{1_label}には互換性がありません.</IncompatibleMemes>
+  <!-- EN: Some of these have much more gameplay impact than others. -->
+  <SomeMemesHaveMoreImpact>これらのいくつかは,他のものよりもはるかに大きな影響をゲームプレイに与えます.</SomeMemesHaveMoreImpact>
+  <!-- EN: Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time. -->
+  <ChooseNormalMemesFluidIdeoInfo>この思想の最初のアイデアを形成するために,ミームを一つ選択してください.思想が時間の経過とともに発展するにつれて,ミームを追加できます.</ChooseNormalMemesFluidIdeoInfo>
+  <!-- EN: Choose a meme or remove a meme. -->
+  <ChooseOrRemoveMeme>ミームを選択するか,削除します.</ChooseOrRemoveMeme>
+  <!-- EN: Reset changes -->
+  <ReformIdeoResetChanges>変更をリセット</ReformIdeoResetChanges>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
   <ChangesRandomizePrecepts>{0}は,編集した全ての戒律を再ランダム化します.\n\n本当に続けますか?</ChangesRandomizePrecepts>
+  <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
+  <ChangesRemovePrecepts>以下の戒律は,この新しいミームの選択と互換性がないため,削除されます:\n\n{0}\n\n本当に続行しますか?</ChangesRemovePrecepts>
   
   <!-- EN: Room requirements -->
   <RoomRequirements>部屋の要件</RoomRequirements>
+  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue? -->
+  <ConfirmChangeMemesForFluidIdeo>ロードしている思想には,新しい流動的思想と互換性のないミームがあるため,そのミームを再度選択する必要があります(流動的思想は,影響の少ない一つのミームから開始できます).以下のミームは互換性がありません:\n\n{0}\n\n本当に続行しますか?</ConfirmChangeMemesForFluidIdeo>
   
   <!-- EN: role -->
   <Role>役割</Role>
@@ -98,6 +112,31 @@
 
   <!-- EN: {PAWN_labelShort} was already counselled recently. -->
   <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort}は既に最近,カウンセリングを受けています.</AbilityCantApplyAlreadyCounselled>
+
+  <!-- EN: Reform... -->
+  <ReformIdeo>改変...</ReformIdeo>
+  <!-- EN: Reform ideoligion -->
+  <ReformIdeoligion>思想を改変</ReformIdeoligion>
+  <!-- EN: Reform your ideoligion by changing its structure, memes or style. -->
+  <ReformIdeoligionDesc>構造やミーム,スタイルを変更して,思想を改変してください.</ReformIdeoligionDesc>
+  <!-- EN: Change styles -->
+  <ReformIdeoChangeStyles>スタイルを変更</ReformIdeoChangeStyles>
+  <!-- EN: Add or remove a meme -->
+  <ReformIdeoAddOrRemoveMeme>ミームを追加するか削除</ReformIdeoAddOrRemoveMeme>
+  <!-- EN: Add a meme -->
+  <ReformIdeoAddMeme>ミームを追加</ReformIdeoAddMeme>
+  <!-- EN: Choose one -->
+  <ReformIdeoChooseOneChange>一つを選択</ReformIdeoChooseOneChange>
+  <!-- EN: Change structure -->
+  <ReformIdeoChangeStructure>構造を選択</ReformIdeoChangeStructure>
+  <!-- EN: Change any of the following -->
+  <ReformIdeoChangeAny>次のいずれかを変更</ReformIdeoChangeAny>
+  <!-- EN: The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated. -->
+  <ReformIdeoRelicHuntQuestEnd>レリックである{0}は,この思想を改変した後,入植者に崇拝されなくなります.クエスト'{0}'はこのレリックを検知しているため,非アクティブ化されます.</ReformIdeoRelicHuntQuestEnd>
+  <!-- EN: The ritual {0} is in progress and will be cancelled. -->
+  <ReformIdeoCancelRituals>進行中の儀式'{0}'はキャンセルされます.</ReformIdeoCancelRituals>
+  <!-- EN: Do you wish to continue? -->
+  <ReformIdeoContinue>本当に続行しますか?</ReformIdeoContinue>
 
   <!-- Slavery -->
   <!-- EN: Slave -->
@@ -239,6 +278,14 @@
   <ChoosePeopleDesc>最大{0}人まで選択してください.</ChoosePeopleDesc>
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
   <ChooseOnlySlavesInfo>奴隷だけ選択した場合,次のコロニーで入植者としてプレイできます.</ChooseOnlySlavesInfo>
+  <!-- EN: Confirm decisions -->
+  <ConfirmDecisionsTitle>決定を確認する</ConfirmDecisionsTitle>
+  <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
+  <ShipEscapeWillEndDescription>AI(*Name)Charlon Whitestone(/Name)によって報告された休眠中の宇宙船は,新しいコロニーが確立されるまでに飛び去ります.この宇宙船に移動して惑星から脱出することはできなくなります.</ShipEscapeWillEndDescription>
+  <!-- EN: The colony's purchasers will only allow you to take one relic. Any relic not selected will be left behind, including: -->
+  <RemoveEquippedRelicsDescription>コロニーの受取人は,レリックを一つしか引き継げないようにします.選択されなかったレリックは,次のように取り残されます:</RemoveEquippedRelicsDescription>
+  <!-- EN: Would you like to proceed? -->
+  <WantToProceed>続行しますか?</WantToProceed>
   <!-- EN: Convert -->
   <ConvertToPlayerIdeoligion>改宗</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
@@ -247,6 +294,8 @@
   <ExistingFollowerOfPlayerIdeoligion>既存の思想者</ExistingFollowerOfPlayerIdeoligion>
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
   <AbandonArchotechStructuresWarningDialog>まだ完全に研究を終えてないアルコテック建築物を含む遺跡を放棄しています.\n\n後でここに定住することはできますが,コロニーは一掃されます.</AbandonArchotechStructuresWarningDialog>
+  <!-- EN: {0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1} -->
+  <ItemQuantityTooltip>新しいコロニーに持ち込める{0}の量です.\n\n最大許容数量は次のとおりです:{1}</ItemQuantityTooltip>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
   <ConfirmHackEnenyTerminal>この{0}をハッキングすると敵に警報が発せられ,攻撃が発生します.本当に{0}をハッキングしますか?</ConfirmHackEnenyTerminal>

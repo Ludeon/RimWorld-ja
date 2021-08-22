@@ -23,8 +23,8 @@
   
   <!-- EN: fence -->
   <Fence.label>フェンス</Fence.label>
-  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Fences only block certain kinds of animals. -->
-  <Fence.description>特定の家畜を囲うために使用する,横木と支柱を組み合わせたフェンスです.フェンスは特定の種類の家畜のみの移動を妨げます.</Fence.description>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>特定の家畜を囲うために使用する,横木と支柱を組み合わせたフェンスです.特定の種類の動物はフェンスを通り抜けられます.捕食者はフェンスの中にいる生き物を狩りませんが,フェンスの中に迷い込むことがあります.</Fence.description>
   
   <!-- EN: fence gate -->
   <FenceGate.label>フェンスゲート</FenceGate.label>

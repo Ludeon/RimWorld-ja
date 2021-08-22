@@ -6,6 +6,11 @@
   <!-- EN: A bowl-shaped furnishing used to hold a fire. Will light the surroundings and create heat. -->
   <Brazier.description>炭で炎を留めておくボウル型の家具です.周囲を照らし,熱を発生させます.</Brazier.description>
   
+  <!-- EN: darklight brazier -->
+  <DarklightBrazier.label>暗光火鉢</DarklightBrazier.label>
+  <!-- EN: A specially treated brazier that illuminates its surroundings with darklight and creates heat. These satisfy royal brazier requirements. -->
+  <DarklightBrazier.description>周囲をダークライトで照らし熱を発生させる,特別に処理された火鉢です.これは貴族の火鉢要求を満たします.</DarklightBrazier.description>
+  
   <!-- EN: drape -->
   <Drape.label>ドレープ</Drape.label>
   <!-- EN: A decorative sheet hanging from a vertical wooden frame. Appropriate for royal rooms. -->

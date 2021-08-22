@@ -12,15 +12,21 @@
   <Blindness_Elevated.label>高尚</Blindness_Elevated.label>
   <!-- EN: The blind stand pure above the sighted. -->
   <Blindness_Elevated.description>盲人は目の見える人の上に純粋に立つ.</Blindness_Elevated.description>
+  <!-- EN: blinded someone -->
+  <Blindness_Elevated.comps.8.eventLabel>誰かを盲目にした</Blindness_Elevated.comps.8.eventLabel>
   
   <!-- EN: respected -->
   <Blindness_Respected.label>必須</Blindness_Respected.label>
   <!-- EN: To be blind is a moral thing worthy of respect. -->
   <Blindness_Respected.description>盲目になることは,尊敬に値する道徳的な行為だ.</Blindness_Respected.description>
+  <!-- EN: blinded someone -->
+  <Blindness_Respected.comps.5.eventLabel>誰かを盲目にした</Blindness_Respected.comps.5.eventLabel>
   
   <!-- EN: sublime -->
   <Blindness_Sublime.label>荘厳</Blindness_Sublime.label>
   <!-- EN: Only the blind can be truly noble, for the sighted find their minds clouded by physical vision. -->
   <Blindness_Sublime.description>目の見える人は,肉体的な視覚によって心の曇りを見るので,盲人だけが真の高貴であることができる.</Blindness_Sublime.description>
+  <!-- EN: bslinded someone -->
+  <Blindness_Sublime.comps.8.eventLabel>誰かを盲目にした</Blindness_Sublime.comps.8.eventLabel>
   
 </LanguageData>

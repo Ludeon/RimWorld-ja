@@ -1,6 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: destroyed natural wall -->
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>自然の壁を破壊した</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
+  <!-- EN: I destroyed a natural wall. It's wrong to scar the world this way. -->
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>自然の壁を破壊した.このように世界を傷つけるのは間違っている.</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>
+  
+  <!-- EN: destroyed natural wall -->
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>自然の壁を破壊した</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
+  <!-- EN: I destroyed a natural wall. It was a horrible violation of nature. -->
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>自然の壁を破壊した.これは自然に対する恐ろしい冒涜行為だ.</MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>
+  
+  <!-- EN: destroyed natural wall -->
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>自然の壁を破壊した</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
+  <!-- EN: I destroyed a natural wall. What a terrible offense against nature. -->
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>自然の壁を破壊した.自然に対するなんてひどい犯罪行為なんだろう.</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>
+  
   <!-- EN: mined -->
   <Mined_Disapproved.stages.mined.label>採掘した</Mined_Disapproved.stages.mined.label>
   <!-- EN: I had to mine a hole. I disapprove of harming the earth this way. -->
@@ -25,7 +40,7 @@
   <!-- EN: mined -->
   <Mined_Know_Horrible_Mood.stages.mined.label>採掘した</Mined_Know_Horrible_Mood.stages.mined.label>
   <!-- EN: Someone mined a hole in the pure earth. It was a horrible violation of nature. -->
-  <Mined_Know_Horrible_Mood.stages.mined.description>誰かが純粋な大地に穴を掘った.これは恐ろしい自然への侵害行為だ.</Mined_Know_Horrible_Mood.stages.mined.description>
+  <Mined_Know_Horrible_Mood.stages.mined.description>誰かが純粋な大地に穴を掘った.これは自然に対する恐ろしい冒涜行為だ.</Mined_Know_Horrible_Mood.stages.mined.description>
   
   <!-- EN: mined -->
   <Mined_Know_Prohibited.stages.mined.label>採掘した</Mined_Know_Prohibited.stages.mined.label>

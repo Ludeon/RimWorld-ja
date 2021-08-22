@@ -65,10 +65,14 @@
   <Execution_Required.comps.5.description>誰かがゲストを処刑した</Execution_Required.comps.5.description>
   <!-- EN: No execution for {MINDAYSLASTEXECUTION} days -->
   <Execution_Required.comps.6.description>{MINDAYSLASTEXECUTION}日間処刑が行われてない</Execution_Required.comps.6.description>
+  <!-- EN: executed someone -->
+  <Execution_Required.comps.7.eventLabel>誰かを処刑した</Execution_Required.comps.7.eventLabel>
   
   <!-- EN: respected if guilty -->
   <Execution_RespectedIfGuilty.label>有罪の場合は尊重</Execution_RespectedIfGuilty.label>
   <!-- EN: Executing prisoners is acceptable. If the prisoner is guilty, it is cause for great happiness. -->
   <Execution_RespectedIfGuilty.description>囚人の処刑は容認される. 囚人に罪がある場合,それは大いなる幸福に由来している.</Execution_RespectedIfGuilty.description>
+  <!-- EN: executed someone -->
+  <Execution_RespectedIfGuilty.comps.3.eventLabel>誰かを処刑した</Execution_RespectedIfGuilty.comps.3.eventLabel>
   
 </LanguageData>
