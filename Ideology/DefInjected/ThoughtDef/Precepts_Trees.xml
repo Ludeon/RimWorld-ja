@@ -27,81 +27,97 @@
   <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>ガウランレンとの絆がないと,自然から切り離されていると感じます.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>
   
   <!-- EN: healthy trees -->
-  <TreeDensityReduced.stages.healthy_trees.label>健全な木々</TreeDensityReduced.stages.healthy_trees.label>
+  <TreeDensityReduced.stages.healthy_trees.label>健康な木々</TreeDensityReduced.stages.healthy_trees.label>
   <!-- EN: In the past quadrum, we didn't destroy many trees at all. Harmony with the trees is the basic foundation for a good life. -->
   <TreeDensityReduced.stages.healthy_trees.description>以前の節で,私達は木々を全く破壊しなかった.木と調和することが良い生活の基本だ.</TreeDensityReduced.stages.healthy_trees.description>
   <!-- EN: trees disturbed -->
-  <TreeDensityReduced.stages.trees_disturbed.label>乱れた木々</TreeDensityReduced.stages.trees_disturbed.label>
+  <TreeDensityReduced.stages.trees_disturbed.label>木々が乱された</TreeDensityReduced.stages.trees_disturbed.label>
   <!-- EN: In the past quadrum, we have destroyed trees we shouldn't have. It might have been necessary, but it is still an occasion for sadness. -->
   <TreeDensityReduced.stages.trees_disturbed.description>以前の節で,私達はやむを得ず木々を破壊した.必要なこととはいえ悲しい気持ちになる.</TreeDensityReduced.stages.trees_disturbed.description>
+  <!-- EN: trees defaced -->
+  <TreeDensityReduced.stages.trees_defaced.label>木々が損なわれた</TreeDensityReduced.stages.trees_defaced.label>
+  <!-- EN: In the past quadrum, we have destroyed a lot of trees we shouldn't have. I don't think this was necessary. -->
+  <TreeDensityReduced.stages.trees_defaced.description>以前の節で,私達はやむを得ず多くの木を破壊した.これは必要のないことだったと思う.</TreeDensityReduced.stages.trees_defaced.description>
+  <!-- EN: trees damaged -->
+  <TreeDensityReduced.stages.trees_damaged.label>木々が被害を受けた</TreeDensityReduced.stages.trees_damaged.label>
+  <!-- EN: In the past quadrum, we have destroyed many trees we shouldn't have. This crime was not necessary, but we did it anyways. -->
+  <TreeDensityReduced.stages.trees_damaged.description>以前の節で,私達はやむを得ず数えきれないほど多くの木を破壊した.これは必要のない犯罪行為であったが,私達はとにかくそれを行った.</TreeDensityReduced.stages.trees_damaged.description>
   <!-- EN: trees harmed -->
-  <TreeDensityReduced.stages.trees_harmed.label>傷ついた木々</TreeDensityReduced.stages.trees_harmed.label>
+  <TreeDensityReduced.stages.trees_harmed.label>木々が危害を加えられた</TreeDensityReduced.stages.trees_harmed.label>
   <!-- EN: In the past quadrum, we have destroyed an inexcusable number of trees. We need to do so much better. -->
-  <TreeDensityReduced.stages.trees_harmed.description>以前の節で,私達は許されざる数の木々を破壊した.もっとうまくやる必要があります.</TreeDensityReduced.stages.trees_harmed.description>
+  <TreeDensityReduced.stages.trees_harmed.description>以前の節で,私達は許されざる数の木を破壊した.もっとうまくやる必要がある.</TreeDensityReduced.stages.trees_harmed.description>
+  <!-- EN: trees defiled -->
+  <TreeDensityReduced.stages.trees_defiled.label>木々が汚された</TreeDensityReduced.stages.trees_defiled.label>
+  <!-- EN: In the past quadrum, we have destroyed an inexcusably large number of trees. The guilt lays heavy upon us. -->
+  <TreeDensityReduced.stages.trees_defiled.description>以前の節で,私達は許しがたいほど沢山の木を破壊した.罪悪感が重くのしかかる.</TreeDensityReduced.stages.trees_defiled.description>
+  <!-- EN: trees wrecked -->
+  <TreeDensityReduced.stages.trees_wrecked.label>木々が破壊された</TreeDensityReduced.stages.trees_wrecked.label>
+  <!-- EN: In the past quadrum, we have destroyed a very large number of trees. I can hear the leafy screams even now. -->
+  <TreeDensityReduced.stages.trees_wrecked.description>以前の節で,私達は非常に多くの木を破壊した.今でも葉っぱ達の悲鳴が聞こえる.</TreeDensityReduced.stages.trees_wrecked.description>
   <!-- EN: trees ravaged -->
-  <TreeDensityReduced.stages.trees_ravaged.label>荒廃した木々</TreeDensityReduced.stages.trees_ravaged.label>
+  <TreeDensityReduced.stages.trees_ravaged.label>木々が荒廃した</TreeDensityReduced.stages.trees_ravaged.label>
   <!-- EN: In the past quadrum, we have destroyed a horrific number of trees. We are the blight on this universe. -->
   <TreeDensityReduced.stages.trees_ravaged.description>以前の節で,私達は恐ろしい数の木々を破壊した.私達は宇宙を荒廃させている.</TreeDensityReduced.stages.trees_ravaged.description>
   
   <!-- EN: amazing trees -->
   <TreesDesired.stages.amazing_trees.label>素晴らしい木々</TreesDesired.stages.amazing_trees.label>
-  <!-- EN: I am surrounded by several beautiful, massive trees. The glory of nature astounds me! -->
-  <TreesDesired.stages.amazing_trees.description>は美しく巨大な木々に囲まれている.自然の驚異が私を驚かせる!</TreesDesired.stages.amazing_trees.description>
+  <!-- EN: I am surrounded by several massive, beautiful trees. The glory of nature astounds me! -->
+  <TreesDesired.stages.amazing_trees.description>私は巨大で美しい木々に囲まれている.自然の驚異が私を驚かせる!</TreesDesired.stages.amazing_trees.description>
   <!-- EN: amazing tree -->
   <TreesDesired.stages.amazing_tree-0.label>素晴らしい木</TreesDesired.stages.amazing_tree-0.label>
-  <!-- EN: I very recently saw a beautiful, massive tree - a physical seat of morality! -->
-  <TreesDesired.stages.amazing_tree-0.description>最近,美しく巨大な木を見ました.まるで道徳が形を成したようだった!</TreesDesired.stages.amazing_tree-0.description>
+  <!-- EN: I very recently encountered a massive, beautiful tree - a physical seat of morality! -->
+  <TreesDesired.stages.amazing_tree-0.description>最近,巨大で美しい木に出会った.それはまるで道徳が形を成したような姿だった!</TreesDesired.stages.amazing_tree-0.description>
   <!-- EN: remarkable trees -->
   <TreesDesired.stages.remarkable_trees.label>見事な木々</TreesDesired.stages.remarkable_trees.label>
   <!-- EN: I am surrounded by a lush forest. -->
   <TreesDesired.stages.remarkable_trees.description>緑豊かな木々に囲まれている.</TreesDesired.stages.remarkable_trees.description>
   <!-- EN: amazing tree -->
   <TreesDesired.stages.amazing_tree-1.label>素晴らしい木</TreesDesired.stages.amazing_tree-1.label>
-  <!-- EN: I recently saw a beautiful, massive tree. -->
-  <TreesDesired.stages.amazing_tree-1.description>最近,美しく巨大な木を見ました.</TreesDesired.stages.amazing_tree-1.description>
+  <!-- EN: I recently encountered a massive, beautiful tree. -->
+  <TreesDesired.stages.amazing_tree-1.description>最近,巨大で美しい木を見ました.</TreesDesired.stages.amazing_tree-1.description>
   <!-- EN: rich forest -->
   <TreesDesired.stages.rich_forest.label>豊かな森</TreesDesired.stages.rich_forest.label>
   <!-- EN: I was recently surrounded by a lush forest. -->
   <TreesDesired.stages.rich_forest.description>最近,緑豊かな森に囲まれました.</TreesDesired.stages.rich_forest.description>
   <!-- EN: full trees -->
   <TreesDesired.stages.full_trees.label>充実した木々</TreesDesired.stages.full_trees.label>
-  <!-- EN: I recently saw many full trees. -->
-  <TreesDesired.stages.full_trees.description>最近,多くの充実した木々を見ました.</TreesDesired.stages.full_trees.description>
+  <!-- EN: I recently walked among many full trees. -->
+  <TreesDesired.stages.full_trees.description>最近,多くの充実した木々の間を歩いた.</TreesDesired.stages.full_trees.description>
   <!-- EN: mixed trees -->
   <TreesDesired.stages.mixed_trees.label>雑多な木々</TreesDesired.stages.mixed_trees.label>
-  <!-- EN: I recently saw a wide variety of trees. -->
-  <TreesDesired.stages.mixed_trees.description>最近,多種多様な木々を見ました.</TreesDesired.stages.mixed_trees.description>
+  <!-- EN: I recently walked among a wide variety of trees. -->
+  <TreesDesired.stages.mixed_trees.description>最近,多種多様な木々の間を歩いた.</TreesDesired.stages.mixed_trees.description>
   <!-- EN: full tree -->
   <TreesDesired.stages.full_tree.label>充実した木</TreesDesired.stages.full_tree.label>
-  <!-- EN: I recently saw a full tree. -->
-  <TreesDesired.stages.full_tree.description>最近,充実した木を見ました.</TreesDesired.stages.full_tree.description>
+  <!-- EN: I recently encountered a full tree. -->
+  <TreesDesired.stages.full_tree.description>最近,充実した木に出会った.</TreesDesired.stages.full_tree.description>
   <!-- EN: mini trees -->
   <TreesDesired.stages.mini_trees.label>小ぶりな木々</TreesDesired.stages.mini_trees.label>
-  <!-- EN: I recently saw plenty of miniature trees. -->
-  <TreesDesired.stages.mini_trees.description>最近,多くの小ぶりな木々を見ました.</TreesDesired.stages.mini_trees.description>
+  <!-- EN: I was recently surrounded by plenty of miniature trees. -->
+  <TreesDesired.stages.mini_trees.description>最近,多くの小ぶりな木々に囲まれた.</TreesDesired.stages.mini_trees.description>
   <!-- EN: mini tree -->
   <TreesDesired.stages.mini_tree.label>小ぶりな木</TreesDesired.stages.mini_tree.label>
-  <!-- EN: I recently saw a miniature tree. -->
-  <TreesDesired.stages.mini_tree.description>最近,小ぶりな木を見ました.</TreesDesired.stages.mini_tree.description>
+  <!-- EN: I recently got to enjoy the company of a miniature tree. -->
+  <TreesDesired.stages.mini_tree.description>最近,小ぶりな木の集まりを楽しむようになった.</TreesDesired.stages.mini_tree.description>
   <!-- EN: no tree -->
-  <TreesDesired.stages.no_tree-0.label>木が無い</TreesDesired.stages.no_tree-0.label>
-  <!-- EN: I haven't seen any trees in a while. -->
-  <TreesDesired.stages.no_tree-0.description>しばらく木を見ていません.</TreesDesired.stages.no_tree-0.description>
+  <TreesDesired.stages.no_tree-0.label>木がない</TreesDesired.stages.no_tree-0.label>
+  <!-- EN: I haven't been around any trees in a while. -->
+  <TreesDesired.stages.no_tree-0.description>しばらく木の周囲にいない.</TreesDesired.stages.no_tree-0.description>
   <!-- EN: no tree -->
-  <TreesDesired.stages.no_tree-1.label>木が無い</TreesDesired.stages.no_tree-1.label>
-  <!-- EN: I miss seeing trees around me. -->
-  <TreesDesired.stages.no_tree-1.description>周囲に木々が見当たらない.</TreesDesired.stages.no_tree-1.description>
+  <TreesDesired.stages.no_tree-1.label>木がない</TreesDesired.stages.no_tree-1.label>
+  <!-- EN: I miss having trees around me. -->
+  <TreesDesired.stages.no_tree-1.description>周囲に木々のある環境が恋しい.</TreesDesired.stages.no_tree-1.description>
   <!-- EN: trees missed -->
-  <TreesDesired.stages.trees_missed-0.label>木を見失う</TreesDesired.stages.trees_missed-0.label>
-  <!-- EN: It has been a while since I've seen a tree. -->
-  <TreesDesired.stages.trees_missed-0.description>以前に木を見てからかなり経った.</TreesDesired.stages.trees_missed-0.description>
+  <TreesDesired.stages.trees_missed-0.label>木に会いたい</TreesDesired.stages.trees_missed-0.label>
+  <!-- EN: It has been a while since I've been near a tree. -->
+  <TreesDesired.stages.trees_missed-0.description>最後に木の近くで暮らしてからかなり経った.</TreesDesired.stages.trees_missed-0.description>
   <!-- EN: trees missed -->
-  <TreesDesired.stages.trees_missed-1.label>木を見失う</TreesDesired.stages.trees_missed-1.label>
-  <!-- EN: It has been too long since I've seen a tree. -->
-  <TreesDesired.stages.trees_missed-1.description>以前に木を見てからとても長い時間が経った.</TreesDesired.stages.trees_missed-1.description>
+  <TreesDesired.stages.trees_missed-1.label>木に会いたい</TreesDesired.stages.trees_missed-1.label>
+  <!-- EN: It has been too long since I've been near a tree. -->
+  <TreesDesired.stages.trees_missed-1.description>最後に木の近くで暮らしてからとても長い時間が経った.</TreesDesired.stages.trees_missed-1.description>
   <!-- EN: trees sorely missed -->
-  <TreesDesired.stages.trees_sorely_missed.label>木を完全に見失う</TreesDesired.stages.trees_sorely_missed.label>
-  <!-- EN: It has been way too long since I've seen a tree! -->
-  <TreesDesired.stages.trees_sorely_missed.description>以前に木を見てからあまりにも長い時間が過ぎた!</TreesDesired.stages.trees_sorely_missed.description>
+  <TreesDesired.stages.trees_sorely_missed.label>木に切実に会いたい</TreesDesired.stages.trees_sorely_missed.label>
+  <!-- EN: It has been way too long since I've been near a tree! -->
+  <TreesDesired.stages.trees_sorely_missed.description>最後に木の近くで暮らしてからあまりにも長い時間が過ぎた!</TreesDesired.stages.trees_sorely_missed.description>
   
 </LanguageData>

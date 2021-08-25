@@ -176,10 +176,6 @@
   <EscapeShipFound>(*Name)Charlon Whitestone(/Name)が送ってきた座標に到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことができません.コンピュータコアを使って操作すれば起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)は警告しています.再起動シーケンスはおよそ15日程かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうでしょう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング達や,最悪なメカノイドの群れを惹きつけるでしょう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれることが予想されます.まずは最初に守りを確認しましょう.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
   <EscapeShipFoundPeaceful>あなたは(*Name)Charlon Whitestone(/Name)が送ってきた座標に到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできません.コンピュータコアにアクセスして起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)はあなたに起動シーケンスは約15日かかると警告してきました.</EscapeShipFoundPeaceful>
-  <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
-  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>(*Name)Charlon Whitestone(/Name)がメッセージを送ってきました.\n彼は,あなたが着陸船で姿勢制御を失ったことを知っています.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引き,その結果,船は今やクレーターとなりました.\nこの惑星から出る,別の手段を見つける必要があります.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -246,5 +242,9 @@
   <LetterLabelQuestAskerDied>クエスト 失敗</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>{SUBJECT_definite}が死んでいるためクエストを完了できません.</LetterQuestAskerDied>
+
+  <!-- UNUSED -->
+  <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
+  <EscapeShipLost>(*Name)Charlon Whitestone(/Name)がメッセージを送ってきました.\n彼は,あなたが着陸船で姿勢制御を失ったことを知っています.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引き,その結果,船は今やクレーターとなりました.\nこの惑星から出る,別の手段を見つける必要があります.</EscapeShipLost>
 
 </LanguageData>

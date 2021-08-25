@@ -3,8 +3,8 @@
   
   <!-- EN: linker -->
   <AnimaTreeLinking.roles.0.label>リンクしている人</AnimaTreeLinking.roles.0.label>
-  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level. -->
-  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>サイリンクレベルが最大でない,自然へ瞑想の焦点を向けられる入植者が必要です.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>サイリンクレベルが最大でなく,精神的無反応ではない,自然へ瞑想の焦点を向けられる入植者が必要です.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
   <!-- EN: Must have natural focus type. -->
   <AnimaTreeLinking.spectatorFilter.description>自然のフォーカスタイプを持っている必要があります.</AnimaTreeLinking.spectatorFilter.description>
   <!-- EN: participate -->

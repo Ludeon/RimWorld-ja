@@ -414,6 +414,8 @@
   <Location>場所</Location>
   <!-- EN: animals -->
   <AnimalsLower>動物</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>アイテム</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0}x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
@@ -1480,8 +1482,8 @@
   <RitualTakesPlaceAt>行われる場所</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>いくつかの{0}</RitualTargetThingDefsInfo>
-  <!-- EN: Attending -->
-  <LordReportAttending>参列する</LordReportAttending>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>{0}に参列する</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>{0}はキャンセルされました.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
@@ -1527,7 +1529,7 @@
   <!-- EN: {0} expectations -->
   <RitualQualityExpectations>{0}が期待できる</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
-  <RitualAmbienceSound>儀式的な雰囲気の音</RitualAmbienceSound>
+  <RitualAmbienceSound>儀式的な環境音</RitualAmbienceSound>
   <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
   <RitualQualityLowWarning>{0}の合計品質は{1}を下回っています.続行すると,コロニーに悪影響を与える可能性があります.\n\n本当に行いますか?</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
@@ -1590,5 +1592,10 @@
   <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>最大{0}</MaxValue>
-  
+
+  <!-- EN: {0} of -->
+  <ThingOf>次の{0}:</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>{1}の{0}</ThingOfSource>
+
 </LanguageData>

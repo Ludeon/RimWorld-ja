@@ -94,8 +94,7 @@
   <!-- EN: Primary ideoligion changed -->
   <LetterLabelNewPrimaryIdeo>主要な思想が変更</LetterLabelNewPrimaryIdeo>
   <!-- EN: Your faction's primary ideoligion has changed from {OLDIDEO_name} to {NEWIDEO_name}.\n\nThis happened because {NEWIDEO_name} is now more common among your {FACTION_pawnsPlural} than any other ideoligion.\n\nYour primary ideoligion affects relationships with other factions, based on how closely your beliefs align with theirs. -->
-  <!--TODO--><!--仮翻訳:" based on how closely your beliefs align with theirs."「あなたの思想が彼らの思想とどれほど密接に一致しているかに基づいて,」がちゃんと訳せてないと思うので翻訳し直しをお願いします.-->
-  <LetterNewPrimaryIdeo>この派閥の主要な思想が{OLDIDEO_name}から{NEWIDEO_name}に変わりました.\n\nこれは,{NEWIDEO_name}が他のどの思想よりも{FACTION_pawnsPlural}の間で一般的に広まっているために発生しました.\n\nこの派閥の主要な思想は,あなたの思想が彼らの思想とどれほど密接に一致しているかに基づいて,他の派閥との関係に影響を与えます.</LetterNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>この派閥の主要な思想が{OLDIDEO_name}から{NEWIDEO_name}に変わりました.\n\nこれは,{FACTION_pawnsPlural}の間で{NEWIDEO_name}が最も一般的に広まっているために発生しました.\n\nこの派閥の主要な思想は,他の派閥の思想とどれほど密接に提携できているかに基づいて,他の派閥との関係性に影響を与えます.</LetterNewPrimaryIdeo>
 
   <!-- Charity incidents -->
   <!-- EN: This is a charity incident. If you turn {0} away, believers with charitable beliefs will be unhappy. -->
@@ -204,5 +203,11 @@
   <LetterLabelArchotechStructuresAbandoned>放棄されたアルコテックの建築物</LetterLabelArchotechStructuresAbandoned>
   <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
   <LetterTextArchotechStructuresAbandoned>{0_definite}で,放棄されたアルコテックの建築物を見つけました.\n\n遠くにいた観測者は,あなたが去って間もなく,この場所から大きな閃光が発せられるのを見たと言っています.</LetterTextArchotechStructuresAbandoned>
+
+  <!-- Reforming ideo -->
+  <!-- EN: Reform ideoligion -->
+  <LetterLabelReformIdeo>思想を改変</LetterLabelReformIdeo>
+  <!-- EN: You have enough development points to reform {0}!\n\nReforming allows you to do one of the following:\n\n- Add a meme\n- Remove a meme\n- Change structure\n- Change style\n\nYou can also make unlimited changes to precepts, deities, narrative text, and other symbols.\n\nTo reform the ideoligion, open it in the ideoligions tab. -->
+  <LetterTextReformIdeo>{0}を改変するのに十分な発展ポイントがあります!\n\n改変により,次のいずれかを行うことができます:\n\n- ミームの付け加え\n- ミームの削除\n- 構造の変更\n- スタイルの変更\n\nまた,戒律,神格,物語のテキスト,その他のシンボルに無制限の変更を加えることができます.\n\n思想を改変するには,思想タブから開いてください.</LetterTextReformIdeo>
 
 </LanguageData>

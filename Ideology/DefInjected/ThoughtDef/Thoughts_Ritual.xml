@@ -5,6 +5,14 @@
   <RelicAtRitual.stages.at_ritual.label>儀式の{RELICNAME}</RelicAtRitual.stages.at_ritual.label>
   <!-- EN: {RELICNAME} was present during our ritual. -->
   <RelicAtRitual.stages.at_ritual.description>{RELICNAME}が私達の儀式に供えられた.</RelicAtRitual.stages.at_ritual.description>
+  <!-- EN: two relics at ritual -->
+  <RelicAtRitual.stages.two_relics_at_ritual.label>儀式の二つのレリック</RelicAtRitual.stages.two_relics_at_ritual.label>
+  <!-- EN: Two relics were present during our ritual. -->
+  <RelicAtRitual.stages.two_relics_at_ritual.description>儀式の間,二つのレリックが置かれていた.</RelicAtRitual.stages.two_relics_at_ritual.description>
+  <!-- EN: three relics at ritual -->
+  <RelicAtRitual.stages.three_relics_at_ritual.label>儀式の三つのレリック</RelicAtRitual.stages.three_relics_at_ritual.label>
+  <!-- EN: Three relics were present during our ritual. -->
+  <RelicAtRitual.stages.three_relics_at_ritual.description>儀式の間,三つのレリックが置かれていた.</RelicAtRitual.stages.three_relics_at_ritual.description>
   
   <!-- EN: {RITUAL_labelCap} delayed -->
   <RitualDelayed.stages.delayed.label>{RITUAL_labelCap}の遅れ</RitualDelayed.stages.delayed.label>

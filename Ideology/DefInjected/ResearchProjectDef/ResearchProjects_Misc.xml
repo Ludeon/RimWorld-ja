@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: bioregeneration -->
+  <Bioregeneration.label>生体再生</Bioregeneration.label>
+  <!-- EN: Unlock the biosculpter pod's bioregeneration cycle. This cycle heals old scars, regenerates small lost body parts like fingers and toes, and cures many of the physical maladies that come with old age. -->
+  <Bioregeneration.description>生体改造ポッドの生体再生サイクルのロックを解除します.このサイクルは,古傷を癒し,指やつま先などの小さな失われた部位を再生し,老化に伴う多くの身体的病気を治療します.</Bioregeneration.description>
+  
   <!-- EN: biosculpting -->
   <Biosculpting.label>生体改造</Biosculpting.label>
   <!-- EN: Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism. -->

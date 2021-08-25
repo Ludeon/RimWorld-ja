@@ -15,6 +15,8 @@
   <Customize>カスタム</Customize>
   <!-- EN: Play classic -->
   <PlayClassic>クラシックでプレイ</PlayClassic>
+  <!-- EN: Create fluid... -->
+  <CreateFluid>流動を作成...</CreateFluid>
   <!-- EN: Load saved -->
   <LoadSaved>セーブを読込</LoadSaved>
   <!-- EN: Structure -->
@@ -123,22 +125,31 @@
   <PreceptName>名前を保護</PreceptName>
   <!-- EN: precept name -->
   <PreceptNameLower>名前を保護</PreceptNameLower>
-  <!-- EN: Changing -->
-  <Changing>変更する</Changing>
+  <!-- EN: Changing {0} -->
+  <Changing>{0}を変更する</Changing>
   <!-- EN: structures -->
   <StructuresLower>構造</StructuresLower>
   <!-- EN: memes -->
   <MemesLower>ミーム</MemesLower>
-  
+  <!-- EN: Development points -->
+  <Reward_DevelopmentPointsLabel>発展ポイント</Reward_DevelopmentPointsLabel>
+  <!-- EN: Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals. -->
+  <Reward_DevelopmentPoints>{0}の発展ポイントは{1}増加します.\n\n現在,{2}の発展ポイントがあります.発展ポイントが{3}になれば,思想を改変できます.</Reward_DevelopmentPoints>
+  <!-- EN: Current points -->
+  <CurrentDevelopmentPoints>現在のポイント</CurrentDevelopmentPoints>
+  <!-- EN: Points needed to reform -->
+  <ReformDevelopmentPoints>改変に必要なポイント</ReformDevelopmentPoints>
+  <!-- EN: quest -->
+  <QuestLower>クエスト</QuestLower>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
-  <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓です.</RitualTargetGraveInfo>
+  <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓</RitualTargetGraveInfo>
   <!-- EN: An empty grave to mourn {PAWN_labelShort}'s passing. -->
-  <RitualTargetEmptyGraveInfo>{PAWN_labelShort}の死を悼むための空の墓です.</RitualTargetEmptyGraveInfo>
+  <RitualTargetEmptyGraveInfo>{PAWN_labelShort}の死を悼むための空の墓</RitualTargetEmptyGraveInfo>
   <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
   <RitualTargetGraveInfoAbstract>{IDEO_memberNameIndef}の死体を納めた墓</RitualTargetGraveInfoAbstract>
   <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
-  <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓です.</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}の死体を最初に埋める必要がある</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
@@ -194,6 +205,11 @@
   <RitualOutcomeExtraDesc_SkylanternWanderers>スカイランタンは何人かの友好的な旅行者を魅了しました.彼らはこの場所に訪問し,贈り物を残します.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
   <RitualOutcomeExtraDesc_Execution>参加した全ての奴隷が死の光景に震えました.奴隷たちの抑圧力は最大レベルまで引き上げられました.</RitualOutcomeExtraDesc_Execution>
+  
+  <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>儀式の質の高さから,発展ポイントは{2}増加しました({0}から{1}へ変化).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <!-- EN: Due to the poor quality of the ritual, no development points were gained. -->
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>儀式の質が悪かったため,発展ポイントは得られませんでした.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
   <!-- EN: Additional reward -->
   <RitualAttachedReward>追加の報酬</RitualAttachedReward>
@@ -256,6 +272,10 @@
   <RitualOutcomeCompTip_RitualTargetDefsPart1>最高の品質を得るためには,{0}を{1}から開始してください.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
   <RitualOutcomeCompTip_RitualTargetDefsPart2>現在{0}は{1_labelShortIndef}で開始されています.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <!-- EN: Development points -->
+  <RitualDevelopmentPoints>発展ポイント</RitualDevelopmentPoints>
+  <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
+  <RitualDevelopmentPointsTip>この儀式を完了すると,品質に応じて{0}~{1}の発展ポイントを得られます.</RitualDevelopmentPointsTip>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>奴隷用</ForSlaveUse>
@@ -299,6 +319,8 @@
   <RoleExpectationOffset>レベル{0}で発生します.</RoleExpectationOffset>
   <!-- EN: The {0} has higher expectations. -->
   <RoleRaisedExpectation>{0}はより高い期待を持っています.</RoleRaisedExpectation>
+  <!-- EN: The {0} will have higher expectations in {1}. -->
+  <RoleRaisedExpectationGracePeriod>{0}は{1}でより高い期待を持っています.</RoleRaisedExpectationGracePeriod>
   <!-- EN: Led by {0} -->
   <IdeoLeaderDifferentIdeoThoughtLabel>{0}がリーダー</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
@@ -505,13 +527,13 @@
   <!-- EN: Hunting revenge chance {0} -->
   <RoleEffectHuntingRevengeChance>狩猟時の反撃確率{0}</RoleEffectHuntingRevengeChance>
   <!-- EN: Give thought -->
-  <RoleEffectGiveThoughtOnTended>TODO</RoleEffectGiveThoughtOnTended>
+  <RoleEffectGiveThoughtOnTended>気にかける</RoleEffectGiveThoughtOnTended>
 
   <!-- EN: Assign colonists to your ideoligion -->
   <AssignColonists>入植者にあなたの思想を割り当てる</AssignColonists>
   <!-- EN: Remove new ideoligion -->
   <RemoveNewIdeoligion>新しい思想を削除する</RemoveNewIdeoligion>
-  <!-- EN: Make this your primary ideologion -->
+  <!-- EN: Make this your primary ideoligion -->
   <MakeIdeoligionPrimary>これを主要な思想にする</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
@@ -571,7 +593,7 @@
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort}は電力不足のために生体改造ポッドから排出されました.</BiosculpterNoPowerEjectedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle. -->
   <BiosculpterHealCompletedMessage>{PAWN_labelShort}が回復サイクルを完了しました.</BiosculpterHealCompletedMessage>
-  <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->
+  <!-- EN: {PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}は回復サイクルを完了し,{HEDIFF_label}が治療されました.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}は年齢逆転サイクルを完了しました.{PAWN_pronoun}は{DEADLINE}日で次の年齢逆転を期待しています.</BiosculpterAgeReversalCompletedMessage>
@@ -579,6 +601,12 @@
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}は快楽サイクルを完了しました.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>清浄度による速度掛け率</BiosculpterCleanlinessSpeedFactor>
+  <!-- EN: These conditions will be healed -->
+  <HealingCycleWillHeal>これらの状態は治療されます</HealingCycleWillHeal>
+  <!-- EN: One of these conditions will be healed -->
+  <HealingCycleOneWillHeal>これらの状態のうちの一つが治癒されます</HealingCycleOneWillHeal>
+  <!-- EN: Missing required research -->
+  <MissingRequiredResearch>必要な調査がありません</MissingRequiredResearch>
 
   <!-- UNUSED -->
   <RelicHuntFindRelicSite>始めに{0}を見つける必要があります. これに関する情報を収集する機会に注意してください.</RelicHuntFindRelicSite>

@@ -42,8 +42,8 @@
 
   <!-- EN: {0} desired -->
   <IdeoBuildingMissing>{0}を願望</IdeoBuildingMissing>
-  <!-- EN: {1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>{1}では{2}以上である限り,コロニーに{0}が含まれている必要があります.{4}\n\n要件が満たされない場合,以下の信者は不幸になります:\n{3}</IdeoBuildingMissingDesc>
+  <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
+  <IdeoBuildingMissingDesc>{IDEO_name}では{2}以上である限り,コロニーに{0}が含まれている必要があります.\n\nこの要件は,{IDEO_name}がこの派閥の主要な思想である場合,もしくはこの派閥に{MINBELIEVERS}人の信者がいる場合にのみ有効です.{4}\n\n要件が満たされない場合,以下の信者は不幸になります:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
   <IdeoBuildingRoomRequirementsDesc>{0}の威厳を保つには,以下の部屋の要件を満たす必要があります</IdeoBuildingRoomRequirementsDesc>
   <!-- EN: expectations are -->
@@ -64,7 +64,7 @@
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>{0} 役割未割当</IdeoRolesEmpty>
   <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>これらの役割に割り当てがありません:\n{0}\n\n入植者の「社交」タブから役割に割り当てることができます.\n\n役割未割当のままだと,以下の入植者の心情が悪化します.</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>これらの役割に割り当てがありません:\n{0}\n\n入植者の「社交」タブから役割に割り当てることができます.\n\n役割未割当のままだと,以下の入植者の心情が悪化します</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
   <AncientAltarThreatsWaking>{0}で活性化したセキュリティの脅威</AncientAltarThreatsWaking>

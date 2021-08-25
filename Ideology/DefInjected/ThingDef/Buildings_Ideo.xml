@@ -25,10 +25,14 @@
   <BiosculpterPod.label>生体改造ポッド</BiosculpterPod.label>
   <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
   <BiosculpterPod.description>生体改造用の流体注水器と,付属の制御システムを備えた没入型ポッドです.年齢の逆転や快楽を与えることを含む,様々な生物学的変化を与えることができます.各ポッドは使用者に合わせて生体調整されるため,他の人が使用することはできません.生体調整は60日後にリセットされます.トランスヒューマニズムの信者は,生体改造ポッドが通常の人間の物理的限界を超える,彼らの探求において非常に重要な装置であると信じています.</BiosculpterPod.description>
-  <!-- EN: healing -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>回復している</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
-  <!-- EN: Heal all fresh wounds and one random permanent injury. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>全ての新しい傷と,一つの治らない怪我をランダムに癒します.</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
+  <!-- EN: medic -->
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>治療</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
+  <!-- EN: Heal all fresh wounds, blood loss, and one random infectious disease. -->
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>新しい傷,失血,及び一つのランダムな感染症を全て癒します.</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>
+  <!-- EN: bioregeneration -->
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>生体再生</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
+  <!-- EN: Heal all fresh wounds, heal one random permanent injury, and restore small missing body parts like fingers and toes. -->
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>新しい傷を全て癒し,一つのランダムな永久的な怪我を癒し,指やつま先などの小さな欠けている部位を修復します.</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
   <!-- EN: age reversal -->
   <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>年齢逆転</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <!-- EN: Reverse one year of aging. -->
@@ -37,6 +41,10 @@
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>喜び</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
   <!-- EN: Temporarily reshape the nervous system to deliver elevated levels of happiness for a time. -->
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>神経系を再形成し,一時的に高レベルの幸福をもたらします.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
+  
+  <!-- UNUSED -->
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>回復している</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>全ての新しい傷と,一つの治らない怪我をランダムに癒します.</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
   
   <!-- EN: burnbong -->
   <Burnbong.label>バーンボング</Burnbong.label>

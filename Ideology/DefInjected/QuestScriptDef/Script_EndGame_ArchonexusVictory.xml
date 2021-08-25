@@ -28,7 +28,7 @@
     <li>descriptionIntro(factionless==true)->A group of wild people are</li>
   -->
   <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
-    <li>questDescription->[descriptionIntro]は領土を拡大しようとしており,その全ての[itsTheir]富と技術で[playerSettlements]を引き継ぐことに興味を持っています.総資産を[requiredWealth_money]にまで増やすことができれば,彼らは[settlementsSingularOrPlural]を引き取ります.\n\nトレードを行うことで,彼らは古代のアルコテックネクサスの場所を示す地図のパーツを提供します.アルコネクサスは,アルコテックの超知性体が物理的な世界に影響を与える導管であると考えられています.もしその力を呼び起こすことができれば,物理的な現実を超えたことが起きる可能性があります.\n\n[onlyHaveHas]は地図のパーツを一枚しか持っていません.他のパーツは他の派閥が持っているそうです.\n\n彼らの申し出を受け入れた場合,[factionPawnsPlural]はアイテム,入植者,そして記録された研究を含む全ての[playerSettlements]を所有します.彼らは[colonistsAllowed]と家畜である[animalsAllowed]のみを惑星上のどこにでも連れて行き,あなたはそこで新しいコロニーを始められます.\n\n後に地図の残りの二枚を他の人と交換することができます.</li>
+    <li>questDescription->[descriptionIntro]は領土を拡大しようとしており,その全ての[itsTheir]富と技術で[playerSettlements]を引き継ぐことに興味を持っています.総資産を[requiredWealth_money]にまで増やすことができれば,彼らは[settlementsSingularOrPlural]を引き取ります.\n\nトレードを行うことで,彼らは古代のアルコテックネクサスの場所を示す地図のパーツを提供します.アルコネクサスは,アルコテックの超知性体が物理的な世界に影響を与える導管であると考えられています.もしその力を呼び起こすことができれば,物理的な現実を超えたことが起きる可能性があります.\n\n[onlyHaveHas]は地図のパーツを一枚しか持っていません.他のパーツは他の派閥が持っているそうです.\n\n彼らの申し出を受け入れた場合,[factionPawnsPlural]はアイテム,入植者,そして記録された研究を含む全ての[playerSettlements]を所有します.彼らは[colonistsAllowed]人の入植者と[animalsAllowed]匹の家畜のみを惑星上のどこにでも連れて行くことができ,あなたはそこで新しいコロニーを始められます.\n\n後に地図の残りの二枚を他の人と交換することができます.</li>
     <li>itsTheir(playerSettlementsCount==1)-></li>
     <li>itsTheir(playerSettlementsCount>=2)-></li>
     <li>settlementsSingularOrPlural(playerSettlementsCount==1)->入植地</li>
