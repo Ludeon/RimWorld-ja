@@ -6,10 +6,30 @@
   <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
   <AncientAirConditioner.description>古代のエアコンです.内部ははるか昔に破壊され,それ以外の略奪されなかった部分は錆びついています.</AncientAirConditioner.description>
   
+  <!-- EN: ancient ruined APC -->
+  <AncientAPC.label>古代の破壊されたAPC</AncientAPC.label>
+  <!-- EN: The remains of an ancient armoured troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientAPC.description>ある種の重火器によって破壊された,古代の装甲部隊運搬船の残骸です.全ての有用なコンポーネントはずっと昔に略奪されたか,劣化しました.</AncientAPC.description>
+  
+  <!-- EN: ancient ATM -->
+  <AncientATM.label>古代のATM</AncientATM.label>
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientATM.description>古代のATMです.砕けて錆びてしまい,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</AncientATM.description>
+  
   <!-- EN: ancient centipede shell -->
   <AncientCentipedeShell.label>古代のムカデの外殻</AncientCentipedeShell.label>
   <!-- EN: A shell from a smashed centipede. It has been deteriorating for many years and all the useful components have disintegrated. -->
   <AncientCentipedeShell.description>砕かれたムカデの外殻です.何年もの間劣化していて,有用なコンポーネントは全てボロボロになっています.</AncientCentipedeShell.description>
+  
+  <!-- EN: ancient container -->
+  <AncientContainer.label>古代のコンテナ</AncientContainer.label>
+  <!-- EN: A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorted into uselessness. -->
+  <AncientContainer.description>古代の貨物輸送車両に付属していた大きなコンテナです.長い期間をかけて略奪され,劣化して役に立たなくなっています.</AncientContainer.description>
+  
+  <!-- EN: ancient dropship engine -->
+  <AncientDropshipEngine.label>古代のドロップシップエンジン</AncientDropshipEngine.label>
+  <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientDropshipEngine.description>古代のドロップシップエンジンです.恐らく軍隊の空母から外れたのでしょう.その繊細な内部は錆びて役に立たなくなり,貴重な部品はずっと昔に略奪されました.</AncientDropshipEngine.description>
   
   <!-- EN: ancient fence -->
   <AncientFence.label>古代のフェンス</AncientFence.label>
@@ -20,6 +40,11 @@
   <AncientGiantWheel.label>古代の巨大車輪</AncientGiantWheel.label>
   <!-- EN: A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted. -->
   <AncientGiantWheel.description>何年も前に大型車から外れた巨大な車輪です.ゴムは崩れ,金属は錆びてねじ曲がっています.</AncientGiantWheel.description>
+  
+  <!-- EN: ancient hydrant -->
+  <AncientHydrant.label>古代の消火栓</AncientHydrant.label>
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientHydrant.description>古代の消火栓です.錆びがひどく,今ではまったく役に立ちません.\n\nどうやってここにたどり着いたのかはわかりません.</AncientHydrant.description>
   
   <!-- EN: ancient jet engine -->
   <AncientJetEngine.label>古代のジェットエンジン</AncientJetEngine.label>
@@ -64,17 +89,32 @@
   <!-- EN: ancient mega-cannon platform -->
   <AncientMegaCannonTripod.label>古代のメガキャノンの砲架</AncientMegaCannonTripod.label>
   <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
-  <AncientMegaCannonTripod.description>かつてある種の大砲を保持していた砲架です.壊れて何年も経過しており,有用なコンポーネントもとっくに略奪されました</AncientMegaCannonTripod.description>
+  <AncientMegaCannonTripod.description>かつてある種の大砲を保持していた砲架です.壊れて何年も経過しており,有用なコンポーネントもとっくに略奪されました.</AncientMegaCannonTripod.description>
+  
+  <!-- EN: ancient microwave -->
+  <AncientMicrowave.label>古代の電子レンジ</AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientMicrowave.description>食品を加熱するための古代の装置です.砕けて錆びてしまい,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</AncientMicrowave.description>
   
   <!-- EN: ancient warsprinter remains -->
   <AncientMiniWarwalkerRemains.label>古代のウォースプリンターの残骸</AncientMiniWarwalkerRemains.label>
   <!-- EN: The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago. -->
   <AncientMiniWarwalkerRemains.description>古代の下級ウォースプリンターの残骸です.破壊された時点で残っていた部品もすでに略奪され尽くしています.</AncientMiniWarwalkerRemains.description>
   
+  <!-- EN: ancient oven -->
+  <AncientOven.label>古代のオーブン</AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientOven.description>古代のオーブンです.潰れて錆びており,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</AncientOven.description>
+  
   <!-- EN: ancient pipeline section -->
   <AncientPipelineSection.label>古代のパイプラインの部品</AncientPipelineSection.label>
   <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
   <AncientPipelineSection.description>古代のパイプラインの一部です.かつては長距離に渡って貴重な液体を運んでいました.今は略奪され壊されきっています.</AncientPipelineSection.description>
+  
+  <!-- EN: ancient pipes -->
+  <AncientPipes.label>古代のパイプ</AncientPipes.label>
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <AncientPipes.description>錆びた古いパイプの束です.これらがどのようにしてここにたどり着いたのかはわかりません.</AncientPipes.description>
   
   <!-- EN: ancient pod car -->
   <AncientPodCar.label>古代のポッドカー</AncientPodCar.label>
@@ -106,6 +146,11 @@
   <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
   <AncientRustedCarFrame.description>古代の錆びた車のフレームです.外装は長い年月の間に錆びてなくなりました.</AncientRustedCarFrame.description>
   
+  <!-- EN: ancient dropship -->
+  <AncientRustedDropship.label>古代のドロップシップ</AncientRustedDropship.label>
+  <!-- EN: The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness. -->
+  <AncientRustedDropship.description>古代のドロップシップの残骸です.貴重な部品はずっと昔に略奪され,残りは役に立たなくなっています.</AncientRustedDropship.description>
+  
   <!-- EN: ancient engine block -->
   <AncientRustedEngineBlock.label>古代のエンジン部品</AncientRustedEngineBlock.label>
   <!-- EN: An ancient engine block that is rusted through. No repair could salvage this. -->
@@ -115,6 +160,11 @@
   <AncientRustedJeep.label>古代の兵員輸送車</AncientRustedJeep.label>
   <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
   <AncientRustedJeep.description>古代の兵員輸送車です.長い年月の間に略奪され,残りは全て錆びついています.</AncientRustedJeep.description>
+  
+  <!-- EN: ancient truck -->
+  <AncientRustedTruck.label>古代のトラック</AncientRustedTruck.label>
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <AncientRustedTruck.description>古代の壊れたトラックです.有用な部品は全て錆びたか,ずっと昔に略奪されました.</AncientRustedTruck.description>
   
   <!-- EN: ancient security turret -->
   <AncientSecurityTurret.label>古代の警備タレット</AncientSecurityTurret.label>
@@ -151,6 +201,11 @@
   <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
   <AncientTankTrap.description>戦車を阻止するための障害物です.長い時を経て崩れきっています.</AncientTankTrap.description>
   
+  <!-- EN: ancient toilet -->
+  <AncientToilet.label>古代のトイレ</AncientToilet.label>
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientToilet.description>古代のトイレです.ずっと昔に破壊され,今では完全に役に立ちません.\n\nどうやってここにたどり着いたのかはわかりません.</AncientToilet.description>
+  
   <!-- EN: ancient vending machine -->
   <AncientVendingMachine.label>古代の自動販売機</AncientVendingMachine.label>
   <!-- EN: An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery. -->
@@ -185,6 +240,11 @@
   <AncientWarwalkerTorso.label>古代のウォーウォーカーの胴体</AncientWarwalkerTorso.label>
   <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
   <AncientWarwalkerTorso.description>はるか昔に脱落した中型ウォーウォーカーの胴体部分です.有用なコンポーネントはとっくに略奪されました.</AncientWarwalkerTorso.description>
+  
+  <!-- EN: ancient washing machine -->
+  <AncientWashingMachine.label>古代の洗濯機</AncientWashingMachine.label>
+  <!-- EN: An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientWashingMachine.description>布地を洗うために使用される古代の装置です.潰れて錆びていて,今ではまったく役に立ちません.\n\nどうやってここにたどり着いたのかはわかりません.</AncientWashingMachine.description>
   
   <!-- EN: ancient wheel -->
   <AncientWheel.label>古代の車輪</AncientWheel.label>

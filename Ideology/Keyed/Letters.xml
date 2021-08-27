@@ -41,8 +41,8 @@
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
   <LetterLabelRoleActive>{0}の役割が使用可能</LetterLabelRoleActive>
-  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button. -->
-  <LetterLabelRoleActiveDesc>コロニー内の{0}の数が{1}に達しました.これで,入植者の1人に{ROLE_labelDef}の役割を割り当てることができます.\n\n</LetterLabelRoleActiveDesc>
+  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
+  <LetterLabelRoleActiveDesc>コロニー内の{0}の数が{1}に達しました.これで,入植者の1人に{ROLE_labelDef}の役割を割り当てることができます.\n\n役割を割り当てるには,その人物の社交タブを使用するか,儀式の場所,もしくは祭壇を選択して,'役割の変更を開始'を押してください.</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
   <LetterLabelRoleInactive>{0}の役割が使用不可</LetterLabelRoleInactive>

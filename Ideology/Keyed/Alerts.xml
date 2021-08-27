@@ -63,8 +63,8 @@
   <IdeoRoleEmpty>{0} 役割未割当</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>{0} 役割未割当</IdeoRolesEmpty>
-  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>これらの役割に割り当てがありません:\n{0}\n\n入植者の「社交」タブから役割に割り当てることができます.\n\n役割未割当のままだと,以下の入植者の心情が悪化します</IdeoRolesEmptyDesc>
+  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role by performing a role change ritual. Select a ritual spot or an altar and click 'Begin role change'.\n\nIf these roles remain empty, the following people will be unhappy -->
+  <IdeoRolesEmptyDesc>これらの役割に割り当てがありません:\n{0}\n\n役割変更の儀式を実行することにより,誰かに役割を割り当てることができます.儀式の場所,もしくは祭壇を選択し,'役割の変更を開始'をクリックしてください.\n\n役割未割当のままだと,以下の入植者の心情が悪化します</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
   <AncientAltarThreatsWaking>{0}で活性化したセキュリティの脅威</AncientAltarThreatsWaking>

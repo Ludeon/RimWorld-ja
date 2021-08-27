@@ -35,6 +35,8 @@
   <ChooseOrRemoveMeme>ミームを選択するか,削除します.</ChooseOrRemoveMeme>
   <!-- EN: Reset changes -->
   <ReformIdeoResetChanges>変更をリセット</ReformIdeoResetChanges>
+  <!-- EN: Choose {0} meme. -->
+  <NotEnoughMemesFluidIdeo>{0}のミームを選択します.</NotEnoughMemesFluidIdeo>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
   <ChangesRandomizePrecepts>{0}は,編集した全ての戒律を再ランダム化します.\n\n本当に続けますか?</ChangesRandomizePrecepts>
@@ -50,8 +52,12 @@
   <Role>役割</Role>
   <!-- EN: Assign role -->
   <ChooseRole>役割を割当</ChooseRole>
+  <!-- EN: Choose new role -->
+  <ChooseNewRole>新しい役割を選択</ChooseNewRole>
   <!-- EN: No role assigned -->
   <NoRoleAssigned>役割が割り当てられてない</NoRoleAssigned>
+  <!-- EN: Remove {0} role -->
+  <RemoveRole>{0}の役割を解任</RemoveRole>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
   <ChooseRoleConfirmAssign>{ROLE_labelDef}の役割を{PAWN_labelShort}に割り当てようとしています.</ChooseRoleConfirmAssign>
   <!-- EN: Are you sure? -->

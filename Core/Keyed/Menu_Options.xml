@@ -86,6 +86,10 @@
   <ModSettings>Mod 設定</ModSettings>
   <!-- EN: Permanently disable development mode -->
   <PermanentlyDisableDevMode>開発者モードを永久に無効化する</PermanentlyDisableDevMode>
+  <!-- EN: Texture compression -->
+  <TextureCompression>テクスチャ圧縮</TextureCompression>
+  <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
+  <TextureCompression_Tooltip>テクスチャ圧縮をオフにすると,拡大時のテクスチャの見栄えが少し良くなりますが,より多くのビデオメモリが使用されます.余分なビデオメモリが沢山ある場合にのみ,これをオフにしてください.</TextureCompression_Tooltip>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
@@ -106,6 +110,8 @@
   <ResetAndRestart>オプション設定はリセットされました.ゲームは自動的にリスタートするでしょう.</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>あなたの設定を全てデフォルトに戻しゲームをリスタートさせます.セーブしていない進行状況は全て失われますが!\n\nそれでも続けますか?</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing the texture compression option requires a restart. All unsaved progress will be lost!\n\nContinue? -->
+  <ChangedTextureCompressionRestart>テクスチャ圧縮のオプションを変更するには再起動が必要です.保存されていない進行状況は全て失われます!\n\n続行しますか?</ChangedTextureCompressionRestart>
   
   <!-- Background image -->
   <!-- EN: Menu background -->

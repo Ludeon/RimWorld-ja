@@ -1,6 +1,61 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: role acceptance speech -->
+  <Speech_AcceptRole.label>役割受け入れのスピーチ</Speech_AcceptRole.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->[INITIATOR_possessive] new role in the community</li>
+    <li>speechtopic->the responsibility of [INITIATOR_possessive] new role</li>
+    <li>speechtopic->the importance of [INITIATOR_possessive] new role</li>
+    <li>speechtopic->[INITIATOR_possessive] good qualities</li>
+    <li>speechtopic->[INITIATOR_possessive] strengths and how to leverage them</li>
+    <li>speechtopic->[INITIATOR_possessive] shortcomings</li>
+    <li>speechtopic->[INITIATOR_possessive] weaknesses and how to overcome them</li>
+    <li>speechtopic->[INITIATOR_possessive] desire to serve the community</li>
+    <li>speechtopic->[INITIATOR_possessive] dedication to [INITIATOR_possessive] beliefs</li>
+    <li>speechtopic->[INITIATOR_possessive] beliefs about the future</li>
+    <li>speechtopic->[INITIATOR_possessive] wish to serve a greater purpose</li>
+    <li>speechtopic->[INITIATOR_possessive] [PersonalCharacteristic] and how it relates to the role</li>
+    <li>speechtopic->how [INITIATOR_possessive] [PersonalCharacteristic] makes [INITIATOR_objective] suited for the role</li>
+    <li>speechtopic->how [INITIATOR_pronoun] will use [INITIATOR_possessive] [PersonalCharacteristic] to overcome obstacles</li>
+    <li>speechtopic->thankfulness</li>
+    <li>speechtopic->showing gratitude</li>
+    <li>speechtopic->life's purpose</li>
+    <li>speechtopic->the future of the colony</li>
+    <li>speechtopic->improving the colony</li>
+    <li>speechtopic->decision-making under stress</li>
+    <li>speechtopic->the social structure of the community</li>
+    <li>speechtopic->taking responsibility</li>
+    <li>speechtopic->putting a role above [INITIATOR_possessive] personal desires</li>
+  -->
+  <Speech_AcceptRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>speechtopic->コミュニティでの[INITIATOR_possessive]新しい役割</li>
+    <li>speechtopic->[INITIATOR_possessive]新しい役割の責任</li>
+    <li>speechtopic->[INITIATOR_possessive]新しい役割の重要性</li>
+    <li>speechtopic->[INITIATOR_possessive]良い資質</li>
+    <li>speechtopic->[INITIATOR_possessive]強みとそれらを活用する方法</li>
+    <li>speechtopic->[INITIATOR_possessive]欠点</li>
+    <li>speechtopic->[INITIATOR_possessive]弱点とそれらを克服する方法</li>
+    <li>speechtopic->コミュニティに奉仕したいという[INITIATOR_possessive]願望</li>
+    <li>speechtopic->[INITIATOR_possessive]信念への献身</li>
+    <li>speechtopic->[INITIATOR_possessive]未来についての信念</li>
+    <li>speechtopic->[INITIATOR_possessive]より大きな目的に奉仕したいという願い </li>
+    <li>speechtopic->[INITIATOR_possessive][PersonalCharacteristic]という特徴とそれが役割とどのように関係しているか</li>
+    <li>speechtopic->[INITIATOR_possessive][PersonalCharacteristic]という特徴がどのように役割に適しているか</li>
+    <li>speechtopic->how [INITIATOR_pronoun]障害を克服するためにどのように[PersonalCharacteristic]という特徴を活用するか</li>
+    <li>speechtopic->感謝の気持ち</li>
+    <li>speechtopic->感謝の表明</li>
+    <li>speechtopic->人生の目的</li>
+    <li>speechtopic->コロニーの未来</li>
+    <li>speechtopic->コロニーの改善</li>
+    <li>speechtopic->ストレス下での意思決定</li>
+    <li>speechtopic->コミュニティの社会構造</li>
+    <li>speechtopic->責任を持つこと</li>
+    <li>speechtopic->自分の個人的な欲求よりも役割に重きを置くこと</li>
+  </Speech_AcceptRole.logRulesInitiator.rulesStrings>
+  
   <!-- EN: blinding speech -->
   <Speech_Blinding.label>盲目化のスピーチ</Speech_Blinding.label>
   <!-- EN:
@@ -273,6 +328,51 @@
     <li>speechtopic(p=0.25)->強い手と心</li>
     <li>speechtopic(p=0.25)->生存権</li>
   </Speech_Leader.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: role removal speech -->
+  <Speech_RemoveRole.label>役割解任のスピーチ</Speech_RemoveRole.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->[INITIATOR_possessive] past role in the community</li>
+    <li>speechtopic->the responsibility of [INITIATOR_possessive] old role</li>
+    <li>speechtopic->the difficulty of [INITIATOR_possessive] old role</li>
+    <li>speechtopic->[INITIATOR_possessive] shortcomings</li>
+    <li>speechtopic->[INITIATOR_possessive] weaknesses and how to overcome them</li>
+    <li>speechtopic->[INITIATOR_possessive] frustration with the community</li>
+    <li>speechtopic->[INITIATOR_possessive] dedication to [INITIATOR_possessive] beliefs</li>
+    <li>speechtopic->[INITIATOR_possessive] beliefs about the future</li>
+    <li>speechtopic->[INITIATOR_possessive] wish to pursue [INITIATOR_possessive] own goals</li>
+    <li>speechtopic->[INITIATOR_possessive] lack of [PersonalCharacteristic]</li>
+    <li>speechtopic->[INITIATOR_possessive] past</li>
+    <li>speechtopic->showing humbleness</li>
+    <li>speechtopic->life's purpose</li>
+    <li>speechtopic->the future of the colony</li>
+    <li>speechtopic->improving the colony</li>
+    <li>speechtopic->the social structure of the community</li>
+    <li>speechtopic->better candidates</li>
+    <li>speechtopic->putting community goals above [INITIATOR_possessive] personal ambitions</li>
+  -->
+  <Speech_RemoveRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]は[speechtopic]について[spokeof].</li>
+    <li>speechtopic->コミュニティでの[INITIATOR_possessive]過去の役割</li>
+    <li>speechtopic->[INITIATOR_possessive]古い役割の責任 </li>
+    <li>speechtopic->[INITIATOR_possessive]古い役割の難しさ</li>
+    <li>speechtopic->[INITIATOR_possessive]欠点</li>
+    <li>speechtopic->[INITIATOR_possessive]弱点とそれを克服する方法 </li>
+    <li>speechtopic->コミュニティに対する欲求不満</li>
+    <li>speechtopic->[INITIATOR_possessive]信念への献身</li>
+    <li>speechtopic->未来についての[INITIATOR_possessive]信念</li>
+    <li>speechtopic->[INISTOR_pronoun]自身の目標を追求したいという願い</li>
+    <li>speechtopic->[INITIATOR_possessive][PersonalCharacteristic]という特徴の欠点</li>
+    <li>speechtopic->[INITIATOR_possessive]過去</li>
+    <li>speechtopic->謙虚さを示すこと</li>
+    <li>speechtopic->人生の目的</li>
+    <li>speechtopic->コロニーの未来</li>
+    <li>speechtopic->コロニーを改善すること</li>
+    <li>speechtopic->コミュニティの社会構造</li>
+    <li>speechtopic->より良い候補者</li>
+    <li>speechtopic->自分の個人的な野心よりもコミュニティの目標を優先すること</li>
+  </Speech_RemoveRole.logRulesInitiator.rulesStrings>
   
   <!-- EN: sacrifice speech -->
   <Speech_Sacrifice.label>生贄のスピーチ</Speech_Sacrifice.label>

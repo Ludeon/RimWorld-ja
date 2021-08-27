@@ -5,7 +5,6 @@
   <Raiding_Required.label>必須</Raiding_Required.label>
   <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame. -->
   <Raiding_Required.description>私たちは普通の労働者のようには働かず,強者がすべきように弱者から奪っている.これをしないのはとても残念なことだ.</Raiding_Required.description>
-  <!-- EN: raided someone -->
   <Raiding_Required.comps.0.eventLabel>誰かを襲撃した</Raiding_Required.comps.0.eventLabel>
   <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
   <Raiding_Required.comps.3.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</Raiding_Required.comps.3.thoughtStageDescriptions.0>
@@ -20,7 +19,6 @@
   <Raiding_Respected.label>尊重</Raiding_Respected.label>
   <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame. -->
   <Raiding_Respected.description>私たちは普通の労働者のようには働かず,強者がすべきように弱者から奪っている.これをしないのは恥の印だ.</Raiding_Respected.description>
-  <!-- EN: raided someone -->
   <Raiding_Respected.comps.0.eventLabel>誰かを襲撃した</Raiding_Respected.comps.0.eventLabel>
   <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
   <Raiding_Respected.comps.3.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</Raiding_Respected.comps.3.thoughtStageDescriptions.0>

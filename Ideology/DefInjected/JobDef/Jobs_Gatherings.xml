@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: accepting role. -->
+  <AcceptRole.reportString>役割を受け入れ中</AcceptRole.reportString>
+  
   <!-- EN: dancing. -->
   <Dance.reportString>ダンス中</Dance.reportString>
   
@@ -11,6 +14,6 @@
   <GotoAndBeSociallyActive.reportString>親しげにくつろぐ</GotoAndBeSociallyActive.reportString>
   
   <!-- EN: making a skylantern. -->
-  <PrepareSkylantern.reportString>天灯を製作中</PrepareSkylantern.reportString>
+  <PrepareSkylantern.reportString>スカイランタンを製作中</PrepareSkylantern.reportString>
   
 </LanguageData>

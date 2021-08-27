@@ -92,6 +92,8 @@
   <NoUsableFood>食べられるエサがない</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>エサがない</NoFood>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>{0_label}がない</NoIngredient>
   <!-- EN: below requirements of {0} -->
   <FoodBelowTitleRequirements>{0}の要件未満</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
