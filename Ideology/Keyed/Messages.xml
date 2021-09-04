@@ -37,6 +37,8 @@
   <MessageRoleChangeChooseDifferentRole>役割を選択する必要があります.</MessageRoleChangeChooseDifferentRole>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
   <MessageNeedAssignedRoleToBeginRitual>{1}を開始する前に,誰かを{0}の役割に割り当てる必要があります.</MessageNeedAssignedRoleToBeginRitual>
+  <!-- EN: Need at least one {0} participating. -->
+  <MessageNeedAtLeastOneParticipantOfIdeo>最低でも一人の{0}が参加する必要があります.</MessageNeedAtLeastOneParticipantOfIdeo> <!-- text_todo -->
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>{0_labelShort}に{1}の役割を割り当てました.</MessageRoleAssigned>

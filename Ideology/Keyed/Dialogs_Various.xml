@@ -45,9 +45,13 @@
   
   <!-- EN: Room requirements -->
   <RoomRequirements>部屋の要件</RoomRequirements>
-  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue? -->
-  <ConfirmChangeMemesForFluidIdeo>ロードしている思想には,新しい流動的思想と互換性のないミームがあるため,そのミームを再度選択する必要があります(流動的思想は,影響の少ない一つのミームから開始できます).以下のミームは互換性がありません:\n\n{0}\n\n本当に続行しますか?</ConfirmChangeMemesForFluidIdeo>
-  
+  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). -->
+  <ConfirmChangeMemesForFluidIdeo>ロードしている思想には,新しい流動的思想と互換性のないミームがあるため,そのミームを再度選択する必要があります(流動的思想は,影響の少ない一つのミームから開始できます).</ConfirmChangeMemesForFluidIdeo>
+  <!-- EN: The following memes are incompatible -->
+  <ConfirmIncompatibleMemes>以下のミームは互換性がありません</ConfirmIncompatibleMemes>
+  <!-- EN: Would you like to continue? -->
+  <ConfirmChangeMemesForFluidIdeoContinue>本当に続行しますか?</ConfirmChangeMemesForFluidIdeoContinue>
+
   <!-- EN: role -->
   <Role>役割</Role>
   <!-- EN: Assign role -->
@@ -151,9 +155,9 @@
   <CannotAssignBedToColonist>入植者</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
   <AnySlave>任意の奴隷</AnySlave>
-  <!-- EN: Negotiator will not sell people into slavery. -->
-  <NegotiatorWillNotTradeSlaves>交渉担当者は人間を奴隷として売りません.</NegotiatorWillNotTradeSlaves>
-  <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction. -->
+  <!-- EN: {0_nameDef} refuses to sell people into slavery according to {0_possessive} beliefs. -->
+  <NegotiatorWillNotTradeSlaves>{0_nameDef}は自身の信念に従い,人間を奴隷として売ることを拒否します.</NegotiatorWillNotTradeSlaves>
+  <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
   <NegotiatorWillNotTradeSlavesTip>交渉担当者の{0_nameDef}は{1}を信じているため,人間を奴隷にしません.\n\n{0_nameDef}は身代金を要求して誰かを本人の派閥に帰すことは気にしませんが,別の派閥に売ることは拒否することに注意してください.</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
