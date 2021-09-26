@@ -41,7 +41,7 @@
   <!-- EN: Filth on feet: -->
   <FilthOnFeet>足跡：</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
+  <NotEnoughStoredLower>十分な蓄えがありません</NotEnoughStoredLower>
   <!-- EN: nothing -->
   <NothingLower>なし</NothingLower>
   <!-- EN: Nothing -->
@@ -62,6 +62,8 @@
   <NextTendIn>{0} 後に看る</NextTendIn>
   <!-- EN: Tend quality -->
   <TendQuality>看病品質</TendQuality>
+  <!-- EN: Total tend quality -->
+  <DisappearsAtTotalTendQuality>看病の総合品質</DisappearsAtTotalTendQuality> <!-- text_todo -->
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -754,19 +756,19 @@
   <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>攻撃ミス角度</WeaponMissRadius>
   <!-- EN: Shooter -->
-  <ShootReportShooterAbility>射手命中率 -</ShootReportShooterAbility>
+  <ShootReportShooterAbility>射手命中率</ShootReportShooterAbility>
   <!-- EN: Weapon -->
-  <ShootReportWeapon>武器修正 -</ShootReportWeapon>
+  <ShootReportWeapon>武器修正</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>暗がり -</Darkness>
+  <Darkness>暗がり</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>伏せた -</TargetProne>
+  <TargetProne>伏せた</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>サイズ修正 -</TargetSize>
+  <TargetSize>サイズ修正</TargetSize>
   <!-- EN: Weather -->
-  <Weather>天候修正 -</Weather>
+  <Weather>天候修正</Weather>
   <!-- EN: Cover -->
-  <ShootingCover>カバー -</ShootingCover>
+  <ShootingCover>カバー</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
   <CoverThingBlocksPercentOfShots>{COVER_label}は{1}低下させる</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->

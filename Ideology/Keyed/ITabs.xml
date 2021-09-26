@@ -84,6 +84,8 @@
   <CertaintyInIdeo>{PAWN_nameDef}の{IDEO_name}に対する信仰度</CertaintyInIdeo>
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
   <RoleDesc>この人物の,自身の思想に基づいた特別な地位です.この役割を変更したり取り除いたりすると,不幸な気持ちになります.</RoleDesc>
+  <!-- EN: Changing roles requires a role change ritual. Select any ritual spot or altar and press 'Begin role change'. -->
+  <RoleAssignmentTip>役割を変更するには,役割変更の儀式が必要です.儀式の場所,もしくは祭壇を選択し,'役割の変更を開始'を押してください.</RoleAssignmentTip>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
   <ConversionWeakerDueToTraitAgreements>特性/ミームの合意により,改宗の試みが弱くなります</ConversionWeakerDueToTraitAgreements>
   <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->

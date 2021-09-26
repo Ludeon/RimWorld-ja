@@ -659,6 +659,8 @@
   <RitualBegun>{0}が始まりました.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>{0}の最大数は{1}です.</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>{0}の役割はロックされています.</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
   <MessageRitualNeedsAtLeastOnePerson>最低でも一人の参加者が必要です.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
@@ -685,6 +687,10 @@
   <MessageRitualRoleMustBeAnimal>{0}は家畜である必要があります.</MessageRitualRoleMustBeAnimal>
   <!-- EN: {0} must be a human. -->
   <MessageRitualRoleMustBeHumanlike>{0}は人間である必要があります.</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>{0_labelShort}に適用できる役割はありません.</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort}はどのコロニーの思想にも属していません.</MessageRitualNotOfPlayerIdeo>
   <!-- EN: {0} must have eyes -->
   <MessageRitualRoleMustHaveEyes>{0}は目を持っている必要があります</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
@@ -739,5 +745,8 @@
   <TooCloseToOtherPlant>{0_label}に近すぎます.</TooCloseToOtherPlant>
   <!-- EN: Too close to {0}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>{0}の植え付け場所に近すぎます.</TooCloseToOtherSeedPlantCell>
-  
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>警告:{0}が伐採対象に選択されています.</MessageWarningCutImportantPlant>
+
 </LanguageData>

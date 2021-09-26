@@ -462,6 +462,21 @@
   <!-- EN: The duel was unforgettable! Both fighters gave all they had, and the death showed their dedication. -->
   <GladiatorDuel.outcomeChances.3.description>決闘は忘れられないものでした!双方の戦士が自身の全力を尽くし,そして死は彼らの真摯さを示しました.</GladiatorDuel.outcomeChances.3.description>
   
+  <!-- EN: A new role will be assigned to a colonist. -->
+  <RoleChange.description>新しい役割が入植者に割り当てられます.</RoleChange.description>
+  <!-- EN: required spectator count -->
+  <RoleChange.comps.0.label>必要な聴衆数</RoleChange.comps.0.label>
+  <!-- EN: The required number of spectators must attend for the role change to apply. -->
+  <RoleChange.extraPredictedOutcomeDescriptions.0>役割の変更を適用するには,参加する聴衆の必要数を満たしている必要があります.</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Failed -->
+  <RoleChange.outcomeChances.0.label>失敗</RoleChange.outcomeChances.0.label>
+  <!-- EN: The role change was not attended by enough {IDEO_memberNamePlural}. -->
+  <RoleChange.outcomeChances.0.description>役割の変更には十分な人数の{IDEO_memberNamePlural}が参加していませんでした.</RoleChange.outcomeChances.0.description>
+  <!-- EN: Successful -->
+  <RoleChange.outcomeChances.1.label>成功</RoleChange.outcomeChances.1.label>
+  <!-- EN: The role change ritual was completed. -->
+  <RoleChange.outcomeChances.1.description>役割変更の儀式が完了しました.</RoleChange.outcomeChances.1.description>
+  
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <Sacrifice.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</Sacrifice.description>
   <!-- EN: moral guide present -->

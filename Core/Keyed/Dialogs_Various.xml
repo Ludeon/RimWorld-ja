@@ -311,7 +311,9 @@
   <!-- EN: Warmup -->
   <WarmupTime>準備時間</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>構える時間</MeleeWarmupTime>
+  <MeleeWarmupTime>近接の準備時間</MeleeWarmupTime>
+  <!-- EN: Ranged warmup -->
+  <RangedWarmupTime>遠距離の準備時間</RangedWarmupTime> <!-- text_todo -->
   <!-- EN: Cooldown -->
   <CooldownTime>排出時間</CooldownTime>
   <!-- EN: Disarmed -->

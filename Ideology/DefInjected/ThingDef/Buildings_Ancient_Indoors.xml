@@ -22,9 +22,9 @@
   <AncientDisplayBank.description>古代のコンピュータインターフェイスです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientDisplayBank.description>
   
   <!-- EN: ancient equipment blocks -->
-  <AncientEquipmentBlocks.label>古代の部品のかたまり</AncientEquipmentBlocks.label>
+  <AncientEquipmentBlocks.label>古代の部品の塊</AncientEquipmentBlocks.label>
   <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientEquipmentBlocks.description>機能さえ不明な古代の部品のかたまりです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientEquipmentBlocks.description>
+  <AncientEquipmentBlocks.description>機能さえ不明な古代の部品の塊です.貴重な部品が失われている為,他の部分も役に立ちません.</AncientEquipmentBlocks.description>
   
   <!-- EN: ancient generator -->
   <AncientGenerator.label>古代のジェネレータ</AncientGenerator.label>
@@ -46,10 +46,20 @@
   <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <AncientMachine.description>未知の機器で満たされた古代の機械ケースです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientMachine.description>
   
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>古代の軍用容器</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>古代の軍用と思われる容器です.大昔から壊れており,かつてそこに含まれていた貴重品は略奪されました.</AncientMilitaryCrate.description>
+  
   <!-- EN: ancient operating table -->
   <AncientOperatingTable.label>古代の手術台</AncientOperatingTable.label>
   <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
   <AncientOperatingTable.description>かつて外科手術に使用された台です.とっくの昔に役に立たなくなっています.</AncientOperatingTable.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>古代の円柱型容器</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>古代の壊れた容器です.かつて含まれていた貴重品はずっと昔に取られました.</AncientSpacerCrate.description>
   
   <!-- EN: ancient storage cylinder -->
   <AncientStorageCylinder.label>古代の貯蔵シリンダー</AncientStorageCylinder.label>

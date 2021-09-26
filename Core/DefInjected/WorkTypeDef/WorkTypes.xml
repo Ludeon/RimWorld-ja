@@ -5,7 +5,7 @@
   <Art.description>自然の素材から,絵画のように美しいものを創ります.</Art.description>
   <!-- EN: art -->
   <Art.gerundLabel>芸術</Art.gerundLabel>
-  <!-- EN: Art -->
+  <!-- EN: art -->
   <Art.labelShort>芸術</Art.labelShort>
   <!-- EN: Artist -->
   <Art.pawnLabel>芸術家</Art.pawnLabel>
@@ -16,7 +16,7 @@
   <BasicWorker.description>スキルが不要な雑用です.囚人の釈放,機械類のスイッチをオンオフします.</BasicWorker.description>
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>対応</BasicWorker.gerundLabel>
-  <!-- EN: Basic -->
+  <!-- EN: basic -->
   <BasicWorker.labelShort>雑用</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>雑用</BasicWorker.pawnLabel>
@@ -27,7 +27,7 @@
   <Cleaning.description>コロニーゾーンの除雪や掃除をします.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>掃除</Cleaning.gerundLabel>
-  <!-- EN: Clean -->
+  <!-- EN: clean -->
   <Cleaning.labelShort>掃除</Cleaning.labelShort>
   <!-- EN: Cleaner -->
   <Cleaning.pawnLabel>清掃人</Cleaning.pawnLabel>
@@ -38,7 +38,7 @@
   <Construction.description>あなたが指示した建物を建て,壊れたり,大部分が破壊された建物を修理します.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>建築</Construction.gerundLabel>
-  <!-- EN: Construct -->
+  <!-- EN: construct -->
   <Construction.labelShort>建築</Construction.labelShort>
   <!-- EN: Constructor -->
   <Construction.pawnLabel>大工</Construction.pawnLabel>
@@ -49,7 +49,7 @@
   <Cooking.description>食事の支度をしたり,肉を捌いたりします.</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.gerundLabel>料理</Cooking.gerundLabel>
-  <!-- EN: Cook -->
+  <!-- EN: cook -->
   <Cooking.labelShort>料理</Cooking.labelShort>
   <!-- EN: Cook -->
   <Cooking.pawnLabel>料理人</Cooking.pawnLabel>
@@ -60,7 +60,7 @@
   <Crafting.description>作業台で,スキルの低い一般的な作業をします.この作業には,ストーンカッター,溶鉱炉等が含まれます.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>工芸</Crafting.gerundLabel>
-  <!-- EN: Craft -->
+  <!-- EN: craft -->
   <Crafting.labelShort>工芸</Crafting.labelShort>
   <!-- EN: Crafter -->
   <Crafting.pawnLabel>工芸家</Crafting.pawnLabel>
@@ -71,7 +71,7 @@
   <Doctor.description>病を治療し,食事を与え,励まし,割り当てられた手術を行います.医者は,入植者と囚人の両方共に治療します.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>治療</Doctor.gerundLabel>
-  <!-- EN: Doctor -->
+  <!-- EN: doctor -->
   <Doctor.labelShort>医者</Doctor.labelShort>
   <!-- EN: Doctor -->
   <Doctor.pawnLabel>医者</Doctor.pawnLabel>
@@ -82,7 +82,7 @@
   <Firefighter.description>コロニーの火災を消火します.</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>消火</Firefighter.gerundLabel>
-  <!-- EN: Firefight -->
+  <!-- EN: firefight -->
   <Firefighter.labelShort>消火</Firefighter.labelShort>
   <!-- EN: Firefighter -->
   <Firefighter.pawnLabel>消防者</Firefighter.pawnLabel>
@@ -93,7 +93,7 @@
   <Growing.description>種を蒔き,作物を収穫し,野草を探し集めます.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>栽培</Growing.gerundLabel>
-  <!-- EN: Grow -->
+  <!-- EN: grow -->
   <Growing.labelShort>栽培</Growing.labelShort>
   <!-- EN: Grower -->
   <Growing.pawnLabel>栽培者</Growing.pawnLabel>
@@ -104,7 +104,7 @@
   <Handling.description>手懐けたり,調教,屠殺もします.</Handling.description>
   <!-- EN: handling -->
   <Handling.gerundLabel>調教</Handling.gerundLabel>
-  <!-- EN: Handle -->
+  <!-- EN: handle -->
   <Handling.labelShort>調教</Handling.labelShort>
   <!-- EN: Handler -->
   <Handling.pawnLabel>調教師</Handling.pawnLabel>
@@ -115,7 +115,7 @@
   <Hauling.description>必要な所へ必要な物を運びます.</Hauling.description>
   <!-- EN: hauling -->
   <Hauling.gerundLabel>運搬</Hauling.gerundLabel>
-  <!-- EN: Haul -->
+  <!-- EN: haul -->
   <Hauling.labelShort>運搬</Hauling.labelShort>
   <!-- EN: Hauler -->
   <Hauling.pawnLabel>運搬人</Hauling.pawnLabel>
@@ -126,7 +126,7 @@
   <Hunting.description>獲物と指示された動物を狩ります.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>狩猟</Hunting.gerundLabel>
-  <!-- EN: Hunt -->
+  <!-- EN: hunt -->
   <Hunting.labelShort>狩猟</Hunting.labelShort>
   <!-- EN: Hunter -->
   <Hunting.pawnLabel>狩人</Hunting.pawnLabel>
@@ -137,7 +137,7 @@
   <Mining.description>掘削とボーリングを行います.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>採掘</Mining.gerundLabel>
-  <!-- EN: Mine -->
+  <!-- EN: mine -->
   <Mining.labelShort>採掘</Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>採掘者</Mining.pawnLabel>
@@ -148,7 +148,7 @@
   <Patient.description>もし,直ぐにでも命に関わるような重篤な健康状態なら,治療のために医療用ベッドに行きます.</Patient.description>
   <!-- EN: patienting -->
   <Patient.gerundLabel>瀕死</Patient.gerundLabel>
-  <!-- EN: Patient -->
+  <!-- EN: patient -->
   <Patient.labelShort>瀕死</Patient.labelShort>
   <!-- EN: Patient -->
   <Patient.pawnLabel>瀕死</Patient.pawnLabel>
@@ -159,7 +159,7 @@
   <PatientBedRest.description>命に関わらない症状でも,回復する為にベッドで安静にしています.</PatientBedRest.description>
   <!-- EN: resting in bed -->
   <PatientBedRest.gerundLabel>安静</PatientBedRest.gerundLabel>
-  <!-- EN: Bed rest -->
+  <!-- EN: bed rest -->
   <PatientBedRest.labelShort>病人</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
   <PatientBedRest.pawnLabel>病人</PatientBedRest.pawnLabel>
@@ -170,7 +170,7 @@
   <PlantCutting.description>指示された草木を刈り取り,伐採し,指示された植物から採取します.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>収穫</PlantCutting.gerundLabel>
-  <!-- EN: Plant cut -->
+  <!-- EN: plant cut -->
   <PlantCutting.labelShort>収穫</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
   <PlantCutting.pawnLabel>収穫者</PlantCutting.pawnLabel>
@@ -181,7 +181,7 @@
   <Research.description>研究を行います.</Research.description>
   <!-- EN: researching -->
   <Research.gerundLabel>研究</Research.gerundLabel>
-  <!-- EN: Research -->
+  <!-- EN: research -->
   <Research.labelShort>研究</Research.labelShort>
   <!-- EN: Researcher -->
   <Research.pawnLabel>研究者</Research.pawnLabel>
@@ -192,7 +192,7 @@
   <Smithing.description>原料から,鍛冶屋として,もしくは,機械加工を使って武器や工具を作ります.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>鍛冶</Smithing.gerundLabel>
-  <!-- EN: Smith -->
+  <!-- EN: smith -->
   <Smithing.labelShort>鍛冶</Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>鍛冶屋</Smithing.pawnLabel>
@@ -203,7 +203,7 @@
   <Tailoring.description>原材料から服を作ります.</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>裁縫</Tailoring.gerundLabel>
-  <!-- EN: Tailor -->
+  <!-- EN: tailor -->
   <Tailoring.labelShort>裁縫</Tailoring.labelShort>
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>裁縫家</Tailoring.pawnLabel>
@@ -214,7 +214,7 @@
   <Warden.description>管理,食事の世話,囚人と世間話と勧誘をします.</Warden.description>
   <!-- EN: wardening -->
   <Warden.gerundLabel>看守</Warden.gerundLabel>
-  <!-- EN: Warden -->
+  <!-- EN: warden -->
   <Warden.labelShort>看守</Warden.labelShort>
   <!-- EN: Warden -->
   <Warden.pawnLabel>看守</Warden.pawnLabel>

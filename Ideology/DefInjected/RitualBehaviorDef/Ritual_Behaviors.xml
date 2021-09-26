@@ -126,6 +126,15 @@
   <!-- EN: speaker -->
   <LeaderSpeech.roles.0.label>話者</LeaderSpeech.roles.0.label>
   
+  <!-- EN: role changer -->
+  <RoleChange.roles.0.label>役割変更者</RoleChange.roles.0.label>
+  <!-- EN: a role changer -->
+  <RoleChange.roles.0.missingDesc>役割変更者</RoleChange.roles.0.missingDesc>
+  <!-- EN: spectate -->
+  <RoleChange.spectatorGerund>聴衆</RoleChange.spectatorGerund>
+  <!-- EN: Spectators -->
+  <RoleChange.spectatorsLabel>聴衆</RoleChange.spectatorsLabel>
+  
   <!-- EN: cutter -->
   <SacrificeAnimal.roles.0.label>執行人</SacrificeAnimal.roles.0.label>
   <!-- EN: sacrifice -->

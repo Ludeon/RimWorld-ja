@@ -52,6 +52,11 @@
   <!-- EN: A rousing speech intended to improve morale. Colonists will gather, and the leader will speak for a few hours. If all goes well, listeners will feel inspired, and gain respect for the leader. If it goes poorly, the speech will do social damage. -->
   <LeaderSpeech.description>士気を向上させることを目的とした刺激的なスピーチです.入植者が集まり,リーダーが数時間話します.全てがうまくいけば聴衆は奮い立ち,リーダーへ敬意を払うようになります.うまくいかなかった場合,スピーチは社交関係に被害を与えるでしょう.</LeaderSpeech.description>
   
+  <!-- EN: role change -->
+  <RoleChange.label>役割の変更</RoleChange.label>
+  <!-- EN: A ceremony for changing social roles. The person changing roles will give a speech while others gather around. The required number of spectators must attend. -->
+  <RoleChange.description>社会的役割を変更するための儀式です.役割を変更する人物がスピーチを行い,聴衆が集まります.出席する聴衆には必要数があります.</RoleChange.description>
+  
   <!-- EN: scarification -->
   <ScarificationCeremony.label>スカリフィケーション</ScarificationCeremony.label>
   <!-- EN: A ritualistic scarring where a cutter carves ideoligious symbols into a target. The audience will watch as the cutter gives a speech, performs the cutting, then says some finishing words. -->
