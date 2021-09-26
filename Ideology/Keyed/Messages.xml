@@ -38,7 +38,7 @@
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
   <MessageNeedAssignedRoleToBeginRitual>{1}を開始する前に,誰かを{0}の役割に割り当てる必要があります.</MessageNeedAssignedRoleToBeginRitual>
   <!-- EN: Need at least one {0} participating. -->
-  <MessageNeedAtLeastOneParticipantOfIdeo>最低でも一人の{0}が参加する必要があります.</MessageNeedAtLeastOneParticipantOfIdeo> <!-- text_todo -->
+  <MessageNeedAtLeastOneParticipantOfIdeo>最低でも一人の{0}が参加する必要があります.</MessageNeedAtLeastOneParticipantOfIdeo>
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>{0_labelShort}に{1}の役割を割り当てました.</MessageRoleAssigned>
@@ -105,6 +105,8 @@
   
   <!-- EN: {0_label} will self-destruct in {1}. -->
   <SelfDestructCountdown>{0_label}は{1}で自己崩壊します.</SelfDestructCountdown>
+  <!-- EN: Precept name is too long (maximum {0} letters) -->
+  <PreceptNameTooLong>戒律名が長すぎます(最大{0}文字)</PreceptNameTooLong> <!-- text_todo -->
 
   <!-- Ancient complex -->
   <!-- EN: You've discovered an ancient terminal with info about the {0}! -->

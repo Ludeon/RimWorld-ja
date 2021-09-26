@@ -145,8 +145,8 @@
   <GameplayTips.StrawMatting>わらマットは汚れを吸収します.家畜小屋の床として,これを使ってください.</GameplayTips.StrawMatting>
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
   <GameplayTips.AnimalFilth>一部の家畜は多くの泥汚れを生み出します.象や牛などは外に出してください.</GameplayTips.AnimalFilth>
-  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
-  <GameplayTips.PredatorsAndFences>捕食者は,フェンスやバリケードで囲われた家畜を狩る可能性が低くなります.</GameplayTips.PredatorsAndFences>
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>捕食者はフェンスやバリケードの中にいる家畜は狩りません.</GameplayTips.PredatorsAndFences>
   
   <!-- UNUSED -->
   <GameplayTips.CaravanFasterAnimals>脚の速い家畜は,キャラバン隊の移動速度をより速めます.</GameplayTips.CaravanFasterAnimals>
