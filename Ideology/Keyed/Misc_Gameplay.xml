@@ -211,6 +211,10 @@
   <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort}は思想的な盲目化を信じていないため,盲目にされることを好まないでしょう.</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
   <RitualBlindingWarnWimp>{PAWN_labelShort}は弱虫であるため,盲目にされることを好みません.</RitualBlindingWarnWimp>
+  <!-- EN: Scarification is expected for {IDEOMEMBER} colonists as long as number of scarified {IDEOMEMBERPLURAL} is below {0}. -->
+  <RitualScarificationTriggerExtraDesc>スカリフィケーションを行われた{IDEOMEMBERPLURAL}の数が{0}人未満である限り,{IDEOMEMBER}の入植者はスカリフィケーションを期待します.</RitualScarificationTriggerExtraDesc> <!-- text_todo -->
+  <!-- EN: Blinding is expected for each current and joining {IDEOMEMBER} colonist. -->
+  <RitualBlindingTriggerExtraDesc>現在参加している{IDEOMEMBER}の入植者は盲目化を期待します.</RitualBlindingTriggerExtraDesc> <!-- text_todo -->
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
   <RitualOutcomeExtraDesc_DancePartyWorkFocus>儀式に参加した全ての人が,一日だけ勤労意欲バフを獲得しました({PERCENTAGE}基本的な作業速度)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>

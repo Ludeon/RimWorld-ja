@@ -292,10 +292,14 @@
   <ConfirmDecisionsTitle>決定を確認する</ConfirmDecisionsTitle>
   <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
   <ShipEscapeWillEndDescription>AI (*Name)Charlon Whitestone(/Name)によって報告された休眠中の宇宙船は, 新しいコロニーが確立されるまでに飛び去ります.この宇宙船に移動して惑星から脱出することはできなくなります.</ShipEscapeWillEndDescription>
-  <!-- EN: The colony's purchasers will only allow you to take one relic. Any relic not selected will be left behind, including: -->
-  <RemoveEquippedRelicsDescription>コロニーの受取人は,レリックを一つしか引き継げないようにします.選択されなかったレリックは,次のように取り残されます:</RemoveEquippedRelicsDescription>
-  <!-- EN: Would you like to proceed? -->
-  <WantToProceed>続行しますか?</WantToProceed>
+  <!-- EN: No relic was chosen to be brought to the new colony. -->
+  <ArchonexusRelicNotChosen>新しいコロニーに持ち込むレリックを選びませんでした.</ArchonexusRelicNotChosen><!--text_todo-->
+  <!-- EN: {0} out of a possible {1} items were selected to be brought to the new colony. -->
+  <ArchonexusItemsNotChosen>選択できる{1}つのアイテムから{0}が選ばれ,新しいコロニーに持ち込まれました.</ArchonexusItemsNotChosen><!--text_todo-->
+  <!-- EN: The colony's purchasers will only allow you to take one relic. Any relic not selected, even if equipped by a colonist, will be left behind, including: -->
+  <RemoveEquippedRelicsDescription>コロニーの受取人は,レリックを一つしか引き継げないようにします.選択されなかったレリックは,例え入植者が装備していても,次のように取り残されます:</RemoveEquippedRelicsDescription><!--text_todo-->
+  <!-- EN: Would you like to proceed? There's no going back from here. -->
+  <WantToProceed>続行しますか?ここから戻ることはありません.</WantToProceed><!--text_todo-->
   <!-- EN: Convert -->
   <ConvertToPlayerIdeoligion>改宗</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
