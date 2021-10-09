@@ -53,10 +53,10 @@
   <GameplayTips.AnimalDeathExplosionRain>雨が降っているときにボムネズミとボマロープを狩猟すれば,それらの死による森林火災を防げます.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
   <GameplayTips.GreaterSlaughterYield>丁寧に屠殺された家畜からは,手荒に殺された動物よりも多くの肉と皮を入手できます.</GameplayTips.GreaterSlaughterYield>
-  <!-- EN: Place a caravan hitching post to designate where you want your caravans to form up. Usually near a storage area is good. -->
-  <GameplayTips.CaravanHitchingPost>キャラバンを編成する場所を指定したい場合,キャラバン用つなぎ柱を設置してください.通常は備蓄エリアのそばが良いでしょう.</GameplayTips.CaravanHitchingPost>
-  <!-- EN: Place a caravan hitching post on sites your caravans travel to if you want to keep roaming animals in a specific area. -->
-  <GameplayTips.CaravanHitchingPostRoamers>キャラバンの移動先でも彷徨う家畜を保持したい場合,キャラバン用つなぎ柱を設置してください.</GameplayTips.CaravanHitchingPostRoamers>
+  <!-- EN: Place a caravan hitching spot to designate where you want your caravans to form up. Usually placing one near storage areas is good. -->
+  <GameplayTips.CaravanHitchingSpot>キャラバン隊を編成する場所を指定したい場合,キャラバン用つなぎとめスポットを配置してください.通常は備蓄エリアのそばが良いでしょう.</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: Place a caravan hitching spot on sites your caravans travel to if you want to keep roaming animals in a specific area. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>彷徨う種類の家畜をキャラバンの移動先でも保持したい場合,キャラバン用つなぎとめスポットを配置してください.</GameplayTips.CaravanHitchingSpotRoamers>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>一人のキャラバン隊は,特定の状況で非常に役立ちます.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
@@ -151,6 +151,8 @@
   <GameplayTips.PredatorsAndFences>捕食者はフェンスやバリケードの中にいる家畜は狩りません.</GameplayTips.PredatorsAndFences>
   
   <!-- UNUSED -->
+  <GameplayTips.CaravanHitchingPost>キャラバンを編成する場所を指定したい場合,キャラバン用つなぎ柱を設置してください.通常は備蓄エリアのそばが良いでしょう.</GameplayTips.CaravanHitchingPost>
+  <GameplayTips.CaravanHitchingPostRoamers>キャラバンの移動先でも彷徨う家畜を保持したい場合,キャラバン用つなぎ柱を設置してください.</GameplayTips.CaravanHitchingPostRoamers>
   <GameplayTips.CaravanPackingSpot>キャラバンを編成する場所を指定したい場合,キャラバン隊物流拠点を設置してください.</GameplayTips.CaravanPackingSpot>
   <GameplayTips.CaravanFasterAnimals>脚の速い家畜は,キャラバン隊の移動速度をより速めます.</GameplayTips.CaravanFasterAnimals>
   

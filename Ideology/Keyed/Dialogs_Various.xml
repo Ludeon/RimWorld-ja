@@ -310,6 +310,8 @@
   <AbandonArchotechStructuresWarningDialog>まだ完全に研究を終えてないアルコテック建築物を含む遺跡を放棄しています.\n\n後でここに定住することはできますが,コロニーは一掃されます.</AbandonArchotechStructuresWarningDialog>
   <!-- EN: {0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1} -->
   <ItemQuantityTooltip>新しいコロニーに持ち込める{0}の量です.\n\n最大許容数量は次のとおりです:{1}</ItemQuantityTooltip>
+  <!-- EN: Your colony was sold. Its purchasers are ready for you to choose where to land next. -->
+  <SoldColonyDescription>あなたのコロニーは売られました.購入者は,あなたが次に着陸する場所を選べるよう準備を整えました.</SoldColonyDescription><!--text_todo-->
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
   <ConfirmHackEnenyTerminal>この{0}をハッキングすると敵に警報が発せられ,攻撃が発生します.本当に{0}をハッキングしますか?</ConfirmHackEnenyTerminal>

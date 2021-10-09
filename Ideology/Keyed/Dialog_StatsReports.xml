@@ -35,26 +35,29 @@
   <!-- EN: Dominating style -->
   <Stat_Thing_StyleDominanceCategory>支配的スタイル</Stat_Thing_StyleDominanceCategory>
   <!-- EN: The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs. -->
-  <Stat_Thing_StyleDominanceCategoryDesc>このオブジェクトによって提示されるスタイル.このスタイルはいくつかの思想と関連性を持つでしょう.特定のスタイルに対する反応は,個々人の奉じる思想によって変化します.</Stat_Thing_StyleDominanceCategoryDesc>
+  <Stat_Thing_StyleDominanceCategoryDesc>このオブジェクトによって提示されるスタイルです.このスタイルはいくつかの思想と関連性を持つでしょう.特定のスタイルに対する反応は,個々人の奉じる思想によって変化します.</Stat_Thing_StyleDominanceCategoryDesc>
   <!-- EN: Satisfies ideoligions -->
   <Stat_Thing_IdeosSatisfied>思想を満たしています</Stat_Thing_IdeosSatisfied>
 
   <!-- EN: Darkness shooting accuracy -->
   <Stat_Pawn_DarknessCombatShooting_Name>暗闇の射撃精度</Stat_Pawn_DarknessCombatShooting_Name>
   <!-- EN: An offset applied to the chance to hit a target based on the target's light level. -->
-  <Stat_Pawn_DarknessCombatShooting_Desc>目標の光源レベルによって,射撃の命中精度に適用されるオフセット.</Stat_Pawn_DarknessCombatShooting_Desc>
+  <Stat_Pawn_DarknessCombatShooting_Desc>目標の光源レベルによって,射撃の命中精度に適用される増減量です.</Stat_Pawn_DarknessCombatShooting_Desc>
   <!-- EN: Darkness melee dodge chance -->
-  <Stat_Pawn_DarknessMeleeDodgeChance_Name>暗闇の白兵戦回避チャンス</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>暗闇の白兵戦回避率</Stat_Pawn_DarknessMeleeDodgeChance_Name>
   <!-- EN: An offset applied to the melee dodge chance based on the target's light level. -->
-  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>目標の光源レベルによって,白兵戦の回避チャンスに適用されるオフセット.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>目標の光源レベルによって,白兵戦の回避率に適用される増減量です.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
   <!-- EN: Darkness melee hit chance -->
-  <Stat_Pawn_DarknessMeleeHitChance_Name>暗闇の白兵戦ヒットチャンス</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>暗闇の白兵戦命中率</Stat_Pawn_DarknessMeleeHitChance_Name>
   <!-- EN: An offset applied to the melee hit chance based on the target's light level. -->
-  <Stat_Pawn_DarknessMeleeHitChance_Desc>目標の光源レベルによって,白兵戦のヒットチャンスに適用されるオフセット.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>目標の光源レベルによって,白兵戦の命中率に適用される増減量です.</Stat_Pawn_DarknessMeleeHitChance_Desc>
   <!-- EN: The following offsets can be applied -->
-  <Stat_PawnDarkness_FollowingOffset>次のオフセットが適用されます</Stat_PawnDarkness_FollowingOffset>
+  <Stat_PawnDarkness_FollowingOffset>次の増減量が適用されます</Stat_PawnDarkness_FollowingOffset>
 
   <!-- EN: Biosculpting speed -->
   <StatsReport_BiosculptingSpeedFactor>生体改造の速度</StatsReport_BiosculptingSpeedFactor>
+
+  <!-- EN: The amount of progress that has been made towards hacking this object. -->
+  <Stat_Thing_HackingProgress>このオブジェクトのハッキングに向けて行われた進捗です.</Stat_Thing_HackingProgress><!-- text_todo -->
 
   </LanguageData>
