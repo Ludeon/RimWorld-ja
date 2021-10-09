@@ -20,7 +20,7 @@
   <ReliquaryPilgrims.questContentRules.rulesStrings>
     <li>pilgrimsArrivedLetterLabel->[factionAdj][pilgrimSingularOrPlural]が到着</li>
     <li>pilgrimsArrivedLetterText->[questDescription]</li>
-    <li>delayedRewardLetterText->[pawns0_nameDef][andFollowers]は,[venerateDate]に[relic_name]を崇拝させてくれることにたいして感謝しています.[pawns0_nameDef]は報酬として,ドロップポッドを介して以下を送信します(合計価値[rewardsMarketValue_money]):\n\n[rewards].</li>
+    <li>delayedRewardLetterText->[pawns0_nameDef][andFollowers]は,[venerateDate]に [relic_name]を崇拝させてくれたことに対して感謝しています.[pawns0_nameDef]は報酬として,ドロップポッドを介して以下の物を送りました(合計価値[rewardsMarketValue_money]):\n\n[rewards].</li>
     <li>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural]は[relic_name]の崇拝を終了し,現在は去っています.</li>
     <li>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural]はマップを離れました.</li>
     <li>areIs(pilgrimCount==1)-></li>
