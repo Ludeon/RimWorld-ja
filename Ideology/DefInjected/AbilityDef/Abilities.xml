@@ -28,7 +28,7 @@
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
   <Convert.description>対象を説得者の思想に改宗させようとします.これによって対象の信念に対する確信を揺さぶります.低下する度合いは話者の交渉スキルに依存します.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}の改宗に失敗しました.{RECIPIENT_labelShort}はその試みに動揺ましたが, {RECIPIENT_possessive}の確信は{CERTAINTYBEFORE}から{CERTAINTYAFTER}にまでしか低下しませんでした.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}の改宗に失敗しました.{RECIPIENT_labelShort}はその試みに動揺ましたが, {RECIPIENT_possessive}信仰度は{CERTAINTYBEFORE}から{CERTAINTYAFTER}にまでしか低下しませんでした.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}を{IDEO}に改宗させました.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   

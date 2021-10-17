@@ -1539,7 +1539,7 @@
   <!-- EN: {0_labelShort} is incapable of {1}. -->
   <AbilityDisabledNoCapacity>{0_labelShort}は{1}ができません.</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得られます.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得ます.</RitualOutcomeExtraDesc_Mood>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>{RITUAL_labelDef}に参加する人を選んでください.</ChooseParticipants>
