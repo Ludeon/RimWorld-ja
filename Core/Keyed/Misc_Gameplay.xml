@@ -1600,4 +1600,16 @@
   <!-- EN: {0} of {1} -->
   <ThingOfSource>{1}の{0}</ThingOfSource>
 
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>徴兵する必要があります.</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>アビリティはクールダウン中です.{0}後に再使用可能.</AbilityOnCooldown>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>アビリティがすでに予約されています.</AbilityAlreadyQueued>
+  <!-- EN: Ability ready: {0} -->
+  <AbilityReadyLabel>アビリティ準備完了: {0}</AbilityReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています.</AbilityReadyText>
+
 </LanguageData>
