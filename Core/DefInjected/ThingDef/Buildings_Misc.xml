@@ -12,8 +12,8 @@
   
   <!-- EN: caravan hitching spot -->
   <CaravanPackingSpot.label>キャラバン用つなぎとめスポット</CaravanPackingSpot.label>
-  <!-- EN: Designates a spot for hitching animals and forming caravans. Used to keep pack animals in place when forming a caravan while gear is loaded. Also can be used to keep certain animals from wandering around the sites your caravans travel to. -->
-  <CaravanPackingSpot.description>家畜をつなぎとめてキャラバン隊を編成する場所を指示します.キャラバンに荷物を積載する間,家畜の群れを所定の位置に留めておくために使われます.また,キャラバンが移動先で留まる間,特定の家畜が彷徨うのを防ぐためにも使用できます.</CaravanPackingSpot.description>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>家畜をつなぎとめてキャラバン隊を編成する場所を指示します.キャラバンに荷物を積載する間,家畜をこの場所に繋ぎとめます.また,ホームから離れた場所で敵と戦う間にこれを使用して,家畜が彷徨うのを防ぐこともできます.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>通信機</CommsConsole.label>

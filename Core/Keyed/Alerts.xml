@@ -262,8 +262,8 @@
 
   <!-- EN: Pen needed -->
   <AlertAnimalPenNeeded>囲いが必要</AlertAnimalPenNeeded>
-  <!-- EN: Some of your tame animals are roamers. If not kept in an animal pen or roped to a hitching spot, they will wander away. -->
-  <AlertAnimalPenNeededDesc>飼いならされた家畜の何匹は放浪する家畜です.家畜用の囲いの中に入れるか,つなぎとめスポットに留めておかないと,彼らは放浪してしまいます.</AlertAnimalPenNeededDesc><!--text_todo-->
+  <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
+  <AlertAnimalPenNeededDesc>飼いならされた家畜の何匹は放浪する家畜です.囲いの中に入れるか,キャラバン用つなぎとめスポットに留めておかないと,彼らは放浪してしまいます.</AlertAnimalPenNeededDesc>
   <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
   <AlertAnimalPenNeededNoHandlers>家畜を囲いの中に連れて行く調教師がいません.\n\n優先順位タブから,調教の仕事を入植者に割り当ててください.</AlertAnimalPenNeededNoHandlers>
   <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
@@ -290,9 +290,9 @@
   <AlertPennedAnimalHungryDesc>囲いの中の家畜の何匹かが空腹です.\n\nペンマーカーを選択し,餌タブを選択して詳細を表示できます.\n\n草食動物は,十分な草を与えるためにより大きな囲いが必要になる場合があります.その他の家畜は,備蓄を使用して干し草または同様の食物を供給される必要があるかもしれません.</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
-  <AlertHitchedAnimalHungryNoFood>つなぎ柱の家畜が空腹</AlertHitchedAnimalHungryNoFood><!--text_todo-->
-  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nThey can be brought food or the hitching spot can be removed to allow them to roam and find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
-  <AlertHitchedAnimalHungryNoFoodDesc>つなぎとめスポットに縛られている家畜の何匹かが空腹です.彼らの手の届く場所に適切な食料がないかもしれません.\n\n食料を持ってくるか,つなぎとめスポットを削除して歩き回らせ,自分で食料を見つけさせることができます.\n\n以下の繋がれた家畜は空腹です:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc><!--text_todo-->
+  <AlertHitchedAnimalHungryNoFood>つなぎ柱の家畜が空腹</AlertHitchedAnimalHungryNoFood>
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
+  <AlertHitchedAnimalHungryNoFoodDesc>つなぎとめスポットに縛られている家畜の何匹かが空腹です.彼らの手の届く場所に適切な食料がないかもしれません.\n\n食料を持っていくか,つなぎとめスポットを削除して,自分で食料を見つけられるようにすることができます.\n\n以下の繋がれた家畜は空腹です:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
   <AlertTimedRaidsArrivingIn>{0} 襲撃者が到着</AlertTimedRaidsArrivingIn>

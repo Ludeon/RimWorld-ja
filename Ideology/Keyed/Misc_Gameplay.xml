@@ -211,10 +211,10 @@
   <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort}は思想的な盲目化を信じていないため,盲目にされることを好まないでしょう.</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
   <RitualBlindingWarnWimp>{PAWN_labelShort}は弱虫であるため,盲目にされることを好みません.</RitualBlindingWarnWimp>
-  <!-- EN: Scarification is expected for {IDEOMEMBER} colonists as long as number of scarified {IDEOMEMBERPLURAL} is below {0}. -->
-  <RitualScarificationTriggerExtraDesc>スカリフィケーションを行われた{IDEOMEMBERPLURAL}の数が{0}人未満である限り,{IDEOMEMBER}の入植者はスカリフィケーションを期待します.</RitualScarificationTriggerExtraDesc> <!-- text_todo -->
+  <!-- EN: Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}. -->
+  <RitualScarificationTriggerExtraDesc>スカリフィケーションを行われた{IDEOMEMBERPLURAL}の数が{0}人未満である限り,{IDEOMEMBERPLURAL}はスカリフィケーションを期待します.</RitualScarificationTriggerExtraDesc>
   <!-- EN: Blinding is expected for each current and joining {IDEOMEMBER} colonist. -->
-  <RitualBlindingTriggerExtraDesc>現在参加している{IDEOMEMBER}の入植者は盲目化を期待します.</RitualBlindingTriggerExtraDesc> <!-- text_todo -->
+  <RitualBlindingTriggerExtraDesc>現在参加している{IDEOMEMBER}の入植者は盲目化を期待します.</RitualBlindingTriggerExtraDesc>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
   <RitualOutcomeExtraDesc_DancePartyWorkFocus>儀式に参加した全ての人が,一日だけ勤労意欲バフを獲得しました({PERCENTAGE}基本的な作業速度)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
@@ -598,22 +598,30 @@
   <BiosculpterPodCycleLabel>サイクル</BiosculpterPodCycleLabel>
   <!-- EN: loading ingredients -->
   <BiosculpterPodCycleLabelLoading>積まれた原料</BiosculpterPodCycleLabelLoading>
-  <!-- EN: ready -->
-  <BiosculpterPodCycleLabelReady>準備</BiosculpterPodCycleLabelReady>
-  <!-- EN: Prepare {0} cycle -->
-  <BiosculpterPodCycleCommand>{0}サイクルを準備する</BiosculpterPodCycleCommand>
+  <!-- EN: (and biotuning) -->
+  <BiosculpterPodCycleWillBiotune>(及び生体調整)</BiosculpterPodCycleWillBiotune>
+  <!-- EN: Begin {0} cycle -->
+  <BiosculpterPodCycleCommand>{0}サイクルを開始する</BiosculpterPodCycleCommand>
+  <!-- EN: Ready for cycle selection -->
+  <BiosculpterPodCycleSelection>サイクル選択の準備完了</BiosculpterPodCycleSelection>
+  <!-- EN: Nutrition loaded, no power -->
+  <BiosculpterPodCycleSelectionNoPower>栄養物積載済み,電力なし</BiosculpterPodCycleSelectionNoPower>
   <!-- EN: Ends in -->
   <BiosculpterCycleTimeRemaining>終了</BiosculpterCycleTimeRemaining>
+  <!-- EN: Paused: No power (interrupt in {TIME}) -->
+  <BiosculpterCycleNoPowerInterrupt>一時停止:電力がない({TIME}で中断)</BiosculpterCycleNoPowerInterrupt>
   <!-- EN: Biotuned to -->
   <BiosculpterBiotunedTo>生体改造を施す</BiosculpterBiotunedTo>
   <!-- EN: Interrupt cycle -->
   <BiosculpterInteruptCycle>サイクルを中断</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
   <BiosculpterInteruptCycleDesc>現在のサイクルを中断します.乗員はサイクルの影響を受けずに追い出され,短期間の生体改造の病気に苦しむことになります.</BiosculpterInteruptCycleDesc>
-  <!-- EN: Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old. -->
-  <BiosculpterUnderageAgeReversalMessage>警告: {PAWN_labelShort}は{ADULTAGE}歳未満であるため,生体改造が{PAWN_labelShort}に調整されている間は年齢逆転サイクルを実行できません.</BiosculpterUnderageAgeReversalMessage>
-  <!-- EN: Once the biosculpter pod is filled with {INGREDIENTS}, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
-  <BiosculpterLoadingStartedMessage>生体改造ポッドを{INGREDIENTS}で満たしてから入植者を選択し,生体改造ポッドまたはダウンした人を右クリックすることで,サイクルを開始できます.</BiosculpterLoadingStartedMessage>
+  <!-- EN: {PAWN_labelShort} will enter biosculpter and begin a {CYCLE} cycle. -->
+  <BiosculpterEnteringMessage>{PAWN_labelShort}は生体改造ポッドに入り,{CYCLE}サイクルを開始します.</BiosculpterEnteringMessage>
+  <!-- EN: {PAWN_labelShort} will collect {INGREDIENTS}, and begin a {CYCLE} cycle. -->
+  <BiosculpterLoadingStartedMessage>{PAWN_labelShort}は{INGREDIENTS}を集め,{CYCLE}サイクルを開始します.</BiosculpterLoadingStartedMessage>
+  <!-- EN: {PAWN_labelShort} will collect {INGREDIENTS}, place {DOWNED_labelShort} inside the biosculpter, and begin a {CYCLE} cycle. -->
+  <BiosculpterCarryStartedMessage>{PAWN_labelShort}は{INGREDIENTS}を集め,{DOWNED_labelShort}を生体改造ポッド内に配置し,{CYCLE}サイクルを開始します.</BiosculpterCarryStartedMessage>
   <!-- EN: {0} nutrition -->
   <NumNutrition>栄養量{0}</NumNutrition>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
@@ -624,10 +632,12 @@
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}は回復サイクルを完了し,{HEDIFF_label}が治療されました.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}は年齢逆転サイクルを完了しました.{PAWN_pronoun}は{DEADLINE}日で次の年齢逆転を期待しています.</BiosculpterAgeReversalCompletedMessage>
-  <!-- EN: {PAWN_labelShort} completed pleasure cycle. -->
-  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}は快楽サイクルを完了しました.</BiosculpterPleasureCompletedMessage>
+  <!-- EN: {PAWN_labelShort}'s pleasure cycle is complete. -->
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}の快楽サイクルは完了しました.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>清浄度による速度掛け率</BiosculpterCleanlinessSpeedFactor>
+  <!-- EN: Biotuned speed factor -->
+  <BiosculpterBiotunedSpeedFactor>生体調整による速度掛け率</BiosculpterBiotunedSpeedFactor>
   <!-- EN: These conditions will be healed -->
   <HealingCycleWillHeal>これらの状態が治療されます</HealingCycleWillHeal>
   <!-- EN: One of these conditions will be healed -->
@@ -642,6 +652,8 @@
   <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続行しますか?</BiosculpterNoCoditionsToHeal>
 
   <!-- UNUSED -->
+  <BiosculpterPodCycleLabelReady>準備</BiosculpterPodCycleLabelReady>
+  <BiosculpterUnderageAgeReversalMessage>警告: {PAWN_labelShort}は{ADULTAGE}歳未満であるため,生体改造が{PAWN_labelShort}に調整されている間は年齢逆転サイクルを実行できません.</BiosculpterUnderageAgeReversalMessage>
   <RelicHuntFindRelicSite>始めに{0}を見つける必要があります. これに関する情報を収集する機会に注意してください.</RelicHuntFindRelicSite>
 
 </LanguageData>

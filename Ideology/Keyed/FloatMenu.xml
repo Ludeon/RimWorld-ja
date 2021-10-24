@@ -128,25 +128,48 @@
   <!-- EN: Remove current role -->
   <RemoveCurrentRole>現在の役割を解除</RemoveCurrentRole>
 
-  <!-- EN: Enter biosculpter pod -->
-  <EnterBiosculpterPod>生体改造ポッドに入る</EnterBiosculpterPod>
+  <!-- EN: Enter biosculpter pod for {0} cycle -->
+  <EnterBiosculpterPod>{0}サイクルで生体改造ポッドに入る</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
   <BiosculpterBiotunedToAnother>他の誰かに生体改造を施します.</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>若返りには{0}歳である必要があります.</UnderMinBiosculpterAgeReversalAge>
-  <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
-  <CarryToBiosculpterPod>{PAWN_label}を({CYCLE})の生体改造ポッドに運ぶ</CarryToBiosculpterPod>
+  <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
+  <CarryToBiosculpterPod>{PAWN_labelShort}を生体改造ポッドに運ぶ({CYCLE}サイクル)</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
   <CannotCarryToBiosculpterPod>生体改造ポッドに運べません</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
   <NoBiosculpterPod>利用可能な生体改造ポッドがありません.</NoBiosculpterPod>
-  <!-- EN: No cycle active -->
-  <BiosculpterNoCycleActive>アクティブなサイクルがない</BiosculpterNoCycleActive>
-  <!-- EN: Nutrition being loaded -->
-  <BiosculpterLoadingNutrition>積載されている栄養量</BiosculpterLoadingNutrition>
+  <!-- EN: Nutrition not loaded -->
+  <BiosculpterNutritionNotLoaded>栄養物が積載されてない</BiosculpterNutritionNotLoaded>
   <!-- EN: Occupied -->
   <BiosculpterOccupied>占領されている</BiosculpterOccupied>
   <!-- EN: Cannot enter -->
   <CannotEnter>入れない</CannotEnter>
+  <!-- EN: Cannot start {0} cycle -->
+  <BiosculpterCannotStartCycle>{0}サイクルを始められない</BiosculpterCannotStartCycle>
+  <!-- EN: Cannot find cycle ingredients ({INGREDIENTS}) -->
+  <BiosculpterMissingIngredients>サイクルの材料が見つからない({INGREDIENTS})</BiosculpterMissingIngredients>
+  <!-- EN: Nobody around can use this -->
+  <BiosculpterNoEligiblePawns>周囲の誰もこれを使用することができない</BiosculpterNoEligiblePawns>
+  <!-- EN: Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around -->
+  <BiosculpterNoEligiblePawnsBiotuned>{PAWN_labelShort}に生体調整されているが,{PAWN_pronoun}が存在しない</BiosculpterNoEligiblePawnsBiotuned>
+  <!-- EN: Auto load nutrition -->
+  <BiosculpterAutoLoadNutritionLabel>自動で栄養物を積む</BiosculpterAutoLoadNutritionLabel>
+  <!-- EN: Automatically load the nutrition required to run a cycle -->
+  <BiosculpterAutoLoadNutritionDescription>サイクルを実行するために必要な栄養量を自動的に積載する</BiosculpterAutoLoadNutritionDescription>
+  <!-- EN: Auto age reversal for {PAWN_labelShort} -->
+  <BiosculpterAutoAgeReversalLabel>{PAWN_labelShort}の年齢反転を自動で行う</BiosculpterAutoAgeReversalLabel>
+  <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
+  <BiosculpterAutoAgeReversalDescription>{PAWN_labelShort}の思想に従い,このポッドで年に一度の年齢逆転治療を実行したいという願望を自動的に満たします.{NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <BiosculpterAutoAgeReversalDescriptionFuture>有効にすると,ポッドの準備ができている場合,{PAWN_labelShort}は{TIME}に自動的に次の治療を受けます.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort}はすでに次の治療を望んでおり,これが有効になっている場合は自動的に治療を開始します.</BiosculpterAutoAgeReversalDescriptionNow>
+  <!-- EN: Collecting ingredients for biosculpter cycle -->
+  <BiosculpterJobReportCollectIngredients>生体改造サイクルの材料を集める</BiosculpterJobReportCollectIngredients>
+  <!-- UNUSED -->
+  <BiosculpterNoCycleActive>アクティブなサイクルがない</BiosculpterNoCycleActive>
+  <BiosculpterLoadingNutrition>積載されている栄養量</BiosculpterLoadingNutrition>
 
 </LanguageData>
