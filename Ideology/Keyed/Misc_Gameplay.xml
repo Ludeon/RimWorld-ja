@@ -147,6 +147,12 @@
   <ReformDevelopmentPoints>改変に必要なポイント</ReformDevelopmentPoints>
   <!-- EN: quest -->
   <QuestLower>クエスト</QuestLower>
+  <!-- EN: Vegetarian -->
+  <MealKindVegetarian>菜食主義</MealKindVegetarian><!--text_todo-->
+  <!-- EN: Contains meat -->
+  <MealKindMeat>肉を含む</MealKindMeat><!--text_todo-->
+  <!-- EN: Acceptable food for everyone -->
+  <MealKindAny>誰でも食べられる食べ物</MealKindAny><!--text_todo-->
 
   <!-- EN: Could not load ideoligion -->
   <UnableToLoadIdeoTitle>思想をロードできない</UnableToLoadIdeoTitle>
@@ -602,12 +608,20 @@
   <BiosculpterPodCycleWillBiotune>(及び生体調整)</BiosculpterPodCycleWillBiotune>
   <!-- EN: Begin {0} cycle -->
   <BiosculpterPodCycleCommand>{0}サイクルを開始する</BiosculpterPodCycleCommand>
+  <!-- EN: Duration: {TIME} -->
+  <BiosculpterPodCycleDuration>持続期間:{TIME}</BiosculpterPodCycleDuration><!--text_todo-->
+  <!-- EN: Duration (transhumanists): {TIME} -->
+  <BiosculpterPodCycleDurationTranshumanists>持続期間(トランスヒューマニスト):{TIME}</BiosculpterPodCycleDurationTranshumanists><!--text_todo-->
   <!-- EN: Ready for cycle selection -->
   <BiosculpterPodCycleSelection>サイクル選択の準備完了</BiosculpterPodCycleSelection>
+  <!-- EN: On standby for {CYCLE} cycle with {PAWN_labelShort} -->
+  <BiosculpterPodCycleStandby>{CYCLE}サイクルが{PAWN_labelShort}と共に待機中</BiosculpterPodCycleStandby><!--text_todo-->
   <!-- EN: Nutrition loaded, no power -->
   <BiosculpterPodCycleSelectionNoPower>栄養物積載済み,電力なし</BiosculpterPodCycleSelectionNoPower>
   <!-- EN: Ends in -->
   <BiosculpterCycleTimeRemaining>終了</BiosculpterCycleTimeRemaining>
+  <!-- EN: (accelerated for transhumanists) -->
+  <BiosculpterCycleAccelerated>(トランスヒューマニストの加速)</BiosculpterCycleAccelerated><!--text_todo-->
   <!-- EN: Paused: No power (interrupt in {TIME}) -->
   <BiosculpterCycleNoPowerInterrupt>一時停止:電力がない({TIME}で中断)</BiosculpterCycleNoPowerInterrupt>
   <!-- EN: Biotuned to -->

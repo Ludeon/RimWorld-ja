@@ -526,6 +526,10 @@
   <AttackToDestroy>攻撃することで破壊できます.</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
   <RemoveByAttackingTooltip>これを攻撃して削除します.</RemoveByAttackingTooltip>
+  <!-- EN: Food: {0} -->
+  <ThoughtFoodEatenFood>食料:{0}</ThoughtFoodEatenFood><!--text_todo-->
+  <!-- EN: (Ingredients: {0}) -->
+  <ThoughtFoodEatenIngredients>(原料:{0})</ThoughtFoodEatenIngredients><!--text_todo-->
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->

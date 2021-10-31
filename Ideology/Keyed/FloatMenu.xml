@@ -128,8 +128,8 @@
   <!-- EN: Remove current role -->
   <RemoveCurrentRole>現在の役割を解除</RemoveCurrentRole>
 
-  <!-- EN: Enter biosculpter pod for {0} cycle -->
-  <EnterBiosculpterPod>{0}サイクルで生体改造ポッドに入る</EnterBiosculpterPod>
+  <!-- EN: Enter biosculpter pod for {0} cycle [{1}] -->
+  <EnterBiosculpterPod>{0}サイクルで生体改造ポッドに入る[{1}]</EnterBiosculpterPod><!--text_todo-->
   <!-- EN: Biotuned to someone else. -->
   <BiosculpterBiotunedToAnother>他の誰かに生体改造を施します.</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
