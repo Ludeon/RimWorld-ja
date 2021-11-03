@@ -63,7 +63,7 @@
   <!-- EN: Tend quality -->
   <TendQuality>看病品質</TendQuality>
   <!-- EN: Total tend quality -->
-  <DisappearsAtTotalTendQuality>看病の総合品質</DisappearsAtTotalTendQuality> <!-- text_todo -->
+  <DisappearsAtTotalTendQuality>看病の総合品質</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -526,6 +526,10 @@
   <AttackToDestroy>攻撃することで破壊できます.</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
   <RemoveByAttackingTooltip>これを攻撃して削除します.</RemoveByAttackingTooltip>
+  <!-- EN: Food: {0} -->
+  <ThoughtFoodEatenFood>食料:{0}</ThoughtFoodEatenFood><!--text_todo-->
+  <!-- EN: (Ingredients: {0}) -->
+  <ThoughtFoodEatenIngredients>(原料:{0})</ThoughtFoodEatenIngredients><!--text_todo-->
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1539,7 +1543,7 @@
   <!-- EN: {0_labelShort} is incapable of {1}. -->
   <AbilityDisabledNoCapacity>{0_labelShort}は{1}ができません.</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得られます.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得ます.</RitualOutcomeExtraDesc_Mood>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>{RITUAL_labelDef}に参加する人を選んでください.</ChooseParticipants>
@@ -1599,5 +1603,17 @@
   <ThingOf>次の{0}:</ThingOf>
   <!-- EN: {0} of {1} -->
   <ThingOfSource>{1}の{0}</ThingOfSource>
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>徴兵する必要があります.</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>アビリティはクールダウン中です.{0}後に再使用可能.</AbilityOnCooldown>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>アビリティがすでに予約されています.</AbilityAlreadyQueued>
+  <!-- EN: Ability ready: {0} -->
+  <AbilityReadyLabel>アビリティ準備完了: {0}</AbilityReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています.</AbilityReadyText>
 
 </LanguageData>

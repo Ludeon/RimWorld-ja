@@ -23,8 +23,8 @@
   
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>生体改造ポッド</BiosculpterPod.label>
-  <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>生体改造用の流体注水器と,付属の制御システムを備えた没入型ポッドです.年齢の逆転や快楽を与えることを含む,様々な生物学的変化を与えることができます.各ポッドは使用者に合わせて生体調整されるため,他の人が使用することはできません.生体調整は60日後にリセットされます.トランスヒューマニズムの信者は,生体改造ポッドが通常の人間の物理的限界を超える,彼らの探求において非常に重要な装置であると信じています.</BiosculpterPod.description>
+  <!-- EN: An immersion pod full of bioactive gel. It can perform a variety of biological alterations including age reversal and pleasure-giving.\n\nThe pod biotunes to its user at the end of a cycle. While biotuned, it cannot be used by anyone else, but cycles will complete 25% more quickly. Biotuning resets if the pod is unused for 80 days.\n\nThe pod consumess 200W of power while working, but only 50W on standby. -->
+  <BiosculpterPod.description>生理活性ジェルがいっぱいまで入った液浸性ポッドです.年齢の逆転や快楽を与えることを含む,様々な生物学的変化を与えることができます.\n\nポッドはサイクルの最後に使用者に合わせて生体調整します.生体調整されてる間は他の人は使用できませんが,サイクルが25％速く完了します.ポッドが80日間使用されない場合,生体調整はリセットされます.\n\nポッドは動作中は200Wの電力を消費しますが,スタンバイ時は50Wしか消費しません.</BiosculpterPod.description>
   <!-- EN: medic -->
   <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>治療</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
   <!-- EN: Heal all fresh wounds, blood loss, and one random infectious disease. -->

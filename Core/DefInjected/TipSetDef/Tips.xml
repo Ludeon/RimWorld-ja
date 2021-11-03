@@ -53,15 +53,17 @@
   <GameplayTips.AnimalDeathExplosionRain>雨が降っているときにボムネズミとボマロープを狩猟すれば,それらの死による森林火災を防げます.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
   <GameplayTips.GreaterSlaughterYield>丁寧に屠殺された家畜からは,手荒に殺された動物よりも多くの肉と皮を入手できます.</GameplayTips.GreaterSlaughterYield>
-  <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
-  <GameplayTips.CaravanPackingSpot>キャラバンを編成する場所を指定したい場合,キャラバン隊物流拠点を設置してください.</GameplayTips.CaravanPackingSpot>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>キャラバン隊を編成する場所を指定したい場合,キャラバン用つなぎとめスポットを配置してください.通常は備蓄エリアのそばに配置するのが良いでしょう.</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>ホームから離れた場所で敵と戦う時は,キャラバン用つなぎとめスポットを配置して,家畜が彷徨うことを防げます.</GameplayTips.CaravanHitchingSpotRoamers>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>一人のキャラバン隊は,特定の状況で非常に役立ちます.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
   <GameplayTips.CaravanRideableAnimals>キャラバンに馬,ロバ,ヒトコブラクダなどの騎乗できる家畜が含まれていると,移動速度が速くなります.</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>小規模のキャラバン隊は発見されにくいため,襲撃される頻度が低くなります.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing post. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>キャラバンを編成する前に,キャラバンの積荷場所の近くに積荷アイテムを集めましょう.これにより,積荷作業がはるかに速くなります.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>キャラバンに訓練されていない家畜がいる場合,敵を襲撃する前にそれらを別のキャラバンに分割して,戦闘から遠ざけることができます.</GameplayTips.CaravanUntrainedAnimals>
@@ -149,6 +151,9 @@
   <GameplayTips.PredatorsAndFences>捕食者はフェンスやバリケードの中にいる家畜は狩りません.</GameplayTips.PredatorsAndFences>
   
   <!-- UNUSED -->
+  <GameplayTips.CaravanHitchingPost>キャラバンを編成する場所を指定したい場合,キャラバン用つなぎ柱を設置してください.通常は備蓄エリアのそばが良いでしょう.</GameplayTips.CaravanHitchingPost>
+  <GameplayTips.CaravanHitchingPostRoamers>キャラバンの移動先でも彷徨う家畜を保持したい場合,キャラバン用つなぎ柱を設置してください.</GameplayTips.CaravanHitchingPostRoamers>
+  <GameplayTips.CaravanPackingSpot>キャラバンを編成する場所を指定したい場合,キャラバン隊物流拠点を設置してください.</GameplayTips.CaravanPackingSpot>
   <GameplayTips.CaravanFasterAnimals>脚の速い家畜は,キャラバン隊の移動速度をより速めます.</GameplayTips.CaravanFasterAnimals>
   
 </LanguageData>
