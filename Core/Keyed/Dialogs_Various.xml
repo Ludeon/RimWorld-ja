@@ -496,8 +496,10 @@
   <TrapArmorPenetration>アーマー貫通力(トラップ)</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
   <RearmCost>再装填コスト</RearmCost>
-  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>このタレットを再装填するには資源が必要です(難易度の影響を受けます).</RearmCostExplanation>
+  <!-- EN: Resources needed to rearm this turret -->
+  <RearmCostExplanation>このタレットを再装填するには資源が必要です</RearmCostExplanation>
+  <!-- EN: affected by difficulty -->
+  <RearmCostExplanationDifficulty>難易度の影響を受けます</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>残弾数</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
