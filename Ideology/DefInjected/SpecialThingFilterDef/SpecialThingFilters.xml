@@ -1,19 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: allow food with meat -->
-  <AllowCarnivore.label>肉類の食べ物を許可</AllowCarnivore.label>
-  <!-- EN: Allow food that is acceptable to meat eaters but unacceptable to vegetarians. This accounts for food that may be vegetarian or may contain meat depending on its ingredients. -->
-  <AllowCarnivore.description>肉を食べる人には受け入れられるが,菜食主義者には受け入れられない食べ物を許可します.これは,野菜または肉を含む可能性のある食べ物を,原料に応じて説明しています.</AllowCarnivore.description>
+  <!-- EN: allow food with human meat -->
+  <AllowCannibal.label>人肉の食べ物を許可</AllowCannibal.label>
+  <!-- EN: Allow food that is acceptable to cannibals (contains human meat). This accounts for food that may or may not contain human meat depending on its ingredients. -->
+  <AllowCannibal.description>カニバリストに受け入れられる食べ物(人肉を含む)を許可します.これは,食べ物に人肉が含まれているかどうかを,原料に応じて説明します.</AllowCannibal.description>
+  
+  <!-- EN: allow food with appetizing meat -->
+  <AllowCarnivore.label>味の良い肉類の食べ物を許可</AllowCarnivore.label>
+  <!-- EN: Allow food that is generally acceptable to meat eaters but unacceptable to vegetarians. This accounts for food that may be vegetarian or may contain meat depending on its ingredients. This does not control human and insect meat. -->
+  <AllowCarnivore.description>一般的な肉を食べる人には受け入れられるが,菜食主義者には受け入れられない食べ物を許可します.これは,食べ物に野菜か肉が含まれている可能性があるかどうかを,原料に応じて説明します.人肉や虫肉は含みません.</AllowCarnivore.description>
   
   <!-- EN: allow slave corpses -->
   <AllowCorpsesSlave.label>奴隷の死体を許可</AllowCorpsesSlave.label>
   <!-- EN: Allow the dead bodies of slaves. -->
   <AllowCorpsesSlave.description>奴隷の死体を許可します.</AllowCorpsesSlave.description>
   
+  <!-- EN: allow food with insect meat -->
+  <AllowInsectMeat.label>虫肉の食べ物を許可</AllowInsectMeat.label>
+  <!-- EN: Allow food that contains insect meat. This accounts for food that may or may not contain insect meat depending on its ingredients. -->
+  <AllowInsectMeat.description>虫肉を含む食品を許可します.これは,食べ物に虫肉が含まれているかどうかを,原料に応じて説明します.</AllowInsectMeat.description>
+  
   <!-- EN: allow vegetarian food -->
   <AllowVegetarian.label>野菜類の食べ物を許可</AllowVegetarian.label>
   <!-- EN: Allow food that is acceptable to vegetarians but unacceptable to those that only eat meat. This accounts for food that may be vegetarian or may contain meat depending on its ingredients. -->
-  <AllowVegetarian.description>野菜を食べる人には受け入れられるが,肉食主義者には受け入れられない食べ物を許可します.これは,野菜または肉を含む可能性のある食べ物を,原料に応じて説明しています.</AllowVegetarian.description>
+  <AllowVegetarian.description>野菜を食べる人には受け入れられるが,肉食主義者には受け入れられない食べ物を許可します.これは,食べ物に野菜か肉が含まれている可能性があるかどうかを,原料に応じて説明します.</AllowVegetarian.description>
   
 </LanguageData>

@@ -31,6 +31,13 @@
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
   <MeleeHitChance.description>白兵戦時の基本命中率です.\n\n命中してもターゲットは躱すことができます.</MeleeHitChance.description>
   
+  <!-- EN: Mortar miss radius factor -->
+  <MortarMissRadiusFactor.label>迫撃砲ミス半径係数</MortarMissRadiusFactor.label>
+  <!-- EN: A factor that affects the miss-radius of a mortar. A smaller factor means more accurate shots. Based on the shooters skill level and other health factors. -->
+  <MortarMissRadiusFactor.description>迫撃砲のミス半径に影響を与える要因です.係数が小さいほど,砲弾がより正確になります.射手のスキルレベルと健康状態に基づきます.</MortarMissRadiusFactor.description>
+  <!-- EN: Mortar miss radius factor -->
+  <MortarMissRadiusFactor.labelForFullStatList>迫撃砲ミス半径係数</MortarMissRadiusFactor.labelForFullStatList>
+  
   <!-- EN: trap spring chance -->
   <PawnTrapSpringChance.label>罠発動確率</PawnTrapSpringChance.label>
   <!-- EN: Chance to spring a trap the character is unaware of. -->

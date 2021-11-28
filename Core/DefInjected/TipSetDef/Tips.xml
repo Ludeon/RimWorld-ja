@@ -75,6 +75,8 @@
   <GameplayTips.BadAllies>一部の入植者は役に立たないよりも悪い存在になります.悪い味方を取り入れることは挑戦の一部です.</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
   <GameplayTips.MakeCaravanRunBeforeDefeat>脅威から防衛しきれない場合は,キャラバンを作って逃げてください.家を失うかもしれませんが,あなたの物語は続けることができます.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: You can choose to have difficulty not scale with accumulated wealth by selecting 'Wealth-independent progress mode' in storyteller settings. Difficulty will instead scale with time. -->
+  <GameplayTips.FixedWealthMode>ストーリーテラーの設定で'非資産依存型進行モード'を選択することで,蓄積された資産に比例しないように難易度を調整できます.代わりに,難易度は時間と共に変化します.</GameplayTips.FixedWealthMode>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
   <GameplayTips.StoneDoors>ドアに石材を使うのは避けてください.それらの開閉速度は非常にゆっくりで,入植者の時間が浪費されてしまいます.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
