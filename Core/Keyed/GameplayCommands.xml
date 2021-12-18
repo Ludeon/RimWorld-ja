@@ -68,8 +68,8 @@
 
   <!-- EN: Set owner -->
   <CommandThingSetOwnerLabel>所有</CommandThingSetOwnerLabel>
-  <!-- EN: Assign this bed to be owned by a specific colonist. -->
-  <CommandBedSetOwnerDesc>ベッドの所有者を決めます.</CommandBedSetOwnerDesc>
+  <!-- EN: Assign this bed to be owned by a specific {0}. -->
+  <CommandBedSetOwnerDesc>特定の{0}がこのベッドを所有するように割り当てます.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>王座の所有者を割り当てます.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
