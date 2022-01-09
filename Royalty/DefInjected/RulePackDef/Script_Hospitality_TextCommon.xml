@@ -75,15 +75,15 @@
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます.</li>
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)メカクラスター(/Threat)が近辺に配置されます.</li>
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます.</li>
-    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation],軌道上のメカノイドの群れの標的にされています.</li>
-    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation],軌道上のメカノイドの群れの標的にされています.</li>
-    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation],メカノイドの巣の標的にされています.</li>
-    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation],メカノイドの巣の標的にされています.</li>
-    <li>mechViolation->どういうわけか機械知性体を怒らせ</li>
-    <li>mechViolation->古代のスーパーコンピューター端末を破壊し</li>
-    <li>mechViolation->アルコテックが好む人間の子供を殺し</li>
-    <li>mechViolation->メカノイドの制御ノードをハッキングしようとし</li>
-    <li>mechViolation->古代の貯蔵庫から盗みを働こうとし</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation].そして今,軌道上のメカノイドの群れの標的にされています.</li>
+    <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation].そして今,軌道上のメカノイドの群れの標的にされています.</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation].そして今,メカノイドの巣の標的にされています.</li>
+    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation].そして今,メカノイドの巣の標的にされています.</li>
+    <li>mechViolation->どういうわけか機械知性体を怒らせました</li>
+    <li>mechViolation->古代のスーパーコンピューター端末を破壊しました</li>
+    <li>mechViolation->アルコテックが好む人間の子供を殺しました</li>
+    <li>mechViolation->メカノイドの制御ノードをハッキングしようと試みました</li>
+    <li>mechViolation->古代の貯蔵庫から盗みを働こうと試みました</li>
     <li>letterSubject->{SUBJECT_definite}</li>
     <li>lodgersHasHave(lodgersCount==1)-></li>
     <li>lodgersHasHave(lodgersCount>=2)->ら</li>

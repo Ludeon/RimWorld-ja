@@ -69,9 +69,9 @@
   <IdeoRolesEmptyDesc>これらの役割に割り当てがありません:\n{0}\n\n社交タブから誰かに役割を割り当てることができます.また,儀式の場所や祭壇を選択して'役割の変更を開始'をクリックすることもできます.\n\n役割未割当のままだと,以下の入植者の心情が悪化します</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
-  <AncientAltarThreatsWaking>{0}で活性化したセキュリティの脅威</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWaking>{0} 警護の脅威起動</AncientAltarThreatsWaking>
   <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
-  <AncientAltarThreatsWakingDesc>セキュリティの脅威は{0}でアクティブになります.この脅威はレリックを脅かす恐れのある人物を攻撃します.</AncientAltarThreatsWakingDesc>
+  <AncientAltarThreatsWakingDesc>セキュリティの脅威は{0}後にアクティブになります.この脅威はレリックを脅かす恐れのある人物を攻撃します.</AncientAltarThreatsWakingDesc>
 
   <!-- EN: No recent slaughter -->
   <AlertNoRecentSlaughter>最近の屠殺がない</AlertNoRecentSlaughter>
