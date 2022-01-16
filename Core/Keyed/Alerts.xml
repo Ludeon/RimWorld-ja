@@ -311,8 +311,4 @@
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
   <AlertMinifiedTreeAboutToDieDesc>{0}引き抜かれた木は1日以内に枯れます.これは何人かの入植者の信念によって不幸になるでしょう.</AlertMinifiedTreeAboutToDieDesc>
 
-  <!-- UNUSED -->
-  <AlertAnimalPenNeededLowSkillHandlers>調教を割り当てられた入植者は全員,以下の家畜を囲いの中に連れて行くために必要な動物のスキルレベルを持っていません.</AlertAnimalPenNeededLowSkillHandlers>
-  <AlertAnimalPenNeededLowSkillHandlersDetail>必要レベル{MINSKILL},最適任者{HANDLER_labelShort}でもレベル{BESTSKILL}</AlertAnimalPenNeededLowSkillHandlersDetail>
-
 </LanguageData>

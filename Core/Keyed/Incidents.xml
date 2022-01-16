@@ -243,8 +243,4 @@
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>{SUBJECT_definite}が死んでいるためクエストを完了できません.</LetterQuestAskerDied>
 
-  <!-- UNUSED -->
-  <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
-  <EscapeShipLost>(*Name)Charlon Whitestone(/Name)がメッセージを送ってきました.\n彼は,あなたが着陸船で姿勢制御を失ったことを知っています.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引き,その結果,船は今やクレーターとなりました.\nこの惑星から出る,別の手段を見つける必要があります.</EscapeShipLost>
-
 </LanguageData>

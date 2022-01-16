@@ -665,9 +665,4 @@
   <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue? -->
   <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続行しますか?</BiosculpterNoCoditionsToHeal>
 
-  <!-- UNUSED -->
-  <BiosculpterPodCycleLabelReady>準備</BiosculpterPodCycleLabelReady>
-  <BiosculpterUnderageAgeReversalMessage>警告: {PAWN_labelShort}は{ADULTAGE}歳未満であるため,生体改造が{PAWN_labelShort}に調整されている間は年齢逆転サイクルを実行できません.</BiosculpterUnderageAgeReversalMessage>
-  <RelicHuntFindRelicSite>始めに{0}を見つける必要があります. これに関する情報を収集する機会に注意してください.</RelicHuntFindRelicSite>
-
 </LanguageData>
