@@ -16,19 +16,19 @@
   <!-- EN: Eating meat of any kind is a horrible act. -->
   <MeatEating_Horrible.description>どんな肉も食べるのは恐ろしい行為だ.</MeatEating_Horrible.description>
   
-  <!-- EN: strictly required -->
-  <MeatEating_NonMeat_Abhorrent.label>厳密に必要</MeatEating_NonMeat_Abhorrent.label>
-  <!-- EN: If a meal doesn't have meat, the person who eats it must be morally deficient. Eggs, milk, and processed foods are fine. -->
-  <MeatEating_NonMeat_Abhorrent.description>肉のない食事を食べる人間は,道徳的に不足しているに違いない.ただし卵やミルク,加工食品は大丈夫だ.</MeatEating_NonMeat_Abhorrent.description>
+  <!-- EN: vegetarian abhorrent -->
+  <MeatEating_NonMeat_Abhorrent.label>菜食主義者は忌むべき</MeatEating_NonMeat_Abhorrent.label>
+  <!-- EN: Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
+  <MeatEating_NonMeat_Abhorrent.description>菜食主義者は誰であれ道徳的に非常に不足している.すべての食事には肉が必要.ただし卵やミルク,野菜の入っていない加工食品は問題ない. </MeatEating_NonMeat_Abhorrent.description>
   
-  <!-- EN: mildly required -->
-  <MeatEating_NonMeat_Disapproved.label>やや必要</MeatEating_NonMeat_Disapproved.label>
-  <!-- EN: Every meal ought to have meat. -->
-  <MeatEating_NonMeat_Disapproved.description>全ての食事には肉が必要だ.</MeatEating_NonMeat_Disapproved.description>
+  <!-- EN: vegetarian disliked -->
+  <MeatEating_NonMeat_Disapproved.label>菜食主義者が嫌い</MeatEating_NonMeat_Disapproved.label>
+  <!-- EN: Eating vegetarian food is distasteful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
+  <MeatEating_NonMeat_Disapproved.description>菜食主義の食事を食べることは不快だ.すべての食事には肉が必要.ただし卵やミルク,野菜の入っていない加工食品は問題ない.</MeatEating_NonMeat_Disapproved.description>
   
-  <!-- EN: seriously required -->
-  <MeatEating_NonMeat_Horrible.label>本当に必要</MeatEating_NonMeat_Horrible.label>
-  <!-- EN: Every meal must have meat. Eggs, milk, and processed food are okay as well. -->
-  <MeatEating_NonMeat_Horrible.description>全ての食事には肉がなくてはならない.ただし卵やミルク,加工食品でも大丈夫だ.</MeatEating_NonMeat_Horrible.description>
+  <!-- EN: vegetarian hated -->
+  <MeatEating_NonMeat_Horrible.label>菜食主義者が憎い</MeatEating_NonMeat_Horrible.label>
+  <!-- EN: Eating vegetarian food is awful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
+  <MeatEating_NonMeat_Horrible.description>菜食主義の食べ物を食べることは恐ろしいことだ.すべての食事には肉が必要. ただし卵やミルク,野菜の入っていない加工食品は問題ない.</MeatEating_NonMeat_Horrible.description>
   
 </LanguageData>

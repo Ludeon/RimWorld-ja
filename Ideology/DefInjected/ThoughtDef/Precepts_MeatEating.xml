@@ -25,28 +25,49 @@
   <!-- EN: ate meat -->
   <AteMeat_Know_Horrible.stages.ate_meat.label>肉を食べた</AteMeat_Know_Horrible.stages.ate_meat.label>
   
-  <!-- EN: ate non-meat -->
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.label>菜食主義者の食事を食べた</AteNonMeat_Abhorrent.stages.ate_vegetarian.label>
+  <!-- EN: I ate a meal without any meat. It was an abhorrent violation of the proper carnivore diet. Some eggs, milk, or processed food without vegetables would have also been okay. -->
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.description>肉のない食事を食べた.これは適切な肉食習慣に対する忌まわしい冒涜行為だ.せめて卵やミルク,それか野菜の入っていない加工食品でも食べられたらよかったのに.</AteNonMeat_Abhorrent.stages.ate_vegetarian.description>
+  
+  <!-- UNUSED -->
   <AteNonMeat_Abhorrent.stages.ate_nonmeat.label>肉でないものを食べた</AteNonMeat_Abhorrent.stages.ate_nonmeat.label>
-  <!-- EN: I had to eat non-meat food. It was an abhorrent violation of the proper carnivore diet. -->
   <AteNonMeat_Abhorrent.stages.ate_nonmeat.description>私は肉以外の食べ物を食べなければならなかった.これは適切な肉食習慣に対する忌まわしい冒涜行為だ.</AteNonMeat_Abhorrent.stages.ate_nonmeat.description>
   
-  <!-- EN: ate non-meat -->
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.label>菜食主義者の食事を食べた</AteNonMeat_Disapproved.stages.ate_vegetarian.label>
+  <!-- EN: I ate a meal without any meat. It was an unacceptable deviation from the proper carnivore diet. Some eggs, milk, or processed food without vegetables or would have also been okay. -->
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.description>肉のない食事を食べた.これは適切な肉食習慣からの許されない逸脱だ.せめて卵やミルク,それか野菜の入っていない加工食品でも食べられたら,あるいはよかったかもしれないのに.</AteNonMeat_Disapproved.stages.ate_vegetarian.description>
+  
+  <!-- UNUSED -->
   <AteNonMeat_Disapproved.stages.ate_nonmeat.label>肉でないものを食べた</AteNonMeat_Disapproved.stages.ate_nonmeat.label>
-  <!-- EN: I had to eat non-meat food. It was an unacceptable deviation from the proper carnivore diet. -->
   <AteNonMeat_Disapproved.stages.ate_nonmeat.description>私は肉以外の食べ物を食べなければならなかった.これは適切な肉食習慣からの許されない逸脱だ.</AteNonMeat_Disapproved.stages.ate_nonmeat.description>
   
-  <!-- EN: ate non-meat -->
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Horrible.stages.ate_vegetarian.label>菜食主義者の食事を食べた</AteNonMeat_Horrible.stages.ate_vegetarian.label>
+  <!-- EN: I ate a meal without any meat. It was an horrible violation of the proper carnivore diet. Some eggs, milk, or processed food without vegetables would have also been okay. -->
+  <AteNonMeat_Horrible.stages.ate_vegetarian.description>肉のない食事を食べた.これは適切な肉食習慣に対する恐ろしい冒涜行為だ.せめて卵やミルク,それか野菜の入っていない加工食品でも食べられたらよかったのに.</AteNonMeat_Horrible.stages.ate_vegetarian.description>
+  
+  <!-- UNUSED -->
   <AteNonMeat_Horrible.stages.ate_nonmeat.label>肉でないものを食べた</AteNonMeat_Horrible.stages.ate_nonmeat.label>
-  <!-- EN: I had to eat non-meat food. It was a horrible violation of the proper carnivore diet. -->
   <AteNonMeat_Horrible.stages.ate_nonmeat.description>私は肉以外の食べ物を食べなければならなかった.これは適切な肉食習慣に対する恐ろしい冒涜行為だ.</AteNonMeat_Horrible.stages.ate_nonmeat.description>
   
-  <!-- EN: ate non-meat -->
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>菜食主義者の食事を食べた</AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>
+  
+  <!-- UNUSED -->
   <AteNonMeat_Know_Abhorrent.stages.ate_nonmeat.label>肉でないものを食べた</AteNonMeat_Know_Abhorrent.stages.ate_nonmeat.label>
   
-  <!-- EN: ate non-meat -->
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>菜食主義者の食事を食べた</AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>
+  
+  <!-- UNUSED -->
   <AteNonMeat_Know_Disapproved.stages.ate_nonmeat.label>肉でないものを食べた</AteNonMeat_Know_Disapproved.stages.ate_nonmeat.label>
   
-  <!-- EN: ate non-meat -->
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>菜食主義者の食事を食べた</AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>
+  
+  <!-- UNUSED -->
   <AteNonMeat_Know_Horrible.stages.ate_nonmeat.label>肉でないものを食べた</AteNonMeat_Know_Horrible.stages.ate_nonmeat.label>
   
 </LanguageData>
