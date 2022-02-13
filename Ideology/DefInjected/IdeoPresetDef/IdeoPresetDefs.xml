@@ -11,6 +11,11 @@
   <!-- EN: The flesh of man and woman is the highest form of sustenance. Also, it's just delicious.\n\nWill have gladiator duels, prisoner sacrifices, and human meat feasts. -->
   <Cannibals.description>人間の肉を消費することは尊重され,他のどの食品よりも好まれます.剣闘士の決闘と囚人の犠牲はこの思想の一部です.</Cannibals.description>
   
+  <!-- EN: classic-like -->
+  <ClassicLike.label>クラシックライク</ClassicLike.label>
+  <!-- EN: Your colonists get a belief system like classic RimWorld. The rest of the world has separate ideoligions generated for them. -->
+  <ClassicLike.description>入植者はクラシックなRimWorldのような思想システムを持ちます.ただしその他の地域では,派閥独自の別々の思想が生み出されています.</ClassicLike.description>
+  
   <!-- EN: cowboys -->
   <Cowboys.label>カウボーイ</Cowboys.label>
   <!-- EN: Men should keep a strong grip over their herds and their women. Raising animals for food is much better than farming plants. We don't tolerate arguments about any of this.\n\nUnlocks the animals specialist role. -->
@@ -51,11 +56,6 @@
   <!-- EN: The human race is superior and the human body is sacred. We disdain body modification, scarification and drug use.\n\nUnlocks the medical and production specialist roles. -->
   <Human_Purists.description>人類は優れています.人体は神聖です.肉体改造,スカリフィケーション,ドラッグ使用が軽蔑されています.医術と生産のスペシャリストの役割を解放します.</Human_Purists.description>
   
-  <!-- EN: individualists -->
-  <Individualists.label>個人主義者</Individualists.label>
-  <!-- EN: Each person's rights and freedom must be respected, including those with different views. -->
-  <Individualists.description>異なる見解を持つ人も含め,各個人の権利と自由を尊重する必要があります.</Individualists.description>
-  
   <!-- EN: martyrs -->
   <Martyrs.label>殉難者</Martyrs.label>
   <!-- EN: Admitting our corrupt, sinful nature is as crucial as suffering for it. Pain and sacrifices are approved, while physical love and comfort are shameful. -->
@@ -72,7 +72,7 @@
   <Naked_Maneaters.description>裸であり続け,人間の肉を消費することが承認されています.生贄と剣闘士の決闘はこの思想の一部です.</Naked_Maneaters.description>
   
   <!-- EN: nature over man -->
-  <NatureOverMan.label>人よりも自然</NatureOverMan.label>
+  <NatureOverMan.label>人より自然</NatureOverMan.label>
   <!-- EN: We atone for humanity's crimes against nature by respecting her, and by performing acts of charity. Slaughtering animals and cutting trees are unacceptable.\n\nUnlocks plants specialist role. -->
   <NatureOverMan.description>人類は全てを自然に借りており,もはやそれを利用することはできません.人間の苦しみと慈善は高貴なことです.動物を屠殺したり,木を切ったりすることは許されません.栽培のスペシャリストの役割を解放します.</NatureOverMan.description>
   

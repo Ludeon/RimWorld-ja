@@ -76,19 +76,19 @@
   <MessageCharityEventRefused>慈善行為を拒否した</MessageCharityEventRefused>
   <!-- EN: Charity fulfilled -->
   <MessageCharityEventFulfilled>慈善行為を遂行した</MessageCharityEventFulfilled>
-  <!-- EN: {0} leaving empty-handed. -->
-  <MessageBeggarsLeavingWithNoItems>{0}は何も持たずに立ち去ります.</MessageBeggarsLeavingWithNoItems>
-  <!-- EN: {0} leaving with requested items. -->
-  <MessageBeggarsLeavingWithItems>{0}は必要なアイテムと共に立ち去ります.</MessageBeggarsLeavingWithItems>
+  <!-- EN: {0} are leaving empty-handed. -->
+  <MessageBeggarsLeavingWithNoItems>{0}達は何も持たずに立ち去ります.</MessageBeggarsLeavingWithNoItems>
+  <!-- EN: {0} have accepted the requested items and are leaving. -->
+  <MessageBeggarsLeavingWithItems>{0}は要求したアイテムを受け取り立ち去ります.</MessageBeggarsLeavingWithItems>
   <!-- EN: {0_nameDef} died without any treatment. -->
   <MessageWandererLeftToDie>{0_nameDef}は何の治療も受けられずに死にました.</MessageWandererLeftToDie>
   <!-- EN: {0_nameDef} was recruited. -->
   <MessageWandererRecruited>{0_nameDef}を勧誘しました.</MessageWandererRecruited>
   <!-- EN: {0_nameDef} left healthy. -->
   <MessageWandererLeftHealthy>{0_nameDef}は健康なままでした.</MessageWandererLeftHealthy>
-  <!-- EN: {0} failed. -->
+  <!-- EN: {0} has been failed. -->
   <MessageCharityQuestEndedFailed>{0}は失敗しました.</MessageCharityQuestEndedFailed>
-  <!-- EN: {0} succesfully completed. -->
+  <!-- EN: {0} has been successfully completed. -->
   <MessageCharityQuestEndedSuccess>{0}を全て終わらせました.</MessageCharityQuestEndedSuccess>
 
   <!-- Ideo UI -->

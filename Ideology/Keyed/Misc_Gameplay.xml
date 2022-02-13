@@ -11,12 +11,12 @@
   <RandomStructureTip>ランダムな構造が思想に適用されます.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
   <RandomStyleTip>ランダムなスタイルが思想に適用されます.</RandomStyleTip>
-  <!-- EN: Customize -->
-  <Customize>カスタム</Customize>
-  <!-- EN: Play classic -->
-  <PlayClassic>クラシックでプレイ</PlayClassic>
-  <!-- EN: Create fluid... -->
-  <CreateFluid>流動を作成...</CreateFluid>
+  <!-- EN: Classic\nRimWorld -->
+  <PlayClassic>クラシック\nRimWorld</PlayClassic> <!-- text_todo -->
+  <!-- EN: Create custom\n(fluid) -->
+  <CreateCustomFluid>カスタム作成\n(流動)</CreateCustomFluid> <!-- text_todo -->
+  <!-- EN: Create custom\n(fixed) -->
+  <CreateCustomFixed>カスタム作成\n(固定)</CreateCustomFixed>  <!-- text_todo -->
   <!-- EN: Load saved -->
   <LoadSaved>セーブを読込</LoadSaved>
   <!-- EN: Structure -->
@@ -171,6 +171,8 @@
   <RitualTargetEmptyGraveInfo>{PAWN_labelShort}の死を悼むための空の墓</RitualTargetEmptyGraveInfo>
   <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
   <RitualTargetGraveInfoAbstract>{IDEO_memberNameIndef}の死体を納めた墓</RitualTargetGraveInfoAbstract>
+  <!-- EN: A grave containing a corpse. -->
+  <RitualTargetGraveInfoAbstractNoIdeo>死体を納めた墓</RitualTargetGraveInfoAbstractNoIdeo> <!-- text_todo -->
   <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
   <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
@@ -664,5 +666,9 @@
   <OnCompletionOfCycle>{CYCLE}のサイクルが完了すると,次のようになります</OnCompletionOfCycle>
   <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue? -->
   <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続行しますか?</BiosculpterNoCoditionsToHeal>
+
+  <!-- UNUSED -->
+  <Customize>カスタム</Customize>
+  <CreateFluid>流動を作成...</CreateFluid>
 
 </LanguageData>
