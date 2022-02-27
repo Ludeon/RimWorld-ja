@@ -11,12 +11,14 @@
   <RandomStructureTip>ランダムな構造が思想に適用されます.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
   <RandomStyleTip>ランダムなスタイルが思想に適用されます.</RandomStyleTip>
-  <!-- EN: Classic\nRimWorld -->
-  <PlayClassic>クラシック\nRimWorld</PlayClassic> <!-- text_todo -->
+  <!-- EN: Ideology system inactive -->
+  <PlayClassic>思想システム\n非アクティブ</PlayClassic>
   <!-- EN: Create custom\n(fluid) -->
-  <CreateCustomFluid>カスタム作成\n(流動)</CreateCustomFluid> <!-- text_todo -->
+  <CreateCustomFluid>カスタム作成\n(流動)</CreateCustomFluid>
   <!-- EN: Create custom\n(fixed) -->
-  <CreateCustomFixed>カスタム作成\n(固定)</CreateCustomFixed>  <!-- text_todo -->
+  <CreateCustomFixed>カスタム作成\n(固定)</CreateCustomFixed>
+  <!-- EN: Custom ideoligions -->
+  <CustomIdeoligions>思想カスタム</CustomIdeoligions>
   <!-- EN: Load saved -->
   <LoadSaved>セーブを読込</LoadSaved>
   <!-- EN: Structure -->
@@ -93,10 +95,8 @@
   <RequiredPrecepts>必要な戒律</RequiredPrecepts>
   <!-- EN: Required rituals -->
   <RequiredRituals>必要な儀式</RequiredRituals>
-  <!-- EN: Disables precepts -->
-  <DisablesPrecepts>戒律が使用不可</DisablesPrecepts>
-  <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>{0}の戒律が使えなくなります.</DisablesPreceptsCount>
+  <!-- EN: Prevents precepts -->
+  <PreventsPrecepts>戒律を防ぐ</PreventsPrecepts>
   <!-- EN: Styles -->
   <Styles>スタイル</Styles>
   <!-- EN: Chance to have precept -->
@@ -172,7 +172,7 @@
   <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
   <RitualTargetGraveInfoAbstract>{IDEO_memberNameIndef}の死体を納めた墓</RitualTargetGraveInfoAbstract>
   <!-- EN: A grave containing a corpse. -->
-  <RitualTargetGraveInfoAbstractNoIdeo>死体を納めた墓</RitualTargetGraveInfoAbstractNoIdeo> <!-- text_todo -->
+  <RitualTargetGraveInfoAbstractNoIdeo>死体を納めた墓</RitualTargetGraveInfoAbstractNoIdeo>
   <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
   <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
@@ -668,6 +668,8 @@
   <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続行しますか?</BiosculpterNoCoditionsToHeal>
 
   <!-- UNUSED -->
+  <DisablesPrecepts>戒律が使用不可</DisablesPrecepts>
+  <DisablesPreceptsCount>{0}の戒律が使えなくなります.</DisablesPreceptsCount>
   <Customize>カスタム</Customize>
   <CreateFluid>流動を作成...</CreateFluid>
 

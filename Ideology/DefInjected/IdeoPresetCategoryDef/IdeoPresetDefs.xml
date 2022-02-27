@@ -3,8 +3,8 @@
   
   <!-- EN: classic -->
   <Classic.label>クラシック</Classic.label>
-  <!-- EN: Classic RimWorld without the ideoligion system active. Good for your first few games, and when you're not trying to do something specific. -->
-  <Classic.description>思想システムを積極的に取り込まないクラシックなRimWorldです.初めてのゲームや,特定の目的を持たない場合に適しています.</Classic.description>
+  <!-- EN: Classic RimWorld without the ideoligion system. Good for your first few games, or when you're not trying to do something specific. All Ideology expansion content remains active. -->
+  <Classic.description>思想システムを取り込まないクラシックなRimWorldです.初めてのゲームや,特定の目的を持たない場合に適しています.それ以外のIdeologyコンテンツはアクティブなままです.</Classic.description>
   <!-- EN: Classic -->
   <Classic.groupLabel>クラシック</Classic.groupLabel>
   
@@ -26,21 +26,21 @@
   <Intense.label>苛烈</Intense.label>
   <!-- EN: Extremely disruptive beliefs which make the game very different from classic RimWorld. These add significant difficulty. -->
   <Intense.description>ゲームを従来のRimWorldとは大きく異なるものにする非常に破壊的な信念です.これらには重大な困難が追加されます.</Intense.description>
-  <!-- EN: Presets -->
-  <Intense.groupLabel>プリセット</Intense.groupLabel>
+  <!-- EN: Preset ideoligions -->
+  <Intense.groupLabel>思想プリセット</Intense.groupLabel>
   
   <!-- EN: mild -->
   <Mild.label>マイルド</Mild.label>
   <!-- EN: Classic-like gameplay with small variations. -->
   <Mild.description>変化の少ないクラシックのようなゲームプレイです.</Mild.description>
-  <!-- EN: Presets -->
-  <Mild.groupLabel>プリセット</Mild.groupLabel>
+  <!-- EN: Preset ideoligions -->
+  <Mild.groupLabel>思想プリセット</Mild.groupLabel>
   
   <!-- EN: strong -->
   <Strong.label>ストロング</Strong.label>
   <!-- EN: Strong beliefs which support playstyles significantly different from classic RimWorld. -->
   <Strong.description>従来のRimWorldとは大きく異なるプレイスタイルをサポートする強い信念です.</Strong.description>
-  <!-- EN: Presets -->
-  <Strong.groupLabel>プリセット</Strong.groupLabel>
+  <!-- EN: Preset ideoligions -->
+  <Strong.groupLabel>思想プリセット</Strong.groupLabel>
   
 </LanguageData>

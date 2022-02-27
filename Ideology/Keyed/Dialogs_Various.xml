@@ -164,8 +164,6 @@
   <LastHumanMeat>最後の人肉</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
   <LastHumanMeatDesc>{PAWN_nameDef}は{IDEO_name}を信じているため,{DURATION}日以上ヒトの肉を食べずに過ごすと不幸になります.</LastHumanMeatDesc>
-  <!-- EN: Last large animal slaughter -->
-  <LastAnimalSlaughter>最後の大型家畜の屠殺</LastAnimalSlaughter>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
   <ExectueNeutralFactionSlave>{PAWN_labelShort}を処刑すると,{FACTION_name}との関係に悪影響を及ぼします.</ExectueNeutralFactionSlave>
@@ -328,4 +326,7 @@
   <FoodRestrictionCannibal>カニバリズム</FoodRestrictionCannibal>
   <!-- EN: Insect meat -->
   <FoodRestrictionInsectMeat>虫肉</FoodRestrictionInsectMeat>
+  <!-- UNUSED -->
+  <LastAnimalSlaughter>最後の大型家畜の屠殺</LastAnimalSlaughter>
+
 </LanguageData>
