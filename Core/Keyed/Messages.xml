@@ -71,7 +71,7 @@
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>警告：{ANIMAL_kindBasePlural}はライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>警告：{ANIMAL_kindBasePlural}は手懐けるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>警告：{ANIMAL_kindBasePlural}は手懐けるのに失敗すると,よく襲ってきます({1}).</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>虫への共感性を持った人でなければ,{INSECT_indefinite}を手懐けることはできません.</MessageInsectTameDesignated>
 

@@ -1283,6 +1283,15 @@
     <desc>[PAWN_nameDef]は,瀕死な政府の官僚組織の下っ端役人として働いていました.[PAWN_pronoun]は,複雑な書類を書き上げることや,所内での人間関係の駆け引きに精通しています.</desc>
   </CivilServant2>
   
+  <CivilServant25>
+    <!-- EN: Civil servant -->
+    <title>公務員</title>
+    <!-- EN: Bureaucrat -->
+    <titleShort>事務員</titleShort>
+    <!-- EN: [PAWN_nameDef] was bureaucrat in the civil service.\n\nAlthough his family connections took him far, his vocal opposition to his bosses' plans hindered his advancement. Called a "red prince" by some, [PAWN_nameDef] sympathized with the poor, leading ultimately to disgrace in [PAWN_possessive] career. -->
+    <desc>[PAWN_nameDef]は公務員の事務員でした.\n\n家族関係によって[PAWN_pronoun]は遠くへ飛ばされましたが,上司の計画に対する[PAWN_possessive]反対表明は[PAWN_possessive]昇進を妨げました.一部の人から"赤の王子"と呼ばれた[PAWN_nameDef]は,貧しい人々に同情し,これは最終的に自身のキャリアに泥を塗りました.</desc>
+  </CivilServant25>
+  
   <ClanChief14>
     <!-- EN: clan chief -->
     <title>組織の長</title>
@@ -4304,6 +4313,15 @@
     <desc>[PAWN_nameDef]は,宝石や衣装を広告するモデルをするかたわら,仮想世界の3Dキャラクター用原型として,身体データを提供していました.</desc>
   </Model99>
   
+  <MonkeyChild67>
+    <!-- EN: Monkey child -->
+    <title>猿の子供</title>
+    <!-- EN: Monkey kid -->
+    <titleShort>猿の子供</titleShort>
+    <!-- EN: When he was a baby, [PAWN_nameDef]'s parents traded their son to a troop of monkeys. Little is known of his life among the primates. -->
+    <desc>[PAWN_nameDef]が赤ん坊だった頃,[PAWN_possessive]両親は自身の子供と猿の群れを交換しました.[PAWN_possessive]人生は霊長類の間でもほとんど知られていません.</desc>
+  </MonkeyChild67>
+  
   <MuffaloResearcher67>
     <!-- EN: muffalo researcher -->
     <title>マッファローの研究者</title>
@@ -4321,6 +4339,15 @@
     <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
     <desc>[PAWN_possessive]聡明な賢さと,大きな体躯のせいで,[PAWN_nameDef]は,マッファローの群れを追う,遊牧蛮族のシャーマンになりました.</desc>
   </MuffaloShaman95>
+  
+  <MusicalKid14>
+    <!-- EN: Musical kid -->
+    <title>ミュージカルキッド</title>
+    <!-- EN: Music kid -->
+    <titleShort>音楽児童</titleShort>
+    <!-- EN: [PAWN_nameDef] was born with an almost magic voice. He learned to sing as a baby. His voice also had a special timbre to it which calmed down everyone who listened to it. -->
+    <desc>[PAWN_nameDef]は魔法とも思えるような声と共に生まれました.[PAWN_pronoun]は赤ん坊らしく歌うことを学びました.[PAWN_possessive]声には特別な音色もあり,聞く者すべてを落ち着かせる効果がありました.</desc>
+  </MusicalKid14>
   
   <MusicalKid86>
     <!-- EN: musical kid -->
@@ -4483,6 +4510,15 @@
     <!-- EN: [PAWN_nameDef] was born an raised in an offworld soldier growth facility. From a very young age, [PAWN_pronoun] was taught close-quarters combat tactics, aggression, and how to survive on distant planets.\n\nOne of the best, [PAWN_nameDef] was eventually chose to enter the orbital-deployment shock troop corps. -->
     <desc>[PAWN_nameDef]は,異世界の兵士育成施設で生まれ育ちました.非常に小さいうちから,[PAWN_pronoun]は,近接戦闘術,侵略,遠い惑星でのサバイバル術などを教わりました.\n\n[PAWN_pronoun]は傑作の１つであり,[PAWN_nameDef]はついに軌道降下猟兵に選ばれました.</desc>
   </OffworldRecruit91>
+  
+  <OldMoneyHeir46>
+    <!-- EN: Old money heir -->
+    <title>世襲相続人</title>
+    <!-- EN: Heir -->
+    <titleShort>跡継ぎ</titleShort>
+    <!-- EN: [PAWN_nameDef] grew up a sheltered and spoiled child in one of the many manors of his old-money industrialist family.\n\nWhile attending an elite private school, [PAWN_nameDef] received an extensive education in the arts and sciences, but never saw the horrors of the real world. -->
+    <desc>[PAWN_nameDef]は世襲制の実業家の一族の持つ多くの荘園のとある場所で,守られ甘やかされながら育ちました.\n\n[PAWN_nameDef]はエリート私立学校に通っている間,芸術と科学の広範な教育を受けましたが,現実世界の恐怖を見たことはありませんでした.</desc>
+  </OldMoneyHeir46>
   
   <OptimisticChild30>
     <!-- EN: optimistic child -->
@@ -5326,6 +5362,15 @@
     <!-- EN: [PAWN_nameDef] came from a wealthy and influential bloodline. [PAWN_possessive] expensive education included lessons on dueling, leadership, and military strategy. -->
     <desc>[PAWN_nameDef]は裕福で影響力のある血統から生まれました. [PAWN_possessive]高価な教育には,決闘,リーダーシップ,軍事戦略に関する教訓が含まれていました.</desc>
   </RichKid61>
+  
+  <RimworldExile32>
+    <!-- EN: Rimworld exile -->
+    <title>Rimworldへの亡命者</title>
+    <!-- EN: Exile -->
+    <titleShort>亡命者</titleShort>
+    <!-- EN: After [PAWN_possessive] planet was technologically uplifted by a benevolent glitterworld charity, [PAWN_nameDef] saw an opportunity to make some money by defrauding the wealthy glitterworld visitors.\n\nAfter [PAWN_pronoun] was caught, [PAWN_pronoun] was exiled to the rim, where [PAWN_pronoun] targeted rich trading companies to continue [PAWN_possessive] life of crime. -->
+    <desc>[PAWN_nameDef]の惑星がGlitterworldの好意的な慈善団体によって科学的進歩を大きく遂げたとき,[PAWN_pronoun]は裕福なGlitterworldからの訪問者を騙してお金を稼ぐ機会を得ました.\n\n[PAWN_pronoun]は捕まった後Rimworldに追放され,そこで[PAWN_pronoun]はお金持ちの商社を標的にして犯罪生活を続けました.</desc>
+  </RimworldExile32>
   
   <RitualChild20>
     <!-- EN: ritual child -->
@@ -6306,6 +6351,15 @@
     <desc>[PAWN_nameDef]は宙賊船の艦長でした. [PAWN_pronoun]と乗組員は,生きるために貿易業者を捕えていました.\n\n[PAWN_pronoun]は問題に対処するバランスのとれたやり方で,良く知られていました. 建築,戦闘,必要とあれば交渉</desc>
   </StellarPirate10>
   
+  <StewardsAssisant28>
+    <!-- EN: Steward's assisant -->
+    <title>船室係の助手</title>
+    <!-- EN: Steward -->
+    <titleShort>船室係</titleShort>
+    <!-- EN: A steward on medieval merchant ships, [PAWN_nameDef] was well-travelled on [PAWN_possessive] homeworld by [PAWN_possessive] early teens.\n\nThe constant orders from [PAWN_possessive] captain, however, fostered a defiant streak, as well as a general disaste for anything [PAWN_pronoun] considered to be busywork. -->
+    <desc>中世の商船の船室係である[PAWN_nameDef]は,10代前半に故郷を旅していました.\n\nしかし船長から絶え間のない命令が続いたため,[PAWN_pronoun]は忙しい仕事と感じたものに対して普通の嫌悪感だけでなく,反抗的になる傾向を持つようになりました.</desc>
+  </StewardsAssisant28>
+  
   <StewKeeper95>
     <!-- EN: stew keeper -->
     <title>シチューキーパー</title>
@@ -6350,6 +6404,15 @@
     <!-- EN: Despite being blessed with parental love, [PAWN_nameDef] hardly knew [PAWN_possessive] parents.\n\n[PAWN_pronoun] was frequently left to [PAWN_possessive] own devices which meant more time devoted to exploring [PAWN_possessive] interests…and getting into trouble. -->
     <desc>親の愛に恵まれたにも関わらず,[PAWN_nameDef]は,両親を知りません.\n\n[PAWN_pronoun]は,たびたび自分のデバイスに置き去りにされていました,言い換えると,もっとたくさんの時間を,好きなことに打ち込めました.</desc>
   </Straggler71>
+  
+  <Streamer52>
+    <!-- EN: Streamer -->
+    <title>ストリーマー</title>
+    <!-- EN: Streamer -->
+    <titleShort>ストリーマー</titleShort>
+    <!-- EN: [PAWN_nameDef] worked as a videogame streamer, and was known for his monkey-related impressions and jokes.\n\nA pandemic forced him to go into cryptosleep for several years. During his sleep, he was launched on an interstellar diplomatic mission. Nothing was heard of him ever again. -->
+    <desc>[PAWN_nameDef]はビデオゲームのストリーマーとして働き,猿に関連したイメージやジョークで知られていました.\n\nパンデミックにより,[PAWN_pronoun]は数年間冷凍睡眠状態に陥りました.[PAWN_pronoun]が眠ってる間に,星間外交使節団に送り出されました.その後[PAWN_possessive]名を聞くことは二度とありませんでした.</desc>
+  </Streamer52>
   
   <StreetChild4>
     <!-- EN: street child -->
@@ -6746,6 +6809,15 @@
     <!-- EN: [PAWN_nameDef] lived on a pleasant midworld.\n\n[PAWN_possessive] body purist mother fell sick with heart disease. In desperation, [PAWN_nameDef]'s father abducted innocent people and harvested their hearts. [PAWN_nameDef]'s father was arrested, but the child remained scarred from the experience. -->
     <desc>[PAWN_nameDef]は,心地良いMidworldに住んでいました.\n\n[PAWN_pronoun]人造母は心臓病にかかりました.絶望感の中,[PAWN_nameDef]の父は,無実な人を誘拐し,その心臓を取り出しました.[PAWN_nameDef]の父は逮捕され,子供心に傷を負いました.</desc>
   </TraumatizedYouth87>
+  
+  <TravelingBard93>
+    <!-- EN: Traveling bard -->
+    <title>旅行吟遊詩人</title>
+    <!-- EN: Musician -->
+    <titleShort>ミュージシャン</titleShort>
+    <!-- EN: [PAWN_nameDef] joined the famous Star Pilots On Channel K (aka S.P.O.C.K) and toured the star system, but eventually the band split up and their fame faded away.\n\nHe ended up as a travelling bard playing on his portable synthesizer as he traveled from spaceport to spaceport. -->
+    <desc>[PAWN_nameDef]は有名なStarPilotsOnChannel.K(別名S.P.O.C.K)に参加し,星系を旅行しました.しかし最終的にバンドは分裂し,[PAWN_pronoun]らの名声は薄れました.\n\n[PAWN_pronoun]は宇宙港から宇宙港へと移動するときに,携帯用シンセサイザーで演奏する旅の吟遊詩人となってしまいました.</desc>
+  </TravelingBard93>
   
   <TreasureHunter82>
     <!-- EN: treasure hunter -->
