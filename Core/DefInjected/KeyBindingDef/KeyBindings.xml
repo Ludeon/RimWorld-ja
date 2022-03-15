@@ -130,8 +130,14 @@
   <!-- EN: game speed: Fast -->
   <TimeSpeed_Fast.label>ゲーム速度：x2</TimeSpeed_Fast.label>
   
+  <!-- EN: game speed: Faster -->
+  <TimeSpeed_Faster.label>ゲーム速度：速くする</TimeSpeed_Faster.label>
+  
   <!-- EN: game speed: Normal -->
   <TimeSpeed_Normal.label>ゲーム速度：普通</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Slower -->
+  <TimeSpeed_Slower.label>ゲーム速度：遅くする</TimeSpeed_Slower.label>
   
   <!-- EN: game speed: Super fast -->
   <TimeSpeed_Superfast.label>ゲーム速度：x3</TimeSpeed_Superfast.label>
@@ -143,7 +149,7 @@
   <ToggleBeautyDisplay.label>美しさ表示切替</ToggleBeautyDisplay.label>
   
   <!-- EN: pause/resume game -->
-  <TogglePause.label>pause/resume game</TogglePause.label>
+  <TogglePause.label>ゲーム ポーズ/再開</TogglePause.label>
   
   <!-- EN: toggle room stats display -->
   <ToggleRoomStatsDisplay.label>部屋ステータス表示切替</ToggleRoomStatsDisplay.label>

@@ -11,6 +11,16 @@
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
   <MaxNumberOfPlayerSettlements.helpText>警告：Rimworldは,一度にひとつのコロニーで遊べるようにデザインされています.複数のコロニーを持つことも可能ですが,これはゲーム全体のアンバランスとパフォーマンス低下を引き起こすと思われます.私達は,少なくとも最初は一つのコロニーでゲームすることをお勧めします.</MaxNumberOfPlayerSettlements.helpText>
   
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>Steam Deck コントローラー</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and Y to pause and resume the game. Use triggers for left and right mouse button clicks. Zoom in and out and scroll through lists with the bumpers. Press and hold L5 back button to pan the camera with the touch screen and simulate right clicks. -->
+  <SteamDeckControlsGame.helpText>Xボタンでアーキテクトメニューを開き,Yボタンでゲームを一時停止,及び再開します.マウスの左クリック,右クリックはトリガーを使用します.ズームインとズームアウト,及びスクロールはL1/R1ボタンを押すことで行えます.背面のL5ボタンを押したままタッチスクリーンを操作することでカメラを動かすことができ,右クリック操作を疑似的に行えます.</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>Steam Deck コントローラー</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use trackpad to move the mouse. Use the right trigger button for a left mouse click. Press A to accept and B to go back. -->
+  <SteamDeckControlsMainMenu.helpText>トラックパッドを使用することでマウスを動かせます.マウスの左クリックを行うには,右トリガーボタンを使用します.Aで進み,Bで戻ります.</SteamDeckControlsMainMenu.helpText>
+  
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>スイッチ操作</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
