@@ -6,7 +6,7 @@
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
   <AnimalCalm.description>特殊な方法で動物とつながり狂った獣を沈静化させます.</AnimalCalm.description>
   <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}は {RECIPIENT_labelShort}の沈静化に成功した.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}の沈静化に成功した.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
   <BerserkTrance.label>狂戦士化</BerserkTrance.label>
