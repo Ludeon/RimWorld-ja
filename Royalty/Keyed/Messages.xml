@@ -19,15 +19,15 @@
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>{BESTOWER_definite}を選択し,"授与式を始める"をクリックすることで授与式を開始できます.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
-  <MessageBestowerUnreachable>贈与者まで到達できません！</MessageBestowerUnreachable>
+  <MessageBestowerUnreachable>贈呈者まで到達できません！</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->
   <MessageBestowingTargetIsBusy>{0}は忙しいです.</MessageBestowingTargetIsBusy>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
-  <MessageBestowingSpotUnreachable>贈与者は妨害行為に怒り,去ることを決めました.</MessageBestowingSpotUnreachable>
+  <MessageBestowingSpotUnreachable>贈呈者は妨害行為に怒り,去ることを決めました.</MessageBestowingSpotUnreachable>
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
-  <MessageBestowingDanger>贈与者は命の危機を感じたため,立ち去ります.</MessageBestowingDanger>
+  <MessageBestowingDanger>贈呈者は命の危機を感じたため,立ち去ります.</MessageBestowingDanger>
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
-  <MessageBestowingDangerTemperature>気温が生命を脅かすレベルに達したため,授与者は去っています.</MessageBestowingDangerTemperature>
+  <MessageBestowingDangerTemperature>気温が生命を脅かすレベルに達したため,贈呈者は去っています.</MessageBestowingDangerTemperature>
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>授与式は中断されました.</MessageBestowingInterrupted>
 
