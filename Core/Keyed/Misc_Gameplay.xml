@@ -1286,9 +1286,9 @@
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>地下資源無し</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>深部ドリルマシンによる資源は枯渇した,自動的に取り扱い禁止となる.{0}を掘削し始めるために許可せよ.</DeepDrillExhausted>
+  <DeepDrillExhausted>深部ドリルマシンによる資源が枯渇したため,自動的に取り扱い禁止となります.{0}を掘削する場合は許可指示を行ってください.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇しました.</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
@@ -1306,7 +1306,7 @@
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>北極を指します.カメラを動かしても,常に北極が上にきます</CompassTip>
+  <CompassTip>北極を指します.カメラを動かしても,常に北極が上にきます.</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
@@ -1318,7 +1318,7 @@
   <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>推定所要時間: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は初期値を使用します.隊によって速度が変わります</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は初期値を使用します.隊によって速度が変わります.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>計算: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
