@@ -1196,13 +1196,13 @@
 
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>ある者は去りました. ある者は亡くなりました. そして全ての人が居なくなり, この物語は終わりを告げます.\n\nもしかすれば, 他の誰かが この廃墟の 使い道を 考えて くれるかもしれません.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>ある者は去りました.ある者は亡くなりました.そして全ての人が居なくなり,この物語は終わりを告げます.\n\nもしかすれば,他の誰かがこの廃墟の使い道を考えて くれるかもしれません.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって, 亜光速まで加速した対惑星兵器が, 惑星表面に激しく打ち込まれました. 水風船をライフル弾が撃ち抜いたごとく, この世界は 激しい衝撃と共に液状化し, 溶けた惑星の中心核は 宇宙空間に 吹き出しました.\n\n{0}の一部分は, 小さなアステロイドベルトとなっています. 溶岩があふれだし, 放射能にまみれ 地獄のようになった 残りの部分は, 絶えず巨大な 惑星全体の振動と共に キロメートル級の 波紋を起こしています.\n\n あなたは, 生き残ることができませんでした.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって,亜光速まで加速した対惑星兵器が,惑星表面に激しく打ち込まれました.水風船をライフル弾が撃ち抜いたごとく,この世界は激しい衝撃と共に液状化し,溶けた惑星の中心核は宇宙空間に吹き出しました.\n\n{0}の一部分は,小さなアステロイドベルトとなっています.溶岩があふれだし,放射能にまみれ地獄のようになった 残りの部分は,絶えず巨大な惑星全体の振動と共にキロメートル級の波紋を起こしています.\n\n あなたは,生き残ることができませんでした.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>あなたは宇宙船を発進させました!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>人工知能(AIコア)は 宇宙船を 安全な場所に 向けようとしています. それは, この星系の 繁栄した惑星を 見つけることかもしれませんし, 他の星系へ向けた 1世紀に渡る旅に 出発することかもしれません.また, だれかが新しいグリッターワールドを 創り上げるまで, 数千年間も小惑星帯の氷床の下に 身を隠すことを 選択するかもしれません.\n\nそれは次にあなたが目が覚ましたときに分かるでしょう.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>人工知能(AIコア)は宇宙船を安全な場所に向けようとしています.それは,この星系の繁栄した惑星を見つけることかもしれませんし,他の星系へ向けた1世紀に渡る旅に出発することかもしれません.また,だれかが新しいグリッターワールドを創り上げるまで,数千年間も小惑星帯の氷床の下に身を隠すことを選択するかもしれません.\n\nそれは次にあなたが目が覚ましたときに分かるでしょう.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
   <GameOverColonistsEscaped>脱出した入植者:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
@@ -1228,11 +1228,11 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}の {1}は 進行している.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}の{1}は進行している.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}の {1}は 安定している.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}の{1}は安定している.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}の {1}は 寛解している.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}の{1}は寛解している.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
@@ -1286,9 +1286,9 @@
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>地下資源無し</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>深部ドリルマシンによる資源は枯渇した,自動的に取り扱い禁止となる.{0}を掘削し始めるために許可せよ.</DeepDrillExhausted>
+  <DeepDrillExhausted>深部ドリルマシンによる資源が枯渇したため,自動的に取り扱い禁止となります.{0}を掘削する場合は許可指示を行ってください.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇しました.</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
@@ -1306,7 +1306,7 @@
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>北極を指します.カメラを動かしても,常に北極が上にきます</CompassTip>
+  <CompassTip>北極を指します.カメラを動かしても,常に北極が上にきます.</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
@@ -1318,7 +1318,7 @@
   <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>推定所要時間: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は初期値を使用します.隊によって速度が変わります</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は初期値を使用します.隊によって速度が変わります.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>計算: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
