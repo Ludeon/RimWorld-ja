@@ -287,7 +287,7 @@
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
   <ChooseOnlySlavesInfo>奴隷だけ選択した場合,次のコロニーで入植者としてプレイできます.</ChooseOnlySlavesInfo>
   <!-- EN: Confirm decisions -->
-  <ConfirmDecisionsTitle>決定を確認する</ConfirmDecisionsTitle>
+  <ConfirmDecisionsTitle>意思の確認</ConfirmDecisionsTitle>
   <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
   <ShipEscapeWillEndDescription>AI (*Name)Charlon Whitestone(/Name)によって報告された休眠中の宇宙船は, 新しいコロニーが確立されるまでに飛び去ります.この宇宙船に移動して惑星から脱出することはできなくなります.</ShipEscapeWillEndDescription>
   <!-- EN: No relic was chosen to be brought to the new colony. -->
@@ -297,7 +297,7 @@
   <!-- EN: The colony's purchasers will only allow you to take one relic. Any other relics will be left behind (even if equipped by a colonist), including: -->
   <RemoveEquippedRelicsDescription>コロニーの受取人は,レリックを一つしか引き継げないようにします.以下を含むその他の遺物は(入植者が装備している場合でも)取り残されます:</RemoveEquippedRelicsDescription>
   <!-- EN: Would you like to proceed? Past this point, there's no going back. -->
-  <WantToProceed>続行しますか?ここから戻ることはありません.</WantToProceed>
+  <WantToProceed>続行しますか?了承すると,戻ることはできません.</WantToProceed>
   <!-- EN: Convert -->
   <ConvertToPlayerIdeoligion>改宗</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
