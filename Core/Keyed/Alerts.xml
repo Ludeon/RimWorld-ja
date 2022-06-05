@@ -24,7 +24,9 @@
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>次の入植者は一歩も動けません.\n\n{0}\n他の入植者に救助を指示して,ベッドまで運ばせましょう.\n\n(別の入植者を選択し,救助対象者を右クリックして "救助"を指示します)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>次の入植者は一歩も動けません.\n\n{0}\n他の入植者に救助を指示して,ベッドまで運ばせましょう.\n\n(別の入植者を選択し,救助対象者を右クリックして"救助"を指示します)</ColonistsNeedRescueDesc>
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDescController>次の入植者は一歩も動けません.\n\n{0}\n他の入植者に救助を指示して,ベッドまで運ばせましょう.\n\n(別の入植者を選択し,救助対象者にカーソルを合わせて左トリガーボタンを押し"救助"を指示します)</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>侵略にそなえる</NeedDefenses>
@@ -160,6 +162,8 @@
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>次の入植者は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な入植者を右クリックし,ベッドへ誘導してください)</ColonistNeedsTreatmentDesc>
+  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and press the left trigger button on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDescController>次の入植者は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な入植者にカーソルを合わせて左トリガーボタンを押し,ベッドへ誘導してください)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>低体温症</AlertHypothermia>

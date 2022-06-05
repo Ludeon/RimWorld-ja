@@ -4,6 +4,8 @@
   <!-- EN: World view camera movement -->
   <WorldCameraMovement.label>ワールドカメラを動かす</WorldCameraMovement.label>
   <!-- EN: Zoom with the MOUSE WHEEL or {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nPan with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or by MIDDLE-CLICKING and DRAGGING. -->
-  <WorldCameraMovement.helpText>ズームはマウスホイールを使うか, {Key:MapZoom_In}キー, {Key:MapZoom_Out}キーで行えます.\n\nカメラの移動は, {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キー, もしくは マウスホイールを押しこみながらドラッグで行います.</WorldCameraMovement.helpText>
+  <WorldCameraMovement.helpText>ズームイン・アウトはマウスホイールを使うか,{Key:MapZoom_In}キー,{Key:MapZoom_Out}キーで行えます.\n\nカメラの移動は,{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キー,もしくはマウスホイールを押しこみながらドラッグで行います.</WorldCameraMovement.helpText>
+  <!-- EN: Zoom with {Key:MapZoom_In} and {Key:MapZoom_Out}.\n\nPan with the D-pad or by using the touch screen. -->
+  <WorldCameraMovement.helpTextController>ズームイン・アウトは{Key:MapZoom_In}ボタン,{Key:MapZoom_Out}ボタンで行えます.\n\nカメラの移動は,十字キー,もしくはタッチスクリーンで行います.</WorldCameraMovement.helpTextController>
   
 </LanguageData>
