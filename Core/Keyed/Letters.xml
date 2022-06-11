@@ -120,12 +120,12 @@
   <LetterFriendlyTrapSprung>{1_labelShort}は不慮の事故により,罠で怪我をした.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>{PAWN_labelShort}は, {2}の合併症で, {1}を患った.</LetterHealthComplications>
+  <LetterHealthComplications>{PAWN_labelShort}は病におかされた:\n\n  {1}\n\nこれは以下の要因によって発症した:\n\n  {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort}は, {1}の病におかされた.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort}は,{1}の病におかされた.</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
@@ -160,7 +160,7 @@
   <!-- EN: View quest -->
   <ViewQuest>クエストを参照</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>{PAWN_definite}の人生で 最後に起きた出来事</LastEventsInLife>
+  <LastEventsInLife>{PAWN_definite}の人生で最後に起きた出来事</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
   <LetterInspirationBeginThanksToHighMoodPart>高い心情を保っていたため,[PAWN_nameIndef]は奮い立ちました!</LetterInspirationBeginThanksToHighMoodPart>
@@ -192,15 +192,15 @@
   <!-- EN: relationship -->
   <RelationshipAppendedLetterSuffix>血縁関係</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}は入植者と血縁関係にあります. {PAWN_pronoun}は {RELATIVE_labelShort}の {1}です.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}は入植者と血縁関係にあります.{PAWN_pronoun}は{RELATIVE_labelShort}の{1}です.</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}は囚人の一人と血縁関係にあります. {PAWN_pronoun}は {RELATIVE_labelShort}の {1}です.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}は囚人の一人と血縁関係にあります.{PAWN_pronoun}は{RELATIVE_labelShort}の{1}です.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
   <LetterLabelAffair>浮気</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{PAWN1_labelShort}は {SPOUSE_labelShort}と結婚しているにも関わらず, {PAWN2_labelShort}に うつつを抜かしています.</LetterAffair>
+  <LetterAffair>{PAWN1_labelShort}は{SPOUSE_labelShort}と結婚しているにも関わらず,{PAWN2_labelShort}にうつつを抜かしています.</LetterAffair>
   <!-- EN: New lovers -->
   <LetterLabelNewLovers>新しい恋人達</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
