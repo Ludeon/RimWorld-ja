@@ -179,6 +179,8 @@
   <LetterLabelRelicsCollected>収集されたレリック</LetterLabelRelicsCollected>
   <!-- EN: All relics belonging to {0} have been collected. The following people will be delighted -->
   <LetterTextRelicsCollected>{0}に属する全てのレリックを収集しました.以下の人物が喜びます</LetterTextRelicsCollected>
+  <!-- EN: You have collected all the known relics of this world. The following people will be delighted -->
+  <LetterTextRelicsCollectedClassic>この世界の全ての既知のレリックを収集しました.以下の人物が喜びます</LetterTextRelicsCollectedClassic>
 
   <!-- Gauranlen tree connection -->
   <!-- EN: {TREE_label} connection -->

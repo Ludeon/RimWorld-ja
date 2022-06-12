@@ -9,8 +9,12 @@
   <ResetBinding>デフォルトに戻す</ResetBinding>
   <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>左クリックでキーを割り当て,右クリックでオプションを選択</BindingButtonToolTip>
+  <!-- EN: Click to bind this key or left trigger button for options -->
+  <BindingButtonToolTipController>クリックでキーを割り当て,左トリガーボタンでオプションを選択</BindingButtonToolTipController>
   <!-- EN: Press any key or Esc to cancel... -->
-  <PressAnyKeyOrEsc>設定したいキーを押します(中止するにはESCキー)</PressAnyKeyOrEsc>
+  <PressAnyKeyOrEsc>設定したいキーを押すか,Escキーでキャンセル...</PressAnyKeyOrEsc>
+  <!-- EN: Press any button or {Key:Cancel} to cancel... -->
+  <PressAnyKeyOrEscController>設定したいボタンを押すか,{Key:Cancel}ボタンでキャンセル...</PressAnyKeyOrEscController>
   <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>キー設定を上書き: {0}</KeyBindingOverwritten>
   

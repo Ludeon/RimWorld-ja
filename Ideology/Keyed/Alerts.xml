@@ -17,14 +17,10 @@
   <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
   <SlavesUnattendedDesc>何人かの奴隷はマップに一人でおり,周りに健常な入植者がいません.\n\n監視者のいないままにされた奴隷は,数日または数時間以内に反逆する可能性が非常に高いです.</SlavesUnattendedDesc>
 
-  <!-- EN: {0} expected -->
-  <RitualExpected>{0}の要求</RitualExpected>
   <!-- EN: {0} opportunity -->
   <RitualOpportunity>{0}の期間</RitualOpportunity>
-  <!-- EN: {0} expected for -->
-  <RitualExpectedFor>{0}の要求</RitualExpectedFor>
-  <!-- EN: {0} days: Ritual opportunity ends. -->
-  <RitualExpirationTime>{0}日: 儀式期間の終了</RitualExpirationTime>
+  <!-- EN: {0} opportunity for -->
+  <RitualOpportunityFor>{0}の期間</RitualOpportunityFor>
   <!-- EN: Expires in -->
   <RitualExpiresIn>期限切れまで残り</RitualExpiresIn>
   <!-- EN: Completing {RITUAL_labelDef} will have these effects -->
@@ -35,10 +31,6 @@
   <RitualRolesExplanation>以下の役割は{RITUAL_label}に含まれています:\n{1}</RitualRolesExplanation>
   <!-- EN: Click to jump to targets -->
   <RitualJumpToTargets>クリックしてターゲットにジャンプする</RitualJumpToTargets>
-  <!-- EN: Delaying {RITUAL_labelDef} will have following effects -->
-  <RitualObligationDelayEffects>{RITUAL_labelDef}が遅れると,以下の影響があります</RitualObligationDelayEffects>
-  <!-- EN: {0} days: {1} mood on all {2}s. -->
-  <RitualObligationDelayEffectDesc>{0}日: 全ての{2}の心情が{1}</RitualObligationDelayEffectDesc>
   <!-- EN: In order to perform {0} you need to fill these roles -->
   <RitualUnfilledRoles>{0}を実行するには以下の役割を満たす必要があります</RitualUnfilledRoles>
 
@@ -139,6 +131,11 @@
   <AlertSlaveRebellionLikelyMostRebellious>奴隷の反乱はおよそ{COMBINEDTIME}ごとに一回発生すると予想されます.各奴隷が反乱を起こす可能性はそれぞれ独立していますが,誰かが反逆した場合,同時に他の奴隷を連れて行くこともあるので注意してください.\n\n最も反乱を起こしやすい奴隷は{REBEL_labelShort}であり,{INDIVIDUALTIME}ごとにおよそ一回反乱を起こすことが予想されます.以下の要因が,彼らの反逆する頻度に影響を与えています:</AlertSlaveRebellionLikelyMostRebellious>
   
   <!-- UNUSED -->
+  <RitualExpected>{0}の要求</RitualExpected>
+  <RitualExpectedFor>{0}の要求</RitualExpectedFor>
+  <RitualExpirationTime>{0}日: 儀式期間の終了</RitualExpirationTime>
+  <RitualObligationDelayEffects>{RITUAL_labelDef}が遅れると,以下の影響があります</RitualObligationDelayEffects>
+  <RitualObligationDelayEffectDesc>{0}日: 全ての{2}の心情が{1}</RitualObligationDelayEffectDesc>
   <AlertNoRecentSlaughter>最近の屠殺がない</AlertNoRecentSlaughter>
   <AlertNoRecentSlaughterDesc>最近,大きな{0}家畜を屠殺していません.これは以下の思想で要求される要件です</AlertNoRecentSlaughterDesc>
   <BodySizeOrAbove>体格{0}サイズ以上</BodySizeOrAbove>

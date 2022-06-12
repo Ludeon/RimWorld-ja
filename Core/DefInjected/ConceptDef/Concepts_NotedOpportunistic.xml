@@ -19,7 +19,9 @@
   <!-- EN: Capturing -->
   <Capturing.label>捕獲する</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>敵は行動不能になりました.あなたは敵を捕虜にすることができます！\n\n捕虜にするには,入植者を選択し,次に捕虜にしたい行動不能になった敵を右クリックして 「捕獲」を選びます.\n\n捕獲には囚人用に設定された,特別なベッドも必要となります.</Capturing.helpText>
+  <Capturing.helpText>敵を生かしたまま行動不能にさせた場合,捕虜にすることができます.\n\n捕虜にするには,入植者を選択し,次に捕虜にしたい行動不能になった敵を右クリックして「捕獲」を選びます.\n\n捕獲には囚人用に設定された,特別なベッドも必要となります.</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>敵を生かしたまま行動不能にさせた場合,捕虜にすることができます.\n\n捕虜にするには,入植者を選択し,次に捕虜にしたい行動不能になった敵にカーソルを合わせて左トリガーボタンを押し「捕獲」を選びます.\n\n捕獲には囚人用に設定された,特別なベッドも必要となります.</Capturing.helpTextController>
   
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>ドア開閉速度</DoorOpenSpeed.label>
@@ -50,16 +52,22 @@
   <GroupGotoHereDragging.label>兵士の位置取り</GroupGotoHereDragging.label>
   <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
   <GroupGotoHereDragging.helpText>複数の徴兵された兵士を右クリックしてドラッグすることで,一列に並べることができます.\n\n横に広がってください,一か所に集まったターゲットは簡単に被弾します!</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>複数の徴兵された兵士を左トリガーボタンを押したままドラッグすることで,一列に並べることができます.\n\n横に広がってください,一か所に集まったターゲットは簡単に被弾します!</GroupGotoHereDragging.helpTextController>
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>トレーダーと接触する</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
   <InteractingWithTraders.helpText>キャラクターの頭の部分に(?)マークがついているトレーダーと会話ができます.\n\n入植者を選択し,そうした(?)マークのあるキャラクターを右クリックします.</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to his head. -->
+  <InteractingWithTraders.helpTextController>キャラクターの頭の部分に(?)マークがついているトレーダーと会話ができます.\n\n入植者を選択し,そうした(?)マークのあるキャラクターにカーソルを合わせて左トリガーボタンを押します.</InteractingWithTraders.helpTextController>
   
   <!-- EN: Using the comms console -->
   <OpeningComms.label>通信機を使う</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
-  <OpeningComms.helpText>通信機を使って通信させるには,入植者をクリックした後に,通信機を右クリックします.</OpeningComms.helpText>
+  <OpeningComms.helpText>通信機を使って通信させるには,入植者を選択した後に,通信機を右クリックします.</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>通信機を使って通信させるには,入植者を選択した後に,通信機にカーソルを合わせて左トリガーボタンを押します.</OpeningComms.helpTextController>
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>囚人タブ</PrisonerTab.label>
@@ -69,7 +77,9 @@
   <!-- EN: Order queueing -->
   <QueueOrders.label>命令キューに積む</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>入植者に命令を与えるときに,"シフトキー"を押していると,複数の命令をキューに積むことができます.</QueueOrders.helpText>
+  <QueueOrders.helpText>"シフトキー"を押したまま入植者に命令を与えることで,複数の命令をキューに積むことができます.これは,徴兵されていない入植者に仕事を与えるときにも機能します.</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>{Key:QueueOrder}ボタンを押したまま入植者に命令を与えることで,複数の命令をキューに積むことができます.これは,徴兵されていない入植者に仕事を与えるときにも機能します.</QueueOrders.helpTextController>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>キャラバン隊の再編成</ReformCaravan.label>
@@ -79,7 +89,9 @@
   <!-- EN: Rescuing -->
   <Rescuing.label>救出する</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>怪我した人を助けるには,健康な入植者を選択し,次に怪我人を右クリックして「救助」を選びます.\n\nもし入植者ではない人を救助しても,彼らが必ずしもあなたのコロニーに加わるとは限りません.彼らは手当てが済んだら,ただ出て行くのみでしょう.彼らを確実に仲間にしたければ,「捕獲」を選択して捕らえてから勧誘します.</Rescuing.helpText>
+  <Rescuing.helpText>怪我した人を助けるには,健康な入植者を選択し,次に怪我人を右クリックして「救助」を選びます.\n\nもし入植者ではない人を救助しても,彼らが必ずしもあなたのコロニーに加わるとは限りません.彼らは怪我が完治したら,ただ立ち去るかもしれません.彼らを確実に仲間にしたければ「捕獲」を選択し,捕らえてから勧誘してください.</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>怪我した人を助けるには,健康な入植者を選択し,次に怪我人にカーソルを合わせて左トリガーボタンを押し「救助」を選びます.\n\nもし入植者ではない人を救助しても,彼らが必ずしもあなたのコロニーに加わるとは限りません.彼らは怪我が完治したら,ただ立ち去るかもしれません.彼らを確実に仲間にしたければ「捕獲」を選択し,捕らえてから勧誘してください.</Rescuing.helpTextController>
   
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>何の植物を育てようか</SetGrowingZonePlant.label>
