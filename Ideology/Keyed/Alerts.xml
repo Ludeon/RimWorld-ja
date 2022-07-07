@@ -72,11 +72,11 @@
   <!-- EN: Ritual opportunity soon -->
   <AlertRitualComing>もうすぐ儀式の日</AlertRitualComing>
   <!-- EN: A ritual opportunity is coming soon for following rituals -->
-  <AlertRitualComingDesc>以下の儀式の機会が近々あります.</AlertRitualComingDesc>
+  <AlertRitualComingDesc>以下の儀式の機会が近々あります</AlertRitualComingDesc>
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
   <AlertRitualComingExtra>機会は{0}日後に期限切れとなり,毎年同じ日に再発生します.</AlertRitualComingExtra>
   <!-- EN: {0} on {1}, {2} left -->
-  <AlertRitualComingEntry>{0}({1},残り{2})</AlertRitualComingEntry>
+  <AlertRitualComingEntry>{0}({1}, 残り{2})</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
   <AlertAgeReversalDemandNear>年齢逆転の要求</AlertAgeReversalDemandNear>

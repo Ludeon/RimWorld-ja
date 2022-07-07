@@ -206,7 +206,7 @@
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>すでに{PAWN_nameDef}に接続されている</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
-  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}は最近接続が切断されました.{1}で再接続できます.</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}は最近接続が切断されました.{1}後に再接続できます.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>参加者ごとに{0}本の木材が必要です(合計{2}).現在{1}本の木材を持っています.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
@@ -469,7 +469,7 @@
   <!-- EN: The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}. -->
   <ConnectedPawnDesc>この{TREE_label}が接続している人物です.接続された人物が死亡した場合,{DURATION}の間別の人物に接続できなくなります.</ConnectedPawnDesc>
   <!-- EN: Connection torn. Can connect in {0}. -->
-  <ConnectionTorn>接続が切断されました.{0}で接続できます.</ConnectionTorn>
+  <ConnectionTorn>接続が切断されました.{0}後に再接続できます.</ConnectionTorn>
   <!-- EN: {PAWN_nameDef} is too far away -->
   <ConnectedPawnAway>{PAWN_nameDef}は遠すぎる</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
