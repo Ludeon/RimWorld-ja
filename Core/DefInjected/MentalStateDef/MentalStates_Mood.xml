@@ -118,9 +118,9 @@
   <Slaughterer.recoveryMessage>{0}は手当たりしだいに家畜を屠殺しなくなった.</Slaughterer.recoveryMessage>
   
   <!-- EN: tantrum -->
-  <Tantrum.label>癇癪持ち</Tantrum.label>
+  <Tantrum.label>癇癪</Tantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <Tantrum.baseInspectLine>精神状態: 癇癪持ち</Tantrum.baseInspectLine>
+  <Tantrum.baseInspectLine>精神状態: 癇癪</Tantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
   <Tantrum.beginLetter>{0}は癇癪を起こしました.\n\n[PAWN_pronoun]は,手当たり次第に家具,アイテム,建物を壊します.</Tantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
@@ -135,11 +135,11 @@
   <TargetedInsultingSpree.beginLetterLabel>侮辱・放言(人物)</TargetedInsultingSpree.beginLetterLabel>
   
   <!-- EN: tantrum -->
-  <TargetedTantrum.label>癇癪(人)</TargetedTantrum.label>
+  <TargetedTantrum.label>癇癪</TargetedTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <TargetedTantrum.baseInspectLine>精神状態: 癇癪持ち(人)</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.baseInspectLine>精神状態: 癇癪</TargetedTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
-  <TargetedTantrum.beginLetter>{0}は癇癪をおこした.\n\n[PAWN_pronoun]は{1}を叩こうとします.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetter>{0}は癇癪を起こしました.\n\n[PAWN_pronoun]は{1}を叩こうとします.</TargetedTantrum.beginLetter>
   <TargetedTantrum.beginLetterLabel>癇癪(人)</TargetedTantrum.beginLetterLabel>
   <!-- EN: {0} is no longer having a tantrum. -->
   <TargetedTantrum.recoveryMessage>{0}の癇癪は落ち着いた.</TargetedTantrum.recoveryMessage>

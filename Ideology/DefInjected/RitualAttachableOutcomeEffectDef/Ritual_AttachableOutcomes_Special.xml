@@ -4,42 +4,42 @@
   <!-- EN: discover ancient complex -->
   <DiscoverAncientComplex.label>古代遺跡の発見</DiscoverAncientComplex.label>
   <!-- EN: you will discover the location of an ancient complex nearby. -->
-  <DiscoverAncientComplex.effectDesc>近郊の古代遺跡を発見します.</DiscoverAncientComplex.effectDesc>
+  <DiscoverAncientComplex.effectDesc>近郊の古代遺跡を発見</DiscoverAncientComplex.effectDesc>
   <!-- EN: You've discovered the location of an ancient complex. -->
   <DiscoverAncientComplex.letterInfoText>古代遺跡を発見しました.</DiscoverAncientComplex.letterInfoText>
   
   <!-- EN: farm animals wander in -->
   <FarmAnimalsWanderIn.label>家畜が迷い込む</FarmAnimalsWanderIn.label>
   <!-- EN: a group of farm animals will be attracted and join the colony. -->
-  <FarmAnimalsWanderIn.effectDesc>引き寄せられた家畜の群れがコロニーに加わります.</FarmAnimalsWanderIn.effectDesc>
+  <FarmAnimalsWanderIn.effectDesc>家畜の群れが引き寄せられ加わる</FarmAnimalsWanderIn.effectDesc>
   <!-- EN: Curious farm animals have wandered in, attracted by the commotion. -->
   <FarmAnimalsWanderIn.letterInfoText>騒ぎに惹かれて,好奇心旺盛な家畜が彷徨って来ました.</FarmAnimalsWanderIn.letterInfoText>
   
   <!-- EN: gauranlen pod sprout -->
   <GauranlenTreePod.label>ガウランレンのさやが芽吹く</GauranlenTreePod.label>
   <!-- EN: a Gauranlen pod will sprout at a random location on the map, if it can. -->
-  <GauranlenTreePod.effectDesc>適切な空間があればガウランレンのさやがマップのどこかに芽吹きます.</GauranlenTreePod.effectDesc>
+  <GauranlenTreePod.effectDesc>ガウランレンのさやがどこかに芽吹く</GauranlenTreePod.effectDesc>
   <!-- EN: A Gauranlen pod sprouted nearby. -->
   <GauranlenTreePod.letterInfoText>ガウランレンのさやが近郊で芽吹きました.</GauranlenTreePod.letterInfoText>
   
   <!-- EN: insect jelly -->
   <InsectJellyTunnels.label>インセクトゼリー</InsectJellyTunnels.label>
   <!-- EN: insect jelly deposits will be deposited from underground. -->
-  <InsectJellyTunnels.effectDesc>インセクトゼリーが地下から積み上がります.</InsectJellyTunnels.effectDesc>
+  <InsectJellyTunnels.effectDesc>インセクトゼリーが地下から積み上がる</InsectJellyTunnels.effectDesc>
   <!-- EN: A giant insect colony underground has deposited some insect jelly. -->
   <InsectJellyTunnels.letterInfoText>地下の巨大な虫の巣窟がインセクトゼリーを堆積させました.</InsectJellyTunnels.letterInfoText>
   
   <!-- EN: nearby faction goodwill -->
   <NearbyFactionGoodwill.label>近郊の派閥の友好値</NearbyFactionGoodwill.label>
   <!-- EN: you will gain goodwill from the nearest faction base. -->
-  <NearbyFactionGoodwill.effectDesc>最も近い入植地の派閥から友好値を得られます.</NearbyFactionGoodwill.effectDesc>
+  <NearbyFactionGoodwill.effectDesc>最も近い入植地の派閥から友好値を得る</NearbyFactionGoodwill.effectDesc>
   <!-- EN: You gained {AMOUNT} goodwill with {FACTION_name}. -->
   <NearbyFactionGoodwill.letterInfoText>{FACTION_name}の友好値が{AMOUNT}上がりました.</NearbyFactionGoodwill.letterInfoText>
   
   <!-- EN: random recruit -->
   <RandomRecruit.label>ランダムな加入</RandomRecruit.label>
   <!-- EN: 50% chance of random recruit of the same ideoligion joining your colony. -->
-  <RandomRecruit.effectDesc>同じ思想を持つ人物が50%の確率でコロニーに加わります.</RandomRecruit.effectDesc>
+  <RandomRecruit.effectDesc>同じ信者が50%の確率でコロニーに参加</RandomRecruit.effectDesc>
   <!-- EN: A wanderer has arrived and wants to join your colony. -->
   <RandomRecruit.letterInfoText>放浪者がやって来てコロニーに加わりました.</RandomRecruit.letterInfoText>
   
