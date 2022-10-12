@@ -50,7 +50,7 @@
   <Psyfocus>サイフォーカス(念集中量)</Psyfocus>
   <!-- EN: Psyfocus -->
   <PsyfocusLabelGizmo>念集中量</PsyfocusLabelGizmo>
-  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
   <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される,特殊な精神組織です.サイフォーカスは時間と共に消失するため,定期的な瞑想によって再構築する必要があります.全てのサイフォーカスを失うと超能力が使えなくなりますが,他に深刻な影響はありません.\n\n高いサイフォーカスは高いレベルの能力の行使を可能としますが,サイフォーカスの自然消失量もまた増加します</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
@@ -158,8 +158,8 @@
   <RitualTargetAnimaTreeNoPawnsWithNatureFocus>瞑想のフォーカスタイプが自然の入植者がいません.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->
   <RitualTargetAnimaTreeNotEnoughAnimaGrass>少なくとも{0}本のアニマ草が必要です.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
-  <!-- EN: An anima tree. -->
-  <RitualTargetAnimaTreeInfo>アニマツリーです.</RitualTargetAnimaTreeInfo>
+  <!-- EN: an anima tree -->
+  <RitualTargetAnimaTreeInfo>アニマツリーです</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>サイリンクレベルが最大でない,瞑想のフォーカスタイプが自然の入植者である必要があります.</RitualTargetAnimaTreeMustBeCapableOfNature>
   <!-- EN: Must not be psychically deaf. -->
@@ -172,5 +172,8 @@
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>放つ熱がありません.</AbilityNoEntropyToDump>
+
+  <!-- EN: level {0} -->
+  <LevelNum>TODO</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameFull] is calling for help! [joiner_pronoun] is hiding from [hidingFrom]. [joiner_pronoun] wants to flee and join you at [map_definite].[joiner_relationInfo]\n\n[condDesc]\n\nDesperate to stay hidden, [joiner_nameDef] claims to be unable to tell you more about [joiner_objective]self.</li>
+    <li>questDescription->[introduction] named [joiner_nameFull] is calling for help! [joiner_pronoun] is hiding from [hidingFrom]. [joiner_pronoun] wants to flee and join you at [map_definite].[joiner_relationInfo]\n\n[condDesc]\n\nDesperate to stay hidden, [joiner_nameDef] claims to be unable to tell you more about [joiner_objective]self.</li>
     <li>hidingFrom(gameCondition==ToxicFallout)->a pack of starving wolves</li>
     <li>condDesc(gameCondition==ToxicFallout)->However, [joiner_nameDef] can only kill the wolves by setting fire to a massive toxic chemical dump nearby. [gameConditionDuration_duration] of toxic fallout will follow.</li>
     <li>hidingFrom(gameCondition==VolcanicWinter)->a gang of cannibals</li>
@@ -19,9 +19,11 @@
     <li>condDesc(gameCondition==PsychicDrone)->If [joiner_pronoun] joins you, the machine mind will blast [map_definite] with a [psychicDroneLevel]-level psychic drone for [gameConditionDuration_duration], reducing mood of all [psychicDroneGender]s.</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->a hostile machine persona whom [joiner_pronoun] recently awoke</li>
     <li>condDesc(gameCondition==PsychicSuppression)->If [joiner_pronoun] joins you, the persona will hit [map_definite] with psychic suppression waves for [gameConditionDuration_duration], reducing consciousness of all [psychicSuppressorGender]s.</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameFull]という人物が 助けを求めています！ [joiner_pronoun]は[hidingFrom]から身を隠しています.[joiner_pronoun]は亡命してあなたの[map_definite]に加わりたいようです.[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef]は,今は隠れるのに必死で,自分自身について詳しく説明している余裕がないと主張しています.</li>
+    <li>questDescription->[joiner_nameFull]という名の[introduction]が 助けを求めています！ [joiner_pronoun]は[hidingFrom]から身を隠しています.[joiner_pronoun]は亡命してあなたの[map_definite]に加わりたいようです.[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef]は,今は隠れるのに必死で,自分自身について詳しく説明している余裕がないと主張しています.</li>
     <li>hidingFrom(gameCondition==ToxicFallout)->餓狼の集団</li>
     <li>condDesc(gameCondition==ToxicFallout)->ただし[joiner_nameDef]は狼を撃退する最後の手段として付近のゴミ捨て場に火を放って毒物を拡散させるつもりです.[gameConditionDuration_duration]の期間,毒物の降下が続きます.</li>
     <li>hidingFrom(gameCondition==VolcanicWinter)->人食い集団</li>
@@ -38,6 +40,8 @@
     <li>condDesc(gameCondition==PsychicDrone)->[joiner_pronoun]が加入すると,機械知性はこの[map_definite]に向けて[psychicDroneLevel]レベルのサイコドローンを[gameConditionDuration_duration]の期間放ち,全ての[psychicDroneGender]の心情を低下させます.</li>
     <li>hidingFrom(gameCondition==PsychicSuppression)->[joiner_pronoun]に起動された敵対的な機械知性体</li>
     <li>condDesc(gameCondition==PsychicSuppression)->[joiner_pronoun]が加入すると,機械知性はこの[map_definite]に向けてサイコサプレッションフィールドを[gameConditionDuration_duration]の期間展開させ,全ての[psychicSuppressorGender]の意識を減少させます.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
+    <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
@@ -51,10 +55,14 @@
   </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says [joiner_pronoun] poisoned an underground insect colony, but now [joiner_pronoun] is soaked in insect pheromones and the bugs are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, (*Threat)an infestation of [hivesCount] hives(/Threat) will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says [joiner_pronoun] poisoned an underground insect colony, but now [joiner_pronoun] is soaked in insect pheromones and the bugs are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, (*Threat)an infestation of [hivesCount] hives(/Threat) will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました.[joiner_pronoun]が言うには,[joiner_pronoun]が地下の虫の巣窟を毒物で全滅させようとしたところ,逆に[joiner_pronoun]は警報フェロモンを浴びせかけられてしまいました.そのせいで[joiner_pronoun]は巨大な昆虫に追われています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,(*Threat)[hivesCount]匹の虫(/Threat)が[infestationDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>questDescription->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]が言うには,[joiner_pronoun]が地下の虫の巣窟を毒物で全滅させようとしたところ,逆に[joiner_pronoun]は警報フェロモンを浴びせかけられてしまいました.そのせいで[joiner_pronoun]は巨大な昆虫に追われています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,(*Threat)[hivesCount]匹の虫(/Threat)が[infestationDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
+    <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s infestation</li>
@@ -76,16 +84,20 @@
   <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n                  \n[joiner_nameDef]を追う昆虫がやって来た.</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
   
   <!-- EN:
-    <li>questDescription(animalCount==1)->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a manhunting [animalKind_label](/Threat) is hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_label] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription(animalCount==1)->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a manhunting [animalKind_label](/Threat) is hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_label] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
     <li>manhunterArrivalLetterEnd(animalCount==1)->The [animalKind_label] is chasing [joiner_nameDef].</li>
-    <li>questDescription(animalCount>=2)->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a pack of [animalCount] manhunting [animalKind_labelPlural](/Threat) are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_labelPlural] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription(animalCount>=2)->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a pack of [animalCount] manhunting [animalKind_labelPlural](/Threat) are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_labelPlural] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
     <li>manhunterArrivalLetterEnd(animalCount>=2)->The [animalKind_labelPlural] are chasing [joiner_nameDef].</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription(animalCount==1)->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)人狩りの[animalKind_label](/Threat)が[joiner_objective]を追跡しています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,[animalKind_label]の獣が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>questDescription(animalCount==1)->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)人狩りの[animalKind_label](/Threat)が[joiner_objective]を追跡しています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,[animalKind_label]の獣が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
     <li>manhunterArrivalLetterEnd(animalCount==1)->[animalKind_label]が[joiner_nameDef]を追跡している.</li>
-    <li>questDescription(animalCount>=2)->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)[animalCount]匹の人狩りの[animalKind_labelPlural]の群れ(/Threat)が[joiner_objective]追跡しています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,人狩り[animalKind_labelPlural]が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>questDescription(animalCount>=2)->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)[animalCount]匹の人狩りの[animalKind_labelPlural]の群れ(/Threat)が[joiner_objective]追跡しています！\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,人狩り[animalKind_labelPlural]が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
     <li>manhunterArrivalLetterEnd(animalCount>=2)->[animalKind_labelPlural]が[joiner_nameDef]を追跡している.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
+    <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(animalCount==1)->[joiner_nameDef]'s [animalKind_label]</li>
@@ -109,10 +121,14 @@
   <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
   
   <!-- EN:
-    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is begging to join you at [map_definite].[joiner_relationInfo]\n\nThere's some kind of threat following [joiner_nameDef], but [joiner_pronoun] is unwilling to say what it is or when it might follow. [joiner_pronoun] is also unwilling to tell you more about [joiner_objective]self.</li>
+    <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is begging to join you at [map_definite].[joiner_relationInfo]\n\nThere's some kind of threat following [joiner_nameDef], but [joiner_pronoun] is unwilling to say what it is or when it might follow. [joiner_pronoun] is also unwilling to tell you more about [joiner_objective]self.</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました.[joiner_pronoun]はあなたの[map_definite]に加えてほしいと懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]の後を何らかの脅威が追跡しているようですが,[joiner_pronoun]はそれが何なのか,いつから追跡されているのか話したがりません.また,[joiner_pronoun]は自分自身のことについても口を閉ざしています.</li>
+    <li>questDescription->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]はあなたの[map_definite]に加えてほしいと懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]の後を何らかの脅威が追跡しているようですが,[joiner_pronoun]はそれが何なのか,いつから追跡されているのか話したがりません.また,[joiner_pronoun]は自分自身のことについても口を閉ざしています.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
+    <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [problem]</li>
@@ -146,10 +162,14 @@
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>[joiner_nameDef]は[joiner_pronoun]が逃亡者であることを認めました.\n    \n[joiner_nameDef]が旅行中,[joiner_pronoun]は群れからはぐれた[animalKind_labelPlural]と遭遇しました.むしゃくしゃしていた[joiner_pronoun]は,[animalKind_labelPlural]を追い立てました.予想外なことに彼らは[joiner_objective]攻撃してきました.そして,彼らは[joiner_objective]ずっと追跡してきています.\n    \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
   
   <!-- EN:
-    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] admits [joiner_pronoun] profaned a peace ritual between [raid1/enemyFaction_name] and [raid2/enemyFaction_name]. Now they are both chasing [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], both [raid1/enemyFaction_name] and [raid2/enemyFaction_name] will raid you in [raidDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] admits [joiner_pronoun] profaned a peace ritual between [raid1/enemyFaction_name] and [raid2/enemyFaction_name]. Now they are both chasing [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], both [raid1/enemyFaction_name] and [raid2/enemyFaction_name] will raid you in [raidDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameDef]が付近から通信を送ってきました.[joiner_pronoun]は,自分が[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の和平交渉を妨害したと認めています.そして今,両陣営が揃って[joiner_objective]追っています！\n\n[joiner_pronoun]は安全のために[map_definite]に匿ってほしいと懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]の加入を認めれば,[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の両方が[raidDelayTicks_duration]後に襲撃をかけてくるでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>questDescription->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]は,自分が[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の和平交渉を妨害したと認めています.そして今,両陣営が揃って[joiner_objective]追っています！\n\n[joiner_pronoun]は安全のために[map_definite]に匿ってほしいと懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]の加入を認めれば,[raid1/enemyFaction_name]と[raid2/enemyFaction_name]の両方が[raidDelayTicks_duration]後に襲撃をかけてくるでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
+    <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s Many Friends</li>
@@ -169,7 +189,9 @@
   <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>{BASETEXT}\n                        \n[enemyFaction_pawnsPlural]が[../joiner_nameFull]に向かってくる.</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
   
   <!-- EN:
-    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameFull] is calling from nearby. [joiner_pronoun] is hiding from [threat]. [joiner_pronoun] wants to flee [joiner_possessive] hiding spot and join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_objective], [joinersEnemies] will set up a site nearby to harass you. [site/allSitePartsDescriptions]\n\nThe threat will remain until you go to destroy it.</li>
+    <li>questDescription->[introduction] named [joiner_nameFull] is calling from nearby. [joiner_pronoun] is hiding from [threat]. [joiner_pronoun] wants to flee [joiner_possessive] hiding spot and join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_objective], [joinersEnemies] will set up a site nearby to harass you. [site/allSitePartsDescriptions]\n\nThe threat will remain until you go to destroy it.</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
     <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_pawnsPlural] of [site/enemyFaction_name]</li>
     <li>threat(priority=1,site/MechCluster_exists==True)->mechanoids</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->mechanoids</li>
@@ -180,7 +202,9 @@
     <li>joinersEnemies->[joiner_possessive] enemies</li>
   -->
   <ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_age]歳の[joiner_title]である[joiner_nameFull]が付近から通信を送ってきました. [joiner_pronoun]は[threat]から隠れています.[joiner_pronoun]は自分の隠れ場所から離れ,あなたの[map_definite]に加わりたいようです.[joiner_relationInfo]\n\n[joiner_objective]受け入れた場合,[joinersEnemies]は付近に襲撃拠点を構えてあなたを悩ませるでしょう.この拠点は,[site/allSitePartsDescriptions]\n\n脅威は破壊するまで残ります.</li>
+    <li>questDescription->[joiner_nameFull]という名の[introduction]が付近から通信を送ってきました. [joiner_pronoun]は[threat]から隠れています.[joiner_pronoun]は自分の隠れ場所から離れ,あなたの[map_definite]に加わりたいようです.[joiner_relationInfo]\n\n[joiner_objective]受け入れた場合,[joinersEnemies]は付近に襲撃拠点を構えてあなたを悩ませるでしょう.この拠点は,[site/allSitePartsDescriptions]\n\n脅威は破壊するまで残ります.</li>
+    <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
+    <li>introduction->[joiner_age]歳の[joiner_title]</li>
     <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]の[site/enemyFaction_pawnsPlural]</li>
     <li>threat(priority=1,site/MechCluster_exists==True)->メカノイド</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>

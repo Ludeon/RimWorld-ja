@@ -33,7 +33,7 @@
   
   <!-- EN: mood -->
   <Mood.label>心情</Mood.label>
-  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
   <Mood.description>心情は,どのくらい幸せか,ストレスを受けているかを表しています.もし心情が低すぎると,精神崩壊を起こす恐れがあります.心情の低さによって数日程度部屋に引き籠るか,殺人鬼に変貌するかが決まります.</Mood.description>
   
   <!-- EN: outdoors -->
@@ -41,9 +41,9 @@
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
   <Outdoors.description>アウトドアは,屋内に閉じこもっていたくない欲求を表します.長い期間屋内に居ることで,特に地下に居ることで悪影響を受けます.空の下にいる時間を増やすことで,とりわけ屋外に居ると改善します.部屋の大きさは関係なく,その時々に外に居たい欲求です.外にいる時間が無いことは,地下拠点に住む者への重大な難問となります.</Outdoors.description>
   
-  <!-- EN: rest -->
+  <!-- EN: sleep -->
   <Rest.label>睡眠</Rest.label>
-  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
   <Rest.description>睡眠は,その生物が直近に摂った睡眠量です.ゼロになると,その場で眠り込んでしまいます.</Rest.description>
   
   <!-- EN: room size -->

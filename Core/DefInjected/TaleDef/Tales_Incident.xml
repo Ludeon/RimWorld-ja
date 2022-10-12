@@ -433,7 +433,7 @@
     <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals</li>
     <li>image->a herd of [Animal]s [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [Animal]s [circumstance_phrase]</li>
-    <li>image->a [huge] [Animal] [circumstance_phrase]</li>
+    <li>image->a [AdjectiveLarge] [Animal] [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] shadowy figures [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] shadowy quadrupeds [circumstance_phrase]</li>
     <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
@@ -460,7 +460,7 @@
     <li>tale_noun->[PAWN_nameDef]の[Community]が狂った野生動物に襲われる</li>
     <li>image->[circumstance_phrase][Animal]の群れの</li>
     <li>image->[circumstance_phrase][Quantity_adjphrase]匹の[Animal]の</li>
-    <li>image->[circumstance_phrase][huge][Animal]の</li>
+    <li>image->[circumstance_phrase][AdjectiveLarge][Animal]の</li>
     <li>image->[circumstance_phrase][Quantity_adjphrase]体の正体がはっきりしない影の</li>
     <li>image->[circumstance_phrase][Quantity_adjphrase]体の正体がはっきりしない四足動物の</li>
     <li>circumstance_phrase->[TerrainFeature]を越え進んでくる</li>
@@ -610,7 +610,7 @@
     <li>image->a swarm of [Mechanoid]s [circumstance_phrase]</li>
     <li>image->an army of [Mechanoid]s [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [Mechanoid]s [circumstance_phrase]</li>
-    <li>image->a [huge] [Mechanoid] [circumstance_phrase]</li>
+    <li>image->a [AdjectiveLarge] [Mechanoid] [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [Mechanoid] silhouettes [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [Mechanoid]s with glowing [Color] sensors [circumstance_phrase]</li>
     <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
@@ -642,7 +642,7 @@
     <li>image->[circumstance_phrase][mechanoid]の群れの</li>
     <li>image->[circumstance_phrase][mechanoid]の軍隊の</li>
     <li>image->[circumstance_phrase][Quantity_adjphrase]体の[mechanoid]達の</li>
-    <li>image->[circumstance_phrase][huge][mechanoid]の</li>
+    <li>image->[circumstance_phrase][AdjectiveLarge][mechanoid]の</li>
     <li>image->[circumstance_phrase],[Quantity_adjphrase]体の[mechanoid]のシルエットの</li>
     <li>image->[circumstance_phrase],[Quantity_adjphrase]個の[Color]色に光る[mechanoid]のセンサーの</li>
     <li>circumstance_phrase->[TerrainFeature]を越え進んでくる</li>

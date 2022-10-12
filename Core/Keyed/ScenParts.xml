@@ -6,8 +6,10 @@
   <!-- EN: Your faction will be a {0}. -->
   <ScenPart_PlayerFaction>あなたの派閥は "{0}" です.</ScenPart_PlayerFaction>
 
-  <!-- EN: Start with {0} people, chosen from {1}. -->
-  <ScenPart_StartWithPawns>ゲームを 総勢{1}人の中から {0}人を選んで始めます.</ScenPart_StartWithPawns>
+  <!-- EN: Start with 1 person. -->
+  <ScenPart_StartWithPawn>ゲームを1人で始めます.</ScenPart_StartWithPawn>
+  <!-- EN: Start with {0} people. -->
+  <ScenPart_StartWithPawns>ゲームを総勢{0}人で始めます.</ScenPart_StartWithPawns>
   <!-- EN: chosen from -->
   <ScenPart_StartWithPawns_OutOf>候補人数</ScenPart_StartWithPawns_OutOf>
   <!-- EN: random pet -->

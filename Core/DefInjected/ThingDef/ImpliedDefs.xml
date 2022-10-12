@@ -103,13 +103,13 @@
   <!-- EN: 電気スタンド(設計) -->
   <Blueprint_Install_StandingLamp.label>電気スタンド(移動先)</Blueprint_Install_StandingLamp.label>
   
-  <!-- EN: 電気スタンド(青)(設計) -->
+  <!-- UNUSED -->
   <Blueprint_Install_StandingLamp_Blue.label>電気スタンド(青)(移動先)</Blueprint_Install_StandingLamp_Blue.label>
   
-  <!-- EN: 電気スタンド(緑)(設計) -->
+  <!-- UNUSED -->
   <Blueprint_Install_StandingLamp_Green.label>電気スタンド(緑)(移動先)</Blueprint_Install_StandingLamp_Green.label>
   
-  <!-- EN: 電気スタンド(赤色)(設計) -->
+  <!-- UNUSED -->
   <Blueprint_Install_StandingLamp_Red.label>電気スタンド(赤色)(移動先)</Blueprint_Install_StandingLamp_Red.label>
   
   <!-- EN: スツール(設計) -->
@@ -211,9 +211,9 @@
   <Corpse_Lynx.description>ヤマネコの死骸です.</Corpse_Lynx.description>
   
   <!-- EN: 機械化ムカデの死骸 -->
-  <Corpse_Mech_Centipede.label>機械化ムカデ故障個体</Corpse_Mech_Centipede.label>
+  <Corpse_Mech_CentipedeBlaster.label>機械化ムカデ故障個体</Corpse_Mech_CentipedeBlaster.label>
   <!-- EN: 機械化ムカデの死骸です. -->
-  <Corpse_Mech_Centipede.description>機械化ムカデの故障個体です.</Corpse_Mech_Centipede.description>
+  <Corpse_Mech_CentipedeBlaster.description>機械化ムカデの故障個体です.</Corpse_Mech_CentipedeBlaster.description>
   
   <!-- EN: 機械化ランスの死骸 -->
   <Corpse_Mech_Lancer.label>機械化ランス故障個体</Corpse_Mech_Lancer.label>

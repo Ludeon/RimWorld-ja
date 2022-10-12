@@ -11,7 +11,7 @@
     <li>raidArrivedLetterLabel->Raid: [enemyFaction_name]</li>
     <li>raidArrivedLetterText->[enemyFaction_pawnsPlural] from the [enemyFaction_name] have arrived. They will attack the [asker_faction_pawnsPlural] who crashed at [map_definite].\n\nDefend the [asker_faction_pawnsPlural] until their rescue shuttle arrives in [rescueShuttleAfterRaidDelay_duration].</li>
     <li>rescueShuttleArrivedLetterLabel->Rescue shuttle arrived</li>
-    <li>rescueShuttleArrivedLetterText->The rescue shuttle has arrived to collect the [pawnLabelSingleOrPlural] who crashed landed. Make sure to have these people on the shuttle before it leaves in [rescueDelay_duration]:\n\n[civilians]</li>
+    <li>rescueShuttleArrivedLetterText->The rescue shuttle has arrived to collect the [pawnLabelSingleOrPlural] who crashed landed. Make sure to have these people on the shuttle before it leaves in [leaveDelay_duration]:\n\n[civilians]</li>
     <li>questCompletedSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>
     <li>questCompletedSuccessLetterText->[commanderLandingDesc], has escaped. [asker_pronoun] is grateful for the help [asker_pronoun] received at [map_definite].\n\n[successLetterEndingCommon]</li>
     <li>questCompletedCiviliansLostSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>
@@ -35,7 +35,7 @@
     <li>raidArrivedLetterLabel->襲撃: [enemyFaction_name]</li>
     <li>raidArrivedLetterText->[enemyFaction_name]の[enemyFaction_pawnsPlural]が到着しました.彼らは,[map_definite]にいる不時着した[asker_faction_pawnsPlural]を攻撃するつもりです.\n\n救助用シャトルが到着するまでの[rescueShuttleAfterRaidDelay_duration], [asker_faction_pawnsPlural]を守ってください.</li>
     <li>rescueShuttleArrivedLetterLabel->救助用シャトルが到着</li>
-    <li>rescueShuttleArrivedLetterText->不時着した[pawnLabelSingleOrPlural]を回収するために救助用シャトルが到着しました.[rescueDelay_duration]後に出発する前に, 以下の人物をシャトルに乗せてください:\n\n[civilians]</li>
+    <li>rescueShuttleArrivedLetterText->不時着した[pawnLabelSingleOrPlural]を回収するために救助用シャトルが到着しました.[leaveDelay_duration]後に出発する前に, 以下の人物をシャトルに乗せてください:\n\n[civilians]</li>
     <li>questCompletedSuccessLetterLabel->クエスト完了: [resolvedQuestName]</li>
     <li>questCompletedSuccessLetterText->[commanderLandingDesc]は,脱出しました.[asker_pronoun]は,自身を受け入れた[map_definite]での援助に感謝しています.\n\n[successLetterEndingCommon]</li>
     <li>questCompletedCiviliansLostSuccessLetterLabel->クエスト完了: [resolvedQuestName]</li>
@@ -60,24 +60,28 @@
   <!-- EN:
     <li>pawnLabelSingleOrPlural(civilians_count==1)->[pawnLabel]</li>
     <li>pawnLabelSingleOrPlural(civilians_count>=2)->[pawnLabelPlural]</li>
-    <li>questDescription->A shuttle of [asker_faction_name] has taken damage and is seeking a place to land. Its commander [asker_nameDef] wants to land at [map_definite].\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack the crashed shuttle site in an attempt to kill its occupants. You must defend them.\n\nThe shuttle contains [asker_nameDef][andOtherCivilians] and [soldiers_count] [soldiers0_kind]s. The commander [andCivilians] must be rescued, but the [soldiers0_kind]s may be sacrificed.\n\nAfter [rescueDelay_duration], a rescue shuttle will come to pick up the survivors. You'll need to get them all on board within [leaveDelay_duration].</li>
+    <li>questDescription->A shuttle of [asker_faction_name] has taken damage and is seeking a place to land. Its commander [asker_nameDef] wants to land at [map_definite].\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack the crashed shuttle site in an attempt to kill its occupants. You must defend them.\n\nThe shuttle contains [asker_nameDef][andOtherCivilians] and [soldierCountKinds]. The commander [andCivilians] must be rescued, but the [soldiers0_kind]s may be sacrificed.\n\nAfter [rescueDelay_duration], a rescue shuttle will come to pick up the survivors. You'll need to get them all on board within [leaveDelay_duration].</li>
     <li>andOtherCivilians(civilians_count==1)-></li>
     <li>andOtherCivilians(civilians_count==2)->, another [pawnLabel],</li>
     <li>andOtherCivilians(civilians_count>=3)->, [civilianCountMinusOne] other [pawnLabelSingleOrPlural],</li>
     <li>andCivilians(civilians_count==1)-></li>
     <li>andCivilians(civilians_count==2)->and [pawnLabel]</li>
     <li>andCivilians(civilians_count>=3)->and [pawnLabelPlural]</li>
+    <li>soldierCountKinds(soldiers_count==1)->[soldiers_count] [soldiers0_kind]</li>
+    <li>soldierCountKinds(soldiers_count>1)->[soldiers_count] [soldiers0_kind]s</li>
   -->
   <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
     <li>pawnLabelSingleOrPlural(civilians_count==1)->[pawnLabel]</li>
     <li>pawnLabelSingleOrPlural(civilians_count>=2)->[pawnLabelPlural]</li>
-    <li>questDescription->[asker_faction_name]のシャトルが損傷し,着陸する場所を探しています. 指揮官である[asker_nameDef]は,[map_definite]に着陸したいと考えています.\n\n[enemyFaction_name]の[enemyFaction_pawnsPlural]が,乗組員を殺すためにシャトルの墜落した場所への攻撃を試みるでしょう.[asker_pronoun]らを守る必要があります.\n\nシャトルには[asker_nameDef]と[andOtherCivilians][soldiers_count]人の[soldiers0_kind]が乗っています.指揮官[andCivilians]は救出されなければなりませんが,[soldiers0_kind]は犠牲になることも考えられます.\n\n[rescueDelay_duration]後,救助用シャトルが生存者を回収しに来ます.[leaveDelay_duration]以内に,対象者全員を乗り込ませる必要があります.</li>
+    <li>questDescription->[asker_faction_name]のシャトルが損傷し,着陸する場所を探しています. 指揮官である[asker_nameDef]は,[map_definite]に着陸したいと考えています.\n\n[enemyFaction_name]の[enemyFaction_pawnsPlural]が,乗組員を殺すためにシャトルの墜落した場所への攻撃を試みるでしょう.[asker_pronoun]らを守る必要があります.\n\nシャトルには[asker_nameDef]と[andOtherCivilians][soldierCountKinds]が乗っています.指揮官[andCivilians]は救出されなければなりませんが,[soldiers0_kind]は犠牲になることも考えられます.\n\n[rescueDelay_duration]後,救助用シャトルが生存者を回収しに来ます.[leaveDelay_duration]以内に,対象者全員を乗り込ませる必要があります.</li>
     <li>andOtherCivilians(civilians_count==1)->,</li>
     <li>andOtherCivilians(civilians_count==2)->もう一人の[pawnLabel],そして</li>
     <li>andOtherCivilians(civilians_count>=3)->[civilianCountMinusOne]人の[pawnLabelSingleOrPlural],そして</li>
     <li>andCivilians(civilians_count==1)-></li>
     <li>andCivilians(civilians_count==2)->と[pawnLabel]</li>
     <li>andCivilians(civilians_count>=3)->と[pawnLabelPlural]</li>
+    <li>soldierCountKinds(soldiers_count==1)->[soldiers_count]人の[soldiers0_kind]</li>
+    <li>soldierCountKinds(soldiers_count>1)->[soldiers_count]人の[soldiers0_kind]達</li>
   </ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[shuttle] [crash]</li>

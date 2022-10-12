@@ -50,6 +50,8 @@
   <TabTransporterContents>積載物</TabTransporterContents>
   <!-- EN: Contents -->
   <TabCasketContents>収容者</TabCasketContents>
+  <!-- EN: Auto-cut -->
+  <TabWindTurbineAutoCut>TODO</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -122,6 +124,23 @@
   <ConsideredGuilty>有罪とする(有効期限: {0})</ConsideredGuilty>
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>有罪とする</ConsideredGuiltyNoTimer>
+  <!-- EN: Last resistance reduction -->
+  <LastRecruitment>TODO</LastRecruitment>
+  <!-- EN: How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited. -->
+  <LastRecruitmentDescription>TODO</LastRecruitmentDescription>
+  <!-- EN: Opinion of recruiter -->
+  <OpinionOfRecruiter>TODO</OpinionOfRecruiter>
+  <!-- EN: Recruiter negotiation ability -->
+  <RecruiterNegotiationAbility>TODO</RecruiterNegotiationAbility>
+  <!-- EN: Unwavering loyalty -->
+  <NonRecruitable>TODO</NonRecruitable>
+  <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
+  <NonRecruitableTip>TODO</NonRecruitableTip>
+  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
+  <NonRecruitableTipCannotConvert>TODO</NonRecruitableTipCannotConvert>
+
+
+
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -168,10 +187,10 @@
   <WontBleedOutSoon>出血が止まる</WontBleedOutSoon>
   <!-- EN: Overview -->
   <HealthOverview>概要</HealthOverview>
-  <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>手術中 ({0})</MedicalOperationsShort>
-  <!-- EN: Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>改造手術中 ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Operations -->
+  <MedicalOperationsShort>手術中</MedicalOperationsShort>
+  <!-- EN: Modifications -->
+  <MedicalOperationsMechanoidsShort>改造手術中</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>外科手術</MedicalOperations>
   <!-- EN: amputate -->
@@ -186,6 +205,8 @@
   <SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
   <HungerRate>空腹率</HungerRate>
+  <!-- EN: Food consumption -->
+  <FoodConsumption>TODO</FoodConsumption>
   <!-- EN: Tiredness -->
   <Tiredness>疲れ</Tiredness>
   <!-- EN: Pain -->
@@ -241,8 +262,6 @@
   <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
-  <!-- EN: (no relationships) -->
-  <NoRelationships>(無関係)</NoRelationships>
   <!-- EN: Kidnapped -->
   <Kidnapped>誘拐</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
@@ -253,10 +272,10 @@
   <Slave>奴隷</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>派閥のリーダー</FactionLeader>
-  <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>{1_labelShort}への評価</OpinionOf>
-  <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>{1_labelShort}がする 私への評価</SomeonesOpinionOfMe>
+  <!-- EN: Opinion of {0} -->
+  <OpinionOf>{0}への評価</OpinionOf>
+  <!-- EN: {0}'s opinion of me -->
+  <SomeonesOpinionOfMe>{0}がする 私への評価</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>私は死んだ</IAmDead>
   <!-- EN: I'm a psychopath -->
@@ -398,7 +417,13 @@
 
   <!-- EN: Pen is not enclosed -->
   <AutocutUnenclosedPen>ペンが閉じられてない</AutocutUnenclosedPen>
-  <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
+  <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
   <AutocutUnenclosedPenTip>ペンのある囲いが閉じられてないため,自動刈り取りは機能しません.</AutocutUnenclosedPenTip>
+
+  <!-- EN: Auto-cut plants blocking wind turbine -->
+  <WindTurbineAutoCut_EnabledCheckbox>TODO</WindTurbineAutoCut_EnabledCheckbox>
+
+  <!-- UNUSED -->
+  <NoRelationships>(無関係)</NoRelationships>
 
 </LanguageData>

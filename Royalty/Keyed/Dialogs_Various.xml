@@ -53,6 +53,14 @@
   <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
   <PsycastIsIllegal>{PAWN_labelShort}の装着は非合法です.{TITLE}の爵位が必要です.</PsycastIsIllegal>
 
+  <!-- Skip -->
+  <!-- EN: Cannot skip {PAWN_labelShort} -->
+  <CannotSkipTarget>TODO</CannotSkipTarget>
+  <!-- EN: Too large -->
+  <CannotSkipTargetTooLarge>TODO</CannotSkipTargetTooLarge>
+  <!-- EN: Psychic resistance -->
+  <CannotSkipTargetPsychicResistant>TODO</CannotSkipTargetPsychicResistant>
+
   <!-- Warning -->
   <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
   <QuestGivesRoyalFavor>このクエストでは,{FACTION_royalFavorLabel}を報酬として受け取るため,{PAWN_labelShort}の爵位に報酬を与えることになります.</QuestGivesRoyalFavor>

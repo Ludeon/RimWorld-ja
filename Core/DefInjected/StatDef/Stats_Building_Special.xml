@@ -6,6 +6,11 @@
   <!-- EN: How fast people sleeping on this gain rest. -->
   <BedRestEffectiveness.description>ここで寝ることで得られる,時間あたりに得られる睡眠量です.</BedRestEffectiveness.description>
   
+  <!-- EN: birth quality offset -->
+  <BirthRitualQualityOffset.label>TODO</BirthRitualQualityOffset.label>
+  <!-- EN: This alters the quality of a birth when this is used as a birth place. Birth quality affects the chance of the baby being born healthy. -->
+  <BirthRitualQualityOffset.description>TODO</BirthRitualQualityOffset.description>
+  
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>ドア開閉速度</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->

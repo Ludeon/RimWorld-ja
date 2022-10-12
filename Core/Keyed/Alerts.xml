@@ -72,8 +72,8 @@
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>武装する</HunterLacksWeapon>
-  <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
+  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.\n\nThe following colonists are assigned as hunters and need ranged weapons -->
+  <HunterLacksWeaponDesc>「狩猟」作業を与えられた入植者が遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.\n\n以下の入植者は狩人として割り当てられているため,遠距離武器が必要です</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
@@ -130,8 +130,12 @@
 
   <!-- EN: Need batteries -->
   <NeedBatteries>電気を貯める</NeedBatteries>
-  <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません.これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを1つないし2つ作りましょう.</NeedBatteriesDesc>
+  <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
+  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません.このままでは風が止まったり,太陽が沈んだときに電力を喪失するでしょう.\n\n継続して電力を保証するために,バッテリーを1つないし2つ作りましょう.</NeedBatteriesDesc>
+  <!-- EN: Build a battery or two to guarantee sustained power. -->
+  <NeedBatteriesResearchedDesc>TODO</NeedBatteriesResearchedDesc>
+  <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
+  <NeedBatteriesNotResearchedDesc>TODO</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>格闘家と遠隔武器</BrawlerHasRangedWeapon>
@@ -158,12 +162,12 @@
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
   <CaravanIdleDesc>次の目的地が設定されるのを,キャラバン隊が待っています:\n\n{0}</CaravanIdleDesc>
 
-  <!-- EN: Colonist needs treatment -->
+  <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
-  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>次の入植者は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な入植者を右クリックし,ベッドへ誘導してください)</ColonistNeedsTreatmentDesc>
-  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and press the left trigger button on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDescController>次の入植者は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な入植者にカーソルを合わせて左トリガーボタンを押し,ベッドへ誘導してください)</ColonistNeedsTreatmentDescController>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>以下の人物は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な人物を右クリックし,ベッドへ誘導してください)</ColonistNeedsTreatmentDesc>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDescController>以下の人物は治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初にベッドを選択し,医療用ベッドに切り替えます.そして治療が必要な人物にカーソルを合わせて左トリガーボタンを押し,ベッドへ誘導してください)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>低体温症</AlertHypothermia>
@@ -191,6 +195,16 @@
   <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
   <BilliardsNeedsSpaceDesc>あるビリヤード台に障害物が隣接しているため,入植者が使えません.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Chess table needs chairs -->
+  <ChessTablesNeedChairs>TODO</ChessTablesNeedChairs>
+  <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
+  <ChessTablesNeedChairsDesc>TODO</ChessTablesNeedChairsDesc>
+
+  <!-- EN: Poker table needs chairs -->
+  <PokerTablesNeedChairs>TODO</PokerTablesNeedChairs>
+  <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
+  <PokerTablesNeedChairsDesc>TODO</PokerTablesNeedChairsDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>狩人とシールド</HunterHasShieldAndRangedWeapon>
@@ -315,4 +329,9 @@
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
   <AlertMinifiedTreeAboutToDieDesc>{0}引き抜かれた木は1日以内に枯れます.これは何人かの入植者の信念によって不幸になるでしょう.</AlertMinifiedTreeAboutToDieDesc>
 
+  <!-- EN: Need research bench -->
+  <NeedResearchBench>TODO</NeedResearchBench>
+  <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
+  <NeedResearchBenchDesc>TODO</NeedResearchBenchDesc>
+  
 </LanguageData>

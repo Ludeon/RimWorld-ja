@@ -5,8 +5,6 @@
   <CustomizeIdeoligion>思想をカスタム</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
   <ChooseYourIdeoligion>思想を選択</ChooseYourIdeoligion>
-  <!-- EN: Random -->
-  <Random>ランダム</Random>
   <!-- EN: A random structure will be used for your ideoligion. -->
   <RandomStructureTip>ランダムな構造が思想に適用されます.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
@@ -23,7 +21,7 @@
   <LoadSaved>セーブを読込</LoadSaved>
   <!-- EN: Structure -->
   <Structure>構造</Structure>
-  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs. -->
   <ChooseYourIdeoligionDesc>最初の入植者は何を信じるべきですか?これらの信念は,ゲームプレイと見た目に影響を与えます.あなたは他の人をあなたの信念に改宗させたり,彼らの信念を譲り受けることができます.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>カスタム作成</CreateCustom>
@@ -101,8 +99,10 @@
   <Styles>スタイル</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>確率で戒律を覚える</ChanceToHavePrecept>
-  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
+  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
+  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色{ORIDEO}{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
+  <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
+  <OrIdeoColor>,もしくは{PAWN_possessive}持つ思想の色であると,</OrIdeoColor>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>思想の色に設定</SetIdeoColor>
   <!-- EN: Set to favorite color -->
@@ -153,6 +153,8 @@
   <MealKindMeat>肉を含む</MealKindMeat>
   <!-- EN: Acceptable food for everyone -->
   <MealKindAny>誰でも食べられる食べ物</MealKindAny>
+  <!-- EN: this outfit -->
+  <WearingDesiredApparelMulti>TODO</WearingDesiredApparelMulti>
 
   <!-- EN: Could not load ideoligion -->
   <UnableToLoadIdeoTitle>思想をロードできない</UnableToLoadIdeoTitle>
@@ -165,15 +167,15 @@
   <!-- EN: Precept {PRECEPT} is not allowed for non-player factions -->
   <UnableToLoadIdeoPreceptNotAllowed>戒律'{PRECEPT}'はプレイヤー以外の派閥には許可されていない</UnableToLoadIdeoPreceptNotAllowed>
 
-  <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
+  <!-- EN: Grave containing {PAWN_labelShort}'s corpse -->
   <RitualTargetGraveInfo>{PAWN_labelShort}の死体を納めた墓</RitualTargetGraveInfo>
-  <!-- EN: An empty grave to mourn {PAWN_labelShort}'s passing. -->
+  <!-- EN: Empty grave to mourn {PAWN_labelShort}'s passing -->
   <RitualTargetEmptyGraveInfo>{PAWN_labelShort}の死を悼むための空の墓</RitualTargetEmptyGraveInfo>
-  <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
+  <!-- EN: Grave containing {IDEO_memberNameIndef}'s corpse -->
   <RitualTargetGraveInfoAbstract>{IDEO_memberNameIndef}の死体を納めた墓</RitualTargetGraveInfoAbstract>
-  <!-- EN: A grave containing a corpse. -->
+  <!-- EN: Grave containing a corpse -->
   <RitualTargetGraveInfoAbstractNoIdeo>死体を納めた墓</RitualTargetGraveInfoAbstractNoIdeo>
-  <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
+  <!-- EN: Empty grave to mourn {IDEO_memberNameIndef}'s passing -->
   <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}の死を悼むための空の墓</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}の死体を最初に埋める必要がある</RitualTargetGraveInfoMustBeBuried>
@@ -183,8 +185,6 @@
   <RitualTargetGatherAltarOrRitualSpotInfo>祭壇か任意の儀式の場です.</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: Altar, ideogram or any ritual spot. -->
   <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>祭壇,イデオグラム,または任意の儀式の場です.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
-  <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>ライトボールやラウドスピーカーのスポットです.ライトボールとスピーカには電源が必要です.</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
   <RitualTargetLightBallIsNotPowered>ライトボールに電力が供給されてません.</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
@@ -197,26 +197,24 @@
   <RitualTargetNoDrum>太鼓のそばではありません.</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
   <RitualTargetNeedUnroofedCells>少なくとも{0}マスの屋根のないセルが近くに必要です.</RitualTargetNeedUnroofedCells>
-  <!-- EN: A lit campfire or ritual spot. -->
-  <RitualTargetCampfirePartyInfo>焚き火か儀式の場です.</RitualTargetCampfirePartyInfo>
-  <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>焚き火か儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
-  <!-- EN: An unconnected Gauranlen tree. -->
-  <RitualTargetUnconnectedGaruanlenTreeInfo>接続されてないガウランレンツリー.</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <!-- EN: a lit campfire -->
+  <RitualTargetCampfirePartyInfo>焚き火です.</RitualTargetCampfirePartyInfo>
+  <!-- EN: an unconnected Gauranlen tree -->
+  <RitualTargetUnconnectedGaruanlenTreeInfo>接続されてないガウランレンツリー</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>すでに{PAWN_nameDef}に接続されている</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
   <RitualTargetConnectionTornGauranlenTree>{TREE_definite}は最近接続が切断されました.{1}後に再接続できます.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>参加者ごとに{0}本の木材が必要です(合計{2}).現在{1}本の木材を持っています.</RitualTargeWoodInfo>
+  <!-- EN: {0} must be able to reach ritual target. -->
+  <RitualTargetUnreachable>TODO</RitualTargetUnreachable>
   <!-- EN: Accuse -->
   <Accuse>告発</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
   <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort}は思想的なスカリフィケーションを信じていないため,これを行われることを好まないでしょう.</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
   <RitualScarificationWarnWimp>{PAWN_labelShort}は弱虫であるため,スカリフィケーションを好みません.</RitualScarificationWarnWimp>
-  <!-- EN: {PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded. -->
-  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort}は思想的な盲目化を信じていないため,盲目にされることを好まないでしょう.</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
   <RitualBlindingWarnWimp>{PAWN_labelShort}は弱虫であるため,盲目にされることを好みません.</RitualBlindingWarnWimp>
   <!-- EN: Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}. -->
@@ -239,6 +237,8 @@
   
   <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
   <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>儀式の質の高さから,発展ポイントは{2}増加しました({0}から{1}へ変化).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <!-- EN: Can't award development points beyond {0}. -->
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
   <!-- EN: Due to the poor quality of the ritual, no development points were gained. -->
   <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>儀式の質が悪かったため,発展ポイントは得られませんでした.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
@@ -281,24 +281,12 @@
   <IdeoBuildingVariationOf>もとになる建築物</IdeoBuildingVariationOf>
   <!-- EN: Minimum expectations -->
   <IdeoBuildingMinimumExpectations>最低期待値</IdeoBuildingMinimumExpectations>
-  <!-- EN: size -->
-  <Size>サイズ</Size>
-  <!-- EN: cost -->
-  <Cost>コスト</Cost>
   <!-- EN: optional -->
   <Optional>任意</Optional>
   <!-- EN: expectations -->
   <Expectations>期待値</Expectations>
-  <!-- EN: Can start any time -->
-  <RitualStartAnyTime>いつでも開始可能</RitualStartAnyTime>
-  <!-- EN: Can start after event -->
-  <RitualStartEvent>イベント後に開始可能</RitualStartEvent>
-  <!-- EN: Focus objects -->
-  <RitualFocusObjects>焦点を当てるオブジェクト</RitualFocusObjects>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
   <RitualRepeatPenaltyTip>{0}日以内に儀式を繰り返すと質が低下します.前回の儀式から{1}日が経過しているため,現在の品質低下は{2}です.このペナルティは現在から{3}日後にゼロになります.</RitualRepeatPenaltyTip>
-  <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>参加する役割</RitualParticipatingRoles>
   <!-- EN: For best quality, start the {0} at {1}. -->
   <RitualOutcomeCompTip_RitualTargetDefsPart1>最高の品質を得るためには,{0}を{1}から開始してください.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
@@ -307,6 +295,8 @@
   <RitualDevelopmentPoints>発展ポイント</RitualDevelopmentPoints>
   <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
   <RitualDevelopmentPointsTip>この儀式を完了すると,品質に応じて{0}~{1}の発展ポイントを得られます.</RitualDevelopmentPointsTip>
+  <!-- EN: {0} needs to be powered. -->
+  <RitualOutcomeBlockedNoPower>TODO</RitualOutcomeBlockedNoPower>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>奴隷用</ForSlaveUse>
@@ -335,9 +325,9 @@
   <RoleRequirementLabelSameIdeo>{0}である必要</RoleRequirementLabelSameIdeo>
   <!-- EN: Must be {0} -->
   <RoleRequirementLabelSupremeGender>{0}である必要</RoleRequirementLabelSupremeGender>
+  <!-- EN: Cannot be child -->
+  <RoleRequirementCannotBe>TODO</RoleRequirementCannotBe>
 
-  <!-- EN: Disabled work -->
-  <RoleDisabledWorkLabel>行わなくなる仕事</RoleDisabledWorkLabel>
   <!-- EN: Abilities -->
   <RoleGrantedAbilitiesLabel>能力</RoleGrantedAbilitiesLabel>
   <!-- EN: Required apparel -->
@@ -648,8 +638,10 @@
   <BiosculpterHealCompletedMessage>{PAWN_labelShort}が回復サイクルを完了しました.</BiosculpterHealCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}は回復サイクルを完了し,{HEDIFF_label}が治療されました.</BiosculpterHealCompletedWithCureMessage>
-  <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}は年齢逆転サイクルを完了しました.{PAWN_pronoun}は{DEADLINE}日で次の年齢逆転を期待しています.</BiosculpterAgeReversalCompletedMessage>
+  <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. -->
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}は年齢逆転サイクルを完了しました.</BiosculpterAgeReversalCompletedMessage>
+  <!-- EN: {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
+  <AgeReversalExpectationDeadline>TODO</AgeReversalExpectationDeadline>
   <!-- EN: {PAWN_labelShort}'s pleasure cycle is complete. -->
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}の快楽サイクルは完了しました.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
@@ -669,7 +661,18 @@
   <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue? -->
   <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続行しますか?</BiosculpterNoCoditionsToHeal>
 
+  <!-- EN: basic -->
+  <Basic>TODO</Basic>
+  <!-- EN: Change the style this will be built in. This is purely visual and has no gameplay impact. -->
+  <ChangeStyleDesc>TODO</ChangeStyleDesc>
+  <!-- EN: No available styles. -->
+  <ChangeStyleDisabledNoCategories>TODO</ChangeStyleDisabledNoCategories>
+
   <!-- UNUSED -->
+  <RitualTargetLightBallInfo>ライトボールやラウドスピーカーのスポットです.ライトボールとスピーカには電源が必要です.</RitualTargetLightBallInfo>
+  <RitualTargetCampfireSkylanternsInfo>焚き火か儀式の場です.スポットには屋根がなく,そのエリアに少なくとも25マスの屋根のないセルが必要です.</RitualTargetCampfireSkylanternsInfo>
+  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort}は思想的な盲目化を信じていないため,盲目にされることを好まないでしょう.</RitualBlindingWarnNonBlindingIdeo>
+  <RoleDisabledWorkLabel>行わなくなる仕事</RoleDisabledWorkLabel>
   <DisablesPrecepts>戒律が使用不可</DisablesPrecepts>
   <DisablesPreceptsCount>{0}の戒律が使えなくなります.</DisablesPreceptsCount>
   <Customize>カスタム</Customize>

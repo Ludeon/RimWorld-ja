@@ -57,9 +57,9 @@
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>トレーダーと接触する</InteractingWithTraders.label>
-  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
   <InteractingWithTraders.helpText>キャラクターの頭の部分に(?)マークがついているトレーダーと会話ができます.\n\n入植者を選択し,そうした(?)マークのあるキャラクターを右クリックします.</InteractingWithTraders.helpText>
-  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to his head. -->
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
   <InteractingWithTraders.helpTextController>キャラクターの頭の部分に(?)マークがついているトレーダーと会話ができます.\n\n入植者を選択し,そうした(?)マークのあるキャラクターにカーソルを合わせて左トリガーボタンを押します.</InteractingWithTraders.helpTextController>
   
   <!-- EN: Using the comms console -->
@@ -97,6 +97,11 @@
   <SetGrowingZonePlant.label>何の植物を育てようか</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
   <SetGrowingZonePlant.helpText>あなたは,農業ゾーンで,何の植物を育てるか設定することができます.あなたは樹木でさえ育てられるのです！\n\n農業ゾーンを選択し,「植物」ボタンをクリックします.</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>TODO</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>TODO</Shelves.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>シールドベルト</ShieldBelts.label>

@@ -21,4 +21,14 @@
   <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
   <ShipChunk.description>宇宙船の残骸です.この残骸は,制御を失った宇宙船が大気圏に突入したか,あるいは何らかの武器によって攻撃され,吹き飛ばされたようです.\n\n最近墜落したものであり,これを分解することで得られる有用な資源が,まだ含まれています.</ShipChunk.description>
   
+  <!-- EN: shuttle -->
+  <Shuttle.label>シャトル</Shuttle.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <Shuttle.description>地表と軌道間や,惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです.</Shuttle.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed.label>墜落したシャトル</ShuttleCrashed.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <ShuttleCrashed.description>地表と軌道間や,惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです.</ShuttleCrashed.description>
+  
 </LanguageData>

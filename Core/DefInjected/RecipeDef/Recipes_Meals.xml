@@ -5,6 +5,8 @@
   <CookMealFine.label>手の込んだ食事</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
   <CookMealFine.description>肉と野菜を組み合わせて,手の込んだ食事を調理します.</CookMealFine.description>
+  <!-- EN: protein -->
+  <CookMealFine.ingredients.0.filter.customSummary>TODO</CookMealFine.ingredients.0.filter.customSummary>
   <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>手の込んだ食事を調理中</CookMealFine.jobString>
   
@@ -19,6 +21,8 @@
   <CookMealFine_Veg.label>手の込んだ野菜料理</CookMealFine_Veg.label>
   <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
   <CookMealFine_Veg.description>野菜を組み合わせて,手の込んだ肉料理を調理します.</CookMealFine_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>TODO</CookMealFine_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian fine meal. -->
   <CookMealFine_Veg.jobString>手の込んだ野菜料理を調理中</CookMealFine_Veg.jobString>
   
@@ -26,6 +30,8 @@
   <CookMealFineBulk.label>手の込んだ食事 x4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
   <CookMealFineBulk.description>肉と野菜を組み合わせて,4つの手の込んだ食事を調理します.良い満足感を与えるために,いくつかの材料を無駄にしてしまいます.</CookMealFineBulk.description>
+  <!-- EN: protein -->
+  <CookMealFineBulk.ingredients.0.filter.customSummary>TODO</CookMealFineBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 fine meals. -->
   <CookMealFineBulk.jobString>4つの手の込んだ食事を調理中</CookMealFineBulk.jobString>
   
@@ -40,6 +46,8 @@
   <CookMealFineBulk_Veg.label>手の込んだ野菜料理 x4</CookMealFineBulk_Veg.label>
   <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealFineBulk_Veg.description>野菜を組み合わせて,4つの手の込んだ野菜料理を調理します.良い満足感を与えるために,いくつかの材料を無駄にしてしまいます.野菜だけでおいしい味を作り出すため,さらに非効率になります.</CookMealFineBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian fine meals. -->
   <CookMealFineBulk_Veg.jobString>4つの手の込んだ野菜料理を調理中</CookMealFineBulk_Veg.jobString>
   
@@ -47,6 +55,8 @@
   <CookMealLavish.label>豪華な食事</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
   <CookMealLavish.description>肉と野菜を組み合わせて,非常に手の込んだ食事を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.</CookMealLavish.description>
+  <!-- EN: protein -->
+  <CookMealLavish.ingredients.0.filter.customSummary>TODO</CookMealLavish.ingredients.0.filter.customSummary>
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>豪華な食事を調理中</CookMealLavish.jobString>
   
@@ -61,6 +71,8 @@
   <CookMealLavish_Veg.label>豪華な野菜料理</CookMealLavish_Veg.label>
   <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealLavish_Veg.description>野菜を組み合わせて,非常に手の込んだ野菜料理を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.野菜だけでおいしい味を作り出すため,さらに非効率になります.</CookMealLavish_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavish_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian lavish meal. -->
   <CookMealLavish_Veg.jobString>豪華な野菜料理を調理中</CookMealLavish_Veg.jobString>
   
@@ -68,6 +80,8 @@
   <CookMealLavishBulk.label>豪華な食事 x4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
   <CookMealLavishBulk.description>肉と野菜を組み合わせて,4つの非常に手の込んだ食事を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.</CookMealLavishBulk.description>
+  <!-- EN: protein -->
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 lavish meals. -->
   <CookMealLavishBulk.jobString>4つの豪華な食事を調理中</CookMealLavishBulk.jobString>
   
@@ -82,6 +96,8 @@
   <CookMealLavishBulk_Veg.label>豪華な野菜料理 x4</CookMealLavishBulk_Veg.label>
   <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealLavishBulk_Veg.description>野菜を組み合わせて,4つの非常に手の込んだ野菜料理を調理します.最高の食体験を与えるために,多くの材料を無駄にしてしまいます.野菜だけでおいしい味を作り出すため,さらに非効率になります.</CookMealLavishBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian lavish meals. -->
   <CookMealLavishBulk_Veg.jobString>4つの豪華な野菜料理を調理中</CookMealLavishBulk_Veg.jobString>
   
@@ -103,6 +119,8 @@
   <CookMealSurvival.label>非常用食品</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvival.description>肉と野菜を組み合わせて,非常用食品を作ります.多くの食材が保存工程で廃棄されます.</CookMealSurvival.description>
+  <!-- EN: protein -->
+  <CookMealSurvival.ingredients.0.filter.customSummary>TODO</CookMealSurvival.ingredients.0.filter.customSummary>
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>非常用食品を調理中</CookMealSurvival.jobString>
   
@@ -110,6 +128,8 @@
   <CookMealSurvivalBulk.label>非常用食品 x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvivalBulk.description>肉と野菜を組み合わせて,4つの非常用食品を作ります.多くの食材が保存工程で廃棄されます.</CookMealSurvivalBulk.description>
+  <!-- EN: protein -->
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>TODO</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 survival meals. -->
   <CookMealSurvivalBulk.jobString>4つの非常用食品を調理中</CookMealSurvivalBulk.jobString>
   

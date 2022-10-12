@@ -11,11 +11,6 @@
   <!-- EN: Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness. -->
   <Joyfuzz.description>超能力的に誘発された暖かさ,励まし,寛容さの感覚です.心情を改善しますが,否定的な刺激の欠如は軽度の知覚麻痺を引き起こし,意識を低下させます.</Joyfuzz.description>
   
-  <!-- EN: psylink -->
-  <PsychicAmplifier.label>サイリンク</PsychicAmplifier.label>
-  <!-- EN: An organic connection to a larger psychic field. This allows a person to use specific psychic powers that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
-  <PsychicAmplifier.description>より大きな精神領域を作り出すための,有機的な接続具です.これにより,学習した超能力を用いて,不可能と思える事象を現実に起こすことができます.\n\nサイリンクのレベルが高いほどより強力な能力を使用できます.レベルに関係なく,学習した能力以外は使えません.\n\nサイリンクは様々なソースから得ることができます.使い切りのサイリンク・ニューロフォーマーデバイスは,サイリンクを作り出すことができます.部族の人々は,特定の生命体と精神共有を得て,儀式を通してそれを高める方法を知っています.\n\n科学者は,サイリンクを脳内の物理現象として観測できていません.なぜなら意識的に調べようとすると,それは積極的に隠れてしまうからです.大方の意見としては,人間とアーキテクトの間に交渉や共感を介して結びつきが生まれ,その力を利用しているのだろうと考えられています.</PsychicAmplifier.description>
-  
   <!-- EN: psychic anesthesia -->
   <PsychicAnesthesia.label>精神的無感覚</PsychicAnesthesia.label>
   <!-- EN: Psychically-induced pain insensitivity. -->
@@ -44,8 +39,10 @@
   
   <!-- EN: neural heat -->
   <PsychicEntropy.label>ニューラルヒート</PsychicEntropy.label>
-  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
+  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which builds up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
   <PsychicEntropy.description>"熱"と称されていますがニューラルヒートは温度ではありません.超能力を使用した際に精神内に蓄積され,数秒から数分の間に発散するカオスな精神エネルギーの一種といえます.\n\nニューラルヒートが限界を超えると,一時的な精神崩壊や,サイコショックによる昏睡を引き起こす可能性があります.いずれも永続的なダメージはありません.</PsychicEntropy.description>
+  <!-- EN: Chaotic energy in the mind which builds up when using psychic powers. If pushed past normal limits, it may cause psychic breakdown and unconsciousness. -->
+  <PsychicEntropy.descriptionShort>TODO</PsychicEntropy.descriptionShort>
   <!-- EN: safe -->
   <PsychicEntropy.stages.safe.label>安定</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
@@ -74,8 +71,8 @@
   
   <!-- EN: psychic love -->
   <PsychicLove.label>恋愛欲求</PsychicLove.label>
-  <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
-  <PsychicLove.description>超能力によって誘発された恋愛的な欲求です.自分以外の誰かに対する評価を増加させ,恋愛的な進展や結婚の提案の可能性が上がる一方で,別れる可能性が低くなります.</PsychicLove.description>
+  <!-- EN: Psychically-induced adoration. This increases an individual's opinion of someone else, and between adults increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
+  <PsychicLove.description>超能力によって誘発された熱愛の気持ちです.自分以外の誰かに対する評価を増加させ,大人であれば恋愛的な進展や結婚の提案の可能性が上がる一方で,別れる可能性が低くなります.</PsychicLove.description>
   <!-- EN: for -->
   <PsychicLove.targetPrefix>対象: </PsychicLove.targetPrefix>
   

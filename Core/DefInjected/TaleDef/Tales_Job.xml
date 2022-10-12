@@ -319,8 +319,8 @@
     <li>tale_noun->[HUMAN_nameDef]'s taming of [ANIMAL_nameDef]</li>
     <li>image->[HUMAN_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
     <li>image->[HUMAN_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[HUMAN_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
     <li>circumstance_phrase->with great care and caution</li>
     <li>circumstance_phrase->with a smile</li>
     <li>circumstance_phrase->while exhausted but happy</li>
@@ -336,8 +336,8 @@
     <li>tale_noun->[ANIMAL_nameDef]に対する[HUMAN_nameDef]の手懐けの</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_phrase][ANIMAL_nameFull]を手懐ける</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_phrase][ANIMAL_nameFull]を一口分の食べ物で釣ろうとする</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]臆病な[ANIMAL_nameFull]に囁くように声をかける</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]野生の[ANIMAL_nameFull]をなだめる</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]臆病な[ANIMAL_label]に囁くように声をかける</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]野生の[ANIMAL_label]をなだめる</li>
     <li>circumstance_phrase->たくさんの注意と配慮をもって,</li>
     <li>circumstance_phrase->笑顔で</li>
     <li>circumstance_phrase->ヘトヘトになりつつも満足しながら,</li>

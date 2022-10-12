@@ -7,6 +7,8 @@
   <Apparel_PackBroadshield.description>使い捨ての携帯型低角シールド発生器です.地面に設置すると,弾丸を内からは通し,外からは弾く円形のシールドが生成されます.ユニットは,焼損するまでの短時間のみ持続するように設計されています.\n\n最先端技術を用いる多くの戦闘部隊は,適切なタイミングで設置されたシールドパックに命を預けます.</Apparel_PackBroadshield.description>
   <!-- EN: shield -->
   <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>シールド</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>TODO</Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>
   <!-- EN: deploy low-shield -->
   <Apparel_PackBroadshield.verbs.deploy_lowshield.label>低角シールドを設置</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
   
@@ -19,6 +21,8 @@
   <Apparel_PackJump.description>短距離飛行が可能な,一人用ロケットです.ジャンプパックにはハーネスとガイダンスアシスタントが統合されており,誰でも障害物を無視して高速で長距離を飛ぶことができます.数回使用した後は,燃料を補充する必要があります.\n\n宇宙技術を用いる一部の軍隊には,ジャンプパックを使用して障害物を無視し,敵に素早く接近する近接戦闘のスペシャリストがいます.</Apparel_PackJump.description>
   <!-- EN: jump -->
   <Apparel_PackJump.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_PackJump.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PackJump.comps.CompReloadable.cooldownGerund>TODO</Apparel_PackJump.comps.CompReloadable.cooldownGerund>
   <!-- EN: jump -->
   <Apparel_PackJump.verbs.jump.label>ジャンプする</Apparel_PackJump.verbs.jump.label>
   

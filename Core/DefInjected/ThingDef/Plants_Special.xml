@@ -1,14 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: burned tree -->
-  <BurnedTree.label>燃えた木</BurnedTree.label>
+  <!-- EN: burned stump -->
+  <BurnedTree.label>燃えた切り株</BurnedTree.label>
   <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
   <BurnedTree.description>燃え残った木の切り株です.見た目も悪く,使える部分も少ししか残っていません.</BurnedTree.description>
+  
+  <!-- EN: chopped stump -->
+  <ChoppedStump.label>TODO</ChoppedStump.label>
+  <!-- EN: A stump left behind after a tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump.description>TODO</ChoppedStump.description>
+  
+  <!-- EN: dye -->
+  <Dye.label>染料</Dye.label>
+  <!-- EN: Dye extracted from a tinctoria plant. It can be used to change the color of walls, buildings, and more. -->
+  <Dye.description>ティンクトリアから抽出された染料です.様々な色に変化させて衣服の染色に用います.</Dye.description>
   
   <!-- EN: ambrosia bush -->
   <Plant_Ambrosia.label>アンブロージアの低木</Plant_Ambrosia.label>
   <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
   <Plant_Ambrosia.description>アンブロージアフルーツが採れる珍しい野草です.アンブロージアフルーツは美味しくて,ドラッグのような"心情"を持ち上げる効果を生み出します.アンブロージアを栽培することはできないので,自然のアンブロージア林は非常に貴重です.\n\n珍しく,美しく,望まれるのかは,アンブロージアが古代ギリシャの神々の食べ物の名をとってつけたのかで,分かります.</Plant_Ambrosia.description>
+  
+  <!-- EN: tinctoria -->
+  <Plant_Tinctoria.label>ティンクトリア</Plant_Tinctoria.label>
+  <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more. -->
+  <Plant_Tinctoria.description>自己変異式の染料を分泌するように遺伝子改造された花のような植物です.様々な色に変化させて衣服の染色に用います.</Plant_Tinctoria.description>
+  
+  <!-- EN: smashed stump -->
+  <SmashedStump.label>TODO</SmashedStump.label>
+  <!-- EN: The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump.description>TODO</SmashedStump.description>
   
 </LanguageData>

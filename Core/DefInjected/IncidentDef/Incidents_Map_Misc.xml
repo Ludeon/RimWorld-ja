@@ -89,9 +89,9 @@
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>放浪の野蛮人</WildManWandersIn.label>
-  <!-- EN: {PAWN_kind} wanders in -->
-  <WildManWandersIn.letterLabel>放浪の野蛮人</WildManWandersIn.letterLabel>
-  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>野生動物と暮らす人間が,このエリアに彷徨って来ました.{PAWN_pronoun}は{0}と呼ばれています.\n\nあなたは{PAWN_objective}手懐けることができます.</WildManWandersIn.letterText>
+  <!-- EN: {0} wanders in -->
+  <WildManWandersIn.letterLabel>放浪する{0}</WildManWandersIn.letterLabel>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>野生動物と暮らす{1}が,このエリアに彷徨って来ました.{PAWN_pronoun}は{0}と呼ばれています.\n\nあなたは{PAWN_objective}手懐けることができます.</WildManWandersIn.letterText>
   
 </LanguageData>

@@ -7,6 +7,9 @@
   <!-- EN: drop pod (incoming) -->
   <DropPodIncoming.label>脱出ポッド(到着間近)</DropPodIncoming.label>
   
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncomingMechanoid.label>TODO</DropPodIncomingMechanoid.label>
+  
   <!-- EN: drop pod (leaving) -->
   <DropPodLeaving.label>脱出ポッド(leaving)</DropPodLeaving.label>
   
@@ -15,5 +18,8 @@
   
   <!-- EN: ship chunk (incoming) -->
   <ShipChunkIncoming.label>船の残骸(到着間近)</ShipChunkIncoming.label>
+  
+  <!-- EN: shuttle (crashing) -->
+  <ShuttleCrashing.label>シャトル (故障中)</ShuttleCrashing.label>
   
 </LanguageData>

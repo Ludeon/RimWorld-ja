@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: activating TargetA. -->
+  <ActivateThing.reportString>TODO</ActivateThing.reportString>
+  
   <!-- EN: applying TargetB. -->
   <ApplyTechprint.reportString>TargetBを適用中</ApplyTechprint.reportString>
   
@@ -12,6 +15,9 @@
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>消火中</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <Carried.reportString>TODO</Carried.reportString>
   
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>行動中</CastAbilityOnThing.reportString>
@@ -100,6 +106,9 @@
   <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>TargetAを運んでいる</HaulToTransporter.reportString>
   
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>TODO</IdleWhileDespawned.reportString>
+  
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>TargetAに着火中</Ignite.reportString>
   
@@ -132,6 +141,9 @@
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>TargetAを開封中</Open.reportString>
+  
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>TODO</PickupToHold.reportString>
   
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>TargetAを再装填中</RearmTurret.reportString>
@@ -175,8 +187,8 @@
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>TargetAと売買中</TradeWithPawn.reportString>
   
-  <!-- EN: triggering firefoam popper. -->
-  <TriggerFirefoamPopper.reportString>泡消火剤を作動中</TriggerFirefoamPopper.reportString>
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>TargetAを作動中</TriggerObject.reportString>
   
   <!-- EN: unloading TargetA. -->
   <UnloadInventory.reportString>TargetAを荷下ろししている</UnloadInventory.reportString>
@@ -204,6 +216,9 @@
   
   <!-- EN: standing. -->
   <Wait.reportString>ぼんやりしている</Wait.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>TODO</Wait_Asleep.reportString>
   
   <!-- EN: watching for targets. -->
   <Wait_Combat.reportString>対象を観察している</Wait_Combat.reportString>

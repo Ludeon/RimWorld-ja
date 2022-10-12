@@ -1,31 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: blue carpet -->
-  <CarpetBlue.label>青の絨毯</CarpetBlue.label>
-  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>涼しい青色の,つま先を包み込む豪華なカーペットです.</CarpetBlue.description>
-  
-  <!-- EN: cream carpet -->
-  <CarpetCream.label>クリーム色 絨毯</CarpetCream.label>
-  <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>魅力的なクリーム色のカーペットです.</CarpetCream.description>
-  
-  <!-- EN: dark carpet -->
-  <CarpetDark.label>シックな絨毯</CarpetDark.label>
-  <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>プロフェッショナルな質感の濃い灰色のカーペットです.</CarpetDark.description>
-  
-  <!-- EN: green carpet -->
-  <CarpetGreen.label>緑の絨毯</CarpetGreen.label>
-  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>自然な色合いの緑のカーペットです.大地の風格を持つ,洒落た色です.</CarpetGreen.description>
-  
-  <!-- EN: red carpet -->
-  <CarpetRed.label>赤の絨毯</CarpetRed.label>
-  <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>美しいバラ色の豪華なカーペットです.</CarpetRed.description>
-  
   <!-- EN: concrete -->
   <Concrete.label>コンクリート打ちっ放し</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
@@ -38,8 +13,8 @@
   
   <!-- EN: steel tile -->
   <MetalTile.label>鉄製タイル</MetalTile.label>
-  <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>宇宙船のような鉄製タイルです.これらは立派で,滑らかな表面は清潔度のボーナスが得られます.</MetalTile.description>
+  <!-- EN: Steel tiles, for that spaceship look. They are pretty, quick to clean, and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>宇宙船のような鉄製タイルです.このタイルは清潔で,掃除にかかる時間を減らし,医療現場で使用するための清潔さにボーナスを与えます.</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>コンクリ 舗装タイル</PavedTile.label>
@@ -48,13 +23,13 @@
   
   <!-- EN: silver tile -->
   <SilverTile.label>銀製タイル</SilverTile.label>
-  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
-  <SilverTile.description>未来的で気高い見た目の,銀製タイルは豪華な部屋にはピッタリです.清潔度のボーナスが得られます.</SilverTile.description>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>未来的で気高い見た目の,銀製タイルは豪華な部屋にはピッタリです.掃除にかかる時間を減らし,清潔度のボーナスが得られます.</SilverTile.description>
   
   <!-- EN: sterile tile -->
   <SterileTile.label>抗菌タイル</SterileTile.label>
-  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>清潔度を向上させる特性をもった抗菌タイルです.非常に清潔な部屋は,病院や研究室での成果を向上させます.このタイルは作るのにとても時間が掛かります.</SterileTile.description>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>清潔度を向上させる特性をもった抗菌タイルです.非常に清潔な部屋は,病院や研究室での成果を向上させます.このタイルは作るのにとても時間が掛かりますが,掃除にかかる時間が短縮されます.</SterileTile.description>
   
   <!-- EN: straw matting -->
   <StrawMatting.label>わらマット</StrawMatting.label>

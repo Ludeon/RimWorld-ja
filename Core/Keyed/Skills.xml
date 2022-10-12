@@ -1,26 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: level -->
-  <Level>レベル</Level>
-  <!-- EN: Progress to next level -->
-  <ProgressToNextLevel>次のレベルまで あと</ProgressToNextLevel>
+  <!-- EN: Skill level -->
+  <Level>スキルレベル</Level>
+  <!-- EN: Progress to next learned level -->
+  <ProgressToNextLevel>次の学習レベルまで あと</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>経験値</Experience>
   <!-- EN: Passion -->
   <Passion>情熱</Passion>
-  <!-- EN: None\n   -Learns {0} -->
-  <PassionNone>無し\n   -学習 {0}</PassionNone>
-  <!-- EN: Interested\n   -Learns {0} -->
-  <PassionMinor>興味\n   -学習 {0}</PassionMinor>
-  <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>熱心\n   -学習 {0}</PassionMajor>
+  <!-- EN: No passion -->
+  <PassionNone>情熱なし</PassionNone>
+  <!-- EN: Passion -->
+  <PassionMinor>情熱</PassionMinor>
+  <!-- EN: Burning passion -->
+  <PassionMajor>熱心な情熱</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>TODO</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>今日は最大限学んだ.({0}/{1},以降の学習速度係数 {2})</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>TODO</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>{0} レベルの 効果</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>最大</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>TODO</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>TODO</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>TODO</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>TODO</GeneLabelWithDesc>
 
   <!-- EN: Barely heard of it -->
   <Skill0>無謀</Skill0>

@@ -38,8 +38,8 @@
   
   <!-- EN: chaos skip -->
   <ChaosSkip.label>吹き飛ばし</ChaosSkip.label>
-  <!-- EN: Teleport the target to a random position near where he started. -->
-  <ChaosSkip.description>標的を現在地周囲のどこかにテレポートさせます.</ChaosSkip.description>
+  <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
+  <ChaosSkip.description>標的を現在地周囲のどこかにテレポートさせます.大きすぎるものはテレポートできません.</ChaosSkip.description>
   
   <!-- EN: chunk skip -->
   <Chunkskip.label>ブロックスキップ</Chunkskip.label>
@@ -53,7 +53,7 @@
   
   <!-- EN: farskip -->
   <Farskip.label>ファースキップ</Farskip.label>
-  <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
+  <!-- EN: Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
   <Farskip.description>超能力者を,近くに立っている人物と共に,離れた場所にいる味方の下にスキップします.惑星全体に人を送ることができますが,誘導ビーコンとして使用されることを受け入れる味方が対象地点にいる場合のみ機能します.スキップされた人は常に対象マップ上のランダムな味方の近くに出現します.</Farskip.description>
   
   <!-- EN: flashstorm -->
@@ -78,8 +78,8 @@
   
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>カオススキップ</MassChaosSkip.label>
-  <!-- EN: Skip everyone near a target point to a random location nearby. -->
-  <MassChaosSkip.description>標的地点付近の全員をランダムにテレポートさせます.</MassChaosSkip.description>
+  <!-- EN: Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported. -->
+  <MassChaosSkip.description>エリア内の全員をその周囲のランダムな位置にテレポートさせます.大きすぎるものはテレポートできません.</MassChaosSkip.description>
   
   <!-- EN: neuroquake -->
   <Neuroquake.label>ニューロクェイク</Neuroquake.label>
@@ -95,8 +95,8 @@
   
   <!-- EN: skip -->
   <Skip.label>スキップ</Skip.label>
-  <!-- EN: Teleport the target to a desired position not too far from his starting point. -->
-  <Skip.description>標的を現在地周囲の任意の地点にテレポートさせます.</Skip.description>
+  <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
+  <Skip.description>標的を現在地周囲の任意の地点にテレポートさせます.大きすぎるものはテレポートできません.</Skip.description>
   
   <!-- EN: smokepop -->
   <Smokepop.label>スモークポップ</Smokepop.label>
@@ -140,7 +140,7 @@
   
   <!-- EN: word of joy -->
   <WordOfJoy.label>喜びの言葉</WordOfJoy.label>
-  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in their mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
   <WordOfJoy.description>幸せで落ち着く言葉をかけると同時に,超能力的な暗示を使って対象者の精神にジョイファズのループを植え付けます.ジョイファズは,ターゲットの心情を改善するために,不安な考えや感覚を抑えます.ただし副作用として,意識が低下し,感覚や意思決定能力が鈍くなります.</WordOfJoy.description>
   
   <!-- EN: word of love -->
@@ -155,7 +155,7 @@
   
   <!-- EN: word of trust -->
   <WordOfTrust.label>信頼の言葉</WordOfTrust.label>
-  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit him. -->
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them. -->
   <WordOfTrust.description>囚人に言葉をかけると同時に,超能力的な暗示を使って勧誘への抵抗を減らします.囚人の抵抗を減らすことのみ可能で,囚人を勧誘することはできません.</WordOfTrust.description>
   
 </LanguageData>

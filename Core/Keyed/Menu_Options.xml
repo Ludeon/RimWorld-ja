@@ -1,15 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
   <Audiovisuals>画面・音声</Audiovisuals>
+  <!-- EN: Master volume -->
+  <MasterVolume>TODO</MasterVolume>
   <!-- EN: Game volume -->
   <GameVolume>効果音</GameVolume>
   <!-- EN: Music volume -->
   <MusicVolume>BGM</MusicVolume>
-  <!-- EN: Ambient volume -->
+  <!-- EN: Ambience volume -->
   <AmbientVolume>環境音</AmbientVolume>
+  <!-- EN: UI volume -->
+  <UIVolume>TODO</UIVolume>
+  <!-- EN: Affects all sounds. -->
+  <MasterVolumeTooltip>TODO</MasterVolumeTooltip>
+  <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
+  <GameVolumeTooltip>TODO</GameVolumeTooltip>
+  <!-- EN: Affects music. -->
+  <MusicVolumeTooltip>TODO</MusicVolumeTooltip>
+  <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
+  <AmbientVolumeTooltip>TODO</AmbientVolumeTooltip>
+  <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
+  <UIVolumeTooltip>TODO</UIVolumeTooltip>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>アンチ-エイリアス</Antialiasing>
 
@@ -20,18 +34,20 @@
   <PauseOnLoad>ロード時は一時停止</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>緊急メッセージ時に一時停止</PauseOnUrgentLetter>
-  <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>一時停止</AutomaticPauseModeSetting>
-  <!-- EN: Custom cursor -->
-  <CustomCursor>ゲーム用カーソル</CustomCursor>
-  <!-- EN: Hats shown only on game map -->
-  <HatsShownOnlyOnMap>ゲーム上のみ帽子表示</HatsShownOnlyOnMap>
+  <!-- EN: Pause on letter -->
+  <AutomaticPauseModeSetting>レター時に一時停止</AutomaticPauseModeSetting>
+  <!-- EN: Disable game-specific cursor -->
+  <CustomCursor>ゲーム用カーソルを無効化</CustomCursor>
+  <!-- EN: Hide hats on UI -->
+  <HatsShownOnlyOnMap>UI上の帽子を非表示</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
   <UIScale>UI 拡大率</UIScale>
   <!-- EN: Keyboard configuration -->
   <KeyboardConfig>キーボード設定</KeyboardConfig>
   <!-- EN: Controller configuration -->
   <ControllerConfig>コントローラー設定</ControllerConfig>
+  <!-- EN: Modify -->
+  <ModifyConfig>TODO</ModifyConfig>
   <!-- EN: Choose language -->
   <ChooseLanguage>言語</ChooseLanguage>
   <!-- EN: Reset learning helper -->
@@ -50,18 +66,26 @@
   <SimulateNotOwningRoyalty>Royaltyのない環境をシミュレートする</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
   <SimulateNotOwningIdeology>Ideologyのない環境をシミュレートする</SimulateNotOwningIdeology>
+  <!-- EN: Simulate not owning Biotech -->
+  <SimulateNotOwningBiotech>TODO</SimulateNotOwningBiotech>
   <!-- EN: Verbose logging -->
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
-  <!-- EN: Open save data folder -->
-  <OpenSaveGameDataFolder>データの格納フォルダ</OpenSaveGameDataFolder>
-  <!-- EN: Show save data location -->
-  <ShowSaveGameDataLocation>セーブデータのある位置を表示する</ShowSaveGameDataLocation>
-  <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>ログファイルの格納フォルダ</OpenLogFileFolder>
-  <!-- EN: Show log file location -->
-  <ShowLogFileLocation>ログファイルのある位置を表示する</ShowLogFileLocation>
-  <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>プレイヤーが作成したキャラクターが優先されます.このキャラクターはゲーム中に登場する可能性がより高くなります:</NamesYouWantToSee>
+  <!-- EN: Save data folder -->
+  <SaveGameDataFolder>セーブデータフォルダ</SaveGameDataFolder>
+  <!-- EN: Save data location -->
+  <SaveGameDataLocation>セーブデータのある位置を表示</SaveGameDataLocation>
+  <!-- EN: Log file folder -->
+  <LogFileFolder>ログファイルの格納フォルダ</LogFileFolder>
+  <!-- EN: Log file location -->
+  <LogFileLocation>ログファイルのある位置を表示</LogFileLocation>
+  <!-- EN: Open -->
+  <OpenFolder>TODO</OpenFolder>
+  <!-- EN: Show -->
+  <ShowFolder>TODO</ShowFolder>
+  <!-- EN: Preferred "Name in Game" characters -->
+  <NamesYouWantToSee>好きな"ゲーム内に登場するキャラクター名"</NamesYouWantToSee>
+  <!-- EN: These characters will be more likely to appear randomly during play. -->
+  <NamesYouWantToSeeSubText>このキャラクターはゲーム中に登場する可能性がより高くなります.</NamesYouWantToSeeSubText>
   <!-- EN: Add name -->
   <AddName>名前を追加</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -72,11 +96,13 @@
   <ChangeStoryteller>ストーリーテラー 選択</ChangeStoryteller>
   <!-- EN: Autosave interval -->
   <AutosaveInterval>自動保存間隔</AutosaveInterval>
-  <!-- EN: Temperature mode -->
-  <TemperatureMode>気候モード</TemperatureMode>
+  <!-- EN: The number of in game days between each auto save. -->
+  <AutosaveIntervalTooltip>TODO</AutosaveIntervalTooltip>
+  <!-- EN: Temperature unit -->
+  <TemperatureMode>気候ユニット</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>実時間を示す時計を表示する</ShowRealtimeClock>
-  <!-- EN: Disable tiny fonts -->
+  <!-- EN: Disable tiny font -->
   <DisableTinyText>小さなフォントを無効にする</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>コロニーの最大数: {0}</MaxNumberOfPlayerSettlements>
@@ -96,12 +122,20 @@
   <TextureCompression>テクスチャ圧縮</TextureCompression>
   <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
   <TextureCompression_Tooltip>テクスチャ圧縮をオフにすると,拡大時のテクスチャの見栄えが少し良くなりますが,より多くのビデオメモリが使用されます.余分なビデオメモリが沢山ある場合にのみ,これをオフにしてください.</TextureCompression_Tooltip>
+  <!-- EN: Smooth camera jumps -->
+  <SmoothCameraJumps>TODO</SmoothCameraJumps>
+  <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
+  <SmoothCameraJumpsDesc>TODO</SmoothCameraJumpsDesc>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
   <Resolution>解像度</Resolution>
   <!-- EN: Fullscreen -->
   <Fullscreen>フルスクリーン</Fullscreen>
+  <!-- EN: Borderless fullscreen -->
+  <BorderlessFullscreen>TODO</BorderlessFullscreen>
+  <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
+  <BorderlessFullscreenInstructions>TODO</BorderlessFullscreenInstructions>
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
@@ -110,17 +144,25 @@
   <NoConfigurableMods>設定可能なMODがロードされていません.</NoConfigurableMods>
   
   <!-- Options reset -->
-  <!-- EN: Restore to default settings -->
-  <RestoreToDefaultSettings>デフォルト設定に復元する</RestoreToDefaultSettings>
-  <!-- EN: Your options have been reset. The game will now restart automatically. -->
-  <ResetAndRestart>オプション設定はリセットされました.ゲームは自動的にリスタートするでしょう.</ResetAndRestart>
-  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>あなたの設定を全てデフォルトに戻しゲームをリスタートさせます.セーブしていない進行状況は全て失われますが!\n\nそれでも続けますか?</ResetAndRestartConfirmationDialog>
-  <!-- EN: Changing the texture compression option requires a restart. All unsaved progress will be lost!\n\nContinue? -->
-  <ChangedTextureCompressionRestart>テクスチャ圧縮のオプションを変更するには再起動が必要です.保存されていない進行状況は全て失われます!\n\n続行しますか?</ChangedTextureCompressionRestart>
+  <!-- EN: Restore all settings to default -->
+  <RestoreToDefaultSettingsLabel>すべての設定をデフォルトに戻す</RestoreToDefaultSettingsLabel>
+  <!-- EN: Restore defaults -->
+  <RestoreToDefaultSettings>デフォルトに戻す</RestoreToDefaultSettings>
+  <!-- EN: All settings have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>すべてのオプションがリセットされました.ゲームは自動的に再起動されます.</ResetAndRestart>
+  <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>設定を全てデフォルトに戻しゲームをリスタートさせます.セーブしていない進行状況は全て失われます.\n\nそれでも続けますか?</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
+  <ChangedTextureCompressionRestart>テクスチャ圧縮を変更するには再起動が必要です.保存されていない進行状況は失われます.\n\n続行しますか?</ChangedTextureCompressionRestart>
   
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>メニュー画面背景</SetBackgroundImage>
+
+  <!-- UNUSED -->
+  <OpenSaveGameDataFolder>データの格納フォルダ</OpenSaveGameDataFolder>
+  <ShowSaveGameDataLocation>セーブデータのある位置を表示する</ShowSaveGameDataLocation>
+  <OpenLogFileFolder>ログファイルの格納フォルダ</OpenLogFileFolder>
+  <ShowLogFileLocation>ログファイルのある位置を表示する</ShowLogFileLocation>
 
 </LanguageData>

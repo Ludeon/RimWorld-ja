@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a noble family's manor in the outer country. [PAWN_possessive] early years were full of lessons in horseback riding, politics, and religion.\n\n[PAWN_nameDef] and [PAWN_possessive] friends found many ways to break the rules and have fun in the fields and forests. -->
+  <CountryLordling92.baseDesc>[PAWN_nameDef]は郊外の地域の高貴な邸宅で育ちました.[PAWN_possessive]若い頃は,乗馬や政治,そして宗教の教育で占められていました.\n\n[PAWN_nameDef]と[PAWN_possessive]友人たちは,ルールを破り,野原や森で遊ぶための多くの方法を見つけました.</CountryLordling92.baseDesc>
+  <!-- EN: country lordling -->
+  <CountryLordling92.title>地方の小君主</CountryLordling92.title>
+  <!-- EN: country lady -->
+  <CountryLordling92.titleFemale>地方の公爵令嬢</CountryLordling92.titleFemale>
+  <!-- EN: field lord -->
+  <CountryLordling92.titleShort>地方小君主</CountryLordling92.titleShort>
+  <!-- EN: field lady -->
+  <CountryLordling92.titleShortFemale>地方令嬢</CountryLordling92.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s parents did not want another heir. Fearing a succession fight, they decided to neutralize [PAWN_objective] early.\n\nThey pampered [PAWN_nameDef] from birth, preventing [PAWN_objective] from developing the grit or knowledge necessary to be a threat to their favored son. [PAWN_nameDef] learned little more than how to manipulate the royal staff to get more food. -->
+  <PamperedLordling37.baseDesc>[PAWN_nameDef]の両親は継承者を望んでいませんでした.継承争いを恐れた両親は,早めに[PAWN_objective]継承者として相応しくない存在にすることに決めました.\n\n両親は[PAWN_nameDef]を生まれたときから甘やかし,自分の愛する子供が継承争いに巻き込まれてしまうレベルまで勇気や知識が育つことを阻止しました.[PAWN_nameDef]は,王室のスタッフをごまかしてより多くの食べ物を得る方法以外はほとんど学びませんでした.</PamperedLordling37.baseDesc>
+  <!-- EN: pampered lordling -->
+  <PamperedLordling37.title>甘やかされた小君主</PamperedLordling37.title>
+  <!-- EN: pampered princess -->
+  <PamperedLordling37.titleFemale>甘やかされた公爵令嬢</PamperedLordling37.titleFemale>
+  <!-- EN: pampered -->
+  <PamperedLordling37.titleShort>過保護</PamperedLordling37.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s family held their power base on a grand, ancient starship. Born and raised on the ship, [PAWN_nameDef] learned all about the rigors of shipboard life, and the politics and methods of interstellar battle and orbital invasion.\n\n[PAWN_pronoun] learned to feel most at home with strong walls close on all sides and the gentle hiss of atmosphere regulators. -->
+  <ShipboundLordling12.baseDesc>[PAWN_nameDef]の家族は,壮大な古代の宇宙船で権力基盤を握っていました.船で生まれ育った[PAWN_nameDef]は,船内での厳しい生活と政治,そして星間戦闘や軌道侵略の方法についてすべて学びました.\n\n[PAWN_pronoun]は四方がしっかりと閉ざされた壁や,大気調節装置の穏やかな動作音が最も心地よく感じることを学びました.</ShipboundLordling12.baseDesc>
+  <!-- EN: shipbound lordling -->
+  <ShipboundLordling12.title>船に縛られた小君主</ShipboundLordling12.title>
+  <!-- EN: shipbound lady -->
+  <ShipboundLordling12.titleFemale>船に縛られた公爵令嬢</ShipboundLordling12.titleFemale>
+  <!-- EN: ship lord -->
+  <ShipboundLordling12.titleShort>船君主</ShipboundLordling12.titleShort>
+  <!-- EN: ship lady -->
+  <ShipboundLordling12.titleShortFemale>船令嬢</ShipboundLordling12.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s noble family did not want [PAWN_objective], but could not afford to be seen directly assassinating [PAWN_objective] either. They attempted to get [PAWN_objective] killed by assigning [PAWN_objective] dangerous training without proper protection at too young an age.\n\nAgainst all odds, [PAWN_nameDef] survived the jousting contests, horsewar matches, riverrun competitions and warzones. In the end, it only made [PAWN_objective] stronger. -->
+  <UnwantedSurvivor67.baseDesc>[PAWN_nameDef]の貴族は[PAWN_objective]望んでいませんでしたが,[PAWN_objective]直接暗殺することはできませんでした. 貴族は,若すぎる年齢で適切な保護なしに[PAWN_objective]危険な任務に割り当てることにより,[PAWN_objective]殺そうとしました.\n\n馬上槍試合,競馬の試合,リバーランの大会,および戦場.すべての予想に反して,[PAWN_nameDef]は生き残りました. それらの試みは結果的に[PAWN_objective]精強にしただけに終わりました.</UnwantedSurvivor67.baseDesc>
+  <!-- EN: unwanted survivor -->
+  <UnwantedSurvivor67.title>望まれない生存者</UnwantedSurvivor67.title>
+  <!-- EN: survivor -->
+  <UnwantedSurvivor67.titleShort>生存者</UnwantedSurvivor67.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born to a royal house with a grand manor in a great city. [PAWN_pronoun] spent [PAWN_possessive] youth in lessons on politics.\n\nWhenever [PAWN_pronoun] could, [PAWN_pronoun] would escape with [PAWN_possessive] friends to explore the half-built substructure of the metropolis. -->
+  <UrbanLordling82.baseDesc>[PAWN_nameDef]は,大都市の壮大な邸宅の王室に生まれました.[PAWN_pronoun]は若い時代を政治の授業で過ごしました.\n\n[PAWN_pronoun]は機会があればいつでも友達と一緒に抜けだし,大都市の半分だけ完成した建物の下部構造を探検しました.</UrbanLordling82.baseDesc>
+  <!-- EN: urban lordling -->
+  <UrbanLordling82.title>都市の小君主</UrbanLordling82.title>
+  <!-- EN: urban lady -->
+  <UrbanLordling82.titleFemale>都市の公爵令嬢</UrbanLordling82.titleFemale>
+  <!-- EN: city lord -->
+  <UrbanLordling82.titleShort>町小君主</UrbanLordling82.titleShort>
+  <!-- EN: city lady -->
+  <UrbanLordling82.titleShortFemale>町令嬢</UrbanLordling82.titleShortFemale>
+  
+</LanguageData>

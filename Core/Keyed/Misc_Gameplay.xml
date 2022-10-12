@@ -24,6 +24,10 @@
   <Owners>所有者</Owners>
   <!-- EN: Assigned colonist -->
   <AssignedColonist>担当者</AssignedColonist>
+  <!-- EN: Uncomfortable room temperature -->
+  <BedUncomfortableTemperature>TODO</BedUncomfortableTemperature>
+  <!-- EN: Unsafe room temperature -->
+  <BedUnsafeTemperature>TODO</BedUnsafeTemperature>
   <!-- EN: Died on the {0} -->
   <DiedOn>{0}に死亡</DiedOn>
   <!-- EN: Nobody -->
@@ -258,8 +262,14 @@
   <DeterioratingUnroofed>屋根無し</DeterioratingUnroofed>
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>屋外</DeterioratingOutdoors>
-  <!-- EN: Deteriorating because of -->
+  <!-- EN: raining -->
+  <DeterioratingRaining>TODO</DeterioratingRaining> <!-- text_todo -->
+  <!-- EN: protected -->
+  <Protected>TODO</Protected>
+  <!-- EN: Deteriorating -->
   <DeterioratingBecauseOf>劣化中</DeterioratingBecauseOf>
+  <!-- EN: Will deteriorate in {0}. -->
+  <DeteriorateInDuration>TODO</DeteriorateInDuration>
   <!-- EN: Map -->
   <Map>地図</Map>
   <!-- EN: {0} until enemies arrive -->
@@ -270,10 +280,10 @@
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
   <BeautyHere>美しい...</BeautyHere>
-  <!-- EN: No power -->
+  <!-- EN: no power -->
   <NoPower>電力喪失</NoPower>
-  <!-- EN: Work speed penalty -->
-  <WorkSpeedPenalty>作業速度が低下</WorkSpeedPenalty>
+  <!-- EN: Work speed -->
+  <WorkSpeedPenalty>作業速度</WorkSpeedPenalty>
   <!-- EN: Disabled -->
   <DisabledCommand>無効</DisabledCommand>
   <!-- EN: Ready for launch. -->
@@ -330,6 +340,10 @@
   <SkillRequirements>必要スキル</SkillRequirements>
   <!-- EN: Products -->
   <Products>製品</Products>
+  <!-- EN: Requires -->
+  <Requires>TODO</Requires>
+  <!-- EN: {0}x any of -->
+  <NumAnyOf>TODO</NumAnyOf>
   <!-- EN: {0} of {1} -->
   <Relationship>{1}の{0}</Relationship>
   <!-- EN: Prisoner -->
@@ -448,8 +462,8 @@
   <ViewHyperlink>{0}を表示</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>爆発まで{0}日</DetonationCountdown>
-  <!-- EN: Large fire explosion if damaged -->
-  <ExplosionOnDamageWarning>被ダメージで大きな爆発火災</ExplosionOnDamageWarning>
+  <!-- EN: Large fire explosion if damaged. -->
+  <ExplosionOnDamageWarning>被ダメージで大きな爆発火災.</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>メカクラスター</MechCluster>
   <!-- EN: Spawning in {0} -->
@@ -530,6 +544,22 @@
   <ThoughtFoodEatenFood>食料</ThoughtFoodEatenFood>
   <!-- EN: Ingredients -->
   <ThoughtFoodEatenIngredients>原料</ThoughtFoodEatenIngredients>
+  <!-- EN: Shield pack -->
+  <ShieldInbuilt>TODO</ShieldInbuilt>
+  <!-- EN: Punctured - will explode soon. -->
+  <PuncturedWillExplode>TODO</PuncturedWillExplode>
+  <!-- EN: Click to open research window -->
+  <ClickToOpenResearchTab>TODO</ClickToOpenResearchTab>
+  <!-- EN: Target belongs to another faction. -->
+  <TargetBelongsToNPCFaction>TODO</TargetBelongsToNPCFaction>
+  <!-- EN: more -->
+  <MoreLower>TODO</MoreLower>
+  <!-- EN: Requires -->
+  <RequiredTechprintTip>TODO</RequiredTechprintTip>
+  <!-- EN: size -->
+  <Size>サイズ</Size>
+  <!-- EN: cost -->
+  <Cost>コスト</Cost>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -654,7 +684,54 @@
   <PenCapacityDesc>{ANIMALDEF_label}の収容能力</PenCapacityDesc>
   <!-- EN: Example animals -->
   <PenExampleAnimals>家畜の例</PenExampleAnimals>
+  <!-- EN: No exterior access - Animals cannot be moved in or out. -->
+  <NoExteriorAccess>TODO</NoExteriorAccess>
 
+  <!-- Cell Inspector -->
+  <!-- EN: Beauty -->
+  <Beauty_Label>TODO</Beauty_Label>
+  <!-- EN: Zone -->
+  <Zone_Label>TODO</Zone_Label>
+  <!-- EN: Roof -->
+  <Roof_Label>TODO</Roof_Label>
+  <!-- EN: Terrain -->
+  <Terrain_Label>TODO</Terrain_Label>
+  <!-- EN: Snow -->
+  <Snow_Label>TODO</Snow_Label>
+  <!-- EN: Walk speed -->
+  <WalkSpeed_Label>TODO</WalkSpeed_Label>
+  <!-- EN: Fertility -->
+  <Fertility_Label>TODO</Fertility_Label>
+  <!-- EN: Temperature -->
+  <Temperature_Label>TODO</Temperature_Label>
+  <!-- EN: Light level -->
+  <LightLevel_Label>TODO</LightLevel_Label>
+  <!-- EN: Biome -->
+  <Biome_Label>TODO</Biome_Label>
+  <!-- EN: Hilliness -->
+  <Hilliness_Label>TODO</Hilliness_Label>
+  <!-- EN: Road -->
+  <Road_Label>TODO</Road_Label>
+  <!-- EN: River -->
+  <River_Label>TODO</River_Label> <!-- text_todo -->
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty_Label>TODO</MovementDifficulty_Label>
+  <!-- EN: Pollution -->
+  <Pollution_Label>TODO</Pollution_Label>
+  <!-- EN: Filth -->
+  <Filth_Label>TODO</Filth_Label><!-- text_todo -->
+  
+  <!-- EN: Faction -->
+  <Faction_Label>TODO</Faction_Label>
+  <!-- EN: Relationship -->
+  <Relationship_Label>TODO</Relationship_Label>
+  <!-- EN: Colonists -->
+  <CaravanColonists_Label>TODO</CaravanColonists_Label>
+  <!-- EN: Status -->
+  <CaravanStatus_Label>TODO</CaravanStatus_Label>
+  <!-- EN: Time to destination -->
+  <CaravanTTD_Label>TODO</CaravanTTD_Label>
+  
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
@@ -669,15 +746,17 @@
   <ApparelPreventsShooting>{PAWN_nameDef}は{APPAREL_label}を身に着けているため,遠隔武器を使用できません</ApparelPreventsShooting>
 
   <!-- Snow -->
+  <!-- EN: Snow -->
+  <Snow>TODO</Snow>
   <!-- EN: No snow -->
   <SnowNone>積雪ゼロ</SnowNone>
-  <!-- EN: Snow (dusting) -->
+  <!-- EN: dusting -->
   <SnowDusting>粉雪</SnowDusting>
-  <!-- EN: Snow (thin) -->
+  <!-- EN: thin --><!--TODO-->
   <SnowThin>積雪(薄)</SnowThin>
-  <!-- EN: Snow (medium) -->
+  <!-- EN: medium --><!--TODO-->
   <SnowMedium>積雪</SnowMedium>
-  <!-- EN: Snow (thick) -->
+  <!-- EN: thick --><!--TODO-->
   <SnowThick>積雪(厚)</SnowThick>
 
   <!-- Turrets -->
@@ -695,6 +774,22 @@
   <ShellLoaded>装填済み: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>未装填</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>TODO</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>TODO</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>TODO</OrderActivationDesc>
+  <!-- EN: Must be activated by a colonist. -->
+  <MustBeActivatedByColonist>TODO</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>TODO</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>TODO</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>TODO</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>TODO</NoFuel>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
@@ -739,6 +834,10 @@
   <ReportExtinguishingFireOn>{TARGET_label}に点いた火を消している</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>死体を掘り出している</ReportDiggingUpCorpse>
+  <!-- EN: being carried by {0_labelShort}. -->
+  <CarriedBy>TODO</CarriedBy> 
+  <!-- EN: inside {0_labelShort}. -->
+  <InContainer>TODO</InContainer> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -821,8 +920,6 @@
   <PawnTitleDescWrap>{1}の{0}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
   <PawnMainDescUnderFactionedWrap>{1}の下の {0}</PawnMainDescUnderFactionedWrap>
-  <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{1}の下の {0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
@@ -857,6 +954,8 @@
   <State>ステータス</State>
   <!-- EN: stun -->
   <StunLower>麻痺</StunLower>
+  <!-- EN: Slowed by damage -->
+  <SlowedByDamage>TODO</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
@@ -907,7 +1006,7 @@
   <Indoors>室内温度</Indoors>
   <!-- EN: Unroofed -->
   <IndoorsUnroofed>室内温度(天井開放中)</IndoorsUnroofed>
-  <!-- EN: Outdoors -->
+  <!-- EN: outdoors -->
   <Outdoors>外気温</Outdoors>
 
   <!-- Rotting -->
@@ -916,7 +1015,7 @@
   <!-- EN: Rotting -->
   <RotStateRotting>腐敗</RotStateRotting>
   <!-- EN: Dessicated -->
-  <RotStateDessicated>乾燥</RotStateDessicated>
+  <RotStateDessicated>干乾びた</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
   <CurrentlyFrozen>冷凍(永久保存)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
@@ -939,6 +1038,12 @@
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>原料</Ingredients>
+  <!-- EN: The ingredients used to make this meal. -->
+  <IngredientsDesc>TODO</IngredientsDesc>
+  <!-- EN: Dietary type -->
+  <DietaryType>TODO</DietaryType>
+  <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
+  <DietaryTypeDesc>TODO</DietaryTypeDesc>
   <!-- EN: only stacks with similar meals -->
   <OnlyStacksWithCompatibleMeals>同種の食事とのみスタック</OnlyStacksWithCompatibleMeals>
 
@@ -961,6 +1066,10 @@
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <!-- EN: Mature. -->
   <Mature>十分成長しました</Mature>
+  <!-- EN: Average plant age -->
+  <AveragePlantAge>TODO</AveragePlantAge>
+  <!-- EN: Oldest plant age -->
+  <OldestPlantAge>TODO</OldestPlantAge>
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>成長期間</OutdoorGrowingPeriod>
   <!-- EN: Never -->
@@ -981,6 +1090,10 @@
   <HarvestGerund>を伐採,採取する</HarvestGerund>
   <!-- EN: cutting -->
   <CutGerund>を切り倒す,刈り取る</CutGerund>
+  <!-- EN: Cut all blight -->
+  <CutAllBlight>TODO</CutAllBlight>
+  <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
+  <CutAllBlightDesc>TODO</CutAllBlightDesc>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -1045,6 +1158,8 @@
   <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
   <ShowWorldFeaturesToggleButton>地形の名称表示 切り替え</ShowWorldFeaturesToggleButton>
+  <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
+  <ShowTemperatureOverlayToggleButton>TODO</ShowTemperatureOverlayToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
@@ -1301,6 +1416,8 @@
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>ラーニングヘルパー</LearningHelper>
+  <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
+  <LearningHelperTooltip>TODO</LearningHelperTooltip>
   <!-- EN: Mark as learned -->
   <MarkLearned>学習済みにする</MarkLearned>
   <!-- EN: Already learned -->
@@ -1377,8 +1494,8 @@
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>ニューラルヒート: {0} / {1}\n減少速度: {2}/秒 (0まで残り{3}秒)</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>減少速度: {0}/秒\n(0まで残り{1}秒)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>超能力を使用すると,ニューラルヒートが増加します.限界を超えると,長期的な神経衰弱を引き起こす可能性があります.\n\nニューラルヒートは時間の経過と共に,自然に放熱されます.このプロセスは,エルテック系の衣服の着用,もしくは痛みを感じることで加速させることができます.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
@@ -1387,7 +1504,7 @@
   <PawnTooltipPsychicEntropyLimit>ニューラルヒートの限界値を切り替えます.ヒートの限界を越えると,長期的な神経衰弱が起きる可能性があります.永続的なダメージは起こしません.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>サイフォーカス: {0}</PawnTooltipPsyfocus>
-
+  
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
@@ -1508,6 +1625,14 @@
   <RitualFinished>{0}が完了しました.</RitualFinished>
   <!-- EN: ends in {0} -->
   <RitualEndsIn>{0}で終わる</RitualEndsIn>
+  <!-- EN: Can start any time -->
+  <RitualStartAnyTime>いつでも開始可能</RitualStartAnyTime>
+  <!-- EN: Can start after event -->
+  <RitualStartEvent>イベント後に開始可能</RitualStartEvent>
+  <!-- EN: Focus objects -->
+  <RitualFocusObjects>焦点を当てるオブジェクト</RitualFocusObjects>
+  <!-- EN: Participating roles -->
+  <RitualParticipatingRoles>参加する役割</RitualParticipatingRoles>
   <!-- EN: Organizers -->
   <Organizers>主催者</Organizers>
   <!-- EN: Quality factors -->
@@ -1556,6 +1681,8 @@
   <AbilityDisabledNoCapacity>{0_labelShort}は{1}ができません.</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
   <RitualOutcomeExtraDesc_Mood>儀式の参加者は全員,{1}日間{0}の心情を得ます.</RitualOutcomeExtraDesc_Mood>
+  <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
+  <RitualOutcomeNoQuality>TODO</RitualOutcomeNoQuality>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>{RITUAL_labelDef}に参加する人を選んでください.</ChooseParticipants>
@@ -1589,6 +1716,10 @@
   <RitualPredictedOutcomeDescParticipantCount>参加者</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}の期待</RitualPredictedOutcomeDescPawnExpectations>
+  <!-- EN: Loved one present -->
+  <RitualOutcomeLovedOnePresentLabel>TODO</RitualOutcomeLovedOnePresentLabel>
+  <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
+  <RitualOutcomeLovedOnePresentTip>TODO</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
   <RitualOutcomeLabelAnyOfThese>これらのいずれか</RitualOutcomeLabelAnyOfThese>
@@ -1615,6 +1746,16 @@
   <ThingOf>次の{0}:</ThingOf>
   <!-- EN: {0} of {1} -->
   <ThingOfSource>{1}の{0}</ThingOfSource>
+  <!-- EN: {0} of {1} and {2} -->
+  <ThingOfTwoSources>TODO</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <!-- EN: blind smoke -->
+  <BlindSmoke>TODO</BlindSmoke>
+  <!-- EN: tox gas -->
+  <ToxGas>TODO</ToxGas>
+  <!-- EN: rot stink -->
+  <RotStink>TODO</RotStink>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
@@ -1627,5 +1768,36 @@
   <AbilityReadyLabel>アビリティ準備完了: {0}</AbilityReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
   <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています.</AbilityReadyText>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <AbilityDisabledInRitual>TODO</AbilityDisabledInRitual>
+  <!-- EN: Charges -->
+  <Charges>TODO</Charges>
+
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInMentalState>TODO</PawnIsInMentalState>
+
+  <!-- EN: Disabled work -->
+  <DisabledWorkLabel>TODO</DisabledWorkLabel>
+
+  <!-- Glowers -->
+  <!-- EN: change color -->
+  <GlowerChangeColor>TODO</GlowerChangeColor>
+  <!-- EN: Change the color of the light. -->
+  <GlowerChangeColorDescription>TODO</GlowerChangeColorDescription>
+  <!-- EN: You must research {0} to change light color. -->
+  <GlowerChangeColorNeedsResearch>TODO</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ShieldPersonalTip>TODO</ShieldPersonalTip>
+
+  <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
+  <UnrecruitableDesc>TODO</UnrecruitableDesc>
+
+  <!-- EN: Random -->
+  <Random>ランダム</Random>
+
+  <!-- UNUSED -->
+  <PawnMainDescTempFactionedWrap>{1}の下の {0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
 
 </LanguageData>

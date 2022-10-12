@@ -28,8 +28,8 @@
   
   <!-- EN: resurrector mech serum -->
   <MechSerumResurrector.label>リザレクトシーラム</MechSerumResurrector.label>
-  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->
-  <MechSerumResurrector.description>使い捨て大容量メカナイトを蘇生させる機能に特化させてあります.絶命後すぐに投与すれば,メカナイトは損傷した部位を修復し,肉体に生を呼び戻します.これらは常に成功するとは限りません - たまに,蘇生機能は脳にダメージ(盲目や進行性精神病)を与える恐れがあります.メカナイトを直ぐに投与すれば,成果もよくなります.たとえ死後,長い時間が経っていても,状態良く保存された身体は蘇生できます.</MechSerumResurrector.description>
+  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.\n\nThe resurrected also experience limited retrograde amnesia, forgetting some recent memories and social interactions. -->
+  <MechSerumResurrector.description>使い捨て大容量メカナイトを蘇生させる機能に特化させてあります.絶命後すぐに投与すれば,メカナイトは損傷した部位を修復し,肉体に生を呼び戻します.これらは常に成功するとは限りません - たまに,蘇生機能は脳にダメージ(盲目や進行性精神病)を与える恐れがあります.メカナイトを直ぐに投与すれば,成果もよくなります.たとえ死後,長い時間が経っていても,状態良く保存された身体は蘇生できます.\n\n復活した者は限定的な逆行性記憶障害を起こし,最近の記憶や社会的交流を忘れます.</MechSerumResurrector.description>
   <!-- EN: Use resurrector mech serum -->
   <MechSerumResurrector.comps.CompUsable.useLabel>リザレクトシーラムを使う</MechSerumResurrector.comps.CompUsable.useLabel>
   

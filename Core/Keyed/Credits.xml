@@ -4,25 +4,16 @@
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>A story generator by Tynan Sylvester</MainPageCredit>
 
-  <!-- EN: Developers -->
-  <Credits_Developers>Developers</Credits_Developers>
+  <!-- EN: Engineering -->
+  <Credits_Developers>Engineering</Credits_Developers>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
-  <!-- EN: Code -->
-  <Credit_Code>Code</Credit_Code>
   <!-- EN: Art -->
   <Credit_GameArt>Art</Credit_GameArt>
   <!-- EN: Menu art -->
   <Credit_MenuArt>Menu art</Credit_MenuArt>
-  <!-- EN: Additional code -->
-  <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
-  
-  <!-- EN: Additional development -->
-  <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
-
-  <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
-
+  <!-- EN: Additional engineering -->
+  <Credits_AdditionalDevelopment>Additional engineering</Credits_AdditionalDevelopment>
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
   <!-- EN: Community testers -->
@@ -39,19 +30,21 @@
   <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
   <!-- EN: Test lead -->
   <Credit_TestLead>Test lead</Credit_TestLead>
-
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
-  <!-- EN: Writer -->
-  <Credit_Writer>Writer</Credit_Writer>
-  <!-- EN: Translator -->
-  <Credit_Translator>Translator</Credit_Translator>
-  <!-- EN: Open source libraries -->
-  <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
-  <!-- EN: Noise generation -->
-  <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
-
   <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
+
+  <!-- UNUSED -->
+  <Credit_Code>Code</Credit_Code>
+  <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
+  <Credit_Writer>Writer</Credit_Writer>
+  <Credit_Translator>Translator</Credit_Translator>
+  <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
 
 </LanguageData>

@@ -19,16 +19,16 @@
 
   <!-- EN: {0} opportunity -->
   <RitualOpportunity>{0}の期間</RitualOpportunity>
-  <!-- EN: {0} opportunity for -->
-  <RitualOpportunityFor>{0}の期間</RitualOpportunityFor>
-  <!-- EN: Expires in -->
-  <RitualExpiresIn>期限切れまで残り</RitualExpiresIn>
-  <!-- EN: Completing {RITUAL_labelDef} will have these effects -->
-  <RitualCompletionEffects>{RITUAL_labelDef}を完了させると,以下の効果があります</RitualCompletionEffects>
+  <!-- EN: {0} opportunity for {1} -->
+  <RitualOpportunityFor>{1}の{0}の期間</RitualOpportunityFor>
+  <!-- EN: Expires in {0}, on {1}. -->
+  <RitualExpiresIn>{1}の期限切れまで残り{0}.</RitualExpiresIn>
+  <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
+  <RitualSingleTargetDesc>TODO</RitualSingleTargetDesc>
+  <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
+  <RitualMultiTargetDesc>TODO</RitualMultiTargetDesc>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
   <RitualTargetsExplanation>儀式を開始するには,フォーカスオブジェクトを選択し,「{RITUAL_label}を開始する」コマンドをクリックします.以下のフォーカスオブジェクトが有効です:\n{1}</RitualTargetsExplanation>
-  <!-- EN: Following roles have a part in {RITUAL_label}:\n{1} -->
-  <RitualRolesExplanation>以下の役割は{RITUAL_label}に含まれています:\n{1}</RitualRolesExplanation>
   <!-- EN: Click to jump to targets -->
   <RitualJumpToTargets>クリックしてターゲットにジャンプする</RitualJumpToTargets>
   <!-- EN: In order to perform {0} you need to fill these roles -->
@@ -75,8 +75,9 @@
   <AlertRitualComingDesc>以下の儀式の機会が近々あります</AlertRitualComingDesc>
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
   <AlertRitualComingExtra>機会は{0}日後に期限切れとなり,毎年同じ日に再発生します.</AlertRitualComingExtra>
-  <!-- EN: {0} on {1}, {2} left -->
-  <AlertRitualComingEntry>{0}({1}, 残り{2})</AlertRitualComingEntry>
+  <!-- EN: {0} on {1}, {2} before opportunity arises -->
+  <!--TODO--><!--実物を見て再翻訳-->
+  <AlertRitualComingEntry>{1}の{0},機会が生じる前の{2}</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
   <AlertAgeReversalDemandNear>年齢逆転の要求</AlertAgeReversalDemandNear>
@@ -131,6 +132,8 @@
   <AlertSlaveRebellionLikelyMostRebellious>奴隷の反乱はおよそ{COMBINEDTIME}ごとに一回発生すると予想されます.各奴隷が反乱を起こす可能性はそれぞれ独立していますが,誰かが反逆した場合,同時に他の奴隷を連れて行くこともあるので注意してください.\n\n最も反乱を起こしやすい奴隷は{REBEL_labelShort}であり,{INDIVIDUALTIME}ごとにおよそ一回反乱を起こすことが予想されます.以下の要因が,彼らの反逆する頻度に影響を与えています:</AlertSlaveRebellionLikelyMostRebellious>
   
   <!-- UNUSED -->
+  <RitualCompletionEffects>{RITUAL_labelDef}を完了させると,以下の効果があります</RitualCompletionEffects>
+  <RitualRolesExplanation>以下の役割は{RITUAL_label}に含まれています:\n{1}</RitualRolesExplanation>
   <RitualExpected>{0}の要求</RitualExpected>
   <RitualExpectedFor>{0}の要求</RitualExpectedFor>
   <RitualExpirationTime>{0}日: 儀式期間の終了</RitualExpirationTime>

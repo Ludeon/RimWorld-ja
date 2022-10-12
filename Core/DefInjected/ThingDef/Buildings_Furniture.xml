@@ -78,8 +78,13 @@
   
   <!-- EN: shelf -->
   <Shelf.label>ロッカー</Shelf.label>
-  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <Shelf.description>この中に保存されたアイテムは,ロッカーが外気に触れていても劣化しません.</Shelf.description>
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <Shelf.description>地べたに置くときと比べ3倍の収納力を誇るトリプルスタックロッカーです.中に保管されたアイテムは劣化せず,周囲の美しさに影響を与えません.\n\nロッカーのスペースが限られているため,塊,建築物,植物,大きな死骸を入れることができません.</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>TODO</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>TODO</ShelfSmall.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>寝床</SleepingSpot.label>
@@ -89,22 +94,7 @@
   <!-- EN: standing lamp -->
   <StandingLamp.label>電気スタンド</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>辺りを照らします.</StandingLamp.description>
-  
-  <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>電気スタンド(青)</StandingLamp_Blue.label>
-  <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>辺りを青く照らします.</StandingLamp_Blue.description>
-  
-  <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>電気スタンド(緑)</StandingLamp_Green.label>
-  <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>辺りを緑に照らします.</StandingLamp_Green.description>
-  
-  <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>電気スタンド(赤色)</StandingLamp_Red.label>
-  <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>辺りを赤く照らします.</StandingLamp_Red.description>
+  <StandingLamp.description>辺りを照らす電気スタンドランプです.人が快適に動き,仕事をするためには光が必要です.</StandingLamp.description>
   
   <!-- EN: stool -->
   <Stool.label>スツール</Stool.label>
