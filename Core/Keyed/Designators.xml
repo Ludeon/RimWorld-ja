@@ -102,13 +102,13 @@
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>入植者がこのゾーンの屋根を無視します.</DesignatorAreaIgnoreRoofExpandDesc>
 
-  <!-- EN: Expand snow clear area -->
+  <!-- EN: Snow removal area -->
   <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
-  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
+  <!-- EN: Create an area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します.</DesignatorAreaSnowClearExpandDesc>
-  <!-- EN: Clear snow clear Area -->
+  <!-- EN: Clear snow removal area -->
   <DesignatorAreaSnowClearClear>除雪ゾーン 取消</DesignatorAreaSnowClearClear>
-  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
+  <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します.もうそこを入植者は雪かきしません.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
@@ -187,6 +187,45 @@
   <DesignatorStudy>調べる</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
   <DesignatorStudyDesc>このオブジェクトを調べて,詳細を学びます.</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>建築物着色...</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>ティンクトリアから染料を収穫し,色を塗る壁や建築物を指定してください.特定の建築物のみ着色できます.</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>フロア着色...</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>ティンクトリアから染料を収穫し,色を塗るフロアを指定してください.特定のフロアのみ着色できます.</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>色を除去</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>色を塗った壁,建築物,フロアから色を取り除きます.</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>フロアを脱色する</DesignatorRemoveFloorPaint> <!-- text_todo -->
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>フロアから色を取り除きます.</DesignatorRemoveFloorPaintDesc> <!-- text_todo -->
+  <!-- EN: Paint -->
+  <Paint>ペンキ</Paint>
+  <!-- EN: Color -->
+  <Color>色</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>カラーピッカー</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>既存の色を取得</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>既存の建築物から色を取得します.</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>既存のカーペットから色を取得します.</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>着色された建築物を選択してください.</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>色のついたカーペットを選択してください.</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>拾う</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>色を取得</GrabbedColor>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->

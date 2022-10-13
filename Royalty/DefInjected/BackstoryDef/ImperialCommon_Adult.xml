@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots. -->
+  <Assembler69.baseDesc>[PAWN_nameDef]は工場の組立ラインに取り組み,ロボットの助けを借りて製品を組み立てました.</Assembler69.baseDesc>
+  <!-- EN: assembler -->
+  <Assembler69.title>ライン工</Assembler69.title>
+  <!-- EN: assembler -->
+  <Assembler69.titleShort>ライン工</Assembler69.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands. -->
+  <BalletDancer81.baseDesc>[PAWN_nameDef]は,伝統的なバレエ団のダンサーでした. [PAWN_pronoun]は古代の動きを習得し,数千人を楽しませました.</BalletDancer81.baseDesc>
+  <!-- EN: ballet dancer -->
+  <BalletDancer81.title>バレエダンサー</BalletDancer81.title>
+  <!-- EN: dancer -->
+  <BalletDancer81.titleShort>ダンサー</BalletDancer81.titleShort>
+  <!-- EN: ballerina -->
+  <BalletDancer81.titleShortFemale>バレリーナ</BalletDancer81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked on construction sites, building everyday structures according to [PAWN_possessive] boss' instructions. -->
+  <Builder96.baseDesc>[PAWN_nameDef]は建設現場で働き,[PAWN_possessive]ボスの指示に従って日常の構造物を構築しました.</Builder96.baseDesc>
+  <!-- EN: builder -->
+  <Builder96.title>土方</Builder96.title>
+  <!-- EN: builder -->
+  <Builder96.titleShort>土方</Builder96.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
+  <ChurchPsychic98.baseDesc>[PAWN_nameDef]は,帝国教会のサイキックスクールのサイキックです.\n\n[PAWN_nameDef]は,[PAWN_possessive]心を訓練して,人々の集合的な感情と印象を感知しました. それは帝国の精神に触れる方法でした. それはまた,思考の異端的な傾向を根絶する方法でもありました.</ChurchPsychic98.baseDesc>
+  <!-- EN: church psychic -->
+  <ChurchPsychic98.title>教会のサイキック</ChurchPsychic98.title>
+  <!-- EN: psychic -->
+  <ChurchPsychic98.titleShort>サイキック</ChurchPsychic98.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a very large office complex along with thousands of other suited drones.\n\nThe work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review. -->
+  <CorporateDrone10.baseDesc>[PAWN_nameDef]は,他の数千の適切なドローンと一緒に非常に大きなオフィスコンプレックスで働いていました.\n\n仕事自体は,終わりのない組織の骨の折れる仕事と無意味な会議で構成され,時折のパフォーマンスレビューによって中断されました.</CorporateDrone10.baseDesc>
+  <!-- EN: corporate drone -->
+  <CorporateDrone10.title>コーポレートドローン</CorporateDrone10.title>
+  <!-- EN: drone -->
+  <CorporateDrone10.titleShort>ドローン</CorporateDrone10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a fixer for an energy corporation. [PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.\n\nWhile violence was unusual, [PAWN_nameDef] stayed prepared for anything. -->
+  <CorporateFixer36.baseDesc>[PAWN_nameDef]はエネルギー企業のフィクサーでした. [PAWN_pronoun]作業には,いつ押すか,引くか,いつ後退するか,いつ打つかを知る必要があります. 仕事は[PAWN_possessive]自然な共感の欠如に適合しました.\n\n暴力は珍しいものでしたが,[PAWN_nameDef]は何に対しても準備を整えていました.</CorporateFixer36.baseDesc>
+  <!-- EN: corporate fixer -->
+  <CorporateFixer36.title>コーポレートフィクサー</CorporateFixer36.title>
+  <!-- EN: fixer -->
+  <CorporateFixer36.titleShort>フィクサー</CorporateFixer36.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was the head servant in a royal house.\n\n[PAWN_pronoun] managed the other servants to ensure the lord's will was done, even before the lord knew what it was. -->
+  <HeadButler50.baseDesc>[PAWN_nameDef]は王室の家来です.\n\n[PAWN_pronoun]は,主が何であるかを知る前であっても,主の意志が確実に果たされるように他の召使を管理しました.</HeadButler50.baseDesc>
+  <!-- EN: head butler -->
+  <HeadButler50.title>執事長</HeadButler50.title>
+  <!-- EN: butler -->
+  <HeadButler50.titleShort>執事長</HeadButler50.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house. -->
+  <HouseServant86.baseDesc>[PAWN_pronoun]が成人して間もなく,[PAWN_nameDef]は誘拐されて裕福な貴族に召使いとして売られました.\n\n[PAWN_pronoun]は主人の屋敷の台所や地下室について良く知るようになりましたが,外で仕事をすることは決してありませんでした.</HouseServant86.baseDesc>
+  <!-- EN: house servant -->
+  <HouseServant86.title>召使い</HouseServant86.title>
+  <!-- EN: servant -->
+  <HouseServant86.titleShort>召使い</HouseServant86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an inquisitor in the imperial church's anti-heresy school.\n\n[PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough. -->
+  <ImperialInquisitor53.baseDesc>[PAWN_nameDef]は,帝国教会の反異端派の審問官でした.\n\n[PAWN_nameDef]は,アート,音楽,コード,プライベートな会話など,どこにでもある正統でない考えを探しました. [PAWN_pronoun]は逸脱を発見すると,集団を罰するためにそれを暴露しました. また,[PAWN_pronoun]が十分に困難に見える場合,[PAWN_pronoun]は常に逸脱を見つけることができます.</ImperialInquisitor53.baseDesc>
+  <!-- EN: imperial inquisitor -->
+  <ImperialInquisitor53.title>帝国審問官</ImperialInquisitor53.title>
+  <!-- EN: inquisitor -->
+  <ImperialInquisitor53.titleShort>審問官</ImperialInquisitor53.titleShort>
+  <!-- EN: inquisitress -->
+  <ImperialInquisitor53.titleShortFemale>審問官</ImperialInquisitor53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a priest in the imperial church.\n\n[PAWN_pronoun] spent half [PAWN_possessive] time studying books to understand the relationship between God's aspects and the facets of [PAWN_possessive] society. The other half was spent preaching the evils of sloth and drink. -->
+  <ImperialPriest24.baseDesc>[PAWN_nameDef]は帝国教会の司祭でした.\n\n[PAWN_pronoun]は,[PAWN_possessive]の半分の時間を本の研究に費やし,神の側面と[PAWN_possessive]社会の側面との関係を理解しました. 残りの半分は,怠惰と飲酒の悪についての説教に費やされました.</ImperialPriest24.baseDesc>
+  <!-- EN: imperial priest -->
+  <ImperialPriest24.title>司祭</ImperialPriest24.title>
+  <!-- EN: priest -->
+  <ImperialPriest24.titleShort>司祭</ImperialPriest24.titleShort>
+  <!-- EN: priestess -->
+  <ImperialPriest24.titleShortFemale>女性司祭</ImperialPriest24.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.\n\n[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs. -->
+  <Mailman2.baseDesc>[PAWN_nameDef]は[PAWN_possessive]に割り当てられたルートで手紙を運びました.[PAWN_pronoun]は時々,お洒落な企業のオフィスや大邸宅に特別な小荷物を配達するために送られました.\n\n[PAWN_nameDef]は,怒っている犬を避け,撃退する術を身に着けました.</Mailman2.baseDesc>
+  <!-- EN: mailman -->
+  <Mailman2.title>郵便配達員</Mailman2.title>
+  <!-- EN: mail carrier -->
+  <Mailman2.titleFemale>郵便配達員</Mailman2.titleFemale>
+  <!-- EN: mailman -->
+  <Mailman2.titleShort>郵便配達員</Mailman2.titleShort>
+  <!-- EN: mailwoman -->
+  <Mailman2.titleShortFemale>郵便配達員</Mailman2.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] managed the royal menagerie of a powerful family at their estate.\n\n[PAWN_nameDef]'s job saw [PAWN_pronoun] feeding elephants, tranquilizing lions, and training birds to display their plumage to titled visitors. -->
+  <MenagerieKeeper1.baseDesc>[PAWN_nameDef]は,[PAWN_pronoun]らの財産で強力な家族の王室の動物園を管理しました.\n\n[PAWN_nameDef]の仕事では,[PAWN_pronoun]が象の餌やり,ライオンの鎮静,および鳥の訓練を行い,タイトルのある訪問者に羽を見せました.</MenagerieKeeper1.baseDesc>
+  <!-- EN: menagerie keeper -->
+  <MenagerieKeeper1.title>王室動物園の管理者</MenagerieKeeper1.title>
+  <!-- EN: zookeeper -->
+  <MenagerieKeeper1.titleShort>動物園管理者</MenagerieKeeper1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] crafted watches, medals, machined jewelry and other complex curios for royal patrons. -->
+  <OrnamentMaker56.baseDesc>[PAWN_nameDef]王室のパトロンのための細工された時計,メダル,機械加工された宝石,その他の複雑な骨董品を作成しました.</OrnamentMaker56.baseDesc>
+  <!-- EN: ornament maker -->
+  <OrnamentMaker56.title>彫金師</OrnamentMaker56.title>
+  <!-- EN: ornamenter -->
+  <OrnamentMaker56.titleShort>彫金師</OrnamentMaker56.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
+  <PlanetaryMiner64.baseDesc>[PAWN_nameDef]は,大手惑星鉱山会社のマイニングエンジニアでした. [PAWN_pronoun]の作業は,一度に[PAWN_objective]数週間地下に保持し,[PAWN_pronoun]は暗闇を高く評価するようになりました.</PlanetaryMiner64.baseDesc>
+  <!-- EN: planetary miner -->
+  <PlanetaryMiner64.title>惑星鉱山労働者</PlanetaryMiner64.title>
+  <!-- EN: miner -->
+  <PlanetaryMiner64.titleShort>惑星鉱山労働者</PlanetaryMiner64.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] made meals for [PAWN_possessive] aristocratic patrons.\n\nOnly the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self. -->
+  <RoyalCook18.baseDesc>[PAWN_nameDef]は[PAWN_possessive]貴族のパトロンの食事を作りました.\n\n最高の食物だけが許容されたので,[PAWN_nameDef]は新鮮なハーブと野菜を手に入れるために邸宅の敷地内に小さな庭を作る傾向がありました. [PAWN_pronoun]は食べ物[PAWN_objective]に恋をしました.</RoyalCook18.baseDesc>
+  <!-- EN: royal cook -->
+  <RoyalCook18.title>王室調理人</RoyalCook18.title>
+  <!-- EN: cook -->
+  <RoyalCook18.titleShort>調理人</RoyalCook18.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a massage artist for an extended royal house. [PAWN_pronoun] serviced many members of the royal family, and their guests.\n\n[PAWN_nameDef] occasionally offered something extra, if the lord or lady was in the mood. Advancing in this line of work meant having refined social skills. -->
+  <RoyalMasseuse43.baseDesc>[PAWN_nameDef]は,拡張された王室のマッサージアーティストでした. [PAWN_pronoun]は王室の多くのメンバーとそのゲストにサービスを提供しました.\n\n[PAWN_nameDef]は,主人または女性が気分がよければ,時々何か特別なものを提供しました. この仕事を進めることは,洗練された社会的スキルを持つことを意味しました.</RoyalMasseuse43.baseDesc>
+  <!-- EN: royal masseuse -->
+  <RoyalMasseuse43.title>貴族専門マッサージ師</RoyalMasseuse43.title>
+  <!-- EN: masseuse -->
+  <RoyalMasseuse43.titleShort>マッサージ師</RoyalMasseuse43.titleShort>
+  
+</LanguageData>

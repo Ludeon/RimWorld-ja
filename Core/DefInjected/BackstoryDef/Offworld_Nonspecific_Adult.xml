@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] travelled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
+  <Actor72.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]役者仲間と共に故郷の星を旅しながら,行く先々で満員の劇場を沸かせたり,観客たちを魅了したりしました.[PAWN_pronoun]は完璧主義で,小道具や衣装を自分自身で作り,誰かの用意したものを使うことはありませんでした.</Actor72.baseDesc>
+  <!-- EN: actor -->
+  <Actor72.title>俳優</Actor72.title>
+  <!-- EN: actor -->
+  <Actor72.titleShort>俳優</Actor72.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
+  <AnimalFarmer21.baseDesc>[PAWN_nameDef]は,肉や乳,卵,皮を提供するために,さまざまな家畜を飼育していました.</AnimalFarmer21.baseDesc>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.title>畜産農家</AnimalFarmer21.title>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.titleShort>畜産農家</AnimalFarmer21.titleShort>
+  
+  <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
+  <AsceticPriest84.baseDesc>沈黙の誓いの後,[PAWN_nameDef]は,一生を,静かに熟考することに捧げるために,穏やかな辺地の惑星にある修道院に加わりました.\n\n[PAWN_pronoun]は,庭で野菜を育てたり,修道院の地下室でチーズを作ったりする喜びを見つけました.</AsceticPriest84.baseDesc>
+  <!-- EN: ascetic priest -->
+  <AsceticPriest84.title>修得司祭</AsceticPriest84.title>
+  <!-- EN: priest -->
+  <AsceticPriest84.titleShort>司祭</AsceticPriest84.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
+  <Bartender62.baseDesc>[PAWN_nameDef]は,場末の宇宙ステーションでバーテンダーとして働いていました.仕事は必然的に,飲み物を混ぜる,礼儀正しくする,ぶんなぐる,そういう役割を必要としていました.</Bartender62.baseDesc>
+  <!-- EN: bartender -->
+  <Bartender62.title>バーテンダー</Bartender62.title>
+  <!-- EN: barkeep -->
+  <Bartender62.titleShort>バーテンダー</Bartender62.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
+  <Bodyguard58.baseDesc>Midworldで,[PAWN_nameDef]は,金を払ってくれた者を,危害を加える者から守る職業に従事していました.[PAWN_pronoun]は,多くの格闘術に長け,[PAWN_pronoun]の邪魔をする者には,無慈悲で容赦ないことが,良く知られていました.</Bodyguard58.baseDesc>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.title>ボディガード</Bodyguard58.title>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.titleShort>ボディガード</Bodyguard58.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
+  <CaveExplorer45.baseDesc>[PAWN_nameDef]は,貴重な鉱物を探して,暗い地下道やほとんど侵入できない隙間を精密に書き記して生計を立てていました.[PAWN_possessive]仕事は非常に危険でしたが,その分高い収入を得ていました.</CaveExplorer45.baseDesc>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.title>洞窟探検家</CaveExplorer45.title>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.titleShort>洞窟探検家</CaveExplorer45.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ran a high-class restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among kitchen workers for [PAWN_possessive] casual disdain for grunt work. -->
+  <Chef52.baseDesc>[PAWN_nameDef]は高級レストランを経営していました.[PAWN_pronoun]は常連客の間で創造的な料理の専門家として有名であり,キッチンスタッフの間で[PAWN_possessive]単調でつまらない仕事に対するちょっとした悪口を言われる存在として有名でした.</Chef52.baseDesc>
+  <!-- EN: chef -->
+  <Chef52.title>シェフ</Chef52.title>
+  <!-- EN: chef -->
+  <Chef52.titleShort>シェフ</Chef52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
+  <CivilServant2.baseDesc>[PAWN_nameDef]は,瀕死な政府の官僚組織の下っ端役人として働いていました.[PAWN_pronoun]は,複雑な書類を書き上げることや,所内での人間関係の駆け引きに精通しています.</CivilServant2.baseDesc>
+  <!-- EN: civil servant -->
+  <CivilServant2.title>公務員</CivilServant2.title>
+  <!-- EN: bureaucrat -->
+  <CivilServant2.titleShort>事務員</CivilServant2.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
+  <ConArtist80.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]人生において何も生み出していませんでした.けれども,[PAWN_pronoun]は,生まれつき自然に,他の人が物を与えてくれることを分かっていました.</ConArtist80.baseDesc>
+  <!-- EN: con artist -->
+  <ConArtist80.title>詐欺師</ConArtist80.title>
+  <!-- EN: con artist -->
+  <ConArtist80.titleShort>詐欺師</ConArtist80.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
+  <ConceptualArtist39.baseDesc>[PAWN_nameDef]は独創的な前衛芸術作品を作ることで,故郷の星の美術界では名を馳せていました.\n\n[PAWN_pronoun]が何を表現しようとしたのか確信できる者は誰もいませんでしたが,[PAWN_possessive]作品は蒐集家たちから高く評価されました.</ConceptualArtist39.baseDesc>
+  <!-- EN: conceptual artist -->
+  <ConceptualArtist39.title>前衛芸術家</ConceptualArtist39.title>
+  <!-- EN: artist -->
+  <ConceptualArtist39.titleShort>芸術家</ConceptualArtist39.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
+  <ConstructionEngineer32.baseDesc>[PAWN_nameDef]は,Midworldの大工でした.[PAWN_pronoun]は,事務所から大聖堂まで何でも,チームを率いて建築します.\n\n[PAWN_pronoun]は仕事が忙しく,外食ばかりしていたので,[PAWN_pronoun]は料理をしません.</ConstructionEngineer32.baseDesc>
+  <!-- EN: construction engineer -->
+  <ConstructionEngineer32.title>建築士</ConstructionEngineer32.title>
+  <!-- EN: builder -->
+  <ConstructionEngineer32.titleShort>大工</ConstructionEngineer32.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
+  <ContractMiner86.baseDesc>[PAWN_nameDef]は仕事から仕事へと渡り歩き,坑道を掘り進んだり露天掘りで,鉱物や古代の貴重品を掘り起こしていました.仕事は大変で汚いものでしたが,[PAWN_pronoun]はそれにやりがいを感じていました.</ContractMiner86.baseDesc>
+  <!-- EN: contract miner -->
+  <ContractMiner86.title>契約鉱山労働者</ContractMiner86.title>
+  <!-- EN: contract miner -->
+  <ContractMiner86.titleShort>鉱山労働者</ContractMiner86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
+  <CorporateManager76.baseDesc>[PAWN_nameDef]は大規模なオープンプランオフィスで働いており,[PAWN_possessive]に割り当てられた労働者のチームがほぼタスクにとどまるようにしました.\n\n仕事は非常に政治的なものでした. 前進するために,[PAWN_nameDef]は,[PAWN_pronoun]がほとんどすべての人が行った作業に貢献できるように,物事を整理する方法を学びました.</CorporateManager76.baseDesc>
+  <!-- EN: corporate manager -->
+  <CorporateManager76.title>コーポレートマネージャー</CorporateManager76.title>
+  <!-- EN: manager -->
+  <CorporateManager76.titleShort>マネージャー</CorporateManager76.titleShort>
+  
+  <!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
+  <Counselor26.baseDesc>[PAWN_nameDef]が10代の若者だった頃の恐ろしいトラウマが,[PAWN_objective]過食症にしました.カウンセリングで,[PAWN_pronoun]は,食べ物との健全な関係を学び,[PAWN_pronoun]は,感情に基づいた問題に打ち勝つ手助けをすることに,[PAWN_possessive]新しいスキルを使うことに決めました.</Counselor26.baseDesc>
+  <!-- EN: counselor -->
+  <Counselor26.title>カウンセラー</Counselor26.title>
+  <!-- EN: counselor -->
+  <Counselor26.titleShort>カウンセラー</Counselor26.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
+  <CropFarmer17.baseDesc>[PAWN_nameDef]は,農園を運営しました. [PAWN_pronoun]は,大規模な作物畑の植栽と収穫を最適化するために,土壌,農機具,気象パターン,および価格動向を分析しました.</CropFarmer17.baseDesc>
+  <!-- EN: crop farmer -->
+  <CropFarmer17.title>農家</CropFarmer17.title>
+  <!-- EN: farmer -->
+  <CropFarmer17.titleShort>農家</CropFarmer17.titleShort>
+  
+  <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
+  <Defector78.baseDesc>成人になって,間もない頃に,[PAWN_nameDef]は,[PAWN_pronoun]が住んでいる圧政的な独裁政権国から亡命することを決めました.[PAWN_pronoun]国外逃亡は,歓迎されず,[PAWN_objective]追って諜報員が出動しました.\n\n[PAWN_pronoun]は,何年もの間,追手の目を逃れ,怪我すらも自分で治療したので,[PAWN_objective]裏切る医者というのも存在しませんでした.この試練は[PAWN_objective],憎しみに満ち,人を信じなくさせました.</Defector78.baseDesc>
+  <!-- EN: defector -->
+  <Defector78.title>亡命者</Defector78.title>
+  <!-- EN: defector -->
+  <Defector78.titleShort>亡命者</Defector78.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] travelled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
+  <Drifter67.baseDesc>[PAWN_nameDef]は人生において自分が何をすべきか考えたことがありませんでした.[PAWN_pronoun]はどんな場所でも,目についた短期の仕事に就きながら,頻繁に旅をしました.\n\nまた[PAWN_pronoun]は時折,ベストセラー作家になることを確信しながら小説の執筆に取り組みました-気になる出版社が見つかると,すぐにでも.</Drifter67.baseDesc>
+  <!-- EN: drifter -->
+  <Drifter67.title>根無し草</Drifter67.title>
+  <!-- EN: drifter -->
+  <Drifter67.titleShort>根無し草</Drifter67.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] escaped by tunneling beneath the perimeter using modified cutlery. -->
+  <EscapedConvict90.baseDesc>[PAWN_nameDef]は,犯罪に関わったことを否認しましたが,ひどい流刑植民地の牢獄行きとなりました.[PAWN_pronoun]は,手を加えたスプーンやフォークを使って,地下にトンネルを掘って脱出しました.</EscapedConvict90.baseDesc>
+  <!-- EN: escaped convict -->
+  <EscapedConvict90.title>脱獄犯</EscapedConvict90.title>
+  <!-- EN: escapee -->
+  <EscapedConvict90.titleShort>脱獄犯</EscapedConvict90.titleShort>
+  
+  <!-- EN: As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun] decided to spend the rest of [PAWN_possessive] life spreading the word of [PAWN_possessive] deity, the beauty of its culture, and its unusual medical tradition. -->
+  <Evangelist39.baseDesc>若い頃,[PAWN_nameDef]は神の教えに目覚めました.[PAWN_pronoun]は残りの人生を,[PAWN_possessive]信じる神の言葉や,その文化の素晴らしさ,特異な医術の伝統などを広めて過ごすことに決めました.</Evangelist39.baseDesc>
+  <!-- EN: evangelist -->
+  <Evangelist39.title>福音伝道者</Evangelist39.title>
+  <!-- EN: evangelist -->
+  <Evangelist39.titleShort>伝道者</Evangelist39.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
+  <ExplosivesExpert26.baseDesc>[PAWN_nameDef]は,採掘業者に雇われた爆破技術者でした.[PAWN_pronoun]は,[PAWN_possessive]仕事に対して非常に真面目で,技術的にも精通していました - そういう訳で,[PAWN_pronoun]は,[PAWN_pronoun]が注意深く計算して爆発させた,後始末を手伝うような品位を落とすことは拒否しました.</ExplosivesExpert26.baseDesc>
+  <!-- EN: explosives expert -->
+  <ExplosivesExpert26.title>爆発物のプロ</ExplosivesExpert26.title>
+  <!-- EN: blaster -->
+  <ExplosivesExpert26.titleShort>発破工</ExplosivesExpert26.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
+  <Forester96.baseDesc>[PAWN_nameDef]は森を育て,収穫していました.[PAWN_pronoun]は森林成長の長期的計画はもちろんのこと,土壌の種類,風,雨の現実的な課題も理解していました.</Forester96.baseDesc>
+  <!-- EN: forester -->
+  <Forester96.title>森の人</Forester96.title>
+  <!-- EN: forester -->
+  <Forester96.titleShort>森の人</Forester96.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
+  <FurnitureBuilder83.baseDesc>[PAWN_nameDef]は森の近くで育ちました.[PAWN_pronoun]はglitterworldの裕福な依頼人のために,美しい家具を作ることに時間を費やしました.</FurnitureBuilder83.baseDesc>
+  <!-- EN: furniture builder -->
+  <FurnitureBuilder83.title>家具建築士</FurnitureBuilder83.title>
+  <!-- EN: builder -->
+  <FurnitureBuilder83.titleShort>建築士</FurnitureBuilder83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked at the mansion of a powerful family, tending the lavish gardens as part of a team of servants. -->
+  <Gardener99.baseDesc>工業世界では,富は,自分の工場を持ち商品を売る人の手に集中します.[PAWN_nameDef]は,このような富裕家族のマンションで,使用人達の一人として贅沢な庭の手入れをする仕事をしていました.</Gardener99.baseDesc>
+  <!-- EN: gardener -->
+  <Gardener99.title>庭師</Gardener99.title>
+  <!-- EN: gardener -->
+  <Gardener99.titleShort>庭師</Gardener99.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
+  <Geologist66.baseDesc>[PAWN_nameDef]は,鉱夫,洞窟を掘る仕事,地質や鉱物の鑑定士の仕事をしていました.\n\n地下生活の間じゅう,[PAWN_pronoun]はまた,掘削機械や,他の工業機械などの修理経験を積みました.</Geologist66.baseDesc>
+  <!-- EN: geologist -->
+  <Geologist66.title>地質学者</Geologist66.title>
+  <!-- EN: geologist -->
+  <Geologist66.titleShort>地質学者</Geologist66.titleShort>
+  
+  <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked. -->
+  <Housemate8.baseDesc>大人になってから,[PAWN_nameDef]は,[PAWN_possessive]配偶者が働きに行っている間じゅう,子供の世話と家事をしていました.</Housemate8.baseDesc>
+  <!-- EN: housemate -->
+  <Housemate8.title>主夫</Housemate8.title>
+  <!-- EN: housewife -->
+  <Housemate8.titleFemale>主婦</Housemate8.titleFemale>
+  <!-- EN: housemate -->
+  <Housemate8.titleShort>主夫</Housemate8.titleShort>
+  <!-- EN: housewife -->
+  <Housemate8.titleShortFemale>主婦</Housemate8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
+  <HouseServant63.baseDesc>[PAWN_nameDef]は裕福な住宅所有者の家庭内使用人でした.\n\n[PAWN_pronoun]は[PAWN_possessive]マスターの邸宅のキッチンと地下室をよく知りましたが,外で仕事をすることはありませんでした.</HouseServant63.baseDesc>
+  <!-- EN: house servant -->
+  <HouseServant63.title>家庭内使用人</HouseServant63.title>
+  <!-- EN: servant -->
+  <HouseServant63.titleShort>使用人</HouseServant63.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
+  <Hunter89.baseDesc>[PAWN_nameDef]は,自身のコミュニティを養うために野生動物を狩りました.厳しい季節になると,[PAWN_pronoun]は厳しい時を過ごす人々を助ける者として人々に見られていました.</Hunter89.baseDesc>
+  <!-- EN: hunter -->
+  <Hunter89.title>ハンター</Hunter89.title>
+  <!-- EN: hunter -->
+  <Hunter89.titleShort>ハンター</Hunter89.titleShort>
+  
+  <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
+  <Inventor6.baseDesc>[PAWN_nameDef]の住む世界では,[PAWN_pronoun]はそこそこ成功した発明家として働いていました.[PAWN_pronoun]は,いくつかの大したことのないテクノロジーを開発しました.</Inventor6.baseDesc>
+  <!-- EN: inventor -->
+  <Inventor6.title>発明家</Inventor6.title>
+  <!-- EN: inventor -->
+  <Inventor6.titleShort>発明家</Inventor6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
+  <Jailbird40.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]人生の,ほとんどを囚人として過ごし,[PAWN_pronoun]は,炊事係に割り当てられていました.[PAWN_pronoun]は,ケンカに夢中になりやすく,攻撃的な口調の癖がありました.</Jailbird40.baseDesc>
+  <!-- EN: jailbird -->
+  <Jailbird40.title>常習犯</Jailbird40.title>
+  <!-- EN: jailbird -->
+  <Jailbird40.titleShort>常習犯</Jailbird40.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
+  <LivestockFarmer8.baseDesc>[PAWN_nameDef]は家畜農場を運営しました. [PAWN_pronoun]は,動物の遺伝学,飼料の種類,出産と屠殺方法,および価格動向を分析して,巨大な動物群の飼育を最適化しました.</LivestockFarmer8.baseDesc>
+  <!-- EN: livestock farmer -->
+  <LivestockFarmer8.title>家畜農家</LivestockFarmer8.title>
+  <!-- EN: farmer -->
+  <LivestockFarmer8.titleShort>家畜農家</LivestockFarmer8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
+  <Logger95.baseDesc>[PAWN_nameDef]は木を切り倒し,丘陵の峠や峡谷で木材を集めていました.[PAWN_pronoun]は木の安全な伐採方法と,森林の健康を保つ管理方法を学びました.</Logger95.baseDesc>
+  <!-- EN: logger -->
+  <Logger95.title>木こり</Logger95.title>
+  <!-- EN: logger -->
+  <Logger95.titleShort>木こり</Logger95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] family, gaining a set of basic hands-on skills. -->
+  <LowWageWorker7.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]家族を支えるために,いろんなバイトをしてたので,ひと通りの基本的な実践的なスキルを身につけました.</LowWageWorker7.baseDesc>
+  <!-- EN: low-wage worker -->
+  <LowWageWorker7.title>低賃金労働者</LowWageWorker7.title>
+  <!-- EN: grunt -->
+  <LowWageWorker7.titleShort>バイト</LowWageWorker7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
+  <MachineCollector55.baseDesc>[PAWN_nameDef]は,古い機械や,神秘的なテクノロジーの破片に取り憑かれました.[PAWN_pronoun]は,[PAWN_pronoun]ができるなら,どんな場合でも,それを手に入れ,そして,手にとって,どうやって動いていたのか考えることが好きでした.\n\n[PAWN_pronoun]は,[PAWN_possessive]コレクションについて話すとき,聞き手が嫌になるまで,話し続ける癖がありました.</MachineCollector55.baseDesc>
+  <!-- EN: machine collector -->
+  <MachineCollector55.title>機械収集家</MachineCollector55.title>
+  <!-- EN: collector -->
+  <MachineCollector55.titleShort>コレクター</MachineCollector55.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
+  <Mathematician6.baseDesc>[PAWN_nameDef]は大学で数学の研究をしていました.\n\n[PAWN_pronoun]は,余暇のほとんどの時間をシューティングシミュレータに没頭していたにも関わらず,[PAWN_pronoun]は他のプレイヤーから酷いエイムのことを,たびたび冷やかされていました.</Mathematician6.baseDesc>
+  <!-- EN: mathematician -->
+  <Mathematician6.title>数学者</Mathematician6.title>
+  <!-- EN: math prof -->
+  <Mathematician6.titleShort>数学教授</Mathematician6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
+  <Model99.baseDesc>[PAWN_nameDef]は,宝石や衣装を広告するモデルをするかたわら,仮想世界の3Dキャラクター用原型として,身体データを提供していました.</Model99.baseDesc>
+  <!-- EN: model -->
+  <Model99.title>モデル</Model99.title>
+  <!-- EN: model -->
+  <Model99.titleShort>モデル</Model99.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
+  <Nurse61.baseDesc>[PAWN_nameDef]は,工業時代の病院に勤務し,体温測定や,包帯を巻くなどの,日常業務をこなしていました.\n\n忙しい職場でしたが,[PAWN_pronoun]は時間を見つけては,患者に声を掛けていました.</Nurse61.baseDesc>
+  <!-- EN: nurse -->
+  <Nurse61.title>看護師</Nurse61.title>
+  <!-- EN: nurse -->
+  <Nurse61.titleShort>看護師</Nurse61.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
+  <Paramedic45.baseDesc>[PAWN_nameDef]の仕事は,医療緊急事態に即応することでした.[PAWN_pronoun]は,限られた医療品のみで,重篤な病状に対処することに慣れていました.\n\n[PAWN_pronoun]は,ここ何年も,多くの銃創を治療してきたので,銃を目にするだけで,[PAWN_objective]不快にさせました.</Paramedic45.baseDesc>
+  <!-- EN: paramedic -->
+  <Paramedic45.title>救急隊員</Paramedic45.title>
+  <!-- EN: paramedic -->
+  <Paramedic45.titleShort>救急隊員</Paramedic45.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal police force.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
+  <Policeman45.baseDesc>[PAWN_nameDef]は,市警の行員として平和を維持しました.\n\n[PAWN_pronoun]は,エスカレーション解除,身体制御,射撃,およびその他の警察スキルの訓練を受けました.</Policeman45.baseDesc>
+  <!-- EN: policeman -->
+  <Policeman45.title>警官</Policeman45.title>
+  <!-- EN: policewoman -->
+  <Policeman45.titleFemale>警官</Policeman45.titleFemale>
+  <!-- EN: policeman -->
+  <Policeman45.titleShort>警官</Policeman45.titleShort>
+  <!-- EN: policewoman -->
+  <Policeman45.titleShortFemale>警官</Policeman45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
+  <QuarryWorker29.baseDesc>[PAWN_nameDef]は採石場で働き,丘の中腹から貴重な石を掘り出す手助けをしていました.[PAWN_pronoun]は,視覚,触覚,直感によって石を得る機会と危険を感じることを学びました.</QuarryWorker29.baseDesc>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.title>採石労働者</QuarryWorker29.title>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.titleShort>採石労働者</QuarryWorker29.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
+  <Rancher43.baseDesc>[PAWN_nameDef]は,[PAWN_pronoun]が肉と羊毛のために動物を育てた成功した牧場を所有し運営していました.\n\n[PAWN_pronoun]は愚かな労働をすることを拒否しました[PAWN_pronoun]は[PAWN_objective]のために他の誰かに支払うことができます.</Rancher43.baseDesc>
+  <!-- EN: rancher -->
+  <Rancher43.title>牧場主</Rancher43.title>
+  <!-- EN: rancher -->
+  <Rancher43.titleShort>牧場主</Rancher43.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
+  <Ranger96.baseDesc>[PAWN_nameDef]は,様々なクライアントから依頼される動物と人を追跡していました.[PAWN_pronoun]は,足跡を追ったり,野生食物を見つけたり,獲物を追跡することに長けるようになりました.</Ranger96.baseDesc>
+  <!-- EN: ranger -->
+  <Ranger96.title>レンジャー</Ranger96.title>
+  <!-- EN: ranger -->
+  <Ranger96.titleShort>レンジャー</Ranger96.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
+  <Recruiter14.baseDesc>[PAWN_nameDef]は,その戦闘スキルと,その負傷を治療することを拒否する,評判の悪い両方を合わせ持った格闘技を敬愛しています.\n\n[PAWN_pronoun]は,[PAWN_possessive]母星内を旅行し,[PAWN_pronoun]が会った若者で,トレーニングに適当であると判断した者の審査をしています.</Recruiter14.baseDesc>
+  <!-- EN: recruiter -->
+  <Recruiter14.title>採用係</Recruiter14.title>
+  <!-- EN: recruiter -->
+  <Recruiter14.titleShort>採用係</Recruiter14.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
+  <Slaughterer58.baseDesc>[PAWN_nameDef]は生計を立てるために家畜を屠殺していました.他の人々はこの仕事を不潔だと見下していましたが,多数の動物を管理し,きれいに屠殺するために必要なスキルは決して単純ではありませんでした.</Slaughterer58.baseDesc>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.title>屠殺者</Slaughterer58.title>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.titleShort>屠殺者</Slaughterer58.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
+  <Teacher20.baseDesc>[PAWN_nameDef]は,一般教養課程で教育を受け,公立学校で教鞭をとっていました.[PAWN_pronoun]は,[PAWN_possessive]教え子から,幅広い知識がいっぱい詰まっている人と思われ,好感を持たれています.</Teacher20.baseDesc>
+  <!-- EN: teacher -->
+  <Teacher20.title>教師</Teacher20.title>
+  <!-- EN: teacher -->
+  <Teacher20.titleShort>教師</Teacher20.titleShort>
+  
+  <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
+  <Torturer37.baseDesc>中世世界の,専制君主制の君主に仕えていた[PAWN_nameDef]は,'説得'の達人として名声を得ていました.地下牢に投獄された,どんな囚人でも,隠し事無しには出られませんでした - [PAWN_nameDef]の薄笑う顔は,永久に彼らの悪夢となって現れ,恐れられていました.</Torturer37.baseDesc>
+  <!-- EN: torturer -->
+  <Torturer37.title>拷問執行人</Torturer37.title>
+  <!-- EN: torturer -->
+  <Torturer37.titleShort>拷問執行人</Torturer37.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] treated sick and injured animals for a living. Seeing their suffering affected [PAWN_possessive] stance on the practice of eating meat, and for many years [PAWN_pronoun] lived as a vegetarian. -->
+  <Veterinarian99.baseDesc>[PAWN_nameDef]は,生計の為に,病気や怪我をした動物を治療しています.それらの苦しむ姿は,肉を食べることについての[PAWN_possessive]姿勢に影響し,数年後,[PAWN_pronoun]は菜食主義者として生き,[PAWN_possessive]母星での肉食習慣を拒否しています.</Veterinarian99.baseDesc>
+  <!-- EN: veterinarian -->
+  <Veterinarian99.title>獣医</Veterinarian99.title>
+  <!-- EN: vet -->
+  <Veterinarian99.titleShort>獣医</Veterinarian99.titleShort>
+  
+</LanguageData>

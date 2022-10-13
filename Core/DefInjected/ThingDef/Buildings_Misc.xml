@@ -34,8 +34,8 @@
   <FirefoamPopper.label>泡消火器</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <FirefoamPopper.description>火災を検知した時,この安全装置が起動し泡消火剤を,機器を中心にして円状にまき散らします.手動でも操作できます.</FirefoamPopper.description>
-  <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.CompUsable.useLabel>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>{0_label}を作動させる</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
   <Grave.label>墓</Grave.label>

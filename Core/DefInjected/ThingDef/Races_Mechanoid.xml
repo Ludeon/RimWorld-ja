@@ -1,12 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: centipede -->
-  <Mech_Centipede.label>機械化ムカデ</Mech_Centipede.label>
-  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_Centipede.description>何十本もの小さな脚で滑らかに動く,重武装の戦闘用機械生命体です.この生命体が持つ厚い鎧と,高い火力は,防御面に対して大きな効果をもたらします.ヒットアンドアウェイ戦法が,僅かながら有効とされています.</Mech_Centipede.description>
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>ブラスター型機械化ムカデ</Mech_CentipedeBlaster.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBlaster.description>何十本もの小さな脚で滑らかに動く,重武装の戦闘用機械生命体です.この生命体が持つ厚い鎧と,高い火力は,防御面に対して大きな効果をもたらします.ヒットアンドアウェイ戦法が,僅かながら有効とされています.</Mech_CentipedeBlaster.description>
   <!-- EN: head -->
-  <Mech_Centipede.tools.head.label>頭部</Mech_Centipede.tools.head.label>
+  <Mech_CentipedeBlaster.tools.head.label>頭部</Mech_CentipedeBlaster.tools.head.label>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>TODO</Mech_CentipedeBurner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBurner.description>TODO</Mech_CentipedeBurner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBurner.tools.head.label>TODO</Mech_CentipedeBurner.tools.head.label>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>TODO</Mech_CentipedeGunner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeGunner.description>TODO</Mech_CentipedeGunner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeGunner.tools.head.label>TODO</Mech_CentipedeGunner.tools.head.label>
   
   <!-- EN: lancer -->
   <Mech_Lancer.label>機械化ランス</Mech_Lancer.label>
@@ -32,7 +46,7 @@
   
   <!-- EN: scyther -->
   <Mech_Scyther.label>機械化カマキリ</Mech_Scyther.label>
-  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
   <Mech_Scyther.description>素早い接近と白兵戦に特化した,細長く,動きの速いヒトサイズの戦闘用機械生命体です.この生命体は全身が針や刃で覆われていますが,主な武器は2本の腕の刃であり,これを使用して犠牲者の手足やはらわたを生きたまま切り落とします.</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>左刃</Mech_Scyther.tools.left_blade.label>

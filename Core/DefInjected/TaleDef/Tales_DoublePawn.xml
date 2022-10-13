@@ -385,8 +385,8 @@
     <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
     <li>image->[TAMER_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
     <li>image->[TAMER_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
     <li>circumstance_phrase->with great care and caution</li>
     <li>circumstance_phrase->with a smile</li>
     <li>circumstance_phrase->while exhausted but happy</li>
@@ -402,8 +402,8 @@
     <li>tale_noun->[ANIMAL_nameDef]に対する[TAMER_nameDef]の飼い慣らしの</li>
     <li>image-> [TAMER_nameFull]が [circumstance_group],[ANIMAL_nameFull]を飼い慣らす</li>
     <li>image-> [TAMER_nameFull]が [circumstance_group],[ANIMAL_nameFull]にご馳走を与える</li>
-    <li>image-> [TAMER_nameFull]が [circumstance_group],驚きやすい[ANIMAL_nameFull]に小声で話しかける</li>
-    <li>image-> [TAMER_nameFull]が [circumstance_group],野性の[ANIMAL_nameFull]をなだめる</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],驚きやすい[ANIMAL_label]に小声で話しかける</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],野性の[ANIMAL_label]をなだめる</li>
     <li>circumstance_phrase->最大限の注意と世話を払いつつ</li>
     <li>circumstance_phrase->笑顔と共に</li>
     <li>circumstance_phrase->疲れ果てながらも幸せそうに</li>
@@ -481,8 +481,8 @@
     <li>desc_sentence->[ANIMAL_nameDef] is represented as a pile of power tools.</li>
     <li>desc_sentence->[ANIMAL_nameDef] is half [Color] and half [Color].</li>
     <li>desc_sentence->[ANIMAL_nameDef] is covered in scales.</li>
-    <li>desc_sentence->[TRAINER_nameDef] is depicted with [quantity] arms.</li>
-    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_ShortDefinite].</li>
+    <li>desc_sentence->[TRAINER_nameDef] is depicted with [Quantity_adjphrase] arms.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_definite].</li>
   -->
   <TrainedAnimal.rulePack.rulesStrings>
     <li>tale_noun->[TRAINER_nameDef]が[ANIMAL_nameDef]を調教する</li>
@@ -515,8 +515,8 @@
     <li>desc_sentence->[ANIMAL_nameDef]は有能な電動工具になっている.</li>
     <li>desc_sentence->[ANIMAL_nameDef]は[Color]と[Color]の2色になっている.</li>
     <li>desc_sentence->[ANIMAL_nameDef]は鱗に被われている.</li>
-    <li>desc_sentence->[TRAINER_nameDef]は[quantity]本の腕で表現されている.</li>
-    <li>desc_sentence->[TRAINER_nameDef]は[ANIMAL_ShortDefinite]へと姿を変化させている.</li>
+    <li>desc_sentence->[TRAINER_nameDef]は[Quantity_adjphrase]本の腕で表現されている.</li>
+    <li>desc_sentence->[TRAINER_nameDef]は[ANIMAL_definite]へと姿を変化させている.</li>
   </TrainedAnimal.rulePack.rulesStrings>
   
 </LanguageData>

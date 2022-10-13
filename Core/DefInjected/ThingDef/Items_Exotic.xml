@@ -23,22 +23,22 @@
   <MechSerumHealer.label>ヒーラーシーラム</MechSerumHealer.label>
   <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
   <MechSerumHealer.description>使い捨て大容量メカナイトを健康状態を回復させる機能に特化させてあります.メカナイトは,患者の最も悪い一カ所の部位を回復させます.普通の方法では治すことができない怪我や症状でさえも,健康な状態に戻します.メカナイトは有機物の中で変形すらでき,必要であれば新しい手足や内臓に形を変えることができます.</MechSerumHealer.description>
-  <!-- EN: Use healer mech serum -->
-  <MechSerumHealer.comps.CompUsable.useLabel>ヒーラーシーラムを使う</MechSerumHealer.comps.CompUsable.useLabel>
+  <!-- EN: Use {0_label} -->
+  <MechSerumHealer.comps.CompUsable.useLabel>{0_label}を使う</MechSerumHealer.comps.CompUsable.useLabel>
   
   <!-- EN: resurrector mech serum -->
   <MechSerumResurrector.label>リザレクトシーラム</MechSerumResurrector.label>
-  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->
-  <MechSerumResurrector.description>使い捨て大容量メカナイトを蘇生させる機能に特化させてあります.絶命後すぐに投与すれば,メカナイトは損傷した部位を修復し,肉体に生を呼び戻します.これらは常に成功するとは限りません - たまに,蘇生機能は脳にダメージ(盲目や進行性精神病)を与える恐れがあります.メカナイトを直ぐに投与すれば,成果もよくなります.たとえ死後,長い時間が経っていても,状態良く保存された身体は蘇生できます.</MechSerumResurrector.description>
-  <!-- EN: Use resurrector mech serum -->
-  <MechSerumResurrector.comps.CompUsable.useLabel>リザレクトシーラムを使う</MechSerumResurrector.comps.CompUsable.useLabel>
+  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.\n\nThe resurrected also experience limited retrograde amnesia, forgetting some recent memories and social interactions. -->
+  <MechSerumResurrector.description>使い捨て大容量メカナイトを蘇生させる機能に特化させてあります.絶命後すぐに投与すれば,メカナイトは損傷した部位を修復し,肉体に生を呼び戻します.これらは常に成功するとは限りません - たまに,蘇生機能は脳にダメージ(盲目や進行性精神病)を与える恐れがあります.メカナイトを直ぐに投与すれば,成果もよくなります.たとえ死後,長い時間が経っていても,状態良く保存された身体は蘇生できます.\n\n復活した者は限定的な逆行性記憶障害を起こし,最近の記憶や社会的交流を忘れます.</MechSerumResurrector.description>
+  <!-- EN: Use {0_label} -->
+  <MechSerumResurrector.comps.CompUsable.useLabel>{0_label}を使う</MechSerumResurrector.comps.CompUsable.useLabel>
   
   <!-- EN: techprof subpersona core -->
   <TechprofSubpersonaCore.label>研究AI亜人格コア</TechprofSubpersonaCore.label>
   <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
   <TechprofSubpersonaCore.description>簡素な人工知能を収めた,この小型のAIコアは教育用テクノロジーに特化しています.使用すると,AIは貴方の未収得なテクノロジー一つを即座に習得させます,一度限りしか使用できません.</TechprofSubpersonaCore.description>
-  <!-- EN: Use techprof subpersona core -->
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>研究AI亜人格コアを使う</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  <!-- EN: Use {0_label} -->
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>{0_label}を使う</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   
   <!-- EN: thrumbo horn -->
   <ThrumboHorn.label>スランボの角</ThrumboHorn.label>

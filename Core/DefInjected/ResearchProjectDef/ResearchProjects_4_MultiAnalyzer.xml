@@ -45,6 +45,11 @@
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
   <ReconArmor.description>レコンアーマーを作れるようになります.動きがある中でも防護が必要とされる偵察部隊によって使われている軽量パワーアーマーです.注意：先進コンポーネントが必要です.</ReconArmor.description>
   
+  <!-- EN: rocketswarm launcher -->
+  <RocketswarmLauncher.label>広範囲ロケットランチャー</RocketswarmLauncher.label>
+  <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
+  <RocketswarmLauncher.description>戦闘における重要な局面で,広い範囲を殲滅できる広範囲ロケットランチャーや,シングルバーストタレットを作れるようになります.</RocketswarmLauncher.description>
+  
   <!-- EN: uranium slug turret -->
   <SniperTurret.label>ウランスラグタレット</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->

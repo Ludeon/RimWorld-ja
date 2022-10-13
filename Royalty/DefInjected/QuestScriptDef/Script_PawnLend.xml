@@ -8,26 +8,30 @@
     <li>disease->malaria</li>
     <li>disease->infection</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] needs people to help [dutyRoyalDescription].\n\n[asker_pronoun] is asking you to lend [colonistCountToLend] to serve [asker_objective] for [lendForDays] days.\n\n[willSendShuttle]</li>
-    <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist</li>
-    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists</li>
+    <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist[minAgeOrOlder]</li>
+    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists[minAgeOrOlder]</li>
     <li>willSendShuttle->[asker_pronoun] will send a shuttle to pick up the [colonists].</li>
     <li>colonists(colonistsToLendCount==1)->colonist</li>
     <li>colonists(colonistsToLendCount>1)->colonists</li>
+    <li>minAgeOrOlder(minAge==0)-></li>
+    <li>minAgeOrOlder(minAge>0)-> [minAge] years old or older</li>
     <li>pawnListHaveConjugation(colonistsToLendCount==1)->has</li>
     <li>pawnListHaveConjugation(colonistsToLendCount>1)->have</li>
   -->
   <PawnLend.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, [dutyDescription]の手助けを必要としています.\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています.\n\n[willSendShuttle]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, [dutyDescription]の手助けを必要としています.\n\n[asker_pronoun]は[colonistCountToLend][lendForDays]日間派遣するよう要請しています.\n\n[willSendShuttle]</li>
     <li>disease->インフルエンザ</li>
     <li>disease->ペスト</li>
     <li>disease->マラリア</li>
     <li>disease->感染症</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が, [dutyRoyalDescription]の手助けを必要としています.\n\n[asker_pronoun]は[colonistCountToLend]を[lendForDays]日間派遣するよう要請しています.\n\n[willSendShuttle]</li>
-    <li>colonistCountToLend(colonistsToLendCount==1)->1人の入植者</li>
-    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount]人の入植者</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]が, [dutyRoyalDescription]の手助けを必要としています.\n\n[asker_pronoun]は[colonistCountToLend][lendForDays]日間派遣するよう要請しています.\n\n[willSendShuttle]</li>
+    <li>colonistCountToLend(colonistsToLendCount==1)->[minAgeOrOlder]入植者を1人</li>
+    <li>colonistCountToLend(colonistsToLendCount>1)->[minAgeOrOlder]入植者を[colonistsToLendCount]人</li>
     <li>willSendShuttle->[asker_pronoun]は[colonists]を迎えるためにシャトルをよこします.</li>
     <li>colonists(colonistsToLendCount==1)->入植者</li>
     <li>colonists(colonistsToLendCount>1)->入植者たち</li>
+    <li>minAgeOrOlder(minAge==0)-></li>
+    <li>minAgeOrOlder(minAge>0)-> [minAge]歳以上の</li>
     <li>pawnListHaveConjugation(colonistsToLendCount==1)-></li>
     <li>pawnListHaveConjugation(colonistsToLendCount>1)-></li>
   </PawnLend.questDescriptionRules.rulesStrings>

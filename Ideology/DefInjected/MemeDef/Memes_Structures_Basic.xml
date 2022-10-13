@@ -100,19 +100,6 @@
   <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
   <Structure_Ideological.description>神は存在しません.万物の道徳の成り立ちは,社会勢力の壮大な歴史から形作られます.</Structure_Ideological.description>
   <!-- EN:
-    <li>memeAdjective->ethical</li>
-    <li>memeAdjective->moral</li>
-    <li>memeAdjective->awoken</li>
-    <li>memeCreed->belief</li>
-    <li>memeCreed->ideology</li>
-    <li>memeCreed->creed</li>
-    <li>memeCreed->philosophy</li>
-    <li>memeCreed->theory</li>
-    <li>memeCreed->view</li>
-    <li>memeCreed->principles</li>
-    <li>memeCreed->morals</li>
-    <li>memeCreed->ethics</li>
-    <li>memeCreed->justice</li>
     <li>memeHyphenPrefix->ideo</li>
     <li>memeLeaderNoun->mind</li>
     <li>memeLeaderNoun->decider</li>
@@ -129,19 +116,6 @@
     <li>memeMoralist->sophist</li>
   -->
   <Structure_Ideological.generalRules.rulesStrings>
-    <li>memeAdjective->倫理的な</li>
-    <li>memeAdjective->道徳的な</li>
-    <li>memeAdjective->自覚させられた</li>
-    <li>memeCreed->信仰</li>
-    <li>memeCreed->イデオロギー</li>
-    <li>memeCreed->信条</li>
-    <li>memeCreed->哲学</li>
-    <li>memeCreed->理論</li>
-    <li>memeCreed->見解</li>
-    <li>memeCreed->原理</li>
-    <li>memeCreed->道徳</li>
-    <li>memeCreed->倫理</li>
-    <li>memeCreed->正義</li>
     <li>memeHyphenPrefix->イデオ</li>
     <li>memeLeaderNoun->知性者</li>
     <li>memeLeaderNoun->決定者</li>
@@ -189,11 +163,6 @@
   <!-- EN: The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe. -->
   <Structure_TheistAbstract.description>神は物理的な形を持っていませんが,一度にどこにでもいます.彼らは全てを知っていて,何でもすることができます.彼らの意志は万物の道徳の成り立ちを定義します.</Structure_TheistAbstract.description>
   <!-- EN:
-    <li>memeAdjective->godly</li>
-    <li>memeAdjective->holy</li>
-    <li>memeAdjective->sacred</li>
-    <li>memeAdjective->divine</li>
-    <li>memeAdjective->faithful</li>
     <li>memeCreed->temple</li>
     <li>memeCreed->sect</li>
     <li>memeCreed->cult</li>
@@ -215,11 +184,6 @@
     <li>memeMoralist->abbot</li>
   -->
   <Structure_TheistAbstract.generalRules.rulesStrings>
-    <li>memeAdjective->信仰深い</li>
-    <li>memeAdjective->神聖な</li>
-    <li>memeAdjective->宗教的な</li>
-    <li>memeAdjective->神々しい</li>
-    <li>memeAdjective->誠実な</li>
     <li>memeCreed->神殿</li>
     <li>memeCreed->宗派</li>
     <li>memeCreed->崇拝</li>

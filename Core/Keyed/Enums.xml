@@ -148,15 +148,15 @@
   <ContentSource_SteamWorkshop>Steamワークショップ</ContentSource_SteamWorkshop>
   
   <!-- Medical care category -->
-  <!-- EN: No medical care -->
+  <!-- EN: no medical care -->
   <MedicalCareCategory_NoCare>治療放棄</MedicalCareCategory_NoCare>
-  <!-- EN: Doctor care, but no medicine -->
+  <!-- EN: doctor care, but no medicine -->
   <MedicalCareCategory_NoMeds>治療する(薬品は不使用)</MedicalCareCategory_NoMeds>
-  <!-- EN: Herbal medicine or worse -->
+  <!-- EN: herbal medicine or worse -->
   <MedicalCareCategory_HerbalOrWorse>治療する(薬草まで使用)</MedicalCareCategory_HerbalOrWorse>
-  <!-- EN: Industrial-tech medicine or worse -->
+  <!-- EN: industrial-tech medicine or worse -->
   <MedicalCareCategory_NormalOrWorse>治療する(医薬品まで使用)</MedicalCareCategory_NormalOrWorse>
-  <!-- EN: Best quality medicine -->
+  <!-- EN: best quality medicine -->
   <MedicalCareCategory_Best>治療する(最先端医薬品まで使用)</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
@@ -204,6 +204,10 @@
   <PawnGenerationContext_PlayerStarter>プレイヤー初期キャラクター</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>非プレイヤーキャラクター</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>画面揺れの強さ</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
@@ -213,6 +217,24 @@
   <!-- EN: Tame (all) -->
   <AnimalNameDisplayMode_TameAll>家畜(全部)</AnimalNameDisplayMode_TameAll>
   
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>プレイヤーのメカ名を表示</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>徴兵中のみ</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>常時</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>ポートレート下の武器表示</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>画面上部の入植者バーの各人物のポートレートの下に武器を表示します.</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>常時</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>徴兵中のみ</ShowWeapons_WhileDrafted>
+
   <!-- Temperature -->
   <!-- EN: Celsius -->
   <Celsius>摂氏</Celsius>

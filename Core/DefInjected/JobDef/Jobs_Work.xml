@@ -91,6 +91,12 @@
   <!-- EN: scanning at TargetA. -->
   <OperateScanner.reportString>TargetAでスキャン中</OperateScanner.reportString>
   
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>TargetAを塗っている</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>TargetAを塗っている</PaintFloor.reportString>
+  
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>TargetAを建設中</PlaceNoCostFrame.reportString>
   
@@ -108,6 +114,12 @@
   
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>床を剥がしている</RemoveFloor.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>TargetAの色を除去している</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>TargetAの色を除去している</RemovePaintFloor.reportString>
   
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>屋根を取り外している</RemoveRoof.reportString>
@@ -152,7 +164,7 @@
   <Steal.reportString>TargetAを略奪中</Steal.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyThing.reportString>TargetAを調査中</StudyThing.reportString>
+  <StudyBuilding.reportString>TargetAを調査中</StudyBuilding.reportString>
   
   <!-- EN: taking TargetA to bed. -->
   <TakeDownedPawnToBedDrafted.reportString>TargetAをベッドに運んでいる</TakeDownedPawnToBedDrafted.reportString>

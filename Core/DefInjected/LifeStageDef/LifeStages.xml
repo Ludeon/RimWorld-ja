@@ -27,6 +27,8 @@
   
   <!-- EN: baby -->
   <HumanlikeBaby.label>乳児</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>心情は,その人がどれだけ幸せか,もしくはストレスを感じているかを表します.機嫌の悪い乳児は泣きやすく,機嫌の良い乳児はくすくす笑う傾向があります.</HumanlikeBaby.customMoodTipString>
   
   <!-- EN: child -->
   <HumanlikeChild.label>少年</HumanlikeChild.label>
@@ -36,7 +38,7 @@
   <!-- EN: teenage -->
   <HumanlikeTeenager.adjective>青年</HumanlikeTeenager.adjective>
   
-  <!-- EN: toddler -->
+  <!-- UNUSED -->
   <HumanlikeToddler.label>幼児</HumanlikeToddler.label>
   
   <!-- EN: fully-formed -->

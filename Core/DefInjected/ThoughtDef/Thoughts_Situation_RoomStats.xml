@@ -34,37 +34,55 @@
   <!-- EN: My hospital is wonderful! It makes me feel better already. -->
   <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>私の病室は,驚くほど豪華で,気分がとても良くなる.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
   
-  <!-- EN: awful barrack -->
+  <!-- EN: awful barracks -->
+  <PrisonBarracks.stages.awful_barracks.label>ひどい雑居房</PrisonBarracks.stages.awful_barracks.label>
+  <!-- EN: My prison barracks is an awful place. -->
+  <PrisonBarracks.stages.awful_barracks.description>私の雑居房はひどい所だ.</PrisonBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <PrisonBarracks.stages.dull_barracks.label>味気ない雑居房</PrisonBarracks.stages.dull_barracks.label>
+  <!-- EN: I'm living in a dull barracks. -->
+  <PrisonBarracks.stages.dull_barracks.description>味気ない雑居房にいる.</PrisonBarracks.stages.dull_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.label>わずかに豪華な雑居房</PrisonBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: My prison barracks is slightly impressive. -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.description>私の雑居房は,わずかに豪華だ.</PrisonBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: somewhat impressive barracks -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.label>やや豪華な雑居房</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+  <!-- EN: My prison barracks is impressive. I like it. -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.description>私の雑居房は,豪華だ.気に入っている.</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <PrisonBarracks.stages.very_impressive_barracks.label>とても豪華な雑居房</PrisonBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: My prison barracks is very impressive. I like it. -->
+  <PrisonBarracks.stages.very_impressive_barracks.description>私の雑居房は,とても豪華だ.気に入っている.</PrisonBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.label>極めて豪華な雑居房</PrisonBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: My prison barracks is extremely impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.description>私の雑居房は,極めて豪華だ.彼らが,このような場所を,私に用意してくれるとは,とても信じられない.</PrisonBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.label>信じられないくらい豪華な雑居房</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: My prison barracks is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.description>私の雑居房は,信じられないくらい豪華だ.彼らが,このような場所を,私に用意してくれるとは,とても信じられない.</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.label>驚くほど豪華な雑居房</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: My prison barracks is wonderful! I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.description>私の雑居房は,驚くほど豪華だ!彼らが,このような場所を,私に用意してくれるとは,とても信じられない.</PrisonBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <!-- UNUSED -->
   <PrisonBarracks.stages.awful_barrack.label>ひどい雑居房</PrisonBarracks.stages.awful_barrack.label>
-  <!-- EN: My prison barrack is an awful place. -->
   <PrisonBarracks.stages.awful_barrack.description>私の雑居房はひどい所だ.</PrisonBarracks.stages.awful_barrack.description>
-  <!-- EN: dull barrack -->
   <PrisonBarracks.stages.dull_barrack.label>味気ない雑居房</PrisonBarracks.stages.dull_barrack.label>
-  <!-- EN: I'm living in a dull barrack. -->
   <PrisonBarracks.stages.dull_barrack.description>味気ない雑居房にいる.</PrisonBarracks.stages.dull_barrack.description>
-  <!-- EN: slightly impressive barrack -->
   <PrisonBarracks.stages.slightly_impressive_barrack.label>わずかに豪華な雑居房</PrisonBarracks.stages.slightly_impressive_barrack.label>
-  <!-- EN: My prison barrack is slightly impressive. -->
   <PrisonBarracks.stages.slightly_impressive_barrack.description>私の雑居房は,わずかに豪華だ.</PrisonBarracks.stages.slightly_impressive_barrack.description>
-  <!-- EN: somewhat impressive barrack -->
   <PrisonBarracks.stages.somewhat_impressive_barrack.label>やや豪華な雑居房</PrisonBarracks.stages.somewhat_impressive_barrack.label>
-  <!-- EN: My prison barrack is impressive. I like it. -->
   <PrisonBarracks.stages.somewhat_impressive_barrack.description>私の雑居房は,豪華だ.気に入っている.</PrisonBarracks.stages.somewhat_impressive_barrack.description>
-  <!-- EN: very impressive barrack -->
   <PrisonBarracks.stages.very_impressive_barrack.label>とても豪華な雑居房</PrisonBarracks.stages.very_impressive_barrack.label>
-  <!-- EN: My prison barrack is very impressive. I like it. -->
   <PrisonBarracks.stages.very_impressive_barrack.description>私の雑居房は,とても豪華だ.気に入っている.</PrisonBarracks.stages.very_impressive_barrack.description>
-  <!-- EN: extremely impressive barrack -->
   <PrisonBarracks.stages.extremely_impressive_barrack.label>極めて豪華な雑居房</PrisonBarracks.stages.extremely_impressive_barrack.label>
-  <!-- EN: My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this. -->
   <PrisonBarracks.stages.extremely_impressive_barrack.description>私の雑居房は,極めて豪華だ.彼らが,このような場所を,私に用意してくれるとは,とても信じられない.</PrisonBarracks.stages.extremely_impressive_barrack.description>
-  <!-- EN: unbelievably impressive barrack -->
   <PrisonBarracks.stages.unbelievably_impressive_barrack.label>信じられないくらい豪華な雑居房</PrisonBarracks.stages.unbelievably_impressive_barrack.label>
-  <!-- EN: My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
   <PrisonBarracks.stages.unbelievably_impressive_barrack.description>私の雑居房は,信じられないくらい豪華だ.彼らが,このような場所を,私に用意してくれるとは,とても信じられない.</PrisonBarracks.stages.unbelievably_impressive_barrack.description>
-  <!-- EN: wondrously impressive barrack -->
   <PrisonBarracks.stages.wondrously_impressive_barrack.label>驚くほど豪華な雑居房</PrisonBarracks.stages.wondrously_impressive_barrack.label>
-  <!-- EN: My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
   <PrisonBarracks.stages.wondrously_impressive_barrack.description>私の雑居房は,驚くほど豪華だ!彼らが,このような場所を,私に用意してくれるとは,とても信じられない.</PrisonBarracks.stages.wondrously_impressive_barrack.description>
   
   <!-- EN: awful prison cell -->
@@ -82,15 +100,15 @@
   <!-- EN: impressive prison cell -->
   <PrisonCell.stages.impressive_prison_cell.label>豪華な独居房</PrisonCell.stages.impressive_prison_cell.label>
   <!-- EN: My prison cell is impressive. I can't believe they are keeping me in a room like this. -->
-  <PrisonCell.stages.impressive_prison_cell.description>私の独居房は豪華です.彼らが,このような部屋を,私に用意してくれるとは,とても信じられない.</PrisonCell.stages.impressive_prison_cell.description>
+  <PrisonCell.stages.impressive_prison_cell.description>私の独居房は豪華だ.彼らが,このような部屋を,私に用意してくれるとは,とても信じられない.</PrisonCell.stages.impressive_prison_cell.description>
   <!-- EN: very impressive prison cell -->
   <PrisonCell.stages.very_impressive_prison_cell.label>とても豪華な独居房</PrisonCell.stages.very_impressive_prison_cell.label>
   <!-- EN: My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it! -->
-  <PrisonCell.stages.very_impressive_prison_cell.description>私の独居房は,とても豪華です.彼らが,このような部屋を,私に用意してくれるとは,とても信じられない.大好きだ!</PrisonCell.stages.very_impressive_prison_cell.description>
+  <PrisonCell.stages.very_impressive_prison_cell.description>私の独居房は,とても豪華だ.彼らが,このような部屋を,私に用意してくれるとは,とても信じられない.大好きだ!</PrisonCell.stages.very_impressive_prison_cell.description>
   <!-- EN: extremely impressive prison cell -->
   <PrisonCell.stages.extremely_impressive_prison_cell.label>極めて豪華な独居房</PrisonCell.stages.extremely_impressive_prison_cell.label>
   <!-- EN: My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it! -->
-  <PrisonCell.stages.extremely_impressive_prison_cell.description>私の独居房は,極めて豪華です.彼らが,このような部屋を,私に用意してくれるとは,とても信じられない.大好きだ!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>私の独居房は,極めて豪華だ.彼らが,このような部屋を,私に用意してくれるとは,とても信じられない.大好きだ!</PrisonCell.stages.extremely_impressive_prison_cell.description>
   <!-- EN: unbelievably impressive prison cell -->
   <PrisonCell.stages.unbelievably_impressive_prison_cell.label>信じられないくらい豪華な独居房</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
   <!-- EN: My prison cell is unbelievably impressive. This is the best place ever! -->

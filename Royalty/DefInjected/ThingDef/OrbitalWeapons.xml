@@ -7,6 +7,8 @@
   <OrbitalTargeterMechCluster.description>古代の軍用照準装置.目標地点にメカノイド戦闘クラスターをドロップします.クラスターにはメカノイドと防御装置が含まれる場合があります.\n\nこのユニットを製作した古代の軍隊には忠実だったのでしょうが,現在ではドロップされたメカノイドは召喚者を含めて,感知範囲内の人間を無差別に攻撃します.\n\nユニットには一回限りの使用コードが刻まれているため再使用はできません.</OrbitalTargeterMechCluster.description>
   <!-- EN: charge -->
   <OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>チャージ</OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterMechCluster.comps.CompReloadable.cooldownGerund>TODO</OrbitalTargeterMechCluster.comps.CompReloadable.cooldownGerund>
   <!-- EN: orbital mech cluster targeter -->
   <OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>軌道メカクラスター照準器</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
   
