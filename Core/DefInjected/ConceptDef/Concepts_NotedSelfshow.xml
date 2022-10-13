@@ -162,9 +162,9 @@
   <StorageTab.helpText>備蓄ゾーンやロッカーを選択し,左下のウインドウにある「保管」タブを開くことで,詳細設定することができます.\n\n詳細設定画面では,カテゴリー名の左にある三角のアイコンをクリックし広げることで,カテゴリー毎にアイテムの許可・不許可を設定できます.\n\nまた優先順位を変えると,入植者は,先に優先度の高い場所から埋めるようになるため,低い優先度のものを,高い優先度の場所に移動させます.</StorageTab.helpText>
   
   <!-- EN: Tile inspector -->
-  <TileInspector.label>TODO</TileInspector.label>
+  <TileInspector.label>タイルの詳細</TileInspector.label>
   <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->
-  <TileInspector.helpText>TODO</TileInspector.helpText>
+  <TileInspector.helpText>{Key:ShowCellInspector}キーを長押しすると,タイルの詳細を調べることができます.タイルの内容や部屋の情報,美しさの情報などが表示されます.</TileInspector.helpText>
   
   <!-- EN: Time assignments -->
   <TimeAssignments.label>時間割</TimeAssignments.label>

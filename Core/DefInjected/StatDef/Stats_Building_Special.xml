@@ -7,9 +7,9 @@
   <BedRestEffectiveness.description>ここで寝ることで得られる,時間あたりに得られる睡眠量です.</BedRestEffectiveness.description>
   
   <!-- EN: birth quality offset -->
-  <BirthRitualQualityOffset.label>TODO</BirthRitualQualityOffset.label>
+  <BirthRitualQualityOffset.label>出生時の質の増減量</BirthRitualQualityOffset.label>
   <!-- EN: This alters the quality of a birth when this is used as a birth place. Birth quality affects the chance of the baby being born healthy. -->
-  <BirthRitualQualityOffset.description>TODO</BirthRitualQualityOffset.description>
+  <BirthRitualQualityOffset.description>これを出産場所として使用する場合,出産の質に影響を与えます.出生時の質は,乳児が健康に生まれる確率に影響します.</BirthRitualQualityOffset.description>
   
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>ドア開閉速度</DoorOpenSpeed.label>

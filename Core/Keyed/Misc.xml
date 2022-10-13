@@ -37,7 +37,7 @@
   <!-- EN: No -->
   <No>いいえ</No>
   <!-- EN: No {0} -->
-  <NoSubject>TODO</NoSubject>
+  <NoSubject>{0}がない</NoSubject>
   <!-- EN: new -->
   <New>新規</New>
   <!-- EN: Gender -->
@@ -93,9 +93,9 @@
   <!-- EN: Factors -->
   <Factors>要素</Factors>
   <!-- EN: Uses -->
-  <Uses>TODO</Uses>
+  <Uses>使用</Uses>
   <!-- EN: Translation -->
-  <Translation>TODO</Translation>
+  <Translation>翻訳</Translation>
 
   <!-- Content generation-->
   
@@ -147,10 +147,10 @@
   <FactionUnaffiliated>仲間ではない</FactionUnaffiliated>
 
   <!-- EN: Continue anyway? -->
-  <StillWishContinue>TODO</StillWishContinue>
+  <StillWishContinue>本当に続けますか?</StillWishContinue>
   
   <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
-  <BabyTalk>TODO</BabyTalk>
+  <BabyTalk>ば,ばー,ぼー,ぶー,ぎゃ,ぎゃー,ごー,にゃー,な,なー,のー,をー,わー,ふー,ま,まー</BabyTalk>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -194,13 +194,13 @@
   
   <!-- Familial relationships -->
   <!-- EN: born to {0} -->
-  <BornOfParents>TODO</BornOfParents>
+  <BornOfParents>{0}から生まれた</BornOfParents>
   <!-- EN: unknown parents -->
-  <ParentsUnknown>TODO</ParentsUnknown>
+  <ParentsUnknown>両親不明</ParentsUnknown>
   
   <!-- Legal status -->
   <!-- EN: colonist -->
-  <Colonist>TODO</Colonist>
+  <Colonist>入植者</Colonist>
   
   
 </LanguageData>

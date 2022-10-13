@@ -18,17 +18,17 @@
   <!-- EN: Reset -->
   <Reset>リセット</Reset>
   <!-- EN: Reset all -->
-  <ResetAll>TODO</ResetAll>
+  <ResetAll>すべてリセット</ResetAll>
   <!-- EN: Disable -->
-  <Disable>TODO</Disable>
+  <Disable>無効</Disable>
   <!-- EN: Modify -->
-  <Modify>TODO</Modify>
+  <Modify>変更</Modify>
   <!-- EN: Settle here anyways? -->
   <ConfirmSettle>TODO</ConfirmSettle>
   <!-- EN: add -->
   <Add>追加</Add>
   <!-- EN: Cannot shoot -->
-  <CannotShoot>TODO</CannotShoot>
+  <CannotShoot>撮影不可</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -180,49 +180,49 @@
   
   <!-- Pawn naming -->
   <!-- EN: Chosen name is invalid. -->
-  <NameInvalid>TODO</NameInvalid>
+  <NameInvalid>選択した名前は無効です.</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>この人のニックネームを{0}としました.[PAWN_possessive]肩書きは{PAWN_title}です.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>この動物の名前を{0}としました.</AnimalGainsName>
   <!-- EN: rename person -->
-  <RenamePerson>TODO</RenamePerson>
+  <RenamePerson>人物をリネーム</RenamePerson>
   <!-- EN: mother -->
-  <Mother>TODO</Mother>
+  <Mother>母</Mother>
   <!-- EN: father -->
-  <Father>TODO</Father>
+  <Father>父</Father>
   <!-- EN: unknown -->
-  <Unknown>TODO</Unknown>
+  <Unknown>不明</Unknown>
   <!-- EN: first name -->
-  <FirstName>TODO</FirstName>
+  <FirstName>名前</FirstName>
   <!-- EN: nickname -->
-  <NickName>TODO</NickName>
+  <NickName>ニックネーム</NickName>
   <!-- EN: last name -->
-  <LastName>TODO</LastName>
+  <LastName>姓</LastName>
   <!-- EN: suggested -->
-  <Suggested>TODO</Suggested>
+  <Suggested>提案</Suggested>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
   <VersionMismatch>バージョンの不一致</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>警告：このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>警告：このセーブデータはバージョン{0}で保存されたものです.\n現在のバージョンは{1}です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>警告：この世界は バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性がありますので,新規にいちから世界を作ることを強く勧めます.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>警告：この世界はバージョン{0}で保存されたものです.\n現在のバージョンは{1}です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性がありますので,新規にいちから世界を作ることを強く勧めます.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>警告：このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>警告：このセーブデータはバージョン{0}で保存されたものです.\n現在のバージョンは{1}です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>MOD 不一致</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
   <ModsMismatchWarningText>このセーブデータは,現在動作しているMODとは別のMODが有効になった状態でセーブされています.これは,MOD次第によっては,問題を起こすかもしれませんし,そうでないかもしれません.</ModsMismatchWarningText>
   <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
-  <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
+  <ModsMismatchOrderChanged>MODの追加や削除はされてませんが,MODリストの順序が変更されています.</ModsMismatchOrderChanged>
   <!-- EN: Are you sure you want to load the mod list from this save file? -->
-  <ConfirmLoadSaveList>TODO</ConfirmLoadSaveList>
+  <ConfirmLoadSaveList>このセーブデータからMODリストをロードしてもよろしいですか?</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>画面解像度を 変更しました. この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>画面解像度を変更しました.この解像度でよろしいですか？\n\n自動復帰まであと{0}秒...</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>決定</ResolutionKeep>
   <!-- EN: Revert -->
@@ -230,19 +230,19 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>本当に,このコンピュータ上で,開発者モードを永久に無効にするのですか？\n\nこのオプションは開発用ツールを使って通常プレイより有利にゲームをしたいという誘惑がなく,より純粋なゲームプレイを経験したい方々の為にあります.\n\n開発者モードを有効にすることができますが,そのためには設定ファイルを手で修正する必要があります.そのやり方はインターネットを使って調べる必要があります.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>本当にこのコンピュータ上で,開発者モードを永久に無効にしますか?\n\nこのオプションは開発用ツールを使って通常プレイより有利にゲームをしたいという誘惑がなく,より純粋なゲームプレイを経験したい方々の為にあります.\n\n開発者モードを有効にすることができますが,そのためには設定ファイルを手で修正する必要があります.そのやり方はインターネットを使って調べる必要があります.</ConfirmPermanentlyDisableDevMode>
 
   <!-- Confirm reset learning helper -->
   <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
-  <ConfirmResetLearningHelper>TODO</ConfirmResetLearningHelper>
+  <ConfirmResetLearningHelper>ラーニングヘルパーをリセットしてもよろしいですか?\n\n学んだ概念の記録が削除され,システムはゼロからすべてを教えるようになります.</ConfirmResetLearningHelper>
 
   <!-- Backstory translation restart dialog -->
   <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
-  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+  <RestartAfterImportingLegacyBackstoryTanslations>Backstoriesが定義として実装され,すべての従来のBackstory翻訳がdef翻訳にインポートされました.ファイル'{0}'がインポートされ,'{1}'に移動されました.削除できるようになりました.\n\n変更を有効にするためにゲームを再起動します.</RestartAfterImportingLegacyBackstoryTanslations>
 
   <!-- Game start -->
   <!-- EN: Must include exactly {SUMMARY} -->
-  <SelectedCharactersMustInclude>TODO</SelectedCharactersMustInclude>
+  <SelectedCharactersMustInclude>{SUMMARY}を正確に含める必要があります</SelectedCharactersMustInclude>
 
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
@@ -487,9 +487,9 @@
   <!-- EN: Safe dose interval for adults -->
   <SafeDoseInterval>大人にとっての安全な消費間隔</SafeDoseInterval>
   <!-- EN: age {0}-{1} -->
-  <AgeXToY>TODO</AgeXToY>
+  <AgeXToY>年齢 {0}-{1}</AgeXToY>
   <!-- EN: age {0}+ -->
-  <AgePlus>TODO</AgePlus>
+  <AgePlus>年齢 {0}+</AgePlus>
   <!-- EN: New addiction chance -->
   <Addictiveness>依存症になる確率</Addictiveness>
   <!-- EN: Addiction initial severity -->
@@ -845,7 +845,7 @@
   <!-- EN: Automatically select travel supplies -->
   <AutomaticallySelectTravelSupplies>移動用品を自動的に選択する</AutomaticallySelectTravelSupplies>
   <!-- EN: This animal is sick. It is suffering from the following illnesses -->
-  <CaravanAnimalSick>TODO</CaravanAnimalSick>
+  <CaravanAnimalSick>この家畜は病気です.以下の病気にかかっています</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -1011,7 +1011,7 @@
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
-  <DefaultMedicineSettings>TODO</DefaultMedicineSettings>
+  <DefaultMedicineSettings>デフォルトの薬物適用方針</DefaultMedicineSettings>
   <!-- EN: Defaults -->
   <MedGroupDefaults>初期値</MedGroupDefaults>
   <!-- EN: Colonist -->
@@ -1079,7 +1079,7 @@
 
   <!-- Abilities -->
   <!-- EN: Cannot use {0} -->
-  <CannotUseAbility>TODO</CannotUseAbility>
+  <CannotUseAbility>{0}を使用できない</CannotUseAbility>
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>視線が通ることが必要</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
@@ -1095,7 +1095,7 @@
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>ターゲットまでの視線が通りません.</AbilityCannotHitTarget>
   <!-- EN: Target is out of range. -->
-  <AbilityOutOfRange>TODO</AbilityOutOfRange>
+  <AbilityOutOfRange>ターゲットが範囲外です.</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
   <AbilityCannotReachTarget>ターゲットまで到達できません.</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
@@ -1125,9 +1125,9 @@
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort}は{0_labelShort}の正しくない性別です.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
-  <AbilityCantApplyTooYoung>TODO</AbilityCantApplyTooYoung>
+  <AbilityCantApplyTooYoung>{0_labelShort}は若すぎます.</AbilityCantApplyTooYoung>
   <!-- EN: Cannot target a baby. -->
-  <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
+  <AbilityCantApplyOnBaby>乳児をターゲットにすることはできません.</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>精神崩壊の強さあたりのサイフォーカスコスト</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
@@ -1274,53 +1274,53 @@
 
   <!-- Color picker -->
   <!-- EN: color temperature -->
-  <ColorTemperature>TODO</ColorTemperature>
+  <ColorTemperature>色温度</ColorTemperature>
   <!-- EN: choose a color -->
-  <ChooseAColor>TODO</ChooseAColor>
+  <ChooseAColor>色を選択</ChooseAColor>
   <!-- EN: red -->
-  <Red>TODO</Red>
+  <Red>赤</Red>
   <!-- EN: green -->
-  <Green>TODO</Green>
+  <Green>緑</Green>
   <!-- EN: blue -->
-  <Blue>TODO</Blue>
+  <Blue>青</Blue>
   <!-- EN: hue -->
-  <Hue>TODO</Hue>
+  <Hue>色相</Hue>
   <!-- EN: sat -->
-  <Saturation>TODO</Saturation>
+  <Saturation>彩度</Saturation>
   <!-- EN: value -->
   <Value>値</Value>
   <!-- EN: darklight -->
-  <Darklight>TODO</Darklight>
+  <Darklight>ダークライト</Darklight>
   <!-- EN: not darklight -->
-  <NotDarklight>TODO</NotDarklight>
+  <NotDarklight>ダークライトでない</NotDarklight>
   <!-- EN: current color -->
-  <CurrentColor>TODO</CurrentColor>
+  <CurrentColor>現在の色</CurrentColor>
   <!-- EN: old color -->
-  <OldColor>TODO</OldColor>
+  <OldColor>前の色</OldColor>
   <!-- EN: Copy color -->
-  <CommandCopyColorLabel>TODO</CommandCopyColorLabel>
+  <CommandCopyColorLabel>色をコピー</CommandCopyColorLabel>
   <!-- EN: Copy the current color to the clipboard. -->
-  <CommandCopyColorDesc>TODO</CommandCopyColorDesc>
+  <CommandCopyColorDesc>現在の色をクリップボードにコピーします.</CommandCopyColorDesc>
   <!-- EN: Paste color -->
-  <CommandPasteColorLabel>TODO</CommandPasteColorLabel>
+  <CommandPasteColorLabel>色を貼り付け</CommandPasteColorLabel>
   <!-- EN: Overwrite the color with the color in the clipboard. -->
-  <CommandPasteColorDesc>TODO</CommandPasteColorDesc>
+  <CommandPasteColorDesc>クリップボードの色で現在の色を上書きします.</CommandPasteColorDesc>
   <!-- EN: The clipboard does not contain a valid color. -->
-  <ClipboardInvalidColor>TODO</ClipboardInvalidColor>
+  <ClipboardInvalidColor>クリップボードに有効な色が含まれていません.</ClipboardInvalidColor>
   <!-- EN: Color copied to clipboard. -->
-  <ColorCopiedSuccessfully>TODO</ColorCopiedSuccessfully>
+  <ColorCopiedSuccessfully>色がクリップボードにコピーされました.</ColorCopiedSuccessfully>
   <!-- EN: Updated color from the clipboard. -->
   <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
   <!-- EN: Change to normal light -->
-  <ToggleDarklightOff>TODO</ToggleDarklightOff>
+  <ToggleDarklightOff>通常のライトに変更</ToggleDarklightOff>
   <!-- EN: Change the light color to its normal color. -->
-  <ToggleDarklightOffDesc>TODO</ToggleDarklightOffDesc>
+  <ToggleDarklightOffDesc>ライトの色を通常の色に変更します.</ToggleDarklightOffDesc>
   <!-- EN: Change to darklight -->
-  <ToggleDarklightOn>TODO</ToggleDarklightOn>
+  <ToggleDarklightOn>ダークライトに変更</ToggleDarklightOn>
   <!-- EN: Change the light color to darklight. -->
-  <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
+  <ToggleDarklightOnDesc>ライトの色をダークライトに変更します.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
-  <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
+  <ColorTemperatureTooltip>色温度を設定して色を選択します.注意:これは視覚的な色にのみ影響し,熱出力には影響しません.</ColorTemperatureTooltip>
 
   <!-- UNUSED -->
   <BillRequiresNutrition>{0}個の"栄養"が必要</BillRequiresNutrition>

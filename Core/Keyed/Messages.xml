@@ -116,11 +116,11 @@
   <!-- EN: Must designate abandoned claimable structures or items. -->
   <MessageMustDesignateClaimable>領有の主張が可能な放棄された構造物かアイテムを指定してください.</MessageMustDesignateClaimable>
   <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
-  <MessageMustDesignatePaintableBuildings>TODO</MessageMustDesignatePaintableBuildings>
+  <MessageMustDesignatePaintableBuildings>{0_label}に着色されていない,着色可能な建築物を指定する必要があります.</MessageMustDesignatePaintableBuildings>
   <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->
-  <MessageMustDesignatePaintableFloors>TODO</MessageMustDesignatePaintableFloors>
+  <MessageMustDesignatePaintableFloors>{0_label}に着色されていない,着色可能なフロアを指定する必要があります.</MessageMustDesignatePaintableFloors>
   <!-- EN: Must designate painted buildings or floors. -->
-  <MessageMustDesignatePainted>TODO</MessageMustDesignatePainted>
+  <MessageMustDesignatePainted>着色された建築物,フロアを指定する必要があります.</MessageMustDesignatePainted>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
   <MessageMustDesignateDeconstructibleMechCluster>あなたはそれを解体する前に,先にメカクラスターを倒さなければなりません.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
@@ -140,19 +140,19 @@
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>禁止されたアイテムを指定してください.</MessageMustDesignateUnforbiddable>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotClaimWhenThreatsAreNear>TODO</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotClaimWhenThreatsAreNear>戦闘可能な{THREAT_factionPawnsPlural}が近くにいる間は,{CLAIMABLE_labelShort}を要求できません.</MessageCannotClaimWhenThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotAdoptWhileThreatsAreNear>TODO</MessageCannotAdoptWhileThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>戦闘可能な{THREAT_factionPawnsPlural}が近くにいる間は,{CLAIMABLE_labelShort}を採用できません.</MessageCannotAdoptWhileThreatsAreNear>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>{1_labelShort}は 逮捕を拒否しました.</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort}は逮捕を拒否しました!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>利用可能な医療用ベッドがありません.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>利用可能な動物用ベッドがありません.</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
-  <MessageWarningNoMedicineForRestriction>TODO</MessageWarningNoMedicineForRestriction>
+  <MessageWarningNoMedicineForRestriction>警告: {PAWN_nameDef}の薬物適用方針({RESTRICTIONLABEL})により,この操作は行えません.{PAWN_possessive}方針を変更してください.</MessageWarningNoMedicineForRestriction>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort}は命を落としました.原因: {1}</PawnDiedBecauseOf>
@@ -698,7 +698,7 @@
   <!-- EN: {0} must be a human. -->
   <MessageRitualRoleMustBeHumanlike>{0}は人間である必要があります.</MessageRitualRoleMustBeHumanlike>
   <!-- EN: {0} cannot be a baby. -->
-  <MessageRitualRoleCannotBeABaby>TODO</MessageRitualRoleCannotBeABaby>
+  <MessageRitualRoleCannotBeABaby>{0}は乳児になれません.</MessageRitualRoleCannotBeABaby>
   <!-- EN: No roles available for {0_labelShort}. -->
   <MessageRitualNoRolesAvailable>{0_labelShort}に適用できる役割はありません.</MessageRitualNoRolesAvailable>
   <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
@@ -708,7 +708,7 @@
   <!-- EN: {0_labelShort} does not require further scarification. -->
   <MessageRitualRoleMustRequireScarification>{0_labelShort}はこれ以上のスカリフィケーションを必要としません.</MessageRitualRoleMustRequireScarification>
   <!-- EN: {0_labelShort} does not require blinding. -->
-  <MessageRitualRoleMustRequireBlinding>TODO</MessageRitualRoleMustRequireBlinding>
+  <MessageRitualRoleMustRequireBlinding>{0_labelShort}は盲目になることを要求していません.</MessageRitualRoleMustRequireBlinding>
   <!-- EN: {0} must be a prisoner or slave. -->
   <MessageRitualRoleMustBePrisonerOrSlave>{0}は囚人か奴隷である必要があります.</MessageRitualRoleMustBePrisonerOrSlave>
   <!-- EN: {0_labelShort} must be capable of fighting. -->
@@ -732,9 +732,9 @@
   <!-- EN: must be colonist for the {0} role. -->
   <MessageRitualRoleMustBeColonist>{0}の役割を持つ入植者である必要があります.</MessageRitualRoleMustBeColonist>
   <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
-  <MessageRitualWontAttendExtremeTemperature>TODO</MessageRitualWontAttendExtremeTemperature>
+  <MessageRitualWontAttendExtremeTemperature>儀式エリアが極端な温度なため,{0_labelShort}は出席できません.</MessageRitualWontAttendExtremeTemperature>
   <!-- EN: must be colonist and not enslaved for the {0} role. -->
-  <MessageRitualRoleMustBeFreeColonist>TODO</MessageRitualRoleMustBeFreeColonist>
+  <MessageRitualRoleMustBeFreeColonist>{0}の役割は奴隷でない入植者である必要があります.</MessageRitualRoleMustBeFreeColonist>
   <!-- EN: {0} must have an animal with min body size of {1}. -->
   <MessageRitualRoleMustHaveLargerBodySize>{0}には,{1}が最小の体格の家畜が必要です.</MessageRitualRoleMustHaveLargerBodySize>
   <!-- EN: {0_labelShort} is in a mental state. -->
@@ -748,9 +748,9 @@
   <!-- EN: {0} must be free. -->
   <MessageRitualRoleMustNotBeImprisoned>{0}は自由である必要があります.</MessageRitualRoleMustNotBeImprisoned>
   <!-- EN: {0} cannot be a child. -->
-  <MessageRitualRoleCannotBeChild>TODO</MessageRitualRoleCannotBeChild>
+  <MessageRitualRoleCannotBeChild>{0}は子供になれません.</MessageRitualRoleCannotBeChild>
   <!-- EN: {0} cannot be a baby. -->
-  <MessageRitualRoleCannotBeBaby>TODO</MessageRitualRoleCannotBeBaby>
+  <MessageRitualRoleCannotBeBaby>{0}は乳児になれません.</MessageRitualRoleCannotBeBaby>
 
   <!-- EN: You must select a site to continue. -->
   <MessagePlayerMustSelectTile>続行するには,敷地を選択する必要があります.</MessagePlayerMustSelectTile>
@@ -772,22 +772,22 @@
   <MessageWarningCutImportantPlant>警告:{0}が伐採対象に選択されています.</MessageWarningCutImportantPlant>
 
   <!-- EN: {0_labelShort} is incapable of manipulation. -->
-  <MessageIncapableOfManipulation>TODO</MessageIncapableOfManipulation>
+  <MessageIncapableOfManipulation>{0_labelShort}は操作できません.</MessageIncapableOfManipulation>
 
   <!-- EN: {0_labelShort} activation canceled -->
-  <MessageActivationCanceled>TODO</MessageActivationCanceled>
+  <MessageActivationCanceled>{0_labelShort}の活性化がキャンセルされました</MessageActivationCanceled>
 
   <!-- EN: Nothing is currently buildable in category -->
-  <NothingAvailableInCategory>TODO</NothingAvailableInCategory>
+  <NothingAvailableInCategory>現在,このカテゴリで建築できるものはありません</NothingAvailableInCategory>
 
   <!-- EN: Storage settings linked for {0} buildings. -->
-  <SettingsLinkedFor>TODO</SettingsLinkedFor>
+  <SettingsLinkedFor>{0}個の建築物のストレージ設定がリンクされました.</SettingsLinkedFor>
   <!-- EN: Storage settings unlinked for {0} buildings. -->
-  <SettingsUnlinkedFor>TODO</SettingsUnlinkedFor>
+  <SettingsUnlinkedFor>{0}個の建築物のストレージ設定のリンクが解除されました.</SettingsUnlinkedFor>
   <!-- EN: Storage settings copied to clipboard. -->
-  <StorageSettingsCopiedToClipboard>TODO</StorageSettingsCopiedToClipboard>
+  <StorageSettingsCopiedToClipboard>ストレージ設定をクリップボードにコピーしました.</StorageSettingsCopiedToClipboard>
   <!-- EN: Storage settings pasted from clipboard. -->
-  <StorageSettingsPastedFromClipboard>TODO</StorageSettingsPastedFromClipboard>
+  <StorageSettingsPastedFromClipboard>ストレージ設定をクリップボードから貼り付けました.</StorageSettingsPastedFromClipboard>
 
   <!-- UNUSED -->
   <MessageTooLowMedCare>処置には{0}より上が必要ですが,{PAWN_labelShort}の治療レベルは"{2}"となっています.</MessageTooLowMedCare>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: cleaning time multiplier -->
-  <CleaningTimeFactor.label>TODO</CleaningTimeFactor.label>
+  <CleaningTimeFactor.label>洗浄時間の掛け率</CleaningTimeFactor.label>
   <!-- EN: A multiplier on how long it takes to clean filth from this surface. -->
-  <CleaningTimeFactor.description>TODO</CleaningTimeFactor.description>
+  <CleaningTimeFactor.description>この表面から汚れを除去するのにかかる時間の乗数です.</CleaningTimeFactor.description>
   
   <!-- EN: construction speed -->
   <ConstructionSpeedFactor.label>建造速度</ConstructionSpeedFactor.label>
