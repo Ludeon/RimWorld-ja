@@ -20,7 +20,7 @@
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>優先順位タブの手動選択モードで数値を右クリックすると,優先度を上げる代わりに優先度を下げます.</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
-  <GameplayTips.CellInspector>TODO</GameplayTips.CellInspector>
+  <GameplayTips.CellInspector>Altキーを押し続けると,特定のタイルに関する詳細情報を表示できます.</GameplayTips.CellInspector>
   <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
   <GameplayTips.GunfightCover>銃撃戦では常にカバーに隠れてください!右クリックしてドラッグすると,徴兵された兵士たちが一列になります.</GameplayTips.GunfightCover>
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
@@ -94,7 +94,7 @@
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
   <GameplayTips.TerrainCleanliness>地形が異なれば,固有の清浄度も異なります.タイルは基本的に清潔で,土は不潔です.</GameplayTips.TerrainCleanliness>
   <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
-  <GameplayTips.TerrainCleanSpeed>TODO</GameplayTips.TerrainCleanSpeed>
+  <GameplayTips.TerrainCleanSpeed>一部の種類のフロアは,他のフロアよりも早く掃除できます.絨毯は金属タイルに比べ,掃除に時間がかかります.</GameplayTips.TerrainCleanSpeed>
   <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
   <GameplayTips.PrisonersAsGifts>囚人は贈り物として贈ることができます.囚人を本人の派閥に贈ることは高く評価されます.</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->

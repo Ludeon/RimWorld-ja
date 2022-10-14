@@ -38,19 +38,19 @@
   <!-- EN: minor pain -->
   <Pain.stages.minor_pain.label>わずかな痛み</Pain.stages.minor_pain.label>
   <!-- EN: Ow... That hurts. -->
-  <Pain.stages.minor_pain.description>ん？なにか痛い.</Pain.stages.minor_pain.description>
+  <Pain.stages.minor_pain.description>ん?なにか痛い.</Pain.stages.minor_pain.description>
   <!-- EN: serious pain -->
   <Pain.stages.serious_pain.label>深刻な痛み</Pain.stages.serious_pain.label>
   <!-- EN: Ughhh... When will it end? -->
-  <Pain.stages.serious_pain.description>ううう,いつ痛みが止むのだろう?</Pain.stages.serious_pain.description>
+  <Pain.stages.serious_pain.description>ううう...いつ痛みが止むのだろう?</Pain.stages.serious_pain.description>
   <!-- EN: intense pain -->
   <Pain.stages.intense_pain.label>激しい痛み</Pain.stages.intense_pain.label>
   <!-- EN: Make it stop... make it stop... make it stop... -->
-  <Pain.stages.intense_pain.description>痛みを止めてくれ,痛みを止めてくれ,痛みを止めてくれ.</Pain.stages.intense_pain.description>
+  <Pain.stages.intense_pain.description>痛みを止めてくれ,痛みを止めてくれ,痛みを止めてくれ...</Pain.stages.intense_pain.description>
   <!-- EN: mind-shattering pain -->
   <Pain.stages.mindshattering_pain.label>気が遠くなる痛み</Pain.stages.mindshattering_pain.label>
   <!-- EN: AAAAAHHH! -->
-  <Pain.stages.mindshattering_pain.description>うぁぁぁぁぁ</Pain.stages.mindshattering_pain.description>
+  <Pain.stages.mindshattering_pain.description>うぁぁぁぁぁ!</Pain.stages.mindshattering_pain.description>
   
   <!-- EN: psychic soothe -->
   <PsychicDrone.stages.psychic_soothe.label>サイコスード</PsychicDrone.stages.psychic_soothe.label>
@@ -83,18 +83,18 @@
   <PsychicEntropyHangover.stages.psychic_hangover.description>身体と両目が痛い,それが大脳由来だってことも解っている.</PsychicEntropyHangover.stages.psychic_hangover.description>
   
   <!-- EN: rot stink -->
-  <RotStink.stages.rot_stink.label>TODO</RotStink.stages.rot_stink.label>
+  <RotStink.stages.rot_stink.label>腐敗臭</RotStink.stages.rot_stink.label>
   <!-- EN: A rotten stink invades my nostrils and sticks to my skin. It makes me sick. -->
-  <RotStink.stages.rot_stink.description>TODO</RotStink.stages.rot_stink.description>
+  <RotStink.stages.rot_stink.description>腐った悪臭が鼻孔に侵入して,皮膚に付着する.なんて気持ち悪い.</RotStink.stages.rot_stink.description>
   <!-- EN: awful rot stink -->
-  <RotStink.stages.awful_rot_stink.label>TODO</RotStink.stages.awful_rot_stink.label>
+  <RotStink.stages.awful_rot_stink.label>ひどい腐敗臭</RotStink.stages.awful_rot_stink.label>
   <!-- EN: The stench of rot is so thick I almost feel like I'm swimming in it. I can hardly breathe in this filth! -->
-  <RotStink.stages.awful_rot_stink.description>TODO</RotStink.stages.awful_rot_stink.description>
+  <RotStink.stages.awful_rot_stink.description>腐敗臭があまりにも濃くて,まるで腐敗臭の中を泳いでいるようだ.こんな汚物の中じゃ息ができない!</RotStink.stages.awful_rot_stink.description>
   
   <!-- EN: rot stink lingering -->
-  <RotStinkLingering.stages.rot_stink_lingering.label>TODO</RotStinkLingering.stages.rot_stink_lingering.label>
+  <RotStinkLingering.stages.rot_stink_lingering.label>長引く腐敗臭</RotStinkLingering.stages.rot_stink_lingering.label>
   <!-- EN: That rot stink was horrible - and it feels like it's still stuck to me. -->
-  <RotStinkLingering.stages.rot_stink_lingering.description>TODO</RotStinkLingering.stages.rot_stink_lingering.description>
+  <RotStinkLingering.stages.rot_stink_lingering.description>あの腐敗臭は本当にひどかったし,未だににおいがまとわりついている気がする.</RotStinkLingering.stages.rot_stink_lingering.description>
   
   <!-- EN: sharing bed -->
   <SharedBed.stages.sharing_bed.label>ベッドシェア</SharedBed.stages.sharing_bed.label>

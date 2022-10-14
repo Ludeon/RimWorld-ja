@@ -131,11 +131,11 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>電気を貯める</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
-  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません.このままでは風が止まったり,太陽が沈んだときに電力を喪失するでしょう.\n\n継続して電力を保証するために,バッテリーを1つないし2つ作りましょう.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません.このままでは風が止まったり,太陽が沈んだときに電力を喪失するでしょう.\n\n継続して電力を維持するために,バッテリーを1つないし2つ作りましょう.</NeedBatteriesDesc>
   <!-- EN: Build a battery or two to guarantee sustained power. -->
-  <NeedBatteriesResearchedDesc>TODO</NeedBatteriesResearchedDesc>
+  <NeedBatteriesResearchedDesc>継続して電力を維持するために,バッテリーを1つ,もしくは2つ作りましょう.</NeedBatteriesResearchedDesc>
   <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
-  <NeedBatteriesNotResearchedDesc>TODO</NeedBatteriesNotResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>バッテリーを研究し,2つのバッテリーを作って,持続的な電力を維持しましょう.</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>格闘家と遠隔武器</BrawlerHasRangedWeapon>
@@ -197,14 +197,14 @@
   <BilliardsNeedsSpaceDesc>あるビリヤード台に障害物が隣接しているため,入植者が使えません.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Chess table needs chairs -->
-  <ChessTablesNeedChairs>TODO</ChessTablesNeedChairs>
+  <ChessTablesNeedChairs>チェス盤に椅子が必要</ChessTablesNeedChairs>
   <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
-  <ChessTablesNeedChairsDesc>TODO</ChessTablesNeedChairsDesc>
+  <ChessTablesNeedChairsDesc>チェス盤に隣接する椅子がありません.\n\n隣接する場所に椅子かスツールを設置して,入植者がチェス盤を使用できるようにしましょう.一度に2人までチェス盤を使用できます.</ChessTablesNeedChairsDesc>
 
   <!-- EN: Poker table needs chairs -->
-  <PokerTablesNeedChairs>TODO</PokerTablesNeedChairs>
+  <PokerTablesNeedChairs>ポーカーテーブルに椅子が必要</PokerTablesNeedChairs>
   <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
-  <PokerTablesNeedChairsDesc>TODO</PokerTablesNeedChairsDesc>
+  <PokerTablesNeedChairsDesc>ポーカーテーブルに隣接する椅子がありません.\n\n隣接する場所に椅子かスツールを設置して,入植者がポーカーテーブルを使用できるようにしましょう.一度に8人までポーカーテーブルを使用できます.</PokerTablesNeedChairsDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>狩人とシールド</HunterHasShieldAndRangedWeapon>
@@ -330,8 +330,8 @@
   <AlertMinifiedTreeAboutToDieDesc>{0}引き抜かれた木は1日以内に枯れます.これは何人かの入植者の信念によって不幸になるでしょう.</AlertMinifiedTreeAboutToDieDesc>
 
   <!-- EN: Need research bench -->
-  <NeedResearchBench>TODO</NeedResearchBench>
+  <NeedResearchBench>研究卓が必要</NeedResearchBench>
   <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
-  <NeedResearchBenchDesc>TODO</NeedResearchBenchDesc>
+  <NeedResearchBenchDesc>研究プロジェクト'{0}'を研究中です.このプロジェクトを続けるには{1}を建築する必要があります.</NeedResearchBenchDesc>
   
 </LanguageData>
