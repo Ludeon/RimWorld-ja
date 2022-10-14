@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: firefoam pop pack -->
-  <Apparel_FirefoampopPack.label>TODO</Apparel_FirefoampopPack.label>
+  <Apparel_FirefoampopPack.label>消火剤ポップパック</Apparel_FirefoampopPack.label>
   <!-- EN: A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer. -->
-  <Apparel_FirefoampopPack.description>TODO</Apparel_FirefoampopPack.description>
+  <Apparel_FirefoampopPack.description>消火隊のために作られたユーティリティパックです.起動すると難燃性の泡が爆発的に放出され,着用者の周りを広い円で覆います.</Apparel_FirefoampopPack.description>
   <!-- EN: firefoam pop -->
-  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>TODO</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>消火剤ポップ</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>TODO</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
+  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
   <!-- EN: pop firefoam -->
-  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>TODO</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>消火剤を展開</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
   
   <!-- EN: smokepop pack -->
   <Apparel_SmokepopBelt.label>スモークポップパック</Apparel_SmokepopBelt.label>
@@ -19,7 +19,7 @@
   <!-- EN: smokepop -->
   <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>スモークポップ</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>TODO</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
+  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
   <!-- EN: pop smoke -->
   <Apparel_SmokepopBelt.verbs.pop_smoke.label>煙幕を展開</Apparel_SmokepopBelt.verbs.pop_smoke.label>
   

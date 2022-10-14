@@ -51,7 +51,7 @@
   <!-- EN: Contents -->
   <TabCasketContents>収容者</TabCasketContents>
   <!-- EN: Auto-cut -->
-  <TabWindTurbineAutoCut>TODO</TabWindTurbineAutoCut>
+  <TabWindTurbineAutoCut>自動刈取</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -125,19 +125,19 @@
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>有罪とする</ConsideredGuiltyNoTimer>
   <!-- EN: Last resistance reduction -->
-  <LastRecruitment>TODO</LastRecruitment>
+  <LastRecruitment>最後の抵抗減少量</LastRecruitment>
   <!-- EN: How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited. -->
-  <LastRecruitmentDescription>TODO</LastRecruitmentDescription>
+  <LastRecruitmentDescription>{0_nameDef}は最後に勧誘されたときに抵抗が{1}減少しました.</LastRecruitmentDescription>
   <!-- EN: Opinion of recruiter -->
-  <OpinionOfRecruiter>TODO</OpinionOfRecruiter>
+  <OpinionOfRecruiter>看守の意見</OpinionOfRecruiter>
   <!-- EN: Recruiter negotiation ability -->
-  <RecruiterNegotiationAbility>TODO</RecruiterNegotiationAbility>
+  <RecruiterNegotiationAbility>看守の交渉力</RecruiterNegotiationAbility>
   <!-- EN: Unwavering loyalty -->
-  <NonRecruitable>TODO</NonRecruitable>
+  <NonRecruitable>揺るぎない忠誠心</NonRecruitable>
   <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
-  <NonRecruitableTip>TODO</NonRecruitableTip>
+  <NonRecruitableTip>この囚人は自分の派閥に揺るぎない忠誠心を持つため,勧誘されることを完全に拒否しています.</NonRecruitableTip>
   <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
-  <NonRecruitableTipCannotConvert>TODO</NonRecruitableTipCannotConvert>
+  <NonRecruitableTipCannotConvert>この人物らの忠誠心は信条にまで及んでいるため,改宗させることができません.</NonRecruitableTipCannotConvert>
 
 
 
@@ -206,7 +206,7 @@
   <!-- EN: Hunger rate -->
   <HungerRate>空腹率</HungerRate>
   <!-- EN: Food consumption -->
-  <FoodConsumption>TODO</FoodConsumption>
+  <FoodConsumption>栄養消費量</FoodConsumption>
   <!-- EN: Tiredness -->
   <Tiredness>疲れ</Tiredness>
   <!-- EN: Pain -->
@@ -421,7 +421,7 @@
   <AutocutUnenclosedPenTip>ペンのある囲いが閉じられてないため,自動刈り取りは機能しません.</AutocutUnenclosedPenTip>
 
   <!-- EN: Auto-cut plants blocking wind turbine -->
-  <WindTurbineAutoCut_EnabledCheckbox>TODO</WindTurbineAutoCut_EnabledCheckbox>
+  <WindTurbineAutoCut_EnabledCheckbox>風力発電を妨害する植物の自動伐採</WindTurbineAutoCut_EnabledCheckbox>
 
   <!-- UNUSED -->
   <NoRelationships>(無関係)</NoRelationships>

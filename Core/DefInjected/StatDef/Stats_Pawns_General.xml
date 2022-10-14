@@ -7,7 +7,7 @@
   <AnimalsLearningFactor.description>動物スキルにおいての身につけやすさへの掛け率です.</AnimalsLearningFactor.description>
   
   <!-- EN: bed hunger rate multiplier -->
-  <BedHungerRateFactor.label>TODO</BedHungerRateFactor.label>
+  <BedHungerRateFactor.label>ベッド空腹率乗数</BedHungerRateFactor.label>
   
   <!-- EN: caravan riding speed -->
   <CaravanRidingSpeedFactor.label>キャラバン騎乗時の速度</CaravanRidingSpeedFactor.label>
@@ -69,14 +69,14 @@
   <LeatherAmount.description>この生物を屠殺して捌いたときに得られる皮の量です.生物が屠殺されなかった場合,または殺されるときに負傷していた場合,この値は減少します.</LeatherAmount.description>
   
   <!-- EN: lifespan factor -->
-  <LifespanFactor.label>TODO</LifespanFactor.label>
+  <LifespanFactor.label>寿命係数</LifespanFactor.label>
   <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
-  <LifespanFactor.description>TODO</LifespanFactor.description>
+  <LifespanFactor.description>寿命係数は、生物が加齢に伴う病気を発症するまでの時間に影響を与え,生物の有効寿命を変更します.寿命係数が100%を超えると病気の発症が遅くなり寿命が長くなりますが,寿命係数が100%を下回ると病気の発症が早まり寿命が短くなります.</LifespanFactor.description>
   
   <!-- EN: max nutrition -->
-  <MaxNutrition.label>TODO</MaxNutrition.label>
+  <MaxNutrition.label>最大栄養量</MaxNutrition.label>
   <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
-  <MaxNutrition.description>TODO</MaxNutrition.description>
+  <MaxNutrition.description>この生物の胃を完全に満たすために必要な栄養の量です.</MaxNutrition.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>生肉の量</MeatAmount.label>
@@ -137,14 +137,14 @@
   <RestRateMultiplier.description>どのくらい寝ている間に速く休息を得られるかの掛け率です.</RestRateMultiplier.description>
   
   <!-- EN: toxic environment resistance -->
-  <ToxicEnvironmentResistance.label>TODO</ToxicEnvironmentResistance.label>
+  <ToxicEnvironmentResistance.label>毒環境耐性</ToxicEnvironmentResistance.label>
   <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
-  <ToxicEnvironmentResistance.description>TODO</ToxicEnvironmentResistance.description>
+  <ToxicEnvironmentResistance.description>この生物の環境毒に対する耐性です.有毒な放射性降下物や腐敗臭への曝露からは保護されますが,毒液や注入された毒による直接攻撃からは保護されません.</ToxicEnvironmentResistance.description>
   
   <!-- EN: toxic resistance -->
-  <ToxicResistance.label>TODO</ToxicResistance.label>
+  <ToxicResistance.label>毒耐性</ToxicResistance.label>
   <!-- EN: How well this creature resists toxic buildup. -->
-  <ToxicResistance.description>TODO</ToxicResistance.description>
+  <ToxicResistance.description>この生物が毒に対してどの程度抵抗できるかです.</ToxicResistance.description>
   
   <!-- UNUSED -->
   <ToxicSensitivity.label>毒に対する感受性</ToxicSensitivity.label>

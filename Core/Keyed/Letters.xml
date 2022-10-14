@@ -11,7 +11,7 @@
   <!-- EN: Read more -->
   <ReadMore>もっと読む</ReadMore>
   <!-- EN: You have {0} more letters -->
-  <MoreLetters>TODO</MoreLetters>
+  <MoreLetters>残り{0}つのレター</MoreLetters>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
@@ -546,15 +546,15 @@
   <LetterTextSiteCountdownStarted>キャラバンが発見されました. {0}後に, 強化した{1}が{2}からエリアに到着し始めます.\n\nキャラバンを再編成し,{1}を避けるために移動してください.彼らの到着までをカウントダウンするタイマーが表示されます.</LetterTextSiteCountdownStarted>
 
   <!-- EN: Unwavering prisoner -->
-  <LetterLabelUnrecruitablePawnCaptured>TODO</LetterLabelUnrecruitablePawnCaptured>
+  <LetterLabelUnrecruitablePawnCaptured>動じない囚人</LetterLabelUnrecruitablePawnCaptured>
   <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
-  <LetterTextUnrecruitablePawnCaptured>TODO</LetterTextUnrecruitablePawnCaptured>
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef}は自分の派閥に揺るぎない忠誠を尽くしており,勧誘を完全に拒絶します.\n\n囚人を選択することで,揺るぎない忠誠心を持っているかどうかを確認できます.</LetterTextUnrecruitablePawnCaptured>
   <!-- EN: enslave {PAWN_objective} -->
-  <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
+  <OptionalEnslaveDesc>{PAWN_objective}奴隷にする</OptionalEnslaveDesc>
 
   <!-- Lung rot -->
   <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
-  <LetterTextLungRot>TODO</LetterTextLungRot>
+  <LetterTextLungRot>{PAWN}は腐敗ガス(腐った死骸から放出されるガス)に長期間さらされたため,{1}が病気になりました.\n\n医療用ベッドと医者を確保してください.{PAWN_defined}が適切に扱われるようにしてください.</LetterTextLungRot>
 
   <!-- Join Offer -->
   <!-- EN: Join offer: {PAWN_nameDef} -->

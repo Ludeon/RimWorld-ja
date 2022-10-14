@@ -12,9 +12,9 @@
   <AnimalGatherYield.description>乳絞り,毛刈り,家畜から収穫をしたときに得られる量のパーセンテージです.\n\n数値が高いほど,無駄になる生産物の量が少なくなります.</AnimalGatherYield.description>
   
   <!-- EN: cleaning speed multiplier -->
-  <CleaningSpeed.label>TODO</CleaningSpeed.label>
+  <CleaningSpeed.label>掃除速度乗数</CleaningSpeed.label>
   <!-- EN: A multiplier on how fast this cleans up filth from the ground. -->
-  <CleaningSpeed.description>TODO</CleaningSpeed.description>
+  <CleaningSpeed.description>地面から汚れを除去する速さに対する乗数です.</CleaningSpeed.description>
   
   <!-- EN: construction speed -->
   <ConstructionSpeed.label>建造・速度</ConstructionSpeed.label>
