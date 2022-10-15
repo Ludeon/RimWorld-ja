@@ -252,7 +252,7 @@
   <CaravanAttacking>攻撃中 {0}</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>{0}へ貢ぎ物を申し入れる</CaravanOfferingGifts>
-  <!-- EN: Trading with {0} -->
+  <!-- EN: Trading with {0}. -->
   <CaravanTrading>貿易中 {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>死体が着用して穢れた</WasWornByCorpse>
@@ -701,7 +701,7 @@
   <!-- EN: Walk speed -->
   <WalkSpeed_Label>移動速度</WalkSpeed_Label>
   <!-- EN: Fertility -->
-  <Fertility_Label>肥沃度</Fertility_Label>
+  <Fertility_Label>受胎能力</Fertility_Label>
   <!-- EN: Temperature -->
   <Temperature_Label>温度</Temperature_Label>
   <!-- EN: Light level -->
@@ -719,7 +719,7 @@
   <!-- EN: Pollution -->
   <Pollution_Label>汚染</Pollution_Label>
   <!-- EN: Filth -->
-  <Filth_Label>汚れ</Filth_Label><!-- text_todo -->
+  <Filth_Label>汚物</Filth_Label><!-- text_todo -->
   
   <!-- EN: Faction -->
   <Faction_Label>派閥</Faction_Label>
