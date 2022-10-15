@@ -24,11 +24,11 @@
   <!-- EN: Modify -->
   <Modify>変更</Modify>
   <!-- EN: Settle here anyways? -->
-  <ConfirmSettle>TODO</ConfirmSettle>
+  <ConfirmSettle>本当にここに入植しますか?</ConfirmSettle>
   <!-- EN: add -->
   <Add>追加</Add>
   <!-- EN: Cannot shoot -->
-  <CannotShoot>撮影不可</CannotShoot>
+  <CannotShoot>発射不可</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -1011,7 +1011,7 @@
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
-  <DefaultMedicineSettings>デフォルトの薬物適用方針</DefaultMedicineSettings>
+  <DefaultMedicineSettings>デフォルトの医薬品設定</DefaultMedicineSettings>
   <!-- EN: Defaults -->
   <MedGroupDefaults>初期値</MedGroupDefaults>
   <!-- EN: Colonist -->
@@ -1259,7 +1259,7 @@
   <RoomRequirementNoAltars>祭壇の不許可</RoomRequirementNoAltars>
 
   <!-- EN: Lifestage max food factor -->
-  <LifeStageMaxFood>TODO</LifeStageMaxFood>
+  <LifeStageMaxFood>ライフステージによる最大食物係数</LifeStageMaxFood>
 
   <!-- EN: Expand all -->
   <ExpandAllCategories>全て展開</ExpandAllCategories>
@@ -1270,7 +1270,7 @@
   <TooltipDyeExplanation>染料はティンクトリアから栽培することも,トレーダーから購入することもできます.</TooltipDyeExplanation>
 
   <!-- EN: Zoom range {0} -->
-  <ZoomRange>TODO</ZoomRange>
+  <ZoomRange>ズーム範囲 {0}</ZoomRange>
 
   <!-- Color picker -->
   <!-- EN: color temperature -->
@@ -1310,7 +1310,7 @@
   <!-- EN: Color copied to clipboard. -->
   <ColorCopiedSuccessfully>色がクリップボードにコピーされました.</ColorCopiedSuccessfully>
   <!-- EN: Updated color from the clipboard. -->
-  <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
+  <ColorPastedSuccessfully>クリップボードの色に更新されました.</ColorPastedSuccessfully>
   <!-- EN: Change to normal light -->
   <ToggleDarklightOff>通常のライトに変更</ToggleDarklightOff>
   <!-- EN: Change the light color to its normal color. -->

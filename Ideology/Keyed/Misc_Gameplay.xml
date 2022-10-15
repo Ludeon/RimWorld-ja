@@ -154,7 +154,7 @@
   <!-- EN: Acceptable food for everyone -->
   <MealKindAny>誰でも食べられる食べ物</MealKindAny>
   <!-- EN: this outfit -->
-  <WearingDesiredApparelMulti>TODO</WearingDesiredApparelMulti>
+  <WearingDesiredApparelMulti>この衣装</WearingDesiredApparelMulti>
 
   <!-- EN: Could not load ideoligion -->
   <UnableToLoadIdeoTitle>思想をロードできない</UnableToLoadIdeoTitle>
@@ -208,7 +208,7 @@
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>参加者ごとに{0}本の木材が必要です(合計{2}).現在{1}本の木材を持っています.</RitualTargeWoodInfo>
   <!-- EN: {0} must be able to reach ritual target. -->
-  <RitualTargetUnreachable>TODO</RitualTargetUnreachable>
+  <RitualTargetUnreachable>{0}は儀式の目標に到達できなければなりません.</RitualTargetUnreachable>
   <!-- EN: Accuse -->
   <Accuse>告発</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
@@ -238,7 +238,7 @@
   <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
   <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>儀式の質の高さから,発展ポイントは{2}増加しました({0}から{1}へ変化).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
   <!-- EN: Can't award development points beyond {0}. -->
-  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>{0}を超える発展ポイントを得ることはできません.</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
   <!-- EN: Due to the poor quality of the ritual, no development points were gained. -->
   <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>儀式の質が悪かったため,発展ポイントは得られませんでした.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
@@ -296,7 +296,7 @@
   <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
   <RitualDevelopmentPointsTip>この儀式を完了すると,品質に応じて{0}~{1}の発展ポイントを得られます.</RitualDevelopmentPointsTip>
   <!-- EN: {0} needs to be powered. -->
-  <RitualOutcomeBlockedNoPower>TODO</RitualOutcomeBlockedNoPower>
+  <RitualOutcomeBlockedNoPower>{0}に電力を供給する必要があります.</RitualOutcomeBlockedNoPower>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>奴隷用</ForSlaveUse>
@@ -326,7 +326,7 @@
   <!-- EN: Must be {0} -->
   <RoleRequirementLabelSupremeGender>{0}である必要</RoleRequirementLabelSupremeGender>
   <!-- EN: Cannot be child -->
-  <RoleRequirementCannotBe>TODO</RoleRequirementCannotBe>
+  <RoleRequirementCannotBe>子供になれない</RoleRequirementCannotBe>
 
   <!-- EN: Abilities -->
   <RoleGrantedAbilitiesLabel>能力</RoleGrantedAbilitiesLabel>
@@ -641,7 +641,7 @@
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}は年齢逆転サイクルを完了しました.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <AgeReversalExpectationDeadline>TODO</AgeReversalExpectationDeadline>
+  <AgeReversalExpectationDeadline>{PAWN_pronoun}は{DEADLINE}日後に次の年齢逆転を行うことを期待しています.</AgeReversalExpectationDeadline>
   <!-- EN: {PAWN_labelShort}'s pleasure cycle is complete. -->
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}の快楽サイクルは完了しました.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
@@ -662,11 +662,11 @@
   <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続行しますか?</BiosculpterNoCoditionsToHeal>
 
   <!-- EN: basic -->
-  <Basic>TODO</Basic>
+  <Basic>ベーシック</Basic>
   <!-- EN: Change the style this will be built in. This is purely visual and has no gameplay impact. -->
-  <ChangeStyleDesc>TODO</ChangeStyleDesc>
+  <ChangeStyleDesc>これの製作時の見た目を変更します.これは純粋に視覚的なものであり,ゲームプレイへの影響はありません.</ChangeStyleDesc>
   <!-- EN: No available styles. -->
-  <ChangeStyleDisabledNoCategories>TODO</ChangeStyleDisabledNoCategories>
+  <ChangeStyleDisabledNoCategories>利用可能なスタイルがありません.</ChangeStyleDisabledNoCategories>
 
   <!-- UNUSED -->
   <RitualTargetLightBallInfo>ライトボールやラウドスピーカーのスポットです.ライトボールとスピーカには電源が必要です.</RitualTargetLightBallInfo>

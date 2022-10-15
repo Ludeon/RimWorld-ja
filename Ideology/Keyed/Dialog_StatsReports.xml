@@ -37,13 +37,13 @@
   <StatsReport_SightPsychicSensitivityOffset>視力ボーナス</StatsReport_SightPsychicSensitivityOffset>
 
   <!-- EN: Dominating style -->
-  <Stat_Thing_StyleDominanceCategory>支配的スタイル</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategory>優位なスタイル</Stat_Thing_StyleDominanceCategory>
   <!-- EN: The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs. -->
   <Stat_Thing_StyleDominanceCategoryDesc>このオブジェクトによって提示されるスタイルです.このスタイルはいくつかの思想と関連性を持つでしょう.特定のスタイルに対する反応は,個々人の奉じる思想によって変化します.</Stat_Thing_StyleDominanceCategoryDesc>
   <!-- EN: Satisfies ideoligions -->
   <Stat_Thing_IdeosSatisfied>思想を満たしています</Stat_Thing_IdeosSatisfied>
   <!-- EN: Style -->
-  <Style>TODO</Style>
+  <Style>スタイル</Style>
 
   <!-- EN: Darkness shooting accuracy -->
   <Stat_Pawn_DarknessCombatShooting_Name>暗闇の射撃精度</Stat_Pawn_DarknessCombatShooting_Name>

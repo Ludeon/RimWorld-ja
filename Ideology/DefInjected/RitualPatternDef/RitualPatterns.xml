@@ -76,12 +76,12 @@
   <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef} even though the body was lost. -->
   <FuneralNoCorpse.ritualExpectedDesc>遺体が失われたとしても,{PAWN_nameDef}の {IDEOLIGION_adjective}葬式を行うことができます.</FuneralNoCorpse.ritualExpectedDesc>
   <!-- EN: You can hold a funeral for {PAWN_nameDef} even though the body was lost. -->
-  <FuneralNoCorpse.ritualExpectedDescNoAdjective>TODO</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+  <FuneralNoCorpse.ritualExpectedDescNoAdjective>遺体が失われたとしても,{PAWN_nameDef}の葬式を行うことができます.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
   
   <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef}. -->
   <FuneralStandard.ritualExpectedDesc>{PAWN_nameDef}の{IDEOLIGION_adjective}葬式を行うことができます.</FuneralStandard.ritualExpectedDesc>
   <!-- EN: You can hold a funeral for {PAWN_nameDef}. -->
-  <FuneralStandard.ritualExpectedDescNoAdjective>TODO</FuneralStandard.ritualExpectedDescNoAdjective>
+  <FuneralStandard.ritualExpectedDescNoAdjective>{PAWN_nameDef}の葬式を行うことができます.</FuneralStandard.ritualExpectedDescNoAdjective>
   
   <!-- UNUSED -->
   <FuneralStandard.ritualExpectedPostfix>{0}人の{1}ができるだけ早く葬式を行いたがっています.</FuneralStandard.ritualExpectedPostfix>

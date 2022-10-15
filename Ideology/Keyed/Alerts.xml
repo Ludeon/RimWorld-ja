@@ -24,9 +24,9 @@
   <!-- EN: Expires in {0}, on {1}. -->
   <RitualExpiresIn>{1}の期限切れまで残り{0}.</RitualExpiresIn>
   <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
-  <RitualSingleTargetDesc>TODO</RitualSingleTargetDesc>
+  <RitualSingleTargetDesc>儀式を開始するには{FOCUS}を選択し,'{RITUAL_label}を始める'コマンドをクリックしてください.</RitualSingleTargetDesc>
   <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
-  <RitualMultiTargetDesc>TODO</RitualMultiTargetDesc>
+  <RitualMultiTargetDesc>儀式を開始するには以下のいずれかを選択し,'{RITUAL_label}を始める'コマンドをクリックしてください</RitualMultiTargetDesc>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
   <RitualTargetsExplanation>儀式を開始するには,フォーカスオブジェクトを選択し,「{RITUAL_label}を開始する」コマンドをクリックします.以下のフォーカスオブジェクトが有効です:\n{1}</RitualTargetsExplanation>
   <!-- EN: Click to jump to targets -->

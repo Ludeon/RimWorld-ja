@@ -277,7 +277,7 @@
   <!-- EN: No {CHARGENOUN_plural} left. -->
   <CommandReload_NoCharges>{CHARGENOUN_plural}が残っていません.</CommandReload_NoCharges>
   <!-- EN: {COOLDOWNGERUND} for {TIME}. -->
-  <CommandReload_Cooldown>TODO</CommandReload_Cooldown>
+  <CommandReload_Cooldown>{TIME}の{COOLDOWNGERUND}です.</CommandReload_Cooldown>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
   <CommandReload_NoAmmo>{COUNT}個の{AMMO_label}で充填する必要があります.</CommandReload_NoAmmo>
   
