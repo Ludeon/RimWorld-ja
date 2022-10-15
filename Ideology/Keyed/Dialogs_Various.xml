@@ -13,9 +13,9 @@
   <!-- EN: The following development points will be awarded depending on the ritual outcome -->
   <RitualDevelopmentPointRewards>儀式の結果に応じて,以下の発展ポイントが付与されます</RitualDevelopmentPointRewards>
   <!-- EN: Use global style -->
-  <UseGlobalStyle>TODO</UseGlobalStyle>
+  <UseGlobalStyle>通常のスタイルを使用する</UseGlobalStyle>
   <!-- EN: No style variations available -->
-  <NoStylesAvailable>TODO</NoStylesAvailable>
+  <NoStylesAvailable>スタイルのバリエーションがない</NoStylesAvailable>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>思想の象徴的構造を選択してください.これはシンボルにのみ影響を与え,ゲームのプレイには影響しません.</ChooseStructureMemesInfo>
@@ -63,7 +63,7 @@
   <!-- EN: No role assigned -->
   <NoRoleAssigned>役割が割り当てられてない</NoRoleAssigned>
   <!-- EN: Children cannot take on roles -->
-  <ChildNoRoleAssigned>TODO</ChildNoRoleAssigned>
+  <ChildNoRoleAssigned>子供に役割を与えることはできない</ChildNoRoleAssigned>
   <!-- EN: Remove {0} role -->
   <RemoveRole>{0}の役割を解任</RemoveRole>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
@@ -324,9 +324,9 @@
   <FoodRestrictionInsectMeat>虫肉</FoodRestrictionInsectMeat>
 
   <!-- EN: Styles in use -->
-  <StylesInUse>TODO</StylesInUse>
+  <StylesInUse>使用中のスタイル</StylesInUse>
   <!-- EN: Add a style. -->
-  <StyleCategoryAddDesc>TODO</StyleCategoryAddDesc>
+  <StyleCategoryAddDesc>スタイルを追加します.</StyleCategoryAddDesc>
   <!-- UNUSED -->
   <LastAnimalSlaughter>最後の大型家畜の屠殺</LastAnimalSlaughter>
 

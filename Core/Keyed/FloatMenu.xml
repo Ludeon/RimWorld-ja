@@ -46,7 +46,7 @@
   <!-- EN: cannot attack faction ally -->
   <CannotAttackSameFactionMember>同盟派閥は攻撃できない</CannotAttackSameFactionMember>
   <!-- EN: Incapable of firefighting. -->
-  <IncapableOfFirefighting>TODO</IncapableOfFirefighting>
+  <IncapableOfFirefighting>消火できません.</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort}に配置</OrderManThing>
@@ -79,7 +79,7 @@
   <!-- EN: missing {0} -->
   <MissingMaterials>{0}がない</MissingMaterials>
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
-  <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
+  <NoMedicineMatchingCategory>医薬品設定'{CATEGORY}'の薬がありません.</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>要求するスキル以下 {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -93,13 +93,13 @@
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>動物への調教間隔が短い</AnimalInteractedTooRecently>
   <!-- EN: interacted with too recently -->
-  <PrisonerInteractedTooRecently>TODO</PrisonerInteractedTooRecently>
+  <PrisonerInteractedTooRecently>勧誘間隔が短い</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>食べられるエサがない</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>エサがない</NoFood>
   <!-- EN: no food matching restrictions -->
-  <NoFoodMatchingRestrictions>TODO</NoFoodMatchingRestrictions>
+  <NoFoodMatchingRestrictions>食事制限に該当する食料がない</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
   <NoIngredient>{0_label}がない</NoIngredient>
   <!-- EN: below requirements of {0} -->
@@ -167,11 +167,11 @@
   <!-- EN: already installed -->
   <InstallImplantAlreadyInstalled>既に装着済み</InstallImplantAlreadyInstalled>
   <!-- EN: requires an existing {0} -->
-  <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
+  <InstallImplantHediffRequired>既存の{0}が必要</InstallImplantHediffRequired>
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>最高レベル</InstallImplantAlreadyMaxLevel>
   <!-- EN: psychically deaf -->
-  <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
+  <InstallImplantPsychicallyDeaf>精神的無反応</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>{0}をレベル{1}にアップグレードする</UpgradeImplant>
   <!-- EN: violation of faction ally -->
@@ -179,7 +179,7 @@
   <!-- EN: being carried by {0_labelShort} -->
   <BeingCarriedBy>{0_labelShort}によって運ばれている</BeingCarriedBy>
   <!-- EN: full -->
-  <ContainerFull>TODO</ContainerFull>
+  <ContainerFull>満載</ContainerFull>
   <!-- EN: already assigned -->
   <AlreadyAssigned>すでに割り当て済みです</AlreadyAssigned>
   
@@ -205,14 +205,14 @@
   <!-- EN: Cannot capture -->
   <CannotCapture>捕獲できない</CannotCapture>
   <!-- EN: unwaveringly loyal -->
-  <Unrecruitable>TODO</Unrecruitable>
+  <Unrecruitable>揺るぎない忠誠心</Unrecruitable>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>{1_label}を救助する</Rescue>
   <!-- EN: Put {1_label} somewhere safe -->
-  <PutSomewhereSafe>TODO</PutSomewhereSafe>
+  <PutSomewhereSafe>{1_label}を安全な場所に置く必要がある</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
-  <TakingToBed>TODO</TakingToBed>
+  <TakingToBed>{0_labelShort}をベッドに連れて行きます.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>救助できない</CannotRescue>
 
@@ -254,7 +254,7 @@
   <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
   <!-- EN: Must have {0_label} -->
-  <MustHaveHediff>TODO</MustHaveHediff>
+  <MustHaveHediff>{0_label}が必要</MustHaveHediff>
 
   <!-- EN: min skill -->
   <MinSkill>最小スキル</MinSkill>
@@ -286,7 +286,7 @@
   <!-- EN: Too few -->
   <ReloadNotEnough>少なすぎる</ReloadNotEnough>
   <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
-  <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
+  <ReloadCannotCarryEnough>1回分のチャージをリロードするのに十分な{AMMO_label}を運ぶことができません.</ReloadCannotCarryEnough>
   
   <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUp>{1_labelShort}を拾えない</CannotPickUp>
@@ -550,9 +550,9 @@
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
-  <CannotRomance>TODO</CannotRomance>
+  <CannotRomance>{0}には恋愛できない</CannotRomance>
   <!-- EN: Romance {0} -->
-  <CanRomance>TODO</CanRomance>
+  <CanRomance>{0}に恋愛する</CanRomance>
 
   <!-- UNUSED -->
   <PickUp>{1_label}を拾う</PickUp>
