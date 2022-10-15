@@ -779,7 +779,7 @@
   <!-- EN: Order activation -->
   <OrderActivation>起動指示</OrderActivation>
   <!-- EN: Order a colonist to activate {THING_definite}. -->
-  <OrderActivationDesc>入植者に{THING_defined}を起動するよう指示してください.</OrderActivationDesc>
+  <OrderActivationDesc>入植者に{THING_definite}を起動するよう指示してください.</OrderActivationDesc>
   <!-- EN: Must be activated by a colonist. -->
   <MustBeActivatedByColonist>入植者が操作する必要があります.</MustBeActivatedByColonist>
   <!-- EN: No nearby fire -->
