@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: chopped anima stump -->
-  <ChoppedStump_Anima.label>TODO</ChoppedStump_Anima.label>
+  <ChoppedStump_Anima.label>アニマの切り株</ChoppedStump_Anima.label>
   <!-- EN: A stump left behind after an anima tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-  <ChoppedStump_Anima.description>TODO</ChoppedStump_Anima.description>
+  <ChoppedStump_Anima.description>アニマツリーを伐採した後に残る切り株です.切り株は引き抜けますが,使用可能な木材はほとんど得られません.屋外に放置すると時間の経過とともに劣化します.</ChoppedStump_Anima.description>
   
   <!-- EN: anima grass -->
   <Plant_GrassAnima.label>アニマ草</Plant_GrassAnima.label>
@@ -23,8 +23,8 @@
   <Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>アニマツリーが死亡し,不安を招くサイキックスクリームが放たれました.</Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>
   
   <!-- EN: smashed anima stump -->
-  <SmashedStump_Anima.label>TODO</SmashedStump_Anima.label>
+  <SmashedStump_Anima.label>破壊されたアニマの切り株</SmashedStump_Anima.label>
   <!-- EN: The remnants of an anima tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-  <SmashedStump_Anima.description>TODO</SmashedStump_Anima.description>
+  <SmashedStump_Anima.description>ダメージによって破壊されたアニマツリーの残骸です.醜い見た目です.切り株は引き抜けますが,使用可能な木材はほとんど得られません.屋外に放置すると時間の経過とともに劣化します.</SmashedStump_Anima.description>
   
 </LanguageData>

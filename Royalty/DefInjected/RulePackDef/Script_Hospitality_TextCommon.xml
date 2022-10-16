@@ -59,7 +59,6 @@
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>includesChildren(priority=-999)-></li>
-    <!--TODO--><!--実物を見て再翻訳-->
     <li>includesChildren(childCount==1)->\n\n[lodgersLabelSingOrPluralDef]のグループの1人が子供です.</li>
     <li>includesChildren(childCount>=2)->\n\n[lodgersLabelSingOrPluralDef]のグループの何人かは子供です.</li>
     <li>healthInfo-></li>
