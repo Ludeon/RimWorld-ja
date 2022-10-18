@@ -28,8 +28,8 @@
   
   <!-- EN: skipshield -->
   <BulletShield.label>スキップシールド</BulletShield.label>
-  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
-  <BulletShield.description>空間内を出入りする地上レベルの飛翔物を遠方に飛ばす,球状のスキップゲートを設置します.人間やアイテムは影響を受けません.</BulletShield.description>
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected. -->
+  <BulletShield.description>空間内を出入りする地上レベルの飛翔物を遠方に飛ばす,球状のスキップゲートを設置します.このシールドは爆発性の発射体を爆発させるほどの防御性能を持ちます.人間やアイテムは影響を受けません.</BulletShield.description>
   
   <!-- EN: burden -->
   <Burden.label>重荷</Burden.label>
