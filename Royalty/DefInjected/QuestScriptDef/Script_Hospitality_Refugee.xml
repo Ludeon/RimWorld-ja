@@ -307,7 +307,9 @@
   <!-- EN:
     <li>questName->Betrayal offer: [factionOpponent_nameDef]</li>
   -->
-  <RefugeeBetrayal.questNameRules.rulesStrings>裏切りの提案: [factionOpponent_nameDef]</RefugeeBetrayal.questNameRules.rulesStrings>
+  <RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>questName->裏切りの提案: [factionOpponent_nameDef]</li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
   
   <!-- UNUSED -->
   <RefugeeBetrayal.questNameRules.rulesStrings>裏切りの提案: [factionOpponent_nameDef]</RefugeeBetrayal.questNameRules.rulesStrings>
