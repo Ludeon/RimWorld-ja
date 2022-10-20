@@ -263,7 +263,7 @@
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>屋外</DeterioratingOutdoors>
   <!-- EN: raining -->
-  <DeterioratingRaining>雨が降っている</DeterioratingRaining> <!-- text_todo -->
+  <DeterioratingRaining>雨が降っている</DeterioratingRaining> 
   <!-- EN: protected -->
   <Protected>守られている</Protected>
   <!-- EN: Deteriorating -->
@@ -713,13 +713,13 @@
   <!-- EN: Road -->
   <Road_Label>道</Road_Label>
   <!-- EN: River -->
-  <River_Label>川</River_Label> <!-- text_todo -->
+  <River_Label>川</River_Label> 
   <!-- EN: Movement difficulty -->
   <MovementDifficulty_Label>移動しにくさ</MovementDifficulty_Label>
   <!-- EN: Pollution -->
   <Pollution_Label>汚染</Pollution_Label>
   <!-- EN: Filth -->
-  <Filth_Label>汚物</Filth_Label><!-- text_todo -->
+  <Filth_Label>汚物</Filth_Label>
   
   <!-- EN: Faction -->
   <Faction_Label>派閥</Faction_Label>

@@ -84,9 +84,9 @@
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>保護するように命じられた {SUBJECT_defined}が暴走しました.[failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>TODO</EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>TODO</EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>[asker_faction_leaderTitle]を回収しに向かっていたシャトルが[asker_objective]乗せずに出航してしまいました.[asker_pronoun]は徒歩で出発するでしょう.[failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>
   
   <!-- UNUSED -->
   <EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>ゲストが離脱: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>

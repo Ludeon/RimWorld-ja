@@ -55,11 +55,11 @@
 
   <!-- Skip -->
   <!-- EN: Cannot skip {PAWN_labelShort} -->
-  <CannotSkipTarget>TODO</CannotSkipTarget>
+  <CannotSkipTarget>{PAWN_labelShort}をスキップできない</CannotSkipTarget>
   <!-- EN: Too large -->
-  <CannotSkipTargetTooLarge>TODO</CannotSkipTargetTooLarge>
+  <CannotSkipTargetTooLarge>大きすぎる</CannotSkipTargetTooLarge>
   <!-- EN: Psychic resistance -->
-  <CannotSkipTargetPsychicResistant>TODO</CannotSkipTargetPsychicResistant>
+  <CannotSkipTargetPsychicResistant>精神的抵抗力が強い</CannotSkipTargetPsychicResistant>
 
   <!-- Warning -->
   <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
