@@ -250,183 +250,183 @@
 
   <!-- Genes -->
   <!-- EN: genes -->
-  <Genes>TODO</Genes>
+  <Genes>遺伝子</Genes>
   <!-- EN: The genes associated with this xenotype. -->
-  <GenesDesc>TODO</GenesDesc>
+  <GenesDesc>このゼノタイプに関連する遺伝子です.</GenesDesc>
   <!-- EN: suppressed -->
-  <Suppressed>TODO</Suppressed>
+  <Suppressed>抑制</Suppressed>
   <!-- EN: active -->
-  <Active>TODO</Active>
+  <Active>有効</Active>
   <!-- EN: This trait has been suppressed by a conflicting forced genetic trait or gene. It will not be active until all conflicts are removed -->
-  <SuppressedDesc>TODO</SuppressedDesc>
+  <SuppressedDesc>この特性は,競合する強制された遺伝的特性,もしくは遺伝子によって抑制されています.すべての競合が取り除かれるまで有効になりません</SuppressedDesc>
   <!-- EN: trait -->
-  <Trait>TODO</Trait>
+  <Trait>特性</Trait>
   <!-- EN: gene -->
-  <Gene>TODO</Gene>
+  <Gene>遺伝子</Gene>
   <!-- EN: Added by gene -->
-  <AddedByGene>TODO</AddedByGene>
+  <AddedByGene>遺伝子によって追加</AddedByGene>
   <!-- EN: Eject all -->
-  <EjectAll>TODO</EjectAll>
+  <EjectAll>すべて取り出す</EjectAll>
   <!-- EN: Drop all contained genepacks onto the ground. -->
-  <EjectAllDesc>TODO</EjectAllDesc>
+  <EjectAllDesc>含まれているすべての遺伝子パックを地面に落とします.</EjectAllDesc>
   <!-- EN: Genepacks stored -->
-  <GenepacksStored>TODO</GenepacksStored>
+  <GenepacksStored>保存された遺伝子パック</GenepacksStored>
   <!-- EN: Forced traits -->
-  <ForcedTraits>TODO</ForcedTraits>
+  <ForcedTraits>強制された特性</ForcedTraits>
   <!-- EN: Suppressed traits -->
-  <SuppressedTraits>TODO</SuppressedTraits>
+  <SuppressedTraits>抑制された特性</SuppressedTraits>
   <!-- EN: These traits will be added. All conflicting traits will become suppressed. -->
-  <ForcedTraitsDesc>TODO</ForcedTraitsDesc>
+  <ForcedTraitsDesc>次の特性が追加されます.相反する特性はすべて抑制されます.</ForcedTraitsDesc>
   <!-- EN: Complexity -->
-  <Complexity>TODO</Complexity>
+  <Complexity>複雑性</Complexity>
   <!-- EN: How much complexity this adds to the process of gene assembly. -->
-  <ComplexityDesc>TODO</ComplexityDesc>
+  <ComplexityDesc>これにより,遺伝子組立のプロセスがどれほど複雑になるかです.</ComplexityDesc>
   <!-- EN: Maximum complexity can be increased by building gene processors near the gene assembler. -->
-  <MaxComplexityDesc>TODO</MaxComplexityDesc>
+  <MaxComplexityDesc>遺伝子組立機の近くに遺伝子プロセッサーを建築すると,複雑さの最大値を増すことができます.</MaxComplexityDesc>
   <!-- EN: Total complexity -->
-  <ComplexityTotal>TODO</ComplexityTotal>
+  <ComplexityTotal>総複雑性</ComplexityTotal>
   <!-- EN: The total complexity of all the genes in use. -->
-  <ComplexityTotalDesc>TODO</ComplexityTotalDesc>
+  <ComplexityTotalDesc>使用中のすべての遺伝子の複雑さの合計値です.</ComplexityTotalDesc>
   <!-- EN: Metabolic efficiency -->
-  <Metabolism>TODO</Metabolism>
+  <Metabolism>代謝効率</Metabolism>
   <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
-  <MetabolismDesc>TODO</MetabolismDesc>
+  <MetabolismDesc>組み立てられたときのこの遺伝子の総代謝効率です.高効率であることは,人が必要とする食物が少ないことを意味します.低効率であることは,より多く食べなければならないことを意味します.</MetabolismDesc>
   <!-- EN: Metabolic efficiency -->
-  <MetabolismTotal>TODO</MetabolismTotal>
+  <MetabolismTotal>代謝効率</MetabolismTotal>
   <!-- EN: The total metabolic efficiency of all genes in the genome. High efficiency means a person needs less food; low efficiency means they must eat more. -->
-  <MetabolismTotalDesc>TODO</MetabolismTotalDesc>
+  <MetabolismTotalDesc>ゲノム内のすべての遺伝子の総代謝効率です.高効率であることは,人が必要とする食物が少ないことを意味します.低効率であることは,より多く食べなければならないことを意味します.</MetabolismTotalDesc>
   <!-- EN: Number of genes -->
-  <NumberOfGenes>TODO</NumberOfGenes>
+  <NumberOfGenes>遺伝子の数</NumberOfGenes>
   <!-- EN: Gene price factors -->
-  <GenePriceFactors>TODO</GenePriceFactors>
+  <GenePriceFactors>遺伝子価格の要因</GenePriceFactors>
   <!-- EN: any -->
-  <AnyLower>TODO</AnyLower>
+  <AnyLower>いずれか</AnyLower>
   <!-- EN: Archite total -->
-  <ArchitesTotal>TODO</ArchitesTotal>
+  <ArchitesTotal>アルカイト合計</ArchitesTotal>
   <!-- EN: Archite capsules -->
-  <ArchitesRequired>TODO</ArchitesRequired>
+  <ArchitesRequired>アルカイトカプセル</ArchitesRequired>
   <!-- EN: Archites are archotech mechanites - microscopic devices which can operate directly on cells and molecules, created by superintelligent archotechs. They are capable of unexplainable feats, and some genes only function when supported by the otherworldly machinery of the archotechs. Humans cannot create archites - only find them when an archotech happens to produce some for its own unknowable reason. -->
-  <ArchitesRequiredDesc>TODO</ArchitesRequiredDesc>
+  <ArchitesRequiredDesc>アルカイトは細胞や分子を直接操作できる微細な装置であり,超知的なアルコテックによって作成されたアルコテックメカニターです.彼らは説明のつかない偉業を成し遂げることができ,いくつかの遺伝子は別世界のアルコテックの機械によってサポートされている場合にのみ機能します.人間はアルカイトを作成することはできません.アルコテックが独自の理由でアルカイトを作成した場合にのみ,見つけることができます.</ArchitesRequiredDesc>
   <!-- EN: Cancel xenogerm -->
-  <CancelXenogerm>TODO</CancelXenogerm>
+  <CancelXenogerm>異種胚をキャンセル</CancelXenogerm>
   <!-- EN: Stop all work on the current xenogerm. -->
-  <CancelXenogermDesc>TODO</CancelXenogermDesc>
+  <CancelXenogermDesc>現在の異種胚に対するすべての作業を停止します.</CancelXenogermDesc>
   <!-- EN: Allow all genepacks -->
-  <AllowAllGenepacks>TODO</AllowAllGenepacks> 
+  <AllowAllGenepacks>すべての遺伝子パックを許可</AllowAllGenepacks> 
   <!-- EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->
-  <AllowAllGenepacksDesc>TODO</AllowAllGenepacksDesc> 
+  <AllowAllGenepacksDesc>入植者がこのコンテナに遺伝子パックを自動的に保存することを許可するかどうかです.ここに保存する特定の遺伝子パックを指定する場合はオフにしてください.</AllowAllGenepacksDesc> 
   <!-- EN: The genepacks currently inside this container. -->
-  <ContainedGenepacksDesc>TODO</ContainedGenepacksDesc> 
+  <ContainedGenepacksDesc>このコンテナ内に入っている遺伝子パックです.</ContainedGenepacksDesc> 
   <!-- EN: The genepacks designated to be loaded into this container. -->
-  <GenepacksToLoadDesc>TODO</GenepacksToLoadDesc> 
+  <GenepacksToLoadDesc>このコンテナに入れるように指定された遺伝子パックです.</GenepacksToLoadDesc> 
   <!-- EN: Unstored genepacks that are not designated to be loaded into this container. -->
-  <GenepacksIgnoredDesc>TODO</GenepacksIgnoredDesc> 
+  <GenepacksIgnoredDesc>このコンテナに入れるように指定されていない,保存されていない遺伝子パックです.</GenepacksIgnoredDesc> 
   <!-- EN: Genepacks to load -->
-  <GenepacksToLoad>TODO</GenepacksToLoad> 
+  <GenepacksToLoad>積載する遺伝子パック</GenepacksToLoad> 
   <!-- EN: Genepacks to ignore -->
-  <GenepacksToIgnore>TODO</GenepacksToIgnore> 
+  <GenepacksToIgnore>無視する遺伝子パック</GenepacksToIgnore> 
   <!-- EN: Eject this genepack from the container. -->
-  <EjectGenepackDesc>TODO</EjectGenepackDesc> 
+  <EjectGenepackDesc>この遺伝子パックをコンテナから取り出します.</EjectGenepackDesc> 
   <!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
-  <ConfirmRemoveGenepack>TODO</ConfirmRemoveGenepack> 
+  <ConfirmRemoveGenepack>本当に{0}を取り出しますか?即座に近くの地面に排出されます.</ConfirmRemoveGenepack> 
   <!-- EN: Missing required research -->
   <MissingRequiredResearch>必要な調査がありません</MissingRequiredResearch>
   <!-- EN: No genepacks available in nearby gene banks. -->
-  <NoGenepacksAvailable>TODO</NoGenepacksAvailable> 
+  <NoGenepacksAvailable>近くの遺伝子バンクで利用できる遺伝子パックはありません.</NoGenepacksAvailable> 
   <!-- EN: Allow this genepack to be loaded into this container. -->
-  <AddToLoadingListDesc>TODO</AddToLoadingListDesc> 
+  <AddToLoadingListDesc>この遺伝子パックをこのコンテナに入れられるようにします.</AddToLoadingListDesc> 
   <!-- EN: Remove this genepack from the loading list. -->
-  <RemoveFromLoadingListDesc>TODO</RemoveFromLoadingListDesc> 
+  <RemoveFromLoadingListDesc>積載リストからこの遺伝子パックを削除します.</RemoveFromLoadingListDesc> 
   <!-- EN: Recombine -->
-  <Recombine>TODO</Recombine>
+  <Recombine>再結合</Recombine>
   <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
-  <RecombineDesc>TODO</RecombineDesc>
+  <RecombineDesc>遺伝子ライブラリの遺伝子パックからのデータを使用して,新しい移植可能な異種胚を作成します.</RecombineDesc>
   <!-- EN: Genes -->
-  <ContainedGenesDesc>TODO</ContainedGenesDesc>
+  <ContainedGenesDesc>遺伝子</ContainedGenesDesc>
   <!-- EN: Order implantation -->
   <ImplantXenogerm>TODO</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
-  <ImplantXenogermDesc>TODO</ImplantXenogermDesc>
+  <ImplantXenogermDesc>これを人に移植して,遺伝子コードを部分的に上書きします.\n\nこれは外科手術なので,医師と医療ベッド,そして{MEDICINEAMOUNT}の薬が必要です.</ImplantXenogermDesc>
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
-  <ImplantXenogermWarningDesc>TODO</ImplantXenogermWarningDesc>
+  <ImplantXenogermWarningDesc>異種胚を移植すると,異種胚が{PAWN_nameDef}自身と統合するため,昏睡状態になります.これは平均で{COMADURATION}の間続きます.昏睡状態の長さは医師の医療技術と医療施設の質によって異なります.</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
-  <ImplantXenogermWarningOverwriteXenogenes>TODO</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningOverwriteXenogenes>さらに異種胚を移植すると,既存の異種遺伝子が上書きされます.{PAWN_nameDef}の現在のゼノタイプは'{XENOTYPE}'です.{PAWN_pronoun} には次の異種遺伝子があります:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
   <!-- EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
-  <ImplantXenogermWarningNewMetabolism>TODO</ImplantXenogermWarningNewMetabolism>
+  <ImplantXenogermWarningNewMetabolism>移植後,{PAWN_nameDef}の代謝値は{MET}になり,食物消費乗数は{CONSUMPTION}になります.</ImplantXenogermWarningNewMetabolism>
   <!-- EN: Would you like to continue? -->
-  <WouldYouLikeToContinue>TODO</WouldYouLikeToContinue>
+  <WouldYouLikeToContinue>本当に続けますか?</WouldYouLikeToContinue>
   <!-- EN: Cancel implanting -->
-  <CancelImplanting>TODO</CancelImplanting>
+  <CancelImplanting>移植をキャンセル</CancelImplanting>
   <!-- EN: Cancel implanting this xenogerm into {PAWN_nameDef}. -->
-  <CancelImplantingDesc>TODO</CancelImplantingDesc>
+  <CancelImplantingDesc>この異種胚の{PAWN_nameDef}への移植をキャンセルします.</CancelImplantingDesc>
   <!-- EN: Xenotype -->
-  <Xenotype>TODO</Xenotype>
+  <Xenotype>ゼノタイプ</Xenotype>
   <!-- EN: unique -->
-  <Unique>TODO</Unique>
+  <Unique>ユニーク</Unique>
   <!-- EN: A unique human variant with a set of xenogenes that do not fall into any known xenotype. -->
-  <UniqueXenotypeDesc>TODO</UniqueXenotypeDesc>
+  <UniqueXenotypeDesc>既知のどのゼノタイプにも分類されない,一連の異種遺伝子を持つユニークなヒト変異体です.</UniqueXenotypeDesc>
   <!-- EN: Factor for genetic metabolism -->
-  <FactorForMetabolism>TODO</FactorForMetabolism>
+  <FactorForMetabolism>遺伝子代謝要因</FactorForMetabolism>
   <!-- EN: Progress -->
-  <Progress>TODO</Progress>
+  <Progress>進捗</Progress>
   <!-- EN: In sunlight -->
-  <InSunlight>TODO</InSunlight>
+  <InSunlight>日光の下</InSunlight>
   <!-- EN: {0_labelShort} is exposed to the sky. -->
-  <ThingIsSkyExposed>TODO</ThingIsSkyExposed>
+  <ThingIsSkyExposed>{0_labelShort}は空にさらされています.</ThingIsSkyExposed>
   <!-- EN: Insert person -->
-  <InsertPerson>TODO</InsertPerson>
+  <InsertPerson>人を乗せる</InsertPerson>
   <!-- EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
-  <InsertPersonGeneExtractorDesc>TODO</InsertPersonGeneExtractorDesc>
+  <InsertPersonGeneExtractorDesc>人間を遺伝子抽出器に入れます.彼らの遺伝物質が抽出され,ランダムに選択された遺伝子を含む遺伝子パックが作成されます.\n\n遺伝子の抽出は痛みを伴い,被験者は何日も衰弱と眠気に襲われます.このプロセスは現在遺伝子が再成長している人にとって致命的です.</InsertPersonGeneExtractorDesc>
   <!-- EN: Warning: {PAWN_nameDef}'s genes are regrowing. Extracting {PAWN_possessive} genes before they are regrown will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-  <ConfirmExtractXenogermWillKill>TODO</ConfirmExtractXenogermWillKill>
+  <ConfirmExtractXenogermWillKill>警告:{PAWN_nameDef}の遺伝子は再成長しています.再成長する前に遺伝子を抽出すると,{PAWN_pronoun}は死亡します.\n\n本当に続行しますか?</ConfirmExtractXenogermWillKill>
   <!-- EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
-  <GeneExtractionComplete>TODO</GeneExtractionComplete>
+  <GeneExtractionComplete>{PAWN_nameDef}の遺伝子抽出が完了しました.抽出された遺伝子</GeneExtractionComplete>
   <!-- EN: Insert xenogerm -->
-  <InsertXenogerm>TODO</InsertXenogerm>
+  <InsertXenogerm>異種胚を埋め込む</InsertXenogerm>
   <!-- EN: Insert a xenogerm to apply during growth. -->
-  <InsertXenogermDesc>TODO</InsertXenogermDesc>
+  <InsertXenogermDesc>成長中に適用する異種胚を埋め込みます.</InsertXenogermDesc>
   <!-- EN: Waiting for {PAWN_nameDef}. -->
-  <WaitingForPawn>TODO</WaitingForPawn>
+  <WaitingForPawn>{PAWN_nameDef}を待っています.</WaitingForPawn>
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
-  <ExtractingXenogermFrom>TODO</ExtractingXenogermFrom>
+  <ExtractingXenogermFrom>{PAWN_nameDef}から遺伝子を抽出しています.</ExtractingXenogermFrom>
   <!-- EN: Extraction paused: No power -->
-  <ExtractionPausedNoPower>TODO</ExtractionPausedNoPower>
+  <ExtractionPausedNoPower>抽出一時停止:電力不足</ExtractionPausedNoPower>
   <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
-  <LastIngestedDurationAgo>TODO</LastIngestedDurationAgo>
+  <LastIngestedDurationAgo>最後に{CHEMICAL_label}を摂取したのは{DURATION}前です.</LastIngestedDurationAgo>
   <!-- EN: {NAME} xenogerm -->
-  <NamedXenogerm>TODO</NamedXenogerm>
+  <NamedXenogerm>{NAME}の異種胚</NamedXenogerm>
   <!-- EN: Inserted {0} -->
-  <InsertedThing>TODO</InsertedThing>
+  <InsertedThing>{0}を挿入した</InsertedThing>
   <!-- EN: Assembly paused -->
-  <AssemblyPaused>TODO</AssemblyPaused>
+  <AssemblyPaused>組立て一時停止</AssemblyPaused>
   <!-- EN: Required gene bank unpowered -->
-  <GenebankUnpowered>TODO</GenebankUnpowered>
+  <GenebankUnpowered>必要な遺伝子バンクに電源が入っていない</GenebankUnpowered>
   <!-- EN: deathless -->
-  <Deathless>TODO</Deathless>
+  <Deathless>不死</Deathless>
   <!-- EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
-  <GeneDefChemicalNeedDurationDesc>TODO</GeneDefChemicalNeedDurationDesc>
+  <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef}は生きるために定期的に{0}を摂取する必要があります.{0}なしで{DEFICIENCYDURATION}が過ぎた場合,{0}不足に陥ります.{COMADURATION}が過ぎると{PAWN_pronoun}は昏睡状態に陥ります.さらに{DEATHDURATION}が過ぎると{PAWN_pronoun}は死亡します.</GeneDefChemicalNeedDurationDesc>
   <!-- EN: {CHEMICAL_label} dependency -->
-  <ChemicalDependency>TODO</ChemicalDependency>
+  <ChemicalDependency>{CHEMICAL_label}依存</ChemicalDependency>
   <!-- EN: Xenogerm -->
-  <Xenogerm>TODO</Xenogerm>
+  <Xenogerm>異種胚</Xenogerm>
   <!-- EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
-  <PawnWillKeepDeathrestingLethalInjuries>TODO</PawnWillKeepDeathrestingLethalInjuries>
+  <PawnWillKeepDeathrestingLethalInjuries>{PAWN_nameDef}は致命傷が治るまで,死眠を続けます.</PawnWillKeepDeathrestingLethalInjuries>
   <!-- EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
-  <PawnWillKeepRegeneratingLethalInjuries>TODO</PawnWillKeepRegeneratingLethalInjuries>
+  <PawnWillKeepRegeneratingLethalInjuries>{PAWN_nameDef}は致命傷が治るまで,再生昏睡状態のままです.</PawnWillKeepRegeneratingLethalInjuries>
   <!-- EN: Deathrest stopped -->
-  <DeathrestPaused>TODO</DeathrestPaused>
+  <DeathrestPaused>死眠が止まった</DeathrestPaused>
   <!-- EN: Lethal injuries -->
-  <LethalInjuries>TODO</LethalInjuries>
+  <LethalInjuries>致命傷</LethalInjuries>
   <!-- EN: deathrest -->
-  <Deathrest>TODO</Deathrest>
+  <Deathrest>死眠</Deathrest>
   <!-- EN: Buildings -->
-  <Buildings>TODO</Buildings>
+  <Buildings>建築物</Buildings>
   <!-- EN: capacity -->
-  <Capacity>TODO</Capacity>
+  <Capacity>容量</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
-  <MissingGeneRomanceChance>TODO</MissingGeneRomanceChance>
+  <MissingGeneRomanceChance>{GENE}以外の恋愛確率</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
-  <NotInGeneBank>TODO</NotInGeneBank>
+  <NotInGeneBank>遺伝子バンクにない</NotInGeneBank>
 
   <!-- Child birth -->
   <!-- EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
