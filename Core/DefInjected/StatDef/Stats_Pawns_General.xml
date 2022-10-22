@@ -138,8 +138,8 @@
   
   <!-- EN: toxic environment resistance -->
   <ToxicEnvironmentResistance.label>毒環境耐性</ToxicEnvironmentResistance.label>
-  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
-  <ToxicEnvironmentResistance.description>この生物の環境毒に対する耐性です.有毒な放射性降下物や腐敗臭への曝露からは保護されますが,毒液や注入された毒による直接攻撃からは保護されません.</ToxicEnvironmentResistance.description>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <ToxicEnvironmentResistance.description>この生物の環境毒に対する耐性です.有毒な放射性降下物や腐敗臭,汚染された地域からは保護されますが,毒液や注入された毒による直接攻撃からは保護されません.</ToxicEnvironmentResistance.description>
   
   <!-- EN: toxic resistance -->
   <ToxicResistance.label>毒耐性</ToxicResistance.label>
