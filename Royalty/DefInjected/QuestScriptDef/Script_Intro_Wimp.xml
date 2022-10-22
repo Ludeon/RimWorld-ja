@@ -66,12 +66,6 @@
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Intro_Wimp.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef]を回収するはずのシャトルが,[asker_objective]なしで飛び立ちました.[asker_pronoun]は徒歩で立ち去ります.</Intro_Wimp.LetterTextQuestFailed.slateRef>
-  
-  <!-- UNUSED -->
-  <Intro_Wimp.LetterLabelCaptured.slateRef>ゲストが離脱: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
-  <Intro_Wimp.LetterTextCaptured.slateRef>護衛の対象である{SUBJECT_definite}が入植地から離れました.[failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
-  <Intro_Wimp.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
   <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef]を回収するはずのシャトルが,[asker_objective]なしで飛び立ちました.[asker_pronoun]は徒歩で立ち去ります.[failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
   
 </LanguageData>
