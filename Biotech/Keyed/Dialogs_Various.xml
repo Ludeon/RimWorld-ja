@@ -35,73 +35,73 @@
 
   <!-- Xenogerm -->
   <!-- EN: Assemble genes -->
-  <AssembleGenes>TODO</AssembleGenes>
+  <AssembleGenes>遺伝子を組み立てる</AssembleGenes>
   <!-- EN: Create xenotype -->
-  <CreateXenotype>TODO</CreateXenotype>
+  <CreateXenotype>ゼノタイプ作成</CreateXenotype>
   <!-- EN: Select icon -->
-  <SelectIcon>TODO</SelectIcon>
+  <SelectIcon>アイコン選択</SelectIcon>
   <!-- EN: The icon of this xenotype. -->
-  <SelectIconDesc>TODO</SelectIconDesc>
+  <SelectIconDesc>このゼノタイプのアイコンです.</SelectIconDesc>
   <!-- EN: Inspect the genes inside the {0_labelShort}. -->
-  <InspectGenesDesc>TODO</InspectGenesDesc>
+  <InspectGenesDesc>{0_labelShort}内の遺伝子を調べます.</InspectGenesDesc>
   <!-- EN: Inspect the unborn baby's genes. -->
-  <InspectGenesHediffDesc>TODO</InspectGenesHediffDesc>
+  <InspectGenesHediffDesc>胎児の遺伝子を調べます.</InspectGenesHediffDesc>
   <!-- EN: Inspect the embryo's genes. -->
-  <InspectGenesEmbryoDesc>TODO</InspectGenesEmbryoDesc>
+  <InspectGenesEmbryoDesc>胚の遺伝子を調べます.</InspectGenesEmbryoDesc>
   <!-- EN: No genepacks -->
-  <NoGenePacks>TODO</NoGenePacks>
+  <NoGenePacks>遺伝子パックなし</NoGenePacks>
   <!-- EN: Start combining -->
-  <StartCombining>TODO</StartCombining>
+  <StartCombining>結合を開始</StartCombining>
   <!-- EN: Selected genepacks -->
-  <SelectedGenepacks>TODO</SelectedGenepacks>
+  <SelectedGenepacks>選択した遺伝子パック</SelectedGenepacks>
   <!-- EN: Genepack library -->
-  <GenepackLibrary>TODO</GenepackLibrary>
+  <GenepackLibrary>遺伝子パックライブラリ</GenepackLibrary>
   <!-- EN: Click to add or remove -->
-  <ClickToAddOrRemove>TODO</ClickToAddOrRemove>
+  <ClickToAddOrRemove>クリックして追加または削除</ClickToAddOrRemove>
   <!-- EN: Click to add -->
-  <ClickToAdd>TODO</ClickToAdd>
+  <ClickToAdd>クリックして追加</ClickToAdd>
   <!-- EN: Click to remove -->
-  <ClickToRemove>TODO</ClickToRemove>
+  <ClickToRemove>クリックして削除</ClickToRemove>
   <!-- EN: Select xenogerm -->
-  <SelectXenogerm>TODO</SelectXenogerm>
+  <SelectXenogerm>異種胚を選択</SelectXenogerm>
   <!-- EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} xenogerm before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-  <WarningPawnWillDieFromReimplanting>TODO</WarningPawnWillDieFromReimplanting>
+  <WarningPawnWillDieFromReimplanting>警告:{PAWN_nameDef}の遺伝子は現在再生中です.{PAWN_possessive}遺伝子が完全に再成長する前に異種胚を移植すると,{PAWN_pronoun}は死亡します.\n\n本当に続けますか?</WarningPawnWillDieFromReimplanting>
   <!-- EN: Not enough archite capsules. -->
-  <NotEnoughArchites>TODO</NotEnoughArchites>
+  <NotEnoughArchites>アルカイトカプセルが足りません.</NotEnoughArchites>
   <!-- EN: Xenogenes are genes derived from an implanted xenogerm. If the xenogerm is removed or replaced, the xenogenes go with it. Since xenogenes are not part of the organism's own germline DNA, they are not passed to children. -->
-  <XenogenesDesc>TODO</XenogenesDesc>
+  <XenogenesDesc>異種遺伝子は移植された異種胚に由来する遺伝子です.異種胚が除去,もしくは置き換えられると異種遺伝子も一緒に移動します.異種遺伝子は生物自身の生殖細胞系DNAではないため,子供には受け継がれません.</XenogenesDesc>
   <!-- EN: Germline genes are naturally-inherited genes which are in every cell in an organism's body and don't require any external support. They are passed from parent to child. -->
-  <EndogenesDesc>TODO</EndogenesDesc>
+  <EndogenesDesc>生殖系遺伝子は生物の体のすべての細胞に存在し,外部からのサポートを必要としない,自然に受け継がれる遺伝子です.これは親から子に受け継がれます.</EndogenesDesc>
   <!-- EN: Member xenotypes -->
-  <MemberXenotypeChances>TODO</MemberXenotypeChances>
+  <MemberXenotypeChances>メンバーのゼノタイプ</MemberXenotypeChances>
   <!-- EN: xenotype name -->
-  <XenotypeName>TODO</XenotypeName>
+  <XenotypeName>ゼノタイプの名前</XenotypeName>
   <!-- EN: Lock or unlock the xenotype's name. When locked, the xenotype name will not auto-regenerate when genepacks are added or removed. -->
-  <LockNameButtonDesc>TODO</LockNameButtonDesc>
+  <LockNameButtonDesc>ゼノタイプの名前をロック,もしくはロック解除します.ロックされている場合,遺伝子パックが追加または削除されてもゼノタイプの名前が自動再生成されません.</LockNameButtonDesc>
   <!-- EN: Xenotype name lock is on. Xenotype name will not regenerate when adding or removing genepacks. -->
-  <LockNameOn>TODO</LockNameOn>
+  <LockNameOn>ゼノタイプの名前ロックがオンになっています.遺伝子パックを追加,もしくは削除してもゼノタイプの名前は再生成されません.</LockNameOn>
   <!-- EN: Xenotype name lock is off. Xenotype name will regenerate when adding or removing genepacks. -->
-  <LockNameOff>TODO</LockNameOff>
+  <LockNameOff>ゼノタイプの名前ロックがオフになっています.遺伝子パックを追加,もしくは削除するとゼノタイプの名前が再生成されます.</LockNameOff>
   <!-- EN: Creating xenogerm -->
-  <CreatingXenogerm>TODO</CreatingXenogerm>
+  <CreatingXenogerm>異種胚を作成</CreatingXenogerm>
   <!-- EN: This genepack is contained in an unpowered genebank. If added, production on the xenogerm will be suspended until power is restored. -->
   <GenepackUnusableGenebankUnpowered>TODO</GenepackUnusableGenebankUnpowered>
   <!-- EN: This xenogerm requires more genetic complexity than the gene assembler and nearby powered gene processors can support. -->
-  <GeneProcessorUnpowered>TODO</GeneProcessorUnpowered>
+  <GeneProcessorUnpowered>この異種胚は,遺伝子組立機や周囲の強力な遺伝子プロセッサーがサポートできるよりも,より多くの遺伝的複雑性を必要とします.</GeneProcessorUnpowered>
   <!-- EN: Estimated recombination time -->
-  <RecombineDuration>TODO</RecombineDuration>
+  <RecombineDuration>推定組換え時間</RecombineDuration>
   <!-- EN: How long it would take for an average worker to combine the selected genes into a xenogerm. Recombination time increases with the total complexity of the genes in the xenogerm. -->
-  <RecombineDurationDesc>TODO</RecombineDurationDesc>
+  <RecombineDurationDesc>平均的な労働者が,選択した遺伝子を異種胚に結合するのにかかる時間です.組換え時間は異種胚の全体的な複雑さと共に増加します.</RecombineDurationDesc>
   <!-- EN: You must research {0_label} before you can assemble a xenogerm that requires archite capsules. -->
-  <MustResearchProject>TODO</MustResearchProject>
+  <MustResearchProject>アルカイトカプセルを必要とする異種胚を組み立てる前に,{0_label}を研究する必要があります.</MustResearchProject>
   <!-- EN: Assembling xenogerms with archite genes requires {0_label} research. -->
-  <AssemblingRequiresResearch>TODO</AssemblingRequiresResearch>
+  <AssemblingRequiresResearch>アルカイトの遺伝子を持つ異種胚を組み立てるには,{0_label}の研究が必要です.</AssemblingRequiresResearch>
   <!-- EN: You are currently combining a {XENOGERMNAME} xenogerm. If you start combining a new xenogerm, it will cancel your current xenogerm.\n\nAre you sure you want to continue? -->
-  <ConfirmStartNewXenogerm>TODO</ConfirmStartNewXenogerm>
+  <ConfirmStartNewXenogerm>現在,{XENOGERMNAME}の異種胚を結合しています.新しい異種胚の組み合わせを開始すると,現在の異種胚が取り消されます.\n\n本当に続行しますか?</ConfirmStartNewXenogerm>
   <!-- EN: Select at least one gene to randomize a name for this xenotype. -->
-  <SelectAGeneToRandomizeName>TODO</SelectAGeneToRandomizeName>
+  <SelectAGeneToRandomizeName>このゼノタイプの名前をランダム化するには,少なくとも1つの遺伝子を選択してください.</SelectAGeneToRandomizeName>
   <!-- EN: Select at least one gene to choose a name for this xenotype. -->
-  <SelectAGeneToChooseAName>TODO</SelectAGeneToChooseAName>
+  <SelectAGeneToChooseAName>このゼノタイプの名前を選択するには,少なくとも1つの遺伝子を選択してください.</SelectAGeneToChooseAName>
 
   <!-- View genes -->
   <!-- EN: Inspect genes -->
@@ -127,63 +127,63 @@
 
   <!-- Xenotype editor -->
   <!-- EN: Xenotype editor -->
-  <XenotypeEditor>TODO</XenotypeEditor>
+  <XenotypeEditor>ゼノタイプエディター</XenotypeEditor>
   <!-- EN: Any (non-archite) -->
-  <AnyNonArchite>TODO</AnyNonArchite>
+  <AnyNonArchite>ランダム(アルカイトなし)</AnyNonArchite>
   <!-- EN: Selected genes -->
-  <SelectedGenes>TODO</SelectedGenes>
+  <SelectedGenes>選択された遺伝子</SelectedGenes>
   <!-- EN: custom -->
-  <Custom>TODO</Custom>
+  <Custom>カスタム</Custom>
   <!-- EN: hybrid -->
-  <Hybrid>TODO</Hybrid>
+  <Hybrid>ハイブリッド</Hybrid>
   <!-- EN: Genes are heritable -->
-  <GenesAreInheritable>TODO</GenesAreInheritable>
+  <GenesAreInheritable>遺伝子が遺伝する</GenesAreInheritable>
   <!-- EN: Whether or not this xenotype can be passed on to children. -->
-  <GenesAreInheritableXenotypeDef>TODO</GenesAreInheritableXenotypeDef>
+  <GenesAreInheritableXenotypeDef>このゼノタイプが子供に受け継がれるかどうかです.</GenesAreInheritableXenotypeDef>
   <!-- EN: All genes in this xenotype can be passed on to children. -->
-  <GenesAreInheritableDesc>TODO</GenesAreInheritableDesc>
+  <GenesAreInheritableDesc>このゼノタイプのすべての遺伝子が子供に受け継がれる可能性があります.</GenesAreInheritableDesc>
   <!-- EN: For each individual, one of the following genes will be randomly selected to be active -->
-  <GeneWillBeRandomChosen>TODO</GeneWillBeRandomChosen>
+  <GeneWillBeRandomChosen>個体ごとに以下の遺伝子のいずれかがランダムに選択されてアクティブになります</GeneWillBeRandomChosen>
   <!-- EN: This gene is incompatible with other genes in this xenotype. Only one of these genes will be active -->
-  <GeneIncompatibleDesc>TODO</GeneIncompatibleDesc>
+  <GeneIncompatibleDesc>この遺伝子はこのゼノタイプの他の遺伝子と互換性がありません.これらの遺伝子の1つだけがアクティブになります</GeneIncompatibleDesc>
   <!-- EN: Of the following genes, the left-most one will always apply and the others are suppressed -->
-  <GeneLeftmostActive>TODO</GeneLeftmostActive>
+  <GeneLeftmostActive>次の遺伝子のうち,一番左のものは常に適用され,その他は抑制されます</GeneLeftmostActive>
   <!-- EN: Of the following genes, only one will apply and the others will be suppressed -->
-  <GeneOneActive>TODO</GeneOneActive>
+  <GeneOneActive>次の遺伝子のうち,1つのみが適用され,他の遺伝子は抑制されます</GeneOneActive>
   <!-- EN: Changing xenotype will randomize this colonist.\n\nContinue anyway? -->
-  <WarnChangingXenotypeWillRandomizePawn>TODO</WarnChangingXenotypeWillRandomizePawn>
+  <WarnChangingXenotypeWillRandomizePawn>ゼノタイプを変更すると,この入植者がランダム化されます.\n\n本当に続けますか?</WarnChangingXenotypeWillRandomizePawn>
   <!-- EN: Delete this xenotype. -->
-  <DeleteThisXenotype>TODO</DeleteThisXenotype>
+  <DeleteThisXenotype>このゼノタイプを削除します.</DeleteThisXenotype>
   <!-- EN: Ignore restrictions -->
-  <IgnoreRestrictions>TODO</IgnoreRestrictions>
+  <IgnoreRestrictions>制限を無視する</IgnoreRestrictions>
   <!-- EN: Created xenotypes have no biostat limits. Genes requiring archite capsules can be added. -->
-  <IgnoreRestrictionsDesc>TODO</IgnoreRestrictionsDesc>
+  <IgnoreRestrictionsDesc>作成されたゼノタイプにはバイオスタットの制限がありません.アルカイトカプセルを必要とする遺伝子を追加できます.</IgnoreRestrictionsDesc>
   <!-- EN: This xenotype breaks normal gameplay limits -->
-  <XenotypeBreaksLimits>TODO</XenotypeBreaksLimits>
+  <XenotypeBreaksLimits>このゼノタイプは通常のゲームプレイの制限を破ります</XenotypeBreaksLimits>
   <!-- EN: It contains archite genes and is inheritable, but archite genes are usually never inheritable. -->
-  <XenotypeBreaksLimits_Archites>TODO</XenotypeBreaksLimits_Archites>
+  <XenotypeBreaksLimits_Archites>このゼノタイプは遺伝しますが,含まれているアルカイト遺伝子は通常決して遺伝しません.</XenotypeBreaksLimits_Archites>
   <!-- EN: {STAT} is {VALUE}, which exceeds the normal limit of {MAX}. -->
-  <XenotypeBreaksLimits_Exceeds>TODO</XenotypeBreaksLimits_Exceeds>
+  <XenotypeBreaksLimits_Exceeds>{STAT}は{VALUE}であり,通常の上限である{MAX}を超えています.</XenotypeBreaksLimits_Exceeds>
   <!-- EN: {STAT} is {VALUE}, which is below the normal limit of {MIN}. -->
-  <XenotypeBreaksLimits_Below>TODO</XenotypeBreaksLimits_Below>
+  <XenotypeBreaksLimits_Below>{STAT}は{VALUE}であり,通常の下限である{MIN}を下回っています.</XenotypeBreaksLimits_Below>
   <!-- EN: Save anyway? -->
-  <SaveAnyway>TODO</SaveAnyway>
+  <SaveAnyway>本当に保存しますか?</SaveAnyway>
   <!-- EN: Ignoring restrictions allows you to create impossible gene combinations by exceeding biostat limits. It also gives you access to powerful archite genes, which can make the game very easy.\n\nAre you sure you want to ignore restrictions? -->
-  <IgnoreRestrictionsConfirmation>TODO</IgnoreRestrictionsConfirmation>
+  <IgnoreRestrictionsConfirmation>制限を無視すると,バイオスタットの制限を超えて不可能な遺伝子の組み合わせを作成できます.また,強力なアルカイトの遺伝子にアクセスできるため,ゲームが非常に簡単になります.\n\n本当に制限を無視しますか?</IgnoreRestrictionsConfirmation>
   <!-- EN: Colonists will always be within this developmental stage's age range when generated. -->
-  <DevelopmentalAgeSelectionDesc>TODO</DevelopmentalAgeSelectionDesc>
+  <DevelopmentalAgeSelectionDesc>入植者は生成された時点で,常にこの発達段階の年齢範囲内になります.</DevelopmentalAgeSelectionDesc>
   <!-- EN: Colonists will always carry the genes defined by this xenotype. -->
-  <XenotypeSelectionDesc>TODO</XenotypeSelectionDesc>
+  <XenotypeSelectionDesc>入植者は常に,このゼノタイプによって定義された遺伝子を取得します.</XenotypeSelectionDesc>
   <!-- EN: Save and apply -->
-  <SaveAndApply>TODO</SaveAndApply>
+  <SaveAndApply>保存して適用</SaveAndApply>
   <!-- EN: Load custom -->
-  <LoadCustom>TODO</LoadCustom>
+  <LoadCustom>カスタムをロード</LoadCustom>
   <!-- EN: Load premade -->
-  <LoadPremade>TODO</LoadPremade>
+  <LoadPremade>プリセットのロード</LoadPremade>
   <!-- EN: Genes conflict -->
-  <GenesConflict>TODO</GenesConflict>
+  <GenesConflict>遺伝子の競合</GenesConflict>
   <!-- EN: {FIRST_label}, {SECOND_label} -->
-  <GenesConflictDesc>TODO</GenesConflictDesc>
+  <GenesConflictDesc>{FIRST_label},{SECOND_label}</GenesConflictDesc>
 
   <!-- Xenogerm editor -->
   <!-- EN: Load template -->

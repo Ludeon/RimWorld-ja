@@ -2,91 +2,91 @@
 <LanguageData>
   
   <!-- EN: acid spray -->
-  <AcidSpray.label>TODO</AcidSpray.label>
+  <AcidSpray.label>アシッドスプレー</AcidSpray.label>
   <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them over time. -->
-  <AcidSpray.description>TODO</AcidSpray.description>
+  <AcidSpray.description>粘着性の酸性物質を,首の腺から口を通り,ターゲット領域全体に吹き掛けます.酸はターゲットに付着し,時間の経過と共に焼きます.</AcidSpray.description>
   
   <!-- EN: animal warcall -->
-  <AnimalWarcall.label>TODO</AnimalWarcall.label>
+  <AnimalWarcall.label>アニマルウォーコール</AnimalWarcall.label>
   <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
-  <AnimalWarcall.description>TODO</AnimalWarcall.description>
+  <AnimalWarcall.description>強力な叫びと精神的な繋がりで動物を呼び出し,敵と数時間戦わせます.</AnimalWarcall.description>
   <!-- EN: warcall -->
-  <AnimalWarcall.verbProperties.label>TODO</AnimalWarcall.verbProperties.label>
+  <AnimalWarcall.verbProperties.label>ウォーコール</AnimalWarcall.verbProperties.label>
   
   <!-- EN: bloodfeed -->
-  <Bloodfeed.label>TODO</Bloodfeed.label>
+  <Bloodfeed.label>吸血</Bloodfeed.label>
   <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target’s body size. -->
-  <Bloodfeed.description>TODO</Bloodfeed.description>
+  <Bloodfeed.description>ターゲットに噛みつき,血液からヘモゲンを直接摂取します.ターゲットは血を失い,相互作用によって恐怖を感じますがそれ以外は無傷です.即効性の凝固剤が傷口をふさぎ,出血を防ぎます.\n\n非造血性人間のみをターゲットにできます.ヘモゲンの摂取量はターゲットの体の大きさに影響されます.</Bloodfeed.description>
   
   <!-- EN: coagulate -->
-  <Coagulate.label>TODO</Coagulate.label>
+  <Coagulate.label>凝血</Coagulate.label>
   <!-- EN: Use special glands in the wrists to quickly tend someone's wounds. -->
-  <Coagulate.description>TODO</Coagulate.description>
+  <Coagulate.description>手首の特別な腺を使用して,誰かの傷を素早く治します.</Coagulate.description>
   
   <!-- EN: fire burst -->
-  <FireBurst.label>TODO</FireBurst.label>
+  <FireBurst.label>炎爆発</FireBurst.label>
   <!-- EN: Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground. -->
-  <FireBurst.description>TODO</FireBurst.description>
+  <FireBurst.description>燃えている燃料を全方向に向けて発射し,地面に火のついた液体の水たまりを形成します.</FireBurst.description>
   
   <!-- EN: firefoam pop -->
-  <FirefoampopMech.label>TODO</FirefoampopMech.label>
+  <FirefoampopMech.label>消火泡ポップ</FirefoampopMech.label>
   <!-- EN: Release a fire-retardant foam in a circular area. -->
-  <FirefoampopMech.description>TODO</FirefoampopMech.description>
+  <FirefoampopMech.description>円形の領域に難燃性の泡を放出します.</FirefoampopMech.description>
   
   <!-- EN: fire spew -->
-  <FireSpew.label>TODO</FireSpew.label>
+  <FireSpew.label>火吐き</FireSpew.label>
   <!-- EN: Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition. -->
-  <FireSpew.description>TODO</FireSpew.description>
+  <FireSpew.description>粘性で可燃性の胆汁を口から吐き出します.胆汁は当たったものすべてを発火させ,地面に炎の水たまりを形成します.\n\n胆汁は首の器官によって生成,貯蓄され,自着火反応を起こす物質の入った別の袋と共に保管されます.</FireSpew.description>
   
   <!-- EN: foam spray -->
-  <FoamSpray.label>TODO</FoamSpray.label>
+  <FoamSpray.label>フォームスプレー</FoamSpray.label>
   <!-- EN: Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches. -->
-  <FoamSpray.description>TODO</FoamSpray.description>
+  <FoamSpray.description>難燃性の泡を首の腺から口を経由してスプレーします.泡は小さな領域を覆い,触れた火を消します.</FoamSpray.description>
   
   <!-- EN: longjump -->
-  <Longjump.label>TODO</Longjump.label>
+  <Longjump.label>ロングジャンプ</Longjump.label>
   <!-- EN: Jump to a distant location using super-strong hemogen-powered legs. -->
-  <Longjump.description>TODO</Longjump.description>
+  <Longjump.description>超強力なヘモゲンを動力源とする脚を使って,離れた場所にジャンプします.</Longjump.description>
   <!-- EN: jump -->
-  <Longjump.verbProperties.label>TODO</Longjump.verbProperties.label>
+  <Longjump.verbProperties.label>ジャンプ</Longjump.verbProperties.label>
   
   <!-- EN: mech longjump -->
-  <LongjumpMech.label>TODO</LongjumpMech.label>
+  <LongjumpMech.label>メカロングジャンプ</LongjumpMech.label>
   <!-- EN: Jump to a distant location using special ultrafast mechanoid muscles. -->
-  <LongjumpMech.description>TODO</LongjumpMech.description>
+  <LongjumpMech.description>特別な超高速メカノイドの動力を使って,離れた場所にジャンプします.</LongjumpMech.description>
   <!-- EN: jump -->
-  <LongjumpMech.verbProperties.label>TODO</LongjumpMech.verbProperties.label>
+  <LongjumpMech.verbProperties.label>ジャンプ</LongjumpMech.verbProperties.label>
   
   <!-- EN: jump launcher -->
-  <LongjumpMechLauncher.label>TODO</LongjumpMechLauncher.label>
+  <LongjumpMechLauncher.label>ジャンプランチャー</LongjumpMechLauncher.label>
   <!-- EN: Jump to a distant location using a built-in jump launcher. -->
-  <LongjumpMechLauncher.description>TODO</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.description>内蔵されたジャンプランチャーで,離れた場所にジャンプします.</LongjumpMechLauncher.description>
   <!-- EN: jump -->
-  <LongjumpMechLauncher.verbProperties.label>TODO</LongjumpMechLauncher.verbProperties.label>
+  <LongjumpMechLauncher.verbProperties.label>ジャンプ</LongjumpMechLauncher.verbProperties.label>
   
   <!-- EN: piercing spine -->
-  <PiercingSpine.label>TODO</PiercingSpine.label>
+  <PiercingSpine.label>骨棘</PiercingSpine.label>
   <!-- EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
-  <PiercingSpine.description>TODO</PiercingSpine.description>
+  <PiercingSpine.description>造血化学反応を使用してターゲットに骨棘を発射します.トゲは鎖骨の間の開口部から皮膚を通って出ます.この打ち出し方により,狙いを定めることが非常に容易です.</PiercingSpine.description>
   
   <!-- EN: implant genes -->
-  <ReimplantXenogerm.label>TODO</ReimplantXenogerm.label>
+  <ReimplantXenogerm.label>遺伝子移植</ReimplantXenogerm.label>
   <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process. -->
-  <ReimplantXenogerm.description>TODO</ReimplantXenogerm.description>
+  <ReimplantXenogerm.description>それを求める被験者にこの人物の異種胚を,特別な注入器官を使用して移植します.遺伝子が再成長している場合,異種胚を移植する過程で持ち主が死亡します.</ReimplantXenogerm.description>
   
   <!-- EN: resurrect -->
-  <Resurrect.label>TODO</Resurrect.label>
+  <Resurrect.label>復活</Resurrect.label>
   <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
-  <Resurrect.description>TODO</Resurrect.description>
+  <Resurrect.description>血流中のアルカイトを使用して死体の体に新しい生命を吹き込み,変性した細胞構造を修復し,重要な機能を始動させます.死体が古く保存状態が悪いほど記憶や健康に障害を残した状態で復活する可能性が高くなります.この能力はどういうわけかアルカイトを消耗するため,非常にまれにしか使用できません.</Resurrect.description>
   
   <!-- EN: resurrect mech -->
-  <ResurrectionMech.label>TODO</ResurrectionMech.label>
+  <ResurrectionMech.label>復活メカ</ResurrectionMech.label>
   <!-- EN: Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed. -->
-  <ResurrectionMech.description>TODO</ResurrectionMech.description>
+  <ResurrectionMech.description>自己修復プロセスを外部から供給することにより,最近破壊されたメカノイドを復活させます.メカノイドはその傷のすべてではなく,一部を修復して復活します.</ResurrectionMech.description>
   
   <!-- EN: mech smokepop -->
-  <SmokepopMech.label>TODO</SmokepopMech.label>
+  <SmokepopMech.label>メカスモークポップ</SmokepopMech.label>
   <!-- EN: Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
-  <SmokepopMech.description>TODO</SmokepopMech.description>
+  <SmokepopMech.description>隠された通気口から圧縮された煙を放出します.煙はそれを通して発射された弾の精度を低下させ,タレットにロックされることを防ぎます.</SmokepopMech.description>
   
 </LanguageData>
