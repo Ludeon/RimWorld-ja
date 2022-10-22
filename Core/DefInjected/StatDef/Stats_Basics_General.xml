@@ -23,8 +23,8 @@
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>アイテムが野外に放置されたときの一日の劣化する量です.\n\n劣化しやすさは,天候,屋根の有無,死の灰,浅瀬に放置などの影響も受けます.</DeteriorationRate.description>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, pollution or being left in shallow water. -->
+  <DeteriorationRate.description>アイテムが野外に放置されたときの一日の劣化する量です.\n\n劣化しやすさは,天候,屋根の有無,死の灰,汚染,浅瀬に放置などの影響も受けます.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0}/日</DeteriorationRate.formatString>
   

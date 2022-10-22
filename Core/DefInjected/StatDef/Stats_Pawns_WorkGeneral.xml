@@ -80,5 +80,7 @@
   <WorkSpeedGlobal.label>基本的な作業速度</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
   <WorkSpeedGlobal.description>基本的な作業速度への掛け率です.</WorkSpeedGlobal.description>
+  <!-- EN: Offset from mechanitor -->
+  <WorkSpeedGlobal.parts.2.label>メカニターからの増減量</WorkSpeedGlobal.parts.2.label>
   
 </LanguageData>

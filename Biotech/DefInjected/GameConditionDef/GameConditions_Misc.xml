@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acidic smog -->
+  <NoxiousHaze.label>酸性スモッグ</NoxiousHaze.label>
+  <!-- EN: Acidic smog is caused by pollution in nearby world tiles. It slows plant growth, deteriorates exposed items, and reduces mood.\n\nThe current world tile has a nearby pollution score of {NEARBYPOLLUTION}, calculated by adding up pollution of nearby world tiles. This means that, on average, acidic smog will occur every {MTB} days. -->
+  <NoxiousHaze.description>酸性スモッグは付近のワールドタイルの汚染によって引き起こされます. 植物の成長を遅らせ, 露天のアイテムを劣化させ, ムードを低下させます.\n\n現在のワールドタイルの汚染度は {NEARBYPOLLUTION} で, 周辺地域の汚染度の合算で計出されます. これは平均して {MTB} 日ごとに酸性スモッグが発生することを意味します.</NoxiousHaze.description>
+  <!-- EN: The acidic smog is lifting. -->
+  <NoxiousHaze.endMessage>酸性スモッグが消えつつあります.</NoxiousHaze.endMessage>
+  <!-- EN: Acidic smog has begun due to pollution in this region of the world. -->
+  <NoxiousHaze.startMessage>この地域では汚染のために酸性スモッグが発生し始めています.</NoxiousHaze.startMessage>
+  
+</LanguageData>
