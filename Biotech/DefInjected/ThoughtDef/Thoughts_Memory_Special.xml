@@ -2,56 +2,56 @@
 <LanguageData>
   
   <!-- EN: {0} was born healthy -->
-  <BabyBorn.stages.was_born_healthy.label>TODO</BabyBorn.stages.was_born_healthy.label>
+  <BabyBorn.stages.was_born_healthy.label>{0}が健康に生まれた</BabyBorn.stages.was_born_healthy.label>
   <!-- EN: My baby brings me so much joy. I would move earth and sky for my little one. -->
-  <BabyBorn.stages.was_born_healthy.description>TODO</BabyBorn.stages.was_born_healthy.description>
+  <BabyBorn.stages.was_born_healthy.description>私の赤ちゃんは楽しみをたくさん与えてくれる. あの子のためなら天地でも動かして見せる.</BabyBorn.stages.was_born_healthy.description>
   
   <!-- EN: fed on by {0} -->
-  <FedOn.stages.fed_on_by.label>TODO</FedOn.stages.fed_on_by.label>
+  <FedOn.stages.fed_on_by.label>{0}に血を吸われた</FedOn.stages.fed_on_by.label>
   <!-- EN: I was violated by a bloodfeeder like some kind of livestock. -->
-  <FedOn.stages.fed_on_by.description>TODO</FedOn.stages.fed_on_by.description>
+  <FedOn.stages.fed_on_by.description>私はまるで家畜のように吸血鬼に犯された.</FedOn.stages.fed_on_by.description>
   
   <!-- EN: ingested hemogen pack -->
-  <IngestedHemogenPack.stages.ingested_hemogen_pack.label>TODO</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.label>ホモゲンパックを摂取した</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
   <!-- EN: I ingested a hemogen pack. It might keep me alive, but it was absolutely disgusting. -->
-  <IngestedHemogenPack.stages.ingested_hemogen_pack.description>TODO</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.description>私はホモゲンパックを摂取した. これで生き長らえるのだろうが、とてもおぞましい.</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
   
   <!-- EN: miscarried -->
-  <Miscarried.stages.miscarried.label>TODO</Miscarried.stages.miscarried.label>
+  <Miscarried.stages.miscarried.label>流産した</Miscarried.stages.miscarried.label>
   <!-- EN: I lost my child. -->
-  <Miscarried.stages.miscarried.description>TODO</Miscarried.stages.miscarried.description>
+  <Miscarried.stages.miscarried.description>私の子供を亡くしてしまった</Miscarried.stages.miscarried.description>
   
   <!-- EN: pregnancy ended -->
-  <PregnancyEnded.stages.pregnancy_ended.label>TODO</PregnancyEnded.stages.pregnancy_ended.label>
+  <PregnancyEnded.stages.pregnancy_ended.label>妊娠が終わった</PregnancyEnded.stages.pregnancy_ended.label>
   <!-- EN: I'm relieved I'm not pregnant any more. -->
-  <PregnancyEnded.stages.pregnancy_ended.description>TODO</PregnancyEnded.stages.pregnancy_ended.description>
+  <PregnancyEnded.stages.pregnancy_ended.description>もう妊娠していないので安心.</PregnancyEnded.stages.pregnancy_ended.description>
   
   <!-- EN: pregnancy terminated -->
-  <PregnancyTerminated.stages.pregnancy_terminated-0.label>TODO</PregnancyTerminated.stages.pregnancy_terminated-0.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-0.label>妊娠中絶</PregnancyTerminated.stages.pregnancy_terminated-0.label>
   <!-- EN: My pregnancy was terminated. -->
-  <PregnancyTerminated.stages.pregnancy_terminated-0.description>TODO</PregnancyTerminated.stages.pregnancy_terminated-0.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-0.description>私の妊娠は中断された.</PregnancyTerminated.stages.pregnancy_terminated-0.description>
   <!-- EN: pregnancy terminated -->
-  <PregnancyTerminated.stages.pregnancy_terminated-1.label>TODO</PregnancyTerminated.stages.pregnancy_terminated-1.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-1.label>妊娠中絶</PregnancyTerminated.stages.pregnancy_terminated-1.label>
   <!-- EN: My pregnancy was terminated. -->
-  <PregnancyTerminated.stages.pregnancy_terminated-1.description>TODO</PregnancyTerminated.stages.pregnancy_terminated-1.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-1.description>私の妊娠は中断された.</PregnancyTerminated.stages.pregnancy_terminated-1.description>
   <!-- EN: pregnancy terminated -->
-  <PregnancyTerminated.stages.pregnancy_terminated-2.label>TODO</PregnancyTerminated.stages.pregnancy_terminated-2.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-2.label>妊娠中絶</PregnancyTerminated.stages.pregnancy_terminated-2.label>
   <!-- EN: My pregnancy was terminated. -->
-  <PregnancyTerminated.stages.pregnancy_terminated-2.description>TODO</PregnancyTerminated.stages.pregnancy_terminated-2.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-2.description>私の妊娠は中断された</PregnancyTerminated.stages.pregnancy_terminated-2.description>
   
   <!-- EN: psychic bond torn ({0}) -->
-  <PsychicBondTorn.stages.psychic_bond_torn.label>TODO</PsychicBondTorn.stages.psychic_bond_torn.label>
+  <PsychicBondTorn.stages.psychic_bond_torn.label>サイキック接続が引き裂かれた({0})</PsychicBondTorn.stages.psychic_bond_torn.label>
   <!-- EN: My psychic bond with {OTHERPAWN} was torn apart. I feel like part of my mind and emotions are missing. -->
-  <PsychicBondTorn.stages.psychic_bond_torn.description>TODO</PsychicBondTorn.stages.psychic_bond_torn.description>
+  <PsychicBondTorn.stages.psychic_bond_torn.description>私の{OTHERPAWN}との精神的絆は引き裂かれた. 私の心と感情の一部が失われてしまったように感じる.</PsychicBondTorn.stages.psychic_bond_torn.description>
   
   <!-- EN: stillbirth -->
-  <Stillbirth.stages.stillbirth.label>TODO</Stillbirth.stages.stillbirth.label>
+  <Stillbirth.stages.stillbirth.label>死産</Stillbirth.stages.stillbirth.label>
   <!-- EN: My child died during labor. -->
-  <Stillbirth.stages.stillbirth.description>TODO</Stillbirth.stages.stillbirth.description>
+  <Stillbirth.stages.stillbirth.description>私の子供は出産中に死んでしまった.</Stillbirth.stages.stillbirth.description>
   
   <!-- EN: genes harvested -->
-  <XenogermHarvested_Prisoner.stages.genes_harvested.label>TODO</XenogermHarvested_Prisoner.stages.genes_harvested.label>
+  <XenogermHarvested_Prisoner.stages.genes_harvested.label>遺伝子を抽出された</XenogermHarvested_Prisoner.stages.genes_harvested.label>
   <!-- EN: They extracted my genes like I'm some sort of lab creature. -->
-  <XenogermHarvested_Prisoner.stages.genes_harvested.description>TODO</XenogermHarvested_Prisoner.stages.genes_harvested.description>
+  <XenogermHarvested_Prisoner.stages.genes_harvested.description>彼らは、まるで私が実験動物であるかのように、私の遺伝子を抽出した.</XenogermHarvested_Prisoner.stages.genes_harvested.description>
   
 </LanguageData>
