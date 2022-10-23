@@ -16,7 +16,7 @@
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>吸血</Bloodfeed.label>
   <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target’s body size. -->
-  <Bloodfeed.description>ターゲットに噛みつき,血液からヘモゲンを直接摂取します.ターゲットは血を失い,相互作用によって恐怖を感じますがそれ以外は無傷です.即効性の凝固剤が傷口をふさぎ,出血を防ぎます.\n\n非造血性人間のみをターゲットにできます.ヘモゲンの摂取量はターゲットの体の大きさに影響されます.</Bloodfeed.description>
+  <Bloodfeed.description>ターゲットに噛みつき,血液からヘモゲンを直接摂取します.ターゲットは血を失い,相互作用によって恐怖を感じますがそれ以外は無傷です.即効性の凝固剤が傷口をふさぎ,出血を防ぎます.\n\n非ヘモゲニック人間のみをターゲットにできます.ヘモゲンの摂取量はターゲットの体の大きさに影響されます.</Bloodfeed.description>
   
   <!-- EN: coagulate -->
   <Coagulate.label>凝血</Coagulate.label>
@@ -67,7 +67,7 @@
   <!-- EN: piercing spine -->
   <PiercingSpine.label>骨棘</PiercingSpine.label>
   <!-- EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
-  <PiercingSpine.description>造血化学反応を使用してターゲットに骨棘を発射します.トゲは鎖骨の間の開口部から皮膚を通って出ます.この打ち出し方により,狙いを定めることが非常に容易です.</PiercingSpine.description>
+  <PiercingSpine.description>造血化学反応を使用してターゲットに骨棘を発射します.トゲは鎖骨の間の開口部から皮膚を通って出ます.その射出方法の割には,狙いを定めることが非常に容易です.</PiercingSpine.description>
   
   <!-- EN: implant genes -->
   <ReimplantXenogerm.label>遺伝子移植</ReimplantXenogerm.label>
@@ -75,14 +75,14 @@
   <ReimplantXenogerm.description>それを求める被験者にこの人物の異種胚を,特別な注入器官を使用して移植します.遺伝子が再成長している場合,異種胚を移植する過程で持ち主が死亡します.</ReimplantXenogerm.description>
   
   <!-- EN: resurrect -->
-  <Resurrect.label>復活</Resurrect.label>
+  <Resurrect.label>リザレクト</Resurrect.label>
   <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
-  <Resurrect.description>血流中のアルカイトを使用して死体の体に新しい生命を吹き込み,変性した細胞構造を修復し,重要な機能を始動させます.死体が古く保存状態が悪いほど記憶や健康に障害を残した状態で復活する可能性が高くなります.この能力はどういうわけかアルカイトを消耗するため,非常にまれにしか使用できません.</Resurrect.description>
+  <Resurrect.description>血流中のアルカイトを使用して死体の体に新しい生命を吹き込み,変性した細胞構造を修復し,重要な機能を始動させます.死体が古く保存状態が悪いほど,記憶喪失や健康不良で蘇生される可能性が上がります.詳細は不明ながら,この能力はアルカイトを消耗するため,極稀にしか使用できません.</Resurrect.description>
   
   <!-- EN: resurrect mech -->
-  <ResurrectionMech.label>復活メカ</ResurrectionMech.label>
+  <ResurrectionMech.label>リザレクトメカ</ResurrectionMech.label>
   <!-- EN: Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed. -->
-  <ResurrectionMech.description>自己修復プロセスを外部から供給することにより,最近破壊されたメカノイドを復活させます.メカノイドはその傷のすべてではなく,一部を修復して復活します.</ResurrectionMech.description>
+  <ResurrectionMech.description>自己修復プロセスを外部から供給することにより,最近破壊されたメカノイドを復活させます.損傷が完治するわけではなく, 一部修復状態で再起動します.</ResurrectionMech.description>
   
   <!-- EN: mech smokepop -->
   <SmokepopMech.label>メカスモークポップ</SmokepopMech.label>
