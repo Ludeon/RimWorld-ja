@@ -2,40 +2,40 @@
 <LanguageData>
   
   <!-- EN: deathrest accelerator -->
-  <DeathrestAccelerator.label>TODO</DeathrestAccelerator.label>
+  <DeathrestAccelerator.label>死眠加速装置</DeathrestAccelerator.label>
   <!-- EN: This device connects with a deathresting person and makes deathrest complete quicker. It enhances the effect of the deathrest casket using finer blood analysis and more powerful chemicals. It must be connected to a deathrest casket to function. -->
-  <DeathrestAccelerator.description>TODO</DeathrestAccelerator.description>
+  <DeathrestAccelerator.description>この装置は死眠中の人に接続し,死眠の完了を早めます.より精密な血液分析と強力な化学物質を使用して死眠の棺の効果を高めます。機能するには死眠の棺に接続されている必要があります.</DeathrestAccelerator.description>
   
   <!-- EN: deathrest casket -->
-  <DeathrestCasket.label>TODO</DeathrestCasket.label>
+  <DeathrestCasket.label>死眠の棺</DeathrestCasket.label>
   <!-- EN: An enclosed med-casket that accelerates the process of deathrest. It can connect to other devices which confer additional bonuses on the deathrester. The number of devices that can connect depends on the person's deathrest capacity, which can be seen by selecting them.\n\nOnly those with the deathrest gene can use the deathrest casket. -->
-  <DeathrestCasket.description>TODO</DeathrestCasket.description>
+  <DeathrestCasket.description>死眠のプロセスを加速する密閉された医学的棺.死眠者に追加のボーナスを与える他のデバイスを接続できます.接続できるデバイスの数は,対象者を選択することで確認できる死眠容量に依存します.\n\n死眠の遺伝子を持つ人だけが死眠の棺を使用できます.</DeathrestCasket.description>
   
   <!-- EN: glucosoid pump -->
-  <GlucosoidPump.label>TODO</GlucosoidPump.label>
+  <GlucosoidPump.label>グルコソイドポンプ</GlucosoidPump.label>
   <!-- EN: This device allows a deathrester to move faster after deathrest is complete. It pumps the body with extra muscle-signaling factors while cleaning waste products from muscle tissue. The effect lasts until the individual deathrests again. It must be connected to a deathrest casket to function.\n\nThis building must consume hemogen to function. -->
-  <GlucosoidPump.description>TODO</GlucosoidPump.description>
+  <GlucosoidPump.description>この装置は,死眠が完了した者をより早く動けるようにします.この装置は筋組織から老廃物を除去しつつ,筋刺激因子を体内に注入します.次の死眠まで効果が持続します.機能するには死眠の棺に接続されている必要があります.\n\n稼働するためにヘモゲンが必要です.</GlucosoidPump.description>
   <!-- EN: Hemogen -->
   <GlucosoidPump.comps.CompRefuelable.fuelLabel>TODO</GlucosoidPump.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: hemogen amplifier -->
-  <HemogenAmplifier.label>TODO</HemogenAmplifier.label>
+  <HemogenAmplifier.label>ヘモゲン増幅器</HemogenAmplifier.label>
   <!-- EN: This device leaves a deathrester in a hemogen-amplified state so they gain more hemogen from any hemogen source. Using a gland probe and blood analyzer, it links with a deathresting person, stimulating hemogen glands into a more active state. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
-  <HemogenAmplifier.description>TODO</HemogenAmplifier.description>
+  <HemogenAmplifier.description>この装置は,死眠者をヘモゲン増幅状態にし,ヘモゲン供給源から通常より多くのヘモゲンを得られます.腺プローブと血液分析器を使用し,死眠者と接続し,ヘモゲン腺をより活発な状態に刺激します.機能するには死眠の棺に接続されている必要があります.\n\n稼働するためにヘモゲンが必要です.</HemogenAmplifier.description>
   <!-- EN: Hemogen -->
-  <HemogenAmplifier.comps.CompRefuelable.fuelLabel>TODO</HemogenAmplifier.comps.CompRefuelable.fuelLabel>
+  <HemogenAmplifier.comps.CompRefuelable.fuelLabel>ヘモゲン</HemogenAmplifier.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: hemopump -->
-  <Hemopump.label>TODO</Hemopump.label>
+  <Hemopump.label>ヘモポンプ</Hemopump.label>
   <!-- EN: This blood-refining pump increases the amount of hemogen a deathresting person can store in their body. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
-  <Hemopump.description>TODO</Hemopump.description>
+  <Hemopump.description>この血液精製ポンプは,死眠者が体に蓄えておけるヘモゲンの量を増大させます.機能するには死眠の棺に接続されている必要があります.\n\n稼働するためにヘモゲンが必要です.</Hemopump.description>
   <!-- EN: Hemogen -->
-  <Hemopump.comps.CompRefuelable.fuelLabel>TODO</Hemopump.comps.CompRefuelable.fuelLabel>
+  <Hemopump.comps.CompRefuelable.fuelLabel>ヘモゲン</Hemopump.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: psychofluid pump -->
-  <PsychofluidPump.label>TODO</PsychofluidPump.label>
+  <PsychofluidPump.label>サイコ流体ポンプ</PsychofluidPump.label>
   <!-- EN: This device enhances the psychic sensitivity of a deathresting person by rhythmically stimulating neural tissues. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
-  <PsychofluidPump.description>TODO</PsychofluidPump.description>
+  <PsychofluidPump.description>この装置は,リズミカルに神経組織を刺激することで死眠者のサイキック感受性を増大させます.機能するには死眠の棺に接続されている必要があります.\n\n稼働するためにヘモゲンが必要です.</PsychofluidPump.description>
   <!-- EN: Hemogen -->
   <PsychofluidPump.comps.CompRefuelable.fuelLabel>TODO</PsychofluidPump.comps.CompRefuelable.fuelLabel>
   
