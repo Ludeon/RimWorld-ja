@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: control sublink (standard) -->
-  <ControlSublink.label>制御サブリンク（標準）</ControlSublink.label>
+  <ControlSublink.label>TODO</ControlSublink.label>
   <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis standard-tier sublink can only increase the control group count up to 3. To go higher, a higher-tier sublink implant must be used.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
-  <ControlSublink.description>メカニターに追加の制御グループを与える神経インプラント.さらに,サブリンクはこのメカニターに制御されているメカノイドの作業速度をわずかに向上させます.\n\nこの標準ティアのサブリンクは制御グループを最大+3までしか増加させられません.さらに向上させるには,より高ティアのサブリンクインプラントが必要です.\n\nこのインプラントは手術なしで自分でインストールできます.\n\nこのインプラントは効果を増加させるために最大3回までインストールできます.</ControlSublink.description>
+  <ControlSublink.description>TODO</ControlSublink.description>
   <!-- EN: Implant sublink -->
-  <ControlSublink.comps.CompUsableImplant.useLabel>サブリンクをインストール</ControlSublink.comps.CompUsableImplant.useLabel>
+  <ControlSublink.comps.CompUsableImplant.useLabel>TODO</ControlSublink.comps.CompUsableImplant.useLabel>
   
   <!-- EN: control sublink (high) -->
-  <ControlSublinkHigh.label>制御サブリンク（高）</ControlSublinkHigh.label>
+  <ControlSublinkHigh.label>TODO</ControlSublinkHigh.label>
   <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis high-tier implant can increase the control group count up to 6.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
-  <ControlSublinkHigh.description>メカニターに追加の制御グループを与える神経インプラント.さらに,サブリンクはこのメカニターに制御されているメカノイドの作業速度をわずかに向上させます.\n\nこの高ティアのインプラントは制御グループを最大+6まで増加できます.\n\nこのインプラントは手術なしで自分でインストールできます.\n\nこのインプラントは最大3回までインストールして効果を増加できます.</ControlSublinkHigh.description>
+  <ControlSublinkHigh.description>TODO</ControlSublinkHigh.description>
   <!-- EN: Implant high sublink -->
-  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>サブリンク(高)をインストール</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
+  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>TODO</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mech gestation processor -->
-  <MechFormfeeder.label>メカジェステイター・プロセッサー</MechFormfeeder.label>
+  <MechFormfeeder.label>TODO</MechFormfeeder.label>
   <!-- EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
-  <MechFormfeeder.description>メカニターがメカジェステイターでメカを製造する速さを向上させるインプラント.このプロセッサーはメカ形成タンク内のメカナイトの挙動を最適化します.\n\nこのインプラントはメカリンクと同じ方法で自分でインストールできます.\n\nこのインプラントは最大6回までインストールして効果を増加できます.</MechFormfeeder.description>
+  <MechFormfeeder.description>TODO</MechFormfeeder.description>
   <!-- EN: Implant {0_label} -->
-  <MechFormfeeder.comps.CompUsableImplant.useLabel>{0_label}をインストール</MechFormfeeder.comps.CompUsableImplant.useLabel>
+  <MechFormfeeder.comps.CompUsableImplant.useLabel>TODO</MechFormfeeder.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mechlink -->
-  <Mechlink.label>メカリンク</Mechlink.label>
+  <Mechlink.label>TODO</Mechlink.label>
   <!-- EN: A bionic implant that allows direct control of mechanoids. Mechlinks are used by soldiers to control war mechs, and by workers to control labor mechs. A person with a mechlink is known as a mechanitor.\n\nMechlinks are self-installable. Pressed into the back of the throat, the unit injects itself through the flesh to clamp inside the base of the skull where it meets the spinal cord. There, it threads a web of ultrafine wires throughout nearby neuronal tissue to make the direct mental link between the user and the mechanoid control band.\n\nMechlinks are not simply devices for sending radio signals to mechanoids, because mechanoids are not merely robots. In addition to traditional computers, mechanoids have a dim psychic presence, so fluently controlling them requires a psychic connection. By linking mechanitor and mechanoid both psychically and electromagnetically, the mechlink permits deeper control than screen-and-button interfaces.\n\nSince the mechlink interlaces deep within the brain tissue, it can only be removed after death.\n\nNote: A mechanitor must be capable of smithing work to gestate mechanoids. -->
-  <Mechlink.description>メカノイドの直接制御を可能にするバイオニックインプラント.メカリンクは戦闘メカを制御するために兵士に使用するか,労働メカを制御するために労働者に使用することができます.メカリンクを装着した人はメカニターとして知られています.\n\nメカリンクは自分でインストールできます.喉の奥に押し込むと,ユニットは自動的に組織を貫通して装入され,頭蓋底の内側にある脊髄に固定されます.そこで近くの神経組織全体に極細の回路網を構築し,使用者とメカノイド制御通信帯域を精神的に直結します.\n\nメカノイドは単なるロボットではないため,メカリンクはメカノイドに無線信号を送信するような単純なデバイスではありません.従来型のコンピューターに加え,メカノイドにはおぼろげながら精神的な実体があるため,細やかに制御するには精神的なつながりが必要です.メカニターとメカノイドを精神的にも電磁的にも接続することにより,メカリンクは画面とボタンのインターフェースよりも深い制御を可能にします.\n\nメカリンクは脳組織と奥深くで絡み合っているため,死後にのみ除去できます.\n\n注:メカニターはメカノイドを作成するために、鍛冶作業が可能でなければなりません.</Mechlink.description>
+  <Mechlink.description>TODO</Mechlink.description>
   <!-- EN: Install {0_label} to become mechanitor -->
-  <Mechlink.comps.CompUsableImplant.useLabel>{0_label}をインストールしてメカニターになる</Mechlink.comps.CompUsableImplant.useLabel>
+  <Mechlink.comps.CompUsableImplant.useLabel>TODO</Mechlink.comps.CompUsableImplant.useLabel>
   
   <!-- EN: remote repairer -->
-  <RemoteRepairer.label>遠隔リペアラー</RemoteRepairer.label>
+  <RemoteRepairer.label>TODO</RemoteRepairer.label>
   <!-- EN: A mechlink upgrade which allows the mechanitor to repair mechs from a distance. The user links with the mechanoid and uses their own brain to psychically guide its self-repair mechanites.\n\nThis implant can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its range. -->
-  <RemoteRepairer.description>メカニターが遠隔でメカ修理できるようになるメカリンクのアップグレードです.使用者はメカノイドと接続し,自らの脳を使用して自己修復メカナイトを手助けします.\n\nこのインプラントは手術なしで自分でインストールできます.\n\nこのインプラントは最大3回までインストールして効果範囲を増大できます.</RemoteRepairer.description>
+  <RemoteRepairer.description>TODO</RemoteRepairer.description>
   <!-- EN: Implant {0_label} -->
-  <RemoteRepairer.comps.CompUsableImplant.useLabel>{0_label}をインストール</RemoteRepairer.comps.CompUsableImplant.useLabel>
+  <RemoteRepairer.comps.CompUsableImplant.useLabel>TODO</RemoteRepairer.comps.CompUsableImplant.useLabel>
   
   <!-- EN: remote shielder -->
-  <RemoteShielder.label>遠隔シールダー</RemoteShielder.label>
+  <RemoteShielder.label>TODO</RemoteShielder.label>
   <!-- EN: An implant which allows the mechanitor to place a personal defense shield on a mech. The mechanitor must continuously focus on the mech in order to maintain the shield.\n\nPlacing a shield at a distance requires a substantial amount of focused energy. It can be used to save a mech at a critical moment.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 3 times to increase its range and shield energy. -->
-  <RemoteShielder.description>メカニターが防御シールドをメカに投射できるようになるインプラント.シールドを維持するためには,メカニターは継続して対象のメカに集中する必要があります.\n\n離れた位置にシールドを投射するには相当なエネルギーの集中が必要です.致命的な瞬間にメカを守るのに使えます.\n\nこのインプラントはメカリンクと同じように自分でインストールできます.\n\nこのインプラントは,最大3回までインストールしてシールドエネルギーと距離を強化できます.</RemoteShielder.description>
+  <RemoteShielder.description>TODO</RemoteShielder.description>
   <!-- EN: Implant {0_label} -->
-  <RemoteShielder.comps.CompUsableImplant.useLabel>{0_label}をインストール</RemoteShielder.comps.CompUsableImplant.useLabel>
+  <RemoteShielder.comps.CompUsableImplant.useLabel>TODO</RemoteShielder.comps.CompUsableImplant.useLabel>
   
   <!-- EN: repair probe -->
-  <RepairProbe.label>修理プローブ</RepairProbe.label>
+  <RepairProbe.label>TODO</RepairProbe.label>
   <!-- EN: An implant which increases the speed at which a mechanitor can repair a mechanoid. This does not affect the overall energy needed to repair a mechanoid.\n\nThe implant allows the mechanitor to plug directly into a mechanoid while they are repairing it. This allows them to more quickly understand the mech's injuries, and better-direct the mech's self-repair mechanites to assist with the repair.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
-  <RepairProbe.description>メカニターがメカナイトを修理する速度が速くなるインプラントです.このインプラントは修理に必要なエネルギーには影響しません.\n\nこのインプラントによって修理中にメカニターが直接メカノイドに接続できるようになります.これにより素早くメカのダメージを把握し,メカノイドの自己修復メカナイトに適切な対処を指示して修理を手助けできます.\n\nこのインプラントはメカリンクと同じように自分でインストールできます.\n\nこのインプラントは,最大6回までインストールして効果を強化できます.</RepairProbe.description>
+  <RepairProbe.description>TODO</RepairProbe.description>
   <!-- EN: Implant {0_label} -->
-  <RepairProbe.comps.CompUsableImplant.useLabel>{0_label}をインストール</RepairProbe.comps.CompUsableImplant.useLabel>
+  <RepairProbe.comps.CompUsableImplant.useLabel>TODO</RepairProbe.comps.CompUsableImplant.useLabel>
   
 </LanguageData>
