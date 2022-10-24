@@ -9,7 +9,7 @@
   <!-- EN: mechband antenna -->
   <BurnoutMechlinkBooster.label>メカバンドアンテナ</BurnoutMechlinkBooster.label>
   <!-- EN: A mech-band signaling device. When activated, it puts out a powerful mech signal pulse, which will attract an ultra-heavy feral mechanoid to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the transmitter, so this building can only be used once. -->
-  <BurnoutMechlinkBooster.description>メカ帯域に信号を送るデバイスです.起動すると,強力なメカ信号パルスを発信し,野生の超重量級メカノイドの注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば,その残骸から特別なテクノロジーを入手できます.信号パルスは送信機を焼き切ってしまうため,1回しか使用できません.</BurnoutMechlinkBooster.description>
+  <BurnoutMechlinkBooster.description>メカ帯域に信号を送るデバイスです.起動すると,強力なメカ信号パルスを発信し,野生の超重量級メカノイドの注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば、その残骸から特別なテクノロジーを入手できます.信号パルスは送信機を焼き切ってしまうため,1回しか使用できません.</BurnoutMechlinkBooster.description>
   <!-- EN: Summon warqueen threat -->
   <BurnoutMechlinkBooster.comps.CompUsable.useLabel>ウォークイーンの脅威を呼び込む</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
   
@@ -41,7 +41,7 @@
   <!-- EN: mechband dish -->
   <MechbandDish.label>メカバンドパラボラ</MechbandDish.label>
   <!-- EN: A mech-band signaling device more powerful than the normal mechlink antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
-  <MechbandDish.description>メカ帯域に,普通のメカリンクのアンテナよりも強力な信号を送るデバイスです.起動すると,極めて強力なメカ信号パルスを発信し,野生のメカノイド指揮官の注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば,その残骸から特別なテクノロジーを入手できます.信号パルスはアンテナを焼き切ってしまうため,1回しか使用できません.</MechbandDish.description>
+  <MechbandDish.description>メカ帯域に、普通のメカリンクのアンテナよりも強力な信号を送るデバイスです.起動すると,極めて強力なメカ信号パルスを発信し,野生のメカノイド指揮官の注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば,その残骸から特別なテクノロジーを入手できます.信号パルスはアンテナを焼き切ってしまうため,1回しか使用できません.</MechbandDish.description>
   <!-- EN: Summon apocriton threat -->
   <MechbandDish.comps.CompUsable.useLabel>アポクリトンの脅威を呼び込む</MechbandDish.comps.CompUsable.useLabel>
   
@@ -53,12 +53,12 @@
   <!-- EN: pollution pump -->
   <PollutionPump.label>汚染ポンプ</PollutionPump.label>
   <!-- EN: A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. -->
-  <PollutionPump.description>汚染された土地をゆっくりと除染する,地下水をろ過するポンプです.抽出された汚染は有毒な廃棄物パックになるので,離れた場所へ持って行く必要があります.</PollutionPump.description>
+  <PollutionPump.description>汚染された土地をゆっくりと除染する,地下水をろ過するポンプです.抽出された汚染は有毒な廃棄物パックになるので、離れた場所へもっていく必要があります.</PollutionPump.description>
   
   <!-- EN: blood torch -->
   <SanguphageMeetingTorch.label>ブラッドトーチ</SanguphageMeetingTorch.label>
   <!-- EN: A specially-treated wooden torch that produces a red light over a large area. Sanguophages gather around torches like these during their ceremonial meetings. The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. It can be automatically refueled with wood, and produces a small amount of heat. -->
-  <SanguphageMeetingTorch.description>広い範囲に赤い光で照らすために特別に作られた松明です.サングオファージは彼らの記念式典のように,松明の周りに集まります.その赤い光は血を餌とする遺伝子を持つ人々に特に喜ばれます.木材を自動的に燃料として補給でき,少量の熱を発生します.</SanguphageMeetingTorch.description>
+  <SanguphageMeetingTorch.description>広い範囲に赤い光で照らすために特別に作られた松明です.サングオファージは彼らの記念式典のように,松明の周りに集まります.その赤い光はブラッドフィーダーの遺伝子を持つ個人に特に喜ばれます.木材を自動的に燃料として補給でき,少量の熱を発生します.</SanguphageMeetingTorch.description>
   
   <!-- EN: crashed shuttle -->
   <ShuttleCrashed_Exitable.label>墜落したシャトル</ShuttleCrashed_Exitable.label>
@@ -73,7 +73,7 @@
   <!-- EN: toxifier generator -->
   <ToxifierGenerator.label>有毒発電機</ToxifierGenerator.label>
   <!-- EN: This electrical generator very slowly pollutes the terrain in a radius around it while producing energy. If all terrain in the radius is polluted, the generator will shut down. -->
-  <ToxifierGenerator.description>この発電機は,発電している間,周囲の土地を非常にゆっくりと汚染します.もしも範囲内の土地が全て汚染された場合には,発電を停止します.</ToxifierGenerator.description>
+  <ToxifierGenerator.description>この発電機は,発電している間,周囲の土地を非常にゆっくりと汚染します.もしも範囲内の土地が全て汚染された場合には、発電を停止します.</ToxifierGenerator.description>
   
   <!-- EN: IED tox trap -->
   <TrapIED_ToxGas.label>IED 毒トラップ</TrapIED_ToxGas.label>
