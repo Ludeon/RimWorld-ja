@@ -5,23 +5,23 @@
   <!-- EN: Assign the selected mech(s) to another control group under their current mechanitor overseer. -->
   <DesignatorMechControlGroupDesc>選択したメカを現在のメカニターの指揮下から別のグループに割り当てます.</DesignatorMechControlGroupDesc>
   <!-- EN: However, a {0} can build this. -->
-  <MechCanBuildThis>ただし, {0} は, これを構築できます.</MechCanBuildThis>
+  <MechCanBuildThis>ただし,{0}は,これを構築できます.</MechCanBuildThis>
 
   <!-- EN: Adopt -->
   <DesignatorAdopt>養子縁組</DesignatorAdopt>
   <!-- EN: Adopt this baby as a colonist. The baby will instantly become one of yours. -->
-  <DesignatorAdoptDesc>この赤ん坊を入植者の養子にします. 赤ん坊は即座にコロニーの住人になります<div class=""></div></DesignatorAdoptDesc>
+  <DesignatorAdoptDesc>この赤ん坊を入植者の養子にします.赤ん坊は即座にコロニーの住人になります.</DesignatorAdoptDesc>
   <!-- EN: Choose mech color... -->
   <ChooseMechColor>メカの色を選択...</ChooseMechColor>
 
   <!-- EN: Pollution removal area -->
   <DesignatorAreaPollutionClearExpand>除染エリア</DesignatorAreaPollutionClearExpand>
   <!-- EN: Designate an area where colonists will manually clean polluted terrain. Cleaning the terrain removes pollution from the ground and packages it into toxic wastepacks which can be carried away. -->
-  <DesignatorAreaPollutionClearExpandDesc>入植者が手動で除染するエリアを指定します. 土地を清掃すると汚染が取り除かれ, 汚染物は持ち運び可能な廃棄物パックに詰め込まれます.</DesignatorAreaPollutionClearExpandDesc>
+  <DesignatorAreaPollutionClearExpandDesc>入植者が手動で除染するエリアを指定します.土地を清掃すると汚染が取り除かれ,汚染物は持ち運び可能な廃棄物パックに詰め込まれます.</DesignatorAreaPollutionClearExpandDesc>
   <!-- EN: Clear pollution removal area -->
   <DesignatorAreaPollutionClearClear>除染エリアを削除</DesignatorAreaPollutionClearClear>
   <!-- EN: Removes the pollution removal area. Colonists will no longer manually extract pollution from the terrain in this area. -->
-  <DesignatorAreaPollutionClearClearDesc>除染エリアを削除します. 入植者による手動清掃が行われなくなります.</DesignatorAreaPollutionClearClearDesc>
+  <DesignatorAreaPollutionClearClearDesc>除染エリアを削除します.入植者による手動清掃が行われなくなります.</DesignatorAreaPollutionClearClearDesc>
 
 
 </LanguageData>
