@@ -192,7 +192,7 @@
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
   <MessageEatenByPredator>{EATEN_labelShort}は{PREDATOR}に喰われました.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{PREY_labelShort}は{PREDATOR}に襲われました! </MessageAttackedByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort}は{PREDATOR}に襲われました!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
   <MessageRoamerLeaving>{PAWN_labelShort}が遠くまで徘徊し始めました!家畜の調教師が囲いの中に誘導して戻さない限り,{PAWN_pronoun}はこのエリアから立ち去るでしょう.</MessageRoamerLeaving>

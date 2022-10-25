@@ -90,7 +90,7 @@
   <!-- EN: Growing zones -->
   <GrowingFood.label>農業ゾーンを決める</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>作物を育てるには,農業ゾーンが必要です. 「アーキテクト」タブから,「ゾーン」メニューの 「農業ゾーン」を選んで配置します.\n\n農業ゾーンは, 土があるところだけに配置できます.</GrowingFood.helpText>
+  <GrowingFood.helpText>作物を育てるには,農業ゾーンが必要です.「アーキテクト」タブから,「ゾーン」メニューの「農業ゾーン」を選んで配置します.\n\n農業ゾーンは,土があるところだけに配置できます.</GrowingFood.helpText>
   
   <!-- EN: History tab -->
   <HistoryTab.label>歴史タブを覚える</HistoryTab.label>
@@ -105,12 +105,12 @@
   <!-- EN: Hostility response modes -->
   <HostilityResponse.label>危険への対処方法</HostilityResponse.label>
   <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
-  <HostilityResponse.helpText>襲いかかってくる動物など,危険に遭遇したときに自動的にとる対処方法を設定します.\n\n「逃避」「攻撃」「無視」を 「服装・任命」タブから選びます.</HostilityResponse.helpText>
+  <HostilityResponse.helpText>襲いかかってくる動物など,危険に遭遇したときに自動的にとる対処方法を設定します.\n\n「逃避」「攻撃」「無視」を「服装・任命」タブから選びます.</HostilityResponse.helpText>
   
   <!-- EN: Info card -->
   <InfoCard.label>情報画面を開く</InfoCard.label>
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
-  <InfoCard.helpText>情報画面は,アイテム,人,構造物などの 統計情報を表示します.\n\n人やアイテムをクリックした後, 左下の「i」アイコンをクリックすると情報が表示されます.</InfoCard.helpText>
+  <InfoCard.helpText>情報画面は,アイテム,人,構造物などの 統計情報を表示します.\n\n人やアイテムをクリックした後,左下の「i」アイコンをクリックすると情報が表示されます.</InfoCard.helpText>
   
   <!-- UNUSED -->
   <InspectRoomStats.label>部屋のステータスを見る</InspectRoomStats.label>
@@ -124,7 +124,7 @@
   <!-- EN: Medical operations -->
   <MedicalOperations.label>外科手術を覚える</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>臓器移植や,義体化などの手術を指示するには, 入植者の「健康」タブを開いて,「手術中」サブタブを開き 「新しい加工」ボタンを押します.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>臓器移植や,義体化などの手術を指示するには,入植者の「健康」タブを開いて,「手術中」サブタブを開き「新しい加工」ボタンを押します.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>採掘する</Mining.label>
@@ -154,7 +154,7 @@
   <!-- EN: Stockpiles -->
   <Stockpiles.label>備蓄ゾーンを決める</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>コロニーを建設する近くに, アイテムを保管する場所が必要です. アイテムを保管するための 備蓄ゾーンを作ります.\n\n備蓄ゾーンは,左下にある「アーキテクト」タブの「ゾーン」メニューの中にあります.</Stockpiles.helpText>
+  <Stockpiles.helpText>コロニーを建設する近くに,アイテムを保管する場所が必要です.アイテムを保管するための備蓄ゾーンを作ります.\n\n備蓄ゾーンは,左下にある「アーキテクト」タブの「ゾーン」メニューの中にあります.</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
   <StorageTab.label>保管の詳細設定を覚える</StorageTab.label>
@@ -181,6 +181,6 @@
   <!-- EN: Work settings -->
   <WorkTab.label>優先順位を見直す</WorkTab.label>
   <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
-  <WorkTab.helpText>「優先順位」タブから,入植者ごとの作業を確認することできます.\n\n彼らは常に, 見つけた作業の中で 優先順位の高いものから 順に行おうとします. \n\nもしも,誰一人として, その作業に割り当ててないか, 又は,より優先度の高い作業が忙しいとき, その作業は放置されます.</WorkTab.helpText>
+  <WorkTab.helpText>「優先順位」タブから,入植者ごとの作業を確認することできます.\n\n彼らは常に,見つけた作業の中で優先順位の高いものから順に行おうとします.\n\nもしも,誰一人として,その作業に割り当ててないか,又は,より優先度の高い作業が忙しいとき,その作業は放置されます.</WorkTab.helpText>
   
 </LanguageData>

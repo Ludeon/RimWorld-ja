@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: bandwidth pack -->
-  <Apparel_PackBandwidth.label>TODO</Apparel_PackBandwidth.label>
+  <Apparel_PackBandwidth.label>帯域幅パック</Apparel_PackBandwidth.label>
   <!-- EN: A backpack containing bandwidth-expansion computer and antenna. It can increase a mechanitor's maximum total bandwidth. -->
-  <Apparel_PackBandwidth.description>TODO</Apparel_PackBandwidth.description>
+  <Apparel_PackBandwidth.description>通信帯域拡張コンピューターとアンテナを搭載したバックパックです。メカニターの最大帯域幅を増加させます。</Apparel_PackBandwidth.description>
   
   <!-- EN: control pack -->
-  <Apparel_PackControl.label>TODO</Apparel_PackControl.label>
+  <Apparel_PackControl.label>制御パック</Apparel_PackControl.label>
   <!-- EN: A backpack containing mech control assist computers. It allows a mechanitor to control one additional control group. -->
-  <Apparel_PackControl.description>TODO</Apparel_PackControl.description>
+  <Apparel_PackControl.description>メカ制御補助コンピューターを搭載したバックパックです。メカニターは追加で１グループを制御できるようになります。</Apparel_PackControl.description>
   
   <!-- EN: tox pack -->
-  <Apparel_PackTox.label>TODO</Apparel_PackTox.label>
+  <Apparel_PackTox.label>毒ガスパック</Apparel_PackTox.label>
   <!-- EN: A reusable backpack containing canisters of reagents and a mechanism that uses them to generate tox gas. When the wearer activates the pack, it will begin spreading tox gas and continue for several seconds until it runs out of reagents.\n\nOnce used, it must be reloaded with chemfuel before it can be used again.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal. -->
-  <Apparel_PackTox.description>TODO</Apparel_PackTox.description>
+  <Apparel_PackTox.description>試薬のキャニスターと、それを使用して有毒ガスを生成する仕組みと搭載した、再利用可能なバックパックです。着用者がバックパックを起動すると、毒素ガスが拡散し始め、試薬がなくなるまで数秒間続きます。\n\n一度使用すると、再使用の前に化学燃料を再充填する必要があります。\n\n毒ガスは肺と目を焼き、一時的な息切れや視力低下を引き起こします。毒ガスにさらされ続けると有毒物質が蓄積され、致命的になり得ます。</Apparel_PackTox.description>
   <!-- EN: tox pack -->
-  <Apparel_PackTox.comps.CompReloadable.chargeNoun>TODO</Apparel_PackTox.comps.CompReloadable.chargeNoun>
+  <Apparel_PackTox.comps.CompReloadable.chargeNoun>毒ガスパック</Apparel_PackTox.comps.CompReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_PackTox.comps.CompReloadable.cooldownGerund>TODO</Apparel_PackTox.comps.CompReloadable.cooldownGerund>
+  <Apparel_PackTox.comps.CompReloadable.cooldownGerund>クールダウン中</Apparel_PackTox.comps.CompReloadable.cooldownGerund>
   <!-- EN: deploy tox pack -->
-  <Apparel_PackTox.verbs.deploy_tox_pack.label>TODO</Apparel_PackTox.verbs.deploy_tox_pack.label>
+  <Apparel_PackTox.verbs.deploy_tox_pack.label>毒ガスパックを展開</Apparel_PackTox.verbs.deploy_tox_pack.label>
   
 </LanguageData>

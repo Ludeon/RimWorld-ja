@@ -21,8 +21,8 @@
   <!-- EN: {0} days -->
   <PopAdaptation.valueFormat>{0}日数</PopAdaptation.valueFormat>
   
-  <!-- EN: pop intent x10 -->
-  <PopIntent.label>pop intent x10 </PopIntent.label>
+  <!-- EN: pop intent x10 --><!--TODO-->
+  <PopIntent.label>pop intent x10</PopIntent.label>
   <PopIntent.graphLabelY>日数</PopIntent.graphLabelY>
   <!-- EN: {0} days -->
   <PopIntent.valueFormat>{0}日数</PopIntent.valueFormat>
@@ -31,7 +31,7 @@
   <Prisoners.label>囚人</Prisoners.label>
   <Prisoners.graphLabelY>人数</Prisoners.graphLabelY>
   
-  <!-- EN: fun points /10 -->
+  <!-- EN: fun points /10 --><!--TODO-->
   <ThreatPoints.label>fun ポイント /10</ThreatPoints.label>
   <ThreatPoints.graphLabelY>ポイント</ThreatPoints.graphLabelY>
   <!-- EN: {0} points -->

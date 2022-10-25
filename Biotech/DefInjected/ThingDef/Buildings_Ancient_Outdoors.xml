@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: ancient exostrider cannon -->
-  <AncientExostriderCannon.label>TODO</AncientExostriderCannon.label>
+  <AncientExostriderCannon.label>古代のエクソストライダーの砲</AncientExostriderCannon.label>
   <!-- EN: The remains of the back-mounted energy cannon of a massive, ancient exostrider mechanoid. -->
-  <AncientExostriderCannon.description>TODO</AncientExostriderCannon.description>
+  <AncientExostriderCannon.description>古代のメカノイド,エクソストライダーの背部に搭載されていた巨大なエネルギー砲の残骸です.</AncientExostriderCannon.description>
   
   <!-- EN: ancient exostrider head -->
-  <AncientExostriderHead.label>TODO</AncientExostriderHead.label>
+  <AncientExostriderHead.label>古代のエクソストライダーの頭</AncientExostriderHead.label>
   <!-- EN: The remains of the head of a massive, ancient exostrider mechanoid. It was blasted by some kind of high-energy weapon. -->
-  <AncientExostriderHead.description>TODO</AncientExostriderHead.description>
+  <AncientExostriderHead.description>古代のメカノイド,エクソストライダーの巨大な頭の残骸です.なんらかの高エネルギー兵器で破壊されています.</AncientExostriderHead.description>
   
   <!-- EN: ancient exostrider leg -->
-  <AncientExostriderLeg.label>TODO</AncientExostriderLeg.label>
+  <AncientExostriderLeg.label>古代のエクソストライダーの脚</AncientExostriderLeg.label>
   <!-- EN: The remains of the leg of a massive, ancient exostrider mechanoid. -->
-  <AncientExostriderLeg.description>TODO</AncientExostriderLeg.description>
+  <AncientExostriderLeg.description>古代のメカノイド,エクソストライダーの巨大な脚の残骸です.</AncientExostriderLeg.description>
   
   <!-- EN: ancient exostrider midsection -->
-  <AncientExostriderRemains.label>TODO</AncientExostriderRemains.label>
+  <AncientExostriderRemains.label>古代のエクソストライダーの中間部</AncientExostriderRemains.label>
   <!-- EN: The remains of a massive, ancient exostrider war mechanoid. Long ago, some high-energy weapon shattered the body and fused the parts into an almost-solid mass.\n\nIn its guts, it looks like there is a still-functional transponder. If you could extract the transponder, you could decrypt it to gather valuable information.\n\nThe mech's incendiary weapon cells are intact but unstable, and will likely detonate after you do some damage. -->
-  <AncientExostriderRemains.description>TODO</AncientExostriderRemains.description>
+  <AncientExostriderRemains.description>古代の戦闘メカノイド,エクソストライダーの巨大な残骸です.昔いくつかの高エネルギー兵器が機体を粉砕し,一塊に融合してしまいました.\n\n内部にはまだ機能するトランスポンダが残されているようです.もしもトランスポンダを取り出すことができれば,解読して貴重な情報を手に入れられるでしょう.\n\n焼夷兵器のセルはまだ無事ですが不安定で,もし何らかの衝撃を与えれば吹き飛んでしまうでしょう.</AncientExostriderRemains.description>
   <!-- EN: Ancient mech -->
-  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>TODO</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>古代のメカ</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
   <!-- EN: Passing near the remains of an ancient exostrider mechanoid, {PAWN_nameDef} noticed an (*Reward)intact transponder(/Reward) inside.\n\nIf you could get the transponder, you could read valuable information from it. The massive mech is smashed and fused into a solid piece. You must destroy it to retrieve the transponder.\n\nBe careful - the incendiary weapon cells look (*Threat)unstable(/Threat) and will likely detonate after you do some damage. -->
-  <AncientExostriderRemains.comps.CompProximityLetter.letterText>TODO</AncientExostriderRemains.comps.CompProximityLetter.letterText>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterText>古代のメカイノイド,エクソストライダーの残骸の近くを通り過ぎる時,{PAWN_nameDef}は(*Reward)無傷のトランスポンダー(/Reward)が内部に残されていることに気が付きました.\n\nもしもトランスポンダを取り出すことができれば,解読して貴重な情報を手に入れられるでしょう.巨大なメカは打ちのめされ,一塊に融解しています.トランスポンダを取り出すには破壊するしかありません.\n\n注意してください.焼夷兵器弾薬は(*Threat)不安定(/Threat)で,衝撃を与えると爆発してしまいそうです.</AncientExostriderRemains.comps.CompProximityLetter.letterText>
   <!-- EN: Available: {LEAVINGS1_label} -->
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>TODO</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>入手可能:{LEAVINGS1_label}</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
   <!-- EN: A {LEAVINGS1_label} has been left behind after an explosion. It can be decrypted at a research bench.\n\nSelect a colonist and right-click it to decrypt it. -->
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>TODO</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>爆発の後,{LEAVINGS1_label}が残されました.研究卓で解読できます.\n\n解読するには,入植者を選択して右クリックして下さい.</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
   <!-- EN: Contains an ancient mechanoid transponder. -->
-  <AncientExostriderRemains.comps.CompInspectString.inspectString>TODO</AncientExostriderRemains.comps.CompInspectString.inspectString>
+  <AncientExostriderRemains.comps.CompInspectString.inspectString>古代のメカノイドのトランスポンダが残されている.</AncientExostriderRemains.comps.CompInspectString.inspectString>
   
 </LanguageData>

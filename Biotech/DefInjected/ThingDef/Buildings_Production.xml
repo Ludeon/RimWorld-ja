@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
+<LanguageData>、
   
   <!-- EN: large mech gestator -->
-  <LargeMechGestator.label>TODO</LargeMechGestator.label>
+  <LargeMechGestator.label>大型メカジェステイター</LargeMechGestator.label>
   <!-- EN: A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This tier of mech gestator is capable of generating medium, heavy, and ultraheavy mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time. -->
-  <LargeMechGestator.description>TODO</LargeMechGestator.description>
+  <LargeMechGestator.description>材料と栄養素を供給するためのサポートチューブを備えた,メカナイトが豊富な液体のタンクです.メカニターはこれを使用して,新しいメカノイドを生成したり,故障したメカノイドを復活させたりできます.このレベルのメカジェステーターは中量,重量,超重量級メカを生成できます.\n\nこのプロセスでは,有毒な廃棄物パックに保管されている刺激の強い化学物質を使用します.定期的に廃棄物パックを取り除かなければなりません.</LargeMechGestator.description>
   
   <!-- EN: mech gestator -->
-  <MechGestator.label>TODO</MechGestator.label>
+  <MechGestator.label>メカジェステイター</MechGestator.label>
   <!-- EN: A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This basic type of mech gestator is only capable of generating light-weight mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time. -->
-  <MechGestator.description>TODO</MechGestator.description>
+  <MechGestator.description>材料と栄養素を供給するためのサポートチューブを備えた,メカナイトが豊富な液体のタンクです.メカニターはこれを使用して,新しいメカノイドを生成したり,故障したメカノイドを復活させたりできます.この基本的なタイプのメカジェステーターは軽量メカしか生成できません.\n\nこのプロセスでは,有毒な廃棄物パックに保管されている刺激の強い化学物質を使用します.定期的に廃棄物パックを取り除かなければなりません.</MechGestator.description>
   
   <!-- EN: subcore encoder -->
-  <SubcoreEncoder.label>TODO</SubcoreEncoder.label>
+  <SubcoreEncoder.label>サブコア・エンコーダー</SubcoreEncoder.label>
   <!-- EN: A work station where a mechanitor can produce basic-tier subcores. Subcores are the brains of mechanoids, and one is required to produce any mechanoid. Basic subcores can only be used in simple basic-tier mechs.\n\nHigher tier subcores can be created by building a subcore softscanner or a subcore ripscanner. -->
-  <SubcoreEncoder.description>TODO</SubcoreEncoder.description>
+  <SubcoreEncoder.description>メカニターが基本レベルのサブコアを作成できる作業台です.\n\nサブコアはメカノイドの頭脳であり,1台のメカノイドを生成するのに1個のサブコアが必要です.基本サブコアは,単純な基本レベルのメカを製造するのにしか使えません.\n\nより高レベルのサブコアはサブコア・ソフトスキャナーかサブコア・リップスキャナーで作成できます.</SubcoreEncoder.description>
   
   <!-- EN: subcore ripscanner -->
-  <SubcoreRipscanner.label>TODO</SubcoreRipscanner.label>
+  <SubcoreRipscanner.label>サブコア・リップスキャナー</SubcoreRipscanner.label>
   <!-- EN: A pod with thousands of tissue probe injectors and an ultra-high-power vaporizing brain scanner. Once a person is inserted, the device will insert the probes into their body through the skin while the ripscanner chews through the brain, reading the reflected radiation and destroying the brain in the process. Ripscanning the mind generates a neuro-psychic pattern that the scanner can analog-transfer to a new high-tier mechanoid subcore.\n\nSubcores are mechanoid brains and producing any mechanoid requires one. High-tier subcores produced by this ripscanner can only power high-tier mechanoids. -->
-  <SubcoreRipscanner.description>TODO</SubcoreRipscanner.description>
+  <SubcoreRipscanner.description>何千もの組織プローブ注入装置と超高エネルギーで脳を蒸発させるスキャナーを備えたポッドです.人間が挿入されると,リップスキャナーが脳をかみ砕きつつ反射波を読み取る間,プローブが皮膚を通して体内に挿入されます.この過程で脳は破壊されます.\n\nリップスキャンすることで,スキャナーは新しい高レベルのメカノイド・サブコアにアナログ転送できる神経精神パターンを生成します.\n\nサブコアはメカノイドの頭脳であり,1台のメカノイドを生成するのに1個のサブコアが必要です.このリップスキャナーによって生成された高ティアのサブコアは,高ティアのメカノイドにのみ搭載できます.</SubcoreRipscanner.description>
   
   <!-- EN: subcore softscanner -->
-  <SubcoreSoftscanner.label>TODO</SubcoreSoftscanner.label>
+  <SubcoreSoftscanner.label>サブコア・ソフトスキャナー</SubcoreSoftscanner.label>
   <!-- EN: A pod with thousands of tiny tissue probes and a high-energy brain scanner. Once a person is inserted, the system uses the probes and scanner to sense a neuro-psychic pattern that it can analog-transfer to a new standard-tier mechanoid subcore. The person will be left temporarily sick, but unharmed.\n\nSubcores are mechanoid brains and producing any mechanoid requires one. Standard-tier subcores produced by this softscanner can only power standard-tier mechanoids.\n\nHigher tier subcores can be created by building a subcore ripscanner. -->
-  <SubcoreSoftscanner.description>TODO</SubcoreSoftscanner.description>
+  <SubcoreSoftscanner.description>何千もの小さな組織プローブと高エネルギーの脳スキャナーを備えたポッドです.人間が挿入されると,システムはプローブとスキャナーを使用して,新しい標準レベルのメカノイドのサブコアにアナログ転送できる神経精神パターンをセンシングします.対象者は一時的に病気になりますが,無害です.\n\nサブコアはメカノイドの頭脳であり,1台のメカノイドを生成するのに1個のサブコアが必要です.このソフトスキャナーによって生成された標準レベルのサブコアは,標準レベルのメカノイドにのみ搭載できます.\n\nサブコア・リップスキャナーを建造すると,より高いレベルのサブコアを作成できます.</SubcoreSoftscanner.description>
   
 </LanguageData>

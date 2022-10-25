@@ -2,108 +2,108 @@
 <LanguageData>
   
   <!-- EN: fertile -->
-  <Fertile.label>TODO</Fertile.label>
+  <Fertile.label>繁殖力</Fertile.label>
   <!-- EN: Carriers of this gene have a higher chance of becoming pregnant or impregnating others. -->
-  <Fertile.description>TODO</Fertile.description>
+  <Fertile.description>この遺伝子を持つ者は,妊娠したり他の人を妊娠させたりする可能性が高くなります.</Fertile.description>
   
   <!-- EN: strong immunity -->
-  <Immunity_Strong.label>TODO</Immunity_Strong.label>
+  <Immunity_Strong.label>強い免疫力</Immunity_Strong.label>
   <!-- EN: Carriers of this gene gain immunity to diseases faster than normal. -->
-  <Immunity_Strong.description>TODO</Immunity_Strong.description>
+  <Immunity_Strong.description>この遺伝子を持つ者は,通常よりも早く病気に対する免疫を獲得します.</Immunity_Strong.description>
   <!-- EN: immune -->
-  <Immunity_Strong.labelShortAdj>TODO</Immunity_Strong.labelShortAdj>
+  <Immunity_Strong.labelShortAdj>免疫力</Immunity_Strong.labelShortAdj>
   <!-- EN: stout -->
-  <Immunity_Strong.symbolPack.prefixSymbols.0.symbol>TODO</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
+  <Immunity_Strong.symbolPack.prefixSymbols.0.symbol>スタウト</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: super immunity -->
-  <Immunity_SuperStrong.label>TODO</Immunity_SuperStrong.label>
+  <Immunity_SuperStrong.label>強力な免疫力</Immunity_SuperStrong.label>
   <!-- EN: Carriers of this gene gain immunity to diseases considerably faster than normal. -->
-  <Immunity_SuperStrong.description>TODO</Immunity_SuperStrong.description>
+  <Immunity_SuperStrong.description>この遺伝子を持つ者は,通常よりかなり早く病気に対する免疫を獲得します.</Immunity_SuperStrong.description>
   <!-- EN: super-immune -->
-  <Immunity_SuperStrong.labelShortAdj>TODO</Immunity_SuperStrong.labelShortAdj>
+  <Immunity_SuperStrong.labelShortAdj>超免疫力</Immunity_SuperStrong.labelShortAdj>
   <!-- EN: stout -->
-  <Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>TODO</Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>
+  <Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>スタウト</Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: weak immunity -->
-  <Immunity_Weak.label>TODO</Immunity_Weak.label>
+  <Immunity_Weak.label>弱い免疫力</Immunity_Weak.label>
   <!-- EN: Carriers of this gene gain immunity to diseases more slowly than normal. They may die from infections that others would survive. -->
-  <Immunity_Weak.description>TODO</Immunity_Weak.description>
+  <Immunity_Weak.description>この遺伝子を持つ者は,病気に対する免疫を獲得する速度が通常よりも遅いです.他の人が生き残る感染症でも死亡する可能性があります.</Immunity_Weak.description>
   <!-- EN: susceptible -->
-  <Immunity_Weak.labelShortAdj>TODO</Immunity_Weak.labelShortAdj>
+  <Immunity_Weak.labelShortAdj>弱免疫力</Immunity_Weak.labelShortAdj>
   <!-- EN: sick -->
-  <Immunity_Weak.symbolPack.prefixSymbols.0.symbol>TODO</Immunity_Weak.symbolPack.prefixSymbols.0.symbol>
+  <Immunity_Weak.symbolPack.prefixSymbols.0.symbol>シック</Immunity_Weak.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: frail -->
-  <Immunity_Weak.symbolPack.prefixSymbols.1.symbol>TODO</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
+  <Immunity_Weak.symbolPack.prefixSymbols.1.symbol>フレイル</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: sterile -->
-  <Sterile.label>TODO</Sterile.label>
+  <Sterile.label>不妊</Sterile.label>
   <!-- EN: Carriers of this gene cannot reproduce by natural means. -->
-  <Sterile.description>TODO</Sterile.description>
+  <Sterile.description>この遺伝子を持つ者は,自然な方法で繁殖することができません.</Sterile.description>
   
   <!-- EN: superclotting -->
-  <Superclotting.label>TODO</Superclotting.label>
+  <Superclotting.label>超凝固</Superclotting.label>
   <!-- EN: Carriers of this gene have extra-power coagulating factors in their blood, and will stop bleeding very quickly when wounded. -->
-  <Superclotting.description>TODO</Superclotting.description>
+  <Superclotting.description>この遺伝子を持つ者は血液中に超強力な凝固因子を持っており,負傷してもすぐに止血します.</Superclotting.description>
   <!-- EN: Bleeding wounds close very quickly. -->
-  <Superclotting.customEffectDescriptions.0>TODO</Superclotting.customEffectDescriptions.0>
+  <Superclotting.customEffectDescriptions.0>出血している傷はすぐに閉じます.</Superclotting.customEffectDescriptions.0>
   <!-- EN: clot -->
-  <Superclotting.symbolPack.prefixSymbols.0.symbol>TODO</Superclotting.symbolPack.prefixSymbols.0.symbol>
+  <Superclotting.symbolPack.prefixSymbols.0.symbol>クロト</Superclotting.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: scab -->
-  <Superclotting.symbolPack.prefixSymbols.1.symbol>TODO</Superclotting.symbolPack.prefixSymbols.1.symbol>
+  <Superclotting.symbolPack.prefixSymbols.1.symbol>スカブ</Superclotting.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: clot -->
-  <Superclotting.symbolPack.suffixSymbols.0.symbol>TODO</Superclotting.symbolPack.suffixSymbols.0.symbol>
+  <Superclotting.symbolPack.suffixSymbols.0.symbol>クロト</Superclotting.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: scab -->
-  <Superclotting.symbolPack.suffixSymbols.1.symbol>TODO</Superclotting.symbolPack.suffixSymbols.1.symbol>
+  <Superclotting.symbolPack.suffixSymbols.1.symbol>スカブ</Superclotting.symbolPack.suffixSymbols.1.symbol>
   
   <!-- EN: partial antitoxic lungs -->
-  <ToxicEnvironmentResistance_Partial.label>TODO</ToxicEnvironmentResistance_Partial.label>
+  <ToxicEnvironmentResistance_Partial.label>毒耐性肺</ToxicEnvironmentResistance_Partial.label>
   <!-- EN: Carriers of this gene are resistant to environmental toxins. They get less toxic buildup from tox gas, polluted terrain, and toxic fallout, but are still vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure slower. -->
-  <ToxicEnvironmentResistance_Partial.description>TODO</ToxicEnvironmentResistance_Partial.description>
+  <ToxicEnvironmentResistance_Partial.description>この遺伝子を持つ者は,環境毒に耐性があります.有毒ガス,汚染された地形,有毒な放射性降下物による毒性物質の蓄積は少なくなりますが,毒や注入された毒による直接攻撃に対しては脆弱です.また,腐敗臭からの影響も遅くなります.</ToxicEnvironmentResistance_Partial.description>
   <!-- EN: tox-resistant -->
-  <ToxicEnvironmentResistance_Partial.labelShortAdj>TODO</ToxicEnvironmentResistance_Partial.labelShortAdj>
+  <ToxicEnvironmentResistance_Partial.labelShortAdj>毒耐性</ToxicEnvironmentResistance_Partial.labelShortAdj>
   <!-- EN: tox -->
-  <ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>TODO</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
+  <ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>トックス</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: total antitoxic lungs -->
-  <ToxicEnvironmentResistance_Total.label>TODO</ToxicEnvironmentResistance_Total.label>
+  <ToxicEnvironmentResistance_Total.label>毒無効肺</ToxicEnvironmentResistance_Total.label>
   <!-- EN: Carriers of this gene are immune to environmental toxins, but not from direct toxic attacks. They get no toxic buildup from tox gas, polluted terrain, or toxic fallout, and they are not bothered by acidic smog. They are still vulnerable to direct attacks like venom and injected poison. Additionally, they are immune to rot stink exposure. -->
-  <ToxicEnvironmentResistance_Total.description>TODO</ToxicEnvironmentResistance_Total.description>
+  <ToxicEnvironmentResistance_Total.description>この遺伝子を持つ者は環境毒に対して免疫がありますが,毒による直接攻撃には免疫がありません.有毒ガスや汚染された地形,有毒な放射性降下物による毒性物質の蓄積を受けず,酸性スモッグに悩まされることもありません.しかし,毒や注入された毒による直接攻撃に対して依然として脆弱です.また,腐敗臭に対して免疫があります.</ToxicEnvironmentResistance_Total.description>
   <!-- EN: Tox gas immunity -->
-  <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>TODO</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
+  <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>毒ガス免疫</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
   <!-- EN: tox-immune -->
-  <ToxicEnvironmentResistance_Total.labelShortAdj>TODO</ToxicEnvironmentResistance_Total.labelShortAdj>
+  <ToxicEnvironmentResistance_Total.labelShortAdj>毒免疫</ToxicEnvironmentResistance_Total.labelShortAdj>
   <!-- EN: tox -->
-  <ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>TODO</ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>
+  <ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>トックス</ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: fast wound healing -->
-  <WoundHealing_Fast.label>TODO</WoundHealing_Fast.label>
+  <WoundHealing_Fast.label>高速治癒</WoundHealing_Fast.label>
   <!-- EN: Carriers of this gene heal from wounds twice as fast as normal. -->
-  <WoundHealing_Fast.description>TODO</WoundHealing_Fast.description>
+  <WoundHealing_Fast.description>この遺伝子を持つ者は,通常の2倍の速さで傷が治ります.</WoundHealing_Fast.description>
   <!-- EN: fast-heal -->
-  <WoundHealing_Fast.labelShortAdj>TODO</WoundHealing_Fast.labelShortAdj>
+  <WoundHealing_Fast.labelShortAdj>高速治癒</WoundHealing_Fast.labelShortAdj>
   <!-- EN: stout -->
-  <WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>TODO</WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>スタウト</WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: hard -->
-  <WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>TODO</WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>
+  <WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>ハード</WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: slow wound healing -->
-  <WoundHealing_Slow.label>TODO</WoundHealing_Slow.label>
+  <WoundHealing_Slow.label>緩慢治癒</WoundHealing_Slow.label>
   <!-- EN: Carriers of this gene heal from wounds half as fast as normal. -->
-  <WoundHealing_Slow.description>TODO</WoundHealing_Slow.description>
+  <WoundHealing_Slow.description>この遺伝子を持つ者は,通常の半分の速さで傷が治ります.</WoundHealing_Slow.description>
   <!-- EN: slow-heal -->
-  <WoundHealing_Slow.labelShortAdj>TODO</WoundHealing_Slow.labelShortAdj>
+  <WoundHealing_Slow.labelShortAdj>緩慢治癒</WoundHealing_Slow.labelShortAdj>
   <!-- EN: soft -->
-  <WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>TODO</WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>ソフト</WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: superfast wound healing -->
-  <WoundHealing_SuperFast.label>TODO</WoundHealing_SuperFast.label>
+  <WoundHealing_SuperFast.label>超高速治癒</WoundHealing_SuperFast.label>
   <!-- EN: Carriers of this gene heal from wounds four times as fast as normal. -->
-  <WoundHealing_SuperFast.description>TODO</WoundHealing_SuperFast.description>
+  <WoundHealing_SuperFast.description>この遺伝子を持つ者は,通常の4倍の速さで傷が治ります.</WoundHealing_SuperFast.description>
   <!-- EN: super-heal -->
-  <WoundHealing_SuperFast.labelShortAdj>TODO</WoundHealing_SuperFast.labelShortAdj>
+  <WoundHealing_SuperFast.labelShortAdj>超治癒</WoundHealing_SuperFast.labelShortAdj>
   <!-- EN: stout -->
-  <WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>TODO</WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>スタウト</WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: hard -->
-  <WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>TODO</WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>ハード</WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>
   
 </LanguageData>

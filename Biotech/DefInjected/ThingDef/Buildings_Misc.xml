@@ -2,87 +2,87 @@
 <LanguageData>
   
   <!-- EN: band node -->
-  <BandNode.label>TODO</BandNode.label>
+  <BandNode.label>バンドノード</BandNode.label>
   <!-- EN: A mechanoid-band signal amplifier. Band nodes must be tuned to a specific mechanitor. This will add 1 bandwidth to that mechanitor's total bandwidth, allowing them to control more mechanoids.\n\nOnce a band node is constructed, it can be quickly tuned to a mechanitor. However, retuning a band node to a different mechanitor takes significantly longer. -->
-  <BandNode.description>TODO</BandNode.description>
+  <BandNode.description>メカノイド帯域の信号増幅器です.バンドノードは特定のメカニターに周波数を合わせなければなりません.この装置はメカニターの帯域幅を1増加させ,より多くのメカノイドを制御できるようにします.\n\nバンドノードを建造後1度だけは,素早くメカニターに周波数を合わせられます.しかし他のメカニターに切り替える場合には大幅に時間がかかります.</BandNode.description>
   
   <!-- EN: mechband antenna -->
-  <BurnoutMechlinkBooster.label>TODO</BurnoutMechlinkBooster.label>
+  <BurnoutMechlinkBooster.label>メカバンドアンテナ</BurnoutMechlinkBooster.label>
   <!-- EN: A mech-band signaling device. When activated, it puts out a powerful mech signal pulse, which will attract an ultra-heavy feral mechanoid to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the transmitter, so this building can only be used once. -->
-  <BurnoutMechlinkBooster.description>TODO</BurnoutMechlinkBooster.description>
+  <BurnoutMechlinkBooster.description>メカ帯域に信号を送るデバイスです.起動すると,強力なメカ信号パルスを発信し,野生の超重量級メカノイドの注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば,その残骸から特別なテクノロジーを入手できます.信号パルスは送信機を焼き切ってしまうため,1回しか使用できません.</BurnoutMechlinkBooster.description>
   <!-- EN: Summon warqueen threat -->
-  <BurnoutMechlinkBooster.comps.CompUsable.useLabel>TODO</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
+  <BurnoutMechlinkBooster.comps.CompUsable.useLabel>ウォークイーンの脅威を呼び込む</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
   
   <!-- EN: gene assembler -->
-  <GeneAssembler.label>TODO</GeneAssembler.label>
+  <GeneAssembler.label>遺伝子アセンブラ</GeneAssembler.label>
   <!-- EN: A workbench for creating implantable xenogerms from genepacks stored in nearby gene banks. Genepacks are not consumed in this process and can be reused. -->
-  <GeneAssembler.description>TODO</GeneAssembler.description>
+  <GeneAssembler.description>近くに設置した遺伝子バンクに保存した遺伝子パックから,インプラント可能な異種胚を製造できる作業台です.遺伝子パックはこの工程では消費されず,再使用可能です.</GeneAssembler.description>
   
   <!-- EN: gene bank -->
-  <GeneBank.label>TODO</GeneBank.label>
+  <GeneBank.label>遺伝子バンク</GeneBank.label>
   <!-- EN: This building can store genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries require many gene banks.\n\nWhen powered, gene banks prevent genepacks from deteriorating and will slowly repair deterioration. -->
-  <GeneBank.description>TODO</GeneBank.description>
+  <GeneBank.description>この建造物は遺伝子パックを保存でき,遺伝子アセンブラの近くに建造すると異種胚を作成できる状態にします.大きな遺伝子ライブラリには多くの遺伝子バンクが必要です.\n\n電力が供給されている間,遺伝子バンクは遺伝子パックの劣化を防ぎ,ゆっくりと遺伝子を修復します.</GeneBank.description>
   
   <!-- EN: gene extractor -->
-  <GeneExtractor.label>TODO</GeneExtractor.label>
+  <GeneExtractor.label>遺伝子抽出器</GeneExtractor.label>
   <!-- EN: An automated surgery machine that can extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nExtracting a person's genes while their genes are currently regrowing will kill them. Otherwise, gene extraction causes no lasting harm.\n\nGenes that require archite capsules are too complex to be extracted. -->
-  <GeneExtractor.description>TODO</GeneExtractor.description>
+  <GeneExtractor.description>人から遺伝子を抽出し,遺伝子パックを作成する自動手術装置です.</GeneExtractor.description>
   
   <!-- EN: gene processor -->
-  <GeneProcessor.label>TODO</GeneProcessor.label>
+  <GeneProcessor.label>遺伝子プロセッサ</GeneProcessor.label>
   <!-- EN: A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further. -->
-  <GeneProcessor.description>TODO</GeneProcessor.description>
+  <GeneProcessor.description>遺伝学的な分析および処理システムです.遺伝子アセンブラの近くに設置すると,作り出せる異種胚の遺伝子複雑性の最大値を増加できます.複数建造すればさらに引き上げられます.</GeneProcessor.description>
   
   <!-- EN: growth vat -->
-  <GrowthVat.label>TODO</GrowthVat.label>
+  <GrowthVat.label>人造培養槽</GrowthVat.label>
   <!-- EN: A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors. -->
-  <GrowthVat.description>TODO</GrowthVat.description>
+  <GrowthVat.description>胚を培養し,子供の成長を促進する液体が入った槽です.\n\n成長あるいは培養中は,槽には育成の原料として定期的に栄養を供給しなければなりません.胚を培養するのには,子供の成長を加速させるのに比べて2倍の栄養が必要です.\n\n胚から赤ん坊が形成されるには9日間の培養が必要です.健康上の合併症のリスクがあります.\n\n子供の成長は18歳までしか加速できません.成長するにつれて,子供のスキルはゆっくりと向上します.人造培養槽で育てられた子供たちは通常よりもスキルが低く,情熱を感じることが少なくなります.\n\nデバイスは,化学物質の注射,電気刺激および単純なメカナイト処理を使用して体を成長させます.人造培養槽は,エンジニアの労働者や戦士を迅速に製造するためによく使用されます.</GrowthVat.description>
   
   <!-- EN: mechband dish -->
-  <MechbandDish.label>TODO</MechbandDish.label>
+  <MechbandDish.label>メカバンドパラボラ</MechbandDish.label>
   <!-- EN: A mech-band signaling device more powerful than the normal mechlink antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
-  <MechbandDish.description>TODO</MechbandDish.description>
+  <MechbandDish.description>メカ帯域に,普通のメカリンクのアンテナよりも強力な信号を送るデバイスです.起動すると,極めて強力なメカ信号パルスを発信し,野生のメカノイド指揮官の注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば,その残骸から特別なテクノロジーを入手できます.信号パルスはアンテナを焼き切ってしまうため,1回しか使用できません.</MechbandDish.description>
   <!-- EN: Summon apocriton threat -->
-  <MechbandDish.comps.CompUsable.useLabel>TODO</MechbandDish.comps.CompUsable.useLabel>
+  <MechbandDish.comps.CompUsable.useLabel>アポクリトンの脅威を呼び込む</MechbandDish.comps.CompUsable.useLabel>
   
   <!-- EN: mech booster -->
-  <MechBooster.label>TODO</MechBooster.label>
+  <MechBooster.label>メカブースター</MechBooster.label>
   <!-- EN: A remote energy and computation enhancement device. Any friendly mechanoids in its effect radius will move and work faster. -->
-  <MechBooster.description>TODO</MechBooster.description>
+  <MechBooster.description>エネルギーを遠隔送電し,計算能力向上を向上するデバイスです.効果範囲内の全ての友好的なメカノイドは移動と作業が加速します.</MechBooster.description>
   
   <!-- EN: pollution pump -->
-  <PollutionPump.label>TODO</PollutionPump.label>
+  <PollutionPump.label>汚染ポンプ</PollutionPump.label>
   <!-- EN: A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. -->
-  <PollutionPump.description>TODO</PollutionPump.description>
+  <PollutionPump.description>汚染された土地をゆっくりと除染する,地下水をろ過するポンプです.抽出された汚染は有毒な廃棄物パックになるので,離れた場所へ持って行く必要があります.</PollutionPump.description>
   
   <!-- EN: blood torch -->
-  <SanguphageMeetingTorch.label>TODO</SanguphageMeetingTorch.label>
+  <SanguphageMeetingTorch.label>ブラッドトーチ</SanguphageMeetingTorch.label>
   <!-- EN: A specially-treated wooden torch that produces a red light over a large area. Sanguophages gather around torches like these during their ceremonial meetings. The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. It can be automatically refueled with wood, and produces a small amount of heat. -->
-  <SanguphageMeetingTorch.description>TODO</SanguphageMeetingTorch.description>
+  <SanguphageMeetingTorch.description>広い範囲に赤い光で照らすために特別に作られた松明です.サングオファージは彼らの記念式典のように,松明の周りに集まります.その赤い光は血を餌とする遺伝子を持つ人々に特に喜ばれます.木材を自動的に燃料として補給でき,少量の熱を発生します.</SanguphageMeetingTorch.description>
   
   <!-- EN: crashed shuttle -->
-  <ShuttleCrashed_Exitable.label>TODO</ShuttleCrashed_Exitable.label>
+  <ShuttleCrashed_Exitable.label>墜落したシャトル</ShuttleCrashed_Exitable.label>
   <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <ShuttleCrashed_Exitable.description>TODO</ShuttleCrashed_Exitable.description>
+  <ShuttleCrashed_Exitable.description>地地表と軌道間や,惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです.</ShuttleCrashed_Exitable.description>
   
   <!-- EN: crashed mechanitor ship -->
-  <ShuttleCrashed_Exitable_Mechanitor.label>TODO</ShuttleCrashed_Exitable_Mechanitor.label>
+  <ShuttleCrashed_Exitable_Mechanitor.label>墜落したメカニター船</ShuttleCrashed_Exitable_Mechanitor.label>
   <!-- EN: A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel. -->
-  <ShuttleCrashed_Exitable_Mechanitor.description>TODO</ShuttleCrashed_Exitable_Mechanitor.description>
+  <ShuttleCrashed_Exitable_Mechanitor.description>メカニターがメカを低軌道～惑星間輸送する際に使用される短距離船です.</ShuttleCrashed_Exitable_Mechanitor.description>
   
   <!-- EN: toxifier generator -->
-  <ToxifierGenerator.label>TODO</ToxifierGenerator.label>
+  <ToxifierGenerator.label>有毒発電機</ToxifierGenerator.label>
   <!-- EN: This electrical generator very slowly pollutes the terrain in a radius around it while producing energy. If all terrain in the radius is polluted, the generator will shut down. -->
-  <ToxifierGenerator.description>TODO</ToxifierGenerator.description>
+  <ToxifierGenerator.description>この発電機は,発電している間,周囲の土地を非常にゆっくりと汚染します.もしも範囲内の土地が全て汚染された場合には,発電を停止します.</ToxifierGenerator.description>
   
   <!-- EN: IED tox trap -->
-  <TrapIED_ToxGas.label>TODO</TrapIED_ToxGas.label>
+  <TrapIED_ToxGas.label>IED 毒トラップ</TrapIED_ToxGas.label>
   <!-- EN: A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_ToxGas.description>TODO</TrapIED_ToxGas.description>
+  <TrapIED_ToxGas.description>接触信管に接続された一対の毒ガス弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_ToxGas.description>
   
   <!-- EN: wastepack atomizer -->
-  <WastepackAtomizer.label>TODO</WastepackAtomizer.label>
+  <WastepackAtomizer.label>廃棄物パック分解装置</WastepackAtomizer.label>
   <!-- EN: A glittertech device that deconstructs toxic wastepacks into inert gases using advanced molecular processes. The process requires considerable amounts of power. -->
-  <WastepackAtomizer.description>TODO</WastepackAtomizer.description>
+  <WastepackAtomizer.description>先進的な分子技術により有毒な廃棄物パックを無害なガスに変えるglittertechの装置です.このプロセスはかなりの電力を消費します.</WastepackAtomizer.description>
   
 </LanguageData>
