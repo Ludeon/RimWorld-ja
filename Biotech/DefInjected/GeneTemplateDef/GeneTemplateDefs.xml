@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: {0} addict-immune -->
-  <AddictionImmune.label>TODO</AddictionImmune.label>
+  <AddictionImmune.label>{0}\n中毒免疫</AddictionImmune.label>
   <!-- EN: Carriers of this gene never get addicted to {0}. -->
-  <AddictionImmune.description>TODO</AddictionImmune.description>
+  <AddictionImmune.description>この遺伝子を持つ者は,{0}に決して依存しません.</AddictionImmune.description>
   <!-- EN: {0}-immune -->
-  <AddictionImmune.labelShortAdj>TODO</AddictionImmune.labelShortAdj>
+  <AddictionImmune.labelShortAdj>{0}免疫者</AddictionImmune.labelShortAdj>
   
   <!-- EN: {0} addict-resist -->
-  <AddictionResistant.label>TODO</AddictionResistant.label>
+  <AddictionResistant.label>{0}\n中毒抵抗</AddictionResistant.label>
   <!-- EN: Carriers are only half as likely to become addicted to {0}. -->
-  <AddictionResistant.description>TODO</AddictionResistant.description>
+  <AddictionResistant.description>この遺伝子を持つ者は,{0}中毒になる確率が半分になります.</AddictionResistant.description>
   <!-- EN: {0}-resistant -->
-  <AddictionResistant.labelShortAdj>TODO</AddictionResistant.labelShortAdj>
+  <AddictionResistant.labelShortAdj>{0}抵抗者</AddictionResistant.labelShortAdj>
   
   <!-- EN: poor {0} -->
-  <AptitudePoor.label>TODO</AptitudePoor.label>
+  <AptitudePoor.label>劣った{0}</AptitudePoor.label>
   <!-- EN: The carrier's aptitude in {0} is reduced by 4. Aptitude acts like an offset on skill level. -->
-  <AptitudePoor.description>TODO</AptitudePoor.description>
+  <AptitudePoor.description>この遺伝子を持つ者の{0}能力が4減少します.この適性はスキルレベルの増減量のように機能します.</AptitudePoor.description>
   
   <!-- EN: great {0} -->
-  <AptitudeRemarkable.label>TODO</AptitudeRemarkable.label>
+  <AptitudeRemarkable.label>優れた{0}</AptitudeRemarkable.label>
   <!-- EN: The carrier's aptitude in {0} is increased by 8. Aptitude acts like an offset on skill level. Additionally, one level of passion is added to {0}. -->
-  <AptitudeRemarkable.description>TODO</AptitudeRemarkable.description>
+  <AptitudeRemarkable.description>この遺伝子を持つ者の{0}能力が8上昇します.この適性はスキルレベルの増減量のように機能します.さらに,{0}に1段階プラスの情熱が付きます.</AptitudeRemarkable.description>
   
   <!-- EN: strong {0} -->
-  <AptitudeStrong.label>TODO</AptitudeStrong.label>
+  <AptitudeStrong.label>強い{0}</AptitudeStrong.label>
   <!-- EN: The carrier's aptitude in {0} is increased by 4. Aptitude acts like an offset on skill level. -->
-  <AptitudeStrong.description>TODO</AptitudeStrong.description>
+  <AptitudeStrong.description>この遺伝子を持つ者の{0}能力が4上昇します.この適性はスキルレベルの増減量のように機能します.</AptitudeStrong.description>
   
   <!-- EN: awful {0} -->
-  <AptitudeTerrible.label>TODO</AptitudeTerrible.label>
+  <AptitudeTerrible.label>ひどい{0}</AptitudeTerrible.label>
   <!-- EN: The carrier's aptitude in {0} is reduced by 8. Aptitude acts like an offset on skill level. Additionally, all passion is removed from {0}. -->
-  <AptitudeTerrible.description>TODO</AptitudeTerrible.description>
+  <AptitudeTerrible.description>この遺伝子を持つ者の{0}能力が8減少します.この適性はスキルレベルの増減量のように機能します.さらに,{0}に情熱が付くことがありません.</AptitudeTerrible.description>
   
   <!-- EN: {0} dependency -->
-  <ChemicalDependency.label>TODO</ChemicalDependency.label>
+  <ChemicalDependency.label>{0}\n依存</ChemicalDependency.label>
   <!-- EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
-  <ChemicalDependency.description>TODO</ChemicalDependency.description>
+  <ChemicalDependency.description>この遺伝子を持つ者は,生きるために定期的に{0}を摂取する必要があります.{0}を摂取せずに{DEFICIENCYDURATION}過ぎると,{0}不足に陥ります.さらに{COMADURATION}が過ぎると,昏睡状態に陥ります.そして{DEATHDURATION}が過ぎた場合,死亡します.</ChemicalDependency.description>
   <!-- EN: {0}-dependent -->
-  <ChemicalDependency.labelShortAdj>TODO</ChemicalDependency.labelShortAdj>
+  <ChemicalDependency.labelShortAdj>{0}依存者</ChemicalDependency.labelShortAdj>
   
 </LanguageData>
