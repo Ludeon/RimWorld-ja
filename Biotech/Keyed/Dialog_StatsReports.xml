@@ -2,121 +2,121 @@
 <LanguageData>
 
   <!-- EN: Relevant genes -->
-  <StatsReport_Genes>TODO</StatsReport_Genes>
+  <StatsReport_Genes>関連する遺伝子</StatsReport_Genes>
   <!-- EN: in sunlight -->
-  <StatsReport_InSunlight>TODO</StatsReport_InSunlight>
+  <StatsReport_InSunlight>日光の下</StatsReport_InSunlight>
   <!-- EN: clothed -->
-  <StatsReport_Clothed>TODO</StatsReport_Clothed>
+  <StatsReport_Clothed>着衣</StatsReport_Clothed>
   <!-- EN: unclothed -->
-  <StatsReport_Unclothed>TODO</StatsReport_Unclothed>
+  <StatsReport_Unclothed>脱衣</StatsReport_Unclothed>
 
   <!-- EN: Required weight class -->
-  <StatsReport_RechargerWeightClass>TODO</StatsReport_RechargerWeightClass>
+  <StatsReport_RechargerWeightClass>必要な重量クラス</StatsReport_RechargerWeightClass>
   <!-- EN: The weight class of mechanoid which can use this recharger. The following mechanoids are compatible -->
-  <StatsReport_RechargerWeightClass_Desc>TODO</StatsReport_RechargerWeightClass_Desc>
+  <StatsReport_RechargerWeightClass_Desc>この充電器を使用できるメカノイドの重量級です.以下のメカノイドが対応しています</StatsReport_RechargerWeightClass_Desc>
 
   <!-- EN: Recharger needed -->
-  <StatsReport_RechargerNeeded>TODO</StatsReport_RechargerNeeded>
+  <StatsReport_RechargerNeeded>充電器が必要</StatsReport_RechargerNeeded>
   <!-- EN: The type of recharger that this mechanoid can use to recover energy. This is based on the mechanoid's weight class. -->
-  <StatsReport_RechargerNeeded_Desc>TODO</StatsReport_RechargerNeeded_Desc>
+  <StatsReport_RechargerNeeded_Desc>このメカノイドがエネルギーを回復するために使用できる充電器のタイプです.これは,メカノイドの重量クラスに基づいています.</StatsReport_RechargerNeeded_Desc>
 
   <!-- EN: Deathrest effectiveness -->
-  <StatsReport_DeathrestEffectiveness>TODO</StatsReport_DeathrestEffectiveness>
+  <StatsReport_DeathrestEffectiveness>死眠効果</StatsReport_DeathrestEffectiveness>
   <!-- EN: A multiplier on how effective this is when used for deathrest. The higher this is, the less time a user needs to deathrest here. -->
-  <StatsReport_DeathrestEffectiveness_Desc>TODO</StatsReport_DeathrestEffectiveness_Desc>
+  <StatsReport_DeathrestEffectiveness_Desc>死眠を行うために使用した場合の効果の乗数です.この値が高いほど,使用者がここで行う死眠に必要な時間が短くなります.</StatsReport_DeathrestEffectiveness_Desc>
 
   <!-- EN: Deathrest connection limit -->
-  <StatsReport_DeathrestConnectionLimit>TODO</StatsReport_DeathrestConnectionLimit>
+  <StatsReport_DeathrestConnectionLimit>死眠接続制限</StatsReport_DeathrestConnectionLimit>
   <!-- EN: How many of these buildings can connect to a deathrester while deathresting. This number is also limited by the person's deathrest capacity. -->
-  <StatsReport_DeathrestConnectionLimit_Desc>TODO</StatsReport_DeathrestConnectionLimit_Desc>
+  <StatsReport_DeathrestConnectionLimit_Desc>死眠中の死眠者に接続できる建築物の数です.この数は,その人物の死眠容量によっても制限されます.</StatsReport_DeathrestConnectionLimit_Desc>
 
   <!-- EN: Growth tier -->
-  <StatsReport_GrowthTier>TODO</StatsReport_GrowthTier>
+  <StatsReport_GrowthTier>成長層</StatsReport_GrowthTier>
   <!-- EN: Children progress through growth tiers over time. The higher the learning need, the faster the progress. When a growth moment comes (at age 7, 10, and 13), the child's growth tier determines how many trait and passion options you can choose from. Growth tier resets after each growth moment. -->
-  <StatsReport_GrowthTierDesc>TODO</StatsReport_GrowthTierDesc>
+  <StatsReport_GrowthTierDesc>子供たちは時間の経過と共に進歩し,成長層を順々に突破します.学習の習得量が高いほど,この進歩は速くなります.成長の瞬間(7歳,10歳,13歳)になると,子供は突破した成長層の数によって,選択できる特性と情熱のオプションの数が決まります.成長の瞬間ごとに突破した成長層の数がリセットされます.</StatsReport_GrowthTierDesc>
 
   <!-- EN: Life stage -->
-  <StatsReport_DevelopmentStage>TODO</StatsReport_DevelopmentStage>
+  <StatsReport_DevelopmentStage>ライフステージ</StatsReport_DevelopmentStage>
   <!-- EN: A baby. Babies cannot move on their own. Their life revolves around the simple needs of food, sleep, and play. When they giggle, nearby adults' moods are lifted, and when they cry, nearby adults are annoyed.\n\nAt age 3, human babies become children. -->
-  <StatsReport_DevelopmentStageDesc_Baby>TODO</StatsReport_DevelopmentStageDesc_Baby>
+  <StatsReport_DevelopmentStageDesc_Baby>幼児です.乳幼児は自力で動けません.幼児の生活は食事,睡眠,遊びという単純な欲求を中心に展開しています.笑うと近くの大人の心情が上がり,泣くと近くの大人がイライラします.\n\n人間の幼児は3歳で子供になります.</StatsReport_DevelopmentStageDesc_Baby>
   <!-- EN: A child. In general, children are slower and less skilled than adults. However, children have a natural optimism. When their mood is high, this optimism can raise the mood of adult colonists.\n\nChildren can do various types of work, depending on their age -->
-  <StatsReport_DevelopmentStageDesc_ChildPart1>TODO</StatsReport_DevelopmentStageDesc_ChildPart1>
+  <StatsReport_DevelopmentStageDesc_ChildPart1>子供です.一般に子供は大人よりも遅く,熟練していません.しかし子供は普段,楽観的です.心情が高いと,この楽観主義者は大人の入植者の気分を高めます.\n\n子供たちは年齢に応じてさまざまな仕事ができます.</StatsReport_DevelopmentStageDesc_ChildPart1>
   <!-- EN: As a child ages, they will gain additional passions and traits.\n\nChildren have various child-specific learning needs and require special child-sized apparel.\n\nAt age 13, human children become adults. -->
-  <StatsReport_DevelopmentStageDesc_ChildPart2>TODO</StatsReport_DevelopmentStageDesc_ChildPart2>
+  <StatsReport_DevelopmentStageDesc_ChildPart2>子供が年をとるにつれ,追加の情熱と特性を獲得します.\n\n子供には子供特有のさまざまな学習の必要性があり,子供サイズの特別な衣服が必要です.\n\n人間の子供は13歳で大人になります.</StatsReport_DevelopmentStageDesc_ChildPart2>
   <!-- EN: An adult. Human adults fully mature at the age of 18. -->
-  <StatsReport_DevelopmentStageDesc_Adult>TODO</StatsReport_DevelopmentStageDesc_Adult>
+  <StatsReport_DevelopmentStageDesc_Adult>大人です.人間の大人は18歳で完全に成熟します.</StatsReport_DevelopmentStageDesc_Adult>
 
   <!-- EN: Multiplier for pollution -->
-  <StatsReport_Pollution>TODO</StatsReport_Pollution>
+  <StatsReport_Pollution>汚染乗数</StatsReport_Pollution>
 
   <!-- EN: Age factor -->
-  <StatsReport_FertilityAgeFactor>TODO</StatsReport_FertilityAgeFactor>
+  <StatsReport_FertilityAgeFactor>年齢による掛け率</StatsReport_FertilityAgeFactor>
   <!-- EN: Has {0_label} gene -->
-  <StatsReport_HasGene>TODO</StatsReport_HasGene>
+  <StatsReport_HasGene>{0_label}の遺伝子を持っている</StatsReport_HasGene>
   <!-- EN: A person of the {0} xenotype.\n\nAbout {0}s: -->
-  <StatsReport_NonBaselinerDescription>TODO</StatsReport_NonBaselinerDescription>
+  <StatsReport_NonBaselinerDescription>ゼノタイプ"{0}"の人物です.\n\n{0}について:</StatsReport_NonBaselinerDescription>
   
   <!-- EN: Lifestage -->
-  <Stat_Thing_Apparel_ValidLifestage>TODO</Stat_Thing_Apparel_ValidLifestage>
+  <Stat_Thing_Apparel_ValidLifestage>ライフステージ</Stat_Thing_Apparel_ValidLifestage>
   <!-- EN: Certain apparel requires that the wearer be within a specific age range. -->
-  <Stat_Thing_Apparel_ValidLifestage_Desc>TODO</Stat_Thing_Apparel_ValidLifestage_Desc>
+  <Stat_Thing_Apparel_ValidLifestage_Desc>一部の衣服は,特定の年齢範囲内の着用者でしか着れません.</Stat_Thing_Apparel_ValidLifestage_Desc>
 
   <!-- EN: Connected {0} -->
-  <StatsReport_Connected>TODO</StatsReport_Connected>
+  <StatsReport_Connected>接続済み {0}</StatsReport_Connected>
 
   <!-- EN: Effects -->
-  <Effects>TODO</Effects>
+  <Effects>影響</Effects>
   <!-- EN: A multiplier on chance of having a romantic relationship with someone who does not have this gene. -->
-  <StatsReport_MissingGeneRomanceChance>TODO</StatsReport_MissingGeneRomanceChance>
+  <StatsReport_MissingGeneRomanceChance>この遺伝子を持っていない人と,ロマンチックな関係を持つ可能性の乗数です.</StatsReport_MissingGeneRomanceChance>
   <!-- EN: Immune to -->
-  <ImmuneTo>TODO</ImmuneTo>
+  <ImmuneTo>免疫あり</ImmuneTo>
   <!-- EN: Social fight chance factor -->
-  <SocialFightChanceFactor>TODO</SocialFightChanceFactor>
+  <SocialFightChanceFactor>喧嘩の可能性の掛け率</SocialFightChanceFactor>
   <!-- EN: Chance mental break is violent -->
-  <AggroMentalBreakSelectionChanceFactor>TODO</AggroMentalBreakSelectionChanceFactor>
+  <AggroMentalBreakSelectionChanceFactor>暴力的なメンタルブレイク</AggroMentalBreakSelectionChanceFactor>
   <!-- EN: Prison break interval factor -->
-  <PrisonBreakIntervalFactor>TODO</PrisonBreakIntervalFactor>
+  <PrisonBreakIntervalFactor>脱獄試行間隔の掛け率</PrisonBreakIntervalFactor>
   <!-- EN: Will never prison break. -->
-  <WillNeverPrisonBreak>TODO</WillNeverPrisonBreak>
+  <WillNeverPrisonBreak>脱獄しません.</WillNeverPrisonBreak>
   <!-- EN: Mental breaks are always violent. -->
-  <AlwaysAggroMentalBreak>TODO</AlwaysAggroMentalBreak>
+  <AlwaysAggroMentalBreak>精神崩壊時に暴力を起こします.</AlwaysAggroMentalBreak>
   <!-- EN: Mental breaks are never violent. -->
-  <NeverAggroMentalBreak>TODO</NeverAggroMentalBreak>
+  <NeverAggroMentalBreak>精神崩壊時に暴力を起こしません.</NeverAggroMentalBreak>
   <!-- EN: {0_label} addiction chance factor -->
-  <AddictionChanceFactor>TODO</AddictionChanceFactor>
+  <AddictionChanceFactor>{0_label}中毒を起こす確率の 掛け率</AddictionChanceFactor>
   <!-- EN: Immune to {0_label} addiction. -->
-  <AddictionImmune>TODO</AddictionImmune>
+  <AddictionImmune>{0_label}中毒に対する免疫です.</AddictionImmune>
   <!-- EN: Immune to food poisoning. -->
-  <FoodPoisoningImmune>TODO</FoodPoisoningImmune>
+  <FoodPoisoningImmune>食中毒に対する免疫です.</FoodPoisoningImmune>
   <!-- EN: Will never do social fights. -->
-  <WillNeverSocialFight>TODO</WillNeverSocialFight>
+  <WillNeverSocialFight>決して喧嘩をしません.</WillNeverSocialFight>
   <!-- EN: Aging factors -->
-  <AgeFactors>TODO</AgeFactors>
+  <AgeFactors>老化による掛け率</AgeFactors>
   <!-- EN: Work speed is unaffected by darkness. -->
-  <UnaffectedByDarkness>TODO</UnaffectedByDarkness>
+  <UnaffectedByDarkness>暗闇による作業速度低下が起きません.</UnaffectedByDarkness>
   <!-- EN: Adds one level of passion in {0_label}. -->
-  <PassionModAdd>TODO</PassionModAdd>
+  <PassionModAdd>{0_label}に一段階の情熱を追加します.</PassionModAdd>
   <!-- EN: Removes all passion in {0_label}. -->
-  <PassionModDrop>TODO</PassionModDrop>
+  <PassionModDrop>{0_label}に情熱が付きません.</PassionModDrop>
   <!-- EN: Causes need -->
-  <CausesNeed>TODO</CausesNeed>
+  <CausesNeed>主張する欲求</CausesNeed>
   <!-- EN: Gives ability -->
-  <GivesAbility>TODO</GivesAbility>
+  <GivesAbility>能力を追加</GivesAbility>
   <!-- EN: Gives abilities -->
-  <GivesAbilities>TODO</GivesAbilities>
+  <GivesAbilities>能力を追加</GivesAbilities>
   <!-- EN: {RESOURCE}: {OFFSET} per day. -->
-  <ResourceLossPerDay>TODO</ResourceLossPerDay>
+  <ResourceLossPerDay>一日ごとに{RESOURCE}:{OFFSET}</ResourceLossPerDay>
   <!-- EN: Removes -->
-  <Removes>TODO</Removes>
+  <Removes>削除</Removes>
   <!-- EN: Disables need -->
-  <DisablesNeed>TODO</DisablesNeed>
+  <DisablesNeed>欲求を無効</DisablesNeed>
   <!-- EN: Disables needs -->
-  <DisablesNeeds>TODO</DisablesNeeds>
+  <DisablesNeeds>欲求を無効</DisablesNeeds>
   <!-- EN: Baby -->
-  <DevelopmentStage_Baby>TODO</DevelopmentStage_Baby>
+  <DevelopmentStage_Baby>幼児</DevelopmentStage_Baby>
   <!-- EN: Child -->
-  <DevelopmentStage_Child>TODO</DevelopmentStage_Child>
+  <DevelopmentStage_Child>子供</DevelopmentStage_Child>
   <!-- EN: Adult -->
-  <DevelopmentStage_Adult>TODO</DevelopmentStage_Adult>
+  <DevelopmentStage_Adult>大人</DevelopmentStage_Adult>
 
 </LanguageData>

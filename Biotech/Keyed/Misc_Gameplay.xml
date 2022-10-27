@@ -194,15 +194,15 @@
 
   <!-- Aptitudes -->
   <!-- EN: aptitude -->
-  <Aptitude>TODO</Aptitude>
+  <Aptitude>素質</Aptitude>
   <!-- EN: aptitudes -->
-  <Aptitudes>TODO</Aptitudes>
+  <Aptitudes>素質</Aptitudes>
   <!-- EN: aptitudes -->
-  <AptitudePlural>TODO</AptitudePlural>
+  <AptitudePlural>素質</AptitudePlural>
   <!-- EN: Aptitude makes an individual perform at a higher or lower level than their learned skill.\n\nFor example, an aptitude of +1 for a skill means that a person with level 5 in that skill will perform as though they were at level 6.\n\nThe total value cannot exceed level 20 or fall below level 1. -->
-  <AptitudesDesc>TODO</AptitudesDesc>
+  <AptitudesDesc>素質は,個人が習得したスキルより高いレベル,もしくは低いレベルで動作するようにします.\n\n例えばスキルの適性が+1の場合,そのスキルレベルが5の人物はレベル6であるかのように物事を行えることを意味します.\n\n合計値がレベル20を超えたり,レベル1を下回ったりすることはできません.</AptitudesDesc>
   <!-- EN: total -->
-  <Total>TODO</Total>
+  <Total>合計</Total>
   
   <!-- Human pregnancy -->
   <!-- EN: Father -->
@@ -272,9 +272,9 @@
   <!-- EN: Genepacks stored -->
   <GenepacksStored>保存された遺伝子パック</GenepacksStored>
   <!-- EN: Forced traits -->
-  <ForcedTraits>強制された特性</ForcedTraits>
+  <ForcedTraits>強制される特性</ForcedTraits>
   <!-- EN: Suppressed traits -->
-  <SuppressedTraits>抑制された特性</SuppressedTraits>
+  <SuppressedTraits>抑制される特性</SuppressedTraits>
   <!-- EN: These traits will be added. All conflicting traits will become suppressed. -->
   <ForcedTraitsDesc>次の特性が追加されます.相反する特性はすべて抑制されます.</ForcedTraitsDesc>
   <!-- EN: Complexity -->
@@ -422,7 +422,7 @@
   <!-- EN: Buildings -->
   <Buildings>建築物</Buildings>
   <!-- EN: capacity -->
-  <Capacity>容量</Capacity>
+  <Capacity>許容量</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
   <MissingGeneRomanceChance>{GENE}以外の恋愛確率</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
