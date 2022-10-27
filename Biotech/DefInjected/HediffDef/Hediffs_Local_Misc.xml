@@ -2,49 +2,49 @@
 <LanguageData>
   
   <!-- EN: acid burn -->
-  <AcidBurn.label>TODO</AcidBurn.label>
+  <AcidBurn.label>酸熱傷</AcidBurn.label>
   <!-- EN: An acid burn. -->
-  <AcidBurn.description>TODO</AcidBurn.description>
+  <AcidBurn.description>酸熱傷.</AcidBurn.description>
   <!-- EN: acid burn scar -->
-  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>酸熱傷痕</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Dissolved off -->
-  <AcidBurn.injuryProps.destroyedLabel>TODO</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.injuryProps.destroyedLabel>溶け落ちた</AcidBurn.injuryProps.destroyedLabel>
   <!-- EN: an acid burn -->
-  <AcidBurn.labelNoun>TODO</AcidBurn.labelNoun>
+  <AcidBurn.labelNoun>酸熱傷</AcidBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <AcidBurn.labelNounPretty>TODO</AcidBurn.labelNounPretty>
+  <AcidBurn.labelNounPretty>{1}の中の{0}</AcidBurn.labelNounPretty>
   
   <!-- EN: bloodfeeder mark -->
-  <BloodfeederMark.label>TODO</BloodfeederMark.label>
+  <BloodfeederMark.label>吸血痕</BloodfeederMark.label>
   <!-- EN: Two small puncture wounds. -->
-  <BloodfeederMark.description>TODO</BloodfeederMark.description>
+  <BloodfeederMark.description>二つの小さな鋭い傷.</BloodfeederMark.description>
   <!-- EN: a bloodfeeder mark -->
-  <BloodfeederMark.labelNoun>TODO</BloodfeederMark.labelNoun>
+  <BloodfeederMark.labelNoun>吸血痕</BloodfeederMark.labelNoun>
   
   <!-- EN: implanted IUD -->
-  <ImplantedIUD.label>TODO</ImplantedIUD.label>
+  <ImplantedIUD.label>子宮内避妊具</ImplantedIUD.label>
   <!-- EN: A small metal device has been implanted in this individual's uterus, preventing pregnancy. This can be surgically reversed in most cases, but there is a chance of permanent sterilization. -->
-  <ImplantedIUD.description>TODO</ImplantedIUD.description>
+  <ImplantedIUD.description>この個体の子宮には小さな金属製の装置が埋め込まれており,妊娠を防いでいます.ほとんどの場合外科的に回復可能ですが,恒久的に断種される可能性もあります.</ImplantedIUD.description>
   
   <!-- EN: tox gas -->
-  <ToxGasExposure.label>TODO</ToxGasExposure.label>
+  <ToxGasExposure.label>毒ガス</ToxGasExposure.label>
   <!-- EN: Aftereffects of exposure to tox gas, a poisonous chemical gas. It burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup and eventually death. -->
-  <ToxGasExposure.description>TODO</ToxGasExposure.description>
+  <ToxGasExposure.description>毒ガス,つまり有毒な化学物質気体に曝露した後遺症です.肺と目を焼き,一時的な呼吸困難と視界の低下の原因となります.継続して毒ガスに曝露していると毒が蓄積し,最終的に致命的になります</ToxGasExposure.description>
   <!-- EN: mild -->
-  <ToxGasExposure.stages.mild.label>TODO</ToxGasExposure.stages.mild.label>
+  <ToxGasExposure.stages.mild.label>軽度</ToxGasExposure.stages.mild.label>
   <!-- EN: moderate -->
-  <ToxGasExposure.stages.moderate.label>TODO</ToxGasExposure.stages.moderate.label>
+  <ToxGasExposure.stages.moderate.label>中度</ToxGasExposure.stages.moderate.label>
   <!-- EN: severe -->
-  <ToxGasExposure.stages.severe.label>TODO</ToxGasExposure.stages.severe.label>
+  <ToxGasExposure.stages.severe.label>重度</ToxGasExposure.stages.severe.label>
   
   <!-- EN: tubal ligation -->
-  <TubalLigation.label>TODO</TubalLigation.label>
+  <TubalLigation.label>卵管結紮</TubalLigation.label>
   <!-- EN: This individual's reproductive parts have been shut down by closing off the fallopian tubes, preventing ova from traveling from the ovary to the uterus. -->
-  <TubalLigation.description>TODO</TubalLigation.description>
+  <TubalLigation.description>この個体の生殖機能は,卵管を閉鎖することによって停止されており,卵子が卵巣から子宮に移動するのを防いでいます.</TubalLigation.description>
   
   <!-- EN: vasectomy -->
-  <Vasectomy.label>TODO</Vasectomy.label>
+  <Vasectomy.label>精管切除術</Vasectomy.label>
   <!-- EN: This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization. -->
-  <Vasectomy.description>TODO</Vasectomy.description>
+  <Vasectomy.description>この生物の生殖機能は,精子を尿道に送り込む輸精管を切断して封鎖することにより無効化されています.ほとんどの場合外科的に回復可能ですが,恒久的に断種される可能性もあります.</Vasectomy.description>
   
 </LanguageData>
