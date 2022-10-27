@@ -2,102 +2,102 @@
 <LanguageData>
   
   <!-- EN: bandwidth cost -->
-  <BandwidthCost.label>TODO</BandwidthCost.label>
+  <BandwidthCost.label>帯域幅コスト</BandwidthCost.label>
   <!-- EN: How much bandwidth this mech consumes when under mechanitor control. -->
-  <BandwidthCost.description>TODO</BandwidthCost.description>
+  <BandwidthCost.description>メカニターの制御下にあるときに,このメカが消費する帯域幅です.</BandwidthCost.description>
   
   <!-- EN: cancer rate factor -->
-  <CancerRate.label>TODO</CancerRate.label>
+  <CancerRate.label>がん率乗数</CancerRate.label>
   <!-- EN: A multiplier on how likely this person is to develop cancer in any given time frame. -->
-  <CancerRate.description>TODO</CancerRate.description>
+  <CancerRate.description>この人物が特定の年齢でがんを発症する可能性に対する掛け率です.</CancerRate.description>
   
   <!-- EN: control taking time -->
-  <ControlTakingTime.label>TODO</ControlTakingTime.label>
+  <ControlTakingTime.label>制御の必要時間</ControlTakingTime.label>
   <!-- EN: How many seconds it will take for a mechanitor to take control of this mech. -->
-  <ControlTakingTime.description>TODO</ControlTakingTime.description>
+  <ControlTakingTime.description>メカニターがこのメカを制御するのにかかる秒数です.</ControlTakingTime.description>
   <!-- EN: {0}s -->
-  <ControlTakingTime.formatString>TODO</ControlTakingTime.formatString>
+  <ControlTakingTime.formatString>{0}秒</ControlTakingTime.formatString>
   
   <!-- EN: EMP resistance -->
-  <EMPResistance.label>TODO</EMPResistance.label>
+  <EMPResistance.label>EMP耐性</EMPResistance.label>
   <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
-  <EMPResistance.description>TODO</EMPResistance.description>
+  <EMPResistance.description>このメカノイドには,EMPダメージの影響をこのパーセンテージだけ軽減する特別なシールドと衝撃分散フィラメントが搭載されています.これにより,EMPによるスタン時間が短縮されます.</EMPResistance.description>
   
   <!-- EN: fertility -->
-  <Fertility.label>TODO</Fertility.label>
+  <Fertility.label>生殖能力</Fertility.label>
   <!-- EN: Fertility affects the chance of a pregnancy occurring. Pregnancy chance is dependent on the fertility of both partners. This also affects the chance of successfully implanting an embryo in a surrogate. -->
-  <Fertility.description>TODO</Fertility.description>
+  <Fertility.description>生殖能力は妊娠する確率に影響を与えます.妊娠の確率は,両方のパートナーの生殖能力に依存します.これは,代理母への胚の移植に成功する可能性にも影響します.</Fertility.description>
   
   <!-- EN: hemogen gain multiplier -->
-  <HemogenGainFactor.label>TODO</HemogenGainFactor.label>
+  <HemogenGainFactor.label>ヘモゲン上昇掛け率</HemogenGainFactor.label>
   <!-- EN: A multiplier on the amount of hemogen gained. -->
-  <HemogenGainFactor.description>TODO</HemogenGainFactor.description>
+  <HemogenGainFactor.description>得られるヘモゲン量の掛け率です.</HemogenGainFactor.description>
   
   <!-- EN: mech bandwidth -->
-  <MechBandwidth.label>TODO</MechBandwidth.label>
+  <MechBandwidth.label>メカ帯域幅</MechBandwidth.label>
   <!-- EN: How much bandwidth a mechanitor has. More bandwidth allows a mechanitor to produce and control more mechs at the same time.\n\nLosing bandwidth means losing control of mechs, leaving them without an overseer. Such mechs can eventually become feral if not re-dominated. -->
-  <MechBandwidth.description>TODO</MechBandwidth.description>
+  <MechBandwidth.description>メカニターの帯域幅です.より多くの帯域幅があれば,より多くのメカを同時に生成,制御できます.\n\n帯域幅を失うということは,メカの制御を失い,管理者がいなくなることを意味します.そのようなメカは再び支配しない限り,最終的に野生化する可能性があります.</MechBandwidth.description>
   
   <!-- EN: mech control groups -->
-  <MechControlGroups.label>TODO</MechControlGroups.label>
+  <MechControlGroups.label>メカ制御グループ</MechControlGroups.label>
   <!-- EN: How many control groups this mechanitor can direct independently. Each control group can be given its own separate orders. -->
-  <MechControlGroups.description>TODO</MechControlGroups.description>
+  <MechControlGroups.description>このメカニターが独立して指示できる制御グループの数です.各制御グループには,独自の個別の命令を与えることができます.</MechControlGroups.description>
   
   <!-- EN: repair energy cost -->
-  <MechEnergyLossPerHP.label>TODO</MechEnergyLossPerHP.label>
+  <MechEnergyLossPerHP.label>修理エネルギーコスト</MechEnergyLossPerHP.label>
   <!-- EN: The amount of energy that this mechanoid loses for every 100 damage repaired. -->
-  <MechEnergyLossPerHP.description>TODO</MechEnergyLossPerHP.description>
+  <MechEnergyLossPerHP.description>このメカノイドが100ダメージを修復するために失うエネルギー量です.</MechEnergyLossPerHP.description>
   
   <!-- EN: energy usage multiplier -->
-  <MechEnergyUsageFactor.label>TODO</MechEnergyUsageFactor.label>
+  <MechEnergyUsageFactor.label>使用エネルギー掛け率</MechEnergyUsageFactor.label>
   <!-- EN: A multiplier on how fast a mechanoid consumes its energy reserves while operating. -->
-  <MechEnergyUsageFactor.description>TODO</MechEnergyUsageFactor.description>
+  <MechEnergyUsageFactor.description>メカノイドが動作中にエネルギーを消費する速さの掛け率です.</MechEnergyUsageFactor.description>
   
   <!-- EN: mech gestation speed -->
-  <MechFormingSpeed.label>TODO</MechFormingSpeed.label>
+  <MechFormingSpeed.label>メカ製造速度</MechFormingSpeed.label>
   <!-- EN: A multiplier on the speed at which this mechanitor can form new mechanoids at a gestator. -->
-  <MechFormingSpeed.description>TODO</MechFormingSpeed.description>
+  <MechFormingSpeed.description>このメカニターが製造装置で新しいメカノイドを形成できる速度の掛け率です.</MechFormingSpeed.description>
   
   <!-- EN: mech remote repair distance -->
-  <MechRemoteRepairDistance.label>TODO</MechRemoteRepairDistance.label>
+  <MechRemoteRepairDistance.label>メカリモートリペア距離</MechRemoteRepairDistance.label>
   <!-- EN: How far away a mech can be during remote repair. -->
-  <MechRemoteRepairDistance.description>TODO</MechRemoteRepairDistance.description>
+  <MechRemoteRepairDistance.description>リモートリペア中にメカがどれくらい離れていることができるかです.</MechRemoteRepairDistance.description>
   
   <!-- EN: mech remote shield distance -->
-  <MechRemoteShieldDistance.label>TODO</MechRemoteShieldDistance.label>
+  <MechRemoteShieldDistance.label>メカリモートシールド距離</MechRemoteShieldDistance.label>
   <!-- EN: The maximum range at which a mechanitor can place a shield on a mechanoid. -->
-  <MechRemoteShieldDistance.description>TODO</MechRemoteShieldDistance.description>
+  <MechRemoteShieldDistance.description>メカニターがメカノイドにシールドを投影できる最大距離です.</MechRemoteShieldDistance.description>
   
-  <!-- EN: mech remote shield energy -->
-  <MechRemoteShieldEnergy.label>TODO</MechRemoteShieldEnergy.label>
+  <!-- EN: mech remote shield energy --><!--TODO--><!--表示が収まるかゲーム画面で要確認-->
+  <MechRemoteShieldEnergy.label>メカリモートシールドエネルギー</MechRemoteShieldEnergy.label>
   <!-- EN: The energy a remote shield will have when created by a mechanitor. -->
-  <MechRemoteShieldEnergy.description>TODO</MechRemoteShieldEnergy.description>
+  <MechRemoteShieldEnergy.description>メカニターによってリモートシールドが投影されたときのエネルギーです.</MechRemoteShieldEnergy.description>
   
   <!-- EN: mech repair speed -->
-  <MechRepairSpeed.label>TODO</MechRepairSpeed.label>
+  <MechRepairSpeed.label>メカリペア速度</MechRepairSpeed.label>
   <!-- EN: A multiplier on how fast a mechanitor can repair mechanoids. -->
-  <MechRepairSpeed.description>TODO</MechRepairSpeed.description>
+  <MechRepairSpeed.description>メカニターがメカノイドを修復する速さの掛け率です.</MechRepairSpeed.description>
   
   <!-- EN: raw nutrition multiplier -->
-  <RawNutritionFactor.label>TODO</RawNutritionFactor.label>
+  <RawNutritionFactor.label>生食の栄養掛け率</RawNutritionFactor.label>
   <!-- EN: A multiplier on how nutritious raw food is for this person. Note that since meals usually have more nutrition than their raw ingredients, a boost to this stat may only mean the person gets the same nutrition from raw food as if it were cooked. -->
-  <RawNutritionFactor.description>TODO</RawNutritionFactor.description>
+  <RawNutritionFactor.description>生の食料を食べる時の栄養価の掛け率です.食事は通常,生の食材よりも多くの栄養を含んでいるため,このブースト値は生の食料から食事と同じ量の栄養を得られるだけであることに注意してください.</RawNutritionFactor.description>
   
   <!-- EN: sleep fall rate -->
-  <RestFallRateFactor.label>TODO</RestFallRateFactor.label>
+  <RestFallRateFactor.label>睡眠減少率</RestFallRateFactor.label>
   <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
-  <RestFallRateFactor.description>TODO</RestFallRateFactor.description>
+  <RestFallRateFactor.description>睡眠欲求が減少する速度の掛け率です.</RestFallRateFactor.description>
   
   <!-- EN: subcore encoding speed -->
-  <SubcoreEncodingSpeed.label>TODO</SubcoreEncodingSpeed.label>
+  <SubcoreEncodingSpeed.label>サブコアエンコード速度</SubcoreEncodingSpeed.label>
   <!-- EN: A multiplier on how fast a mechanitor can create subcores. -->
-  <SubcoreEncodingSpeed.description>TODO</SubcoreEncodingSpeed.description>
+  <SubcoreEncodingSpeed.description>メカニターがサブコアを作成する速度の掛け率です.</SubcoreEncodingSpeed.description>
   
   <!-- EN: wastepacks per recharge -->
-  <WastepacksPerRecharge.label>TODO</WastepacksPerRecharge.label>
+  <WastepacksPerRecharge.label>再充電ごとの廃棄物パック</WastepacksPerRecharge.label>
   <!-- EN: How many toxic wastepacks this mechanoid will generate at a mech recharger when going from 0 to 100% energy. Larger mechanoids will generally create more toxic wastepacks. -->
-  <WastepacksPerRecharge.description>TODO</WastepacksPerRecharge.description>
+  <WastepacksPerRecharge.description>エネルギーが0から100%になる間にこのメカノイドがメカ充電器で生成する有毒廃棄物パックの数です.より大きなメカノイドは一般的に,より有毒な廃棄物パックを生成します.</WastepacksPerRecharge.description>
   <!-- EN: Relevant stats -->
-  <WastepacksPerRecharge.statFactorsExplanationHeader>TODO</WastepacksPerRecharge.statFactorsExplanationHeader>
+  <WastepacksPerRecharge.statFactorsExplanationHeader>関連する統計</WastepacksPerRecharge.statFactorsExplanationHeader>
   
 </LanguageData>
