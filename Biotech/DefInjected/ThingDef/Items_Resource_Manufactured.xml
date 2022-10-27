@@ -14,7 +14,7 @@
   <!-- EN: nano structuring chip -->
   <NanostructuringChip.label>ナノ構造体チップ</NanostructuringChip.label>
   <!-- EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
-  <NanostructuringChip.description>メカノイドの分子再構築用の微小器官です.特定の高度なメカノイドと装備を製造するのに必要です,\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</NanostructuringChip.description>
+  <NanostructuringChip.description>メカノイドの分子再構築用の微小器官です.特定の高度なメカノイドと装備を製造するのに必要です.\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</NanostructuringChip.description>
   <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
   <NanostructuringChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することで,{STUDIER_labelShort}は{RESEARCH}の研究に必要な知見を得られます.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</NanostructuringChip.comps.CompStudiable.completedLetterText>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
@@ -32,7 +32,7 @@
   <!-- EN: tox shell -->
   <Shell_Toxic.label>毒弾</Shell_Toxic.label>
   <!-- EN: An artillery shell containing reagents that, when combined, generate deadly tox gas. When fired, it will stick into the ground and release tox gas for some time before expiring.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup that can be lethal. -->
-  <Shell_Toxic.description>混ぜると致死的な毒ガスを発生させる化学物質を搭載した迫撃砲弾です.発射されると,地面に突き刺さって中身が亡くなるまで毒ガスを放出します.\n\n毒ガスは肺と目を刺激するため,一時的に呼吸困難と視力の低下を引き起こします.毒ガスに暴露し続けると毒が蓄積し,最終的に致命的になります.</Shell_Toxic.description>
+  <Shell_Toxic.description>混ぜると致死的な毒ガスを発生させる化学物質を搭載した迫撃砲弾です.発射されると,地面に突き刺さって中身が無くなるまで毒ガスを放出します.\n\n毒ガスは肺と目を刺激するため,一時的に呼吸困難と視力の低下を引き起こします.毒ガスに暴露し続けると毒が蓄積し,最終的に致命的になります.</Shell_Toxic.description>
   
   <!-- EN: tox shell -->
   <Shell_Toxic_Releasing.label>毒弾</Shell_Toxic_Releasing.label>
@@ -62,7 +62,7 @@
   <!-- EN: standard subcore -->
   <SubcoreRegular.label>標準サブコア</SubcoreRegular.label>
   <!-- EN: A standard-tier mechanoid brain, this is a psychodynamic substrate unit supporting a thinking subpersona. This particular subcore is strong enough to drive standard-tier mechanoids.\n\nMechanoids are more than robots, and this is more than a silicon computer. Its thinking, psychically-present subpersona makes it more adaptable than silicon systems. However, this also means it can only be produced by analog pattern transfer from another thinking mind. -->
-  <SubcoreRegular.description>標準ティアのメカノイドの頭脳で,思考用副人格をサポートする精神力学的な基質ユニットです.</SubcoreRegular.description>
+  <SubcoreRegular.description>標準ティアのメカノイドの頭脳で,思考用副人格をサポートする精神力学的な基質ユニットです.このサブコアは標準ティアのメカノイドを十分駆動できるほど強力です.\n\nメカノイドは単なるロボット以上のものなので,これも単なるシリコンコンピューター以上のものです.思考する精神的存在である副人格により,シリコンシステムよりも適応性が高くなります.ただしそれは,これが別の精神のアナログパターンを転写することでしか製造できないことも意味します。</SubcoreRegular.description>
   
   <!-- EN: toxic wastepack -->
   <Wastepack.label>有毒廃棄物パック</Wastepack.label>
