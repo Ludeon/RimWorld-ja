@@ -2,120 +2,120 @@
 <LanguageData>
   
   <!-- EN: infant illness -->
-  <InfantIllness.label>TODO</InfantIllness.label>
+  <InfantIllness.label>新生児疾患</InfantIllness.label>
   <!-- EN: Effects of various birth complications. If the baby can survive for 10 days, they will be strong enough to recover on their own.\n\nThe illness will wax and wane in strength over time, requiring different levels of tending and medicine to recover. -->
-  <InfantIllness.description>TODO</InfantIllness.description>
+  <InfantIllness.description>さまざまな出産合併症の影響.赤ん坊が10日間生き延びることができれば,自力で回復できるほど強くなります.\n\nこの病気は時間の経過とともに強くなったり弱くなったりするため,回復にはさまざまなレベルの治療と薬が必要になります。</InfantIllness.description>
   <!-- EN: {PAWN_labelShort}'s infant illness went from {1} to {2}. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>{PAWN_labelShort}の幼児の病気は{1}から{2}へと変化した</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
   <!-- EN: that are life threatening without exceptional medical care and glitterworld medicine. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>glitterworldの先端医薬品と集中治療なしには命の危険があります.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
   <!-- EN: grave -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>危篤</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
   <!-- EN: that are life threatening without good medical care and standard medicine. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>標準的な薬と良い治療が用意できなければ,命の危険があります.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
   <!-- EN: bad -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>重症</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
   <!-- EN: that can be life threatening without basic medicine and tending. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>基礎的な医薬品と治療が用意できなければ,命の危険があります</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
   <!-- EN: common -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>中等症</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
   <!-- EN: which make the baby slightly ill but, at this rate, they will recover on their own. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>赤ん坊はいくぶん体調がすぐれませんが,この調子なら自力で回復するでしょう.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
   <!-- EN: mild -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>軽症</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
   <!-- EN: Effects of various birth complications -->
-  <InfantIllness.descriptionShort>TODO</InfantIllness.descriptionShort>
+  <InfantIllness.descriptionShort>様々な出産合併症の影響</InfantIllness.descriptionShort>
   <!-- EN: minor -->
-  <InfantIllness.stages.minor.label>TODO</InfantIllness.stages.minor.label>
+  <InfantIllness.stages.minor.label>軽症</InfantIllness.stages.minor.label>
   <!-- EN: major -->
-  <InfantIllness.stages.major.label>TODO</InfantIllness.stages.major.label>
+  <InfantIllness.stages.major.label>重症</InfantIllness.stages.major.label>
   <!-- EN: extreme -->
-  <InfantIllness.stages.extreme-0.label>TODO</InfantIllness.stages.extreme-0.label>
+  <InfantIllness.stages.extreme-0.label>極度</InfantIllness.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <InfantIllness.stages.extreme-1.label>TODO</InfantIllness.stages.extreme-1.label>
+  <InfantIllness.stages.extreme-1.label>極度</InfantIllness.stages.extreme-1.label>
   
   <!-- EN: lactating -->
-  <Lactating.label>TODO</Lactating.label>
+  <Lactating.label>授乳中</Lactating.label>
   <!-- EN: The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days. -->
-  <Lactating.description>TODO</Lactating.description>
+  <Lactating.description>赤ん坊に授乳できる状態です.乳腺は活発に母乳を生産し蓄えています.この状態は,母親が出産した後,最低でも10日に1回赤ん坊に授乳すれば,無期限に継続します.</Lactating.description>
   <!-- EN: {0} is no longer lactating due to not breastfeeding for 10 days. -->
-  <Lactating.comps.HediffComp_MessageOnRemoval.message>TODO</Lactating.comps.HediffComp_MessageOnRemoval.message>
+  <Lactating.comps.HediffComp_MessageOnRemoval.message>{0}は10日間授乳しなかったので,もう授乳できません.</Lactating.comps.HediffComp_MessageOnRemoval.message>
   <!-- EN: milk fullness {CHARGEFACTOR_percentage} -->
-  <Lactating.comps.HediffComp_Lactating.labelInBrackets>TODO</Lactating.comps.HediffComp_Lactating.labelInBrackets>
+  <Lactating.comps.HediffComp_Lactating.labelInBrackets>母乳貯留量{CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
   <!-- EN: {0} is no longer lactating due to malnutrition. -->
-  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>TODO</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0}は栄養失調のため,もう授乳できません.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
   
   <!-- EN: morning sickness -->
-  <MorningSickness.label>TODO</MorningSickness.label>
+  <MorningSickness.label>つわり</MorningSickness.label>
   <!-- EN: This is a common side effect of pregnancy, and despite the name isn't limited to mornings. While this is ongoing, the person suffers from nausea, dizziness, and fuzzy thinking. -->
-  <MorningSickness.description>TODO</MorningSickness.description>
+  <MorningSickness.description>これは一般的な妊娠の副作用の1つで,名前とは裏腹に症状は朝に限定されません(訳注:つわりは英語でmorning sickness).症状が続く間,吐き気とめまい,思考の低下に苦しめられます.</MorningSickness.description>
   
   <!-- EN: ovum extracted -->
-  <OvumExtracted.label>TODO</OvumExtracted.label>
+  <OvumExtracted.label>卵子を抽出された</OvumExtracted.label>
   <!-- EN: This woman recently underwent an ovum extraction procedure. No more ova can be extracted until some time has passed. -->
-  <OvumExtracted.description>TODO</OvumExtracted.description>
+  <OvumExtracted.description>この女性は最近卵子抽出術をうけました.しばらくの間はこれ以上卵子を採取できません.</OvumExtracted.description>
   
   <!-- EN: pollution stimulus -->
-  <PollutionStimulus.label>TODO</PollutionStimulus.label>
+  <PollutionStimulus.label>汚染刺激</PollutionStimulus.label>
   <!-- EN: This creature has been energized by exposure to pollution.\n\nThe pollution-stimulus response was originally engineered to help giant insects in their role as anti-mechanoid bioweapons. However, the gene has since been used to help people function in polluted areas as well. -->
-  <PollutionStimulus.description>TODO</PollutionStimulus.description>
+  <PollutionStimulus.description>この生物は汚染に曝露したため活発になっています.\n\n汚染刺激応答は,元々は対メカノイド生物兵器として作り出された巨大昆虫に組み込まれていたものでした.しかし現在でも,汚染地域で活動する人々の助けとしてその遺伝子が利用されています.</PollutionStimulus.description>
   <!-- EN: This creature has been energized by exposure to pollution. -->
-  <PollutionStimulus.descriptionShort>TODO</PollutionStimulus.descriptionShort>
+  <PollutionStimulus.descriptionShort>この生物は汚染に曝露したため活発になっています</PollutionStimulus.descriptionShort>
   <!-- EN: minor -->
-  <PollutionStimulus.stages.minor.label>TODO</PollutionStimulus.stages.minor.label>
+  <PollutionStimulus.stages.minor.label>軽度</PollutionStimulus.stages.minor.label>
   <!-- EN: moderate -->
-  <PollutionStimulus.stages.moderate.label>TODO</PollutionStimulus.stages.moderate.label>
+  <PollutionStimulus.stages.moderate.label>中度</PollutionStimulus.stages.moderate.label>
   <!-- EN: maximum -->
-  <PollutionStimulus.stages.maximum.label>TODO</PollutionStimulus.stages.maximum.label>
+  <PollutionStimulus.stages.maximum.label>最大</PollutionStimulus.stages.maximum.label>
   
   <!-- EN: postpartum exhaustion -->
-  <PostpartumExhaustion.label>TODO</PostpartumExhaustion.label>
+  <PostpartumExhaustion.label>産後疲労</PostpartumExhaustion.label>
   <!-- EN: General after-effects of giving birth. This mother needs some time to physically recover. -->
-  <PostpartumExhaustion.description>TODO</PostpartumExhaustion.description>
+  <PostpartumExhaustion.description>出産の後広くみられる後遺症です.肉体の回復のため,この母親には今しばらく時間が必要です.</PostpartumExhaustion.description>
   
   <!-- EN: labor (dilation) -->
-  <PregnancyLabor.label>TODO</PregnancyLabor.label>
+  <PregnancyLabor.label>陣痛（拡大）</PregnancyLabor.label>
   <!-- EN: The condition of being about to give birth. Labor moves through multiple stages with different levels of pain and contractions. Each labor is different, and pain can rise and fall unpredictably over time. Labor ends when the baby is born. -->
-  <PregnancyLabor.description>TODO</PregnancyLabor.description>
+  <PregnancyLabor.description>出産の状態です.陣痛は痛みと収縮の複数の段階を経て進行していきます.陣痛のそれぞれの段階は異なり,痛みは時間の経過とともに予期せず増減します. 陣痛は赤ん坊の誕生とともに終わります.</PregnancyLabor.description>
   <!-- EN: {PAWN_labelShort}'s labor went from {1} to {2}. -->
-  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>TODO</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
+  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>{PAWN_labelShort}の陣痛は{1}から{2}へと変化した</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
   <!-- EN: mild -->
-  <PregnancyLabor.stages.mild.label>TODO</PregnancyLabor.stages.mild.label>
+  <PregnancyLabor.stages.mild.label>ほどほど</PregnancyLabor.stages.mild.label>
   <!-- EN: intense -->
-  <PregnancyLabor.stages.intense.label>TODO</PregnancyLabor.stages.intense.label>
+  <PregnancyLabor.stages.intense.label>激しい</PregnancyLabor.stages.intense.label>
   <!-- EN: debilitating -->
-  <PregnancyLabor.stages.debilitating.label>TODO</PregnancyLabor.stages.debilitating.label>
+  <PregnancyLabor.stages.debilitating.label>衰弱</PregnancyLabor.stages.debilitating.label>
   
   <!-- EN: labor (pushing) -->
-  <PregnancyLaborPushing.label>TODO</PregnancyLaborPushing.label>
+  <PregnancyLaborPushing.label>陣痛（いきみ）</PregnancyLaborPushing.label>
   <!-- EN: The baby is descending the birth canal and the mother has a strong urge to push. The birth is imminent. -->
-  <PregnancyLaborPushing.description>TODO</PregnancyLaborPushing.description>
+  <PregnancyLaborPushing.description>赤ん坊は産道を下っており,母親はいきみたいという強い衝動に駆られています.出産目前.</PregnancyLaborPushing.description>
   
   <!-- EN: pregnancy mood -->
-  <PregnancyMood.label>TODO</PregnancyMood.label>
+  <PregnancyMood.label>妊娠中の情緒不安定</PregnancyMood.label>
   <!-- EN: This common side effect of pregnancy represents a rising and falling mood caused by unbalanced hormones. -->
-  <PregnancyMood.description>TODO</PregnancyMood.description>
+  <PregnancyMood.description>この妊娠の一般的な副作用では,崩れたホルモンバランスが原因で気分が激しく上下します.</PregnancyMood.description>
   
   <!-- EN: pregnant -->
-  <PregnantHuman.label>TODO</PregnantHuman.label>
+  <PregnantHuman.label>妊娠</PregnantHuman.label>
   <!-- EN: A baby growing inside a woman, preparing to be born. In humans, pregnancy lasts for 18 days and is divided into 3 trimesters. As the pregnancy grows it will reduce the mother's mobility. For some mothers, pregnancy may induce nausea or mood swings that can be hard to deal with. -->
-  <PregnantHuman.description>TODO</PregnantHuman.description>
+  <PregnantHuman.description>赤ん坊が女性の中で成長し,生まれてくる準備をしています.人間の場合,妊娠は18日間継続し,3つの期間に分けられます.妊娠が進行するにつれ,妊婦の移動力は低下します.母親に依っては,吐き気を催したり,どうにもならない気分の上下を引き起こしたりします.</PregnantHuman.description>
   <!-- EN: {0_labelShort} pregnant -->
-  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>TODO</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>{0_labelShort}の妊娠</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
   <!-- EN: {0_labelShort} is pregnant! -->
-  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>TODO</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>{0_labelShort}は妊娠した!</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
   <!-- EN: pregnancy -->
-  <PregnantHuman.labelNoun>TODO</PregnantHuman.labelNoun>
+  <PregnantHuman.labelNoun>妊娠</PregnantHuman.labelNoun>
   <!-- EN: first trimester -->
-  <PregnantHuman.stages.first_trimester.label>TODO</PregnantHuman.stages.first_trimester.label>
+  <PregnantHuman.stages.first_trimester.label>第1期</PregnantHuman.stages.first_trimester.label>
   <!-- EN: second trimester -->
-  <PregnantHuman.stages.second_trimester.label>TODO</PregnantHuman.stages.second_trimester.label>
+  <PregnantHuman.stages.second_trimester.label>第2期</PregnantHuman.stages.second_trimester.label>
   <!-- EN: third trimester -->
-  <PregnantHuman.stages.third_trimester.label>TODO</PregnantHuman.stages.third_trimester.label>
+  <PregnantHuman.stages.third_trimester.label>第3期</PregnantHuman.stages.third_trimester.label>
   
   <!-- EN: stillborn -->
-  <Stillborn.label>TODO</Stillborn.label>
+  <Stillborn.label>死産</Stillborn.label>
   <!-- EN: This baby died due to non-specific complications during pregnancy. -->
-  <Stillborn.description>TODO</Stillborn.description>
+  <Stillborn.description>この赤ん坊は,一般的な合併症により妊娠中に死亡した</Stillborn.description>
   
 </LanguageData>
