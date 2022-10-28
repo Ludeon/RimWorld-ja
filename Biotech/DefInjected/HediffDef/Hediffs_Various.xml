@@ -2,98 +2,97 @@
 <LanguageData>
   
   <!-- EN: bio-starvation -->
-  <BioStarvation.label>TODO</BioStarvation.label>
+  <BioStarvation.label>生物学的栄養失調</BioStarvation.label>
   <!-- EN: This person was in a growth vat which wasn't functioning properly due to lack of power or nutrition feedstock. This has left their body in a state of bio-starvation. -->
-  <BioStarvation.description>TODO</BioStarvation.description>
+  <BioStarvation.description>この人物は,電力不足か栄養素不足二より十分に機能していない人造培養槽に入槽していました.これにより彼らの肉体には生物学的栄養失調の影響が残りました.</BioStarvation.description>
   
   <!-- EN: deathresting -->
-  <Deathrest.label>TODO</Deathrest.label>
+  <Deathrest.label>死眠</Deathrest.label>
   <!-- EN: A deep coma-like sleep that lasts several days and restores the body's resources. Certain genes create a need for deathrest. Deathrest can also be enhanced with various support buildings that give special bonuses to the deathrester. -->
-  <Deathrest.description>TODO</Deathrest.description>
+  <Deathrest.description>肉体を修復するための,数日間にわたる昏睡に似た深い睡眠です.特定の遺伝子が死眠を引き起こします.死眠は,死眠者に様々な特殊効果を与える支援設備によって強化することもできます.</Deathrest.description>
   
   <!-- EN: deathrest exhaustion -->
-  <DeathrestExhaustion.label>TODO</DeathrestExhaustion.label>
+  <DeathrestExhaustion.label>死眠前の消耗</DeathrestExhaustion.label>
   <!-- EN: This person desperately needs to deathrest to rebalance their metabolism. -->
-  <DeathrestExhaustion.description>TODO</DeathrestExhaustion.description>
+  <DeathrestExhaustion.description>この人物は生体内代謝を再調整するために死眠を渇望しています.</DeathrestExhaustion.description>
   
   <!-- EN: chemical dependency -->
-  <GeneticDrugNeed.label>TODO</GeneticDrugNeed.label>
+  <GeneticDrugNeed.label>化学物質依存</GeneticDrugNeed.label>
   <!-- EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
-  <GeneticDrugNeed.description>TODO</GeneticDrugNeed.description>
+  <GeneticDrugNeed.description>この人物は導入された遺伝的により,特定の薬物に生化学的に依存しています.必要な薬物を定期的に摂取しなかった場合,彼らの体は健康な状態を維持できず,死ぬまで健康と気分の低下に苦しみます.\n\nこの効果が発現する年齢:13歳以降</GeneticDrugNeed.description>
   <!-- EN: deficiency -->
-  <GeneticDrugNeed.stages.deficiency.label>TODO</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.deficiency.label>薬物不足</GeneticDrugNeed.stages.deficiency.label>
   <!-- EN: deficiency coma -->
-  <GeneticDrugNeed.stages.2.overrideLabel>TODO</GeneticDrugNeed.stages.2.overrideLabel>
+  <GeneticDrugNeed.stages.2.overrideLabel>薬物不足による昏睡</GeneticDrugNeed.stages.2.overrideLabel>
   
   <!-- EN: hemogen craving -->
-  <HemogenCraving.label>TODO</HemogenCraving.label>
+  <HemogenCraving.label>ヘモゲンの渇望</HemogenCraving.label>
   <!-- EN: Due to a lack of hemogen, this person's body is breaking down hemogen reserves in their bone marrow. This causes disorientation and a painful craving for human blood. -->
-  <HemogenCraving.description>TODO</HemogenCraving.description>
+  <HemogenCraving.description>ヘモゲンが不足しているため,この人物の体は骨髄のヘモゲン備蓄を消費しています.この状態は見当識障害と狂おしいほどの人血への渇望を引き起こします.</HemogenCraving.description>
   <!-- EN: minor -->
-  <HemogenCraving.stages.minor.label>TODO</HemogenCraving.stages.minor.label>
+  <HemogenCraving.stages.minor.label>軽度</HemogenCraving.stages.minor.label>
   <!-- EN: moderate -->
-  <HemogenCraving.stages.moderate.label>TODO</HemogenCraving.stages.moderate.label>
+  <HemogenCraving.stages.moderate.label>中度</HemogenCraving.stages.moderate.label>
   <!-- EN: major -->
-  <HemogenCraving.stages.major.label>TODO</HemogenCraving.stages.major.label>
+  <HemogenCraving.stages.major.label>重度</HemogenCraving.stages.major.label>
   
   <!-- EN: interrupted deathrest -->
-  <InterruptedDeathrest.label>TODO</InterruptedDeathrest.label>
+  <InterruptedDeathrest.label>死眠の中断</InterruptedDeathrest.label>
   <!-- EN: Deathrest was interrupted while this person's metabolism was still out of balance. They will be sick for days while regaining equilibrium. -->
-  <InterruptedDeathrest.description>TODO</InterruptedDeathrest.description>
+  <InterruptedDeathrest.description>死眠が中断されたため,この人物の代謝系は未だに不調です.平衡を取り戻すまで何日か不調が続きます.</InterruptedDeathrest.description>
   
   <!-- EN: psychic bond -->
-  <PsychicBond.label>TODO</PsychicBond.label>
+  <PsychicBond.label>精神的絆</PsychicBond.label>
   <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. -->
-  <PsychicBond.description>TODO</PsychicBond.description>
+  <PsychicBond.description>精神的絆の遺伝子により,この人物は他の人物と精神的絆を持っています</PsychicBond.description>
   <!-- EN: This person's bonded individual is nearby. -->
-  <PsychicBond.stages.0.extraTooltip>TODO</PsychicBond.stages.0.extraTooltip>
+  <PsychicBond.stages.0.extraTooltip>この人物が精神的絆をもっている人は近くにいる.</PsychicBond.stages.0.extraTooltip>
   <!-- EN: psychic bond -->
-  <PsychicBond.stages.0.overrideLabel>TODO</PsychicBond.stages.0.overrideLabel>
+  <PsychicBond.stages.0.overrideLabel>精神的絆</PsychicBond.stages.0.overrideLabel>
   <!-- EN: This person's bonded individual is far away. -->
-  <PsychicBond.stages.1.extraTooltip>TODO</PsychicBond.stages.1.extraTooltip>
+  <PsychicBond.stages.1.extraTooltip>この人物が精神的絆を持っている人は遠くにいる.</PsychicBond.stages.1.extraTooltip>
   <!-- EN: psychic bond distance -->
-  <PsychicBond.stages.1.overrideLabel>TODO</PsychicBond.stages.1.overrideLabel>
+  <PsychicBond.stages.1.overrideLabel>精神的絆が遠い</PsychicBond.stages.1.overrideLabel>
   
   <!-- EN: psychic bond torn -->
-  <PsychicBondTorn.label>TODO</PsychicBondTorn.label>
+  <PsychicBondTorn.label>精神的絆が引き裂かれた</PsychicBondTorn.label>
   <!-- EN: This person had a psychic bond with another, but the bond was torn when their partner died. -->
-  <PsychicBondTorn.description>TODO</PsychicBondTorn.description>
+  <PsychicBondTorn.description>この人物は精神的絆をもっていましたが,絆はパートナーの死により引き裂かれました.</PsychicBondTorn.description>
   
   <!-- EN: regeneration coma -->
-  <RegenerationComa.label>TODO</RegenerationComa.label>
+  <RegenerationComa.label>再生昏睡</RegenerationComa.label>
   <!-- EN: Had this person not been genetically deathless, they would have already died from their health conditions. Instead, they have fallen into a regeneration coma, during which they will regenerate their body. -->
-  <RegenerationComa.description>TODO</RegenerationComa.description>
-  
+  <RegenerationComa.description>この人物が遺伝的に不死でなかったら,この状態はすでに死んでいるといえるでしょう.しかし彼らは,死の代わりに再生昏睡状態に陥り,その間に体を再生します.</RegenerationComa.description>  
   <!-- EN: Scanning sickness -->
-  <ScanningSickness.label>TODO</ScanningSickness.label>
+  <ScanningSickness.label>スキャン病</ScanningSickness.label>
   <!-- EN: This person was scanned by a softscanner to produce a mechanoid subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
-  <ScanningSickness.description>TODO</ScanningSickness.description>
+  <ScanningSickness.description>この人物はメカノイドサブコアを製造するためにソフトスキャナーでスキャンされました.高エネルギースキャンデバイスは脳内の生化学反応をめちゃくちゃにしてしまったため,自力回復にはしばらくかかります.長期的な損傷は一切残りません.</ScanningSickness.description>
   
   <!-- EN: vat growing -->
-  <VatGrowing.label>TODO</VatGrowing.label>
+  <VatGrowing.label>培養槽による成長</VatGrowing.label>
   <!-- EN: The growth vat is stimulating this person's body to increase the rate of cell division and aging. -->
-  <VatGrowing.description>TODO</VatGrowing.description>
+  <VatGrowing.description>人工培養槽はこの人物の肉体を刺激し、細胞分裂と老化を早めています.</VatGrowing.description>
   
   <!-- EN: vat learning -->
-  <VatLearning.label>TODO</VatLearning.label>
+  <VatLearning.label>培養槽による学習</VatLearning.label>
   <!-- EN: The growth vat is electrically stimulating this person's brain to induce skill development. This process is not very effective, and will only partially replace the skills missed from not growing in the outside world. -->
-  <VatLearning.description>TODO</VatLearning.description>
+  <VatLearning.description>人工培養槽はこの人物脳を電気的に刺激し,能力開発を行っています.このプロセスはあまり効率的ではなく,外界で成長しなかったことによる能力の発達的遅れを部分的に補完するだけです.</VatLearning.description>
   
   <!-- EN: xenogermination coma -->
-  <XenogerminationComa.label>TODO</XenogerminationComa.label>
+  <XenogerminationComa.label>異種胚による昏睡</XenogerminationComa.label>
   <!-- EN: A xenogerm was implanted in this person. The xenogerm needs time to integrate itself into the host and modify the genes and chemistry of various tissues throughout the body. During this time, the person cannot safely wake up, so the xenogerm keeps them in a coma.\n\nThe duration of this coma can be reduced by implanting a xenogerm with better medical facilities and more skilled doctors. -->
-  <XenogerminationComa.description>TODO</XenogerminationComa.description>
+  <XenogerminationComa.description>この人物には異種胚が移植されました.異種胚がホストに自身を統合し,全身の組織の遺伝子と代謝を改変するのに時間が必要です.この間,この人物は安全に目を覚ますことができないため,異種胚により昏睡状態が維持されます.\n\nこの昏睡状態は,より優れた医療施設で,より熟練した医師と共に異種胚を移植することで短縮できます.</XenogerminationComa.description>
   
   <!-- EN: gene loss shock -->
-  <XenogermLossShock.label>TODO</XenogermLossShock.label>
+  <XenogermLossShock.label>遺伝子喪失ショック</XenogermLossShock.label>
   <!-- EN: This person's genes were recently removed or expelled. This has destabilized the person's metabolism and hormones, leaving them temporarily weak and drowsy, with a weakened immune system. -->
-  <XenogermLossShock.description>TODO</XenogermLossShock.description>
+  <XenogermLossShock.description>この人物の遺伝子は最近除去,あるいは排出されました.この人物のホルモンバランスと代謝は不安定化しているため,一時的に衰弱して眠くなり,免疫機能も低下します.</XenogermLossShock.description>
   
   <!-- EN: genes regrowing -->
-  <XenogermReplicating.label>TODO</XenogermReplicating.label>
+  <XenogermReplicating.label>遺伝子再生</XenogermReplicating.label>
   <!-- EN: This person's genetic material is regrowing. This process doesn't have any direct health effects. However, extracting their genes while they are regrowing will kill them. -->
-  <XenogermReplicating.description>TODO</XenogermReplicating.description>
+  <XenogermReplicating.description>この人物の遺伝物質は再生中です.このプロセスは直接的には何の症状も引き起こしません.しかし,遺伝子が再生している最中に遺伝子を抽出すれば,死に至ります.</XenogermReplicating.description>
   <!-- EN: {PAWN_nameDef}'s genes have finished regrowing. -->
-  <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>TODO</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
+  <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef}の遺伝子は再成長を終えた.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
   
 </LanguageData>
