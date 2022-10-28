@@ -19,7 +19,7 @@
   <!-- EN: chemical dependency -->
   <GeneticDrugNeed.label>化学物質依存</GeneticDrugNeed.label>
   <!-- EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
-  <GeneticDrugNeed.description>この人物は導入された遺伝的により,特定の薬物に生化学的に依存しています.必要な薬物を定期的に摂取しな勝った場合,彼らの体は健康な状態を維持できず,死ぬまで健康と気分の低下に苦しみます.\n\nこの効果が発現する年齢:13歳以降</GeneticDrugNeed.description>
+  <GeneticDrugNeed.description>この人物は導入された遺伝的により,特定の薬物に生化学的に依存しています.必要な薬物を定期的に摂取しなかった場合,彼らの体は健康な状態を維持できず,死ぬまで健康と気分の低下に苦しみます.\n\nこの効果が発現する年齢:13歳以降</GeneticDrugNeed.description>
   <!-- EN: deficiency -->
   <GeneticDrugNeed.stages.deficiency.label>薬物不足</GeneticDrugNeed.stages.deficiency.label>
   <!-- EN: deficiency coma -->
@@ -44,7 +44,7 @@
   <!-- EN: psychic bond -->
   <PsychicBond.label>精神的絆</PsychicBond.label>
   <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. -->
-  <PsychicBond.description>サイキック結合遺伝子により,この人物は他の人物と精神的絆を持っています</PsychicBond.description>
+  <PsychicBond.description>精神的絆の遺伝子により,この人物は他の人物と精神的絆を持っています</PsychicBond.description>
   <!-- EN: This person's bonded individual is nearby. -->
   <PsychicBond.stages.0.extraTooltip>この人物が精神的絆をもっている人は近くにいる.</PsychicBond.stages.0.extraTooltip>
   <!-- EN: psychic bond -->
@@ -62,8 +62,7 @@
   <!-- EN: regeneration coma -->
   <RegenerationComa.label>再生昏睡</RegenerationComa.label>
   <!-- EN: Had this person not been genetically deathless, they would have already died from their health conditions. Instead, they have fallen into a regeneration coma, during which they will regenerate their body. -->
-  <RegenerationComa.description>この人物が遺伝的に不死でなかったら,この状態はすでに死んでいるといえるでしょう.しかし彼らは,死の代わりに再生昏睡状態に陥り,その間に体を再生します.</RegenerationComa.description>
-  
+  <RegenerationComa.description>この人物が遺伝的に不死でなかったら,この状態はすでに死んでいるといえるでしょう.しかし彼らは,死の代わりに再生昏睡状態に陥り,その間に体を再生します.</RegenerationComa.description>  
   <!-- EN: Scanning sickness -->
   <ScanningSickness.label>スキャン病</ScanningSickness.label>
   <!-- EN: This person was scanned by a softscanner to produce a mechanoid subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
@@ -90,9 +89,9 @@
   <XenogermLossShock.description>この人物の遺伝子は最近除去,あるいは排出されました.この人物のホルモンバランスと代謝は不安定化しているため,一時的に衰弱して眠くなり,免疫機能も低下します.</XenogermLossShock.description>
   
   <!-- EN: genes regrowing -->
-  <XenogermReplicating.label>遺伝子再成長</XenogermReplicating.label>
+  <XenogermReplicating.label>遺伝子再生</XenogermReplicating.label>
   <!-- EN: This person's genetic material is regrowing. This process doesn't have any direct health effects. However, extracting their genes while they are regrowing will kill them. -->
-  <XenogermReplicating.description>この人物の遺伝物質は再成長しています.このプロセスは直接的には何の影響もありません.しかし,遺伝子が再成長している最中に遺伝子を抽出すれば,死に至ります.</XenogermReplicating.description>
+  <XenogermReplicating.description>この人物の遺伝物質は再生中です.このプロセスは直接的には何の症状も引き起こしません.しかし,遺伝子が再生している最中に遺伝子を抽出すれば,死に至ります.</XenogermReplicating.description>
   <!-- EN: {PAWN_nameDef}'s genes have finished regrowing. -->
   <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef}の遺伝子は再成長を終えた.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
   
