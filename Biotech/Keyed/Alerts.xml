@@ -2,18 +2,18 @@
 <LanguageData>
 
   <!-- EN: Uncontrolled mechs -->
-  <AlertMechLacksOverseer>TODO</AlertMechLacksOverseer>
+  <AlertMechLacksOverseer>未制御のメカ</AlertMechLacksOverseer>
   <!-- EN: One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed. -->
-  <AlertMechLacksOverseerDesc>TODO</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerDesc>1体か,それ以上のメカノイドが制御下にありません.制御に十分な帯域幅を有したメカニターとメカノイドを接続してください.\n\n未制御状態が1日以上続くとメカノイドは野生化する可能性があります.その場合,彼らは{0}に加わり,コロニーと敵対します.1体が野生化すると,付近にいる他のメカノイドも連鎖して離反します.</AlertMechLacksOverseerDesc>
   <!-- EN: The following mechanoids are uncontrolled -->
-  <AlertMechLacksOverseerUncontrolled>TODO</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerUncontrolled>次のメカノイドが未制御です</AlertMechLacksOverseerUncontrolled>
   <!-- EN: The following mechanoids are uncontrolled and could go feral at any moment -->
-  <AlertMechLacksOverseerMayGoFeral>TODO</AlertMechLacksOverseerMayGoFeral>
+  <AlertMechLacksOverseerMayGoFeral>次のメカノイドが未制御で,野生化の可能性があります</AlertMechLacksOverseerMayGoFeral>
 
   <!-- EN: {0} is low on resources -->
-  <AlertWarqueenHasLowResources>TODO</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResources>{0}のリソースが不足しています</AlertWarqueenHasLowResources>
   <!-- EN: One or more {0} are low on resoures. They will be unable to produce mechs on command if they run out of resources. -->
-  <AlertWarqueenHasLowResourcesDesc>TODO</AlertWarqueenHasLowResourcesDesc>
+  <AlertWarqueenHasLowResourcesDesc>1体か,それ以上の{0}のリソースが不足しています.リソースが不足するとメカの生産指令が出せなくなります.</AlertWarqueenHasLowResourcesDesc>
 
   <!-- EN: {PAWN} needs deathrest -->
   <AlertLowDeathrestPawn>TODO</AlertLowDeathrestPawn>
@@ -23,17 +23,17 @@
   <AlertLowDeathrestDesc>TODO</AlertLowDeathrestDesc>
 
   <!-- EN: Low hemogen -->
-  <AlertLowHemogen>TODO</AlertLowHemogen>
+  <AlertLowHemogen>ヘモゲン不足</AlertLowHemogen>
   <!-- EN: A colonist has low hemogen. At zero hemogen, they will develop a painful hemogen craving.\n\nFeed them hemogen packs to prevent this. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nThe following colonists have low hemogen -->
-  <AlertLowHemogenDesc>TODO</AlertLowHemogenDesc>
+  <AlertLowHemogenDesc>入植者のヘモゲンが不足しています.ヘモゲンが空になると,苦痛を伴うヘモゲン飢餓を引き起こします.\n\n飢餓防止のためにヘモゲンパックを与えてください.非ヘモゲン人種に対して手術を行うことでヘモゲンパックを入手できます.\n\n次の入植者がヘモゲン不足</AlertLowHemogenDesc>
 
   <!-- EN: Recharger full -->
-  <AlertRechargerFull>TODO</AlertRechargerFull>
+  <AlertRechargerFull>充電器が満杯</AlertRechargerFull>
   <!-- EN: Some mech recharger(s) are storing their maximum number of toxic wastepacks. Mechs can't use these chargers until the toxic wastepacks are hauled away.\n\nSelect a colonist and right-click a recharger to unload it. -->
-  <AlertRechargerFullDesc>TODO</AlertRechargerFullDesc>
+  <AlertRechargerFullDesc>一部のメカ充電器に,最大限度の有毒廃棄物パックが保持されています.パックが取り除かれるまでメカノイドは充電器を使うことができません.\n\n入植者を選択し,充電器を右クリックして除去してください.</AlertRechargerFullDesc>
 
   <!-- EN: Need mech rechargers -->
-  <AlertNeedMechChargers>TODO</AlertNeedMechChargers>
+  <AlertNeedMechChargers>メカ充電器が必要</AlertNeedMechChargers>
   <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
   <AlertNeedMechChargersDesc>TODO</AlertNeedMechChargersDesc>
   <!-- EN: Research basic mechtech or higher to build rechargers. -->
