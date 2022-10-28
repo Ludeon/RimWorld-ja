@@ -16,7 +16,7 @@
   <!-- EN: This device allows a deathrester to move faster after deathrest is complete. It pumps the body with extra muscle-signaling factors while cleaning waste products from muscle tissue. The effect lasts until the individual deathrests again. It must be connected to a deathrest casket to function.\n\nThis building must consume hemogen to function. -->
   <GlucosoidPump.description>この装置は,死眠が完了した者をより早く動けるようにします.この装置は筋組織から老廃物を除去しつつ,筋刺激因子を体内に注入します.次の死眠まで効果が持続します.機能するには死眠の棺に接続されている必要があります.\n\n稼働するためにヘモゲンが必要です.</GlucosoidPump.description>
   <!-- EN: Hemogen -->
-  <GlucosoidPump.comps.CompRefuelable.fuelLabel>TODO</GlucosoidPump.comps.CompRefuelable.fuelLabel>
+  <GlucosoidPump.comps.CompRefuelable.fuelLabel>ヘモゲン</GlucosoidPump.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: hemogen amplifier -->
   <HemogenAmplifier.label>ヘモゲン増幅器</HemogenAmplifier.label>
@@ -33,10 +33,10 @@
   <Hemopump.comps.CompRefuelable.fuelLabel>ヘモゲン</Hemopump.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: psychofluid pump -->
-  <PsychofluidPump.label>サイコ流体ポンプ</PsychofluidPump.label>
+  <PsychofluidPump.label>サイコフルードポンプ</PsychofluidPump.label>
   <!-- EN: This device enhances the psychic sensitivity of a deathresting person by rhythmically stimulating neural tissues. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
   <PsychofluidPump.description>この装置は,リズミカルに神経組織を刺激することで死眠者のサイキック感受性を増大させます.機能するには死眠の棺に接続されている必要があります.\n\n稼働するためにヘモゲンが必要です.</PsychofluidPump.description>
   <!-- EN: Hemogen -->
-  <PsychofluidPump.comps.CompRefuelable.fuelLabel>TODO</PsychofluidPump.comps.CompRefuelable.fuelLabel>
+  <PsychofluidPump.comps.CompRefuelable.fuelLabel>ヘモゲン</PsychofluidPump.comps.CompRefuelable.fuelLabel>
   
 </LanguageData>
