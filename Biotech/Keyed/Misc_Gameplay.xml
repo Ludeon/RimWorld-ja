@@ -165,6 +165,8 @@
   <NextDeathrestNeed>{PAWN_nameDef}は疲労を避けるため,{DURATION}間死眠する必要があります.</NextDeathrestNeed>
   <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
   <PawnShouldDeathrestNow>{PAWN_nameDef}は極度の疲労を避けるため,今すぐに死眠する必要があります.</PawnShouldDeathrestNow>
+  <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
+  <AutoTakeHemogenDesc>この設定は,{PAWN_nameDef}のヘモゲン量が{MIN}を下回ったときに,ヘモゲンパックを自動で摂取するかどうかを決めます.\n\n自動摂取は現在{ONOFF}です.</AutoTakeHemogenDesc><!-- text_todo -->
   <!-- EN: Consume hemogen below -->
   <ConsumeHemogenBelow>次の値までヘモゲンを補充しない</ConsumeHemogenBelow>
   <!-- EN: Never consume hemogen. -->
