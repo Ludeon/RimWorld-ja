@@ -207,7 +207,7 @@
 
   <!-- Deathrest -->
   <!-- EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
-  <WarningWakingInterruptsDeathrest>TODO</WarningWakingInterruptsDeathrest>
+  <WarningWakingInterruptsDeathrest>{MINDURATION}が経過する前に{PAWN_nameDef}を目覚めさせると,死眠が中断され,回復するまでの数日間病気になります.また,早く起きると死眠用建築物の恩恵を得られなくなります.{PAWN_nameDef}は{CURDURATION}間死眠を行っています.\n\n本当に{PAWN_nameDef}を目覚めさせますか?</WarningWakingInterruptsDeathrest>
 
   <!-- Text motes -->
   <!-- EN: {0} wounds tended -->
@@ -317,21 +317,21 @@
   <NeanderthalFactionGreetingWarm>TODO</NeanderthalFactionGreetingWarm>
 
   <!-- EN: Max tier -->
-  <MaxTier>TODO</MaxTier>
+  <MaxTier>最大層</MaxTier>
   <!-- EN: {PAWN_nameDef} has accumulated the maximum number of growth points. -->
-  <MaxTierDesc>TODO</MaxTierDesc>
+  <MaxTierDesc>{PAWN_nameDef}は成長ポイントを最大まで溜めました.</MaxTierDesc>
   <!-- EN: Progress to next growth tier -->
-  <ProgressToNextGrowthTier>TODO</ProgressToNextGrowthTier>
+  <ProgressToNextGrowthTier>次の成長層に向けて成長中</ProgressToNextGrowthTier>
   <!-- EN: This growth tier -->
-  <ThisGrowthTier>TODO</ThisGrowthTier>
+  <ThisGrowthTier>今の成長層</ThisGrowthTier>
   <!-- EN: Next growth tier -->
-  <NextGrowthTier>TODO</NextGrowthTier>
+  <NextGrowthTier>次の成長層</NextGrowthTier>
   <!-- EN: Choose {0} passions from {1} options. -->
-  <NumPassionsFromOptions>TODO</NumPassionsFromOptions>
+  <NumPassionsFromOptions>{1}つの選択肢から{0}つ情熱を選べます.</NumPassionsFromOptions>
   <!-- EN: Choose {0} trait from {1} options. -->
-  <NumTraitsFromOptions>TODO</NumTraitsFromOptions>
+  <NumTraitsFromOptions>{1}つの選択肢から{0}つ才能を選べます.</NumTraitsFromOptions>
   <!-- EN: Next growth moment at age -->
-  <NextGrowthMomentAt>TODO</NextGrowthMomentAt>
+  <NextGrowthMomentAt>次の成長の瞬間が起きる年齢</NextGrowthMomentAt>
 
   <!-- EN: no biotech buildings allowed -->
   <RoomRequirementNoBiotechBuildings>TODO</RoomRequirementNoBiotechBuildings>

@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: {0} addict-immune -->
-  <AddictionImmune.label>{0}\n中毒免疫</AddictionImmune.label>
+  <AddictionImmune.label>{0} 中毒免疫</AddictionImmune.label>
   <!-- EN: Carriers of this gene never get addicted to {0}. -->
   <AddictionImmune.description>この遺伝子を持つ者は,{0}に決して依存しません.</AddictionImmune.description>
   <!-- EN: {0}-immune -->
   <AddictionImmune.labelShortAdj>{0}免疫者</AddictionImmune.labelShortAdj>
   
   <!-- EN: {0} addict-resist -->
-  <AddictionResistant.label>{0}\n中毒抵抗</AddictionResistant.label>
+  <AddictionResistant.label>{0} 中毒抵抗</AddictionResistant.label>
   <!-- EN: Carriers are only half as likely to become addicted to {0}. -->
   <AddictionResistant.description>この遺伝子を持つ者は,{0}中毒になる確率が半分になります.</AddictionResistant.description>
   <!-- EN: {0}-resistant -->
@@ -36,7 +36,7 @@
   <AptitudeTerrible.description>この遺伝子を持つ者の{0}能力が8減少します.この適性はスキルレベルの増減量のように機能します.さらに,{0}に情熱が付くことがありません.</AptitudeTerrible.description>
   
   <!-- EN: {0} dependency -->
-  <ChemicalDependency.label>{0}\n依存</ChemicalDependency.label>
+  <ChemicalDependency.label>{0} 依存</ChemicalDependency.label>
   <!-- EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
   <ChemicalDependency.description>この遺伝子を持つ者は,生きるために定期的に{0}を摂取する必要があります.{0}を摂取せずに{DEFICIENCYDURATION}過ぎると,{0}不足に陥ります.さらに{COMADURATION}が過ぎると,昏睡状態に陥ります.そして{DEATHDURATION}が過ぎた場合,死亡します.</ChemicalDependency.description>
   <!-- EN: {0}-dependent -->

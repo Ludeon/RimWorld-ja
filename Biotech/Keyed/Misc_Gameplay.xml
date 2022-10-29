@@ -116,81 +116,81 @@
 
   <!-- Sanguophage -->
   <!-- EN: hemogen -->
-  <Hemogen>TODO</Hemogen>
+  <Hemogen>ヘモゲン</Hemogen>
   <!-- EN: Hemogen is a biological energy source derived from compounds in human blood. Baseliner humans produce it endogenously and consume it over time in their own internal balance. Some human xenotypes use it as a kind of fuel for specific abilities, while others must consume it to survive at all. -->
-  <HemogenDesc>TODO</HemogenDesc>
+  <HemogenDesc>ヘモゲンは人間の血液中化合物に由来する生物学的エネルギー源です.ベースライナーはそれを内因的に生成し,自己の内部バランスによって時間をかけて消費します.一部の人間のゼノタイプは特定の能力の燃料としてこれを使用しますが,他の人は生きるために消費します.</HemogenDesc>
   <!-- EN: deathrest capacity -->
-  <DeathrestCapacity>TODO</DeathrestCapacity>
+  <DeathrestCapacity>死眠容量</DeathrestCapacity>
   <!-- EN: This determines how many deathrest buildings a person can connect to while deathresting. Each deathrest building confers a specific benefit, so it's better to be able to connect to more of them.\n\nDeathrest capacity can be increased using deathrest capacity serums. These serums can be purchased from traders. -->
-  <DeathrestCapacityDesc>TODO</DeathrestCapacityDesc>
+  <DeathrestCapacityDesc>この値は死眠中に接続できる死眠用建築物の数を表します.各死眠用建築物にはメリットがあるため,より多くの建築物に接続できるようにすることをお勧めします.\n\n死眠容量は死眠容量シーラムを使用して増やすことができます.シーラムはトレーダーから購入できます.</DeathrestCapacityDesc>
   <!-- EN: {PAWN_nameDef} is connected to {CURRENT} / {MAX} (max) deathrest buildings. -->
-  <PawnIsConnectedToBuildings>TODO</PawnIsConnectedToBuildings>
+  <PawnIsConnectedToBuildings>{PAWN_nameDef}は{CURRENT}/{MAX}(最大数)個の死眠用建築物に接続されています.</PawnIsConnectedToBuildings>
   <!-- EN: wake now -->
-  <Wake>TODO</Wake>
+  <Wake>今すぐ起きる</Wake>
   <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
-  <WakeDesc>TODO</WakeDesc>
+  <WakeDesc>死眠から目覚めます.\n\n{PAWN_nameDef}は{DURATION}間死眠しています.</WakeDesc>
   <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
-  <WakeExtraDesc_Exhaustion>TODO</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}は少なくとも{TOTAL}間死眠する必要があります.早起きすると病気になり,死眠用建築物からの恩恵を得られません.</WakeExtraDesc_Exhaustion>
   <!-- EN: {PAWN_nameDef} can now wake safely. -->
-  <WakeExtraDesc_Safe>TODO</WakeExtraDesc_Safe>
+  <WakeExtraDesc_Safe>{PAWN_nameDef}は安全に起きることができます.</WakeExtraDesc_Safe>
   <!-- EN: Cannot wake. Need at least {0} hemogen. -->
-  <CannotWakeNotEnoughHemogen>TODO</CannotWakeNotEnoughHemogen>
+  <CannotWakeNotEnoughHemogen>起きられません.ヘモゲンが少なくとも{0}必要です.</CannotWakeNotEnoughHemogen>
   <!-- EN: Auto-wake -->
-  <AutoWake>TODO</AutoWake>
+  <AutoWake>自動起床</AutoWake>
   <!-- EN: When on, {PAWN_nameDef} will automatically wake once {PAWN_possessive} deathrest is complete.\n\nWhile off, {PAWN_pronoun} will continue deathresting until you wake {PAWN_objective} manually. -->
-  <AutoWakeDesc>TODO</AutoWakeDesc>
+  <AutoWakeDesc>オンにした場合,{PAWN_nameDef}は死眠の完了時に自動で起きます.\n\nオフにした場合,手動で起こすまで死眠を続けます.</AutoWakeDesc>
   <!-- EN: {PAWN_nameDef} is deathresting. -->
-  <IsDeathresting>TODO</IsDeathresting>
+  <IsDeathresting>{PAWN_nameDef}は死眠している.</IsDeathresting>
   <!-- EN: Cannot deathrest -->
-  <CannotDeathrest>TODO</CannotDeathrest>
+  <CannotDeathrest>死眠できない</CannotDeathrest>
   <!-- EN: Start deathrest -->
-  <StartDeathrest>TODO</StartDeathrest>
+  <StartDeathrest>死眠を始める</StartDeathrest>
   <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
-  <ConfirmExitDeathrestUnderMinDays>TODO</ConfirmExitDeathrestUnderMinDays>
+  <ConfirmExitDeathrestUnderMinDays>死眠を安全に終わらせるには{MINDURATION}必要ですが,{PAWN_nameDef}は{CURDURATION}しか死眠していません.\n\n{PAWN_nameDef}を起こすと死眠が中断され,代謝のバランスが崩れ,その後何日も病気になります.\ n\n本当に起こしますか?</ConfirmExitDeathrestUnderMinDays>
   <!-- EN: deathresting -->
-  <Deathresting>TODO</Deathresting>
+  <Deathresting>死眠中</Deathresting>
   <!-- EN: complete -->
-  <Complete>TODO</Complete>
+  <Complete>完了</Complete>
   <!-- EN: can wake safely now. -->
-  <CanWakeSafely>TODO</CanWakeSafely>
+  <CanWakeSafely>安全に起きられます.</CanWakeSafely>
   <!-- EN: Disabled by gene -->
-  <DisabledByGene>TODO</DisabledByGene>
+  <DisabledByGene>遺伝子によって無効</DisabledByGene>
   <!-- EN: {PAWN_nameDef} is in critical condition. -->
-  <WakeDisabledCriticalCondition>TODO</WakeDisabledCriticalCondition>
+  <WakeDisabledCriticalCondition>{PAWN_nameDef}は危険な状態にあります.</WakeDisabledCriticalCondition>
   <!-- EN: Drain rate -->
-  <DrainRate>TODO</DrainRate>
+  <DrainRate>排出量</DrainRate>
   <!-- EN: Regeneration rate -->
-  <RegenerationRate>TODO</RegenerationRate>
+  <RegenerationRate>再生レート</RegenerationRate>
   <!-- EN: {PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion. -->
-  <NextDeathrestNeed>TODO</NextDeathrestNeed>
+  <NextDeathrestNeed>{PAWN_nameDef}は疲労を避けるため,{DURATION}間死眠する必要があります.</NextDeathrestNeed>
   <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
-  <PawnShouldDeathrestNow>TODO</PawnShouldDeathrestNow>
+  <PawnShouldDeathrestNow>{PAWN_nameDef}は極度の疲労を避けるため,今すぐに死眠する必要があります.</PawnShouldDeathrestNow>
   <!-- EN: Consume hemogen below -->
-  <ConsumeHemogenBelow>TODO</ConsumeHemogenBelow>
+  <ConsumeHemogenBelow>次の値までヘモゲンを補充しない</ConsumeHemogenBelow>
   <!-- EN: Never consume hemogen. -->
-  <NeverConsumeHemogen>TODO</NeverConsumeHemogen>
+  <NeverConsumeHemogen>ヘモゲンを決して補充しません.</NeverConsumeHemogen>
   <!-- EN: Will kill -->
-  <WillKill>TODO</WillKill>
+  <WillKill>殺す</WillKill>
   <!-- EN: Will cause major blood loss -->
-  <WillCauseSeriousBloodloss>TODO</WillCauseSeriousBloodloss>
+  <WillCauseSeriousBloodloss>大量失血の原因になる</WillCauseSeriousBloodloss>
   <!-- EN: too small -->
-  <TooSmall>TODO</TooSmall>
+  <TooSmall>小さすぎる</TooSmall>
 
   <!-- Deathrest buildings -->
   <!-- EN: Bound to -->
-  <BoundTo>TODO</BoundTo>
+  <BoundTo>接続中</BoundTo>
   <!-- EN: Will bind permanently on first use. -->
-  <WillBindOnFirstUse>TODO</WillBindOnFirstUse>
+  <WillBindOnFirstUse>最初の使用者と結びつけられます.</WillBindOnFirstUse>
   <!-- EN: Time active this deathrest -->
-  <TimeActiveThisDeathrest>TODO</TimeActiveThisDeathrest>
+  <TimeActiveThisDeathrest>この死眠のアクティブ時間</TimeActiveThisDeathrest>
   <!-- EN: Minimum is {0} to apply -->
-  <MinimumNeededToApply>TODO</MinimumNeededToApply>
+  <MinimumNeededToApply>効果が適用されるには最低でも{0}必要</MinimumNeededToApply>
   <!-- EN: Cannot deathrest -->
-  <CannotAssignBedCannotDeathrest>TODO</CannotAssignBedCannotDeathrest>
+  <CannotAssignBedCannotDeathrest>死眠できない</CannotAssignBedCannotDeathrest>
   <!-- EN: Already bound to {0_nameDef} -->
-  <CannotAssignAlreadyBound>TODO</CannotAssignAlreadyBound>
+  <CannotAssignAlreadyBound>すでに{0_nameDef}に接続されている</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
-  <CannotAssignBedCannotBindToMoreBuildings>TODO</CannotAssignBedCannotBindToMoreBuildings>
+  <CannotAssignBedCannotBindToMoreBuildings>これ以上{BUILDING_labelPlural}に接続できない</CannotAssignBedCannotBindToMoreBuildings>
 
   <!-- Aptitudes -->
   <!-- EN: aptitude -->
@@ -372,7 +372,7 @@
   <!-- EN: In sunlight -->
   <InSunlight>日光の下</InSunlight>
   <!-- EN: {0_labelShort} is exposed to the sky. -->
-  <ThingIsSkyExposed>{0_labelShort}は空にさらされています.</ThingIsSkyExposed>
+  <ThingIsSkyExposed>{0_labelShort}は 空の下にさらされています.</ThingIsSkyExposed>
   <!-- EN: Insert person -->
   <InsertPerson>人を乗せる</InsertPerson>
   <!-- EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
@@ -430,16 +430,16 @@
 
   <!-- Child birth -->
   <!-- EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
-  <ChildBirthAlwaysHealthy_Desc>TODO</ChildBirthAlwaysHealthy_Desc>
+  <ChildBirthAlwaysHealthy_Desc>母親が出産するのを助けるために集まります.医師は赤ん坊の出産を手伝うことができます.</ChildBirthAlwaysHealthy_Desc>
   <!-- EN: until the baby is born -->
-  <UntilBabyIsBorn>TODO</UntilBabyIsBorn>
+  <UntilBabyIsBorn>赤ん坊が生まれるまで残り</UntilBabyIsBorn>
 
   <!-- EN: Children want to learn from different activities at different times. -->
-  <LearningDesireTooltip>TODO</LearningDesireTooltip>
+  <LearningDesireTooltip>子供はいつでもさまざまな活動から学びを得たいと思っています.</LearningDesireTooltip>
   <!-- EN: {0_nameDef}'s current learning desire: -->
-  <LearningDesireTooltip_CurrentDesire>TODO</LearningDesireTooltip_CurrentDesire>
+  <LearningDesireTooltip_CurrentDesire>{0_nameDef}の現在の学習意欲:</LearningDesireTooltip_CurrentDesire>
   <!-- EN: Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills. -->
-  <DevelopmentHealthGizmoTooltip>TODO</DevelopmentHealthGizmoTooltip>
+  <DevelopmentHealthGizmoTooltip>発育状態とは,前回の誕生日以降の子供の学習欲求の平均値です.\n\n発育状態が高い子供は成長の瞬間により多くの選択肢を得られ,スキルへの情熱が高まります.</DevelopmentHealthGizmoTooltip>
 
   <!-- EN: Must not be placed close to another {0_label} -->
   <MustNotBePlacedCloseToAnother>TODO</MustNotBePlacedCloseToAnother>
@@ -513,28 +513,28 @@
 
   <!-- Abilities -->
   <!-- EN: {0_labelShort} is not hemogenic. -->
-  <AbilityDisabledNoHemogenGene>TODO</AbilityDisabledNoHemogenGene>
+  <AbilityDisabledNoHemogenGene>{0_labelShort}はヘモゲニック遺伝子を持っていない.</AbilityDisabledNoHemogenGene>
   <!-- EN: {0_labelShort} does not have enough hemogen. -->
-  <AbilityDisabledNoHemogen>TODO</AbilityDisabledNoHemogen>
+  <AbilityDisabledNoHemogen>{0_labelShort}には十分なヘモゲンがありません.</AbilityDisabledNoHemogen>
   <!-- EN: children cannot do this. -->
-  <AbilityStartRitualDisabledChild>TODO</AbilityStartRitualDisabledChild>
+  <AbilityStartRitualDisabledChild>子供はこれができません.</AbilityStartRitualDisabledChild>
   <!-- EN: need a {0}. -->
-  <AbilityStartRitualNoMembersOfIdeo>TODO</AbilityStartRitualNoMembersOfIdeo>
+  <AbilityStartRitualNoMembersOfIdeo>{0}が必要です.</AbilityStartRitualNoMembersOfIdeo>
   <!-- EN: Hemogen cost -->
-  <AbilityHemogenCost>TODO</AbilityHemogenCost>
+  <AbilityHemogenCost>ヘモゲンコスト</AbilityHemogenCost>
   <!-- EN: Base hemogen gain -->
-  <AbilityHemogenGain>TODO</AbilityHemogenGain>
+  <AbilityHemogenGain>基本ヘモゲン上昇量</AbilityHemogenGain>
   <!-- EN: Smokepop charged -->
-  <AbilityMechSmokepopCharged>TODO</AbilityMechSmokepopCharged>
+  <AbilityMechSmokepopCharged>スモークポップチャージ済み</AbilityMechSmokepopCharged>
   <!-- EN: Smokepop recharged in {0} -->
-  <AbilityMechSmokepopRecharging>TODO</AbilityMechSmokepopRecharging>
+  <AbilityMechSmokepopRecharging>スモークポップは{0}でリチャージされた</AbilityMechSmokepopRecharging>
   <!-- EN: Firefoam pop charged -->
-  <AbilityMechFirefoampopCharged>TODO</AbilityMechFirefoampopCharged>
+  <AbilityMechFirefoampopCharged>消火泡ポップチャージ済み</AbilityMechFirefoampopCharged>
   <!-- EN: Firefoam pop recharged in {0} -->
-  <AbilityMechFirefoampopRecharging>TODO</AbilityMechFirefoampopRecharging>
+  <AbilityMechFirefoampopRecharging>消火泡ポップは{0}でリチャージされた</AbilityMechFirefoampopRecharging>
 
   <!-- EN: Polluted {0} -->
-  <PollutedTerrain>TODO</PollutedTerrain>
+  <PollutedTerrain>汚染された{0}</PollutedTerrain>
 
   <!-- Growth vat -->
   <!-- EN: Biostarvation -->
