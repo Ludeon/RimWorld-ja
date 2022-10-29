@@ -31,9 +31,9 @@
   <StatsReport_DeathrestConnectionLimit_Desc>死眠中の死眠者に接続できる建築物の数です.この数は,その人物の死眠容量によっても制限されます.</StatsReport_DeathrestConnectionLimit_Desc>
 
   <!-- EN: Growth tier -->
-  <StatsReport_GrowthTier>成長層</StatsReport_GrowthTier>
+  <StatsReport_GrowthTier>成長段階</StatsReport_GrowthTier>
   <!-- EN: Children progress through growth tiers over time. The higher the learning need, the faster the progress. When a growth moment comes (at age 7, 10, and 13), the child's growth tier determines how many trait and passion options you can choose from. Growth tier resets after each growth moment. -->
-  <StatsReport_GrowthTierDesc>子供たちは時間の経過と共に進歩し,成長層を順々に突破します.学習の習得量が高いほど,この進歩は速くなります.成長の瞬間(7歳,10歳,13歳)になると,子供は突破した成長層の数によって,選択できる特性と情熱のオプションの数が決まります.成長の瞬間ごとに突破した成長層の数がリセットされます.</StatsReport_GrowthTierDesc>
+  <StatsReport_GrowthTierDesc>子供たちは時間の経過と共に進歩し,成長段階を順々に突破します.学習の習得量が高いほど,この進歩は速くなります.成長の瞬間(7歳,10歳,13歳)になると,子供は突破した成長段階の数によって,選択できる特性と情熱のオプションの数が決まります.成長の瞬間ごとに突破した成長段階の数がリセットされます.</StatsReport_GrowthTierDesc>
 
   <!-- EN: Life stage -->
   <StatsReport_DevelopmentStage>ライフステージ</StatsReport_DevelopmentStage>
