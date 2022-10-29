@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: fat body -->
-  <Body_Fat.label>脂肪体型</Body_Fat.label>
+  <Body_Fat.label>肥満体型</Body_Fat.label>
   <!-- EN: Carriers can have fat bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed. -->
-  <Body_Fat.description>この遺伝子を持つ者は,脂肪体型になることができます.人は複数の体型遺伝子を持つことができます.許可されている体型の中から1つの体型が選択されます.</Body_Fat.description>
+  <Body_Fat.description>この遺伝子を持つ者は,肥満体型になることができます.人は複数の体型遺伝子を持つことができます.許可されている体型の中から1つの体型が選択されます.</Body_Fat.description>
   <!-- EN: fat -->
   <Body_Fat.symbolPack.prefixSymbols.0.symbol>ファット</Body_Fat.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: blub -->
@@ -33,7 +33,7 @@
   <Body_Fat.symbolPack.suffixSymbols.3.symbol>ボール</Body_Fat.symbolPack.suffixSymbols.3.symbol>
   
   <!-- EN: hulk body -->
-  <Body_Hulk.label>筋肉体型</Body_Hulk.label>
+  <Body_Hulk.label>筋肉質体型</Body_Hulk.label>
   <!-- EN: Carriers can have large bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed. -->
   <Body_Hulk.description>この遺伝子を持つ者は,大きな体になることができます.人は複数の体型遺伝子を持つことができます.許可されている体型の中から1つの体型が選択されます.</Body_Hulk.description>
   <!-- EN: hulk -->
@@ -374,9 +374,9 @@
   <VoicePig.symbolPack.wholeNameSymbols.2.symbol>スノーター</VoicePig.symbolPack.wholeNameSymbols.2.symbol>
   
   <!-- EN: roar voice -->
-  <VoiceRoar.label>轟音</VoiceRoar.label>
+  <VoiceRoar.label>咆哮</VoiceRoar.label>
   <!-- EN: Carriers have an animal-like roaring voice. -->
-  <VoiceRoar.description>この遺伝子を持つ者は,動物のような咆哮の声を発します.</VoiceRoar.description>
+  <VoiceRoar.description>この遺伝子を持つ者は,動物のような咆哮を発します.</VoiceRoar.description>
   <!-- EN: roar -->
   <VoiceRoar.symbolPack.prefixSymbols.0.symbol>ロア</VoiceRoar.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: growl -->
