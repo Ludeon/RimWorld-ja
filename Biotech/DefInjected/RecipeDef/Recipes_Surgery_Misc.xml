@@ -2,90 +2,90 @@
 <LanguageData>
   
   <!-- EN: blood transfusion -->
-  <BloodTransfusion.label>TODO</BloodTransfusion.label>
+  <BloodTransfusion.label>輸血</BloodTransfusion.label>
   <!-- EN: Use hemogen packs to reduce the effects of blood loss. Each hemogen pack used recovers 35% blood loss. The operation will also restore hemogen to hemogenic individuals. -->
-  <BloodTransfusion.description>TODO</BloodTransfusion.description>
+  <BloodTransfusion.description>失血の影響を低減するため,ヘモゲンパックを使用します.ヘモゲンパック1つにつき血液量を35%回復します.この手術はヘモゲン遺伝子をもつ個人にヘモゲンを補給することもできます.</BloodTransfusion.description>
   <!-- EN: performing blood transfusion on TargetA. -->
-  <BloodTransfusion.jobString>TODO</BloodTransfusion.jobString>
+  <BloodTransfusion.jobString>TargetAに輸血する.</BloodTransfusion.jobString>
   
   <!-- EN: extract hemogen pack -->
-  <ExtractHemogenPack.label>TODO</ExtractHemogenPack.label>
+  <ExtractHemogenPack.label>ヘモゲンパック抽出</ExtractHemogenPack.label>
   <!-- EN: Extract a hemogen pack from the target. The operation will fail to produce a hemogen pack if the target does not have enough blood.\n\nHemogen packs can be administered to others to reduce blood loss or to satiate those who feed on blood. -->
-  <ExtractHemogenPack.description>TODO</ExtractHemogenPack.description>
+  <ExtractHemogenPack.description>対象からヘモゲンパックを抽出します.対象に十分な血液量がない場合,手術は失敗します.\n\nヘモゲンパックは,血を飲む必要がある人や,失血が酷い他者に使用することができます.</ExtractHemogenPack.description>
   <!-- EN: Extracting hemogen pack. -->
-  <ExtractHemogenPack.jobString>TODO</ExtractHemogenPack.jobString>
+  <ExtractHemogenPack.jobString>ヘモゲンパックを抽出する.</ExtractHemogenPack.jobString>
   
   <!-- EN: extract ovum for IVF -->
-  <ExtractOvum.label>TODO</ExtractOvum.label>
+  <ExtractOvum.label>体外受精のために卵子を抽出</ExtractOvum.label>
   <!-- EN: Extract an ovum into a storage capsule. It can then be fertilized by a man, and finally implanted into a mother to start a pregnancy. -->
-  <ExtractOvum.description>TODO</ExtractOvum.description>
+  <ExtractOvum.description>卵子を保存容器に抽出します.男性によって受精されれば,最終的に妊娠のために母親に移植可能になります.</ExtractOvum.description>
   <!-- EN: extracting ovum from TargetA. -->
-  <ExtractOvum.jobString>TODO</ExtractOvum.jobString>
+  <ExtractOvum.jobString>TargetAから卵子を抽出する.</ExtractOvum.jobString>
   
   <!-- EN: implant embryo -->
-  <ImplantEmbryo.label>TODO</ImplantEmbryo.label>
+  <ImplantEmbryo.label>受精卵を移植</ImplantEmbryo.label>
   <!-- EN: Implant an embryo in a surrogate mother to begin a pregnancy. -->
-  <ImplantEmbryo.description>TODO</ImplantEmbryo.description>
+  <ImplantEmbryo.description>妊娠を開始するため,代理母に受精卵を移植します.</ImplantEmbryo.description>
   <!-- EN: Implanting embryo in TargetA. -->
-  <ImplantEmbryo.jobString>TODO</ImplantEmbryo.jobString>
+  <ImplantEmbryo.jobString>TargetAに受精卵を移植する.</ImplantEmbryo.jobString>
   
   <!-- EN: implant IUD -->
-  <ImplantIUD.label>TODO</ImplantIUD.label>
+  <ImplantIUD.label>子宮内避妊具を移植</ImplantIUD.label>
   <!-- EN: Implant a small metal device in the uterus to prevent pregnancies. It can later be removed, but there is a small chance of leaving the patient permanently sterile. This surgery terminates pregnancies in the first trimester. -->
-  <ImplantIUD.description>TODO</ImplantIUD.description>
+  <ImplantIUD.description>この個体の子宮には小さな金属製の装置が埋め込まれており,妊娠を防いでいます.あとで除去可能ですが,患者は低確率ながら恒久的に生殖機能を失う可能性もあります.妊娠第1期であれば,この手術により中絶されます.</ImplantIUD.description>
   <!-- EN: implanting a IUD in TargetA. -->
-  <ImplantIUD.jobString>TODO</ImplantIUD.jobString>
+  <ImplantIUD.jobString>TargetAに子宮内避妊具を移植する.</ImplantIUD.jobString>
   <!-- EN: {0} has successfully implanted an IUD in {1}. -->
-  <ImplantIUD.successfullyRemovedHediffMessage>TODO</ImplantIUD.successfullyRemovedHediffMessage>
+  <ImplantIUD.successfullyRemovedHediffMessage>{0}は{1}への子宮内避妊具移植に成功した.</ImplantIUD.successfullyRemovedHediffMessage>
   
   <!-- EN: implant xenogerm -->
-  <ImplantXenogerm.label>TODO</ImplantXenogerm.label>
+  <ImplantXenogerm.label>異種胚を移植</ImplantXenogerm.label>
   <!-- EN: Implant a xenogerm into a patient. This replaces any previous xenogerm they may have had. -->
-  <ImplantXenogerm.description>TODO</ImplantXenogerm.description>
+  <ImplantXenogerm.description>患者に異種胚を移植します.この手術により,以前に移植された異種胚は置き換わります.</ImplantXenogerm.description>
   <!-- EN: Implanting xenogerm. -->
-  <ImplantXenogerm.jobString>TODO</ImplantXenogerm.jobString>
+  <ImplantXenogerm.jobString>異種胚を移植する.</ImplantXenogerm.jobString>
   
   <!-- EN: remove IUD -->
-  <RemoveIUD.label>TODO</RemoveIUD.label>
+  <RemoveIUD.label>子宮内避妊具を除去</RemoveIUD.label>
   <!-- EN: Remove an implanted intrauterine device to allow normal pregnancy. If the surgery goes wrong, the patient will be rendered permanently sterile. -->
-  <RemoveIUD.description>TODO</RemoveIUD.description>
+  <RemoveIUD.description>通常妊娠が可能になるように子宮内避妊具を除去します.もし手術に失敗すれば,患者は恒久的に生殖機能を失います.</RemoveIUD.description>
   <!-- EN: removing IUD from TargetA. -->
-  <RemoveIUD.jobString>TODO</RemoveIUD.jobString>
+  <RemoveIUD.jobString>TargetAから子宮内避妊具を除去する.</RemoveIUD.jobString>
   <!-- EN: {0} has successfully removed {1}'s IUD. -->
-  <RemoveIUD.successfullyRemovedHediffMessage>TODO</RemoveIUD.successfullyRemovedHediffMessage>
+  <RemoveIUD.successfullyRemovedHediffMessage>{0}は{1}からの子宮内避妊具除去に成功した.</RemoveIUD.successfullyRemovedHediffMessage>
   
   <!-- EN: reverse vasectomy -->
-  <ReverseVasectomy.label>TODO</ReverseVasectomy.label>
+  <ReverseVasectomy.label>精管を元に戻す</ReverseVasectomy.label>
   <!-- EN: Attempt to reverse the vasectomy and make a man capable of fathering children again. Most vasectomy reversals succeed, but if the surgery goes wrong the man will be left permanently sterile. -->
-  <ReverseVasectomy.description>TODO</ReverseVasectomy.description>
+  <ReverseVasectomy.description>再度繁殖できるよう,切除した精管を元に戻すことを試みます.ほとんどの場合成功しますが,もしも手術に失敗すれば患者は恒久的に生殖機能を失います.</ReverseVasectomy.description>
   <!-- EN: performing a vasectomy reversal on TargetA. -->
-  <ReverseVasectomy.jobString>TODO</ReverseVasectomy.jobString>
+  <ReverseVasectomy.jobString>TargetAの精管を元に戻す</ReverseVasectomy.jobString>
   <!-- EN: {0} has successfully performed a vasectomy reversal on {1}. -->
-  <ReverseVasectomy.successfullyRemovedHediffMessage>TODO</ReverseVasectomy.successfullyRemovedHediffMessage>
+  <ReverseVasectomy.successfullyRemovedHediffMessage>{0}は{1}の精管を元に戻すことに成功した.</ReverseVasectomy.successfullyRemovedHediffMessage>
   
   <!-- EN: terminate pregnancy -->
-  <TerminatePregnancy.label>TODO</TerminatePregnancy.label>
+  <TerminatePregnancy.label>中絶</TerminatePregnancy.label>
   <!-- EN: Terminate the pregnancy of an animal or human. -->
-  <TerminatePregnancy.description>TODO</TerminatePregnancy.description>
+  <TerminatePregnancy.description>動物,あるいは人間の妊娠を中断させます.</TerminatePregnancy.description>
   <!-- EN: terminating TargetA's pregnancy. -->
-  <TerminatePregnancy.jobString>TODO</TerminatePregnancy.jobString>
+  <TerminatePregnancy.jobString>TargetAの妊娠を中絶する.</TerminatePregnancy.jobString>
   
   <!-- EN: perform tubal ligation -->
-  <TubalLigation.label>TODO</TubalLigation.label>
+  <TubalLigation.label>卵管結紮</TubalLigation.label>
   <!-- EN: Permanently render a patient sterile and unable to reproduce. -->
-  <TubalLigation.description>TODO</TubalLigation.description>
+  <TubalLigation.description>恒久的に患者の生殖機能を失わせ,生殖不能にします.</TubalLigation.description>
   <!-- EN: performing tubal ligation on TargetA. -->
-  <TubalLigation.jobString>TODO</TubalLigation.jobString>
+  <TubalLigation.jobString>TargetAに卵管結紮を行う.</TubalLigation.jobString>
   <!-- EN: {0} has successfully performed tubal ligation on {1}. -->
-  <TubalLigation.successfullyRemovedHediffMessage>TODO</TubalLigation.successfullyRemovedHediffMessage>
+  <TubalLigation.successfullyRemovedHediffMessage>{0}は{1}の卵管結紮に成功した.</TubalLigation.successfullyRemovedHediffMessage>
   
   <!-- EN: perform vasectomy -->
-  <Vasectomy.label>TODO</Vasectomy.label>
+  <Vasectomy.label>精管切除</Vasectomy.label>
   <!-- EN: Cut the vas deferens to render the patient unable to reproduce. If the surgery goes wrong the patient will be left permanently sterile. -->
-  <Vasectomy.description>TODO</Vasectomy.description>
+  <Vasectomy.description>精管を切断し,生殖不能にします.もし手術に失敗すれば,患者は恒久的に生殖機能を失います.</Vasectomy.description>
   <!-- EN: performing a vasectomy on TargetA. -->
-  <Vasectomy.jobString>TODO</Vasectomy.jobString>
+  <Vasectomy.jobString>TargetAの精管を切除する.</Vasectomy.jobString>
   <!-- EN: {0} has successfully performed a vasectomy on {1}. -->
-  <Vasectomy.successfullyRemovedHediffMessage>TODO</Vasectomy.successfullyRemovedHediffMessage>
+  <Vasectomy.successfullyRemovedHediffMessage>{0}は{1}の精管切除に成功した.</Vasectomy.successfullyRemovedHediffMessage>
   
 </LanguageData>
