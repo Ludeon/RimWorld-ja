@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: basic mechtech -->
-  <BasicMechtech.label>基本メカ技術</BasicMechtech.label>
+  <BasicMechtech.label>機械技術 基礎</BasicMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control basic-tier mechanoids. -->
-  <BasicMechtech.description>あなたのメカニターが基本ティアのメカノイドを作成・制御するのに必要な技術です.</BasicMechtech.description>
+  <BasicMechtech.description>メカニターが基本層のメカノイドを製造,制御するために必要な技術です.</BasicMechtech.description>
   
   <!-- EN: high mechtech -->
-  <HighMechtech.label>高度なメカ技術</HighMechtech.label>
+  <HighMechtech.label>機械技術 高度</HighMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
-  <HighMechtech.description>あなたのメカニターが高ティアのメカノイドを作成・制御するのに必要な技術です.\n\nウォークイーンの脅威をメカニターで呼び出すことで,パワーフォーカスチップを入手できます.</HighMechtech.description>
+  <HighMechtech.description>メカニターが高度層のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがウォークイーンの脅威を呼び出すことで,パワーフォーカスチップを入手できます.</HighMechtech.description>
   
   <!-- EN: standard mechtech -->
-  <StandardMechtech.label>標準的なメカ技術</StandardMechtech.label>
+  <StandardMechtech.label>機械技術 標準</StandardMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
-  <StandardMechtech.description>あなたのメカニターが標準ティアのメカノイドを作成・制御するのに必要な技術です.\n\nディアボロスの脅威をメカニターで呼び出すことで,シグナルチップを入手できます.</StandardMechtech.description>
+  <StandardMechtech.description>メカニターが標準層のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがディアボロスの脅威を呼び出すことで,シグナルチップを入手できます.</StandardMechtech.description>
   
   <!-- EN: ultra mechtech -->
-  <UltraMechtech.label>超高度メカ技術</UltraMechtech.label>
+  <UltraMechtech.label>機械技術 超高度</UltraMechtech.label>
   <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
-  <UltraMechtech.description>あなたのメカニターが超ティアのメカノイドを作成・制御し、大型メカや超ティアのメカニター装備品も制御するのに必要な先進技術です.\n\nアポクリトンの脅威をメカニターで呼び出すことで,ナノ構造体チップを入手できます.</UltraMechtech.description>
+  <UltraMechtech.description>メカニターが大型メカや超高度型メカニターギアを含む超高度層のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがアポクリトンの脅威を呼び出すことで,ナノ構造体チップを入手できます.</UltraMechtech.description>
   
   <!-- EN: wastepack atomizer -->
   <WastepackAtomizer.label>廃棄物パック分解装置</WastepackAtomizer.label>
   <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
-  <WastepackAtomizer.description>有毒な廃棄物パックを分子レベルまで分解し,安全に廃棄できるようにする廃棄物パック分解装置を建設します.</WastepackAtomizer.description>
+  <WastepackAtomizer.description>有毒な廃棄物パックを分子レベルで分解することによって安全に処分できる,廃棄物パック分解装置を建築できるようになります.</WastepackAtomizer.description>
   
 </LanguageData>

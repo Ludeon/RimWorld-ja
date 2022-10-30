@@ -122,15 +122,15 @@
   <!-- EN: deathrest capacity -->
   <DeathrestCapacity>死眠容量</DeathrestCapacity>
   <!-- EN: This determines how many deathrest buildings a person can connect to while deathresting. Each deathrest building confers a specific benefit, so it's better to be able to connect to more of them.\n\nDeathrest capacity can be increased using deathrest capacity serums. These serums can be purchased from traders. -->
-  <DeathrestCapacityDesc>この値は死眠中に接続できる死眠用建築物の数を表します.各死眠用建築物にはメリットがあるため,より多くの建築物に接続できるようにすることをお勧めします.\n\n死眠容量は死眠容量シーラムを使用して増やすことができます.シーラムはトレーダーから購入できます.</DeathrestCapacityDesc>
+  <DeathrestCapacityDesc>この値は死眠中に接続できる死眠用設備の数を表します.各死眠用設備にはメリットがあるため,より多くの建築物に接続できるようにすることをお勧めします.\n\n死眠容量は死眠容量シーラムを使用して増やすことができます.シーラムはトレーダーから購入できます.</DeathrestCapacityDesc>
   <!-- EN: {PAWN_nameDef} is connected to {CURRENT} / {MAX} (max) deathrest buildings. -->
-  <PawnIsConnectedToBuildings>{PAWN_nameDef}は{CURRENT}/{MAX}(最大数)個の死眠用建築物に接続されています.</PawnIsConnectedToBuildings>
+  <PawnIsConnectedToBuildings>{PAWN_nameDef}は{CURRENT}/{MAX}(最大数)個の死眠用設備に接続されています.</PawnIsConnectedToBuildings>
   <!-- EN: wake now -->
   <Wake>今すぐ起きる</Wake>
   <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
   <WakeDesc>死眠から目覚めます.\n\n{PAWN_nameDef}は{DURATION}間死眠しています.</WakeDesc>
   <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
-  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}は少なくとも{TOTAL}間死眠する必要があります.早起きすると病気になり,死眠用建築物からの恩恵を得られません.</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}は少なくとも{TOTAL}間死眠する必要があります.早起きすると病気になり,死眠用設備からの恩恵を得られません.</WakeExtraDesc_Exhaustion>
   <!-- EN: {PAWN_nameDef} can now wake safely. -->
   <WakeExtraDesc_Safe>{PAWN_nameDef}は安全に起きることができます.</WakeExtraDesc_Safe>
   <!-- EN: Cannot wake. Need at least {0} hemogen. -->
@@ -422,7 +422,7 @@
   <!-- EN: deathrest -->
   <Deathrest>死眠</Deathrest>
   <!-- EN: Buildings -->
-  <Buildings>建築物</Buildings>
+  <Buildings>設備</Buildings>
   <!-- EN: capacity -->
   <Capacity>許容量</Capacity>
   <!-- EN: Non-{GENE} romance chance -->

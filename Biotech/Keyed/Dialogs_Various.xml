@@ -207,7 +207,7 @@
 
   <!-- Deathrest -->
   <!-- EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
-  <WarningWakingInterruptsDeathrest>{MINDURATION}が経過する前に{PAWN_nameDef}を目覚めさせると,死眠が中断され,回復するまでの数日間病気になります.また,早く起きると死眠用建築物の恩恵を得られなくなります.{PAWN_nameDef}は{CURDURATION}間死眠を行っています.\n\n本当に{PAWN_nameDef}を目覚めさせますか?</WarningWakingInterruptsDeathrest>
+  <WarningWakingInterruptsDeathrest>{MINDURATION}が経過する前に{PAWN_nameDef}を目覚めさせると,死眠が中断され,回復するまでの数日間病気になります.また,早く起きると死眠用設備の恩恵を得られなくなります.{PAWN_nameDef}は{CURDURATION}間死眠を行っています.\n\n本当に{PAWN_nameDef}を目覚めさせますか?</WarningWakingInterruptsDeathrest>
 
   <!-- Text motes -->
   <!-- EN: {0} wounds tended -->

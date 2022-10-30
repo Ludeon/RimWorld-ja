@@ -16,9 +16,9 @@
   <AlertWarqueenHasLowResourcesDesc>1体か,それ以上の{0}のリソースが不足しています.リソースが不足するとメカの生産指令が出せなくなります.</AlertWarqueenHasLowResourcesDesc>
 
   <!-- EN: {PAWN} needs deathrest -->
-  <AlertLowDeathrestPawn>{PAWN}は死眠を必要としている</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawn>{PAWN}は死眠が必要</AlertLowDeathrestPawn>
   <!-- EN: {NUMCULPRITS} colonists need deathrest -->
-  <AlertLowDeathrestPawns>{NUMCULPRITS}人の入植者に死眠が必要</AlertLowDeathrestPawns>
+  <AlertLowDeathrestPawns>{NUMCULPRITS}人に死眠が必要</AlertLowDeathrestPawns>
   <!-- EN: A colonist has not deathrested for a long time. If they go too long without deathrest, they will suffer from deathrest exhaustion.\n\nTo deathrest, select the colonist then right-click on their assigned bed or deathrest casket.\n\nThese people need deathrest:\n{CULPRITS} -->
   <AlertLowDeathrestDesc>入植者は長い間死眠を取っていません.死眠なしで長時間を過ごすと死眠不足状態に陥ります.\n\n入植者を選択し,割り当てられたベッドか死眠専用施設を右クリックしてください.\n\n以下の入植者に死眠が必要:\n{CULPRITS}</AlertLowDeathrestDesc>
 
@@ -37,12 +37,12 @@
   <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
   <AlertNeedMechChargersDesc>すべてのメカノイドに行き渡る充電器がありません.エネルギーを使い果たしたメカは自己充電のための休眠状態に入りますが,この方法はとても充電速度が遅いです.\n\n以下の充電器を建造してください:\n\n{0}\n\nNote:通常のメカ充電器は小型メカノイドだけが使えます.中型以上のメカノイドには大型メカ充電器が必要です.</AlertNeedMechChargersDesc>
   <!-- EN: Research basic mechtech or higher to build rechargers. -->
-  <AlertNeedMechChargerBasicMechtech>充電器を作るには基礎メカテック以上の研究をしてください.</AlertNeedMechChargerBasicMechtech>
+  <AlertNeedMechChargerBasicMechtech>充電器を建築するためには,機械技術基礎以上の研究を行ってください.</AlertNeedMechChargerBasicMechtech>
 
   <!-- EN: Reimplantation available -->
   <AlertReimplantationAvailable>再移植可能</AlertReimplantationAvailable>
   <!-- EN: {0_nameDef} is waiting to reimplant {0_possessive} xenogerm into one of your colonists. -->
-  <AlertReimplantationAvailableDesc>{0_nameDef}は{0_possessive}の異種杯を,他の入植者に移植するために待機しています.</AlertReimplantationAvailableDesc>
+  <AlertReimplantationAvailableDesc>{0_nameDef}は自分の異種胚を入植者の1人に再移植するのを待っています.</AlertReimplantationAvailableDesc>
 
   <!-- EN: Low baby food -->
   <AlertLowBabyFood>ベビーフード不足</AlertLowBabyFood>
