@@ -2,37 +2,37 @@
 <LanguageData>
   
   <!-- EN: archite capsule -->
-  <ArchiteCapsule.label>TODO</ArchiteCapsule.label>
+  <ArchiteCapsule.label>アルカイトカプセル</ArchiteCapsule.label>
   <!-- EN: A small capsule containing archites - microscopic machines produced by a superintelligent archotech. These devices are capable of physical and psychic feats which seem impossible to human scientists. As with all archotechnology, no human can create one. We can only try to scavenge the ones that archotechs create for their own unfathomable reasons.\n\nThis capsule is useless by itself, but it can be spent at a gene assembler to create a new archite-powered xenogerm. This requires researching archogenetics and a genepack that contains an archite gene. Archite genepacks can be obtained from traders. -->
-  <ArchiteCapsule.description>TODO</ArchiteCapsule.description>
+  <ArchiteCapsule.description>アルカイトを含んだ小さなカプセルです.アルカイトとは,超越人工知能であるアルコテックによって作成された微細な機械です.この装置は,人間の科学者には到底実現不可能な物理的・精神的偉業を可能にします.他の全てのアルコテクノロジーと同じように,人間には製造不可能です.我々はがそれを手に入れるには,アルコテックが計り知れない理由によって作り出したものを拾い集めるしかありません.\n\nこのカプセルはそれ自体はなんの役にも立ちませんが,遺伝子アセンブラーで使用して,アルカイトを動力源とする新しい異種胚を作成することができます.それには,アルコ遺伝学とアルカイト遺伝子を含む遺伝子パックの研究が必要です.アルカイトの遺伝子パックはトレーダーから入手できます.</ArchiteCapsule.description>
   
   <!-- EN: genepack -->
-  <Genepack.label>TODO</Genepack.label>
+  <Genepack.label>遺伝子パック</Genepack.label>
   <!-- EN: A small capsule containing a package of genetic information. To use a genepack, it must be placed in a gene bank near a gene assembler and combined into an implantable xenogerm.\n\nIf not kept in a powered gene bank, this genepack will slowly deteriorate. -->
-  <Genepack.description>TODO</Genepack.description>
+  <Genepack.description>遺伝情報のパッケージが入った小さなカプセルです.遺伝子パックを使用するには,遺伝子アセンブラの近くにある遺伝子バンクに格納し,移植可能な異種胚と組み合わせなければなりません.\n\nもし電源が投入されていない遺伝子バンクに保管されている場合,遺伝子パックはゆっくりと劣化します.</Genepack.description>
   
   <!-- EN: embryo -->
-  <HumanEmbryo.label>TODO</HumanEmbryo.label>
+  <HumanEmbryo.label>受精卵</HumanEmbryo.label>
   <!-- EN: A human embryo which can be implanted in a mother to create a pregnancy. -->
-  <HumanEmbryo.description>TODO</HumanEmbryo.description>
+  <HumanEmbryo.description>母親を妊娠させるために移植可能な人間の受精卵です.</HumanEmbryo.description>
   
   <!-- EN: ovum -->
-  <HumanOvum.label>TODO</HumanOvum.label>
+  <HumanOvum.label>卵子</HumanOvum.label>
   <!-- EN: An extracted, unfertilized human ovum cell stored in a protective capsule. Once fertilized by a male, it becomes an embryo which can then be implanted into a human mother or growth vat. -->
-  <HumanOvum.description>TODO</HumanOvum.description>
+  <HumanOvum.description>保護カプセルに入った,抽出された受精していないヒト卵細胞です.男性によって受精されると,人造培養槽か人間の母親に移植可能な受精卵になります.</HumanOvum.description>
   
   <!-- EN: mechanoid transponder -->
-  <MechanoidTransponder.label>TODO</MechanoidTransponder.label>
+  <MechanoidTransponder.label>メカノイド応答装置</MechanoidTransponder.label>
   <!-- EN: A transponder micro-organ that connects a mechanitor to a mechanoid, even over a great distance. Mechanitors are capable of controlling many mechanoids using a mix of psychic and electromagnetic signals.\n\nDecrypting the transponder will allow you to pinpoint the location of the last mechanitor who controlled the mechanoid. -->
-  <MechanoidTransponder.description>TODO</MechanoidTransponder.description>
+  <MechanoidTransponder.description>メカニターがメカノイドと接続するための通信応答機能を持った微小器官です.メカニターは精神的および電磁気学的信号を組み合わせることで多くのメカノイドを制御することができます.\n\n応答装置を解読するとこのメカノイドを操作していた最後のメカニターの正確な位置が分るでしょう.</MechanoidTransponder.description>
   <!-- EN: Decrypt transponder -->
-  <MechanoidTransponder.comps.CompUseableDatacore.useLabel>TODO</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
+  <MechanoidTransponder.comps.CompUseableDatacore.useLabel>応答装置を解読する</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
   <!-- EN: Can be decrypted at a research bench.\nSelect a colonist and right-click this to decrypt it. -->
-  <MechanoidTransponder.comps.CompInspectString.inspectString>TODO</MechanoidTransponder.comps.CompInspectString.inspectString>
+  <MechanoidTransponder.comps.CompInspectString.inspectString>研究卓で解読できます.\n解読するには入植者を選択して右クリックしてください.</MechanoidTransponder.comps.CompInspectString.inspectString>
   
   <!-- EN: xenogerm -->
-  <Xenogerm.label>TODO</Xenogerm.label>
+  <Xenogerm.label>異種胚</Xenogerm.label>
   <!-- EN: A self-contained biological organ containing one or more implantable xenogenes.\n\nOnce implanted inside a host's body, the xenogerm modifies the host's genes, gene expression, and phenotypic development using viruses, hormones, bio-synthesized drugs, and possibly mechanites. Depending on the xenogerm, the host will develop any of a wide variety of exotic traits and abilities, transforming them into a different human xenotype.\n\nXenogerm implantation is a traumatic process. Once implanted with a xenogerm, a person will be bedridden for days as the transformation sets in.\n\nDuring storage and transport, xenogerms are kept safe in sealed containers. -->
-  <Xenogerm.description>TODO</Xenogerm.description>
+  <Xenogerm.description>1つまたは複数の移植可能な異種遺伝子を含む自己完結型の生物学的器官.\n\n宿主の体内に移植されると,異種胚は宿主の遺伝子,遺伝子発現,表現型の発達を,ウイルス,ホルモン,生合成ドラッグ,場合によってはメカナイトも使用して改変します.異種胚に応じて,宿主は多種多様なエキゾチックな形質や能力を開発し,対象者を異なる人種に変換します.\n\n異種胚移植はトラウマを伴うプロセスです.異種胚が移植されると,変換が開始され,対象者は何日も寝たきりになります.\n\n保管および輸送中,異種胚は密封された容器で安全に保管されます.</Xenogerm.description>
   
 </LanguageData>

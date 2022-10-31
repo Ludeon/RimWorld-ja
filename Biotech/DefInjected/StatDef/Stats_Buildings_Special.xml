@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: work speed factor -->
-  <AssemblySpeedFactor.label>TODO</AssemblySpeedFactor.label>
+  <AssemblySpeedFactor.label>作業速度係数</AssemblySpeedFactor.label>
   <!-- EN: The speed at which people assemble genes here is multiplied by this value. -->
-  <AssemblySpeedFactor.description>TODO</AssemblySpeedFactor.description>
+  <AssemblySpeedFactor.description>ここで遺伝子を組み合わせる作業速度に,この値が掛けられます</AssemblySpeedFactor.description>
   <!-- EN: Room cleanliness -->
-  <AssemblySpeedFactor.parts.Room_cleanliness.customLabel>TODO</AssemblySpeedFactor.parts.Room_cleanliness.customLabel>
+  <AssemblySpeedFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</AssemblySpeedFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: baby play power -->
-  <BabyPlayGainFactor.label>TODO</BabyPlayGainFactor.label>
+  <BabyPlayGainFactor.label>赤ん坊の遊びの面白さ</BabyPlayGainFactor.label>
   <!-- EN: How effectively this object can be used to fulfill a baby's need for play. -->
-  <BabyPlayGainFactor.description>TODO</BabyPlayGainFactor.description>
+  <BabyPlayGainFactor.description>この物体が,赤ん坊の遊びの要求を満たす際の効率です.</BabyPlayGainFactor.description>
   
   <!-- EN: birth quality offset -->
-  <BirthRitualQualityOffset.label>出生時の質の増減量</BirthRitualQualityOffset.label>
+  <BirthRitualQualityOffset.label>出産の質の増減量</BirthRitualQualityOffset.label>
   <!-- EN: This alters the quality of a birth when this is used as a birth place. Birth quality affects the chance of the baby being born healthy. -->
-  <BirthRitualQualityOffset.description>これを出産場所として使用する場合,出産の質に影響を与えます.出生時の質は,乳児が健康に生まれる確率に影響します.</BirthRitualQualityOffset.description>
+  <BirthRitualQualityOffset.description>ここを出産場所として使用する場合の,出産の質に与える影響です.出産の質は,乳児が健康に生まれる確率に影響します.</BirthRitualQualityOffset.description>
   
   <!-- EN: genetic complexity increase -->
-  <GeneticComplexityIncrease.label>TODO</GeneticComplexityIncrease.label>
+  <GeneticComplexityIncrease.label>遺伝子複雑さ増加量</GeneticComplexityIncrease.label>
   <!-- EN: When placed near a gene assembler, this building increases the maximum genetic complexity that can be assembled at once. -->
-  <GeneticComplexityIncrease.description>TODO</GeneticComplexityIncrease.description>
+  <GeneticComplexityIncrease.description>この設備を遺伝子アセンブラの近くに設置すると,一度に組み立てられる遺伝子の複雑さの上限を引き上げます.</GeneticComplexityIncrease.description>
   
 </LanguageData>

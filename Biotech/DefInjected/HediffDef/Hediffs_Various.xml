@@ -7,9 +7,9 @@
   <BioStarvation.description>この人物は,電力不足か栄養素不足二より十分に機能していない人造培養槽に入槽していました.これにより彼らの肉体には生物学的栄養失調の影響が残りました.</BioStarvation.description>
   
   <!-- EN: deathresting -->
-  <Deathrest.label>死眠</Deathrest.label>
+  <Deathrest.label>死眠中</Deathrest.label>
   <!-- EN: A deep coma-like sleep that lasts several days and restores the body's resources. Certain genes create a need for deathrest. Deathrest can also be enhanced with various support buildings that give special bonuses to the deathrester. -->
-  <Deathrest.description>肉体を修復するための,数日間にわたる昏睡に似た深い睡眠です.特定の遺伝子が死眠を引き起こします.死眠は,死眠者に様々な特殊効果を与える支援設備によって強化することもできます.</Deathrest.description>
+  <Deathrest.description>昏睡のような深い眠りが数日間続き,肉体を修復します.特定の遺伝子を持つ者は死眠を行う必要があります.死眠者に特殊効果を与えるさまざまな支援設備で,死眠を強化することができます.</Deathrest.description>
   
   <!-- EN: deathrest exhaustion -->
   <DeathrestExhaustion.label>死眠前の消耗</DeathrestExhaustion.label>
@@ -62,7 +62,8 @@
   <!-- EN: regeneration coma -->
   <RegenerationComa.label>再生昏睡</RegenerationComa.label>
   <!-- EN: Had this person not been genetically deathless, they would have already died from their health conditions. Instead, they have fallen into a regeneration coma, during which they will regenerate their body. -->
-  <RegenerationComa.description>この人物が遺伝的に不死でなかったら,この状態はすでに死んでいるといえるでしょう.しかし彼らは,死の代わりに再生昏睡状態に陥り,その間に体を再生します.</RegenerationComa.description>  
+  <RegenerationComa.description>この人物が遺伝的に不死でなかったら,この状態はすでに死んでいるといえるでしょう.しかし彼らは,死の代わりに再生昏睡状態に陥り,その間に体を再生します.</RegenerationComa.description>
+  
   <!-- EN: Scanning sickness -->
   <ScanningSickness.label>スキャン病</ScanningSickness.label>
   <!-- EN: This person was scanned by a softscanner to produce a mechanoid subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->

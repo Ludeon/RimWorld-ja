@@ -191,11 +191,11 @@
   <!-- EN: Load mod list -->
   <LoadModList>MODリスト読込</LoadModList>
   <!-- EN: Added mods -->
-  <AddedModsList>MODを追加</AddedModsList>
+  <AddedModsList>追加されたMOD</AddedModsList>
   <!-- EN: Missing mods -->
-  <MissingModsList>MODが見つからない</MissingModsList>
+  <MissingModsList>削除されたMOD</MissingModsList>
   <!-- EN: Shared mods -->
-  <SharedModsList>MODをシェア</SharedModsList>
+  <SharedModsList>共通MOD</SharedModsList>
   <!-- EN: Website -->
   <ModWebsite>ウェブサイト</ModWebsite>
   <!-- EN: Open folder -->
@@ -255,7 +255,7 @@
   <!-- EN: This mod is incompatible with: {0}. -->
   <ModIncompatibleWithTip>このMODは,次と両立しない: {0}.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>このMODは他のMODとの相対的位置を間違ってロードしています.「MOD自動並べ替え」ボタンを使うか,手動でMODの順序を入れ替えてください.</ModOrderingWarning>
+  <ModOrderingWarning>他のMODとの相対的位置を間違ってロードしています.'MOD自動並べ替え'ボタンを使うか,手動でMODの順序を入れ替えてください.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
   <ModWithSameIdAlreadyActive>別の有効なMODが同じIDを使用している: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->

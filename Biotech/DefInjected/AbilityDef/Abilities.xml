@@ -67,12 +67,12 @@
   <!-- EN: piercing spine -->
   <PiercingSpine.label>骨棘</PiercingSpine.label>
   <!-- EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
-  <PiercingSpine.description>造血化学反応を使用してターゲットに骨棘を発射します.トゲは鎖骨の間の開口部から皮膚を通って出ます.その射出方法の割には,狙いを定めることが非常に容易です.</PiercingSpine.description>
+  <PiercingSpine.description>造血化学反応を使用してターゲットに骨棘を発射します.トゲは鎖骨の間の開口部から皮膚を通って出ます.その射出方法の割には,意外にも簡単に狙いを定めることできます.</PiercingSpine.description>
   
   <!-- EN: implant genes -->
   <ReimplantXenogerm.label>遺伝子移植</ReimplantXenogerm.label>
-  <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process. -->
-  <ReimplantXenogerm.description>それを求める被験者にこの人物の異種胚を,特別な注入器官を使用して移植します.遺伝子が再成長している場合,異種胚を移植する過程で持ち主が死亡します.</ReimplantXenogerm.description>
+  <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
+  <ReimplantXenogerm.description>それを求める被験者にこの人物の異種遺伝子を,特別な注入器官を使用して移植します.遺伝子が再成長している場合,異種胚を移植する過程で持ち主が死亡します.\n\n移植された異種胚は,ターゲットの異種遺伝子を上書きします.生殖細胞遺伝子は影響を受けません.</ReimplantXenogerm.description>
   
   <!-- EN: resurrect -->
   <Resurrect.label>リザレクト</Resurrect.label>

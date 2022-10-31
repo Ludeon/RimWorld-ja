@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: deathrest -->
-  <Deathrest.label>TODO</Deathrest.label>
+  <!-- EN: deathrest --><!--TODO--><!--要翻訳:quadrums-->
+  <Deathrest.label>死眠</Deathrest.label>
   <!-- EN: People with the deathrest gene must deathrest every few days or quadrums. Deathresting means entering a regenerative coma for several days, during which the rester appears dead.\n\nA variety of special buildings can connect to a deathresting person and give them bonuses upon waking.\n\nGoing too long without deathrest will cause deathrest exhaustion, which massively degrades a person's physical capacities. -->
-  <Deathrest.description>TODO</Deathrest.description>
+  <Deathrest.description>死眠遺伝子を持つ人は数日,もしくはクアドラムおきに死眠を行う必要があります.死眠とは,死眠者が数日間の再生性昏睡状態に入ることを意味し,その姿はまるで死んでいるかのように見えます.\n\nさまざまな特別な建築物を死眠中の人物に接続でき,目覚めたときにボーナスを与えることができます.\n\n死眠なしで長時間過ごすと,死眠の枯渇が発生し,身体能力を大幅に低下させます.</Deathrest.description>
   
   <!-- EN: kill satiety -->
-  <KillThirst.label>TODO</KillThirst.label>
+  <KillThirst.label>殺しの喜び</KillThirst.label>
   <!-- EN: Kill satiety fulfills a built-in desire to do violence at close range to human victims. If it isn't satiated, the person will become very unhappy. -->
-  <KillThirst.description>TODO</KillThirst.description>
+  <KillThirst.description>殺しの喜びは近距離で人間に暴力を振ることで満たされる生来の欲求です.十分に満たされない場合,非常に不愉快になります.</KillThirst.description>
   
   <!-- EN: learning -->
-  <Learning.label>TODO</Learning.label>
+  <Learning.label>学習</Learning.label>
   <!-- EN: Children need new lessons and experiences to grow up well, and will become unhappy without them.\n\nChildren will only do learning activities when their schedule is set to Recreation or Anything.\n\nActivities that fulfill a child's desire to learn include:\n{ACTIVITIES}\n\nA satisfied learning need helps children gain growth tiers faster, giving them more passions and choices during growth moments. -->
-  <Learning.description>TODO</Learning.description>
+  <Learning.description>子供は成長するために新しい授業と経験が必要であり,それがないと嫌な気持ちになります.\n\n子供は,時間割が娯楽,もしくはなんでもに設定されている時間にのみ学習活動を行います.\n\n子供の学びたいという欲求を満たす活動は,以下のものがあります:\n{ACTIVITIES}\n\n学習欲求が満たされるとより早く成長段階に入ることができ,成長の瞬間により多くの情熱と選択肢を得ることができます.</Learning.description>
   
   <!-- EN: energy -->
-  <MechEnergy.label>TODO</MechEnergy.label>
+  <MechEnergy.label>エネルギー</MechEnergy.label>
   <!-- EN: A reserve of bioelectric energy needed for a mechanoid to function. It can be recharged at a charging station. If it reaches zero, the mech will go into dormant self-charging mode and recharge very slowly. -->
-  <MechEnergy.description>TODO</MechEnergy.description>
+  <MechEnergy.description>メカノイドが機能するために必要な生体電気エネルギーの蓄えです.充電ステーションで充電できます.ゼロに達するとメカは休眠して自己充電モードに入り,非常に長い時間をかけて再充電します.</MechEnergy.description>
   
   <!-- EN: play -->
-  <Play.label>TODO</Play.label>
+  <Play.label>遊び</Play.label>
   <!-- EN: Babies need to be played with by adults. If they aren't played with, they will become unhappy. -->
-  <Play.description>TODO</Play.description>
+  <Play.description>幼児は大人と遊ぶ必要があります.一緒に遊ばないと嫌な気持ちになります.</Play.description>
   
 </LanguageData>

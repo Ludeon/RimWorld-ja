@@ -16,16 +16,16 @@
   <AlertWarqueenHasLowResourcesDesc>1体か,それ以上の{0}のリソースが不足しています.リソースが不足するとメカの生産指令が出せなくなります.</AlertWarqueenHasLowResourcesDesc>
 
   <!-- EN: {PAWN} needs deathrest -->
-  <AlertLowDeathrestPawn>TODO</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawn>{PAWN}は死眠が必要</AlertLowDeathrestPawn>
   <!-- EN: {NUMCULPRITS} colonists need deathrest -->
-  <AlertLowDeathrestPawns>TODO</AlertLowDeathrestPawns>
+  <AlertLowDeathrestPawns>{NUMCULPRITS}人に死眠が必要</AlertLowDeathrestPawns>
   <!-- EN: A colonist has not deathrested for a long time. If they go too long without deathrest, they will suffer from deathrest exhaustion.\n\nTo deathrest, select the colonist then right-click on their assigned bed or deathrest casket.\n\nThese people need deathrest:\n{CULPRITS} -->
-  <AlertLowDeathrestDesc>TODO</AlertLowDeathrestDesc>
+  <AlertLowDeathrestDesc>入植者は長い間死眠を取っていません.死眠なしで長時間を過ごすと死眠不足状態に陥ります.\n\n入植者を選択し,割り当てられたベッドか死眠専用施設を右クリックしてください.\n\n以下の入植者に死眠が必要:\n{CULPRITS}</AlertLowDeathrestDesc>
 
   <!-- EN: Low hemogen -->
   <AlertLowHemogen>ヘモゲン不足</AlertLowHemogen>
   <!-- EN: A colonist has low hemogen. At zero hemogen, they will develop a painful hemogen craving.\n\nFeed them hemogen packs to prevent this. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nThe following colonists have low hemogen -->
-  <AlertLowHemogenDesc>入植者のヘモゲンが不足しています.ヘモゲンが空になると,苦痛を伴うヘモゲン飢餓を引き起こします.\n\n飢餓防止のためにヘモゲンパックを与えてください.非ヘモゲン人種に対して手術を行うことでヘモゲンパックを入手できます.\n\n次の入植者がヘモゲン不足</AlertLowHemogenDesc>
+  <AlertLowHemogenDesc>入植者のヘモゲンが不足しています.ヘモゲンが空になると,苦痛を伴うヘモゲン飢餓を引き起こします.\n\n飢餓防止のためにヘモゲンパックを与えてください.非ヘモゲン遺伝子保有者に対して手術を行うことでヘモゲンパックを入手できます.\n\n次の入植者がヘモゲン不足</AlertLowHemogenDesc>
 
   <!-- EN: Recharger full -->
   <AlertRechargerFull>充電器が満杯</AlertRechargerFull>
@@ -35,75 +35,85 @@
   <!-- EN: Need mech rechargers -->
   <AlertNeedMechChargers>メカ充電器が必要</AlertNeedMechChargers>
   <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
-  <AlertNeedMechChargersDesc>TODO</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargersDesc>すべてのメカノイドに行き渡る充電器がありません.エネルギーを使い果たしたメカは自己充電のための休眠状態に入りますが,この方法はとても充電速度が遅いです.\n\n以下の充電器を建造してください:\n\n{0}\n\nNote:通常のメカ充電器は小型メカノイドだけが使えます.中型以上のメカノイドには大型メカ充電器が必要です.</AlertNeedMechChargersDesc>
   <!-- EN: Research basic mechtech or higher to build rechargers. -->
-  <AlertNeedMechChargerBasicMechtech>TODO</AlertNeedMechChargerBasicMechtech>
+  <AlertNeedMechChargerBasicMechtech>充電器を建築するためには,機械技術基礎以上の研究を行ってください.</AlertNeedMechChargerBasicMechtech>
 
   <!-- EN: Reimplantation available -->
-  <AlertReimplantationAvailable>TODO</AlertReimplantationAvailable>
+  <AlertReimplantationAvailable>再移植可能</AlertReimplantationAvailable>
   <!-- EN: {0_nameDef} is waiting to reimplant {0_possessive} xenogerm into one of your colonists. -->
-  <AlertReimplantationAvailableDesc>TODO</AlertReimplantationAvailableDesc>
+  <AlertReimplantationAvailableDesc>{0_nameDef}は自分の異種胚を入植者の1人に再移植するのを待っています.</AlertReimplantationAvailableDesc>
 
   <!-- EN: Low baby food -->
-  <AlertLowBabyFood>TODO</AlertLowBabyFood>
+  <AlertLowBabyFood>ベビーフード不足</AlertLowBabyFood>
   <!-- EN: You are dangerously low on baby food.\n\n    Babies needing food: {0}\n    Days worth of baby food in storage: {1}\n\nBuy, find or make some baby-edible food. This includes {2}. -->
-  <AlertLowBabyFoodDesc>TODO</AlertLowBabyFoodDesc>
+  <AlertLowBabyFoodDesc>ベビーフードが危険なほど不足しています.\n\n赤ん坊には以下の食事が必要: {0}\nベビーフードの在庫を消費する日数: {1}\n\n購入,発見,あるいは調理によって在庫を増やしましょう.これには{2}が含まれます.</AlertLowBabyFoodDesc>
   <!-- EN: No baby feeders -->
-  <AlertNoBabyFeeder>TODO</AlertNoBabyFeeder>
+  <AlertNoBabyFeeder>赤ん坊の給仕係が不在</AlertNoBabyFeeder>
   <!-- EN: No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed. -->
-  <AlertNoBabyFeederDesc>TODO</AlertNoBabyFeederDesc>
+  <AlertNoBabyFeederDesc>赤ん坊に給仕する{FACTION_pawnsPlural}が未就任か,あるいは全員が歩行不能になっています.\n\n赤ん坊の食事タブで優先度を緊急にし,行動可能な人員を確認したら,{FACTION_pawnsPlural}の誰かに育児を割り当てるか,授乳中の{FACTION_pawnSingular}を選択して,赤ん坊に食事を与えてください.<div class=""></div></AlertNoBabyFeederDesc>
 
   <!-- EN: No baby food in caravan -->
-  <AlertNoBabyFoodCaravan>TODO</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravan>キャラバンにベビーフードがありません</AlertNoBabyFoodCaravan>
   <!-- EN: Babies on this caravan have no baby food and no lactating {FACTION_pawnsPlural} are set to feed them. -->
-  <AlertNoBabyFoodCaravanDesc>TODO</AlertNoBabyFoodCaravanDesc>
+  <AlertNoBabyFoodCaravanDesc>このキャラバンにはベビーフードがなく,授乳中の{FACTION_pawnsPlural}も加わっていません.</AlertNoBabyFoodCaravanDesc>
 
   <!-- EN: Toxic buildup -->
-  <AlertToxicBuildup>TODO</AlertToxicBuildup>
+  <AlertToxicBuildup>毒の蓄積</AlertToxicBuildup>
   <!-- EN: These colonists have serious toxic buildup:\n\n{0}\n\nMove them away from toxic sources.\n\nToxic buildup can be caused by many things including toxic fallout, tox gas, and polluted terrain. -->
-  <AlertToxicBuildupDesc>TODO</AlertToxicBuildupDesc>
+  <AlertToxicBuildupDesc>以下の入植者の体に毒素が蓄積しています.:\n\n{0}\n\n彼らを有毒物質から遠ざけましょう.\n\n放射性降下物,毒ガス,汚染された地形といった様々な要素が,毒の蓄積の原因となります.</AlertToxicBuildupDesc>
 
   <!-- EN: Need baby cribs -->
-  <AlertNeedBabyCribs>TODO</AlertNeedBabyCribs>
+  <AlertNeedBabyCribs>ベビーベッドが必要</AlertNeedBabyCribs>
   <!-- EN: You have more babies than cribs.\n\nMake more cribs or, if you have no resources to spare, place some baby sleeping spots for free. -->
-  <AlertNeedBabyCribsDesc>TODO</AlertNeedBabyCribsDesc>
+  <AlertNeedBabyCribsDesc>赤ん坊の人数がベビーベッドの台数より多いです.\n\nベビーベッドを増やすか,赤ん坊の寝床を用意してください.</AlertNeedBabyCribsDesc>
   <!-- EN: Need slave cribs -->
-  <AlertNeedSlaveCribs>TODO</AlertNeedSlaveCribs>
+  <AlertNeedSlaveCribs>奴隷のベビーベッドが必要</AlertNeedSlaveCribs>
   <!-- EN: You have more slave babies than you have cribs marked for slave use.\n\nEither make more cribs or change a colonist crib to a slave crib.\n\nIf you have no resources, baby sleeping spots are free and can be placed instantly. -->
-  <AlertNeedSlaveCribsDesc>TODO</AlertNeedSlaveCribsDesc>
+  <AlertNeedSlaveCribsDesc>奴隷の赤ん坊の人数がベビーベッドの台数より多いです.\n\nベビーベッドを増やすか,入植者のベビーベッドを奴隷用に指定してください.\n\n資材が不足しているなら,赤ん坊の寝床を無費用かつ即座に配置できます.</AlertNeedSlaveCribsDesc>
 
   <!-- EN: Polluted terrain -->
-  <AlertPollutedTerrain>TODO</AlertPollutedTerrain>
+  <AlertPollutedTerrain>汚染地域</AlertPollutedTerrain>
   <!-- EN: A person or animal is suffering toxic buildup and is on polluted terrain. Any time someone is on polluted terrain, their toxic buildup will increase over time until they die.\n\nThese people or animals are affected:\n\n{0}\n\nKeep people off polluted terrain, or find a way to protect them from its effects. Certain apparel, implants and gene modifications can protect from toxic buildup. Polluted terrain cannot be covered using a floor, but it can be cleaned by hand and other methods. -->
-  <AlertPollutedTerrainDesc>TODO</AlertPollutedTerrainDesc>
+  <AlertPollutedTerrainDesc>人または動物が,汚染地域に入っており,毒の蓄積に苦しんでいます.汚染地帯に足を踏み入れると,対象が死ぬまで時間とともに毒素が蓄積し続けます.\n\n以下の人か動物が影響下にあります:\n\n{0}\n\n汚染地域から遠ざけるか,その影響から保護する方法を検討してください.特定の衣服,インプラント,遺伝子によって毒素の影響を免れることができます.汚染地域の上にフロアを貼ることはできませんが,手作業や別の手段で除染することができます.</AlertPollutedTerrainDesc>
 
   <!-- EN: Mechanoid missing part -->
-  <AlertMechMissingBodyPart>TODO</AlertMechMissingBodyPart>
+  <AlertMechMissingBodyPart>パーツ不足のメカノイド</AlertMechMissingBodyPart>
   <!-- EN: Mechanoids missing parts -->
-  <AlertMechsMissingBodyPart>TODO</AlertMechsMissingBodyPart>
+  <AlertMechsMissingBodyPart>パーツ不足のメカノイド</AlertMechsMissingBodyPart>
   <!-- EN: One or more of your mechanoids are missing a body part. A mechanitor can repair lost parts.\n\nThe mechanoids with lost body parts are -->
-  <AlertMechMissingBodyPartDesc>TODO</AlertMechMissingBodyPartDesc>
+  <AlertMechMissingBodyPartDesc>1体ないし複数のメカノイドのパーツが不足しています.メカニターは失ったパーツを修復できます.\n\nパーツを失ったメカノイドは</AlertMechMissingBodyPartDesc>
 
   <!-- EN: Mechanoid repair needed -->
-  <AlertMechNeedsRepair>TODO</AlertMechNeedsRepair>
+  <AlertMechNeedsRepair>修理が必要なメカノイド</AlertMechNeedsRepair>
   <!-- EN: These mechanoids are damaged and need repair -->
-  <AlertMechNeedsRepairDescPrefix>TODO</AlertMechNeedsRepairDescPrefix>
+  <AlertMechNeedsRepairDescPrefix>以下のメカノイドが損傷しており修理が必要</AlertMechNeedsRepairDescPrefix>
   <!-- EN: Order a mechanitor to repair them, or select the mech and turn on auto-repair. Repairing a mechanoid requires energy. If a mechanoid's energy is so low it can't move, someone must carry it to a recharger. -->
-  <AlertMechNeedsRepairDesc>TODO</AlertMechNeedsRepairDesc>
+  <AlertMechNeedsRepairDesc>メカニターに修理を命令するか,メカを選択して自己修復をオンにします.修理にはエネルギーが必要です.メカノイドがエネルギー不足で動けない場合は,誰かが充電器に運ぶ必要があります.</AlertMechNeedsRepairDesc>
   
   <!-- EN: {0} stopped -->
-  <AlertToxifierGeneratorStopped>TODO</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStopped>{0}が停止</AlertToxifierGeneratorStopped>
   <!-- EN: Your {0} is not producing power because it has no nearby fertile terrain to convert.\n\nClean polluted terrain with pollution pumps, or by assigning a pollution removal area. -->
-  <AlertToxifierGeneratorStoppedDesc>TODO</AlertToxifierGeneratorStoppedDesc>
+  <AlertToxifierGeneratorStoppedDesc>変換に必要な肥沃な土壌が付近にないため,{0}は電力供給を停止しました.\n\n除染ポンプを設置するか,除染エリアを指定して作業させてください.</AlertToxifierGeneratorStoppedDesc>
 
   <!-- EN: Psychic bond distance -->
-  <AlertPsychicBondedPawnsSeparated>TODO</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparated>精神的絆の距離</AlertPsychicBondedPawnsSeparated>
   <!-- EN: Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected -->
-  <AlertPsychicBondedPawnsSeparatedDesc>TODO</AlertPsychicBondedPawnsSeparatedDesc>
+  <AlertPsychicBondedPawnsSeparatedDesc>精神的絆を結んだ人同士が別の場所におり,遠距離による悪影響を感じています.これを防ぐには両名を同じワールドタイル,キャラバン,乗り物に置かなければなりません.また冷凍睡眠やそれに類似した仮死状態でもいけません.\n\n以下の人物が影響下にある</AlertPsychicBondedPawnsSeparatedDesc>
 
   <!-- EN: Gene bank needs power -->
-  <AlertGenebankUnpowered>TODO</AlertGenebankUnpowered>
+  <AlertGenebankUnpowered>遺伝子バンクが電力不足</AlertGenebankUnpowered>
   <!-- EN: A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it. -->
-  <AlertGenebankUnpoweredDesc>TODO</AlertGenebankUnpoweredDesc>
+  <AlertGenebankUnpoweredDesc>遺伝子バンクに電力が供給されていないため,内部の遺伝子は徐々に劣化していきます.劣化防止のために電力を供給してください.\n\n電力が回復されると遺伝子の劣化も徐々に回復します.</AlertGenebankUnpoweredDesc>
+
+  <!-- EN: Deathrest complete -->
+  <AlertDeathrestComplete>死眠完了</AlertDeathrestComplete><!-- text_todo -->
+  <!-- EN: These deathresters have completed their deathrest and can be awoken safely without negative side effects: -->
+  <AlertDeathrestCompleteDesc>この人物は十分な死眠が取れており,ネガティブな副作用なく安全に覚醒できます.</AlertDeathrestCompleteDesc><!-- text_todo -->
+
+  <!-- EN: {0} incoming -->
+  <AlertBossgroupIncoming>{0}が接近中</AlertBossgroupIncoming><!-- text_todo -->
+  <!-- EN: Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days. -->
+  <AlertBossgroupIncomingDesc>メカニターの発したシグナルによって,敵対的な{0}が護衛部隊を引き連れて接近中です.簡単な戦いにはなりません.敵対的なメカノイドは数時間ないし数日後に来襲します.</AlertBossgroupIncomingDesc><!-- text_todo -->
 
 </LanguageData>
