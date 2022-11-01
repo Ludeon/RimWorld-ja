@@ -25,7 +25,7 @@
   <!-- EN: Please build wooden beds inside the room. -->
   <BuildBeds.rejectInputMessage>部屋の中に木製のベッドを作ってみましょう.</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>入植者達の部屋が作られました!\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.\n\n{Key：Designator_RotateLeft}キーと{Key：Designator_RotateRight}キーを使用して,建築物を回転させることができます.</BuildBeds.text>
+  <BuildBeds.text>入植者達の部屋が作られました!\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.\n\n{Key:Designator_RotateLeft}キーと{Key:Designator_RotateRight}キーを使用して,建築物を回転させることができます.</BuildBeds.text>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can rotate the building by pressing the rotate buttons on the left. -->
   <BuildBeds.textController>入植者達の部屋が作られました!\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.\n\n左スティックを押し込むことで,建築物を回転させることができます.</BuildBeds.textController>
   
@@ -96,7 +96,7 @@
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
   <ChopTrees.rejectInputMessage>いくつかの木をまとめてドラッグして,"伐採"を指示してみましょう.</ChopTrees.rejectInputMessage>
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
-  <ChopTrees.text>いくつか木を収穫してみましょう.いくつか木を伐採させます.\n\n「伐採」コマンドで,コロニーの回りにある,10本の木を伐採させます.\n\n(ヒント: ドラッグして木をまとめて選択することができます.)</ChopTrees.text>
+  <ChopTrees.text>いくつか木を収穫してみましょう.いくつか木を伐採させます.\n\n「伐採」コマンドで,コロニーの回りにある,10本の木を伐採させます.\n\n(ヒント:ドラッグして木をまとめて選択することができます.)</ChopTrees.text>
   
   <!-- EN: Click GENERATE to generate your world. -->
   <CreateWorldParams.rejectInputMessage>"創造する"をクリックして世界を創造します.</CreateWorldParams.rejectInputMessage>
