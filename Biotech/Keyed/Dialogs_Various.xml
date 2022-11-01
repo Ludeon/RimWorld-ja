@@ -23,6 +23,12 @@
   <!-- EN: insufficient bandwidth -->
   <InsufficientBandwidth>不十分な帯域幅</InsufficientBandwidth>
 
+  <!-- Apparel -->
+  <!-- EN: Any mechlord apparel -->
+  <ApparelRequirementAnyMechlordApparel>TODO</ApparelRequirementAnyMechlordApparel> <!-- text_todo -->
+  <!-- EN: or any psycaster, prestige, or mechlord apparel -->
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>TODO</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord> <!-- text_todo -->
+
   <!-- Mech gestator -->
   <!-- EN: Gestation cycles completed -->
   <GestationCyclesCompleted>培養サイクル完了</GestationCyclesCompleted>
@@ -234,6 +240,8 @@
   <MechWorkSkillDesc>このメカノイドのスキルレベルです.</MechWorkSkillDesc>
   <!-- EN: Any mech -->
   <AnyMech>いずれかのメカ</AnyMech>
+  <!-- EN: Any human -->
+  <AnyNonMech>いずれかの人間</AnyNonMech> <!-- text_todo -->
   <!-- EN: Your caravan contains a mechanoid but not their overseer. You will have limited control over the mechanoid when you reach your destination. -->
   <CaravanLacksMechMechanitorWarning>キャラバンにメカノイドが含まれていますが,その管理者がいません.目的地に到着してもメカノイドの制御は限定されます.</CaravanLacksMechMechanitorWarning>
   <!-- EN: Mechanoids -->

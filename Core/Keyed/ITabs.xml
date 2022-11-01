@@ -110,8 +110,8 @@
   <FactorForMovement>移動速度の掛け率</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>奴隷価格</SlavePrice>
-  <!-- EN: The base market value of this {0} if sold. -->
-  <SlavePriceDescription>{0}を売却する場合の基本市場価値です.</SlavePriceDescription>
+  <!-- EN: The base market value of this slave if sold. -->
+  <SlavePriceDescription>奴隷を売却する場合の基本市場価値です.</SlavePriceDescription>
   <!-- EN: Gets food -->
   <GetsFood>食べ物を 与えます</GetsFood>
   <!-- EN: Doctors care -->
@@ -167,7 +167,7 @@
   <PainLevel>痛みの強さ</PainLevel>
   <!-- EN: Injured -->
   <Injured>怪我</Injured>
-  <!-- EN: Untended injury -->
+  <!-- EN: untended injury -->
   <UntendedInjury>ほったらかしの怪我</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>目立った怪我無し</NoHealthConditions>
