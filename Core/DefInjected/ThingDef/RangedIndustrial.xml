@@ -5,7 +5,7 @@
   <Bullet_AssaultRifle.label>軍用ライフル装弾</Bullet_AssaultRifle.label>
   
   <!-- EN: autopistol bullet -->
-  <Bullet_Autopistol.label>自動式銃弾</Bullet_Autopistol.label>
+  <Bullet_Autopistol.label>拳銃弾</Bullet_Autopistol.label>
   
   <!-- EN: bolt-action rifle bullet -->
   <Bullet_BoltActionRifle.label>ライフル弾</Bullet_BoltActionRifle.label>
@@ -26,7 +26,7 @@
   <Bullet_MachinePistol.label>マシンピストル装弾</Bullet_MachinePistol.label>
   
   <!-- EN: minigun bullet -->
-  <Bullet_Minigun.label>ガトリング装弾</Bullet_Minigun.label>
+  <Bullet_Minigun.label>ミニガン弾</Bullet_Minigun.label>
   
   <!-- EN: revolver bullet -->
   <Bullet_Revolver.label>リボルバー弾</Bullet_Revolver.label>
@@ -43,7 +43,7 @@
   <!-- EN: assault rifle -->
   <Gun_AssaultRifle.label>軍用ライフル</Gun_AssaultRifle.label>
   <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
-  <Gun_AssaultRifle.description>野戦,市街戦用のガスオペレーションアサルトライフルです.射程が長く,そこそこの火力と,正確さが優れています.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.description>野戦,市街戦用のガスオペレーションアサルトライフルです.射程が長く,そこそこの火力と,正確さに優れています.</Gun_AssaultRifle.description>
   <!-- EN: stock -->
   <Gun_AssaultRifle.tools.stock.label>ストック</Gun_AssaultRifle.tools.stock.label>
   <!-- EN: barrel -->
@@ -140,13 +140,13 @@
   <Gun_MachinePistol.verbs.Verb_Shoot.label>マシンピストル</Gun_MachinePistol.verbs.Verb_Shoot.label>
   
   <!-- EN: minigun -->
-  <Gun_Minigun.label>ガトリング銃</Gun_Minigun.label>
+  <Gun_Minigun.label>ミニガン</Gun_Minigun.label>
   <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
-  <Gun_Minigun.description>速射能力が高い,マルチバレルのマシンガンです.</Gun_Minigun.description>
+  <Gun_Minigun.description>多銃身式の機関銃.扱いにくいですが,一度発砲を開始すると高速連射が可能です.多くの機関銃は自動装填機構に火薬の反動を利用しますが,ミニガンは電気モーターによってカートリッジを駆動させます.</Gun_Minigun.description>
   <!-- EN: barrels -->
-  <Gun_Minigun.tools.barrels.label>barrels</Gun_Minigun.tools.barrels.label>
+  <Gun_Minigun.tools.barrels.label>銃身</Gun_Minigun.tools.barrels.label>
   <!-- EN: minigun -->
-  <Gun_Minigun.verbs.Verb_Shoot.label>ガトリング銃</Gun_Minigun.verbs.Verb_Shoot.label>
+  <Gun_Minigun.verbs.Verb_Shoot.label>ミニガン</Gun_Minigun.verbs.Verb_Shoot.label>
   
   <!-- EN: pump shotgun -->
   <Gun_PumpShotgun.label>ポンプ式散弾銃</Gun_PumpShotgun.label>
