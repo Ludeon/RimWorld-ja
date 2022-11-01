@@ -51,7 +51,7 @@
   <!-- EN: No baby feeders -->
   <AlertNoBabyFeeder>赤ん坊の給仕係が不在</AlertNoBabyFeeder>
   <!-- EN: No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed. -->
-  <AlertNoBabyFeederDesc>赤ん坊に給仕する{FACTION_pawnsPlural}が未就任か,あるいは全員が歩行不能になっています.\n\n赤ん坊の食事タブで優先度を緊急にし,行動可能な人員を確認したら,{FACTION_pawnsPlural}の誰かに育児を割り当てるか,授乳中の{FACTION_pawnSingular}を選択して,赤ん坊に食事を与えてください.<div class=""></div></AlertNoBabyFeederDesc>
+  <AlertNoBabyFeederDesc>赤ん坊に給仕する{FACTION_pawnsPlural}が未就任か,あるいは全員が歩行不能になっています.\n\n赤ん坊の食事タブで優先度を緊急にし,行動可能な人員を確認したら,{FACTION_pawnsPlural}の誰かに育児を割り当てるか,授乳中の{FACTION_pawnSingular}を選択して,赤ん坊に食事を与えてください.</AlertNoBabyFeederDesc>
 
   <!-- EN: No baby food in caravan -->
   <AlertNoBabyFoodCaravan>キャラバンにベビーフードがありません</AlertNoBabyFoodCaravan>
@@ -106,14 +106,13 @@
   <!-- EN: A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it. -->
   <AlertGenebankUnpoweredDesc>遺伝子バンクに電力が供給されていないため,内部の遺伝子は徐々に劣化していきます.劣化防止のために電力を供給してください.\n\n電力が回復されると遺伝子の劣化も徐々に回復します.</AlertGenebankUnpoweredDesc>
 
-  <!-- EN: Deathrest complete -->
-  <AlertDeathrestComplete>死眠完了</AlertDeathrestComplete><!-- text_todo -->
-  <!-- EN: These deathresters have completed their deathrest and can be awoken safely without negative side effects: -->
-  <AlertDeathrestCompleteDesc>この人物は十分な死眠が取れており,ネガティブな副作用なく安全に覚醒できます.</AlertDeathrestCompleteDesc><!-- text_todo -->
-
   <!-- EN: {0} incoming -->
   <AlertBossgroupIncoming>{0}が接近中</AlertBossgroupIncoming><!-- text_todo -->
   <!-- EN: Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days. -->
   <AlertBossgroupIncomingDesc>メカニターの発したシグナルによって,敵対的な{0}が護衛部隊を引き連れて接近中です.簡単な戦いにはなりません.敵対的なメカノイドは数時間ないし数日後に来襲します.</AlertBossgroupIncomingDesc><!-- text_todo -->
+
+  <!-- UNUSED -->
+  <AlertDeathrestComplete>死眠完了</AlertDeathrestComplete>
+  <AlertDeathrestCompleteDesc>この人物は十分な死眠が取れており,ネガティブな副作用なく安全に覚醒できます.</AlertDeathrestCompleteDesc>
 
 </LanguageData>
