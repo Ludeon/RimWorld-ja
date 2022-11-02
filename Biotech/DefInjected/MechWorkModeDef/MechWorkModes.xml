@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: escort -->
-  <Escort.label>TODO</Escort.label>
+  <Escort.label>護衛</Escort.label>
   <!-- EN: Stay near the mechanitor and fight nearby enemies. Follow the mechanitor, even off the map. -->
-  <Escort.description>TODO</Escort.description>
+  <Escort.description>メカニターに追従して付近の敵と戦います.マップ外でもメカニターに従います.</Escort.description>
   
   <!-- EN: recharge -->
-  <Recharge.label>TODO</Recharge.label>
+  <Recharge.label>充電</Recharge.label>
   <!-- EN: Go to rechargers and recharge, even if already well-charged. -->
-  <Recharge.description>TODO</Recharge.description>
+  <Recharge.description>エネルギー残量が十分でも充電器に向かいます.</Recharge.description>
   
   <!-- EN: dormant self-charge -->
-  <SelfShutdown.label>TODO</SelfShutdown.label>
+  <SelfShutdown.label>休眠による自己充電</SelfShutdown.label>
   <!-- EN: Go into a dormant self-charging state that very slowly regains energy without a recharger. -->
-  <SelfShutdown.description>TODO</SelfShutdown.description>
+  <SelfShutdown.description>充電器を使用せず,ゆっくりとエネルギーを自己充電するために休眠状態に入ります.</SelfShutdown.description>
   
   <!-- EN: work -->
-  <Work.label>TODO</Work.label>
+  <Work.label>作業</Work.label>
   <!-- EN: Work autonomously according to mechanoid type. Automatically go to rechargers and recharge when needed. -->
-  <Work.description>TODO</Work.description>
+  <Work.description>種別ごとに可能な労働作業を自動で行います.必要に応じて自動で充電器に向かいます.</Work.description>
   
 </LanguageData>
