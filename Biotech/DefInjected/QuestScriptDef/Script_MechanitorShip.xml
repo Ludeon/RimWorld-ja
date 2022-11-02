@@ -9,11 +9,20 @@
     <li>mechlinkAvailableLetterLabel->[mechanitor_nameDef]'s mechlink available</li>
     <li>mechlinkAvailableLetterText->The crashed ship contained the corpse of an ancient mechanitor.\n\nExtract [mechanitor_possessive] mechlink by selecting a colonist and right-clicking the corpse.</li>
   -->
-  <MechanitorShip.questContentRules.rulesStrings>TODO</MechanitorShip.questContentRules.rulesStrings>
+  <MechanitorShip.questContentRules.rulesStrings>
+    <li>mechanitorShuttleCrashedLetterLabel->メカニター船</li>
+    <li>mechanitorShuttleCrashedLetterText->主人のいないメカノイドを乗せたメカニター船が近くに墜落しました.メカノイドは墜落した船から出て,戦う準備をします.</li>
+    <li>assaultBeginLetterLabel->メカノイドの攻撃</li>
+    <li>assaultBeginLetterText->主人のいないメカノイドがコロニーを攻撃しに来ています!</li>
+    <li>mechlinkAvailableLetterLabel->[mechanitor_nameDef]のメカリンクが使用可能</li>
+    <li>mechlinkAvailableLetterText->墜落した船には,古代のメカニターの死骸が入っていました.\n\n入植者を選択し,死体を右クリックすることで,メカリンクを抽出できます.</li>
+  </MechanitorShip.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->You have decrypted an ancient transponder, revealing the location of a mechanoid ship in orbit. The ship is badly damaged but you can signal it to land nearby.\n\nThe ship contains the remains of a long-dead mechanitor. Mechanitors can create and control mechanoids for work and combat. By extracting the deceased mechanitor's mechlink, you can turn one of your own colonists into a mechanitor.\n\nBeware - the ship also contains hostile mechanoids. The mechanoid group is composed of:\n\n[mechList]</li>
   -->
-  <MechanitorShip.questDescriptionRules.rulesStrings>TODO</MechanitorShip.questDescriptionRules.rulesStrings>
+  <MechanitorShip.questDescriptionRules.rulesStrings>
+    <li>questDescription->古代の応答装置を解読し,軌道上のメカノイド船の位置を明らかにしました.船は酷く損傷していますが,近くに着陸するように信号を送ることができます.メカニターは,仕事と戦闘のためにメカノイドを作成,制御できます.死亡したメカニターのメカリンクを抽出することで,入植者の1人をメカニターに変えることができます.\n\nしかし注意してください.船には敵対的なメカノイドも乗っています.メカノイドのグループは以下のように構成されています:\n\n[mechList]</li>
+  </MechanitorShip.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[shipAdjective] [shipNoun]</li>
     <li>shipAdjective->mechanitor</li>
@@ -27,6 +36,18 @@
     <li>shipNoun->wreckage</li>
     <li>shipNoun->transport</li>
   -->
-  <MechanitorShip.questNameRules.rulesStrings>TODO</MechanitorShip.questNameRules.rulesStrings>
+  <MechanitorShip.questNameRules.rulesStrings>
+    <li>questName->[shipAdjective][shipNoun]</li>
+    <li>shipAdjective->メカニターの</li>
+    <li>shipAdjective->管理者の</li>
+    <li>shipAdjective->古代の</li>
+    <li>shipAdjective->メカノイドの</li>
+    <li>shipNoun->船</li>
+    <li>shipNoun->シャトル</li>
+    <li>shipNoun->技術</li>
+    <li>shipNoun->漂流</li>
+    <li>shipNoun->漂着物</li>
+    <li>shipNoun->応答装置</li>
+  </MechanitorShip.questNameRules.rulesStrings>
   
 </LanguageData>
