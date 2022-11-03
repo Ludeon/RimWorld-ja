@@ -6,7 +6,11 @@
     <li>discoveryDesc(discovered==false)->learned</li>
     <li>discoveryDesc(discovered==true)->determined the location</li>
   -->
-  <OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+    <li>questDescription->遠い昔に死亡したメカニターの死骸が落ちている,古代の遺跡の場所を近く[discoveryDesc]しました.\n\nメカニターは仕事と戦闘のためにメカノイドを作成,制御,操作ができます.遺跡に侵入してメカニターの死体を回収できればメカリンクを抽出して,入植者の1人をメカニターに変えることができます.\n\nしかし,注意してください.このような建造物にはさまざまな脅威が含まれている可能性があり,遺跡での活動は,不要な注目を集める可能性があります.</li>
+    <li>discoveryDesc(discovered==false)->で発見</li>
+    <li>discoveryDesc(discovered==true)->に特定</li>
+  </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[complexAdj] mechanitor [complex]</li>
     <li>questName->mechanitor [complex]</li>
@@ -25,6 +29,23 @@
     <li>complex->mechplex</li>
     <li>complex->mechsite</li>
   -->
-  <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+    <li>questName(p=3)->メカニターの[complexAdj][complex]</li>
+    <li>questName->メカニターの[complex]</li>
+    <li>complexAdj->秘密の</li>
+    <li>complexAdj->古代の</li>
+    <li>complexAdj->古い</li>
+    <li>complexAdj->隠された</li>
+    <li>complexAdj->埃をかぶった</li>
+    <li>complexAdj->危険な</li>
+    <li>complexAdj->隠された</li>
+    <li>complex->遺跡</li>
+    <li>complex->隠れ家</li>
+    <li>complex->本拠地</li>
+    <li>complex->砦</li>
+    <li>complex->地下室</li>
+    <li>complex->機械遺跡</li>
+    <li>complex->機械跡地</li>
+  </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
   
 </LanguageData>

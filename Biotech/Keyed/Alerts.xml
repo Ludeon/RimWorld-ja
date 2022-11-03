@@ -4,7 +4,7 @@
   <!-- EN: Uncontrolled mechs -->
   <AlertMechLacksOverseer>未制御のメカ</AlertMechLacksOverseer>
   <!-- EN: One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed. -->
-  <AlertMechLacksOverseerDesc>1体か,それ以上のメカノイドが制御下にありません.制御に十分な帯域幅を有したメカニターとメカノイドを接続してください.\n\n未制御状態が1日以上続くとメカノイドは野生化する可能性があります.その場合,彼らは{0}に加わり,コロニーと敵対します.1体が野生化すると,付近にいる他のメカノイドも連鎖して離反します.</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerDesc>1体か,それ以上のメカノイドが制御下にありません.制御に十分な帯域幅を有したメカニターとメカノイドを接続してください.\n\n未制御状態が1日以上続くとメカノイドは野生化する可能性があります.その場合,彼らは{0}に加わり,コロニーと敵対します.1体が野生化すると,付近にいる他のメカノイドも連鎖して離反します.\n\n野生化したメカノイドは,破壊されると懐胎槽で復活させることができません.</AlertMechLacksOverseerDesc>
   <!-- EN: The following mechanoids are uncontrolled -->
   <AlertMechLacksOverseerUncontrolled>次のメカノイドが未制御です</AlertMechLacksOverseerUncontrolled>
   <!-- EN: The following mechanoids are uncontrolled and could go feral at any moment -->

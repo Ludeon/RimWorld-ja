@@ -3,121 +3,121 @@
 
   <!-- Mechanitor -->
   <!-- EN: Mech(s) gone feral -->
-  <LetterLabelMechsFeral>TODO</LetterLabelMechsFeral>
+  <LetterLabelMechsFeral>野生化したメカ</LetterLabelMechsFeral>
   <!-- EN: Some mech(s) which were wandering without an overseer have linked with ancient planet-wide mech control signals. They have joined {0} and become hostile, and appear to be trying to fight their way off the map.\n\nFeral mechanoids cannot be resurrected at a gestator when killed.\n\nThese mechs are involved:\n\n{1} -->
-  <LetterMechsFeral>TODO</LetterMechsFeral>
+  <LetterMechsFeral>管理者がおらず彷徨っていた何対かのメカが,惑星全体を覆う古代のメカ制御信号とリンクしています.彼らは{0}に参加し,敵対的になり,マップを立ち去って戦闘を行おうとしています.\n\n野生のメカノイドは破壊されても懐胎槽で修理することができません.\n\n以下のメカが関与しています:\n\n{1}</LetterMechsFeral>
   <!-- EN: Mechlink installed -->
-  <LetterLabelMechlinkInstalled>TODO</LetterLabelMechlinkInstalled>
+  <LetterLabelMechlinkInstalled>メカリンクをインストール</LetterLabelMechlinkInstalled>
   <!-- EN: {PAWN_labelShort} has installed a mechlink! {PAWN_pronoun} is now a mechanitor and can create and control mechanoids.\n\nResearch basic mechtech to get started.\n\n(*SectionTitle)Creating mechs:(/SectionTitle) Your mechanitor can create mechs at a production building called a mech gestator.\n\n(*SectionTitle)About bandwidth:(/SectionTitle) Mechanitors can control as many mechs as their total bandwidth allows. Select {PAWN_labelShort} and look at {PAWN_possessive} 'Bandwidth' readout to see how much bandwidth {PAWN_pronoun} is currently using and how much {PAWN_pronoun} has available. Bandwidth can be increased with certain apparel and by building band node buildings.\n\n(*SectionTitle)About control groups:(/SectionTitle) Mechanitors control mechs in groups. Each control group can be set to one of these modes:\n\n- Work\n- Escort\n- Recharge\n- Dormant self-charge\n\nTo learn more about what each mode does, select the work mode icon on one of {PAWN_labelShort}'s control groups and hover over the different work orders. The maximum number of control groups can be increased with apparel and implants.\n\n(*SectionTitle)About threat calling:(/SectionTitle) Mechanitors can signal ancient leader mechs to attack in order to obtain rare items from them. You must do this to improve your mechanitor past certain limits, but beware the danger. -->
-  <LetterMechlinkInstalled>TODO</LetterMechlinkInstalled>
+  <LetterMechlinkInstalled>{PAWN_labelShort}がメカリンクをインストールしました!{PAWN_pronoun}はメカニターになり,メカノイドの作成と制御ができるようになりました.\n\nこれを行うには,機械技術基本を研究してください.\n\n(*SectionTitle)メカの作成:(/SectionTitle)メカニターはメカ懐胎槽と呼ばれる製造装置でメカを作成できます.\n\n(*SectionTitle)帯域幅について:(/SectionTitle)メカニターは総帯域幅が許す限りのメカを制御できます.{PAWN_labelShort}を選択し,'帯域幅'を読み取り,現在使用している帯域幅と使用可能な帯域幅を確認してください.帯域幅は,特定の衣服やバンドノードを建築することで増やすことができます.\n\n(*SectionTitle)管理グループについて:(/SectionTitle)メカニターはグループ単位でメカを制御します.各管理グループは以下のモードに設定できます:\n\n-仕事\n-護衛\n-充電\n-休眠して自己充電\n\n各モードの詳細については,{PAWN_labelShort}の管理グループにある作業モードアイコンを選択し,さまざまな作業指示にカーソルを合わせてください.管理グループの最大数は衣服とインプラントで増やすことができます.\n\n(*SectionTitle)脅威の呼び出しについて:(/SectionTitle)メカニターはレアアイテムを入手するために,古代のメカリーダーを呼び出して攻撃することができます.メカニターを限界を超えて改善するにはこれを行う必要がありますが,その危険について注意してください.</LetterMechlinkInstalled>
 
   <!-- EN: This happened because of -->
-  <MentalStateReason_Gene>TODO</MentalStateReason_Gene>
+  <MentalStateReason_Gene>次の理由で発生</MentalStateReason_Gene>
 
   <!-- EN: {0} summoned -->
-  <LetterLabelBossgroupSummoned>TODO</LetterLabelBossgroupSummoned>
+  <LetterLabelBossgroupSummoned>{0}を呼び込んだ</LetterLabelBossgroupSummoned>
   <!-- EN: Attracted by your mech-band signals, an ultra-heavy mech from {0} will arrive soon. Be prepared. -->
-  <LetterBossgroupSummoned>TODO</LetterBossgroupSummoned>
+  <LetterBossgroupSummoned>メカ帯域信号に引き付けられて,{0}にいた超大型級メカがまもなく到着します.準備してください.</LetterBossgroupSummoned>
 
   <!-- EN: {0} arrived -->
-  <LetterLabelBossgroupArrived>TODO</LetterLabelBossgroupArrived>
+  <LetterLabelBossgroupArrived>{0}が到着</LetterLabelBossgroupArrived>
   <!-- EN: An ultra-heavy mech from {0} has come to eradicate you, along with escorts.\n\n{1}\n\nThe assault group is composed of the following {3}:\n\n{4}\n\nThey will prepare for a while before attacking. -->
-  <LetterBossgroupArrived>TODO</LetterBossgroupArrived>
+  <LetterBossgroupArrived>{0}にいた超大型メカが護衛と共にコロニーを根絶しに来ました.\n\n{1}\n\n攻撃グループは以下の{3}で構成されています:\n\n{4}\n\n彼らは攻撃する前にしばらく準備をします.</LetterBossgroupArrived>
 
   <!-- EN: Summon {LEADER_label} available -->
-  <LetterLabelCommsConsoleSpawned>TODO</LetterLabelCommsConsoleSpawned>
+  <LetterLabelCommsConsoleSpawned>{LEADER_label}との戦闘が可能</LetterLabelCommsConsoleSpawned>
   <!-- EN: A mechanitor can use the {PARENT_label} to summon a dangerous and hostile {LEADER_label} mechanoid. Be prepared, {LEADER_label} mechanoids are extremely powerful.\n\nIf you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
-  <LetterCommsConsoleSpawned>TODO</LetterCommsConsoleSpawned>
+  <LetterCommsConsoleSpawned>メカニターは{PARENT_label}を使用することで,危険で敵対的な{LEADER_label}メカノイドを呼び出せます.{LEADER_label}メカノイドは非常に強力です.\n\n{LEADER_label}を倒すと以下のアイテムをドロップします:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
 
   <!-- EN: Summon {LEADER_label} possible -->
-  <LetterLabelBossgroupCallerUnlocked>TODO</LetterLabelBossgroupCallerUnlocked>
+  <LetterLabelBossgroupCallerUnlocked>{LEADER_label}の呼び出しが可能</LetterLabelBossgroupCallerUnlocked>
   <!-- EN: You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
-  <LetterBossgroupCallerUnlocked>TODO</LetterBossgroupCallerUnlocked>
+  <LetterBossgroupCallerUnlocked>メカニターが{LEADER_label}を呼び出すために使用する,{PARENT_label}を作成できるようになりました.{LEADER_label}を倒すと以下のアイテムをドロップします:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
 
   <!-- EN: {0_nameDef}'s mechlink available -->
-  <LetterLabelMechanitorCasketOpened>TODO</LetterLabelMechanitorCasketOpened>
+  <LetterLabelMechanitorCasketOpened>{0_nameDef}のメカリンクが利用可能</LetterLabelMechanitorCasketOpened>
   <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {0_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
-  <LetterMechanitorCasketOpened>TODO</LetterMechanitorCasketOpened>
+  <LetterMechanitorCasketOpened>古代のメカニターの死骸を発見しました!\n\n入植者を選択して死骸を右クリックし,メカリンクを取り出してください.</LetterMechanitorCasketOpened>
   <!-- EN: Mechanitor casket found -->
-  <LetterLabelMechanitorCasketFound>TODO</LetterLabelMechanitorCasketFound>
+  <LetterLabelMechanitorCasketFound>メカニターのカプセルを発見</LetterLabelMechanitorCasketFound>
   <!-- EN: You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside. -->
-  <LetterMechanitorCasketFound>TODO</LetterMechanitorCasketFound>
+  <LetterMechanitorCasketFound>メカニターの冬眠カプセルを発見しました!\n\n開けて中身を見てみましょう.</LetterMechanitorCasketFound>
   
   <!-- Pawns lost because map closed (including mechs) -->
   <!-- EN: Your caravan has been lost. The following people, animals and mechs have been lost with it -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>TODO</LetterPawnsLostIncMechsBecauseMapClosed_Caravan><!-- text_todo -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>キャラバン隊は全滅し,次の人々,家畜,メカを失いました</LetterPawnsLostIncMechsBecauseMapClosed_Caravan><!-- text_todo -->
   <!-- EN: The following people, animals and mechs have been abandoned -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Home>TODO</LetterPawnsLostIncMechsBecauseMapClosed_Home><!-- text_todo -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>次の人々,家畜,メカは放棄されました</LetterPawnsLostIncMechsBecauseMapClosed_Home><!-- text_todo -->
   
 
   <!-- Children -->
   <!-- EN: {0_nameDef} became a child -->
-  <LetterLabelBecameChild>TODO</LetterLabelBecameChild>
+  <LetterLabelBecameChild>{0_nameDef}が子供になった</LetterLabelBecameChild>
   <!-- EN: {0_nameDef} became an adult -->
-  <LetterLabelBecameAdult>TODO</LetterLabelBecameAdult>
+  <LetterLabelBecameAdult>{0_nameDef}が大人になった</LetterLabelBecameAdult>
   <!-- EN: Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work: -->
-  <LetterBecameChild>TODO</LetterBecameChild>
+  <LetterBecameChild>赤ん坊だった{0_nameDef}は成長し,子供になりました!{0_pronoun}は次の作業を行うのに十分な年齢になりました:</LetterBecameChild>
   <!-- EN: Children can do various types of work. As they get older, they become able to do more work types.\n\nThey also do various child-specific recreational activities.\n\nChildren need to wear special child-sized apparel. -->
-  <LetterBecameChildChanges>TODO</LetterBecameChildChanges>
+  <LetterBecameChildChanges>子供はさまざまな種類の仕事を行うことができます.年をとるにつれて,より多くの種類の仕事を行えるようになります.\n\nまた,子供向けのさまざまな娯楽活動も行います.\n\n子供は特別な子供サイズの衣服を着る必要があります.</LetterBecameChildChanges>
   <!-- EN: By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}? -->
-  <LetterChildLegalStatus>TODO</LetterChildLegalStatus>
+  <LetterChildLegalStatus>{0_parentage}である{0_nameDef}は慣例に従い{0_legalStatus}ですが,例外を設けることもできます....{0_nameDef}を{0_legalStatus}のままにしますか?</LetterChildLegalStatus>
   <!-- EN: {0_labelShort} has decided to become a follower of the ideoligion {1_name}. -->
-  <LetterChildFollowIdeo>TODO</LetterChildFollowIdeo>
+  <LetterChildFollowIdeo>{0_labelShort}は思想'{1_name}'の信奉者になることを決めました.</LetterChildFollowIdeo>
   <!-- EN: {0_nameDef}'s slave status has already changed since {0_possessive} birthday. -->
-  <CannotChangeChildStatusReason>TODO</CannotChangeChildStatusReason>
+  <CannotChangeChildStatusReason>{0_nameDef}の奴隷の立場は,{0_possessive}誕生日以来,すでに変更されています.</CannotChangeChildStatusReason>
   <!-- EN: enslave -->
-  <Enslave>TODO</Enslave>
+  <Enslave>奴隷にする</Enslave>
   <!-- EN: emancipate -->
-  <Emancipate>TODO</Emancipate>
+  <Emancipate>解放する</Emancipate>
   <!-- EN: remain {0} -->
-  <RemainX>TODO</RemainX>
+  <RemainX>{0}のままにする</RemainX>
   <!-- EN: {BABY_nameDef} adopted -->
-  <LetterLabelAdopted>TODO</LetterLabelAdopted>
+  <LetterLabelAdopted>{BABY_nameDef}が養子に</LetterLabelAdopted>
   <!-- EN: {BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}. -->
-  <LetterTextAdopted>TODO</LetterTextAdopted>
+  <LetterTextAdopted>{BABY_nameDef}という名の赤ん坊がコロニーに養子として出されました.入植者に'育児'の仕事を割り当てて,{BABY_possessive}世話をすることをお勧めします.</LetterTextAdopted>
 
   <!-- EN: {0_nameDef}'s baby prep -->
-  <LetterLabelThirdTrimester>TODO</LetterLabelThirdTrimester>
+  <LetterLabelThirdTrimester>{0_nameDef}の出産準備</LetterLabelThirdTrimester>
   <!-- EN: {0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire. -->
-  <LetterTextThirdTrimester>TODO</LetterTextThirdTrimester>
+  <LetterTextThirdTrimester>{0_nameDef}は6日以内に出産予定です.赤ん坊の出産に備えることができます:\n\n-床が清潔で寝心地の良い分娩室を作ります.\n-熟練した医師を用意します.\n-優先順位タブで,少なくとも1人を育児に割り当てます.\n-赤ん坊のための食べ物を準備します.{0_nameDef}は赤ん坊に母乳をあげたり,離乳食,ミルク,インセクトゼリーをあげることができます.\n-ベビーベッドを作りましょう.高品質のベビーベッドは赤ん坊を幸せにします.\n\nカマドやコンロ,焚き火から離乳食を作ることができます.</LetterTextThirdTrimester>
 
   <!-- EN: {0} vat birth -->
-  <LetterVatBirth>TODO</LetterVatBirth>
+  <LetterVatBirth>{0}が培養槽で生まれた</LetterVatBirth>
   <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
-  <LetterVatHealthyBaby>TODO</LetterVatHealthyBaby>
+  <LetterVatHealthyBaby>{0_nameDef}と{1_nameDef}の胚は人造培養槽での培養を終え,健康な赤ん坊になりました!</LetterVatHealthyBaby>
   <!-- EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
-  <LetterVatHealthyBabyNoParents>TODO</LetterVatHealthyBabyNoParents>
+  <LetterVatHealthyBabyNoParents>胚が人造培養槽での培養を終え,健康な赤ん坊になりました!</LetterVatHealthyBabyNoParents>
   <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-  <LetterVatInfantIllness>TODO</LetterVatInfantIllness>
+  <LetterVatInfantIllness>{0_nameDef}と{1_nameDef}の胚は人造培養槽での培養を終え,赤ん坊になりました.残念ながら,赤ん坊は病気です.</LetterVatInfantIllness>
   <!-- EN: An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-  <LetterVatInfantIllnessNoParents>TODO</LetterVatInfantIllnessNoParents>
+  <LetterVatInfantIllnessNoParents>胚が人造培養槽での培養を終え,赤ん坊になりました.残念ながら,赤ん坊は病気です.</LetterVatInfantIllnessNoParents>
   <!-- EN: The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn. -->
-  <LetterVatStillborn>TODO</LetterVatStillborn>
+  <LetterVatStillborn>{0_nameDef}と{1_nameDef}の胚から人造培養槽で培養された赤ん坊は,死産になりました.</LetterVatStillborn>
   <!-- EN: The baby formed in a growth vat was stillborn. -->
-  <LetterVatSillbornNoParents>TODO</LetterVatSillbornNoParents>
+  <LetterVatSillbornNoParents>人造培養槽で培養された赤ん坊は,死産になりました.</LetterVatSillbornNoParents>
   <!-- EN: {0_labelShort} in labor! -->
-  <LetterColonistPregnancyLaborLabel>TODO</LetterColonistPregnancyLaborLabel>
+  <LetterColonistPregnancyLaborLabel>{0_labelShort}が分娩中です!</LetterColonistPregnancyLaborLabel>
   <!-- EN: {0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure. -->
-  <LetterColonistPregnancyLabor>TODO</LetterColonistPregnancyLabor>
+  <LetterColonistPregnancyLabor>{0_labelShort}がもうすぐ出産します!出産の数時間前から陣痛が始まります.分娩は,さまざまな難易度と危険性を持ついくつかの段階を経る場合があります.\n\n赤ん坊が生まれる可能性を高めるに,医師や他の人を集めて出産を手伝ってください.{0_labelShort}を選択し,'出産のために集まる'を押して手順を開始します.</LetterColonistPregnancyLabor>
   <!-- EN: {0_labelShort} has died due to complications after giving birth. -->
-  <LetterPartColonistDiedAfterChildbirth>TODO</LetterPartColonistDiedAfterChildbirth>
+  <LetterPartColonistDiedAfterChildbirth>{0_labelShort}さんは出産後の合併症で死亡しました.</LetterPartColonistDiedAfterChildbirth>
   <!-- EN: The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}. -->
-  <LetterPartSurrogacy>TODO</LetterPartSurrogacy>
+  <LetterPartSurrogacy>赤ん坊は体外受精で作られ,{0_labelShort}と{1_labelShort}の遺伝子を持っています.</LetterPartSurrogacy>
   <!-- EN: The baby shows signs of genetic abnormalities due to inbreeding. -->
-  <InbredBabyBorn>TODO</InbredBabyBorn>
+  <InbredBabyBorn>赤ん坊には近親交配による遺伝子異常の兆候が見られます.</InbredBabyBorn>
 
   <!-- EN: {0_nameDef} has already been named. -->
-  <BabyAlreadyNamed>TODO</BabyAlreadyNamed>
+  <BabyAlreadyNamed>{0_nameDef}にはすでに名前が付けられています.</BabyAlreadyNamed>
   <!-- EN: name baby -->
-  <NameBaby>TODO</NameBaby>
+  <NameBaby>赤ん坊の名前</NameBaby>
   <!-- EN: immediately -->
-  <Immediately>TODO</Immediately>
+  <Immediately>すぐに</Immediately>
   <!-- EN: within -->
-  <Within>TODO</Within>
+  <Within>範囲内</Within>
   <!-- EN: The baby has been given the temporary name {0_nameFull}. You can change it until {1} after birth. -->
-  <LetterPartNameBaby>TODO</LetterPartNameBaby>
+  <LetterPartNameBaby>赤ん坊は一時的に{0_nameFull}と名付けられます. 生後{1}まで変更可能です.</LetterPartNameBaby>
   <!-- EN: The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old. -->
-  <LetterPartNameBabyAdopt>TODO</LetterPartNameBabyAdopt> 
+  <LetterPartNameBabyAdopt>赤ん坊は一時的に{0_nameFull}と名付けられました. {1}歳未満であれば変更可能です.</LetterPartNameBabyAdopt> 
 
   <!-- EN: Growth moment for {PAWNNAME} -->
   <BirthdayGrowthMoment>TODO</BirthdayGrowthMoment>

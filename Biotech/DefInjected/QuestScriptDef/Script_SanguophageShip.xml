@@ -9,12 +9,22 @@
     <li>assaultBeginLetterLabel->Assault begun</li>
     <li>assaultBeginLetterText->The hostile sanguophage master and [sanguophage_possessive] thralls have initiated an assault on the colony!</li>
   -->
-  <SanguophageShip.questContentRules.rulesStrings>TODO</SanguophageShip.questContentRules.rulesStrings>
+  <SanguophageShip.questContentRules.rulesStrings>
+    <li>sanguophageShuttleCrashedLetterLabel->故障したシャトル</li>
+    <li>sanguophageShuttleCrashedLetterText->サングオファージのマスターと[thrallCount]人のしもべを乗せたシャトルが近くに墜落しました.サングオファージたちは墜落した機体から出て,戦う準備をします.</li>
+    <li>reinforcementsArrivedLetterLabel->しもべの援軍</li>
+    <li>reinforcementsArrivedLetterText->墜落したサングオファージを助けるために,しもべがドロップポッドで到着しました.</li>
+    <li>assaultBeginLetterLabel->攻撃開始</li>
+    <li>assaultBeginLetterText->敵対的なサングオファージのマスターとそのしもべがコロニーへの攻撃を開始しました!</li>
+  </SanguophageShip.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->You have intercepted a distress signal! A hostile shuttle carrying a sanguophage master and [thrallCount] thralls is having trouble with its engines. You can use signals to draw it down to a crash near [map_definite].\n\nOnce the ship has crashed, you can fight the sanguophage and [sanguophage_possessive] minions. If you can capture the master, you can force [sanguophage_objective] to turn one of your colonists into a sanguophage.\n\n[sanguophageInfo]</li>
     <li>sanguophageInfo->(*Gray)About sanguophages: Sanguophages are ageless, deathless super-humans powered by archotech-created archites in the bloodstream. They are beautiful and extremely intelligent. They can heal any injury, and never suffer from disease or poison. In combat, they can launch deadly spines and heal injured friends. The price is that sanguophages must consume hemogen derived from human blood to survive, and they must periodically deathrest for long periods. They're easily destroyed by fire, and slowed down by UV light.(/Gray)</li>
   -->
-  <SanguophageShip.questDescriptionRules.rulesStrings>TODO</SanguophageShip.questDescriptionRules.rulesStrings>
+  <SanguophageShip.questDescriptionRules.rulesStrings>
+    <li>questDescription->救難信号を傍受しました!サングオファージのマスターと[thrallCount]人のしもべを運ぶ敵対的なシャトルが,エンジンの故障に見舞われたようです.信号を使用して,墜落地点を[map_defined]の近くまで引き寄せることができます.\n\n船が墜落したら,サングオファージとその手先と戦えます.マスターを捕まえることができれば,入植者の1人をサングオファージに変えることができます.\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo->(*Gray)サングオファージについて:\nサングオファージはアルコテックで作られたアルカイトが血中に流れており,アルカイトによって動力を与えられる,不老不死の超人です.サングオファージは美しく,そして非常に知的です.どんな怪我も治すことができ,病気や毒に苦しむことはありません.戦闘では致命的な棘を発射し,負傷した仲間を癒すことができます.その代償としてサングオファージは,生きるために人間の血液に由来するヘモゲンを消費しなければならず,定期的に長期間にわたって休息しなければなりません.また炎に非常に弱く,紫外線で動きが遅くなります.(/Gray)</li>
+  </SanguophageShip.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[shipAdjective] [shipNoun]</li>
     <li>shipAdjective->sanguophage</li>
@@ -34,6 +44,24 @@
     <li>shipNoun->crash</li>
     <li>shipNoun->wreck</li>
   -->
-  <SanguophageShip.questNameRules.rulesStrings>TODO</SanguophageShip.questNameRules.rulesStrings>
+  <SanguophageShip.questNameRules.rulesStrings>
+    <li>questName->[shipAdjective][shipNoun]</li>
+    <li>shipAdjective->サングオファージの</li>
+    <li>shipAdjective->血に飢えた</li>
+    <li>shipAdjective->血の</li>
+    <li>shipAdjective->影の</li>
+    <li>shipAdjective->闇の</li>
+    <li>shipAdjective->真紅の</li>
+    <li>shipAdjective->赤き</li>
+    <li>shipAdjective->凝血の</li>
+    <li>shipAdjective->ヘモゲンの</li>
+    <li>shipAdjective->血紅の</li>
+    <li>shipNoun->船</li>
+    <li>shipNoun->シャトル</li>
+    <li>shipNoun->技術</li>
+    <li>shipNoun->故障船</li>
+    <li>shipNoun->故障</li>
+    <li>shipNoun->漂流</li>
+  </SanguophageShip.questNameRules.rulesStrings>
   
 </LanguageData>
