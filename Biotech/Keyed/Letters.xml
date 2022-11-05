@@ -5,11 +5,11 @@
   <!-- EN: Mech(s) gone feral -->
   <LetterLabelMechsFeral>野生化したメカ</LetterLabelMechsFeral>
   <!-- EN: Some mech(s) which were wandering without an overseer have linked with ancient planet-wide mech control signals. They have joined {0} and become hostile, and appear to be trying to fight their way off the map.\n\nFeral mechanoids cannot be resurrected at a gestator when killed.\n\nThese mechs are involved:\n\n{1} -->
-  <LetterMechsFeral>管理者がおらず彷徨っていた何対かのメカが,惑星全体を覆う古代のメカ制御信号とリンクしています.彼らは{0}に参加し,敵対的になり,マップを立ち去って戦闘を行おうとしています.\n\n野生のメカノイドは破壊されても懐胎槽で修理することができません.\n\n以下のメカが関与しています:\n\n{1}</LetterMechsFeral>
+  <LetterMechsFeral>管理者がおらず彷徨っていた何対かのメカが,惑星全体を覆う古代のメカ制御信号とリンクしています.彼らは{0}に参加し,敵対的になり,マップを立ち去って戦闘を行おうとしています.\n\n野生のメカノイドは破壊されても培養槽で修理することができません.\n\n以下のメカが関与しています:\n\n{1}</LetterMechsFeral>
   <!-- EN: Mechlink installed -->
   <LetterLabelMechlinkInstalled>メカリンクをインストール</LetterLabelMechlinkInstalled>
   <!-- EN: {PAWN_labelShort} has installed a mechlink! {PAWN_pronoun} is now a mechanitor and can create and control mechanoids.\n\nResearch basic mechtech to get started.\n\n(*SectionTitle)Creating mechs:(/SectionTitle) Your mechanitor can create mechs at a production building called a mech gestator.\n\n(*SectionTitle)About bandwidth:(/SectionTitle) Mechanitors can control as many mechs as their total bandwidth allows. Select {PAWN_labelShort} and look at {PAWN_possessive} 'Bandwidth' readout to see how much bandwidth {PAWN_pronoun} is currently using and how much {PAWN_pronoun} has available. Bandwidth can be increased with certain apparel and by building band node buildings.\n\n(*SectionTitle)About control groups:(/SectionTitle) Mechanitors control mechs in groups. Each control group can be set to one of these modes:\n\n- Work\n- Escort\n- Recharge\n- Dormant self-charge\n\nTo learn more about what each mode does, select the work mode icon on one of {PAWN_labelShort}'s control groups and hover over the different work orders. The maximum number of control groups can be increased with apparel and implants.\n\n(*SectionTitle)About threat calling:(/SectionTitle) Mechanitors can signal ancient leader mechs to attack in order to obtain rare items from them. You must do this to improve your mechanitor past certain limits, but beware the danger. -->
-  <LetterMechlinkInstalled>{PAWN_labelShort}がメカリンクをインストールしました!{PAWN_pronoun}はメカニターになり,メカノイドの作成と制御ができるようになりました.\n\nこれを行うには,機械技術基本を研究してください.\n\n(*SectionTitle)メカの作成:(/SectionTitle)メカニターはメカ懐胎槽と呼ばれる製造装置でメカを作成できます.\n\n(*SectionTitle)帯域幅について:(/SectionTitle)メカニターは総帯域幅が許す限りのメカを制御できます.{PAWN_labelShort}を選択し,'帯域幅'を読み取り,現在使用している帯域幅と使用可能な帯域幅を確認してください.帯域幅は,特定の衣服やバンドノードを建築することで増やすことができます.\n\n(*SectionTitle)管理グループについて:(/SectionTitle)メカニターはグループ単位でメカを制御します.各管理グループは以下のモードに設定できます:\n\n-仕事\n-護衛\n-充電\n-休眠して自己充電\n\n各モードの詳細については,{PAWN_labelShort}の管理グループにある作業モードアイコンを選択し,さまざまな作業指示にカーソルを合わせてください.管理グループの最大数は衣服とインプラントで増やすことができます.\n\n(*SectionTitle)脅威の呼び出しについて:(/SectionTitle)メカニターはレアアイテムを入手するために,古代のメカリーダーを呼び出して攻撃することができます.メカニターを限界を超えて改善するにはこれを行う必要がありますが,その危険について注意してください.</LetterMechlinkInstalled>
+  <LetterMechlinkInstalled>{PAWN_labelShort}がメカリンクをインストールしました!{PAWN_pronoun}はメカニターになり,メカノイドの作成と制御ができるようになりました.\n\nこれを行うには,機械技術基本を研究してください.\n\n(*SectionTitle)メカの作成:(/SectionTitle)メカニターはメカ培養槽と呼ばれる製造装置でメカを作成できます.\n\n(*SectionTitle)帯域幅について:(/SectionTitle)メカニターは総帯域幅が許す限りのメカを制御できます.{PAWN_labelShort}を選択し,'帯域幅'を読み取り,現在使用している帯域幅と使用可能な帯域幅を確認してください.帯域幅は,特定の衣服やバンドノードを建築することで増やすことができます.\n\n(*SectionTitle)管理グループについて:(/SectionTitle)メカニターはグループ単位でメカを制御します.各管理グループは以下のモードに設定できます:\n\n-仕事\n-護衛\n-充電\n-休眠して自己充電\n\n各モードの詳細については,{PAWN_labelShort}の管理グループにある作業モードアイコンを選択し,さまざまな作業指示にカーソルを合わせてください.管理グループの最大数は衣服とインプラントで増やすことができます.\n\n(*SectionTitle)脅威の呼び出しについて:(/SectionTitle)メカニターはレアアイテムを入手するために,古代のメカリーダーを呼び出して攻撃することができます.メカニターを限界を超えて改善するにはこれを行う必要がありますが,その危険について注意してください.</LetterMechlinkInstalled>
 
   <!-- EN: This happened because of -->
   <MentalStateReason_Gene>次の理由で発生</MentalStateReason_Gene>
@@ -82,19 +82,19 @@
   <LetterTextThirdTrimester>{0_nameDef}は6日以内に出産予定です.赤ん坊の出産に備えることができます:\n\n-床が清潔で寝心地の良い分娩室を作ります.\n-熟練した医師を用意します.\n-優先順位タブで,少なくとも1人を育児に割り当てます.\n-赤ん坊のための食べ物を準備します.{0_nameDef}は赤ん坊に母乳をあげたり,離乳食,ミルク,インセクトゼリーをあげることができます.\n-ベビーベッドを作りましょう.高品質のベビーベッドは赤ん坊を幸せにします.\n\nカマドやコンロ,焚き火から離乳食を作ることができます.</LetterTextThirdTrimester>
 
   <!-- EN: {0} vat birth -->
-  <LetterVatBirth>{0}が培養槽で生まれた</LetterVatBirth>
+  <LetterVatBirth>{0}が生育槽で生まれた</LetterVatBirth>
   <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
-  <LetterVatHealthyBaby>{0_nameDef}と{1_nameDef}の胚は人造培養槽での培養を終え,健康な赤ん坊になりました!</LetterVatHealthyBaby>
+  <LetterVatHealthyBaby>{0_nameDef}と{1_nameDef}の胚は人工生育槽での成長を終え,健康な赤ん坊になりました!</LetterVatHealthyBaby>
   <!-- EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
-  <LetterVatHealthyBabyNoParents>胚が人造培養槽での培養を終え,健康な赤ん坊になりました!</LetterVatHealthyBabyNoParents>
+  <LetterVatHealthyBabyNoParents>胚が人工生育槽での成長を終え,健康な赤ん坊になりました!</LetterVatHealthyBabyNoParents>
   <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-  <LetterVatInfantIllness>{0_nameDef}と{1_nameDef}の胚は人造培養槽での培養を終え,赤ん坊になりました.残念ながら,赤ん坊は病気です.</LetterVatInfantIllness>
+  <LetterVatInfantIllness>{0_nameDef}と{1_nameDef}の胚は人工生育槽での成長を終え,赤ん坊になりました.残念ながら,赤ん坊は病気です.</LetterVatInfantIllness>
   <!-- EN: An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-  <LetterVatInfantIllnessNoParents>胚が人造培養槽での培養を終え,赤ん坊になりました.残念ながら,赤ん坊は病気です.</LetterVatInfantIllnessNoParents>
+  <LetterVatInfantIllnessNoParents>胚が人工生育槽での成長を終え,赤ん坊になりました.残念ながら,赤ん坊は病気です.</LetterVatInfantIllnessNoParents>
   <!-- EN: The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn. -->
-  <LetterVatStillborn>{0_nameDef}と{1_nameDef}の胚から人造培養槽で培養された赤ん坊は,死産になりました.</LetterVatStillborn>
+  <LetterVatStillborn>{0_nameDef}と{1_nameDef}の胚から人工生育槽で生育された赤ん坊は,死産になりました.</LetterVatStillborn>
   <!-- EN: The baby formed in a growth vat was stillborn. -->
-  <LetterVatSillbornNoParents>人造培養槽で培養された赤ん坊は,死産になりました.</LetterVatSillbornNoParents>
+  <LetterVatSillbornNoParents>人工生育槽で生育された赤ん坊は,死産になりました.</LetterVatSillbornNoParents>
   <!-- EN: {0_labelShort} in labor! -->
   <LetterColonistPregnancyLaborLabel>{0_labelShort}が分娩中です!</LetterColonistPregnancyLaborLabel>
   <!-- EN: {0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure. -->

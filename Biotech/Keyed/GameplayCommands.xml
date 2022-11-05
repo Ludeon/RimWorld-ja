@@ -9,9 +9,9 @@
   <CommandDisabledDeathresting>{0_labelShort}は死眠中です.</CommandDisabledDeathresting>
 
   <!-- EN: Cancel vatgrowth -->
-  <CommandCancelGrowth>培養をキャンセル</CommandCancelGrowth>
+  <CommandCancelGrowth>生育をキャンセル</CommandCancelGrowth>
   <!-- EN: Cancel vatgrowth for the current occupant. The occupant will be ejected. -->
-  <CommandCancelGrowthDesc>稼働中の培養槽を停止します.内部の対象は排出されます.</CommandCancelGrowthDesc>
+  <CommandCancelGrowthDesc>稼働中の人工生育槽を停止します.内部の対象は排出されます.</CommandCancelGrowthDesc>
 
   <!-- EN: Select overseer -->
   <CommandSelectOverseer>管理者を選択</CommandSelectOverseer>
