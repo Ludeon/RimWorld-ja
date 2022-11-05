@@ -4,7 +4,7 @@
   <!-- EN: bio-starvation -->
   <BioStarvation.label>生物学的栄養失調</BioStarvation.label>
   <!-- EN: This person was in a growth vat which wasn't functioning properly due to lack of power or nutrition feedstock. This has left their body in a state of bio-starvation. -->
-  <BioStarvation.description>この人物は,電力不足か栄養素不足二より十分に機能していない人造培養槽に入槽していました.これにより彼らの肉体には生物学的栄養失調の影響が残りました.</BioStarvation.description>
+  <BioStarvation.description>この人物は,電力不足か栄養素不足二より十分に機能していない人工生育槽に入槽していました.これにより彼らの肉体には生物学的栄養失調の影響が残りました.</BioStarvation.description>
   
   <!-- EN: deathresting -->
   <Deathrest.label>死眠中</Deathrest.label>
@@ -70,14 +70,14 @@
   <ScanningSickness.description>この人物はメカノイドサブコアを製造するためにソフトスキャナーでスキャンされました.高エネルギースキャンデバイスは脳内の生化学反応をめちゃくちゃにしてしまったため,自力回復にはしばらくかかります.長期的な損傷は一切残りません.</ScanningSickness.description>
   
   <!-- EN: vat growing -->
-  <VatGrowing.label>培養槽による成長</VatGrowing.label>
+  <VatGrowing.label>生育槽による成長</VatGrowing.label>
   <!-- EN: The growth vat is stimulating this person's body to increase the rate of cell division and aging. -->
-  <VatGrowing.description>人工培養槽はこの人物の肉体を刺激し、細胞分裂と老化を早めています.</VatGrowing.description>
+  <VatGrowing.description>人工生育槽はこの人物の肉体を刺激し、細胞分裂と老化を早めています.</VatGrowing.description>
   
   <!-- EN: vat learning -->
-  <VatLearning.label>培養槽による学習</VatLearning.label>
+  <VatLearning.label>生育槽による学習</VatLearning.label>
   <!-- EN: The growth vat is electrically stimulating this person's brain to induce skill development. This process is not very effective, and will only partially replace the skills missed from not growing in the outside world. -->
-  <VatLearning.description>人工培養槽はこの人物脳を電気的に刺激し,能力開発を行っています.このプロセスはあまり効率的ではなく,外界で成長しなかったことによる能力の発達的遅れを部分的に補完するだけです.</VatLearning.description>
+  <VatLearning.description>人工生育槽はこの人物脳を電気的に刺激し,能力開発を行っています.このプロセスはあまり効率的ではなく,外界で成長しなかったことによる能力の発達的遅れを部分的に補完するだけです.</VatLearning.description>
   
   <!-- EN: xenogermination coma -->
   <XenogerminationComa.label>異種胚による昏睡</XenogerminationComa.label>

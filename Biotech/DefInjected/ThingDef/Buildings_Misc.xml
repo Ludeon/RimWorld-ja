@@ -34,9 +34,9 @@
   <GeneProcessor.description>遺伝学的な分析および処理システムです.遺伝子アセンブラの近くに設置すると,作り出せる異種胚の遺伝子複雑性の最大値を増加できます.複数建造すればさらに引き上げられます.</GeneProcessor.description>
   
   <!-- EN: growth vat -->
-  <GrowthVat.label>人造培養槽</GrowthVat.label>
+  <GrowthVat.label>人工生育槽</GrowthVat.label>
   <!-- EN: A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors. -->
-  <GrowthVat.description>胚を培養し,子供の成長を促進する液体が入った槽です.\n\n成長あるいは培養中は,槽には育成の原料として定期的に栄養を供給しなければなりません.胚を培養するのには,子供の成長を加速させるのに比べて2倍の栄養が必要です.\n\n胚から赤ん坊が形成されるには9日間の培養が必要です.健康上の合併症のリスクがあります.\n\n子供の成長は18歳までしか加速できません.成長するにつれて,子供のスキルはゆっくりと向上します.人造培養槽で育てられた子供たちは通常よりもスキルが低く,情熱を感じることが少なくなります.\n\nデバイスは,化学物質の注射,電気刺激および単純なメカナイト処理を使用して体を成長させます.人造培養槽は,エンジニアの労働者や戦士を迅速に製造するためによく使用されます.</GrowthVat.description>
+  <GrowthVat.description>胚を生育し,子供の成長を促進する液体が入った槽です.\n\n成長中は,槽には育成の原料として定期的に栄養を供給しなければなりません.胚を生育するには,子供の成長を加速させるのに比べて2倍の栄養が必要です.\n\n胚から赤ん坊が形成されるには9日間の生育が必要です.健康上の合併症のリスクがあります.\n\n子供の成長は18歳までしか加速できません.成長するにつれて,子供のスキルはゆっくりと向上します.人工生育槽で育てられた子供たちは通常よりもスキルが低く,情熱を感じることが少なくなります.\n\nデバイスは,化学物質の注射,電気刺激および単純なメカナイト処理を使用して体を成長させます.人工生育槽は,エンジニアの労働者や戦士を迅速に製造するためによく使用されます.</GrowthVat.description>
   
   <!-- EN: mechband dish -->
   <MechbandDish.label>メカバンドパラボラ</MechbandDish.label>
