@@ -2,61 +2,61 @@
 <LanguageData>
 
   <!-- EN: The recipe {0} requires a mechanitor to work on it. None of your colonists are mechanitors, so nobody will do this bill. -->
-  <RecipeRequiresMechanitor>TODO</RecipeRequiresMechanitor>
+  <RecipeRequiresMechanitor>レシピ'{0}'を使用するにはメカニターが必要です.メカニターが一人もいないため,誰もこのレシピを実行できません.</RecipeRequiresMechanitor>
 
   <!-- EN: genepacks -->
-  <GenepackPlural>TODO</GenepackPlural>
+  <GenepackPlural>遺伝子パック</GenepackPlural>
   <!-- EN: Traits develop later during childhood -->
-  <TraitsDevelopLaterBaby>TODO</TraitsDevelopLaterBaby>
+  <TraitsDevelopLaterBaby>特徴は幼年期の後に発達する</TraitsDevelopLaterBaby>
   <!-- EN: Skills develop later during childhood -->
-  <SkillsDevelopLaterBaby>TODO</SkillsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>スキルは幼年期の後に発達する</SkillsDevelopLaterBaby>
   <!-- EN: Genes -->
-  <TabGenes>TODO</TabGenes>
+  <TabGenes>遺伝子</TabGenes>
 
   <!-- EN: View genes -->
-  <ViewGenes>TODO</ViewGenes>
+  <ViewGenes>遺伝子を見る</ViewGenes>
   <!-- EN: Click to view {PAWN_nameDef}'s genes. -->
-  <ViewGenesDesc>TODO</ViewGenesDesc>
+  <ViewGenesDesc>クリックして{PAWN_nameDef}の遺伝子を見る</ViewGenesDesc>
 
   <!-- Feeding tab (human babies) -->
   <!-- EN: Feeding -->
-  <TabFeeding>TODO</TabFeeding>
+  <TabFeeding>食事</TabFeeding>
   <!-- EN: Auto feed settings -->
-  <AutofeedSectionHeader>TODO</AutofeedSectionHeader>
+  <AutofeedSectionHeader>自動食事設定</AutofeedSectionHeader>
   <!-- EN: never -->
-  <AutofeedModeNever>TODO</AutofeedModeNever>
+  <AutofeedModeNever>決して</AutofeedModeNever>
   <!-- EN: childcare -->
-  <AutofeedModeChildcare>TODO</AutofeedModeChildcare>
+  <AutofeedModeChildcare>育児</AutofeedModeChildcare>
   <!-- EN: urgent -->
-  <AutofeedModeUrgent>TODO</AutofeedModeUrgent>
+  <AutofeedModeUrgent>緊急</AutofeedModeUrgent>
   <!-- EN: Nobody can feed this baby. -->
-  <AutofeedNone>TODO</AutofeedNone>
+  <AutofeedNone>誰もこの赤ん坊に食事を与えません.</AutofeedNone>
   <!-- EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
-  <AutofeedModeTooltipNever>TODO</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipNever>{FEEDER_nameDef}は{BABY_nameDef}に自動的に食事を与えません.</AutofeedModeTooltipNever>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} as childcare work. -->
-  <AutofeedModeTooltipChildcare>TODO</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef}は{BABY_nameDef}に育児として食事を与えます.</AutofeedModeTooltipChildcare>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare. -->
-  <AutofeedModeTooltipUrgent>TODO</AutofeedModeTooltipUrgent>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef}は,{FEEDER_pronoun}が育児に割り当てられていないか,育児ができない場合でも,昼夜を問わず{BABY_nameDef}に食事を与えます.</AutofeedModeTooltipUrgent>
   <!-- EN: Consumable foods -->
-  <BabyFoodConsumables>TODO</BabyFoodConsumables>
+  <BabyFoodConsumables>消費できる食料</BabyFoodConsumables>
 
   <!-- Social tab (human babies) -->
   <!-- EN: ideoligion exposure -->
-  <IdeoExposureSectionHeader>TODO</IdeoExposureSectionHeader>
+  <IdeoExposureSectionHeader>思想影響</IdeoExposureSectionHeader>
   <!-- EN: {BABY_labelShort} has not been exposed to any ideoligions yet. -->
-  <IdeoExposureNoExposure>TODO</IdeoExposureNoExposure>
+  <IdeoExposureNoExposure>{BABY_labelShort}はまだ思想の影響を受けていません.</IdeoExposureNoExposure>
   <!-- EN: {BABY_pronoun} can be exposed to ideoligions by interacting with followers of an ideoligion. These interactions include being breastfed, carried, played with, and more. At the age of {CHILDAGE} {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to. -->
-  <IdeoExposureNoExposureDetail>TODO</IdeoExposureNoExposureDetail>
+  <IdeoExposureNoExposureDetail>{BABY_pronoun}は思想の信仰者と交流することで思想に触れることができます.これには母乳で育てる,運ぶ,遊ぶなどの触れ合う行為が含まれます.{BABY_labelShort}は{CHILDAGE}歳になるときに,{BABY_pronoun}が影響を受けた思想の内の1つに加わります.</IdeoExposureNoExposureDetail>
   <!-- EN: {BABY_labelShort} is {PERCENT} likely to join the ideoligion {IDEO_name}. -->
-  <IdeoExposurePointsTooltipJoinLikelihood>TODO</IdeoExposurePointsTooltipJoinLikelihood>
+  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort}には,{IDEO_name}の思想に加わる可能性が{PERCENT}あります.</IdeoExposurePointsTooltipJoinLikelihood>
   <!-- EN: As {BABY_labelShort} interacts with followers of an ideoligion {BABY_pronoun} becomes more likely to join that ideoligion. {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to at the age of {CHILDAGE}. -->
-  <IdeoExposurePointsTooltipJoinDescription>TODO</IdeoExposurePointsTooltipJoinDescription>
+  <IdeoExposurePointsTooltipJoinDescription>{BABY_labelShort}が思想の信仰者と交流することで,{BABY_pronoun}のその思想に加わる可能性が高くなります.{BABY_labelShort}は{CHILDAGE}歳になるときに,自身の接した思想の内の1つに加わります.</IdeoExposurePointsTooltipJoinDescription>
   <!-- EN: Ideoligion exposure is measured by exposure points. Interactions like being breastfed, carried, or played with will cause {BABY_labelShort} to gain exposure points for the ideoligions followed by those {BABY_pronoun} interacts with. -->
-  <IdeoExposurePointsTooltipExposureDescription>TODO</IdeoExposurePointsTooltipExposureDescription>
+  <IdeoExposurePointsTooltipExposureDescription>思想影響は影響ポイントによって評価されます.母乳で育てる,運ぶ,遊ぶなどの触れ合う行為をすることで,{BABY_labelShort}は触れ合った相手の思想の影響ポイントを獲得します.</IdeoExposurePointsTooltipExposureDescription>
   <!-- EN: {IDEO_name} exposure points -->
-  <IdeoExposurePointsTooltipIdeoExposure>TODO</IdeoExposurePointsTooltipIdeoExposure>
+  <IdeoExposurePointsTooltipIdeoExposure>{IDEO_name}の影響ポイント</IdeoExposurePointsTooltipIdeoExposure>
   <!-- EN: Total exposure points -->
-  <IdeoExposurePointsTooltipTotalExposure>TODO</IdeoExposurePointsTooltipTotalExposure>
+  <IdeoExposurePointsTooltipTotalExposure>総合影響ポイント</IdeoExposurePointsTooltipTotalExposure>
 
   <!-- Social tab (romance) -->
   <!-- EN: Romance -->

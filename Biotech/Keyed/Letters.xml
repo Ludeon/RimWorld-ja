@@ -120,77 +120,77 @@
   <LetterPartNameBabyAdopt>赤ん坊は一時的に{0_nameFull}と名付けられました. {1}歳未満であれば変更可能です.</LetterPartNameBabyAdopt> 
 
   <!-- EN: Growth moment for {PAWNNAME} -->
-  <BirthdayGrowthMoment>TODO</BirthdayGrowthMoment>
+  <BirthdayGrowthMoment>{PAWNNAME}の成長の瞬間</BirthdayGrowthMoment>
   <!-- EN: {0_nameFull} has reached the biological age of {1} and has experienced a growth moment! -->
-  <BirthdayBiologicalGrowthMoment>TODO</BirthdayBiologicalGrowthMoment>
+  <BirthdayBiologicalGrowthMoment>{0_nameFull}の生物学的年齢が{1}歳に達し,成長の瞬間を迎えました!</BirthdayBiologicalGrowthMoment>
   <!-- EN: {0_nameDef} is now old enough to do the following work -->
-  <BirthdayBiologicalAgeWorkTypes>TODO</BirthdayBiologicalAgeWorkTypes>
+  <BirthdayBiologicalAgeWorkTypes>{0_nameDef}は次の作業を行える年齢になりました</BirthdayBiologicalAgeWorkTypes>
   <!-- EN: Choose 1 skill for {0_nameDef} to increase {0_possessive} passion for -->
-  <BirthdayPickPassion>TODO</BirthdayPickPassion>
+  <BirthdayPickPassion>{0_nameDef}のスキルを1つ選択し,情熱を高められます</BirthdayPickPassion>
   <!-- EN: Choose {1} skills for {0_nameDef} to increase {0_possessive} passion for -->
-  <BirthdayPickPassions>TODO</BirthdayPickPassions>
+  <BirthdayPickPassions>{0_nameDef}のスキルを{1}つ選択し,情熱を高められます</BirthdayPickPassions>
   <!-- EN: Choose a trait for {0_nameDef} to gain -->
-  <BirthdayPickTrait>TODO</BirthdayPickTrait>
+  <BirthdayPickTrait>{0_nameDef}に獲得させる特性を選択してください</BirthdayPickTrait>
   <!-- EN: When this growth moment happened, {0_nameDef} was at growth tier {1}. Children at higher growth tiers get more trait and passion options to choose from, and more passions overall. Satisfying the learning need helps the child gain growth tiers faster. Growth tiers are reset after each growth moment. -->
-  <BirthdayGrowthTier>TODO</BirthdayGrowthTier>
+  <BirthdayGrowthTier>成長の瞬間が起きたときの{0_nameDef}の成長段階は{1}でした.成長段階は高いほど,より多くの特性と情熱の選択でき,全体的により多くの情熱を得ることができます.子供の成長段階をより早く獲得するためには,学習欲求を満たしましょう.成長段階は成長の瞬間を迎えるごとにリセットされます.</BirthdayGrowthTier>
   <!-- EN: Open this letter to choose how {0_nameDef} will grow. -->
-  <BirthdayChooseHowPawnWillGrow>TODO</BirthdayChooseHowPawnWillGrow>
+  <BirthdayChooseHowPawnWillGrow>このレターを開き,{0_nameDef}がどのように成長するかを選択してください.</BirthdayChooseHowPawnWillGrow>
 
   <!-- EN: Passion was increased for {0}. -->
-  <BirthdayPassionArchive>TODO</BirthdayPassionArchive>
+  <BirthdayPassionArchive>{0}の情熱が増加しました.</BirthdayPassionArchive>
   <!-- EN: The trait {0} was gained. -->
-  <BirthdayTraitArchive>TODO</BirthdayTraitArchive>
+  <BirthdayTraitArchive>特性'{0}'を獲得しました.</BirthdayTraitArchive>
   
   <!-- EN: Make choices to close -->
-  <BirthdayMakeChoices>TODO</BirthdayMakeChoices>
+  <BirthdayMakeChoices>選択して終了</BirthdayMakeChoices>
   <!-- EN: {0} has gained the nickname {1}. -->
-  <BirthdayNickname>TODO</BirthdayNickname>
+  <BirthdayNickname>{0}に{1}というニックネームを付けました.</BirthdayNickname>
   <!-- EN: Select a trait. -->
-  <SelectATrait>TODO</SelectATrait>
+  <SelectATrait>特性を選択してください.</SelectATrait>
   <!-- EN: Select a passion. -->
-  <SelectPassionSingular>TODO</SelectPassionSingular>
+  <SelectPassionSingular>情熱を選択してください.</SelectPassionSingular>
   <!-- EN: Select {0} passions. -->
-  <SelectPassionsPlural>TODO</SelectPassionsPlural>
+  <SelectPassionsPlural>情熱を{0}つ選択してください.</SelectPassionsPlural>
   <!-- EN: Later -->
-  <Later>TODO</Later>
+  <Later>後で行う</Later>
   
   <!-- EN: Mechlink available -->
-  <LetterLabelMechlinkAvailable>TODO</LetterLabelMechlinkAvailable>
+  <LetterLabelMechlinkAvailable>メカリンクが利用可能</LetterLabelMechlinkAvailable>
   <!-- EN: An opportunity to acquire the unique mechlink implant has become available via the quest '{0}'.\n\nInstalling a mechlink will turn a colonist into a mechanitor. Mechanitors can create, control, and manipulate mechanoids for use in work and in combat. -->
-  <LetterMechlinkAvailable>TODO</LetterMechlinkAvailable>
+  <LetterMechlinkAvailable>クエスト'{0}'を経て,独自のメカリンクインプラントを入手できるようになりました.\n\nメカリンクをインストールすると,入植者がメカニターになります.メカニターは仕事や戦闘を行うメカノイドを作成,制御,および操作できます.</LetterMechlinkAvailable>
 
   <!-- Genes -->
   <!-- EN: Xenogerm implantation ordered -->
-  <LetterLabelXenogermOrderedImplanted>TODO</LetterLabelXenogermOrderedImplanted>
+  <LetterLabelXenogermOrderedImplanted>異種胚移植オーダー</LetterLabelXenogermOrderedImplanted>
   <!-- EN: You have ordered a xenogerm be implanted in {PAWN_nameDef}. This procedure requires a medical bed and {MEDICINENEEDED} medicine.{BEDINFO}{MEDICINEINFO}\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab. -->
-  <LetterXenogermOrderedImplanted>TODO</LetterXenogermOrderedImplanted>
+  <LetterXenogermOrderedImplanted>{PAWN_nameDef}への異種胚移植を命じました.これを行うには医療用ベッドと{MEDICINENEEDED}の薬が必要です.{BEDINFO}{MEDICINEINFO}\n\n{PAWN_nameDef}の健康タブから手術タブに移動すると,このオーダーをキャンセルできます.</LetterXenogermOrderedImplanted>
   <!-- EN: \n\nYou do not have any medical beds available for {PAWN_nameDef}. Consider marking a bed as medical. -->
-  <XenogermOrderedImplantedBedNeeded>TODO</XenogermOrderedImplantedBedNeeded>
+  <XenogermOrderedImplantedBedNeeded>\n\n{PAWN_nameDef}が利用できる医療用ベッドがありません.ベッドを医療用に設定してください.</XenogermOrderedImplantedBedNeeded>
   <!-- EN: \n\nYou do not have enough medicine to implant the xenogerm. Implanting cannot begin until you get {MEDICINENEEDED} medicine. -->
-  <XenogermOrderedImplantedMedicineNeeded>TODO</XenogermOrderedImplantedMedicineNeeded>
+  <XenogermOrderedImplantedMedicineNeeded>\n\n異種胚を移植するのに十分な薬がありません.{MEDICINENEEDED}の薬が利用可能になるまで,移植を開始することはできません.</XenogermOrderedImplantedMedicineNeeded>
   <!-- EN: Involuntary deathrest -->
-  <LetterLabelInvoluntaryDeathrest>TODO</LetterLabelInvoluntaryDeathrest>
+  <LetterLabelInvoluntaryDeathrest>強制死眠</LetterLabelInvoluntaryDeathrest>
   <!-- EN: {PAWN_nameDef} has fallen into deathrest. -->
-  <LetterTextInvoluntaryDeathrest>TODO</LetterTextInvoluntaryDeathrest>
+  <LetterTextInvoluntaryDeathrest>{PAWN_nameDef}は死眠に陥りました.</LetterTextInvoluntaryDeathrest>
   <!-- EN: Lethal damage taken. -->
-  <DeathrestLethalDamage>TODO</DeathrestLethalDamage>
+  <DeathrestLethalDamage>致命的なダメージを受けました.</DeathrestLethalDamage>
 
   <!-- EN: Xenogerm implantation -->
-  <LetterLabelSanguophageWaitingToReimplant>TODO</LetterLabelSanguophageWaitingToReimplant>
+  <LetterLabelSanguophageWaitingToReimplant>異種胚移植</LetterLabelSanguophageWaitingToReimplant>
   <!-- EN: As thanks for allowing {PAWN_objective} and {PAWN_possessive} fellow sanguophages meet here, {PAWN_nameDef} is willing to share a copy of {PAWN_possessive} xenogerm with one of your colonists. This will turn your colonist into a sanguophage.\n\nTo accept, select a colonist and right click on {PAWN_nameDef}.\n\nIf no colonists have claimed the reward in {DURATION}, the sanguophages will leave. -->
-  <LetterTextSanguophageWaitingToReimplant>TODO</LetterTextSanguophageWaitingToReimplant>
+  <LetterTextSanguophageWaitingToReimplant>{PAWN_nameDef}は,自分と仲間のサングオファージがここで会うことを許可してくれたことに感謝して,自身の異種胚のコピーを入植者の1人と共有することを喜んで提案しました.これによって入植者がサングオファージに変わります.\n\n受け入れる場合は入植者を選択し,{PAWN_nameDef}を右クリックしてください.\n\n入植者が{DURATION}以内に報酬を受け取らなかった場合,サングオファージはそのまま立ち去ります.</LetterTextSanguophageWaitingToReimplant>
 
   <!-- EN: Genes reimplanted -->
-  <LetterLabelGenesImplanted>TODO</LetterLabelGenesImplanted>
+  <LetterLabelGenesImplanted>遺伝子再移植</LetterLabelGenesImplanted>
   <!-- EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
-  <LetterTextGenesImplanted>TODO</LetterTextGenesImplanted>
+  <LetterTextGenesImplanted>{CASTER_nameDef}は自分の異種胚のコピーを{TARGET_nameDef}に移植し,すべての異種遺伝子を{TARGET_pronoun}に渡しました.\n\n{TARGET_nameDef}は体が変化に順応する{COMADURATION}の間,異種胚による昏睡状態になります.\n\n{CASTER_nameDef}は{SHOCKDURATION}の間,遺伝子喪失ショックを受けます.また,遺伝子の再生も必要です.このプロセスには時間がかかります.もし{CASTER_nameDef}の遺伝子が再成長する前に再び異種胚を移植すると,{CASTER_pronoun}は死亡します.</LetterTextGenesImplanted>
   
   <!-- EN: A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}. -->
-  <RefugeePodCrashBaby>TODO</RefugeePodCrashBaby>
+  <RefugeePodCrashBaby>{PAWN_factionName}の{PAWN_nameDef}という名の赤ん坊が,輸送ポッドで近くに墜落しました.\n\n'養子縁組'コマンドで{PAWN_objective}養子にするか,もしくは無視することを選べます.</RefugeePodCrashBaby>
   <!-- EN: The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well. -->
-  <RefugeePodCrashBabyHasParent>TODO</RefugeePodCrashBabyHasParent>
+  <RefugeePodCrashBabyHasParent>{PAWN_nameDef}の亡くなった親の遺体も,輸送ポッド内に収容されています.</RefugeePodCrashBabyHasParent>
 
   <!-- EN: Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
-  <LetterPsychicBondCreated>TODO</LetterPsychicBondCreated>
+  <LetterPsychicBondCreated>本能的に配偶者を探している{BONDPAWN_nameDef}は,{OTHERPAWN_nameDef}と精神的に結びついた恋愛関係を築きました.{OTHERPAWN_nameDef}は {BONDPAWN_nameDef}との絆から心理的な恩恵を受けますが,両者が別々のワールドタイルに分かれると,両者とも精神的ストレスに苦しむことになります.また,どちらか一方が死亡した場合,もう一方は狂気に追い込まれます.</LetterPsychicBondCreated>
 
 </LanguageData>
