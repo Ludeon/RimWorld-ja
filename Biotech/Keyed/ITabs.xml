@@ -60,76 +60,76 @@
 
   <!-- Social tab (romance) -->
   <!-- EN: Romance -->
-  <TryRomanceButtonLabel>TODO</TryRomanceButtonLabel>
+  <TryRomanceButtonLabel>ロマンス</TryRomanceButtonLabel>
   <!-- EN: Nobody for {0_labelShort} to romance. -->
-  <TryRomanceNoOptsMessage>TODO</TryRomanceNoOptsMessage>
+  <TryRomanceNoOptsMessage>誰も{0_labelShort}にロマンスを感じません.</TryRomanceNoOptsMessage>
   <!-- EN: unreachable -->
-  <CantRomanceTargetUnreachable>TODO</CantRomanceTargetUnreachable>
+  <CantRomanceTargetUnreachable>到達不能</CantRomanceTargetUnreachable>
   <!-- EN: sleeping -->
-  <CantRomanceTargetSleeping>TODO</CantRomanceTargetSleeping>
+  <CantRomanceTargetSleeping>眠っている</CantRomanceTargetSleeping>
   <!-- EN: incapacitated -->
-  <CantRomanceTargetDowned>TODO</CantRomanceTargetDowned>
+  <CantRomanceTargetDowned>倒れている</CantRomanceTargetDowned>
   <!-- EN: drafted -->
-  <CantRomanceTargetDrafted>TODO</CantRomanceTargetDrafted>
+  <CantRomanceTargetDrafted>徴兵中</CantRomanceTargetDrafted>
   <!-- EN: mental break -->
-  <CantRomanceTargetMentalState>TODO</CantRomanceTargetMentalState>
+  <CantRomanceTargetMentalState>精神崩壊</CantRomanceTargetMentalState>
   <!-- EN: incestuous -->
-  <CantRomanceTargetIncest>TODO</CantRomanceTargetIncest>
+  <CantRomanceTargetIncest>近親相姦</CantRomanceTargetIncest>
   <!-- EN: low opinion -->
-  <CantRomanceTargetOpinion>TODO</CantRomanceTargetOpinion>
+  <CantRomanceTargetOpinion>低評価</CantRomanceTargetOpinion>
   <!-- EN: incompatible orientation -->
-  <CantRomanceTargetSexuality>TODO</CantRomanceTargetSexuality>
+  <CantRomanceTargetSexuality>気性が合わない</CantRomanceTargetSexuality>
   <!-- EN: prisoner -->
-  <CantRomanceTargetPrisoner>TODO</CantRomanceTargetPrisoner>
+  <CantRomanceTargetPrisoner>囚人</CantRomanceTargetPrisoner>
   <!-- EN: too young -->
-  <CantRomanceTargetYoung>TODO</CantRomanceTargetYoung>
+  <CantRomanceTargetYoung>幼すぎる</CantRomanceTargetYoung>
   <!-- EN: zero chance -->
-  <CantRomanceTargetZeroChance>TODO</CantRomanceTargetZeroChance>
+  <CantRomanceTargetZeroChance>可能性ゼロ</CantRomanceTargetZeroChance>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is a prisoner. -->
-  <CantRomanceInitiateMessagePrisoner>TODO</CantRomanceInitiateMessagePrisoner>
+  <CantRomanceInitiateMessagePrisoner>{0_labelShort}は囚人であるため,はロマンスを試みることができません.</CantRomanceInitiateMessagePrisoner>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is a slave. -->
-  <CantRomanceInitiateMessageSlave>TODO</CantRomanceInitiateMessageSlave>
+  <CantRomanceInitiateMessageSlave>{0_labelShort}は奴隷であるため,はロマンスを試みることができません.</CantRomanceInitiateMessageSlave>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} has the asexual trait. -->
-  <CantRomanceInitiateMessageAsexual>TODO</CantRomanceInitiateMessageAsexual>
+  <CantRomanceInitiateMessageAsexual>{0_labelShort}には性別がないため,はロマンスを試みることができません.</CantRomanceInitiateMessageAsexual>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is incapacitated. -->
-  <CantRomanceInitiateMessageDowned>TODO</CantRomanceInitiateMessageDowned>
+  <CantRomanceInitiateMessageDowned>{0_labelShort}は倒れているため,はロマンスを試みることができません.</CantRomanceInitiateMessageDowned>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is drafted. -->
-  <CantRomanceInitiateMessageDrafted>TODO</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageDrafted>{0_labelShort}は徴兵されているため,はロマンスを試みることができません.</CantRomanceInitiateMessageDrafted>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state. -->
-  <CantRomanceInitiateMessageMentalState>TODO</CantRomanceInitiateMessageMentalState>
+  <CantRomanceInitiateMessageMentalState>{0_labelShort}は精神状態が悪いため,はロマンスを試みることができません.</CantRomanceInitiateMessageMentalState>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is unable to speak. -->
-  <CantRomanceInitiateMessageTalk>TODO</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageTalk>{0_labelShort}は話すことができないため,はロマンスを試みることができません.</CantRomanceInitiateMessageTalk>
   <!-- EN: {0_labelShort} tried romancing recently and must wait {1} until trying again. -->
-  <CantRomanceInitiateMessageCooldown>TODO</CantRomanceInitiateMessageCooldown>
+  <CantRomanceInitiateMessageCooldown>{0_labelShort}は最近ロマンスを試みたため,再び行えるようになるまで{1}待つ必要があります.</CantRomanceInitiateMessageCooldown>
   <!-- EN: {0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful. -->
-  <TryRomanceFailedMessage>TODO</TryRomanceFailedMessage>
+  <TryRomanceFailedMessage>{0_labelShort}の{1_labelShort}とのロマンスの試みは失敗しました.</TryRomanceFailedMessage>
   <!-- EN: Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations. -->
-  <RomanceExistingRelationshipWarning>TODO</RomanceExistingRelationshipWarning>
+  <RomanceExistingRelationshipWarning>{INITIATOR_nameDef}が{TARGET_nameDef}にロマンスを試みることは,既存のパートナーから恨みを買い,別れに繋がり,口論を引き起こす可能性があります.</RomanceExistingRelationshipWarning>
   <!-- EN: Romance chance -->
-  <RomanceChance>TODO</RomanceChance>
+  <RomanceChance>ロマンスの可能性</RomanceChance>
   <!-- EN: already {PAWN_nameDef}'s {RELATION} -->
-  <RomanceChanceExistingRelation>TODO</RomanceChanceExistingRelation>
+  <RomanceChanceExistingRelation>すでに{PAWN_nameDef}の{RELATION}</RomanceChanceExistingRelation>
   <!-- EN: Cannot romance -->
-  <RomanceChanceCant>TODO</RomanceChanceCant>
+  <RomanceChanceCant>ロマンスできない</RomanceChanceCant>
   <!-- EN: Relative age -->
-  <RomanceChanceAgeFactor>TODO</RomanceChanceAgeFactor>
+  <RomanceChanceAgeFactor>相対年齢</RomanceChanceAgeFactor>
   <!-- EN: Beauty -->
-  <RomanceChanceBeautyFactor>TODO</RomanceChanceBeautyFactor>
+  <RomanceChanceBeautyFactor>美しい</RomanceChanceBeautyFactor>
   <!-- EN: Opinion -->
-  <RomanceChanceOpinionFactor>TODO</RomanceChanceOpinionFactor>
+  <RomanceChanceOpinionFactor>評価</RomanceChanceOpinionFactor>
   <!-- EN: Opinion of partner -->
-  <RomanceChancePartnerFactor>TODO</RomanceChancePartnerFactor>
+  <RomanceChancePartnerFactor>パートナーの評価</RomanceChancePartnerFactor>
   <!-- EN: {0_labelShort} was unable to romance {1_labelShort} -->
-  <RomanceFailedUnexpected>TODO</RomanceFailedUnexpected>
+  <RomanceFailedUnexpected>{0_labelShort}は{1_labelShort}とロマンスできなかった</RomanceFailedUnexpected>
   <!-- EN: {0_nameDef} is already in a relationship. -->
-  <RomanceWarningMonogamous>TODO</RomanceWarningMonogamous>
+  <RomanceWarningMonogamous>{0_nameDef}はすでに交際中です.</RomanceWarningMonogamous>
   <!-- EN: {0_nameDef} already has {1} partners. -->
-  <RomanceWarningPolygamous>TODO</RomanceWarningPolygamous>
+  <RomanceWarningPolygamous>{0_nameDef}にはすでに{1}人のパートナーがいます.</RomanceWarningPolygamous>
 
   <!-- Guest tab (prisoners) -->
   <!-- EN: Multiplier for genes -->
-  <FactorForGenes>TODO</FactorForGenes>
+  <FactorForGenes>遺伝子の掛け率です.</FactorForGenes>
   <!-- EN: Prison breaking is disabled by {GENE_label} gene. -->
-  <PrisonBreakingDisabledDueToGene>TODO</PrisonBreakingDisabledDueToGene>
+  <PrisonBreakingDisabledDueToGene>脱獄は{GENE_label}の遺伝子によって無効にされています.</PrisonBreakingDisabledDueToGene>
 
 </LanguageData>
