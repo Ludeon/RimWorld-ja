@@ -34,7 +34,7 @@
   <MessageCaravanRemovingEscortingMech>{OVERSEER_nameDef}の護衛担当なため,自動的に{MECH_nameDef}をキャラバンから除外します</MessageCaravanRemovingEscortingMech>
 
   <!-- EN: {0} was a mechanitor. You can remove {0_possessive} {1_label} and use it on a colonist. -->
-  <MessageMechanitorCasketOpened>{0}はメカニターでした.{0_possessive} {1_label}を取り外し,それを入植者に使うことができます.</MessageMechanitorCasketOpened>
+  <MessageMechanitorCasketOpened>{0}はメカニターでした.{0_possessive}{1_label}を取り外し,それを入植者に使うことができます.</MessageMechanitorCasketOpened>
   
   <!-- EN: Some prisoners' interaction mode required a bloodfeeder. Since the last bloodfeeder is gone, their interaction modes have reset to "No interaction". -->
   <MessageNoBloodfeedersPrisonerInteractionReset>一部の囚人の対話モードに吸血が要求されていました.吸血鬼が一人もいなくなったため,彼らの対話モードは"対話なし"に変更されます.</MessageNoBloodfeedersPrisonerInteractionReset>
@@ -59,7 +59,7 @@
   <MessageCocoonDisturbedPlural>繭が荒れ狂い開いていきます！</MessageCocoonDisturbedPlural>
 
   <!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm. -->
-  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef}に{PAWN_possessive}の異種胚を強制的に移植する前に,{PAWN_objective}を気絶させてください.</MessageTargetMustBeDownedToForceReimplant>
+  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef}に{PAWN_possessive}異種胚を強制的に移植する前に,{PAWN_objective}気絶させてください.</MessageTargetMustBeDownedToForceReimplant>
 
   <!-- EN: {0_nameDef} is only {1} years old. {2} work can only be done from age {3}. -->
   <MessageWorkTypeDisabledAge>{0_nameDef}はまだ{1}歳です.{2}の仕事は{3}歳から担当できるようになります.</MessageWorkTypeDisabledAge>
@@ -74,19 +74,19 @@
 
   <!-- Xenogerm -->
   <!-- EN: The total metabolism of the selected genes must be {MIN} or higher to continue, but currently it is only {AMOUNT}. -->
-  <MetabolismTooLowToCreateXenogerm>TODO</MetabolismTooLowToCreateXenogerm>
+  <MetabolismTooLowToCreateXenogerm>続行するには,選択した遺伝子の総代謝量が{MIN}以上である必要がありますが,現在は{AMOUNT}しかありません.</MetabolismTooLowToCreateXenogerm>
   <!-- EN: The total complexity of the selected genes must be {MAX} or less to create a xenogerm, but currently it is {AMOUNT}. -->
-  <ComplexityTooHighToCreateXenogerm>TODO</ComplexityTooHighToCreateXenogerm>
+  <ComplexityTooHighToCreateXenogerm>異種胚を作成するには,選択した遺伝子の複雑性の合計が{MAX}以下である必要がありますが,現在は{AMOUNT}です.</ComplexityTooHighToCreateXenogerm>
   <!-- EN: Cannot create a xenogerm with no genes. -->
-  <MessageNoSelectedGenepacks>TODO</MessageNoSelectedGenepacks>
+  <MessageNoSelectedGenepacks>遺伝子のない異種胚は作れません.</MessageNoSelectedGenepacks>
   <!-- EN: Cannot create a xenotype with no genes. -->
-  <MessageNoSelectedGenes>TODO</MessageNoSelectedGenes>
+  <MessageNoSelectedGenes>遺伝子のないゼノタイプは作れません.</MessageNoSelectedGenes>
   <!-- EN: {0_label} can only store {1} genepacks. -->
-  <CanOnlyStoreNumGenepacks>TODO</CanOnlyStoreNumGenepacks>
+  <CanOnlyStoreNumGenepacks>{0_label}は{1}個の遺伝子パックしか保存できません.</CanOnlyStoreNumGenepacks>
   <!-- EN: Xenotype name cannot be empty. -->
-  <XenotypeNameCannotBeEmpty>TODO</XenotypeNameCannotBeEmpty>
+  <XenotypeNameCannotBeEmpty>ゼノタイプ名を空にすることはできません.</XenotypeNameCannotBeEmpty>
   <!-- EN: {0} lacks a prerequisite gene -->
-  <MessageGeneMissingPrerequisite>TODO</MessageGeneMissingPrerequisite>
+  <MessageGeneMissingPrerequisite>{0}に必要な遺伝子がない</MessageGeneMissingPrerequisite>
 
   <!-- EN: {PAWN_nameDef}'s deathrest capacity has increased from {OLD} to {NEW}. -->
   <MessageDeathrestCapacityChanged>{PAWN_nameDef}の死眠容量が{OLD}から{NEW}に増加しました.</MessageDeathrestCapacityChanged>
@@ -99,7 +99,7 @@
   <SanguophagesLeavingTemperature>命に関わる気温のためサングオファージは立ち去りました.</SanguophagesLeavingTemperature>
 
   <!-- EN: {PAWN_nameDef} was woken from {PAWN_possessive} deathrest due to sunlight exposure. -->
-  <MessagePawnWokenFromSunlight>{PAWN_nameDef}は日光にさらされているため,{PAWN_possessive}の死眠から目覚めました.</MessagePawnWokenFromSunlight>
+  <MessagePawnWokenFromSunlight>{PAWN_nameDef}は日光にさらされているため,死眠から目覚めました.</MessagePawnWokenFromSunlight>
   <!-- EN: The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there. -->
   <MessageBedExposedToSunlight>{BED_labelShort} {PAWN_nameDef}は日光にさらされ場所で死眠を取るよう割り当てられています.そこでは{PAWN_nameDef}は死眠できません.</MessageBedExposedToSunlight>
 
@@ -127,7 +127,7 @@
   <MessageConflictingGenesPresent>複数の競合する遺伝子を持つゼノタイプは保存できません.</MessageConflictingGenesPresent>
 
   <!-- EN: {BUILDING_labelShort} has been bound to {PAWN_nameDef} ({CUR}/{MAX} deathrest capacity). -->
-  <MessageDeathrestBuildingBound>TODO</MessageDeathrestBuildingBound>
+  <MessageDeathrestBuildingBound>{BUILDING_labelShort}は{PAWN_nameDef}(死眠容量 {CUR}/{MAX})と結びつけられています.</MessageDeathrestBuildingBound>
 
   <!-- EN: Developmental stage selection disabled by scenario. -->
   <MessageDevelopmentalStageSelectionDisabledByScenario>シナリオによって成長段階の設定が無効化されています.</MessageDevelopmentalStageSelectionDisabledByScenario>

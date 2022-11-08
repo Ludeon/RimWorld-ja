@@ -227,25 +227,25 @@
   <CarryToShuttle>シャトルに{0_label}を運ぶ</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
-  <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
+  <NoCryptosleepCasket>冬眠カプセルがありません.</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
-  <CryptosleepCasketGuestsNotAllowed>一時的な派閥メンバーは許可されていない</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestsNotAllowed>一時的な派閥メンバーは許可されていません.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
-  <CryptosleepCasketGuestPrisonersNotAllowed>収容された囚人は許可されていない</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>収容された囚人は許可されていません.</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: Already occupied -->
   <CryptosleepCasketOccupied>すでに占有されている</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>周囲を壁で遮断された,到達可能な,安全な温度の,予約されていない囚人用ベッドがない</NoPrisonerBed>
+  <NoPrisonerBed>周囲を壁で遮断された,到達可能な,安全な温度の,予約されていない囚人用ベッドがありません.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>到達可能な,安全な温度の,予約されていない入植者用ベッドがない</NoNonPrisonerBed>
+  <NoNonPrisonerBed>到達可能な,安全な温度の,予約されていない入植者用ベッドがありません.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>到達可能な,安全な温度の,予約されていない動物用ベッドがない</NoAnimalBed>
+  <NoAnimalBed>到達可能な,安全な温度の,予約されていない動物用ベッドがありません.</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
-  <Reserved>他の誰かが 使用している</Reserved>
+  <Reserved>他の誰かが使用しています.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>{1_labelShort}が使用している</ReservedBy>
+  <ReservedBy>{1_labelShort}が使用しています.</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
-  <IsReservedBy>{0}は{1}が使用している</IsReservedBy>
+  <IsReservedBy>{0}は{1}が使用しています.</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>重すぎる</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
