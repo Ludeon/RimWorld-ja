@@ -133,31 +133,31 @@
   <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort}は育児に割り当てられていない</BreastfeedFailReason_MomNotAssignedToChildcare>
 
   <!-- EN: Order implantation into {PAWN_nameDef} -->
-  <OrderImplantationIntoPawn>TODO</OrderImplantationIntoPawn>
+  <OrderImplantationIntoPawn>{PAWN_nameDef}への移植予定</OrderImplantationIntoPawn>
   <!-- EN: Accept {0_xenotype} xenogerm -->
-  <AcceptXenogerm>TODO</AcceptXenogerm>
+  <AcceptXenogerm>{0_xenotype}の異種胚を受け入れる</AcceptXenogerm>
 
   <!-- EN: Carry {PAWN_labelShort} to recharger -->
-  <CarryToRechargerOrdered>TODO</CarryToRechargerOrdered>
+  <CarryToRechargerOrdered>{PAWN_labelShort}を充電器に運ぶ</CarryToRechargerOrdered>
   <!-- EN: Cannot carry {PAWN_labelShort} to recharger -->
-  <CannotCarryToRecharger>TODO</CannotCarryToRecharger>
+  <CannotCarryToRecharger>{PAWN_labelShort}を充電器に運べない</CannotCarryToRecharger>
   <!-- EN: No available recharger -->
-  <CannotCarryToRechargerNoneAvailable>TODO</CannotCarryToRechargerNoneAvailable>
+  <CannotCarryToRechargerNoneAvailable>利用可能な充電器がない</CannotCarryToRechargerNoneAvailable>
 
   <!-- EN: Cannot study -->
-  <CannotStudy>TODO</CannotStudy>
+  <CannotStudy>研究できない</CannotStudy>
   <!-- EN: already studied -->
-  <AlreadyStudied>TODO</AlreadyStudied>
+  <AlreadyStudied>すでに研究した</AlreadyStudied>
   <!-- EN: no reachable, un-reserved research bench available -->
-  <NoResearchBench>TODO</NoResearchBench>
+  <NoResearchBench>到達可能な,予約されてない研究卓がない</NoResearchBench>
 
   <!-- EN: Hemogen packs disabled by food restriction. -->
-  <NotAllowedHemogen>TODO</NotAllowedHemogen>
+  <NotAllowedHemogen>食事制限によりヘモゲンパックが無効になっています.</NotAllowedHemogen>
 
   <!-- EN: Eject genepack from gene bank -->
-  <EjectGenepackFromGeneBank>TODO</EjectGenepackFromGeneBank>
+  <EjectGenepackFromGeneBank>遺伝子バンクから遺伝子パックを取り出す</EjectGenepackFromGeneBank>
 
   <!-- EN: Resulting metabolism would be too low -->
-  <ResultingMetTooLow>TODO</ResultingMetTooLow>
+  <ResultingMetTooLow>結果として代謝が低すぎる</ResultingMetTooLow>
 
 </LanguageData>

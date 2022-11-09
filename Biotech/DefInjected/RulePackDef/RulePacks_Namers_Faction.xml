@@ -25,7 +25,30 @@
     <li>placeEnd->kev</li>
     <li>placeEnd->vel</li>
   -->
-  <ImpidUtility.rulePack.rulesStrings>TODO</ImpidUtility.rulePack.rulesStrings>
+  <ImpidUtility.rulePack.rulesStrings>
+    <li>placeNameCore->[SylI][SylI]</li>
+    <li>placeNameCore->[SylI][SylI][SylI]</li>
+    <li>placeNameCore->[SylI][placeEnd]</li>
+    <li>placeNameCore->[SylI][SylI][placeEnd]</li>
+    <li>placeEnd->アーチ</li>
+    <li>placeEnd->アズ</li>
+    <li>placeEnd->エス</li>
+    <li>placeEnd->ゾズ</li>
+    <li>placeEnd->オチ</li>
+    <li>placeEnd->オズ</li>
+    <li>placeEnd->エズ</li>
+    <li>placeEnd->エス</li>
+    <li>placeEnd->オンス</li>
+    <li>placeEnd->イン</li>
+    <li>placeEnd->イス</li>
+    <li>placeEnd->イズ</li>
+    <li>placeEnd->セズ</li>
+    <li>placeEnd->ッチ</li>
+    <li>placeEnd->ッズ</li>
+    <li>placeEnd->ケン</li>
+    <li>placeEnd->ケブ</li>
+    <li>placeEnd->ベル</li>
+  </ImpidUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[nameCore]</li>
@@ -49,7 +72,28 @@
     <li>end->mok</li>
     <li>end->mm</li>
   -->
-  <NamerFactionOutlanderPig.rulePack.rulesStrings>TODO</NamerFactionOutlanderPig.rulePack.rulesStrings>
+  <NamerFactionOutlanderPig.rulePack.rulesStrings>
+    <li>r_name(p=2)->[nameCore]</li>
+    <li>r_name->[nameCore][political_union_outlander]</li>
+    <li>r_name->[nameCore]の[political_union_outlander]</li>
+    <li>maybeHyphen(p=3)-></li>
+    <li>maybeHyphen->・</li>
+    <li>nameCore->[SylP][maybeHyphen][SylP]</li>
+    <li>nameCore->[SylP][maybeHyphen][SylP][maybeHyphen][SylP]</li>
+    <li>nameCore->[SylP][maybeHyphen][end]</li>
+    <li>nameCore->[SylP][maybeHyphen][SylP][maybeHyphen][end]</li>
+    <li>end->オー</li>
+    <li>end->ロク</li>
+    <li>end->ロム</li>
+    <li>end->オインク</li>
+    <li>end->ガグ</li>
+    <li>end->ウンド</li>
+    <li>end->オーグ</li>
+    <li>end->ピッグ</li>
+    <li>end->ポッグ</li>
+    <li>end->モック</li>
+    <li>end->ムー</li>
+  </NamerFactionOutlanderPig.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[poison] [groupname]</li>
@@ -69,7 +113,24 @@
     <li>men->pests</li>
     <li>men->trash</li>
   -->
-  <NamerFactionPirateWaster.rulePack.rulesStrings>TODO</NamerFactionPirateWaster.rulePack.rulesStrings>
+  <NamerFactionPirateWaster.rulePack.rulesStrings>
+    <li>r_name->[poison][groupname]</li>
+    <li>r_name->[poison][men]</li>
+    <li>men->一家</li>
+    <li>men->組</li>
+    <li>men->団</li>
+    <li>men->チョーカーズ</li>
+    <li>men->ピラーズ</li>
+    <li>men->サイカーズ</li>
+    <li>men->トキサーズ</li>
+    <li>men->ブライターズ</li>
+    <li>men->ウェイスターズ</li>
+    <li>men->パッカーズ</li>
+    <li>men->スリッカーズ</li>
+    <li>men->スリッカーズ</li>
+    <li>men->ペスト</li>
+    <li>men->トラッシュ</li>
+  </NamerFactionPirateWaster.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -84,7 +145,19 @@
     <li>faction->fur</li>
     <li>faction->kinroar</li>
   -->
-  <NamerFactionPirateYttakin.rulePack.rulesStrings>TODO</NamerFactionPirateYttakin.rulePack.rulesStrings>
+  <NamerFactionPirateYttakin.rulePack.rulesStrings>
+    <li>r_name(p=2)->[placeNameCore]</li>
+    <li>r_name->[placeNameCore][faction]</li>
+    <li>r_name->[placeNameCore]の[faction]</li>
+    <li>faction->咆哮族</li>
+    <li>faction->部族</li>
+    <li>faction->一族</li>
+    <li>faction->咆哮</li>
+    <li>faction->一団</li>
+    <li>faction->一家</li>
+    <li>faction->毛皮族</li>
+    <li>faction->咆哮団</li>
+  </NamerFactionPirateYttakin.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -97,14 +170,28 @@
     <li>faction->flamehome</li>
     <li>faction->firehome</li>
   -->
-  <NamerFactionTribalImpid.rulePack.rulesStrings>TODO</NamerFactionTribalImpid.rulePack.rulesStrings>
+  <NamerFactionTribalImpid.rulePack.rulesStrings>
+    <li>r_name(p=2)->[placeNameCore]</li>
+    <li>r_name->[placeNameCore][faction]</li>
+    <li>r_name->[placeNameCore]の[faction]</li>
+    <li>faction->クレード</li>
+    <li>faction->リーグ</li>
+    <li>faction->ランシップ</li>
+    <li>faction->スプリントシップ</li>
+    <li>faction->フレイムホーム</li>
+    <li>faction->ファイヤーホーム</li>
+  </NamerFactionTribalImpid.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
     <li>r_name->[placeNameCore] [political_union_tribal]</li>
     <li>r_name->[political_union_tribal] of [placeNameCore]</li>
   -->
-  <NamerFactionTribalNeanderthal.rulePack.rulesStrings>TODO</NamerFactionTribalNeanderthal.rulePack.rulesStrings>
+  <NamerFactionTribalNeanderthal.rulePack.rulesStrings>
+    <li>r_name(p=2)->[placeNameCore]</li>
+    <li>r_name->[placeNameCore][political_union_tribal]</li>
+    <li>r_name->[placeNameCore]の[political_union_tribal]</li>
+  </NamerFactionTribalNeanderthal.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[townname_wordgen]</li>
@@ -137,7 +224,37 @@
     <li>townend->op</li>
     <li>townend->pig</li>
   -->
-  <NamerSettlementOutlanderPig.rulePack.rulesStrings>TODO</NamerSettlementOutlanderPig.rulePack.rulesStrings>
+  <NamerSettlementOutlanderPig.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>maybeHyphen(p=3)-></li>
+    <li>maybeHyphen->・</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][SylP]</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][SylP][maybeHyphen][SylP]</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][townend]</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][SylP][maybeHyphen][townend]</li>
+    <li>townend->ビル</li>
+    <li>townend->ウィル</li>
+    <li>townend->バグ</li>
+    <li>townend->ボーン</li>
+    <li>townend->グラブ</li>
+    <li>townend->バル</li>
+    <li>townend->ウォープ</li>
+    <li>townend->イグ</li>
+    <li>townend->ケス</li>
+    <li>townend->ムー</li>
+    <li>townend->ウィグ</li>
+    <li>townend->ゴン</li>
+    <li>townend->オグ</li>
+    <li>townend->ウェン</li>
+    <li>townend->ワグ</li>
+    <li>townend->ウォーグ</li>
+    <li>townend->ウォルグ</li>
+    <li>townend->ローグ</li>
+    <li>townend->ログ</li>
+    <li>townend->ウェルグ</li>
+    <li>townend->オプ</li>
+    <li>townend->ピッグ</li>
+  </NamerSettlementOutlanderPig.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[townNameWordgen]</li>
@@ -165,22 +282,53 @@
     <li>town->butchery</li>
     <li>town->tank</li>
   -->
-  <NamerSettlementPirateWaster.rulePack.rulesStrings>TODO</NamerSettlementPirateWaster.rulePack.rulesStrings>
+  <NamerSettlementPirateWaster.rulePack.rulesStrings>
+    <li>r_name->[townNameWordgen]</li>
+    <li>r_name->[townNameCombo]</li>
+    <li>townNameWordgen->[SylE][SylE]</li>
+    <li>townNameWordgen->[SylE][SylE][SylE]</li>
+    <li>townNameWordgen->[SylE][townEndToxic]</li>
+    <li>townNameWordgen->[SylE][SylE][townEndToxic]</li>
+    <li>townEndToxic->トックス</li>
+    <li>townEndToxic->ボア</li>
+    <li>townEndToxic->ソン</li>
+    <li>townEndToxic->ゾン</li>
+    <li>townEndToxic->トス</li>
+    <li>townEndToxic->ゾウン</li>
+    <li>townEndToxic->スリック</li>
+    <li>townEndToxic->ピル</li>
+    <li>townEndToxic->アシュ</li>
+    <li>townEndToxic->ヴェン</li>
+    <li>townNameCombo->[poison][town]</li>
+    <li>town->タウン</li>
+    <li>town->ベース</li>
+    <li>town->城砦</li>
+    <li>town->ポート</li>
+    <li>town->処理場</li>
+    <li>town->屠殺場</li>
+    <li>town->タンク</li>
+  </NamerSettlementPirateWaster.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[placeNameCore]</li>
   -->
-  <NamerSettlementPirateYttakin.rulePack.rulesStrings>TODO</NamerSettlementPirateYttakin.rulePack.rulesStrings>
+  <NamerSettlementPirateYttakin.rulePack.rulesStrings>
+    <li>r_name->[placeNameCore]</li>
+  </NamerSettlementPirateYttakin.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[placeNameCore]</li>
   -->
-  <NamerSettlementTribalImpid.rulePack.rulesStrings>TODO</NamerSettlementTribalImpid.rulePack.rulesStrings>
+  <NamerSettlementTribalImpid.rulePack.rulesStrings>
+    <li>r_name->[placeNameCore]</li>
+  </NamerSettlementTribalImpid.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[placeNameCore]</li>
   -->
-  <NamerSettlementTribalNeaderthal.rulePack.rulesStrings>TODO</NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
+  <NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
+    <li>r_name->[placeNameCore]</li>
+  </NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
   
   <!-- EN:
     <li>maybeApo(p=8)-></li>
@@ -208,7 +356,32 @@
     <li>placeEnd->sonk</li>
     <li>placeEnd->soud</li>
   -->
-  <NeanderthalUtility.rulePack.rulesStrings>TODO</NeanderthalUtility.rulePack.rulesStrings>
+  <NeanderthalUtility.rulePack.rulesStrings>
+    <li>maybeApo(p=8)-></li>
+    <li>maybeApo->・</li>
+    <li>placeNameCore->[SylN][maybeApo][SylN]</li>
+    <li>placeNameCore->[SylN][maybeApo][SylN][maybeApo][SylN]</li>
+    <li>placeNameCore->[SylN][maybeApo][placeEnd]</li>
+    <li>placeNameCore->[SylN][maybeApo][SylN][maybeApo][placeEnd]</li>
+    <li>placeEnd->イルス</li>
+    <li>placeEnd->イルト</li>
+    <li>placeEnd->イグ</li>
+    <li>placeEnd->フェグ</li>
+    <li>placeEnd->ゼン</li>
+    <li>placeEnd->ソー</li>
+    <li>placeEnd->ボグ</li>
+    <li>placeEnd->トン</li>
+    <li>placeEnd->テン</li>
+    <li>placeEnd->モー</li>
+    <li>placeEnd->モーク</li>
+    <li>placeEnd->ムン</li>
+    <li>placeEnd->ムーシュ</li>
+    <li>placeEnd->マン</li>
+    <li>placeEnd->ベル</li>
+    <li>placeEnd->シル</li>
+    <li>placeEnd->ソンク</li>
+    <li>placeEnd->ソウド</li>
+  </NeanderthalUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>poison->poison</li>
@@ -231,7 +404,27 @@
     <li>poison->trash</li>
     <li>poison->pest</li>
   -->
-  <WasterUtility.rulePack.rulesStrings>TODO</WasterUtility.rulePack.rulesStrings>
+  <WasterUtility.rulePack.rulesStrings>
+    <li>poison->ポイズン</li>
+    <li>poison->トキシン</li>
+    <li>poison->トックス</li>
+    <li>poison->セキ</li>
+    <li>poison->ガス</li>
+    <li>poison->ピル</li>
+    <li>poison->サイク</li>
+    <li>poison->ウイルス</li>
+    <li>poison->ヴェノム</li>
+    <li>poison->キャンサー</li>
+    <li>poison->トキソイド</li>
+    <li>poison->エキビョウ</li>
+    <li>poison->ショウキ</li>
+    <li>poison->オブツ</li>
+    <li>poison->ガベージ</li>
+    <li>poison->ポリューション</li>
+    <li>poison->フハイ</li>
+    <li>poison->トラッシュ</li>
+    <li>poison->ペスト</li>
+  </WasterUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>placeNameCore->[SylY][SylY]</li>
@@ -258,6 +451,30 @@
     <li>placeEnd->ys</li>
     <li>placeEnd->yn</li>
   -->
-  <YttakinUtility.rulePack.rulesStrings>TODO</YttakinUtility.rulePack.rulesStrings>
+  <YttakinUtility.rulePack.rulesStrings>
+    <li>placeNameCore->[SylY][SylY]</li>
+    <li>placeNameCore->[SylY][SylY][SylY]</li>
+    <li>placeNameCore->[SylY][placeEnd]</li>
+    <li>placeNameCore->[SylY][SylY][placeEnd]</li>
+    <li>placeEnd->エシュ</li>
+    <li>placeEnd->スィット</li>
+    <li>placeEnd->ウィット</li>
+    <li>placeEnd->ウォット</li>
+    <li>placeEnd->ウォッシュ</li>
+    <li>placeEnd->バーグ</li>
+    <li>placeEnd->ベーグ</li>
+    <li>placeEnd->ベーシュ</li>
+    <li>placeEnd->バグ</li>
+    <li>placeEnd->ビィット</li>
+    <li>placeEnd->ビョン</li>
+    <li>placeEnd->デン</li>
+    <li>placeEnd->ジェン</li>
+    <li>placeEnd->ユル</li>
+    <li>placeEnd->ヤ</li>
+    <li>placeEnd->ユシュ</li>
+    <li>placeEnd->ユット</li>
+    <li>placeEnd->ユス</li>
+    <li>placeEnd->ユン</li>
+  </YttakinUtility.rulePack.rulesStrings>
   
 </LanguageData>
