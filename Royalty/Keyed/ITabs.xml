@@ -52,7 +52,7 @@
   <!-- EN: Return all previously-chosen permits for this faction. You will regain all the spent permit points and be able to spend them again.\n\nThis action costs {BASEFAVORCOST} {FAVOR}, plus the reset cost of any permits currently on cooldown. The total cost now is {FAVORCOST}. -->
   <ReturnAllPermits_Desc>この派閥に,以前選んだ許可証を全て返却します.使用した許可証ポイントが全て手元に戻り,再び使用できるようになります.\n\nこの行動には{BASEFAVORCOST}{FAVOR}のコストに加え,現在クールダウン中の許可証のリセットコストも必要になります.現在の合計コストは{FAVORCOST}です.</ReturnAllPermits_Desc>
   <!-- EN: Return all previously-chosen permits for {FACTION_name}?\n\nYou will regain all the spent permit points and be able to spend them again.\n\nThis action costs {BASEFAVORCOST} {FAVOR}, plus the reset cost of any permits currently on cooldown. The total cost now is {FAVORCOST}. -->
-  <ReturnAllPermits_Confirm>以前選んだ許可証を全て{FACTION_name}に返却しますか？\n\n使用した許可証ポイントが全て手元に戻り,再び使用できるようになります.\n\nこの行動には{BASEFAVORCOST}{FAVOR}のコストに加え,現在クールダウン中の許可証のリセットコストも必要になります.現在の合計コストは{FAVORCOST}です.</ReturnAllPermits_Confirm>
+  <ReturnAllPermits_Confirm>以前選んだ許可証を全て{FACTION_name}に返却しますか?\n\n使用した許可証ポイントが全て手元に戻り,再び使用できるようになります.\n\nこの行動には{BASEFAVORCOST}{FAVOR}のコストに加え,現在クールダウン中の許可証のリセットコストも必要になります.現在の合計コストは{FAVORCOST}です.</ReturnAllPermits_Confirm>
   <!-- EN: Switch faction -->
   <SwitchFaction_Desc>派閥の切り替え</SwitchFaction_Desc>
   <!-- EN: Accept permit -->

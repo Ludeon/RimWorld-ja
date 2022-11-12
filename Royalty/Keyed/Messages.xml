@@ -19,7 +19,7 @@
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>{BESTOWER_definite}を選択し,"授与式を始める"をクリックすることで授与式を開始できます.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
-  <MessageBestowerUnreachable>贈呈者まで到達できません！</MessageBestowerUnreachable>
+  <MessageBestowerUnreachable>贈呈者まで到達できません!</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->
   <MessageBestowingTargetIsBusy>{0}は忙しいです.</MessageBestowingTargetIsBusy>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
@@ -34,7 +34,7 @@
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
   <MessageBestowingCeremonyStarted>{PAWN_definite}の授与式が始まりました.</MessageBestowingCeremonyStarted>
   <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
-  <MessageMissionGetBackToShuttle>{FACTION_pawnsPlural}を倒しました！シャトルに戻って発射しましょう.</MessageMissionGetBackToShuttle>
+  <MessageMissionGetBackToShuttle>{FACTION_pawnsPlural}を倒しました!シャトルに戻って発射しましょう.</MessageMissionGetBackToShuttle>
 
   <!-- EN: {FACTION_name} has dropped resources nearby. -->
   <MessagePermitTransportDrop>{FACTION_name}が近くに資源を落としました.</MessagePermitTransportDrop>

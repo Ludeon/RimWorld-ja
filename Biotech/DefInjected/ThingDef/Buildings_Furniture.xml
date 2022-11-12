@@ -4,33 +4,33 @@
   <!-- EN: baby decoration -->
   <BabyDecoration.label>赤ん坊用のデコレーション</BabyDecoration.label>
   <!-- EN: A decoration for babies. Baby decorations increase the rate at which babies fill their play need when an adult plays with them. Place these around your child play areas. -->
-  <BabyDecoration.description>赤ん坊のためのデコレーションです。大人が赤ん坊と遊ぶ時、赤ん坊の遊びの欲求を満たす速度を増加させます。遊び場の周りに設置してください。</BabyDecoration.description>
+  <BabyDecoration.description>赤ん坊のためのデコレーションです.大人が赤ん坊と遊ぶ時,赤ん坊の遊びの欲求を満たす速度を増加させます.遊び場の周りに設置してください.</BabyDecoration.description>
   
   <!-- EN: baby sleeping spot -->
   <BabySleepingSpot.label>赤ん坊の寝床</BabySleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should leave a baby. Not comfortable. -->
-  <BabySleepingSpot.description>赤ん坊を置いておくように区切られた地面です。快適ではありません。</BabySleepingSpot.description>
+  <BabySleepingSpot.description>赤ん坊を置いておくように区切られた地面です.快適ではありません.</BabySleepingSpot.description>
   
   <!-- EN: blackboard -->
   <Blackboard.label>黒板</Blackboard.label>
   <!-- EN: A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time. -->
-  <Blackboard.description>チョークで書くための平らな板です。学習机の近くに置くと、学習速度が上昇します。同時に最大3つの黒板を使用できます。</Blackboard.description>
+  <Blackboard.description>チョークで書くための平らな板です.学習机の近くに置くと,学習速度が上昇します.同時に最大3つの黒板を使用できます.</Blackboard.description>
   <!-- EN: When near a desk where a lesson is taking place, this building increases the student's learning rate. This effect can stack up to three times. -->
-  <Blackboard.comps.CompStatEntry.reportText>授業が行われる机の近くに設置すると、生徒の学習速度を向上します</Blackboard.comps.CompStatEntry.reportText>
+  <Blackboard.comps.CompStatEntry.reportText>授業が行われる机の近くに設置すると,生徒の学習速度を向上します</Blackboard.comps.CompStatEntry.reportText>
   <!-- EN: Learning rate bonus -->
   <Blackboard.comps.CompStatEntry.statLabel>学習速度ボーナス</Blackboard.comps.CompStatEntry.statLabel>
   
   <!-- EN: crib -->
   <Crib.label>ベビーベッド</Crib.label>
   <!-- EN: A cozy bed with safe latticed sides, perfect for a sleepy baby. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks. -->
-  <Crib.description>居心地の良い、安全な柵がついたベッドで、眠い赤ん坊には完璧な場所です。高品質のベビーベッドは赤ん坊を幸せにします。部屋を宿舎に変えてしまうことなく、複数個のベビーベッドを寝室に設置できます。</Crib.description>
+  <Crib.description>居心地の良い,安全な柵がついたベッドで,眠い赤ん坊には完璧な場所です.高品質のベビーベッドは赤ん坊を幸せにします.部屋を宿舎に変えてしまうことなく,複数個のベビーベッドを寝室に設置できます.</Crib.description>
   
   <!-- EN: school desk -->
   <SchoolDesk.label>学習机</SchoolDesk.label>
   <!-- EN: A desk where adults can teach lessons to children. -->
-  <SchoolDesk.description>大人が子供に授業を実施できる机です。</SchoolDesk.description>
+  <SchoolDesk.description>大人が子供に授業を実施できる机です.</SchoolDesk.description>
   <!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>この設備による、授業中の子供の学習速度の加速係数です</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>この設備による,授業中の子供の学習速度の加速係数です</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
   <!-- EN: Learning rate bonus -->
   <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>学習速度ボーナス</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
   <!-- EN: Learning rate bonus -->
@@ -39,6 +39,6 @@
   <!-- EN: toy box -->
   <ToyBox.label>おもちゃ箱</ToyBox.label>
   <!-- EN: A toy box containing many small toys. Toy boxes can be used to play with babies, satisfying their need for play. -->
-  <ToyBox.description>たくさんの小さなおもちゃが入ったおもちゃ箱です。赤ん坊と遊ぶのに使用でき、遊びの要求を満たせます。</ToyBox.description>
+  <ToyBox.description>たくさんの小さなおもちゃが入ったおもちゃ箱です.赤ん坊と遊ぶのに使用でき,遊びの要求を満たせます.</ToyBox.description>
   
 </LanguageData>

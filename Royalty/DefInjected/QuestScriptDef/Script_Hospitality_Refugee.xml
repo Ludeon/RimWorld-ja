@@ -91,7 +91,7 @@
     <li>lodgerViolatedLeaveMapLetterLabel->[lodgersLabel]が不当に扱われた: 離脱</li>
     <li>lodgerViolatedLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
     <li>mutinyLetterLabel->裏切り</li>
-    <li>mutinyLetterText->[whoAskedToStay],[lodgersSingularOrPluralDef][areIs]裏切りました！\n\n[lodgersPronoun]はこの裏切り行為を初めから計画していたようです.</li>
+    <li>mutinyLetterText->[whoAskedToStay],[lodgersSingularOrPluralDef][areIs]裏切りました!\n\n[lodgersPronoun]はこの裏切り行為を初めから計画していたようです.</li>
     <li>areIs(lodgerCount==1)->が</li>
     <li>areIs(lodgerCount>=2)->達が</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural]が去っている</li>

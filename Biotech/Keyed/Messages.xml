@@ -9,7 +9,7 @@
   <MessageColonistInFinalStagesOfLabor>{PAWN_labelShort}の分娩は最末期に入っています.</MessageColonistInFinalStagesOfLabor>
 
   <!-- EN: A mech charger was destroyed while {PAWN_nameDef} was charging! The power disruption has scrambled its brain, and it is going berserk. -->
-  <MessageMechChargerDestroyedMechGoesBerserk>{PAWN_nameDef}の充電中に充電器が破壊されました！停電によって脳が混乱し暴走状態に陥っています.</MessageMechChargerDestroyedMechGoesBerserk>
+  <MessageMechChargerDestroyedMechGoesBerserk>{PAWN_nameDef}の充電中に充電器が破壊されました!停電によって脳が混乱し暴走状態に陥っています.</MessageMechChargerDestroyedMechGoesBerserk>
 
   <!-- EN: Cannot use {ABILITY_label} on anyone who would actively resist. -->
   <MessageCantUseOnResistingPerson>積極抵抗する人物に対して{ABILITY_label}は使えません.</MessageCantUseOnResistingPerson>
@@ -54,9 +54,9 @@
   <!-- EN: Pollution has increased by {0} at {1}. -->
   <MessageWorldTilePollutionChanged>{1}の汚染度が{0}増加しました.</MessageWorldTilePollutionChanged>
   <!-- EN: A cocoon has been disturbed and is opening! -->
-  <MessageCocoonDisturbed>繭が荒れ狂い開いていきます！</MessageCocoonDisturbed>
+  <MessageCocoonDisturbed>繭が荒れ狂い開いていきます!</MessageCocoonDisturbed>
   <!-- EN: Cocoons have been disturbed and are opening! -->
-  <MessageCocoonDisturbedPlural>繭が荒れ狂い開いていきます！</MessageCocoonDisturbedPlural>
+  <MessageCocoonDisturbedPlural>繭が荒れ狂い開いていきます!</MessageCocoonDisturbedPlural>
 
   <!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm. -->
   <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef}に{PAWN_possessive}異種胚を強制的に移植する前に,{PAWN_objective}気絶させてください.</MessageTargetMustBeDownedToForceReimplant>
@@ -113,7 +113,7 @@
   <MessageCannotResurrectDessicatedCorpse>乾燥した死体を復活させることはできません.</MessageCannotResurrectDessicatedCorpse>
 
   <!-- EN: {0} is about to explode! -->
-  <MessageAboutToExplode>{0}が爆発寸前です！</MessageAboutToExplode>
+  <MessageAboutToExplode>{0}が爆発寸前です!</MessageAboutToExplode>
 
   <!-- Childcare -->
   <!-- EN: {FEEDER_labelShort} cannot perform childcare tasks. -->
