@@ -18,6 +18,20 @@
     <li>desc_sentence->[Quantity_adjphrase] suffocating [Animal]s lay on the ground.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee.</li>
   -->
-  <NoxiousHaze.rulePack.rulesStrings>TODO</NoxiousHaze.rulePack.rulesStrings>
+  <NoxiousHaze.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]の[Community]を襲う酸性スモッグの</li>
+    <li>tale_noun->[PAWN_nameDef]の[Community]付近の大気が有害になる</li>
+    <li>image->不吉な空の下,[circumstance_group]</li>
+    <li>image->大気が濃くなる中,[circumstance_group]</li>
+    <li>circumstance_phrase->命が見えない</li>
+    <li>circumstance_phrase->酸性スモッグが晴れるのを待っている</li>
+    <li>circumstance_phrase->動物が逃げるのを見る</li>
+    <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]に隠れ,[AdjectiveAngsty]表情で外を見つめている.</li>
+    <li>desc_sentence->[PAWN_nameDef]は顔に布を巻いているようだ.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]の死骸が地面に横たわっている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の死にゆく[Animal]が地面に横たわっている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の息のできない[Animal]が地面に横たわっている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が逃げている.</li>
+  </NoxiousHaze.rulePack.rulesStrings>
   
 </LanguageData>

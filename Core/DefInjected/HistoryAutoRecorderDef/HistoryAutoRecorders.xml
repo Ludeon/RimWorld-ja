@@ -5,7 +5,7 @@
   <Adaptation.label>復興</Adaptation.label>
   <Adaptation.graphLabelY>日数</Adaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>{0}日数</Adaptation.valueFormat>
+  <Adaptation.valueFormat>{0}日</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>入植者心情</ColonistMood.label>
@@ -16,23 +16,23 @@
   <FreeColonists.graphLabelY>人数</FreeColonists.graphLabelY>
   
   <!-- EN: pop recovery -->
-  <PopAdaptation.label>復興(人)</PopAdaptation.label>
+  <PopAdaptation.label>人員回復</PopAdaptation.label>
   <PopAdaptation.graphLabelY>日数</PopAdaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <PopAdaptation.valueFormat>{0}日数</PopAdaptation.valueFormat>
+  <PopAdaptation.valueFormat>{0}日</PopAdaptation.valueFormat>
   
-  <!-- EN: pop intent x10 --><!--TODO-->
-  <PopIntent.label>pop intent x10</PopIntent.label>
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>人の意欲x10</PopIntent.label>
   <PopIntent.graphLabelY>日数</PopIntent.graphLabelY>
   <!-- EN: {0} days -->
-  <PopIntent.valueFormat>{0}日数</PopIntent.valueFormat>
+  <PopIntent.valueFormat>{0}日</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>囚人</Prisoners.label>
   <Prisoners.graphLabelY>人数</Prisoners.graphLabelY>
   
-  <!-- EN: fun points /10 --><!--TODO-->
-  <ThreatPoints.label>fun ポイント /10</ThreatPoints.label>
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>娯楽ポイント /10</ThreatPoints.label>
   <ThreatPoints.graphLabelY>ポイント</ThreatPoints.graphLabelY>
   <!-- EN: {0} points -->
   <ThreatPoints.valueFormat>{0}ポイント</ThreatPoints.valueFormat>
