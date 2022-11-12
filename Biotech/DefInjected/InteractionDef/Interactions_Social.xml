@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: play -->
-  <BabyPlay.label>TODO</BabyPlay.label>
+  <BabyPlay.label>遊び</BabyPlay.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] made [RECIPIENT_nameDef] [reaction].</li>
     <li>r_logentry->[INITIATOR_nameDef] [interaction] [RECIPIENT_nameDef].</li>
@@ -35,10 +35,41 @@
     <li>babyGame->show-and-tell</li>
     <li>babyGame->fingerpuppets</li>
   -->
-  <BabyPlay.logRulesInitiator.rulesStrings>TODO</BabyPlay.logRulesInitiator.rulesStrings>
+  <BabyPlay.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]は[INITIATOR_nameDef]に[reaction].</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef][interaction].</li>
+    <li>r_logentry->[INITIATOR_nameDefは[RECIPIENT_nameDef]と[babyGame]で遊んだ.</li>
+    <li>reaction->くすくすと笑った</li>
+    <li>reaction->笑顔を向けた</li>
+    <li>reaction->嬉しそうに身もだえた</li>
+    <li>reaction->笑った</li>
+    <li>reaction->ふざけてよだれを垂らした</li>
+    <li>reaction->のどを鳴らした</li>
+    <li>reaction->きゃっきゃと声を上げた</li>
+    <li>reaction->ゲップをした</li>
+    <li>reaction->ジッと目を向けた</li>
+    <li>interaction->を喜ばせた</li>
+    <li>interaction->と一緒に遊んだ</li>
+    <li>interaction->を楽しませた</li>
+    <li>interaction->を笑わせた</li>
+    <li>interaction->をくすぐった</li>
+    <li>interaction->に鼻を摺り寄せた</li>
+    <li>interaction->に鼻をフンフンさせた</li>
+    <li>interaction->を抱きしめた</li>
+    <li>interaction->を高い高いした</li>
+    <li>interaction->に歌を歌った</li>
+    <li>interaction->に物語を話した</li>
+    <li>interaction->に手品を見せた</li>
+    <li>babyGame->かくれんぼ</li>
+    <li>babyGame->いないいないばぁ</li>
+    <li>babyGame->ファインドザフィンガー</li>
+    <li>babyGame->物真似</li>
+    <li>babyGame->物自慢</li>
+    <li>babyGame->指人形</li>
+  </BabyPlay.logRulesInitiator.rulesStrings>
   
   <!-- EN: animal lesson -->
-  <LessonAnimals.label>TODO</LessonAnimals.label>
+  <LessonAnimals.label>動物の授業</LessonAnimals.label>
   <!-- EN:
     <li>r_logentry(p=4)->[INITIATOR_nameDef] [teach_verb] how to [animal_verb] [article_animal] to [RECIPIENT_nameDef].</li>
     <li>article_animal->a megasloth</li>
@@ -67,10 +98,37 @@
     <li>subject->scaria</li>
     <li>subject->kibble</li>
   -->
-  <LessonAnimals.logRulesInitiator.rulesStrings>TODO</LessonAnimals.logRulesInitiator.rulesStrings>
+  <LessonAnimals.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=4)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[article_animal]の[animal_verb]を[teach_verb].</li>
+    <li>article_animal->メガスロス</li>
+    <li>article_animal->メガスパイダー</li>
+    <li>article_animal->スランボ</li>
+    <li>article_animal->ボムネズミ</li>
+    <li>article_animal->チンチラ</li>
+    <li>article_animal->モルモット</li>
+    <li>article_animal->コブラ</li>
+    <li>article_animal->エミュー</li>
+    <li>article_animal->イグアナ</li>
+    <li>article_animal->アライグマ</li>
+    <li>article_animal->ワーグ</li>
+    <li>article_animal->ヤク</li>
+    <li>article_animal->リス</li>
+    <li>article_animal->マッファロー</li>
+    <li>animal_verb->手懐け方</li>
+    <li>animal_verb->餌の与え方</li>
+    <li>animal_verb->落ち着かせ方</li>
+    <li>animal_verb->怖がらせ方</li>
+    <li>animal_verb->信頼の得方</li>
+    <li>subject->動物心理学</li>
+    <li>subject->手懐け技術</li>
+    <li>subject->危険な野生動物</li>
+    <li>subject->爬虫類</li>
+    <li>subject->スカリア</li>
+    <li>subject->ペットフード</li>
+</LessonAnimals.logRulesInitiator.rulesStrings>
   
   <!-- EN: art lesson -->
-  <LessonArtistic.label>TODO</LessonArtistic.label>
+  <LessonArtistic.label>アートの授業</LessonArtistic.label>
   <!-- EN:
     <li>article_tool->a paint brush</li>
     <li>article_tool->a charcoal pencil</li>
@@ -91,10 +149,29 @@
     <li>subject->abstract art</li>
     <li>subject->mixing paints</li>
   -->
-  <LessonArtistic.logRulesInitiator.rulesStrings>TODO</LessonArtistic.logRulesInitiator.rulesStrings>
+  <LessonArtistic.logRulesInitiator.rulesStrings>
+    <li>article_tool->絵筆</li>
+    <li>article_tool->チャコールペンシル</li>
+    <li>article_tool->ノミ</li>
+    <li>article_tool->キャンバス</li>
+    <li>article_tool->粘土の塊</li>
+    <li>action->でアートを作る</li>
+    <li>action->を使う</li>
+    <li>action->で自分を表現する</li>
+    <li>action_gerund->でアートを作ること</li>
+    <li>action_gerund->を使うこと</li>
+    <li>action_gerund->で自分を表現すること</li>
+    <li>subject->彫刻材料</li>
+    <li>subject->有名な芸術家</li>
+    <li>subject->有名な画家</li>
+    <li>subject->グリッターワールドの絵画</li>
+    <li>subject->肖像画</li>
+    <li>subject->抽象画</li>
+    <li>subject->塗料の混合</li>
+  </LessonArtistic.logRulesInitiator.rulesStrings>
   
   <!-- EN: construction lesson -->
-  <LessonConstruction.label>TODO</LessonConstruction.label>
+  <LessonConstruction.label>建築の授業</LessonConstruction.label>
   <!-- EN:
     <li>article_tool->a hammer</li>
     <li>article_tool->a table saw</li>
@@ -114,10 +191,28 @@
     <li>subject->modeling software</li>
     <li>subject->blueprints</li>
   -->
-  <LessonConstruction.logRulesInitiator.rulesStrings>TODO</LessonConstruction.logRulesInitiator.rulesStrings>
+  <LessonConstruction.logRulesInitiator.rulesStrings>
+    <li>article_tool->ハンマー</li>
+    <li>article_tool->テーブルソー</li>
+    <li>article_tool->定規</li>
+    <li>article_tool->はしご</li>
+    <li>article_tool->水準器</li>
+    <li>action->を使う</li>
+    <li>action->で仕事する</li>
+    <li>action->を点検する</li>
+    <li>action_gerund->を使うこと</li>
+    <li>action_gerund->で仕事すること</li>
+    <li>action_gerund->を点検すること</li>
+    <li>subject->建築様式</li>
+    <li>subject->建築技術</li>
+    <li>subject->解体技術</li>
+    <li>subject->建材</li>
+    <li>subject->モデリングソフトウェア</li>
+    <li>subject->設計図</li>
+  </LessonConstruction.logRulesInitiator.rulesStrings>
   
   <!-- EN: cooking lesson -->
-  <LessonCooking.label>TODO</LessonCooking.label>
+  <LessonCooking.label>料理の授業</LessonCooking.label>
   <!-- EN:
     <li>article_tool->a stove</li>
     <li>article_tool->a spatula</li>
@@ -140,10 +235,31 @@
     <li>situation->in a hurry</li>
     <li>situation->safely</li>
   -->
-  <LessonCooking.logRulesInitiator.rulesStrings>TODO</LessonCooking.logRulesInitiator.rulesStrings>
+  <LessonCooking.logRulesInitiator.rulesStrings>
+    <li>article_tool->コンロ</li>
+    <li>article_tool->ヘラ</li>
+    <li>article_tool->オーブン</li>
+    <li>article_tool->鍋</li>
+    <li>article_tool->ペーストディスペンサー</li>
+    <li>article_tool->食肉加工台</li>
+    <li>action->をキレイにする</li>
+    <li>action->で料理する</li>
+    <li>action_gerund->をキレイにすること</li>
+    <li>action_gerund->で料理すること</li>
+    <li>subject->スパイス</li>
+    <li>subject->非常用食品</li>
+    <li>subject->卵の品種</li>
+    <li>subject->肉の種類</li>
+    <li>subject->味</li>
+    <li>subject->レシピ</li>
+    <li>situation->キャラバン中</li>
+    <li>situation->目隠ししながら</li>
+    <li>situation->急いで</li>
+    <li>situation->安全に</li>
+  </LessonCooking.logRulesInitiator.rulesStrings>
   
   <!-- EN: crafting lesson -->
-  <LessonCrafting.label>TODO</LessonCrafting.label>
+  <LessonCrafting.label>工芸の授業</LessonCrafting.label>
   <!-- EN:
     <li>article_tool->a screwdriver</li>
     <li>article_tool->a pair of pliers</li>
@@ -170,17 +286,44 @@
     <li>situation->by candlelight</li>
     <li>situation(p=0.1)->while drunk</li>
   -->
-  <LessonCrafting.logRulesInitiator.rulesStrings>TODO</LessonCrafting.logRulesInitiator.rulesStrings>
+  <LessonCrafting.logRulesInitiator.rulesStrings>
+    <li>article_tool->ドライバー</li>
+    <li>article_tool->ペンチ</li>
+    <li>article_tool->回路基板</li>
+    <li>article_tool->ミシン台</li>
+    <li>article_tool->精密工作機械</li>
+    <li>article_tool->加工業者</li>
+    <li>action->を使う</li>
+    <li>action->で仕事する</li>
+    <li>action->で検査する</li>
+    <li>action_gerund->を使うこと</li>
+    <li>action_gerund->で仕事すること</li>
+    <li>action_gerund->で検査すること</li>
+    <li>subject->整理ツール</li>
+    <li>subject->修繕技術</li>
+    <li>subject->ガジェット</li>
+    <li>subject->生地の種類</li>
+    <li>subject->布織り技術</li>
+    <li>subject->プレートアーマー</li>
+    <li>subject->ユーティリティベルト</li>
+    <li>subject->バイオニクス</li>
+    <li>situation->安全に</li>
+    <li>situation->指示なしで</li>
+    <li>situation->ろうそくの明かりで</li>
+    <li>situation(p=0.1)->酔っ払った状態で</li>
+  </LessonCrafting.logRulesInitiator.rulesStrings>
   
   <!-- EN: lesson -->
-  <LessonGeneric.label>TODO</LessonGeneric.label>
+  <LessonGeneric.label>授業</LessonGeneric.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] taught a lesson to [RECIPIENT_nameDef]</li>
   -->
-  <LessonGeneric.logRulesInitiator.rulesStrings>TODO</LessonGeneric.logRulesInitiator.rulesStrings>
+  <LessonGeneric.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]が[RECIPIENT_nameDef]に授業を行った</li>
+  </LessonGeneric.logRulesInitiator.rulesStrings>
   
   <!-- EN: intellectual lesson -->
-  <LessonIntellectual.label>TODO</LessonIntellectual.label>
+  <LessonIntellectual.label>知力の授業</LessonIntellectual.label>
   <!-- EN:
     <li>subject->genetics</li>
     <li>subject->techprints</li>
@@ -195,10 +338,23 @@
     <li>subject->seminal whitepapers</li>
     <li>subject->Johnson-Tanaka propulsion</li>
   -->
-  <LessonIntellectual.logRulesInitiator.rulesStrings>TODO</LessonIntellectual.logRulesInitiator.rulesStrings>
+  <LessonIntellectual.logRulesInitiator.rulesStrings>
+    <li>subject->遺伝学</li>
+    <li>subject->テックプリント</li>
+    <li>subject->マルチアナライザーの機能</li>
+    <li>subject->哲学</li>
+    <li>subject->数学</li>
+    <li>subject->生物学</li>
+    <li>subject->化学</li>
+    <li>subject->アルコテックの謎</li>
+    <li>subject->宇宙船リアクター</li>
+    <li>subject->科学的方法</li>
+    <li>subject->独創的なホワイトペーパー</li>
+    <li>subject->ジョンソン-タナカ推進力</li>
+  </LessonIntellectual.logRulesInitiator.rulesStrings>
   
   <!-- EN: medical lesson -->
-  <LessonMedicine.label>TODO</LessonMedicine.label>
+  <LessonMedicine.label>薬学の授業</LessonMedicine.label>
   <!-- EN:
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [teach_verb] how to [medical_verb] [hediff] to [RECIPIENT_nameDef].</li>
     <li>article_tool->a medicine pack</li>
@@ -233,10 +389,43 @@
     <li>subject->bedside manner</li>
     <li>subject->sterilization methods</li>
   -->
-  <LessonMedicine.logRulesInitiator.rulesStrings>TODO</LessonMedicine.logRulesInitiator.rulesStrings>
+  <LessonMedicine.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef][RECIPIENT_nameDef]に[hediff]を[medical_verb]方法を[teach_verb].</li>
+    <li>article_tool->薬の包装</li>
+    <li>article_tool->絆創膏</li>
+    <li>article_tool->注射器</li>
+    <li>article_tool->ヒールルート</li>
+    <li>article_tool->バイタルモニター</li>
+    <li>article_tool->メス</li>
+    <li>article_tool->ヒーラーシーラムの使用法</li>
+    <li>article_tool->ペインストッパー</li>
+    <li>action->を使う</li>
+    <li>action->で検査する</li>
+    <li>action_gerund->を使うこと</li>
+    <li>action_gerund->で検査すること</li>
+    <li>hediff->失血</li>
+    <li>hediff->心臓発作</li>
+    <li>hediff->熱中症</li>
+    <li>hediff->食中毒</li>
+    <li>hediff->悪性腫瘍</li>
+    <li>hediff->回虫</li>
+    <li>hediff->せん毛虫</li>
+    <li>hediff->麻痺性歩行不能症</li>
+    <li>hediff->マラリア</li>
+    <li>hediff->インフルエンザ</li>
+    <li>hediff->肝硬変</li>
+    <li>medical_verb->診断する</li>
+    <li>medical_verb->トリアージする</li>
+    <li>medical_verb->扱う</li>
+    <li>subject->麻酔投与</li>
+    <li>subject->がんの種類</li>
+    <li>subject->外科処置</li>
+    <li>subject->ベッドサイドマナー</li>
+    <li>subject->殺菌方法</li>
+  </LessonMedicine.logRulesInitiator.rulesStrings>
   
   <!-- EN: melee lesson -->
-  <LessonMelee.label>TODO</LessonMelee.label>
+  <LessonMelee.label>近接戦闘の授業</LessonMelee.label>
   <!-- EN:
     <li>article_tool->an axe</li>
     <li>article_tool->a club</li>
@@ -263,10 +452,35 @@
     <li>action_gerund->using</li>
     <li>action_gerund->swinging</li>
   -->
-  <LessonMelee.logRulesInitiator.rulesStrings>TODO</LessonMelee.logRulesInitiator.rulesStrings>
+  <LessonMelee.logRulesInitiator.rulesStrings>
+    <li>article_tool->斧</li>
+    <li>article_tool->クラブ</li>
+    <li>article_tool->剣</li>
+    <li>article_tool->エルボーブレード</li>
+    <li>article_tool->爪</li>
+    <li>article_tool->ロングソード</li>
+    <li>article_tool->モノソード</li>
+    <li>article_tool->プラズマソード</li>
+    <li>article_tool->スピア</li>
+    <li>article_tool->メイス</li>
+    <li>article_tool->ウォーハンマー</li>
+    <li>article_tool->拳</li>
+    <li>action->を回避する</li>
+    <li>action->で戦う</li>
+    <li>action->で反撃する</li>
+    <li>action->を手入れする</li>
+    <li>action->を使う</li>
+    <li>action->を振る</li>
+    <li>action_gerund->を回避すること</li>
+    <li>action_gerund->で戦うこと</li>
+    <li>action_gerund->で反撃すること</li>
+    <li>action_gerund->を手入れすること</li>
+    <li>action_gerund->を使うこと</li>
+    <li>action_gerund->を振ること</li>
+  </LessonMelee.logRulesInitiator.rulesStrings>
   
   <!-- EN: mining lesson -->
-  <LessonMining.label>TODO</LessonMining.label>
+  <LessonMining.label>採掘の授業</LessonMining.label>
   <!-- EN:
     <li>article_tool->a pickaxe</li>
     <li>article_tool->a deep drill</li>
@@ -289,10 +503,31 @@
     <li>subject->cave-dwelling insects</li>
     <li>situation(p=2)->underground</li>
   -->
-  <LessonMining.logRulesInitiator.rulesStrings>TODO</LessonMining.logRulesInitiator.rulesStrings>
+  <LessonMining.logRulesInitiator.rulesStrings>
+    <li>article_tool->つるはし</li>
+    <li>article_tool->深部ドリル</li>
+    <li>article_tool->シャベル</li>
+    <li>article_tool->長距離鉱物探査スキャナー</li>
+    <li>article_tool->地殻深部スキャナー</li>
+    <li>action->を使う</li>
+    <li>action->で採掘する</li>
+    <li>action->で仕事する</li>
+    <li>action->で調べる</li>
+    <li>action_gerund->を使うこと</li>
+    <li>action_gerund->で採掘すること</li>
+    <li>action_gerund->で仕事すること</li>
+    <li>action_gerund->で調べること</li>
+    <li>subject->鉱脈</li>
+    <li>subject->貴重な宝石</li>
+    <li>subject->地質学</li>
+    <li>subject->地下道</li>
+    <li>subject->底質分析</li>
+    <li>subject->cave-生息する昆虫</li>
+    <li>situation(p=2)->地下</li>
+  </LessonMining.logRulesInitiator.rulesStrings>
   
   <!-- EN: gardening lesson -->
-  <LessonPlants.label>TODO</LessonPlants.label>
+  <LessonPlants.label>ガーデニングの授業</LessonPlants.label>
   <!-- EN:
     <li>article_tool->a sun lamp</li>
     <li>article_tool->a hydroponics basin</li>
@@ -312,10 +547,28 @@
     <li>subject->anima trees</li>
     <li>subject->gauranlen trees</li>
   -->
-  <LessonPlants.logRulesInitiator.rulesStrings>TODO</LessonPlants.logRulesInitiator.rulesStrings>
+  <LessonPlants.logRulesInitiator.rulesStrings>
+    <li>article_tool->太陽灯</li>
+    <li>article_tool->水耕栽培器</li>
+    <li>article_tool->スプリンクラー</li>
+    <li>article_tool->シャベル</li>
+    <li>article_tool->剪定ばさみ</li>
+    <li>action->で園芸をする</li>
+    <li>action->を使う</li>
+    <li>action->で調べる</li>
+    <li>action_gerund->で園芸をすること</li>
+    <li>action_gerund->を使うこと</li>
+    <li>action_gerund->で調べること</li>
+    <li>subject->土壌の種類</li>
+    <li>subject->農薬</li>
+    <li>subject->灌漑技術</li>
+    <li>subject->サボテンの品種</li>
+    <li>subject->アニマツリー</li>
+    <li>subject->ガウランレンツリー</li>
+  </LessonPlants.logRulesInitiator.rulesStrings>
   
   <!-- EN: shooting lesson -->
-  <LessonShooting.label>TODO</LessonShooting.label>
+  <LessonShooting.label>射撃の授業</LessonShooting.label>
   <!-- EN:
     <li>article_tool->a rifle</li>
     <li>article_tool->a pistol</li>
@@ -335,10 +588,28 @@
     <li>action_gerund->caring for</li>
     <li>action_gerund->reloading</li>
   -->
-  <LessonShooting.logRulesInitiator.rulesStrings>TODO</LessonShooting.logRulesInitiator.rulesStrings>
+  <LessonShooting.logRulesInitiator.rulesStrings>
+    <li>article_tool->ライフル</li>
+    <li>article_tool->ピストル</li>
+    <li>article_tool->ショットガン</li>
+    <li>article_tool->ロケットランチャー</li>
+    <li>article_tool->サブマシンガン</li>
+    <li>article_tool->ミニガン</li>
+    <li>article_tool->ショートボウ</li>
+    <li>article_tool->リカーブボウ</li>
+    <li>article_tool->グレートボウ</li>
+    <li>action->で狙いをつける</li>
+    <li>action->で撃つ</li>
+    <li>action->の手入れをする</li>
+    <li>action->にリロードする</li>
+    <li>action_gerund->で狙いをつけること</li>
+    <li>action_gerund->で撃つこと</li>
+    <li>action_gerund->の手入れをすること</li>
+    <li>action_gerund->にリロードすること</li>
+  </LessonShooting.logRulesInitiator.rulesStrings>
   
   <!-- EN: social lesson -->
-  <LessonSocial.label>TODO</LessonSocial.label>
+  <LessonSocial.label>社交の授業</LessonSocial.label>
   <!-- EN:
     <li>subject->public speaking</li>
     <li>subject->faction relations</li>
@@ -350,10 +621,20 @@
     <li>subject->naughty words</li>
     <li>subject->sign language</li>
   -->
-  <LessonSocial.logRulesInitiator.rulesStrings>TODO</LessonSocial.logRulesInitiator.rulesStrings>
+  <LessonSocial.logRulesInitiator.rulesStrings>
+    <li>subject->人前で話すこと</li>
+    <li>subject->派閥関係</li>
+    <li>subject->囚人勧誘</li>
+    <li>subject->値切りテクニック</li>
+    <li>subject->関係の維持</li>
+    <li>subject->慰めるときのマナー</li>
+    <li>subject->士気向上</li>
+    <li>subject->嫌な思いをさせる言葉</li>
+    <li>subject->手話</li>
+  </LessonSocial.logRulesInitiator.rulesStrings>
   
   <!-- EN: sanguophage chat -->
-  <SanguophageChat.label>TODO</SanguophageChat.label>
+  <SanguophageChat.label>サングオファージと会話</SanguophageChat.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
@@ -426,6 +707,77 @@
     <li>planType->destroying sanguophage hunters</li>
     <li>planType->enjoying endless life</li>
   -->
-  <SanguophageChat.logRulesInitiator.rulesStrings>TODO</SanguophageChat.logRulesInitiator.rulesStrings>
+  <SanguophageChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]と[RECIPIENT_nameDef]は[subject][talkedabout].</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]と一緒に[subject][talkedabout].</li>
+    <li>talkedabout->について話した</li>
+    <li>talkedabout->について会話した</li>
+    <li>talkedabout->について小声で話した</li>
+    <li>talkedabout(p=0.5)->について[adverb]話した</li>
+    <li>talkedabout(p=0.5)->について[adverb]会話した</li>
+    <li>talkedabout(p=0.5)->について[adverb]小声で話した</li>
+    <li>talkedabout->についての情報を共有した</li>
+    <li>talkedabout->について意見を交わした</li>
+    <li>talkedabout->について考えを共有した</li>
+    <li>talkedabout->についての共通の関心を表明した</li>
+    <li>talkedabout->について議論した</li>
+    <li>talkedabout->について主張した</li>
+    <li>talkedabout->の噂話を共有した</li>
+    <li>adverb->友好的に</li>
+    <li>adverb->静かに</li>
+    <li>adverb->穏やかに</li>
+    <li>adverb->愛想を尽かしながら</li>
+    <li>adverb->苦々しそうに</li>
+    <li>adverb->疲れた様子で</li>
+    <li>adverb->思慮深く</li>
+    <li>adverb->辛抱強く</li>
+    <li>adverb->険しい様子で</li>
+    <li>adverb->しんみりと</li>
+    <li>subject(p=20)->[planType]計画</li>
+    <li>subject(p=0.1)->[TalkTopicHeavy]</li>
+    <li>subject->ヘモゲン</li>
+    <li>subject->血の品質</li>
+    <li>subject->カニバリズム</li>
+    <li>subject->死眠できないこと</li>
+    <li>subject->エントロピー</li>
+    <li>subject->永遠の時間</li>
+    <li>subject->時間の経過</li>
+    <li>subject->生と死</li>
+    <li>subject->死眠</li>
+    <li>subject->勝手に死ぬこと</li>
+    <li>subject->しもべ</li>
+    <li>subject->人間性</li>
+    <li>subject->炎</li>
+    <li>subject->燃えること</li>
+    <li>subject->苦痛</li>
+    <li>subject->苦悩</li>
+    <li>subject->首を切ること</li>
+    <li>subject->敵を奴隷にすること</li>
+    <li>subject->拷問の方法</li>
+    <li>subject->アルカイト</li>
+    <li>subject->遺伝学</li>
+    <li>subject->遺伝子</li>
+    <li>subject->ゼノタイプ</li>
+    <li>subject->サングオファージ</li>
+    <li>subject->ユサール</li>
+    <li>subject->インピッド</li>
+    <li>subject->ダートモール</li>
+    <li>subject->ジーニー</li>
+    <li>subject->ネアンデルタール</li>
+    <li>subject->ピッグスキン</li>
+    <li>subject->ウェイスター</li>
+    <li>subject->深い歴史</li>
+    <li>subject->未来の歴史</li>
+    <li>planType->支配する</li>
+    <li>planType->逃げる</li>
+    <li>planType->溶け込む</li>
+    <li>planType->影響力を行使する</li>
+    <li>planType->ヘモゲンを集める</li>
+    <li>planType->技術を習得する</li>
+    <li>planType->別の惑星で繫栄する</li>
+    <li>planType->人間に影響を与える</li>
+    <li>planType->サングオファージハンターを倒す</li>
+    <li>planType->終わりのない人生を楽しむ</li>
+  </SanguophageChat.logRulesInitiator.rulesStrings>
   
 </LanguageData>

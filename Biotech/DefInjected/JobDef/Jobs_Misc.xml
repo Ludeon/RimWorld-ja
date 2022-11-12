@@ -2,81 +2,81 @@
 <LanguageData>
   
   <!-- EN: absorbing xenogerm from TargetA. -->
-  <AbsorbXenogerm.reportString>TODO</AbsorbXenogerm.reportString>
+  <AbsorbXenogerm.reportString>TargetAから異種胚を抽出している</AbsorbXenogerm.reportString>
   
   <!-- EN: hauling TargetA to TargetB. -->
-  <CarryGenepackToContainer.reportString>TODO</CarryGenepackToContainer.reportString>
+  <CarryGenepackToContainer.reportString>TargetAをTargetBに運んでいる</CarryGenepackToContainer.reportString>
   
   <!-- EN: carrying TargetB to TargetA. -->
-  <CarryToBuilding.reportString>TODO</CarryToBuilding.reportString>
+  <CarryToBuilding.reportString>TargetBをTargetAに運んでいる</CarryToBuilding.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityGoToThing.reportString>TODO</CastAbilityGoToThing.reportString>
+  <CastAbilityGoToThing.reportString>行動中</CastAbilityGoToThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingWithoutWeapon.reportString>TODO</CastAbilityOnThingWithoutWeapon.reportString>
+  <CastAbilityOnThingWithoutWeapon.reportString>行動中</CastAbilityOnThingWithoutWeapon.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>TODO</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>行動中</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
   
   <!-- EN: cleaning pollution. -->
-  <ClearPollution.reportString>TODO</ClearPollution.reportString>
+  <ClearPollution.reportString>汚染を除去している</ClearPollution.reportString>
   
   <!-- EN: taking control of TargetA. -->
-  <ControlMech.reportString>TODO</ControlMech.reportString>
+  <ControlMech.reportString>TargetAを制御している</ControlMech.reportString>
   
   <!-- EN: creating xenogerm. -->
-  <CreateXenogerm.reportString>TODO</CreateXenogerm.reportString>
+  <CreateXenogerm.reportString>異種胚を作成している</CreateXenogerm.reportString>
   
   <!-- EN: deathresting. -->
-  <Deathrest.reportString>TODO</Deathrest.reportString>
+  <Deathrest.reportString>死眠している</Deathrest.reportString>
   
   <!-- EN: disassembling TargetA. -->
-  <DisassembleMech.reportString>TODO</DisassembleMech.reportString>
+  <DisassembleMech.reportString>TargetAを分解している</DisassembleMech.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterBuilding.reportString>TODO</EnterBuilding.reportString>
+  <EnterBuilding.reportString>TargetAに入っている</EnterBuilding.reportString>
   
   <!-- EN: absorbing xenogerm from TargetA. -->
-  <GetReimplanted.reportString>TODO</GetReimplanted.reportString>
+  <GetReimplanted.reportString>TargetAから異種胚を抽出している</GetReimplanted.reportString>
   
   <!-- EN: hauling TargetA to charger. -->
-  <HaulMechToCharger.reportString>TODO</HaulMechToCharger.reportString>
+  <HaulMechToCharger.reportString>TargetAを充電器に運んでいる</HaulMechToCharger.reportString>
   
   <!-- EN: installing TargetA. -->
-  <InstallMechlink.reportString>TODO</InstallMechlink.reportString>
+  <InstallMechlink.reportString>TargetAをインストールしている</InstallMechlink.reportString>
   
   <!-- EN: charging. -->
-  <MechCharge.reportString>TODO</MechCharge.reportString>
+  <MechCharge.reportString>充電中</MechCharge.reportString>
   
   <!-- EN: feeding on TargetA. -->
-  <PrisonerBloodfeed.reportString>TODO</PrisonerBloodfeed.reportString>
+  <PrisonerBloodfeed.reportString>TargetAを吸血している</PrisonerBloodfeed.reportString>
   
   <!-- EN: decrypting TargetA. -->
-  <ReadDatacore.reportString>TODO</ReadDatacore.reportString>
+  <ReadDatacore.reportString>TargetAを解析している</ReadDatacore.reportString>
   
   <!-- EN: releasing mechanoids. -->
-  <ReleaseMechs.reportString>TODO</ReleaseMechs.reportString>
+  <ReleaseMechs.reportString>メカノイドを解放している</ReleaseMechs.reportString>
   
   <!-- EN: Doing something. -->
-  <RemoveMechlink.reportString>TODO</RemoveMechlink.reportString>
+  <RemoveMechlink.reportString>行動中</RemoveMechlink.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <RepairMech.reportString>TODO</RepairMech.reportString>
+  <RepairMech.reportString>TargetAを修理している</RepairMech.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <RepairMechRemote.reportString>TODO</RepairMechRemote.reportString>
+  <RepairMechRemote.reportString>TargetAを遠隔修理している</RepairMechRemote.reportString>
   
   <!-- EN: dormant self-charging. -->
-  <SelfShutdown.reportString>TODO</SelfShutdown.reportString>
+  <SelfShutdown.reportString>休眠による自己充電中</SelfShutdown.reportString>
   
   <!-- EN: shielding TargetA. -->
-  <ShieldMech.reportString>TODO</ShieldMech.reportString>
+  <ShieldMech.reportString>TargetAにシールドを張っている</ShieldMech.reportString>
   
   <!-- EN: romancing TargetA. -->
-  <TryRomance.reportString>TODO</TryRomance.reportString>
+  <TryRomance.reportString>TargetAにロマンスしている</TryRomance.reportString>
   
   <!-- EN: waiting. -->
-  <Wait_WithSleeping.reportString>TODO</Wait_WithSleeping.reportString>
+  <Wait_WithSleeping.reportString>待機中</Wait_WithSleeping.reportString>
   
 </LanguageData>
