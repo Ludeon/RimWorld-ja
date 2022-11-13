@@ -4,7 +4,7 @@
   <!-- EN: infant illness -->
   <InfantIllness.label>新生児疾患</InfantIllness.label>
   <!-- EN: Effects of various birth complications. If the baby can survive for 10 days, they will be strong enough to recover on their own.\n\nThe illness will wax and wane in strength over time, requiring different levels of tending and medicine to recover. -->
-  <InfantIllness.description>さまざまな出産合併症の影響.赤ん坊が10日間生き延びることができれば,自力で回復できるほど強くなります.\n\nこの病気は時間の経過とともに強くなったり弱くなったりするため,回復にはさまざまなレベルの治療と薬が必要になります。</InfantIllness.description>
+  <InfantIllness.description>さまざまな出産合併症の影響.赤ん坊が10日間生き延びることができれば,自力で回復できるほど強くなります.\n\nこの病気は時間の経過とともに強くなったり弱くなったりするため,回復にはさまざまなレベルの治療と薬が必要になります.</InfantIllness.description>
   <!-- EN: {PAWN_labelShort}'s infant illness went from {1} to {2}. -->
   <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>{PAWN_labelShort}の幼児の病気は{1}から{2}へと変化した</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
   <!-- EN: that are life threatening without exceptional medical care and glitterworld medicine. -->

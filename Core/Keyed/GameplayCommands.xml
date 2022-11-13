@@ -99,7 +99,7 @@
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOffPrisonerBedWarning>部屋内の全てのベッドが入植者用になります(囚人と入植者は同じ部屋で寝れません).\n\n以下の囚人はベッドの所有権を失います.</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
-  <AreYouSure>本当によろしいですか？</AreYouSure>
+  <AreYouSure>本当によろしいですか?</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <ChangingOwnerTypeBedWarning>ベッドの使用用途を変更すると,全てのベッドが影響を受けます(囚人,奴隷,入植者は同じ部屋で寝れません).\n\n以下の人物はベッドの所有権を失います.</ChangingOwnerTypeBedWarning>
 
@@ -409,7 +409,7 @@
   <!-- EN: Get on board the ship and escape the planet. -->
   <CommandTakeOffDesc>船に乗り込み,惑星を離脱する.</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
-  <CommandTakeOffConfirmation>宇宙船を発進させても良いですか？\n\nこのエリアの全員が惑星より脱出します.他の者は置き去りになるでしょう.</CommandTakeOffConfirmation>
+  <CommandTakeOffConfirmation>宇宙船を発進させても良いですか?\n\nこのエリアの全員が惑星より脱出します.他の者は置き去りになるでしょう.</CommandTakeOffConfirmation>
 
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->

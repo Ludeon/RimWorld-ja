@@ -8,13 +8,22 @@
     <li>situation->while injured</li>
     <li>situation(p=0.2)->while drunk</li>
   -->
-  <LessonInteractionCommonSituations.rulePack.rulesStrings>TODO</LessonInteractionCommonSituations.rulePack.rulesStrings>
+  <LessonInteractionCommonSituations.rulePack.rulesStrings>
+    <li>situation(p=2)->安全に</li>
+    <li>situation->夜に</li>
+    <li>situation->寒い場所で</li>
+    <li>situation->怪我をしているときに</li>
+    <li>situation(p=0.2)->酔っ払った状態で</li>
+  </LessonInteractionCommonSituations.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_adverb] [teach_verb] how to [action] [article_tool] to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [teach_verb] how to [action] [article_tool] to [RECIPIENT_nameDef].</li>
   -->
-  <LessonInteractionHowTo.rulePack.rulesStrings>TODO</LessonInteractionHowTo.rulePack.rulesStrings>
+  <LessonInteractionHowTo.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef]は[teach_adverb][RECIPIENT_nameDef]に[article_tool][action]方法について[teach_verb].</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[article_tool][action]方法について[teach_verb].</li>
+  </LessonInteractionHowTo.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_test] [RECIPIENT_nameDef] on [action_gerund] [article_tool] [situation].</li>
@@ -23,7 +32,13 @@
     <li>teach_test->grilled</li>
     <li>teach_test->cross-examined</li>
   -->
-  <LessonInteractionQuiz.rulePack.rulesStrings>TODO</LessonInteractionQuiz.rulePack.rulesStrings>
+  <LessonInteractionQuiz.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[situation][article_tool][action_gerund]について[teach_test].</li>
+    <li>teach_test->クイズを出した</li>
+    <li>teach_test->テストをした</li>
+    <li>teach_test->厳しく質問した</li>
+    <li>teach_test->問いただした</li>
+  </LessonInteractionQuiz.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [study_verb] [subject] with [RECIPIENT_nameDef].</li>
@@ -33,7 +48,14 @@
     <li>study_verb->researched</li>
     <li>study_verb->studied</li>
   -->
-  <LessonInteractionStudySubjectWith.rulePack.rulesStrings>TODO</LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+  <LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+    <li>r_logentry(p=0.25)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]と一緒に[teach_adverb][subject][study_verb].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]と一緒に[subject][study_verb].</li>
+    <li>study_verb->について話した</li>
+    <li>study_verb->についてよく調べた</li>
+    <li>study_verb->の研究をした</li>
+    <li>study_verb->について勉強した</li>
+  </LessonInteractionStudySubjectWith.rulePack.rulesStrings>
   
   <!-- EN:
     <li>teach_adverb->calmly</li>
@@ -43,7 +65,14 @@
     <li>teach_adverb->lightheartedly</li>
     <li>teach_adverb->carefully</li>
   -->
-  <LessonInteractionTeachingAdverbs.rulePack.rulesStrings>TODO</LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+  <LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+    <li>teach_adverb->冷静に</li>
+    <li>teach_adverb->楽し気に</li>
+    <li>teach_adverb->熱心に</li>
+    <li>teach_adverb->素早く</li>
+    <li>teach_adverb->気軽に</li>
+    <li>teach_adverb->慎重に</li>
+  </LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
   
   <!-- EN:
     <li>teach_verb->demonstrated</li>
@@ -51,7 +80,12 @@
     <li>teach_verb->showed</li>
     <li>teach_verb->taught</li>
   -->
-  <LessonInteractionTeachingVerbs.rulePack.rulesStrings>TODO</LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+  <LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+    <li>teach_verb->実証した</li>
+    <li>teach_verb->説明した</li>
+    <li>teach_verb->やって見せた</li>
+    <li>teach_verb->教えた</li>
+  </LessonInteractionTeachingVerbs.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [talk_verb] [subject] to [RECIPIENT_nameDef].</li>
@@ -61,6 +95,13 @@
     <li>talk_verb->gave a summary of</li>
     <li>talk_verb->lectured about</li>
   -->
-  <LessonInteractionTeachSubjectTo.rulePack.rulesStrings>TODO</LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+  <LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+    <li>r_logentry(p=0.25)->[INITIATOR_nameDef]は[teach_adverb][RECIPIENT_nameDef]に[subject]について[talk_verb].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[subject]について[talk_verb].</li>
+    <li>talk_verb->話した</li>
+    <li>talk_verb->概要を話した</li>
+    <li>talk_verb->大雑把に教えた</li>
+    <li>talk_verb->講義した</li>
+  </LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
   
 </LanguageData>

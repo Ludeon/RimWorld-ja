@@ -53,7 +53,7 @@
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
   <RequestMilitaryAid>急ぎの援軍を要求する(コスト: {0}友好値)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
-  <MilitaryAidConfirmMutualEnemy>{0}は, 新たな敵を作ってまで助けるつもりはないと言っています. どうやらあなたを脅かしている{1}のことのようです. あなたはそれでも援助を要請しますか？</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy>{0}は, 新たな敵を作ってまで助けるつもりはないと言っています. どうやらあなたを脅かしている{1}のことのようです. あなたはそれでも援助を要請しますか?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
   <CallConfirm>ああ,とにかく来て欲しい.</CallConfirm>
   <!-- EN: No, never mind. -->

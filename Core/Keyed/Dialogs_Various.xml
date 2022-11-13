@@ -110,7 +110,7 @@
   <!-- EN: Overwrite -->
   <OverwriteButton>上書き</OverwriteButton>
   <!-- EN: Really delete {0}? -->
-  <ConfirmDelete>本当に {0} を削除しますか？</ConfirmDelete>
+  <ConfirmDelete>本当に {0} を削除しますか?</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
   <DeleteThisSavegame>このセーブデータを削除します.</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
@@ -150,7 +150,7 @@
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
-  <NamePlayerFactionMessage>あなたが,この地に腰を下ろそうとして以来,あなたが派閥のネーミングをするべきだと,{0}は考えています.あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>あなたが,この地に腰を下ろそうとして以来,あなたが派閥のネーミングをするべきだと,{0}は考えています.あなたの派閥を何と呼べば良いですか?</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
   <PlayerFactionGainsName>あなたは派閥を{0}と名乗りました.</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
@@ -158,7 +158,7 @@
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか?</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>ここを{0}と命名しました.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
@@ -166,7 +166,7 @@
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
   <PlayerFactionAndBaseGainsName>あなたは派閥を{0}と名乗り,ここを{1}と命名しました.</PlayerFactionAndBaseGainsName>
   
@@ -222,7 +222,7 @@
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>画面解像度を変更しました.この解像度でよろしいですか？\n\n自動復帰まであと{0}秒...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>画面解像度を変更しました.この解像度でよろしいですか?\n\n自動復帰まであと{0}秒...</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>決定</ResolutionKeep>
   <!-- EN: Revert -->
@@ -647,7 +647,7 @@
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
-  <ConfirmTraderShortFunds>トレーダーは,この契約を遂行するのに十分なシルバーを持っていません.それでも続けますか？</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>トレーダーは,この契約を遂行するのに十分なシルバーを持っていません.それでも続けますか?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>並び替え</SortBy>
   <!-- EN: trader type -->
@@ -757,7 +757,7 @@
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
   <CaravanIncapableOfSocial>キャラバン隊の中に,外交や商取引ができるメンバーがいません.</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
-  <CaravanAreYouSure>このキャラバン隊を本当に編成しますか？</CaravanAreYouSure>
+  <CaravanAreYouSure>このキャラバン隊を本当に編成しますか?</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
   <MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
@@ -821,9 +821,9 @@
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>移動速度は,積載重量,荷物を載せる家畜,地形の移動しやすさによって決まります.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
-  <AnimalsWillBeAbleToGraze>家畜の放牧が可能か？</AnimalsWillBeAbleToGraze>
+  <AnimalsWillBeAbleToGraze>家畜の放牧が可能か?</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
-  <AnimalsCanGraze>放牧可能？</AnimalsCanGraze>
+  <AnimalsCanGraze>放牧可能?</AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
   <PossibleToGrazeFor>({0}日)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
@@ -857,7 +857,7 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃しますか？\n\n{1}はあなたを敵とみなし,最終的にはあなたのコロニーを襲い始めるでしょう!</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃しますか?\n\n{1}はあなたを敵とみなし,最終的にはあなたのコロニーを襲い始めるでしょう!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
@@ -897,7 +897,7 @@
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>ゲームの さらなる バランス改良のため, RimWorld サーバに ゲーム情報を アップして 開発支援 しませんか？ 同意すれば  {0}日ごとに データを アップロードします. (ゲーム終了など ほかの いくつかの 状況も アップロードします) 後で, オプションメニューの プライバシーを 変更することが できます.</HistoryUploadMessage>
+  <HistoryUploadMessage>ゲームの さらなる バランス改良のため, RimWorld サーバに ゲーム情報を アップして 開発支援 しませんか? 同意すれば  {0}日ごとに データを アップロードします. (ゲーム終了など ほかの いくつかの 状況も アップロードします) 後で, オプションメニューの プライバシーを 変更することが できます.</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
   <HistoryUploadMessagePlayerName>データは 匿名で アップロードできますし, 名前をつけることも できます.</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
@@ -1033,7 +1033,7 @@
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawns>このエリアに,入植者や家畜の一部がまだ居ます.本当に放棄するのですか？\n\n下記の,入植者と家畜が,置き去りにされます:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeWithColonyPawns>このエリアに,入植者や家畜の一部がまだ居ます.本当に放棄するのですか?\n\n下記の,入植者と家畜が,置き去りにされます:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
   <ConfirmAbandonHomeNegativeThoughts>見捨てられた {0}には,下記のような感情がわき起こるでしょう:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
@@ -1041,7 +1041,7 @@
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>家畜や囚人がキャラバン隊に加わろうとしています.あなたがキャラバン隊を移動させると,彼らはどうすることもできません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それは放棄したとみなして敵の捕虜になった事とします.\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>家畜や囚人がキャラバン隊に加わろうとしています.あなたがキャラバン隊を移動させると,彼らはどうすることもできません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それは放棄したとみなして敵の捕虜になった事とします.\n本当にキャラバン隊を移動させますか?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
@@ -1057,7 +1057,7 @@
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか？</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
@@ -1065,17 +1065,17 @@
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか？\n\n次のことが実行されます:\n　-翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n　-全ての翻訳文が適切なXMLファイル内に再配置されます\n　-全てのXMLファイルについて書式が自動的に整えられます\n　-旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n　-既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか?\n\n次のことが実行されます:\n　-翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n　-全ての翻訳文が適切なXMLファイル内に再配置されます\n　-全てのXMLファイルについて書式が自動的に整えられます\n　-旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n　-既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
   <ConfirmCleanupTranslationFiles_Confirm>はい,バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>何も無いタイルに発射すると,キャラバン隊は動けなくなるでしょう.本当に続けますか？</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>何も無いタイルに発射すると,キャラバン隊は動けなくなるでしょう.本当に続けますか?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>この遺跡マーカーを,本当に削除するつもりですか？</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>この遺跡マーカーを,本当に削除するつもりですか?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
   <!-- EN: Cannot use {0} -->

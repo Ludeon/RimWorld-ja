@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: bloodfeed -->
-  <Bloodfeed.label>TODO</Bloodfeed.label>
+  <Bloodfeed.label>吸血</Bloodfeed.label>
   <!-- EN: Wardens will ignore this prisoner. When a bloodfeeder's hemogen levels are low, they may feed on this prisoner. Other prisoners who are bloodfeeders can also feed on this prisoner, if they are in the same cell. -->
-  <Bloodfeed.description>TODO</Bloodfeed.description>
+  <Bloodfeed.description>看守はこの囚人を無視します.吸血者のヘモゲン量が低い場合,この捕虜から吸血する可能性があります.吸血者の囚人が同じ独房にいる場合,この囚人から吸血することができます.</Bloodfeed.description>
   
   <!-- EN: hemogen farm -->
-  <HemogenFarm.label>TODO</HemogenFarm.label>
+  <HemogenFarm.label>ヘモゲンファーム</HemogenFarm.label>
   <!-- EN: An operation to extract hemogen packs will be automatically queued on this prisoner whenever it can be done without killing them. The operation will be carried out by a doctor. -->
-  <HemogenFarm.description>TODO</HemogenFarm.description>
+  <HemogenFarm.description>囚人を殺さずにヘモゲンパックを抽出することができる場合は,常に自動的に抽出が予約されます.手術は医者が行います.</HemogenFarm.description>
   
 </LanguageData>

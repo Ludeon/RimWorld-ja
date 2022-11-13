@@ -6,7 +6,11 @@
     <li>otherGenesInfo(geneCount==1)-></li>
     <li>otherGenesInfo(geneCount>=2)-> +[geneCountMinusOne]</li>
   -->
-  <NamerGenepack.rulePack.rulesStrings>TODO</NamerGenepack.rulePack.rulesStrings>
+  <NamerGenepack.rulePack.rulesStrings>
+    <li>r_name->遺伝子パック([geneWord][otherGenesInfo])</li>
+    <li>otherGenesInfo(geneCount==1)-></li>
+    <li>otherGenesInfo(geneCount>=2)->+[geneCountMinusOne]</li>
+  </NamerGenepack.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=1)->[anyPrefix][anySuffix]</li>
@@ -72,6 +76,69 @@
     <li>commonSuffix->ur</li>
     <li>commonSuffix->ux</li>
   -->
-  <NamerXenotype.rulePack.rulesStrings>TODO</NamerXenotype.rulePack.rulesStrings>
+  <NamerXenotype.rulePack.rulesStrings>
+    <li>r_name(p=1)->[anyPrefix][anySuffix]</li>
+    <li>r_name(p=0.1)->[wholeName]</li>
+    <li>anyPrefix(p=2)->[genePrefix]</li>
+    <li>anyPrefix->[commonPrefix]</li>
+    <li>anySuffix->[geneSuffix]</li>
+    <li>anySuffix(p=3)->[commonSuffix]</li>
+    <li>commonPrefix->ゼノ</li>
+    <li>commonPrefix->アルト</li>
+    <li>commonPrefix->アブ</li>
+    <li>commonPrefix->アウト</li>
+    <li>commonPrefix->サブ</li>
+    <li>commonPrefix->イクソ</li>
+    <li>commonPrefix->チューブ</li>
+    <li>commonPrefix->ラボ</li>
+    <li>commonPrefix->ポッド</li>
+    <li>commonPrefix->アヌ</li>
+    <li>commonPrefix->ボヌ</li>
+    <li>commonPrefix->セル</li>
+    <li>commonPrefix->デル</li>
+    <li>commonPrefix->エチ</li>
+    <li>commonPrefix->フィル</li>
+    <li>commonPrefix->ゴー</li>
+    <li>commonPrefix->ホー</li>
+    <li>commonPrefix->イチ</li>
+    <li>commonPrefix->ジャク</li>
+    <li>commonPrefix->コル</li>
+    <li>commonPrefix->ロクス</li>
+    <li>commonPrefix->マック</li>
+    <li>commonPrefix->ノー</li>
+    <li>commonPrefix->オス</li>
+    <li>commonPrefix->パー</li>
+    <li>commonPrefix->クイン</li>
+    <li>commonPrefix->ラクス</li>
+    <li>commonPrefix->シル</li>
+    <li>commonPrefix->テル</li>
+    <li>commonPrefix->ウルトラ</li>
+    <li>commonPrefix->ヴォクス</li>
+    <li>commonPrefix->ウィス</li>
+    <li>commonPrefix->ゼヌ</li>
+    <li>commonPrefix->ヨヌ</li>
+    <li>commonPrefix->ゼル</li>
+    <li>commonSuffix->カインド</li>
+    <li>commonSuffix->マン</li>
+    <li>commonSuffix->アン</li>
+    <li>commonSuffix->アー</li>
+    <li>commonSuffix->ドル</li>
+    <li>commonSuffix->ダル</li>
+    <li>commonSuffix(p=3)->ァー</li>
+    <li>commonSuffix(p=2)->ェン</li>
+    <li>commonSuffix->エクス</li>
+    <li>commonSuffix->ィド</li>
+    <li>commonSuffix->ィン</li>
+    <li>commonSuffix->ィル</li>
+    <li>commonSuffix->ィスト</li>
+    <li>commonSuffix->ォン</li>
+    <li>commonSuffix->ォル</li>
+    <li>commonSuffix->ォクス</li>
+    <li>commonSuffix->オックス</li>
+    <li>commonSuffix->ゥブ</li>
+    <li>commonSuffix->ゥル</li>
+    <li>commonSuffix->アー</li>
+    <li>commonSuffix->ゥクス</li>
+  </NamerXenotype.rulePack.rulesStrings>
   
 </LanguageData>

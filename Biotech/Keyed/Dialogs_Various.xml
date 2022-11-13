@@ -5,7 +5,7 @@
   <!-- EN: Any mechanitor -->
   <AnyMechanitor>いずれかのメカニター</AnyMechanitor>
   <!-- EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
-  <BossgroupWarningDialog>{LEADERKIND_label}の脅威を呼び寄せると,以下の敵対的なメカノイドが来襲します.:\n\n{PAWNS}\n\nメカノイドは数時間ないし数日中に到着するでしょう.戦闘準備はよろしいですか？</BossgroupWarningDialog>
+  <BossgroupWarningDialog>{LEADERKIND_label}の脅威を呼び寄せると,以下の敵対的なメカノイドが来襲します.:\n\n{PAWNS}\n\nメカノイドは数時間ないし数日中に到着するでしょう.戦闘準備はよろしいですか?</BossgroupWarningDialog>
   <!-- EN: {PAWN_labelShort} is downed. -->
   <MechControllerDowned>{PAWN_labelShort}がダウンした.</MechControllerDowned>
   <!-- EN: {PAWN_labelShort} is a prisoner. -->
@@ -17,9 +17,9 @@
   <!-- EN: {PAWN_labelShort} is in a '{MENTALSTATE_label}' mental state. -->
   <MechControllerMentalState>{PAWN_labelShort}は'{MENTALSTATE_label}の精神状態にあります.</MechControllerMentalState>
   <!-- EN: Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover -->
-  <ConfirmDisassemblingMech>TODO</ConfirmDisassemblingMech>
+  <ConfirmDisassemblingMech>{0}を完全に分解しますか?\n\n{0}を完全に分解すると回復します</ConfirmDisassemblingMech>
   <!-- EN: A mechanitor must be capable of smithing to create mechanoids\n\nAre you sure you want to continue? -->
-  <ConfirmInstallMechlink>メカニターがメカノイドを作成するには鍛冶スキルが必要です\n\n続けてよろしいですか？</ConfirmInstallMechlink>
+  <ConfirmInstallMechlink>メカニターがメカノイドを作成するには鍛冶スキルが必要です\n\n続けてよろしいですか?</ConfirmInstallMechlink>
   <!-- EN: insufficient bandwidth -->
   <InsufficientBandwidth>不十分な帯域幅</InsufficientBandwidth>
 
@@ -31,13 +31,13 @@
 
   <!-- Mech gestator -->
   <!-- EN: Gestation cycles completed -->
-  <GestationCyclesCompleted>懐胎サイクル完了</GestationCyclesCompleted>
+  <GestationCyclesCompleted>培養サイクル完了</GestationCyclesCompleted>
   <!-- EN: Gathered ingredients -->
   <FormerIngredients>かき集めた資材</FormerIngredients>
 
   <!-- Subcore scanner -->
   <!-- EN: Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue? -->
-  <ConfirmRipscanPawn>{PAWN_nameDef}をリップスキャンすると{PAWN_objective}が死亡します.続けてよろしいですか？</ConfirmRipscanPawn>
+  <ConfirmRipscanPawn>{PAWN_nameDef}をリップスキャンすると{PAWN_objective}が死亡します.続けてよろしいですか?</ConfirmRipscanPawn>
 
   <!-- Xenogerm -->
   <!-- EN: Assemble genes -->
@@ -254,10 +254,10 @@
   <MechGainsName>このメカの名前は{0}になりました.</MechGainsName>
 
   <!-- EN: {FATHER_nameDef} is {MOTHER_nameDef}'s {RELATION}. There's a {CHANCE} chance that the resulting baby will have genetic abnormalities due to inbreeding.\n\nAre you sure you want to continue? -->
-  <FertilizeOvumInbredChance>{FATHER_nameDef}は{MOTHER_nameDef}の{RELATION}です.そのため赤ん坊に近親交配由来の遺伝異常が発現する可能性が{CHANCE}あります.\n\n続行してもよろしいですか？</FertilizeOvumInbredChance>
+  <FertilizeOvumInbredChance>{FATHER_nameDef}は{MOTHER_nameDef}の{RELATION}です.そのため赤ん坊に近親交配由来の遺伝異常が発現する可能性が{CHANCE}あります.\n\n続行してもよろしいですか?</FertilizeOvumInbredChance>
 
   <!-- EN: {PAWN_nameDef} is pregnant. Implanting an IUD while {PAWN_pronoun} is in {PAWN_possessive} first trimester of pregnancy will terminate the pregnancy.\n\nAre you sure you want to continue? -->
-  <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef}は妊娠中です.{PAWN_pronoun}が {PAWN_possessive}の妊娠初期にIUDを埋め込むと中絶します.\n\n続行してもよろしいですか？</ConfirmationPawnPregnancyTerminated>
+  <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef}は妊娠中です.{PAWN_pronoun}が {PAWN_possessive}の妊娠初期にIUDを埋め込むと中絶します.\n\n続行してもよろしいですか?</ConfirmationPawnPregnancyTerminated>
 
   <!-- Pollution -->
   <!-- EN: This tile is near polluted tiles, so there will be an acidic smog here roughly every {0} days. Acidic smog slows plant growth, deteriorates exposed items, and makes people unhappy. -->
@@ -284,7 +284,7 @@
   <PawnIsDead>{PAWN_nameDef}は死んでいます.</PawnIsDead>
 
   <!-- EN: Placing {PAWN_nameDef} into cryptosleep will strain {PAWN_possessive} psychic bond with {BOND_nameDef}, causing stress to both partners.\n\nAre you sure you want to continue? -->
-  <PsychicBondDistanceWillBeActive_Cryptosleep>{PAWN_nameDef}をクリプトスリープ状態にすると,{PAWN_possessive}の{BOND_nameDef}との精神的絆が断たれ,両者ともストレスを抱えます.\n\n続行してもよろしいですか？</PsychicBondDistanceWillBeActive_Cryptosleep>
+  <PsychicBondDistanceWillBeActive_Cryptosleep>{PAWN_nameDef}をクリプトスリープ状態にすると,{PAWN_possessive}の{BOND_nameDef}との精神的絆が断たれ,両者ともストレスを抱えます.\n\n続行してもよろしいですか?</PsychicBondDistanceWillBeActive_Cryptosleep>
   <!-- EN: Someone in this caravan is psychically bonded by their partner is not coming with them. These people will be stressed if separated from their bond-partners -->
   <PsychicBondDistanceWillBeActive_Caravan>キャラバン内に精神的絆を結んでいる人物がいますが,パートナーが不在です.彼らはパートナーと離ればなれになるとストレスを抱えるでしょう.</PsychicBondDistanceWillBeActive_Caravan>
   <!-- EN: partner {0_nameFull} -->
@@ -345,15 +345,15 @@
   <RoomRequirementNoBiotechBuildings>バイオテックの建物が不許可です</RoomRequirementNoBiotechBuildings>
 
   <!-- EN: Bloodfeeding on {PAWN_nameDef} will result in serious blood loss, leaving {PAWN_objective} unconscious.\n\nAre you sure? -->
-  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>{PAWN_nameDef}への吸血は深刻な貧血を引き起こし,{PAWN_objective}は気絶します.\n\nよろしいですか？</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
+  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>{PAWN_nameDef}への吸血は深刻な貧血を引き起こし,{PAWN_objective}は気絶します.\n\nよろしいですか?</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
   <!-- EN: Bloodfeeding on {PAWN_nameDef} will kill {PAWN_objective}.\n\nAre you sure? -->
-  <WarningPawnWillDieFromBloodfeeding>{PAWN_nameDef}を吸血すると{PAWN_objective}は死亡します.\n\nよろしいですか？</WarningPawnWillDieFromBloodfeeding>
+  <WarningPawnWillDieFromBloodfeeding>{PAWN_nameDef}を吸血すると{PAWN_objective}は死亡します.\n\nよろしいですか?</WarningPawnWillDieFromBloodfeeding>
 
   <!-- EN: {0_labelShort} must have a tendable wound. -->
   <AbilityMustHaveTendableWound>{0_labelShort}には治療可能な傷が必要です.</AbilityMustHaveTendableWound>
 
   <!-- Abandon home (including mechs) -->
   <!-- EN: Some of your colonists, animals or mechs are in this area. Are you sure you want to abandon it?\n\nThe following people, animals and mechs will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawnsIncMechs>入植者,動物,機械が,この地域に残っています.放棄してもよろしいですか？\n\n以下の入植者,動物,機械が取り残されます:\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs><!-- text_todo -->
+  <ConfirmAbandonHomeWithColonyPawnsIncMechs>入植者,動物,機械が,この地域に残っています.放棄してもよろしいですか?\n\n以下の入植者,動物,機械が取り残されます:\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs><!-- text_todo -->
 
 </LanguageData>

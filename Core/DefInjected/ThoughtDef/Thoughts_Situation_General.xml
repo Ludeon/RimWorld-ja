@@ -4,11 +4,11 @@
   <!-- EN: ratty apparel -->
   <ApparelDamaged.stages.ratty_apparel.label>すり切れた服を着ている</ApparelDamaged.stages.ratty_apparel.label>
   <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
-  <ApparelDamaged.stages.ratty_apparel.description>私の格好は,ちょっとひどい.もう少し身なりを整えることはできないのだろうか？</ApparelDamaged.stages.ratty_apparel.description>
+  <ApparelDamaged.stages.ratty_apparel.description>私の格好は,ちょっとひどい.もう少し身なりを整えることはできないのだろうか?</ApparelDamaged.stages.ratty_apparel.description>
   <!-- EN: tattered apparel -->
   <ApparelDamaged.stages.tattered_apparel.label>ボロボロの服を着ている</ApparelDamaged.stages.tattered_apparel.label>
   <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
-  <ApparelDamaged.stages.tattered_apparel.description>私はぼろをまとっている.もう少し身なりを整えることはできないのだろうか？</ApparelDamaged.stages.tattered_apparel.description>
+  <ApparelDamaged.stages.tattered_apparel.description>私はぼろをまとっている.もう少し身なりを整えることはできないのだろうか?</ApparelDamaged.stages.tattered_apparel.description>
   
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>穢れた{0}</DeadMansApparel.stages.tainted.label>
@@ -60,7 +60,7 @@
   <!-- EN: sweltering hot -->
   <EnvironmentHot.stages.sweltering_hot.label>極度に暑い</EnvironmentHot.stages.sweltering_hot.label>
   <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
-  <EnvironmentHot.stages.sweltering_hot.description>オーブンの中にいるようだ！,どの位耐えられるかわからない.</EnvironmentHot.stages.sweltering_hot.description>
+  <EnvironmentHot.stages.sweltering_hot.description>オーブンの中にいるようだ!,どの位耐えられるかわからない.</EnvironmentHot.stages.sweltering_hot.description>
   <!-- EN: blistering hot -->
   <EnvironmentHot.stages.blistering_hot.label>熱中症</EnvironmentHot.stages.blistering_hot.label>
   <!-- EN: This place is searing hot. I think I could die from this heat! -->
@@ -108,6 +108,6 @@
   <!-- EN: wearing {0} apparel -->
   <WrongApparelGender.stages.wearing_apparel.label>{0}の服</WrongApparelGender.stages.wearing_apparel.label>
   <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
-  <WrongApparelGender.stages.wearing_apparel.description>パッと見てもわかる{0}の服を着せられている！どうしたらいいのだろう.</WrongApparelGender.stages.wearing_apparel.description>
+  <WrongApparelGender.stages.wearing_apparel.description>パッと見てもわかる{0}の服を着せられている!どうしたらいいのだろう.</WrongApparelGender.stages.wearing_apparel.description>
   
 </LanguageData>

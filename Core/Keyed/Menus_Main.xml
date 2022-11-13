@@ -71,7 +71,7 @@
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>警告：これは不安定な開発ビルドです.これは私達が,設計上の実験と技術的な開発を行っていることを意味します.\n\n中には暫定措置として意図的にアンバランスになっている要素もあります.これは古典的なゲームデザインの手法で,バランスの匙加減をよりよく理解するために,故意に極端な調整になっています.我々はその情報を利用して,最終的な調整点を決定できます.\n\nまた,ゲームを壊してしまうものを含め,バグもあるでしょう.セーブデータの互換性はいつ壊れるか分かりません.\n\nこれら全てに問題がなければ,テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は,最新の安定版をプレイしてください.</DevBuildWarning>
+  <DevBuildWarning>警告：これは不安定な開発ビルドです.これは私達が,設計上の実験と技術的な開発を行っていることを意味します.\n\n中には暫定措置として意図的にアンバランスになっている要素もあります.これは古典的なゲームデザインの手法で,バランスの匙加減をよりよく理解するために,故意に極端な調整になっています.我々はその情報を利用して,最終的な調整点を決定できます.\n\nまた,ゲームを壊してしまうものを含め,バグもあるでしょう.セーブデータの互換性はいつ壊れるか分かりません.\n\nこれら全てに問題がなければ,テストプレイへの参加に感謝します!もし私達の実験の対象になりたくない場合は,最新の安定版をプレイしてください.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -149,9 +149,9 @@
   <!-- EN: Show mods data location -->
   <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>コアMODを無効にしますか？コア機能を完全に代用するMODがない限り,ゲームはまったく動作しません.\n\n他MODが同じdefNameを使うことで,コアMODのdefを無視できるのを活用してください.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>コアMODを無効にしますか?コア機能を完全に代用するMODがない限り,ゲームはまったく動作しません.\n\n他MODが同じdefNameを使うことで,コアMODのdefを無視できるのを活用してください.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか？</ConfirmDeleteMod>
+  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>MOD自動並べ替え</ResolveModOrder>
   <!-- EN: Save and apply changes -->
@@ -319,9 +319,9 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>全てのテキストフィールドは,入力されていなければなりません.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか？\n\n"Steam Workshop terms of service"を承諾しなければなりません. 全文はこちらから確認してください:\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか?\n\n"Steam Workshop terms of service"を承諾しなければなりません. 全文はこちらから確認してください:\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>あなたは,あなた自身が作成したコンテンツのみをアップロードできます.\n\nこのコンテンツはあなた自身が作成したものでよろしいですか？</ConfirmContentAuthor>
+  <ConfirmContentAuthor>あなたは,あなた自身が作成したコンテンツのみをアップロードできます.\n\nこのコンテンツはあなた自身が作成したものでよろしいですか?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>適合しません</Incompatible>
   <!-- EN: Tag as translation -->
@@ -589,7 +589,7 @@
   <!-- EN: Movement difficulty -->
   <MovementDifficulty>移動 難易度</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>牧草はある？</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>牧草はある?</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>疾病 平均頻度</AverageDiseaseFrequency>
   <!-- EN: per year -->
@@ -695,7 +695,7 @@
   <!-- EN: Gameplay -->
   <Gameplay>ゲームの設定</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>本当に終了しますか？ セーブしていないデータは失われます.</ConfirmQuit>
+  <ConfirmQuit>本当に終了しますか? セーブしていないデータは失われます.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->

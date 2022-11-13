@@ -35,7 +35,40 @@
     <li>End->zite</li>
     <li>End->drite</li>
   -->
-  <NamerPersonDirtmole_Female.rulePack.rulesStrings>TODO</NamerPersonDirtmole_Female.rulePack.rulesStrings>
+  <NamerPersonDirtmole_Female.rulePack.rulesStrings>
+    <li>r_name->[firstName] [Syl][End]</li>
+    <li>End->ケイト</li>
+    <li>End->チーテ</li>
+    <li>End->チテ</li>
+    <li>End->フィデ</li>
+    <li>End->ギテ</li>
+    <li>End->ライン</li>
+    <li>End->マイン</li>
+    <li>End->マイテ</li>
+    <li>End->ナ</li>
+    <li>End->ネイト</li>
+    <li>End->ネル</li>
+    <li>End->ネット</li>
+    <li>End->フィテ</li>
+    <li>End->クァート</li>
+    <li>End->リフト</li>
+    <li>End->リト</li>
+    <li>End->ロック</li>
+    <li>End->リール</li>
+    <li>End->サルト</li>
+    <li>End->サイト</li>
+    <li>End->スパー</li>
+    <li>End->スポア</li>
+    <li>End->サム</li>
+    <li>End->ティテ</li>
+    <li>End->トルフ</li>
+    <li>End->ヴェイン</li>
+    <li>End->ヴェル</li>
+    <li>End->ヴィン</li>
+    <li>End->ヴィーテ</li>
+    <li>End->ジテ</li>
+    <li>End->ドリテ</li>
+  </NamerPersonDirtmole_Female.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[firstName] [Syl][End]</li>
@@ -71,7 +104,40 @@
     <li>End->zite</li>
     <li>End->drite</li>
   -->
-  <NamerPersonDirtmole_Male.rulePack.rulesStrings>TODO</NamerPersonDirtmole_Male.rulePack.rulesStrings>
+  <NamerPersonDirtmole_Male.rulePack.rulesStrings>
+    <li>r_name->[firstName] [Syl][End]</li>
+    <li>End->ケイト</li>
+    <li>End->チーテ</li>
+    <li>End->チテ</li>
+    <li>End->フィデ</li>
+    <li>End->ギテ</li>
+    <li>End->ライン</li>
+    <li>End->マイン</li>
+    <li>End->マイテ</li>
+    <li>End->ナ</li>
+    <li>End->ネイト</li>
+    <li>End->ネル</li>
+    <li>End->ネット</li>
+    <li>End->フィテ</li>
+    <li>End->クァート</li>
+    <li>End->リフト</li>
+    <li>End->リト</li>
+    <li>End->ロック</li>
+    <li>End->リール</li>
+    <li>End->サルト</li>
+    <li>End->サイト</li>
+    <li>End->スパー</li>
+    <li>End->スポア</li>
+    <li>End->サム</li>
+    <li>End->ティテ</li>
+    <li>End->トルフ</li>
+    <li>End->ヴェイン</li>
+    <li>End->ヴェル</li>
+    <li>End->ヴィン</li>
+    <li>End->ヴィーテ</li>
+    <li>End->ジテ</li>
+    <li>End->ドリテ</li>
+  </NamerPersonDirtmole_Male.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
@@ -103,7 +169,36 @@
     <li>nameEnd->naz</li>
     <li>nameEnd->nath</li>
   -->
-  <NamerPersonImpid.rulePack.rulesStrings>TODO</NamerPersonImpid.rulePack.rulesStrings>
+  <NamerPersonImpid.rulePack.rulesStrings>
+    <li>r_name->[firstName] [lastName]</li>
+    <li>firstName(p=0.5)->[SylI]</li>
+    <li>firstName(p=2)->[SylI][nameEnd]</li>
+    <li>firstName->[SylI][SylI][nameEnd]</li>
+    <li>lastName(p=2)->[SylI][nameEnd]</li>
+    <li>lastName->[SylI][nameEnd]</li>
+    <li>lastName->[SylI][SylI][nameEnd]</li>
+    <li>nameEnd->イヴ</li>
+    <li>nameEnd->イチ</li>
+    <li>nameEnd->イズ</li>
+    <li>nameEnd->イン</li>
+    <li>nameEnd->オクス</li>
+    <li>nameEnd->オヴ</li>
+    <li>nameEnd->ラッチ</li>
+    <li>nameEnd->ラッシ</li>
+    <li>nameEnd->ラット</li>
+    <li>nameEnd->ロヴ</li>
+    <li>nameEnd->ロズ</li>
+    <li>nameEnd->ロン</li>
+    <li>nameEnd->ヴィン</li>
+    <li>nameEnd->ヴォン</li>
+    <li>nameEnd->ヴォズ</li>
+    <li>nameEnd->イシ</li>
+    <li>nameEnd->ノーヴ</li>
+    <li>nameEnd->ノーヴォ</li>
+    <li>nameEnd->ナヴ</li>
+    <li>nameEnd->ナズ</li>
+    <li>nameEnd->ナス</li>
+  </NamerPersonImpid.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
@@ -135,7 +230,36 @@
     <li>nameEnd->oik</li>
     <li>nameEnd->oin</li>
   -->
-  <NamerPersonPigskin.rulePack.rulesStrings>TODO</NamerPersonPigskin.rulePack.rulesStrings>
+  <NamerPersonPigskin.rulePack.rulesStrings>
+    <li>r_name->[firstName] [lastName]</li>
+    <li>r_name->[firstName] '[nickName]' [lastName]</li>
+    <li>maybeHyphen(p=4)-></li>
+    <li>maybeHyphen->・</li>
+    <li>firstName(p=1)->[SylP][nameEnd]</li>
+    <li>firstName(p=3)->[SylP][nameEnd]</li>
+    <li>nickName->[nicknamePig]</li>
+    <li>lastName(p=3)->[lastGenerated]</li>
+    <li>lastGenerated->[SylP][nameEnd]</li>
+    <li>lastGenerated->[SylP][maybeHyphen][SylP][nameEnd]</li>
+    <li>nameEnd->ウグ</li>
+    <li>nameEnd->アグ</li>
+    <li>nameEnd->アップ</li>
+    <li>nameEnd->オーク</li>
+    <li>nameEnd->オーグ</li>
+    <li>nameEnd->エン</li>
+    <li>nameEnd->アー</li>
+    <li>nameEnd->ウブ</li>
+    <li>nameEnd->オップ</li>
+    <li>nameEnd->イズ</li>
+    <li>nameEnd->オー</li>
+    <li>nameEnd->アプ</li>
+    <li>nameEnd->アグ</li>
+    <li>nameEnd->オグ</li>
+    <li>nameEnd->オッグ</li>
+    <li>nameEnd->オッブ</li>
+    <li>nameEnd->オイク</li>
+    <li>nameEnd->オイン</li>
+  </NamerPersonPigskin.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
@@ -171,7 +295,40 @@
     <li>End->waste</li>
     <li>End->y</li>
   -->
-  <NamerPersonWaster.rulePack.rulesStrings>TODO</NamerPersonWaster.rulePack.rulesStrings>
+  <NamerPersonWaster.rulePack.rulesStrings>
+    <li>r_name->[firstName] [lastName]</li>
+    <li>r_name->[firstName] '[nicknameWaster]' [lastName]</li>
+    <li>firstName->[Syl][Syl]</li>
+    <li>firstName->[Syl]</li>
+    <li>lastName->[Syl][End]</li>
+    <li>End->アド</li>
+    <li>End->アク</li>
+    <li>End->アンク</li>
+    <li>End->アシュ</li>
+    <li>End->イーク</li>
+    <li>End->イク</li>
+    <li>End->エンク</li>
+    <li>End->アー</li>
+    <li>End->エスク</li>
+    <li>End->エズ</li>
+    <li>End->ガン</li>
+    <li>End->イク</li>
+    <li>End->イプ</li>
+    <li>End->イスク</li>
+    <li>End->イクス</li>
+    <li>End->イズ</li>
+    <li>End->キル</li>
+    <li>End->キン</li>
+    <li>End->リング</li>
+    <li>End->マン</li>
+    <li>End->メン</li>
+    <li>End->ニック</li>
+    <li>End->オクス</li>
+    <li>End->スコー</li>
+    <li>End->スモーク</li>
+    <li>End->エイスト</li>
+    <li>End->ー</li>
+  </NamerPersonWaster.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
@@ -198,6 +355,30 @@
     <li>nameEnd->ys</li>
     <li>nameEnd->yn</li>
   -->
-  <NamerPersonYttakin.rulePack.rulesStrings>TODO</NamerPersonYttakin.rulePack.rulesStrings>
+  <NamerPersonYttakin.rulePack.rulesStrings>
+    <li>r_name->[firstName] [lastName]</li>
+    <li>firstName(p=0.5)->[SylY]</li>
+    <li>firstName(p=2)->[SylY][nameEnd]</li>
+    <li>firstName->[SylY][SylY][nameEnd]</li>
+    <li>lastName(p=2)->[SylY][nameEnd]</li>
+    <li>lastName->[SylY][SylY][nameEnd]</li>
+    <li>lastName->キン・[SylY][nameEnd]</li>
+    <li>lastName->ウィン・[SylY][nameEnd]</li>
+    <li>nameEnd(p=3)->イトゥ</li>
+    <li>nameEnd->エシュ</li>
+    <li>nameEnd->オット</li>
+    <li>nameEnd->オシュ</li>
+    <li>nameEnd->アーク</li>
+    <li>nameEnd->エーク</li>
+    <li>nameEnd->エーシュ</li>
+    <li>nameEnd->ウク</li>
+    <li>nameEnd->ヨン</li>
+    <li>nameEnd->エン</li>
+    <li>nameEnd->ウル</li>
+    <li>nameEnd->ヤ</li>
+    <li>nameEnd->ーシュ</li>
+    <li>nameEnd->ース</li>
+    <li>nameEnd->ーン</li>
+  </NamerPersonYttakin.rulePack.rulesStrings>
   
 </LanguageData>

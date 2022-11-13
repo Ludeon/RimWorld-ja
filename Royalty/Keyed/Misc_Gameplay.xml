@@ -45,11 +45,10 @@
   <TooCloseToOtherBeacon>他のビーコンに近すぎます</TooCloseToOtherBeacon>
   
   <!-- Meditation -->
-  <!--TODO--><!--仮翻訳:"PsyfocusLabelGizmo"にはゲーム内表示領域の都合上,4.5文字しか表示できません.「サイフォーカス」「フォーカス」では見切れてしまい,「ｻｲﾌｫｰｶｽ」では見栄えが悪く,"Psyfocus"だとこの部分だけ翻訳されてなくて見栄えが悪いと思い,「念集中量」と意訳しました.良い案があれば変更をお願いします.-->
   <!-- EN: Psyfocus -->
-  <Psyfocus>サイフォーカス(念集中量)</Psyfocus>
+  <Psyfocus>サイフォーカス(サイ値)</Psyfocus>
   <!-- EN: Psyfocus -->
-  <PsyfocusLabelGizmo>念集中量</PsyfocusLabelGizmo>
+  <PsyfocusLabelGizmo>サイ値</PsyfocusLabelGizmo>
   <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
   <PsyfocusDesc>サイフォーカスは超能力を使用するために要求される,特殊な精神組織です.サイフォーカスは時間と共に消失するため,定期的な瞑想によって再構築する必要があります.全てのサイフォーカスを失うと超能力が使えなくなりますが,他に深刻な影響はありません.\n\n高いサイフォーカスは高いレベルの能力の行使を可能としますが,サイフォーカスの自然消失量もまた増加します</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
@@ -168,7 +167,7 @@
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
   <AnimaLinkingExplanationBase>アニマリンクの儀式は,参加者が増えるほど強力になります.参加者が多ければ多いほど,儀式にかかる時間が短くなり,さらにアニマ草が育ちます.\n\n{0}人の参加者が追加されるため,儀式の終わりに{1}本のアニマ草が再び生えます.</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
-  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積まれていません！</ShuttleRequiredItemsNotSatisfied>
+  <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積まれていません!</ShuttleRequiredItemsNotSatisfied>
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>放つ熱がありません.</AbilityNoEntropyToDump>

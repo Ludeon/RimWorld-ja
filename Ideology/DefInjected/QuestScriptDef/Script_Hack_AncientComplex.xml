@@ -7,7 +7,7 @@
   -->
   <AncientComplex_Standard.questContentRules.rulesStrings>
     <li>terminalHackedMessage->ターミナルをハッキングしました.{COUNT} / [terminalCount]完了.</li>
-    <li>allTerminalsHackedMessage->全てのターミナルをハッキングし,[relic_name]に関する秘密情報を発見しました！この場を去ることができます.</li>
+    <li>allTerminalsHackedMessage->全てのターミナルをハッキングし,[relic_name]に関する秘密情報を発見しました!この場を去ることができます.</li>
   </AncientComplex_Standard.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure.</li>

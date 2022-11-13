@@ -397,8 +397,7 @@
   <!-- EN: Relic info found -->
   <RelicInfoFound>レリックの情報が見つかった</RelicInfoFound>
   <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
-  <!--TODO--><!--{0} {1}sが何なのかゲーム内で確認してから再翻訳お願いします.-->
-  <InactiveRoleRequiresMoreBelievers>非アクティブで,少なくとも{0} {1}が必要です({2}あります)</InactiveRoleRequiresMoreBelievers>
+  <InactiveRoleRequiresMoreBelievers>少なくとも{0}個の非活性な{1}が必要(現在{2}個)</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->
   <Certainty>信仰度</Certainty>

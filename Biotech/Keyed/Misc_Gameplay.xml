@@ -2,117 +2,119 @@
 <LanguageData>
 
   <!-- EN: Dormant self-charging -->
-  <SelfShutdown>TODO</SelfShutdown>
+  <SelfShutdown>休眠による自己充電</SelfShutdown>
   <!-- EN: Carry to recharger -->
-  <CarryToRecharger>TODO</CarryToRecharger>
+  <CarryToRecharger>充電器に運ぶ</CarryToRecharger>
   <!-- EN: Must be carried to recharger. -->
-  <MustBeCarriedToRecharger>TODO</MustBeCarriedToRecharger>
+  <MustBeCarriedToRecharger>充電器に運ぶ必要があります.</MustBeCarriedToRecharger>
   <!-- EN: Danger -->
-  <Danger>TODO</Danger>
+  <Danger>危険</Danger>
   <!-- EN: {0} damage -->
-  <DamageType>TODO</DamageType>
+  <DamageType>{0}ダメージ</DamageType>
   <!-- EN: Contained {0_labelPlural} -->
-  <ContainedThings>TODO</ContainedThings>
+  <ContainedThings>{0_labelPlural}を抑制</ContainedThings>
   <!-- EN: Time until next atomization -->
-  <DurationUntilNextAtomization>TODO</DurationUntilNextAtomization>
+  <DurationUntilNextAtomization>次の噴霧までの時間</DurationUntilNextAtomization>
   <!-- EN: Finishes in -->
-  <FinishesIn>TODO</FinishesIn>
+  <FinishesIn>終了</FinishesIn>
   <!-- EN: with -->
-  <WithLower>TODO</WithLower>
+  <WithLower>同時</WithLower>
   <!-- EN: tiles -->
-  <TilesLower>TODO</TilesLower>
+  <TilesLower>タイル</TilesLower>
   <!-- EN: 1 mech -->
-  <CaravanMech>TODO</CaravanMech>
+  <CaravanMech>1メカ</CaravanMech>
   <!-- EN: {0} mechs -->
-  <CaravanMechsCount>TODO</CaravanMechsCount>
+  <CaravanMechsCount>{0}メカ</CaravanMechsCount>
+  <!-- EN: {BOSS} with {APPAREL} -->
+  <BossWithApparel>{APPAREL}を着た{BOSS}</BossWithApparel><!-- text_todo -->
 
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
-  <ReportRemovingMechlink>TODO</ReportRemovingMechlink>
+  <ReportRemovingMechlink>{0}を取り外しています.</ReportRemovingMechlink>
 
   <!-- Areas -->
   <!-- EN: Pollution clear -->
-  <PollutionClear>TODO</PollutionClear>
+  <PollutionClear>汚染除去</PollutionClear>
 
   <!-- Mechanitor -->
   <!-- EN: Overseer -->
-  <Overseer>TODO</Overseer>
+  <Overseer>管理者</Overseer>
   <!-- EN: None (not under control) -->
-  <OverseerNone>TODO</OverseerNone>
+  <OverseerNone>なし(支配されていない)</OverseerNone>
   <!-- EN: May go feral at any moment -->
-  <MayGoFeral>TODO</MayGoFeral>
+  <MayGoFeral>野生化する可能性がある</MayGoFeral>
   <!-- EN: Bandwidth -->
-  <Bandwidth>TODO</Bandwidth>
+  <Bandwidth>帯域幅</Bandwidth>
   <!-- EN: bandwidth -->
-  <BandwidthLower>TODO</BandwidthLower>
+  <BandwidthLower>帯域幅</BandwidthLower>
   <!-- EN: A mechanitor can only oversee a mech if there is enough bandwidth to do so. Each mech consumes a different amount of bandwidth.\n\nGain more bandwidth by constructing band nodes and tuning the mechanitor to them, or by equipping special mechanitor apparel. -->
-  <BandwidthGizmoTip>TODO</BandwidthGizmoTip>
+  <BandwidthGizmoTip>メカニターは,十分な帯域幅がある場合にのみメカを監視できます.各メカは異なる量の帯域幅を消費します.\n\nバンドノードを建築してメカニターを調整するか,特別なメカニター衣服を着ることで,より多くの帯域幅を確保できます.</BandwidthGizmoTip>
   <!-- EN: Control group -->
-  <ControlGroup>TODO</ControlGroup>
+  <ControlGroup>管理グループ</ControlGroup>
   <!-- EN: Current mode -->
-  <CurrentMechWorkMode>TODO</CurrentMechWorkMode>
+  <CurrentMechWorkMode>現在</CurrentMechWorkMode>
   <!-- EN: Assigned mechs -->
-  <AssignedMechs>TODO</AssignedMechs>
+  <AssignedMechs>割り当てられたメカ</AssignedMechs>
   <!-- EN: Tuned to -->
-  <BandNodeTunedTo>TODO</BandNodeTunedTo>
+  <BandNodeTunedTo>調整された</BandNodeTunedTo>
   <!-- EN: Tune to -->
-  <BandNodeTuneTo>TODO</BandNodeTuneTo>
+  <BandNodeTuneTo>調整する</BandNodeTuneTo>
   <!-- EN: Tuning to -->
-  <BandNodeTuningTo>TODO</BandNodeTuningTo>
+  <BandNodeTuningTo>調整されている</BandNodeTuningTo>
   <!-- EN: Retune -->
-  <BandNodeRetuneTo>TODO</BandNodeRetuneTo>
+  <BandNodeRetuneTo>戻す</BandNodeRetuneTo>
   <!-- EN: Tune this band node to a mechanitor. Tuning will take {0} to complete. -->
-  <BandNodeTuningDesc>TODO</BandNodeTuningDesc>
+  <BandNodeTuningDesc>このバンドノードをメカニターに合わせて調整します.調整が完了するまで{0}かかります.</BandNodeTuningDesc>
   <!-- EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
-  <BandNodeRetuningDesc>TODO</BandNodeRetuningDesc>
+  <BandNodeRetuningDesc>このバンドノードを別のメカニターに合わせて再調整します.再調整が完了するまで{0}かかります.</BandNodeRetuningDesc>
   <!-- EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
-  <DropThingBandwidthApparel>TODO</DropThingBandwidthApparel>
+  <DropThingBandwidthApparel>{0}を削除すると{1_labelShort}の帯域幅が{2}から{3}になります.これにより,次のメカが制御不能になります</DropThingBandwidthApparel>
   <!-- EN: no mechs -->
-  <NoMechs>TODO</NoMechs>
+  <NoMechs>メカがない</NoMechs>
   <!-- EN: Group -->
-  <Group>TODO</Group>
+  <Group>グループ</Group>
   <!-- EN: Groups -->
-  <Groups>TODO</Groups>
+  <Groups>グループ</Groups>
   <!-- EN: Loading mech gestation resources -->
-  <LoadingMechGestator>TODO</LoadingMechGestator>
+  <LoadingMechGestator>メカ培養の資源を積んでいる</LoadingMechGestator>
   <!-- EN: Initiating mech gestation cycle -->
-  <InitMechGestationCycle>TODO</InitMechGestationCycle>
+  <InitMechGestationCycle>メカ培養サイクルを開始</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
-  <InitMechBirth>TODO</InitMechBirth>
+  <InitMechBirth>メカ誕生を開始</InitMechBirth>
   <!-- EN: Mech energy -->
-  <MechEnergy>TODO</MechEnergy>
+  <MechEnergy>メカエネルギー</MechEnergy>
   <!-- EN: Energy -->
-  <Energy>TODO</Energy>
+  <Energy>エネルギー</Energy>
   <!-- EN: energy -->
-  <EnergyLower>TODO</EnergyLower>
+  <EnergyLower>エネルギー</EnergyLower>
   <!-- EN: Bandwidth usage -->
-  <BandwidthUsage>TODO</BandwidthUsage>
+  <BandwidthUsage>帯域幅の使用</BandwidthUsage>
   <!-- EN: Mech gestation bandwidth -->
-  <MechGestationBandwidthUsed>TODO</MechGestationBandwidthUsed>
+  <MechGestationBandwidthUsed>メカ培養帯域幅</MechGestationBandwidthUsed>
   <!-- EN: Cannot summon {0} threat -->
-  <CannotSummon>TODO</CannotSummon>
+  <CannotSummon>{0}の脅威を呼び出せない</CannotSummon>
   <!-- EN: {0} threat ready to summon -->
-  <ReadyToSummonThreat>TODO</ReadyToSummonThreat>
+  <ReadyToSummonThreat>{0}の脅威を呼び出す準備が完了</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
-  <Summon>TODO</Summon>
+  <Summon>{0}の脅威を呼び出す</Summon>
   <!-- EN: No reachable {0} -->
-  <NoReachableBossgroupCaller>TODO</NoReachableBossgroupCaller>
+  <NoReachableBossgroupCaller>{0}に到達できない</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
-  <NoReservableBossgroupCaller>TODO</NoReservableBossgroupCaller>
+  <NoReservableBossgroupCaller>予約可能な{0}がない</NoReservableBossgroupCaller>
   <!-- EN: No powered {0} -->
-  <NoPoweredBossgroupCaller>TODO</NoPoweredBossgroupCaller>
+  <NoPoweredBossgroupCaller>{0}の電源が入っていない</NoPoweredBossgroupCaller>
   <!-- EN: already used -->
-  <AlreadyUsed>TODO</AlreadyUsed>
+  <AlreadyUsed>既に使われている</AlreadyUsed>
   <!-- EN: Gestating -->
-  <Gestating>TODO</Gestating>
+  <Gestating>培養している</Gestating>
   <!-- EN: Escorting {TARGET_labelShort}. -->
-  <Escorting>TODO</Escorting>
+  <Escorting>{TARGET_labelShort}を護衛しています.</Escorting>
   <!-- EN: Worker -->
-  <Worker>TODO</Worker>
+  <Worker>労働者</Worker>
   <!-- EN: Waiting for -->
-  <WaitingFor>TODO</WaitingFor>
+  <WaitingFor>待っている</WaitingFor>
   <!-- EN: Uncontrolled -->
-  <Uncontrolled>TODO</Uncontrolled>
+  <Uncontrolled>無制御</Uncontrolled>
 
   <!-- Sanguophage -->
   <!-- EN: hemogen -->
@@ -208,47 +210,47 @@
   
   <!-- Human pregnancy -->
   <!-- EN: Father -->
-  <FatherTip>TODO</FatherTip>
+  <FatherTip>父親</FatherTip>
   <!-- EN: Genetic mother -->
-  <MotherTip>TODO</MotherTip>
+  <MotherTip>遺伝的母親</MotherTip>
   <!-- EN: an unoccupied bed -->
-  <RitualTargetChildBirth>TODO</RitualTargetChildBirth>
+  <RitualTargetChildBirth>空いているベッド</RitualTargetChildBirth>
   <!-- EN: No appropriate bed for giving birth. -->
-  <NoAppropriateBedChildBirth>TODO</NoAppropriateBedChildBirth>
+  <NoAppropriateBedChildBirth>出産に適したベッドがありません.</NoAppropriateBedChildBirth>
   <!-- EN: No doctor around. -->
-  <NoDoctorChildBirth>TODO</NoDoctorChildBirth>
+  <NoDoctorChildBirth>周囲に医者がいません.</NoDoctorChildBirth>
   <!-- EN: Can't use this bed. -->
-  <CantUseThisBed>TODO</CantUseThisBed>
+  <CantUseThisBed>このベッドは使えません.</CantUseThisBed>
   <!-- EN: Not in labor. -->
-  <NotInLabor>TODO</NotInLabor>
+  <NotInLabor>陣痛が来ていません.</NotInLabor>
   <!-- EN: labor -->
-  <Labor>TODO</Labor>
+  <Labor>陣痛</Labor>
   <!-- EN: dilation -->
-  <LaborDilation>TODO</LaborDilation>
+  <LaborDilation>拡張</LaborDilation>
   <!-- EN: normal -->
-  <PregnancyApproach_Normal>TODO</PregnancyApproach_Normal>
+  <PregnancyApproach_Normal>通常</PregnancyApproach_Normal>
   <!-- EN: avoid pregnancy -->
-  <PregnancyApproach_AvoidPregnancy>TODO</PregnancyApproach_AvoidPregnancy>
+  <PregnancyApproach_AvoidPregnancy>避妊</PregnancyApproach_AvoidPregnancy>
   <!-- EN: try for baby -->
-  <PregnancyApproach_TryForBaby>TODO</PregnancyApproach_TryForBaby>
+  <PregnancyApproach_TryForBaby>赤ん坊を試みる</PregnancyApproach_TryForBaby>
   <!-- EN: pregnancy chance -->
-  <PregnancyChance>TODO</PregnancyChance>
+  <PregnancyChance>妊娠確率</PregnancyChance>
   <!-- EN: Pregnancy approach -->
-  <PregnancyApproach>TODO</PregnancyApproach>
+  <PregnancyApproach>妊娠方針</PregnancyApproach>
   <!-- EN: Click to change pregnancy approach. -->
-  <ClickToChangePregnancyApproach>TODO</ClickToChangePregnancyApproach>
+  <ClickToChangePregnancyApproach>クリックして妊娠方針を変更します.</ClickToChangePregnancyApproach>
   <!-- EN: Pregnancy is not possible -->
-  <PregnancyNotPossible>TODO</PregnancyNotPossible>
+  <PregnancyNotPossible>妊娠しない</PregnancyNotPossible>
   <!-- EN: The chance of a healthy birth at this quality level was {0_percentage}. -->
-  <BirthRitualHealthyBabyChance>TODO</BirthRitualHealthyBabyChance>
+  <BirthRitualHealthyBabyChance>この品質レベルでの健康な出産の可能性は{0_percentage}です.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
-  <GivingBirth>TODO</GivingBirth>
+  <GivingBirth>出産します.</GivingBirth>
 
   <!-- Shield comp -->
   <!-- EN: Shield energy -->
-  <ShieldEnergy>TODO</ShieldEnergy>
+  <ShieldEnergy>シールドエネルギー</ShieldEnergy>
   <!-- EN: Time to recovery -->
-  <ShieldTimeToRecovery>TODO</ShieldTimeToRecovery>
+  <ShieldTimeToRecovery>リカバリーまでの時間</ShieldTimeToRecovery>
 
   <!-- Genes -->
   <!-- EN: genes -->
@@ -346,7 +348,7 @@
   <!-- EN: Genes -->
   <ContainedGenesDesc>遺伝子</ContainedGenesDesc>
   <!-- EN: Order implantation -->
-  <ImplantXenogerm>TODO</ImplantXenogerm>
+  <ImplantXenogerm>移植予約</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
   <ImplantXenogermDesc>これを人に移植して,遺伝子コードを部分的に上書きします.\n\nこれは外科手術なので,医師と医療ベッド,そして{MEDICINEAMOUNT}の薬が必要です.</ImplantXenogermDesc>
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
@@ -432,7 +434,7 @@
 
   <!-- Child birth -->
   <!-- EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
-  <ChildBirthAlwaysHealthy_Desc>母親が出産するのを助けるために集まります.医師は赤ん坊の出産を手伝うことができます.</ChildBirthAlwaysHealthy_Desc>
+  <ChildBirthAlwaysHealthy_Desc>母親が出産するのを助けるために集まります.医者は赤ん坊の出産を手伝うことができます.</ChildBirthAlwaysHealthy_Desc>
   <!-- EN: until the baby is born -->
   <UntilBabyIsBorn>赤ん坊が生まれるまで残り</UntilBabyIsBorn>
 
@@ -444,74 +446,74 @@
   <DevelopmentHealthGizmoTooltip>発育状態とは,前回の誕生日以降の子供の学習欲求の平均値です.\n\n発育状態が高い子供は成長の瞬間により多くの選択肢を得られ,スキルへの情熱が高まります.</DevelopmentHealthGizmoTooltip>
 
   <!-- EN: Must not be placed close to another {0_label} -->
-  <MustNotBePlacedCloseToAnother>TODO</MustNotBePlacedCloseToAnother>
+  <MustNotBePlacedCloseToAnother>別の{0_label}の近くには配置できない</MustNotBePlacedCloseToAnother>
   <!-- EN: Next terrain pollution in -->
-  <PollutingTerrainProgress>TODO</PollutingTerrainProgress>
+  <PollutingTerrainProgress>次の地形汚染</PollutingTerrainProgress>
   <!-- EN: Poisoned {0} -->
-  <PoisonedTerrain>TODO</PoisonedTerrain>
+  <PoisonedTerrain>汚染された{0}</PoisonedTerrain>
   <!-- EN: Assign to control group {0} -->
-  <AssignMechToControlGroup>TODO</AssignMechToControlGroup>
+  <AssignMechToControlGroup>管理グループ{0}に割り当てる</AssignMechToControlGroup>
   <!-- EN: Fall per day -->
-  <CurrentMechEnergyFallPerDay>TODO</CurrentMechEnergyFallPerDay>
+  <CurrentMechEnergyFallPerDay>1日あたりの減少率</CurrentMechEnergyFallPerDay>
   <!-- EN: Cannot assign to control group {0} -->
-  <CannotAssignMechToControlGroup>TODO</CannotAssignMechToControlGroup>
+  <CannotAssignMechToControlGroup>管理グループ{0}に割り当てることができません</CannotAssignMechToControlGroup>
   <!-- EN: Already assigned -->
-  <AssignMechAlreadyAssigned>TODO</AssignMechAlreadyAssigned>
+  <AssignMechAlreadyAssigned>割り当て済み</AssignMechAlreadyAssigned>
 
   <!-- Lactation -->
   <!-- EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level). -->
-  <LactatingAddedNutritionPerDay>TODO</LactatingAddedNutritionPerDay>
+  <LactatingAddedNutritionPerDay>母乳を作るために,余分な栄養を1日あたり{0}消費します(現在の食物レベルにより,母乳の生産速度は{1_percentage}です).</LactatingAddedNutritionPerDay>
   <!-- EN: Lactation is paused because milk fullness is 100% -->
-  <LactatingStoppedBecauseFull>TODO</LactatingStoppedBecauseFull>
+  <LactatingStoppedBecauseFull>母乳が100%溜まっているため,授乳が一時的に止まります</LactatingStoppedBecauseFull>
   <!-- EN: Lactation is paused due to starvation. -->
-  <LactatingStoppedBecauseHungry>TODO</LactatingStoppedBecauseHungry>
+  <LactatingStoppedBecauseHungry>飢餓のため,授乳が一時的に止まります.</LactatingStoppedBecauseHungry>
 
   <!-- Mech gestating -->
   <!-- EN: Current gestation cycle -->
-  <CurrentGestationCycle>TODO</CurrentGestationCycle>
+  <CurrentGestationCycle>現在の培養サイクル</CurrentGestationCycle>
   <!-- EN: Gestation cycles remaining -->
-  <RemainingGestationCycles>TODO</RemainingGestationCycles>
+  <RemainingGestationCycles>残りの培養サイクル</RemainingGestationCycles>
   <!-- EN: Gestation cycles -->
-  <GestationCycles>TODO</GestationCycles>
+  <GestationCycles>培養サイクル</GestationCycles>
   <!-- EN: Gestating {0} -->
-  <GestatingMech>TODO</GestatingMech>
+  <GestatingMech>{0}を培養している</GestatingMech>
   <!-- EN: Gestated {0} -->
-  <GestatedMech>TODO</GestatedMech>
+  <GestatedMech>{0}を培養した</GestatedMech>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
-  <GestatedMechRequiresMechanitor>TODO</GestatedMechRequiresMechanitor>
+  <GestatedMechRequiresMechanitor>完了するには{PAWN_nameDef}が必要</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->
-  <GestationComplete>TODO</GestationComplete>
+  <GestationComplete>培養完了</GestationComplete>
   <!-- EN: Resurrecting {0} -->
-  <ResurrectingMech>TODO</ResurrectingMech>
+  <ResurrectingMech>{0}を復活させている</ResurrectingMech>
   <!-- EN: Resurrected {0} -->
-  <ResurrectedMech>TODO</ResurrectedMech>
+  <ResurrectedMech>{0}を復活させた</ResurrectedMech>
 
   <!-- Carrier -->
   <!-- EN: Release {0} -->
-  <MechCarrierRelease>TODO</MechCarrierRelease>
+  <MechCarrierRelease>{0}を放す</MechCarrierRelease>
   <!-- EN: Release a swarm of up to {0} {1}. Each {2} costs {3} {4} to build. If the parent is destroyed then all the linked {1} will die. {1} cannot be recharged and will die once their power source runs out. -->
-  <MechCarrierDesc>TODO</MechCarrierDesc>
+  <MechCarrierDesc>最大{0}の{1}の群れを放ちます.各{2}の構築には{3}の{4}のコストが必要になります.親が破棄されると,リンクされたすべての{1}が破棄されます.{1}は再充電できず,充電がなくなると機能を停止します.</MechCarrierDesc>
   <!-- EN: Not enough resources -->
-  <MechCarrierNotEnoughResources>TODO</MechCarrierNotEnoughResources>
+  <MechCarrierNotEnoughResources>不十分な資源</MechCarrierNotEnoughResources>
   <!-- EN: Autofill -->
-  <MechCarrierAutofillResources>TODO</MechCarrierAutofillResources>
+  <MechCarrierAutofillResources>自動入力</MechCarrierAutofillResources>
   <!-- EN: Click to set the desired autofill amount. -->
-  <MechCarrierClickToSetAutofillAmount>TODO</MechCarrierClickToSetAutofillAmount>
+  <MechCarrierClickToSetAutofillAmount>クリックして目的の自動入力量を設定します.</MechCarrierClickToSetAutofillAmount>
   <!-- EN: This autofill amount determines the maximum amount of resources your colonists will automatically place in this {0}. Resources can be used to create {1}. -->
-  <MechCarrierAutofillDesc>TODO</MechCarrierAutofillDesc>
+  <MechCarrierAutofillDesc>この自動入力量によって,入植者がこの{0}に自動的に配置する資源の最大量が決まります.資源を使用して{1}を作成できます.</MechCarrierAutofillDesc>
 
   <!-- Mech power cell -->
   <!-- EN: Power cell -->
-  <MechPowerCell>TODO</MechPowerCell>
+  <MechPowerCell>パワーコア</MechPowerCell>
   <!-- EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
-  <MechPowerCellTip>TODO</MechPowerCellTip>
+  <MechPowerCellTip>ウォーアーチンは一度限りの動力源を持っています.このパワーコアがなくなると,メカノイドは停止します.</MechPowerCellTip>
   
 
   <!-- Bossgroup -->
   <!-- EN: available in {0}. -->
-  <BossgroupAvailableIn>TODO</BossgroupAvailableIn>
+  <BossgroupAvailableIn>{0}で利用できます.</BossgroupAvailableIn>
   <!-- EN: requires mechanitor -->
-  <RequiresMechanitor>TODO</RequiresMechanitor>
+  <RequiresMechanitor>メカニターが必要</RequiresMechanitor>
 
   <!-- Abilities -->
   <!-- EN: {0_labelShort} is not hemogenic. -->
@@ -540,229 +542,229 @@
 
   <!-- Growth vat -->
   <!-- EN: Biostarvation -->
-  <Biostarvation>TODO</Biostarvation>
+  <Biostarvation>生物学的栄養失調</Biostarvation>
   <!-- EN: One or more growth vats are experiencing biostarvation from lack of nutrition or power.\n\nIf biostarvation reaches 100%, the contained people will die. -->
-  <BiostarvationExplanation>TODO</BiostarvationExplanation>
+  <BiostarvationExplanation>1つ,もしくは複数の人工生育槽が栄養不足,もしくは電力不足による生物学的栄養失調に陥っています.\n\n生物学的栄養失調が100%に達すると,収容されている生命が死亡します.</BiostarvationExplanation>
   <!-- EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
-  <InsertPersonGrowthVatDesc>TODO</InsertPersonGrowthVatDesc>
+  <InsertPersonGrowthVatDesc>人工生育槽に人を入れます.中に入った人物は通常の20倍の速さで成長します.</InsertPersonGrowthVatDesc>
   <!-- EN: Implant an embryo into the growth vat. After gestating for 18 days a fully formed baby will be produced by the vat, hopefully in good health. -->
-  <InsertEmbryoGrowthVatDesc>TODO</InsertEmbryoGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>人工生育槽に胚を移植します.18日間成長した後,完全に形成された赤ん坊が槽から産まれます.</InsertEmbryoGrowthVatDesc>
   <!-- EN: Insert embryo -->
-  <ImplantEmbryo>TODO</ImplantEmbryo>
+  <ImplantEmbryo>胚を入れる</ImplantEmbryo>
   <!-- EN: Cannot insert embryo -->
-  <CannotInsertEmbryo>TODO</CannotInsertEmbryo>
+  <CannotInsertEmbryo>胚を入れられない</CannotInsertEmbryo>
   <!-- EN: Already contains embryo. -->
-  <EmbryoAlreadyInside>TODO</EmbryoAlreadyInside>
+  <EmbryoAlreadyInside>すでに胚が入っています.</EmbryoAlreadyInside>
   <!-- EN: No embryos -->
-  <ImplantNoEmbryos>TODO</ImplantNoEmbryos>
+  <ImplantNoEmbryos>胚がない</ImplantNoEmbryos>
   <!-- EN: Time until birth -->
-  <EmbryoTimeUntilBirth>TODO</EmbryoTimeUntilBirth>
+  <EmbryoTimeUntilBirth>出産までの時間</EmbryoTimeUntilBirth>
   <!-- EN: Birth quality -->
-  <EmbryoBirthQuality>TODO</EmbryoBirthQuality>
+  <EmbryoBirthQuality>出産の質</EmbryoBirthQuality>
   <!-- EN: Embryo selected -->
-  <EmbryoSelected>TODO</EmbryoSelected>
+  <EmbryoSelected>選択された胚</EmbryoSelected>
   <!-- EN: Person selected -->
-  <PersonSelected>TODO</PersonSelected>
+  <PersonSelected>選択された人</PersonSelected>
   <!-- EN: No non-biostarving people of acceptable age. To enter the growth vat, the person must be below {0} years old and not currently biostarving. -->
-  <NoPawnsCanEnterGrowthVat>TODO</NoPawnsCanEnterGrowthVat>
+  <NoPawnsCanEnterGrowthVat>許容年齢内の栄養失調を起こしていない人物がいません.人工生育槽に入るには,{0}歳未満で,なおかつ栄養失調を起こしていない必要があります.</NoPawnsCanEnterGrowthVat>
   <!-- EN: Aging speed -->
-  <AgingSpeed>TODO</AgingSpeed>
+  <AgingSpeed>成長速度</AgingSpeed>
 
   <!-- Mech charger -->
   <!-- EN: Waste -->
-  <WasteLevel>TODO</WasteLevel>
+  <WasteLevel>無駄</WasteLevel>
 
   <!-- Dissolution -->
   <!-- EN: indoors -->
-  <DissolutionRateIndoors>TODO</DissolutionRateIndoors>
+  <DissolutionRateIndoors>屋内</DissolutionRateIndoors>
   <!-- EN: raining -->
-  <DissolutionRain>TODO</DissolutionRain>
+  <DissolutionRain>雨</DissolutionRain>
   <!-- EN: One wastepack dissolves every {0} -->
-  <DissolvesEvery>TODO</DissolvesEvery>
+  <DissolvesEvery>{0}ごとに1つの廃棄物パックを分解する</DissolvesEvery>
   <!-- EN: Frozen (won't dissolve). -->
-  <DissolutionFrozen>TODO</DissolutionFrozen>
+  <DissolutionFrozen>冷凍(溶けない).</DissolutionFrozen>
 
   <!-- EN: {0} cells / day -->
-  <CellsPerDay>TODO</CellsPerDay>
+  <CellsPerDay>{0}セル/日</CellsPerDay>
 
   <!-- EN: {0} cannot wear clothing for {1} -->
-  <WrongDevelopmentalStageForClothing>TODO</WrongDevelopmentalStageForClothing> 
+  <WrongDevelopmentalStageForClothing>{0}は{1}の服を着ることができない</WrongDevelopmentalStageForClothing>
 
   <!-- Subcore scanner -->
   <!-- EN: Start scanner -->
-  <SubcoreScannerStart>TODO</SubcoreScannerStart>
+  <SubcoreScannerStart>スキャナーを起動</SubcoreScannerStart>
   <!-- EN: Produces -->
-  <SubcoreScannerProduces>TODO</SubcoreScannerProduces>
+  <SubcoreScannerProduces>生産</SubcoreScannerProduces>
   <!-- EN: Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the scanner. -->
-  <SubcoreScannerStartDesc>TODO</SubcoreScannerStartDesc>
+  <SubcoreScannerStartDesc>{0}が必要な材料を積載し,{1},入植者,もしくは倒れた人を選択し,{0}を右クリックしてスキャンを開始します.</SubcoreScannerStartDesc>
   <!-- EN: Completes in -->
-  <SubcoreScannerCompletesIn>TODO</SubcoreScannerCompletesIn>
+  <SubcoreScannerCompletesIn>完了まで残り</SubcoreScannerCompletesIn>
   <!-- EN: Waiting for occupant -->
-  <SubcoreScannerWaitingForOccupant>TODO</SubcoreScannerWaitingForOccupant>
+  <SubcoreScannerWaitingForOccupant>搭載者待ち</SubcoreScannerWaitingForOccupant>
   <!-- EN: Waiting for ingredients -->
-  <SubcoreScannerWaitingForIngredients>TODO</SubcoreScannerWaitingForIngredients>
+  <SubcoreScannerWaitingForIngredients>材料待ち</SubcoreScannerWaitingForIngredients>
   <!-- EN: The following ingredients must be loaded first -->
-  <SubcoreScannerWaitingForIngredientsDesc>TODO</SubcoreScannerWaitingForIngredientsDesc> <!-- text_todo -->
+  <SubcoreScannerWaitingForIngredientsDesc>次の材料を先に積載する必要があります</SubcoreScannerWaitingForIngredientsDesc> <!-- text_todo -->
   <!-- EN: Has {0} -->
-  <SubcoreScannerPawnHasSickness>TODO</SubcoreScannerPawnHasSickness>
+  <SubcoreScannerPawnHasSickness>{0}あり</SubcoreScannerPawnHasSickness>
   <!-- EN: Babies are not allowed -->
-  <SubcoreScannerBabyNotAllowed>TODO</SubcoreScannerBabyNotAllowed>
+  <SubcoreScannerBabyNotAllowed>赤ん坊は乗せられない</SubcoreScannerBabyNotAllowed>
   <!-- EN: Insert a person into the {0}. -->
-  <InsertPersonSubcoreScannerDesc>TODO</InsertPersonSubcoreScannerDesc>
+  <InsertPersonSubcoreScannerDesc>{0}に人を乗せます.</InsertPersonSubcoreScannerDesc>
 
   <!-- EN: Duration (hours) -->
-  <DurationHours>TODO</DurationHours>
+  <DurationHours>期間(時間)</DurationHours>
 
   <!-- Age -->
   <!-- EN: adult -->
-  <Adult>TODO</Adult>
+  <Adult>大人</Adult>
   <!-- EN: adults -->
-  <Adults>TODO</Adults>
+  <Adults>大人達</Adults>
   <!-- EN: child -->
-  <Child>TODO</Child>
+  <Child>子供</Child>
   <!-- EN: children -->
-  <Children>TODO</Children>
+  <Children>子供達</Children>
   <!-- EN: baby -->
-  <Baby>TODO</Baby>
+  <Baby>赤ん坊</Baby>
   <!-- EN: babies -->
-  <Babies>TODO</Babies>
+  <Babies>赤ん坊達</Babies>
   <!-- EN: person -->
-  <Person>TODO</Person>
+  <Person>人物</Person>
   <!-- EN: feral child -->
-  <FeralChild>TODO</FeralChild>
+  <FeralChild>野生の子供</FeralChild>
   <!-- EN: Wearable by -->
-  <WearableBy>TODO</WearableBy>
+  <WearableBy>着用できる</WearableBy>
 
   <!-- EN: Xenogerm implantation -->
-  <Reward_ReimplantXenogerm_Label>TODO</Reward_ReimplantXenogerm_Label>
+  <Reward_ReimplantXenogerm_Label>異種胚移植</Reward_ReimplantXenogerm_Label>
   <!-- EN: One member of the group will reimplant their xenogerm into a colonist of your choice, thus turning your colonist into one of them. Your colonist will remain part of your faction and under your control. -->
-  <Reward_ReimplantXenogerm_Desc>TODO</Reward_ReimplantXenogerm_Desc>
+  <Reward_ReimplantXenogerm_Desc>グループのメンバーの1人が,自分の異種胚を選択した入植者に再移植し,入植者をその1人に変えます.入植者は派閥の一部であり続け,あなたの支配下に置かれます.</Reward_ReimplantXenogerm_Desc>
 
   <!-- Mech resurrection -->
   <!-- EN: Mech resurrection charges -->
-  <MechResurrectionCharges>TODO</MechResurrectionCharges>
+  <MechResurrectionCharges>メカリザレクト負荷</MechResurrectionCharges>
 
   <!-- Mechs -->
   <!-- EN: Mech stun pulse on death -->
-  <MechStunPulseWarning>TODO</MechStunPulseWarning>
+  <MechStunPulseWarning>死亡時のメカのスタンパルス</MechStunPulseWarning>
   <!-- EN: {PAWN_nameDef} is in self-shutdown from low energy. -->
-  <IsLowEnergySelfShutdown>TODO</IsLowEnergySelfShutdown>
+  <IsLowEnergySelfShutdown>{PAWN_nameDef}は低エネルギーによって自己停止します.</IsLowEnergySelfShutdown>
   
   <!-- Pollution -->
   <!-- EN: Toggle pollution overlay. This displays which areas of terrain are polluted.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most plants cannot live on polluted terrain. -->
-  <ShowPollutionOverlayToggleButton>TODO</ShowPollutionOverlayToggleButton>
+  <ShowPollutionOverlayToggleButton>汚染オーバーレイを切り替えます.これは,地形のどの領域が汚染されているかを表示します.\n\n汚染された地形にさらされると,死に至る可能性のある有毒物質が蓄積されます.ほとんどの植物は汚染された地形では生きられません.</ShowPollutionOverlayToggleButton>
   <!-- EN: None -->
-  <TilePollutionNone>TODO</TilePollutionNone>
+  <TilePollutionNone>なし</TilePollutionNone>
   <!-- EN: Light -->
-  <TilePollutionLight>TODO</TilePollutionLight>
+  <TilePollutionLight>軽度</TilePollutionLight>
   <!-- EN: Moderate -->
-  <TilePollutionModerate>TODO</TilePollutionModerate>
+  <TilePollutionModerate>中度</TilePollutionModerate>
   <!-- EN: Extreme -->
-  <TilePollutionExtreme>TODO</TilePollutionExtreme>
+  <TilePollutionExtreme>極度</TilePollutionExtreme>
   <!-- EN: Pollution -->
-  <TilePollution>TODO</TilePollution>
+  <TilePollution>汚染</TilePollution>
   <!-- EN: Nearby pollution -->
-  <TilePollutionNearby>TODO</TilePollutionNearby>
+  <TilePollutionNearby>近くの汚染</TilePollutionNearby>
   <!-- EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
-  <NearbyPollutionTip>TODO</NearbyPollutionTip>
+  <NearbyPollutionTip>半径{0}タイル内のすべてのタイルの汚染レベルの合計です.このタイルからの距離が遠くなるほど,汚染の影響が減少します:\n\n{1}\n\n近くの汚染が高いほど,酸性スモッグの発生する可能性が高くなります.</NearbyPollutionTip>
   <!-- EN: This tile will have acidic smog every {0} days on average. -->
-  <NoxiousHazeInterval>TODO</NoxiousHazeInterval>
+  <NoxiousHazeInterval>このタイルは平均して{0}日ごとに酸性スモッグが発生します.</NoxiousHazeInterval>
   <!-- EN: This tile will never have acidic smog. -->
-  <NoxiousHazeNeverOccurring>TODO</NoxiousHazeNeverOccurring>
+  <NoxiousHazeNeverOccurring>このタイルには酸性スモッグが発生しません.</NoxiousHazeNeverOccurring>
   <!-- EN: tiles away -->
-  <NearbyPollutionTilesAway>TODO</NearbyPollutionTilesAway>
+  <NearbyPollutionTilesAway>離れたタイル</NearbyPollutionTilesAway>
   <!-- EN: pollution -->
-  <PollutionLower>TODO</PollutionLower>
+  <PollutionLower>汚染</PollutionLower>
   <!-- EN: Cannot absorb pollution: Buildings too close -->
-  <CannotAbsorbPollution>TODO</CannotAbsorbPollution>
+  <CannotAbsorbPollution>汚染を吸収できない:建物が近すぎる</CannotAbsorbPollution>
   <!-- EN: Can absorb pollution from nearby terrain -->
-  <CanAbsorbPollution>TODO</CanAbsorbPollution>
+  <CanAbsorbPollution>近くの地形から汚染を吸収できる</CanAbsorbPollution>
   <!-- EN: Absorbing pollution: Next in {0} -->
-  <AbsorbingPollutionNext>TODO</AbsorbingPollutionNext>
+  <AbsorbingPollutionNext>汚染の吸収:次は{0}</AbsorbingPollutionNext>
   <!-- EN: How polluted the terrain is on this tile.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most crops cannot live on polluted terrain. -->
-  <TerrainPollutionTip>TODO</TerrainPollutionTip>
+  <TerrainPollutionTip>このタイルの地形がどの程度汚染されているかです.\n\n汚染された地形にさらされると毒物が蓄積し,死に至る可能性があります.ほとんどの作物は汚染された地形では生きられません.</TerrainPollutionTip>
 
   <!-- Research -->
   <!-- EN: Requires study of -->
-  <StudyRequirementTip>TODO</StudyRequirementTip>
+  <StudyRequirementTip>研究が必要</StudyRequirementTip>
 
   <!-- Insect -->
   <!-- EN: Trigger radius -->
-  <TriggerRadius>TODO</TriggerRadius>
+  <TriggerRadius>反応半径</TriggerRadius>
   <!-- EN: Opening -->
-  <DormantCompOpening>TODO</DormantCompOpening>
+  <DormantCompOpening>開いている</DormantCompOpening>
   
   <!-- Fertility -->
   <!-- EN: ova extracted recently -->
-  <SurgeryDisableReasonOvumExtracted>TODO</SurgeryDisableReasonOvumExtracted>
+  <SurgeryDisableReasonOvumExtracted>最近取り出した卵子</SurgeryDisableReasonOvumExtracted>
   <!-- EN: Fertilize -->
-  <Fertilize>TODO</Fertilize>
+  <Fertilize>受精させる</Fertilize>
   <!-- EN: Fertilize {0_label} -->
-  <FertilizeThing>TODO</FertilizeThing><!-- text_todo -->
+  <FertilizeThing>{0_label}を受精させる</FertilizeThing><!-- text_todo -->
   <!-- EN: Cannot fertilize -->
-  <FertilizeCannotFloatOption>TODO</FertilizeCannotFloatOption>
+  <FertilizeCannotFloatOption>受精できない</FertilizeCannotFloatOption>
   <!-- EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->
-  <FertilizeGizmoDescription>TODO</FertilizeGizmoDescription>
+  <FertilizeGizmoDescription>この卵子を受精させて胚を作成する男性を選択します.その後,胚を母親に移植して妊娠を開始するか,人工生育槽に移植することができます.生まれる子供の生物学的両親は,卵子を提供した女性とそれを受精させた男性になります.</FertilizeGizmoDescription>
   <!-- EN: Cancel fertilization by {0} -->
-  <FertilizeCancel>TODO</FertilizeCancel>
+  <FertilizeCancel>{0}までに受精をキャンセル</FertilizeCancel>
   <!-- EN: sterile -->
-  <CannotSterile>TODO</CannotSterile>
+  <CannotSterile>不妊</CannotSterile>
   <!-- EN: pregnant -->
-  <CannotPregnant>TODO</CannotPregnant>
+  <CannotPregnant>妊娠</CannotPregnant>
   <!-- EN: must be {0} -->
-  <CannotMustBeAge>TODO</CannotMustBeAge>
+  <CannotMustBeAge>{0}でなければならない</CannotMustBeAge>
   <!-- EN: already having embryo implanted -->
-  <CannotImplantingOtherEmbryo>TODO</CannotImplantingOtherEmbryo>
+  <CannotImplantingOtherEmbryo>すでに胚を移植済み</CannotImplantingOtherEmbryo>
   <!-- EN: {0} ({1}) -->
-  <DisabledOption>TODO</DisabledOption>
+  <DisabledOption>{0}({1})</DisabledOption>
   <!-- EN: No men can fertilize this ovum. -->
-  <FertilizeDisabledNoMales>TODO</FertilizeDisabledNoMales>
+  <FertilizeDisabledNoMales>男性はこの卵子に受精できません.</FertilizeDisabledNoMales>
   
   <!-- EN: Implant embryo -->
-  <ImplantLabel>TODO</ImplantLabel>
+  <ImplantLabel>胚の移植</ImplantLabel>
   <!-- EN: Implant this embryo in a surrogate mother to begin a pregnancy. -->
-  <ImplantDescription>TODO</ImplantDescription>
+  <ImplantDescription>この胚を代理母に移植して妊娠を始めます.</ImplantDescription>
   <!-- EN: Insert in growth vat -->
-  <InsertGrowthVatLabel>TODO</InsertGrowthVatLabel>
+  <InsertGrowthVatLabel>人工生育槽に入れる</InsertGrowthVatLabel>
 
   <!-- EN: Cannot implant -->
-  <ImplantCannotFloatOption>TODO</ImplantCannotFloatOption>
+  <ImplantCannotFloatOption>移植できない</ImplantCannotFloatOption>
   <!-- EN: No woman can be a surrogate mother. -->
-  <ImplantDisabledNoWomen>TODO</ImplantDisabledNoWomen>
+  <ImplantDisabledNoWomen>女性は代理母にはなれません.</ImplantDisabledNoWomen>
   <!-- EN: No available growth vats. -->
-  <ImplantDisabledNoVats>TODO</ImplantDisabledNoVats>
+  <ImplantDisabledNoVats>利用可能な人工生育槽がありません.</ImplantDisabledNoVats>
   <!-- EN: Implant {0} -->
-  <ImplantSurgeryLabel>TODO</ImplantSurgeryLabel>
+  <ImplantSurgeryLabel>{0}を移植</ImplantSurgeryLabel>
   <!-- EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
-  <ImplantSurgeryConfirm>TODO</ImplantSurgeryConfirm>
+  <ImplantSurgeryConfirm>{1}の{0}の着床成功確率は{2}です.\n\n着床成功率は代理母の受胎能力に依存します.母親が年を取りすぎたり,若すぎたりすると,より低くなります.</ImplantSurgeryConfirm>
   <!-- EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
-  <ImplantEmbryoCancelVat>TODO</ImplantEmbryoCancelVat>
+  <ImplantEmbryoCancelVat>今人工生育槽から{0}を排出すると,赤ん坊が形成される前に死亡します.\n\n本当に続けますか?</ImplantEmbryoCancelVat>
   <!-- EN: Implanting the {0} in {1} was unsuccessful. -->
-  <ImplantFailedMessage>TODO</ImplantFailedMessage>
+  <ImplantFailedMessage>{1}に{0}を移植できませんでした.</ImplantFailedMessage>
   <!-- EN: Cancel embryo insertion -->
-  <ImplantEmbryoCancel>TODO</ImplantEmbryoCancel>
+  <ImplantEmbryoCancel>胚の移植のキャンセル</ImplantEmbryoCancel>
   <!-- EN: The {0} was ejected from a growth vat and destroyed. -->
-  <EmbryoEjectedFromGrowthVat>TODO</EmbryoEjectedFromGrowthVat>
+  <EmbryoEjectedFromGrowthVat>{0}は人工生育槽から排出され,死亡しました.</EmbryoEjectedFromGrowthVat>
   <!-- EN: The {0} was destroyed in a growth vat due to biostarvation. -->
-  <EmbryoEjectedFromGrowthVatBiostarvation>TODO</EmbryoEjectedFromGrowthVatBiostarvation>
+  <EmbryoEjectedFromGrowthVatBiostarvation>{0}は生物学的栄養失調により,人工生育槽で死亡しました.</EmbryoEjectedFromGrowthVatBiostarvation>
 
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
-  <IvfPregnancyLetterText>TODO</IvfPregnancyLetterText>
+  <IvfPregnancyLetterText>{0}は胚の移植からの妊娠に成功しました!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
-  <IvfPregnancyLetterParents>TODO</IvfPregnancyLetterParents>
+  <IvfPregnancyLetterParents>赤ん坊は{0}と{1}の遺伝子構造を持っています.</IvfPregnancyLetterParents>
 
   <!-- Projectile interceptor -->
   <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>TODO</ProjectileInterceptorTip>
+  <ProjectileInterceptorTip>発射物や榴散弾の侵入を阻止する低角度の投影シールドです.EMPに当たると即座に停止します.</ProjectileInterceptorTip>
 
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
-  <RemoteMechShieldTip>TODO</RemoteMechShieldTip>
+  <RemoteMechShieldTip>メカニターが投影した遠隔シールドです.発射物や榴散弾を止めますが,近接攻撃や熱に対しては反応できません.着用者の発砲も防ぎ,EMPを受けると即座に停止します.</RemoteMechShieldTip>
 
   <!-- Thoughtdef fallbacks -->
   <!-- EN: my child is happy -->
-  <MyChildIsHappy>TODO</MyChildIsHappy>
+  <MyChildIsHappy>私の子供が幸せ</MyChildIsHappy>
   <!-- EN: my child is sad -->
-  <MyChildIsSad>TODO</MyChildIsSad> 
+  <MyChildIsSad>私の子供が悲しんでる</MyChildIsSad> 
 
 </LanguageData>

@@ -24,11 +24,11 @@
   <!-- EN: mechanoid transponder -->
   <MechanoidTransponder.label>メカノイド応答装置</MechanoidTransponder.label>
   <!-- EN: A transponder micro-organ that connects a mechanitor to a mechanoid, even over a great distance. Mechanitors are capable of controlling many mechanoids using a mix of psychic and electromagnetic signals.\n\nDecrypting the transponder will allow you to pinpoint the location of the last mechanitor who controlled the mechanoid. -->
-  <MechanoidTransponder.description>メカニターがメカノイドと接続するための通信応答機能を持った微小器官です.メカニターは精神的および電磁気学的信号を組み合わせることで多くのメカノイドを制御することができます.\n\n応答装置を解読するとこのメカノイドを操作していた最後のメカニターの正確な位置が分るでしょう.</MechanoidTransponder.description>
+  <MechanoidTransponder.description>メカニターがメカノイドと接続するための通信応答機能を持った微小器官です.メカニターは精神的および電磁気学的信号を組み合わせることで多くのメカノイドを制御することができます.\n\n応答装置を解析するとこのメカノイドを操作していた最後のメカニターの正確な位置が分るでしょう.</MechanoidTransponder.description>
   <!-- EN: Decrypt transponder -->
-  <MechanoidTransponder.comps.CompUseableDatacore.useLabel>応答装置を解読する</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
+  <MechanoidTransponder.comps.CompUseableDatacore.useLabel>応答装置を解析する</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
   <!-- EN: Can be decrypted at a research bench.\nSelect a colonist and right-click this to decrypt it. -->
-  <MechanoidTransponder.comps.CompInspectString.inspectString>研究卓で解読できます.\n解読するには入植者を選択して右クリックしてください.</MechanoidTransponder.comps.CompInspectString.inspectString>
+  <MechanoidTransponder.comps.CompInspectString.inspectString>研究卓で解析できます.\n解析するには入植者を選択して右クリックしてください.</MechanoidTransponder.comps.CompInspectString.inspectString>
   
   <!-- EN: xenogerm -->
   <Xenogerm.label>異種胚</Xenogerm.label>
