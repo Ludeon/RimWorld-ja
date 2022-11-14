@@ -107,9 +107,9 @@
   <AlertGenebankUnpoweredDesc>遺伝子バンクに電力が供給されていないため,内部の遺伝子は徐々に劣化していきます.劣化防止のために電力を供給してください.\n\n電力が回復されると遺伝子の劣化も徐々に回復します.</AlertGenebankUnpoweredDesc>
 
   <!-- EN: {0} incoming -->
-  <AlertBossgroupIncoming>{0}が接近中</AlertBossgroupIncoming><!-- text_todo -->
+  <AlertBossgroupIncoming>{0}が接近中</AlertBossgroupIncoming>
   <!-- EN: Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days. -->
-  <AlertBossgroupIncomingDesc>メカニターの発したシグナルによって,敵対的な{0}が護衛部隊を引き連れて接近中です.簡単な戦いにはなりません.敵対的なメカノイドは数時間ないし数日後に来襲します.</AlertBossgroupIncomingDesc><!-- text_todo -->
+  <AlertBossgroupIncomingDesc>メカニターの発したシグナルによって,敵対的な{0}が護衛部隊を引き連れて接近中です.簡単な戦いにはなりません.敵対的なメカノイドは数時間ないし数日後に来襲します.</AlertBossgroupIncomingDesc>
 
   <!-- UNUSED -->
   <AlertDeathrestComplete>死眠完了</AlertDeathrestComplete>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: happy -->
+  <MoodOffsetHappy.stages.happy.label>幸せ</MoodOffsetHappy.stages.happy.label>
+  <!-- EN: Natural bonus from 'happy' gene. -->
+  <MoodOffsetHappy.stages.happy.description>'幸せ'遺伝子からくる自然なボーナスです.</MoodOffsetHappy.stages.happy.description>
+  
+  <!-- EN: unhappy -->
+  <MoodOffsetUnhappy.stages.unhappy.label>不幸</MoodOffsetUnhappy.stages.unhappy.label>
+  <!-- EN: Natural penalty from 'unhappy' gene. -->
+  <MoodOffsetUnhappy.stages.unhappy.description>'不幸'遺伝子からくる自然なペナルティです.</MoodOffsetUnhappy.stages.unhappy.description>
+  
+  <!-- EN: very happy -->
+  <MoodOffsetVeryHappy.stages.very_happy.label>とても幸せ</MoodOffsetVeryHappy.stages.very_happy.label>
+  <!-- EN: Natural bonus from 'very happy' gene. -->
+  <MoodOffsetVeryHappy.stages.very_happy.description>'とても幸せ'遺伝子からくる自然なボーナスです.</MoodOffsetVeryHappy.stages.very_happy.description>
+  
+  <!-- EN: very unhappy -->
+  <MoodOffsetVeryUnhappy.stages.very_unhappy.label>とても不幸</MoodOffsetVeryUnhappy.stages.very_unhappy.label>
+  <!-- EN: Natural penalty from 'very unhappy' gene. -->
+  <MoodOffsetVeryUnhappy.stages.very_unhappy.description>'とても不幸'遺伝子からくる自然なペナルティです.</MoodOffsetVeryUnhappy.stages.very_unhappy.description>
+  
+</LanguageData>

@@ -27,6 +27,8 @@
   <MessageAbsorbingXenogermWillAngerFaction>{PAWN_nameDef}の異種胚を抽出すると{0}を怒らせます.</MessageAbsorbingXenogermWillAngerFaction>
   <!-- EN: {ABILITY_label} can only be used on colonists, prisoners, and slaves. -->
   <MessageCannotUseOnOtherFactions>{ABILITY_label}は入植者,囚人,奴隷にのみ使用できます.</MessageCannotUseOnOtherFactions>
+  <!-- EN: {0_labelShort} will not become a non-preferred xenotype. -->
+  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort}は嫌いなゼノタイプにはなりません.</MessageCannotBecomeNonPreferredXenotype><!-- text_todo -->
 
   <!-- EN: Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef} -->
   <MessageCaravanAddingEscortingMech>{OVERSEER_nameDef}の護衛担当なため,自動的に{MECH_nameDef}をキャラバンに追加します</MessageCaravanAddingEscortingMech> 
@@ -43,6 +45,8 @@
   <MessagePregnancyTerminated>{PAWN_nameDef}の妊娠は正常に完了しました.</MessagePregnancyTerminated>
   
   <!-- Pollution -->
+  <!-- EN: {0} has been angered ({1}) -->
+  <MessageAngeredPollutedCell>{0}は怒っている({1})</MessageAngeredPollutedCell> <!-- text_todo -->
   <!-- EN: Need unpolluted terrain. -->
   <MessageWarningPollutedCell>汚染されていない地形が必要です.</MessageWarningPollutedCell>
   <!-- EN: Need polluted terrain. -->
@@ -103,11 +107,14 @@
   <!-- EN: The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there. -->
   <MessageBedExposedToSunlight>{BED_labelShort} {PAWN_nameDef}は日光にさらされ場所で死眠を取るよう割り当てられています.そこでは{PAWN_nameDef}は死眠できません.</MessageBedExposedToSunlight>
 
+  <!-- EN: {PAWN_labelShort} was ejected from a gene extractor due to lack of power. -->
+  <GeneExtractorNoPowerEjectedMessage>電力不足のため,{PAWN_labelShort}が遺伝子抽出器から排出されました.</GeneExtractorNoPowerEjectedMessage><!-- text_todo -->
+
   <!-- Mechanitor -->
   <!-- EN: {PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner. -->
   <MessagePawnKilledRipscanner>{PAWN_nameDef}の脳がサブコア・リップスキャナーのよって破壊されました.</MessagePawnKilledRipscanner>
   <!-- EN: Subcore softscanner completed for {PAWN_nameDef}. -->
-  <MessageSubcoreSoftscannerCompleted>{PAWN_nameDef}のサブコア・ソフトスキャナーが完了しました.</MessageSubcoreSoftscannerCompleted><!-- text_todo -->
+  <MessageSubcoreSoftscannerCompleted>{PAWN_nameDef}のサブコア・ソフトスキャナーが完了しました.</MessageSubcoreSoftscannerCompleted>
 
   <!-- EN: Cannot resurrect dessicated corpses. -->
   <MessageCannotResurrectDessicatedCorpse>乾燥した死体を復活させることはできません.</MessageCannotResurrectDessicatedCorpse>
@@ -143,6 +150,13 @@
   <!-- EN: Warning: {0_labelShort} is carrying a baby while drafted. -->
   <MessageDraftedPawnCarryingBaby>警告:{0_labelShort}は赤ん坊を抱えたまま徴兵されています.</MessageDraftedPawnCarryingBaby>
   <!-- EN: {ADULT_nameDef} is moving {BABY_nameDef} somewhere with a safer temperature. -->
-  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef}は{BABY_nameDef}を,より安全な温度の場所に移動させています.</MessageTakingBabyToSafeTemperature><!-- text_todo -->
+  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef}は{BABY_nameDef}を,より安全な温度の場所に移動させています.</MessageTakingBabyToSafeTemperature>
+
+  <!-- EN: Pregnancy failed between {MOTHER_nameDef} and {FATHER_nameDef} -->
+  <MessagePregnancyFailed>{MOTHER_nameDef}と{FATHER_nameDef}の間の妊娠が失敗した</MessagePregnancyFailed><!-- text_todo -->
+  <!-- EN: {PAWN_nameDef} failed to fertilize ovum -->
+  <MessageFerilizeFailed>{PAWN_nameDef}は卵子の受精に失敗した</MessageFerilizeFailed><!-- text_todo -->
+  <!-- EN: Combined genes exceeded metabolism limits. -->
+  <CombinedGenesExceedMetabolismLimits>組み合わされた遺伝子は代謝限界を超えました.</CombinedGenesExceedMetabolismLimits><!-- text_todo -->
 
 </LanguageData>

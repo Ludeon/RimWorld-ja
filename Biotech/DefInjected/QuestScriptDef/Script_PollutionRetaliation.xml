@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>retaliationLetterLabel->wastepack retaliation</li>
+    <li>retaliationLetterLabel(senderIsNull==False)->[sender_faction_pawnSingular] wastepack retaliation</li>
+    <li>retaliationLetterLabel(senderIsNull==False,sender_royalInCurrentFaction==False)->[sender_nameDef]'s wastepack retaliation</li>
+    <li>retaliationLetterText(senderIsNull==True)->Your pollution has not gone unnoticed, angered neighbours are bombarding your base with toxic wastepacks.\n\nIf not kept frozen, toxic wastepacks will dissolve over time, polluting nearby terrain.</li>
+    <li>retaliationLetterText(sender_royalInCurrentFaction==True)->[sender_nameFull], a [sender_royalTitleInCurrentFaction] of [sender_faction_name] is bombarding your base with toxic wastepacks. [sender_pronoun] claims that your reckless polluting has done harm to [sender_possessive] faction.\n\nIf not kept frozen, toxic wastepacks will dissolve over time, polluting nearby terrain.</li>
+    <li>retaliationLetterText(sender_factionLeader==True)->[sender_faction_leaderTitle] [sender_nameFull] of [sender_faction_name] is bombarding your base with toxic wastepacks. [sender_pronoun] claims that your reckless polluting has done harm to [sender_possessive] faction.\n\nIf not kept frozen, toxic wastepacks will dissolve over time, polluting nearby terrain.</li>
+  -->
+  <PollutionRetaliation.questContentRules.rulesStrings>
+    <li>retaliationLetterLabel->廃棄物パックの報復</li>
+    <li>retaliationLetterLabel(senderIsNull==False)->[sender_faction_pawnSingular]による廃棄物パックの報復</li>
+    <li>retaliationLetterLabel(senderIsNull==False,sender_royalInCurrentFaction==False)->[sender_nameDef]による廃棄物パックの報復</li>
+    <li>retaliationLetterText(senderIsNull==True)->コロニーの汚染は見過ごされませんでした.隣人は怒り,報復として有毒な廃棄物パックでコロニーを攻撃しました.\n\n凍らせずに放置すると,有毒な廃棄物パックは時間の経過と共に溶解し,周囲の地形を汚染します.</li>
+    <li>retaliationLetterText(sender_royalInCurrentFaction==True)->[sender_faction_name]の[sender_royalTitleInCurrentFaction]である[sender_nameFull]が, 有毒な廃棄物パックでコロニーを攻撃しました.[sender_pronoun]は,コロニーの無謀な汚染が[sender_possessive]派閥に害を与えたと主張しています.\n\n凍らせずに放置すると,有毒な廃棄物パックは時間の経過と共に溶解し,周囲の地形を汚染します.</li>
+    <li>retaliationLetterText(sender_factionLeader==True)->[sender_faction_name]の[sender_faction_leaderTitle]である[sender_nameFull]が, 有毒な廃棄物パックでコロニーを攻撃しました.[sender_pronoun]は,コロニーの無謀な汚染が[sender_possessive]派閥に害を与えたと主張しています.\n\n凍らせずに放置すると,有毒な廃棄物パックは時間の経過と共に溶解し,周囲の地形を汚染します.</li>
+  </PollutionRetaliation.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->pollutionretaliation</li>
+  -->
+  <PollutionRetaliation.questDescriptionRules.rulesStrings>
+    <li>questDescription->汚染報復</li>
+  </PollutionRetaliation.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->pollutionretaliation</li>
+  -->
+  <PollutionRetaliation.questNameRules.rulesStrings>
+    <li>questDescription->汚染報復</li>
+  </PollutionRetaliation.questNameRules.rulesStrings>
+  
+</LanguageData>

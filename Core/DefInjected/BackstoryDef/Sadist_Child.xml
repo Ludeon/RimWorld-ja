@@ -1,25 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: [PAWN_nameDef] was fortunate enough to attend one of the best private schools on [PAWN_possessive] homeworld.\n\n[PAWN_nameDef] was also unfortuante enough to see [PAWN_possessive] parents separate at a young age. -->
+  <!-- UNUSED -->
   <DivorceKid95.baseDesc>[PAWN_nameDef]は,故郷で最高の私立学校の1つに通うという,大きな幸運に会いました.\n\n[PAWN_nameDef]はまた,幼い頃に両親が別れるのを見るという,大きな不幸にも会いました.</DivorceKid95.baseDesc>
-  <!-- EN: divorce kid -->
   <DivorceKid95.title>片親の子</DivorceKid95.title>
-  <!-- EN: divorce -->
   <DivorceKid95.titleShort>片親</DivorceKid95.titleShort>
   
-  <!-- EN: [PAWN_nameDef]'s affluent family helped conceal [PAWN_possessive] habit of torturing animals.\n\nDespite years of therapy, [PAWN_pronoun] could never bring [PAWN_objective]self to interact with the little beasts in any normal way. [PAWN_pronoun] did learn a few things about how bodies live and die. -->
+  <!-- UNUSED -->
   <PetTorturer60.baseDesc>[PAWN_nameDef]の家族は裕福であったため,動物を拷問する[PAWN_possessive]習慣を隠すことができていました.\n\n何年にも渡る治療にも関わらず,[PAWN_pronoun]は通常の手段で小さな獣と対話することが全くできませんでした.[PAWN_pronoun]は肉体がどのように生きてどのように死ぬのかについて,いくつかのことを学びました.</PetTorturer60.baseDesc>
-  <!-- EN: pet torturer -->
   <PetTorturer60.title>ペット拷問者</PetTorturer60.title>
-  <!-- EN: pet torturer -->
   <PetTorturer60.titleShort>ペット拷問者</PetTorturer60.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a smart kid, so everyone encouraged [PAWN_possessive] ambition to become a politician.\n\n[PAWN_pronoun] would use any tactic to win, including direct psychological attacks.\n\nDuring one school election, the other candidate hung himself. [PAWN_nameDef] won by default. -->
+  <!-- UNUSED -->
   <PoliticalClimber28.baseDesc>[PAWN_nameDef]は賢い子供だったため,誰もが[PAWN_possessive]野心である政治家になることを応援していました.\n\n[PAWN_pronoun]は直接的な心理攻撃も含め,勝つためにあらゆる戦術を使用しました.\n\nある学校の選挙中,他の候補者が首を吊りました.[PAWN_nameDef]は不戦勝で当選しました.</PoliticalClimber28.baseDesc>
-  <!-- EN: political climber -->
   <PoliticalClimber28.title>出世志向の政治家</PoliticalClimber28.title>
-  <!-- EN: political climber -->
   <PoliticalClimber28.titleShort>政治家</PoliticalClimber28.titleShort>
   
 </LanguageData>

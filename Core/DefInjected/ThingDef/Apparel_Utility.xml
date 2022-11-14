@@ -11,6 +11,8 @@
   <Apparel_PsychicInsanityLance.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_PsychicInsanityLance.comps.CompReloadable.cooldownGerund>
   <!-- EN: psychic insanity lance -->
   <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>狂気の槍</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+  <!-- EN: psychic insane immune -->
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>狂気耐性</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>
   
   <!-- EN: psychic shock lance -->
   <Apparel_PsychicShockLance.label>衝撃の槍</Apparel_PsychicShockLance.label>
@@ -22,5 +24,7 @@
   <Apparel_PsychicShockLance.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_PsychicShockLance.comps.CompReloadable.cooldownGerund>
   <!-- EN: psychic shock lance -->
   <Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>衝撃の槍</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+  <!-- EN: psychic shock immune -->
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>衝撃耐性</Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>
   
 </LanguageData>

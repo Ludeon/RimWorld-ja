@@ -44,10 +44,10 @@
   <LetterMechanitorCasketFound>メカニターの冬眠カプセルを発見しました!\n\n開けて中身を見てみましょう.</LetterMechanitorCasketFound>
   
   <!-- Pawns lost because map closed (including mechs) -->
-  <!-- EN: Your caravan has been lost. The following people, animals and mechs have been lost with it -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>キャラバン隊は全滅し,次の人々,家畜,メカを失いました</LetterPawnsLostIncMechsBecauseMapClosed_Caravan><!-- text_todo -->
-  <!-- EN: The following people, animals and mechs have been abandoned -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Home>次の人々,家畜,メカは放棄されました</LetterPawnsLostIncMechsBecauseMapClosed_Home><!-- text_todo -->
+  <!-- EN: Your caravan has been lost. The following people, animals and mechanoids have been lost with it -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>キャラバン隊は全滅し,次の人々,家畜,メカを失いました</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+  <!-- EN: The following people, animals and mechanoids have been abandoned -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>次の人々,家畜,メカは放棄されました</LetterPawnsLostIncMechsBecauseMapClosed_Home>
   
 
   <!-- Children -->
@@ -114,10 +114,14 @@
   <Immediately>すぐに</Immediately>
   <!-- EN: within -->
   <Within>範囲内</Within>
-  <!-- EN: The baby has been given the temporary name {0_nameFull}. You can change it until {1} after birth. -->
-  <LetterPartNameBaby>赤ん坊は一時的に{0_nameFull}と名付けられます. 生後{1}まで変更可能です.</LetterPartNameBaby>
+  <!-- EN: The baby has been given the temporary name {0_nameFull}. -->
+  <LetterPartTempBabyName>赤ん坊は一時的に{0_nameFull}と名付けられます.</LetterPartTempBabyName>
+  <!-- EN: You can change it until {0} after birth. -->
+  <LetterPartLiveBirthNameDeadline>生後{0}まで変更可能です.</LetterPartLiveBirthNameDeadline>
+  <!-- EN: Would you like to give the baby another name? -->
+  <LetterPartStillbirthNameDeadline>赤ん坊に別の名前を付けますか?</LetterPartStillbirthNameDeadline>
   <!-- EN: The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old. -->
-  <LetterPartNameBabyAdopt>赤ん坊は一時的に{0_nameFull}と名付けられました. {1}歳未満であれば変更可能です.</LetterPartNameBabyAdopt> 
+  <LetterPartNameBabyAdopt>赤ん坊は一時的に{0_nameFull}と名付けられました. {1}歳未満であれば変更可能です.</LetterPartNameBabyAdopt>
 
   <!-- EN: Growth moment for {PAWNNAME} -->
   <BirthdayGrowthMoment>{PAWNNAME}の成長の瞬間</BirthdayGrowthMoment>
@@ -140,7 +144,11 @@
   <BirthdayPassionArchive>{0}の情熱が増加しました.</BirthdayPassionArchive>
   <!-- EN: The trait {0} was gained. -->
   <BirthdayTraitArchive>特性'{0}'を獲得しました.</BirthdayTraitArchive>
-  
+  <!-- EN: No trait -->
+  <BirthdayNoTraitChoice>特性なし</BirthdayNoTraitChoice> <!-- text_todo -->
+  <!-- EN: {0} does not gain a trait. -->
+  <BirthdayNoTraitChoiceTooltip>{0}は特性を獲得しません.</BirthdayNoTraitChoiceTooltip> <!-- text_todo -->
+
   <!-- EN: Make choices to close -->
   <BirthdayMakeChoices>選択して終了</BirthdayMakeChoices>
   <!-- EN: {0} has gained the nickname {1}. -->
@@ -170,8 +178,16 @@
   <XenogermOrderedImplantedMedicineNeeded>\n\n異種胚を移植するのに十分な薬がありません.{MEDICINENEEDED}の薬が利用可能になるまで,移植を開始することはできません.</XenogermOrderedImplantedMedicineNeeded>
   <!-- EN: Involuntary deathrest -->
   <LetterLabelInvoluntaryDeathrest>強制死眠</LetterLabelInvoluntaryDeathrest>
-  <!-- EN: {PAWN_nameDef} has fallen into deathrest. -->
-  <LetterTextInvoluntaryDeathrest>{PAWN_nameDef}は死眠に陥りました.</LetterTextInvoluntaryDeathrest>
+  <!-- EN: Regeneration coma -->
+  <LetterLabelRegenerationComa>再生昏睡</LetterLabelRegenerationComa><!-- text_todo -->
+  <!-- EN: {PAWN_nameDef}'s deathless gene has prevented {PAWN_objective} from dying. {HEDIFFINFO} -->
+  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef}の不死の遺伝子が死を防ぎました.{HDEFINFO}</LetterTextInvoluntaryDeathrestOrComa><!-- text_todo -->
+  <!-- EN: Instead, {PAWN_pronoun} has fallen into a deathrest. -->
+  <LetterTextDeathrest>代わりに,{PAWN_pronoun}は死眠に陥りました.</LetterTextDeathrest>
+  <!-- EN: Instead, {PAWN_pronoun} has fallen into a regeneration coma. -->
+  <LetterTextRegenerationComa>代わりに{PAWN_pronoun}は再生昏睡状態に陥りました.</LetterTextRegenerationComa>
+  <!-- EN: As a result of the traumatic process, {PAWN_nameDef} has lost {XPLOSS} XP in {PAWN_possessive} {SKILL} skill. -->
+  <DeathrestLostSkill>トラウマ的な経験の結果,{PAWN_nameDef}は{SKILL}スキルを{XPLOSS}XP失いました.</DeathrestLostSkill><!-- text_todo -->
   <!-- EN: Lethal damage taken. -->
   <DeathrestLethalDamage>致命的なダメージを受けました.</DeathrestLethalDamage>
 
@@ -192,5 +208,14 @@
 
   <!-- EN: Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
   <LetterPsychicBondCreated>本能的に配偶者を探している{BONDPAWN_nameDef}は,{OTHERPAWN_nameDef}と精神的に結びついた恋愛関係を築きました.{OTHERPAWN_nameDef}は {BONDPAWN_nameDef}との絆から心理的な恩恵を受けますが,両者が別々のワールドタイルに分かれると,両者とも精神的ストレスに苦しむことになります.また,どちらか一方が死亡した場合,もう一方は狂気に追い込まれます.</LetterPsychicBondCreated>
+
+  <!-- EN: Psychic bond -->
+  <LetterPsychicBondCreatedLovinLabel>精神的絆</LetterPsychicBondCreatedLovinLabel><!-- text_todo -->
+  <!-- EN: {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
+  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef}は,{OTHERPAWN_nameDef}と精神的に結びついたロマンチックな関係を築きました.{OTHERPAWN_nameDef}は{BONDPAWN_nameDef}との繋がりから心理的に恩恵を受けますが,別のワールドタイルに分かれると,両者とも精神的ストレスで苦しむことになります.また,どちらかが死ねば,もう一方は狂気に追い込まれます.</LetterPsychicBondCreatedLovinText><!-- text_todo -->
+
+  <!-- UNUSED -->
+  <LetterPartNameBaby>赤ん坊は一時的に{0_nameFull}と名付けられます. 生後{1}まで変更可能です.</LetterPartNameBaby>
+  <LetterTextInvoluntaryDeathrest>{PAWN_nameDef}は死眠に陥りました.</LetterTextInvoluntaryDeathrest>
 
 </LanguageData>

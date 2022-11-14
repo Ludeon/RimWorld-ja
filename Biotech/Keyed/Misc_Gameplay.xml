@@ -26,7 +26,7 @@
   <!-- EN: {0} mechs -->
   <CaravanMechsCount>{0}メカ</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
-  <BossWithApparel>{APPAREL}を着た{BOSS}</BossWithApparel><!-- text_todo -->
+  <BossWithApparel>{APPAREL}を着た{BOSS}</BossWithApparel>
 
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
@@ -115,6 +115,8 @@
   <WaitingFor>待っている</WaitingFor>
   <!-- EN: Uncontrolled -->
   <Uncontrolled>無制御</Uncontrolled>
+  <!-- EN: incoming {0} -->
+  <BossgroupIncoming>{0}が到着</BossgroupIncoming><!-- text_todo -->
 
   <!-- Sanguophage -->
   <!-- EN: hemogen -->
@@ -168,7 +170,7 @@
   <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
   <PawnShouldDeathrestNow>{PAWN_nameDef}は極度の疲労を避けるため,今すぐに死眠する必要があります.</PawnShouldDeathrestNow>
   <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
-  <AutoTakeHemogenDesc>この設定は,{PAWN_nameDef}のヘモゲン量が{MIN}を下回ったときに,ヘモゲンパックを自動で摂取するかどうかを決めます.\n\n自動摂取は現在{ONOFF}です.</AutoTakeHemogenDesc><!-- text_todo -->
+  <AutoTakeHemogenDesc>この設定は,{PAWN_nameDef}のヘモゲン量が{MIN}を下回ったときに,ヘモゲンパックを自動で摂取するかどうかを決めます.\n\n自動摂取は現在{ONOFF}です.</AutoTakeHemogenDesc>
   <!-- EN: Consume hemogen below -->
   <ConsumeHemogenBelow>次の値までヘモゲンを補充しない</ConsumeHemogenBelow>
   <!-- EN: Never consume hemogen. -->
@@ -275,6 +277,10 @@
   <EjectAllDesc>含まれているすべての遺伝子パックを地面に落とします.</EjectAllDesc>
   <!-- EN: Genepacks stored -->
   <GenepacksStored>保存された遺伝子パック</GenepacksStored>
+  <!-- EN: Auto-load -->
+  <GenepackAutoLoad>自動積載</GenepackAutoLoad><!-- text_todo -->
+  <!-- EN: If active, haulers will automatically store this genepack in a gene bank. -->
+  <GenepackAutoLoadDesc>アクティブな場合,運搬者はこの遺伝子パックを遺伝子バンクに自動的に入れます.</GenepackAutoLoadDesc><!-- text_todo -->
   <!-- EN: Forced traits -->
   <ForcedTraits>強制される特性</ForcedTraits>
   <!-- EN: Suppressed traits -->
@@ -393,8 +399,8 @@
   <WaitingForPawn>{PAWN_nameDef}を待っています.</WaitingForPawn>
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
   <ExtractingXenogermFrom>{PAWN_nameDef}から遺伝子を抽出しています.</ExtractingXenogermFrom>
-  <!-- EN: Extraction paused: No power -->
-  <ExtractionPausedNoPower>抽出一時停止:電力不足</ExtractionPausedNoPower>
+  <!-- EN: Extraction paused: No power (interrupt in {TIME}) -->
+  <ExtractionPausedNoPower>抽出一時停止:電力不足({TIME}で中断)</ExtractionPausedNoPower><!-- text_todo -->
   <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
   <LastIngestedDurationAgo>最後に{CHEMICAL_label}を摂取したのは{DURATION}前です.</LastIngestedDurationAgo>
   <!-- EN: {NAME} xenogerm -->
@@ -604,7 +610,7 @@
   <!-- EN: Waiting for ingredients -->
   <SubcoreScannerWaitingForIngredients>材料待ち</SubcoreScannerWaitingForIngredients>
   <!-- EN: The following ingredients must be loaded first -->
-  <SubcoreScannerWaitingForIngredientsDesc>次の材料を先に積載する必要があります</SubcoreScannerWaitingForIngredientsDesc> <!-- text_todo -->
+  <SubcoreScannerWaitingForIngredientsDesc>次の材料を先に積載する必要があります</SubcoreScannerWaitingForIngredientsDesc>
   <!-- EN: Has {0} -->
   <SubcoreScannerPawnHasSickness>{0}あり</SubcoreScannerPawnHasSickness>
   <!-- EN: Babies are not allowed -->
@@ -700,7 +706,7 @@
   <!-- EN: Fertilize -->
   <Fertilize>受精させる</Fertilize>
   <!-- EN: Fertilize {0_label} -->
-  <FertilizeThing>{0_label}を受精させる</FertilizeThing><!-- text_todo -->
+  <FertilizeThing>{0_label}を受精させる</FertilizeThing>
   <!-- EN: Cannot fertilize -->
   <FertilizeCannotFloatOption>受精できない</FertilizeCannotFloatOption>
   <!-- EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->

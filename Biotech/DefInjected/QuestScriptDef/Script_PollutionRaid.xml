@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>retaliationLetterLabel->pollution retaliation</li>
+    <li>retaliationLetterText->A group of [enemyFaction_pawnsPlural] from [enemyFaction_name] have arrived nearby.\n\nThey are attacking in retaliation for spreading pollution. They claim your reckless polluting has done harm to their faction.</li>
+  -->
+  <PollutionRaid.questContentRules.rulesStrings>
+    <li>retaliationLetterLabel->汚染の報復</li>
+    <li>retaliationLetterText->[enemyFaction_name]の[enemyFaction_pawnsPlural]のグループが近くに到着しました.\n\n彼らは汚染を広めたことへの報復として攻撃します.彼らは,このコロニーの無謀な汚染が彼らの派閥に害を及ぼしたと主張しています.</li>
+  </PollutionRaid.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->pollutionraid</li>
+  -->
+  <PollutionRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription->汚染襲撃</li>
+  </PollutionRaid.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->pollutionraid</li>
+  -->
+  <PollutionRaid.questNameRules.rulesStrings>
+    <li>questDescription->汚染襲撃</li>
+  </PollutionRaid.questNameRules.rulesStrings>
+  
+</LanguageData>
