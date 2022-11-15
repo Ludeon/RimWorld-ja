@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Level -->
+  <Level>レベル</Level>
   <!-- EN: Skill level -->
-  <Level>スキルレベル</Level>
+  <SkillLevel>スキルレベル</SkillLevel>
   <!-- EN: Progress to next learned level -->
   <ProgressToNextLevel>次の学習レベルまで あと</ProgressToNextLevel>
   <!-- EN: Experience -->
@@ -22,7 +24,7 @@
   <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
   <ChildrenLearn>子供たちは大人の仕事を見たり,授業机で授業を受けることでスキルを身につけます.</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
-  <EffectsAtLevel>{0} レベルの 効果</EffectsAtLevel>
+  <EffectsAtLevel>{0}レベルの効果</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>最大</SkillMax>
   <!-- EN: Learned level -->

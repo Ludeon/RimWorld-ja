@@ -4,7 +4,7 @@
   <!-- EN: agrihand -->
   <Mech_Agrihand.label>アグリハンド</Mech_Agrihand.label>
   <!-- EN: A small mechanoid designed to sow and harvest crops. While it is better suited to labor than combat, it can fight with built-in cutting blades if necessary. -->
-  <Mech_Agrihand.description>種まきや収穫用に設計された小型メカノイド.戦闘よりも農業向きですが,必要に応じて内蔵鎌で戦います.</Mech_Agrihand.description>
+  <Mech_Agrihand.description>種まきや収穫用に設計された小型メカノイドです.戦闘よりも農業向きですが,必要に応じて内蔵鎌で戦います.</Mech_Agrihand.description>
   <!-- EN: head -->
   <Mech_Agrihand.tools.head.label>頭部</Mech_Agrihand.tools.head.label>
   <!-- EN: right blade -->
@@ -13,14 +13,14 @@
   <!-- EN: cleansweeper -->
   <Mech_Cleansweeper.label>クリーンスイーパー</Mech_Cleansweeper.label>
   <!-- EN: A light mechanoid designed for cleaning. Lacking a ranged weapon, it can make only weak melee attacks. -->
-  <Mech_Cleansweeper.description>清掃作業用の小型メカノイド.遠距離武器を持たないため近接攻撃しかできません.</Mech_Cleansweeper.description>
+  <Mech_Cleansweeper.description>清掃作業用の小型メカノイドです.遠距離武器を持たないため近接攻撃しかできません.</Mech_Cleansweeper.description>
   <!-- EN: head -->
   <Mech_Cleansweeper.tools.head.label>頭部</Mech_Cleansweeper.tools.head.label>
   
   <!-- EN: constructoid -->
   <Mech_Constructoid.label>コンストラクトイド</Mech_Constructoid.label>
-  <!-- EN: A small mechanoid designed to perform construction tasks. It is equipped with a small slug gun for light defense. It can also perform blunt melee attacks if necessary. -->
-  <Mech_Constructoid.description>建設作業用に設計された小型メカノイド.自衛のために小型スラグガンを装備しています.必要に応じて打撃属性の近接攻撃にも用います.</Mech_Constructoid.description>
+  <!-- EN: A small mechanoid designed to perform construction tasks. It can perform blunt melee attacks if necessary. -->
+  <Mech_Constructoid.description>建設作業用に設計された小型メカノイドです.必要に応じて打撃属性の近接攻撃を行います.</Mech_Constructoid.description>
   <!-- EN: head -->
   <Mech_Constructoid.tools.head.label>頭部</Mech_Constructoid.tools.head.label>
   <!-- EN: torso -->
@@ -29,35 +29,35 @@
   <!-- EN: fabricor -->
   <Mech_Fabricor.label>ファブリカー</Mech_Fabricor.label>
   <!-- EN: A small work mechanoid designed to craft all manner of manufactured objects. It is equipped with a small slug gun for light defense. -->
-  <Mech_Fabricor.description>多様な製造業務をこなすために設計された小型作業用メカノイド.自衛のために小型スラグガンを装備しています.</Mech_Fabricor.description>
+  <Mech_Fabricor.description>多様な製造業務をこなすために設計された小型作業用メカノイドです.自衛のために小型スラグガンを装備しています.</Mech_Fabricor.description>
   <!-- EN: head -->
   <Mech_Fabricor.tools.head.label>頭部</Mech_Fabricor.tools.head.label>
   
   <!-- EN: lifter -->
   <Mech_Lifter.label>リフター</Mech_Lifter.label>
   <!-- EN: A small mechanoid designed for hauling. Lacking a ranged weapon, it can make only weak melee attacks. -->
-  <Mech_Lifter.description>運搬作業用に設計された小型メカノイド.遠距離武器を持たないため近接攻撃しかできません.</Mech_Lifter.description>
+  <Mech_Lifter.description>運搬作業用に設計された小型メカノイドです.遠距離武器を持たないため近接攻撃しかできません.</Mech_Lifter.description>
   <!-- EN: head -->
   <Mech_Lifter.tools.head.label>頭部</Mech_Lifter.tools.head.label>
   
   <!-- EN: militor -->
   <Mech_Militor.label>ミリター</Mech_Militor.label>
   <!-- EN: A small combat mechanoid armed with a low-power mini-shotgun. Roughly four feet tall, militors lack the power, range, and toughness of more senior combat mechs. However, it is cheap to gestate and maintain, and so is often used as a rear guard or swarm attacker.\n\nIn war, mech armies are known to send militors into urban ruins to hunt down survivors after breaking the human defenses. For this reason, they are considered by some to be the most cruel of all mechanoid patterns. -->
-  <Mech_Militor.description>低出力の小型ショットガンを装備した小型戦闘用メカノイド.全長約4フィートのミリターは,より上級の戦闘メカに比べれば,出力,射程,装甲で劣ります.ただし,生産及び維持が容易なため,しばしば後方防御や物量作戦に使われます.\n\n戦時のメカノイド集団は,人類の防御を突破した後,生存者を狩り出すためにミリターを都市の廃墟に突入させます.こうした運用のため,あらゆるメカノイドの中でも最も残酷な連中であるとする人もいます.</Mech_Militor.description>
+  <Mech_Militor.description>低出力の小型ショットガンを装備した小型戦闘用メカノイドです.全長約4フィートのミリターは,より上級の戦闘メカに比べれば,出力,射程,装甲で劣ります.ただし,生産及び維持が容易なため,しばしば後方防御や物量作戦に使われます.\n\n戦時のメカノイド集団は,人類の防御を突破した後,生存者を狩り出すためにミリターを都市の廃墟に突入させます.こうした運用のため,あらゆるメカノイドの中でも最も残酷な連中であるとする人もいます.</Mech_Militor.description>
   <!-- EN: head -->
   <Mech_Militor.tools.head.label>頭部</Mech_Militor.tools.head.label>
   
   <!-- EN: paramedic -->
   <Mech_Paramedic.label>パラメディック</Mech_Paramedic.label>
   <!-- EN: A small mechanoid designed for non-violent emergency situation management and medical care. The paramedic can rescue the wounded, fight fires, treat the sick, and even perform surgery when a more-qualified human is not available. Its built-in jump launcher allows it to jump into, and out of, emergency situations, and its built-in firefoam popper can quickly extinguish fires. -->
-  <Mech_Paramedic.description>非軍事的な緊急事態の対応と医療を目的として設計された小型メカノイド.負傷者の救助,消火活動,病人の治療といった仕事を担い,有資格者が不在の場合には手術さえ行います.内蔵のジャンプランチャーを用いて緊急地帯への突入及び脱出が可能であり,同じく内蔵の消火泡ポップを用いて素早い消化活動が可能です.</Mech_Paramedic.description>
+  <Mech_Paramedic.description>非軍事的な緊急事態の対応と医療を目的として設計された小型メカノイドです.負傷者の救助,消火活動,病人の治療といった仕事を担い,有資格者が不在の場合には手術さえ行います.内蔵のジャンプランチャーを用いて緊急地帯への突入及び脱出が可能であり,同じく内蔵の消火泡ポップを用いて素早い消化活動が可能です.</Mech_Paramedic.description>
   <!-- EN: head -->
   <Mech_Paramedic.tools.head.label>頭部</Mech_Paramedic.tools.head.label>
   
   <!-- EN: war urchin -->
   <Mech_WarUrchin.label>ウォーアーチン</Mech_WarUrchin.label>
   <!-- EN: A small, deployable combat mechanoid usually manufactured inside an ultra-heavy war queen mech. War urchins are expendable fighters designed to swarm-attack enemies. They are mounted with short-ranged spiner guns and have a non-rechargeable power source. -->
-  <Mech_WarUrchin.description>通常,超大型のウォークイーン内部で製造され,戦場で展開される小型戦闘用メカノイド.ウォーアーチンは敵に対して物量作戦を取る消耗前提の兵器です.短射程のスピナーガンを装備していますが,電源は再充填不可能です.</Mech_WarUrchin.description>
+  <Mech_WarUrchin.description>通常,超大型のウォークイーン内部で製造され,戦場で展開される小型戦闘用メカノイドです.ウォーアーチンは敵に対して物量作戦を取る消耗前提の兵器です.短射程のスピナーガンを装備していますが,電源は再充填不可能です.</Mech_WarUrchin.description>
   <!-- EN: head -->
   <Mech_WarUrchin.tools.head.label>頭部</Mech_WarUrchin.tools.head.label>
   
