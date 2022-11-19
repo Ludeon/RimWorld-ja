@@ -116,7 +116,7 @@
   <!-- EN: Uncontrolled -->
   <Uncontrolled>無制御</Uncontrolled>
   <!-- EN: incoming {0} -->
-  <BossgroupIncoming>{0}が到着</BossgroupIncoming><!-- text_todo -->
+  <BossgroupIncoming>{0}が到着</BossgroupIncoming>
 
   <!-- Sanguophage -->
   <!-- EN: hemogen -->
@@ -278,9 +278,9 @@
   <!-- EN: Genepacks stored -->
   <GenepacksStored>保存された遺伝子パック</GenepacksStored>
   <!-- EN: Auto-load -->
-  <GenepackAutoLoad>自動積載</GenepackAutoLoad><!-- text_todo -->
+  <GenepackAutoLoad>自動積載</GenepackAutoLoad>
   <!-- EN: If active, haulers will automatically store this genepack in a gene bank. -->
-  <GenepackAutoLoadDesc>アクティブな場合,運搬者はこの遺伝子パックを遺伝子バンクに自動的に入れます.</GenepackAutoLoadDesc><!-- text_todo -->
+  <GenepackAutoLoadDesc>アクティブな場合,運搬者はこの遺伝子パックを遺伝子バンクに自動的に入れます.</GenepackAutoLoadDesc>
   <!-- EN: Forced traits -->
   <ForcedTraits>強制される特性</ForcedTraits>
   <!-- EN: Suppressed traits -->
@@ -400,7 +400,7 @@
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
   <ExtractingXenogermFrom>{PAWN_nameDef}から遺伝子を抽出しています.</ExtractingXenogermFrom>
   <!-- EN: Extraction paused: No power (interrupt in {TIME}) -->
-  <ExtractionPausedNoPower>抽出一時停止:電力不足({TIME}で中断)</ExtractionPausedNoPower><!-- text_todo -->
+  <ExtractionPausedNoPower>抽出一時停止:電力不足({TIME}で中断)</ExtractionPausedNoPower>
   <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
   <LastIngestedDurationAgo>最後に{CHEMICAL_label}を摂取したのは{DURATION}前です.</LastIngestedDurationAgo>
   <!-- EN: {NAME} xenogerm -->

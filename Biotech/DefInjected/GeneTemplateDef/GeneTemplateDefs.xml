@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: {0} addict-immune -->
-  <AddictionImmune.label>{0} 中毒免疫</AddictionImmune.label>
+  <!-- EN: {0} impervious -->
+  <AddictionImmune.label>{0} 遮断</AddictionImmune.label>
   <!-- EN: Carriers of this gene never get addicted to {0}. -->
   <AddictionImmune.description>この遺伝子を持つ者は,{0}に決して依存しません.</AddictionImmune.description>
-  <!-- EN: {0}-immune -->
-  <AddictionImmune.labelShortAdj>{0}免疫者</AddictionImmune.labelShortAdj>
+  <!-- EN: {0}-impervious -->
+  <AddictionImmune.labelShortAdj>{0}遮断者</AddictionImmune.labelShortAdj>
   
-  <!-- EN: {0} addict-resist -->
-  <AddictionResistant.label>{0} 中毒抵抗</AddictionResistant.label>
+  <!-- EN: {0} resistant -->
+  <AddictionResistant.label>{0} 抵抗</AddictionResistant.label>
   <!-- EN: Carriers are only half as likely to become addicted to {0}. -->
   <AddictionResistant.description>この遺伝子を持つ者は,{0}中毒になる確率が半分になります.</AddictionResistant.description>
   <!-- EN: {0}-resistant -->

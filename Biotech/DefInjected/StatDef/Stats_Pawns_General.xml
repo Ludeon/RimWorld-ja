@@ -40,8 +40,8 @@
   
   <!-- EN: learning rate factor -->
   <LearningRateFactor.label>学習率係数</LearningRateFactor.label>
-  <!-- EN: A multiplier on how quickly a child's learning need rises from learning activities. -->
-  <LearningRateFactor.description>どれだけ早く学習活動から子供の学習欲求を得られるかの掛け率です.</LearningRateFactor.description>
+  <!-- EN: A multiplier on how quickly a child's learning need is fulfilled by learning activities. -->
+  <LearningRateFactor.description>子供の学習欲求が学習活動によってどれだけ早く満たされるかの掛け率です.</LearningRateFactor.description>
   
   <!-- EN: mech bandwidth -->
   <MechBandwidth.label>メカ帯域幅</MechBandwidth.label>

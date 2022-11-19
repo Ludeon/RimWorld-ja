@@ -3,8 +3,8 @@
   
   <!-- EN: preferred -->
   <PreferredXenotype.label>好む</PreferredXenotype.label>
-  <!-- EN: Believers consider this xenotype to hold a higher moral or spiritual status than others. They will be happy if their colony has only preferred xenotypes. However, all other xenotypes are considered disliked and believers will be unhappy living alongside them. -->
-  <PreferredXenotype.description>この考えの持ち主は,このゼノタイプが他の種族よりも高い道徳心,もしくは精神的地位を持っていると考えています.コロニーに好みのゼノタイプしかいなければ,彼らは幸せを感じます.ただしこの考えの持ち主は,他のすべてのゼノタイプを嫌い,一緒に暮らすことに不満を感じます.</PreferredXenotype.description>
+  <!-- EN: Believers consider this xenotype to hold a higher moral or spiritual status than others. They will be happy if their colony has only preferred xenotypes. However, having any preferred xenotypes means that all other xenotypes are considered disliked and believers will be unhappy living alongside them. -->
+  <PreferredXenotype.description>この考えの持ち主は,このゼノタイプが他の種族よりも高い道徳心,もしくは精神的地位を持っていると考えています.コロニーに好みのゼノタイプしかいなければ,彼らは幸せを感じます.ただし好きなゼノタイプがいるということは,他のすべてのゼノタイプが嫌いであるとみなされ,一緒に暮らすことに不満を感じます.</PreferredXenotype.description>
   <!-- EN: Become a non-preferred xenotype -->
   <PreferredXenotype.comps.0.description>嫌いなゼノタイプになる</PreferredXenotype.comps.0.description>
   <!-- EN: Preferred xenotype -->

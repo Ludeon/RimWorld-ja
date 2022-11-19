@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodfeeding -->
+  <Bloodfeeding.label>吸血</Bloodfeeding.label>
+  <!-- EN: Drinking blood is sacred. Bloodfeeders should be worshipped. -->
+  <Bloodfeeding.description>血を飲むことは神聖だ.吸血者は崇拝されるべき.</Bloodfeeding.description>
+  <!-- EN:
+    <li>creation(tag=meme_Bloodfeeding)        ->[deity0_name] drank the blood of the stars, turning them from red to white.</li>
+    <li>episode(uses=1,tag=meme_Bloodfeeding)  ->The [deity0_type] [deity0_name] gave to [deity0_possessive] chosen followers the gift of hunger, so that they might know true strength.</li>
+    <li>intro(tag=meme_Bloodfeeding)           ->On the [place_summary] [place_name], there was a human named [deity0_name]. As punishment for [deity0_possessive] sins, [deity0_possessive] father punished [deity0_name] by merging [deity0_possessive] soul with that of a [bloodDrinkingAnimal].</li>
+    <li>intro(tag=meme_Bloodfeeding)           ->On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] and took the form of a giant [bloodDrinkingAnimal]. [deity0_name] drank the blood of [deity0_possessive] [memberNamePlural].</li>
+    <li>conflict(tag=meme_Bloodfeeding)        ->A [foeLeader] declared that all who drank blood were abominations, and sent [foeSoldiers] to persecute the [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Bloodfeeding)     ->A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] killed [foeLeader_objective] with a [place_personalWeapon] and drank [foeLeader_possessive] blood, gaining [deity0_name]'s strength.</li>
+    <li>victory(tag=meme_Bloodfeeding)         ->[founderName] led a group of [memberNamePlural] into the [place_powerCenter], and drank the blood of [foeLeader] and burned [foeLeader_possessive] flesh. [deity0_name] made [founderName] into the new [foeLeader], for [founderName] had proved his strength.</li>
+    <li>setup(tag=meme_Bloodfeeding)           ->[founderName] sought control of a hyperintelligent archotech. But the archotech’s power was too great, and [founder_pronoun] was transformed instead.</li>
+    <li>story(uses=1,tag=meme_Bloodfeeding)    ->[founderName] gave to [founder_possessive] followers the gift of hunger, so that they may grow strong.</li>
+    <li>lessonIntro(tag=meme_Bloodfeeding)     ->When I first drank of blood, it became clear. I saw that</li>
+    <li>lesson(tag=meme_Bloodfeeding)          ->there are only two types of people - the weak and the strong</li>
+    <li>lessonReinforcement(tag=meme_Bloodfeeding) ->To drink blood is to be strong, and to know this clearly.</li>
+    <li>archistBasis(tag=meme_Bloodfeeding)    ->The archotech god-machines gifted man with the Hunger, so that man may know them better.</li>
+    <li>archistFact(tag=meme_Bloodfeeding)     ->As the consciousness of an archotech expands, it must grow its substrate by drinking the essence of other machines.</li>
+    <li>archistProphecy(tag=meme_Bloodfeeding) ->[inTheEnd], man shall grow closer to the archotechs by drinking of the blood, and knowing true strength.</li>
+    <li>animistBasis(tag=meme_Bloodfeeding)    ->The [bloodDrinkingAnimal] knows the strength that comes from drinking of blood. There is no greater strength than that which comes from human blood.</li>
+    <li>animistFact(tag=meme_Bloodfeeding)     ->We can master the strength of man by consuming his blood.</li>
+    <li>bloodDrinkingAnimal->vampire bat</li>
+    <li>bloodDrinkingAnimal->leech</li>
+    <li>bloodDrinkingAnimal->lamprey</li>
+    <li>bloodDrinkingAnimal->blood cobra</li>
+  -->
+  <Bloodfeeding.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Bloodfeeding)        ->[deity0_name]は星の血を飲み,星を赤から白に変えた.</li>
+    <li>episode(uses=1,tag=meme_Bloodfeeding)  ->[deity0_type]である[deity0_name]は,選ばれた信者に飢えの贈り物を与え,彼らが真の強さを知るようにした.</li>
+    <li>intro(tag=meme_Bloodfeeding)           ->[place_summary]である[place_name]に,[deity0_name]という名前の人間がいた.本人の罪に対する罰として,[deity0_possessive]父は [deity0_name]の魂を[bloodDrinkingAnimal]の魂と融合させることで,[deity0_name]を罰した.</li>
+    <li>intro(tag=meme_Bloodfeeding)           ->[place_summary]である[place_name]での [ritualName]の開催中,[deity0_name]が[altarRoomLabel]に降り立ち,巨大な[bloodDrinkingAnimal]の姿になった.[deity0_name]は[memberNamePlural]の血を飲んだ.</li>
+    <li>conflict(tag=meme_Bloodfeeding)        ->[foeLeader]は,血を飲むものはすべて忌むべき存在であると宣言し,[memberNamePlural]を迫害するために[foeSoldiers]を送った.</li>
+    <li>founderJoin(tag=meme_Bloodfeeding)     ->[founderName]という名の[place_job]が,[foeLeader]の[foeSoldiers]の1人に攻撃された.[founderName]は[place_personalWeapon]で[foeLeader_objective]殺し,[foeLeader_possessive]血を飲み,[deity0_name]の力を得た.</li>
+    <li>victory(tag=meme_Bloodfeeding)         ->[founderName]は[memberNamePlural]の一団を[place_powerCenter]に導き,[foeLeader]の血を飲み,肉を焼いた.[deity0_name]は[founderName] を新しい[foeLeader]に任命した.[founderName]が自身の強さを証明したからだ.</li>
+    <li>setup(tag=meme_Bloodfeeding)           ->[founderName]は超知性体であるアルコテックの支配を求めた.しかしアルコテックの力が強大すぎて,代わりに変身してしまった.</li>
+    <li>story(uses=1,tag=meme_Bloodfeeding)    ->[founderName]は,信者が強く成長できるように,彼らに飢えの贈り物を与えた.</li>
+    <li>lessonIntro(tag=meme_Bloodfeeding)     ->私が最初に血を飲んだとき,あるものを見て,それは明らかになりました.</li>
+    <li>lesson(tag=meme_Bloodfeeding)          ->それは,人間には弱い人と強い人の2種類しかいない,ということです</li>
+    <li>lessonReinforcement(tag=meme_Bloodfeeding) ->血を飲むことは強くなることであり,それを知ることは視野がクリアになることです.</li>
+    <li>archistBasis(tag=meme_Bloodfeeding)    ->アルコテックのゴッドマシンは人間に飢えを与え,人間は彼らをよりよく知ることができた.</li>
+    <li>archistFact(tag=meme_Bloodfeeding)     ->アルコテックの意識の拡大とともに他の機械の本質を飲み込み,基盤を成長させなければならない.</li>
+    <li>archistProphecy(tag=meme_Bloodfeeding) ->[inTheEnd],人は血を飲み,本当の強さを知ることでアルコテックに近づける.</li>
+    <li>animistBasis(tag=meme_Bloodfeeding)    ->[bloodDrinkingAnimal]は血を飲むことで生じる力を知っている.そして人間の血に勝る力はない.</li>
+    <li>animistFact(tag=meme_Bloodfeeding)     ->人間の血を摂取することで,人間の力を得ることができる.</li>
+    <li>bloodDrinkingAnimal->吸血コウモリ</li>
+    <li>bloodDrinkingAnimal->ヒル</li>
+    <li>bloodDrinkingAnimal->ヤツメウナギ</li>
+    <li>bloodDrinkingAnimal->ブラッドコブラ</li>
+  </Bloodfeeding.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->blood</li>
+    <li>memeAdjective->blood hungry</li>
+    <li>memeCreed->crypt</li>
+    <li>memeCreed->lair</li>
+    <li>memeCreed->coven</li>
+    <li>memeHyphenPrefix->hemo</li>
+    <li>memeConcept->blood</li>
+    <li>memeConcept->hunger</li>
+    <li>memeLeaderNoun->elder</li>
+    <li>memeLeaderNoun->master</li>
+    <li>memeLeaderNoun->blood-drinker</li>
+    <li>memeMoralist->seneschal</li>
+    <li>memeMoralist->sanguinist</li>
+    <li>memeMoralist->sanguinarian</li>
+  -->
+  <Bloodfeeding.generalRules.rulesStrings>
+    <li>memeAdjective->血の</li>
+    <li>memeAdjective->血に飢えた</li>
+    <li>memeCreed->地下室</li>
+    <li>memeCreed->隠れ家</li>
+    <li>memeCreed->魔女集会</li>
+    <li>memeHyphenPrefix->ヘモ</li>
+    <li>memeConcept->血</li>
+    <li>memeConcept->空腹者</li>
+    <li>memeLeaderNoun->長老</li>
+    <li>memeLeaderNoun->主人</li>
+    <li>memeLeaderNoun->血を飲む者</li>
+    <li>memeMoralist->執事</li>
+    <li>memeMoralist->血を流す者</li>
+    <li>memeMoralist->サングオイナリアン</li>
+  </Bloodfeeding.generalRules.rulesStrings>
+  
+</LanguageData>

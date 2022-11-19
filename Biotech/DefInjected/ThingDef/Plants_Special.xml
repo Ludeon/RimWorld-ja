@@ -11,10 +11,10 @@
   <!-- EN: After generations of exposure, these trees have evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux trees do not create toxic wastepacks. -->
   <Plant_TreePolux.description>数世代にわたって廃棄物質にさらされた結果,この木は汚染を代謝できるように進化しました.地中に広げた根を通して汚染を吸い上げ,ゆっくりとですが周囲の土壌を浄化することができます.ただし,根の上に建物があるとできません.\n\n他の除染方法と異なり廃棄物パックを残すこともありません.</Plant_TreePolux.description>
   
-  <!-- EN: Polux seed -->
+  <!-- EN: polux seed -->
   <PoluxSeed.label>ポルクスの種</PoluxSeed.label>
-  <!-- EN: The seed of a polux tree. It can be planted to create a new polux tree. -->
-  <PoluxSeed.description>ポルクスツリーの種です.これを植えることで新しいポルクスツリーを生やすことができます.</PoluxSeed.description>
+  <!-- EN: The seed of a polux tree. It can be planted to create a new polux tree which will absorb pollution from nearby terrain. -->
+  <PoluxSeed.description>ポルクスツリーの種です.これを植えることで,近くの地形の汚染を吸収する新しいポルクスツリーを生やすことができます.</PoluxSeed.description>
   
   <!-- EN: smashed polux stump -->
   <SmashedStump_Polux.label>損傷したポルクス</SmashedStump_Polux.label>
