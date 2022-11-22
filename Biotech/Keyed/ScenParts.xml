@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Title -->
+  <ScenarioTitle>タイトル</ScenarioTitle>
   <!-- EN: Start with mech -->
   <ScenPart_StartingMech>メカから開始</ScenPart_StartingMech>
   <!-- EN: Mechanoid -->
@@ -8,7 +10,7 @@
   <!-- EN: random mech -->
   <RandomMech>ランダムなメカ</RandomMech>
   <!-- EN: Overseen chance -->
-  <StartOverseenChance>監督の見込み</StartOverseenChance>
+  <StartOverseenChance>管理者の見込み</StartOverseenChance>
 
   <!-- EN: Start with {0}. -->
   <ScenPart_StartWithSpecificColonists>{0}から開始.</ScenPart_StartWithSpecificColonists>

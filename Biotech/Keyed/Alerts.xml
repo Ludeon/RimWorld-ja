@@ -111,8 +111,9 @@
   <!-- EN: Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days. -->
   <AlertBossgroupIncomingDesc>メカニターの発したシグナルによって,敵対的な{0}が護衛部隊を引き連れて接近中です.簡単な戦いにはなりません.敵対的なメカノイドは数時間ないし数日後に来襲します.</AlertBossgroupIncomingDesc>
 
-  <!-- UNUSED -->
-  <AlertDeathrestComplete>死眠完了</AlertDeathrestComplete>
-  <AlertDeathrestCompleteDesc>この人物は十分な死眠が取れており,ネガティブな副作用なく安全に覚醒できます.</AlertDeathrestCompleteDesc>
+  <!-- EN: Deathrest complete -->
+  <AlertDeathrestComplete>死眠完了</AlertDeathrestComplete><!-- text_todo -->
+  <!-- EN: The following people have completed their deathrest and can wake up safely -->
+  <AlertDeathrestCompleteDesc>以下の人物は死眠を終え,安全に目覚めることができます</AlertDeathrestCompleteDesc><!-- text_todo -->
 
 </LanguageData>
