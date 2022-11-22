@@ -3,15 +3,15 @@
   
   <!-- EN: apocriton -->
   <Mech_Apocriton.label>アポクリトン</Mech_Apocriton.label>
-  <!-- EN: A mechanoid commander designed to coordinate and motivate other mechs during long extermination campaigns. Its most obvious power is its ability to resurrect recently-killed mechs by supercharging their self-repair processes. Less obviously, it is intelligent and psychically present, radiating hatred into the minds of anyone in a wide radius.\n\nWhile all mechanoids have a dim psychically-present intelligence, only the apocriton and a few others truly feel hatred for their victims and understand the suffering they inflict. -->
-  <Mech_Apocriton.description>長期殲滅作戦時に他のメカノイド集団を管理及び統率するメカノイドの司令官.最大の特徴は機能停止したメカノイドの自己修復プロセスをオーバーライドすることによって再生させることです.明白ではありませんが,彼らは知性と精神性を有し,広範囲に対して憎悪の波動を振りまいています.\n\nすべてのメカノイドに微かな精神性と知性がありますが,実際のところアポクリトンと他の極小数だけが,彼らの払う犠牲を憎み,同時に彼らの与える苦痛を理解しています.</Mech_Apocriton.description>
+  <!-- EN: A mechanoid commander designed to coordinate and motivate other mechs during long extermination campaigns. Its most obvious power is its ability to resurrect recently-killed mechs by supercharging their self-repair processes. Less obviously, it is intelligent and psychically present, radiating hatred into the minds of anyone in a wide radius. It can also move quickly with its built-in jump launcher.\n\nWhile all mechanoids have a dim psychically-present intelligence, only the apocriton and a few others truly feel hatred for their victims and understand the suffering they inflict. -->
+  <Mech_Apocriton.description>長期殲滅作戦時に他のメカノイド集団を管理及び統率するメカノイドの司令官です.最大の特徴は機能停止したメカノイドの自己修復プロセスをオーバーライドすることによって再生させることです.明白ではありませんが,彼らは知性と精神性を有し,広範囲に対して憎悪の波動を振りまいています.ジャンプランチャーを内蔵しており,素早い移動も可能です.\n\nすべてのメカノイドに微かな精神性と知性がありますが,実際のところアポクリトンと他の極小数だけが,彼らの払う犠牲を憎み,同時に彼らの与える苦痛を理解しています.</Mech_Apocriton.description>
   <!-- EN: head -->
   <Mech_Apocriton.tools.head.label>頭部</Mech_Apocriton.tools.head.label>
   
   <!-- EN: legionary -->
   <Mech_Legionary.label>リジョナリー</Mech_Legionary.label>
-  <!-- EN: A combat support mechanoid with a wide range bullet shield and long-range needle gun. Designed to support other mechanoids from long range, the legionary is vulnerable to anyone who can get inside its shield. -->
-  <Mech_Legionary.description>広範囲の対弾シールドと長射程ニードルガンを装備した戦闘支援メカノイド.長距離から他のメカノイドを支援する設計のため,シールド内に潜り込まれると脆弱です.</Mech_Legionary.description>
+  <!-- EN: A combat support mechanoid with a wide-range bullet shield and mid-range needle gun. Designed to support other mechanoids, the legionary is vulnerable to anyone who can get inside its shield -->
+  <Mech_Legionary.description>広範囲の対弾シールドと中射程ニードルガンを装備した戦闘支援メカノイドです.他のメカノイドを支援する設計のため,シールド内に潜り込まれると脆弱です.</Mech_Legionary.description>
   <!-- EN: left fist -->
   <Mech_Legionary.tools.left_fist.label>左拳</Mech_Legionary.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -22,7 +22,7 @@
   <!-- EN: scorcher -->
   <Mech_Scorcher.label>スコーチャー</Mech_Scorcher.label>
   <!-- EN: A close-approach war mechanoid that specializes in incendiary attacks. Its flame burst attack has little reach, but once it closes on a group of defenders it can ignite and disrupt them with blasts of searing flame. -->
-  <Mech_Scorcher.description>焼夷攻撃に特化した近接戦闘用メカノイド.火炎放射はごく短射程ですが,守備網に接近すれば炎と爆発を引き起こして混乱させることができます.</Mech_Scorcher.description>
+  <Mech_Scorcher.description>焼夷攻撃に特化した近接戦闘用メカノイドです.火炎放射はごく短射程ですが,守備網に接近すれば炎と爆発を引き起こして混乱させることができます.</Mech_Scorcher.description>
   <!-- EN: front left leg -->
   <Mech_Scorcher.tools.front_left_leg.label>左足</Mech_Scorcher.tools.front_left_leg.label>
   <!-- EN: front right leg -->
@@ -32,8 +32,8 @@
   
   <!-- EN: tesseron -->
   <Mech_Tesseron.label>テッセロン</Mech_Tesseron.label>
-  <!-- EN: A medium-range combat mechanoid. While it is fairly vulnerable to attacks, the tesseron's sweeping beam graser attack is so deadly that few opponents can get shots off against it. -->
-  <Mech_Tesseron.description>中距離戦闘用メカノイド.攻撃に対しては脆弱ですが,テッセロンの掃射ビームグレイザーは致命的な威力を発揮するため,撃ち合いで勝てる相手はそういません.</Mech_Tesseron.description>
+  <!-- EN: A medium-range combat mechanoid. While it is fairly vulnerable to attacks, the tesseron's sweeping beam graser can pierce thick armor and even ignite shielded targets. -->
+  <Mech_Tesseron.description>中距離戦闘用メカノイドです.攻撃に対しては非常に脆弱ですが,テッセロンの掃射ビームグレイザーは厚い装甲を貫通し,シールドで守られている標的すらも発火させることが可能です.</Mech_Tesseron.description>
   <!-- EN: left fist -->
   <Mech_Tesseron.tools.left_fist.label>左拳</Mech_Tesseron.tools.left_fist.label>
   <!-- EN: right fist -->

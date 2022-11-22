@@ -637,5 +637,8 @@
   <SelectAllLinked>すべてのリンクを選択</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
   <SelectAllLinkedDesc>リンクしているすべてのストレージを選択します.</SelectAllLinkedDesc>
+
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <CommandDisabledUnconscious>{0_labelShort}は気絶状態です.</CommandDisabledUnconscious>
   
 </LanguageData>

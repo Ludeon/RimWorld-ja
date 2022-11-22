@@ -985,7 +985,7 @@
   <!-- EN: Power output -->
   <PowerOutput>発電量</PowerOutput>
   <!-- EN: {0} W when active -->
-  <PowerActiveNeeded>アクティブ時 {0}W</PowerActiveNeeded> <!-- text_todo -->
+  <PowerActiveNeeded>アクティブ時 {0}W</PowerActiveNeeded>
   <!-- EN: Stored -->
   <PowerBatteryStored>蓄電量</PowerBatteryStored>
   <!-- EN: Efficiency -->
@@ -1798,6 +1798,15 @@
 
   <!-- EN: Random -->
   <Random>ランダム</Random>
+
+  <!-- EN: Plant {0_label} -->
+  <PlantThing>{0_label}を植える</PlantThing>
+  <!-- EN: Plant a {0_label} in a chosen area. -->
+  <PlantThingDesc>選択したエリアに{0_label}を植えます.</PlantThingDesc>
+  <!-- EN: Cancel planting {0_label} -->
+  <CancelPlantThing>{0_label}を植えるのをやめる</CancelPlantThing>
+  <!-- EN: Cancel planting the {0_label}. -->
+  <CancelPlantThingDesc>{0_label}を植えるのをやめます.</CancelPlantThingDesc>
 
   <!-- UNUSED -->
   <PawnMainDescTempFactionedWrap>{1}の下の {0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>

@@ -171,7 +171,7 @@
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>最高レベル</InstallImplantAlreadyMaxLevel>
   <!-- EN: requires min level {0} -->
-  <InstallImplantMinLevel>最低でもレベル{0}が必要</InstallImplantMinLevel><!-- text_todo -->
+  <InstallImplantMinLevel>最低でもレベル{0}が必要</InstallImplantMinLevel>
   <!-- EN: psychically deaf -->
   <InstallImplantPsychicallyDeaf>精神的無反応</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
@@ -214,7 +214,7 @@
   <!-- EN: Put {1_label} somewhere safe -->
   <PutSomewhereSafe>{1_label}を安全な場所に置く必要がある</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
-  <TakingToBed>{0_labelShort}をベッドに連れて行きます.</TakingToBed>
+  <TakingToBed>{0_labelShort}をベッドに運搬している</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>救助できない</CannotRescue>
 
@@ -375,7 +375,7 @@
   <!-- EN: not injured -->
   <NotInjured>無傷</NotInjured>
   <!-- EN: no doctor -->
-  <NoDoctor>医者がいない</NoDoctor><!-- text_todo -->
+  <NoDoctor>医者がいない</NoDoctor>
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>{0}が独占している</SomeoneElseSleeping>
   
@@ -557,6 +557,10 @@
   <CannotRomance>{0}には恋愛できない</CannotRomance>
   <!-- EN: Romance {0} -->
   <CanRomance>{0}に恋愛する</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>嫌いな食べ物</WarningFoodDisliked>
 
   <!-- UNUSED -->
   <PickUp>{1_label}を拾う</PickUp>

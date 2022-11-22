@@ -77,14 +77,6 @@
   <VeneratedAnimalsBodySizePerColonist>入植者一人あたりの近くの体格の総サイズ</VeneratedAnimalsBodySizePerColonist>
   <!-- EN: Expecting at least {0} body size per colonist. -->
   <MinAnimalBodySizePerColonist>入植者一人あたり少なくとも{0}の体格のサイズが必要です.</MinAnimalBodySizePerColonist>
-  <!-- EN: Plant {0_label} -->
-  <PlantThing>{0_label}を植える</PlantThing>
-  <!-- EN: Plant a {0_label} in a chosen area. -->
-  <PlantThingDesc>選択したエリアに{0_label}を植えます.</PlantThingDesc>
-  <!-- EN: Cancel planting {0_label} -->
-  <CancelPlantThing>{0_label}を植えるのをやめる</CancelPlantThing>
-  <!-- EN: Cancel planting the {0_label}. -->
-  <CancelPlantThingDesc>{0_label}を植えるのをやめます.</CancelPlantThingDesc>
   <!-- EN: Disables -->
   <Disables>不許可</Disables>
   <!-- EN: Requires one of precepts -->

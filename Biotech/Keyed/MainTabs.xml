@@ -8,10 +8,12 @@
   <NotStudied>{0}を研究していない</NotStudied>
   <!-- EN: Requires study of -->
   <StudyRequirements>研究が必要</StudyRequirements>
+  <!-- EN: Preferred xenotypes -->
+  <PreferredXenotypes>好きなゼノタイプ</PreferredXenotypes>
 
   <!-- Work tab -->
   <!-- EN: {0_nameDef} is only {1} years old. {2} work can only be done from age {3} -->
-  <WorkDisabledAge>{0_nameDef}は{1}歳です.{2}の仕事は{3}歳から可能になります.</WorkDisabledAge>
+  <WorkDisabledAge>{0_nameDef}は{1}歳です.{2}の仕事は{3}歳から可能になります</WorkDisabledAge>
   <!-- EN: Click to change work mode. -->
   <ClickToChangeWorkMode>クリックして作業モードを変更.</ClickToChangeWorkMode>
 

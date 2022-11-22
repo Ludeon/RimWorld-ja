@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: preferred xenotype -->
+  <PreferredXenotype.stages.preferred_xenotype.label>好きなゼノタイプ</PreferredXenotype.stages.preferred_xenotype.label>
+  <!-- EN: disliked xenotype -->
+  <PreferredXenotype.stages.disliked_xenotype.label>嫌いなゼノタイプ</PreferredXenotype.stages.disliked_xenotype.label>
+  
+  <!-- EN: all preferred xenotypes -->
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>全員が好きなゼノタイプ</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>
+  <!-- EN: We've built a community of the good and strong xenotypes only. -->
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>私たちは善良で強いゼノタイプだけのコミュニティを築いた.</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>
+  <!-- EN: some disliked xenotypes -->
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>何人かの嫌いなゼノタイプ</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>
+  <!-- EN: Those xenotypes are in our community. I don't want them here. -->
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>嫌いなゼノタイプが私たちのコミュニティにいる.あいつらをここに入れたくない.</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>
+  <!-- EN: many disliked xenotypes -->
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>大勢の嫌いなゼノタイプ</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>
+  <!-- EN: So many of those xenotypes are in our community. They shouldn't be here. -->
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>非常に多くの嫌いなゼノタイプが私たちのコミュニティにいる.あいつらはここにいるべきじゃない.</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>
+  <!-- EN: tons of disliked xenotypes -->
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>あまりにも多すぎる嫌いなゼノタイプ</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>
+  <!-- EN: I'm surrounded by those xenotypes. They don't belong here. -->
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>私は嫌いなゼノタイプに囲まれている.やつらはここに属していい存在じゃない.</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>
+  
+  <!-- UNUSED -->
+  <PreferredXenotypeMakeup.stages.few_disliked_xenotypes.label>少数の嫌いなゼノタイプ</PreferredXenotypeMakeup.stages.few_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.few_disliked_xenotypes.description>嫌いなゼノタイプが私たちのコミュニティにいる.あいつらをここにいさせたくない.</PreferredXenotypeMakeup.stages.few_disliked_xenotypes.description>
+  
+  <!-- EN: I am disliked xenotype -->
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>自分自身が嫌いなゼノタイプ</SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>
+  <!-- EN: I'm a {XENOTYPENAME}. I'm not one of the good types. -->
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>私は{XENOTYPENAME}だ.私はきっと良いタイプにはなれない.</SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>
+  
+</LanguageData>

@@ -10,6 +10,11 @@
   <!-- EN: unclothed -->
   <StatsReport_Unclothed>脱衣</StatsReport_Unclothed>
 
+  <!-- EN: Age rate multiplier -->
+  <StatsReport_AgeRateMultiplier>年齢による掛け率</StatsReport_AgeRateMultiplier><!-- text_todo -->
+  <!-- EN: A multiplier on how quickly this person ages biologically based on their current age. -->
+  <StatsReport_AgeRateMultiplier_Desc>この人物が現在の年齢に基づいて,生物学的に老化する速さの掛け率です.</StatsReport_AgeRateMultiplier_Desc><!-- text_todo -->
+
   <!-- EN: Required weight class -->
   <StatsReport_RechargerWeightClass>必要な重量クラス</StatsReport_RechargerWeightClass>
   <!-- EN: The weight class of mechanoid which can use this recharger. The following mechanoids are compatible -->
@@ -83,7 +88,11 @@
   <!-- EN: Mental breaks are never violent. -->
   <NeverAggroMentalBreak>精神崩壊時に暴力を起こしません.</NeverAggroMentalBreak>
   <!-- EN: {0_label} addiction chance factor -->
-  <AddictionChanceFactor>{0_label}中毒を起こす確率の 掛け率</AddictionChanceFactor>
+  <AddictionChanceFactor>{0_label}中毒を起こす確率の掛け率</AddictionChanceFactor>
+  <!-- EN: {0_label} overdose chance factor -->
+  <OverdoseChanceFactor>{0_label}を過剰摂取する確率の掛け率</OverdoseChanceFactor><!-- text_todo -->
+  <!-- EN: {0_label} tolerance buildup factor -->
+  <ToleranceBuildupFactor>{0_label}耐性の増強掛け率</ToleranceBuildupFactor><!-- text_todo -->
   <!-- EN: Immune to {0_label} addiction. -->
   <AddictionImmune>{0_label}中毒に対する免疫です.</AddictionImmune>
   <!-- EN: Immune to food poisoning. -->
@@ -118,5 +127,17 @@
   <DevelopmentStage_Child>子供</DevelopmentStage_Child>
   <!-- EN: Adult -->
   <DevelopmentStage_Adult>大人</DevelopmentStage_Adult>
+
+  <!-- EN: Growth vat speed -->
+  <StatsReport_GrowthVatSpeedFactor>人工生育槽速度</StatsReport_GrowthVatSpeedFactor>
+
+  <!-- EN: Carriers cannot build a tolerance to {0_label}. -->
+  <GeneToleranceBuildupImmune>この遺伝子の保有者は{0_label}に対する耐性を持つことができません.</GeneToleranceBuildupImmune><!-- text_todo -->
+  <!-- EN: Carriers build a tolerance to {0_label} {1} as quickly. -->
+  <GeneToleranceBuildupFactor>この遺伝子の保有者は{0_label}{1}への耐性を速やかに持ちます.</GeneToleranceBuildupFactor><!-- text_todo -->
+  <!-- EN: Carriers cannot overdose on {0_label}. -->
+  <GeneOverdoseImmune>この遺伝子の保有者は{0_label}を過剰摂取できません.</GeneOverdoseImmune><!-- text_todo -->
+  <!-- EN: Carriers are {1} as likely to overdose on {0_label}. -->
+  <GeneOverdoseFactor>この遺伝子の保有者は{0_label}を過剰摂取する可能性が{1}あります.</GeneOverdoseFactor><!-- text_todo -->
 
 </LanguageData>

@@ -50,8 +50,8 @@
   <!-- EN: fighter -->
   <Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>ファイター</Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>
   
-  <!-- EN: beautiful -->
-  <Beauty_Beautiful.label>美しい</Beauty_Beautiful.label>
+  <!-- EN: very attractive -->
+  <Beauty_Beautiful.label>とても魅力的</Beauty_Beautiful.label>
   <!-- EN: Carriers of this gene have remarkably precise and symmetrical faces. Their features are distinctive and strong without being exaggerated, and their skin is nearly perfect. They are generally seen as beautiful. -->
   <Beauty_Beautiful.description>この遺伝子を持つ者は,非常に精巧で左右対称の顔をしています.顔立ちは誇張なしで特徴的で力強く,肌はほぼ完璧です.一般的に美しいと見られています.</Beauty_Beautiful.description>
   <!-- EN: charm -->
@@ -69,8 +69,8 @@
   <!-- EN: smooth -->
   <Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>スムーズ</Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>
   
-  <!-- EN: pretty -->
-  <Beauty_Pretty.label>可愛い</Beauty_Pretty.label>
+  <!-- EN: attractive -->
+  <Beauty_Pretty.label>魅力的</Beauty_Pretty.label>
   <!-- EN: Carriers of this gene have unusually symmetrical, balanced facial features and extra-clear skin which gives them a pleasing appearance. -->
   <Beauty_Pretty.description>この遺伝子を持つ者は非常に対称的でバランスの取れた顔立ちと,非常に透明感のある肌を持っているため,魅力的な外観になっています.</Beauty_Pretty.description>
   <!-- EN: charm -->
@@ -84,15 +84,15 @@
   <!-- EN: cute -->
   <Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>キュート</Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>
   
-  <!-- EN: ugly -->
+  <!-- EN: unattractive -->
   <Beauty_Ugly.label>醜い</Beauty_Ugly.label>
   <!-- EN: Carriers of this gene have exaggerated facial features and poor skin that are generally considered ugly. -->
   <Beauty_Ugly.description>この遺伝子を持つ者は誇張された顔の特徴と,一般的に醜いと考えられる貧弱な肌を持っています.</Beauty_Ugly.description>
   <!-- EN: ug -->
   <Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>アーグ</Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>
   
-  <!-- EN: staggeringly ugly -->
-  <Beauty_VeryUgly.label>ひどく醜い</Beauty_VeryUgly.label>
+  <!-- EN: very unattractive -->
+  <Beauty_VeryUgly.label>とても醜い</Beauty_VeryUgly.label>
   <!-- EN: Carriers of this gene have misshapen, asymmetrical facial structures and blotchy skin. They're hard to look at. -->
   <Beauty_VeryUgly.description>この遺伝子を持つ者は奇形で非対称な顔の構造と,しみのある皮膚を持っています.意識しなければ目を合わせることすら難しいです.</Beauty_VeryUgly.description>
   <!-- EN: hideous -->
@@ -131,12 +131,10 @@
   <!-- EN: fragi -->
   <Delicate.symbolPack.prefixSymbols.6.symbol>フラギ</Delicate.symbolPack.prefixSymbols.6.symbol>
   
-  <!-- EN: fast learner -->
-  <Learning_Fast.label>物覚えが早い</Learning_Fast.label>
+  <!-- EN: quick study -->
+  <Learning_Fast.label>高い学習能力</Learning_Fast.label>
   <!-- EN: Carriers of this gene have excellent memories and grasp new ideas quickly. They learn faster than others. -->
   <Learning_Fast.description>この遺伝子を持つ者は優れた記憶力を持ち,新しいアイデアを素早く理解します.そして他の人よりも早く物事を学習します.</Learning_Fast.description>
-  <!-- EN: fast learning -->
-  <Learning_Fast.labelShortAdj>物覚えが早い</Learning_Fast.labelShortAdj>
   <!-- EN: brain -->
   <Learning_Fast.symbolPack.prefixSymbols.0.symbol>ブレイン</Learning_Fast.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: nerd -->
@@ -154,12 +152,10 @@
   <!-- EN: brain -->
   <Learning_Fast.symbolPack.suffixSymbols.1.symbol>ブレイン</Learning_Fast.symbolPack.suffixSymbols.1.symbol>
   
-  <!-- EN: slow learner -->
-  <Learning_Slow.label>物覚えが悪い</Learning_Slow.label>
+  <!-- EN: slow study -->
+  <Learning_Slow.label>低い学習能力</Learning_Slow.label>
   <!-- EN: Carriers of this gene have deficient long-term memories and don't understand new ideas quickly. They are slow at learning new skills and knowledge. -->
   <Learning_Slow.description>この遺伝子を持つ者は長期記憶が不足しており,新しいアイデアをすぐには理解できません.新しいスキルや知識を習得するのが遅いです.</Learning_Slow.description>
-  <!-- EN: slow learning -->
-  <Learning_Slow.labelShortAdj>物覚えが悪い</Learning_Slow.labelShortAdj>
   <!-- EN: thag -->
   <Learning_Slow.symbolPack.prefixSymbols.0.symbol>サグ</Learning_Slow.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: grunt -->
@@ -300,8 +296,8 @@
   <!-- EN: warm -->
   <MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>ウォーム</MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
   
-  <!-- EN: depressive -->
-  <Mood_Depressive.label>抑うつ病者</Mood_Depressive.label>
+  <!-- EN: very unhappy -->
+  <Mood_Depressive.label>とても不幸</Mood_Depressive.label>
   <!-- EN: Carriers of this gene are highly predisposed to negative emotion. They'll see the bad in every situation and have a much lower mood than others. -->
   <Mood_Depressive.description>この遺伝子を持つ者は,非常にネガティブな感情になりやすい傾向があります.あらゆる状況で悪い面を見て,他の人よりもはるかに低い気分になります.</Mood_Depressive.description>
   <!-- EN: sad -->
@@ -313,8 +309,8 @@
   <!-- EN: lachry -->
   <Mood_Depressive.symbolPack.prefixSymbols.3.symbol>ラクリー</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
   
-  <!-- EN: optimist -->
-  <Mood_Optimist.label>楽天家</Mood_Optimist.label>
+  <!-- EN: happy -->
+  <Mood_Optimist.label>幸せ</Mood_Optimist.label>
   <!-- EN: Carriers of this gene are predisposed to optimistic feelings. They'll have higher mood than others. -->
   <Mood_Optimist.description>この遺伝子を持つ者は,楽観的な感情を抱く傾向があります.他の人よりも良い気分になります.</Mood_Optimist.description>
   <!-- EN: bright -->
@@ -332,8 +328,8 @@
   <!-- EN: bright -->
   <Mood_Optimist.symbolPack.suffixSymbols.0.symbol>ブライト</Mood_Optimist.symbolPack.suffixSymbols.0.symbol>
   
-  <!-- EN: pessimist -->
-  <Mood_Pessimist.label>悲観主義者</Mood_Pessimist.label>
+  <!-- EN: unhappy -->
+  <Mood_Pessimist.label>不幸</Mood_Pessimist.label>
   <!-- EN: Carriers of this gene are predisposed to pessimistic perceptions. They'll tend to interpret things negatively and have lower mood than others. -->
   <Mood_Pessimist.description>この遺伝子を持つ者は,悲観的な見方をする傾向があります.物事を否定的に解釈する傾向があり,他の人よりも低い気分になります.</Mood_Pessimist.description>
   <!-- EN: sad -->
@@ -345,8 +341,8 @@
   <!-- EN: lachry -->
   <Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>ラクリー</Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>
   
-  <!-- EN: sanguine -->
-  <Mood_Sanguine.label>陽気な性格</Mood_Sanguine.label>
+  <!-- EN: very happy -->
+  <Mood_Sanguine.label>とても幸せ</Mood_Sanguine.label>
   <!-- EN: Carriers of this gene are highly predisposed to optimism and not at all inclined to think negatively. They'll have much higher mood than others. -->
   <Mood_Sanguine.description>この遺伝子を持つ者は非常に楽観的な傾向があり,否定的に考えることがまったくありません.そのため,他の人よりもはるかに高い気分になります.</Mood_Sanguine.description>
   <!-- EN: bright -->

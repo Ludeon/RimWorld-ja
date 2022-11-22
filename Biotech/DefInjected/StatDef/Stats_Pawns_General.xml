@@ -28,10 +28,20 @@
   <!-- EN: Fertility affects the chance of a pregnancy occurring. Pregnancy chance is dependent on the fertility of both partners. This also affects the chance of successfully implanting an embryo in a surrogate. -->
   <Fertility.description>生殖能力は妊娠する確率に影響を与えます.妊娠の確率は,両方のパートナーの生殖能力に依存します.これは,代理母への胚の移植に成功する可能性にも影響します.</Fertility.description>
   
+  <!-- EN: growth vat occupant speed -->
+  <GrowthVatOccupantSpeed.label>人工生育槽占有速度</GrowthVatOccupantSpeed.label>
+  <!-- EN: A multiplier on how quickly this person will grow when in a growth vat. -->
+  <GrowthVatOccupantSpeed.description>人工生育槽内にいるとき,この人物がどれだけ速く成長するかの掛け率です.</GrowthVatOccupantSpeed.description>
+  
   <!-- EN: hemogen gain multiplier -->
   <HemogenGainFactor.label>ヘモゲン上昇掛け率</HemogenGainFactor.label>
   <!-- EN: A multiplier on the amount of hemogen gained. -->
   <HemogenGainFactor.description>得られるヘモゲン量の掛け率です.</HemogenGainFactor.description>
+  
+  <!-- EN: learning rate factor -->
+  <LearningRateFactor.label>学習率係数</LearningRateFactor.label>
+  <!-- EN: A multiplier on how quickly a child's learning need is fulfilled by learning activities. -->
+  <LearningRateFactor.description>子供の学習欲求が学習活動によってどれだけ早く満たされるかの掛け率です.</LearningRateFactor.description>
   
   <!-- EN: mech bandwidth -->
   <MechBandwidth.label>メカ帯域幅</MechBandwidth.label>

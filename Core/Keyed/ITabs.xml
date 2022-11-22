@@ -420,8 +420,8 @@
   <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
   <AutocutUnenclosedPenTip>ペンのある囲いが閉じられてないため,自動刈り取りは機能しません.</AutocutUnenclosedPenTip>
 
-  <!-- EN: Auto-cut plants blocking wind turbine -->
-  <WindTurbineAutoCut_EnabledCheckbox>風力発電を妨害する植物の自動伐採</WindTurbineAutoCut_EnabledCheckbox>
+  <!-- EN: Auto-cut blocking plants -->
+  <WindTurbineAutoCut_EnabledCheckbox>妨害する植物の自動伐採</WindTurbineAutoCut_EnabledCheckbox>
 
   <!-- UNUSED -->
   <NoRelationships>(無関係)</NoRelationships>

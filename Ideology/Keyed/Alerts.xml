@@ -22,7 +22,7 @@
   <!-- EN: {0} opportunity for {1} -->
   <RitualOpportunityFor>{1}の{0}の期間</RitualOpportunityFor>
   <!-- EN: Expires in {0}, on {1}. -->
-  <RitualExpiresIn>{1}の期限切れまで残り{0}.</RitualExpiresIn>
+  <RitualExpiresIn>期限切れになる{1}まで残り{0}.</RitualExpiresIn>
   <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
   <RitualSingleTargetDesc>儀式を開始するには{FOCUS}を選択し,'{RITUAL_label}を始める'コマンドをクリックしてください.</RitualSingleTargetDesc>
   <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
@@ -74,10 +74,9 @@
   <!-- EN: A ritual opportunity is coming soon for following rituals -->
   <AlertRitualComingDesc>以下の儀式の機会が近々あります</AlertRitualComingDesc>
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
-  <AlertRitualComingExtra>機会は{0}日後に期限切れとなり,毎年同じ日に再発生します.</AlertRitualComingExtra>
+  <AlertRitualComingExtra>儀式は{0}日後に期限切れとなり,毎年同じ日に再発生します.</AlertRitualComingExtra>
   <!-- EN: {0} on {1}, {2} before opportunity arises -->
-  <!--TODO--><!--実物を見て再翻訳-->
-  <AlertRitualComingEntry>{1}の{0},機会が生じる前の{2}</AlertRitualComingEntry>
+  <AlertRitualComingEntry>{0}を行う{1}は, {2}後に訪れる</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
   <AlertAgeReversalDemandNear>年齢逆転の要求</AlertAgeReversalDemandNear>

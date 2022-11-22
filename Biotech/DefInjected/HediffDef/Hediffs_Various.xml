@@ -19,7 +19,7 @@
   <!-- EN: chemical dependency -->
   <GeneticDrugNeed.label>化学物質依存</GeneticDrugNeed.label>
   <!-- EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
-  <GeneticDrugNeed.description>この人物は導入された遺伝的により,特定の薬物に生化学的に依存しています.必要な薬物を定期的に摂取しなかった場合,彼らの体は健康な状態を維持できず,死ぬまで健康と気分の低下に苦しみます.\n\nこの効果が発現する年齢:13歳以降</GeneticDrugNeed.description>
+  <GeneticDrugNeed.description>この人物は導入された遺伝的により,特定の薬物に生化学的に依存しています.必要な薬物を定期的に摂取しなかった場合,体の健康状態を維持できず,死ぬまで健康と気分の低下に苦しみます.\n\nこの効果が発現する年齢:13歳以降</GeneticDrugNeed.description>
   <!-- EN: deficiency -->
   <GeneticDrugNeed.stages.deficiency.label>薬物不足</GeneticDrugNeed.stages.deficiency.label>
   <!-- EN: deficiency coma -->
@@ -43,8 +43,8 @@
   
   <!-- EN: psychic bond -->
   <PsychicBond.label>精神的絆</PsychicBond.label>
-  <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. -->
-  <PsychicBond.description>精神的絆の遺伝子により,この人物は他の人物と精神的絆を持っています</PsychicBond.description>
+  <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf. -->
+  <PsychicBond.description>精神的絆の遺伝子により,この人物は他の人物と精神的絆を持っています.絆は精神的無反応の者とさえ繋がることが可能な,限られた精神的な意識を与えます.</PsychicBond.description>
   <!-- EN: This person's bonded individual is nearby. -->
   <PsychicBond.stages.0.extraTooltip>この人物が精神的絆をもっている人は近くにいる.</PsychicBond.stages.0.extraTooltip>
   <!-- EN: psychic bond -->

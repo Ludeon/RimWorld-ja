@@ -554,7 +554,7 @@
 
   <!-- Lung rot -->
   <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
-  <LetterTextLungRot>{PAWN}は腐敗ガス(腐った死骸から放出されるガス)に長期間さらされたため,{1}が病気になりました.\n\n医療用ベッドと医者を確保してください.{PAWN_defined}が適切に扱われるようにしてください.</LetterTextLungRot>
+  <LetterTextLungRot>{PAWN}は腐敗ガス(腐った死骸から放出されるガス)に 長期間さらされたため,{1}が病気になりました.\n\n医療用ベッドと医者を確保してください.{PAWN_defined}が適切に扱われるようにしてください.</LetterTextLungRot>
 
   <!-- Join Offer -->
   <!-- EN: Join offer: {PAWN_nameDef} -->

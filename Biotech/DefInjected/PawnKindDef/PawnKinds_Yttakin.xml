@@ -1,10 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: drifter -->
+  <Drifter_Yttakin.label>ならず者</Drifter_Yttakin.label>
+  
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite_Yttakin.label>傭兵(エリート)</Mercenary_Elite_Yttakin.label>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite_Yttakin.labelPlural>傭兵達(エリート)</Mercenary_Elite_Yttakin.labelPlural>
+  
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner_Yttakin.label>傭兵(機銃手)</Mercenary_Gunner_Yttakin.label>
+  
+  <!-- EN: heavy mercenary -->
+  <Mercenary_Heavy_Yttakin.label>傭兵(重火器)</Mercenary_Heavy_Yttakin.label>
+  <!-- EN: heavy mercenaries -->
+  <Mercenary_Heavy_Yttakin.labelPlural>傭兵達(重火器)</Mercenary_Heavy_Yttakin.labelPlural>
+  
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher_Yttakin.label>傭兵(特殊部隊兵)</Mercenary_Slasher_Yttakin.label>
+  
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper_Yttakin.label>傭兵(狙撃手)</Mercenary_Sniper_Yttakin.label>
+  
   <!-- EN: pirate gunner -->
-  <Pirate_Yttakin.label>宙族の射手</Pirate_Yttakin.label>
+  <Pirate_Yttakin.label>宙族のガンナー</Pirate_Yttakin.label>
   
   <!-- EN: scavenger gunner -->
-  <Scavenger_Yttakin.label>スカベンジャーの射手</Scavenger_Yttakin.label>
+  <Scavenger_Yttakin.label>スカベンジャーのガンナー</Scavenger_Yttakin.label>
+  
+  <!-- EN: scavenger thrasher -->
+  <Thrasher_Yttakin.label>スカベンジャーの殺し屋</Thrasher_Yttakin.label>
   
 </LanguageData>
