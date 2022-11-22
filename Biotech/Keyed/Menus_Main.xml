@@ -12,7 +12,7 @@
   <!-- EN: Child aging rate -->
   <Difficulty_ChildAgingRate_Label>子供の加齢率</Difficulty_ChildAgingRate_Label>
   <!-- EN: Adjust the rate at which babies and children will age. Between ages 11 and 20, the child's aging rate will smoothly transition to the adult aging rate. -->
-  <Difficulty_ChildAgingRate_Info>幼児と子供が年をとる速度を調整します.11歳から20歳にかけて,子供の加齢率は大人の加齢率にスムーズに変わります.</Difficulty_ChildAgingRate_Info>
+  <Difficulty_ChildAgingRate_Info>幼児と子供が年をとる速度を調整します.年齢が11歳から20歳に成人するまでの間,子供の加齢率は徐々に大人の加齢率に変化します.</Difficulty_ChildAgingRate_Info>
   <!-- EN: Adult aging rate -->
   <Difficulty_AdultAgingRate_Label>大人の加齢率</Difficulty_AdultAgingRate_Label>
   <!-- EN: Adjust the rate at which adults will age. -->
@@ -22,7 +22,7 @@
   <!-- EN: Adjust the chance that a dissolved wastepack will trigger the arrival of insect cocoons. -->
   <Difficulty_WastepackInfestationChanceFactor_Info>分解した廃棄物パックが虫の繭の発生を引き起こす可能性を調整します.</Difficulty_WastepackInfestationChanceFactor_Info>
   <!-- EN: Child enemies -->
-  <Difficulty_ChildRaidersAllowed_Label>子供の敵</Difficulty_ChildRaidersAllowed_Label>
+  <Difficulty_ChildRaidersAllowed_Label>子供の敵対者</Difficulty_ChildRaidersAllowed_Label>
   <!-- EN: Hostile raids will sometimes include children. -->
   <Difficulty_ChildRaidersAllowed_Info>敵対的な襲撃に子供が含まれることがあります.</Difficulty_ChildRaidersAllowed_Info>
 

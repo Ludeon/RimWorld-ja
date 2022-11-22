@@ -6,18 +6,13 @@
   
   <!-- EN: party -->
   <Party.label>パーティ</Party.label>
+  <!-- EN: Party -->
+  <Party.letterTitle>パーティ</Party.letterTitle>
   <!-- EN: The party has been called off. -->
   <Party.calledOffMessage>パーティは中止されました.</Party.calledOffMessage>
   <!-- EN: The party has finished. -->
   <Party.finishedMessage>パーティは無事終わりました.</Party.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
   <Party.letterText>{ORGANIZER_labelShort}がパーティを開いています! 誰でも余暇と人付き合いから元気と持続するポジティブなムードを貰えるでしょう.</Party.letterText>
-  <!-- EN: Party -->
-  <Party.letterTitle>パーティ</Party.letterTitle>
-  
-  <!-- UNUSED -->
-  <ThroneSpeech.label>玉座の演説</ThroneSpeech.label>
-  <ThroneSpeech.letterText>{ORGANIZER_labelShort}が玉座から演説を行っています.\n\n上手くいけば聴衆を奮い立たせることができ,{ORGANIZER_labelShort}は敬意を得るでしょう.失敗した場合,社交に悪影響を与えます.結果は{ORGANIZER_labelShort}の社交スキルに依存します.</ThroneSpeech.letterText>
-  <ThroneSpeech.letterTitle>玉座の演説</ThroneSpeech.letterTitle>
-  
+
 </LanguageData>
