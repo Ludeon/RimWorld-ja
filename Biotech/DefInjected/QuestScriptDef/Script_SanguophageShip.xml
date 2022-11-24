@@ -22,7 +22,7 @@
     <li>sanguophageInfo->(*Gray)About sanguophages: Sanguophages are ageless, deathless super-humans powered by archotech-created archites in the bloodstream. They are beautiful and extremely intelligent. They can heal any injury, and never suffer from disease or poison. In combat, they can launch deadly spines and heal injured friends. The price is that sanguophages must consume hemogen derived from human blood to survive, and they must periodically deathrest for long periods. They're easily destroyed by fire, and slowed down by UV light.(/Gray)</li>
   -->
   <SanguophageShip.questDescriptionRules.rulesStrings>
-    <li>questDescription->救難信号を傍受しました!サングオファージのマスターと[thrallCount]人のしもべを運ぶ敵対的なシャトルが,エンジンの故障に見舞われたようです.信号を使用して,墜落地点を[map_defined]の近くまで引き寄せることができます.\n\n船が墜落したら,サングオファージとその手先と戦えます.マスターを捕まえることができれば,入植者の1人をサングオファージに変えることができます.\n\n[sanguophageInfo]</li>
+    <li>questDescription->救難信号を傍受しました!サングオファージのマスターと[thrallCount]人のしもべを運ぶ敵対的なシャトルが,エンジンの故障に見舞われたようです.信号を使用して,墜落地点を[map_definite]の近くまで引き寄せることができます.\n\n船が墜落したら,サングオファージとその手先と戦えます.マスターを捕まえることができれば,入植者の1人をサングオファージに変えることができます.\n\n[sanguophageInfo]</li>
     <li>sanguophageInfo->(*Gray)サングオファージについて:\nサングオファージはアルコテックで作られたアルカイトが血中に流れており,アルカイトによって動力を与えられる,不老不死の超人です.サングオファージは美しく,そして非常に知的です.どんな怪我も治すことができ,病気や毒に苦しむことはありません.戦闘では致命的な棘を発射し,負傷した仲間を癒すことができます.その代償としてサングオファージは,生きるために人間の血液に由来するヘモゲンを消費しなければならず,定期的に長期間にわたって休息しなければなりません.また炎に非常に弱く,紫外線で動きが遅くなります.(/Gray)</li>
   </SanguophageShip.questDescriptionRules.rulesStrings>
   <!-- EN:
