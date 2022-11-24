@@ -761,21 +761,21 @@
   <!-- EN: You must choose a route for the caravan first. -->
   <MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.すくなくても,どこかマップの端が到達可能か確認してください.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.少なくとも,マップの端のどこかが到達可能か確認してください.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>このアイテムの重量</ItemWeightTip>
   <!-- EN: Market value -->
   <MarketValueTip>小売価格</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
-  <DaysUntilRotTip>この地域での平均気温を元にした,このアイテムが腐敗し始めるまでの日数.</DaysUntilRotTip>
+  <DaysUntilRotTip>この地域での平均気温を元にした,このアイテムが腐敗し始めるまでの日数です.</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>この食料から摂れる栄養素の数です.\n\n参考情報: 成人は {0}栄養素/日 必要とします.</ItemNutritionTip>
+  <ItemNutritionTip>この食料から摂れる栄養素の数です.\n\n参考情報:成人は{0}栄養素/日必要とします.</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
   <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
-  <NutritionEatenPerDayTip>一日に摂取する栄養素の数です. 参考までに簡単な食事は {0} 栄養素です.</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>一日に摂取する栄養素の数です.参考までに簡単な食事は{0}栄養素です.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
   <CanEat>食性</CanEat>
   <!-- EN: Legend -->
@@ -1246,7 +1246,7 @@
   <!-- EN: room area: {0} tiles -->
   <RoomRequirementArea>部屋の空間: {0}タイル</RoomRequirementArea>
   <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>部屋の印象:</RoomRequirementImpressiveness>
+  <RoomRequirementImpressiveness>部屋の見栄え:</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
   <RoomRequirementAllFloored>床が敷かれている</RoomRequirementAllFloored>
   <!-- EN: all braziers must be lit -->

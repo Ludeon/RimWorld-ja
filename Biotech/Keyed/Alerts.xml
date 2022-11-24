@@ -11,12 +11,12 @@
   <AlertMechLacksOverseerMayGoFeral>次のメカノイドが未制御で,野生化の可能性があります</AlertMechLacksOverseerMayGoFeral>
 
   <!-- EN: {0} is low on resources -->
-  <AlertWarqueenHasLowResources>{0}のリソースが不足しています</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResources>{0}のリソースが不足</AlertWarqueenHasLowResources>
   <!-- EN: One or more {0} are low on resoures. They will be unable to produce mechs on command if they run out of resources. -->
   <AlertWarqueenHasLowResourcesDesc>1体か,それ以上の{0}のリソースが不足しています.リソースが不足するとメカの生産指令が出せなくなります.</AlertWarqueenHasLowResourcesDesc>
 
   <!-- EN: {PAWN} needs deathrest -->
-  <AlertLowDeathrestPawn>{PAWN}は死眠が必要</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawn>{PAWN}に死眠が必要</AlertLowDeathrestPawn>
   <!-- EN: {NUMCULPRITS} colonists need deathrest -->
   <AlertLowDeathrestPawns>{NUMCULPRITS}人に死眠が必要</AlertLowDeathrestPawns>
   <!-- EN: A colonist has not deathrested for a long time. If they go too long without deathrest, they will suffer from deathrest exhaustion.\n\nTo deathrest, select the colonist then right-click on their assigned bed or deathrest casket.\n\nThese people need deathrest:\n{CULPRITS} -->
@@ -54,7 +54,7 @@
   <AlertNoBabyFeederDesc>赤ん坊に給仕する{FACTION_pawnsPlural}が未就任か,あるいは全員が歩行不能になっています.\n\n赤ん坊の食事タブで優先度を緊急にし,行動可能な人員を確認したら,{FACTION_pawnsPlural}の誰かに育児を割り当てるか,授乳中の{FACTION_pawnSingular}を選択して,赤ん坊に食事を与えてください.</AlertNoBabyFeederDesc>
 
   <!-- EN: No baby food in caravan -->
-  <AlertNoBabyFoodCaravan>キャラバンにベビーフードがありません</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravan>キャラバンにベビーフードがない</AlertNoBabyFoodCaravan>
   <!-- EN: Babies on this caravan have no baby food and no lactating {FACTION_pawnsPlural} are set to feed them. -->
   <AlertNoBabyFoodCaravanDesc>このキャラバンにはベビーフードがなく,授乳中の{FACTION_pawnsPlural}も加わっていません.</AlertNoBabyFoodCaravanDesc>
 
@@ -78,14 +78,14 @@
   <AlertPollutedTerrainDesc>人または動物が,汚染地域に入っており,毒の蓄積に苦しんでいます.汚染地帯に足を踏み入れると,対象が死ぬまで時間とともに毒素が蓄積し続けます.\n\n以下の人か動物が影響下にあります:\n\n{0}\n\n汚染地域から遠ざけるか,その影響から保護する方法を検討してください.特定の衣服,インプラント,遺伝子によって毒素の影響を免れることができます.汚染地域の上にフロアを貼ることはできませんが,手作業や別の手段で除染することができます.</AlertPollutedTerrainDesc>
 
   <!-- EN: Mechanoid missing part -->
-  <AlertMechMissingBodyPart>パーツ不足のメカノイド</AlertMechMissingBodyPart>
+  <AlertMechMissingBodyPart>メカのパーツが不足</AlertMechMissingBodyPart>
   <!-- EN: Mechanoids missing parts -->
-  <AlertMechsMissingBodyPart>パーツ不足のメカノイド</AlertMechsMissingBodyPart>
+  <AlertMechsMissingBodyPart>メカのパーツが不足</AlertMechsMissingBodyPart>
   <!-- EN: One or more of your mechanoids are missing a body part. A mechanitor can repair lost parts.\n\nThe mechanoids with lost body parts are -->
   <AlertMechMissingBodyPartDesc>1体ないし複数のメカノイドのパーツが不足しています.メカニターは失ったパーツを修復できます.\n\nパーツを失ったメカノイドは</AlertMechMissingBodyPartDesc>
 
   <!-- EN: Mechanoid repair needed -->
-  <AlertMechNeedsRepair>修理が必要なメカノイド</AlertMechNeedsRepair>
+  <AlertMechNeedsRepair>メカの修理が必要</AlertMechNeedsRepair>
   <!-- EN: These mechanoids are damaged and need repair -->
   <AlertMechNeedsRepairDescPrefix>以下のメカノイドが損傷しており修理が必要</AlertMechNeedsRepairDescPrefix>
   <!-- EN: Order a mechanitor to repair them, or select the mech and turn on auto-repair. Repairing a mechanoid requires energy. If a mechanoid's energy is so low it can't move, someone must carry it to a recharger. -->
@@ -102,7 +102,7 @@
   <AlertPsychicBondedPawnsSeparatedDesc>精神的絆を結んだ人同士が別の場所におり,遠距離による悪影響を感じています.これを防ぐには両名を同じワールドタイル,キャラバン,乗り物に置かなければなりません.また冷凍睡眠やそれに類似した仮死状態でもいけません.\n\n以下の人物が影響下にある</AlertPsychicBondedPawnsSeparatedDesc>
 
   <!-- EN: Gene bank needs power -->
-  <AlertGenebankUnpowered>遺伝子バンクが電力不足</AlertGenebankUnpowered>
+  <AlertGenebankUnpowered>電力不足 遺伝子バンク</AlertGenebankUnpowered>
   <!-- EN: A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it. -->
   <AlertGenebankUnpoweredDesc>遺伝子バンクに電力が供給されていないため,内部の遺伝子は徐々に劣化していきます.劣化防止のために電力を供給してください.\n\n電力が回復されると遺伝子の劣化も徐々に回復します.</AlertGenebankUnpoweredDesc>
 
