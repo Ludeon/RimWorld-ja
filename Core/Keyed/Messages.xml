@@ -140,9 +140,9 @@
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>禁止されたアイテムを指定してください.</MessageMustDesignateUnforbiddable>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotClaimWhenThreatsAreNear>戦闘可能な{THREAT_factionPawnsPlural}が近くにいる間は,{CLAIMABLE_labelShort}を要求できません.</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotClaimWhenThreatsAreNear>戦闘可能な{THREAT_factionPawnsPlural}が近くにいる間は, {CLAIMABLE_labelShort}の 領有を主張できません.</MessageCannotClaimWhenThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotAdoptWhileThreatsAreNear>戦闘可能な{THREAT_factionPawnsPlural}が近くにいる間は,{CLAIMABLE_labelShort}を採用できません.</MessageCannotAdoptWhileThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>戦闘可能な{THREAT_factionPawnsPlural}が近くにいる間は, {CLAIMABLE_labelShort}を 養子にできません.</MessageCannotAdoptWhileThreatsAreNear>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort}は逮捕を拒否しました!</MessageRefusedArrest>
