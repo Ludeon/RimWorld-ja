@@ -293,7 +293,7 @@
     <li>areIs(lodgerCount>=2)->are</li>
   -->
   <RefugeeBetrayal.questDescriptionRules.rulesStrings>
-    <li>questDescription->[factionOpponent_faction_name]の[factionOpponent_faction_pawnSingular]である[factionOpponent_nameDef]は,[asker_nameDef][otherLodgers][areIs]が[map_defined]に滞在していることを知りました.[factionOpponent_pronoun]は[asker_nameDef]を敵とみなしており,[asker_objective]死を望んでいます.\n\n[factionOpponent_pronoun]は,[faction_name]のすべてのメンバーを倒すと次の報酬を与えます(総価値 [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>questDescription->[factionOpponent_faction_name]の[factionOpponent_faction_pawnSingular]である[factionOpponent_nameDef]は,[asker_nameDef][otherLodgers][areIs]が[map_definite]に滞在していることを知りました.[factionOpponent_pronoun]は[asker_nameDef]を敵とみなしており,[asker_objective]死を望んでいます.\n\n[factionOpponent_pronoun]は,[faction_name]のすべてのメンバーを倒すと次の報酬を与えます(総価値 [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>otherLodgers(lodgerCount==1)-></li>
