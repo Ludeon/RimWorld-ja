@@ -264,7 +264,7 @@
     <li>betrayalOfferRewardLetterLabel->裏切りの報酬: [factionOpponent_nameDef]</li>
     <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef]は,[asker_nameDef][otherMembers]を殺害すれば報酬を渡すことを約束しました.[factionOpponent_pronoun]は殺害が実行されたという報告を聞き,ドロップポッドを介して以下の報酬を送りました(総価値 [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
     <li>betrayalOfferFailedLetterLabel->裏切りの報酬撤回</li>
-    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef]は,[faction_name]のメンバーの1人がもはや[map_defined]にいないことを知りました.[factionOpponent_nameDef]は[faction_name]のすべてのメンバーの死を望んでいたため,[factionOpponent_possessive]提案と報酬を撤回しました.</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef]は,[faction_name]のメンバーの1人がもはや[map_definite]にいないことを知りました.[factionOpponent_nameDef]は[faction_name]のすべてのメンバーの死を望んでいたため,[factionOpponent_possessive]提案と報酬を撤回しました.</li>
     <li>otherLodgers(lodgerCount==1)-></li>
     <li>otherLodgers(lodgerCount==2)->ともう1人の[lodgersLabel]</li>
     <li>otherLodgers(lodgerCount>=3)->とほかの[lodgersLabelPlural]</li>
