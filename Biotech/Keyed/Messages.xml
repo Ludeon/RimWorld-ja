@@ -134,7 +134,7 @@
   <MessageConflictingGenesPresent>複数の競合する遺伝子を持つゼノタイプは保存できません.</MessageConflictingGenesPresent>
 
   <!-- EN: {BUILDING_labelShort} has been bound to {PAWN_nameDef} ({CUR}/{MAX} deathrest capacity). -->
-  <MessageDeathrestBuildingBound>{BUILDING_labelShort}は{PAWN_nameDef}(死眠容量 {CUR}/{MAX})と結びつけられています.</MessageDeathrestBuildingBound>
+  <MessageDeathrestBuildingBound>{BUILDING_labelShort}が{PAWN_nameDef}(死眠容量 {CUR}/{MAX})と結びつきました.</MessageDeathrestBuildingBound>
 
   <!-- EN: Developmental stage selection disabled by scenario. -->
   <MessageDevelopmentalStageSelectionDisabledByScenario>シナリオによって成長段階の設定が無効化されています.</MessageDevelopmentalStageSelectionDisabledByScenario>

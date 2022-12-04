@@ -110,7 +110,7 @@
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
   <NotEnoughDyeWillRecolorHair>入植者は染料が利用可能になると,衣服の色を変えます.</NotEnoughDyeWillRecolorHair>
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
-  <IdeoCertaintyTooltip>{IDEO}における{PAWN_labelShort}の信仰度は,{PERCENTAGE}にある</IdeoCertaintyTooltip>
+  <IdeoCertaintyTooltip>{PAWN_labelShort}の{IDEO}の信仰度は{PERCENTAGE}</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
   <DisabledByPrecept>戒律'{0}'によって無効</DisabledByPrecept>
   <!-- EN: Everyone -->
