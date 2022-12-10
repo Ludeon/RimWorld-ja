@@ -553,8 +553,8 @@
   <BiostarvationExplanation>1つ,もしくは複数の人工生育槽が栄養不足,もしくは電力不足による生物学的栄養失調に陥っています.\n\n生物学的栄養失調が100%に達すると,収容されている生命が死亡します.</BiostarvationExplanation>
   <!-- EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
   <InsertPersonGrowthVatDesc>人工生育槽に人を入れます.中に入った人物は通常の20倍の速さで成長します.</InsertPersonGrowthVatDesc>
-  <!-- EN: Implant an embryo into the growth vat. After gestating for 18 days a fully formed baby will be produced by the vat, hopefully in good health. -->
-  <InsertEmbryoGrowthVatDesc>人工生育槽に胚を移植します.18日間成長した後,完全に形成された赤ん坊が槽から産まれます.</InsertEmbryoGrowthVatDesc>
+  <!-- EN: Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health. -->
+  <InsertEmbryoGrowthVatDesc>人工生育槽に胚を移植します.{0}間成長した後,完全に形成された赤ん坊が槽から産まれます.</InsertEmbryoGrowthVatDesc>
   <!-- EN: Insert embryo -->
   <ImplantEmbryo>胚を入れる</ImplantEmbryo>
   <!-- EN: Cannot insert embryo -->
