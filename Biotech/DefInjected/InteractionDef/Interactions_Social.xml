@@ -38,7 +38,7 @@
   <BabyPlay.logRulesInitiator.rulesStrings>
     <li>r_logentry->[RECIPIENT_nameDef]は[INITIATOR_nameDef]に[reaction].</li>
     <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef][interaction].</li>
-    <li>r_logentry->[INITIATOR_nameDefは[RECIPIENT_nameDef]と[babyGame]で遊んだ.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]と[babyGame]で遊んだ.</li>
     <li>reaction->くすくすと笑った</li>
     <li>reaction->笑顔を向けた</li>
     <li>reaction->嬉しそうに身もだえた</li>

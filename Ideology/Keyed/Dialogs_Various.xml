@@ -114,7 +114,7 @@
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>{TRAIT}</AbilityIdeoConvertBreakdownTrait>
   <!-- EN: {RELICCOUNT} installed relics on map -->
-  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT}がマップ上にレリックを設置しました</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownRelic>マップ上に{RELICCOUNT}つのレリックが設置されている</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
   <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort}の社交スキル</AbilityIdeoConvertBreakdownSocialSkill>
   <!-- EN: {RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort} -->

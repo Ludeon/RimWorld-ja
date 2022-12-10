@@ -16,7 +16,7 @@
   <!-- EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <NanostructuringChip.description>メカノイドの分子再構築用の微小器官です.特定の高度なメカノイドと装備を製造するのに必要です.\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</NanostructuringChip.description>
   <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <NanostructuringChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することで,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得られます.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</NanostructuringChip.comps.CompStudiable.completedLetterText>
+  <NanostructuringChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</NanostructuringChip.comps.CompStudiable.completedLetterText>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
   <NanostructuringChip.comps.CompStudiable.completedLetterTitle>{PARENT_label}研究完了:{RESEARCH}がアンロックされた</NanostructuringChip.comps.CompStudiable.completedLetterTitle>
   
@@ -25,7 +25,7 @@
   <!-- EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <PowerfocusChip.description>エネルギーを集中させるためのメカノイドの微小器官です.特定の高度なメカノイドと装備を製造するのに必要です,\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</PowerfocusChip.description>
   <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <PowerfocusChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することで,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得られます.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</PowerfocusChip.comps.CompStudiable.completedLetterText>
+  <PowerfocusChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</PowerfocusChip.comps.CompStudiable.completedLetterText>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
   <PowerfocusChip.comps.CompStudiable.completedLetterTitle>{PARENT_label}研究完了:{RESEARCH}がアンロックされた</PowerfocusChip.comps.CompStudiable.completedLetterTitle>
   
@@ -45,7 +45,7 @@
   <!-- EN: A mechanoid-band synchronization micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <SignalChip.description>メカノイド帯域に同調する微小器官です.特定の高度なメカノイドと装備を製造するのに必要です,\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</SignalChip.description>
   <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <SignalChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することで,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得られます.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</SignalChip.comps.CompStudiable.completedLetterText>
+  <SignalChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</SignalChip.comps.CompStudiable.completedLetterText>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
   <SignalChip.comps.CompStudiable.completedLetterTitle>{PARENT_label}研究完了:{RESEARCH}がアンロックされた</SignalChip.comps.CompStudiable.completedLetterTitle>
   
