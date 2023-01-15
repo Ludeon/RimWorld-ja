@@ -43,8 +43,8 @@
   
   <!-- EN: chunk skip -->
   <Chunkskip.label>ブロックスキップ</Chunkskip.label>
-  <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
-  <Chunkskip.description>岩や鉄くずの塊を5つスキップし,ターゲットポイントの近くにばらまきます.戦闘中,カバーを作るために役立ちます.</Chunkskip.description>
+  <!-- EN: Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <Chunkskip.description>近くの岩や鉄くずの塊を5つスキップし,ターゲットポイントの近くにばらまきます.戦闘中,カバーを作るために役立ちます.</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
   <EntropyDump.label>ニューラルヒートダンプ</EntropyDump.label>
