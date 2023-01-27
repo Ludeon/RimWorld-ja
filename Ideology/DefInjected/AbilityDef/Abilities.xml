@@ -41,7 +41,7 @@
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
   <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort}は{RECIPIENT_labelShort}への助言に成功し, {2}のムードの影響を取り消しました.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort}は{RECIPIENT_labelShort}への助言に成功し, {MOODBONUS}によって{RECIPIENT_possessive}のムードが上昇しました.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort}は{RECIPIENT_labelShort}への助言に成功し, 心情が{MOODBONUS}上昇しました.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
   <FarmingCommand.label>農業指導</FarmingCommand.label>
