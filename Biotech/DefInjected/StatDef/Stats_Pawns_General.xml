@@ -93,11 +93,6 @@
   <!-- EN: A multiplier on how nutritious raw food is for this person. Note that since meals usually have more nutrition than their raw ingredients, a boost to this stat may only mean the person gets the same nutrition from raw food as if it were cooked. -->
   <RawNutritionFactor.description>生の食料を食べる時の栄養価の掛け率です.食事は通常,生の食材よりも多くの栄養を含んでいるため,このブースト値は生の食料から食事と同じ量の栄養を得られるだけであることに注意してください.</RawNutritionFactor.description>
   
-  <!-- EN: sleep fall rate -->
-  <RestFallRateFactor.label>睡眠減少率</RestFallRateFactor.label>
-  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
-  <RestFallRateFactor.description>睡眠欲求が減少する速度の掛け率です.</RestFallRateFactor.description>
-  
   <!-- EN: subcore encoding speed -->
   <SubcoreEncodingSpeed.label>サブコアエンコード速度</SubcoreEncodingSpeed.label>
   <!-- EN: A multiplier on how fast a mechanitor can create subcores. -->

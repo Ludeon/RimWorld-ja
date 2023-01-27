@@ -131,6 +131,11 @@
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
   <PsychicSensitivity.description>精神現象がこの人に与える影響度への倍率です.より敏感な人は,マイナスの精神影響はより苦しみますし,プラスの精神影響はより恩恵を受けます.高い精神感応性はニューラルヒートの限界も増加させます.</PsychicSensitivity.description>
   
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>睡眠減少率</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>睡眠欲求が減少する速度の掛け率です.</RestFallRateFactor.description>
+  
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>休息しやすさ</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->

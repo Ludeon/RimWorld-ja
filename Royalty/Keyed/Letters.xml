@@ -102,28 +102,6 @@
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
   <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name}は{PAWN_labelShort}の不正使用を検知しました: {CULPRIT} (検知チャンス {CHANCE}).\n\n{FACTION_name}の法律では,{TITLE}の爵位の保持者のみ{CULPRIT}の仕様が許可されています.\n\n罰としてあなたの派閥との関係が{GOODWILL}まで低下しました.</LetterLawViolationDetectedForbiddenThingUse>
 
-  <!-- Throne Speech -->
-  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort}は演説を終えました.</LetterFinishedSpeech>
-  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>この演説は実にひどいものでした.言葉はつかえるし,下手なジョークと気の滅入る話ばかりでした.</LetterTerribleSpeech>
-  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>誰もこの演説に感動しませんでした.独創性もなくうんうん唸るばかりで,情熱的なセンスが欠けていました.</LetterUninspiringSpeech>
-  <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>この演説は皆の胸にしっかり届き,勇気づけました.</LetterEncouragingSpeech>
-  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>この演説は意志と気迫に満ちていて,とても感動的でした.</LetterInspirationalSpeech>
-  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>以下の人々は特に感動し,そして今,奮い立たされました:</LetterSpeechInspiredListeners>
-  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>{SPEAKER_nameIndef}の素晴らしい演説のおかげで,{PAWN_nameIndef}は奮い立ちました!</LetterSpeechInspiration>
-  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>{0}が完了した段階で演説が中断されたため,それほど効果的ではありませんでした.</LetterSpeechInterrupted>
-  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>{0}の演説は50%に達する前に中断されました.何の効果ももたらしません.</LetterSpeechCancelled>
-  <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>演説が中断されました</LetterLabelSpeechCancelled>
-
   <!-- Wild decree mental break -->
   <!-- EN: Wild decree -->
   <WildDecree>突飛な法令</WildDecree>
