@@ -540,7 +540,7 @@
   <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる平均頻度です.\n\n「擦り寄り」は多くの動物種に見られる振る舞いで,愛情表現として親しい者に,鼻や口元を押し付けます.大抵の人間は,この可愛いい仕草に微笑み,しばらくこのままでいたいと思っています.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
-  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
   <HarmedRevengeChanceExplanation>この生物が危害を加えられたときに反撃する可能性です.\n\n攻撃者が近くにいる場合,この確率は最大で3倍にまで増加します.\n\nこの確率は,ダメージを受けるたびに判定を行います.これはつまり,発砲頻度が低く,火力の高い武器がより反撃を受けにくいことを意味します.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
