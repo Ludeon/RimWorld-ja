@@ -96,16 +96,10 @@
   <AbilitySpeechDisabledNoThroneUndignified>玉座が爵位に相応しくないため使用できません.</AbilitySpeechDisabledNoThroneUndignified>
   <!-- EN: already giving a speech. -->
   <AbilitySpeechDisabledAlreadyGivingSpeech>すでに演説中です.</AbilitySpeechDisabledAlreadyGivingSpeech>
-  <!-- EN: another gathering is in progress. -->
-  <AbilitySpeechDisabledAnotherGatheringInProgress>別の集まりが行われています.</AbilitySpeechDisabledAnotherGatheringInProgress>
-  <!-- EN: Next speech ready in -->
-  <AbilitySpeechCooldown>次の演説の準備まで</AbilitySpeechCooldown>
   <!-- EN: Outcome chances -->
   <AbilitySpeechPossibleOutcomes>機会の結果</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
   <AbilitySpeechStatInfo>{ORGANIZER_labelShort}の{1}状態</AbilitySpeechStatInfo>
-  <!-- EN: Initiated at -->
-  <AbilitySpeechTargetsLabel>開始場所</AbilitySpeechTargetsLabel>
   <!-- EN: Dignified throne -->
   <AbilitySpeechTargetDescThrone>威厳のある王位</AbilitySpeechTargetDescThrone>
   

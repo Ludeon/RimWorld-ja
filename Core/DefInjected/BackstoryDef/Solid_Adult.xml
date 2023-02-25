@@ -1849,12 +1849,12 @@
   <!-- EN: techie -->
   <Technician9.titleShort>コンピュータ技術屋</Technician9.titleShort>
   
-  <!-- EN: [PAWN_nameDef] performed research into propulsive fuels and energy generation.\n\n[PAWN_pronoun] loved technology research, and hoped to improve human life by doing it. -->
-  <TechnologyDoctor35.baseDesc>[PAWN_nameDef]は, 推進剤と,エネルギー生成機関の研究に携わっていました.\n\n[PAWN_pronoun]は,テクノロジーの研究が好きで,そうすることで,人の生活が向上することを願っていました.</TechnologyDoctor35.baseDesc>
-  <!-- EN: technology doctor -->
-  <TechnologyDoctor35.title>テクノロジードクター</TechnologyDoctor35.title>
-  <!-- EN: tech doc -->
-  <TechnologyDoctor35.titleShort>テクノロジードクター</TechnologyDoctor35.titleShort>
+  <!-- EN: [PAWN_nameDef] was a farmer on [PAWN_possessive] midworld, and spent [PAWN_possessive] free time practicing with guns. [PAWN_pronoun] knew how important the skills of farming and shooting would be in hard times, and trained to serve in a local militia. -->
+  <TechnologyDoctor35.baseDesc>[PAWN_nameDef]はミッドワールドの農民であり,自由な時間を銃の練習に費やしていました.困難な時期において,[PAWN_pronoun]は農業と射撃のスキルがどれほど重要であるかを知っており,地元の民兵として奉仕するための訓練を受けていました.</TechnologyDoctor35.baseDesc>
+  <!-- EN: soldier-farmer -->
+  <TechnologyDoctor35.title>農民兵士</TechnologyDoctor35.title>
+  <!-- EN: soldier -->
+  <TechnologyDoctor35.titleShort>兵士</TechnologyDoctor35.titleShort>
   
   <!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping. -->
   <TestSubject39.baseDesc>[PAWN_nameDef]は,もっと賢くなれると約束した科学的研究に参加しました.残念ながら,副作用は[PAWN_pronoun]の予想したものとは非常に異なっていました.[PAWN_pronoun]は気が狂い,逃げる前に多くの人々を殺しました.</TestSubject39.baseDesc>

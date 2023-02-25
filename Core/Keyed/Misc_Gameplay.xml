@@ -1812,6 +1812,13 @@
   <!-- EN: Cancel planting the {0_label}. -->
   <CancelPlantThingDesc>{0_label}を植えるのをやめます.</CancelPlantThingDesc>
 
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>別の集まりが行われています.</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <!-- EN: Next speech ready in -->
+  <AbilitySpeechCooldown>次の演説の準備まで</AbilitySpeechCooldown>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>開始場所</AbilitySpeechTargetsLabel>
+
   <!-- UNUSED -->
   <PawnMainDescTempFactionedWrap>{1}の下の {0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
 
