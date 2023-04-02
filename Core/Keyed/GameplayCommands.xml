@@ -292,12 +292,14 @@
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
   <CommandSelectMineralToScanFor>調整</CommandSelectMineralToScanFor>
+  <!-- EN: Select the mineral type to scan for. -->
+  <CommandSelectMineralToScanForDesc>スキャンする鉱物の種類を選択します.</CommandSelectMineralToScanForDesc><!-- text_todo -->
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
   <CommandBuildCopy>複製</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>同じものの複製を建造する.</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>同じものの複製を建造します.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
