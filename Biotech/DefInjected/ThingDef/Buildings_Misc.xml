@@ -26,7 +26,7 @@
   <!-- EN: gene extractor -->
   <GeneExtractor.label>遺伝子抽出器</GeneExtractor.label>
   <!-- EN: An automated surgery machine that can extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nExtracting a person's genes while their genes are currently regrowing will kill them. Otherwise, gene extraction causes no lasting harm.\n\nGenes that require archite capsules are too complex to be extracted. -->
-  <GeneExtractor.description>人から遺伝子を抽出し,遺伝子パックを作成する自動手術装置です.</GeneExtractor.description>
+  <GeneExtractor.description>人から遺伝子を抽出し,遺伝子パックを作成する自動手術装置です.対象者の異種遺伝子,生殖系遺伝子からランダムに選ばれた遺伝子が抽出されます.対象者を装置に強制的に入れることができますが,入れられた人物はいやな気持ちになります.\n\n遺伝子が再成長している途中でその遺伝子が抽出された場合,抽出された人物は死亡します.\n\nアルカイトカプセルを必要とする遺伝子は複雑すぎるため抽出できません.</GeneExtractor.description>
   
   <!-- EN: gene processor -->
   <GeneProcessor.label>遺伝子プロセッサ</GeneProcessor.label>

@@ -12,11 +12,13 @@
   <MessageMechChargerDestroyedMechGoesBerserk>{PAWN_nameDef}の充電中に充電器が破壊されました!停電によって脳が混乱し暴走状態に陥っています.</MessageMechChargerDestroyedMechGoesBerserk>
 
   <!-- EN: Cannot use {ABILITY_label} on anyone who would actively resist. -->
-  <MessageCantUseOnResistingPerson>積極抵抗する人物に対して{ABILITY_label}は使えません.</MessageCantUseOnResistingPerson>
+  <MessageCantUseOnResistingPerson>強く抵抗する人物に対して{ABILITY_label}は使えません.</MessageCantUseOnResistingPerson>
   <!-- EN: {0_labelShort} already has the {0_xenotype} xenotype. -->
   <MessageCannotUseOnSameXenotype>{0_labelShort}はすでに{0_xenotype}のゼノタイプを備えています.</MessageCannotUseOnSameXenotype>
+  <!-- EN: {0_labelShort} has no available xenogenes to implant. -->
+  <MessagePawnHasNoXenogenes>{0_labelShort}に移植可能な異種遺伝子がありません.</MessagePawnHasNoXenogenes>
   <!-- EN: Xenogerms can only be implanted into colonists, prisoners, and slaves. -->
-  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>異種胚は入植者,囚人,奴隷にのみインプラントできます.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>異種胚は入植者,囚人,奴隷にのみ移植できます.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
   <!-- EN: Cannot implant in temporary faction members. -->
   <MessageCannotImplantInTempFactionMembers>一時的な派閥メンバーには移植できません.</MessageCannotImplantInTempFactionMembers>
   <!-- EN: A xenogerm has been completed. -->

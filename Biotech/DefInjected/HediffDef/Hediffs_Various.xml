@@ -44,20 +44,20 @@
   <!-- EN: psychic bond -->
   <PsychicBond.label>精神的絆</PsychicBond.label>
   <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf. -->
-  <PsychicBond.description>精神的絆の遺伝子により,この人物は他の人物と精神的絆を持っています.絆は精神的無反応の者とさえ繋がることが可能な,限られた精神的な意識を与えます.</PsychicBond.description>
+  <PsychicBond.description>精神的絆の遺伝子により,この人物は他の人物と精神的絆を結びます.絆は精神的無反応の者とさえ繋がることが可能な,限られた精神的な意識を与えます.</PsychicBond.description>
   <!-- EN: This person's bonded individual is nearby. -->
-  <PsychicBond.stages.0.extraTooltip>この人物が精神的絆をもっている人は近くにいる.</PsychicBond.stages.0.extraTooltip>
+  <PsychicBond.stages.0.extraTooltip>この人物が精神的絆を結んだ相手がそばにいます.</PsychicBond.stages.0.extraTooltip>
   <!-- EN: psychic bond -->
   <PsychicBond.stages.0.overrideLabel>精神的絆</PsychicBond.stages.0.overrideLabel>
-  <!-- EN: This person's bonded individual is far away. -->
-  <PsychicBond.stages.1.extraTooltip>この人物が精神的絆を持っている人は遠くにいる.</PsychicBond.stages.1.extraTooltip>
+  <!-- EN: This person feels separated from their bonded individual. -->
+  <PsychicBond.stages.1.extraTooltip>この人物は精神的絆を結んだ相手からあまりにも離れすぎていると感じています.</PsychicBond.stages.1.extraTooltip>
   <!-- EN: psychic bond distance -->
   <PsychicBond.stages.1.overrideLabel>精神的絆が遠い</PsychicBond.stages.1.overrideLabel>
   
   <!-- EN: psychic bond torn -->
   <PsychicBondTorn.label>精神的絆が引き裂かれた</PsychicBondTorn.label>
   <!-- EN: This person had a psychic bond with another, but the bond was torn when their partner died. -->
-  <PsychicBondTorn.description>この人物は精神的絆をもっていましたが,絆はパートナーの死により引き裂かれました.</PsychicBondTorn.description>
+  <PsychicBondTorn.description>この人物はパートナーと精神的絆を結んでいましたが,パートナーの死によってこの絆が引き裂かれました.</PsychicBondTorn.description>
   
   <!-- EN: regeneration coma -->
   <RegenerationComa.label>再生昏睡</RegenerationComa.label>

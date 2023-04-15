@@ -47,12 +47,12 @@
   <!-- EN: psychic bond torn ({0}) -->
   <PsychicBondTorn.stages.psychic_bond_torn.label>精神的絆が引き裂かれた({0})</PsychicBondTorn.stages.psychic_bond_torn.label>
   <!-- EN: My psychic bond with {OTHERPAWN} was torn apart. I feel like part of my mind and emotions are missing. -->
-  <PsychicBondTorn.stages.psychic_bond_torn.description>私の{OTHERPAWN}との精神的絆は引き裂かれた. 私の心と感情の一部が失われてしまったように感じる.</PsychicBondTorn.stages.psychic_bond_torn.description>
+  <PsychicBondTorn.stages.psychic_bond_torn.description>私と{OTHERPAWN}の精神的絆が引き裂かれた.私の心と感情の一部が失われてしまったように感じる.</PsychicBondTorn.stages.psychic_bond_torn.description>
   
   <!-- EN: stillbirth -->
   <Stillbirth.stages.stillbirth.label>死産</Stillbirth.stages.stillbirth.label>
   <!-- EN: My child died during labor. -->
-  <Stillbirth.stages.stillbirth.description>私の子供は出産中に死んでしまった.</Stillbirth.stages.stillbirth.description>
+  <Stillbirth.stages.stillbirth.description>私の子供が出産中に死んでしまった.</Stillbirth.stages.stillbirth.description>
   
   <!-- EN: genes harvested -->
   <XenogermHarvested_Prisoner.stages.genes_harvested.label>遺伝子を抽出された</XenogermHarvested_Prisoner.stages.genes_harvested.label>

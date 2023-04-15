@@ -171,8 +171,8 @@
   
   <!-- EN: gene implanter -->
   <XenogermReimplanter.label>遺伝子移植者</XenogermReimplanter.label>
-  <!-- EN: Carriers of this gene can implant a copy of their xenogerm into another person through a somewhat gross-looking injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die. -->
-  <XenogermReimplanter.description>この遺伝子を持つ者は少し粗末な注射器官を介して,自分の異種胚のコピーを別の人に移植できます.彼ら自身の遺伝物質は非常にゆっくりと再生します.遺伝子が再成長している間に移植すると死亡します.</XenogermReimplanter.description>
+  <!-- EN: Carriers of this gene can implant a copy of their xenogerm into another person through a somewhat gross-looking injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die. Germline genes will be unaffected. -->
+  <XenogermReimplanter.description>この遺伝子を持つ者は少し粗末な注射器官を介して,自分の異種胚のコピーを別の人に移植できます.彼ら自身の遺伝物質は非常にゆっくりと再生します.遺伝子が再成長している間に移植すると死亡します.生殖系遺伝子は影響を受けません。</XenogermReimplanter.description>
   <!-- EN: reimplanter -->
   <XenogermReimplanter.labelShortAdj>再移植者</XenogermReimplanter.labelShortAdj>
   
