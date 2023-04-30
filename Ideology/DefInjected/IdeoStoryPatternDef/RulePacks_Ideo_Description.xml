@@ -160,21 +160,21 @@
     <li>lessonAttribution(p=2)->[attributionSource_titleCase] [founder_nameFull] より</li>
     <li>lessonAttribution->[founder_nameFull]の手紙 [believer_nameFull]に宛てて</li>
     <li>lessonAttribution->[founder_nameFull]から[memeConference_titleCase]に送られたノート</li>
-    <li>lessonAttribution->[founder_nameFull]が,[founder_possessive]の死の床で</li>
+    <li>lessonAttribution->[founder_nameFull]が,[founder_possessive]死の床で</li>
     <li>lessonAttribution->[founder_nameFull]が,処刑前に</li>
     <li>lessonAttribution->[founder_nameFull]が,[TerrainFeature]で[speech]</li>
     <li>lessonAttribution->[founder_nameFull]が,[Community]で[speech]</li>
     <li>attributionSource->[memeConcept]</li>
-    <li>attributionSource->[memeAdjective] [memeConcept]</li>
-    <li>attributionSource->[memeAdjective]の生活</li>
+    <li>attributionSource->[memeAdjective][memeConcept]</li>
+    <li>attributionSource->[memeAdjective]生活</li>
     <li>attributionSource->[attributionJob]の反響</li>
     <li>attributionSource->[attributionJob]の回顧録</li>
     <li>attributionSource->[attributionJob]の思考</li>
     <li>attributionSource->[attributionJob]の生活</li>
-    <li>attributionJob->[memeAdjective] [place_job]</li>
+    <li>attributionJob->[memeAdjective][place_job]</li>
     <li>attributionJob->[place_job]</li>
-    <li>memeConference(p=3)->[conferencePrefix] [memeConcept] [conferenceType]</li>
-    <li>memeConference(p=2)->[memeConcept] [conferenceType]</li>
+    <li>memeConference(p=3)->[conferencePrefix][memeConcept][conferenceType]</li>
+    <li>memeConference(p=2)->[memeConcept][conferenceType]</li>
     <li>memeConference->[memeHyphenPrefix_titleCase]-Con</li>
     <li>conferencePrefix->最初の</li>
     <li>conferencePrefix->2番目の</li>
