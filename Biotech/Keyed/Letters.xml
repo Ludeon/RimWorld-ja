@@ -82,7 +82,7 @@
   <LetterTextThirdTrimester>{0_nameDef}は6日以内に出産予定です.赤ん坊の出産に備えることができます:\n\n-床が清潔で寝心地の良い分娩室を作ります.\n-熟練した医師を用意します.\n-優先順位タブで,少なくとも1人を育児に割り当てます.\n-赤ん坊のための食べ物を準備します.{0_nameDef}は赤ん坊に母乳をあげたり,離乳食,ミルク,インセクトゼリーをあげることができます.\n-ベビーベッドを作りましょう.高品質のベビーベッドは赤ん坊を幸せにします.\n\nカマドやコンロ,焚き火から離乳食を作ることができます.</LetterTextThirdTrimester>
 
   <!-- EN: {0} vat birth -->
-  <LetterVatBirth>{0}が生育槽で生まれた</LetterVatBirth>
+  <LetterVatBirth>胚の成長: {0}</LetterVatBirth>
   <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
   <LetterVatHealthyBaby>{0_nameDef}と{1_nameDef}の胚は人工生育槽での成長を終え,健康な赤ん坊になりました!</LetterVatHealthyBaby>
   <!-- EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
