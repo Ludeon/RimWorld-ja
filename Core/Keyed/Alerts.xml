@@ -305,7 +305,7 @@
   <!-- EN: Hungry pen animals -->
   <AlertPennedAnimalHungry>囲いの家畜が空腹</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
-  <AlertPennedAnimalHungryDesc>囲いの中の家畜の何匹かが空腹です.\n\nペンマーカーを選択し,餌タブを選択して詳細を表示できます.\n\n草食動物は,十分な草を与えるためにより大きな囲いが必要になる場合があります.その他の家畜は,備蓄を使用して干し草または同様の食物を供給される必要があるかもしれません.</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>囲いの中の家畜の何匹かが空腹です.\n\nペンマーカーを選択し,餌タブを選択して詳細を表示できます.\n\n草食動物は,十分な草を与えるためにより大きな囲いが必要になる場合があります.その他の家畜は,備蓄を使用して干し草または同様の食物を供給される必要があるかもしれません:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
   <AlertHitchedAnimalHungryNoFood>つなぎ柱の家畜が空腹</AlertHitchedAnimalHungryNoFood>

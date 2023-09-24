@@ -8,7 +8,9 @@
   <!-- EN:
     <li>questName->Wanderer joins</li>
   -->
-  <WandererJoins.questNameRules.rulesStrings>新たな入植者</WandererJoins.questNameRules.rulesStrings>
+  <WandererJoins.questNameRules.rulesStrings>
+    <li>questName->新たな入植者</li>
+  </WandererJoins.questNameRules.rulesStrings>
   
   <!-- UNUSED -->
   <WandererJoins.questDescriptionRules.rulesStrings />

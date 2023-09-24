@@ -65,8 +65,8 @@
     <li>image-> [PAWN_nameFull]が [circumstance_group],雪だるまを置く</li>
     <li>circumstance_phrase->[Quantity_adjphrase]枚のパーカーを着こみながら</li>
     <li>circumstance_phrase->吹雪で視界がよくない中</li>
-    <li>circumstance_phrase->[PAWN_possesive]仲間が砦を作っている最中に</li>
-    <li>circumstance_phrase->[PAWN_possesive]仲間が雪だるまファミリーを作っている中</li>
+    <li>circumstance_phrase->[PAWN_possessive]仲間が砦を作っている最中に</li>
+    <li>circumstance_phrase->[PAWN_possessive]仲間が雪だるまファミリーを作っている中</li>
     <li>desc_sentence->[Color]色のオーロラが空に輝いている.</li>
     <li>desc_sentence->遠くの[Community]が雪に覆われている.</li>
     <li>desc_sentence->雪をかぶった[Vegetable]畑が,かろうじて見える.</li>
@@ -262,7 +262,7 @@
     <li>circumstance_phrase->うんざりした表情をしつつ</li>
     <li>desc_sentence->失敗した[Quantity_adjphrase]個の試作品がこの場を取り囲んでいる.</li>
     <li>desc_sentence->[Quantity_adjphrase]の本がこの場を取り囲んでいる.</li>
-    <li>desc_sentence->[PAWN_possesive]スキルが作業の役に立っているようだ.</li>
+    <li>desc_sentence->[PAWN_possessive]スキルが作業の役に立っているようだ.</li>
     <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達がそれを見て驚いているようだ.</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]がそれを見て驚いているようだ.</li>
     <li>desc_sentence->[Quantity_adjphrase]人の古の熟練者達の魂が,空の上からそれを見ている.</li>
@@ -305,7 +305,7 @@
     <li>circumstance_phrase->見るからに疲労しつつ</li>
     <li>desc_sentence->失敗した[Quantity_adjphrase]個の試作品がこの場を取り囲んでいる.</li>
     <li>desc_sentence->[Quantity_adjphrase]冊の本がこの場を取り囲んでいる.</li>
-    <li>desc_sentence->[PAWN_possesive]スキルが作業の役に立っているようだ.</li>
+    <li>desc_sentence->[PAWN_possessive]スキルが作業の役に立っているようだ.</li>
     <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達がそれを見て驚いているようだ.</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]がそれを見て驚いているようだ.</li>
     <li>desc_sentence->[Quantity_adjphrase]人の古の熟練者達の魂が,空の上からそれを見ている.</li>
