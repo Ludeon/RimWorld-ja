@@ -4,16 +4,14 @@
   <!-- EN:
     <li>questDescription-></li>
   -->
-  <WandererJoins.questDescriptionRules.rulesStrings />
+  <WandererJoins.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </WandererJoins.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Wanderer joins</li>
   -->
   <WandererJoins.questNameRules.rulesStrings>
     <li>questName->新たな入植者</li>
   </WandererJoins.questNameRules.rulesStrings>
-  
-  <!-- UNUSED -->
-  <WandererJoins.questDescriptionRules.rulesStrings />
-  <WandererJoins.questNameRules.rulesStrings>新たな入植者</WandererJoins.questNameRules.rulesStrings>
   
 </LanguageData>

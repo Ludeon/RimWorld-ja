@@ -588,11 +588,4 @@
   <!-- EN: Speech cancelled -->
   <LetterLabelSpeechCancelled>演説が中断されました</LetterLabelSpeechCancelled>
 
-  <!-- UNUSED -->
-  <LetterLabelSurgeryFailed>{PATIENT_labelShort}の手術は失敗しました</LetterLabelSurgeryFailed>
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中にわずかなミスを犯しました({RECIPE_label}).</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は,{PATIENT_LabelShort}の手術中に致命的なミスを犯しました({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中にとんでもない失敗をしました({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中に重大なミスを犯しました. なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
-
 </LanguageData>

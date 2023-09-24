@@ -49,10 +49,6 @@
   <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさへの掛け率です.</GlobalLearningFactor.description>
   
-  <!-- UNUSED -->
-  <HungerRateMultiplier.label>飢えやすさ</HungerRateMultiplier.label>
-  <HungerRateMultiplier.description>この生物が,どのくらい早く空腹になるかの掛け率です.</HungerRateMultiplier.description>
-  
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>免疫を得る速度</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
@@ -150,9 +146,5 @@
   <ToxicResistance.label>毒耐性</ToxicResistance.label>
   <!-- EN: How well this creature resists toxic buildup. -->
   <ToxicResistance.description>この生物が毒に対してどの程度抵抗できるかです.</ToxicResistance.description>
-  
-  <!-- UNUSED -->
-  <ToxicSensitivity.label>毒に対する感受性</ToxicSensitivity.label>
-  <ToxicSensitivity.description>有毒なものの影響を受けやすい倍率を表します.</ToxicSensitivity.description>
   
 </LanguageData>

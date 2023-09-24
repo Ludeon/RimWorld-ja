@@ -5,36 +5,20 @@
   <MoodOffsetHappy.stages.genetic_optimism.label>遺伝的楽観主義</MoodOffsetHappy.stages.genetic_optimism.label>
   <!-- EN: Natural bonus from 'happy' gene. -->
   <MoodOffsetHappy.stages.genetic_optimism.description>'幸せ'遺伝子からくる自然なボーナスです.</MoodOffsetHappy.stages.genetic_optimism.description>
-  
-  <!-- UNUSED -->
-  <MoodOffsetHappy.stages.happy.label>幸せ</MoodOffsetHappy.stages.happy.label>
-  <MoodOffsetHappy.stages.happy.description>'幸せ'遺伝子からくる自然なボーナスです.</MoodOffsetHappy.stages.happy.description>
-  
+    
   <!-- EN: genetic pessimism -->
   <MoodOffsetUnhappy.stages.genetic_pessimism.label>遺伝的悲観主義</MoodOffsetUnhappy.stages.genetic_pessimism.label>
   <!-- EN: Natural penalty from 'unhappy' gene. -->
   <MoodOffsetUnhappy.stages.genetic_pessimism.description>'不幸'遺伝子からくる自然なペナルティです.</MoodOffsetUnhappy.stages.genetic_pessimism.description>
-  
-  <!-- UNUSED -->
-  <MoodOffsetUnhappy.stages.unhappy.label>不幸</MoodOffsetUnhappy.stages.unhappy.label>
-  <MoodOffsetUnhappy.stages.unhappy.description>'不幸'遺伝子からくる自然なペナルティです.</MoodOffsetUnhappy.stages.unhappy.description>
   
   <!-- EN: genetic joy -->
   <MoodOffsetVeryHappy.stages.genetic_joy.label>遺伝的幸福</MoodOffsetVeryHappy.stages.genetic_joy.label>
   <!-- EN: Natural bonus from 'very happy' gene. -->
   <MoodOffsetVeryHappy.stages.genetic_joy.description>'とても幸せ'遺伝子からくる自然なボーナスです.</MoodOffsetVeryHappy.stages.genetic_joy.description>
   
-  <!-- UNUSED -->
-  <MoodOffsetVeryHappy.stages.very_happy.label>とても幸せ</MoodOffsetVeryHappy.stages.very_happy.label>
-  <MoodOffsetVeryHappy.stages.very_happy.description>'とても幸せ'遺伝子からくる自然なボーナスです.</MoodOffsetVeryHappy.stages.very_happy.description>
-  
   <!-- EN: genetic depression -->
   <MoodOffsetVeryUnhappy.stages.genetic_depression.label>遺伝的鬱</MoodOffsetVeryUnhappy.stages.genetic_depression.label>
   <!-- EN: Natural penalty from 'very unhappy' gene. -->
   <MoodOffsetVeryUnhappy.stages.genetic_depression.description>'とても不幸'遺伝子からくる自然なペナルティです.</MoodOffsetVeryUnhappy.stages.genetic_depression.description>
-  
-  <!-- UNUSED -->
-  <MoodOffsetVeryUnhappy.stages.very_unhappy.label>とても不幸</MoodOffsetVeryUnhappy.stages.very_unhappy.label>
-  <MoodOffsetVeryUnhappy.stages.very_unhappy.description>'とても不幸'遺伝子からくる自然なペナルティです.</MoodOffsetVeryUnhappy.stages.very_unhappy.description>
   
 </LanguageData>

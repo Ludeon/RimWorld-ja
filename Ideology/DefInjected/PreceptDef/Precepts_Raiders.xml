@@ -11,10 +11,6 @@
   <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
   <Raiding_Required.comps.3.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</Raiding_Required.comps.3.thoughtStageDescriptions.1>
   
-  <!-- UNUSED -->
-  <Raiding_Required.comps.0.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</Raiding_Required.comps.0.thoughtStageDescriptions.0>
-  <Raiding_Required.comps.0.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</Raiding_Required.comps.0.thoughtStageDescriptions.1>
-  
   <!-- EN: respected -->
   <Raiding_Respected.label>尊重</Raiding_Respected.label>
   <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame. -->
@@ -24,9 +20,5 @@
   <Raiding_Respected.comps.3.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</Raiding_Respected.comps.3.thoughtStageDescriptions.0>
   <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
   <Raiding_Respected.comps.3.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</Raiding_Respected.comps.3.thoughtStageDescriptions.1>
-  
-  <!-- UNUSED -->
-  <Raiding_Respected.comps.0.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</Raiding_Respected.comps.0.thoughtStageDescriptions.0>
-  <Raiding_Respected.comps.0.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</Raiding_Respected.comps.0.thoughtStageDescriptions.1>
   
 </LanguageData>

@@ -130,17 +130,4 @@
   <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
   <AlertSlaveRebellionLikelyMostRebellious>奴隷の反乱はおよそ{COMBINEDTIME}ごとに一回発生すると予想されます.各奴隷が反乱を起こす可能性はそれぞれ独立していますが,誰かが反逆した場合,同時に他の奴隷を連れて行くこともあるので注意してください.\n\n最も反乱を起こしやすい奴隷は{REBEL_labelShort}であり,{INDIVIDUALTIME}ごとにおよそ一回反乱を起こすことが予想されます.以下の要因が,彼らの反逆する頻度に影響を与えています:</AlertSlaveRebellionLikelyMostRebellious>
   
-  <!-- UNUSED -->
-  <RitualCompletionEffects>{RITUAL_labelDef}を完了させると,以下の効果があります</RitualCompletionEffects>
-  <RitualRolesExplanation>以下の役割は{RITUAL_label}に含まれています:\n{1}</RitualRolesExplanation>
-  <RitualExpected>{0}の要求</RitualExpected>
-  <RitualExpectedFor>{0}の要求</RitualExpectedFor>
-  <RitualExpirationTime>{0}日: 儀式期間の終了</RitualExpirationTime>
-  <RitualObligationDelayEffects>{RITUAL_labelDef}が遅れると,以下の影響があります</RitualObligationDelayEffects>
-  <RitualObligationDelayEffectDesc>{0}日: 全ての{2}の心情が{1}</RitualObligationDelayEffectDesc>
-  <AlertNoRecentSlaughter>最近の屠殺がない</AlertNoRecentSlaughter>
-  <AlertNoRecentSlaughterDesc>最近,大きな{0}家畜を屠殺していません.これは以下の思想で要求される要件です</AlertNoRecentSlaughterDesc>
-  <BodySizeOrAbove>体格{0}サイズ以上</BodySizeOrAbove>
-  <AlertNoRecentSlaughterDescPost>屠殺が行われない場合,以下の入植者は不幸なままになります</AlertNoRecentSlaughterDescPost>
-
 </LanguageData>

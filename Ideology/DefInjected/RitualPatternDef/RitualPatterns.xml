@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
-  <BlindingCeremony.ritualExpectedPostfix>{0}人の{1}ができるだけ早く盲目化を行いたがっています.</BlindingCeremony.ritualExpectedPostfix>
-  
   <!-- EN: A ritualistic burning of a hated symbol. Participants will gather around a sacrificial structure, light it on fire, and celebrate as it burns to ash. -->
   <BurnCircle.descOverride>嫌悪するシンボルを儀式的に焼却します.参加者は犠牲となる建築物の周りに集まり,火を付け,燃えて灰になるのを祝います.</BurnCircle.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
@@ -11,14 +8,8 @@
   <!-- EN: symbol burning -->
   <BurnCircle.shortDescOverride>シンボル焼却</BurnCircle.shortDescOverride>
   
-  <!-- UNUSED -->
-  <BurnCircle.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</BurnCircle.ritualExpectedPostfix>
-  
   <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
   <CelebrationPartyChat.ritualExpectedDesc>毎年{DATE}に, {MEMBERS}は特別なお祝いをすることができます.</CelebrationPartyChat.ritualExpectedDesc>
-  
-  <!-- UNUSED -->
-  <CelebrationPartyChat.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationPartyChat.ritualExpectedPostfix>
   
   <!-- EN: A dance party with drums. Participants will gather, socialize, play drums, and dance to have fun and connect with each other. -->
   <CelebrationPartyDanceDrum.descOverride>太鼓を使ったダンスパーティです.参加者は集まり,交流し,太鼓を叩き,踊り,楽しみ,互いに繋がります.</CelebrationPartyDanceDrum.descOverride>
@@ -27,18 +18,12 @@
   <!-- EN: drum party -->
   <CelebrationPartyDanceDrum.shortDescOverride>ドラムパーティ</CelebrationPartyDanceDrum.shortDescOverride>
   
-  <!-- UNUSED -->
-  <CelebrationPartyDanceDrum.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationPartyDanceDrum.ritualExpectedPostfix>
-  
   <!-- EN: A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other. -->
   <CelebrationPartyDanceTech.descOverride>大音量のダンスパーティです.参加者は集まり,交流し,踊り,楽しみ,互いに繋がります.</CelebrationPartyDanceTech.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
   <CelebrationPartyDanceTech.ritualExpectedDesc>毎年{DATE}に, {MEMBERS}は特別なお祝いをすることができます.</CelebrationPartyDanceTech.ritualExpectedDesc>
   <!-- EN: dance party -->
   <CelebrationPartyDanceTech.shortDescOverride>ダンスパーティ</CelebrationPartyDanceTech.shortDescOverride>
-  
-  <!-- UNUSED -->
-  <CelebrationPartyDanceTech.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationPartyDanceTech.ritualExpectedPostfix>
   
   <!-- EN: A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away. -->
   <CelebrationSkyLanterns.descOverride>人々がスカイランタンを放つ社会的儀式です.参加者は社交を楽しみながら木製のスカイランタンを組み立て,放し,流れて行くさまを見守ります.</CelebrationSkyLanterns.descOverride>
@@ -47,18 +32,12 @@
   <!-- EN: skylantern festival -->
   <CelebrationSkyLanterns.shortDescOverride>スカイランタンフェスティバル</CelebrationSkyLanterns.shortDescOverride>
   
-  <!-- UNUSED -->
-  <CelebrationSkyLanterns.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationSkyLanterns.ritualExpectedPostfix>
-  
   <!-- EN: A party around a Christmas tree. Participants will gather around a Christmas tree and make merry. -->
   <CelebrationTree.descOverride>クリスマスツリーの周りで行うパーティです.参加者はクリスマスツリーの周りに集まり,陽気になります.</CelebrationTree.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
   <CelebrationTree.ritualExpectedDesc>毎年{DATE}に, {MEMBERS}は特別なお祝いをすることができます.</CelebrationTree.ritualExpectedDesc>
   <!-- EN: christmas tree party -->
   <CelebrationTree.shortDescOverride>クリスマスツリーパーティ</CelebrationTree.shortDescOverride>
-  
-  <!-- UNUSED -->
-  <CelebrationTree.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</CelebrationTree.ritualExpectedPostfix>
   
   <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
   <Conversion.ritualExplanation>成功した場合,対象者の信仰度が低下するか,もしくはすぐに改宗します.ただし裏目に出れば,自身の思想への信仰度が増します.</Conversion.ritualExplanation>
@@ -70,9 +49,6 @@
   <!-- EN: cannibal feast -->
   <FeastCannibal.shortDescOverride>ヒト食いの饗宴</FeastCannibal.shortDescOverride>
   
-  <!-- UNUSED -->
-  <FeastCannibal.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</FeastCannibal.ritualExpectedPostfix>
-  
   <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef} even though the body was lost. -->
   <FuneralNoCorpse.ritualExpectedDesc>遺体が失われたとしても,{PAWN_nameDef}の {IDEOLIGION_adjective}葬式を行うことができます.</FuneralNoCorpse.ritualExpectedDesc>
   <!-- EN: You can hold a funeral for {PAWN_nameDef} even though the body was lost. -->
@@ -83,18 +59,12 @@
   <!-- EN: You can hold a funeral for {PAWN_nameDef}. -->
   <FuneralStandard.ritualExpectedDescNoAdjective>{PAWN_nameDef}の葬式を行うことができます.</FuneralStandard.ritualExpectedDescNoAdjective>
   
-  <!-- UNUSED -->
-  <FuneralStandard.ritualExpectedPostfix>{0}人の{1}ができるだけ早く葬式を行いたがっています.</FuneralStandard.ritualExpectedPostfix>
-  
   <!-- EN: A ritualistic animal sacrifice. The organizer will give a speech to excite the crowd, then cut the animal's throat. Once the animal is dead, the organizer will speak some finishing words. -->
   <SacrificeAnimal.descOverride>儀式的に家畜を生贄に捧げます.主催者は観衆を興奮させるためにスピーチを行い,家畜の喉を切ります.家畜が死んだ後,主催者はいくつかの言葉を最後に話します.</SacrificeAnimal.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
   <SacrificeAnimal.ritualExpectedDesc>毎年{DATE}に, {MEMBERS}は特別なお祝いをすることができます.</SacrificeAnimal.ritualExpectedDesc>
   <!-- EN: animal sacrifice -->
   <SacrificeAnimal.shortDescOverride>家畜の生贄</SacrificeAnimal.shortDescOverride>
-  
-  <!-- UNUSED -->
-  <SacrificeAnimal.ritualExpectedPostfix>{0}人の{1}ができるだけ早く生贄を捧げたがっています.</SacrificeAnimal.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic prisoner sacrifice. The organizer will give a speech to excite the crowd, then cut the prisoner's throat. Once the prisoner is dead, organizer will speak some finishing words. -->
   <SacrificePrisoner.descOverride>儀式的に囚人を生贄に捧げます.主催者は観衆を興奮させるためにスピーチを行い,囚人の喉を切ります.囚人が死んだ後,主催者はいくつかの言葉を最後に話します.</SacrificePrisoner.descOverride>
@@ -103,20 +73,11 @@
   <!-- EN: prisoner sacrifice -->
   <SacrificePrisoner.shortDescOverride>囚人の生贄</SacrificePrisoner.shortDescOverride>
   
-  <!-- UNUSED -->
-  <SacrificePrisoner.ritualExpectedPostfix>{0}人の{1}ができるだけ早く生贄を捧げたがっています.</SacrificePrisoner.ritualExpectedPostfix>
-  
-  <!-- UNUSED -->
-  <ScarificationCeremony.ritualExpectedPostfix>{0}人の{1}ができるだけ早くスカリフィケーションを行いたがっています.</ScarificationCeremony.ritualExpectedPostfix>
-  
   <!-- EN: A ritualistic smoking of large amounts of smokeleaf. Participants will gather around a burnbong or incense shrine, light it on fire, and celebrate while inhaling the fumes. -->
   <SmokeCircle.descOverride>大量のスモークリーフを儀式的に吸います.参加者はバーンボングや香聖堂の周りに集まり,火を付け,煙を吸いながら祝います.</SmokeCircle.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
   <SmokeCircle.ritualExpectedDesc>毎年{DATE}に, {MEMBERS}は特別なお祝いをすることができます.</SmokeCircle.ritualExpectedDesc>
   <!-- EN: smokeleaf circle -->
   <SmokeCircle.shortDescOverride>スモークリーフサークル</SmokeCircle.shortDescOverride>
-  
-  <!-- UNUSED -->
-  <SmokeCircle.ritualExpectedPostfix>{0}人の{1}ができるだけ早くお祝いを行いたがっています.</SmokeCircle.ritualExpectedPostfix>
   
 </LanguageData>

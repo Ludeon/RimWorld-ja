@@ -45,10 +45,6 @@
   <!-- EN: The maximum distance to a target of this ability, or to the center of the target location. -->
   <Ability_Range.description>この能力を行使できる相手までの最大距離です.</Ability_Range.description>
   
-  <!-- UNUSED -->
-  <Ability_RequiredAmplifier.label>最低サイキックレベル</Ability_RequiredAmplifier.label>
-  <Ability_RequiredAmplifier.description>サイキック増幅インプラントが必要とする最小レベルです.</Ability_RequiredAmplifier.description>
-  
   <!-- EN: psylink level -->
   <Ability_RequiredPsylink.label>サイリンクレベル</Ability_RequiredPsylink.label>
   <!-- EN: The minimum psylink level required to use this ability. -->

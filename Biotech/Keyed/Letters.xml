@@ -214,8 +214,4 @@
   <!-- EN: {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
   <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef}は,{OTHERPAWN_nameDef}と精神的に結びついた恋愛関係を築きました.{OTHERPAWN_nameDef}は{BONDPAWN_nameDef}との繋がりから心理的に恩恵を受けますが,別のワールドタイルに分かれると,両者とも精神的ストレスで苦しむことになります.また,どちらかが死ねば,もう一方は狂気に追い込まれます.</LetterPsychicBondCreatedLovinText>
 
-  <!-- UNUSED -->
-  <LetterPartNameBaby>赤ん坊は一時的に{0_nameFull}と名付けられます. 生後{1}まで変更可能です.</LetterPartNameBaby>
-  <LetterTextInvoluntaryDeathrest>{PAWN_nameDef}は死眠に陥りました.</LetterTextInvoluntaryDeathrest>
-
 </LanguageData>
