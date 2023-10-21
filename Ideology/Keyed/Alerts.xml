@@ -83,13 +83,13 @@
   <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
   <AlertAgeReversalDemandDesc>入植者の何人かは彼らの持つ信念のために,生体改造ポッドで定期的な年齢逆転の治療を要求します.治療を受けなければ,彼らは不幸になります.</AlertAgeReversalDemandDesc>
   <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Recruit>{PAWN}は最近{FACTION}に参加し,{DURATION}で年齢逆転の治療を開始したいと考えています.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Recruit>最近{FACTION}に加わった{PAWN}は,{DURATION}後に年齢逆転の治療を受けたい考えています.</AlertAgeReversalDemandDesc_Recruit>
   <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Next>{PAWN}は{DURATION}で,次の治療を望んでいます.</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Next>{PAWN}は{DURATION}後に次の治療を受けることを望んでいます.</AlertAgeReversalDemandDesc_Next>
   <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Initial>{PAWN}は{DURATION}で,最初の治療を望んでいます.</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN}は{DURATION}後に最初の治療を受けることを望んでいます.</AlertAgeReversalDemandDesc_Initial>
   <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Overdue>{PAWN}の治療は{DURATION}によって延期されます.</AlertAgeReversalDemandDesc_Overdue>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN}の受けるべき治療は{DURATION}遅れています.</AlertAgeReversalDemandDesc_Overdue>
 
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
   <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}は{IDEO_name}の信念によって,{ANIMALS}の肉を食べることを拒絶します.</AlertRoyalTitleNoVeneratedAnimalMeat>
