@@ -134,7 +134,7 @@
   <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
   <WakeDesc>死眠から目覚めます.\n\n{PAWN_nameDef}は{DURATION}間死眠しています.</WakeDesc>
   <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
-  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}は少なくとも{TOTAL}間死眠する必要があります.早起きすると病気になり,死眠用設備からの恩恵を得られません.</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}は少なくとも{TOTAL}後までに死眠する必要があります.早起きすると病気になり,死眠用設備からの恩恵を得られません.</WakeExtraDesc_Exhaustion>
   <!-- EN: {PAWN_nameDef} can now wake safely. -->
   <WakeExtraDesc_Safe>{PAWN_nameDef}は安全に起きることができます.</WakeExtraDesc_Safe>
   <!-- EN: Cannot wake. Need at least {0} hemogen. -->
@@ -166,9 +166,9 @@
   <!-- EN: Regeneration rate -->
   <RegenerationRate>再生レート</RegenerationRate>
   <!-- EN: {PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion. -->
-  <NextDeathrestNeed>{PAWN_nameDef}は疲労を避けるため,{DURATION}間死眠する必要があります.</NextDeathrestNeed>
+  <NextDeathrestNeed>{PAWN_nameDef}は死眠不足を避けるため,{DURATION}間死眠する必要があります.</NextDeathrestNeed>
   <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
-  <PawnShouldDeathrestNow>{PAWN_nameDef}は極度の疲労を避けるため,今すぐに死眠する必要があります.</PawnShouldDeathrestNow>
+  <PawnShouldDeathrestNow>{PAWN_nameDef}は死眠不足を避けるため,今すぐに死眠する必要があります.</PawnShouldDeathrestNow>
   <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
   <AutoTakeHemogenDesc>この設定は,{PAWN_nameDef}のヘモゲン量が{MIN}を下回ったときに,ヘモゲンパックを自動で摂取するかどうかを決めます.\n\n自動摂取は現在{ONOFF}です.</AutoTakeHemogenDesc>
   <!-- EN: Consume hemogen below -->
@@ -184,9 +184,9 @@
 
   <!-- Deathrest buildings -->
   <!-- EN: Bound to -->
-  <BoundTo>接続中</BoundTo>
+  <BoundTo>接続済</BoundTo>
   <!-- EN: Will bind permanently on first use. -->
-  <WillBindOnFirstUse>最初の使用者と結びつけられます.</WillBindOnFirstUse>
+  <WillBindOnFirstUse>最初の使用者と永続的に結びつけられます.</WillBindOnFirstUse>
   <!-- EN: Time active this deathrest -->
   <TimeActiveThisDeathrest>この死眠のアクティブ時間</TimeActiveThisDeathrest>
   <!-- EN: Minimum is {0} to apply -->
@@ -512,7 +512,7 @@
   <!-- EN: Power cell -->
   <MechPowerCell>パワーコア</MechPowerCell>
   <!-- EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
-  <MechPowerCellTip>ウォーアーチンは一度限りの動力源を持っています.このパワーコアがなくなると,メカノイドは停止します.</MechPowerCellTip>
+  <MechPowerCellTip>ウォーアーチンの動力源は使い捨てです.パワーコアの残量がなくなると,このメカノイドは停止します.</MechPowerCellTip>
   
 
   <!-- Bossgroup -->
@@ -652,7 +652,7 @@
   <!-- EN: Mech stun pulse on death -->
   <MechStunPulseWarning>死亡時のメカのスタンパルス</MechStunPulseWarning>
   <!-- EN: {PAWN_nameDef} is in self-shutdown from low energy. -->
-  <IsLowEnergySelfShutdown>{PAWN_nameDef}は低エネルギーによって自己停止します.</IsLowEnergySelfShutdown>
+  <IsLowEnergySelfShutdown>{PAWN_nameDef}は低エネルギーのため自己停止中です.</IsLowEnergySelfShutdown>
   
   <!-- Pollution -->
   <!-- EN: Toggle pollution overlay. This displays which areas of terrain are polluted.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most plants cannot live on polluted terrain. -->

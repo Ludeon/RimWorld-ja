@@ -38,7 +38,7 @@
   <!-- EN: good deathrest chamber -->
   <DeathrestChamber.stages.good_deathrest_chamber.label>良い死眠室</DeathrestChamber.stages.good_deathrest_chamber.label>
   <!-- EN: I deathrested in a slightly impressive chamber. It was nice. -->
-  <DeathrestChamber.stages.good_deathrest_chamber.description>多少印象的な死眠室で死眠した.良かったよ.</DeathrestChamber.stages.good_deathrest_chamber.description>
+  <DeathrestChamber.stages.good_deathrest_chamber.description>多少印象的な死眠室で死眠した.いい感じだった.</DeathrestChamber.stages.good_deathrest_chamber.description>
   <!-- EN: great deathrest chamber -->
   <DeathrestChamber.stages.great_deathrest_chamber.label>とても良い死眠室</DeathrestChamber.stages.great_deathrest_chamber.label>
   <!-- EN: I deathrested in an impressive chamber. I feel rejuvenated. -->
@@ -50,7 +50,7 @@
   <!-- EN: exceptional deathrest chamber -->
   <DeathrestChamber.stages.exceptional_deathrest_chamber.label>格段に素晴らしい死眠室</DeathrestChamber.stages.exceptional_deathrest_chamber.label>
   <!-- EN: I deathrested in an extremely impressive chamber. It was glorious. -->
-  <DeathrestChamber.stages.exceptional_deathrest_chamber.description>極めて印象的な死眠室で死眠した.輝かんばかりだ.</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
+  <DeathrestChamber.stages.exceptional_deathrest_chamber.description>極めて印象的な死眠室で死眠した.壮観だった.</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
   <!-- EN: unbelievable deathrest chamber -->
   <DeathrestChamber.stages.unbelievable_deathrest_chamber.label>信じられないほど素晴らしい死眠室</DeathrestChamber.stages.unbelievable_deathrest_chamber.label>
   <!-- EN: I deathrested in an unbelievably impressive chamber. It was spectacular. -->
@@ -61,7 +61,7 @@
   <DeathrestChamber.stages.wondrous_deathrest_chamber.description>あんなにも豪華な死眠室で死眠できるとは!驚異的だ.</DeathrestChamber.stages.wondrous_deathrest_chamber.description>
   
   <!-- EN: deathrest exhaustion -->
-  <DeathrestExhaustion.stages.deathrest_exhaustion.label>死眠前の消耗</DeathrestExhaustion.stages.deathrest_exhaustion.label>
+  <DeathrestExhaustion.stages.deathrest_exhaustion.label>死眠不足</DeathrestExhaustion.stages.deathrest_exhaustion.label>
   <!-- EN: The casket calls and I fall weary. The world's pall makes all so dreary. I need to deathrest. -->
   <DeathrestExhaustion.stages.deathrest_exhaustion.description>棺が私を呼んでおり,私は疲れ果てた.世界に帳が下り,全てが陰気に変わってゆく.死眠する必要がある.</DeathrestExhaustion.stages.deathrest_exhaustion.description>
   
@@ -77,11 +77,11 @@
   <!-- EN: apocriton hatred (strong) -->
   <HateAura.stages.apocriton_hatred_strong.label>アポクリトンの憎悪(強)</HateAura.stages.apocriton_hatred_strong.label>
   <!-- EN: I hear its hatred echoing between my thoughts. Reasons, always reasons why my friends ought to die. -->
-  <HateAura.stages.apocriton_hatred_strong.description>私はソレの憎悪が私の思考の間に反響するのを聴いている.理由,常に私の友人たちが死なねばならない理由.</HateAura.stages.apocriton_hatred_strong.description>
+  <HateAura.stages.apocriton_hatred_strong.description>私はソレの憎悪が私の思考の間に反響するのを聴いている.理由,私の友人たちがいつ死んでもいい理由.</HateAura.stages.apocriton_hatred_strong.description>
   <!-- EN: apocriton hatred (distant) -->
   <HateAura.stages.apocriton_hatred_distant.label>アポクリトンの憎悪(弱)</HateAura.stages.apocriton_hatred_distant.label>
   <!-- EN: I feel it out there somewhere. It's always thinking about why these people deserve death. Always following the logic of murder. Hard to ignore. -->
-  <HateAura.stages.apocriton_hatred_distant.description>どこかにソレがいるのを感じる.ソレはいつも人々がなぜ死に値するのか考えている.常に殺戮の論理に従っている.無視するのは困難だ.</HateAura.stages.apocriton_hatred_distant.description>
+  <HateAura.stages.apocriton_hatred_distant.description>どこかにソレがいるのを感じる.ソレはいつも人々がなぜ死ぬべきなのか考えている.常に殺戮の論理に従っている.無視するのは困難だ.</HateAura.stages.apocriton_hatred_distant.description>
   
   <!-- EN: hemogen craving -->
   <HemogenCraving.stages.hemogen_craving-0.label>ヘモゲンの渇望</HemogenCraving.stages.hemogen_craving-0.label>
@@ -99,7 +99,7 @@
   <!-- EN: kill thirst -->
   <KillThirst.stages.kill_thirst.label>殺しの渇き</KillThirst.stages.kill_thirst.label>
   <!-- EN: Must kill... it has been too long since I have killed somebody up close and personal. -->
-  <KillThirst.stages.kill_thirst.description>殺さなきゃ...こんなに近くで個人的に誰かを殺すのは久しぶりだ.</KillThirst.stages.kill_thirst.description>
+  <KillThirst.stages.kill_thirst.description>殺さなきゃ...こんな目の前の誰かを殺すのは久しぶりだ.</KillThirst.stages.kill_thirst.description>
   
   <!-- EN: acidic smog -->
   <NoxiousHaze.stages.acidic_smog.label>酸性スモッグ</NoxiousHaze.stages.acidic_smog.label>
