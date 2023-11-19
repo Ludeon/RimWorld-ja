@@ -641,9 +641,9 @@
   <!-- EN: Negotiator: {0} (+{1}) -->
   <NegotiatorTradeDialogInfo>交渉人: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと話すことができません.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>交渉人 {1_labelShort}は健康状態が悪いため,きちんと話すことができません.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>交渉人 {1_labelShort}は病弱のため,きちんと聞くことができません.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>交渉人 {1_labelShort}は健康状態が悪いため,きちんと聞くことができません.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
