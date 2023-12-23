@@ -57,7 +57,7 @@
     <li>threatsInfoMechRaidsSingleAnimal->理由は不明ですが,[lodgersLabel]はメカノイドの巣により標的にされています.</li>
     <li>threatsInfoMechRaidsMultiAnimal->理由は不明ですが,[lodgersLabelPlural]はメカノイドの巣により標的にされています.</li>
     <li>questDescription(askerIsNull==true,lodgersCount==1)->動物救助団体が,[lodgers0_nameDef]という名の[lodgersLabel]を,[map_definite]で[shuttleDelayTicks_duration]の間保護するよう求めています.[healthInfo][threatsInfo1][commonDescEnding]</li>
-    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n動物救助活動家が[enemyFaction_name]で開催されている屠殺の儀式から[lodgers0_nameDef]を盗みました.[enemyFaction_pawnsPlural]は復讐しに向かってきています.[enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n彼らは[enemyFaction_name]で開催されている屠殺の儀式から,[lodgers0_nameDef]を盗みました.そして今,[enemyFaction_pawnsPlural]が復讐のために追っています. [lodgers0_nameDef]を受け入れた場合,[enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==false)-></li>
@@ -67,27 +67,27 @@
     <li>victim->男性</li>
     <li>victim->[PersonJob]</li>
     <li>victim(generateThreats==true,threatType==Raids)->[enemyFaction_name]の[enemyFaction_leaderTitle]の友人</li>
-    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にも,この[lodgersLabelPlural]は最近の[victim]の死に関わっていました.現在,[enemyFaction_name]の[enemyFaction_pawnsPlural]は儀式の復讐のために彼らを追い続けています.[enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にもこの[lodgersLabelPlural]は,最近起きた[victim]の死に関わっていました.そして今,[enemyFaction_name]の[enemyFaction_pawnsPlural]が儀式的な復讐のために彼らを追っています. [lodgersLabelPlural]を受け入れた場合,[enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==false)-></li>
     <li>questDescription(asker_factionLeader==True,lodgersCount==1,priority=1)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は, [asker_possessive]ペットである[lodgers0_nameDef]という名の[lodgersLabel]を,[shuttleDelayTicks_duration]の間保護する安全なコロニーを探しています.[healthInfo][threatsInfo3][commonDescEnding]</li>
-    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[enemyFaction_name]の[enemyFaction_pawnsPlural]は貧弱な[lodgers0_nameDef]を殺して[asker_nameDef]を捕らえようとしています.[enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[enemyFaction_name]の[enemyFaction_pawnsPlural]が,貧弱な[lodgers0_nameDef]を殺して[asker_nameDef]を捕らえようとしています. [lodgers0_nameDef]を受け入れた場合,[enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==false)-></li>
     <li>questDescription(asker_factionLeader==True,lodgersCount>=2,priority=1)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]からの要求です. [asker_pronoun]は[lodgersCount]匹の[lodgersLabelPlural]を,[map_definite]で[shuttleDelayTicks_duration]の間保護するよう求めています.[healthInfo][threatsInfo4][commonDescEnding]</li>
-    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgersLabelPlural]が重要な取引の約束を果たすためには[asker_nameDef]が必要です.対立を引き起こすため,[enemyFaction_name]が彼らを追う[enemyFaction_pawnsPlural]を仕向けています. [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[asker_nameDef]が重要な取引の約束を果たすためには[lodgersLabelPlural]が必要です.対立を引き起こすため,[enemyFaction_name]が[asker_pronoun]らを追って[enemyFaction_pawnsPlural]を仕向けています. [lodgers0_nameDef]を受け入れた場合,[enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==false)-></li>
     <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1,priority=1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]からの要求です. [asker_pronoun]はお気に入りのペットである[lodgers0_nameDef]という名の[lodgersLabel]を,[map_definite]で[shuttleDelayTicks_duration]の間保護するよう求めています.[healthInfo][threatsInfo5][commonDescEnding]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef]は結婚式のために[asker_nameDef]の子供に約束した贈り物です.結婚を妨害しようとするため,[enemyFaction_name]が[lodgers0_objective]を追う[enemyFaction_pawnsPlural]を仕向けています. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef]は[asker_nameDef]の子供の結婚式のために用意された贈り物です.結婚を妨害するために,[enemyFaction_name]が[lodgers0_objective]追って[enemyFaction_pawnsPlural]を仕向けています. [lodgers0_nameDef]を受け入れた場合,[enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==false)-></li>
     <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2,priority=1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]からの要求です. [asker_pronoun]は[lodgersCount]匹の[lodgersLabelPlural]を,[map_definite]で[shuttleDelayTicks_duration]の間保護するよう求めています.この[lodgersLabelPlural]は[asker_nameDef]のお気に入りのペットであり,[asker_pronoun]は自分のペットに王室の外の世界を見せたいと思っています.[healthInfo][threatsInfo6][commonDescEnding]</li>
-    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にも,[enemyFaction_name]が[asker_nameDef]を直接傷つけようと,[lodgersLabelPlural]を追っています. [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不運にも,[enemyFaction_name]が当てつけで[asker_nameDef]を傷つけようとしており,[lodgersLabelPlural]を追っています. [lodgers0_nameDef]を受け入れた場合,[enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal][enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
