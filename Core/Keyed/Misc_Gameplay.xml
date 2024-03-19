@@ -600,6 +600,8 @@
   <CannotUseGizmoMouse>TODO</CannotUseGizmoMouse>
   <!-- EN: Buildings -->
   <Buildings>設備</Buildings>
+  <!-- EN: not yet discovered -->
+  <NotYetDiscovered>TODO</NotYetDiscovered> <!-- text_todo -->
   
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1072,11 +1074,11 @@
   <!-- EN: Dessicated -->
   <RotStateDessicated>干乾びた</RotStateDessicated>
   <!-- EN: Frozen -->
-  <CurrentlyFrozen>冷凍</CurrentlyFrozen>
+  <CurrentlyFrozen>冷凍</CurrentlyFrozen> 
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>冷蔵,腐敗まで残り{0}</CurrentlyRefrigerated>
+  <CurrentlyRefrigerated>冷蔵,腐敗まで残り{0}</CurrentlyRefrigerated> 
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>常温,腐敗まで残り{0}</NotRefrigerated>
+  <NotRefrigerated>常温,腐敗まで残り{0}</NotRefrigerated> 
   <!-- EN: over a decade -->
   <OverADecade>10年間</OverADecade>
   <!-- EN: less than a day -->
@@ -1332,7 +1334,7 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
-  <ShipNoSettlementToReturnTo>戻れる入植地がありません.まず初めに入植地を作ってください.</ShipNoSettlementToReturnTo>
+  <ShipNoSettlementToReturnTo>戻れる入植地がありません.まず初めに入植地を作ってください.</ShipNoSettlementToReturnTo> 
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えました.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知されることを警告しています.\n\nこのエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるでしょう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認してください.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->

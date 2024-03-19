@@ -97,7 +97,6 @@
   <WastepacksPerRecharge.label>再充電ごとの廃棄物パック</WastepacksPerRecharge.label>
   <!-- EN: How many toxic wastepacks this mechanoid will generate at a mech recharger when going from 0 to 100% energy. Larger mechanoids will generally create more toxic wastepacks. -->
   <WastepacksPerRecharge.description>エネルギーが0から100%になる間にこのメカノイドがメカ充電器で生成する有毒廃棄物パックの数です.より大きなメカノイドは一般的に,より有毒な廃棄物パックを生成します.</WastepacksPerRecharge.description>
-  <!-- EN: Relevant stats -->
   <WastepacksPerRecharge.statFactorsExplanationHeader>関連する統計</WastepacksPerRecharge.statFactorsExplanationHeader>
   
 </LanguageData>
