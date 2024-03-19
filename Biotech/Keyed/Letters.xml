@@ -34,9 +34,9 @@
   <!-- EN: You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
   <LetterBossgroupCallerUnlocked>メカニターが{LEADER_label}を呼び出すために使用する,{PARENT_label}を作成できるようになりました.{LEADER_label}を倒すと以下のアイテムをドロップします:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
 
-  <!-- EN: {0_nameDef}'s mechlink available -->
-  <LetterLabelMechanitorCasketOpened>{0_nameDef}のメカリンクが利用可能</LetterLabelMechanitorCasketOpened>
-  <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {0_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
+  <!-- EN: {PAWN_nameDef}'s mechlink available -->
+  <LetterLabelMechanitorCasketOpened>{PAWN_nameDef}のメカリンクが利用可能</LetterLabelMechanitorCasketOpened>
+  <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {PAWN_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
   <LetterMechanitorCasketOpened>古代のメカニターの死骸を発見しました!\n\n入植者を選択して死骸を右クリックし,メカリンクを取り出してください.</LetterMechanitorCasketOpened>
   <!-- EN: Mechanitor casket found -->
   <LetterLabelMechanitorCasketFound>メカニターのカプセルを発見</LetterLabelMechanitorCasketFound>

@@ -44,8 +44,6 @@
   <WorkDisabledByQuest>クエスト'{0}'により無効</WorkDisabledByQuest>
   
   <!-- Assign tab -->
-  <!-- EN: Manage outfits -->
-  <ManageOutfits>服装を管理</ManageOutfits>
   <!-- EN: Unchangeable -->
   <Unchangeable>服装は変更不可</Unchangeable>
   <!-- EN: Clr. forced -->
@@ -56,12 +54,16 @@
   <ApparelLockedLower>ロック</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>服装を強制する</ForcedApparel>
-  <!-- EN: Edit... -->
-  <AssignTabEdit>編集...</AssignTabEdit>
+  <!-- EN: Edit -->
+  <AssignTabEdit>編集</AssignTabEdit>
+  <!-- EN: Manage apparel policies -->
+  <ManageApparelPolicies>服装ルールの管理</ManageApparelPolicies>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
-  <!-- EN: Manage food restrictions -->
-  <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
+  <ManageDrugPolicies>ドラッグルールの管理</ManageDrugPolicies>
+  <!-- EN: Manage food policies -->
+  <ManageFoodPolicies>食事ルールの管理</ManageFoodPolicies>
+  <!-- EN: Manage reading policies -->
+  <ManageReadingPolicies>TODO</ManageReadingPolicies>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
@@ -198,14 +200,22 @@
   <InProgress>研究中</InProgress>
   <!-- EN: Locked -->
   <Locked>ロック</Locked>
-  <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>研究の必要条件</ResearchPrerequisites>
+  <!-- EN: Prerequisites -->
+  <Prerequisites>必要条件</Prerequisites>
   <!-- EN: Techprints required {0} / {1} -->
   <ResearchTechprintRequirement>テックプリントが必要 {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
   <InsufficientTechprintsApplied>テックプリントが足りない ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
   <PrerequisitesNotCompleted>必要条件を満たしていない</PrerequisitesNotCompleted>
+  <!-- EN: No project active. -->
+  <NoProjectSelected>TODO</NoProjectSelected>
+  <!-- EN: Active projects -->
+  <ActiveProjectPlural>TODO</ActiveProjectPlural>
+  <!-- EN: Active project -->
+  <ActiveProject>TODO</ActiveProject>
+  <!-- EN: Stop research -->
+  <StopResearch>TODO</StopResearch>
   <!-- EN: Missing required research facilities -->
   <MissingRequiredResearchFacilities>必要な研究施設が不足している</MissingRequiredResearchFacilities>
   <!-- EN: Required research bench -->
@@ -220,6 +230,10 @@
   <TechLevelTooLow>あなたの派閥のテックレベルは{0}ですが,この研究のテックレベルは{1}です.研究速度は本来の{2}となります.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>次のものでアンロック</UnlockedWith>
+  <!-- EN: Research one or more of this project's prerequisites to discover it. -->
+  <UnknownResearchDescription>TODO</UnknownResearchDescription>
+  <!-- EN: unknown -->
+  <UnknownResearch>TODO</UnknownResearch>
 
   <!-- Factions tab -->
   <!-- EN: Factions -->
@@ -348,9 +362,27 @@
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>追加欲求</CreatesNeed>
+  <!-- EN: Change defaults... -->
+  <ChangeDefaults>TODO</ChangeDefaults>
 
   <!-- Misc -->
   <!-- EN: Click to edit -->
   <ClickToEdit>クリックして編集</ClickToEdit>
+  <!-- EN: Assign -->
+  <AssignButton>TODO</AssignButton>
+  <!-- EN: Unassign -->
+  <UnassignButton>TODO</UnassignButton>
+  
+  <!-- Books -->
+  <!-- EN: Mental break chance -->
+  <BookMentalBreakChance>TODO</BookMentalBreakChance>
+  
+  <!-- EN: Recreation gain multiplier -->
+  <BookJoyFactor>TODO</BookJoyFactor>
+  
+  <!-- UNUSED -->
+  <ManageOutfits>服装を管理</ManageOutfits>
+  <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
+  <ResearchPrerequisites>研究の必要条件</ResearchPrerequisites>
 
 </LanguageData>

@@ -5,15 +5,46 @@
   <Bioregeneration.label>生体再生</Bioregeneration.label>
   <!-- EN: Unlock the biosculpter pod's bioregeneration cycle. This cycle heals old scars, regenerates small lost body parts like fingers and toes, and cures many of the physical maladies that come with old age. -->
   <Bioregeneration.description>生体改造ポッドの生体再生サイクルのロックを解除します.このサイクルは,古傷を癒し,指やつま先などの小さな失われた部位を再生し,老化に伴う多くの身体的病気を治療します.</Bioregeneration.description>
+  <!-- EN:
+    <li>subject->bioregeneration</li>
+    <li>subject_story->studied Boomalope antler regrowth for parallels with human regeneration</li>
+    <li>subject_story->spliced salamander genetic data into [ANYPAWN_possessive] own body</li>
+    <li>subject_story->trained in a Glitterworld hospital</li>
+    <li>subject_story->completed a correspondence course in Glitterworld aesthetics</li>
+    <li>subject_gerund->regenerating the human form</li>
+    <li>subject_gerund->activating regeneration with biosculpters</li>
+  -->
+  <Bioregeneration.generalRules.rulesStrings>TODO</Bioregeneration.generalRules.rulesStrings>
   
   <!-- EN: biosculpting -->
   <Biosculpting.label>生体改造</Biosculpting.label>
   <!-- EN: Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism. -->
   <Biosculpting.description>入植者に多様な生物学的変化を施せる生体改造ポッドを建築できるようになります.これは超人類主義の信奉者にとって特に重要な装置です.</Biosculpting.description>
+  <!-- EN:
+    <li>subject->biosculpting</li>
+    <li>subject_story->constructed biosculpter pods on contract for various colonies</li>
+    <li>subject_story->studied transhumanist precepts, including the necessity of biosculpture</li>
+    <li>subject_story->researched which biological alterations could be made safely</li>
+    <li>subject_story->escaped a glitterworld support farm with these plans.</li>
+    <li>subject_story->was welcomed into a transhumanist colony</li>
+    <li>subject_gerund->constructing biosculpter pods</li>
+    <li>subject_gerund->sculpting the human form</li>
+  -->
+  <Biosculpting.generalRules.rulesStrings>TODO</Biosculpting.generalRules.rulesStrings>
   
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>ニューラルスーパーチャージャー</NeuralSupercharger.label>
   <!-- EN: Construct neural supercharger devices. Neural superchargers improve consciousness and learning rate, but they also increase hunger and the effect must be refreshed daily. Transhumanists often hold neural supercharging as an important practice. -->
   <NeuralSupercharger.description>ニューラルスーパーチャージャーを建築できるようになります.この装置は意識と学習効率を向上させますが,空腹感が増大するのに加え,効果を発揮させるために毎日再充填が必要です.トランスヒューマニストはしばしばニューラルスーパーチャージを重要な訓練とみなします.</NeuralSupercharger.description>
+  <!-- EN:
+    <li>subject->neural superchargers</li>
+    <li>subject_story->implemented neural superchargers in [ANYPAWN_possessive] boarding school</li>
+    <li>subject_story->supercharged the neurons of farmed clones to massively accelerate their development</li>
+    <li>subject_story->attempted to ban neural supercharging in the university course [ANYPAWN_pronoun] taught</li>
+    <li>subject_story->joined a transhumanist sect where neural supercharging was mandatory</li>
+    <li>subject_gerund->supercharging a human's intellect</li>
+    <li>subject_gerund->constructing neural superchargers</li>
+  -->
+  <NeuralSupercharger.generalRules.rulesStrings>TODO</NeuralSupercharger.generalRules.rulesStrings>
   
 </LanguageData>

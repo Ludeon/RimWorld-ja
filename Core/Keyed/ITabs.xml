@@ -48,8 +48,14 @@
   <TabFormingCaravan>キャラバン</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>積載物</TabTransporterContents>
+  <!-- EN: Travel -->
+  <TabMapPortalContents>TODO</TabMapPortalContents>
   <!-- EN: Contents -->
   <TabCasketContents>積載物</TabCasketContents>
+  <!-- EN: Details -->
+  <TabBookContents>TODO</TabBookContents>
+  <!-- EN: Study -->
+  <TabStudyNotesContents>TODO</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
   <TabWindTurbineAutoCut>自動刈取</TabWindTurbineAutoCut>
   
@@ -82,6 +88,8 @@
   <PasteBillTip>ペースト</PasteBillTip>
   <!-- EN: can't add more -->
   <PasteBillTip_LimitReached>これ以上追加できません</PasteBillTip_LimitReached>
+  <!-- EN: Finishes in -->
+  <FinishesIn>終了</FinishesIn>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance -->
@@ -104,10 +112,10 @@
   <NotWhileAsleep>眠っていない時</NotWhileAsleep>
   <!-- EN: Breaking out now -->
   <CurrentlyPrisonBreaking>脱獄している</CurrentlyPrisonBreaking>
-  <!-- EN: Multiplier for door count -->
-  <FactorForDoorCount>ドア数の掛け率</FactorForDoorCount>
-  <!-- EN: Multiplier for movement -->
-  <FactorForMovement>移動速度の掛け率</FactorForMovement>
+  <!-- EN: Door count -->
+  <FactorForDoorCount>ドアの数</FactorForDoorCount>
+  <!-- EN: Movement -->
+  <FactorForMovement>移動速度</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>奴隷価格</SlavePrice>
   <!-- EN: The base market value of this slave if sold. -->
@@ -138,6 +146,8 @@
   <NonRecruitableTip>この囚人は自分の派閥に揺るぎない忠誠心を持つため,勧誘されることを完全に拒否しています.</NonRecruitableTip>
   <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
   <NonRecruitableTipCannotConvert>この人物らの忠誠心は信条にまで及んでいるため,改宗させることができません.</NonRecruitableTipCannotConvert>
+  <!-- EN: What type of medicine can be given to this prisoner. -->
+  <MedicineQualityDescriptionPrisoner>TODO</MedicineQualityDescriptionPrisoner>
 
 
 
@@ -213,13 +223,19 @@
   <PainFactor>苦痛</PainFactor>
   <!-- EN: Prevents infection -->
   <PreventsInfection>感染予防</PreventsInfection>
-  <!-- EN: Self-tend -->
-  <SelfTend>自己治療</SelfTend>
+  <!-- EN: Allow self-tend -->
+  <AllowSelfTend>自己治療を許可</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0}の自己治療を有効にすると,通常の{1}の効率で,自動的にその場において,彼ら自身を治療します.</SelfTendTip>
+  <AllowSelfTendTip>{0}の自己治療を有効にすると,通常の{1}の効率で,自動的にその場で自分自身の治療を行うようになります.</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>{0}後に死亡</DeathIn>
-  
+  <!-- EN: Allow medicine -->
+  <AllowMedicine>TODO</AllowMedicine>
+  <!-- EN: What type of medicine can be given to this person. -->
+  <MedicineQualityDescription>TODO</MedicineQualityDescription>
+  <!-- EN: What type of food can be given to this person. -->
+  <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
+
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>なし</None>
@@ -422,5 +438,21 @@
 
   <!-- EN: Auto-cut blocking plants -->
   <WindTurbineAutoCut_EnabledCheckbox>妨害する植物の自動伐採</WindTurbineAutoCut_EnabledCheckbox>
+  
+  <!-- Study tab  -->
+  <!-- EN: Study progress -->
+  <StudyNotesTab_StudyProgress>TODO</StudyNotesTab_StudyProgress>
+  <!-- EN: Ongoing -->
+  <StudyNotesTab_StudyProgressOngoing>TODO</StudyNotesTab_StudyProgressOngoing>
+  <!-- EN: Completed -->
+  <StudyNotesTab_StudyProgressCompleted>TODO</StudyNotesTab_StudyProgressCompleted>
+  <!-- EN: Toggle study -->
+  <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
+  <!-- EN: No discoveries yet -->
+  <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
+
+  <!-- UNUSED -->
+  <SelfTend>自己治療</SelfTend>
+  <SelfTendTip>{0}の自己治療を有効にすると,通常の{1}の効率で,自動的にその場において,彼ら自身を治療します.</SelfTendTip>
 
 </LanguageData>

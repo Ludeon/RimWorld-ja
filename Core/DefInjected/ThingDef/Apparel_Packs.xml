@@ -6,21 +6,29 @@
   <!-- EN: A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer. -->
   <Apparel_FirefoampopPack.description>消火隊のために作られたユーティリティパックです.起動すると難燃性の泡が爆発的に放出され,着用者の周りを広い円で覆います.</Apparel_FirefoampopPack.description>
   <!-- EN: firefoam pop -->
-  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>消火剤ポップ</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>消火剤ポップ</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>クールダウン</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: pop firefoam -->
   <Apparel_FirefoampopPack.verbs.pop_firefoam.label>消火剤を展開</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+  
+  <!-- UNUSED -->
+  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>消火剤ポップ</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
   
   <!-- EN: smokepop pack -->
   <Apparel_SmokepopBelt.label>スモークポップパック</Apparel_SmokepopBelt.label>
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
   <Apparel_SmokepopBelt.description>使い捨ての自動展張する防御用スモークスクリーンです.弾丸が装備に当たると煙幕を張り,覆い隠してロックオンを防ぎます.</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
-  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>スモークポップ</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>スモークポップ</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>クールダウン</Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: pop smoke -->
   <Apparel_SmokepopBelt.verbs.pop_smoke.label>煙幕を展開</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+  
+  <!-- UNUSED -->
+  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>スモークポップ</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
   
 </LanguageData>

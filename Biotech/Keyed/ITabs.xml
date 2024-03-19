@@ -127,8 +127,8 @@
   <RomanceWarningPolygamous>{0_nameDef}にはすでに{1}人のパートナーがいます.</RomanceWarningPolygamous>
 
   <!-- Guest tab (prisoners) -->
-  <!-- EN: Multiplier for genes -->
-  <FactorForGenes>遺伝子の掛け率です.</FactorForGenes>
+  <!-- EN: Genes -->
+  <FactorForGenes>遺伝子です.</FactorForGenes>
   <!-- EN: Prison breaking is disabled by {GENE_label} gene. -->
   <PrisonBreakingDisabledDueToGene>脱獄は{GENE_label}の遺伝子によって無効にされています.</PrisonBreakingDisabledDueToGene>
 

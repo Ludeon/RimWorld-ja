@@ -11,13 +11,13 @@
   <!-- EN: I used a filthy weapon which ought never to be used. How humiliating. -->
   <UsedDespisedWeapon.stages.used_despised_weapon.description>絶対に使ってはならない卑しい武器を使った.なんて屈辱的なんだ.</UsedDespisedWeapon.stages.used_despised_weapon.description>
   
-  <!-- EN: wielding {WEAPON_label} -->
-  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>{WEAPON_label}を装備</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
-  <!-- EN: I am wielding a {WEAPON_label}. Such a noble weapon! -->
-  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>{WEAPON_label}を使っている. なんて誉れ高い武器なんだ!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
-  <!-- EN: wielding {WEAPON_label} -->
-  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>{WEAPON_label}を装備</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
-  <!-- EN: I am wielding a {WEAPON_label}. Such a detestable weapon! -->
-  <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>{WEAPON_label}を使っている. なんて卑しい武器なんだ!</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
+  <!-- EN: wielding {WEAPON} -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>{WEAPON}を装備</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
+  <!-- EN: I am wielding {WEAPON_indefinite}. Such a noble weapon! -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>{WEAPON_indefinite}を使っている. なんて誉れ高い武器なんだ!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
+  <!-- EN: wielding {WEAPON} -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>{WEAPON}を装備</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
+  <!-- EN: I am wielding {WEAPON_indefinite}. Such a detestable weapon! -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>{WEAPON_indefinite}を使っている. なんて卑しい武器なんだ!</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
   
 </LanguageData>

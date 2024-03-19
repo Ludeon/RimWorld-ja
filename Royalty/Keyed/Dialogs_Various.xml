@@ -28,8 +28,6 @@
   <RoyalTitleRequiredMeals>許容される食料</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
   <RoyalTitleRequiredMealsDesc>この爵位の保持者は飢餓状態かキャラバン中でない限り,これらの食料のみを食べます.</RoyalTitleRequiredMealsDesc>
-  <!-- EN: Choose who should participate in bestowing ceremony. -->
-  <ChooseParticipantsBestow>授与式に誰が参加するかを選んでください.</ChooseParticipantsBestow>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
@@ -76,5 +74,8 @@
   <SendShuttleWithNoContents>このシャトルには何も積載されていません.これを別の場所に送ると,再び使うことができなくなります.\n\n本当にシャトルを送りますか?</SendShuttleWithNoContents>
   <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
   <DropResourcesOverweightConfirm>この資源はキャラバン隊の積荷を圧迫し,動けなくしてしまうでしょう.\n\n本当にこの資源を要求しますか?</DropResourcesOverweightConfirm>
+
+  <!-- UNUSED -->
+  <ChooseParticipantsBestow>授与式に誰が参加するかを選んでください.</ChooseParticipantsBestow>
 
 </LanguageData>

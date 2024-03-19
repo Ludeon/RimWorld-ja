@@ -3,8 +3,8 @@
   
   <!-- EN: drill arm -->
   <DrillArm.label>ドリルアーム</DrillArm.label>
-  <!-- EN: An installed drill arm. -->
-  <DrillArm.description>ドリルアームが装着済み.</DrillArm.description>
+  <!-- EN: An installed drill arm. Allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <DrillArm.description>移植されたドリルアームです.石目を素早く発見して,効率的に採掘できます.また,汎用のマニュピレータも備えられています.やや不格好な形状をしているため,移動速度が少しだけ遅くなってしまいます.</DrillArm.description>
   <!-- EN: drill -->
   <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>ドリル</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
   <!-- EN: a drill arm -->
@@ -12,8 +12,8 @@
   
   <!-- EN: elbow blade -->
   <ElbowBlade.label>エルボーブレード</ElbowBlade.label>
-  <!-- EN: An installed elbow blade. -->
-  <ElbowBlade.description>エルボーブレードが装着済み.</ElbowBlade.description>
+  <!-- EN: An installed elbow blade. Extends at will from a hidden opening at the end of the ulna. Appearing without warning, it can be used for devastating slice attacks. -->
+  <ElbowBlade.description>移植されたエルボーブレードです.尺骨の端に隠された開口部から刃を自在に伸ばすことができます.警告なく飛び出して,致命の一撃を加えられます.</ElbowBlade.description>
   <!-- EN: blade -->
   <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>ブレード</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
   <!-- EN: an elbow blade -->
@@ -21,8 +21,8 @@
   
   <!-- EN: field hand -->
   <FieldHand.label>フィールドハンド</FieldHand.label>
-  <!-- EN: An installed field hand. -->
-  <FieldHand.description>フィールドハンドが装着済み.</FieldHand.description>
+  <!-- EN: An installed field hand. Made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <FieldHand.description>移植されたフィールドハンドです.種まきや収穫などの農作業の速度を上げることができます.複数の伸縮自在な指状突起が,同種の植物の一斉収穫や,複数の穴への一括種まきを可能とします.また,汎用のマニュピレータも備えられています.やや不格好な形状をしているため,移動速度が少しだけ遅くなってしまいます.</FieldHand.description>
   <!-- EN: knuckle -->
   <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>ナックル</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
   <!-- EN: a field hand -->
@@ -30,8 +30,8 @@
   
   <!-- EN: hand talon -->
   <HandTalon.label>隠し鉤爪</HandTalon.label>
-  <!-- EN: An installed hand talon. -->
-  <HandTalon.description>隠し鉤爪が装着済み.</HandTalon.description>
+  <!-- EN: An installed hand talon. Extends from a hidden opening between the middle and ring fingers. The talon is longer than the palm, but it becomes flexible upon retracting, allowing the user to curl it up and conceal it inside the hand. It can perform rapid slashing attacks, but is poor at penetrating armor. -->
+  <HandTalon.description>移植された隠し鉤爪です.</HandTalon.description>
   <!-- EN: talon -->
   <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>鉤爪</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
   <!-- EN: a hand talon -->
@@ -39,8 +39,8 @@
   
   <!-- EN: knee spike -->
   <KneeSpike.label>ニースパイク</KneeSpike.label>
-  <!-- EN: An installed knee spike. -->
-  <KneeSpike.description>ニースパイクが装着済み.</KneeSpike.description>
+  <!-- EN: An installed knee spike. Extends at will from a hidden opening on the front of the knee. Appearing without warning, it can be used for devastating stabbing attacks which penetrate even thick armor. -->
+  <KneeSpike.description>移植されたニースパイクです.中指と薬指の間に隠された開口部から鋭い爪が飛び出します.爪自体は手のひらよりも長いですが,収納時には柔らかくなるため,装着者は掌中に隠すことができます.高速斬撃を使用できますが装甲には効果が薄いです.</KneeSpike.description>
   <!-- EN: spike -->
   <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>スパイク</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
   <!-- EN: a knee spike -->
@@ -48,15 +48,15 @@
   
   <!-- EN: mindscrew -->
   <Mindscrew.label>マインドスクリュー</Mindscrew.label>
-  <!-- EN: An installed mindscrew. -->
-  <Mindscrew.description>マインドスクリューが装着済み.</Mindscrew.description>
+  <!-- EN: An installed mindscrew. Inflicts continuous pain on the user. Mindscrews are used by some authorities as a long-term punishment. Some even install them voluntarily as a demonstration of ideological or religious devotion. -->
+  <Mindscrew.description>移植されたマインドスクリューです.装着者に持続的な苦痛を与えます.マインドスクリューは一部の政府によって長期罰の措置として用いられています.イデオロギー的,ないしは宗教的奉献身のデモンストレーションとして,自発的に装着する者もいます.</Mindscrew.description>
   <!-- EN: a mindscrew -->
   <Mindscrew.labelNoun>マインドスクリュー</Mindscrew.labelNoun>
   
   <!-- EN: venom fangs -->
   <VenomFangs.label>毒牙</VenomFangs.label>
-  <!-- EN: An installed set of venom fangs. -->
-  <VenomFangs.description>毒牙が装着済み.</VenomFangs.description>
+  <!-- EN: An installed set of venom fangs. The user can bite an enemy, extend the injectors, and pump venom into the target. -->
+  <VenomFangs.description>移植された毒牙です.敵を噛むことによって注射針を差し込み,毒物を送り込むことができます.</VenomFangs.description>
   <!-- EN: venom fangs -->
   <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>毒牙</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
   <!-- EN: a set of venom fangs -->
@@ -64,8 +64,8 @@
   
   <!-- EN: venom talon -->
   <VenomTalon.label>毒爪</VenomTalon.label>
-  <!-- EN: An installed venom talon. -->
-  <VenomTalon.description>毒爪が装着済み.</VenomTalon.description>
+  <!-- EN: An installed venom talon. The user can scratch an enemy while squirting venom into the wound. The talon is designed to be installed in the middle finger. It's fast, but poor at penetrating armor. -->
+  <VenomTalon.description>移植された毒爪です.敵をひっかくことで傷口に毒液を塗りつけることができます.爪は中指に取り付けるように設計されています.高速ですが装甲には効果が薄いです.</VenomTalon.description>
   <!-- EN: venom talon -->
   <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>毒爪</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
   <!-- EN: a venom talon -->

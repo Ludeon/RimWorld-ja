@@ -29,6 +29,8 @@
   <DeleteCustom>カスタムを削除</DeleteCustom>
   <!-- EN: Create new -->
   <CreateNew>新規作成</CreateNew>
+  <!-- EN: Create fluid -->
+  <CreateFluid>TODO</CreateFluid>
   <!-- EN: Load existing -->
   <LoadExisting>現在の設定をロード</LoadExisting>
   <!-- EN: Create custom ideoligion -->
@@ -99,6 +101,10 @@
   <SetIdeoColor>思想の色に設定</SetIdeoColor>
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>好きな色に設定</SetFavoriteColor>
+  <!-- EN: {PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
+  <FavoriteColorPickerTip>TODO</FavoriteColorPickerTip>
+  <!-- EN: {PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
+  <IdeoColorPickerTip>TODO</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>派閥の思想を設定する</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
@@ -388,7 +394,7 @@
 
   <!-- EN: Relic info found -->
   <RelicInfoFound>レリックの情報が見つかった</RelicInfoFound>
-  <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
+  <!-- EN: inactive, requires at least {0} {1}s (have {2}) -->
   <InactiveRoleRequiresMoreBelievers>少なくとも{0}個の非活性な{1}が必要(現在{2}個)</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->
@@ -650,7 +656,7 @@
   <!-- EN: On completion of the {CYCLE} cycle, the following will occur -->
   <OnCompletionOfCycle>{CYCLE}のサイクルが完了すると,次のようになります</OnCompletionOfCycle>
   <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue? -->
-  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続行しますか?</BiosculpterNoCoditionsToHeal>
+  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}には{CYCLE}のサイクルで回復できる状態異常がありません.\n\n本当に続けますか?</BiosculpterNoCoditionsToHeal>
 
   <!-- EN: basic -->
   <Basic>ベーシック</Basic>

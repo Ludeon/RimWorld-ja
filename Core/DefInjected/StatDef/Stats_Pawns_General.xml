@@ -19,20 +19,32 @@
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>この生物が,手や口,その他の器官を使って運べる物量です.\n\nこれはワールドマップを縦断するときの運搬能力とは別です.</CarryingCapacity.description>
   
-  <!-- EN: Maximum comfortable temperature -->
+  <!-- EN: max comfortable temperature -->
   <ComfyTemperatureMax.label>快適と感じる最高気温</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>この温度を上回るとキャラクターは不満を感じるでしょう.\n\n大きく上回ると,熱中症,そして死に至ります.</ComfyTemperatureMax.description>
   
-  <!-- EN: Minimum comfortable temperature -->
+  <!-- EN: min comfortable temperature -->
   <ComfyTemperatureMin.label>快適と感じる最低気温</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>この温度を下回るとキャラクターは不満を感じるでしょう.\n\n大きく下回ると,低体温,凍傷,そして死に至ります.</ComfyTemperatureMin.description>
+  
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>TODO</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>TODO</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>TODO</CrawlSpeed.formatString>
   
   <!-- EN: eating speed -->
   <EatingSpeed.label>食事の早さ</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
   <EatingSpeed.description>食事の早さに掛ける倍率です.</EatingSpeed.description>
+  
+  <!-- EN: EMP resistance -->
+  <EMPResistance.label>EMP耐性</EMPResistance.label>
+  <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
+  <EMPResistance.description>このメカノイドには,EMPダメージの影響をこのパーセンテージだけ軽減する特別なシールドと衝撃分散フィラメントが搭載されています.これにより,EMPによるスタン時間が短縮されます.</EMPResistance.description>
   
   <!-- EN: filth rate -->
   <FilthRate.label>床の汚しやすさ</FilthRate.label>
@@ -58,6 +70,11 @@
   <InjuryHealingFactor.label>傷の治りやすさ</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
   <InjuryHealingFactor.description>傷の治る速度に適用される掛け率です.</InjuryHealingFactor.description>
+  
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>TODO</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>TODO</JoyFallRateFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>生皮の量</LeatherAmount.label>

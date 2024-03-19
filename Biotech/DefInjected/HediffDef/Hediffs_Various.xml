@@ -22,8 +22,9 @@
   <GeneticDrugNeed.description>この人物は導入された遺伝的により,特定の薬物に生化学的に依存しています.必要な薬物を定期的に摂取しなかった場合,体の健康状態を維持できず,死ぬまで健康と気分の低下に苦しみます.\n\nこの効果が発現する年齢:13歳以降</GeneticDrugNeed.description>
   <!-- EN: deficiency -->
   <GeneticDrugNeed.stages.deficiency.label>薬物不足</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.deficiency.overrideLabel>薬物不足による昏睡</GeneticDrugNeed.stages.deficiency.overrideLabel>
   <!-- EN: deficiency coma -->
-  <GeneticDrugNeed.stages.2.overrideLabel>薬物不足による昏睡</GeneticDrugNeed.stages.2.overrideLabel>
+  <GeneticDrugNeed.stages.3.overrideLabel>薬物不足による昏睡</GeneticDrugNeed.stages.3.overrideLabel>
   
   <!-- EN: hemogen craving -->
   <HemogenCraving.label>ヘモゲンの渇望</HemogenCraving.label>

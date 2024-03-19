@@ -92,9 +92,9 @@
     <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription(animalCount==1)->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)人狩りの[animalKind_label](/Threat)が[joiner_objective]を追跡しています!\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,[animalKind_label]の獣が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>questDescription(animalCount==1)->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)人狩りの[animalKind_label](/Threat)に追われているそうです!\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,[animalKind_label]の獣が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
     <li>manhunterArrivalLetterEnd(animalCount==1)->[animalKind_label]が[joiner_nameDef]を追跡している.</li>
-    <li>questDescription(animalCount>=2)->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)[animalCount]匹の人狩りの[animalKind_labelPlural]の群れ(/Threat)が[joiner_objective]追跡しています!\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,人狩り[animalKind_labelPlural]が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>questDescription(animalCount>=2)->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]によると,(*Threat)[animalCount]匹の人狩りの[animalKind_labelPlural]の群れ(/Threat)に追われているそうです!\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,人狩り[animalKind_labelPlural]が[manhuntersDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
     <li>manhunterArrivalLetterEnd(animalCount>=2)->[animalKind_labelPlural]が[joiner_nameDef]を追跡している.</li>
     <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
     <li>introduction->[joiner_age]歳の[joiner_title]</li>
@@ -126,7 +126,7 @@
     <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]はあなたの[map_definite]に加えてほしいと懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]の後を何らかの脅威が追跡しているようですが,[joiner_pronoun]はそれが何なのか,いつから追跡されているのか話したがりません.また,[joiner_pronoun]は自分自身のことについても口を閉ざしています.</li>
+    <li>questDescription->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]はあなたの[map_definite]に加えてほしいと懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]は何らかの脅威に追跡されているようですが,[joiner_pronoun]はそれが何なのか,いつから追跡されているのか話したがりません.また,[joiner_pronoun]は自分自身のことについても口を閉ざしています.</li>
     <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
     <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>

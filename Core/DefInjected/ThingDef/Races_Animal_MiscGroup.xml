@@ -7,8 +7,12 @@
   <Alphabeaver.description>機械のような効率で木を集めるために遺伝子操作された,ビーバーのような大きな生き物です.彼ら専用の飼料が欠乏したとき,木全体を食べてしまう躁状態になります.そして邪魔をすれば,おそらく攻撃してきます.</Alphabeaver.description>
   <!-- EN: left claw -->
   <Alphabeaver.tools.left_claw.label>左爪</Alphabeaver.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.left_claw.labelNoLocation>TODO</Alphabeaver.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Alphabeaver.tools.right_claw.label>右爪</Alphabeaver.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.right_claw.labelNoLocation>TODO</Alphabeaver.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Alphabeaver.tools.head.label>頭部</Alphabeaver.tools.head.label>
   
@@ -31,8 +35,12 @@
   <Thrumbo.tools.horn.label>角</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->
   <Thrumbo.tools.left_foot.label>左足</Thrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.left_foot.labelNoLocation>TODO</Thrumbo.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
   <Thrumbo.tools.right_foot.label>右足</Thrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.right_foot.labelNoLocation>TODO</Thrumbo.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
   <Thrumbo.tools.head.label>頭部</Thrumbo.tools.head.label>
   

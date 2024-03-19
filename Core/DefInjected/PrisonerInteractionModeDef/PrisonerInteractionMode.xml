@@ -9,15 +9,19 @@
   <!-- EN: execute -->
   <Execution.label>処刑</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
-  <Execution.description>その場で囚人を切って処刑します.これはほかの囚人や入植者の心情に影響を与える可能性があります.</Execution.description>
+  <Execution.description>その場で囚人を切って処刑します.この行為は他の囚人や入植者の心情に影響を与える可能性があります.</Execution.description>
   
-  <!-- EN: no interaction -->
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>不干渉</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>囚人と対話せず,食事と必需品の支給のみを行います.</MaintainOnly.description>
+  
+  <!-- UNUSED -->
   <NoInteraction.label>相互交流無し</NoInteraction.label>
-  <!-- EN: Wardens will not interact with the prisoner. -->
   <NoInteraction.description>囚人と対話を行いません.</NoInteraction.description>
   
-  <!-- EN: reduce resistance -->
-  <ReduceResistance.label>敵対心を緩和</ReduceResistance.label>
+  <!-- EN: reduce resistance only -->
+  <ReduceResistance.label>雑談のみ</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
   <ReduceResistance.description>囚人にまだ敵対心が残っている場合,看守はそれを減らすために対話します.勧誘の試みは行いません.</ReduceResistance.description>
   

@@ -8,6 +8,13 @@
   <!-- EN: charge blaster turret -->
   <Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>チャージブラスタータレット</Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>
   
+  <!-- EN: apocriton -->
+  <Mech_Apocriton.label>アポクリトン</Mech_Apocriton.label>
+  <!-- EN: A mechanoid commander designed to coordinate and motivate other mechs during long extermination campaigns. Its most obvious power is its ability to resurrect recently-killed mechs by supercharging their self-repair processes. Less obviously, it is intelligent and psychically present, radiating hatred into the minds of anyone in a wide radius. It can also move quickly with its built-in jump launcher.\n\nWhile all mechanoids have a dim psychically-present intelligence, only the apocriton and a few others truly feel hatred for their victims and understand the suffering they inflict. -->
+  <Mech_Apocriton.description>長期殲滅作戦時に他のメカノイド集団を管理及び統率するメカノイドの司令官です.最大の特徴は機能停止したメカノイドの自己修復プロセスをオーバーライドすることによって再生させることです.明白ではありませんが,彼らは知性と精神性を有し,広範囲に対して憎悪の波動を振りまいています.ジャンプランチャーを内蔵しており,素早い移動も可能です.\n\nすべてのメカノイドに微かな精神性と知性がありますが,実際のところアポクリトンと他の極小数だけが,彼らの払う犠牲を憎み,同時に彼らの与える苦痛を理解しています.</Mech_Apocriton.description>
+  <!-- EN: head -->
+  <Mech_Apocriton.tools.head.label>頭部</Mech_Apocriton.tools.head.label>
+  
   <!-- EN: centurion -->
   <Mech_Centurion.label>センチュリオン</Mech_Centurion.label>
   <!-- EN: An ultraheavy mech with a built-in shield bubble generator. The centurion carries a point-defense bulb turret capable of firing while the mechanoid is moving. -->

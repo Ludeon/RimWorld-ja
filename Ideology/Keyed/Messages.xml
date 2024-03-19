@@ -78,8 +78,10 @@
   <MessageCharityEventFulfilled>慈善行為を遂行した</MessageCharityEventFulfilled>
   <!-- EN: {0} are leaving empty-handed. -->
   <MessageBeggarsLeavingWithNoItems>{0}達は何も持たずに立ち去ります.</MessageBeggarsLeavingWithNoItems>
+  <!-- EN: The {0} has accepted the requested items and is leaving. -->
+  <MessageBeggarsLeavingWithItemsSingular>{0}は要求したアイテムを受け取り立ち去ります.</MessageBeggarsLeavingWithItemsSingular>
   <!-- EN: {0} have accepted the requested items and are leaving. -->
-  <MessageBeggarsLeavingWithItems>{0}は要求したアイテムを受け取り立ち去ります.</MessageBeggarsLeavingWithItems>
+  <MessageBeggarsLeavingWithItemsPlural>{0}たちは要求したアイテムを受け取り立ち去ります.</MessageBeggarsLeavingWithItemsPlural>
   <!-- EN: {0_nameDef} died without any treatment. -->
   <MessageWandererLeftToDie>{0_nameDef}は何の治療も受けられずに死にました.</MessageWandererLeftToDie>
   <!-- EN: {0_nameDef} was recruited. -->
@@ -151,5 +153,8 @@
   <MessageDevelopmentPointsEarned>発展ポイントが{0}から{1}({2})に変更されました.</MessageDevelopmentPointsEarned>
   <!-- EN: Only one change to structures, memes and styles is allowed. -->
   <MessageFluidIdeoOneChangeAllowed>構造,ミーム,スタイルの変更は一つだけ許可されています.</MessageFluidIdeoOneChangeAllowed>
+
+  <!-- UNUSED -->
+  <MessageBeggarsLeavingWithItems>{0}は要求したアイテムを受け取り立ち去ります.</MessageBeggarsLeavingWithItems>
 
 </LanguageData>

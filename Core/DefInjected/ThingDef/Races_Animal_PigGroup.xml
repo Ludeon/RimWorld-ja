@@ -7,8 +7,12 @@
   <Chinchilla.description>小さくて,すばしっこい齧歯類です.その毛皮は宇宙の中のほぼ全てより柔らかく,貿易品として非常に価値のある品です.</Chinchilla.description>
   <!-- EN: left claw -->
   <Chinchilla.tools.left_claw.label>左爪</Chinchilla.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.left_claw.labelNoLocation>TODO</Chinchilla.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Chinchilla.tools.right_claw.label>右爪</Chinchilla.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.right_claw.labelNoLocation>TODO</Chinchilla.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Chinchilla.tools.head.label>頭部</Chinchilla.tools.head.label>
   
@@ -20,8 +24,12 @@
   <Deer.race.meatLabel>鹿肉</Deer.race.meatLabel>
   <!-- EN: left hoof -->
   <Deer.tools.left_hoof.label>左蹄</Deer.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.left_hoof.labelNoLocation>TODO</Deer.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Deer.tools.right_hoof.label>右蹄</Deer.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.right_hoof.labelNoLocation>TODO</Deer.tools.right_hoof.labelNoLocation>
   <!-- EN: teeth -->
   <Deer.tools.teeth.label>歯</Deer.tools.teeth.label>
   <!-- EN: head -->
@@ -33,8 +41,12 @@
   <Gazelle.description>小さくて,非常にすばしっこいアンテロープは,信じられないくらいのロングジャンプをすることで有名です.</Gazelle.description>
   <!-- EN: left hoof -->
   <Gazelle.tools.left_hoof.label>左蹄</Gazelle.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.left_hoof.labelNoLocation>TODO</Gazelle.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Gazelle.tools.right_hoof.label>右蹄</Gazelle.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.right_hoof.labelNoLocation>TODO</Gazelle.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Gazelle.tools.head.label>頭部</Gazelle.tools.head.label>
   
@@ -44,8 +56,12 @@
   <Ibex.description>飼いならされたヤギの,野生で頑健な祖先です.アイベックスは,ほとんどのカモシカが生きていけない山岳の辺境に住んでおり,地衣類や,わずかな山岳植物を食べています.彼らは,岩肌の露出した崖を,巧みにジャンプすることで有名であり,それはまた,強烈な体当たり攻撃にもなります.</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>左蹄</Ibex.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.left_hoof.labelNoLocation>TODO</Ibex.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Ibex.tools.right_hoof.label>右蹄</Ibex.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.right_hoof.labelNoLocation>TODO</Ibex.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Ibex.tools.head.label>頭部</Ibex.tools.head.label>
   

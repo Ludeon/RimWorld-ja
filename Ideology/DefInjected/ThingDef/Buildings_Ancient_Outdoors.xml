@@ -18,8 +18,8 @@
   
   <!-- EN: ancient container -->
   <AncientContainer.label>古代のコンテナ</AncientContainer.label>
-  <!-- EN: A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorated into uselessness. -->
-  <AncientContainer.description>古代の貨物輸送車両に付属していた大きなコンテナです.長い期間をかけて略奪され,劣化して役に立たなくなっています.</AncientContainer.description>
+  <!-- EN: A shipping container from some ancient freight-carrying vehicle. It has long since deteriorated into uselessness. -->
+  <AncientContainer.description>古代の貨物輸送車両に付属していた輸送用コンテナです.長い年月をかけて劣化し,役に立たなくなっています.</AncientContainer.description>
   
   <!-- EN: ancient dropship engine -->
   <AncientDropshipEngine.label>古代のドロップシップエンジン</AncientDropshipEngine.label>
@@ -65,11 +65,6 @@
   <AncientLongCrate.label>古代の長方形容器</AncientLongCrate.label>
   <!-- EN: A long, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
   <AncientLongCrate.description>>はるか昔に放棄された長くて空の容器です.錆だらけで何も入れられそうにありません.</AncientLongCrate.description>
-  
-  <!-- EN: mechanoid detritus -->
-  <AncientMechDetritus.label>メカノイドの破片</AncientMechDetritus.label>
-  <!-- EN: The remains of a smashed mechanoid. All the useful components and materials are ruined or missing. -->
-  <AncientMechDetritus.description>破壊されたメカノイドの残骸です.すべての有用なコンポーネントと材料が台無しになっているか,欠落しています.</AncientMechDetritus.description>
   
   <!-- EN: ancient mech drop beacon -->
   <AncientMechDropBeacon.label>古代のメカノイドのビーコン</AncientMechDropBeacon.label>

@@ -31,6 +31,11 @@
   <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
   <FenceGate.description>支柱と横木で作られたシンプルなゲートです.フェンスと同じように,一部の家畜の移動を妨げます.調教師は,このゲートを通って家畜を囲いの内外に誘導します.</FenceGate.description>
   
+  <!-- EN: ornate door -->
+  <OrnateDoor.label>TODO</OrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <OrnateDoor.description>TODO</OrnateDoor.description>
+  
   <!-- EN: wall -->
   <Wall.label>壁</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->

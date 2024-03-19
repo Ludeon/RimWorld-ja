@@ -1,19 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: acid burn -->
-  <AcidBurn.label>酸熱傷</AcidBurn.label>
-  <!-- EN: An acid burn. -->
-  <AcidBurn.description>酸熱傷.</AcidBurn.description>
-  <!-- EN: acid burn scar -->
-  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>酸熱傷痕</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
-  <!-- EN: Dissolved off -->
-  <AcidBurn.injuryProps.destroyedLabel>溶け落ちた</AcidBurn.injuryProps.destroyedLabel>
-  <!-- EN: an acid burn -->
-  <AcidBurn.labelNoun>酸熱傷</AcidBurn.labelNoun>
-  <!-- EN: {0} in the {1} -->
-  <AcidBurn.labelNounPretty>{1}内の{0}</AcidBurn.labelNounPretty>
-  
   <!-- EN: bloodfeeder mark -->
   <BloodfeederMark.label>吸血痕</BloodfeederMark.label>
   <!-- EN: Two small puncture wounds. -->

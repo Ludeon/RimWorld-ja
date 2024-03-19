@@ -11,8 +11,8 @@
   <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
   <Enslave.description>囚人の意志を減らすよう脅します.囚人に意志がなくなると,看守は囚人を奴隷にします.</Enslave.description>
   
-  <!-- EN: reduce will -->
-  <ReduceWill.label>意志を緩和</ReduceWill.label>
+  <!-- EN: reduce will only -->
+  <ReduceWill.label>意志のみ緩和</ReduceWill.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
   <ReduceWill.description>囚人の意志を減らすように脅しますが,奴隷にはしません.</ReduceWill.description>
   

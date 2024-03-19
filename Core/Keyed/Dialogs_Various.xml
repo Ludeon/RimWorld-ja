@@ -201,6 +201,10 @@
   <LastName>姓</LastName>
   <!-- EN: suggested -->
   <Suggested>提案</Suggested>
+  
+  <!-- Choose new wanderers -->
+  <!-- EN: Choose new wanderers -->
+  <ChooseNewWanderers>TODO</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -289,8 +293,8 @@
   <CountingProducts>計測</CountingProducts>
   <!-- EN: Infinite -->
   <Infinite>無限に</Infinite>
-  <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>スキル範囲: {0}</AllowedSkillRange>
+  <!-- EN: Allowed {0} skill -->
+  <AllowedSkillRange>{0}スキルを許可</AllowedSkillRange>
   <!-- EN: incompatible -->
   <IncompatibleLower>不適合</IncompatibleLower>
   <!-- EN: Any worker -->
@@ -336,6 +340,12 @@
   <IncludeFromAll>原料調達先(どこでも)</IncludeFromAll>
   <!-- EN: Look in {0} -->
   <IncludeSpecific>原料調達先({0})</IncludeSpecific>
+  <!-- EN: Stockpiles -->
+  <StockpilePlural>TODO</StockpilePlural>
+  <!-- EN: Shelves -->
+  <ShelfPlural>TODO</ShelfPlural>
+  <!-- EN: Groups -->
+  <GroupPlural>TODO</GroupPlural>
   
   <!-- Info card -->
   <!-- EN: Damage -->
@@ -402,8 +412,8 @@
   <MinGrowthTemperature>生育・最低気温</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>生育・最高気温</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
-  <GrowingTimeDesc>植物は,昼間,陽が当たっているときだけ成長します.成長時間とは,植物が充分に育つまでに必要な陽が当たっている総時間です.実際に成長するまでの時間は,約2倍かかります.低温時にも成長は鈍ります.</GrowingTimeDesc>
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\n\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <GrowingTimeDesc>植物は特定の時間帯に,陽が当たっているときのみ成長します.\n\nこの数値は,植物が充分に育つまでに必要な,陽が当たっている総時間です.\n\n成長できない時間を含めた総時間は通常,約2倍になります.\n気温が低いと植物の成長も遅くなります.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>日</Days>
   <!-- EN: Minimum growing skill to sow -->
@@ -516,6 +526,8 @@
   <PerDay>{0}/日</PerDay>
   <!-- EN: {0} / hour -->
   <PerHour>{0}/時</PerHour>
+  <!-- EN: {0} XP / hour -->
+  <XpPerHour>TODO</XpPerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>駄載獣</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -598,6 +610,8 @@
   <MeditationFocusEnabledByAdulthood>成年期</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>特性・特徴</MeditationFocusEnabledByTrait>
+  <!-- EN: has health condition -->
+  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff> 
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>特性・特徴がない</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
@@ -699,6 +713,14 @@
   <!-- EN: Creatures -->
   <PawnsTabShort>生物</PawnsTabShort>
   
+  <!-- Select caravan settlement -->
+  <!-- EN: Select colony to send caravan -->
+  <SelectCaravanOrigin>TODO</SelectCaravanOrigin> 
+  <!-- EN: Send a caravan from {0}. -->
+  <SelectCaravanDesc>TODO</SelectCaravanDesc> 
+  <!-- EN: Colonists -->
+  <SelectCaravanColonists>TODO</SelectCaravanColonists>
+  
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>キャラバン隊を編成</FormCaravan>
@@ -745,7 +767,7 @@
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>キャラバン隊は,{0}日分の食料しか持っていません.すぐに空腹になるでしょう.</DaysWorthOfFoodWarningDialog>
   <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
-  <DaysWorthOfFoodDietWarningDialog>一部の人々の食事制限では,キャラバンに含まれるほとんどの食料を食べられません.空腹で食べざるを得ない状況になると不幸になります.</DaysWorthOfFoodDietWarningDialog>
+  <DaysWorthOfFoodDietWarningDialog>一部の人々は食事制限によって,キャラバンに含まれるほとんどの食料を食べられません.空腹で食べざるを得ない状況になると不幸になります.</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので,あっという間に飢えが始まります.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -894,6 +916,8 @@
   <ResearchFinished>研究が完了した： {0}</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>研究メニュー</ResearchScreen>
+  <!-- EN: By researching {0} you have discovered the {1} research project. -->
+  <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
@@ -909,41 +933,53 @@
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>今回は アップロードしません. 後で たずねてください.</HistoryUploadNoOnce>
   
+  <!-- Policies -->
+  <!-- EN: Available policies -->
+  <AvailablePolicies>TODO</AvailablePolicies>
+  <!-- EN: Unnamed -->
+  <UnnamedPolicy>TODO</UnnamedPolicy>
+  <!-- EN: New... -->
+  <NewPolicy>TODO</NewPolicy>
+  <!-- EN: Invalid policy name -->
+  <InvalidName>TODO</InvalidName>
+  <!-- EN: Delete the selected policy. -->
+  <DeletePolicyTip>TODO</DeletePolicyTip>
+  <!-- EN: Create a duplicate of the selected policy. -->
+  <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
+  <!-- EN: Rename this policy. -->
+  <RenamePolicyTip>TODO</RenamePolicyTip>
+  <!-- EN: Are you sure you want to delete the policy: {0}? -->
+  <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
+  <!-- EN: Delete -->
+  <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
+  <!-- EN: No policy selected -->
+  <NoPolicySelected>TODO</NoPolicySelected>
+  
   <!-- Outfit management -->
-  <!-- EN: Outfit -->
-  <Outfit>服装</Outfit>
-  <!-- EN: Select outfit... -->
-  <SelectOutfit>服装を選択...</SelectOutfit>
-  <!-- EN: New outfit -->
-  <NewOutfit>新しい服装</NewOutfit>
-  <!-- EN: Delete outfit... -->
-  <DeleteOutfit>服装を削除...</DeleteOutfit>
-  <!-- EN: Outfit is in use by {0}. -->
-  <OutfitInUse>この服装は {0}が使用しています.</OutfitInUse>
-  <!-- EN: No outfit selected -->
-  <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
+  <!-- EN: Apparel policies -->
+  <ApparelPolicyTitle>服装ルール</ApparelPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
+  <ApparelPolicyTip>TODO</ApparelPolicyTip>
+  <!-- EN: Apparel policy -->
+  <ApparelPolicy>服装ルール</ApparelPolicy>
+  <!-- EN: Apparel policy is in use by {0}. -->
+  <OutfitInUse>この服装ルールは {0}が使用しています.</OutfitInUse>
   
   <!-- Drug policy management -->
+  <!-- EN: Drug policies -->
+  <DrugPolicyTitle>ドラッグルール</DrugPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
+  <DrugPolicyTip>TODO</DrugPolicyTip>
   <!-- EN: Drug policy -->
-  <DrugPolicy>ドラッグ適用方針</DrugPolicy>
-  <!-- EN: Select policy... -->
-  <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
-  <!-- EN: New policy -->
-  <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
-  <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
+  <DrugPolicy>ドラッグルール</DrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>適用方針は {0}に適用中です.</DrugPolicyInUse>
+  <DrugPolicyInUse>このドラッグルールは {0}に適用中です.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>食事制限は {0}に適用中です.</FoodRestrictionInUse>
-  <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
+  <FoodRestrictionInUse>この食事ルールは {0}に適用中です.</FoodRestrictionInUse>
   <!-- EN: Add drug... -->
   <AddDrug>ドラッグを追加...</AddDrug>
   <!-- EN: Drug -->
   <DrugColumnLabel>ドラッグ</DrugColumnLabel>
-  <!-- EN: Usage -->
-  <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
@@ -966,8 +1002,6 @@
   <DeleteDrugTooltip>このドラッグを削除する.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
   <DrugNameColumnDesc>ドラッグの名称です.</DrugNameColumnDesc>
-  <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>ドラッグの使用目的です.</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
   <FrequencyColumnDesc>入植者がドラッグを使用する頻度を表します.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
@@ -984,10 +1018,14 @@
   <DrugUsageTipScheduled>定期的な使用\n\nこのドラッグを定義された投薬スケジュールに則って使用します.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
-  <!-- EN: Food restriction -->
-  <FoodRestriction>食事制限</FoodRestriction>
-  <!-- EN: Food -->
-  <FoodRestrictionShort>食事</FoodRestrictionShort>
+  <!-- EN: Food policies -->
+  <FoodPolicyTitle>食事ルール</FoodPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
+  <FoodPolicyTip>TODO</FoodPolicyTip>
+  <!-- EN: Food policy -->
+  <FoodPolicy>食事ルール</FoodPolicy>
+  <!-- EN: Allow food -->
+  <AllowFood>食事を許可</AllowFood>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>豪華な食事</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -1000,33 +1038,75 @@
   <FoodRestrictionRaw>ナマ</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>メシ抜き</FoodRestrictionNothing>
-  <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>食事制限を選択</SelectFoodRestriction>
-  <!-- EN: New food restriction -->
-  <NewFoodRestriction>新しい食事制限</NewFoodRestriction>
-  <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>食事制限を削除</DeleteFoodRestriction>
-  <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>食事制限を未選択</NoFoodRestrictionSelected>
+  
+  <!-- Reading management -->
+  <!-- EN: Reading policies -->
+  <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
+  <ReadingPolicyTip>TODO</ReadingPolicyTip>
+  <!-- EN: Reading policy -->
+  <ReadingPolicy>TODO</ReadingPolicy>
+  
+  <!-- EN: Anything -->
+  <AllReadingPolicy>TODO</AllReadingPolicy>
+  <!-- EN: None -->
+  <NoneReadingPolicy>TODO</NoneReadingPolicy>
+  <!-- EN: Textbooks -->
+  <TextbookPolicy>TODO</TextbookPolicy>
+  <!-- EN: Schematics -->
+  <SchematicPolicy>TODO</SchematicPolicy>
+  <!-- EN: Novels -->
+  <NovelPolicy>TODO</NovelPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>デフォルトの医薬品設定</DefaultMedicineSettings>
+  <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
+  <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
+  
   <!-- EN: Defaults -->
   <MedGroupDefaults>初期値</MedGroupDefaults>
-  <!-- EN: Colonist -->
-  <MedGroupColonist>入植者</MedGroupColonist>
-  <!-- EN: Imprisoned colonist -->
-  <MedGroupImprisonedColonist>逮捕された入植者</MedGroupImprisonedColonist>
-  <!-- EN: Colony animal -->
-  <MedGroupColonyAnimal>家畜</MedGroupColonyAnimal>
-  <!-- EN: Neutral animal -->
-  <MedGroupNeutralAnimal>野生動物</MedGroupNeutralAnimal>
-  <!-- EN: Neutral faction -->
-  <MedGroupNeutralFaction>中立の派閥</MedGroupNeutralFaction>
-  <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>敵対する派閥</MedGroupHostileFaction>
   
+  <!-- EN: Colonists -->
+  <MedGroupColonists>入植者</MedGroupColonists>
+  <!-- EN: Free members of your colony -->
+  <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
+  
+  <!-- EN: Prisoners -->
+  <MedGroupPrisoners>TODO</MedGroupPrisoners>
+  <!-- EN: Prisoners in your colony, regardless of faction. -->
+  <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
+
+  <!-- EN: Tamed animals -->
+  <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
+  <!-- EN: Animals which have been tamed by your colony. -->
+  <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
+
+  <!-- EN: Friendly faction members -->
+  <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
+  <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
+  <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
+  
+  <!-- EN: Neutral faction members -->
+  <MedGroupNeutralFaction>中立の派閥メンバー</MedGroupNeutralFaction>
+  <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
+  <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
+
+  <!-- EN: Hostile faction members -->
+  <MedGroupHostileFaction>敵対する派閥メンバー</MedGroupHostileFaction>
+  <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
+  <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
+
+  <!-- EN: Other humans -->
+  <MedGroupNoFaction>TODO</MedGroupNoFaction>
+  <!-- EN: Humans who are not members of any faction. -->
+  <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
+  
+  <!-- EN: Wildlife -->
+  <MedGroupWildlife>TODO</MedGroupWildlife>
+  <!-- EN: Animals and other creatures which are not members of any faction. -->
+  <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
+
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
   <NoGrowerCanPlant>{0}の種を蒔くのには, 栽培スキルが{1}必要です.\n\n誰も,これだけのスキルを持っていないので,この植物を育てられません.</NoGrowerCanPlant>
@@ -1122,6 +1202,8 @@
   <AbilityCantApplyDowned>{0_labelShort}は倒れている.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>使用できない: {0}には性別がありません.</AbilityCantApplyOnAsexual>
+  <!-- EN: {PAWN_labelShort} has no healable injuries. -->
+  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort}は{0_labelShort}の正しくない性別です.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
@@ -1321,5 +1403,42 @@
   <ToggleDarklightOnDesc>ライトの色をダークライトに変更します.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>色温度を設定して色を選択します.注意:これは視覚的な色にのみ影響し,熱出力には影響しません.</ColorTemperatureTooltip>
+
+  <!-- EN: {0_labelShort} is psychically deaf. -->
+  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+
+  <!-- EN: Search the current map. -->
+  <SearchTheMap>TODO</SearchTheMap>
+  <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
+  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <!-- EN: {0} results found -->
+  <MapSearchResults>TODO</MapSearchResults>
+  <!-- EN: 1 result found -->
+  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <!-- EN: Searching -->
+  <Searching>TODO</Searching>
+
+  <!-- UNUSED -->
+  <Outfit>服装</Outfit>
+  <SelectOutfit>服装を選択...</SelectOutfit>
+  <NewOutfit>新しい服装</NewOutfit>
+  <DeleteOutfit>服装を削除...</DeleteOutfit>
+  <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
+  <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
+  <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
+  <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
+  <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
+  <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
+  <DrugUsageColumnDesc>ドラッグの使用目的です.</DrugUsageColumnDesc>
+  <FoodRestriction>食事制限</FoodRestriction>
+  <FoodRestrictionShort>食事</FoodRestrictionShort>
+  <SelectFoodRestriction>食事制限を選択</SelectFoodRestriction>
+  <NewFoodRestriction>新しい食事制限</NewFoodRestriction>
+  <DeleteFoodRestriction>食事制限を削除</DeleteFoodRestriction>
+  <NoFoodRestrictionSelected>食事制限を未選択</NoFoodRestrictionSelected>
+  <MedGroupColonist>入植者</MedGroupColonist>
+  <MedGroupImprisonedColonist>逮捕された入植者</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>家畜</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>野生動物</MedGroupNeutralAnimal>
 
 </LanguageData>

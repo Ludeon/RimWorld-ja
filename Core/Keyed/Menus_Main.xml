@@ -157,7 +157,7 @@
   <!-- EN: Save and apply changes -->
   <SaveModChanges>変更を適用して保存する</SaveModChanges>
   <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
-  <DiscardModChanges>Modの変更は保存されません.続行してもよろしいですか?</DiscardModChanges>
+  <DiscardModChanges>Modの変更は保存されません.本当に続けますか?</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
   <ModReorderConflict_MustLoadAfter>{0}は移動できない: {1}の後ろに読み込む必要があります.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
@@ -642,6 +642,8 @@
   <IncapableOfTooltipRole>原因となる任務</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
   <IncapableOfTooltipGene>原因となる遺伝子</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>原因</IncapableOfTooltipMutant>
   <!-- EN: Traits -->
   <Traits>才能・性格</Traits>
   <!-- EN: Permanent mood effect -->

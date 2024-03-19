@@ -9,8 +9,12 @@
   <Bison.tools.head.label>頭</Bison.tools.head.label>
   <!-- EN: left hoof -->
   <Bison.tools.left_hoof.label>左蹄</Bison.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.left_hoof.labelNoLocation>TODO</Bison.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Bison.tools.right_hoof.label>右蹄</Bison.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.right_hoof.labelNoLocation>TODO</Bison.tools.right_hoof.labelNoLocation>
   
   <!-- EN: boomalope -->
   <Boomalope.label>ボマロープ</Boomalope.label>
@@ -20,8 +24,12 @@
   <Boomalope.tools.head.label>頭部</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
   <Boomalope.tools.left_hoof.label>左蹄</Boomalope.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.left_hoof.labelNoLocation>TODO</Boomalope.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Boomalope.tools.right_hoof.label>右蹄</Boomalope.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.right_hoof.labelNoLocation>TODO</Boomalope.tools.right_hoof.labelNoLocation>
   
   <!-- EN: caribou -->
   <Caribou.label>カリブー</Caribou.label>
@@ -29,8 +37,12 @@
   <Caribou.description>大きなシカ科の生き物です.寒冷な気候に適応しています.カリブーは搾乳することができますが,荷物を運ぶことは嫌がります.</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>左蹄</Caribou.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.left_hoof.labelNoLocation>TODO</Caribou.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Caribou.tools.right_hoof.label>右蹄</Caribou.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.right_hoof.labelNoLocation>TODO</Caribou.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Caribou.tools.head.label>頭部</Caribou.tools.head.label>
   
@@ -44,8 +56,12 @@
   <Cow.tools.head.label>頭部</Cow.tools.head.label>
   <!-- EN: left hoof -->
   <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.left_hoof.labelNoLocation>TODO</Cow.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.right_hoof.labelNoLocation>TODO</Cow.tools.right_hoof.labelNoLocation>
   
   <!-- EN: donkey -->
   <Donkey.label>ロバ</Donkey.label>
@@ -55,8 +71,12 @@
   <Donkey.tools.head.label>頭</Donkey.tools.head.label>
   <!-- EN: left hoof -->
   <Donkey.tools.left_hoof.label>左蹄</Donkey.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.left_hoof.labelNoLocation>TODO</Donkey.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Donkey.tools.right_hoof.label>右蹄</Donkey.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.right_hoof.labelNoLocation>TODO</Donkey.tools.right_hoof.labelNoLocation>
   
   <!-- EN: dromedary -->
   <Dromedary.label>ヒトコブラクダ</Dromedary.label>
@@ -64,8 +84,12 @@
   <Dromedary.description>乾燥した環境に適応した大きな哺乳動物です.古くから家畜化され,その革は砂漠の熱に対する非常に優れた断熱性を持ち,そのミルクは非常に栄養価があります.騎乗したり駄載獣としても使用されますが,跳ね上がるような歩き方をするため,ウマと比べて遅いです.\n\n大きなコブに水を蓄え,吐き出すと同時に吸い込むことで水分をとり,水を飲まなくても一週間移動することができます.</Dromedary.description>
   <!-- EN: left hoof -->
   <Dromedary.tools.left_hoof.label>左蹄</Dromedary.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.left_hoof.labelNoLocation>TODO</Dromedary.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Dromedary.tools.right_hoof.label>右蹄</Dromedary.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.right_hoof.labelNoLocation>TODO</Dromedary.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Dromedary.tools.head.label>頭部</Dromedary.tools.head.label>
   
@@ -77,8 +101,12 @@
   <Elephant.tools.tusk.label>牙</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
   <Elephant.tools.left_foot.label>左足</Elephant.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.left_foot.labelNoLocation>TODO</Elephant.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
   <Elephant.tools.right_foot.label>右足</Elephant.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.right_foot.labelNoLocation>TODO</Elephant.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
   <Elephant.tools.head.label>頭部</Elephant.tools.head.label>
   
@@ -88,8 +116,12 @@
   <Elk.description>大きなシカ科の生き物.寒冷な気候に適応しています.飼い慣らされたヘラジカは搾乳することができますが,荷物を運ぶことは嫌がります.</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>左蹄</Elk.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.left_hoof.labelNoLocation>TODO</Elk.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Elk.tools.right_hoof.label>右蹄</Elk.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.right_hoof.labelNoLocation>TODO</Elk.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Elk.tools.head.label>頭部</Elk.tools.head.label>
   
@@ -110,8 +142,12 @@
   <Horse.tools.head.label>頭</Horse.tools.head.label>
   <!-- EN: left hoof -->
   <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.left_hoof.labelNoLocation>TODO</Horse.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.right_hoof.labelNoLocation>TODO</Horse.tools.right_hoof.labelNoLocation>
   
   <!-- EN: muffalo -->
   <Muffalo.label>マッファロー</Muffalo.label>
@@ -121,8 +157,12 @@
   <Muffalo.tools.head.label>頭部</Muffalo.tools.head.label>
   <!-- EN: left hoof -->
   <Muffalo.tools.left_hoof.label>左蹄</Muffalo.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.left_hoof.labelNoLocation>TODO</Muffalo.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Muffalo.tools.right_hoof.label>右蹄</Muffalo.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.right_hoof.labelNoLocation>TODO</Muffalo.tools.right_hoof.labelNoLocation>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>サイ</Rhinoceros.label>
@@ -145,7 +185,11 @@
   <Yak.tools.head.label>頭</Yak.tools.head.label>
   <!-- EN: left hoof -->
   <Yak.tools.left_hoof.label>左蹄</Yak.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.left_hoof.labelNoLocation>TODO</Yak.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Yak.tools.right_hoof.label>右蹄</Yak.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.right_hoof.labelNoLocation>TODO</Yak.tools.right_hoof.labelNoLocation>
   
 </LanguageData>

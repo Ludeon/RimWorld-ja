@@ -88,6 +88,8 @@
   <ChooseRoleHint>役割を割り当てる前に,コロニーがより確立されるまで待った方が良い場合もあります.</ChooseRoleHint>
   <!-- EN: Unlocked by -->
   <UnlockedByMeme>アンロックされた原因</UnlockedByMeme>
+  <!-- EN: Origin -->
+  <Origin>TODO</Origin>
   <!-- EN: Unlocked roles -->
   <MemeUnlocksRoles>役割をアンロック</MemeUnlocksRoles>
   <!-- EN: Unlocked rituals -->
@@ -113,6 +115,8 @@
   <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort}が{ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>{TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <!-- EN: Precept {PRECEPT} -->
+  <AbilityIdeoConvertBreakdownPercept>TODO</AbilityIdeoConvertBreakdownPercept>
   <!-- EN: {RELICCOUNT} installed relics on map -->
   <AbilityIdeoConvertBreakdownRelic>マップ上に{RELICCOUNT}つのレリックが設置されている</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
@@ -248,8 +252,10 @@
   <ReLoadShuttle>シャトルに再び荷積みする</ReLoadShuttle>
 
   <!-- Medical settings -->
-  <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>奴隷の入植者</MedGroupEnslavedColonist>
+  <!-- EN: Slaves -->
+  <MedGroupSlaves>TODO</MedGroupSlaves>
+  <!-- EN: Enslaved members of your colony. -->
+  <MedGroupSlavesDesc>TODO</MedGroupSlavesDesc>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
@@ -327,4 +333,7 @@
   <StylesInUse>使用中のスタイル</StylesInUse>
   <!-- EN: Add a style. -->
   <StyleCategoryAddDesc>スタイルを追加します.</StyleCategoryAddDesc>
+  <!-- UNUSED -->
+  <MedGroupEnslavedColonist>奴隷の入植者</MedGroupEnslavedColonist>
+
 </LanguageData>

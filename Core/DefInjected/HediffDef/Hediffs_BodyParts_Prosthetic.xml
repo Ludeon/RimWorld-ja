@@ -3,29 +3,29 @@
   
   <!-- EN: cochlear implant -->
   <CochlearImplant.label>人工内耳</CochlearImplant.label>
-  <!-- EN: An installed cochlear implant. -->
-  <CochlearImplant.description>移植された人工内耳</CochlearImplant.description>
+  <!-- EN: An installed cochlear implant. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>移植された人工内耳です.耳に取り付けられたマイクが,内耳の聴覚神経系を覆った電極に音声信号を送信します.電極は信号に応じて神経を刺激し,聴覚を再現します.自然な聴覚には劣りますが,耳が聞こえないよりははるかにマシです.</CochlearImplant.description>
   <!-- EN: a cochlear implant -->
   <CochlearImplant.labelNoun>人工内耳</CochlearImplant.labelNoun>
   
   <!-- EN: joywire -->
   <Joywire.label>ジョイワイヤー</Joywire.label>
-  <!-- EN: An installed joywire implant. -->
-  <Joywire.description>移植されたジョイワイヤー</Joywire.description>
+  <!-- EN: An installed joywire implant. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>移植されたジョイワイヤーです.装着者の"心情"を劇的に改善しますが,多幸感によって実世界の何事にも集中できなくなります.ジョイワイヤーは惑星の文化を破壊してしまう物として知られ,多くの世界で非合法とされています.</Joywire.description>
   <!-- EN: a joywire -->
   <Joywire.labelNoun>ジョイワイヤー</Joywire.labelNoun>
   
   <!-- EN: painstopper -->
   <Painstopper.label>ペインストッパー</Painstopper.label>
-  <!-- EN: An installed painstopper implant. -->
-  <Painstopper.description>移植されたペインストッパー</Painstopper.description>
+  <!-- EN: An installed painstopper implant. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>移植されたペインストッパーです.痛みを感じないことによって,装着者はより多くの物事を達成できるようになり,同時に痛覚の存在理由も知ることができます.装着者は痛みを感じないため,容易にひどい怪我を負ってしまう可能性があります.</Painstopper.description>
   <!-- EN: a painstopper -->
   <Painstopper.labelNoun>ペインストッパー</Painstopper.labelNoun>
   
   <!-- EN: power claw -->
   <PowerClaw.label>機械化かぎ爪</PowerClaw.label>
-  <!-- EN: An installed power claw. -->
-  <PowerClaw.description>移植された機械化かぎ爪</PowerClaw.description>
+  <!-- EN: An installed power claw consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly. -->
+  <PowerClaw.description>指にかぎ爪が仕込まれた機械の手です.深く切り裂くことができ,人の頭を卵のように潰せるほどの強い力があります.爪は自由に出し入れが可能で,非戦闘時でも普通の手と同じくらい役に立ちます.やや不格好な形状をしているため,移動速度が少しだけ遅くなってしまいます.</PowerClaw.description>
   <!-- EN: claw -->
   <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>爪</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <!-- EN: a power claw -->
@@ -33,8 +33,8 @@
   
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>人造上肢</SimpleProstheticArm.label>
-  <!-- EN: An installed prosthetic arm. -->
-  <SimpleProstheticArm.description>移植された人造上肢</SimpleProstheticArm.description>
+  <!-- EN: An installed prosthetic arm. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>移植された人造上肢です.神経インターフェースが欠けてますが,内部関節の複雑な処理によって,腕の動きをほぼ完璧に模倣できます.しかしそれでも,本物の腕よりは性能が低いです.</SimpleProstheticArm.description>
   <!-- EN: fist -->
   <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>拳</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a prosthetic arm -->
@@ -42,15 +42,15 @@
   
   <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>人工心臓</SimpleProstheticHeart.label>
-  <!-- EN: An installed prosthetic heart. -->
-  <SimpleProstheticHeart.description>移植された人工心臓</SimpleProstheticHeart.description>
+  <!-- EN: An installed prosthetic heart. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>移植された人工心臓です.負荷なく全身に血液を行き渡らせる電気モーターが内蔵されています.装着者は疲れを感じやすくなりますが,病気になった心臓よりはマシです.</SimpleProstheticHeart.description>
   <!-- EN: a prosthetic heart -->
   <SimpleProstheticHeart.labelNoun>人工心臓</SimpleProstheticHeart.labelNoun>
   
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>人造下肢</SimpleProstheticLeg.label>
-  <!-- EN: An installed prosthetic leg. -->
-  <SimpleProstheticLeg.description>移植された人造下肢</SimpleProstheticLeg.description>
+  <!-- EN: An installed prosthetic leg. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>移植された人造下肢です.神経インターフェースが欠けてますが,内部関節の複雑な処理によって,脚の動きをほぼ完璧に模倣できます.しかしそれでも,本物の脚よりは性能が低いです.</SimpleProstheticLeg.description>
   <!-- EN: a prosthetic leg -->
   <SimpleProstheticLeg.labelNoun>人造下肢</SimpleProstheticLeg.labelNoun>
   

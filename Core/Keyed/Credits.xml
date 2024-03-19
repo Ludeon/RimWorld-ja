@@ -1,42 +1,56 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- Main menu-->
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>A story generator by Tynan Sylvester</MainPageCredit>
 
+  <!-- Credits -->
+  <!-- EN: Design -->
+  <Credits_Design>Design</Credits_Design>
   <!-- EN: Engineering -->
   <Credits_Developers>Engineering</Credits_Developers>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
   <!-- EN: Art -->
   <Credit_GameArt>Art</Credit_GameArt>
-  <!-- EN: Menu art -->
-  <Credit_MenuArt>Menu art</Credit_MenuArt>
-  <!-- EN: Additional engineering -->
-  <Credits_AdditionalDevelopment>Additional engineering</Credits_AdditionalDevelopment>
-  <!-- EN: Community volunteers -->
-  <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
-  <!-- EN: Community testers -->
-  <Credits_TitleTester>Community testers</Credits_TitleTester>
+  <!-- EN: Testers -->
+  <Credit_Testers>Testers</Credit_Testers>
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
+
+  <!-- EN: Volunteer testers -->
+  <Credits_TitleTester>Volunteer testers</Credits_TitleTester>
+
   <!-- EN: Mods -->
   <Credits_TitleMods>Mods</Credits_TitleMods>
-  <!-- EN: Mod donor -->
-  <Credit_ModDonation>Mod donor</Credit_ModDonation>
-  <!-- EN: Writing donor -->
-  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
-  <!-- EN: Moderator -->
-  <Credit_Moderator>Moderator</Credit_Moderator>
-  <!-- EN: Wiki master -->
-  <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
-  <!-- EN: Test lead -->
-  <Credit_TestLead>Test lead</Credit_TestLead>
+
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
-  <!-- EN: Thanks for playing! -->
-  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
 
-  <!-- Currently unused -->
+  <!-- Credits - Currently unused -->
   <!-- EN: Special thanks -->
   <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
+  <!-- EN: Test lead -->
+  <Credit_TestLead>Test lead</Credit_TestLead>
+  <!-- EN: Community donations -->
+  <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
+  <!-- EN: Mod donors -->
+  <Credit_ModDonation>Mod donors</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
+
+  <!-- Meta -->
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+  <!-- EN: Skip credits -->
+  <SkipCredits>Skip credits</SkipCredits>
+
+
+
+  <!-- UNUSED -->
+  <Credit_MenuArt>Menu art</Credit_MenuArt>
+  <Credit_Moderator>Moderator</Credit_Moderator>
+  <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
 
 </LanguageData>

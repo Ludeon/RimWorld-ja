@@ -3,66 +3,73 @@
   
   <!-- EN: bionic arm -->
   <BionicArm.label>強化上肢</BionicArm.label>
-  <!-- EN: An installed bionic arm. -->
-  <BionicArm.description>移植された強化上肢</BionicArm.description>
+  <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>移植された強化上肢です.静音性小型サーボモーターによって強い力を生み出し,有機ジェルを使用した神経伝達によって精密な制御を可能とします.また,格子状異物修復システムによってダメージからの回復も可能にしています.生物学的な腕と比べ,ほぼすべての点において優れています.</BionicArm.description>
   <!-- EN: fist -->
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>拳</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
   <BionicArm.labelNoun>強化上肢</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>強化耳</BionicEar.label>
-  <!-- EN: An installed bionic ear. -->
-  <BionicEar.description>移植された強化耳</BionicEar.description>
+  <BionicEar.label>強化内耳</BionicEar.label>
+  <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>移植された強化内耳です.真皮下に埋め込まれたマイクが音を捕らえ,有機ジェルを使用した人工神経に情報を送信し,聴覚神経へと伝えます.その優れた感度は,目視するよりも早く音で猫を感知でき,大きな騒音によってダメージを受けることもなく,雑音が多い環境下でも重要な音を聞き取れるように自動的に調整されます.</BionicEar.description>
   <!-- EN: a bionic ear -->
   <BionicEar.labelNoun>強化耳</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>強化視覚センサー</BionicEye.label>
-  <!-- EN: An installed bionic eye. -->
-  <BionicEye.description>移植された強化視覚センサー</BionicEye.description>
+  <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>移植された強化視覚センサーです.有機ジェルを使用した神経伝達,内部信号プリプロセッサ,広域スペクトルセンサーが内蔵されており,生物学的な眼と比べ,ほぼすべての点において優れています.また,格子状異物修復システムによってダメージからの回復も可能にしています.</BionicEye.description>
   <!-- EN: a bionic eye -->
   <BionicEye.labelNoun>強化視覚センサー</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>強化心臓</BionicHeart.label>
-  <!-- EN: An installed bionic heart. -->
-  <BionicHeart.description>移植された強化心臓</BionicHeart.description>
+  <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>移植された強化心臓です.本物と変わらない鼓動を行う合成筋繊維と,高負荷時に迅速な血液循環を行える高流量ポンプが内蔵されています.生物学的な心臓と比べ,ほぼすべての点において優れています.</BionicHeart.description>
   <!-- EN: a bionic heart -->
   <BionicHeart.labelNoun>強化心臓</BionicHeart.labelNoun>
   
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>TODO</BionicJaw.label>
+  <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>TODO</BionicJaw.description>
+  <!-- EN: a bionic jaw -->
+  <BionicJaw.labelNoun>TODO</BionicJaw.labelNoun>
+  
   <!-- EN: bionic leg -->
   <BionicLeg.label>強化下肢</BionicLeg.label>
-  <!-- EN: An installed bionic leg. -->
-  <BionicLeg.description>移植された強化下肢</BionicLeg.description>
+  <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>移植された強化下肢です.有機ジェルを使用した神経伝達,強力な小型サーボモーター,格子状異物修復システムが内蔵されており,生物学的な脚と比べ,ほぼすべての点において優れています.</BionicLeg.description>
   <!-- EN: a bionic leg -->
   <BionicLeg.labelNoun>強化下肢</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
   <BionicSpine.label>強化脊椎</BionicSpine.label>
-  <!-- EN: An installed bionic spine. -->
-  <BionicSpine.description>移植された強化脊椎</BionicSpine.description>
+  <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>移植された強化脊椎です.プラスチール製の脊椎の周りを格子状異物修復システムが取り巻いており,有機ジェルを使用した神経束が脊椎を伝っています.生物学的脊椎と同等の働きをします.</BionicSpine.description>
   <!-- EN: a bionic spine -->
   <BionicSpine.labelNoun>強化脊椎</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
   <BionicStomach.label>強化胃</BionicStomach.label>
-  <!-- EN: An installed bionic stomach. -->
-  <BionicStomach.description>移植された強化胃</BionicStomach.description>
+  <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>移植された強化胃です.この胃を持つ者は食中毒になる可能性が非常に低くなり,いくつかの胃の病気を防ぎます.また,この人工臓器に備わる格子状異物修復システムが,胃のダメージを自動的に修復します.生物学的な胃と比べ,ほぼすべての点において優れています.</BionicStomach.description>
   <!-- EN: a bionic stomach -->
   <BionicStomach.labelNoun>強化胃</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
   <BionicTongue.label>強化舌</BionicTongue.label>
-  <!-- EN: An installed bionic tongue. -->
-  <BionicTongue.description>移植された強化舌</BionicTongue.description>
+  <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>移植された強化舌です.滑らかな合成繊維で作られており,ジェル状の神経インターフェイスを介して接続されているため,話す,食べる,味わう際に自然な舌と同等の働きをします.</BionicTongue.description>
   <!-- EN: a bionic tongue -->
   <BionicTongue.labelNoun>強化舌</BionicTongue.labelNoun>
   
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>亡者の酸</DeathAcidifier.label>
-  <!-- EN: An installed death acidifier. -->
-  <DeathAcidifier.description>移植された亡者の酸</DeathAcidifier.description>
+  <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
+  <DeathAcidifier.description>移植された亡者の酸です.装着者の死と共に強力な酸が放出され,装着者と接触している装備を溶かします.他にダメージは与えません.</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
   <DeathAcidifier.labelNoun>亡者の酸</DeathAcidifier.labelNoun>
   

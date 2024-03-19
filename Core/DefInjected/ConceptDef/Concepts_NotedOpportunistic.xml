@@ -11,6 +11,11 @@
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
   <BillsTab.helpText>入植者達を机上の作業に就かせるには,テーブルを選択して「加工」タブを開きます.そして,料理を作らせたり,物を加工させたり,肉を捌いたりさせることができます.</BillsTab.helpText>
   
+  <!-- EN: books -->
+  <Books.label>TODO</Books.label>
+  <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the 'Assign' tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
+  <Books.helpText>TODO</Books.helpText>
+  
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>貿易用ビーコンを作る</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
@@ -44,9 +49,9 @@
   <DrugBurning.helpText>ドラッグは時に有用なものですが,有害な依存症をも引き起こします.\n\nもし,あなたの入植地にドラッグを持ち込みたくないなら,焚き火に放り込んでしまうという選択もあります.</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
-  <DrugPolicies.label>ドラッグ適用方針</DrugPolicies.label>
+  <DrugPolicies.label>ドラッグルール</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>あなたは入植者に,特定のドラッグを特定のスケジュールに従って服用するよう割り当てることができます.例えば,ペノキシリンを定期的に服薬させるとか,あるいは幸せが続くように1日1本のビールを飲むようにさせるとかです.\n\n「服装・任命」メニューを開き,「ドラッグ適用方針」をクリックします.適用方針を新規に作成します.そして,この適用方針を入植者に割り当てます.\n\n入植者はそれでも,適用方針に反してドラッグを服用することがあります.あなたは何をすべきか彼らに告げることができますが,彼らもまた自身の欲求に従うのです!</DrugPolicies.helpText>
+  <DrugPolicies.helpText>あなたは入植者に,特定のドラッグを特定のスケジュールに従って服用するよう割り当てることができます.例えばペノキシリンを定期的に服薬させたり,あるいは幸せな気持ちを保つために毎日ビールを1本飲ませることができます.\n\n「服装・任命」メニューを開き,「ドラッグルール」をクリックしてください.新しいルールを作成できます.そして,このルールを入植者に割り当てましょう.\n\n入植者はそれでも,ルールに反してドラッグを服用することがあります.あなたは何をすべきか彼らに告げることができますが,彼らもまた自身の欲求に従うのです!</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
   <GroupGotoHereDragging.label>兵士の位置取り</GroupGotoHereDragging.label>
@@ -71,8 +76,8 @@
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>囚人タブ</PrisonerTab.label>
-  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>囚人の「囚人」タブを見れば,彼が受ける対応を確認できます.\n\nあなたは,彼らを,勧誘するかどうか,無視するか,処刑するか,食事させるか,治療を受けさせるかどうかを設定できます.\n\n作業タイプに"看守"が割り当てられている入植者だけが,囚人と関わることができます.</PrisonerTab.helpText>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>囚人の"囚人"タブから,囚人の状態を確認できます.\n\nあなたは囚人たちを,勧誘するか,放置するか,処刑するか,治療を受けさせるかどうかを設定できます.また,囚人の健康タブから食事ルールを設定できます.\n\n作業タイプに"看守"が割り当てられている入植者だけが,囚人と関わることができます.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>命令キューに積む</QueueOrders.label>

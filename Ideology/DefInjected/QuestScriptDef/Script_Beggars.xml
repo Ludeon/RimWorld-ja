@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN:
-    <li>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural] betrayed</li>
-    <li>letterTextBeggarsBetrayed->The [groupLabelSingleOrPlural] who [wasWere] seeking your charity [hasHave] been betrayed. Colonists with charitable beliefs will be unhappy.</li>
+    <li>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural] harmed</li>
+    <li>letterTextBeggarsBetrayed->The [groupLabelSingleOrPlural] who [wasWere] seeking your charity [hasHave] been harmed. Colonists with charitable beliefs will be unhappy.</li>
     <li>hasHave(beggarCount==1)->has</li>
     <li>hasHave(beggarCount>=2)->have</li>
     <li>wasWere(beggarCount==1)->was</li>
@@ -12,8 +12,8 @@
     <li>groupLabelSingleOrPlural(beggarCount>=2)->travelers</li>
   -->
   <Beggars.questContentRules.rulesStrings>
-    <li>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural]が裏切られた</li>
-    <li>letterTextBeggarsBetrayed->慈悲を求めて[wasWere][groupLabelSingleOrPlural][hasHave]裏切られました.慈善の信念を持つ入植者は不幸になります.</li>
+    <li>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural]が傷つけられた</li>
+    <li>letterTextBeggarsBetrayed->慈悲を求めて[wasWere][groupLabelSingleOrPlural][hasHave]傷つけられました.慈善の信念を持つ入植者は不幸になります.</li>
     <li>hasHave(beggarCount==1)->は</li>
     <li>hasHave(beggarCount>=2)->は</li>
     <li>wasWere(beggarCount==1)->いた</li>
@@ -71,8 +71,8 @@
     <li>questDescription->[approachInfo].[requestInfo].[claimInfo].\n\n[interactionInfo].\n\n[moveOnInfo].\n\n[travelerInfo],どの派閥にも属していません.もし望むなら,外交上の影響なしに[beggars0_pronoun]らを殺害,拘束,売却,もしくは臓器を摘出する選択も選べます.</li>
     <li>approachInfo(beggarCount==1)->[beggars0_nameDef]と名乗る貧しい[groupLabelSingle]が助けを求めて近づいています</li>
     <li>approachInfo(beggarCount>=2)->貧しい[groupLabelPlural]のグループが助けを求めて近づいています</li>
-    <li>approachInfo(beggarCount>=2,childCount==1,priority=1)->子供を含む貧しい [groupLabelPlural]のグループが助けを求めて近づいています</li>
-    <li>approachInfo(beggarCount>=2,childCount>=2,allChildren==false,priority=1)->複数の子供を含む貧しい [groupLabelPlural]のグループが助けを求めて近づいています</li>
+    <li>approachInfo(beggarCount>=2,childCount==1,priority=1)->子供を含む貧しい[groupLabelPlural]のグループが助けを求めて近づいています</li>
+    <li>approachInfo(beggarCount>=2,childCount>=2,allChildren==false,priority=1)->複数の子供を含む貧しい[groupLabelPlural]のグループが助けを求めて近づいています</li>
     <li>requestInfo(beggarCount==1)->[beggars0_nameDef]は[beggingForInfo]を物乞いしています</li>
     <li>requestInfo(beggarCount>=2)->[groupLabelPlural]は[beggingForInfo]を物乞いしています</li>
     <li>claimInfo(beggarCount==1,requestedThingDefName==Silver)->[beggars0_nameDef]は,自身を襲っている宙賊の一団に借金を返すためにシルバーを求めています</li>

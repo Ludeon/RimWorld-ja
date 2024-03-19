@@ -77,6 +77,8 @@
   <Groups>グループ</Groups>
   <!-- EN: Loading mech gestation resources -->
   <LoadingMechGestator>メカ培養の資源を積んでいる</LoadingMechGestator>
+  <!-- EN: Time left this cycle -->
+  <GestatingInspect>TODO</GestatingInspect>
   <!-- EN: Initiating mech gestation cycle -->
   <InitMechGestationCycle>メカ培養サイクルを開始</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
@@ -153,8 +155,6 @@
   <ConfirmExitDeathrestUnderMinDays>死眠を安全に終わらせるには{MINDURATION}必要ですが,{PAWN_nameDef}は{CURDURATION}しか死眠していません.\n\n{PAWN_nameDef}を起こすと死眠が中断され,代謝のバランスが崩れ,その後何日も病気になります.\ n\n本当に起こしますか?</ConfirmExitDeathrestUnderMinDays>
   <!-- EN: deathresting -->
   <Deathresting>死眠中</Deathresting>
-  <!-- EN: complete -->
-  <Complete>完了</Complete>
   <!-- EN: can wake safely now. -->
   <CanWakeSafely>安全に起きられます.</CanWakeSafely>
   <!-- EN: Disabled by gene -->
@@ -429,8 +429,6 @@
   <LethalInjuries>致命傷</LethalInjuries>
   <!-- EN: deathrest -->
   <Deathrest>死眠</Deathrest>
-  <!-- EN: Buildings -->
-  <Buildings>設備</Buildings>
   <!-- EN: capacity -->
   <Capacity>許容量</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
@@ -446,8 +444,6 @@
 
   <!-- EN: Children want to learn from different activities at different times. -->
   <LearningDesireTooltip>子供はいつでもさまざまな活動から学びを得たいと思っています.</LearningDesireTooltip>
-  <!-- EN: {0_nameDef}'s current learning desire: -->
-  <LearningDesireTooltip_CurrentDesire>{0_nameDef}の現在の学習意欲:</LearningDesireTooltip_CurrentDesire>
   <!-- EN: Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills. -->
   <DevelopmentHealthGizmoTooltip>発育状態とは,前回の誕生日以降の子供の学習欲求の平均値です.\n\n発育状態が高い子供は成長の瞬間により多くの選択肢を得られ,スキルへの情熱が高まります.</DevelopmentHealthGizmoTooltip>
 
@@ -485,6 +481,8 @@
   <GestatingMech>{0}を培養している</GestatingMech>
   <!-- EN: Gestated {0} -->
   <GestatedMech>{0}を培養した</GestatedMech>
+  <!-- EN: Requires {PAWN_nameDef} to continue gestating -->
+  <GestatingMechRequiresMechanitor>TODO</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
   <GestatedMechRequiresMechanitor>完了するには{PAWN_nameDef}が必要</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->
@@ -770,5 +768,8 @@
   <MyChildIsHappy>私の子供が幸せ</MyChildIsHappy>
   <!-- EN: my child is sad -->
   <MyChildIsSad>私の子供が悲しんでる</MyChildIsSad> 
+
+  <!-- UNUSED -->
+  <LearningDesireTooltip_CurrentDesire>{0_nameDef}の現在の学習意欲:</LearningDesireTooltip_CurrentDesire>
 
 </LanguageData>

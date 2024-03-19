@@ -34,8 +34,8 @@
 
   <!-- EN: Need mech rechargers -->
   <AlertNeedMechChargers>メカ充電器が必要</AlertNeedMechChargers>
-  <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
-  <AlertNeedMechChargersDesc>すべてのメカノイドに行き渡る充電器がありません.エネルギーを使い果たしたメカは自己充電のための休眠状態に入りますが,この方法はとても充電速度が遅いです.\n\n以下の充電器を建造してください:\n\n{0}\n\nNote:通常のメカ充電器は小型メカノイドだけが使えます.中型以上のメカノイドには大型メカ充電器が必要です.</AlertNeedMechChargersDesc>
+  <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
+  <AlertNeedMechChargersDesc>すべてのメカノイドに行き渡る充電器がありません.エネルギーを使い果たしたメカは自己充電のための休眠状態に入りますが,この方法はとても充電速度が遅いです.\n\n以下の充電器を建造してください:\n{0}\n\nNote:通常のメカ充電器は小型メカノイドだけが使えます.中型以上のメカノイドには大型メカ充電器が必要です.</AlertNeedMechChargersDesc>
   <!-- EN: Research basic mechtech or higher to build rechargers. -->
   <AlertNeedMechChargerBasicMechtech>充電器を建築するためには,機械技術基礎以上の研究を行ってください.</AlertNeedMechChargerBasicMechtech>
 
@@ -54,7 +54,7 @@
   <AlertNoBabyFeederDesc>赤ん坊に給仕する{FACTION_pawnsPlural}が未就任か,あるいは全員が歩行不能になっています.\n\n赤ん坊の食事タブで優先度を緊急にし,行動可能な人員を確認したら,{FACTION_pawnsPlural}の誰かに育児を割り当てるか,授乳中の{FACTION_pawnSingular}を選択して,赤ん坊に食事を与えてください.</AlertNoBabyFeederDesc>
   <!-- EN: Abandoned baby -->
   <AlertAbandonedBaby>捨てられた赤ん坊</AlertAbandonedBaby>
-  <!-- EN: There are abandoned babies nearby with no closeby caregivers.  If you don’t adopt the babies, it’s likely they'll starve to death.\n\nTo adopt a baby, select it and then select "{0}". -->
+  <!-- EN: There are abandoned babies nearby with no closeby caregivers.  If you don't adopt the babies, they'll probably starve to death.\n\nTo adopt a baby, select it and then select "{0}". -->
   <AlertAbandonedBabyDesc>赤ん坊が近くに捨てられ,近くに世話をする人もいません.この赤ん坊を助けなければ,赤ん坊は餓死してしまうでしょう.\n\n赤ん坊を養子にする場合,赤ん坊を選択してから"{0}"を選択してください.</AlertAbandonedBabyDesc>
 
   <!-- EN: No baby food in caravan -->

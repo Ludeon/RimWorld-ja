@@ -45,8 +45,8 @@
   <CorpseObsession.label>死体への執着</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
   <CorpseObsession.baseInspectLine>精神状態: 死体への執着</CorpseObsession.baseInspectLine>
-  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
-  <CorpseObsession.beginLetter>{0}は心の内面がおかしくなって死体に取り憑かれました.\n\n[PAWN_pronoun]は死体を掘り起こして,みんなが見えるところに飾ります.</CorpseObsession.beginLetter>
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>{0}は心の内面がおかしくなり,死体に執着するようになりました.\n\n[PAWN_pronoun]は死体を探し,みんなが見えるところに飾ります.</CorpseObsession.beginLetter>
   <!-- EN: {0} is no longer having a corpse obsession. -->
   <CorpseObsession.recoveryMessage>{0}はもう死体に執着しない.</CorpseObsession.recoveryMessage>
   

@@ -3,29 +3,29 @@
   
   <!-- EN: denture -->
   <Denture.label>入れ歯</Denture.label>
-  <!-- EN: An installed denture. -->
-  <Denture.description>移植された入れ歯</Denture.description>
+  <!-- EN: An installed denture. Allows for some basic functionality like eating and talking. -->
+  <Denture.description>移植された入れ歯です.食事や会話などの基本的なことが可能になります.</Denture.description>
   <!-- EN: a denture -->
   <Denture.labelNoun>入れ歯</Denture.labelNoun>
   
   <!-- EN: peg leg -->
   <PegLeg.label>木製義足(杖)</PegLeg.label>
-  <!-- EN: An installed peg leg. -->
-  <PegLeg.description>移植された木製義足(杖)</PegLeg.description>
+  <!-- EN: An installed peg leg. Allows the user to walk again, albeit not very well. -->
+  <PegLeg.description>移植された木製の下肢です.装着者は歩けるようになりますが,性能は低いです.</PegLeg.description>
   <!-- EN: a peg leg -->
   <PegLeg.labelNoun>木製義足(杖)</PegLeg.labelNoun>
   
   <!-- EN: wooden foot -->
   <WoodenFoot.label>木製義足(足形)</WoodenFoot.label>
-  <!-- EN: An installed wooden foot. -->
-  <WoodenFoot.description>移植された木製義足(足型)</WoodenFoot.description>
+  <!-- EN: An installed wooden foot. Restores some stability to the user, but without finer motor skills. -->
+  <WoodenFoot.description>脚の先に移植された,木製の足です.装着者はある程度安定して動けるようになりますが,細かい運動はできません.</WoodenFoot.description>
   <!-- EN: a wooden foot -->
   <WoodenFoot.labelNoun>木製義足(足形)</WoodenFoot.labelNoun>
   
   <!-- EN: wooden hand -->
   <WoodenHand.label>木製義手</WoodenHand.label>
-  <!-- EN: An installed wooden hand. -->
-  <WoodenHand.description>移植された木製義手</WoodenHand.description>
+  <!-- EN: An installed wooden hand. Better than a stump, but not by much. -->
+  <WoodenHand.description>移植された木製義手です.ないよりはマシですが,それでも性能は低いです.</WoodenHand.description>
   <!-- EN: a wooden hand -->
   <WoodenHand.labelNoun>木製義手</WoodenHand.labelNoun>
   

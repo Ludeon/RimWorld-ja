@@ -63,6 +63,8 @@
   <MessageCocoonDisturbed>繭が荒れ狂い開いていきます!</MessageCocoonDisturbed>
   <!-- EN: Cocoons have been disturbed and are opening! -->
   <MessageCocoonDisturbedPlural>繭が荒れ狂い開いていきます!</MessageCocoonDisturbedPlural>
+  <!-- EN: {0} has rotted due to polluted terrain. -->
+  <MessagePlantDiedOfRot_PollutedTerrain>TODO</MessagePlantDiedOfRot_PollutedTerrain>
 
   <!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm. -->
   <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef}に{PAWN_possessive}異種胚を強制的に移植する前に,{PAWN_objective}気絶させてください.</MessageTargetMustBeDownedToForceReimplant>

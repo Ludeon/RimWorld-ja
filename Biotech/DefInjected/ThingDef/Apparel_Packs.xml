@@ -16,10 +16,14 @@
   <!-- EN: A reusable backpack containing canisters of reagents and a mechanism that uses them to generate tox gas. When the wearer activates the pack, it will begin spreading tox gas and continue for several seconds until it runs out of reagents.\n\nOnce used, it must be reloaded with chemfuel before it can be used again.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal. -->
   <Apparel_PackTox.description>試薬のキャニスターと,それを使用して有毒ガスを生成する仕組みと搭載した,再利用可能なバックパックです.着用者がバックパックを起動すると,毒素ガスが拡散し始め,試薬がなくなるまで数秒間続きます.\n\n一度使用すると,再使用の前に化学燃料を再充填する必要があります.\n\n毒ガスは肺と目を焼き,一時的な息切れや視力低下を引き起こします.毒ガスにさらされ続けると有毒物質が蓄積され,致命的になり得ます.</Apparel_PackTox.description>
   <!-- EN: tox pack -->
-  <Apparel_PackTox.comps.CompReloadable.chargeNoun>毒ガスパック</Apparel_PackTox.comps.CompReloadable.chargeNoun>
+  <Apparel_PackTox.comps.CompApparelReloadable.chargeNoun>毒ガスパック</Apparel_PackTox.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_PackTox.comps.CompReloadable.cooldownGerund>クールダウン中</Apparel_PackTox.comps.CompReloadable.cooldownGerund>
+  <Apparel_PackTox.comps.CompApparelReloadable.cooldownGerund>クールダウン中</Apparel_PackTox.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy tox pack -->
   <Apparel_PackTox.verbs.deploy_tox_pack.label>毒ガスパックを展開</Apparel_PackTox.verbs.deploy_tox_pack.label>
+  
+  <!-- UNUSED -->
+  <Apparel_PackTox.comps.CompReloadable.chargeNoun>毒ガスパック</Apparel_PackTox.comps.CompReloadable.chargeNoun>
+  <Apparel_PackTox.comps.CompReloadable.cooldownGerund>クールダウン中</Apparel_PackTox.comps.CompReloadable.cooldownGerund>
   
 </LanguageData>

@@ -7,8 +7,12 @@
   <Alpaca.description>ラマと近縁の中型有蹄類であるアルパカは,並外れて柔らかくて熱を通さない毛をとるために飼育されています.アルパカはまた,駄載獣としても使われています.古代南アメリカのゴツゴツした山岳地帯で荷物を運んでいました.</Alpaca.description>
   <!-- EN: left hoof -->
   <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.left_hoof.labelNoLocation>TODO</Alpaca.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.right_hoof.labelNoLocation>TODO</Alpaca.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
   
@@ -18,8 +22,12 @@
   <Capybara.description>自然界最大の齧歯類であるカピバラは,湿度の高いジャングルに非常に適応しています.</Capybara.description>
   <!-- EN: left claw -->
   <Capybara.tools.left_claw.label>左爪</Capybara.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.left_claw.labelNoLocation>TODO</Capybara.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Capybara.tools.right_claw.label>右爪</Capybara.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.right_claw.labelNoLocation>TODO</Capybara.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Capybara.tools.head.label>頭部</Capybara.tools.head.label>
   
@@ -29,20 +37,28 @@
   <Megasloth.description>危険を寄せ付けない二つの爪を持った,巨大で,単独の草食動物です.地球上では,アメリカ大陸の原住民によって絶滅して長いことが経ちますが,メガスロスは,進んだクローン技術と,人工授精で,後の世に蘇りました.その厚い皮膚は,群を抜いて強く,熱を寄せ付けず,寒い気候の衣服用として,素晴らしい革とされています.</Megasloth.description>
   <!-- EN: left claw -->
   <Megasloth.tools.left_claw.label>左爪</Megasloth.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.left_claw.labelNoLocation>TODO</Megasloth.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Megasloth.tools.right_claw.label>右爪</Megasloth.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.right_claw.labelNoLocation>TODO</Megasloth.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Megasloth.tools.head.label>頭部</Megasloth.tools.head.label>
   
   <!-- EN: sheep -->
   <Sheep.label>ヒツジ</Sheep.label>
-  <!-- EN: Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
+  <!-- EN: Sheep husbandry is practiced throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
   <Sheep.description>ヒツジの飼育はヒトが住んでいる大部分で実践されていますが,RimWorldでは最近になって導入されました. この世界のヒツジは比較的に小さな草食動物で,大抵は黄色がかった羊毛と中型の角があります.</Sheep.description>
   <!-- EN: head -->
   <Sheep.tools.head.label>頭</Sheep.tools.head.label>
   <!-- EN: left hoof -->
   <Sheep.tools.left_hoof.label>左蹄</Sheep.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.left_hoof.labelNoLocation>TODO</Sheep.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Sheep.tools.right_hoof.label>右蹄</Sheep.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.right_hoof.labelNoLocation>TODO</Sheep.tools.right_hoof.labelNoLocation>
   
 </LanguageData>

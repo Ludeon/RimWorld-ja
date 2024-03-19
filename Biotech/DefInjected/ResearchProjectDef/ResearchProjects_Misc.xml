@@ -3,47 +3,130 @@
   
   <!-- EN: archogenetics -->
   <Archogenetics.label>アルコ遺伝学</Archogenetics.label>
-  <!-- EN: Allows a gene assembler to use archite capsules to create seemingly-impossible genes. Archite genes and archite capsules can be obtained from traders. -->
+  <!-- EN: Allows a gene assembler to use archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
   <Archogenetics.description>遺伝子アセンブラがアルカイトカプセルを使用し,一見不可能とも思えるような遺伝子を作成できるようにします.アルカイト遺伝子とアルカイトカプセルはトレーダーから入手できます.</Archogenetics.description>
+  <!-- EN:
+    <li>subject->archogenetics</li>
+    <li>subject_story->excavated archite genes from the transcendent moon of Ix</li>
+    <li>subject_story->made a good living as an archite gene trader</li>
+    <li>subject_story->led a research expedition to an ancient monolith and returned changed</li>
+    <li>subject_gerund->assembling archite genes</li>
+    <li>subject_gerund->creating seemingly impossible genes</li>
+  -->
+  <Archogenetics.generalRules.rulesStrings>TODO</Archogenetics.generalRules.rulesStrings>
   
   <!-- EN: deathrest -->
   <Deathrest.label>死眠</Deathrest.label>
   <!-- EN: Those with the deathrest gene must periodically undergo a special deathrest coma that lasts several days. This research project allows you to construct buildings which accelerate the deathrest coma and confer specific bonuses on the deathrester. Over time, you can build a grand deathrest temple. -->
   <Deathrest.description>死眠遺伝子を持つ者は,数日間続く特殊な死眠という昏睡を定期的に行わなければなりません.この研究計画は,死眠による昏睡を短縮し,死眠者に特殊効果を与える設備を建設できるようにします.時間をかければ壮大な死眠の寺院を建設できます.</Deathrest.description>
+  <!-- EN:
+    <li>subject->deathrest</li>
+    <li>subject_story->dissected corpses from a deathrest temple, finally understanding how it worked</li>
+    <li>subject_story->interviewed a celebrity who never seemed to age, eventually learning her secrets</li>
+    <li>subject_story->attempted to replicate the technology and fell into a coma, only to wake weeks later</li>
+    <li>subject_gerund->constructing deathrest facilities</li>
+    <li>subject_gerund->improving deathrest</li>
+  -->
+  <Deathrest.generalRules.rulesStrings>TODO</Deathrest.generalRules.rulesStrings>
   
   <!-- EN: fertility procedures -->
   <FertilityProcedures.label>生殖制御</FertilityProcedures.label>
   <!-- EN: Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women. -->
   <FertilityProcedures.description>繁殖可能な男女に手術を行い試験管受精卵を作成し,代理母,もしくは人工生育槽に移植します.また,男女の避妊手術を行えるようになります.</FertilityProcedures.description>
+  <!-- EN:
+    <li>subject->fertility procedures</li>
+    <li>subject_story->helped families in the coreworlds achieve their dream of parenthood with test-tube embryos</li>
+    <li>subject_story->saved the rare Callopian boomrat from extinction with dangerous hand-fertilization techniques.</li>
+    <li>subject_story->solved the population crisis on an urbworld with fertility interventions and growth vats</li>
+    <li>subject_gerund->altering human fertility</li>
+    <li>subject_gerund->improving or blocking human fertility</li>
+  -->
+  <FertilityProcedures.generalRules.rulesStrings>TODO</FertilityProcedures.generalRules.rulesStrings>
   
   <!-- EN: gene processor -->
   <GeneProcessor.label>遺伝子プロセッサ</GeneProcessor.label>
   <!-- EN: Build gene processors, which allow a gene assembler to create xenogerms of higher genetic complexity. -->
   <GeneProcessor.description>遺伝子アセンブラより複雑な異種胚を作成できる,遺伝子プロセッサを建築できるようになります.</GeneProcessor.description>
+  <!-- EN:
+    <li>subject->gene processors</li>
+    <li>subject_story->extracted Glitterworld genes from a drifting derelict</li>
+    <li>subject_story->processed an entire village to create one set of higher genes</li>
+    <li>subject_story->began the slow process of uplift by implanting xenogerms into a primitive tribe</li>
+    <li>subject_gerund->constructing gene processors</li>
+    <li>subject_gerund->processing genes</li>
+  -->
+  <GeneProcessor.generalRules.rulesStrings>TODO</GeneProcessor.generalRules.rulesStrings>
   
   <!-- EN: growth vats -->
   <GrowthVats.label>人工生育槽</GrowthVats.label>
   <!-- EN: Construct growth vats which can gestate an embryo or accelerate a child's growth. -->
   <GrowthVats.description>受精卵を成長させ,子供の成長を加速させることのできる,人工生育槽を建築できるようになります.</GrowthVats.description>
+  <!-- EN:
+    <li>subject->advanced gestation</li>
+    <li>subject->artificial wombs</li>
+    <li>subject_story->ran a cloning facility to supply servants for the coreworlds</li>
+    <li>subject_story->created a new army for a warworld junta</li>
+    <li>subject_story->helped families of all backgrounds have children</li>
+    <li>subject_gerund->gestating embryos in artificial wombs</li>
+    <li>subject_gerund->accelerating human growth</li>
+    <li>subject_gerund->constructing growth vats</li>
+  -->
+  <GrowthVats.generalRules.rulesStrings>TODO</GrowthVats.generalRules.rulesStrings>
   
   <!-- EN: toxin filtration -->
   <ToxFiltration.label>毒フィルター</ToxFiltration.label>
   <!-- EN: Craft and install bionic organs that can filter out toxins from the environment and from enemy attacks. -->
   <ToxFiltration.description>環境毒や攻撃による毒を除去できる生体器官を作成し,移植できるようになります.</ToxFiltration.description>
+  <!-- EN:
+    <li>subject->toxin filtration</li>
+    <li>subject->toxin metabolisation</li>
+    <li>subject_story->helped milworld combat survivors breathe again</li>
+    <li>subject_story->skipped chemistry practicals for extra ethics classes</li>
+    <li>subject_story->joined a mine-corp as a filtration specialist</li>
+    <li>subject_gerund->metabolising toxins</li>
+    <li>subject_gerund->crafting antitoxin organs</li>
+  -->
+  <ToxFiltration.generalRules.rulesStrings>TODO</ToxFiltration.generalRules.rulesStrings>
   
   <!-- EN: tox gas -->
   <ToxGas.label>毒ガス</ToxGas.label>
   <!-- EN: Produce weapons that utilize caustic tox gas. -->
   <ToxGas.description>浸食性の毒ガスを使用した武器を生産できるようになります.</ToxGas.description>
+  <!-- EN:
+    <li>subject->gas weaponry</li>
+    <li>subject->chemical warfare</li>
+    <li>subject_story->dreamed of a weapon to end all wars</li>
+    <li>subject_story->skipped ethics classes for extra chemistry practice</li>
+    <li>subject_story->researched cloud control tech for the tyrannocracy of a deathworld</li>
+    <li>subject_gerund->crafting toxic gas weapons</li>
+  -->
+  <ToxGas.generalRules.rulesStrings>TODO</ToxGas.generalRules.rulesStrings>
   
   <!-- EN: toxifier generator -->
   <ToxifierGenerator.label>有毒発電機</ToxifierGenerator.label>
   <!-- EN: Create toxifier generators which generate electricity, but also spread pollution around themselves. -->
   <ToxifierGenerator.description>汚染の拡散と引き換えに発電する,有毒発電機を建築できるようになります.</ToxifierGenerator.description>
+  <!-- EN:
+    <li>subject->toxifier generator</li>
+    <li>subject_story->led a clean-up crew to a toxic planetoid</li>
+    <li>subject_story->learned about toxifiers in the deep sump of a skyripper</li>
+    <li>subject_story->researched cheap and dirty power sources for an urbcorp</li>
+    <li>subject_gerund->constructing toxifier generators</li>
+  -->
+  <ToxifierGenerator.generalRules.rulesStrings>TODO</ToxifierGenerator.generalRules.rulesStrings>
   
   <!-- EN: xenogenetics -->
   <Xenogermination.label>異種遺伝学</Xenogermination.label>
   <!-- EN: Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else. -->
   <Xenogermination.description>人に移植することで遺伝子を改変できる,異種胚を作成できるようになります.遺伝子抽出器を使用して生きた人間から遺伝子パックを抽出し,その遺伝子を他の人間に再移植できるようになります.</Xenogermination.description>
+  <!-- EN:
+    <li>subject->xenogermination</li>
+    <li>subject->genetic implantation</li>
+    <li>subject_story->was uplifted by a glitterworld charity that focused on the genetically disadvantaged</li>
+    <li>subject_story->had their genes stolen by a rogue biologist</li>
+    <li>subject_story->ran a genetic transfer clinic for the glitterworld elite</li>
+    <li>subject_gerund->crafting xenogerms</li>
+  -->
+  <Xenogermination.generalRules.rulesStrings>TODO</Xenogermination.generalRules.rulesStrings>
   
 </LanguageData>

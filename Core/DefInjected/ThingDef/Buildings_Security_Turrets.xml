@@ -80,8 +80,12 @@
   <!-- EN: Out of foam -->
   <Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>泡切れ</Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>
   <!-- EN: activate -->
-  <Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>起動</Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>
+  <Turret_FoamTurret.comps.CompInteractableFoamTurret.jobString>起動</Turret_FoamTurret.comps.CompInteractableFoamTurret.jobString>
   <!-- EN: repressurizing -->
+  <Turret_FoamTurret.comps.CompInteractableFoamTurret.onCooldownString>再加圧している</Turret_FoamTurret.comps.CompInteractableFoamTurret.onCooldownString>
+  
+  <!-- UNUSED -->
+  <Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>起動</Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>
   <Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>再加圧している</Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>
   
   <!-- EN: mini-turret -->
@@ -117,8 +121,12 @@
   <!-- EN: Missing rockets -->
   <Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>ロケットがない</Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>
   <!-- EN: activate -->
-  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>操作</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>
+  <Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>操作</Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>
   <!-- EN: cooling off -->
+  <Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>冷却中</Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>
+  
+  <!-- UNUSED -->
+  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>操作</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>
   <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>冷却中</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>
   
   <!-- EN: uranium slug turret -->

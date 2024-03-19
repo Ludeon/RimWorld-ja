@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>レターは右クリックで消すことができます.</GameplayTips.DismissLetters>
+  <!-- EN: You can dismiss letters and messages by right-clicking on them. -->
+  <GameplayTips.DismissLetters>レターやメッセージは右クリックで消すことができます.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
   <GameplayTips.QueueOrders>Shiftキーを押し続けることで,入植者の行動予約を行うことができます.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
   <GameplayTips.ReorderColonistbar>右クリックしながらドラッグすることで,入植者アイコンを並べ替えられます.</GameplayTips.ReorderColonistbar>
-  <!-- EN: You can select previous/next colonist with the , and . keys. -->
+  <!-- EN: You can select the previous or next colonist with the , and . keys. -->
   <GameplayTips.SelectPrevNextColonist>「,」や「.」キーで前/次の入植者を選択できます.</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>多くのメニューでは,設定をクリックしてドラッグすることで,多くの設定に「貼り付け」ができます.これは衣服設定や食事制限などでも機能します.</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>多くのメニューでは,設定をクリックしてドラッグすることで,多くの設定に「貼り付け」ができます.これは服装ルールや食事ルールなどでも機能します.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
   <GameplayTips.ManualPriorities>優先順位タブの手動選択モードでは,1が一番高い優先度で,4が一番低い優先度です.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
@@ -144,7 +144,7 @@
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
   <GameplayTips.MoreAlliesMoreTraders>同盟派閥が多ければ多いほど,よりランダムなトレーダーや援軍を受けることができます.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>ドラッグ適用方針から,戦闘者にゴージュースのような戦闘ドラッグを所持させることができます.戦闘時に素早く摂取して戦闘を有利に進められます.</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory>ドラッグルールから,戦闘者にゴージュースのような戦闘ドラッグを所持させることができます.戦闘時に素早く摂取して戦闘を有利に進められます.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
   <GameplayTips.SchedulesSetLong>移動時間を最小限に抑えるために,1つの活動を長くまとめるスケジュールを設定しましょう.</GameplayTips.SchedulesSetLong>
   <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
@@ -153,5 +153,15 @@
   <GameplayTips.AnimalFilth>一部の家畜は多くの泥汚れを生み出します.象や牛などは外に出してください.</GameplayTips.AnimalFilth>
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
   <GameplayTips.PredatorsAndFences>捕食者はフェンスやバリケードの中にいる家畜は狩りません.</GameplayTips.PredatorsAndFences>
+  <!-- EN: It’s never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
+  <GameplayTips.NeverGameOver>TODO</GameplayTips.NeverGameOver>
+  <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
+  <GameplayTips.StoreBooksInBookcases>TODO</GameplayTips.StoreBooksInBookcases>
+  <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill’s “Details…” window. -->
+  <GameplayTips.TakeToShelves>TODO</GameplayTips.TakeToShelves>
+  <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
+  <GameplayTips.ChangeUnits>TODO</GameplayTips.ChangeUnits>
+  <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
+  <GameplayTips.TargetColonistBar>TODO</GameplayTips.TargetColonistBar>
   
 </LanguageData>

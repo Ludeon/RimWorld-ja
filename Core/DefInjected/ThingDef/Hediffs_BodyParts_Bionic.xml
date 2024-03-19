@@ -4,46 +4,51 @@
   <!-- EN: bionic arm -->
   <BionicArm.label>強化上肢</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>進化した機械化された腕です.静音型ミニサーボモーターが強力な力を産み出し,バイオジェル神経リンクが絶妙な制御を与えます.格子状異物修復システムがダメージからの回復を可能にしています.ほとんどの生物学的腕よりも優れています.</BionicArm.description>
+  <BionicArm.description>高度な技術で作られた人工腕です.静音性小型サーボモーターによって強い力を生み出し,有機ジェルを使用した神経伝達によって精密な制御を可能とします.また,格子状異物修復システムによってダメージからの回復も可能にしています.生物学的な腕と比べ,ほぼすべての点において優れています.</BionicArm.description>
   
   <!-- EN: bionic ear -->
   <BionicEar.label>強化内耳</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>進化した機械化された耳インプラントです.真皮下に埋め込まれて見えないマイクが音を捕らえ,聴覚神経と直接つながっているバイオジェル神経リンクに送信します.その感度は,目で見る前に,音を聞くのに十分であり,大きな騒音によってダメージを受けることなく,雑音が多い環境下でも,意味のある音声を自動的に聞きとれるようチューニングします.</BionicEar.description>
+  <BionicEar.description>高度な技術で作られた人工耳インプラントです.真皮下に埋め込まれたマイクが音を捕らえ,有機ジェルを使用した人工神経に情報を送信し,聴覚神経へと伝えます.その優れた感度は,目視するよりも早く音で猫を感知でき,大きな騒音によってダメージを受けることもなく,雑音が多い環境下でも重要な音を聞き取れるように自動的に調整されます.</BionicEar.description>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>強化視覚センサー</BionicEye.label>
   <!-- EN: An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>進化した機械化された眼です.バイオジェル神経リンク,内蔵シグナルプリプロセッサ,そして広帯域スペクトルセンサーにより,ほとんどの生物学的眼よりも優れています.格子状異物修復システムがダメージからの回復を可能にしています.</BionicEye.description>
+  <BionicEye.description>高度な技術で作られた人工眼です.有機ジェルを使用した神経伝達,内部信号プリプロセッサ,広域スペクトルセンサーが内蔵されており,生物学的な眼と比べ,ほぼすべての点において優れています.また,格子状異物修復システムによってダメージからの回復も可能にしています.</BionicEye.description>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>強化心臓</BionicHeart.label>
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>進化した機械化された心臓です.本物と同じ鼓動を打つ合成された筋繊維と,更に,高負荷時にも迅速な血液循環のための高流量ポンプを内蔵しています.たいてい生物学的心臓よりも優れています.</BionicHeart.description>
+  <BionicHeart.description>高度な技術で作られた人工心臓です.本物と変わらない鼓動を行う合成筋繊維と,高負荷時に迅速な血液循環を行える高流量ポンプが内蔵されています.生物学的な心臓と比べ,ほぼすべての点において優れています.</BionicHeart.description>
+  
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>TODO</BionicJaw.label>
+  <!-- EN: An artificial jaw replacement. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>TODO</BionicJaw.description>
   
   <!-- EN: bionic leg -->
   <BionicLeg.label>強化下肢</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>進化した機械化された脚です.静音型ミニサーボモーターが強力な力を産み出し,バイオジェル神経リンクが絶妙な制御を与えます.格子状異物修復システムがダメージからの回復を可能にしています.ほとんどの生物学的脚よりも優れています.</BionicLeg.description>
+  <BionicLeg.description>高度な技術で作られた人工脚です.有機ジェルを使用した神経伝達,強力な小型サーボモーター,格子状異物修復システムが内蔵されており,生物学的な脚と比べ,ほぼすべての点において優れています.</BionicLeg.description>
   
   <!-- EN: bionic spine -->
   <BionicSpine.label>強化脊椎</BionicSpine.label>
   <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>進化した機械化された脊椎です.バイオジェル神経リンク束が,プラスチール製脊椎コアを貫通し,格子状異物修復システムが取り巻いています.生物学的脊椎と同等の働きをします.</BionicSpine.description>
+  <BionicSpine.description>高度な技術で作られた人工脊椎です.プラスチール製の脊椎の周りを格子状異物修復システムが取り巻いており,有機ジェルを使用した神経束が脊椎を伝っています.生物学的脊椎と同等の働きをします.</BionicSpine.description>
   
   <!-- EN: bionic stomach -->
   <BionicStomach.label>強化胃</BionicStomach.label>
-  <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>進化した機械化された胃です. センサーと合成薬品が効果的に食物を消化します.統合された,格子状異物修復システムが,強力な酸により受けたあらゆるダメージを自動的に修復します.たいてい生物学的胃よりも優れています.</BionicStomach.description>
+  <!-- EN: An advanced artificial stomach with sensors and chemical synthesizers that efficiently digest nearly any energy-bearing foodstuff. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>センサーと合成薬品を内蔵した高度な人工胃で,ほぼすべての食物を効率的に消化します.この胃を持つ者は食中毒になる可能性が非常に低くなり,いくつかの胃の病気を防ぎます.また,この人工臓器に備わる格子状異物修復システムが,胃の損傷を自動的に修復します.生物学的な胃と比べ,ほぼすべての点において優れています.</BionicStomach.description>
   
   <!-- EN: bionic tongue -->
   <BionicTongue.label>強化舌</BionicTongue.label>
   <!-- EN: An artificial tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
-  <BionicTongue.description>機械化された舌に取り替えます.滑らかな合成繊維で作られており,ジェル状の神経インターフェイスを介して接続されているため,話す,食べる,味わう際に自然な舌と同等の働きをします.</BionicTongue.description>
+  <BionicTongue.description>代替品となる人工舌です.滑らかな合成繊維で作られており,ジェル状の神経インターフェイスを介して接続されているため,話す,食べる,味わう際に自然な舌と同等の働きをします.</BionicTongue.description>
   
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>亡者の酸</DeathAcidifier.label>
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
-  <DeathAcidifier.description>腰に埋め込んだインプラントが,敵の手に装備が渡るのを防ぎます.使用者の死と共に強力な酸が放出され,使用者と接触している装備を溶かします.他にダメージは与えません.</DeathAcidifier.description>
+  <DeathAcidifier.description>敵の手に装備が渡ることを防ぐための,腰に埋め込むインプラントです.装着者の死と共に強力な酸が放出され,装着者と接触している装備を溶かします.他にダメージは与えません.</DeathAcidifier.description>
   
 </LanguageData>

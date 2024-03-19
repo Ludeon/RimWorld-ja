@@ -28,8 +28,12 @@
   <Mech_Lancer.description>中距離および長距離戦闘用に構築された,動きの速いヒトサイズの戦闘用機械生命体です.軽装甲であるため,近距離,特に格闘戦において,この生命体は脆弱な標的となります.</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>左拳</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.left_fist.labelNoLocation>TODO</Mech_Lancer.tools.left_fist.labelNoLocation>
   <!-- EN: right fist -->
   <Mech_Lancer.tools.right_fist.label>右拳</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.right_fist.labelNoLocation>TODO</Mech_Lancer.tools.right_fist.labelNoLocation>
   <!-- EN: head -->
   <Mech_Lancer.tools.head.label>頭部</Mech_Lancer.tools.head.label>
   
@@ -39,8 +43,12 @@
   <Mech_Pikeman.description>長射程兵器を運用する土台として特化された,精度の低い多脚型の戦闘用機械生命体です.長距離においては大きな脅威ですが,近距離戦や格闘戦には弱いです.\n\n対メカノイド戦闘の猛者は,パイクマンに手が届く距離にいることが,最も安全であると知っています.</Mech_Pikeman.description>
   <!-- EN: front left leg -->
   <Mech_Pikeman.tools.front_left_leg.label>左前脚</Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
   <Mech_Pikeman.tools.front_right_leg.label>右前脚</Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->
   <Mech_Pikeman.tools.head.label>頭部</Mech_Pikeman.tools.head.label>
   
@@ -50,8 +58,12 @@
   <Mech_Scyther.description>素早い接近と白兵戦に特化した,細長く,動きの速いヒトサイズの戦闘用機械生命体です.この生命体は全身が針や刃で覆われていますが,主な武器は2本の腕の刃であり,これを使用して犠牲者の手足やはらわたを生きたまま切り落とします.</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>左刃</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.left_blade.labelNoLocation>TODO</Mech_Scyther.tools.left_blade.labelNoLocation>
   <!-- EN: right blade -->
   <Mech_Scyther.tools.right_blade.label>右刃</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.right_blade.labelNoLocation>TODO</Mech_Scyther.tools.right_blade.labelNoLocation>
   <!-- EN: head -->
   <Mech_Scyther.tools.head.label>頭部</Mech_Scyther.tools.head.label>
   

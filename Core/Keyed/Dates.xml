@@ -14,6 +14,8 @@
   <FullDate>{2}年 {1}節 {0}日</FullDate>
   <!-- EN: {0} {1} {2} -->
   <ShortDate>{2}年 {1}節 {0}日</ShortDate>
+  <!-- EN: {0}, {1} --><!--TODO--><!--他の項目では{0}が日,{1}が季節だが,この項目は異なる？ゲーム画面で確認-->
+  <MonthYearDate>{1}年 {0}節</MonthYearDate>
   <!-- EN: {0} of {1}, {2} -->
   <DateReadout>{2}年 {1}節 {0}日</DateReadout>
   <!-- EN: {0} of {1} -->

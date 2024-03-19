@@ -11,11 +11,15 @@
   <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
   <Apparel_ArmorCataphractPhoenix.description>肩掛け式フレイムボルトランチャーを備えたカタフラクトアーマーの一種です.このアーマーは,普通の攻撃に対する防御力が通常のカタフラクトアーマーより僅かに劣りますが,その代わり炎に対する耐性が非常に優れています.フレイムボトルランチャーの弾数は非常に少なく,使用後は再補充を行う必要があります.\n\nフェニックス部隊は,地下や船上での軍事作戦のような,敵で満たされた非常に狭い空間を一掃することを専門としています.彼らは通路を突き進みながら銃撃を吸収し,部屋を炎で満たし,無傷で煙の中から出てくることができます.</Apparel_ArmorCataphractPhoenix.description>
   <!-- EN: incendiary -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>焼夷弾</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>焼夷弾</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>クールダウン</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: launch incendiary -->
   <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>焼夷弾を発射</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
+  
+  <!-- UNUSED -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>焼夷弾</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>
   
   <!-- EN: prestige cataphract armor -->
   <Apparel_ArmorCataphractPrestige.label>特級カタフラクトアーマー</Apparel_ArmorCataphractPrestige.label>
@@ -42,22 +46,30 @@
   <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
   <Apparel_ArmorLocust.description>短距離飛行用のバーストロケットを備えた,バッタの名を冠するレコンアーマーの一種です.ローカストアーマーの防御力は,通常のレコンアーマーより僅かに劣ります.ジャンプを行うたび,燃料を一気に消費してしまうため,何度か使用した後は再補充を行う必要があります.\n\nローカスト部隊は主に,最先端技術を用いた軍組織のほとんどとは異なり,近接武器を用いて訓練します.彼らは通常,動きの少ない銃撃戦を避け,敵に真っ直ぐジャンプを行い,格闘戦に持ち込む方を選びます.動きの少ない防衛戦や狭い区画では力を発揮できませんが,混戦や船の破壊工作には優れています.</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
-  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>ジャンプ</Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>
+  <Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>クールダウン</Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: jump -->
   <Apparel_ArmorLocust.verbs.jump.label>ジャンプする</Apparel_ArmorLocust.verbs.jump.label>
+  
+  <!-- UNUSED -->
+  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>
   
   <!-- EN: grenadier armor -->
   <Apparel_ArmorMarineGrenadier.label>グレネードアーマー</Apparel_ArmorMarineGrenadier.label>
   <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
   <Apparel_ArmorMarineGrenadier.description>肩にフラグランチャーを備えた,マリーンアーマーの一種です.このアーマーの防御力は,通常のマリーンアーマーより僅かに劣ります.ランチャーには限られた弾数しか装填できないため,使用後は再補充を行う必要があります.\n\nグレネード部隊は通常,船内の隔壁や建物の突破を専門としています.非常に長い射程ではあまり効果を見せませんが,狭い区画では驚くほど致命的になる可能性があります.</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>グレネード</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>グレネード</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>
+  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>クールダウン</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: launch frag grenade -->
   <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>グレネードを発射</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  
+  <!-- UNUSED -->
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>グレネード</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>
   
   <!-- EN: prestige marine helmet -->
   <Apparel_ArmorMarineHelmetPrestige.label>特級マリーンヘルメット</Apparel_ArmorMarineHelmetPrestige.label>

@@ -148,15 +148,8 @@
   <!-- EN: No available recharger -->
   <CannotCarryToRechargerNoneAvailable>利用可能な充電器がない</CannotCarryToRechargerNoneAvailable>
 
-  <!-- EN: Cannot study -->
-  <CannotStudy>研究できない</CannotStudy>
-  <!-- EN: already studied -->
-  <AlreadyStudied>すでに研究した</AlreadyStudied>
-  <!-- EN: no reachable, un-reserved research bench available -->
-  <NoResearchBench>到達可能な,予約されてない研究卓がない</NoResearchBench>
-
   <!-- EN: Hemogen packs disabled by food restriction. -->
-  <NotAllowedHemogen>食事制限によりヘモゲンパックが無効になっています.</NotAllowedHemogen>
+  <NotAllowedHemogen>食事ルールによりヘモゲンパックが無効になっています.</NotAllowedHemogen>
 
   <!-- EN: Eject genepack from gene bank -->
   <EjectGenepackFromGeneBank>遺伝子バンクから遺伝子パックを取り出す</EjectGenepackFromGeneBank>
@@ -166,5 +159,14 @@
 
   <!-- EN: attempted romance too recently -->
   <RomanceOnCooldown>最近恋愛をしていない</RomanceOnCooldown>
+
+  <!-- EN: Take to safe location -->
+  <CarryToSafePlace>TODO</CarryToSafePlace>
+  <!-- EN: Cannot take to safe location -->
+  <CannotCarryToSafePlace>TODO</CannotCarryToSafePlace>
+
+  <!-- UNUSED -->
+  <CannotStudy>研究できない</CannotStudy>
+  <AlreadyStudied>すでに研究した</AlreadyStudied>
 
 </LanguageData>

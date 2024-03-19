@@ -160,8 +160,8 @@
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>地底人</Undergrounder.degreeDatas.undergrounder.label>
-  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}は明かりも,外での経験も必要ありません.{PAWN_pronoun}は,窮屈感を感じたり,キャビンフィーバーになったりしないでしょう,{PAWN_pronoun}は,どれだけ閉じこもっても気にしないし,暗闇を気にすることもありません.</Undergrounder.degreeDatas.undergrounder.description>
+  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors. -->
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}には外に出たいという欲求がなく,明かりも必要としません.そのため{PAWN_pronoun}はキャビンフィーバーにならず,狭い場所も暗闇も気にしません.しかしその反面,{PAWN_pronoun}は外に出ることにストレスを感じます.</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
   <Wimp.degreeDatas.wimp.label>弱虫</Wimp.degreeDatas.wimp.label>

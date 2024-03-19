@@ -46,6 +46,8 @@
   <Prohibitions>禁止</Prohibitions>
   <!-- EN: Opinions -->
   <Opinions>意見</Opinions>
+  <!-- EN: Mental breaks -->
+  <MentalBreaks>TODO</MentalBreaks>
   <!-- EN: Randomize name -->
   <RandomizeName>名前をランダム生成</RandomizeName>
   <!-- EN: Randomize precepts -->
@@ -118,6 +120,8 @@
   <IdeoCharityQuestInfo>これは慈善クエストです.これを拒否する場合,{0}の信仰者は彼らの持つ慈善的な思想によって不幸になります.受諾する場合,{0}の信仰者は幸せになります({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>奴隷はこの仕事は行わない</WorkDisabledSlave>
+  <!-- EN: Disabled by health condition -->
+  <WorkDisabledHealth>TODO</WorkDisabledHealth>
   <!-- EN: Disabled by {0} role -->
   <WorkDisabledRole>{0}の役割により不許可</WorkDisabledRole>
   <!-- EN: Affected by traits -->

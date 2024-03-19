@@ -22,8 +22,8 @@
   <!-- EN: Not allowed -->
   <NotAllowed>許可されていない</NotAllowed>
   
-  <!-- EN: Fire at {1_label} -->
-  <FireAt>{1_label}に発射 (遠距離)</FireAt>
+  <!-- EN: Fire at {1_labelShort} -->
+  <FireAt>{1_labelShort}に遠距離射撃</FireAt>
 
   <!-- EN: out of range -->
   <OutOfRange>範囲外</OutOfRange>
@@ -51,10 +51,10 @@
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort}に配置</OrderManThing>
   
-  <!-- EN: Melee attack {1_label} -->
-  <MeleeAttack>{1_label}に近接攻撃する</MeleeAttack>
-  <!-- EN: Melee attack {1_label} to death -->
-  <MeleeAttackToDeath>{1_label}を殺すまで近接攻撃する</MeleeAttackToDeath>
+  <!-- EN: Melee attack {1_labelShort} -->
+  <MeleeAttack>{1_labelShort}に近接攻撃する</MeleeAttack>
+  <!-- EN: Melee attack {1_labelShort} to death -->
+  <MeleeAttackToDeath>{1_labelShort}を殺すまで近接攻撃する</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>道順が無い</NoPath>
   <!-- EN: burying -->
@@ -96,10 +96,10 @@
   <PrisonerInteractedTooRecently>勧誘間隔が短い</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>食べられるエサがない</NoUsableFood>
-  <!-- EN: no food -->
-  <NoFood>エサがない</NoFood>
+  <!-- EN: not enough food -->
+  <NoFood>十分なエサがない</NoFood>
   <!-- EN: no food matching restrictions -->
-  <NoFoodMatchingRestrictions>食事制限に該当する食料がない</NoFoodMatchingRestrictions>
+  <NoFoodMatchingRestrictions>食事ルールに該当する食料がない</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
   <NoIngredient>{0_label}がない</NoIngredient>
   <!-- EN: below requirements of {0} -->
@@ -158,6 +158,8 @@
   <IncapableOfDeconstruction>解体する能力がない</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
   <IncapableOfMining>掘削する能力がない</IncapableOfMining>
+  <!-- EN: tree marked for extraction -->
+  <TreeMarkedForExtraction>TODO</TreeMarkedForExtraction>
   <!-- EN: angers faction -->
   <AngersFaction>派閥を怒らせる</AngersFaction>
   <!-- EN: no body part -->
@@ -192,39 +194,48 @@
   <CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>ここに移動する</GoHere>
+
+  <!-- EN: Clean {0} -->
+  <CleanRoom>TODO</CleanRoom>
   
   <!-- EN: Arrest {0} -->
   <Arrest>{0}を逮捕する</Arrest>
-  <!-- EN: Try to arrest {1_label} ({2} chance) -->
-  <TryToArrest>{1_label}の逮捕を試みる (成功率 {2})</TryToArrest>
+  <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
+  <TryToArrest>{1_labelShort}の逮捕を試みる (成功率 {2})</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>逮捕できない</CannotArrest>
   <!-- EN: {0} chance of arrest -->
   <ArrestChance>逮捕成功率 {0}</ArrestChance>
 
-  <!-- EN: Capture {1_label} -->
-  <Capture>{1_label}を捕らえる</Capture>
+  <!-- EN: Capture {1_labelShort} -->
+  <Capture>{1_labelShort}を捕らえる</Capture>
+  <!-- EN: capture {0_labelShort} -->
+  <CaptureLower>TODO</CaptureLower>
   <!-- EN: Cannot capture -->
   <CannotCapture>捕獲できない</CannotCapture>
   <!-- EN: unwaveringly loyal -->
   <Unrecruitable>揺るぎない忠誠心</Unrecruitable>
+  <!-- EN: not recruitable -->
+  <UnrecruitableNoFaction>TODO</UnrecruitableNoFaction> 
+  <!-- EN: Transfer {0_label} -->
+  <TransferEntity>TODO</TransferEntity> 
 
-  <!-- EN: Rescue {1_label} -->
-  <Rescue>{1_label}を救助する</Rescue>
-  <!-- EN: Put {1_label} somewhere safe -->
-  <PutSomewhereSafe>{1_label}を安全な場所に移動させる</PutSomewhereSafe>
+  <!-- EN: Rescue {1_labelShort} -->
+  <Rescue>{1_labelShort}を救助する</Rescue>
+  <!-- EN: Put {1_labelShort} somewhere safe -->
+  <PutSomewhereSafe>{1_labelShort}を安全な場所に移動させる</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
   <TakingToBed>{0_labelShort}をベッドに運搬している</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>救助できない</CannotRescue>
 
-  <!-- EN: Carry {1_label} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>{1_label}を冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
+  <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>{1_labelShort}を冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
-  <!-- EN: Carry {0_label} to shuttle -->
-  <CarryToShuttle>シャトルに{0_label}を運ぶ</CarryToShuttle>
+  <!-- EN: Carry {0_labelShort} to shuttle -->
+  <CarryToShuttle>シャトルに{0_labelShort}を運ぶ</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>冬眠カプセルがありません.</NoCryptosleepCasket>
@@ -236,10 +247,16 @@
   <CryptosleepCasketOccupied>すでに占有されている</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>周囲を壁で遮断された,到達可能な,安全な温度の,予約されていない囚人用ベッドがありません.</NoPrisonerBed>
+  <!-- EN: No prisoner bed available. -->
+  <NoPrisonerBedShort>TODO</NoPrisonerBedShort>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>到達可能な,安全な温度の,予約されていない入植者用ベッドがありません.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>到達可能な,安全な温度の,予約されていない動物用ベッドがありません.</NoAnimalBed>
+  <!-- EN: No reachable, unforbidden, un-reserved {0} -->
+  <NoItemReservedOrReachable>TODO</NoItemReservedOrReachable>
+  <!-- EN: No unforbidden, un-reserved {0} -->
+  <NoItemReserved>TODO</NoItemReserved>
   <!-- EN: Reserved by someone else. -->
   <Reserved>他の誰かが使用しています.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
@@ -335,23 +352,25 @@
   <!-- EN: overweight -->
   <OverweightLower>過積載</OverweightLower>
 
-  <!-- EN: Cannot carry {1_label} and leave the area -->
-  <CannotCarryToExit>{1_label}を運んで,エリアを離れることができない</CannotCarryToExit>
-  <!-- EN: Carry {1_label} and leave the area -->
-  <CarryToExit>{1_label}を運んで,エリアを離れる</CarryToExit>
-  <!-- EN: Capture {1_label} and leave the area -->
-  <CarryToExitAndCapture>{1_label}を捕獲して,ここから離れる</CarryToExitAndCapture>
+  <!-- EN: Cannot carry {1_labelShort} and leave the area -->
+  <CannotCarryToExit>{1_labelShort}を運んで,エリアを離れることができない</CannotCarryToExit>
+  <!-- EN: Carry {1_labelShort} and leave the area -->
+  <CarryToExit>{1_labelShort}を運んで,エリアを離れる</CarryToExit>
+  <!-- EN: Capture {1_labelShort} and leave the area -->
+  <CarryToExitAndCapture>{1_labelShort}を捕獲して,ここから離れる</CarryToExitAndCapture>
   
-  <!-- EN: Strip {1_label} -->
-  <Strip>{1_label}から剥ぐ</Strip>
-  <!-- EN: Cannot strip {1_label} -->
-  <CannotStrip>{1_label}から剥ぎ取れない</CannotStrip>
-  <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>{1_label}を外せない</CannotDrop>
-  <!-- EN: Carry {0_label} -->
-  <Carry>{0_label}を運ぶ</Carry>
-  <!-- EN: Cannot carry {0_label} -->
-  <CannotCarry>{0_label}を運べない</CannotCarry>
+  <!-- EN: Strip {1_labelShort} -->
+  <Strip>{1_labelShort}から剥ぐ</Strip>
+  <!-- EN: Cannot strip {1_labelShort} -->
+  <CannotStrip>{1_labelShort}から剥ぎ取れない</CannotStrip>
+  <!-- EN: Cannot drop {1_labelShort} -->
+  <CannotDrop>{1_labelShort}を外せない</CannotDrop>
+  <!-- EN: Carry {0_labelShort} -->
+  <Carry>{0_labelShort}を運ぶ</Carry>
+  <!-- EN: Cannot carry {0_labelShort} -->
+  <CannotCarry>{0_labelShort}を運べない</CannotCarry>
+  <!-- EN: hostile -->
+  <CarriedPawnHostile>TODO</CarriedPawnHostile>
   <!-- EN: temporary faction member -->
   <QuestRelated>派閥構成員(仮)</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -367,8 +386,8 @@
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
   
-  <!-- EN: Drop {1_label} -->
-  <Drop>{1_label}を手放す</Drop>
+  <!-- EN: Drop {1_labelShort} -->
+  <Drop>{1_labelShort}を手放す</Drop>
 
   <!-- EN: Rest until healed -->
   <UseMedicalBed>完治するまで休む</UseMedicalBed>
@@ -383,8 +402,12 @@
   
   <!-- EN: Trade with {0} -->
   <TradeWith>{0}とトレード</TradeWith>
+  <!-- EN: Dismiss trader -->
+  <DismissTrader>TODO</DismissTrader>
   <!-- EN: Cannot trade -->
   <CannotTrade>トレードできない</CannotTrade>
+  <!-- EN: Trader dismissed -->
+  <TraderDismissed>TODO</TraderDismissed>
 
   <!-- EN: Open {0_label} -->
   <Open>{0_label}を開く</Open>
@@ -409,6 +432,19 @@
   <OfferGifts>贈り物を提供する</OfferGifts>
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>{0}と貿易</TradeWithSettlement>
+  
+  <!-- EN: Enter {0} -->
+  <EnterPortal>TODO</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>TODO</EnteringPortal>
+  <!-- EN: Enter {0} -->
+  <CommandEnterPortal>TODO</CommandEnterPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -553,6 +589,11 @@
 
   <!-- EN: Cannot enter -->
   <CannotEnter>入れない</CannotEnter>
+  
+  <!-- EN: Cannot enter {0} -->
+  <CannotEnterPortal>TODO</CannotEnterPortal>
+  <!-- EN: closed -->
+  <PortalClosed>TODO</PortalClosed>
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
@@ -563,5 +604,26 @@
   <!-- Feeding -->
   <!-- EN: disliked food -->
   <WarningFoodDisliked>嫌いな食べ物</WarningFoodDisliked>
+  <!-- EN: Unsuitable food -->
+  <FoodNotSuitable>TODO</FoodNotSuitable>
 
+  <!-- EN: Unsuitable drug -->
+  <DrugNotSuitable>TODO</DrugNotSuitable>
+  
+  <!-- Books -->
+  <!-- EN: Assign reading... -->
+  <AssignReading>TODO</AssignReading>
+  <!-- EN: Read {0} -->
+  <AssignReadNow>TODO</AssignReadNow>
+  <!-- EN: Cannot read {0} -->
+  <AssignCannotReadNow>TODO</AssignCannotReadNow>
+
+  <!-- EN: Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>TODO</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <!-- EN: already analyzed -->
+  <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
+  <!-- EN: no reachable, un-reserved research bench available -->
+  <NoResearchBench>到達可能な,予約されてない研究卓がない</NoResearchBench>
 </LanguageData>

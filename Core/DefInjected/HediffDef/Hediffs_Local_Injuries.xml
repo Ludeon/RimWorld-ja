@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: acid burn -->
+  <AcidBurn.label>酸熱傷</AcidBurn.label>
+  <!-- EN: An acid burn. -->
+  <AcidBurn.description>酸熱傷.</AcidBurn.description>
+  <!-- EN: acid burn scar -->
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>酸熱傷痕</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Dissolved off -->
+  <AcidBurn.injuryProps.destroyedLabel>溶け落ちた</AcidBurn.injuryProps.destroyedLabel>
+  <!-- EN: an acid burn -->
+  <AcidBurn.labelNoun>酸熱傷</AcidBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <AcidBurn.labelNounPretty>{1}内の{0}</AcidBurn.labelNounPretty>
+  
   <!-- EN: bite -->
   <Bite.label>噛み傷</Bite.label>
   <!-- EN: A bite wound. -->
@@ -134,6 +147,21 @@
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>{1}内の{0}</Cut.labelNounPretty>
   
+  <!-- EN: electrical burn -->
+  <ElectricalBurn.label>TODO</ElectricalBurn.label>
+  <!-- EN: An electical burn. -->
+  <ElectricalBurn.description>TODO</ElectricalBurn.description>
+  <!-- EN: electrical burn scar -->
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <ElectricalBurn.injuryProps.destroyedLabel>TODO</ElectricalBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <ElectricalBurn.injuryProps.destroyedOutLabel>TODO</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an electrical burn -->
+  <ElectricalBurn.labelNoun>TODO</ElectricalBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ElectricalBurn.labelNounPretty>TODO</ElectricalBurn.labelNounPretty>
+  
   <!-- EN: cut -->
   <ExecutionCut.label>切創</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
@@ -187,10 +215,10 @@
   <!-- EN: {0} in the {1} -->
   <Gunshot.labelNounPretty>{1}内の{0}</Gunshot.labelNounPretty>
   
-  <!-- EN: misc -->
-  <Misc.label>その他</Misc.label>
-  <!-- EN: Miscellanous injuries. -->
-  <Misc.description>その他諸々の怪我.</Misc.description>
+  <!-- EN: wound -->
+  <Misc.label>傷</Misc.label>
+  <!-- EN: Miscellaneous injuries. -->
+  <Misc.description>様々な要因による怪我.</Misc.description>
   <!-- EN: set -->
   <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->

@@ -96,6 +96,14 @@
   <Uses>使用</Uses>
   <!-- EN: Translation -->
   <Translation>翻訳</Translation>
+  <!-- EN: min(days) -->
+  <minDays>TODO</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>TODO</maxDays>
+  <!-- EN: Processing -->
+  <Processing>TODO</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>TODO</Inspect> 
 
   <!-- Content generation-->
   
@@ -201,6 +209,8 @@
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>入植者</Colonist>
+  <!-- EN: colonists -->
+  <ColonistPlural>TODO</ColonistPlural> <!-- text_todo -->
   
   
 </LanguageData>
