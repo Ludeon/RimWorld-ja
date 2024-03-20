@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: The child of an illicit affair, [PAWN_nameDef] was bought up by nuns in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical. -->
-  <ConventChild16.baseDesc>不倫の結果,生まれた子として,[PAWN_nameDef]は,中世世界の修道院で,修道女によって養育されました.[PAWN_pronoun]は,勤勉であることの価値や,従順さを学びましたが,同時に,テクノロジーは異端であることも教えられました.</ConventChild16.baseDesc>
+  <!-- EN: The child of an illicit affair, [PAWN_nameDef] was bought up by ascetics in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical and violence immortal. -->
+  <ConventChild16.description>不倫相手の子として中世惑星に生まれた[PAWN_nameDef]は,修道女によって買い取られました.[PAWN_pronoun]は人に従うことと勤勉であることの大切さを学び,そしてテクノロジーは異端であり,暴力は不滅であることも教わりました.</ConventChild16.description>
+  <ConventChild16.baseDesc>不倫相手の子として中世惑星に生まれた[PAWN_nameDef]は,修道女によって買い取られました.[PAWN_pronoun]は人に従うことと勤勉であることの大切さを学び,そしてテクノロジーは異端であり,暴力は不滅であることも教わりました.</ConventChild16.baseDesc>
   <!-- EN: convent child -->
   <ConventChild16.title>修道児</ConventChild16.title>
   <!-- EN: illicit -->
   <ConventChild16.titleShort>不倫</ConventChild16.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
-  <MedievalLordling19.baseDesc>[PAWN_nameDef]は,Medieval世界の古い王国で二流の貴族でした.[PAWN_pronoun]は,石造りの邸宅で下層階級の召使いの世話を受けて育ちました.\n\nこのような生活では何も専門的なスキルを学ぶことも無く,生涯,手作業などを嫌がることが染み付いています - いっぽう,[PAWN_nameDef]は早いうちから人を操る術を学びました.</MedievalLordling19.baseDesc>
+  <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of handcut stone, served by servants of the lower classes.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
+  <MedievalLordling19.description>[PAWN_nameDef]は中世惑星の歴史ある王国の小貴族でした.[PAWN_pronoun]は下層階級の使用人が仕える,石造りの邸宅で育ちました.\n\nこの生活によって,[PAWN_pronoun]は専門的なスキルを何も学べず,肉体労働に対して治ることのない嫌悪感を覚えるようになりました.しかしその反面,[PAWN_nameDef]は早いうちから人を操る術を学びました.</MedievalLordling19.description>
+  <MedievalLordling19.baseDesc>[PAWN_nameDef]は中世惑星の歴史ある王国の小貴族でした.[PAWN_pronoun]は下層階級の使用人が仕える,石造りの邸宅で育ちました.\n\nこの生活によって,[PAWN_pronoun]は専門的なスキルを何も学べず,肉体労働に対して治ることのない嫌悪感を覚えるようになりました.しかしその反面,[PAWN_nameDef]は早いうちから人を操る術を学びました.</MedievalLordling19.baseDesc>
   <!-- EN: medieval lordling -->
   <MedievalLordling19.title>中世の小君主</MedievalLordling19.title>
   <!-- EN: medieval lady -->
@@ -20,7 +22,8 @@
   <MedievalLordling19.titleShortFemale>貴族令嬢</MedievalLordling19.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
-  <MedievalSlave49.baseDesc>[PAWN_nameDef]は,中世の世界で,荷馬車を引き,穴を掘る生活の中で育ちました.単純手作業は,[PAWN_possessive]最古の友人です - 主人に打たれる鞭と共に.\n\n[PAWN_pronoun]は,9歳になるまで読み書きを習いませんでした.</MedievalSlave49.baseDesc>
+  <MedievalSlave49.description>中世惑星に生まれた[PAWN_nameDef]は,荷馬車を引き,穴を掘る生活の中で育ちました.単純な肉体労働は[PAWN_possessive]最も古い友人であり,それは主人の鞭もまた同様でした.\n\n[PAWN_pronoun]は9歳になるまで,読み書きを習いませんでした.</MedievalSlave49.description>
+  <MedievalSlave49.baseDesc>中世惑星に生まれた[PAWN_nameDef]は,荷馬車を引き,穴を掘る生活の中で育ちました.単純な肉体労働は[PAWN_possessive]最も古い友人であり,それは主人の鞭もまた同様でした.\n\n[PAWN_pronoun]は9歳になるまで,読み書きを習いませんでした.</MedievalSlave49.baseDesc>
   <!-- EN: medieval slave -->
   <MedievalSlave49.title>中世の奴隷</MedievalSlave49.title>
   <!-- EN: slave -->

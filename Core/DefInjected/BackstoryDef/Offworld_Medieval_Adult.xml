@@ -2,6 +2,7 @@
 <LanguageData>
   
   <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.description>TODO</Blacksmith72.description>
   <Blacksmith72.baseDesc>中世時代の鍛冶職人として,[PAWN_nameDef]は,[PAWN_possessive]仕事の品質が優れているという評判を得ていました.[PAWN_pronoun]は,鍛冶屋としてだけではなく,剣の使い手としても,悪くありませんでした.</Blacksmith72.baseDesc>
   <!-- EN: blacksmith -->
   <Blacksmith72.title>鍛冶職人</Blacksmith72.title>
@@ -9,6 +10,7 @@
   <Blacksmith72.titleShort>鍛冶職人</Blacksmith72.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.description>TODO</Herbalist54.description>
   <Herbalist54.baseDesc>[PAWN_nameDef]は,村のそばに有る森の中で暮らしています.多くの村人達が[PAWN_objective]恐れているけど,病に冒された村人は,[PAWN_objective]元に,[PAWN_possessive]庭で[PAWN_pronoun]が育てられたハーブからできた湿布や軟膏を求めてやって来ることがありました.[PAWN_pronoun]は彼らの手助けになれることを喜んでいました - 対価の為でも.</Herbalist54.baseDesc>
   <!-- EN: herbalist -->
   <Herbalist54.title>ハーブ採集者</Herbalist54.title>
@@ -16,52 +18,60 @@
   <Herbalist54.titleShort>ハーブ採集者</Herbalist54.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.description>TODO</MedievalDoctor40.description>
   <MedievalDoctor40.baseDesc>[PAWN_nameDef]は,中世時代の惑星において医者として働いていました.[PAWN_pronoun]は,ほとんどの軽い病気などは,ほんの少しの瀉血で,治すことができると固く信じていました.\n\n[PAWN_pronoun]は,また麻酔医長でもあり,頭部への打撃によって行う,特別な手法を開発しています.</MedievalDoctor40.baseDesc>
   <!-- EN: medieval doctor -->
   <MedievalDoctor40.title>中世の医者</MedievalDoctor40.title>
   <!-- EN: quack -->
   <MedievalDoctor40.titleShort>ニセ医者</MedievalDoctor40.titleShort>
   
-  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
-  <MedievalFarmOaf58.baseDesc>土地を耕し,鍬を振るい,牛車を引き,手押し車を押す.水路を掘り,種を蒔き,収穫を予測する.\n\n中世の農夫は普通の意味での教育は受けていませんが,テクノロジーに頼らず作物を育てることについては多くを知っています.とはいえ,このような生活では知的な活動や技術に基づいた活動に参加することはできないままです.</MedievalFarmOaf58.baseDesc>
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
+  <MedievalFarmOaf58.description>耕耘、鍬引き、牛車の誘導、手押し車を押す。 溝を掘り、種を植え、収穫を予測します。\n\n中世レベルの農民は通常の教育を受けていませんが、技術を使わずに植物を栽培することについてはよく知っています。 とはいえ、そのような生活ではテクノロジー主導の活動に参加できなくなる可能性があります。</MedievalFarmOaf58.description>
+  <MedievalFarmOaf58.baseDesc>土地を耕し,鍬を振るい,牛車を引き,手押し車を押す.水路を掘り,種を蒔き,収穫を予測する.\n\n中世の農民は普通の意味での教育は受けていませんが,テクノロジーに頼らず作物を育てることについては多くを知っています.しかしこのような生活では,テクノロジーを用いた活動に加わることは難しいでしょう.</MedievalFarmOaf58.baseDesc>
   <!-- EN: medieval farm oaf -->
-  <MedievalFarmOaf58.title>中世の農夫</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.title>中世の農民</MedievalFarmOaf58.title>
   <!-- EN: oaf -->
-  <MedievalFarmOaf58.titleShort>農夫</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShort>農民</MedievalFarmOaf58.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
-  <MedievalLord57.baseDesc>[PAWN_nameDef]は,産業革命前期世界の貴族でした.[PAWN_pronoun]は手下を操ってパーティに行ったり,剣術を身につけたりしてました.\n\n[PAWN_pronoun]の,ひ弱な手は,最後までワークツールを持ちつづけることができません.[PAWN_pronoun]は,手作業をすることが,自分には相応しくないと考えています.</MedievalLord57.baseDesc>
+  <!-- EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.description>[PAWN_nameDef]は産業革命前の惑星の領主でした.[PAWN_pronoun]はパーティーに参加し,手下を管理し,剣術を学びました.\n\n[PAWN_possessive]か弱い手は,一度も道具を握ったことがありません.そして現在,[PAWN_pronoun]は肉体労働は自分にふさわしくないと考えています.</MedievalLord57.description>
+  <MedievalLord57.baseDesc>[PAWN_nameDef]は産業革命前の惑星の領主でした.[PAWN_pronoun]はパーティーに参加し,手下を管理し,剣術を学びました.\n\n[PAWN_possessive]か弱い手は,一度も道具を握ったことがありません.そして現在,[PAWN_pronoun]は肉体労働は自分にふさわしくないと考えています.</MedievalLord57.baseDesc>
   <!-- EN: medieval lord -->
-  <MedievalLord57.title>中世の貴族</MedievalLord57.title>
+  <MedievalLord57.title>中世の領主</MedievalLord57.title>
   <!-- EN: noble -->
   <MedievalLord57.titleShort>貴族</MedievalLord57.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
-  <MedievalMinstrel95.baseDesc>[PAWN_nameDef]は,中世時代を渡り歩くエンターテイナーでした.\n\n[PAWN_pronoun]は常に語り継ぐ話を探したいと思いつつ,詩を歌っていました,また,道行く危険から己れを守る能力があります.けれども,重労働を終えたときはいつも,[PAWN_pronoun]は目立ってぼんやりとしていました.</MedievalMinstrel95.baseDesc>
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
+  <MedievalMinstrel95.description>[PAWN_nameDef]は中世惑星の旅芸人で,いつも様々な物事から物語や歌を見つけていました.\n\n危険な道から身を守るため,[PAWN_pronoun]は自衛の技術も身に着けました.しかし[PAWN_pronoun]は,重労働が必要になると必ず話題をそらしていました.</MedievalMinstrel95.description>
+  <MedievalMinstrel95.baseDesc>[PAWN_nameDef]は中世惑星の旅芸人で,いつも様々な物事から物語や歌を見つけていました.\n\n危険な道から身を守るため,[PAWN_pronoun]は自衛の技術も身に着けました.しかし[PAWN_pronoun]は,重労働が必要になると必ず話題をそらしていました.</MedievalMinstrel95.baseDesc>
   <!-- EN: medieval minstrel -->
   <MedievalMinstrel95.title>中世の吟遊詩人</MedievalMinstrel95.title>
   <!-- EN: minstrel -->
-  <MedievalMinstrel95.titleShort>中世の吟遊詩人</MedievalMinstrel95.titleShort>
+  <MedievalMinstrel95.titleShort>吟遊詩人</MedievalMinstrel95.titleShort>
   
-  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
-  <MedievalSailor97.baseDesc>[PAWN_nameDef]は木造船で海を探検し,異国から植物や動物の標本を探し出し,時には海賊をかわしました. [PAWN_pronoun]は海をとても愛していました[PAWN_pronoun]は,収集した宝物[PAWN_pronoun]を売ることを除いて,地上での最低限の仕事以外のすべてを行うことを拒否しました.</MedievalSailor97.baseDesc>
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
+  <MedievalSailor97.description>[PAWN_nameDef]は木造船で海を探検し,異国の植物や動物の標本を探し出し,時には海賊を撃退していました.[PAWN_pronoun]は海を愛するあまり,地上での活動は必要最低限の仕事以外,そして見つけた宝を売ること以外,すべてを拒みました.</MedievalSailor97.description>
+  <MedievalSailor97.baseDesc>[PAWN_nameDef]は木造船で海を探検し,異国の植物や動物の標本を探し出し,時には海賊を撃退していました.[PAWN_pronoun]は海を愛するあまり,地上での活動は必要最低限の仕事以外,そして見つけた宝を売ること以外,すべてを拒みました.</MedievalSailor97.baseDesc>
   <!-- EN: medieval sailor -->
   <MedievalSailor97.title>中世の船乗り</MedievalSailor97.title>
   <!-- EN: sailor -->
   <MedievalSailor97.titleShort>船乗り</MedievalSailor97.titleShort>
   
   <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
-  <MessageCarrier77.baseDesc>中世世界で,メッセージをもっとも早く送る方法は,メッセージを,相手まで生きてたどり着ける,馬に乗った誰かに預けることです.[PAWN_nameDef]は,その誰かでした.</MessageCarrier77.baseDesc>
+  <MessageCarrier77.description>中世惑星で言葉を送る最も早い方法は,馬に乗った誰かに手紙を渡し,彼らの命の安全を祈ることです.[PAWN_nameDef]は,その誰かでした.</MessageCarrier77.description>
+  <MessageCarrier77.baseDesc>中世惑星で言葉を送る最も早い方法は,馬に乗った誰かに手紙を渡し,彼らの命の安全を祈ることです.[PAWN_nameDef]は,その誰かでした.</MessageCarrier77.baseDesc>
   <!-- EN: message carrier -->
-  <MessageCarrier77.title>配達人</MessageCarrier77.title>
+  <MessageCarrier77.title>手紙の配達人</MessageCarrier77.title>
   <!-- EN: messenger -->
   <MessageCarrier77.titleShort>配達人</MessageCarrier77.titleShort>
   
-  <!-- EN: As the taster for a medieval king, any dish served at the royal table had to be sampled first by [PAWN_nameDef]. [PAWN_pronoun] lived a decadent lifestyle at court, getting fat and doing very little work. -->
-  <Taster16.baseDesc>中世世界の王の毒味役として,王の食卓に並ぶ全ての料理は,[PAWN_nameDef]によって確かめられています.[PAWN_pronoun]は,退廃的な生活様式の王宮にすみ,ほんの少しの仕事をして,太っています.</Taster16.baseDesc>
+  <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
+  <Taster16.description>[PAWN_nameDef]は中世惑星の宮廷料理の試食人として,王室の食卓に並ぶ予定の,あらゆる料理を試食していました.[PAWN_pronoun]は宮廷で退廃的な生活を送り,体は太り,そしてまともな仕事もほとんど行いませんでした.</Taster16.description>
+  <Taster16.baseDesc>  <Taster16.description>[PAWN_nameDef]は中世惑星の宮廷料理の試食人として,王室の食卓に並ぶ予定の,あらゆる料理を試食していました.[PAWN_pronoun]は宮廷で退廃的な生活を送り,体は太り,そしてまともな仕事もほとんど行いませんでした.</Taster16.description>
+</Taster16.baseDesc>
   <!-- EN: taster -->
-  <Taster16.title>毒味係</Taster16.title>
+  <Taster16.title>試食人</Taster16.title>
   <!-- EN: taster -->
-  <Taster16.titleShort>毒味係</Taster16.titleShort>
+  <Taster16.titleShort>試食人</Taster16.titleShort>
   
 </LanguageData>
