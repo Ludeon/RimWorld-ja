@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] was the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
-  <RoyalBastard64.description>TODO</RoyalBastard64.description>
+  <RoyalBastard64.description>[PAWN_nameDef]は領主と売春婦の間の子供でした.\n\n[PAWN_possessive]父親の血統はしっかりしたもので,爵位の継承者も立派でした.[PAWN_nameDef]が爵位を得るために努力することを支持する者は一人もいませんでした.[PAWN_pronoun]は売春宿を掃除してパンを手に入れましたが,[PAWN_pronoun]は常にこの境遇がはるかに自分にふさわしいと感じていました.</RoyalBastard64.description>
   <RoyalBastard64.baseDesc>[PAWN_nameDef]は領主と売春婦の間の子供でした.\n\n[PAWN_possessive]父親の血統はしっかりしたもので,爵位の継承者も立派でした.[PAWN_nameDef]が爵位を得るために努力することを支持する者は一人もいませんでした.[PAWN_pronoun]は売春宿を掃除してパンを手に入れましたが,[PAWN_pronoun]は常にこの境遇がはるかに自分にふさわしいと感じていました.</RoyalBastard64.baseDesc>
   <!-- EN: royal bastard -->
   <RoyalBastard64.title>王族の雑種</RoyalBastard64.title>
@@ -10,7 +10,7 @@
   <RoyalBastard64.titleShort>雑種</RoyalBastard64.titleShort>
   
   <!-- EN: [PAWN_nameDef] was the child of house servants, and was trained to carry on the family duty.\n\n[PAWN_pronoun] carried things and polished silverware, but was never allowed into the lords' part of the house. -->
-  <ServingBoy97.description>TODO</ServingBoy97.description>
+  <ServingBoy97.description>[PAWN_nameDef]は下僕の子供であり,家族の義務を果たすために訓練されました.\n\n[PAWN_pronoun]は物と磨かれた銀器を運んでいましたが,家の領主の一部に入ることは決して許されませんでした.</ServingBoy97.description>
   <ServingBoy97.baseDesc>[PAWN_nameDef]は下僕の子供であり,家族の義務を果たすために訓練されました.\n\n[PAWN_pronoun]は物と磨かれた銀器を運んでいましたが,家の領主の一部に入ることは決して許されませんでした.</ServingBoy97.baseDesc>
   <!-- EN: serving boy -->
   <ServingBoy97.title>丁稚</ServingBoy97.title>
@@ -22,7 +22,7 @@
   <ServingBoy97.titleShortFemale>下女</ServingBoy97.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was born nine months after [PAWN_possessive] mother's town was conquered by enemy soldiers. The child of violence with no acknowledged father, [PAWN_nameDef] grew up at the bottom of the social pyramid.\n\n[PAWN_possessive] mother instilled her bitterness towards men and war into [PAWN_nameDef]. [PAWN_possessive] pet rabbit offered more warmth than any human in [PAWN_possessive] life. -->
-  <WarBastard60.description>TODO</WarBastard60.description>
+  <WarBastard60.description>[PAWN_nameDef]は[PAWN_possessive]の母の町が敵の兵士に征服されてから9か月後に生まれました. 暴力によって生まれた父親のいない[PAWN_nameDef]は,社会のピラミッドの底辺で育ちました.\n\n[PAWN_possessive]の母親は戦争と男性に対する憎悪を[PAWN_nameDef]に注ぎ続けました. [PAWN_possessive]のペットのウサギは,[PAWN_possessive]の生活の中でどの人間よりも暖かさを提供しました.</WarBastard60.description>
   <WarBastard60.baseDesc>[PAWN_nameDef]は[PAWN_possessive]の母の町が敵の兵士に征服されてから9か月後に生まれました. 暴力によって生まれた父親のいない[PAWN_nameDef]は,社会のピラミッドの底辺で育ちました.\n\n[PAWN_possessive]の母親は戦争と男性に対する憎悪を[PAWN_nameDef]に注ぎ続けました. [PAWN_possessive]のペットのウサギは,[PAWN_possessive]の生活の中でどの人間よりも暖かさを提供しました.</WarBastard60.baseDesc>
   <!-- EN: war bastard -->
   <WarBastard60.title>敗戦国の私生子</WarBastard60.title>

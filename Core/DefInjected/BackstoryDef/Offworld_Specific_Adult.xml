@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
-  <Castaway57.description>TODO</Castaway57.description>
+  <Castaway57.description>[PAWN_nameDef]は,定期惑星間航路の乗客でした.[PAWN_possessive]乗った船が破壊され,何年も無人惑星で,漂流者として生きてきました.</Castaway57.description>
   <Castaway57.baseDesc>[PAWN_nameDef]は,定期惑星間航路の乗客でした.[PAWN_possessive]乗った船が破壊され,何年も無人惑星で,漂流者として生きてきました.</Castaway57.baseDesc>
   <!-- EN: castaway -->
   <Castaway57.title>漂流者</Castaway57.title>
@@ -10,7 +10,7 @@
   <Castaway57.titleShort>漂流者</Castaway57.titleShort>
   
   <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
-  <CaveworldIlluminator95.description>TODO</CaveworldIlluminator95.description>
+  <CaveworldIlluminator95.description>穴居人は共通して,[PAWN_nameDef]のように特に視力が良い人はセージとして崇拝されました.[PAWN_pronoun]は生物発光するキノコで穴を掘る場所や危険なモノの近くにマーキングしました.</CaveworldIlluminator95.description>
   <CaveworldIlluminator95.baseDesc>穴居人は共通して,[PAWN_nameDef]のように特に視力が良い人はセージとして崇拝されました.[PAWN_pronoun]は生物発光するキノコで穴を掘る場所や危険なモノの近くにマーキングしました.</CaveworldIlluminator95.baseDesc>
   <!-- EN: caveworld illuminator -->
   <CaveworldIlluminator95.title>caveworldの導き手</CaveworldIlluminator95.title>
@@ -18,7 +18,7 @@
   <CaveworldIlluminator95.titleShort>導き手</CaveworldIlluminator95.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
-  <ColonySettler53.description>TODO</ColonySettler53.description>
+  <ColonySettler53.description>[PAWN_nameDef]は,新しいコロニーの入植者でした.\n\nこのような生活には,基礎的な作業を実践できる,何でも屋を必要とします.</ColonySettler53.description>
   <ColonySettler53.baseDesc>[PAWN_nameDef]は,新しいコロニーの入植者でした.\n\nこのような生活には,基礎的な作業を実践できる,何でも屋を必要とします.</ColonySettler53.baseDesc>
   <!-- EN: colony settler -->
   <ColonySettler53.title>コロニー入植者</ColonySettler53.title>
@@ -26,7 +26,7 @@
   <ColonySettler53.titleShort>入植者</ColonySettler53.titleShort>
   
   <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
-  <DeepSpaceMiner3.description>TODO</DeepSpaceMiner3.description>
+  <DeepSpaceMiner3.description>[PAWN_nameDef]は,深宇宙空間に浮かぶ小惑星から掘削機で鉱石を掘り出すという,汗と埃にまみれた仕事をしていました.[PAWN_pronoun]は毎日,現場作業で腕を振るい,そして酒場で取っ組み合いをさせても,悪くない腕前でした.</DeepSpaceMiner3.description>
   <DeepSpaceMiner3.baseDesc>[PAWN_nameDef]は,深宇宙空間に浮かぶ小惑星から掘削機で鉱石を掘り出すという,汗と埃にまみれた仕事をしていました.[PAWN_pronoun]は毎日,現場作業で腕を振るい,そして酒場で取っ組み合いをさせても,悪くない腕前でした.</DeepSpaceMiner3.baseDesc>
   <!-- EN: deep space miner -->
   <DeepSpaceMiner3.title>深宇宙の鉱夫</DeepSpaceMiner3.title>
@@ -34,7 +34,7 @@
   <DeepSpaceMiner3.titleShort>鉱夫</DeepSpaceMiner3.titleShort>
   
   <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
-  <FactoryWorker58.description>TODO</FactoryWorker58.description>
+  <FactoryWorker58.description>[PAWN_nameDef]は,工業世界の大きな工場都市で育ちました.\n\nずっと,貧困は激しく,食料は不足して,[PAWN_pronoun]は,[PAWN_pronoun]ができるであろうことなら,なんであろうと賃金の為に働きました.楽な人生はありませんでしたが,[PAWN_nameDef]は,きつい仕事を嫌がることはありませんでした.</FactoryWorker58.description>
   <FactoryWorker58.baseDesc>[PAWN_nameDef]は,工業世界の大きな工場都市で育ちました.\n\nずっと,貧困は激しく,食料は不足して,[PAWN_pronoun]は,[PAWN_pronoun]ができるであろうことなら,なんであろうと賃金の為に働きました.楽な人生はありませんでしたが,[PAWN_nameDef]は,きつい仕事を嫌がることはありませんでした.</FactoryWorker58.baseDesc>
   <!-- EN: factory worker -->
   <FactoryWorker58.title>工場労働者</FactoryWorker58.title>
@@ -42,7 +42,7 @@
   <FactoryWorker58.titleShort>労働者</FactoryWorker58.titleShort>
   
   <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
-  <HumanComputer83.description>TODO</HumanComputer83.description>
+  <HumanComputer83.description>[PAWN_nameDef]はその頭脳に,優れた記憶力と複雑な計算をこなせる天賦の才を持っていることが判明しました.ミッドワールドの独裁者は,国の財政と支出を監視させるため,[PAWN_nameDef]を雇い入れることにしました.なぜなら電子コンピュータはハッキングに対して脆弱だったからです.</HumanComputer83.description>
   <HumanComputer83.baseDesc>[PAWN_nameDef]はその頭脳に,優れた記憶力と複雑な計算をこなせる天賦の才を持っていることが判明しました.ミッドワールドの独裁者は,国の財政と支出を監視させるため,[PAWN_nameDef]を雇い入れることにしました.なぜなら電子コンピュータはハッキングに対して脆弱だったからです.</HumanComputer83.baseDesc>
   <!-- EN: human computer -->
   <HumanComputer83.title>人間計算機</HumanComputer83.title>
@@ -50,7 +50,7 @@
   <HumanComputer83.titleShort>計算機</HumanComputer83.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
-  <JoywireArtist8.description>TODO</JoywireArtist8.description>
+  <JoywireArtist8.description>[PAWN_nameDef]は,Urbworldのラボで,最先端のジョイワイヤーソフトウェアを,ユーザーの好みに,最大限,同調するように開発する仕事をしていました.\n\n地方政府が,ジョイワイヤー製造に過酷な制限を課すと,[PAWN_pronoun]は,[PAWN_possessive]製品をブラックマーケットで売りさばき始めました.</JoywireArtist8.description>
   <JoywireArtist8.baseDesc>[PAWN_nameDef]は,Urbworldのラボで,最先端のジョイワイヤーソフトウェアを,ユーザーの好みに,最大限,同調するように開発する仕事をしていました.\n\n地方政府が,ジョイワイヤー製造に過酷な制限を課すと,[PAWN_pronoun]は,[PAWN_possessive]製品をブラックマーケットで売りさばき始めました.</JoywireArtist8.baseDesc>
   <!-- EN: joywire artist -->
   <JoywireArtist8.title>ジョイワイヤアーチスト</JoywireArtist8.title>
@@ -58,7 +58,7 @@
   <JoywireArtist8.titleShort>ジョイワイヤ</JoywireArtist8.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
-  <MafiaBoss17.description>TODO</MafiaBoss17.description>
+  <MafiaBoss17.description>[PAWN_nameDef]は,Urbworldにおける犯罪組織の上級幹部でした.\n\n[PAWN_pronoun]は,役人に賄賂を配り,子分の忠誠を維持し,借金の取り立てをしていました - 必要とあらば,ありとあらゆる手段を使って</MafiaBoss17.description>
   <MafiaBoss17.baseDesc>[PAWN_nameDef]は,Urbworldにおける犯罪組織の上級幹部でした.\n\n[PAWN_pronoun]は,役人に賄賂を配り,子分の忠誠を維持し,借金の取り立てをしていました - 必要とあらば,ありとあらゆる手段を使って</MafiaBoss17.baseDesc>
   <!-- EN: mafia boss -->
   <MafiaBoss17.title>マフィアのボス</MafiaBoss17.title>
@@ -66,7 +66,7 @@
   <MafiaBoss17.titleShort>ボス</MafiaBoss17.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
-  <PsychiatricPatient94.description>TODO</PsychiatricPatient94.description>
+  <PsychiatricPatient94.description>[PAWN_nameDef]は大人になってからの生活の殆どを,精神病院で過ごしました.産業が盛んな故郷の星では心の病への理解に乏しく,[PAWN_pronoun]は人というより獣に近い扱いを受けました.\n\n最終的に回復して退院したものの,基本的な生活能力の多くは衰えていました.</PsychiatricPatient94.description>
   <PsychiatricPatient94.baseDesc>[PAWN_nameDef]は大人になってからの生活の殆どを,精神病院で過ごしました.産業が盛んな故郷の星では心の病への理解に乏しく,[PAWN_pronoun]は人というより獣に近い扱いを受けました.\n\n最終的に回復して退院したものの,基本的な生活能力の多くは衰えていました.</PsychiatricPatient94.baseDesc>
   <!-- EN: psychiatric patient -->
   <PsychiatricPatient94.title>精神病患者</PsychiatricPatient94.title>
@@ -74,7 +74,7 @@
   <PsychiatricPatient94.titleShort>患者</PsychiatricPatient94.titleShort>
   
   <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
-  <Sheriff52.description>TODO</Sheriff52.description>
+  <Sheriff52.description>[PAWN_nameDef]は,隔離された工場城下町の保安官でした.[PAWN_pronoun]は,威張った態度をとる意地の悪い奴として知られていました.[PAWN_pronoun]は,金,酒,復讐がらみでなければ,そんなにまでして逮捕することを拒みました.</Sheriff52.description>
   <Sheriff52.baseDesc>[PAWN_nameDef]は,隔離された工場城下町の保安官でした.[PAWN_pronoun]は,威張った態度をとる意地の悪い奴として知られていました.[PAWN_pronoun]は,金,酒,復讐がらみでなければ,そんなにまでして逮捕することを拒みました.</Sheriff52.baseDesc>
   <!-- EN: sheriff -->
   <Sheriff52.title>保安官</Sheriff52.title>
@@ -82,7 +82,7 @@
   <Sheriff52.titleShort>保安官</Sheriff52.titleShort>
   
   <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
-  <SpaceTactician28.description>TODO</SpaceTactician28.description>
+  <SpaceTactician28.description>[PAWN_nameDef]は,大規模な惑星間戦争に満ちた不安定な銀河系で宇宙海軍に加わりました. [PAWN_pronoun]は戦闘に対する鋭い直観を持っていることが判明し,戦闘部隊の指揮に大きな効果を発揮しました.</SpaceTactician28.description>
   <SpaceTactician28.baseDesc>[PAWN_nameDef]は,大規模な惑星間戦争に満ちた不安定な銀河系で宇宙海軍に加わりました. [PAWN_pronoun]は戦闘に対する鋭い直観を持っていることが判明し,戦闘部隊の指揮に大きな効果を発揮しました.</SpaceTactician28.baseDesc>
   <!-- EN: space tactician -->
   <SpaceTactician28.title>宇宙戦術家</SpaceTactician28.title>
@@ -90,7 +90,7 @@
   <SpaceTactician28.titleShort>戦術家</SpaceTactician28.titleShort>
   
   <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
-  <StarshipJanitor33.description>TODO</StarshipJanitor33.description>
+  <StarshipJanitor33.description>他の乗客が,冷凍睡眠装置で眠りながら恒星間を行き来している間,[PAWN_nameDef]は定期間隔で点検や,航法装置の確認,メカノイドへ潤滑油を注す為に起きなければなりませんでした.</StarshipJanitor33.description>
   <StarshipJanitor33.baseDesc>他の乗客が,冷凍睡眠装置で眠りながら恒星間を行き来している間,[PAWN_nameDef]は定期間隔で点検や,航法装置の確認,メカノイドへ潤滑油を注す為に起きなければなりませんでした.</StarshipJanitor33.baseDesc>
   <!-- EN: starship janitor -->
   <StarshipJanitor33.title>恒星船乗務員</StarshipJanitor33.title>
@@ -98,7 +98,7 @@
   <StarshipJanitor33.titleShort>乗務員</StarshipJanitor33.titleShort>
   
   <!-- EN: [PAWN_nameDef] traveled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
-  <Taxonomist0.description>TODO</Taxonomist0.description>
+  <Taxonomist0.description>[PAWN_nameDef]は,恒星間を旅しながら,作成している大図鑑の中に見つけた,動植物の分類や学習をしています.</Taxonomist0.description>
   <Taxonomist0.baseDesc>[PAWN_nameDef]は,恒星間を旅しながら,作成している大図鑑の中に見つけた,動植物の分類や学習をしています.</Taxonomist0.baseDesc>
   <!-- EN: taxonomist -->
   <Taxonomist0.title>分類学者</Taxonomist0.title>
@@ -106,7 +106,7 @@
   <Taxonomist0.titleShort>分類学者</Taxonomist0.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
-  <UrbworldDrone32.description>TODO</UrbworldDrone32.description>
+  <UrbworldDrone32.description>[PAWN_nameDef]は,大規模なurbworldで無謀な建設ドローンとして働きました. [PAWN_pronoun]は[PAWN_pronoun]が受けた残忍な社会実験から解放されましたが,[PAWN_pronoun]は創造的な思考とリーダーシップを発揮できません.</UrbworldDrone32.description>
   <UrbworldDrone32.baseDesc>[PAWN_nameDef]は,大規模なurbworldで無謀な建設ドローンとして働きました. [PAWN_pronoun]は[PAWN_pronoun]が受けた残忍な社会実験から解放されましたが,[PAWN_pronoun]は創造的な思考とリーダーシップを発揮できません.</UrbworldDrone32.baseDesc>
   <!-- EN: urbworld drone -->
   <UrbworldDrone32.title>urbworldのドローン</UrbworldDrone32.title>
@@ -114,7 +114,7 @@
   <UrbworldDrone32.titleShort>ドローン</UrbworldDrone32.titleShort>
   
   <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
-  <UrbworldEntrepreneur14.description>TODO</UrbworldEntrepreneur14.description>
+  <UrbworldEntrepreneur14.description>Urbworldは,もっとも苦難な所です.それより誰かが,会社を経営しなければなりません.\n\n[PAWN_nameDef]は,トレードスキル(不正な取引や,テクニカルアナリシス)を身につけました.[PAWN_pronoun]は,社会インテリマシーンです.</UrbworldEntrepreneur14.description>
   <UrbworldEntrepreneur14.baseDesc>Urbworldは,もっとも苦難な所です.それより誰かが,会社を経営しなければなりません.\n\n[PAWN_nameDef]は,トレードスキル(不正な取引や,テクニカルアナリシス)を身につけました.[PAWN_pronoun]は,社会インテリマシーンです.</UrbworldEntrepreneur14.baseDesc>
   <!-- EN: urbworld entrepreneur -->
   <UrbworldEntrepreneur14.title>Urbworldの経営者</UrbworldEntrepreneur14.title>
@@ -122,7 +122,7 @@
   <UrbworldEntrepreneur14.titleShort>経営者</UrbworldEntrepreneur14.titleShort>
   
   <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
-  <UrbworldRebel56.description>TODO</UrbworldRebel56.description>
+  <UrbworldRebel56.description>[PAWN_nameDef]の世界のほとんどの人々は,オンラインハイブマインドに参加するために自分の個性をあきらめました. [PAWN_nameDef]は,テクノロジーを完全に拒否した反乱勢力に加わりました.</UrbworldRebel56.description>
   <UrbworldRebel56.baseDesc>[PAWN_nameDef]の世界のほとんどの人々は,オンラインハイブマインドに参加するために自分の個性をあきらめました. [PAWN_nameDef]は,テクノロジーを完全に拒否した反乱勢力に加わりました.</UrbworldRebel56.baseDesc>
   <!-- EN: urbworld rebel -->
   <UrbworldRebel56.title>urbworldの反逆者</UrbworldRebel56.title>

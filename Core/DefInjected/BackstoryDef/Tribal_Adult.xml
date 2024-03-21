@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
-  <Archer25.description>TODO</Archer25.description>
+  <Archer25.description>[PAWN_nameDef]は自分の部族のために戦いました. [PAWN_pronoun]は弓,ピラ,およびその他の遠隔武器の使用に特化しています.</Archer25.description>
   <Archer25.baseDesc>[PAWN_nameDef]は自分の部族のために戦いました. [PAWN_pronoun]は弓,ピラ,およびその他の遠隔武器の使用に特化しています.</Archer25.baseDesc>
   <!-- EN: archer -->
   <Archer25.title>部族の射手</Archer25.title>
@@ -10,7 +10,7 @@
   <Archer25.titleShort>部族の射手</Archer25.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
-  <Banished68.description>TODO</Banished68.description>
+  <Banished68.description>[PAWN_nameDef]の部族は血なまぐさい論争の後,[PAWN_objective]追放しました.[PAWN_pronoun]は長い間,荒野で一人で生き残りました.</Banished68.description>
   <Banished68.baseDesc>[PAWN_nameDef]の部族は血なまぐさい論争の後,[PAWN_objective]追放しました.[PAWN_pronoun]は長い間,荒野で一人で生き残りました.</Banished68.baseDesc>
   <!-- EN: banished -->
   <Banished68.title>追放者</Banished68.title>
@@ -18,7 +18,7 @@
   <Banished68.titleShort>追放者</Banished68.titleShort>
   
   <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
-  <Brave88.description>TODO</Brave88.description>
+  <Brave88.description>[PAWN_nameDef]は,[PAWN_possessive]族の戦いでイクワ,斧,クラブ,その他の近距離武器を使用しました.</Brave88.description>
   <Brave88.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]族の戦いでイクワ,斧,クラブ,その他の近距離武器を使用しました.</Brave88.baseDesc>
   <!-- EN: brave -->
   <Brave88.title>勇猛な戦士</Brave88.title>
@@ -26,7 +26,7 @@
   <Brave88.titleShort>勇猛な戦士</Brave88.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
-  <Butcher40.description>TODO</Butcher40.description>
+  <Butcher40.description>[PAWN_nameDef]の属していた狩猟団での[PAWN_possessive]主な仕事は,動物の屠殺でした.[PAWN_pronoun]はナイフの扱いに精通し,死骸からあらゆる価値を短時間で引き出すことができました.</Butcher40.description>
   <Butcher40.baseDesc>[PAWN_nameDef]の属していた狩猟団での[PAWN_possessive]主な仕事は,動物の屠殺でした.[PAWN_pronoun]はナイフの扱いに精通し,死骸からあらゆる価値を短時間で引き出すことができました.</Butcher40.baseDesc>
   <!-- EN: butcher -->
   <Butcher40.title>肉屋</Butcher40.title>
@@ -34,7 +34,7 @@
   <Butcher40.titleShort>肉屋</Butcher40.titleShort>
   
   <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
-  <Carver1.description>TODO</Carver1.description>
+  <Carver1.description>[PAWN_nameDef]は,木材,石,そして時折,よりエキゾチックな素材から[PAWN_possessive]部族のためにアートワークを彫刻しました. 作品は販売されることもあれば,入植地を美化し,儀式に焦点を合わせるために維持されることもありました.</Carver1.description>
   <Carver1.baseDesc>[PAWN_nameDef]は,木材,石,そして時折,よりエキゾチックな素材から[PAWN_possessive]部族のためにアートワークを彫刻しました. 作品は販売されることもあれば,入植地を美化し,儀式に焦点を合わせるために維持されることもありました.</Carver1.baseDesc>
   <!-- EN: carver -->
   <Carver1.title>彫刻家</Carver1.title>
@@ -42,7 +42,7 @@
   <Carver1.titleShort>彫刻家</Carver1.titleShort>
   
   <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
-  <CaveBuilder81.description>TODO</CaveBuilder81.description>
+  <CaveBuilder81.description>[PAWN_nameDef]は,洞窟の複雑な掘削と建設を専門としています.</CaveBuilder81.description>
   <CaveBuilder81.baseDesc>[PAWN_nameDef]は,洞窟の複雑な掘削と建設を専門としています.</CaveBuilder81.baseDesc>
   <!-- EN: cave builder -->
   <CaveBuilder81.title>洞窟採掘者</CaveBuilder81.title>
@@ -50,7 +50,7 @@
   <CaveBuilder81.titleShort>採掘者</CaveBuilder81.titleShort>
   
   <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
-  <Digger31.description>TODO</Digger31.description>
+  <Digger31.description>[PAWN_nameDef]は鉱山や洞窟で働き,所有物を保管したり脅威から身を隠すために,空間を掘り出しました.[PAWN_possessive]仕事は,多くの場面で友人に隠れ場所を提供しました.</Digger31.description>
   <Digger31.baseDesc>[PAWN_nameDef]は鉱山や洞窟で働き,所有物を保管したり脅威から身を隠すために,空間を掘り出しました.[PAWN_possessive]仕事は,多くの場面で友人に隠れ場所を提供しました.</Digger31.baseDesc>
   <!-- EN: digger -->
   <Digger31.title>穴掘り名人</Digger31.title>
@@ -58,7 +58,7 @@
   <Digger31.titleShort>穴掘り名人</Digger31.titleShort>
   
   <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
-  <Digger66.description>TODO</Digger66.description>
+  <Digger66.description>[PAWN_nameDef]と,[PAWN_possessive]部族は,山の斜面を深く掘って彼らの集落としました.[PAWN_nameDef]は,集落の中では,もっとも岩を堀り,掘った穴を支えて洞窟を作るのが上手いと思っています.</Digger66.description>
   <Digger66.baseDesc>[PAWN_nameDef]と,[PAWN_possessive]部族は,山の斜面を深く掘って彼らの集落としました.[PAWN_nameDef]は,集落の中では,もっとも岩を堀り,掘った穴を支えて洞窟を作るのが上手いと思っています.</Digger66.baseDesc>
   <!-- EN: digger -->
   <Digger66.title>穴掘り名人</Digger66.title>
@@ -66,7 +66,7 @@
   <Digger66.titleShort>穴掘り名人</Digger66.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
-  <Excavator55.description>TODO</Excavator55.description>
+  <Excavator55.description>発掘現場で働いていた[PAWN_nameDef]は,古代の潰れた遺跡から,貴重な物品や素材を掘り出していました.[PAWN_pronoun]は,地面から貴重品を見つけ出す方法と,さまざまな発掘ツールの使い方を学びました.</Excavator55.description>
   <Excavator55.baseDesc>発掘現場で働いていた[PAWN_nameDef]は,古代の潰れた遺跡から,貴重な物品や素材を掘り出していました.[PAWN_pronoun]は,地面から貴重品を見つけ出す方法と,さまざまな発掘ツールの使い方を学びました.</Excavator55.baseDesc>
   <!-- EN: excavator -->
   <Excavator55.title>掘削者</Excavator55.title>
@@ -74,7 +74,7 @@
   <Excavator55.titleShort>掘削者</Excavator55.titleShort>
   
   <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
-  <Framer37.description>TODO</Framer37.description>
+  <Framer37.description>[PAWN_nameDef]は,[PAWN_possessive]仲間の部族が住むための構造物を建てる責任がありました.これには,遊牧民旅行のための一時的な構造物と恒久的な定住の両方が含まれていました. 地元の植物の生活から建築材料を集めることは仕事の一部でした.</Framer37.description>
   <Framer37.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]仲間の部族が住むための構造物を建てる責任がありました.これには,遊牧民旅行のための一時的な構造物と恒久的な定住の両方が含まれていました. 地元の植物の生活から建築材料を集めることは仕事の一部でした.</Framer37.baseDesc>
   <!-- EN: framer -->
   <Framer37.title>建築家</Framer37.title>
@@ -82,7 +82,7 @@
   <Framer37.titleShort>建築家</Framer37.titleShort>
   
   <!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
-  <Gatherer70.description>TODO</Gatherer70.description>
+  <Gatherer70.description>[PAWN_nameDef]は収集の達人です.[PAWN_pronoun]は,[PAWN_possessive]植物への深い知識を使って,ほとんど作物のできない土地でも,根や,ベリーなどの食べ物を見つけることができます.</Gatherer70.description>
   <Gatherer70.baseDesc>[PAWN_nameDef]は収集の達人です.[PAWN_pronoun]は,[PAWN_possessive]植物への深い知識を使って,ほとんど作物のできない土地でも,根や,ベリーなどの食べ物を見つけることができます.</Gatherer70.baseDesc>
   <!-- EN: gatherer -->
   <Gatherer70.title>採集家</Gatherer70.title>
@@ -90,7 +90,7 @@
   <Gatherer70.titleShort>採集家</Gatherer70.titleShort>
   
   <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
-  <Healer46.description>TODO</Healer46.description>
+  <Healer46.description>[PAWN_nameDef]の部族のヒーラーである長老が襲撃で殺された後,[PAWN_pronoun]はその役割を引き受けました.[PAWN_pronoun]は驚くほどの効果的な治療法で使用するために,近くの地域からハーブやミネラルの調合物を探し出す日々を過ごしました.</Healer46.description>
   <Healer46.baseDesc>[PAWN_nameDef]の部族のヒーラーである長老が襲撃で殺された後,[PAWN_pronoun]はその役割を引き受けました.[PAWN_pronoun]は驚くほどの効果的な治療法で使用するために,近くの地域からハーブやミネラルの調合物を探し出す日々を過ごしました.</Healer46.baseDesc>
   <!-- EN: healer -->
   <Healer46.title>ヒーラー</Healer46.title>
@@ -98,7 +98,7 @@
   <Healer46.titleShort>ヒーラー</Healer46.titleShort>
   
   <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
-  <HearthTender66.description>TODO</HearthTender66.description>
+  <HearthTender66.description>他の人が狩りや採餌をしている間,[PAWN_nameDef]は家にいて料理をしたり,子供や病気の人の世話をしていました.</HearthTender66.description>
   <HearthTender66.baseDesc>他の人が狩りや採餌をしている間,[PAWN_nameDef]は家にいて料理をしたり,子供や病気の人の世話をしていました.</HearthTender66.baseDesc>
   <!-- EN: hearth tender -->
   <HearthTender66.title>焚き火番</HearthTender66.title>
@@ -106,7 +106,7 @@
   <HearthTender66.titleShort>焚き火番</HearthTender66.titleShort>
   
   <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
-  <Herder33.description>TODO</Herder33.description>
+  <Herder33.description>[PAWN_nameDef]は,移動中に部族に食料や衣服をもたらすために,さまざまな動物を群れになるまで育てていました.[PAWN_nameDef]は,獣を落ち着かせて指示する方法と,獣の痕跡から食料を狩る方法を学びました.</Herder33.description>
   <Herder33.baseDesc>[PAWN_nameDef]は,移動中に部族に食料や衣服をもたらすために,さまざまな動物を群れになるまで育てていました.[PAWN_nameDef]は,獣を落ち着かせて指示する方法と,獣の痕跡から食料を狩る方法を学びました.</Herder33.baseDesc>
   <!-- EN: herder -->
   <Herder33.title>牛飼い</Herder33.title>
@@ -114,7 +114,7 @@
   <Herder33.titleShort>牛飼い</Herder33.titleShort>
   
   <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
-  <Hunter74.description>TODO</Hunter74.description>
+  <Hunter74.description>[PAWN_nameDef]は,肉と革のために動物を追跡,捕獲,殺害していました.\n\n[PAWN_nameDef]は遠距離武器と近接武器の両方を使用しました.時々,[PAWN_pronoun]は動物と一緒に狩りをしました.</Hunter74.description>
   <Hunter74.baseDesc>[PAWN_nameDef]は,肉と革のために動物を追跡,捕獲,殺害していました.\n\n[PAWN_nameDef]は遠距離武器と近接武器の両方を使用しました.時々,[PAWN_pronoun]は動物と一緒に狩りをしました.</Hunter74.baseDesc>
   <!-- EN: hunter -->
   <Hunter74.title>ハンター</Hunter74.title>
@@ -122,7 +122,7 @@
   <Hunter74.titleShort>ハンター</Hunter74.titleShort>
   
   <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
-  <Logger16.description>TODO</Logger16.description>
+  <Logger16.description>[PAWN_nameDef]は木を切り刻み,その木材を部族に運びました. [PAWN_pronoun]は[PAWN_possessive]斧を,芸術家の技と突進するマッファローのような力で振り回しました.</Logger16.description>
   <Logger16.baseDesc>[PAWN_nameDef]は木を切り刻み,その木材を部族に運びました. [PAWN_pronoun]は[PAWN_possessive]斧を,芸術家の技と突進するマッファローのような力で振り回しました.</Logger16.baseDesc>
   <!-- EN: logger -->
   <Logger16.title>木こり</Logger16.title>
@@ -130,7 +130,7 @@
   <Logger16.titleShort>木こり</Logger16.titleShort>
   
   <!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
-  <Loner61.description>TODO</Loner61.description>
+  <Loner61.description>孤独を愛する者は,蛮族の組織や,年に一度のお祭りなどを,好むはずがありません.[PAWN_pronoun]は,開けた平原で独り,風が岩の間を通り抜ける音に耳を傾けることを選びます.\n\n[PAWN_pronoun]は,たまには[PAWN_possessive]部族を訪ねたりはしますが,たいていは自身のサバイバルスキルを使って自分の面倒は自分でみています.</Loner61.description>
   <Loner61.baseDesc>孤独を愛する者は,蛮族の組織や,年に一度のお祭りなどを,好むはずがありません.[PAWN_pronoun]は,開けた平原で独り,風が岩の間を通り抜ける音に耳を傾けることを選びます.\n\n[PAWN_pronoun]は,たまには[PAWN_possessive]部族を訪ねたりはしますが,たいていは自身のサバイバルスキルを使って自分の面倒は自分でみています.</Loner61.baseDesc>
   <!-- EN: loner -->
   <Loner61.title>隠遁</Loner61.title>
@@ -138,7 +138,7 @@
   <Loner61.titleShort>隠遁</Loner61.titleShort>
   
   <!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
-  <LoreKeeper51.description>TODO</LoreKeeper51.description>
+  <LoreKeeper51.description>[PAWN_nameDef]は,[PAWN_possessive]部族の中で,脈々と受け継がれてきた知識を伝承する者のひとりでした.毎晩,火を囲んでは,[PAWN_pronoun]は,言い伝えから,古代の知恵や,役に立つ知識を伝えていました.</LoreKeeper51.description>
   <LoreKeeper51.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]部族の中で,脈々と受け継がれてきた知識を伝承する者のひとりでした.毎晩,火を囲んでは,[PAWN_pronoun]は,言い伝えから,古代の知恵や,役に立つ知識を伝えていました.</LoreKeeper51.baseDesc>
   <!-- EN: lore keeper -->
   <LoreKeeper51.title>伝承者</LoreKeeper51.title>
@@ -146,7 +146,7 @@
   <LoreKeeper51.titleShort>伝承者</LoreKeeper51.titleShort>
   
   <!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
-  <Malingerer28.description>TODO</Malingerer28.description>
+  <Malingerer28.description>[PAWN_nameDef]はしばしば自分の責任を回避するために病気を装いました.病人用の小屋で休んでいる間,[PAWN_pronoun]は子供たちに物語を聞かせていました.</Malingerer28.description>
   <Malingerer28.baseDesc>[PAWN_nameDef]はしばしば自分の責任を回避するために病気を装いました.病人用の小屋で休んでいる間,[PAWN_pronoun]は子供たちに物語を聞かせていました.</Malingerer28.baseDesc>
   <!-- EN: malingerer -->
   <Malingerer28.title>仮病者</Malingerer28.title>
@@ -154,7 +154,7 @@
   <Malingerer28.titleShort>仮病者</Malingerer28.titleShort>
   
   <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
-  <MuffaloShaman95.description>TODO</MuffaloShaman95.description>
+  <MuffaloShaman95.description>[PAWN_possessive]聡明な賢さと,大きな体躯のせいで,[PAWN_nameDef]は,マッファローの群れを追う,遊牧蛮族のシャーマンになりました.</MuffaloShaman95.description>
   <MuffaloShaman95.baseDesc>[PAWN_possessive]聡明な賢さと,大きな体躯のせいで,[PAWN_nameDef]は,マッファローの群れを追う,遊牧蛮族のシャーマンになりました.</MuffaloShaman95.baseDesc>
   <!-- EN: muffalo shaman -->
   <MuffaloShaman95.title>マッファロシャーマン</MuffaloShaman95.title>
@@ -162,7 +162,7 @@
   <MuffaloShaman95.titleShort>シャーマン</MuffaloShaman95.titleShort>
   
   <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
-  <PlankCutter72.description>TODO</PlankCutter72.description>
+  <PlankCutter72.description>[PAWN_nameDef]は,木材を頑丈な板に加工することで,自分の部族が巨大な木造建築物を建てる手助けをしました.[PAWN_nameDef]は,木がどのように成長し,どのように縦に割れるのかについて深い知識を得ました.</PlankCutter72.description>
   <PlankCutter72.baseDesc>[PAWN_nameDef]は,木材を頑丈な板に加工することで,自分の部族が巨大な木造建築物を建てる手助けをしました.[PAWN_nameDef]は,木がどのように成長し,どのように縦に割れるのかについて深い知識を得ました.</PlankCutter72.baseDesc>
   <!-- EN: plank cutter -->
   <PlankCutter72.title>厚板生産者</PlankCutter72.title>
@@ -170,7 +170,7 @@
   <PlankCutter72.titleShort>厚板生産者</PlankCutter72.titleShort>
   
   <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
-  <Scout59.description>TODO</Scout59.description>
+  <Scout59.description>[PAWN_possessive]部族は地元のアウトランダーと接触し,[PAWN_nameDef]はガイドとして[PAWN_possessive]サービスを請け負いました. [PAWN_pronoun]は古代の技術と頻繁に接触することで,失われた機械について基本的な知識を身に付けました.</Scout59.description>
   <Scout59.baseDesc>[PAWN_possessive]部族は地元のアウトランダーと接触し,[PAWN_nameDef]はガイドとして[PAWN_possessive]サービスを請け負いました. [PAWN_pronoun]は古代の技術と頻繁に接触することで,失われた機械について基本的な知識を身に付けました.</Scout59.baseDesc>
   <!-- EN: scout -->
   <Scout59.title>スカウト</Scout59.title>
@@ -178,7 +178,7 @@
   <Scout59.titleShort>スカウト</Scout59.titleShort>
   
   <!-- EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self. -->
-  <StewKeeper95.description>TODO</StewKeeper95.description>
+  <StewKeeper95.description>[PAWN_nameDef]は,部族の採集者や農民,狩人の持ち込む野菜や肉から食事を作りました.[PAWN_pronoun]は,カロリー効率が良く,長持ちし,そして健康的な料理を作る必要がありました.[PAWN_pronoun]はしばしば自分で植物を調査し,時には自ら収集することもありました.</StewKeeper95.description>
   <StewKeeper95.baseDesc>[PAWN_nameDef]は,部族の採集者や農民,狩人の持ち込む野菜や肉から食事を作りました.[PAWN_pronoun]は,カロリー効率が良く,長持ちし,そして健康的な料理を作る必要がありました.[PAWN_pronoun]はしばしば自分で植物を調査し,時には自ら収集することもありました.</StewKeeper95.baseDesc>
   <!-- EN: stew keeper -->
   <StewKeeper95.title>シチューキーパー</StewKeeper95.title>
@@ -186,7 +186,7 @@
   <StewKeeper95.titleShort>シチューキーパー</StewKeeper95.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
-  <Tamer79.description>TODO</Tamer79.description>
+  <Tamer79.description>[PAWN_nameDef]の[PAWN_possessive]部族の役割は,周囲の自然界,特に動物の世界とつながることでした. [PAWN_pronoun]は精神的な役割を果たすことに加えて,野生の獣を飼いならし,部族に仕えたときにそれらを世話しました.</Tamer79.description>
   <Tamer79.baseDesc>[PAWN_nameDef]の[PAWN_possessive]部族の役割は,周囲の自然界,特に動物の世界とつながることでした. [PAWN_pronoun]は精神的な役割を果たすことに加えて,野生の獣を飼いならし,部族に仕えたときにそれらを世話しました.</Tamer79.baseDesc>
   <!-- EN: tamer -->
   <Tamer79.title>調教師</Tamer79.title>
@@ -194,7 +194,7 @@
   <Tamer79.titleShort>調教師</Tamer79.titleShort>
   
   <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
-  <TreehouseBuilder86.description>TODO</TreehouseBuilder86.description>
+  <TreehouseBuilder86.description>[PAWN_nameDef]は,顧客が旅行や採取中に使用するための家を木々の間に建て,時には吊るしたりもしました.[PAWN_nameDef]は効率良く野草を見つけて使用する方法と,野生動物と戦う方法を学びました.</TreehouseBuilder86.description>
   <TreehouseBuilder86.baseDesc>[PAWN_nameDef]は,顧客が旅行や採取中に使用するための家を木々の間に建て,時には吊るしたりもしました.[PAWN_nameDef]は効率良く野草を見つけて使用する方法と,野生動物と戦う方法を学びました.</TreehouseBuilder86.baseDesc>
   <!-- EN: treehouse builder -->
   <TreehouseBuilder86.title>ツリーハウス建築士</TreehouseBuilder86.title>
@@ -202,7 +202,7 @@
   <TreehouseBuilder86.titleShort>建築士</TreehouseBuilder86.titleShort>
   
   <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
-  <VengefulHunter32.description>TODO</VengefulHunter32.description>
+  <VengefulHunter32.description>動物の攻撃によって親友を殺された[PAWN_nameDef]は,原因の獣を探し回りました.[PAWN_pronoun]は近くの村まで追跡しましたが,そこにはその毛皮を着ている一人の村人しかいませんでした.</VengefulHunter32.description>
   <VengefulHunter32.baseDesc>動物の攻撃によって親友を殺された[PAWN_nameDef]は,原因の獣を探し回りました.[PAWN_pronoun]は近くの村まで追跡しましたが,そこにはその毛皮を着ている一人の村人しかいませんでした.</VengefulHunter32.baseDesc>
   <!-- EN: vengeful hunter -->
   <VengefulHunter32.title>執念深いハンター</VengefulHunter32.title>
@@ -210,7 +210,7 @@
   <VengefulHunter32.titleShort>復讐者</VengefulHunter32.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles. -->
-  <Warrior94.description>TODO</Warrior94.description>
+  <Warrior94.description>[PAWN_nameDef]は恐ろしい戦士であり,多くの武器に精通しています.[PAWN_pronoun]は多くの戦いに参加しました.</Warrior94.description>
   <Warrior94.baseDesc>[PAWN_nameDef]は恐ろしい戦士であり,多くの武器に精通しています.[PAWN_pronoun]は多くの戦いに参加しました.</Warrior94.baseDesc>
   <!-- EN: warrior -->
   <Warrior94.title>戦士</Warrior94.title>
@@ -218,7 +218,7 @@
   <Warrior94.titleShort>戦士</Warrior94.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
-  <Weaver63.description>TODO</Weaver63.description>
+  <Weaver63.description>[PAWN_nameDef]は,[PAWN_possessive]親族のため,植物由来の天然色素で,マッファロ毛を綺麗に染め上げて服にしたてるエキスパートでした.[PAWN_possessive]美しい手作りの品は,地域の蛮族の間で,いくつも取引されていました.</Weaver63.description>
   <Weaver63.baseDesc>[PAWN_nameDef]は,[PAWN_possessive]親族のため,植物由来の天然色素で,マッファロ毛を綺麗に染め上げて服にしたてるエキスパートでした.[PAWN_possessive]美しい手作りの品は,地域の蛮族の間で,いくつも取引されていました.</Weaver63.baseDesc>
   <!-- EN: weaver -->
   <Weaver63.title>機織り名人</Weaver63.title>

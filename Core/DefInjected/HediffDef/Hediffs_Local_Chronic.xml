@@ -98,18 +98,18 @@
   <HeartArteryBlockage.stages.extreme.label>重度</HeartArteryBlockage.stages.extreme.label>
   
   <!-- EN: organ decay -->
-  <OrganDecay.label>TODO</OrganDecay.label>
+  <OrganDecay.label>臓器腐敗</OrganDecay.label>
   <!-- EN: A degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people. -->
-  <OrganDecay.description>TODO</OrganDecay.description>
+  <OrganDecay.description>1つの臓器に影響を及ぼす変性疾患で,細菌やウイルスが原因であるとされています.この病気は自然界に存在する未知の宿主から感染すると推測されており,人間同士では直接伝染しません.</OrganDecay.description>
   <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
-  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>TODO</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}の{1}は臓器腐敗によって機能不全に陥りました.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
   <!-- EN: minor -->
-  <OrganDecay.stages.minor.label>TODO</OrganDecay.stages.minor.label>
+  <OrganDecay.stages.minor.label>軽度</OrganDecay.stages.minor.label>
   <!-- EN: moderate -->
-  <OrganDecay.stages.moderate.label>TODO</OrganDecay.stages.moderate.label>
+  <OrganDecay.stages.moderate.label>中度</OrganDecay.stages.moderate.label>
   <!-- EN: severe -->
-  <OrganDecay.stages.severe.label>TODO</OrganDecay.stages.severe.label>
+  <OrganDecay.stages.severe.label>重度</OrganDecay.stages.severe.label>
   <!-- EN: extreme -->
-  <OrganDecay.stages.extreme.label>TODO</OrganDecay.stages.extreme.label>
+  <OrganDecay.stages.extreme.label>極度</OrganDecay.stages.extreme.label>
   
 </LanguageData>

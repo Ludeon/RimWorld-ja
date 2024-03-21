@@ -147,9 +147,9 @@
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
-  <ToxicBuildup.description>血中内に毒があります.これには色々な原因,環境中に毒素を含む場合,毒を持った噛み傷による場合,毒が塗られた武器などの場合が考えられます.\n\n高濃度の毒の場合は致命的となります.低濃度であっても発がん性があるかもしれません.\n\n生物が毒の蓄積で死亡した場合,食べられない可能性があります.この可能性は毒の蓄積が高いほど高くなります.</ToxicBuildup.description>
+  <ToxicBuildup.description>血中内に毒があります.これには色々な原因,環境中に毒素を含む場合,毒を持った噛み傷による場合,毒が塗られた武器などの場合が考えられます.\n\n高濃度の毒の場合は致命的となります.低濃度であっても発がん性があるかもしれません.\n\n生物が毒の蓄積で死亡した場合,食べられなくなる可能性があります.この可能性は毒の蓄積が高いほど高くなります.</ToxicBuildup.description>
   <!-- EN: {PAWN_nameDef} is showing early signs of toxic buildup. Keep {PAWN_objective} away from sources of toxins. -->
-  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>TODO</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef}は毒の蓄積による初期症状が出ています.{PAWN_objective}毒の発生源から遠ざけてください.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>症状なし</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->

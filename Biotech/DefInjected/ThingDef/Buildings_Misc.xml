@@ -33,7 +33,7 @@
   <!-- EN: A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further. -->
   <GeneProcessor.description>遺伝学的な分析および処理システムです.遺伝子アセンブラの近くに設置すると,作り出せる異種胚の遺伝子複雑性の最大値を増加できます.複数建造すればさらに引き上げられます.</GeneProcessor.description>
   <!-- EN: Gene complexity increase -->
-  <GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>TODO</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
+  <GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>複雑さの上限増加量</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
   
   <!-- EN: growth vat -->
   <GrowthVat.label>人工生育槽</GrowthVat.label>

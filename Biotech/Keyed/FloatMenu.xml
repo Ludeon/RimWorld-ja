@@ -149,7 +149,7 @@
   <CannotCarryToRechargerNoneAvailable>利用可能な充電器がない</CannotCarryToRechargerNoneAvailable>
 
   <!-- EN: Hemogen packs disabled by food restriction. -->
-  <NotAllowedHemogen>食事ルールによりヘモゲンパックが無効になっています.</NotAllowedHemogen>
+  <NotAllowedHemogen>食事方針によりヘモゲンパックが無効になっています.</NotAllowedHemogen>
 
   <!-- EN: Eject genepack from gene bank -->
   <EjectGenepackFromGeneBank>遺伝子バンクから遺伝子パックを取り出す</EjectGenepackFromGeneBank>
@@ -161,9 +161,9 @@
   <RomanceOnCooldown>最近恋愛をしていない</RomanceOnCooldown>
 
   <!-- EN: Take to safe location -->
-  <CarryToSafePlace>TODO</CarryToSafePlace>
+  <CarryToSafePlace>安全な場所に運ぶ</CarryToSafePlace>
   <!-- EN: Cannot take to safe location -->
-  <CannotCarryToSafePlace>TODO</CannotCarryToSafePlace>
+  <CannotCarryToSafePlace>安全な場所に運べない</CannotCarryToSafePlace>
 
   <!-- UNUSED -->
   <CannotStudy>研究できない</CannotStudy>

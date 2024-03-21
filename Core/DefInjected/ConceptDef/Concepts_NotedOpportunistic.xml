@@ -49,9 +49,9 @@
   <DrugBurning.helpText>ドラッグは時に有用なものですが,有害な依存症をも引き起こします.\n\nもし,あなたの入植地にドラッグを持ち込みたくないなら,焚き火に放り込んでしまうという選択もあります.</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
-  <DrugPolicies.label>ドラッグルール</DrugPolicies.label>
+  <DrugPolicies.label>服薬方針</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>あなたは入植者に,特定のドラッグを特定のスケジュールに従って服用するよう割り当てることができます.例えばペノキシリンを定期的に服薬させたり,あるいは幸せな気持ちを保つために毎日ビールを1本飲ませることができます.\n\n「服装・任命」メニューを開き,「ドラッグルール」をクリックしてください.新しいルールを作成できます.そして,このルールを入植者に割り当てましょう.\n\n入植者はそれでも,ルールに反してドラッグを服用することがあります.あなたは何をすべきか彼らに告げることができますが,彼らもまた自身の欲求に従うのです!</DrugPolicies.helpText>
+  <DrugPolicies.helpText>あなたは入植者に,特定のドラッグを特定のスケジュールに従って服用するよう割り当てることができます.例えばペノキシリンを定期的に服薬させたり,あるいは幸せな気持ちを保つために毎日ビールを1本飲ませることができます.\n\n「服装・任命」メニューを開き,「服薬方針」をクリックしてください.新しいルールを作成できます.そして,このルールを入植者に割り当てましょう.\n\n入植者はそれでも,ルールに反してドラッグを服用することがあります.あなたは何をすべきか彼らに告げることができますが,彼らもまた自身の欲求に従うのです!</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
   <GroupGotoHereDragging.label>兵士の位置取り</GroupGotoHereDragging.label>
@@ -77,7 +77,7 @@
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>囚人タブ</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>囚人の"囚人"タブから,囚人の状態を確認できます.\n\nあなたは囚人たちを,勧誘するか,放置するか,処刑するか,治療を受けさせるかどうかを設定できます.また,囚人の健康タブから食事ルールを設定できます.\n\n作業タイプに"看守"が割り当てられている入植者だけが,囚人と関わることができます.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>囚人の"囚人"タブから,囚人の状態を確認できます.\n\nあなたは囚人たちを,勧誘するか,放置するか,処刑するか,治療を受けさせるかどうかを設定できます.また,囚人の健康タブから食事方針を設定できます.\n\n作業タイプに"看守"が割り当てられている入植者だけが,囚人と関わることができます.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>命令キューに積む</QueueOrders.label>

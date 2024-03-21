@@ -957,25 +957,25 @@
   
   <!-- Outfit management -->
   <!-- EN: Apparel policies -->
-  <ApparelPolicyTitle>服装ルール</ApparelPolicyTitle>
+  <ApparelPolicyTitle>服装方針</ApparelPolicyTitle>
   <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
   <ApparelPolicyTip>TODO</ApparelPolicyTip>
   <!-- EN: Apparel policy -->
-  <ApparelPolicy>服装ルール</ApparelPolicy>
+  <ApparelPolicy>服装方針</ApparelPolicy>
   <!-- EN: Apparel policy is in use by {0}. -->
-  <OutfitInUse>この服装ルールは {0}が使用しています.</OutfitInUse>
+  <OutfitInUse>この服装方針は {0}が使用しています.</OutfitInUse>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policies -->
-  <DrugPolicyTitle>ドラッグルール</DrugPolicyTitle>
+  <DrugPolicyTitle>服薬方針</DrugPolicyTitle>
   <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
   <DrugPolicyTip>TODO</DrugPolicyTip>
   <!-- EN: Drug policy -->
-  <DrugPolicy>ドラッグルール</DrugPolicy>
+  <DrugPolicy>服薬方針</DrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>このドラッグルールは {0}に適用中です.</DrugPolicyInUse>
+  <DrugPolicyInUse>この服薬方針は {0}に適用中です.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>この食事ルールは {0}に適用中です.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>この食事方針は {0}に適用中です.</FoodRestrictionInUse>
   <!-- EN: Add drug... -->
   <AddDrug>ドラッグを追加...</AddDrug>
   <!-- EN: Drug -->
@@ -1019,11 +1019,11 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food policies -->
-  <FoodPolicyTitle>食事ルール</FoodPolicyTitle>
+  <FoodPolicyTitle>食事方針</FoodPolicyTitle>
   <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
   <FoodPolicyTip>TODO</FoodPolicyTip>
   <!-- EN: Food policy -->
-  <FoodPolicy>食事ルール</FoodPolicy>
+  <FoodPolicy>食事方針</FoodPolicy>
   <!-- EN: Allow food -->
   <AllowFood>食事を許可</AllowFood>
   <!-- EN: Lavish -->
@@ -1041,11 +1041,11 @@
   
   <!-- Reading management -->
   <!-- EN: Reading policies -->
-  <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
+  <ReadingPolicyTitle>読書方針</ReadingPolicyTitle>
   <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
   <ReadingPolicyTip>TODO</ReadingPolicyTip>
   <!-- EN: Reading policy -->
-  <ReadingPolicy>TODO</ReadingPolicy>
+  <ReadingPolicy>読書方針</ReadingPolicy>
   
   <!-- EN: Anything -->
   <AllReadingPolicy>TODO</AllReadingPolicy>
