@@ -742,6 +742,8 @@
   <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort}は監視できる必要があります.</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->
   <MessageRitualRoleMustBeCapableOfGeneric>{0}は{1}である必要があります.</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: {0} must be capable of violence. -->
+  <MessageRitualRoleMustBeCapableOfViolence>TODO</MessageRitualRoleMustBeCapableOfViolence><!-- text_todo -->
   <!-- EN: prisoners cannot {0}. -->
   <MessageRitualRoleMustNotBePrisonerToSpectate>囚人は{0}になることができません.</MessageRitualRoleMustNotBePrisonerToSpectate>
   <!-- EN: only {0} can {1}. -->

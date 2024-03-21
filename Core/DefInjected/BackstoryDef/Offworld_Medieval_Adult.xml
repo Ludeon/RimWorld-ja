@@ -67,8 +67,7 @@
   
   <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
   <Taster16.description>[PAWN_nameDef]は中世惑星の宮廷料理の試食人として,王室の食卓に並ぶ予定の,あらゆる料理を試食していました.[PAWN_pronoun]は宮廷で退廃的な生活を送り,体は太り,そしてまともな仕事もほとんど行いませんでした.</Taster16.description>
-  <Taster16.baseDesc>  <Taster16.description>[PAWN_nameDef]は中世惑星の宮廷料理の試食人として,王室の食卓に並ぶ予定の,あらゆる料理を試食していました.[PAWN_pronoun]は宮廷で退廃的な生活を送り,体は太り,そしてまともな仕事もほとんど行いませんでした.</Taster16.description>
-</Taster16.baseDesc>
+  <Taster16.baseDesc>[PAWN_nameDef]は中世惑星の宮廷料理の試食人として,王室の食卓に並ぶ予定の,あらゆる料理を試食していました.[PAWN_pronoun]は宮廷で退廃的な生活を送り,体は太り,そしてまともな仕事もほとんど行いませんでした.</Taster16.baseDesc>
   <!-- EN: taster -->
   <Taster16.title>試食人</Taster16.title>
   <!-- EN: taster -->
