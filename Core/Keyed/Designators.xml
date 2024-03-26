@@ -51,25 +51,25 @@
   <!-- EN: Mine -->
   <DesignatorMine>採掘</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>採掘するためにゾーンを指示します.</DesignatorMineDesc>
+  <DesignatorMineDesc>採掘する岩石を指示します.</DesignatorMineDesc>
 
   <!-- EN: Mine vein -->
-  <DesignatorMineVein>TODO</DesignatorMineVein>
+  <DesignatorMineVein>鉱脈採掘</DesignatorMineVein>
   <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
-  <DesignatorMineVeinDesc>TODO</DesignatorMineVeinDesc>
+  <DesignatorMineVeinDesc>採掘する岩石を指示します.入植者は指示された鉱石に繋がる,同じ種類の鉱石をすべて採掘し続けます.</DesignatorMineVeinDesc>
 
   <!-- EN: Smooth surface -->
   <DesignatorSmoothSurface>表面を磨く</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>荒削りの岩の床や壁を磨かせるために,印をつけます.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>荒削りの岩床や岩壁を滑らかにするために,指示を行います.</DesignatorSmoothSurfaceDesc>
   <!-- EN: Smooth walls -->
-  <DesignatorSmoothWalls>TODO</DesignatorSmoothWalls>
+  <DesignatorSmoothWalls>壁を磨く</DesignatorSmoothWalls>
   <!-- EN: Designate rough stone walls to be smoothed. -->
-  <DesignatorSmoothWallsDesc>TODO</DesignatorSmoothWallsDesc>
+  <DesignatorSmoothWallsDesc>荒削りの岩壁を滑らかにするために,指示を行います.</DesignatorSmoothWallsDesc>
   <!-- EN: Smooth terrain -->
-  <DesignatorSmoothFloors>TODO</DesignatorSmoothFloors>
+  <DesignatorSmoothFloors>地面を磨く</DesignatorSmoothFloors>
   <!-- EN: Designate rough stone terrain to be smoothed. -->
-  <DesignatorSmoothFloorsDesc>TODO</DesignatorSmoothFloorsDesc>
+  <DesignatorSmoothFloorsDesc>荒削りの岩床を滑らかにするために,指示を行います.</DesignatorSmoothFloorsDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>予定地</DesignatorPlan>

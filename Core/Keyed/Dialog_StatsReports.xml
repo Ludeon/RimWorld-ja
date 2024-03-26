@@ -19,7 +19,7 @@
   <!-- EN: Life stage -->
   <StatsReport_LifeStage>ライフ・ステージ</StatsReport_LifeStage>
   <!-- EN: Shambler crawling -->
-  <StatsReport_ShamblerCrawling>TODO</StatsReport_ShamblerCrawling>
+  <StatsReport_ShamblerCrawling>立てずに這っている</StatsReport_ShamblerCrawling>
   <!-- EN: Material -->
   <StatsReport_Material>材料</StatsReport_Material>
   <!-- EN: Character quality -->
@@ -45,7 +45,7 @@
   <!-- EN: Final value -->
   <StatsReport_FinalValue>最終的な決定値</StatsReport_FinalValue>
   <!-- EN: Max value -->
-  <StatsReport_MaxValue>TODO</StatsReport_MaxValue>
+  <StatsReport_MaxValue>最大決定値</StatsReport_MaxValue>
   <!-- EN: Multiplier for {0} -->
   <StatsReport_MultiplierFor>{0}乗数</StatsReport_MultiplierFor>
   <!-- EN: Materials and labor -->
@@ -163,7 +163,7 @@
   <StatsReport_SatisfiesTitle>使用者の爵位要件を満たしている</StatsReport_SatisfiesTitle>
 
   <!-- EN: Age -->
-  <Stat_Age_Label>TODO</Stat_Age_Label>
+  <Stat_Age_Label>年齢</Stat_Age_Label>
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
   <Stat_RecreationType_Desc>異なる娯楽道具はそれぞれ異なる娯楽欲求を満たします.入植者は同じ種類の娯楽を繰り返すと飽きてしまうので,異なる娯楽欲求のために多様性のある娯楽を提供することが重要です.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
@@ -207,9 +207,9 @@
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
   <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>ヌーディストがこのアイテムを衣服とみなすかどうかを表します.みなさない場合,ヌーディストはこれを着ても決して悩むことはありません.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Gender -->
-  <Stat_Thing_Apparel_Gender>TODO</Stat_Thing_Apparel_Gender>
+  <Stat_Thing_Apparel_Gender>性別</Stat_Thing_Apparel_Gender>
   <!-- EN: Certain apparel is generally preferred by one gender. Anyone else may be unhappy wearing it. -->
-  <Stat_Thing_Apparel_Gender_Desc>TODO</Stat_Thing_Apparel_Gender_Desc>
+  <Stat_Thing_Apparel_Gender_Desc>一部の衣服は基本的に,特定の性別にのみ好まれます.それ以外の性別が着ると,不満を感じる可能性があります.</Stat_Thing_Apparel_Gender_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>防護する身体の部位です.\n\nこの部位以外は防護しません</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
@@ -305,7 +305,7 @@
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
   <Stat_Hediff_PartEfficiency_Desc>これによって影響を受ける身体の部位に適用される効率の増減量です.</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: How efficiently this functions compared to a natural body part. -->
-  <Stat_Hediff_PartEfficiencyAbsolute_Desc>TODO</Stat_Hediff_PartEfficiencyAbsolute_Desc>
+  <Stat_Hediff_PartEfficiencyAbsolute_Desc>通常の体の部位と比較して,これがどれほど効率的に機能するかを表します.</Stat_Hediff_PartEfficiencyAbsolute_Desc>
   <!-- EN: The mental abilities this affects. -->
   <Stat_Hediff_Affects_Desc>これが影響を与える精神能力です.</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
@@ -389,13 +389,13 @@
   <!-- EN: The color this building was painted. -->
   <Stat_Building_PaintColorDesc>この建築物に塗られた色です.</Stat_Building_PaintColorDesc>
   <!-- EN: Resources to make -->
-  <Stat_Building_ResourcesToMake>TODO</Stat_Building_ResourcesToMake>
+  <Stat_Building_ResourcesToMake>必要な資材</Stat_Building_ResourcesToMake>
   <!-- EN: The resources required to construct this. -->
-  <Stat_Building_ResourcesToMakeDesc>TODO</Stat_Building_ResourcesToMakeDesc>
+  <Stat_Building_ResourcesToMakeDesc>これを作成するために必要な資材です.</Stat_Building_ResourcesToMakeDesc>
   <!-- EN: The weapon mounted on this creature. -->
-  <Stat_Thing_TurretDesc>TODO</Stat_Thing_TurretDesc>
+  <Stat_Thing_TurretDesc>この生物が持っている武器です.</Stat_Thing_TurretDesc>
   <!-- EN: The ingredients needed to make this. -->
-  <Stat_Thing_Ingredients>TODO</Stat_Thing_Ingredients>
+  <Stat_Thing_Ingredients>これを作るのに必要な材料です.</Stat_Thing_Ingredients>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
@@ -548,7 +548,7 @@
   <Stat_Source_ModReport>このコンテンツのソースは次のMODです</Stat_Source_ModReport>
 
   <!-- EN: Contained book beauty -->
-  <ContainedBookBeauty>TODO</ContainedBookBeauty> <!-- text_todo -->
+  <ContainedBookBeauty>収納された本による美しさ</ContainedBookBeauty> <!-- text_todo -->
   <!-- EN: {0} hits -->
-  <Stat_TrapDamageHitCount>TODO</Stat_TrapDamageHitCount>
+  <Stat_TrapDamageHitCount>{0}ヒット</Stat_TrapDamageHitCount>
 </LanguageData>

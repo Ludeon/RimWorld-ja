@@ -27,9 +27,9 @@
   <MedicalTendQualityOffset.description>この値の分だけ,治療品質が増加,減少します.</MedicalTendQualityOffset.description>
   
   <!-- EN: max power output -->
-  <PowerPlantMaxPowerOuput.label>TODO</PowerPlantMaxPowerOuput.label>
+  <PowerPlantMaxPowerOuput.label>最大出力</PowerPlantMaxPowerOuput.label>
   <!-- EN: The maximum power that this generator can output in ideal conditions. -->
-  <PowerPlantMaxPowerOuput.description>TODO</PowerPlantMaxPowerOuput.description>
+  <PowerPlantMaxPowerOuput.description>この発電機が理想的な条件下で出力できる最大電力です.</PowerPlantMaxPowerOuput.description>
   
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>研究速度係数</ResearchSpeedFactor.label>
@@ -38,14 +38,14 @@
   <!-- EN: Room cleanliness -->
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   <!-- EN: Reading bonus -->
-  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>TODO</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>本棚ボーナス</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
   
   <!-- EN: reading bonus -->
-  <RoomReadingBonus.label>TODO</RoomReadingBonus.label>
+  <RoomReadingBonus.label>本棚ボーナス</RoomReadingBonus.label>
   <!-- EN: Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase. -->
-  <RoomReadingBonus.description>TODO</RoomReadingBonus.description>
+  <RoomReadingBonus.description>研究速度,読書から得られる経験値,本棚のある部屋で読書したときに得られる娯楽量などにボーナスを与えます.本棚に高品質な本を多く置くことによって,この数値が増加します.</RoomReadingBonus.description>
   <!-- EN: Reading bonus -->
-  <RoomReadingBonus.parts.Reading_bonus.customLabel>TODO</RoomReadingBonus.parts.Reading_bonus.customLabel>
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>本棚ボーナス</RoomReadingBonus.parts.Reading_bonus.customLabel>
   
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>外科手術成功率</SurgerySuccessChanceFactor.label>

@@ -37,19 +37,19 @@
   <BedrollDouble.description>地面に置く簡素なダブルサイズの寝袋です.大抵は布や革で作られ,毛皮で裏打ちされています.とても軽く,簡単に持ち運びできるよう巻くことができますが,普通のベッドのような快適さはありません.\nキャラバン隊は寝袋を使って旅のあいだ質の良い睡眠を取ることができます.</BedrollDouble.description>
   
   <!-- EN: bookcase -->
-  <Bookcase.label>TODO</Bookcase.label>
+  <Bookcase.label>本棚</Bookcase.label>
   <!-- EN: A wide bookcase for storing and displaying up to ten books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
-  <Bookcase.description>TODO</Bookcase.description>
+  <Bookcase.description>10冊までの本を収納・展示できる大きな本棚です.棚に本を収納することで,本棚の美しさをより高め,そばで行われる研究速度を高めます.収納されている本は劣化しません.</Bookcase.description>
   
   <!-- EN: small bookcase -->
-  <BookcaseSmall.label>TODO</BookcaseSmall.label>
+  <BookcaseSmall.label>小型本棚</BookcaseSmall.label>
   <!-- EN: A narrow bookcase for storing and displaying up to five books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
-  <BookcaseSmall.description>TODO</BookcaseSmall.description>
+  <BookcaseSmall.description>5冊までの本を収納・展示できる小さな本棚です.棚に本を収納することで,本棚の美しさをより高め,そばで行われる研究速度を高めます.収納されている本は劣化しません.</BookcaseSmall.description>
   
   <!-- EN: couch -->
-  <Couch.label>TODO</Couch.label>
+  <Couch.label>ソファー</Couch.label>
   <!-- EN: A large double-wide seat which is cushioned for maximum comfort. Perfect for a luxurious rec room or a homey reading nook. -->
-  <Couch.description>TODO</Couch.description>
+  <Couch.description>最高の座り心地を実現したクッションを備えた,二人掛けの大きなイスです.豪華な娯楽室や家庭的な読書部屋などに適しています.</Couch.description>
   
   <!-- EN: dining chair -->
   <DiningChair.label>ダイニングチェア</DiningChair.label>
@@ -77,9 +77,9 @@
   <EndTable.description>小型のベッドサイドテーブルです.近くにあるベッドをちょっとだけ快適にさせます.それらの頭部分の横に直接置かなければなりません.同じベッドに一つより多くのエンドテーブルを置いても効果はありません.</EndTable.description>
   
   <!-- EN: flood light -->
-  <FloodLight.label>TODO</FloodLight.label>
+  <FloodLight.label>投光照明</FloodLight.label>
   <!-- EN: A high-intensity light that's good for large outdoor spaces. -->
-  <FloodLight.description>TODO</FloodLight.description>
+  <FloodLight.description>広い屋外での使用に適した,非常に明るいライトです.</FloodLight.description>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>病院用ベッド</HospitalBed.label>
@@ -114,7 +114,7 @@
   <!-- EN: standing lamp -->
   <StandingLamp.label>電気スタンド</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>辺りを照らす電気スタンドランプです.人が快適に動き,仕事をするためには光が必要です.</StandingLamp.description>
+  <StandingLamp.description>辺りを照らす電気スタンドランプです.人間の移動速度や作業効率を落とさないためには,光が必要です.</StandingLamp.description>
   
   <!-- EN: stool -->
   <Stool.label>スツール</Stool.label>
@@ -151,16 +151,16 @@
   <!-- EN: torch lamp -->
   <TorchLamp.label>トーチランプ</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <TorchLamp.description>木製のトーチランプが辺りを照らします.木があれば自動的に燃料補給できます.少しの熱しか産出しません.</TorchLamp.description>
+  <TorchLamp.description>辺りを照らす木製トーチランプです.人間の移動速度や作業効率を落とさないためには,光が必要です.木材があれば自動的に燃料補給できます.少量の熱を発します.</TorchLamp.description>
   
   <!-- EN: wall torch lamp -->
-  <TorchWallLamp.label>TODO</TorchWallLamp.label>
+  <TorchWallLamp.label>壁掛け松明</TorchWallLamp.label>
   <!-- EN: A wall-mounted wooden torch for lighting an area. It is not as bright as a regular torch lamp, but it can be mounted on walls. Produces a small amount of heat. -->
-  <TorchWallLamp.description>TODO</TorchWallLamp.description>
+  <TorchWallLamp.description>辺りを照らす壁掛けの木製トーチランプです.通常のトーチランプほど明るくはありませんが,壁に取り付けることができます.少量の熱を発します.</TorchWallLamp.description>
   
   <!-- EN: wall lamp -->
-  <WallLamp.label>TODO</WallLamp.label>
+  <WallLamp.label>壁掛け電灯</WallLamp.label>
   <!-- EN: A wall-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be mounted on walls. -->
-  <WallLamp.description>TODO</WallLamp.description>
+  <WallLamp.description>電力を使って辺りを照らす壁掛け電灯です.電気スタンドより出力が劣りますが,壁に取り付けることができます.</WallLamp.description>
   
 </LanguageData>

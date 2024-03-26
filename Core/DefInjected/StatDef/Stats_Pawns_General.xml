@@ -30,11 +30,11 @@
   <ComfyTemperatureMin.description>この温度を下回るとキャラクターは不満を感じるでしょう.\n\n大きく下回ると,低体温,凍傷,そして死に至ります.</ComfyTemperatureMin.description>
   
   <!-- EN: crawl speed -->
-  <CrawlSpeed.label>TODO</CrawlSpeed.label>
+  <CrawlSpeed.label>這いずり速度</CrawlSpeed.label>
   <!-- EN: Speed of crawling in cells per second. -->
-  <CrawlSpeed.description>TODO</CrawlSpeed.description>
+  <CrawlSpeed.description>1秒あたりに這いずることの出来る距離です.</CrawlSpeed.description>
   <!-- EN: {0} c/s -->
-  <CrawlSpeed.formatString>TODO</CrawlSpeed.formatString>
+  <CrawlSpeed.formatString>{0} セル/秒</CrawlSpeed.formatString>
   
   <!-- EN: eating speed -->
   <EatingSpeed.label>食事の早さ</EatingSpeed.label>
@@ -72,9 +72,9 @@
   <InjuryHealingFactor.description>傷の治る速度に適用される掛け率です.</InjuryHealingFactor.description>
   
   <!-- EN: recreation fall rate -->
-  <JoyFallRateFactor.label>TODO</JoyFallRateFactor.label>
+  <JoyFallRateFactor.label>娯楽減少レート</JoyFallRateFactor.label>
   <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
-  <JoyFallRateFactor.description>TODO</JoyFallRateFactor.description>
+  <JoyFallRateFactor.description>娯楽欲求の減少する速度に影響を与える掛け率です.</JoyFallRateFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>生皮の量</LeatherAmount.label>

@@ -38,21 +38,21 @@
   <MeditationFocusStrength.formatStringUnfinalized>{0}/日</MeditationFocusStrength.formatStringUnfinalized>
   
   <!-- EN: neural heat limit offset -->
-  <PsychicEntropyMaxOffset.label>TODO</PsychicEntropyMaxOffset.label>
+  <PsychicEntropyMaxOffset.label>ニューラルヒート限界値の増減量</PsychicEntropyMaxOffset.label>
   <!-- EN: An offset applied to the user's neural heat limit. -->
-  <PsychicEntropyMaxOffset.description>TODO</PsychicEntropyMaxOffset.description>
+  <PsychicEntropyMaxOffset.description>使用者のニューラルヒートの限界値に適用される増減量です.</PsychicEntropyMaxOffset.description>
   
   <!-- EN: neural heat recovery rate offset -->
-  <PsychicEntropyRecoveryRateOffset.label>TODO</PsychicEntropyRecoveryRateOffset.label>
+  <PsychicEntropyRecoveryRateOffset.label>ニューラルヒート回復量の増減量</PsychicEntropyRecoveryRateOffset.label>
   <!-- EN: An offset applied to the user's neural heat recovery rate. -->
-  <PsychicEntropyRecoveryRateOffset.description>TODO</PsychicEntropyRecoveryRateOffset.description>
+  <PsychicEntropyRecoveryRateOffset.description>使用者のニューラルヒート回復レートに適用される増減量です.</PsychicEntropyRecoveryRateOffset.description>
   <!-- EN: {0}/s -->
-  <PsychicEntropyRecoveryRateOffset.formatString>TODO</PsychicEntropyRecoveryRateOffset.formatString>
+  <PsychicEntropyRecoveryRateOffset.formatString>{0}/秒</PsychicEntropyRecoveryRateOffset.formatString>
   
   <!-- EN: psychic sensitivity factor -->
-  <PsychicSensitivityFactor.label>TODO</PsychicSensitivityFactor.label>
+  <PsychicSensitivityFactor.label>精神感応性の係数</PsychicSensitivityFactor.label>
   <!-- EN: A factor applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityFactor.description>TODO</PsychicSensitivityFactor.description>
+  <PsychicSensitivityFactor.description>使用者の精神感応性に適用される係数です.</PsychicSensitivityFactor.description>
   
   <!-- EN: psychic sensitivity offset -->
   <PsychicSensitivityOffset.label>精神感応性の増減量</PsychicSensitivityOffset.label>

@@ -17,9 +17,9 @@
   <MeleeArmorPenetration.description>白兵戦闘においてアーマーを貫通する平均値です.\n\nこのステータスは現在装備している武器の値を含みます.</MeleeArmorPenetration.description>
   
   <!-- EN: melee cooldown -->
-  <MeleeCooldownFactor.label>TODO</MeleeCooldownFactor.label>
+  <MeleeCooldownFactor.label>近接クールダウン</MeleeCooldownFactor.label>
   <!-- EN: A multiplier on the time this creature takes to recover after making a melee attack. -->
-  <MeleeCooldownFactor.description>TODO</MeleeCooldownFactor.description>
+  <MeleeCooldownFactor.description>この生物が近接攻撃を行った後,再び動けるようになるまでに必要な時間の掛け率です.</MeleeCooldownFactor.description>
   
   <!-- EN: melee damage factor -->
   <MeleeDamageFactor.label>近接ダメージ掛け率</MeleeDamageFactor.label>

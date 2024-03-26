@@ -47,7 +47,7 @@
   <DeliverToCell.reportString>TargetAを誘導中</DeliverToCell.reportString>
   
   <!-- EN: dismissing trader. -->
-  <DismissTrader.reportString>TODO</DismissTrader.reportString>
+  <DismissTrader.reportString>トレーダーを帰らせている</DismissTrader.reportString>
   
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TargetAを除装している</DropEquipment.reportString>
@@ -59,7 +59,7 @@
   <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込んでいる</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterPortal.reportString>TODO</EnterPortal.reportString>
+  <EnterPortal.reportString>TargetAに乗り込んでいる</EnterPortal.reportString>
   
   <!-- EN: entering TargetA. -->
   <EnterTransporter.reportString>TargetAに乗り込んでいる</EnterTransporter.reportString>
@@ -68,7 +68,7 @@
   <Equip.reportString>TargetAを装備中</Equip.reportString>
   
   <!-- EN: extinguishing fires nearby. -->
-  <ExtinguishFiresNearby.reportString>TODO</ExtinguishFiresNearby.reportString>
+  <ExtinguishFiresNearby.reportString>周囲の炎を消火中</ExtinguishFiresNearby.reportString>
   
   <!-- EN: extinguishing self. -->
   <ExtinguishSelf.reportString>自分自身を消火中</ExtinguishSelf.reportString>
@@ -113,7 +113,7 @@
   <HaulCorpseToPublicPlace.reportString>TargetAを運んでいる</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToPortal.reportString>TODO</HaulToPortal.reportString>
+  <HaulToPortal.reportString>TargetAを運んでいる</HaulToPortal.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>TargetAを運んでいる</HaulToTransporter.reportString>
@@ -134,7 +134,7 @@
   <Insult.reportString>TargetAを侮辱している</Insult.reportString>
   
   <!-- EN: activating TargetA. -->
-  <InteractThing.reportString>TODO</InteractThing.reportString>
+  <InteractThing.reportString>TargetAを作動させている</InteractThing.reportString>
   
   <!-- EN: lying down. -->
   <LayDown.reportString>睡眠中</LayDown.reportString>
@@ -161,7 +161,7 @@
   <PickupToHold.reportString>TargetAを拾っている</PickupToHold.reportString>
   
   <!-- EN: reading TargetA -->
-  <Reading.reportString>TODO</Reading.reportString>
+  <Reading.reportString>TargetAを読んでいる</Reading.reportString>
   
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>TargetAを再装填中</RearmTurret.reportString>
@@ -188,7 +188,7 @@
   <SocialFight.reportString>TargetAとケンカ中</SocialFight.reportString>
   
   <!-- EN: staring. -->
-  <StandAndStare.reportString>TODO</StandAndStare.reportString>
+  <StandAndStare.reportString>凝視している</StandAndStare.reportString>
   
   <!-- EN: stripping TargetA. -->
   <Strip.reportString>TargetAを剥がしている</Strip.reportString>
@@ -233,7 +233,7 @@
   <UseVerbOnThingStatic.reportString>行動中</UseVerbOnThingStatic.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStaticReserve.reportString>TODO</UseVerbOnThingStaticReserve.reportString>
+  <UseVerbOnThingStaticReserve.reportString>行動中</UseVerbOnThingStaticReserve.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>吐いている</Vomit.reportString>
@@ -245,7 +245,7 @@
   <Wait_Asleep.reportString>睡眠中</Wait_Asleep.reportString>
   
   <!-- EN: sleeping. -->
-  <Wait_AsleepDormancy.reportString>TODO</Wait_AsleepDormancy.reportString>
+  <Wait_AsleepDormancy.reportString>休眠中</Wait_AsleepDormancy.reportString>
   
   <!-- EN: watching for targets. -->
   <Wait_Combat.reportString>対象を観察している</Wait_Combat.reportString>

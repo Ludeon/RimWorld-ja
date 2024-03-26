@@ -17,14 +17,14 @@
   <GeothermalGenerator.description>間欠泉の蒸気を使って発電する為,間欠泉の上にしか設置できません.</GeothermalGenerator.description>
   
   <!-- EN: hidden conduit -->
-  <HiddenConduit.label>TODO</HiddenConduit.label>
+  <HiddenConduit.label>埋設型電力線</HiddenConduit.label>
   <!-- EN: Hidden electrical cables for moving power around. They're tougher than regular conduits, but also slower to build and more expensive. -->
-  <HiddenConduit.description>TODO</HiddenConduit.description>
+  <HiddenConduit.description>電力を送電する為の,埋設型の電気ケーブルです.通常の電力線より丈夫ですが,より多くの資材と建築時間が必要になります.</HiddenConduit.description>
   
   <!-- EN: power conduit -->
   <PowerConduit.label>電力線</PowerConduit.label>
   <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
-  <PowerConduit.description>電力を送電する為の電気ケーブルの束です.壁や建物の下にも置けます.</PowerConduit.description>
+  <PowerConduit.description>電力を送電する為の電気ケーブルです.壁や建物の下にも置けます.</PowerConduit.description>
   
   <!-- EN: power switch -->
   <PowerSwitch.label>ブレーカスイッチ</PowerSwitch.label>

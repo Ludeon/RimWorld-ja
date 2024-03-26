@@ -69,16 +69,16 @@
   <!-- EN: smelt apparel -->
   <SmeltApparel.label>衣服を溶解する</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>高温と強力な電磁石を使い,アーマーのような金属製衣服を分解し有益な資源に変えます.</SmeltApparel.description>
+  <SmeltApparel.description>高温と強力な電磁石を使い,アーマーなどの金属製衣服を分解し有益な資源に変えます.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
   <SmeltApparel.jobString>衣服を溶解中</SmeltApparel.jobString>
   
   <!-- EN: smelt or destroy thing -->
-  <SmeltOrDestroyThing.label>TODO</SmeltOrDestroyThing.label>
+  <SmeltOrDestroyThing.label>溶解/破棄する</SmeltOrDestroyThing.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable. -->
-  <SmeltOrDestroyThing.description>TODO</SmeltOrDestroyThing.description>
+  <SmeltOrDestroyThing.description>高温と強力な電磁石を使い,武器やアーマーなどの金属を有益な資源に分解するか,できない場合は破壊します.</SmeltOrDestroyThing.description>
   <!-- EN: Smelting/destroying things. -->
-  <SmeltOrDestroyThing.jobString>TODO</SmeltOrDestroyThing.jobString>
+  <SmeltOrDestroyThing.jobString>溶解/破棄している</SmeltOrDestroyThing.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
