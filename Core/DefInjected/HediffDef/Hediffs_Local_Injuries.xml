@@ -157,19 +157,19 @@
   <Decayed.labelNounPretty>腐敗した{1}</Decayed.labelNounPretty>
   
   <!-- EN: electrical burn -->
-  <ElectricalBurn.label>TODO</ElectricalBurn.label>
+  <ElectricalBurn.label>電気火傷</ElectricalBurn.label>
   <!-- EN: An electical burn. -->
-  <ElectricalBurn.description>TODO</ElectricalBurn.description>
+  <ElectricalBurn.description>電気による火傷です.</ElectricalBurn.description>
   <!-- EN: electrical burn scar -->
-  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>電気火傷</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
-  <ElectricalBurn.injuryProps.destroyedLabel>TODO</ElectricalBurn.injuryProps.destroyedLabel>
+  <ElectricalBurn.injuryProps.destroyedLabel>焼け落ちた</ElectricalBurn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
-  <ElectricalBurn.injuryProps.destroyedOutLabel>TODO</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <ElectricalBurn.injuryProps.destroyedOutLabel>焼け落ちた</ElectricalBurn.injuryProps.destroyedOutLabel>
   <!-- EN: an electrical burn -->
-  <ElectricalBurn.labelNoun>TODO</ElectricalBurn.labelNoun>
+  <ElectricalBurn.labelNoun>電気火傷</ElectricalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ElectricalBurn.labelNounPretty>TODO</ElectricalBurn.labelNounPretty>
+  <ElectricalBurn.labelNounPretty>{1}内の{0}</ElectricalBurn.labelNounPretty>
   
   <!-- EN: cut -->
   <ExecutionCut.label>切創</ExecutionCut.label>

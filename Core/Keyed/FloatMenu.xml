@@ -159,7 +159,7 @@
   <!-- EN: incapable of mining -->
   <IncapableOfMining>掘削する能力がない</IncapableOfMining>
   <!-- EN: tree marked for extraction -->
-  <TreeMarkedForExtraction>TODO</TreeMarkedForExtraction>
+  <TreeMarkedForExtraction>引き抜くために印を付けられた木</TreeMarkedForExtraction>
   <!-- EN: angers faction -->
   <AngersFaction>派閥を怒らせる</AngersFaction>
   <!-- EN: no body part -->
@@ -196,7 +196,7 @@
   <GoHere>ここに移動する</GoHere>
 
   <!-- EN: Clean {0} -->
-  <CleanRoom>TODO</CleanRoom>
+  <CleanRoom>{0}を掃除</CleanRoom>
   
   <!-- EN: Arrest {0} -->
   <Arrest>{0}を逮捕する</Arrest>
@@ -210,13 +210,13 @@
   <!-- EN: Capture {1_labelShort} -->
   <Capture>{1_labelShort}を捕らえる</Capture>
   <!-- EN: capture {0_labelShort} -->
-  <CaptureLower>TODO</CaptureLower>
+  <CaptureLower>{0_labelShort}を捕らえる</CaptureLower>
   <!-- EN: Cannot capture -->
   <CannotCapture>捕獲できない</CannotCapture>
   <!-- EN: unwaveringly loyal -->
   <Unrecruitable>揺るぎない忠誠心</Unrecruitable>
   <!-- EN: not recruitable -->
-  <UnrecruitableNoFaction>TODO</UnrecruitableNoFaction> 
+  <UnrecruitableNoFaction>勧誘不可</UnrecruitableNoFaction> 
   <!-- EN: Transfer {0_label} -->
   <TransferEntity>TODO</TransferEntity> 
 

@@ -917,59 +917,59 @@
   <!-- EN: Research Screen -->
   <ResearchScreen>研究メニュー</ResearchScreen>
   <!-- EN: By researching {0} you have discovered the {1} research project. -->
-  <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
+  <ResearchUnknownProjectRevealed>{0}を調査することで,研究プロジェクト"{1}"を解放したことになります.</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>ゲームの さらなる バランス改良のため, RimWorld サーバに ゲーム情報を アップして 開発支援 しませんか? 同意すれば  {0}日ごとに データを アップロードします. (ゲーム終了など ほかの いくつかの 状況も アップロードします) 後で, オプションメニューの プライバシーを 変更することが できます.</HistoryUploadMessage>
+  <HistoryUploadMessage>ゲームバランスの改善のために,ゲームプレイデータをRimWorldサーバーにアップロードすることができます.同意した場合,{0}日ごとにデータがアップロードされます(ゲーム終了時などのように,その他のタイミングでも行われます).また,オプションメニューからプライバシー設定を変更できます.</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
-  <HistoryUploadMessagePlayerName>データは 匿名で アップロードできますし, 名前をつけることも できます.</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>データは匿名でアップロードされますが,自分で名前を付けることもできます.</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
-  <HistoryUploadYes>ゲームデータを アップロードする.</HistoryUploadYes>
+  <HistoryUploadYes>ゲームプレイデータのアップロードを許可</HistoryUploadYes>
   <!-- EN: Do not allow uploading gameplay data -->
-  <HistoryUploadNo>ゲームデータを アップロード しません.</HistoryUploadNo>
+  <HistoryUploadNo>ゲームプレイデータのアップロードを禁止</HistoryUploadNo>
   <!-- EN: Upload only this time -->
-  <HistoryUploadYesOnce>今回は アップロードします.</HistoryUploadYesOnce>
+  <HistoryUploadYesOnce>今回のみアップロードを行う</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
-  <HistoryUploadNoOnce>今回は アップロードしません. 後で たずねてください.</HistoryUploadNoOnce>
+  <HistoryUploadNoOnce>今回のみアップロードを行わなわず,次回また選択を表示</HistoryUploadNoOnce>
   
   <!-- Policies -->
   <!-- EN: Available policies -->
-  <AvailablePolicies>TODO</AvailablePolicies>
+  <AvailablePolicies>使用方針</AvailablePolicies>
   <!-- EN: Unnamed -->
-  <UnnamedPolicy>TODO</UnnamedPolicy>
+  <UnnamedPolicy>名前なし</UnnamedPolicy>
   <!-- EN: New... -->
-  <NewPolicy>TODO</NewPolicy>
+  <NewPolicy>新規...</NewPolicy>
   <!-- EN: Invalid policy name -->
-  <InvalidName>TODO</InvalidName>
+  <InvalidName>無効な方針名</InvalidName>
   <!-- EN: Delete the selected policy. -->
-  <DeletePolicyTip>TODO</DeletePolicyTip>
+  <DeletePolicyTip>選択した方針を削除します.</DeletePolicyTip>
   <!-- EN: Create a duplicate of the selected policy. -->
-  <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
+  <DuplicatePolicyTip>選択した方針を複製します.</DuplicatePolicyTip>
   <!-- EN: Rename this policy. -->
-  <RenamePolicyTip>TODO</RenamePolicyTip>
+  <RenamePolicyTip>この方針の名前を変更します.</RenamePolicyTip>
   <!-- EN: Are you sure you want to delete the policy: {0}? -->
-  <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
+  <DeletePolicyConfirm>本当に次の方針を削除しますか?: {0}</DeletePolicyConfirm>
   <!-- EN: Delete -->
-  <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
+  <DeletePolicyConfirmButton>削除</DeletePolicyConfirmButton>
   <!-- EN: No policy selected -->
-  <NoPolicySelected>TODO</NoPolicySelected>
+  <NoPolicySelected>方針が選択されていない</NoPolicySelected>
   
   <!-- Outfit management -->
   <!-- EN: Apparel policies -->
   <ApparelPolicyTitle>服装方針</ApparelPolicyTitle>
   <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
-  <ApparelPolicyTip>TODO</ApparelPolicyTip>
+  <ApparelPolicyTip>入植者の衣服を制御するテンプレートを作成,管理します.</ApparelPolicyTip>
   <!-- EN: Apparel policy -->
   <ApparelPolicy>服装方針</ApparelPolicy>
   <!-- EN: Apparel policy is in use by {0}. -->
-  <OutfitInUse>この服装方針は {0}が使用しています.</OutfitInUse>
+  <OutfitInUse>この服装方針は {0}に適用中です.</OutfitInUse>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policies -->
   <DrugPolicyTitle>服薬方針</DrugPolicyTitle>
   <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
-  <DrugPolicyTip>TODO</DrugPolicyTip>
+  <DrugPolicyTip>入植者の摂取できるドラッグを制御するテンプレートを作成,管理します.</DrugPolicyTip>
   <!-- EN: Drug policy -->
   <DrugPolicy>服薬方針</DrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
@@ -1021,7 +1021,7 @@
   <!-- EN: Food policies -->
   <FoodPolicyTitle>食事方針</FoodPolicyTitle>
   <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
-  <FoodPolicyTip>TODO</FoodPolicyTip>
+  <FoodPolicyTip>入植者の食べる食料を制御するテンプレートを作成,管理します.</FoodPolicyTip>
   <!-- EN: Food policy -->
   <FoodPolicy>食事方針</FoodPolicy>
   <!-- EN: Allow food -->
@@ -1043,28 +1043,28 @@
   <!-- EN: Reading policies -->
   <ReadingPolicyTitle>読書方針</ReadingPolicyTitle>
   <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
-  <ReadingPolicyTip>TODO</ReadingPolicyTip>
+  <ReadingPolicyTip>入植者の読む書物を制御するテンプレートを作成,管理します.</ReadingPolicyTip>
   <!-- EN: Reading policy -->
   <ReadingPolicy>読書方針</ReadingPolicy>
   <!-- EN: Reading policy is in use -->
-  <ReadingPolicyInUse>TODO</ReadingPolicyInUse> <!-- text_todo -->
+  <ReadingPolicyInUse>この読書方針は使用されている</ReadingPolicyInUse> <!-- text_todo -->
 
   <!-- EN: Anything -->
-  <AllReadingPolicy>TODO</AllReadingPolicy>
+  <AllReadingPolicy>全て許可</AllReadingPolicy>
   <!-- EN: None -->
-  <NoneReadingPolicy>TODO</NoneReadingPolicy>
+  <NoneReadingPolicy>読書禁止</NoneReadingPolicy>
   <!-- EN: Textbooks -->
-  <TextbookPolicy>TODO</TextbookPolicy>
+  <TextbookPolicy>教科書</TextbookPolicy>
   <!-- EN: Schematics -->
-  <SchematicPolicy>TODO</SchematicPolicy>
+  <SchematicPolicy>図解書</SchematicPolicy>
   <!-- EN: Novels -->
-  <NovelPolicy>TODO</NovelPolicy>
+  <NovelPolicy>小説</NovelPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>デフォルトの医薬品設定</DefaultMedicineSettings>
   <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
-  <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
+  <DefaultMedicineSettingsDesc>これらの医薬品設定は,生物が特定のグループに新しく参加する際に,自動で割り当てられます.この設定は健康タブから個別で変更可能です.\n\n注意:生物が新しいグループに参加すると,現在の設定を強制的に変更して,常に新しいグループの方の設定が適用されます.</DefaultMedicineSettingsDesc>
   
   <!-- EN: Defaults -->
   <MedGroupDefaults>初期値</MedGroupDefaults>
@@ -1072,42 +1072,42 @@
   <!-- EN: Colonists -->
   <MedGroupColonists>入植者</MedGroupColonists>
   <!-- EN: Free members of your colony -->
-  <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
+  <MedGroupColonistsDesc>あなたのコロニーに所属する一般的なメンバーです.</MedGroupColonistsDesc>
   
   <!-- EN: Prisoners -->
-  <MedGroupPrisoners>TODO</MedGroupPrisoners>
+  <MedGroupPrisoners>囚人</MedGroupPrisoners>
   <!-- EN: Prisoners in your colony, regardless of faction. -->
-  <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
+  <MedGroupPrisonersDesc>派閥に関係なく,あなたのコロニーにいる囚人です.</MedGroupPrisonersDesc>
 
   <!-- EN: Tamed animals -->
-  <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
+  <MedGroupTamedAnimals>家畜</MedGroupTamedAnimals>
   <!-- EN: Animals which have been tamed by your colony. -->
-  <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
+  <MedGroupTamedAnimalsDesc>あなたのコロニーで飼いならされている動物です.</MedGroupTamedAnimalsDesc>
 
   <!-- EN: Friendly faction members -->
-  <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
+  <MedGroupFriendlyFaction>友好派閥のメンバー</MedGroupFriendlyFaction>
   <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
-  <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
+  <MedGroupFriendlyFactionDesc>あなたの派閥に友好的な派閥(友好値が75以上)に所属する人間,動物です.</MedGroupFriendlyFactionDesc>
   
   <!-- EN: Neutral faction members -->
-  <MedGroupNeutralFaction>中立の派閥メンバー</MedGroupNeutralFaction>
+  <MedGroupNeutralFaction>中立派閥のメンバー</MedGroupNeutralFaction>
   <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
-  <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
+  <MedGroupNeutralFactionDesc>あなたの派閥に中立的な派閥(友好値が-75から75の間)に所属する人間,動物です.</MedGroupNeutralFactionDesc>
 
   <!-- EN: Hostile faction members -->
-  <MedGroupHostileFaction>敵対する派閥メンバー</MedGroupHostileFaction>
+  <MedGroupHostileFaction>敵対派閥のメンバー</MedGroupHostileFaction>
   <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
-  <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
+  <MedGroupHostileFactionDesc>あなたの派閥に敵対的な派閥(友好値が-75以下)に所属する人間,動物です.</MedGroupHostileFactionDesc>
 
   <!-- EN: Other humans -->
-  <MedGroupNoFaction>TODO</MedGroupNoFaction>
+  <MedGroupNoFaction>その他の人間</MedGroupNoFaction>
   <!-- EN: Humans who are not members of any faction. -->
-  <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
+  <MedGroupNoFactionDesc>どの派閥にも所属しない人間です.</MedGroupNoFactionDesc>
   
   <!-- EN: Wildlife -->
-  <MedGroupWildlife>TODO</MedGroupWildlife>
+  <MedGroupWildlife>野生生物</MedGroupWildlife>
   <!-- EN: Animals and other creatures which are not members of any faction. -->
-  <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
+  <MedGroupWildlifeDesc>どの派閥にも所属しない動物やそれ以外の生物です.</MedGroupWildlifeDesc>
 
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
@@ -1205,7 +1205,7 @@
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>使用できない: {0}には性別がありません.</AbilityCantApplyOnAsexual>
   <!-- EN: {PAWN_labelShort} has no healable injuries. -->
-  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
+  <AbilityCannotCastNoHealableInjury>{PAWN_labelShort}には治療可能な怪我がありません.</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort}は{0_labelShort}の正しくない性別です.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
@@ -1407,18 +1407,18 @@
   <ColorTemperatureTooltip>色温度を設定して色を選択します.注意:これは視覚的な色にのみ影響し,熱出力には影響しません.</ColorTemperatureTooltip>
 
   <!-- EN: {0_labelShort} is psychically deaf. -->
-  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+  <CannotShootPawnIsPsychicallyDeaf>{0_labelShort}は精神的無反応です.</CannotShootPawnIsPsychicallyDeaf>
 
   <!-- EN: Search the current map. -->
-  <SearchTheMap>TODO</SearchTheMap>
+  <SearchTheMap>現在のマップ内から検索します.</SearchTheMap>
   <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
-  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <SearchTheMapDesc>現在のマップ内からアイテム,建築物,人間,動物,植物などを検索します.</SearchTheMapDesc>
   <!-- EN: {0} results found -->
-  <MapSearchResults>TODO</MapSearchResults>
+  <MapSearchResults>検索結果{0}件</MapSearchResults>
   <!-- EN: 1 result found -->
-  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <MapSearchResultSingular>検索結果1件</MapSearchResultSingular>
   <!-- EN: Searching -->
-  <Searching>TODO</Searching>
+  <Searching>検索中</Searching>
 
   <!-- UNUSED -->
   <Outfit>服装</Outfit>

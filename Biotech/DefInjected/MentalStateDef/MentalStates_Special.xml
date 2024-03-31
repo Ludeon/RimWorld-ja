@@ -8,7 +8,7 @@
   <!-- EN: {0} has been roused by a warcall.\n\n[PAWN_pronoun] will attack any enemy of the colony. -->
   <BerserkWarcall.beginLetter>{0}はウォーコールによって激昂させられました.\n\n[PAWN_pronoun]はコロニーの敵を攻撃します.</BerserkWarcall.beginLetter>
   <!-- EN: {0}'s rage has come to an end. -->
-  <BerserkWarcall.recoveryMessage>{0}の怒りは収まりました.</BerserkWarcall.recoveryMessage>
+  <BerserkWarcall.recoveryMessage>{0}の怒りは収まった.</BerserkWarcall.recoveryMessage>
   
   <!-- EN: cocoon disturbed -->
   <CocoonDisturbed.label>繭が乱された</CocoonDisturbed.label>
@@ -24,6 +24,6 @@
   <!-- EN: fleeing fire -->
   <PanicFleeFire.beginLetterLabel>炎から逃亡</PanicFleeFire.beginLetterLabel>
   <!-- EN: {0} is no longer fleeing fire. -->
-  <PanicFleeFire.recoveryMessage>{0}はもう炎から逃げていません.</PanicFleeFire.recoveryMessage>
+  <PanicFleeFire.recoveryMessage>{0}はのパニックは収まった.</PanicFleeFire.recoveryMessage>
   
 </LanguageData>

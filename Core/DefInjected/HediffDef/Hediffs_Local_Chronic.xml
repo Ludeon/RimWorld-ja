@@ -100,9 +100,9 @@
   <!-- EN: organ decay -->
   <OrganDecay.label>臓器腐敗</OrganDecay.label>
   <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
-  <OrganDecay.description>1つの臓器に影響を及ぼす治療のできない変性疾患で,細菌やウイルスが原因であるとされています.この病気は自然界に存在する未知の宿主から感染すると推測されており,人間同士では直接伝染しません.\n\nこの臓器はゆっくりと機能を失い,やがて完全に沈黙します.人工臓器,もしくは生体臓器の移植を検討してください.</OrganDecay.description>
+  <OrganDecay.description>単一の臓器に影響を及ぼす治療のできない変性疾患で,細菌やウイルスが原因であるとされています.この病気は自然界に存在する未知の宿主から感染すると推測されており,人間同士では直接感染しません.\n\nこの臓器はゆっくりと機能を失い,やがて完全に沈黙します.人工臓器,もしくは生体臓器の移植を検討してください.</OrganDecay.description>
   <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
-  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}の{1}は臓器腐敗によって活動を停止しました.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}の{1}は臓器腐敗によって破壊されました.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
   <!-- EN: minor -->
   <OrganDecay.stages.minor.label>軽度</OrganDecay.stages.minor.label>
   <!-- EN: moderate -->

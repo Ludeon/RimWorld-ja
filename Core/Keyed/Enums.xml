@@ -219,25 +219,25 @@
 
   <!-- Highlight display mode -->
   <!-- EN: Character highlighting -->
-  <DotHighlightDisplayMode>TODO</DotHighlightDisplayMode>
+  <DotHighlightDisplayMode>キャラクターの強調表示</DotHighlightDisplayMode>
   <!-- EN: Highlight hostiles -->
-  <DotHighlightDisplayMode_HighlightHostiles>TODO</DotHighlightDisplayMode_HighlightHostiles>
+  <DotHighlightDisplayMode_HighlightHostiles>敵対者を強調表示</DotHighlightDisplayMode_HighlightHostiles>
   <!-- EN: Highlight all -->
-  <DotHighlightDisplayMode_HighlightAll>TODO</DotHighlightDisplayMode_HighlightAll> 
+  <DotHighlightDisplayMode_HighlightAll>全てを強調表示</DotHighlightDisplayMode_HighlightAll> 
   
   <!-- Highlight style -->
   <!-- EN: Highlight mode -->
-  <HighlightStyleMode>TODO</HighlightStyleMode>
+  <HighlightStyleMode>強調方法</HighlightStyleMode>
   <!-- EN: Dots -->
-  <HighlightStyleMode_Dots>TODO</HighlightStyleMode_Dots>
+  <HighlightStyleMode_Dots>ドット</HighlightStyleMode_Dots>
   <!-- EN: Silhouettes -->
-  <HighlightStyleMode_Silhouettes>TODO</HighlightStyleMode_Silhouettes> 
+  <HighlightStyleMode_Silhouettes>シルエット</HighlightStyleMode_Silhouettes> 
 
   <!-- Mood gradient display strength-->
   <!-- EN: Visible mood -->
-  <VisibleMood>TODO</VisibleMood>
+  <VisibleMood>心情可視化</VisibleMood>
   <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
-  <VisibleMoodDesc>TODO</VisibleMoodDesc>
+  <VisibleMoodDesc>オンにした場合,キャラクターが精神崩壊する可能性がある場合,ポートレートに視覚的な指標が表示されます.</VisibleMoodDesc>
   
   <!-- Mech name display mode -->
   <!-- EN: Show player mech names -->
