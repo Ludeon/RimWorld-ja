@@ -56,7 +56,7 @@
   <Disease_OrganDecay.diseaseLethalLetterText>何らかの治療か臓器交換を行わなければ,{PAWN_labelShort}は死亡するでしょう.</Disease_OrganDecay.diseaseLethalLetterText>
   <!-- EN: Organ decay: {PAWN_labelShort} -->
   <Disease_OrganDecay.letterLabel>臓器腐敗: {PAWN_labelShort}</Disease_OrganDecay.letterLabel>
-  <!-- EN: {PAWN_labelShort} has developed a flesh-eating infection known as organ decay in {PAWN_possessive} {2}!\n\nThe affected organ will slowly lose function over the next {3} days, before dying completely.\n\nIf you want {PAWN_labelShort} to stay healthly, install a replacement {2}. This could be a bionic, or a natural organ taken from a donor. -->
+  <!-- EN: {PAWN_labelShort} has developed a flesh-eating infection known as organ decay in {PAWN_possessive} {2}!\n\nThe affected organ will slowly lose function over the next {3} days, before dying completely.\n\nIf you want {PAWN_labelShort} to stay healthy, install a replacement {2}. This could be a bionic, or a natural organ taken from a donor. -->
   <Disease_OrganDecay.letterText>{PAWN_labelShort}の{2}が,人を蝕む感染症,臓器腐敗に感染しました!\n\n感染した臓器は{3}日かけてゆっくりと機能を失い,最後には完全に機能しなくなります.\n\n{PAWN_labelShort}の健康を維持したい場合は,別の{2}を移植しましょう.強化臓器や,もしくは提供者から摘出した生体臓器を使用することができます.</Disease_OrganDecay.letterText>
   
   <!-- EN: plague -->

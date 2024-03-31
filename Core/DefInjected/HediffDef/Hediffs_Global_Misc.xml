@@ -144,6 +144,10 @@
   <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
   <ResurrectionSickness.description>蘇生処置の後遺症です.人工的な蘇生行為による身体プロセスは,バランスを取り戻すのに時間がかかります.</ResurrectionSickness.description>
   
+  <!-- UNUSED -->
+  <TempHateChantFX.label>開発：憎悪の詠唱 FX</TempHateChantFX.label>
+  <TempHateChantFX.description>トレーラー終了後に削除</TempHateChantFX.description>
+  
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->

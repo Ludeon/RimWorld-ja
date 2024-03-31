@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{1}の{0}は何かを略奪することに決めました.</MessageRaidersStealing>
 
   <!-- EN: The mechanoids sense no more targets and are moving on. -->
-  <MechanoidsMovingOn>TODO</MechanoidsMovingOn> <!-- text_todo -->
+  <MechanoidsMovingOn>TODO</MechanoidsMovingOn>
 
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
   <MessageCaravanDetectedRaidArrived>{1}の{0}が到着し,攻撃を開始しています! さらに別の部隊が,{2}に向かっています.</MessageCaravanDetectedRaidArrived>
@@ -743,7 +743,7 @@
   <!-- EN: {0} must be capable of {1}. -->
   <MessageRitualRoleMustBeCapableOfGeneric>{0}は{1}である必要があります.</MessageRitualRoleMustBeCapableOfGeneric>
   <!-- EN: {0} must be capable of violence. -->
-  <MessageRitualRoleMustBeCapableOfViolence>TODO</MessageRitualRoleMustBeCapableOfViolence><!-- text_todo -->
+  <MessageRitualRoleMustBeCapableOfViolence>TODO</MessageRitualRoleMustBeCapableOfViolence>
   <!-- EN: prisoners cannot {0}. -->
   <MessageRitualRoleMustNotBePrisonerToSpectate>囚人は{0}になることができません.</MessageRitualRoleMustNotBePrisonerToSpectate>
   <!-- EN: only {0} can {1}. -->
