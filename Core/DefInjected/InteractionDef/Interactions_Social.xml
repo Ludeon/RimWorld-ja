@@ -81,9 +81,11 @@
   <Insult.label>侮辱</Insult.label>
   <!-- EN:
     <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [characteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
-    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] compared [target] to [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [target] [insultcomparison].</li>
     <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] called [target] a false idol worshipper.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] implied that [target] had been driven insane by the golden cube.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] [insulted] the golden cube.</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
     <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
@@ -98,16 +100,19 @@
     <li>insulted->slandered</li>
     <li>insulted->hurled invective about</li>
     <li>insulted->derided</li>
-    <li>insultcomparison(INITIATOR_cubeInterest==false,p=2)->[Animal]</li>
-    <li>insultcomparison(INITIATOR_cubeInterest==false)->[Enemy]</li>
-    <li>insultcomparison(INITIATOR_cubeInterest==true)->sphere</li>
-    <li>insultcomparison(INITIATOR_cubeInterest==true)->non-cubic geometric shape</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false,p=2)->a [Animal]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false)->a [Enemy]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->a sphere</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->something totally pointless</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=3)->[INITIATOR_nameDef]は[target]の[characteristic][insulted].</li>
     <li>r_logentry->[INITIATOR_nameDef]は[target]と[insultcomparison]を比べた.</li>
     <li>r_logentry->[INITIATOR_nameDef]は[target]を[insultcomparison]と呼んだ.</li>
     <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef]は[target]を邪悪な偶像崇拝者と呼んだ.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef]は[target]が黄金のキューブによって狂気に陥っていることを暗に指摘した.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef]は黄金のキューブ[insulted].</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
     <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
@@ -125,7 +130,8 @@
     <li>insultcomparison(INITIATOR_cubeInterest==false,p=2)->[Animal]</li>
     <li>insultcomparison(INITIATOR_cubeInterest==false)->[Enemy]</li>
     <li>insultcomparison(INITIATOR_cubeInterest==true)->球体</li>
-    <li>insultcomparison(INITIATOR_cubeInterest==true)->キューブではない直線的物体</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->完全に無意味な存在</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->キューブでない精神体</li>
   </Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->

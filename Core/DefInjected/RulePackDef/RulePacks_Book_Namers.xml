@@ -214,9 +214,6 @@
     <li>title->[studiesStart] [randAdjective] [subject_primary], Vol. [volNumeral]</li>
     <li>title->The [referenceType] of [studiesStart] [randAdjective] [subject_primary]</li>
     <li>title->The [lifeEvent] [discussionNoun] and [subject_primary]</li>
-    <li>title->A [bookCompound] [referenceType]</li>
-    <li>bookCompound(p=2)->[firstHalfEvil][suffixEvil]</li>
-    <li>bookCompound->[firstHalfEvil][connector][suffixEvil]</li>
     <li>studiesStart->Studies in</li>
     <li>studiesStart->Fundamentals of</li>
     <li>studiesStart->Managing</li>
