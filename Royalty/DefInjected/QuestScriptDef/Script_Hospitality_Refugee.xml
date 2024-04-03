@@ -97,7 +97,7 @@
     <li>lodgerViolatedAttackPlayerLetterText->[letterIntroViolated]\n\n[turnedViolent]</li>
     <li>lodgerViolatedLeaveMapLetterLabel->[lodgersLabel]が不当に扱われた: 離脱</li>
     <li>lodgerViolatedLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
-    <li>letterIntroPsychicRitualTarget->[oneOfThe],{SUBJECT_definite}がpsychic ritualのターゲットにされました.</li><!--TODO--><!--固有名詞 "psychic ritual" の翻訳-->
+    <li>letterIntroPsychicRitualTarget->[oneOfThe],{SUBJECT_definite}がサイキック儀式のターゲットにされました.</li>
     <li>lodgerPsychicRitualTargetMemoryThoughtLetterLabel->[lodgersLabel]が不当に扱われた: 怒り</li>
     <li>lodgerPsychicRitualTargetMemoryThoughtLetterText->[letterIntroPsychicRitualTarget]\n\n[appalledButNoAction]</li>
     <li>lodgerPsychicRitualTargetAttackPlayerLetterLabel->[lodgersLabel]が不当に扱われた: 復讐</li>

@@ -49,13 +49,13 @@
   <!-- EN: Contents -->
   <TabTransporterContents>積載物</TabTransporterContents>
   <!-- EN: Travel -->
-  <TabMapPortalContents>TODO</TabMapPortalContents>
+  <TabMapPortalContents>移動</TabMapPortalContents>
   <!-- EN: Contents -->
   <TabCasketContents>積載物</TabCasketContents>
   <!-- EN: Details -->
-  <TabBookContents>TODO</TabBookContents>
+  <TabBookContents>詳細</TabBookContents>
   <!-- EN: Study -->
-  <TabStudyNotesContents>TODO</TabStudyNotesContents>
+  <TabStudyNotesContents>調査</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
   <TabWindTurbineAutoCut>自動刈取</TabWindTurbineAutoCut>
   
@@ -147,7 +147,7 @@
   <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
   <NonRecruitableTipCannotConvert>この人物らの忠誠心は信条にまで及んでいるため,改宗させることができません.</NonRecruitableTipCannotConvert>
   <!-- EN: What type of medicine can be given to this prisoner. -->
-  <MedicineQualityDescriptionPrisoner>TODO</MedicineQualityDescriptionPrisoner>
+  <MedicineQualityDescriptionPrisoner>この囚人に与えられる薬の種類です.</MedicineQualityDescriptionPrisoner>
 
 
 
@@ -230,11 +230,11 @@
   <!-- EN: death in {0} -->
   <DeathIn>{0}後に死亡</DeathIn>
   <!-- EN: Allow medicine -->
-  <AllowMedicine>TODO</AllowMedicine>
+  <AllowMedicine>薬を許可</AllowMedicine>
   <!-- EN: What type of medicine can be given to this person. -->
-  <MedicineQualityDescription>TODO</MedicineQualityDescription>
+  <MedicineQualityDescription>この人物に与えられる薬の種類です.</MedicineQualityDescription>
   <!-- EN: What type of food can be given to this person. -->
-  <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
+  <FoodRestrictionDescription>この人物に与えられる食料の種類です.</FoodRestrictionDescription>
 
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -441,15 +441,15 @@
   
   <!-- Study tab  -->
   <!-- EN: Study progress -->
-  <StudyNotesTab_StudyProgress>TODO</StudyNotesTab_StudyProgress>
+  <StudyNotesTab_StudyProgress>調査の進捗</StudyNotesTab_StudyProgress>
   <!-- EN: Ongoing -->
-  <StudyNotesTab_StudyProgressOngoing>TODO</StudyNotesTab_StudyProgressOngoing>
+  <StudyNotesTab_StudyProgressOngoing>調査中</StudyNotesTab_StudyProgressOngoing>
   <!-- EN: Completed -->
-  <StudyNotesTab_StudyProgressCompleted>TODO</StudyNotesTab_StudyProgressCompleted>
+  <StudyNotesTab_StudyProgressCompleted>完了</StudyNotesTab_StudyProgressCompleted>
   <!-- EN: Toggle study -->
-  <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
+  <StudyNotesTab_ToggleStudy>調査許可</StudyNotesTab_ToggleStudy>
   <!-- EN: No discoveries yet -->
-  <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
+  <StudyNotesTab_NoDiscoveries>まだ未発見</StudyNotesTab_NoDiscoveries>
 
   <!-- UNUSED -->
   <SelfTend>自己治療</SelfTend>

@@ -47,7 +47,7 @@
   <!-- EN: Opinions -->
   <Opinions>意見</Opinions>
   <!-- EN: Mental breaks -->
-  <MentalBreaks>TODO</MentalBreaks>
+  <MentalBreaks>精神崩壊</MentalBreaks>
   <!-- EN: Randomize name -->
   <RandomizeName>名前をランダム生成</RandomizeName>
   <!-- EN: Randomize precepts -->
@@ -121,9 +121,9 @@
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>奴隷はこの仕事は行わない</WorkDisabledSlave>
   <!-- EN: Disabled by health condition -->
-  <WorkDisabledHealth>TODO</WorkDisabledHealth>
+  <WorkDisabledHealth>健康状態により無効</WorkDisabledHealth>
   <!-- EN: Disabled by {0} role -->
-  <WorkDisabledRole>{0}の役割により不許可</WorkDisabledRole>
+  <WorkDisabledRole>{0}の役割により無効</WorkDisabledRole>
   <!-- EN: Affected by traits -->
   <AffectedByTraits>特性の影響を受ける</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->

@@ -30,7 +30,7 @@
   <!-- EN: Create new -->
   <CreateNew>新規作成</CreateNew>
   <!-- EN: Create fluid -->
-  <CreateFluid>TODO</CreateFluid>
+  <CreateFluid>流動作成</CreateFluid>
   <!-- EN: Load existing -->
   <LoadExisting>現在の設定をロード</LoadExisting>
   <!-- EN: Create custom ideoligion -->
@@ -102,9 +102,9 @@
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>好きな色に設定</SetFavoriteColor>
   <!-- EN: {PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
-  <FavoriteColorPickerTip>TODO</FavoriteColorPickerTip>
+  <FavoriteColorPickerTip>{PAWN_nameDef}の好きな色です.着ている衣服の60%以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.</FavoriteColorPickerTip>
   <!-- EN: {PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
-  <IdeoColorPickerTip>TODO</IdeoColorPickerTip>
+  <IdeoColorPickerTip>{PAWN_nameDef}の持つ思想の色です.着ている衣服の60%以上がこの色,もしくは{PAWN_possessive}好きな色であると,{PAWN_pronoun}は少し幸せになります.</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>派閥の思想を設定する</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
@@ -126,7 +126,7 @@
   <!-- EN: narrative -->
   <NarrativeLower>物語</NarrativeLower>
   <!-- EN: Precept name -->
-  <PreceptName>名前を保護</PreceptName>
+  <PreceptName>名前を保護</PreceptName><!--TODO--><!--戒律名？-->
   <!-- EN: precept name -->
   <PreceptNameLower>名前を保護</PreceptNameLower>
   <!-- EN: Changing {0} -->

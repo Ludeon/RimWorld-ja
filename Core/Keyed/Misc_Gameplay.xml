@@ -417,11 +417,11 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
   <!-- EN: Current project -->
-  <CurrentProject>TODO</CurrentProject>
+  <CurrentProject>現在の研究</CurrentProject>
   <!-- EN: Research progress -->
-  <ResearchProgress>TODO</ResearchProgress>
+  <ResearchProgress>研究進捗度</ResearchProgress>
   <!-- EN: Already has {0} -->
-  <AlreadyHasHediff>TODO</AlreadyHasHediff>
+  <AlreadyHasHediff>既に{0}状態</AlreadyHasHediff>
   <!-- EN: turret -->
   <Turret>タレット</Turret>
   <!-- EN: turrets -->
@@ -565,47 +565,47 @@
   <!-- EN: cost -->
   <Cost>コスト</Cost>
   <!-- EN: Stunned by EMP -->
-  <StunnedByEMP>TODO</StunnedByEMP>
+  <StunnedByEMP>EMPでスタン</StunnedByEMP>
   <!-- EN: Title -->
   <BackstoryTitle>肩書き</BackstoryTitle>
   <!-- EN: person -->
   <Person>人物</Person>
   <!-- EN: activated. -->
-  <Activated>TODO</Activated> 
+  <Activated>作動しました.</Activated> 
   <!-- EN: Contains -->
   <Contains>内容物</Contains>
   <!-- EN: Hostiles -->
-  <Hostiles>TODO</Hostiles>
+  <Hostiles>敵対者</Hostiles>
   <!-- EN: Investigate -->
-  <Investigate>TODO</Investigate> 
+  <Investigate>調査</Investigate> 
   <!-- EN: Activate -->
-  <Activate>TODO</Activate> 
+  <Activate>作動</Activate> 
   <!-- EN: Activation -->
-  <Activation>TODO</Activation> 
+  <Activation>起動</Activation> 
   <!-- EN: complete -->
   <Complete>完了</Complete>
   <!-- EN: Must be imprisoned. -->
-  <RequiresImprisonment>TODO</RequiresImprisonment> 
+  <RequiresImprisonment>投獄されている必要があります.</RequiresImprisonment> 
   <!-- EN: Prioritize hauling contents -->
-  <HaulFromSource>TODO</HaulFromSource>
+  <HaulFromSource>運搬内容を優先</HaulFromSource>
   <!-- EN: Use -->
-  <UseGizmo>TODO</UseGizmo>
+  <UseGizmo>使用</UseGizmo>
   <!-- EN: Order someone to use the {0}. -->
-  <UseGizmoTooltip>TODO</UseGizmoTooltip>
+  <UseGizmoTooltip>誰かに{0}を使用する指示を出します.</UseGizmoTooltip>
   <!-- EN: Choose who should use this -->
-  <UseGizmoMouse>TODO</UseGizmoMouse>
+  <UseGizmoMouse>使用する人物を選択</UseGizmoMouse>
   <!-- EN: Select target -->
-  <TargetGizmoMouse>TODO</TargetGizmoMouse>
+  <TargetGizmoMouse>ターゲットを選択</TargetGizmoMouse>
   <!-- EN: Cannot use this -->
-  <CannotUseGizmoMouse>TODO</CannotUseGizmoMouse>
+  <CannotUseGizmoMouse>使用できない</CannotUseGizmoMouse>
   <!-- EN: Buildings -->
   <Buildings>設備</Buildings>
   <!-- EN: not yet discovered -->
-  <NotYetDiscovered>TODO</NotYetDiscovered>
+  <NotYetDiscovered>未発見</NotYetDiscovered>
   <!-- EN: Crawling to safety. -->
-  <ReportStringCrawlingToSafety>TODO</ReportStringCrawlingToSafety>
+  <ReportStringCrawlingToSafety>安全な場所に這っている</ReportStringCrawlingToSafety>
   <!-- EN: Crawling to bed. -->
-  <ReportStringCrawlingToBed>TODO</ReportStringCrawlingToBed>
+  <ReportStringCrawlingToBed>寝床に這っている</ReportStringCrawlingToBed>
   
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -691,11 +691,11 @@
   <!-- EN: Invert -->
   <InvertArea>反転</InvertArea>
   <!-- EN: Expand -->
-  <ExpandArea>TODO</ExpandArea>
+  <ExpandArea>拡大</ExpandArea>
   <!-- EN: Shrink -->
-  <ShrinkArea>TODO</ShrinkArea>
+  <ShrinkArea>縮小</ShrinkArea>
   <!-- EN: Maximum {0} areas allowed. -->
-  <MaxAreasReached>TODO</MaxAreasReached>
+  <MaxAreasReached>最大{0}個のエリアが許可されます.</MaxAreasReached>
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
@@ -738,7 +738,7 @@
   <NoExteriorAccess>外部アクセス不可-動物の出入りはできません.</NoExteriorAccess>
   
   <!-- EN: Must be connected to walls on both sides to function. -->
-  <DoorMustBeEnclosedByWalls>TODO</DoorMustBeEnclosedByWalls>
+  <DoorMustBeEnclosedByWalls>機能するには両側に壁が設置されている必要があります.</DoorMustBeEnclosedByWalls>
 
   <!-- Cell Inspector -->
   <!-- EN: Beauty -->
@@ -788,17 +788,17 @@
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>操作できないキャラクターです</CannotOrderNonControlled>
+  <CannotOrderNonControlled>操作できないキャラクターです.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort}は 野蛮なことはできません</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort}は野蛮なことはできません.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>野蛮なことをしない</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort}は 徴兵されていない</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort}は徴兵されていません.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>{PAWN_nameDef}は{APPAREL_label}を身に着けているため,遠隔武器を使用できません</ApparelPreventsShooting>
+  <ApparelPreventsShooting>{PAWN_nameDef}は{APPAREL_label}を身に着けているため,遠隔武器を使用できません.</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
-  <CannotUseReason_PocketMap>TODO</CannotUseReason_PocketMap>
+  <CannotUseReason_PocketMap>{0}の中では使用できない</CannotUseReason_PocketMap>
 
   <!-- Snow -->
   <!-- EN: Snow -->
@@ -890,13 +890,13 @@
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>死体を掘り出している</ReportDiggingUpCorpse>
   <!-- EN: being carried by {0_labelShort}. -->
-  <CarriedBy>{0_labelShort}によって運ばれています.</CarriedBy> 
+  <CarriedBy>{0_labelShort}に運ばれている</CarriedBy> 
   <!-- EN: inside {0_labelShort}. -->
-  <InContainer>{0_labelShort}の中にいます.</InContainer> 
+  <InContainer>{0_labelShort}の中にいる</InContainer> 
   <!-- EN: downed, cannot crawl. -->
-  <DownedCannotCrawl>TODO</DownedCannotCrawl> 
+  <DownedCannotCrawl>倒れている,這えない</DownedCannotCrawl> 
   <!-- EN: downed, unconscious. -->
-  <DownedUnconscious>TODO</DownedUnconscious> 
+  <DownedUnconscious>倒れている,意識不明</DownedUnconscious> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -1166,7 +1166,7 @@
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>廃棄ゾーン</DumpingStockpile>
   <!-- EN: Corpse stockpile zone -->
-  <CorpseStockpile>TODO</CorpseStockpile>
+  <CorpseStockpile>死骸ゾーン</CorpseStockpile>
   <!-- EN: Priority -->
   <Priority>優先度</Priority>
   <!-- EN: Clear all -->
@@ -1176,11 +1176,11 @@
   
   <!-- Storage Groups -->
   <!-- EN: Group -->
-  <StorageGroup>TODO</StorageGroup>
+  <StorageGroup>グループ</StorageGroup>
   <!-- EN: Name -->
-  <StorageLabel>TODO</StorageLabel>
+  <StorageLabel>名前</StorageLabel>
   <!-- EN: Storage group -->
-  <StorageGroupLabel>TODO</StorageGroupLabel>
+  <StorageGroupLabel>ストレージグループ</StorageGroupLabel>
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
@@ -1196,11 +1196,11 @@
   
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSterilizeConfirm>TODO</AnimalSterilizeConfirm>
+  <AnimalSterilizeConfirm>本当に{PAWN_nameDef}を去勢しますか?これを行うと{FACTION_name}の怒りを買います.</AnimalSterilizeConfirm>
   <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSlaughterConfirm>TODO</AnimalSlaughterConfirm>
+  <AnimalSlaughterConfirm>本当に{PAWN_nameDef}を屠殺しますか?これを行うと{FACTION_name}の怒りを買います.</AnimalSlaughterConfirm>
   <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalReleaseConfirm>TODO</AnimalReleaseConfirm>
+  <AnimalReleaseConfirm>本当に{PAWN_nameDef}を野生に返しますか?これを行うと{FACTION_name}の怒りを買います.</AnimalReleaseConfirm>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
@@ -1242,7 +1242,7 @@
 
   <!-- Hotkeys -->
   <!-- EN: Hotkey -->
-  <HotKeyTip>TODO</HotKeyTip>
+  <HotKeyTip>ホットキー</HotKeyTip>
   
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
@@ -1276,31 +1276,31 @@
   <!-- EN: {0} will have work speed penalty -->
   <WillGetWorkSpeedPenalty>{0}の作業速度が低下</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>屋根の下には配置できません.</MustPlaceUnroofed>
+  <MustPlaceUnroofed>屋根の下には設置できません.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>厚い岩盤の下に配置する必要があります.</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>厚い岩盤の下に設置する必要があります.</MustPlaceUnderThickRoof>
   <!-- EN: Must be placed against a wall. -->
-  <MustPlaceOnWall>TODO</MustPlaceOnWall>
+  <MustPlaceOnWall>壁に立てかけて設置する必要があります.</MustPlaceOnWall>
   <!-- EN: Something is already placed on this wall. -->
-  <SomethingPlacedOnThisWall>TODO</SomethingPlacedOnThisWall>
+  <SomethingPlacedOnThisWall>この壁には既に別の物が設置されています.</SomethingPlacedOnThisWall>
   <!-- EN: This building can not support attachments. -->
-  <CannotSupportAttachment>TODO</CannotSupportAttachment>
+  <CannotSupportAttachment>この建築物はアタッチメントをサポートできません.</CannotSupportAttachment>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>宇宙船骨格の先端に配置してください.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>宇宙船骨格の先端に設置してください.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>食材ホッパーはペーストディスペンサーのとなりに配置してください.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>食材ホッパーはペーストディスペンサーのとなりに設置してください.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>間欠泉に直接配置してください.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>間欠泉に直接設置してください.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>冷気側,暖気側ともに,壁から離して配置してください.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>冷気側,暖気側ともに,壁から離して設置してください.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
   <MustPlaceVentWithFreeSpaces>両面共に風通しが必要です.</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>全ての面において,人が立てるスペースが必要です.</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>ポッドランチャーの燃料口の隣に配置してください.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>ポッドランチャーの燃料口の隣に設置してください.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>掘削可能な資源の上に配置してください.</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>掘削可能な資源の上に設置してください.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>罠の近くには置くことができません.</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
@@ -1406,11 +1406,11 @@
 
   <!-- Game over -->
   <!-- EN: Game Over -->
-  <GameOver>TODO</GameOver>
+  <GameOver>物語の終わり</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>ある者は去りました.ある者は亡くなりました.そして全ての人が居なくなり,この物語は終わりを告げます.\n\nもしかすれば,他の誰かがこの廃墟の使い道を考えて くれるかもしれません.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>ある者は去りました.ある者は亡くなりました.そして全ての人が居なくなり,この物語は終わりを告げます.\n\nもしかすれば,他の誰かがこの廃墟の使い道を考えてくれるかもしれません.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって,亜光速まで加速した対惑星兵器が,惑星表面に激しく打ち込まれました.水風船をライフル弾が撃ち抜いたごとく,この世界は激しい衝撃と共に液状化し,溶けた惑星の中心核は宇宙空間に吹き出しました.\n\n{0}の一部分は,小さなアステロイドベルトとなっています.溶岩があふれだし,放射能にまみれ地獄のようになった 残りの部分は,絶えず巨大な惑星全体の振動と共にキロメートル級の波紋を起こしています.\n\n あなたは,生き残ることができませんでした.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって,亜光速まで加速した対惑星兵器が,惑星表面に激しく打ち込まれました.水風船をライフル弾が撃ち抜いたごとく,この世界は激しい衝撃と共に液状化し,溶けた惑星の中心核は宇宙空間に吹き出しました.\n\n{0}の一部分は,小さなアステロイドベルトとなっています.溶岩があふれだし,放射能にまみれ地獄のようになった 残りの部分は,絶えず巨大な惑星全体の振動と共にキロメートル級の波紋を起こしています.\n\nあなたは,生き残ることができませんでした.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>あなたは宇宙船を発進させました!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
@@ -1424,17 +1424,17 @@
   <!-- EN: Keep watching -->
   <GameOverKeepWatching>観察を続ける</GameOverKeepWatching>
   <!-- EN: Keep watching for now -->
-  <GameOverKeepWatchingForNow>TODO</GameOverKeepWatchingForNow>
+  <GameOverKeepWatchingForNow>今は観察を続ける</GameOverKeepWatchingForNow>
   <!-- EN: Create new wanderers -->
-  <GameOverCreateNewWanderers>TODO</GameOverCreateNewWanderers>
+  <GameOverCreateNewWanderers>新しい放浪者を作成</GameOverCreateNewWanderers>
   <!-- EN: Create new wanderers (must wait {0}h) -->
-  <GameOverCreateNewWanderersWait>TODO</GameOverCreateNewWanderersWait>
+  <GameOverCreateNewWanderersWait>新しい放浪者を作成({0}時間後に選択可能)</GameOverCreateNewWanderersWait>
   <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
-  <GameOverCreateNewWanderersText>TODO</GameOverCreateNewWanderersText>
+  <GameOverCreateNewWanderersText>ある者は去り,ある者は亡くなり,そして全ての人が居なくなりました.もしも誰かがこの廃墟を見つけたら,その人はこの場所の使い道を考えてくれるかもしれません.\n\nこのコロニーを訪れる新たな放浪者を選び,この物語を続けましょう.</GameOverCreateNewWanderersText>
   <!-- EN: Main menu -->
   <GameOverMainMenu>メニューに戻る</GameOverMainMenu>
   <!-- EN: No colony -->
-  <NoColony>TODO</NoColony>
+  <NoColony>コロニーがない</NoColony>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
@@ -1448,9 +1448,9 @@
   <!-- EN: Not linked to a building -->
   <FacilityNoPotentialLinks>建物に接続されてない</FacilityNoPotentialLinks>
   <!-- EN: Max connected per building -->
-  <FacilityMaxSimultaneousConnections>TODO</FacilityMaxSimultaneousConnections>
+  <FacilityMaxSimultaneousConnections>建築物の最大接続数</FacilityMaxSimultaneousConnections>
   <!-- EN: Front of building is blocked. -->
-  <FacilityFrontBlocked>TODO</FacilityFrontBlocked>
+  <FacilityFrontBlocked>建築物の正面が塞がれています.</FacilityFrontBlocked>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1623,26 +1623,24 @@
   <Reward_Pawn_WalkIn>{0_age}歳の{0_nameDef}と言う名の{0_title}がやってきて加わります. {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_Caravan>{0_age}歳の{0_nameDef}と言う名の{0_title}が加わります. {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
-  <!-- EN: transport pods with the following resources will arrive (total value {1}):
-\n{0} -->
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
   <Reward_Items>次の資源を積んだ輸送ポッドが到着します(総価値 {1}):\n\n{0}</Reward_Items>
-  <!-- EN: you will receive (total value {1}):
-\n{0} -->
-  <Reward_Items_Caravan>あなたは (総価値 {1}) を受け取るでしょう:\n\n{0}</Reward_Items_Caravan>
+  <!-- EN: you will receive (total value {1}):\n\n{0} -->
+  <Reward_Items_Caravan>報酬を受け取ります(総価値 {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>あなたと {0_name} との関係は {1} 向上するでしょう</Reward_Goodwill>
+  <Reward_Goodwill>{0_name}との友好度が{1}上昇します</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
   <Reward_PassageOffworld>星に連れ出してもらいます</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>惑星外への脱出</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>あなたは野営地から全てを略奪できます</Reward_CampLoot>
+  <Reward_CampLoot>野営地から全てを略奪できます</Reward_CampLoot>
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>戦利品</Reward_CampLoot_Label>
   <!-- EN: It is unclear what will happen if you accept this quest -->
-  <Reward_Unknown>TODO</Reward_Unknown> 
+  <Reward_Unknown>クエスト受領時に何が起きるかは不明です</Reward_Unknown> 
   <!-- EN: Unknown -->
-  <Reward_Unknown_Label>TODO</Reward_Unknown_Label> 
+  <Reward_Unknown_Label>不明</Reward_Unknown_Label> 
   <!-- EN: the visitors will work and fight for you -->
   <Reward_VisitorsHelp>訪問者はあなたのために働き,戦います</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
@@ -1707,11 +1705,11 @@
   <CausedByHediff>原因: {0}</CausedByHediff>
   
   <!-- EN: {DAMAGE_label} weakness -->
-  <DamageFactorWeakness>TODO</DamageFactorWeakness>
+  <DamageFactorWeakness>{DAMAGE_label}弱点</DamageFactorWeakness>
   <!-- EN: {DAMAGE_label} resistance -->
-  <DamageFactorResistance>TODO</DamageFactorResistance>
+  <DamageFactorResistance>{DAMAGE_label}耐性</DamageFactorResistance>
   <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
-  <DamageFactor>TODO</DamageFactor>
+  <DamageFactor>この生物の受ける{DAMAGE_label}ダメージを補正する掛け率です.</DamageFactor>
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was healed. -->
@@ -1727,9 +1725,9 @@
 
   <!-- LordJobs -->
   <!-- EN: Outcome chances at {0} quality -->
-  <LordJobOutcomeChances>TODO</LordJobOutcomeChances>
+  <LordJobOutcomeChances>品質{0}の結果が得られる確率</LordJobOutcomeChances>
   <!-- EN: Expected duration -->
-  <ExpectedLordJobDuration>TODO</ExpectedLordJobDuration>
+  <ExpectedLordJobDuration>予想される期間</ExpectedLordJobDuration>
 
   <!-- Rituals -->
   <!-- EN: ritual -->
@@ -1882,13 +1880,13 @@
   <!-- EN: ability on cooldown. It will be available in {0}. -->
   <AbilityOnCooldown>アビリティはクールダウン中です.{0}後に再使用可能.</AbilityOnCooldown>
   <!-- EN: ability out of charges. -->
-  <AbilityNoCharges>TODO</AbilityNoCharges>
+  <AbilityNoCharges>アビリティがチャージされていません.</AbilityNoCharges>
   <!-- EN: ability already queued. -->
   <AbilityAlreadyQueued>アビリティがすでに予約されています.</AbilityAlreadyQueued>
   <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
   <AbilityReadyLabel>{PAWN_nameDef}のアビリティが準備完了: {0}</AbilityReadyLabel>
   <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
-  <AbilitiesReadyLabel>TODO</AbilitiesReadyLabel>
+  <AbilitiesReadyLabel>{PAWN_nameDef}のアビリティが準備完了: {0}</AbilitiesReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
   <AbilityReadyText>{0_nameDef}は{1}を使う準備ができています.</AbilityReadyText>
   <!-- EN: {0_labelShort} is participating in {1}. -->
@@ -1904,7 +1902,7 @@
   <!-- EN: Disabled work -->
   <DisabledWorkLabel>無効な仕事</DisabledWorkLabel>
   <!-- EN: Disabled needs -->
-  <DisabledNeedsLabel>TODO</DisabledNeedsLabel>
+  <DisabledNeedsLabel>無効な欲求</DisabledNeedsLabel>
 
   <!-- Glowers -->
   <!-- EN: change color -->
@@ -1943,79 +1941,79 @@
   <!-- Books -->
 
   <!-- EN: Benefits -->
-  <Benefits>TODO</Benefits>
+  <Benefits>有用</Benefits>
   <!-- EN: Dangers -->
-  <Dangers>TODO</Dangers>
+  <Dangers>危険</Dangers>
   <!-- EN: already unlocked -->
-  <AlreadyUnlocked>TODO</AlreadyUnlocked>
+  <AlreadyUnlocked>既にロックが解除されている</AlreadyUnlocked>
   <!-- EN: when discovered -->
-  <WhenDiscovered>TODO</WhenDiscovered>
+  <WhenDiscovered>発見時</WhenDiscovered>
   
   <!-- EN: Was driven into a mental break after reading {0}. -->
-  <BookMentalBreakMessage>TODO</BookMentalBreakMessage>
+  <BookMentalBreakMessage>{0}を読んで精神崩壊を起こしました.</BookMentalBreakMessage>
   <!-- EN: {0} done (complete in {1} hours) -->
-  <BookReadProgress>TODO</BookReadProgress>
+  <BookReadProgress>進捗:{0} (完了まで{1}時間)</BookReadProgress>
   
   <!-- EN: learning speed -->
-  <BookLearningModifier>TODO</BookLearningModifier>
+  <BookLearningModifier>学習速度</BookLearningModifier>
   <!-- EN: Mental break chance -->
-  <BookMentalBreak>TODO</BookMentalBreak>
+  <BookMentalBreak>精神崩壊の確率</BookMentalBreak>
   
   <!-- EN: {BOOK_labelShort} is not readable -->
-  <BookNotReadable>TODO</BookNotReadable>
+  <BookNotReadable>{BOOK_labelShort}は読むことができない</BookNotReadable>
   <!-- EN: {PAWN_nameDef} can't read -->
-  <BookCantRead>TODO</BookCantRead>
+  <BookCantRead>{PAWN_nameDef}は読めない</BookCantRead>
   <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
-  <BookCantBeStage>TODO</BookCantBeStage>
+  <BookCantBeStage>{PAWN_nameDef}は{STAGES}ではない</BookCantBeStage>
   <!-- EN: {PAWN_nameDef} is blind -->
-  <BookBlind>TODO</BookBlind>
+  <BookBlind>{PAWN_nameDef}は目が見えない</BookBlind>
   
   <!-- EN: max level {0} -->
-  <BookMaxLevel>TODO</BookMaxLevel>
+  <BookMaxLevel>最大レベル{0}</BookMaxLevel>
   
   <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
-  <ReadingReportHeader>TODO</ReadingReportHeader>
+  <ReadingReportHeader>{0}を読んでいる: 進捗:{1}(完了まで{2}時間)</ReadingReportHeader>
   
   <!-- EN: Assign reading -->
-  <ReadingDialogTitle>TODO</ReadingDialogTitle>
+  <ReadingDialogTitle>読書の割り当て</ReadingDialogTitle>
   <!-- EN: Assign to {0} -->
-  <ReadingAssignTo>TODO</ReadingAssignTo>
+  <ReadingAssignTo>{0}に割り当てる</ReadingAssignTo>
   <!-- EN: Assign -->
-  <ReadingAssign>TODO</ReadingAssign>
+  <ReadingAssign>割り当て</ReadingAssign>
 
   <!-- EN: The books currently on this bookshelf. -->
-  <ContainedBooksDesc>TODO</ContainedBooksDesc>
+  <ContainedBooksDesc>この本棚に収納されている本です.</ContainedBooksDesc>
   
   <!-- EN: Books stored -->
-  <BookshelfStoredInspect>TODO</BookshelfStoredInspect>
+  <BookshelfStoredInspect>本が収納されている</BookshelfStoredInspect>
   <!-- EN: Reading bonus in room -->
-  <BookshelfReadingBonusInspect>TODO</BookshelfReadingBonusInspect>
+  <BookshelfReadingBonusInspect>部屋での本棚ボーナス</BookshelfReadingBonusInspect>
 
   <!-- EN: Remove this book from the bookshelf. -->
-  <EjectBookTooltip>TODO</EjectBookTooltip>
+  <EjectBookTooltip>本棚からこの本を取り出します.</EjectBookTooltip>
   
   <!-- Pushing -->
   <!-- EN: Push to... -->
-  <CommandPushTo>TODO</CommandPushTo>
+  <CommandPushTo>押す...</CommandPushTo>
   <!-- EN: requires {0} -->
-  <RequiredCapacity>TODO</RequiredCapacity>
+  <RequiredCapacity>{0}が必要</RequiredCapacity>
   
   <!-- EN: Unable to enter {0}, destination is blocked -->
-  <UnableToEnterPortal>TODO</UnableToEnterPortal>
+  <UnableToEnterPortal>目的地が塞がれているため,{0}に入れない</UnableToEnterPortal>
 
   <!-- EN: This category of research has not been discovered. -->
-  <ResearchNotDiscovered>TODO</ResearchNotDiscovered>
+  <ResearchNotDiscovered>この研究カテゴリーはまだ発見されていません.</ResearchNotDiscovered>
 
   <!-- EN: Emergence -->
-  <Emergence>TODO</Emergence>
+  <Emergence>出現</Emergence>
   
   <!-- EN: remove {0} -->
-  <RemovePart>TODO</RemovePart>
+  <RemovePart>{0}を削除</RemovePart>
 
   <!-- EN: {GERUND} {TARGETLABEL} at -->
-  <DoWorkAtThing>TODO</DoWorkAtThing>
+  <DoWorkAtThing>{TARGETLABEL}を{GERUND}</DoWorkAtThing>
   <!-- EN: can be studied in {0} -->
-  <CanBeStudiedInDuration>TODO</CanBeStudiedInDuration>
+  <CanBeStudiedInDuration>{0}で調査が可能</CanBeStudiedInDuration>
   
   <!-- UNUSED -->
   <RadiusExpandRate>範囲拡張速度</RadiusExpandRate>

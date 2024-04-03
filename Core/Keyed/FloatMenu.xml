@@ -248,15 +248,15 @@
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>周囲を壁で遮断された,到達可能な,安全な温度の,予約されていない囚人用ベッドがありません.</NoPrisonerBed>
   <!-- EN: No prisoner bed available. -->
-  <NoPrisonerBedShort>TODO</NoPrisonerBedShort>
+  <NoPrisonerBedShort>囚人用ベッドが使用できません.</NoPrisonerBedShort>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>到達可能な,安全な温度の,予約されていない入植者用ベッドがありません.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>到達可能な,安全な温度の,予約されていない動物用ベッドがありません.</NoAnimalBed>
   <!-- EN: No reachable, unforbidden, un-reserved {0} -->
-  <NoItemReservedOrReachable>TODO</NoItemReservedOrReachable>
+  <NoItemReservedOrReachable>到達可能な,禁止されていない,予約されていない{0}がありません.</NoItemReservedOrReachable>
   <!-- EN: No unforbidden, un-reserved {0} -->
-  <NoItemReserved>TODO</NoItemReserved>
+  <NoItemReserved>禁止されていない,予約されていない{0}がありません.</NoItemReserved>
   <!-- EN: Reserved by someone else. -->
   <Reserved>他の誰かが使用しています.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
@@ -370,11 +370,11 @@
   <!-- EN: Cannot carry {0_labelShort} -->
   <CannotCarry>{0_labelShort}を運べない</CannotCarry>
   <!-- EN: hostile -->
-  <CarriedPawnHostile>TODO</CarriedPawnHostile>
+  <CarriedPawnHostile>敵対している</CarriedPawnHostile>
   <!-- EN: temporary faction member -->
-  <QuestRelated>派閥構成員(仮)</QuestRelated>
+  <QuestRelated>一時的な派閥メンバー</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>仮の派閥構成員は服装を替えることはできない</QuestRelated_Outfit>
+  <QuestRelated_Outfit>一時的な派閥メンバーは服装を替えることはできない</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
   <WouldReplaceLockedApparel>ロックされた服装を交換する</WouldReplaceLockedApparel>
 
@@ -384,7 +384,7 @@
   <PlaceIn>{0_label}を{1_label}に寝かせる</PlaceIn>
 
   <!-- EN: Self-destruct here -->
-  <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
+  <SelfDestructHere>ここで自爆する</SelfDestructHere>
   
   <!-- EN: Drop {1_labelShort} -->
   <Drop>{1_labelShort}を手放す</Drop>
@@ -403,11 +403,11 @@
   <!-- EN: Trade with {0} -->
   <TradeWith>{0}とトレード</TradeWith>
   <!-- EN: Dismiss trader -->
-  <DismissTrader>TODO</DismissTrader>
+  <DismissTrader>トレーダーを送り返す</DismissTrader>
   <!-- EN: Cannot trade -->
   <CannotTrade>トレードできない</CannotTrade>
   <!-- EN: Trader dismissed -->
-  <TraderDismissed>TODO</TraderDismissed>
+  <TraderDismissed>トレーダーが送り返された</TraderDismissed>
 
   <!-- EN: Open {0_label} -->
   <Open>{0_label}を開く</Open>
@@ -434,17 +434,17 @@
   <TradeWithSettlement>{0}と貿易</TradeWithSettlement>
   
   <!-- EN: Enter {0} -->
-  <EnterPortal>TODO</EnterPortal>
+  <EnterPortal>{0}に入る</EnterPortal>
   <!-- EN: Entering {0} -->
-  <EnteringPortal>TODO</EnteringPortal>
+  <EnteringPortal>{0}に入っている</EnteringPortal>
   <!-- EN: Enter {0} -->
-  <CommandEnterPortal>TODO</CommandEnterPortal>
+  <CommandEnterPortal>{0}に入る</CommandEnterPortal>
   <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
+  <CommandEnterPortalDesc>{0}に入る人間とアイテムを選択してください.</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
+  <CommandCancelEnterPortal>侵入をキャンセル</CommandCancelEnterPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>人間やアイテムの侵入を中断します.</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -591,9 +591,9 @@
   <CannotEnter>入れない</CannotEnter>
   
   <!-- EN: Cannot enter {0} -->
-  <CannotEnterPortal>TODO</CannotEnterPortal>
+  <CannotEnterPortal>{0}に入れない</CannotEnterPortal>
   <!-- EN: closed -->
-  <PortalClosed>TODO</PortalClosed>
+  <PortalClosed>閉じられている</PortalClosed>
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
@@ -605,25 +605,25 @@
   <!-- EN: disliked food -->
   <WarningFoodDisliked>嫌いな食べ物</WarningFoodDisliked>
   <!-- EN: Unsuitable food -->
-  <FoodNotSuitable>TODO</FoodNotSuitable>
+  <FoodNotSuitable>不適切な食べ物</FoodNotSuitable>
 
   <!-- EN: Unsuitable drug -->
-  <DrugNotSuitable>TODO</DrugNotSuitable>
+  <DrugNotSuitable>不適切なドラッグ</DrugNotSuitable>
   
   <!-- Books -->
   <!-- EN: Assign reading... -->
-  <AssignReading>TODO</AssignReading>
+  <AssignReading>読書を割り当てる...</AssignReading>
   <!-- EN: Read {0} -->
-  <AssignReadNow>TODO</AssignReadNow>
+  <AssignReadNow>{0}を読む</AssignReadNow>
   <!-- EN: Cannot read {0} -->
-  <AssignCannotReadNow>TODO</AssignCannotReadNow>
+  <AssignCannotReadNow>{0}を読めない</AssignCannotReadNow>
 
   <!-- EN: Prioritize extinguishing fires -->
-  <ExtinguishFiresNearby>TODO</ExtinguishFiresNearby>
+  <ExtinguishFiresNearby>消火を優先</ExtinguishFiresNearby>
 
   <!-- Analysis -->
   <!-- EN: already analyzed -->
-  <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
+  <AlreadyAnalyzed>すでに分析済</AlreadyAnalyzed>
   <!-- EN: no reachable, un-reserved research bench available -->
   <NoResearchBench>到達可能な,予約されてない研究卓がない</NoResearchBench>
 </LanguageData>

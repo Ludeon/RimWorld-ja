@@ -163,7 +163,7 @@
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>必要な積載物がまだ全て積まれていません!</ShuttleRequiredItemsNotSatisfied>
   <!-- EN: Cannot load {0_labelShort} -->
-  <CannotLoadIntoShuttle>TODO</CannotLoadIntoShuttle>
+  <CannotLoadIntoShuttle>{0_labelShort}を積めない</CannotLoadIntoShuttle>
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>放つ熱がありません.</AbilityNoEntropyToDump>

@@ -31,7 +31,7 @@
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>画面端カーソルで移動</EdgeScreenScroll>
   <!-- EN: Zoom to mouse -->
-  <ZoomToMouse>TODO</ZoomToMouse>
+  <ZoomToMouse>マウスでズーム</ZoomToMouse>
   <!-- EN: Pause on load -->
   <PauseOnLoad>ロード時は一時停止</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
@@ -65,13 +65,13 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>クラッシュ時に,MODをリセットする</ResetModsConfigOnCrash>
   <!-- EN: Quick start has no cryptosleep sickness -->
-  <DisableQuickStartCryptoSickness>TODO</DisableQuickStartCryptoSickness>
+  <DisableQuickStartCryptoSickness>クイックスタート時の冷凍睡眠病を無効</DisableQuickStartCryptoSickness>
   <!-- EN: Start game with dev palette on -->
-  <StartDevPaletteOn>TODO</StartDevPaletteOn>
+  <StartDevPaletteOn>開発パレットをオンにしてゲームを開始</StartDevPaletteOn>
   <!-- EN: Open log on warnings -->
-  <OpenLogOnWarnings>TODO</OpenLogOnWarnings>
+  <OpenLogOnWarnings>"warning"発生時にログを開く</OpenLogOnWarnings>
   <!-- EN: Close log by pressing cancel -->
-  <CloseLogWindowOnEscape>TODO</CloseLogWindowOnEscape>
+  <CloseLogWindowOnEscape>"pressing_cancel"発生時ログを開かない</CloseLogWindowOnEscape>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Royaltyのない環境をシミュレートする</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
@@ -79,7 +79,7 @@
   <!-- EN: Simulate not owning Biotech -->
   <SimulateNotOwningBiotech>Biotechのない環境をシミュレートする</SimulateNotOwningBiotech>
   <!-- EN: Simulate not owning Anomaly -->
-  <SimulateNotOwningAnomaly>TODO</SimulateNotOwningAnomaly>
+  <SimulateNotOwningAnomaly>Anomalyのない環境をシミュレートする</SimulateNotOwningAnomaly>
   <!-- EN: Verbose logging -->
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <!-- EN: Save data folder -->
@@ -107,25 +107,25 @@
   <!-- EN: Storyteller settings -->
   <ChangeStoryteller>ストーリーテラー 選択</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>自動保存間隔</AutosaveInterval>
+  <AutosaveInterval>オートセーブ頻度</AutosaveInterval>
   <!-- EN: The number of in game days between each auto save. -->
   <AutosaveIntervalTooltip>ゲーム内で何日ごとにオートセーブを行うかの設定です.</AutosaveIntervalTooltip>
   <!-- EN: Temperature unit -->
   <TemperatureMode>気候ユニット</TemperatureMode>
   <!-- EN: Show realtime clock -->
-  <ShowRealtimeClock>実時間を示す時計を表示する</ShowRealtimeClock>
+  <ShowRealtimeClock>実時間を示す時計を表示</ShowRealtimeClock>
   <!-- EN: Use 12 hour clock -->
-  <TwelveHourClockMode>TODO</TwelveHourClockMode>
+  <TwelveHourClockMode>12時間表記を使用</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
-  <DisableTinyText>小さなフォントを無効にする</DisableTinyText>
+  <DisableTinyText>細字フォントを無効</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>コロニーの最大数: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Autosaves count: {0} -->
-  <AutosavesCount>TODO</AutosavesCount>
+  <AutosavesCount>オートセーブ数: {0}</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>マップのマウスドラッグ感度</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
-  <PlantWindSway>風に木がなびく効果</PlantWindSway>
+  <PlantWindSway>木が風になびく効果</PlantWindSway>
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>テストマップサイズを有効にする</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->

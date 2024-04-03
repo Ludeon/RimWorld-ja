@@ -160,7 +160,7 @@
   <!-- EN: escort asleep -->
   <SacrificeAnimal.stages.0.failTriggers.1.desc>眠りに付き添う</SacrificeAnimal.stages.0.failTriggers.1.desc>
   <!-- EN: sacrifice no longer dead -->
-  <SacrificeAnimal.stages.3.failTriggers.0.desc>TODO</SacrificeAnimal.stages.3.failTriggers.0.desc>
+  <SacrificeAnimal.stages.3.failTriggers.0.desc>生贄は死ぬことができない</SacrificeAnimal.stages.3.failTriggers.0.desc>
   
   <!-- EN: cutter -->
   <SacrificePrisoner.roles.0.label>執行人</SacrificePrisoner.roles.0.label>
@@ -177,7 +177,7 @@
   <!-- EN: escort asleep -->
   <SacrificePrisoner.stages.0.failTriggers.1.desc>眠りに付き添う</SacrificePrisoner.stages.0.failTriggers.1.desc>
   <!-- EN: sacrifice no longer dead -->
-  <SacrificePrisoner.stages.3.failTriggers.0.desc>TODO</SacrificePrisoner.stages.3.failTriggers.0.desc>
+  <SacrificePrisoner.stages.3.failTriggers.0.desc>生贄は死ぬことができない</SacrificePrisoner.stages.3.failTriggers.0.desc>
   
   <!-- EN: target -->
   <ScarificationCeremony.roles.0.label>ターゲット</ScarificationCeremony.roles.0.label>

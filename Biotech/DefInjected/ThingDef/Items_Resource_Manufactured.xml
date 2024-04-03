@@ -16,19 +16,19 @@
   <!-- EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <NanostructuringChip.description>メカノイドの分子再構築用の微小器官です.特定の高度なメカノイドと装備を製造するのに必要です.\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</NanostructuringChip.description>
   <!-- EN: Analyze the nano structuring chip. -->
-  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>ナノ構造体を分析します.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
-  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the nano structuring chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
   <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>{PAWN_labelShort}はナノ構造体チップを調べ,{RESEARCH}の研究に 必要な知見を得ました.\n\n研究卓から,この技術の正しい使い方について研究できるようになります.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Nano structuring chip studied: {RESEARCH} unlocked -->
-  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>ナノ構造体チップ研究完了: {RESEARCH}がアンロック</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
-  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>分析する人を選択</NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
   <!-- EN: Can be analyzed by a colonist. -->
-  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>入植者であれば分析できます.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze nano structuring chip -->
-  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>ナノ構造体チップを分析中</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- UNUSED -->
   <NanostructuringChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</NanostructuringChip.comps.CompStudiable.completedLetterText>
@@ -39,19 +39,19 @@
   <!-- EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <PowerfocusChip.description>エネルギーを集中させるためのメカノイドの微小器官です.特定の高度なメカノイドと装備を製造するのに必要です,\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</PowerfocusChip.description>
   <!-- EN: Analyze the powerfocus chip. -->
-  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>パワーフォーカスチップを分析します.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
-  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the powerfocus chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
   <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>{PAWN_labelShort}はパワーフォーカスチップを調べ,{RESEARCH}の研究に 必要な知見を得ました.\n\n研究卓から,この技術の正しい使い方について研究できるようになります.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Powerfocus chip studied: {RESEARCH} unlocked -->
-  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>パワーフォーカスチップ研究完了: {RESEARCH}がアンロック</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
-  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>分析する人を選択</PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
   <!-- EN: Can be analyzed by a colonist. -->
-  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>入植者であれば分析できます.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze powerfocus chip -->
-  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>パワーフォーカスチップを分析中</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- UNUSED -->
   <PowerfocusChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</PowerfocusChip.comps.CompStudiable.completedLetterText>
@@ -73,19 +73,19 @@
   <!-- EN: A mechanoid-band synchronization micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <SignalChip.description>メカノイド帯域に同調する微小器官です.特定の高度なメカノイドと装備を製造するのに必要です,\n\nメカニターはこのチップを研究して,より高いティアのメカテックの研究のロックを解除することができます.</SignalChip.description>
   <!-- EN: Analyze the signal chip. -->
-  <SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>シグナルチップを分析します.</SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
-  <SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the signal chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
   <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>{PAWN_labelShort}はシグナルチップを調べ,{RESEARCH}の研究に 必要な知見を得ました.\n\n研究卓から,この技術の正しい使い方について研究できるようになります.</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Signal chip studied: {RESEARCH} unlocked -->
-  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>シグナルチップ研究完了: {RESEARCH}がアンロック</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
-  <SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>分析する人を選択</SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
   <!-- EN: Can be analyzed by a colonist. -->
-  <SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>入植者であれば分析できます.</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze signal chip -->
-  <SignalChip.comps.CompAnalyzableUnlockResearch.jobString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.jobString>シグナルチップを分析中</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- UNUSED -->
   <SignalChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</SignalChip.comps.CompStudiable.completedLetterText>

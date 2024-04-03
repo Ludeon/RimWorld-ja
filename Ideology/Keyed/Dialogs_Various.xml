@@ -41,7 +41,7 @@
   <NotEnoughMemesFluidIdeo>{0}のミームを選択します.</NotEnoughMemesFluidIdeo>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
-  <ChangesRandomizePrecepts>{0}は,編集した全ての戒律を再ランダム化します.\n\n本当に続けますか?</ChangesRandomizePrecepts>
+  <ChangesRandomizePrecepts>{0}と,現在の戒律がすべてランダムに再生成されます.\n\n本当に続けますか?</ChangesRandomizePrecepts>
   <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
   <ChangesRemovePrecepts>以下の戒律は,この新しいミームの選択と互換性がないため,削除されます:\n\n{0}\n\n本当に続行しますか?</ChangesRemovePrecepts>
   
@@ -114,9 +114,9 @@
   <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
   <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort}が{ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
-  <AbilityIdeoConvertBreakdownTrait>{TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownTrait>特性'{TRAIT}'</AbilityIdeoConvertBreakdownTrait>
   <!-- EN: Precept {PRECEPT} -->
-  <AbilityIdeoConvertBreakdownPercept>TODO</AbilityIdeoConvertBreakdownPercept>
+  <AbilityIdeoConvertBreakdownPercept>戒律'{PRECEPT}'</AbilityIdeoConvertBreakdownPercept>
   <!-- EN: {RELICCOUNT} installed relics on map -->
   <AbilityIdeoConvertBreakdownRelic>マップ上に{RELICCOUNT}つのレリックが設置されている</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
@@ -253,9 +253,9 @@
 
   <!-- Medical settings -->
   <!-- EN: Slaves -->
-  <MedGroupSlaves>TODO</MedGroupSlaves>
+  <MedGroupSlaves>奴隷</MedGroupSlaves>
   <!-- EN: Enslaved members of your colony. -->
-  <MedGroupSlavesDesc>TODO</MedGroupSlavesDesc>
+  <MedGroupSlavesDesc>コロニーにいる奴隷メンバーです.</MedGroupSlavesDesc>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->

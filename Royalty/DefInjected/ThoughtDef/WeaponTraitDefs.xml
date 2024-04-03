@@ -27,9 +27,9 @@
   <JealousRage.stages.s_jealousy.description>絆を結んだ武器である{WEAPON}が,別の武器を使ったことに対して嫉妬している.激怒した金切り声を,頭の中で感じることができる.</JealousRage.stages.s_jealousy.description>
   
   <!-- EN: {WEAPON}'s kill thirst -->
-  <KillThirst_Weapon.stages.s_kill_thirst.label>TODO</KillThirst_Weapon.stages.s_kill_thirst.label>
+  <KillThirst_Weapon.stages.s_kill_thirst.label>{WEAPON}の殺しの渇き</KillThirst_Weapon.stages.s_kill_thirst.label>
   <!-- EN: My bonded weapon {WEAPON} is angry it has gone so long without killing. I can feel its rage. -->
-  <KillThirst_Weapon.stages.s_kill_thirst.description>TODO</KillThirst_Weapon.stages.s_kill_thirst.description>
+  <KillThirst_Weapon.stages.s_kill_thirst.description>絆を結んだ武器である{WEAPON}が,最後に人を殺してからあまりにも長い時間が経っていることに怒りを感じている.その怒りが,私の心に伝わってくる.</KillThirst_Weapon.stages.s_kill_thirst.description>
   
   <!-- EN: {WEAPON}'s kill sorrow -->
   <OnKill_BadThought.stages.s_kill_sorrow.label>{WEAPON}の死への悲嘆</OnKill_BadThought.stages.s_kill_sorrow.label>

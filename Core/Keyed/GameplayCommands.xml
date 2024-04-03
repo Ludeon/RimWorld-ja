@@ -240,13 +240,13 @@
   <!-- EN: Auto rearm -->
   <CommandAutoRearm>自動再装填</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>これが有効なときは,自動的に罠が仕掛けられます.</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>有効にした場合,罠が発動すると新しい罠を自動的に再設置します.</CommandAutoRearmDesc>
   
   <!-- Firefoam popper -->
   <!-- EN: Auto rebuild -->
-  <CommandAutoRebuild_Building>TODO</CommandAutoRebuild_Building>
+  <CommandAutoRebuild_Building>自動再建築</CommandAutoRebuild_Building>
   <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
-  <CommandAutoRebuild_BuildingDesc>TODO</CommandAutoRebuild_BuildingDesc>
+  <CommandAutoRebuild_BuildingDesc>有効にした場合,{BUILDING_ordinary}が爆発すると新しい{BUILDING_ordinary}を自動的に再建築します.</CommandAutoRebuild_BuildingDesc>
   
   <!-- Animal control -->
   <!-- EN: Animals attack -->
@@ -320,13 +320,13 @@
 
   <!-- Send caravan -->
   <!-- EN: Send caravan -->
-  <CommandSendCaravan>TODO</CommandSendCaravan>
+  <CommandSendCaravan>キャラバンを送る</CommandSendCaravan>
   <!-- EN: Send caravan... -->
-  <CommandSendCaravanMultiple>TODO</CommandSendCaravanMultiple>
+  <CommandSendCaravanMultiple>キャラバンを送る...</CommandSendCaravanMultiple>
   <!-- EN: Send a caravan to this destination from a selected colony which can reach this location. -->
-  <CommandSendCaravanDesc>TODO</CommandSendCaravanDesc>
+  <CommandSendCaravanDesc>選択したコロニーからこの目的地にキャラバンを送ります.コロニーから目的地への到達経路が必要です.</CommandSendCaravanDesc>
   <!-- EN: Your settlements have no path to this location. -->
-  <CommandSendCaravanCantReach>TODO</CommandSendCaravanCantReach>
+  <CommandSendCaravanCantReach>選択した入植地はこの場所に到達できません.</CommandSendCaravanCantReach>
 
   <!-- Split caravan -->
   <!-- EN: Split -->
@@ -643,7 +643,7 @@
   <!-- EN: Linked storage settings -->
   <LinkedStorageSettings>リンクストレージの設定</LinkedStorageSettings>
   <!-- EN: 1 building -->
-  <OneBuilding>TODO</OneBuilding>
+  <OneBuilding>1建築物</OneBuilding>
   <!-- EN: {0} buildings -->
   <NumBuildings>{0}建築物</NumBuildings>
   <!-- EN: Stores -->
@@ -658,13 +658,13 @@
 
   <!-- Study -->
   <!-- EN: Toggle study -->
-  <CommandToggleStudy>TODO</CommandToggleStudy>
+  <CommandToggleStudy>調査許可</CommandToggleStudy>
   <!-- EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied. -->
-  <CommandToggleStudyDesc>TODO</CommandToggleStudyDesc>
+  <CommandToggleStudyDesc>看守がこれを自動的に調査するかどうかを決めます.禁止された物は調査されません.</CommandToggleStudyDesc>
 
   <!-- Limited use count action -->
   <!-- EN: No uses left. -->
-  <CommandNoUsesLeft>TODO</CommandNoUsesLeft>
+  <CommandNoUsesLeft>使用回数が切れています.</CommandNoUsesLeft>
   
   <!-- UNUSED -->
   <CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>

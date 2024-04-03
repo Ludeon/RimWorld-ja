@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{1}の{0}は何かを略奪することに決めました.</MessageRaidersStealing>
 
   <!-- EN: The mechanoids sense no more targets and are moving on. -->
-  <MechanoidsMovingOn>TODO</MechanoidsMovingOn>
+  <MechanoidsMovingOn>メカノイドはこれ以上ターゲットを感知せず,移動し始めます.</MechanoidsMovingOn>
 
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
   <MessageCaravanDetectedRaidArrived>{1}の{0}が到着し,攻撃を開始しています! さらに別の部隊が,{2}に向かっています.</MessageCaravanDetectedRaidArrived>
@@ -38,7 +38,7 @@
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
   <MessageVisitorsDangerousTemperature>{1}の{0}は危険な気温に達したので離脱しています.</MessageVisitorsDangerousTemperature>
   <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
-  <MessageVisitorsAnomalousWeather>TODO</MessageVisitorsAnomalousWeather>
+  <MessageVisitorsAnomalousWeather>{1}の{0}は危険な天気を避けるため離脱しています.</MessageVisitorsAnomalousWeather>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{1}が身に着けていた{0}はボロボロになって着れなくなりました.</MessageWornApparelDeterioratedAway>
@@ -131,9 +131,9 @@
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>粗い岩の表面を指定してください.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Must designate rough stone terrain. -->
-  <MessageMustDesignateSmoothableFloor>TODO</MessageMustDesignateSmoothableFloor>
+  <MessageMustDesignateSmoothableFloor>粗い岩の地面を指定してください.</MessageMustDesignateSmoothableFloor>
   <!-- EN: Must designate rough stone wall. -->
-  <MessageMustDesignateSmoothableWall>TODO</MessageMustDesignateSmoothableWall>
+  <MessageMustDesignateSmoothableWall>粗い岩の壁を指定してください.</MessageMustDesignateSmoothableWall>
   <!-- EN: Nothing can remove thick roofs. -->
   <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
@@ -212,7 +212,7 @@
   <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>{0}トレーダーの一行は離れていきました.</MessageTraderCaravanLeaving>
   <!-- EN: The trade caravan from {0} has been dismissed. -->
-  <MessageTraderCaravanDismissed>TODO</MessageTraderCaravanDismissed>
+  <MessageTraderCaravanDismissed>{0}トレーダーの一行は送り返されました.</MessageTraderCaravanDismissed>
 
   <!-- EN: {1_labelShort} is dead. -->
   <MessageCantSelectDeadPawn>{1_labelShort}は死んでいます.</MessageCantSelectDeadPawn>
@@ -344,11 +344,11 @@
   <MessageTransporterSingleLoadingProcessStarted>指示されたヒトとアイテムをシャトルに積み込もうとします.</MessageTransporterSingleLoadingProcessStarted>
   
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>輸送ポッドは到着しました.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>輸送ポッドが到着しました.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>輸送ポッドは,いま到着しましたが,入植者が一人も乗っていないため,荷物は失われました.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>輸送ポッドが到着しましたが,入植者が一人も乗っていないため,荷物は失われました.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>あなたの輸送ポッドは,いま到着しました.積み荷は{0}に追加されました.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>輸送ポッドが到着しました.積み荷は{0}に追加されました.</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Transport pod loading complete. Launch when ready. -->
   <MessageFinishedLoadingTransporters>たった今,輸送ポッドへの積み込みを終了しました.</MessageFinishedLoadingTransporters>
@@ -356,14 +356,14 @@
   <MessageFinishedLoadingTransporterSingle>シャトルに必要な積荷を載せて準備が整ったら発射できます.</MessageFinishedLoadingTransporterSingle>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>{1}は 輸送ポッドへの積み込みを完了できません,いくつかのヒト・モノを手に入れられません({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>{1}は輸送ポッドへの積み込みを完了できません.次の人物・アイテムを入手できませんでした({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoPortal>TODO</MessageCantLoadMoreIntoPortal>
+  <MessageCantLoadMoreIntoPortal>{1}は{0}への侵入を完了できません.次の人物・アイテムを入手できませんでした({2_labelShort}).</MessageCantLoadMoreIntoPortal>
   
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>目的地が不正です.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは輸送ポッドを飛ばすのに少なくても x{0}の燃料を必要とします.</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは輸送ポッドを飛ばすのに少なくとも{0}個の燃料を必要とします.</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>キャラバン隊を再編成しました.</MessageReformedCaravan>
@@ -569,21 +569,21 @@
   <MessageFormedCaravan_Orders>目的</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
-  <MessageBillValidationStoreZoneDeleted>{1}の"{0}"は 削除された備蓄ゾーン{2}に 運ぶことができません.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneDeleted>{1}の"{0}"は,削除された備蓄ゾーン{2}に運ぶことができません.</MessageBillValidationStoreZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
-  <MessageBillValidationStoreZoneUnavailable>{1}の"{0}"は 存在しない備蓄ゾーン{2}に 運ぶことができません.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationStoreZoneUnavailable>{1}の"{0}"は,存在しない備蓄ゾーン{2}に運ぶことができません.</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
-  <MessageBillValidationPawnUnavailable>{0}は{2}で"{1}"ができません. 制限ゾーンはもう削除されています.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationPawnUnavailable>{0}は{2}で"{1}"ができません.制限ゾーンは既に削除されています.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
-  <MessageBillValidationIncludeZoneDeleted>{1}の"{0}"は 削除された備蓄ゾーン{2}を考慮しません.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneDeleted>{1}の"{0}"は,削除された備蓄ゾーン{2}内のアイテム数を数えられません.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
-  <MessageBillValidationIncludeBuildingDeleted>TODO</MessageBillValidationIncludeBuildingDeleted>
+  <MessageBillValidationIncludeBuildingDeleted>{1}の"{0}"は,削除された建築物{2}内のアイテム数を数えられません.</MessageBillValidationIncludeBuildingDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted storage group {2}. -->
-  <MessageBillValidationIncludeStorageGroupDeleted>TODO</MessageBillValidationIncludeStorageGroupDeleted>
+  <MessageBillValidationIncludeStorageGroupDeleted>{1}の"{0}"は,削除されたストレージグループ{2}内のアイテム数を数えられません.</MessageBillValidationIncludeStorageGroupDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
-  <MessageBillValidationIncludeZoneUnavailable>{1}の"{0}"は 存在しない備蓄ゾーン{2}を考慮しません.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationIncludeZoneUnavailable>{1}の"{0}"は,存在しない備蓄ゾーン{2}内のアイテム数を数えられません.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
-  <MessageBillValidationStoreZoneInsufficient>{1}の"{0}"は 全ての製品を備蓄ゾーン{2}へ運びません.</MessageBillValidationStoreZoneInsufficient>
+  <MessageBillValidationStoreZoneInsufficient>{1}の"{0}"は,全ての作成物を備蓄ゾーン{2}へ運びません.</MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
   <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので,{1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
@@ -661,7 +661,7 @@
   <MessageResearchMenuWithoutBench>警告: 研究卓を用意するまで研究は始まりません.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
-  <MessageActivatorProximityTriggered>{0_indefinite}は近接信管に触れた.</MessageActivatorProximityTriggered>
+  <MessageActivatorProximityTriggered>{0_indefinite}が近接信管に触れました.</MessageActivatorProximityTriggered>
 
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label}は現在非表示です.</MessageCannotSelectInvisibleStat>
@@ -679,9 +679,9 @@
 
   <!-- Lord jobs -->
   <!-- EN: You need {0_indefinite}. -->
-  <MessageLordJobNeedsAtLeastOneRolePawn>TODO</MessageLordJobNeedsAtLeastOneRolePawn>
+  <MessageLordJobNeedsAtLeastOneRolePawn>{0_indefinite}が必要です.</MessageLordJobNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->
-  <MessageLordJobNeedsAtLeastNumRolePawn>TODO</MessageLordJobNeedsAtLeastNumRolePawn>
+  <MessageLordJobNeedsAtLeastNumRolePawn>{1}以上の{0}が必要です.</MessageLordJobNeedsAtLeastNumRolePawn>
 
   <!-- Rituals -->
   <!-- EN: spectate -->
@@ -743,7 +743,7 @@
   <!-- EN: {0} must be capable of {1}. -->
   <MessageRitualRoleMustBeCapableOfGeneric>{0}は{1}である必要があります.</MessageRitualRoleMustBeCapableOfGeneric>
   <!-- EN: {0} must be capable of violence. -->
-  <MessageRitualRoleMustBeCapableOfViolence>TODO</MessageRitualRoleMustBeCapableOfViolence>
+  <MessageRitualRoleMustBeCapableOfViolence>{0}は暴力を行える人物である必要があります.</MessageRitualRoleMustBeCapableOfViolence>
   <!-- EN: prisoners cannot {0}. -->
   <MessageRitualRoleMustNotBePrisonerToSpectate>囚人は{0}になることができません.</MessageRitualRoleMustNotBePrisonerToSpectate>
   <!-- EN: only {0} can {1}. -->
@@ -751,9 +751,9 @@
   <!-- EN: only {0} can fill the role of {1}. -->
   <MessageRitualRoleMustHaveIdeoToDoRole>{0}のみが{1}の役割を果たせます.</MessageRitualRoleMustHaveIdeoToDoRole>
   <!-- EN: must be colonist for the {0} role. -->
-  <MessageRitualRoleMustBeColonist>{0}の役割を持つ入植者である必要があります.</MessageRitualRoleMustBeColonist>
+  <MessageRitualRoleMustBeColonist>{0}の役割は入植者である必要があります.</MessageRitualRoleMustBeColonist>
   <!-- EN: must not be a prisoner for the {0} role. -->
-  <MessageRitualRoleMustBeFree>TODO</MessageRitualRoleMustBeFree>
+  <MessageRitualRoleMustBeFree>{0}の役割を囚人に当てることはできません.</MessageRitualRoleMustBeFree>
   <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
   <MessageRitualWontAttendExtremeTemperature>儀式エリアが極端な温度なため,{0_labelShort}は出席できません.</MessageRitualWontAttendExtremeTemperature>
   <!-- EN: must be colonist and not enslaved for the {0} role. -->
@@ -775,7 +775,7 @@
   <!-- EN: {0} cannot be a baby. -->
   <MessageRitualRoleCannotBeBaby>{0}は乳児になれません.</MessageRitualRoleCannotBeBaby>
   <!-- EN: {0} is busy. -->
-  <MessageRitualRoleBusy>TODO</MessageRitualRoleBusy>
+  <MessageRitualRoleBusy>{0}は多忙です.</MessageRitualRoleBusy>
 
   <!-- EN: You must select a site to continue. -->
   <MessagePlayerMustSelectTile>続行するには,敷地を選択する必要があります.</MessagePlayerMustSelectTile>
@@ -808,21 +808,21 @@
   <!-- EN: Storage settings linked for {0} buildings. -->
   <SettingsLinkedFor>{0}個の建築物のストレージ設定がリンクされました.</SettingsLinkedFor>
   <!-- EN: Storage settings linked for 1 building. -->
-  <SettingsLinkedForSingular>TODO</SettingsLinkedForSingular>
+  <SettingsLinkedForSingular>1個の建築物のストレージ設定がリンクされました.</SettingsLinkedForSingular>
   <!-- EN: Storage settings unlinked for {0} buildings. -->
   <SettingsUnlinkedFor>{0}個の建築物のストレージ設定のリンクが解除されました.</SettingsUnlinkedFor>
   <!-- EN: Storage settings unlinked for 1 building. -->
-  <SettingsUnlinkedForSingular>TODO</SettingsUnlinkedForSingular>
+  <SettingsUnlinkedForSingular>1個の建築物のストレージ設定のリンクが解除されました.</SettingsUnlinkedForSingular>
   <!-- EN: Storage settings copied to clipboard. -->
   <StorageSettingsCopiedToClipboard>ストレージ設定をクリップボードにコピーしました.</StorageSettingsCopiedToClipboard>
   <!-- EN: Storage settings pasted from clipboard. -->
   <StorageSettingsPastedFromClipboard>ストレージ設定をクリップボードから貼り付けました.</StorageSettingsPastedFromClipboard>
   
   <!-- EN: {0_label} requires adjacent walls to function. -->
-  <MessageBuildingRequiresAdjacentWalls>TODO</MessageBuildingRequiresAdjacentWalls>
+  <MessageBuildingRequiresAdjacentWalls>{0_label}を機能させるには隣接する壁が必要です.</MessageBuildingRequiresAdjacentWalls>
 
   <!-- EN: Cannot skip: Refugee -->
-  <MessageLodgersCantFarskip>TODO</MessageLodgersCantFarskip>
+  <MessageLodgersCantFarskip>スキップできない: 難民</MessageLodgersCantFarskip>
 
   <!-- UNUSED -->
   <MessageRitualNeedsAtLeastOneRolePawn>{0}が必要です.</MessageRitualNeedsAtLeastOneRolePawn>

@@ -22,7 +22,7 @@
   <Game.description>ゲーム内で最も頻繁に行う操作です.</Game.description>
   
   <!-- EN: camera -->
-  <GameMapCamera.label>カメラコントロール</GameMapCamera.label>
+  <GameMapCamera.label>カメラ</GameMapCamera.label>
   <!-- EN: Controls for the camera. -->
   <GameMapCamera.description>カメラ操作です.</GameMapCamera.description>
   
@@ -32,9 +32,9 @@
   <MainTabs.description>メインタブの操作です.</MainTabs.description>
   
   <!-- EN: modifiers -->
-  <Modifiers.label>修飾</Modifiers.label>
+  <Modifiers.label>変更</Modifiers.label>
   <!-- EN: Controls used to modify other actions. -->
-  <Modifiers.description>他の行動を修飾するために使用する操作です.</Modifiers.description>
+  <Modifiers.description>その他の変更アクションのために使用する操作です.</Modifiers.description>
   
   <!-- EN: misc -->
   <SelectionMisc.label>その他操作</SelectionMisc.label>
