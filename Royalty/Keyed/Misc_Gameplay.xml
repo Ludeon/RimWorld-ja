@@ -24,7 +24,7 @@
   <PsycastNeurotrainerDescription>一度だけ使用可能な,特定の超能力を身に付けられるメカナイトの超薬物です.\n\nこの薬物は眼窩から投与します.脳に散布されると,メカナイトは特定の超能力の知識を植え付けるために,必要に応じた神経組織に変形します.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>{USER_labelShort}はサイトレーナーを用いて{1}の能力を身に着けました.</AbilityNeurotrainerUsed>
-  <!-- EN: Requires psylink -->
+  <!-- EN: requires psylink -->
   <PsycastNeurotrainerNoPsylink>サイリンクが必要です</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}はすでに{1}を習得済みです.</PsycastNeurotrainerAbilityAlreadyLearned>

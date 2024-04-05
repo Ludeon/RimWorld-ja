@@ -420,7 +420,7 @@
   <CurrentProject>現在の研究</CurrentProject>
   <!-- EN: Research progress -->
   <ResearchProgress>研究進捗度</ResearchProgress>
-  <!-- EN: Already has {0} -->
+  <!-- EN: already has {0} -->
   <AlreadyHasHediff>既に{0}状態</AlreadyHasHediff>
   <!-- EN: turret -->
   <Turret>タレット</Turret>
@@ -2015,11 +2015,11 @@
   <!-- EN: can be studied in {0} -->
   <CanBeStudiedInDuration>{0}で調査が可能</CanBeStudiedInDuration>
   
-  <!-- EN: Exploding soon -->
-  <AboutToExplode>TODO</AboutToExplode><!-- text_todo -->
+  <!-- EN: About to explode -->
+  <AboutToExplode>TODO</AboutToExplode>
   
   <!-- EN: New Anomaly expansion available now! -->
-  <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow><!-- text_todo -->
+  <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow>
   
   <!-- UNUSED -->
   <RadiusExpandRate>範囲拡張速度</RadiusExpandRate>

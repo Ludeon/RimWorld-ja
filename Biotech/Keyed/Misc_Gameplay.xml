@@ -147,7 +147,7 @@
   <AutoWakeDesc>オンにした場合,{PAWN_nameDef}は死眠の完了時に自動で起きます.\n\nオフにした場合,手動で起こすまで死眠を続けます.</AutoWakeDesc>
   <!-- EN: {PAWN_nameDef} is deathresting. -->
   <IsDeathresting>{PAWN_nameDef}は死眠している.</IsDeathresting>
-  <!-- EN: Cannot deathrest -->
+  <!-- EN: cannot deathrest -->
   <CannotDeathrest>死眠できない</CannotDeathrest>
   <!-- EN: Start deathrest -->
   <StartDeathrest>死眠を始める</StartDeathrest>
@@ -297,7 +297,7 @@
   <ComplexityTotal>総複雑性</ComplexityTotal>
   <!-- EN: The total complexity of all the genes in use. -->
   <ComplexityTotalDesc>使用中のすべての遺伝子の複雑さの合計値です.</ComplexityTotalDesc>
-  <!-- EN: Metabolic efficiency -->
+  <!-- EN: metabolic efficiency -->
   <Metabolism>代謝効率</Metabolism>
   <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
   <MetabolismDesc>組み立てられたときのこの遺伝子の総代謝効率です.高効率であることは,人が必要とする食物が少ないことを意味します.低効率であることは,より多く食べなければならないことを意味します.</MetabolismDesc>
