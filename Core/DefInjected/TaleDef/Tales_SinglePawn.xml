@@ -377,7 +377,20 @@
     <li>desc_sentence->[PAWN_nameDef] is forever changed by the teachings of [THING_title].</li>
     <li>desc_sentence->There is a sense that some secrets are yet to be uncovered.</li>
   -->
-  <ReadBook.rulePack.rulesStrings>TODO</ReadBook.rulePack.rulesStrings>
+  <ReadBook.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]が"[THING_title]"を読み終える</li>
+    <li>image-> [PAWN_nameFull]が "[THING_title]"を読み終え, [circumstance_group]満足そうな笑みを浮かべる</li>
+    <li>image-> [PAWN_nameFull]が "[THING_title]"のページをめくり, [circumstance_group]知識を吸収する</li>
+    <li>image-> [PAWN_nameFull]が "[THING_title]"を棚に戻し, [circumstance_group]本を読み終えた達成感に浸る</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]静かに座り, "[THING_title]"に書かれていた重要なポイントについて熟考する</li>
+    <li>circumstance_phrase->お気に入りの読書スペースで休憩しながら</li>
+    <li>circumstance_phrase->一杯のお茶を片手に</li>
+    <li>circumstance_phrase->読書灯の柔らかな光の下で</li>
+    <li>desc_sentence->[PAWN_nameDef]は"[THING_title]"に関するメモに囲まれている.</li>
+    <li>desc_sentence->[PAWN_nameDef]の目は新たに得た知識で輝いている.</li>
+    <li>desc_sentence->[PAWN_nameDef]は"[THING_title]"の影響を大いに受けたようだ.</li>
+    <li>desc_sentence->[PAWN_nameDef]はそれでもまだ,いくつかの謎が残されていると感じているようだ.</li>
+  </ReadBook.rulePack.rulesStrings>
   
   <!-- EN: struck mineable -->
   <StruckMineable.label>struck mineable</StruckMineable.label>
