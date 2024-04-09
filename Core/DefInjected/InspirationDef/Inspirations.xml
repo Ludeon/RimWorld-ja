@@ -41,8 +41,8 @@
   <Inspired_Recruitment.label>勧誘意欲</Inspired_Recruitment.label>
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>やる気: 勧誘意欲</Inspired_Recruitment.baseInspectLine>
-  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>[PAWN_pronoun]は,難易度に関係なく,次の囚人勧誘に成功するでしょう.\n\nやる気は,次の勧誘が終わるか8日後に終わります.</Inspired_Recruitment.beginLetter>
+  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun]は,難易度に関係なく次の囚人勧誘に成功するでしょう.ただし揺るぎない忠誠心を持つ囚人は勧誘できません.\n\nやる気は,次の勧誘が終わるか8日後に終わります.</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
   <Inspired_Recruitment.endMessage>{0}のやる気が落ち着いた(勧誘意欲).</Inspired_Recruitment.endMessage>
   
