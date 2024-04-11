@@ -791,27 +791,27 @@
     <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</li>
     <li>titleBasic(p=6)->[randAdjective][subject_primary]</li>
     <li>titleBasic(p=6)->[randNoun]と[subject_primary]</li>
-    <li>titleBasic->[subject_primary]の教え</li>
-    <li>titleBasic->[subject_primary]の考え方</li>
+    <li>titleBasic->[subject_primary]—基本編—</li>
+    <li>titleBasic->[subject_primary]について</li>
     <li>titleBasic->[subject_primary]ガイド</li>
     <li>titleBasic->[subject_primary]序章</li>
-    <li>titleBasic->[subject_primary]入門書</li>
+    <li>titleBasic->[subject_primary]入門</li>
     <li>titleBasic->[subject_primary]概要</li>
     <li>titleBasic->[subject_primary]の習得</li>
-    <li>titleBasic->[subject_primary]の基礎</li>
+    <li>titleBasic->[subject_primary]の基本</li>
     <li>titleBasic->[subject_primary]応用</li>
     <li>titleBasic->[subject_primary]の基礎概念</li>
-    <li>titleBasic->[subject_primary]の芸術性</li>
+    <li>titleBasic->美しい[subject_primary]</li>
     <li>titleBasic->[subject_primary]—特別上級編—</li>
     <li>titleBasic->紐解き学ぶ[subject_primary]</li>
-    <li>titleBasic->[subject_primary]における先進技術</li>
-    <li>titleBasic->視野の広がる[subject_primary]</li>
-    <li>titleBasic->[subject_primary]実践ガイド</li>
-    <li>titleBasic->[subject_primary]の探求</li>
+    <li>titleBasic->[subject_primary]に応用できる先進技術</li>
+    <li>titleBasic->初めての[subject_primary]</li>
+    <li>titleBasic->実用的[subject_primary]ガイド</li>
+    <li>titleBasic->[subject_primary]の探究</li>
     <li>titleBasic->専門家による[subject_primary]</li>
     <li>titleBasic->[subject_primary]への理解</li>
-    <li>titleBasic->[subject_primary]への学びの旅</li>
-    <li>titleBasic->[subject_primary]へ至る道</li>
+    <li>titleBasic->[subject_primary]を学ぶ旅</li>
+    <li>titleBasic->[subject_primary]を学ぶ道</li>
     <li>titleBasic->[subject_primary]の洞察</li>
     <li>titleBasic->[subject_primary]の解明</li>
     <li>titleBasic->[subject_primary]の秘密</li>
@@ -825,8 +825,8 @@
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]日誌</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の黙想</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]アドベンチャー</li>
-    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の熟考</li>
-    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の探求</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の考察</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の探究</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の証言</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の大冒険</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]の旅</li>
@@ -840,33 +840,33 @@
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]による証明</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]による編年史</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]伝記</li>
-    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]の基礎</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]ガイド</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]入門</li>
-    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]の探求</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]探究</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]の洞察</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]マニュアル</li>
-    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]の見方</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]の基本</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]手引き</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]解析書</li>
-    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]学習法</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]へのアプローチ</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]の新発見</li>
-    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]の熟考</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]について</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]学習法</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]調査記録</li>
     <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]による[subject_primary]研究記録</li>
-    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の基礎</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]ガイド</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]入門</li>
-    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の探求</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の探究</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の洞察</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]マニュアル</li>
-    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の見方</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の基本</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]手引き</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]解析書</li>
-    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]学習法</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]へのアプローチ</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の新発見</li>
-    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]の熟考</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]について</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]学習法</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]調査記録</li>
     <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]による[subjectsTuple]研究記録</li>
@@ -884,17 +884,17 @@
     <li>titleBasicTwoSubjects->[subjectsTuple]の基礎</li>
     <li>titleBasicTwoSubjects->[subjectsTuple]応用</li>
     <li>titleBasicTwoSubjects->[subjectsTuple]の基礎概念</li>
-    <li>titleBasicTwoSubjects->[subjectsTuple]の芸術性</li>
+    <li>titleBasicTwoSubjects->美しい[subjectsTuple]</li>
     <li>titleBasicTwoSubjects->[subjectsTuple]—特別上級編—</li>
     <li>titleBasicTwoSubjects->紐解き学ぶ[subjectsTuple]</li>
-    <li>titleBasicTwoSubjects->[subjectsTuple]における先進技術</li>
-    <li>titleBasicTwoSubjects->視野の広がる[subjectsTuple]</li>
-    <li>titleBasicTwoSubjects->[subjectsTuple]実践ガイド</li>
-    <li>titleBasicTwoSubjects->[subjectsTuple]の探求</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]に応用できる先進技術</li>
+    <li>titleBasicTwoSubjects->初めての[subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->実用的[subjectsTuple]ガイド</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]の探究</li>
     <li>titleBasicTwoSubjects->専門家による[subjectsTuple]</li>
     <li>titleBasicTwoSubjects->[subjectsTuple]への理解</li>
-    <li>titleBasicTwoSubjects->[subjectsTuple]への学びの旅</li>
-    <li>titleBasicTwoSubjects->[subjectsTuple]へ至る道</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]を学ぶ旅</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]を学ぶ道</li>
     <li>titleBasicTwoSubjects->[subjectsTuple]の洞察</li>
     <li>titleBasicTwoSubjects->[subjectsTuple]の解明</li>
     <li>titleBasicTwoSubjects->[subjectsTuple]の秘密</li>
@@ -928,7 +928,7 @@
     <li>randAdjective->混沌の</li>
     <li>randAdjective->滑稽な</li>
     <li>randTheme->知識</li>
-    <li>randTheme->改善</li>
+    <li>randTheme->自己学習</li>
     <li>randTheme->理解</li>
   </Namer_TextBook.rulePack.rulesStrings>
   

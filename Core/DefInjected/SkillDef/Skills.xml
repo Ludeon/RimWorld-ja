@@ -19,7 +19,20 @@
     <li>subject->wildlife</li>
     <li>subject->poultry</li>
   -->
-  <Animals.generalRules.rulesStrings>TODO</Animals.generalRules.rulesStrings>
+  <Animals.generalRules.rulesStrings>
+    <li>subject->動物</li>
+    <li>subject->牧畜</li>
+    <li>subject->手懐け方</li>
+    <li>subject->家畜</li>
+    <li>subject->飼育方法</li>
+    <li>subject->動物学</li>
+    <li>subject->畜産</li>
+    <li>subject->牧畜</li>
+    <li>subject->飼い慣らし方</li>
+    <li>subject->動物分布</li>
+    <li>subject->野生動物学</li>
+    <li>subject->家禽学</li>
+  </Animals.generalRules.rulesStrings>
   <!-- EN: animals -->
   <Animals.skillLabel>動物</Animals.skillLabel>
   
@@ -40,7 +53,19 @@
     <li>subject->impressionism</li>
     <li>subject->artistry</li>
   -->
-  <Artistic.generalRules.rulesStrings>TODO</Artistic.generalRules.rulesStrings>
+  <Artistic.generalRules.rulesStrings>
+    <li>subject->芸術</li>
+    <li>subject->陶器製造</li>
+    <li>subject->彫像</li>
+    <li>subject->絵画</li>
+    <li>subject->創造的表現</li>
+    <li>subject->表現方法</li>
+    <li>subject->美学</li>
+    <li>subject->デザイン</li>
+    <li>subject->彫刻</li>
+    <li>subject->印象表現</li>
+    <li>subject->芸術性</li>
+  </Artistic.generalRules.rulesStrings>
   <!-- EN: artistic -->
   <Artistic.skillLabel>芸術</Artistic.skillLabel>
   
@@ -60,7 +85,18 @@
     <li>subject->carpentry</li>
     <li>subject->infrastructure</li>
   -->
-  <Construction.generalRules.rulesStrings>TODO</Construction.generalRules.rulesStrings>
+  <Construction.generalRules.rulesStrings>
+    <li>subject->建築学</li>
+    <li>subject->建造技術</li>
+    <li>subject->アーキテクト</li>
+    <li>subject->工事技術</li>
+    <li>subject->デザイン</li>
+    <li>subject->修復技術</li>
+    <li>subject->建造物</li>
+    <li>subject->土台建築</li>
+    <li>subject->大工</li>
+    <li>subject->重要設備建築技術</li>
+  </Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
   <Construction.skillLabel>建築</Construction.skillLabel>
   
@@ -83,7 +119,21 @@
     <li>subject->sauces</li>
     <li>subject->meals</li>
   -->
-  <Cooking.generalRules.rulesStrings>TODO</Cooking.generalRules.rulesStrings>
+  <Cooking.generalRules.rulesStrings>
+    <li>subject->料理</li>
+    <li>subject->食べ物</li>
+    <li>subject->パン焼き</li>
+    <li>subject->料理技術</li>
+    <li>subject->調理法</li>
+    <li>subject->美食学</li>
+    <li>subject->味付け</li>
+    <li>subject->食材</li>
+    <li>subject->スパイス</li>
+    <li>subject->栄養学</li>
+    <li>subject->味</li>
+    <li>subject->調味料</li>
+    <li>subject->食</li>
+  </Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
   <Cooking.skillLabel>料理</Cooking.skillLabel>
   
@@ -102,7 +152,17 @@
     <li>subject->machining</li>
     <li>subject->artisanry</li>
   -->
-  <Crafting.generalRules.rulesStrings>TODO</Crafting.generalRules.rulesStrings>
+  <Crafting.generalRules.rulesStrings>
+    <li>subject->工芸</li>
+    <li>subject->組立製造</li>
+    <li>subject->製造技術</li>
+    <li>subject->手芸</li>
+    <li>subject->ものづくり</li>
+    <li>subject->製造方法</li>
+    <li>subject->武器職人</li>
+    <li>subject->機械加工</li>
+    <li>subject->服飾品</li>
+  </Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
   <Crafting.skillLabel>工芸</Crafting.skillLabel>
   
@@ -135,7 +195,31 @@
     <li>subject->research methods</li>
     <li>subject->intellectual inquiry</li>
   -->
-  <Intellectual.generalRules.rulesStrings>TODO</Intellectual.generalRules.rulesStrings>
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject->物理学</li>
+    <li>subject->化学</li>
+    <li>subject->軌道力学</li>
+    <li>subject->数学</li>
+    <li>subject->生物学</li>
+    <li>subject->科学</li>
+    <li>subject->学術調査</li>
+    <li>subject->技術革新</li>
+    <li>subject->新発見</li>
+    <li>subject->技術分析</li>
+    <li>subject->実験</li>
+    <li>subject->既存知識</li>
+    <li>subject->知識究明</li>
+    <li>subject->物理学</li>
+    <li>subject->化学</li>
+    <li>subject->データ分析</li>
+    <li>subject->科学研究</li>
+    <li>subject->知的成長</li>
+    <li>subject->学術研究</li>
+    <li>subject->定量分析</li>
+    <li>subject->実験計画</li>
+    <li>subject->研究手段</li>
+    <li>subject->技術探索</li>
+  </Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
   <Intellectual.skillLabel>知力</Intellectual.skillLabel>
   
@@ -167,7 +251,30 @@
     <li>subject->virology</li>
     <li>subject->health sciences</li>
   -->
-  <Medicine.generalRules.rulesStrings>TODO</Medicine.generalRules.rulesStrings>
+  <Medicine.generalRules.rulesStrings>
+    <li>subject->医学</li>
+    <li>subject->外科手術</li>
+    <li>subject->バクテリア</li>
+    <li>subject->縫合</li>
+    <li>subject->看病</li>
+    <li>subject->医療科学</li>
+    <li>subject->生理学</li>
+    <li>subject->薬理学</li>
+    <li>subject->医療技術</li>
+    <li>subject->診断</li>
+    <li>subject->外科手術</li>
+    <li>subject->解剖学</li>
+    <li>subject->バクテリア</li>
+    <li>subject->病理学</li>
+    <li>subject->疾病管理</li>
+    <li>subject->患者管理</li>
+    <li>subject->救急医学</li>
+    <li>subject->看護</li>
+    <li>subject->薬学</li>
+    <li>subject->公衆衛生学</li>
+    <li>subject->ウイルス学</li>
+    <li>subject->保健科学</li>
+  </Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
   <Medicine.skillLabel>医術</Medicine.skillLabel>
   
@@ -188,7 +295,19 @@
     <li>subject->knighthood</li>
     <li>subject->dueling</li>
   -->
-  <Melee.generalRules.rulesStrings>TODO</Melee.generalRules.rulesStrings>
+  <Melee.generalRules.rulesStrings>
+    <li>subject->格闘</li>
+    <li>subject->近接戦</li>
+    <li>subject->戦闘</li>
+    <li>subject->武術</li>
+    <li>subject->剣術</li>
+    <li>subject->近接武器</li>
+    <li>subject->喧嘩</li>
+    <li>subject->ボクシング</li>
+    <li>subject->フェンシング</li>
+    <li>subject->騎士道</li>
+    <li>subject->決闘</li>
+  </Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
   <Melee.skillLabel>格闘</Melee.skillLabel>
   
@@ -211,7 +330,21 @@
     <li>subject->geology</li>
     <li>subject->earthmoving</li>
   -->
-  <Mining.generalRules.rulesStrings>TODO</Mining.generalRules.rulesStrings>
+  <Mining.generalRules.rulesStrings>
+    <li>subject->採掘</li>
+    <li>subject->採鉱</li>
+    <li>subject->採石</li>
+    <li>subject->露天採掘</li>
+    <li>subject->開削作業</li>
+    <li>subject->試掘</li>
+    <li>subject->鉱石採掘</li>
+    <li>subject->トンネル作業</li>
+    <li>subject->掘削作業</li>
+    <li>subject->鉱物採掘</li>
+    <li>subject->宝石学</li>
+    <li>subject->地質学</li>
+    <li>subject->土運搬</li>
+  </Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
   <Mining.skillLabel>採掘</Mining.skillLabel>
   
@@ -238,7 +371,25 @@
     <li>subject->food production</li>
     <li>subject->crop science</li>
   -->
-  <Plants.generalRules.rulesStrings>TODO</Plants.generalRules.rulesStrings>
+  <Plants.generalRules.rulesStrings>
+    <li>subject->栽培技術</li>
+    <li>subject->薬草学</li>
+    <li>subject->野菜</li>
+    <li>subject->植物分布</li>
+    <li>subject->農耕</li>
+    <li>subject->園芸技術</li>
+    <li>subject->農学</li>
+    <li>subject->造園技術</li>
+    <li>subject->農業</li>
+    <li>subject->作物収穫</li>
+    <li>subject->パーマカルチャー</li>
+    <li>subject->植物学</li>
+    <li>subject->作物管理</li>
+    <li>subject->土壌改良</li>
+    <li>subject->有機栽培</li>
+    <li>subject->食糧生産</li>
+    <li>subject->作物学</li>
+  </Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
   <Plants.skillLabel>栽培</Plants.skillLabel>
   
@@ -266,7 +417,26 @@
     <li>subject->gun handling</li>
     <li>subject->distance shooting</li>
   -->
-  <Shooting.generalRules.rulesStrings>TODO</Shooting.generalRules.rulesStrings>
+  <Shooting.generalRules.rulesStrings>
+    <li>subject->銃器</li>
+    <li>subject->射撃武器</li>
+    <li>subject->照準技術</li>
+    <li>subject->射撃</li>
+    <li>subject->撃ち合い</li>
+    <li>subject->射撃術</li>
+    <li>subject->小火器</li>
+    <li>subject->狙撃</li>
+    <li>subject->弾道学</li>
+    <li>subject->遠距離戦闘</li>
+    <li>subject->精密射撃</li>
+    <li>subject->ライフルマスター</li>
+    <li>subject->射撃演習</li>
+    <li>subject->一級射手</li>
+    <li>subject->遠距離戦術</li>
+    <li>subject->狩猟</li>
+    <li>subject->銃器取扱</li>
+    <li>subject->長距離射撃</li>
+  </Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
   <Shooting.skillLabel>射撃</Shooting.skillLabel>
   
@@ -293,7 +463,25 @@
     <li>subject->emotional intelligence</li>
     <li>subject->communication skills</li>
   -->
-  <Social.generalRules.rulesStrings>TODO</Social.generalRules.rulesStrings>
+  <Social.generalRules.rulesStrings>
+    <li>subject->伝達学</li>
+    <li>subject->情報交換</li>
+    <li>subject->和解</li>
+    <li>subject->協同</li>
+    <li>subject->リーダーシップ</li>
+    <li>subject->共感性</li>
+    <li>subject->交渉術</li>
+    <li>subject->交易</li>
+    <li>subject->傾聴</li>
+    <li>subject->駆け引き</li>
+    <li>subject->チームワーク</li>
+    <li>subject->礼儀作法</li>
+    <li>subject->カリスマ性</li>
+    <li>subject->社会的知性</li>
+    <li>subject->自己主張</li>
+    <li>subject->感情知性</li>
+    <li>subject->コミュニケーションスキル</li>
+  </Social.generalRules.rulesStrings>
   <!-- EN: social -->
   <Social.skillLabel>社交</Social.skillLabel>
   
