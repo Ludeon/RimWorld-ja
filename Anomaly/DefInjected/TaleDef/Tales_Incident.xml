@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: death pall -->
+  <DeathPall.label>死の帳</DeathPall.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] facing the encroaching death pall</li>
+    <li>image->[PAWN_nameFull] gazing in horror as the death pall blankets the land, resurrecting the dead [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] clutching [PAWN_possessive] weapon tightly, as the death pall descends, raising the dead [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trembling with unease, witnessing the arrival of the death pall, its influence giving life to the lifeless [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] watching in horror as the death pall envelops [PAWN_possessive] peaceful home, turning it into a battleground against the dead [circumstance_group]</li>
+    <li>circumstance_phrase->and drowning out [PAWN_possessive] desperate prayers for safety</li>
+    <li>circumstance_phrase->with the scent of decay and despair filling the air</li>
+    <li>circumstance_phrase->and trapping [PAWN_objective] in a horde of shamblers</li>
+    <li>desc_sentence->In the centre of the death pall, [PAWN_nameDef] prepares for battle.</li>
+    <li>desc_sentence->The encroachment of the death pall fills [PAWN_nameDef]'s friends with terror.</li>
+    <li>desc_sentence->Shivers run down [PAWN_nameDef]'s spine as the death pall's influence continues to spread.</li>
+    <li>desc_sentence->The weight of despair settles upon [PAWN_nameDef], testing [PAWN_possessive] resolve in the face of the macabre.</li>
+  -->
+  <DeathPall.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]は迫りくる死の帳に直面している</li>
+    <li>image->[PAWN_nameFull]は死の帳が大地を覆い尽くし,死者が蘇り,[circumstance_group]のを,恐怖の眼差しで見つめています</li>
+    <li>image->死の帳が降り,死者が蘇り,[circumstance_group]中,[PAWN_nameFull]は武器を強く握りしめています.</li>
+    <li>image->死の帳の到来と,その影響で命なきものが立ち上がり,[PAWN_nameFull]のを目撃し,[circumstance_group]は不安で震えています</li>
+    <li>image->[PAWN_nameFull]は,死の帳が自身の穏やかな故郷を包み込み,死者に対する戦場に変え,[circumstance_group]のを恐ろしげに見つめています.</li>
+    <li>circumstance_phrase->[PAWN_possessive]の無事を願う必死の祈りがかき消される</li>
+    <li>circumstance_phrase->腐敗と絶望の臭いが大気に満ちる</li>
+    <li>circumstance_phrase->シャンブラーの大群に閉じ込められる</li>
+    <li>desc_sentence->死の帳の真ん中で,[PAWN_nameDef]は戦いに備えています.</li>
+    <li>desc_sentence->死の帳が迫り,[PAWN_nameDef]の友人は恐怖でいっぱいになっています.</li>
+    <li>desc_sentence->死の帳の影響が広がり続け,[PAWN_nameDef]の背筋には震えが走ります.</li>
+    <li>desc_sentence->[PAWN_nameDef]に絶望的な不安というおもりがのしかかる.それは恐怖を前にした[PAWN_possessive]の決意を試しているかのようです.</li>
+  </DeathPall.rulePack.rulesStrings>
+  
+  <!-- EN: unnatural darkness -->
+  <UnnaturalDarkness.label>不自然な闇</UnnaturalDarkness.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] confronts the unnatural darkness</li>
+    <li>image->[PAWN_nameFull] standing in awe as the world is consumed by an impenetrable darkness [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] surrounded by black pillars falling from the sky which blanket the land in darkness [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] struggling to find [PAWN_possessive] way through the suffocating darkness, noctols hounding at [PAWN_possessive] heels, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] watching the world get swallowed by an abyss of shadows [circumstance_group]</li>
+    <li>circumstance_phrase->amidst by [PAWN_possessive] friends' desperate attempts to return to the safety of the light</li>
+    <li>circumstance_phrase->with piercing screams echoing all around</li>
+    <li>circumstance_phrase->the light seemingly barely able to hold it back</li>
+    <li>circumstance_phrase->as [PAWN_pronoun] offers pleas for salvation</li>
+    <li>desc_sentence->Not even the faintest flickering of lights in the distance is visible.</li>
+    <li>desc_sentence->The situation seems utterly hopeless.</li>
+    <li>desc_sentence->Groups of shadowy creatures are visible at the edge of the darkness.</li>
+    <li>desc_sentence->[PAWN_nameDef] tries to find a glimmer of hope amidst the encroaching darkness.</li>
+  -->
+  <UnnaturalDarkness.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]の不自然な闇との対峙</li>
+    <li>image->見通すことのできない,闇で世界がくらい尽くされていき,[circumstance_group],[PAWN_nameFull]は呆然と立ち尽くしています</li>
+    <li>image->[circumstance_group]は,大地が闇で覆い尽くされ,[PAWN_nameFull],空から降りてくる黒い柱に取り囲まれています</li>
+    <li>image->[PAWN_nameFull]は,ノクトルに追いやられ,[PAWN_possessive],窒息しそうな闇を突破する方法を探し求めています</li>
+    <li>image->[PAWN_nameFull]は,影の深淵によって世界が飲み込まれていくさまを,[circumstance_group],見ています</li>
+    <li>circumstance_phrase->[PAWN_possessive]の友人が安全な光へと戻ろうと必死に試みている中で</li>
+    <li>circumstance_phrase->周囲に反響する突き刺すような悲鳴の中で</li>
+    <li>circumstance_phrase->光がかろうじて持ちこたえている中で</li>
+    <li>circumstance_phrase->救済の懇願を捧げながら</li>
+    <li>desc_sentence->遠くには,光のかすかな明滅すらも見えません.</li>
+    <li>desc_sentence->状況はまさに絶望的と言えるものです.</li>
+    <li>desc_sentence->暗闇の縁に,影のような生物の集団がいます.</li>
+    <li>desc_sentence->[PAWN_nameDef]は迫りくる闇の中に希望の光を見出そうとしています.</li>
+  </UnnaturalDarkness.rulePack.rulesStrings>
+  
+</LanguageData>

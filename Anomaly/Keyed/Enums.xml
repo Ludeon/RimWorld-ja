@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Hate chant drone level -->
+  <!-- EN: none -->
+  <HateChantDroneLevel_None>無音</HateChantDroneLevel_None>
+  <!-- EN: whispers -->
+  <HateChantDroneLevel_VeryLow>囁き</HateChantDroneLevel_VeryLow>
+  <!-- EN: quiet -->
+  <HateChantDroneLevel_Low>静寂</HateChantDroneLevel_Low>
+  <!-- EN: moderate -->
+  <HateChantDroneLevel_Medium>中程度</HateChantDroneLevel_Medium>
+  <!-- EN: loud -->
+  <HateChantDroneLevel_High>騒音</HateChantDroneLevel_High>
+  <!-- EN: extreme -->
+  <HateChantDroneLevel_Extreme>極限</HateChantDroneLevel_Extreme>
+
+  <!-- EN: Disabled -->
+  <MonolithGenerationMethod_Disabled>無効</MonolithGenerationMethod_Disabled>
+  <!-- EN: Near colonists -->
+  <MonolithGenerationMethod_NearColonists>付近の入植者</MonolithGenerationMethod_NearColonists>
+
+</LanguageData>

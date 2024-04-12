@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: entities -->
+  <Entities.label>「存在」</Entities.label>
+  <!-- EN: Dark entities -->
+  <Entities.fixedName>闇の存在</Entities.fixedName>
+  <!-- EN: leader -->
+  <Entities.leaderTitle>リーダー</Entities.leaderTitle>
+  <!-- EN: entity -->
+  <Entities.pawnSingular>「存在」</Entities.pawnSingular>
+  <!-- EN: entities -->
+  <Entities.pawnsPlural>「存在」</Entities.pawnsPlural>
+  
+  <!-- EN: horax cult -->
+  <HoraxCult.label>ホラックス教団</HoraxCult.label>
+  <!-- EN: God of the Void -->
+  <HoraxCult.deityPresets.0.nameType.type>ヴォイドの神</HoraxCult.deityPresets.0.nameType.type>
+  <!-- EN: The Servants of Horax -->
+  <HoraxCult.fixedName>ホラックスのしもべ</HoraxCult.fixedName>
+  <!-- EN: You see space as a grid, pure and mathematical. We know it is only the glassy surface of a black ocean of nightmares buried under every place and every moment. We know the mind who reigns from the deep. Its thoughts reach up from the boiling darkness and reward those who serve its will. -->
+  <HoraxCult.ideoDescription>あなた空間を純粋かつ数学的なグリッドとして見ている.我々はそれが,あらゆる場所,あらゆる瞬間の下に埋もれた,悪夢の黒き海の,ガラスの如き表面に過ぎぬことを知っている.我々は深淵より支配する者の心を知っている.その思考は沸き立つ闇より手を伸ばし,その意志に仕える者に報いるのだ.</HoraxCult.ideoDescription>
+  <!-- EN: Nightmare Deep -->
+  <HoraxCult.ideoName>悪夢の深み</HoraxCult.ideoName>
+  <!-- EN: leader -->
+  <HoraxCult.leaderTitle>リーダー</HoraxCult.leaderTitle>
+  <!-- EN: member -->
+  <HoraxCult.pawnSingular>教団員</HoraxCult.pawnSingular>
+  <!-- EN: cultists -->
+  <HoraxCult.pawnsPlural>崇拝者</HoraxCult.pawnsPlural>
+  
+</LanguageData>

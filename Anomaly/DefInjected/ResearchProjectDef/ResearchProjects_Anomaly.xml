@@ -1,0 +1,905 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced psychic rituals -->
+  <AdvancedPsychicRituals.label>高度なサイキック儀式</AdvancedPsychicRituals.label>
+  <!-- EN: Perform advanced psychic rituals. -->
+  <AdvancedPsychicRituals.description>高度なサイキック儀式を行います.</AdvancedPsychicRituals.description>
+  <!-- EN:
+    <li>subject->advanced psychic rituals</li>
+    <li>subject_story->was brought into a cult circle</li>
+    <li>subject_story->encountered an exiled cult master, who happily boasted about his secrets</li>
+    <li>subject_story->deepened his understanding of ritual sacrifice</li>
+    <li>subject_story->was appointed professor of psychic history at the University of Ix</li>
+    <li>subject_gerund->performing advanced psychic rituals</li>
+  -->
+  <AdvancedPsychicRituals.generalRules.rulesStrings>
+    <li>subject->高度なサイキック儀式</li>
+    <li>subject_story->崇拝者の教団に引き入れられました</li>
+    <li>subject_story->追放された教団の主に出会い,自慢気に話すその秘密を聞きました</li>
+    <li>subject_story->儀式の犠牲についての理解を深めました</li>
+    <li>subject_story->イクス大学のサイキック史学の教授に任命されました</li>
+    <li>subject_gerund->高度なサイキック儀式を行う</li>
+  </AdvancedPsychicRituals.generalRules.rulesStrings>
+  
+  <!-- EN: atmospheric heater -->
+  <AtmosphericHeater.label>大気ヒーター</AtmosphericHeater.label>
+  <!-- EN: Build bioferrite-powered heaters that produce enough heat to warm an entire region. -->
+  <AtmosphericHeater.description>地域全体を暖めるのに十分な熱を生み出すバイオフェライトヒーターを作ります.</AtmosphericHeater.description>
+  <!-- EN:
+    <li>subject->bioferrite heating</li>
+    <li>subject_story->upgraded archaic geothermal plants</li>
+    <li>subject_story->studied the heat output of biometals</li>
+    <li>subject_story->researched the impossible capacity of archotech energy storage</li>
+    <li>subject_story->examined the hypocaust systems on densely occupied iceworlds</li>
+    <li>subject_gerund->heating with bioferrite</li>
+    <li>subject_gerund->constructing bioferrite-fueled heaters</li>
+  -->
+  <AtmosphericHeater.generalRules.rulesStrings>
+    <li>subject->バイオフェライト加熱</li>
+    <li>subject_story->旧式の地熱発電施設を改良しました</li>
+    <li>subject_story->バイオメタルの熱出力を研究しました</li>
+    <li>subject_story->アルコテックの驚異的なエネルギー貯蔵力を研究しました</li>
+    <li>subject_story->高密度の氷の世界でのハイポコーストシステムを調査しました</li>
+    <li>subject_gerund->バイオフェライトで加熱する</li>
+    <li>subject_gerund->バイオフェライト燃料ヒーターを建築する</li>
+  </AtmosphericHeater.generalRules.rulesStrings>
+  
+  <!-- EN: void provocation -->
+  <BasicPsychicRituals.label>ヴォイド喚起</BasicPsychicRituals.label>
+  <!-- EN: Build a psychic ritual spot and perform psychic rituals. Use the void provocation ritual to discover new entities. -->
+  <BasicPsychicRituals.description>サイキック儀式の場を作り,サイキック儀式を行います.ヴォイド喚起の儀式を行うことで,新たな「存在」を発見できます.</BasicPsychicRituals.description>
+  <!-- EN:
+    <li>subject->psychic rituals</li>
+    <li>subject_story->studied the rituals of Horax cultists</li>
+    <li>subject_story->reconstructed primitive altars</li>
+    <li>subject_story->established the basics of psychic communication</li>
+    <li>subject_story->watched a failed void provocation ritual on a deathworld</li>
+    <li>subject_story->communed with an archotech shard atop a desert pillar</li>
+    <li>subject_gerund->conducting psychic rituals</li>
+    <li>subject_gerund->establishing ritual spots</li>
+    <li>subject_gerund->provoking void entities</li>
+  -->
+  <BasicPsychicRituals.generalRules.rulesStrings>
+    <li>subject->サイキック儀式</li>
+    <li>subject_story->ホラックス崇拝者の儀式を研究しました</li>
+    <li>subject_story->原始的な祭壇を復元しました</li>
+    <li>subject_story->サイキックコミュニケーションの基礎を確立しました</li>
+    <li>subject_story->死の世界でのヴォイド喚起の儀式の失敗を目の当たりにしました</li>
+    <li>subject_story->砂漠の柱の上でアルコテックノ破片と交信しました</li>
+    <li>subject_gerund->サイキック儀式を行う</li>
+    <li>subject_gerund->儀式の場を作る</li>
+    <li>subject_gerund->ヴォイドの「存在」を喚び起こす</li>
+  </BasicPsychicRituals.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite generator -->
+  <BioferriteGenerator.label>バイオフェライト発電機</BioferriteGenerator.label>
+  <!-- EN: Build power generators that burn bioferrite as a fuel. -->
+  <BioferriteGenerator.description>バイオフェライトを燃料として燃焼させる発電機を建築します.</BioferriteGenerator.description>
+  <!-- EN:
+    <li>subject->bioferrite power generation</li>
+    <li>subject_story->was trained in the use of innovative power sources</li>
+    <li>subject_story->explored the use of metal- and fibre-based fuels</li>
+    <li>subject_story->discovered a love of fire and things that burn</li>
+    <li>subject_story->worked as a technician, maintaining orbital energy systems</li>
+    <li>subject_story->rendered the wildlife of a system down for fuel</li>
+    <li>subject_gerund->constructing bioferrite-powered generators</li>
+    <li>subject_gerund->powering generators using bioferrite</li>
+  -->
+  <BioferriteGenerator.generalRules.rulesStrings>
+    <li>subject->バイオフェライト発電</li>
+    <li>subject_story->革新的な動力源の使用について訓練を受けました</li>
+    <li>subject_story->金属と繊維をベースにした燃料の使用を探求してきました</li>
+    <li>subject_story->炎と燃えるものへの愛を見出しました</li>
+    <li>subject_story->技術者として軌道エネルギーシステムのメンテナンスに携わっていました</li>
+    <li>subject_story->燃料のために倒れた野生生物を活用してきました</li>
+    <li>subject_gerund->バイオフェライト燃料発電機を建築する</li>
+    <li>subject_gerund->バイオフェライトを利用した発電機を稼働する</li>
+  </BioferriteGenerator.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite harvesting -->
+  <BioferriteHarvesting.label>バイオフェライト収穫</BioferriteHarvesting.label>
+  <!-- EN: Build bioferrite harvesters to generate bioferrite from captured entities contained in holding platforms. -->
+  <BioferriteHarvesting.description>バイオフェライトハーベスターを建築し,収容プラットフォームに拘束された「存在」からバイオフェライトを生成します.</BioferriteHarvesting.description>
+  <!-- EN:
+    <li>subject->bioferrite</li>
+    <li>subject_story->investigated an exotic metal-like fibrous substance</li>
+    <li>subject_story->vivisected a ghoulish corpse</li>
+    <li>subject_story->discovered a cache of organic metals</li>
+    <li>subject_story->observed strange metal-infested wildlife</li>
+    <li>subject_gerund->harvesting bioferrite</li>
+  -->
+  <BioferriteHarvesting.generalRules.rulesStrings>
+    <li>subject->バイオフェライト</li>
+    <li>subject_story->奇妙な金属のような繊維状物質を研究してきました</li>
+    <li>subject_story->グールの遺体を生け捕りにしました</li>
+    <li>subject_story->有機金属の隠れ家を発見しました</li>
+    <li>subject_story->金属に汚染された奇妙な野生生物を観測しました</li>
+    <li>subject_gerund->バイオフェライトを収穫する</li>
+  </BioferriteHarvesting.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite weaponry -->
+  <BioferriteIgnition.label>バイオフェライト兵器</BioferriteIgnition.label>
+  <!-- EN: Create advanced weapons that use bioferrite as a fuel source. -->
+  <BioferriteIgnition.description>バイオフェライトを燃料として使用する高度な武器を作成します.</BioferriteIgnition.description>
+  <!-- EN:
+    <li>subject->bioferrite combustion</li>
+    <li>subject->bioferrite weaponry</li>
+    <li>subject_story->worked for an extraction rig on an archotech asteroid</li>
+    <li>subject_story->researched the combustion points of exotic materials</li>
+    <li>subject_story->joined the research arm of a milword weapons corp</li>
+    <li>subject_story->cleared biomines in an archotech desert</li>
+    <li>subject_gerund->building bioferrite-based weapons</li>
+  -->
+  <BioferriteIgnition.generalRules.rulesStrings>
+    <li>subject->バイオフェライト燃焼</li>
+    <li>subject->バイオフェライト兵器</li>
+    <li>subject_story->アルコテックの小惑星の採掘施設で働いていました</li>
+    <li>subject_story->奇妙な素材の燃焼点を研究してきました</li>
+    <li>subject_story->ミルワード兵器製造企業の研究部門に参加していました</li>
+    <li>subject_story->アルコテックの砂漠でバイオマインを除去していました</li>
+    <li>subject_gerund->バイオフェライトをベースにした武器を製造する</li>
+  </BioferriteIgnition.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite shaping -->
+  <BioferriteShaping.label>バイオフェライト成形</BioferriteShaping.label>
+  <!-- EN: Shape and re-form bioferrite into useful tools, weapons, flooring, and more. -->
+  <BioferriteShaping.description>バイオフェライトを再成形し,便利な道具,武器,床張などを作ります</BioferriteShaping.description>
+  <!-- EN:
+    <li>subject->bioferrite shaping</li>
+    <li>subject_story->learned unique techniques for molding and sculpting</li>
+    <li>subject_story->trained in heat-shaping</li>
+    <li>subject_story->worked in an exotic materials foundry</li>
+    <li>subject_story->aided an archotech materials scientist </li>
+    <li>subject_story->studied the formation of archotech artefacts</li>
+    <li>subject_gerund->shaping bioferrite</li>
+  -->
+  <BioferriteShaping.generalRules.rulesStrings>
+    <li>subject->バイオフェライト成形</li>
+    <li>subject_story->成形と彫刻の独自の技術を学びました</li>
+    <li>subject_story->熱成形の訓練を受けました</li>
+    <li>subject_story->異種素材工場で勤務していました</li>
+    <li>subject_story->アルコテックの材料科学者を支援しました </li>
+    <li>subject_story->アルコテックの遺物成形について研究しました</li>
+    <li>subject_gerund->バイオフェライトを成形する</li>
+  </BioferriteShaping.generalRules.rulesStrings>
+  
+  <!-- EN: bliss lobotomy -->
+  <BlissLobotomy.label>至福のロボトミー</BlissLobotomy.label>
+  <!-- EN: Perform a surgery that lobotomizes a person, making them happier while rendering them incapable of intellectual and skilled labor. -->
+  <BlissLobotomy.description>ロボトミー手術を行い,知的労働や技術を必要とする作業が行えなくなる代わりに,幸福度を高めます.</BlissLobotomy.description>
+  <!-- EN:
+    <li>subject->lobotomy</li>
+    <li>subject_story->was eventually lobotomized for thought-crimes against the state</li>
+    <li>subject_story->rehabilitated the few survivors of the Eldof experiment</li>
+    <li>subject_story->took an apprenticeship as a brain surgeon and barber</li>
+    <li>subject_gerund->performing lobotomies</li>
+    <li>subject_gerund->excising brain tissue</li>
+  -->
+  <BlissLobotomy.generalRules.rulesStrings>
+    <li>subject->ロボトミー</li>
+    <li>subject_story->国家に対する思想犯としてロボトミー手術を受けました</li>
+    <li>subject_story->エルドフ実験の数少ない生き残りのリハビリを行いました</li>
+    <li>subject_story->脳外科医と理容師の見習いをしていました</li>
+    <li>subject_gerund->ロボトミー手術を行う</li>
+    <li>subject_gerund->脳組織を除去する</li>
+  </BlissLobotomy.generalRules.rulesStrings>
+  
+  <!-- EN: blood rain -->
+  <BloodRain.label>血の雨</BloodRain.label>
+  <!-- EN: Perform a psychic ritual which causes blood-like psychofluid to fall from the sky. Anyone caught outside will soon be driven into a berserk rage. -->
+  <BloodRain.description>サイキック儀式を行い,空から血のような精神流体を降り注がせます.屋外にいる者は誰もがやがて凶暴化します.</BloodRain.description>
+  <!-- EN:
+    <li>subject->blood rain</li>
+    <li>subject_story->investigated ancient deist myths about organic precipitation</li>
+    <li>subject_story->studied the neural pathways of anger sufferers</li>
+    <li>subject_story->sampled psychofluid flows on the transcendent world of Ix</li>
+    <li>subject_story->was exposed to a psychofluid shower and filled with unmanageable rage</li>
+    <li>subject_gerund->causing it to rain blood</li>
+  -->
+  <BloodRain.generalRules.rulesStrings>
+    <li>subject->血の雨</li>
+    <li>subject_story->有機的な降水に関する古代の神話を調べていました</li>
+    <li>subject_story->怒りを覚える人の神経経路を研究してきました</li>
+    <li>subject_story->イクスの超越的世界を流れる精神流体のサンプルを採取しました</li>
+    <li>subject_story->精神流体のシャワーを浴びて,抑えようのない怒りに満ちていました</li>
+    <li>subject_gerund->血の雨を発生させる</li>
+  </BloodRain.generalRules.rulesStrings>
+  
+  <!-- EN: brainwipe -->
+  <Brainwipe.label>記憶消去</Brainwipe.label>
+  <!-- EN: Perform a psychic ritual which erases much of a person's episodic memories. Traumatic events will be forgotten. Resistant prisoners will become easier to recruit. Allows recruiting unwaveringly loyal prisoners. -->
+  <Brainwipe.description>サイキック儀式を行い,個人のエピソード記憶の大部分を消去します.トラウマとなる出来事は忘れ去られ,抵抗の強い囚人を勧誘しやすくなります.</Brainwipe.description>
+  <!-- EN:
+    <li>subject->mind erasure</li>
+    <li>subject_story->studied stories of episodice amnesia</li>
+    <li>subject_story->worked in a clinic with brain lesion survivors</li>
+    <li>subject_story->researched the neural pathways of amnesiacs</li>
+    <li>subject_story->managed a brainwashing facility after the Forgotten Wars</li>
+    <li>subject_gerund->wiping a subject's mind</li>
+    <li>subject_gerund->performing a ritual to erase a subject's mind</li>
+  -->
+  <Brainwipe.generalRules.rulesStrings>
+    <li>subject->精神消去</li>
+    <li>subject_story->エピソード記憶喪失の話を研究していました</li>
+    <li>subject_story->脳の病変から生き延びた人を対象とした診療所で働いていました</li>
+    <li>subject_story->記憶喪失に関する神経経路を研究していました</li>
+    <li>subject_story->忘れ去られし戦争の後,洗脳施設を管理していました</li>
+    <li>subject_gerund->被験者の精神を消去中です</li>
+    <li>subject_gerund->被験者の精神消去のための儀式を行う</li>
+  </Brainwipe.generalRules.rulesStrings>
+  
+  <!-- EN: chronophagy -->
+  <Chronophagy.label>クロノファジー</Chronophagy.label>
+  <!-- EN: Perform a psychic ritual that causes a target to age rapidly. The ritual invoker will become younger in the process. The target will suffer brain damage as a result, which may be lethal for elderly targets. -->
+  <Chronophagy.description>ターゲットを急速に老化させるサイキック儀式を行います.この儀式の実行者は,このプロセス中に若返ります.ターゲットはその結果として脳にダメージを負い,高齢の場合は致命傷となり得る場合があります.</Chronophagy.description>
+  <!-- EN:
+    <li>subject->chronophagy</li>
+    <li>subject_story->studied age-related degeneration</li>
+    <li>subject_story->destructively replicated healthy structures from one organism to another</li>
+    <li>subject_story->theorized about the various rituals that imbued archotech can enable</li>
+    <li>subject_story->observed wealthy longevity treatments in glitterworld clinics</li>
+    <li>subject_gerund->stealing youth</li>
+    <li>subject_gerund->invoking chronophagy</li>
+    <li>subject_gerund->performing a chronophagy ritual</li>
+  -->
+  <Chronophagy.generalRules.rulesStrings>
+    <li>subject->クロノファジー</li>
+    <li>subject_story->加齢に伴う変性を研究していました</li>
+    <li>subject_story->ある生命体から他の生命体へ,健康的な構造を破壊的に複製してきました</li>
+    <li>subject_story->アルコテックに込められた様々な儀式について,理論化してきました</li>
+    <li>subject_story->きらびやかな診療所で,富裕層の長寿治療を見学していました</li>
+    <li>subject_gerund->若さを奪っています</li>
+    <li>subject_gerund->クロノファジーを実行する</li>
+    <li>subject_gerund->クロノファジーの儀式を行う</li>
+  </Chronophagy.generalRules.rulesStrings>
+  
+  <!-- EN: deadlife dust -->
+  <DeadlifeDust.label>死の塵</DeadlifeDust.label>
+  <!-- EN: Craft devices that produce clouds of microscopic archites. The archites can reanimate corpses to produce deadly shamblers that will only attack your enemies. -->
+  <DeadlifeDust.description>微細なアルカイトの雲を作り出す装置を作ります.アルカイトは死体を蘇生させ,敵だけを攻撃する恐るべきシャンブラーを生み出すことができます.</DeadlifeDust.description>
+  <!-- EN:
+    <li>subject->deadlife dust</li>
+    <li>subject_story->synthesized an aerosol-dispersal system for nanobots</li>
+    <li>subject_story->used atomic centrifuges to separate out different grades of archite</li>
+    <li>subject_story->watched a deadly shambler assault on an Urbworld vidclip</li>
+    <li>subject_story->developed an archite control device with autotuned IFF systems</li>
+    <li>subject_gerund->crafting deadlife dust</li>
+    <li>subject_gerund->distributing archites to create shamblers</li>
+  -->
+  <DeadlifeDust.generalRules.rulesStrings>
+    <li>subject->死の塵</li>
+    <li>subject_story->ナノボット用エアロゾル拡散システムを合成しました</li>
+    <li>subject_story->原子遠心分離機を使用して,異なるグレードのアーキサイトを分離しました</li>
+    <li>subject_story->アーブワールドの映像で恐るべきシャンブラーの襲撃を目撃しました</li>
+    <li>subject_story->自動調整IFFシステムを備えたアルカイト制御装置を開発しました</li>
+    <li>subject_gerund->死の塵を作る</li>
+    <li>subject_gerund->アルカイトを散布してシャンブラーを作る</li>
+  </DeadlifeDust.generalRules.rulesStrings>
+  
+  <!-- EN: death refusal -->
+  <DeathRefusal.label>死を拒む者</DeathRefusal.label>
+  <!-- EN: Perform a psychic ritual which grants death refusal to an individual, allowing them to self-resurrect once after dying. -->
+  <DeathRefusal.description>個人に死を拒む者を与えるサイキック儀式を行い,一度だけ死亡後に自己蘇生を可能とします.</DeathRefusal.description>
+  <!-- EN:
+    <li>subject->death refusal invocation</li>
+    <li>subject_story->investigated tales of impossible survival</li>
+    <li>subject_story->observed the last moments of the many casualties of Last Battle VII</li>
+    <li>subject_story->participated in the attempted resurrection of the ur-prophet of Axhor</li>
+    <li>subject_story->gathered evidence of death refusal in the libraries of a coreworld</li>
+    <li>subject_gerund->fending off death</li>
+    <li>subject_gerund->performing a ritual to rebuke death</li>
+  -->
+  <DeathRefusal.generalRules.rulesStrings>
+    <li>subject->死を拒む者の祈り</li>
+    <li>subject_story->あり得ざる生還の物語を調査しました</li>
+    <li>subject_story->ラストバトル VIIの数多の犠牲者の最後の瞬間を見守りました</li>
+    <li>subject_story->アクスホールの原初の預言者の復活の試みに参加しました</li>
+    <li>subject_story->コアワールドの図書館で死を拒む者の証拠を集めました</li>
+    <li>subject_gerund->死を防ぐ</li>
+    <li>subject_gerund->死を戒めるための儀式を行う</li>
+  </DeathRefusal.generalRules.rulesStrings>
+  
+  <!-- EN: disruptor flares -->
+  <DisruptorFlares.label>妨害フレア</DisruptorFlares.label>
+  <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
+  <DisruptorFlares.description>見えない生物を明らかにし,エリアを照らすバイオフェライトをベースにしたフレアパックを作ります.</DisruptorFlares.description>
+  <!-- EN:
+    <li>subject->bioferrite flares</li>
+    <li>subject->short-term lighting</li>
+    <li>subject_story->studied the non-visual electromagnetic spectrum</li>
+    <li>subject_story->disabled the visual centres of test subjects</li>
+    <li>subject_story->studied the bioluminescence techniques of nightworld fauna</li>
+    <li>subject_story->narrowed the electromagnetic spectrum of archite energy releases</li>
+    <li>subject_gerund->boosting visibility temporarily</li>
+    <li>subject_gerund->crafting bioferrite flares</li>
+  -->
+  <DisruptorFlares.generalRules.rulesStrings>
+    <li>subject->バイオフェライトフレア</li>
+    <li>subject->短時間の照明</li>
+    <li>subject_story->非視覚的電磁スペクトルを研究しました</li>
+    <li>subject_story->被験者の視覚中枢を無効化しました</li>
+    <li>subject_story->夜の惑星の動物たちの生物発光技術を研究しました</li>
+    <li>subject_story->アルカイトノエネルギー放出の電磁スペクトルを収束させて調査しました</li>
+    <li>subject_gerund->一時的に視覚を強化する</li>
+    <li>subject_gerund->バイオフェライトフレアを作る</li>
+  </DisruptorFlares.generalRules.rulesStrings>
+  
+  <!-- EN: electroharvester -->
+  <Electroharvester.label>エレクトロハーベスター</Electroharvester.label>
+  <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
+  <Electroharvester.description>収容された「存在」あら電気を作り出す発電機を作ります.このプロセスは「存在」の攻撃性を高め,収容しにくくします.</Electroharvester.description>
+  <!-- EN:
+    <li>subject->entity-derived power generation</li>
+    <li>subject_story->researched ion pumps in cell membranes</li>
+    <li>subject_story->studied the life of the rare Terran electric eel</li>
+    <li>subject_story->provoked archites and studied their thermal output</li>
+    <li>subject_story->theorized about the energy potential of archotech</li>
+    <li>subject_gerund->harvesting from entities</li>
+    <li>subject_gerund->constructing electroharvesters</li>
+  -->
+  <Electroharvester.generalRules.rulesStrings>
+    <li>subject->「存在」発電</li>
+    <li>subject_story->細胞膜内のイオンポンプを研究しました</li>
+    <li>subject_story->希少なテランのデンキウナギの生態を研究しました</li>
+    <li>subject_story->アルカイトを励起させ,その熱出力を調査しました</li>
+    <li>subject_story->アルコテックのエネルギーポテンシャルについて理論化しました</li>
+    <li>subject_gerund->「存在」から収穫する</li>
+    <li>subject_gerund->エレクトロハーベスターを建築する</li>
+  </Electroharvester.generalRules.rulesStrings>
+  
+  <!-- EN: entity containment -->
+  <EntityContainment.label>「存在」の収容</EntityContainment.label>
+  <!-- EN: Build holding platforms and inhibitors to better contain entities. -->
+  <EntityContainment.description>収容プラットフォームとインヒビターを建てて,「存在」を収容しやすくします</EntityContainment.description>
+  <!-- EN:
+    <li>subject->entity containment</li>
+    <li>subject_story->worked in a prisonworld research facility</li>
+    <li>subject_story->was held captive on a prisonworld</li>
+    <li>subject_story->worked with a guerilla movement to breach holding facilities</li>
+    <li>subject_story->constructed meatpacking plants in the dinoworld chains</li>
+    <li>subject_gerund->containing entities</li>
+    <li>subject_gerund->construction entity containment facilities</li>
+  -->
+  <EntityContainment.generalRules.rulesStrings>
+    <li>subject->「存在」の収容</li>
+    <li>subject_story->プリズンワールドの研究施設で働いていました</li>
+    <li>subject_story->プリズンワールドで囚われていました</li>
+    <li>subject_story->ゲリラ活動に参加し,収容施設を破壊していました</li>
+    <li>subject_story->ダイノワールドチェーンで食肉加工工場を建築しました</li>
+    <li>subject_gerund->「存在」を収容する</li>
+    <li>subject_gerund->「存在」収容施設を建築する</li>
+  </EntityContainment.generalRules.rulesStrings>
+  
+  <!-- EN: frenzy inducer -->
+  <FrenzyInducer.label>熱狂誘発装置</FrenzyInducer.label>
+  <!-- EN: Build shard-powered structures that generate a frenetic psychic field to make anyone nearby move and work faster. However, the unstable emotional energy creates a tendency towards violence, irritating anyone nearby. -->
+  <FrenzyInducer.description>熱狂を引き起こすサイキックフィールドを発生させる破片を動力とする構造物を建設し,近くにいる人の移動や作業を速くします.ただし,不安定な感情エネルギーが凶暴化を誘発し,近くにいる者を苛立たせます.</FrenzyInducer.description>
+  <!-- EN:
+    <li>subject->archotech frenzy inducers</li>
+    <li>subject_story->worked as a motivational therapist</li>
+    <li>subject_story->beat the drums on a feralworld galley</li>
+    <li>subject_story->researched the effects of varied archofields on human consciousness</li>
+    <li>subject_story->managed a trance station in an urbworld underclub</li>
+    <li>subject_gerund->inducing frenzy</li>
+    <li>subject_gerund->constructing frenzy inducers from archotech</li>
+  -->
+  <FrenzyInducer.generalRules.rulesStrings>
+    <li>subject->アルコテック熱狂誘発装置</li>
+    <li>subject_story->モチベーションセラピストとして働いていました</li>
+    <li>subject_story->フェラルワールドのガレー船で太鼓を叩いていました</li>
+    <li>subject_story->様々なアルコフィールドが人間の意識へ与える影響を研究していました</li>
+    <li>subject_story->アーブワールドの地下クラブでトランスステーションを経営していました</li>
+    <li>subject_gerund->熱狂を誘発する</li>
+    <li>subject_gerund->アルコテックの熱狂誘発装置を建築する</li>
+  </FrenzyInducer.generalRules.rulesStrings>
+  
+  <!-- EN: ghoul enhancements -->
+  <GhoulEnhancements.label>グールの強化</GhoulEnhancements.label>
+  <!-- EN: Craft bioferrite prosthetics to make ghouls stronger. -->
+  <GhoulEnhancements.description>バイオフェライト人工装具を作ることでグールを強化します.</GhoulEnhancements.description>
+  <!-- EN:
+    <li>subject->ghoul enhancements</li>
+    <li>subject_story->experimented with the dead and the twice-dead</li>
+    <li>subject_story->implanted increasingly strange items into ghouls</li>
+    <li>subject_story->researched more complex ghoul prosthesis</li>
+    <li>subject_gerund->enhancing a ghoul with bioferrite prosthetics</li>
+  -->
+  <GhoulEnhancements.generalRules.rulesStrings>
+    <li>subject->グールの強化</li>
+    <li>subject_story->死者と2度死んだ者とで実験を行いました</li>
+    <li>subject_story->グールにさらに奇妙な道具を埋め込みました</li>
+    <li>subject_story->より複雑なグール用人工装具を研究していました</li>
+    <li>subject_gerund->バイオフェライト人工装具でグールを強化する</li>
+  </GhoulEnhancements.generalRules.rulesStrings>
+  
+  <!-- EN: ghoul infusion -->
+  <GhoulInfusion.label>グール注入</GhoulInfusion.label>
+  <!-- EN: Perform a surgery that infuses a living person with an archotech shard, transforming them into a terrifying ghoul. Ghouls are strong melee combatants but are incapable of doing work. Ghouls will go mad if they are not fed enough raw meat. -->
+  <GhoulInfusion.description>生きている人間にアルコテックの破片を注入する手術を行い,恐ろしいグールに変身させます.グールは強力な近接戦闘能力を持ちますが,作業が行えません.十分な生肉を与えられなければ発狂するでしょう.</GhoulInfusion.description>
+  <!-- EN:
+    <li>subject->ghoul creation</li>
+    <li>subject_story->supplied condemned prisonworld inhabitants for urbworld conflicts</li>
+    <li>subject_story->militarized archite injections as part of an experimental program</li>
+    <li>subject_story->studied feral deadlife in the ruins of a deadworld</li>
+    <li>subject_gerund->infusing an archotech shard into a living person</li>
+    <li>subject_gerund->creating a ghoul</li>
+  -->
+  <GhoulInfusion.generalRules.rulesStrings>
+    <li>subject->グール作成</li>
+    <li>subject_story->アーブワールドの紛争のために,プリズンワールドの死刑囚を供給しました</li>
+    <li>subject_story->実験的プログラムの一環としてのアルカイト注射を軍用化しました</li>
+    <li>subject_story->デッドワールドの廃墟で,野生のデッドライフを研究しました</li>
+    <li>subject_gerund->アルコテックの破片を生きている人間に注入する</li>
+    <li>subject_gerund->グールを作る</li>
+  </GhoulInfusion.generalRules.rulesStrings>
+  
+  <!-- EN: ghoul resurrection -->
+  <GhoulResurrection.label>グール蘇生</GhoulResurrection.label>
+  <!-- EN: Synthesize a serum that can bring dead ghouls back to life. -->
+  <GhoulResurrection.description>死んだグールを蘇らせることのできるシーラムを合成します.</GhoulResurrection.description>
+  <!-- EN:
+    <li>subject->ghoul resurrection</li>
+    <li>subject_story->developed a new method of resurrecting ghouls</li>
+    <li>subject_story->injected a variety of archotech compounds into corpses</li>
+    <li>subject_story->researched the effects of higher archotech concentrations on ghouls</li>
+    <li>subject_story->witnessed the repeated resurrection of a ghoul</li>
+    <li>subject_gerund->resurrecting a ghoul</li>
+    <li>subject_gerund->synthesizing a serum to resurrect ghouls</li>
+  -->
+  <GhoulResurrection.generalRules.rulesStrings>
+    <li>subject->グール蘇生</li>
+    <li>subject_story->グールを蘇生する新たな方法を開発しました</li>
+    <li>subject_story->様々なアルコテック化合物を遺体に注入しました</li>
+    <li>subject_story->高濃度のアルコテックがグールへ与える影響を研究していました</li>
+    <li>subject_story->グールの蘇生を何度も目撃しました</li>
+    <li>subject_gerund->グールを蘇生する</li>
+    <li>subject_gerund->グールを蘇生させるシーラムを合成する</li>
+  </GhoulResurrection.generalRules.rulesStrings>
+  
+  <!-- EN: insanity weaponry -->
+  <InsanityWeaponry.label>狂気の武器</InsanityWeaponry.label>
+  <!-- EN: Restructure archotech shards into limited-use weapons that shock, manipulate, and destroy enemies using archotechnology. -->
+  <InsanityWeaponry.description>アルコテックの破片を,アルコテクノロジーを使って敵にショックを与え,操り,破壊する使い切りの武器に再構築します.</InsanityWeaponry.description>
+  <!-- EN:
+    <li>subject->archotech insanity weaponry</li>
+    <li>subject_story->explored psychological warfare for their dissertation</li>
+    <li>subject_story->watched an Imperial battalion rout and learned the value of fear</li>
+    <li>subject_story->worked in an asylum of archotech victims</li>
+    <li>subject_story->vivisected archite-infested wildlife to understand the effects on the mammalian brain</li>
+    <li>subject_gerund->restructuring archotech into insanity-inducing weaponry</li>
+  -->
+  <InsanityWeaponry.generalRules.rulesStrings>
+    <li>subject->アルコテックの狂気の武器</li>
+    <li>subject_story->論文のためにサイキック戦争を探求していました</li>
+    <li>subject_story->帝国の大隊の敗北を見て,恐怖の価値を学びました</li>
+    <li>subject_story->アルコテック被害者の精神病院で働いていました</li>
+    <li>subject_story->哺乳類の脳への影響を理解するため,アルカイトに感染した野生動物を生体解剖しました</li>
+    <li>subject_gerund->アルコテックを狂気を誘発する武器へ再構築する</li>
+  </InsanityWeaponry.generalRules.rulesStrings>
+  
+  <!-- EN: juggernaut serum -->
+  <JuggernautSerum.label>ジャガーノートシーラム</JuggernautSerum.label>
+  <!-- EN: Synthesize a serum which temporarily increases the user's strength and speed, and allows them to recover from injuries faster. However, it reduces their mood. -->
+  <JuggernautSerum.description>使用者の力とスピードを一時的に増加させ,負傷の治癒も早めるシーラムを合成します.ただし,心情は低下します.</JuggernautSerum.description>
+  <!-- EN:
+    <li>subject->juggernaut serum</li>
+    <li>subject_story->was banned from the coreworld leagues after he was caught doping a team with Juggernaut Serum</li>
+    <li>subject_story->gave soldiers Juggernaut Serum when their ammo ran out</li>
+    <li>subject_story->researched serum use among indentured building sectors</li>
+    <li>subject_story->fell into a barrel of juggernaut serum</li>
+    <li>subject_gerund->synthesizing juggernaut serums</li>
+  -->
+  <JuggernautSerum.generalRules.rulesStrings>
+    <li>subject->ジャガーノートシーラム</li>
+    <li>subject_story->ジャガーノートシーラムによるドーピングが発覚したことによって,コアワールドリーグから追放されました</li>
+    <li>subject_story->弾薬が尽きた兵士にジャガーノートシーラムを与えていました</li>
+    <li>subject_story->契約した建築群においてシーラムの使用を調査していました</li>
+    <li>subject_story->ジャガーノートシーラムの樽にはまりこみました</li>
+    <li>subject_gerund->ジャガーノートシーラムを合成する</li>
+  </JuggernautSerum.generalRules.rulesStrings>
+  
+  <!-- EN: metalblood serum -->
+  <MetalbloodSerum.label>メタルブラッドシーラム</MetalbloodSerum.label>
+  <!-- EN: Synthesize metalblood serums that make the user more resistant to damage. -->
+  <MetalbloodSerum.description>使用者のダメージ耐性を高めるメタルブラッドシーラムを合成します.</MetalbloodSerum.description>
+  <!-- EN:
+    <li>subject->metalblood serums</li>
+    <li>subject_story->researched reactive liquids for use in milworld armor</li>
+    <li>subject_story->was an early pioneer of blood-replacement technologies</li>
+    <li>subject_story->discovered a metalblood dispenser on a desolate deadworld</li>
+    <li>subject_story->deployed flamethrowers against a metalblood-using militia</li>
+    <li>subject_gerund->synthesizing metalblood serums</li>
+  -->
+  <MetalbloodSerum.generalRules.rulesStrings>
+    <li>subject->メタルブラッドシーラム</li>
+    <li>subject_story->ミルワールドの鎧に使用される反応液体を研究していました</li>
+    <li>subject_story->血液代替技術の先駆者でした</li>
+    <li>subject_story->荒れ果てたデッドワールドでメタルブラッド散布機を発見しました</li>
+    <li>subject_story->メタルブラッドを使用した民兵に対して火炎放射器を配備しました</li>
+    <li>subject_gerund->メタルブラッドシーラムを合成する</li>
+  </MetalbloodSerum.generalRules.rulesStrings>
+  
+  <!-- EN: mind-numb serum -->
+  <MindNumbSerum.label>精神鎮静シーラム</MindNumbSerum.label>
+  <!-- EN: Synthesize a serum that stabilizes a person's mood, preventing mental breaks. -->
+  <MindNumbSerum.description>心情を安定させ,精神崩壊を防ぐシーラムを合成します.</MindNumbSerum.description>
+  <!-- EN:
+    <li>subject->mind-numb serum</li>
+    <li>subject_story->sabotaged an emotional performance by secretly numbing the lead singer</li>
+    <li>subject_story->filtered low-dose mind-numb serum into an asylum water supply</li>
+    <li>subject_story->distributed mind-numb serum to junior soldiers before and after battle</li>
+    <li>subject_story->investigated the use of archotech to numb pain</li>
+    <li>subject_gerund->synthesizing mind-numb serums</li>
+  -->
+  <MindNumbSerum.generalRules.rulesStrings>
+    <li>subject->精神鎮静シーラム</li>
+    <li>subject_story->リードボーカルを密かに鎮静させることで,感情的なパフォーマンスを妨害しました</li>
+    <li>subject_story->ろ過された低用量精神鎮静シーラムを精神病院の水道水に混ぜました</li>
+    <li>subject_story->戦闘の前後に,下級兵士へ精神鎮静シーラムを配布しました</li>
+    <li>subject_story->痛みを抑えるアルコテックの使用を調査していました</li>
+    <li>subject_gerund->精神鎮静シーラムを合成する</li>
+  </MindNumbSerum.generalRules.rulesStrings>
+  
+  <!-- EN: mutation weaponry -->
+  <MutationWeaponry.label>変異の武器</MutationWeaponry.label>
+  <!-- EN: Restructure archotech shards into limited-use weapons that twist living targets into terrifying creatures. -->
+  <MutationWeaponry.description>アルコテックの破片を,生きているターゲットを歪め,恐るべき生物へと変異させる使い切りの武器に再構築します.</MutationWeaponry.description>
+  <!-- EN:
+    <li>subject->mutation induction</li>
+    <li>subject->archotech mutation weaponry</li>
+    <li>subject_story->dreamed of new life, infused with archites</li>
+    <li>subject_story->witnessed archotech warping plant life</li>
+    <li>subject_story->experimented with new weapons</li>
+    <li>subject_story->studied new life on transcendent worlds</li>
+    <li>subject_story->grew archite-based life in the laboratory</li>
+    <li>subject_gerund->inducing mutations</li>
+    <li>subject_gerund->restructuring archotech into mutation-inducing weaponry</li>
+  -->
+  <MutationWeaponry.generalRules.rulesStrings>
+    <li>subject->変異の誘発</li>
+    <li>subject->アルコテックの変異武器</li>
+    <li>subject_story->アルカイトによって吹き込まれた,新たな生命の夢を見ていました</li>
+    <li>subject_story->アルコテックによって植物の生命が歪むさまを目撃しました</li>
+    <li>subject_story->新たな武器で実験を行いました</li>
+    <li>subject_story->超越的世界で新たな生命を研究していました</li>
+    <li>subject_story->研究室でアルカイトをベースにした生命を育てていました</li>
+    <li>subject_gerund->変異を誘発する</li>
+    <li>subject_gerund->アルコテックを変異誘発武器へ再構築する</li>
+  </MutationWeaponry.generalRules.rulesStrings>
+  
+  <!-- EN: neurosis pulse -->
+  <NeurosisPulse.label>精神パルス</NeurosisPulse.label>
+  <!-- EN: Perform a psychic ritual that makes everyone in the region work faster but become more irritable. -->
+  <NeurosisPulse.description>地域の全員の作業が早くなるものの,苛立ちやすくなるサイキック儀式を行います.</NeurosisPulse.description>
+  <!-- EN:
+    <li>subject->neurosis pulse</li>
+    <li>subject->work imperative</li>
+    <li>subject_story->joined a workers' cult on an urbworld</li>
+    <li>subject_story->felt the psychic pressure of a ritual during work</li>
+    <li>subject_story->studied the neural-pathways of the neurotic</li>
+    <li>subject_story->investigated the crossover between management tropes and cult rituals</li>
+    <li>subject_gerund->inducing neuroses psychically</li>
+    <li>subject_gerund->performing a ritual to raise worker productivity</li>
+  -->
+  <NeurosisPulse.generalRules.rulesStrings>
+    <li>subject->精神パルス</li>
+    <li>subject->作業命令</li>
+    <li>subject_story->アーブワールドで労働者の教団に参加していました</li>
+    <li>subject_story->作業中に儀式のサイキックプレッシャーを感じました</li>
+    <li>subject_story->神経症の神経経路を研究していました</li>
+    <li>subject_story->管理の決まり文句と教団の儀式との共通点を調査していました</li>
+    <li>subject_gerund->神経サイキックを誘発する</li>
+    <li>subject_gerund->労働者の生産性を向上させる儀式を行う</li>
+  </NeurosisPulse.generalRules.rulesStrings>
+  
+  <!-- EN: philophagy -->
+  <Philophagy.label>フィロファジー</Philophagy.label>
+  <!-- EN: Perform a psychic ritual that drains experience from a victim and gives it to the invoker. The process will dull the target's mind, weakening their skills and causing brain damage. -->
+  <Philophagy.description>犠牲者から経験を抽出し,それを実行者に与えるサイキック儀式を行います.このプロセスはターゲットの精神を鈍らせ,スキルを弱体化させ,脳にダメージを与えます.</Philophagy.description>
+  <!-- EN:
+    <li>subject->philophagy</li>
+    <li>subject->skill transfer</li>
+    <li>subject_story->followed a trail of victims left by a philophage</li>
+    <li>subject_story->researched neural replication processes in a glitterworld's labs</li>
+    <li>subject_story->investigated the damaged minds of cult victims</li>
+    <li>subject_story->found their skills weakened after a psychic assault</li>
+    <li>subject_gerund->transferring a subject's learning</li>
+    <li>subject_gerund->performing a ritual to steal a victim's skills</li>
+  -->
+  <Philophagy.generalRules.rulesStrings>
+    <li>subject->フィロファジー</li>
+    <li>subject->スキル移譲</li>
+    <li>subject_story->フィロファージによって残された犠牲者の痕跡を辿ってきました</li>
+    <li>subject_story->グリッターワールドの研究室で,神経の複製プロセスを研究していました</li>
+    <li>subject_story->教団犠牲者の傷ついた精神を調査していました</li>
+    <li>subject_story->サイキック攻撃の後,スキルの弱体化に気が付きました</li>
+    <li>subject_gerund->犠牲者の知識を移譲する</li>
+    <li>subject_gerund->犠牲者のスキルを奪う儀式を行う</li>
+  </Philophagy.generalRules.rulesStrings>
+  
+  <!-- EN: pleasure pulse -->
+  <PleasurePulse.label>喜びのパルス</PleasurePulse.label>
+  <!-- EN: Perform a psychic ritual that makes everyone in the region happier but reduces their desire to work. -->
+  <PleasurePulse.description>地域の全員が幸せになるものの,労働欲求が減少するサイキック儀式を行います.</PleasurePulse.description>
+  <!-- EN:
+    <li>subject->pleasure invocation</li>
+    <li>subject_story->read an ancient Earth story that boasted of a miracle food called soma</li>
+    <li>subject_story->researched the myth of the Lotus Eaters</li>
+    <li>subject_story->worked with social philosophers to create a utilitarian ritual</li>
+    <li>subject_story->joined a rare archotech cult dedicated to leisure and pleasure</li>
+    <li>subject_gerund->inducing pleasure psychically</li>
+    <li>subject_gerund->performing a psychic ritual to induce pleasure</li>
+  -->
+  <PleasurePulse.generalRules.rulesStrings>
+    <li>subject->喜びの喚起</li>
+    <li>subject_story->ソーマと呼ばれる奇跡の食べ物を誇らしげに語る地球の古い物語を読みました</li>
+    <li>subject_story->ロトパゴスの神話を研究していました</li>
+    <li>subject_story->社会哲学者とともに働き,功利儀式を作り上げました</li>
+    <li>subject_story->娯楽と喜びを追求する希少なアルコテックの教団に参加していました</li>
+    <li>subject_gerund->喜びのサイキックを誘発する</li>
+    <li>subject_gerund->喜びを誘発するサイキック儀式を行う</li>
+  </PleasurePulse.generalRules.rulesStrings>
+  
+  <!-- EN: proximity detector -->
+  <ProximityDetector.label>近接式検知器</ProximityDetector.label>
+  <!-- EN: Build a device that can detect invisible creatures. -->
+  <ProximityDetector.description>目に見えない生物が検出することのできる装置を作ります.</ProximityDetector.description>
+  <!-- EN:
+    <li>subject->proximity detectors</li>
+    <li>subject->motion sensors</li>
+    <li>subject_story->watched ancient entertainment reels and was inspired</li>
+    <li>subject_story->prototyped simple psi-hardened devices</li>
+    <li>subject_story->maintained the early warning systems of a deathworld outpost</li>
+    <li>subject_story->studied multiband scanners for cross-system pattern detection</li>
+    <li>subject_gerund->revealing the unseen</li>
+    <li>subject_gerund->detecting invisible creatures</li>
+  -->
+  <ProximityDetector.generalRules.rulesStrings>
+    <li>subject->近接式検知器</li>
+    <li>subject->モーションセンサー</li>
+    <li>subject_story->古代の娯楽リールを見てインスピレーションを得ました</li>
+    <li>subject_story->シンプルなサイキック硬化装置を試作しました</li>
+    <li>subject_story->デスワールドの前哨基地の早期警戒システムを維持しました</li>
+    <li>subject_story->クロスシステムパターン検出のためにマルチバンドスキャナーを研究していました</li>
+    <li>subject_gerund->目に見えないものを明らかにする</li>
+    <li>subject_gerund->不可視の生物を検出する</li>
+  </ProximityDetector.generalRules.rulesStrings>
+  
+  <!-- EN: psychophagy -->
+  <Psychophagy.label>サイコファジー</Psychophagy.label>
+  <!-- EN: Perform a psychic ritual which deadens a target's psychic sensitivity and temporarily boosts the ritual invoker's psychic sensitivity. The target will suffer brain damage as a side-effect. -->
+  <Psychophagy.description>ターゲットの精神感受性を低下させ,儀式実行者の精神感受性を一時的に高めるサイキック儀式を行います.ターゲットは副作用として脳にダメージを負います.</Psychophagy.description>
+  <!-- EN:
+    <li>subject->psychophagy</li>
+    <li>subject_story->studied managed desensitization to psychic effects</li>
+    <li>subject_story->managed archite transfer from deceased subjects</li>
+    <li>subject_story->collated rumours of psychic transference rituals</li>
+    <li>subject_story->witnessed a Horax cult sap the power of an Imperial noble</li>
+    <li>subject_gerund->stealing psychic abilities</li>
+    <li>subject_gerund->performing a psychophagy ritual</li>
+  -->
+  <Psychophagy.generalRules.rulesStrings>
+    <li>subject->サイコファジー</li>
+    <li>subject_story->サイキック効果への脱感作の管理を研究していました</li>
+    <li>subject_story->死亡した被検体からのアルカイトの移譲を管理していました</li>
+    <li>subject_story->サイキック転移儀式の噂を収集していました</li>
+    <li>subject_story->ホラックス教団が帝国貴族の力を奪うのを目撃しました</li>
+    <li>subject_gerund->サイキック能力を奪う</li>
+    <li>subject_gerund->サイコファジー儀式を行う</li>
+  </Psychophagy.generalRules.rulesStrings>
+  
+  <!-- EN: revenant invisibility -->
+  <RevenantInvisibility.label>レヴナントの不可視性</RevenantInvisibility.label>
+  <!-- EN: Modify a revenant spine so that it can be implanted in a human, allowing them to become temporarily invisible. -->
+  <RevenantInvisibility.description>レヴナントの脊椎を改造して人間に移植し,一時的に不可視になれるようにします.</RevenantInvisibility.description>
+  <!-- EN:
+    <li>subject->invisibility</li>
+    <li>subject_story->implanted a monster's spine into a human, without considering the consequences</li>
+    <li>subject_story->wrote a novel about the vanishing morality of an invisible person</li>
+    <li>subject_story->discovered a strange metallic spine in a deadstar system</li>
+    <li>subject_story->dreamed of an army of invisible warriors</li>
+    <li>subject_gerund->adapting a revenant spine</li>
+    <li>subject_gerund->implanting a revenant spine into a human</li>
+  -->
+  <RevenantInvisibility.generalRules.rulesStrings>
+    <li>subject->不可視</li>
+    <li>subject_story->結果を考慮することなく,怪物の脊椎を人間に移植しました</li>
+    <li>subject_story->不可視の人間の消えゆく道徳観に関する小説を執筆しました</li>
+    <li>subject_story->デッドスター星系で奇妙な金属質の脊椎を発見しました</li>
+    <li>subject_story->不可視の軍勢を夢見ていました</li>
+    <li>subject_gerund->レヴナントの脊椎を適合させる</li>
+    <li>subject_gerund->人間にレヴナントの脊椎を移植する</li>
+  </RevenantInvisibility.generalRules.rulesStrings>
+  
+  <!-- EN: serum synthesis -->
+  <SerumSynthesis.label>シーラム合成</SerumSynthesis.label>
+  <!-- EN: Build a serum lab to synthesize high-tech serums. Serums harness archotechnological power to bestow a temporary effect on the user. -->
+  <SerumSynthesis.description>ハイテクなシーラムを合成するシーラムラボを建築します.シーラムはアルコテクノロジーの力を利用して使用者に一時的な効果を発揮します.</SerumSynthesis.description>
+  <!-- EN:
+    <li>subject->serum synthesis</li>
+    <li>subject_story->was injected with archites to understand their effects</li>
+    <li>subject_story->discovered a pool of oily black fluid in a deadworld temple</li>
+    <li>subject_story->survived a dangerous fall thanks to a serum</li>
+    <li>subject_story->managed a serum-testing programme for a coreworld brigade</li>
+    <li>subject_gerund->synthesizing serums</li>
+  -->
+  <SerumSynthesis.generalRules.rulesStrings>
+    <li>subject->シーラム合成</li>
+    <li>subject_story->アルカイトの効果を理解するために注入されました</li>
+    <li>subject_story->デッドワールドの神殿で,油っぽい黒い液体の水たまりを発見しました</li>
+    <li>subject_story->シーラムのおかげで危険な転落から生き延びました</li>
+    <li>subject_story->コアワールドの旅団のシーラム試験プログラムを管理していました</li>
+    <li>subject_gerund->シーラムを合成する</li>
+  </SerumSynthesis.generalRules.rulesStrings>
+  
+  <!-- EN: skip abduction -->
+  <SkipAbductionPlayer.label>スキップアブダクション</SkipAbductionPlayer.label>
+  <!-- EN: Perform a psychic ritual that abducts a random hostile person from anywhere in the world, putting them in a short-term coma for capture. -->
+  <SkipAbductionPlayer.description>ランダムな敵対する人物1人を儀式の場へテレポートさせ,捕獲のために短時間昏睡状態にするサイキック儀式を行います.</SkipAbductionPlayer.description>
+  <!-- EN:
+    <li>subject->psychic abduction</li>
+    <li>subject->skip abduction</li>
+    <li>subject_story->witnessed an abduction attempt on an Imperial noble</li>
+    <li>subject_story->was ransomed by dirtmole scavengers</li>
+    <li>subject_story->observed a failed translocation ritual performed by a cult leader</li>
+    <li>subject_story->researched transpatial transfer mediated by archotech</li>
+    <li>subject_gerund->abducting enemies through psychic ritual</li>
+    <li>subject_gerund->performing a ritual of skip abduction</li>
+  -->
+  <SkipAbductionPlayer.generalRules.rulesStrings>
+    <li>subject->サイキックアブダクション</li>
+    <li>subject->スキップアブダクション</li>
+    <li>subject_story->帝国貴族を誘拐する試みを目撃しました</li>
+    <li>subject_story->ダートモールのスカベンジャーに身代金を要求されました</li>
+    <li>subject_story->カルト教団のリーダーが行った転移儀式の失敗を目撃しました</li>
+    <li>subject_story->アルコテックを媒介にした空間移転を研究していました</li>
+    <li>subject_gerund->サイキック儀式で敵を誘拐する</li>
+    <li>subject_gerund->スキップアブダクションの儀式を行う</li>
+  </SkipAbductionPlayer.generalRules.rulesStrings>
+  
+  <!-- EN: sleep suppressor -->
+  <SleepSuppressor.label>スリープサプレッサー</SleepSuppressor.label>
+  <!-- EN: Build shard-powered structures that stimulate those nearby to prevent fatigue. The device will irritate anyone nearby. -->
+  <SleepSuppressor.description>近くにいる人を刺激し,疲労を防ぐ破片を動力とした構造体を建築します.この装置は近くにいるものを苛立たせます.</SleepSuppressor.description>
+  <!-- EN:
+    <li>subject->sleep suppression</li>
+    <li>subject_story->studied sleep deprivation in factory workers</li>
+    <li>subject_story->researched stimulant use among Imperial troopers</li>
+    <li>subject_story->researched the effects of varied archofields on human consciousness</li>
+    <li>subject_story->worked in a glitterworld eversleep lab, where the wealthy dreamed their lives away</li>
+    <li>subject_story->managed the reveille at a prisonworld work camp</li>
+    <li>subject_gerund->constructing sleep suppressors from archotech</li>
+    <li>subject_gerund->suppressing sleep with archotech</li>
+  -->
+  <SleepSuppressor.generalRules.rulesStrings>
+    <li>subject->睡眠の抑制</li>
+    <li>subject_story->工場労働者の睡眠不足を研究していました</li>
+    <li>subject_story->帝国兵士への薬物使用を研究していました</li>
+    <li>subject_story->様々なアルコフィールドが人間の意識へ与える影響を研究していました</li>
+    <li>subject_story->富裕層が暮らしを夢見る,グリッターワールドのオピソムン研究所で働いていました</li>
+    <li>subject_story->プリズンワールドの労働キャンプで起床を管理していました</li>
+    <li>subject_gerund->アルコテックでスリープサプレッサーを建築する</li>
+    <li>subject_gerund->アルコテックで睡眠を抑制する</li>
+  </SleepSuppressor.generalRules.rulesStrings>
+  
+  <!-- EN: draw animals -->
+  <SummonAnimals.label>動物の誘引</SummonAnimals.label>
+  <!-- EN: Perform a psychic ritual which will draw a herd of animals. -->
+  <SummonAnimals.description>動物の群れを引き寄せるサイキック儀式を行います.</SummonAnimals.description>
+  <!-- EN:
+    <li>subject->stampede invocation</li>
+    <li>subject_story->worked as a shepherd amidst the mountains of a primitive world</li>
+    <li>subject_story->learned to commune with the beasts of the fields</li>
+    <li>subject_story->experimented with the effects of archite on different animal breeds</li>
+    <li>subject_story->watched a nature cult commune with their herds</li>
+    <li>subject_gerund->summoning animal herds</li>
+  -->
+  <SummonAnimals.generalRules.rulesStrings>
+    <li>subject->暴走の喚起</li>
+    <li>subject_story->原始的な世界の山脈で羊飼いとして働いていました</li>
+    <li>subject_story->平原の獣と対話する方法を学びました</li>
+    <li>subject_story->アルカイトが様々な動物種へと与える影響を実験しました</li>
+    <li>subject_story->自然崇拝のカルト教団が群れと交わるのを目撃しました</li>
+    <li>subject_gerund->動物の群れを召喚する</li>
+  </SummonAnimals.generalRules.rulesStrings>
+  
+  <!-- EN: summon fleshbeasts -->
+  <SummonFleshbeastsPlayer.label>フレッシュビーストの召喚</SummonFleshbeastsPlayer.label>
+  <!-- EN: Perform a psychic ritual which provokes fleshbeasts to emerge from the ground near enemies, attacking anyone nearby. -->
+  <SummonFleshbeastsPlayer.description>敵の近くの地面にフレッシュビーストを呼び出し,近くにあるものを攻撃させるサイキック儀式を行います.</SummonFleshbeastsPlayer.description>
+  <!-- EN:
+    <li>subject->fleshbeast summoning</li>
+    <li>subject_story->read ancient tomes about the origins of life</li>
+    <li>subject_story->experienced firsthand spontaneous generation in the boomrats of Sahe</li>
+    <li>subject_story->watched an ancient movie about fleshmelding and was inspired</li>
+    <li>subject_story->studied consciousness transfer and separation in organic merging</li>
+    <li>subject_story->observed a dirtmole community that had encountered horrifying beasts underground</li>
+    <li>subject_gerund->summoning fleshbeasts</li>
+    <li>subject_gerund->performing a ritual to summon fleshbeasts</li>
+  -->
+  <SummonFleshbeastsPlayer.generalRules.rulesStrings>
+    <li>subject->フレッシュビーストの召喚</li>
+    <li>subject_story->生命の起源にまつわる古代の書物を読みました</li>
+    <li>subject_story->サヘのボムネズミで,自然発生の直接体験しました</li>
+    <li>subject_story->肉体を融合させる内容の古い映画を見てインスピレーションを得ました</li>
+    <li>subject_story->有機的融合における意識の移動と分離について研究していました</li>
+    <li>subject_story->地下で恐ろしい獣に遭遇した時のダートモールのコミュニティを観察しました</li>
+    <li>subject_gerund->フレッシュビーストを召喚する</li>
+    <li>subject_gerund->フレッシュビーストを召喚する儀式を行う</li>
+  </SummonFleshbeastsPlayer.generalRules.rulesStrings>
+  
+  <!-- EN: provoke pit gate -->
+  <SummonPitGate.label>ピットゲートの喚起</SummonPitGate.label>
+  <!-- EN: Perform a psychic ritual which causes underground fleshbeasts to open up a massive hole in the ground. The hole leads down to a fleshbeast-infested cavern which can be explored for resources. -->
+  <SummonPitGate.description>地下にいるフレッシュビーストに巨大な穴を開けさせるサイキック儀式を行います.穴はフレッシュビーストがはびこっているものの,資源が蓄えられている洞窟へと繋がっています.</SummonPitGate.description>
+  <!-- EN:
+    <li>subject->pit gate invocation</li>
+    <li>subject_story->researched fleshmeld infestations</li>
+    <li>subject_story->gathered tales of gestalt organisms</li>
+    <li>subject_story->managed the tome library of a deadworld cult-school</li>
+    <li>subject_story->officiated in a ritual of subsidence</li>
+    <li>subject_gerund->performing a ritual to create a pit gate</li>
+    <li>subject_gerund->summoning a pit gate</li>
+  -->
+  <SummonPitGate.generalRules.rulesStrings>
+    <li>subject->ピットゲートの喚起</li>
+    <li>subject_story->肉性融合体の蔓延を研究していました</li>
+    <li>subject_story->ゲシュタルト生命体の話を収集していました</li>
+    <li>subject_story->デッドワールドのカルト教団学校の書庫を管理していました</li>
+    <li>subject_story->地盤沈下の儀式を執り行いました</li>
+    <li>subject_gerund->ピットゲートを作り出す儀式を行う</li>
+    <li>subject_gerund->ピットゲートを召喚する</li>
+  </SummonPitGate.generalRules.rulesStrings>
+  
+  <!-- EN: draw shamblers -->
+  <SummonShamblers.label>シャンブラーの誘引</SummonShamblers.label>
+  <!-- EN: Perform a psychic ritual which will draw a horde of animated corpses. While hostile, the corpses won't attack your colony directly. They can be captured for study. -->
+  <SummonShamblers.description>蘇生した遺体の大群を引き寄せるサイキック儀式を行います.この遺体は敵対的ですが,コロニーを直接攻撃することはありません.捕獲して研究することもできます.</SummonShamblers.description>
+  <!-- EN:
+    <li>subject->shambler summoning rituals</li>
+    <li>subject_story->studied the necrocults of the deadworlds, from the safety of a university library</li>
+    <li>subject_story->collected stories of shambler attacks</li>
+    <li>subject_story->studied archite thread formation in deceased organisms</li>
+    <li>subject_story->saw all sorts of strange things as a deathworld curator</li>
+    <li>subject_gerund->summoning shamblers</li>
+    <li>subject_gerund->calling shamblers through ritual</li>
+  -->
+  <SummonShamblers.generalRules.rulesStrings>
+    <li>subject->シャンブラー召喚の儀式</li>
+    <li>subject_story->大学図書館の安全な場所から,デッドワールドのネクロカルトを研究していました</li>
+    <li>subject_story->シャンブラーの襲撃の話を収集していました</li>
+    <li>subject_story->死亡した生命体のアルカイト糸の形成を研究していました</li>
+    <li>subject_story->デスワールドの蒐集家として,様々な奇妙なものを見てきました</li>
+    <li>subject_gerund->シャンブラーを召喚する</li>
+    <li>subject_gerund->儀式でシャンブラーを呼ぶ</li>
+  </SummonShamblers.generalRules.rulesStrings>
+  
+  <!-- EN: void sculptures -->
+  <VoidSculptures.label>ヴォイドの彫刻</VoidSculptures.label>
+  <!-- EN: Craft special void sculptures from bioferrite to enhance the quality of psychic rituals. -->
+  <VoidSculptures.description>バイオフェライトで特殊なヴォイドの彫刻を作り,サイキック儀式の品質を向上させます.</VoidSculptures.description>
+  <!-- EN:
+    <li>subject->void sculptures</li>
+    <li>subject->bioferrite sculpture</li>
+    <li>subject_story->computer-modelled archotech possibility spaces</li>
+    <li>subject_story->was employed by a sibyl to sculpt her dreams</li>
+    <li>subject_story->wanted to bring sculptures to life</li>
+    <li>subject_story->dreamed of an endless ocean, shaped by human hands</li>
+    <li>subject_story->observed Imperial psychics at work</li>
+    <li>subject_gerund->sculpting with bioferrite</li>
+    <li>subject_gerund->crafting bioferrite ritual sculptures</li>
+  -->
+  <VoidSculptures.generalRules.rulesStrings>
+    <li>subject->ヴォイドの彫刻</li>
+    <li>subject->バイオフェライトの彫刻</li>
+    <li>subject_story->アルコテックの実現可能な空間についてコンピューターモデルを作成しました</li>
+    <li>subject_story->女性預言者によって,その夢を彫り出すために雇われました</li>
+    <li>subject_story->彫刻に生命を吹き込みたいと思っていました</li>
+    <li>subject_story->人間の手によって形作られた,果てなき海を夢見ていました</li>
+    <li>subject_story->帝国のサイキックの働きを見てきました</li>
+    <li>subject_gerund->バイオフェライトで彫刻する</li>
+    <li>subject_gerund->バイオフェライトの儀式彫刻を作る</li>
+  </VoidSculptures.generalRules.rulesStrings>
+  
+</LanguageData>

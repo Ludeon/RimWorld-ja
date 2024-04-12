@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awoken unnatural corpse -->
+  <AwokenCorpse.label>覚醒した不自然な遺体</AwokenCorpse.label>
+  <!-- EN: The energy building within this corpse is erupting. It has risen and is attacking with increasing power and speed. It will not stop until it reaches its victim. -->
+  <AwokenCorpse.description>この遺体の中に溜まっていたエネルギーが噴出している.遺体は立ち上がり,力と速度を増して攻撃していまし.それは犠牲者にたどり着くまで止まらないでしょう.</AwokenCorpse.description>
+  <!-- EN: The unnatural corpse is moving faster! -->
+  <AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>不自然な遺体の動きが早くなっています！</AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>
+  
+  <!-- EN: ghoul -->
+  <Ghoul.label>グール</Ghoul.label>
+  <!-- EN: This person has been implanted with an archotech shard, twisting them into a jittering murder machine. Its body is an amalgam of flesh and metal, while its mind cycles between half-conscious stupor and murderous intent.\n\nThey cannot work; they only fight. Ghouls must eat raw meat. If they go hungry, they can turn hostile.\n\nMany find ghouls' constant twitching to be disturbing, even when they aren't killing someone. -->
+  <Ghoul.description>アルコテックの破片を埋め込まれ,闇のサイキックの影響によってうごめく殺人機械へと変えられた人間です.その肉体は肉と金属の融合体となっており,精神は半ば無意識状態で殺意と朦朧との間を行き来しています.\n\n作業はできず,戦うことしかできません.グールは生肉を食べる必要があります.空腹になると,敵対する可能性があります.\n\n誰かを殺していない時でも,グールの不自然な痙攣を不愉快に感じる者は多くいます.</Ghoul.description>
+  
+  <!-- EN: ghoul frenzy -->
+  <GhoulFrenzy.label>グールの熱狂</GhoulFrenzy.label>
+  <!-- EN: This creature's blood is saturated with stress hormones and liquid energy, permitting it to move and attack at incredible speeds for a short time. -->
+  <GhoulFrenzy.description>この生物の血液はストレスホルモンと液体エネルギーで満たされており,短時間驚異的な速度で移動と攻撃を行います.</GhoulFrenzy.description>
+  
+  <!-- EN: meat hunger -->
+  <MeatHunger.label>肉の渇望</MeatHunger.label>
+  <!-- EN: This creature is ravenously hungry for raw meat. It may become hostile if it gets too hungry. -->
+  <MeatHunger.description>この生物は生肉を貪欲なまでに求めています.空腹になりすぎると,敵対する可能性があります.</MeatHunger.description>
+  <!-- EN: initial -->
+  <MeatHunger.stages.initial.label>初期段階</MeatHunger.stages.initial.label>
+  <!-- EN: moderate -->
+  <MeatHunger.stages.moderate.label>中</MeatHunger.stages.moderate.label>
+  <!-- EN: extreme -->
+  <MeatHunger.stages.extreme.label>極限</MeatHunger.stages.extreme.label>
+  
+  <!-- EN: rapid regeneration -->
+  <RapidRegeneration.label>高速再生</RapidRegeneration.label>
+  <!-- EN: This creature has stored an incredible amount of healing energy. While not unlimited, it will rapidly regenerate until its energy has been exhausted. -->
+  <RapidRegeneration.description>この生物は驚異的なまでに治癒エネルギーを蓄えています.無限ではありませんが,エネルギーが尽きるまで急速に再生します.</RapidRegeneration.description>
+  
+  <!-- EN: resurrection coma -->
+  <ResurrectionComa.label>蘇生昏睡</ResurrectionComa.label>
+  <!-- EN: A mixture of deadlife dust and advanced biochemicals course through this creature’s veins. -->
+  <ResurrectionComa.description>この生物の血管には,死の塵と高度な生化学物質が混ぜ合わさって流れています.</ResurrectionComa.description>
+  
+  <!-- EN: rising -->
+  <Rising.label>蘇り</Rising.label>
+  <!-- EN: Mysterious archotechnological influences are reanimating this creature's corpse. -->
+  <Rising.description>謎のアルコテクノロジーの影響により,この生物の遺体が蘇生しています.</Rising.description>
+  
+  <!-- EN: shambler -->
+  <Shambler.label>シャンブラー</Shambler.label>
+  <!-- EN: This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack any living creature relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire. -->
+  <Shambler.description>この死亡した生物は,腐敗したアルカイトによって蘇生されました.シャンブラーは鈍重かつ精神も持たず,あらゆる生きている生物に容赦なく襲いかかります.数日間活動すると,代謝消耗により死亡します.捕獲したシャンブラーは動くことができないため,死亡しません.</Shambler.description>
+  
+  <!-- EN: shambler corpse -->
+  <ShamblerCorpse.label>シャンブラーの遺体</ShamblerCorpse.label>
+  <!-- EN: This creature had previously been re-animated by corrupted archites. -->
+  <ShamblerCorpse.description>この生物は,以前は腐敗したアルカイトによって蘇生されたものでした.</ShamblerCorpse.description>
+  <!-- EN: Shambler wounds -->
+  <ShamblerCorpse.renderNodeProperties.0.debugLabel>シャンブラーの傷</ShamblerCorpse.renderNodeProperties.0.debugLabel>
+  <!-- EN: Shambler wounds -->
+  <ShamblerCorpse.renderNodeProperties.1.debugLabel>シャンブラーの傷</ShamblerCorpse.renderNodeProperties.1.debugLabel>
+  
+</LanguageData>

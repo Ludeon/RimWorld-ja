@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: activating TargetA. -->
+  <ActivateMonolith.reportString>targetAを起動中</ActivateMonolith.reportString>
+  
+  <!-- EN: low activity dormancy -->
+  <ActivityDormant.reportString>低活動休眠</ActivityDormant.reportString>
+  
+  <!-- EN: building a {0} sculpture. -->
+  <BuildCubeSculpture.reportString>{0}の彫刻を建築中</BuildCubeSculpture.reportString>
+  
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolder.reportString>TargetBをTargetAに運んでいる</CarryToEntityHolder.reportString>
+  
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolderAlreadyHolding.reportString>TargetBをTargetAに運んでいる</CarryToEntityHolderAlreadyHolding.reportString>
+  
+  <!-- EN: attacking. -->
+  <ChimeraSwitchToAttackMode.reportString>攻撃中 </ChimeraSwitchToAttackMode.reportString>
+  
+  <!-- EN: Doing something. -->
+  <DevourerDigest.reportString>行動中</DevourerDigest.reportString>
+  
+  <!-- EN: going dormant -->
+  <EntityGoPassive.reportString>休眠しようとしている</EntityGoPassive.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <ExecuteEntity.reportString>targetAを処刑中</ExecuteEntity.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCowerShort.reportString>逃走中</FleeAndCowerShort.reportString>
+  
+  <!-- EN: playing with golden cube. -->
+  <GoldenCubePlay.reportString>黄金のキューブと遊んでいる</GoldenCubePlay.reportString>
+  
+  <!-- EN: hate chanting. -->
+  <HateChanting.reportString>憎悪の詠唱中</HateChanting.reportString>
+  
+  <!-- EN: investigating TargetA. -->
+  <InvestigateMonolith.reportString>targetAを研究中</InvestigateMonolith.reportString>
+  
+  <!-- EN: departing -->
+  <NociosphereDepart.reportString>出発中</NociosphereDepart.reportString>
+  
+  <!-- EN: releasing TargetB -->
+  <ReleaseEntity.reportString>targetBを解放中</ReleaseEntity.reportString>
+  
+  <!-- EN: stalking TargetA. -->
+  <RevenantAttack.reportString>targetAを追跡中</RevenantAttack.reportString>
+  
+  <!-- EN: escaping -->
+  <RevenantEscape.reportString>脱走中</RevenantEscape.reportString>
+  
+  <!-- EN: hibernating -->
+  <RevenantSleep.reportString>休止中</RevenantSleep.reportString>
+  
+  <!-- EN: wandering -->
+  <RevenantWander.reportString>うろうろしている</RevenantWander.reportString>
+  
+  <!-- EN: smashing TargetA. -->
+  <SmashThing.reportString>targetAを粉砕中</SmashThing.reportString>
+  
+  <!-- EN: taking bioferrite out of TargetA. -->
+  <TakeBioferriteOutOfHarvester.reportString>targetAからバイオフェライトを採取中</TakeBioferriteOutOfHarvester.reportString>
+  
+  <!-- EN: talking to TargetA. -->
+  <TalkCreepJoiner.reportString>targetAと会話中</TalkCreepJoiner.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendEntity.reportString>targetAの看病中</TendEntity.reportString>
+  
+  <!-- EN: transferring TargetC to another holding location. -->
+  <TransferBetweenEntityHolders.reportString>TargetCを別の収容地点へ移動中</TransferBetweenEntityHolders.reportString>
+  
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseAttack.reportString>targetAを追跡中</UnnaturalCorpseAttack.reportString>
+  
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseSkip.reportString>targetAを追跡中</UnnaturalCorpseSkip.reportString>
+  
+</LanguageData>

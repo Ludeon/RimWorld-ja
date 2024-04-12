@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biomutation pulser -->
+  <BiomutationPulser.label>バイオミューテーション・パルサー</BiomutationPulser.label>
+  <!-- EN: A one-use broad-wave psychic effector created from a dark archotech shard. The device creates a pulse that reshapes the musculature of every animal within the region, turning them into terrifying creatures. Animals currently under your control will not be affected. -->
+  <BiomutationPulser.description>闇のアルコテックの破片から作られた,使い捨ての広域サイキックエフェクターです.この装置はパルスを発生させ,範囲内にいるすべての動物の筋肉を変質させ,恐ろしい生物へと変異させます.現在,あなたの管理下にある動物は影響を受けません.</BiomutationPulser.description>
+  <!-- EN: Activate {0_label} -->
+  <BiomutationPulser.comps.CompUsable.useLabel>{0_label}を起動する</BiomutationPulser.comps.CompUsable.useLabel>
+  
+  <!-- EN: shard animal pulser -->
+  <ShardAnimalPulser.label>シャードアニマル・パルサー</ShardAnimalPulser.label>
+  <!-- EN: A one-use broad-wave psychic effector created from a dark archotech shard. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
+  <ShardAnimalPulser.description>闇のアルコテックの破片から作られた,使い捨ての広域サイキックエフェクターです.恐ろしいイメージを持つ精神波パルスが脳髄下部を満たし,マップ上の全ての動物を人狩りへと駆り立てます.あなたの管理下にある動物は影響を受けません.</ShardAnimalPulser.description>
+  <!-- EN: Activate {0_label} -->
+  <ShardAnimalPulser.comps.CompUsable.useLabel>{0_label}を起動する</ShardAnimalPulser.comps.CompUsable.useLabel>
+  
+</LanguageData>

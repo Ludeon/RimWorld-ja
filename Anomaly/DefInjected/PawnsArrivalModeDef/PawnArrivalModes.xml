@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} have arrived from nearby. -->
+  <EdgeWalkInDarkness.textEnemy>{0}の集団が近くに到来しました.</EdgeWalkInDarkness.textEnemy>
+  <!-- EN: A group of friendly {0} have arrived nearby. -->
+  <EdgeWalkInDarkness.textFriendly>友好的な{0}の集団が近くに到着しました.</EdgeWalkInDarkness.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkInDarkness.textWillArrive>{0_pawnsPluralDef}は歩いて到着します.</EdgeWalkInDarkness.textWillArrive>
+  
+  <!-- EN: A horde of {0} shambling, rotting corpses is approaching. -->
+  <EdgeWalkInDistributedGroups.textEnemy>{0}のうごめく腐った遺体の群れが近づいています.</EdgeWalkInDistributedGroups.textEnemy>
+  <!-- EN: A horde of {0} shambling, rotting corpses are about to arrive. -->
+  <EdgeWalkInDistributedGroups.textWillArrive>{0}のうごめく腐った遺体の群れがまもなく到来します.</EdgeWalkInDistributedGroups.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived from nearby. -->
+  <EdgeWalkInHateChanters.textEnemy>{1}から来た{0}の集団が近くに到来しました.</EdgeWalkInHateChanters.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkInHateChanters.textFriendly>{1}から来た友好的な{0}が,すぐ近くに到着しました.</EdgeWalkInHateChanters.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkInHateChanters.textWillArrive>{0_pawnsPluralDef}は歩いて到着します.</EdgeWalkInHateChanters.textWillArrive>
+  
+</LanguageData>

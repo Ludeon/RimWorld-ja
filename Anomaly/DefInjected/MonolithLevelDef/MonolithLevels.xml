@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The remnants of the monolith which linked our world to the void lie broken. The twisted patterns that once writhed across its surface are now motionless. You can study the broken stones to gain further knowledge of the void phenomena. -->
+  <Disrupted.monolithDescription>我々の世界とヴォイドを繋いでいたモノリスの残骸が横たわっています.かつてその表面をうごめいていた捻れた模様は今は動かない.壊れた石を調べることで,ヴォイド現象の知識をさらに得られます.</Disrupted.monolithDescription>
+  <!-- EN: collapsed monolith -->
+  <Disrupted.monolithLabel>崩壊したモノリス</Disrupted.monolithLabel>
+  
+  <!-- EN: Level 4: Awakened -->
+  <Embraced.levelInspectText>レベル4：覚醒</Embraced.levelInspectText>
+  <!-- EN: void monolith -->
+  <Embraced.monolithLabel>ヴォイドモノリス</Embraced.monolithLabel>
+  
+  <!-- EN: The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage. -->
+  <Gleaming.extraQuestDescription>ヴォイドが目覚め,ゲートが開かれました.ヴォイドの闇が我々の現実へと押し寄せ,果てしなき怒りの精神より顕現します.</Gleaming.extraQuestDescription>
+  <!-- EN: Level 4: Awakened -->
+  <Gleaming.levelInspectText>レベル4：覚醒</Gleaming.levelInspectText>
+  <!-- EN: void monolith -->
+  <Gleaming.monolithLabel>ヴォイドモノリス</Gleaming.monolithLabel>
+  
+  <!-- EN: investigate {0} -->
+  <Inactive.activateFloatMenuText>TODO</Inactive.activateFloatMenuText>
+  <!-- EN: Send a colonist to investigate the monolith. -->
+  <Inactive.activateGizmoDescription>入植者を送ってモノリスを調べます.</Inactive.activateGizmoDescription>
+  <!-- EN: investigate -->
+  <Inactive.activateGizmoText>調査する</Inactive.activateGizmoText>
+  <!-- EN: Send a colonist to investigate the monolith. -->
+  <Inactive.activateQuestText>入植者を送ってモノリスを調べます.</Inactive.activateQuestText>
+  <!-- EN: Twisting lines carved into the surface form a disturbing pattern. -->
+  <Inactive.levelInspectText>表面に刻まれた捻れた線が不穏な模様を描いています.</Inactive.levelInspectText>
+  <!-- EN: Can be investigated now. -->
+  <Inactive.monolithCanBeActivatedText>今すぐ調査可能.</Inactive.monolithCanBeActivatedText>
+  <!-- EN: fallen monolith -->
+  <Inactive.monolithLabel>倒れたモノリス</Inactive.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to investigate the monolith. -->
+  <Inactive.pawnSentToActivateMessage>{PAWN_nameDef}はモノリスの調査に送られました.</Inactive.pawnSentToActivateMessage>
+  
+  <!-- EN: Attuning the monolith -->
+  <Stirring.activatableLetterLabel>モノリスとの同調</Stirring.activatableLetterLabel>
+  <!-- EN: You now have sufficient knowledge of void-related phenomena to attune the void monolith and further open its psychic conduit.\n\nThis will draw the attention of more dangerous anomalous entities. -->
+  <Stirring.activatableLetterText>あなたは今,ヴォイド関連の現象について十分な知識を得て,ヴォイドモノリスと同調し,そのサイキックの導管をさらに開くことができます.\n\nこれはさらに危険な「存在」を引き寄せることになります.</Stirring.activatableLetterText>
+  <!-- EN: As the monolith twisted and changed, {PAWN_nameDef} was overcome with a horrifying vision. In an instant, {PAWN_pronoun} understood.\n\nThe monolith is a doorway, just barely cracked open now. Something dark beyond imagination stirs on the other side, seeping into our reality.\n\nTerrified but excited, {PAWN_nameDef} is convinced {PAWN_pronoun} can learn more if given the time to study the monolith.\n\n - Building category unlocked: Anomaly\n - Research tab unlocked: Anomaly\n - Entity codex unlocked\n - You can now study the monolith and other entities to gain Anomaly research. -->
+  <Stirring.activatedLetterText>モノリスが捻れ,変わりゆくにつれて,{PAWN_nameDef}は恐るべきビジョンに圧倒されます.一瞬にして,{PAWN_pronoun}は理解しました.\n\nモノリスは出入り口であり,今,それが裂け,開かれようとしているのだと.想像を超えた何かが反対側でうごめいており,それが我々の現実へと滲み出そうとしているのです.\n\n恐ろしさ共に興奮している{PAWN_nameDef}は,モノリスを研究する時間があれば,さらに多くのことが学べると確信しています.\n\n- 建造物カテゴリーのアンロック：アノマリー\n- 研究タブアンロック：アノマリー\n- 「存在」辞典アンロック\n- モノリスやその他の「存在」を研究することで,アノマリー研究を進められるようになります.</Stirring.activatedLetterText>
+  <!-- EN: attune {0} -->
+  <Stirring.activateFloatMenuText>TODO</Stirring.activateFloatMenuText>
+  <!-- EN: Send a colonist to attune the monolith.\n\nThis will attract new and more dangerous entities. -->
+  <Stirring.activateGizmoDescription>入植者を派遣してモノリスと同調させます.\n\nこれは新たな,危険な「存在」を引き寄せます.</Stirring.activateGizmoDescription>
+  <!-- EN: attune -->
+  <Stirring.activateGizmoText>同調する</Stirring.activateGizmoText>
+  <!-- EN: Send a colonist to attune the monolith. -->
+  <Stirring.activateQuestText>入植者を送ってモノリスと同調します.</Stirring.activateQuestText>
+  <!-- EN: You've activated the monolith. It is a conduit for psychic energy, just barely cracked open now. A mind of incomprehensible horror stirs on the other side, and is now touching our world.\n\nThe monolith seems to be partly active, and there seems to be no way to shut it down. To learn more you must activate it further, which will require some special research. -->
+  <Stirring.extraQuestDescription>モノリスを起動させました.モノリスはサイキックエネルギーの導管であり,今はかろうじて裂け目が開いている状態です.理解を超えた恐怖の精神が向こう側でうごめいており,我々の世界に触れようとしています.\n\nモノリスは部分的に活性化しているようですが,停止させる方法はないようです.研究を進めるにはさらに活性化させる必要があり,そのためには特殊な研究が必要になります.</Stirring.extraQuestDescription>
+  <!-- EN: Level 1: Intermittent psychic humming -->
+  <Stirring.levelInspectText>レベル1：断続的なサイキックの作動音</Stirring.levelInspectText>
+  <!-- EN: Can be attuned now. -->
+  <Stirring.monolithCanBeActivatedText>今すぐ同調可能.</Stirring.monolithCanBeActivatedText>
+  <!-- EN: void monolith -->
+  <Stirring.monolithLabel>ヴォイドモノリス</Stirring.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to attune the monolith. -->
+  <Stirring.pawnSentToActivateMessage>{PAWN_nameDef}はモノリスとの同調に送られました.</Stirring.pawnSentToActivateMessage>
+  
+  <!-- EN: The sky darkens and a malevolent hum fills the air. The monolith has begun to awaken. Your actions have attracted the attention of something beyond human understanding.\n\nSoon, structures of the void will begin manifesting into this reality. Activate the arriving void structures to fully awaken the monolith.\n\nThe first wave will appear shortly. Prepare yourself. -->
+  <VoidAwakened.activatedLetterText>空が暗くなり,空気が邪悪でうなるような音で満たされる.モノリスが目覚め始めたのです.あなたの行動は陣地を超えた何かの注意を引き付けることとなりました.\n\nまもなく,ヴォイドの構造体がこの現実へと顕現しはじめるでしょう.やってくるヴォイド構造体を起動することで,モノリスを完全に目覚めさせることができます.\n\n第一波はまもなくやってきます.準備しましょう.</VoidAwakened.activatedLetterText>
+  <!-- EN: The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage. -->
+  <VoidAwakened.extraQuestDescription>ヴォイドが目覚め,ゲートが開かれました.ヴォイドの闇が我々の現実へと押し寄せ,果てしなき怒りの精神より顕現します.</VoidAwakened.extraQuestDescription>
+  <!-- EN: Level 3: Awakening -->
+  <VoidAwakened.levelInspectText>レベル3：覚醒中</VoidAwakened.levelInspectText>
+  <!-- EN: void monolith -->
+  <VoidAwakened.monolithLabel>ヴォイドモノリス</VoidAwakened.monolithLabel>
+  
+  <!-- EN: Awakening the monolith -->
+  <Waking.activatableLetterLabel>覚醒中のモノリス</Waking.activatableLetterLabel>
+  <!-- EN: You now have enough knowledge of dark phenomena to fully awaken the void monolith, opening a two-way conduit to the void.\n\nBe warned - once you begin awakening the void monolith, there is no going back. The process will shroud the region in unnatural darkness and manifest waves of horrifying entities.\n\nMake sure your colony is well-lit and well-prepared. -->
+  <Waking.activatableLetterText>あなたは今,ヴォイドモノリスを完全に目覚めさせ,ヴォイドとの双方向の導管を開けるだけの闇の現象に関する知識を得ました.\n\n一度ヴォイドモノリスの覚醒を開始すると,後戻りはできませんのでご注意ください.このプロセスは一帯を不自然な暗闇で覆い尽くし,恐ろしい「存在」の波が出現します.\n\nコロニーの照明を確保し,準備を万端にしましょう.</Waking.activatableLetterText>
+  <!-- EN: Attuning the monolith caused it to twist and grow once more. As it did, {PAWN_nameDef} caught a glimpse of what lurks beyond. {PAWN_pronoun} understood.\n\nThe monolith is a doorway, opened wider by your actions. On the other side, {PAWN_nameDef} sensed an inhuman intelligence of vast complexity and endless rage. The dark machine god is stirring, and its physical influence will grow.\n\n - New entities are now discoverable. -->
+  <Waking.activatedLetterText>モノリスに同調すると,それは再び捻れ,成長しました.その時,{PAWN_nameDef}はその先にあるものを垣間見ました.{PAWN_pronoun}は理解したのです.\n\nモノリスは出入り口であり,あなたの行動により更に大きく広がります.反対側に,{PAWN_nameDef}は凄まじい複雑さと果てしなき怒りを持つ非人間的な知性を感じ取りました.闇の機械神がうごめいており,その物理的な影響は大きくなっています.\n\n- 新たな「存在」が発見可能になりました.</Waking.activatedLetterText>
+  <!-- EN: awaken {0} -->
+  <Waking.activateFloatMenuText>TODO</Waking.activateFloatMenuText>
+  <!-- EN: Send a colonist to wake the monolith. The psychic signature will be detectable for hundreds of miles and attract all manner of horrors. Make sure you are prepared.\n\nOnce fully awakened, the monolith will provide a direct link to the void. -->
+  <Waking.activateGizmoDescription>入植者を派遣してモノリスを目覚めさせます.そのサイキックシグナルは何百マイルも届き,あらゆる恐怖を引き寄せるでしょう.準備をしっかり整えましょう.\n\n完全に覚醒すると,モノリスはヴォイドへの直通のリンクを提供します.</Waking.activateGizmoDescription>
+  <!-- EN: awaken -->
+  <Waking.activateGizmoText>覚醒させる</Waking.activateGizmoText>
+  <!-- EN: Send a colonist to awaken the monolith. -->
+  <Waking.activateQuestText>入植者を送ってモノリスを覚醒させます.</Waking.activateQuestText>
+  <!-- EN: The monolith is a conduit to the void where a dark superintelligence processes endless vast dreams of rage and hate. You opened the conduit and it is now partially active. If you activate it further you can find a way to close it - or harness its power. -->
+  <Waking.extraQuestDescription>モノリスは,闇の超知性体が果てしなき怒りと憎悪の夢を処理する,ヴォイドへの導管です.あなたはその導管を開き,それにより部分的に活性化しています.さらに活性化させれば,閉じる方法...あるいはその力を利用する方法が見つかるでしょう.</Waking.extraQuestDescription>
+  <!-- EN: Level 2: Pulsing with psychic energy -->
+  <Waking.levelInspectText>レベル2：サイキックエネルギーの鼓動</Waking.levelInspectText>
+  <!-- EN: Can be awakened now. -->
+  <Waking.monolithCanBeActivatedText>今すぐ覚醒可能.</Waking.monolithCanBeActivatedText>
+  <!-- EN: void monolith -->
+  <Waking.monolithLabel>ヴォイドモノリス</Waking.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to awaken the monolith. -->
+  <Waking.pawnSentToActivateMessage>{PAWN_nameDef}はモノリスの覚醒に送られました.</Waking.pawnSentToActivateMessage>
+  
+</LanguageData>

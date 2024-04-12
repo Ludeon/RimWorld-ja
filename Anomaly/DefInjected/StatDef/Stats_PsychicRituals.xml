@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic ritual quality -->
+  <PsychicRitualQuality.label>サイキック儀式の品質</PsychicRitualQuality.label>
+  <!-- EN: How much nearby buildings improve quality of psychic rituals performed here. -->
+  <PsychicRitualQuality.description>近くの建築物が,ここで行われるサイキック儀式の品質をどれだけ向上させるかを示します.</PsychicRitualQuality.description>
+  
+  <!-- EN: psychic ritual quality offset -->
+  <PsychicRitualQualityOffset.label>サイキック儀式の品質補正</PsychicRitualQualityOffset.label>
+  <!-- EN: An offset applied to psychic ritual quality when this person participates. The total quality offset is divided by the total number of participants. -->
+  <PsychicRitualQualityOffset.description>この人物が参加した際に,サイキック儀式の品質に適用される補正値です.品質補正の合計値は参加者の総人数で割られます.</PsychicRitualQualityOffset.description>
+  
+</LanguageData>

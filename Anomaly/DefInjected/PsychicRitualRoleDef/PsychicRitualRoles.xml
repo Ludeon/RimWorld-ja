@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: target -->
+  <BrainwipeTarget.label>ターゲット</BrainwipeTarget.label>
+  
+  <!-- EN: chanter -->
+  <Chanter.label>詠唱者</Chanter.label>
+  <!-- EN: Chanters add psychic power to the ritual. -->
+  <Chanter.description>詠唱者は儀式にサイキックパワーを加えます.</Chanter.description>
+  
+  <!-- EN: chanter -->
+  <ChanterAdvanced.label>詠唱者</ChanterAdvanced.label>
+  <!-- EN: Chanters add psychic power to the ritual. -->
+  <ChanterAdvanced.description>詠唱者は儀式にサイキックパワーを加えます.</ChanterAdvanced.description>
+  
+  <!-- EN: target -->
+  <ChronophagyTarget.label>ターゲット</ChronophagyTarget.label>
+  
+  <!-- EN: target -->
+  <DeathRefusalTarget.label>ターゲット</DeathRefusalTarget.label>
+  <!-- EN: {PAWN_labelShort} cannot have any more death refusals stacked -->
+  <DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>{PAWN_labelShort}はこれ以上死を拒む者を使えません.</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
+  
+  <!-- EN: defenders -->
+  <Defender.label>守護者</Defender.label>
+  <!-- EN: Defenders protect the ritual participants from harm. -->
+  <Defender.description>守護者は儀式の参加者を護ります.</Defender.description>
+  
+  <!-- EN: invoker -->
+  <Invoker.label>実行者</Invoker.label>
+  
+  <!-- EN: target -->
+  <PhilophagyTarget.label>ターゲット</PhilophagyTarget.label>
+  
+  <!-- EN: target -->
+  <PsychophagyTarget.label>ターゲット</PsychophagyTarget.label>
+  
+</LanguageData>

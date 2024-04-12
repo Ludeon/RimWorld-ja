@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dark visions -->
+  <DarkVisions.label>闇の幻視</DarkVisions.label>
+  <!-- EN: Mental state: Dark visions -->
+  <DarkVisions.baseInspectLine>精神状態：闇の幻視</DarkVisions.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has become overwhelmed with horrible visions, rambling about things that only {PAWN_pronoun} can see. {PAWN_pronoun} will snap out of it in a few hours. -->
+  <DarkVisions.beginLetter>{PAWN_nameDef}は恐るべき幻影に圧倒され,{PAWN_pronoun}にしか見えないことについてわめきつづけています.{PAWN_pronoun}は数時間ほどで耐えられなくなるでしょう.</DarkVisions.beginLetter>
+  <!-- EN: dark visions -->
+  <DarkVisions.beginLetterLabel>闇の幻視</DarkVisions.beginLetterLabel>
+  <!-- EN: {PAWN_nameDef}'s dark visions have stopped. -->
+  <DarkVisions.recoveryMessage>{PAWN_nameDef}の闇の幻視が止まりました.</DarkVisions.recoveryMessage>
+  
+  <!-- EN: entity slayer -->
+  <EntityKiller.label>「存在」殺し</EntityKiller.label>
+  <!-- EN: Mental state: Entity slayer -->
+  <EntityKiller.baseInspectLine>精神状態：「存在」殺し</EntityKiller.baseInspectLine>
+  <!-- EN: {0} has snapped. {PAWN_pronoun} can no longer tolerate holding such dangerous entities in captivity and intends to destroy as many as {PAWN_pronoun} can. -->
+  <EntityKiller.beginLetter>{0}は耐えられなくなりました.{PAWN_pronoun}はもはやこのような危険な「存在」の収容を容認できず,己ができる限りを破壊するつもりでいます.</EntityKiller.beginLetter>
+  <!-- EN: {0} is no longer slaughtering random entities. -->
+  <EntityKiller.recoveryMessage>{0}は手当たりしだいに「存在」を殺戮しなくなりました.</EntityKiller.recoveryMessage>
+  
+  <!-- EN: entity liberator -->
+  <EntityLiberator.label>「存在」の解放者</EntityLiberator.label>
+  <!-- EN: Mental state: Entity liberator -->
+  <EntityLiberator.baseInspectLine>精神状態：「存在」の解放者</EntityLiberator.baseInspectLine>
+  <!-- EN: {0} has become suddenly allured by a captive entity and is convinced it must be freed. -->
+  <EntityLiberator.beginLetter>{0}は突如として囚われた「存在」に魅了され,それらを解放せねばならないと思い込みました.</EntityLiberator.beginLetter>
+  <!-- EN: {0} is no longer freeing entities. -->
+  <EntityLiberator.recoveryMessage>{0}は「存在」を解放しなくなりました</EntityLiberator.recoveryMessage>
+  
+  <!-- EN: insane ramblings -->
+  <InsaneRamblings.label>狂気的な語り</InsaneRamblings.label>
+  <!-- EN: Mental state: Insane ramblings -->
+  <InsaneRamblings.baseInspectLine>精神状態：狂気的な語り</InsaneRamblings.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has become completely untethered from reality, ranting about impossible subjects. {PAWN_pronoun} will snap out of it in a few hours. -->
+  <InsaneRamblings.beginLetter>{PAWN_nameDef}は現実から全く離れ,あり得ざる話題についてわめきつづけています.{PAWN_pronoun}は数時間ほどで耐えられなくなるでしょう.</InsaneRamblings.beginLetter>
+  <!-- EN: insane ramblings -->
+  <InsaneRamblings.beginLetterLabel>狂気的な語り</InsaneRamblings.beginLetterLabel>
+  <!-- EN: {PAWN_nameDef} has stopped rambling. -->
+  <InsaneRamblings.recoveryMessage>{PAWN_nameDef}はわめくのをためました.</InsaneRamblings.recoveryMessage>
+  
+  <!-- EN: terrifying hallucinations -->
+  <TerrifyingHallucinations.label>恐るべき幻覚</TerrifyingHallucinations.label>
+  <!-- EN: Mental state: Terrifying hallucinations -->
+  <TerrifyingHallucinations.baseInspectLine>精神状態：恐るべき幻覚</TerrifyingHallucinations.baseInspectLine>
+  <!-- EN: Vivid  hallucinations swirl around {0}, twisting and distorting allies into horrifying abominations. {PAWN_pronoun} will flee from anyone {PAWN_pronoun} perceives as a threat. -->
+  <TerrifyingHallucinations.beginLetter>鮮やかな幻覚が{0}を取り巻いています.それは仲間を捻じ曲げ,歪め,恐るべき忌まわしきものに見せています.{PAWN_pronoun}は脅威と感じたあらゆるものから逃げ出します.</TerrifyingHallucinations.beginLetter>
+  <!-- EN: terrifying hallucinations -->
+  <TerrifyingHallucinations.beginLetterLabel>恐るべき幻覚</TerrifyingHallucinations.beginLetterLabel>
+  <!-- EN: {0} is no longer hallucinating. -->
+  <TerrifyingHallucinations.recoveryMessage>{0}の幻覚は見えなくなりました.</TerrifyingHallucinations.recoveryMessage>
+  
+</LanguageData>

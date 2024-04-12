@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: digestion -->
+  <Digested.label>消化</Digested.label>
+  <!-- EN: This part has been digested. -->
+  <Digested.description>この部位は消化されました.</Digested.description>
+  <!-- EN: a digested part -->
+  <Digested.labelNoun>消化された部位</Digested.labelNoun>
+  <!-- EN: digested {1} -->
+  <Digested.labelNounPretty>消化された{1}</Digested.labelNounPretty>
+  
+  <!-- EN: energy bolt -->
+  <EnergyBolt.label>エネルギーボルト</EnergyBolt.label>
+  <!-- EN: A wound from an energy bolt. -->
+  <EnergyBolt.description>エネルギーボルトによる傷.</EnergyBolt.description>
+  <!-- EN: permanent energy bolt wound -->
+  <EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>エネルギーボルトの傷痕</EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old energy bolt wound -->
+  <EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>エネルギーボルトの古傷</EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Blasted off -->
+  <EnergyBolt.injuryProps.destroyedLabel>吹き飛ばされた</EnergyBolt.injuryProps.destroyedLabel>
+  <!-- EN: Blasted out -->
+  <EnergyBolt.injuryProps.destroyedOutLabel>吹き飛ばされた</EnergyBolt.injuryProps.destroyedOutLabel>
+  <!-- EN: an energy bolt wound -->
+  <EnergyBolt.labelNoun>エネルギーボルトの傷跡</EnergyBolt.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <EnergyBolt.labelNounPretty>{1}内の{0}</EnergyBolt.labelNounPretty>
+  
+  <!-- EN: psychic burn -->
+  <PsychicInjury.label>サイキックバーン</PsychicInjury.label>
+  <!-- EN: A psychic burn. -->
+  <PsychicInjury.description>サイキックによる火傷.</PsychicInjury.description>
+  <!-- EN: psychic scarring -->
+  <PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>サイキックの傷跡</PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Psychically incinerated -->
+  <PsychicInjury.injuryProps.destroyedLabel>サイキックで灼かれた</PsychicInjury.injuryProps.destroyedLabel>
+  <!-- EN: a psychic burn -->
+  <PsychicInjury.labelNoun>サイキックによる火傷</PsychicInjury.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <PsychicInjury.labelNounPretty>{1}内の{0}</PsychicInjury.labelNounPretty>
+  
+  <!-- EN: psychic burn -->
+  <PsychicInjurySkin.label>サイキックバーン</PsychicInjurySkin.label>
+  <!-- EN: A psychic burn. -->
+  <PsychicInjurySkin.description>サイキックによる火傷.</PsychicInjurySkin.description>
+  <!-- EN: psychic scarring -->
+  <PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>サイキックの傷</PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Psychically incinerated -->
+  <PsychicInjurySkin.injuryProps.destroyedLabel>サイキックで灼かれた</PsychicInjurySkin.injuryProps.destroyedLabel>
+  <!-- EN: a psychic burn -->
+  <PsychicInjurySkin.labelNoun>サイキックによる火傷</PsychicInjurySkin.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <PsychicInjurySkin.labelNounPretty>{1}内の{0}</PsychicInjurySkin.labelNounPretty>
+  
+  <!-- EN: psychic burn -->
+  <PsychicInjurySolid.label>サイキックバーン</PsychicInjurySolid.label>
+  <!-- EN: A psychic burn. -->
+  <PsychicInjurySolid.description>サイキックによる火傷.</PsychicInjurySolid.description>
+  <!-- EN: permanent psychic scarring -->
+  <PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>サイキックの傷跡</PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Psychically incinerated -->
+  <PsychicInjurySolid.injuryProps.destroyedLabel>サイキックで灼かれた</PsychicInjurySolid.injuryProps.destroyedLabel>
+  <!-- EN: a psychic burn -->
+  <PsychicInjurySolid.labelNoun>サイキックによる火傷</PsychicInjurySolid.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <PsychicInjurySolid.labelNounPretty>{1}内の{0}</PsychicInjurySolid.labelNounPretty>
+  
+</LanguageData>

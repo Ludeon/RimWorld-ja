@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab_Entity -->
+  <!-- EN: Escape interval -->
+  <HoldingPlatformEscapeMTBDays>脱走間隔</HoldingPlatformEscapeMTBDays>
+  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity’s movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
+  <HoldingPlatformEscapeMTBDaysDesc>脱走するまでの平均時間です.これは収容強度,「存在」の種類,「存在」の移動能力,「存在」の収容間に影響されます.また,寒さによって抑制される「存在」もいます.</HoldingPlatformEscapeMTBDaysDesc>
+  <!-- EN: Entity -->
+  <TabEntity>「存在」</TabEntity>
+  <!-- EN: Study interval -->
+  <StudyInterval>研究間隔</StudyInterval>
+  <!-- EN: How often this entity can be studied. -->
+  <StudyIntervalDesc>この「存在」が研究できる頻度です.</StudyIntervalDesc>
+  <!-- EN: Maintain only -->
+  <EntityStudyMode_MaintainOnly>維持のみ</EntityStudyMode_MaintainOnly>
+  <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
+  <EntityStudyMode_MaintainOnlyDesc>看守はこの「存在」に対して特別な行動を行いませんが,その他の干渉は可能です.</EntityStudyMode_MaintainOnlyDesc>
+  <!-- EN: Study -->
+  <EntityStudyMode_Study>研究</EntityStudyMode_Study>
+  <!-- EN: Researchers will study the entity. -->
+  <EntityStudyMode_StudyDesc>研究員が「存在」を研究します.</EntityStudyMode_StudyDesc>
+  <!-- EN: Release -->
+  <EntityStudyMode_Release>解放</EntityStudyMode_Release>
+  <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
+  <EntityStudyMode_ReleaseDesc>看守がこの「存在」を収容プラットフォームから解放します.解放された「存在」は敵対する可能性があります.</EntityStudyMode_ReleaseDesc>
+  <!-- EN: Execute -->
+  <EntityStudyMode_Execute>処刑</EntityStudyMode_Execute>
+  <!-- EN: A warden will execute the restrained entity. -->
+  <EntityStudyMode_ExecuteDesc>看守が拘束した「存在」を処刑します.</EntityStudyMode_ExecuteDesc>
+  <!-- EN: Can't be executed. -->
+  <CantBeExecuted>処刑不可</CantBeExecuted>
+  <!-- EN: Knowledge gain -->
+  <StudyKnowledgeGain>知識獲得量</StudyKnowledgeGain>
+  <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
+  <StudyKnowledgeGainDesc>研究間隔ごとに得られる知識の獲得量です.うまく収容するほど,研究員が安全に研究する助けとなり,獲得できる知識量も増加します.</StudyKnowledgeGainDesc>
+  <!-- EN: What type of medicine can be given to this entity. -->
+  <MedicineQualityDescriptionEntity>この「存在」に投与できる薬の種類です.</MedicineQualityDescriptionEntity>
+
+  <!-- EN: Electroharvester -->
+  <FactorForElectroharvester>エレクトロハーベスター</FactorForElectroharvester>
+  <!-- EN: Long captivity -->
+  <FactorForDaysInCaptivity>長期収容</FactorForDaysInCaptivity>
+  <!-- EN: Cold containment bonus -->
+  <FactorForColdCaptivity>寒気収容ボーナス</FactorForColdCaptivity>
+  <!-- EN: Incapable of escaping -->
+  <IncapableOfEscaping>脱走不可</IncapableOfEscaping>
+  <!-- EN: Entity downed -->
+  <EntityDowned>「存在」意識不明</EntityDowned>
+  <!-- EN: Containment strength -->
+  <FactorContainmentStrength>収容強度</FactorContainmentStrength>
+  <!-- EN: Electroharvester -->
+  <FactorElectroharvester>エレクトロハーベスター</FactorElectroharvester>
+  <!-- EN: Activity -->
+  <FactorActivity>活動</FactorActivity>
+
+</LanguageData>

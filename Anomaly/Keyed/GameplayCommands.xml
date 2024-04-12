@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Self-resurrect -->
+  <CommandSelfResurrect>自己蘇生</CommandSelfResurrect>
+  <!-- EN: Command this person to self-resurrect, healing wounds and repairing damaged body parts. The process is not perfect and may cause scarring. -->
+  <CommandSelfResurrectDesc>この人物に自己蘇生を命じて,傷を癒やし,損傷した身体の一部を修復します.このプロセスは完璧ではなく,傷跡が残ることもあります.</CommandSelfResurrectDesc>
+
+  <!-- EN: Study -->
+  <ToggleStudy>研究</ToggleStudy>
+  <!-- EN: When on, a researcher will automatically study the entity restrained on this holding platform. -->
+  <ToggleStudyDesc>オンにすると,研究員が自動的にこの収容プラットフォームに拘束された「存在」を研究します.</ToggleStudyDesc>
+
+  <!-- UNUSED -->
+  <SelectMutantAllowedArea>許可エリアの変更...</SelectMutantAllowedArea>
+  <SelectMutantAllowedAreaDesc>グールがさまよい,食料を探す場所を更新します.</SelectMutantAllowedAreaDesc>
+
+</LanguageData>

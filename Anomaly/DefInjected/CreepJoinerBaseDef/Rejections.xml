@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggressive -->
+  <AggressiveRejection.label>攻撃的</AggressiveRejection.label>
+  <!-- EN: Upon being rejected, {PAWN_nameDef} flew into a murderous rage and began to attack! -->
+  <AggressiveRejection.letterDesc>拒絶された{PAWN_nameDef}は,凶暴な怒りに身を任せて攻撃し始めた！</AggressiveRejection.letterDesc>
+  <!-- EN: {PAWN_nameDef} hostile -->
+  <AggressiveRejection.letterLabel>{PAWN_nameDef}が敵対</AggressiveRejection.letterLabel>
+  
+  <!-- EN: departure -->
+  <Departure.label>離脱</Departure.label>
+  <!-- EN: {PAWN_nameDef} is disappointed by the way that you have treated {PAWN_objective}. {PAWN_pronoun} has decided to leave. -->
+  <Departure.letterDesc>{PAWN_nameDef}は,あなたの{PAWN_objective}への扱いに失望しています.{PAWN_pronoun}は立ち去ることを決めました.</Departure.letterDesc>
+  <!-- EN: {PAWN_nameDef} departure -->
+  <Departure.letterLabel>{PAWN_nameDef}の離脱</Departure.letterLabel>
+  
+</LanguageData>

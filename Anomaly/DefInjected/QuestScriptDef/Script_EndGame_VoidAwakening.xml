@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>darknessStartedLetterLabel->Unnatural darkness</li>
+    <li>darknessStartedLetterText->An unnatural darkness has descended. Inhuman things move just outside the light. Keep colonists in well-lit areas.</li>
+    <li>structuresArrivingAlertLabel->Void structures arriving</li>
+    <li>structuresArrivingAlertExplanation->The boundary between our world and the void is breaking down. Soon, void structures will manifest nearby. To fully awaken the void monolith, you must activate them.\n\nPrepare for their arrival.</li>
+    <li>voidStructuresLetterLabel->Void structures</li>
+    <li>voidStructuresLetterText->Several twisted structures are appearing, seemingly from nowhere. They pulse with a dark psychic energy which wilts nearby plant life.\n\nActivate the structures to progress further.</li>
+    <li>gleamingMonolithWarningLetterLabel->Twisting intensifies</li>
+    <li>gleamingMonolithWarningLetterText->The monolith's shape has begun to distort and shift with growing intensity. Something is about to happen...</li>
+    <li>gleamingMonolithLetterLabel->Void monolith</li>
+    <li>gleamingMonolithLetterText->The monolith has fully awakened. A swirling dark vortex sits atop its peak, forming a conduit to the void.\n\nGo to the monolith and use it to pass through to the other side. Doing so will end the unnatural darkness and end the horror assault.</li>
+    <li>monolithTwistingAlertLabel->Monolith twisting</li>
+    <li>monolithTwistingAlertExplanation->The monolith is twisting without moving, bending itself and the minds of those who look at it. Something is happening - get ready.</li>
+  -->
+  <EndGame_VoidAwakening.questContentRules.rulesStrings>
+    <li>darknessStartedLetterLabel->不自然な闇</li>
+    <li>darknessStartedLetterText->不自然な闇が降りてきました.非人間的なものが光の外で動いています.入速射を明るい場所にとどまらせておきましょう.</li>
+    <li>structuresArrivingAlertLabel->ヴォイド構造体の到来</li>
+    <li>structuresArrivingAlertExplanation->我々の世界とヴォイドとの境界が崩れつつあります.まもなく,ヴォイド構造体が近くに現れるでしょう.ヴォイドモノリスを完全に目覚めさせるには,それらを起動せねばなりません.\n\n到着に備えましょう.</li>
+    <li>voidStructuresLetterLabel->ヴォイド構造体</li>
+    <li>voidStructuresLetterText->どこからともなく,ねじれた構造体がいくつか出現していいます.それらは闇のサイキックエネルギーで脈動しており,近くの植物を枯らしてしまいます.\n\nさらに進めるには構造体を起動しましょう.</li>
+    <li>gleamingMonolithWarningLetterLabel->強まる捻れ</li>
+    <li>gleamingMonolithWarningLetterText->モノリスの形の歪みが始まり,ますます強くなっています.何かが起ころうとしています...</li>
+    <li>gleamingMonolithLetterLabel->ヴォイドモノリス</li>
+    <li>gleamingMonolithLetterText->モノリスが完全に覚醒しました.その上には渦巻く闇の渦巻きがあり,ヴォイドへの導管を形成しています.\n\nモノリスのもとへ向かい,それを使って向こう側へ通り抜けましょう.そうすることで,不自然な闇と恐怖の襲撃は終わるでしょう.</li>
+    <li>monolithTwistingAlertLabel->捻れゆくモノリス</li>
+    <li>monolithTwistingAlertExplanation->モノリスは動くことなく捻れ,それ自体と見る人々の精神を捻じ曲げています.何かが起こっています.すぐに準備をしましょう.</li>
+  </EndGame_VoidAwakening.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->void awakening</li>
+  -->
+  <EndGame_VoidAwakening.questNameRules.rulesStrings>
+    <li>questName->ヴォイドの覚醒</li>
+  </EndGame_VoidAwakening.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Anomaly monolith</li>
+  -->
+  <EndGame_VoidMonolith.questNameRules.rulesStrings>
+    <li>questName->アノマリーモノリス</li>
+  </EndGame_VoidMonolith.questNameRules.rulesStrings>
+  
+</LanguageData>
