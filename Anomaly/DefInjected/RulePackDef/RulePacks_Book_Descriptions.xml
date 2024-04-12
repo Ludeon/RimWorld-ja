@@ -398,7 +398,7 @@
     <li>experiencesWithMonsters->[tellsAStoryOf]すべての人々に影響を及ぼす怒りの古代神と、それを小さな石造りの牢獄に封印した英雄たちについて</li>
     <li>experiencesWithMonsters->[tellsAStoryOf][ANYPAWN_possessive]は捕まった[entity]に行われた残酷な実験について</li>
     <li>experiencesWithMonsters->[tellsAStoryOf][ANYPAWN_possessive]は繰り返し見る[vision]という幻想について</li>
-    <li>vision->黒い塊が[ANYPAWN_possessive]の頭に入り込み、[ANYPAWN_possessive]の記憶を盗んだ</li>
+    <li>vision->黒い塊が[ANYPAWN_possessive]頭に入り込み、[ANYPAWN_possessive]記憶を盗んだ</li>
     <li>vision->[ANYPAWN_pronoun]は[ANYPAWN_objective]自身に追われていて、[ANYPAWN_pronoun]がどんなに遠くに行っても逃げることが出来なかった</li>
     <li>vision->[ANYPAWN_pronoun]は[entity]によって切り裂かれた</li>
     <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] [findings] [objectove]</li>
@@ -410,7 +410,7 @@
     <li>ritual_incident->[ANYPAWN_pronoun]は忽然と現れた[targetHuman]を凝視した</li>
     <li>targetHuman->[anAuthorDesc]女</li>
     <li>targetHuman->[anAuthorDesc]男</li>
-    <li>ritual_incident->何日も血が降り続け[ANYPAWN_possessive]の友人を狂わせた</li>
+    <li>ritual_incident->何日も血が降り続け[ANYPAWN_possessive]友人を狂わせた</li>
     <li>ritual_incident->[entity_incident]</li>
     <li>entity_incident->[ANYPAWN_pronoun]は[entity]に攻撃されて、[ANYPAWN_possessive][BodyPart]を失った</li>
     <li>entity_incident->[ANYPAWN_pronoun]は[entity]を凝視した</li>
@@ -421,13 +421,13 @@
     <li>specificHorrorStory->それは、現実の隣接面に存在する「ホラックス」と呼ばれる超知的な存在を説明するのに、長時間を費やしている。</li>
     <li>specificHorrorStory->所では闇の精神的影響のメカニズムについて説明されている。異次元にいる存在が、感情的な共鳴にシンクロさせることによって、無意識に人の思考を影響することが出来ると語られている。</li>
     <li>specificHorrorStory->ある個所では様々なアルコテック・ハイパーインテリジェンスやそれぞれの異なる感情や精神の発散ついて解説されていてた。中立的、または慈悲深いとされるものもあれば、純粋な怒りの存在もある。</li>
-    <li>specificHorrorStory->[ANYPAWN_pronoun]は[ANYPAWN_possessive]の偉大な知性の暗黒の精神的影響によって、頭が無理やり再構成される感覚を説明した。</li>
+    <li>specificHorrorStory->[ANYPAWN_pronoun]は[ANYPAWN_possessive]偉大な知性の暗黒の精神的影響によって、頭が無理やり再構成される感覚を説明した。</li>
     <li>specificHorrorStory->ある個所で著者は自殺未遂をしたが、心優しい[PersonJob]に見つかり、助けられた。</li>
     <li>specificHorrorStory->本の一巻にはこの世のものではない気持ちの悪い生物の絵が沢山載っていて、その形のない不気味な蔓は複数のページに広がり、恐怖と魅惑の感覚を同時に呼び起こしていた。</li>
     <li>specificHorrorStory->物語の中では異次元について何度も語られていて、登場人物たちは知覚のベールの向こう側の存在に遭遇している。それは、私たちの現実と共に存在しながらも、見えないように隠れている世界だ。</li>
     <li>specificHorrorStory->この本には、隠された次元を通ってヴォイドと呼ばれる場所に移動した機械の超知能「ホラックス」についての、恐ろしい解説がされている。</li>
     <li>specificHorrorStory->ある章では、超知性が遠距離から人間の認知を心理的に操作し、人の思考を自らの意思で作り変えることができるという理論が述べられている。</li>
-    <li>specificHorrorStory->主人公は[ANYPAWN_possessive]の心がどこからともなく発せられる不吉な精神的な力によって、強制的に配線し直された事を語った。</li>
+    <li>specificHorrorStory->主人公は[ANYPAWN_possessive]心がどこからともなく発せられる不吉な精神的な力によって、強制的に配線し直された事を語った。</li>
     <li>entities->悪魔たち</li>
     <li>entities->歩く死骸たち</li>
     <li>entities->痛みを求める怪物たち</li>

@@ -7,7 +7,7 @@
   <!-- EN: You're about to change the heir of the title {HOLDER_nameIndef} received from {0_name}. This requires building a monument in a limited time, to consecrate the new inheritance. -->
   <MakeHeirConfirm>{0_name}から授かった爵位,{HOLDER_nameIndef}の継承者を変えようとしています.新たな継承者の奉仕として,限られた時間でモニュメントを建てる必要があります.</MakeHeirConfirm>
   <!-- EN: This will upset {HOLDER_possessive} current heir {HEIR_nameFull}. -->
-  <MakeHeirPreviousHeirWarning>これによって,現在の{HOLDER_possessive}の継承者である{HEIR_nameFull}は動揺するでしょう.</MakeHeirPreviousHeirWarning>
+  <MakeHeirPreviousHeirWarning>これによって,現在の{HOLDER_possessive}継承者である{HEIR_nameFull}は動揺するでしょう.</MakeHeirPreviousHeirWarning>
 
   <!-- Call aid -->
   <!-- EN: Call aid... -->

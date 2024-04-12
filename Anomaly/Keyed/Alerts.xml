@@ -18,7 +18,7 @@
   <Alert_UndercaveUnstableDesc>地底洞窟が不安定になり,間もなく崩落します.\n\n手遅れになる前に入植者を外に出しましょう.</Alert_UndercaveUnstableDesc>
 
   <Alert_CultistPsychicRitual>崇拝者のサイキック儀式</Alert_CultistPsychicRitual>
-  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef}の{INVOKER_nameDef}が{RITUAL_definite}の儀式を始めました.{INVOKER_objective}を妨害しない場合,悲惨な結果を招くかもしれません.</Alert_CultistPsychicRitualDesc>
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef}の{INVOKER_nameDef}が{RITUAL_definite}の儀式を始めました.{INVOKER_objective}妨害しない場合,悲惨な結果を招くかもしれません.</Alert_CultistPsychicRitualDesc>
 
   <AlertMeatHunger>グールの飢え</AlertMeatHunger>
   <AlertMeatHungerDesc>グールが生肉に飢えています</AlertMeatHungerDesc>

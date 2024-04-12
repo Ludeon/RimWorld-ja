@@ -52,8 +52,8 @@
   <Firebomber51.titleShort>爆撃機手</Firebomber51.titleShort>
   
   <!-- EN: Despite being in an infantry battalion, [PAWN_nameDef] rarely fired a gun. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels. -->
-  <InfantryEngineer46.description>歩兵大隊にいるにもかかわらず,[PAWN_nameDef]はめったに銃を撃ちませんでした. [PAWN_possessive]の専門分野は,防御,トラップ,防御的な設置,および排水トンネルの迅速な建設でした.</InfantryEngineer46.description>
-  <InfantryEngineer46.baseDesc>歩兵大隊にいるにもかかわらず,[PAWN_nameDef]はめったに銃を撃ちませんでした. [PAWN_possessive]の専門分野は,防御,トラップ,防御的な設置,および排水トンネルの迅速な建設でした.</InfantryEngineer46.baseDesc>
+  <InfantryEngineer46.description>歩兵大隊にいるにもかかわらず,[PAWN_nameDef]はめったに銃を撃ちませんでした. [PAWN_possessive]専門分野は,防御,トラップ,防御的な設置,および排水トンネルの迅速な建設でした.</InfantryEngineer46.description>
+  <InfantryEngineer46.baseDesc>歩兵大隊にいるにもかかわらず,[PAWN_nameDef]はめったに銃を撃ちませんでした. [PAWN_possessive]専門分野は,防御,トラップ,防御的な設置,および排水トンネルの迅速な建設でした.</InfantryEngineer46.baseDesc>
   <!-- EN: infantry engineer -->
   <InfantryEngineer46.title>工兵</InfantryEngineer46.title>
   <!-- EN: engineer -->
@@ -68,8 +68,8 @@
   <InfantryMedic6.titleShort>看護兵</InfantryMedic6.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men. -->
-  <InfantryOfficer49.description>[PAWN_nameDef]は帝国大隊の将校でした. [PAWN_pronoun]は[PAWN_possessive]の仕事をうまく行うための社会的スキルと戦闘スキルを開発し,男性から尊敬されました.</InfantryOfficer49.description>
-  <InfantryOfficer49.baseDesc>[PAWN_nameDef]は帝国大隊の将校でした. [PAWN_pronoun]は[PAWN_possessive]の仕事をうまく行うための社会的スキルと戦闘スキルを開発し,男性から尊敬されました.</InfantryOfficer49.baseDesc>
+  <InfantryOfficer49.description>[PAWN_nameDef]は帝国大隊の将校でした. [PAWN_pronoun]は[PAWN_possessive]仕事をうまく行うための社会的スキルと戦闘スキルを開発し,男性から尊敬されました.</InfantryOfficer49.description>
+  <InfantryOfficer49.baseDesc>[PAWN_nameDef]は帝国大隊の将校でした. [PAWN_pronoun]は[PAWN_possessive]仕事をうまく行うための社会的スキルと戦闘スキルを開発し,男性から尊敬されました.</InfantryOfficer49.baseDesc>
   <!-- EN: infantry officer -->
   <InfantryOfficer49.title>歩兵士官</InfantryOfficer49.title>
   <!-- EN: officer -->
@@ -124,24 +124,24 @@
   <MilitaryCook18.titleShort>炊事兵</MilitaryCook18.titleShort>
   
   <!-- EN: When not training or combat, [PAWN_nameDef] was often at the chaplain's side. [PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion. -->
-  <PiousSoldier67.description>訓練も戦闘もしていないとき,[PAWN_nameDef]はしばしば牧師の側にいました. [PAWN_pronoun]は,[PAWN_possessive]の主と[PAWN_possessive]の両方の宗教に奉仕することに[PAWN_possessive]の人生を捧げました.</PiousSoldier67.description>
-  <PiousSoldier67.baseDesc>訓練も戦闘もしていないとき,[PAWN_nameDef]はしばしば牧師の側にいました. [PAWN_pronoun]は,[PAWN_possessive]の主と[PAWN_possessive]の両方の宗教に奉仕することに[PAWN_possessive]の人生を捧げました.</PiousSoldier67.baseDesc>
+  <PiousSoldier67.description>訓練も戦闘もしていないとき,[PAWN_nameDef]はしばしば牧師の側にいました. [PAWN_pronoun]は,[PAWN_possessive]主と[PAWN_possessive]両方の宗教に奉仕することに[PAWN_possessive]人生を捧げました.</PiousSoldier67.description>
+  <PiousSoldier67.baseDesc>訓練も戦闘もしていないとき,[PAWN_nameDef]はしばしば牧師の側にいました. [PAWN_pronoun]は,[PAWN_possessive]主と[PAWN_possessive]両方の宗教に奉仕することに[PAWN_possessive]人生を捧げました.</PiousSoldier67.baseDesc>
   <!-- EN: pious soldier -->
   <PiousSoldier67.title>敬虔な兵士</PiousSoldier67.title>
   <!-- EN: pious soldier -->
   <PiousSoldier67.titleShort>敬虔な兵士</PiousSoldier67.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a skilled artist and military propagandist. [PAWN_pronoun] created works of art depicting [PAWN_possessive] lords and armies favorably. -->
-  <Propagandist86.description>[PAWN_nameDef]は,熟練した芸術家であり,軍事プロパガンダの宣伝者でした. [PAWN_pronoun]は[PAWN_possessive]の領主と軍を好意的に描いた芸術作品を作成しました.</Propagandist86.description>
-  <Propagandist86.baseDesc>[PAWN_nameDef]は,熟練した芸術家であり,軍事プロパガンダの宣伝者でした. [PAWN_pronoun]は[PAWN_possessive]の領主と軍を好意的に描いた芸術作品を作成しました.</Propagandist86.baseDesc>
+  <Propagandist86.description>[PAWN_nameDef]は,熟練した芸術家であり,軍事プロパガンダの宣伝者でした. [PAWN_pronoun]は[PAWN_possessive]領主と軍を好意的に描いた芸術作品を作成しました.</Propagandist86.description>
+  <Propagandist86.baseDesc>[PAWN_nameDef]は,熟練した芸術家であり,軍事プロパガンダの宣伝者でした. [PAWN_pronoun]は[PAWN_possessive]領主と軍を好意的に描いた芸術作品を作成しました.</Propagandist86.baseDesc>
   <!-- EN: propagandist -->
   <Propagandist86.title>プロパガンディスト</Propagandist86.title>
   <!-- EN: propagandist -->
   <Propagandist86.titleShort>プロパガンディスト</Propagandist86.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a professional military sniper. [PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location. -->
-  <ReconSniper89.description>[PAWN_nameDef]はプロの軍属狙撃兵でした. [PAWN_pronoun]は,敵が[PAWN_possessive]の位置を特定するより前に,予想外の射撃位置に素早く到達し,キーターゲットを狙撃した後,脱出するように訓練されました.</ReconSniper89.description>
-  <ReconSniper89.baseDesc>[PAWN_nameDef]はプロの軍属狙撃兵でした. [PAWN_pronoun]は,敵が[PAWN_possessive]の位置を特定するより前に,予想外の射撃位置に素早く到達し,キーターゲットを狙撃した後,脱出するように訓練されました.</ReconSniper89.baseDesc>
+  <ReconSniper89.description>[PAWN_nameDef]はプロの軍属狙撃兵でした. [PAWN_pronoun]は,敵が[PAWN_possessive]位置を特定するより前に,予想外の射撃位置に素早く到達し,キーターゲットを狙撃した後,脱出するように訓練されました.</ReconSniper89.description>
+  <ReconSniper89.baseDesc>[PAWN_nameDef]はプロの軍属狙撃兵でした. [PAWN_pronoun]は,敵が[PAWN_possessive]位置を特定するより前に,予想外の射撃位置に素早く到達し,キーターゲットを狙撃した後,脱出するように訓練されました.</ReconSniper89.baseDesc>
   <!-- EN: recon sniper -->
   <ReconSniper89.title>前哨狙撃兵</ReconSniper89.title>
   <!-- EN: sniper -->

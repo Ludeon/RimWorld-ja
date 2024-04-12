@@ -9,12 +9,12 @@
   <!-- EN: body mastery -->
   <BodyMastery.label>肉体の達人</BodyMastery.label>
   <!-- EN: {PAWN_nameDef}'s eyes are pure white. Using local folk knowledge, {PAWN_pronoun} has mastered {PAWN_possessive} metabolic and circadian rhythms. At least, that's what {PAWN_pronoun} claims. {PAWN_nameDef} never sleeps and doesn't need to eat, though in {PAWN_possessive} eyes you see a primal hunger. -->
-  <BodyMastery.letterExtra>{PAWN_nameDef}の目は純白です.現地の民間知識を用い,{PAWN_pronoun}は{PAWN_possessive}代謝と概日リズムをマスターしました.少なくとも,{PAWN_pronoun}はそう主張しています.{PAWN_nameDef}は決して眠らず,食事もしませんが,{PAWN_possessive}の目には原始的な飢えが見え隠れします.</BodyMastery.letterExtra>
+  <BodyMastery.letterExtra>{PAWN_nameDef}の目は純白です.現地の民間知識を用い,{PAWN_pronoun}は{PAWN_possessive}代謝と概日リズムをマスターしました.少なくとも,{PAWN_pronoun}はそう主張しています.{PAWN_nameDef}は決して眠らず,食事もしませんが,{PAWN_possessive}目には原始的な飢えが見え隠れします.</BodyMastery.letterExtra>
   
   <!-- EN: death refusal -->
   <DeathRefusal.label>死を拒む者</DeathRefusal.label>
   <!-- EN: As the former subject of a cultist ritual, {PAWN_nameDef} has the ability to defy death. Black archotechnology courses throughout {PAWN_possessive} body, allowing {PAWN_objective} to self-resurrect. When {PAWN_pronoun} does, {PAWN_possessive} flesh rapidly reforms, replacing missing organs and healing wounds. The process is, however, imperfect. -->
-  <DeathRefusal.letterExtra>かつて崇拝者の儀式の対象であった{PAWN_nameDef}は,死に抗う能力をテにしています.黒きアルコテクノロジーが{PAWN_possessive}の前進を巡り,{PAWN_objective}が自己再生することを可能としているのです.{PAWN_pronoun}が死亡すると,{PAWN_possessive}の肉体は休息に再生し,欠損した臓器は補われ,傷は治療されます.ですが,そのプロセスは不完全なものです</DeathRefusal.letterExtra>
+  <DeathRefusal.letterExtra>かつて崇拝者の儀式の対象であった{PAWN_nameDef}は,死に抗う能力をテにしています.黒きアルコテクノロジーが{PAWN_possessive}前進を巡り,{PAWN_pronoun}が自己再生することを可能としているのです.{PAWN_pronoun}が死亡すると,{PAWN_possessive}肉体は休息に再生し,欠損した臓器は補われ,傷は治療されます.ですが,そのプロセスは不完全なものです</DeathRefusal.letterExtra>
   
   <!-- EN: fleshcrafter -->
   <Fleshcrafter.label>肉体造り師</Fleshcrafter.label>
@@ -34,7 +34,7 @@
   <!-- EN: perfect human -->
   <PerfectHuman.label>完璧な人間</PerfectHuman.label>
   <!-- EN: {PAWN_nameDef} is skilled in everything to an unnatural degree. Regardless of the subject, {PAWN_pronoun} has mastered it. In addition, {PAWN_possessive} work ethic is remarkable. {PAWN_pronoun} appears to be the perfect worker. -->
-  <PerfectHuman.letterExtra>{PAWN_nameDef}は不自然なまでにあらゆることに精通しています.対象が何であろうと,{PAWN_pronoun}はそれを習熟しているのです.さらに,{PAWN_possessive}の労働倫理も目を見張るものがあります.{PAWN_pronoun}はまるで完璧な労働者のようです.</PerfectHuman.letterExtra>
+  <PerfectHuman.letterExtra>{PAWN_nameDef}は不自然なまでにあらゆることに精通しています.対象が何であろうと,{PAWN_pronoun}はそれを習熟しているのです.さらに,{PAWN_possessive}労働倫理も目を見張るものがあります.{PAWN_pronoun}はまるで完璧な労働者のようです.</PerfectHuman.letterExtra>
   
   <!-- EN: psychic butcher -->
   <PsychicButcher.label>サイキック解体者</PsychicButcher.label>
@@ -49,6 +49,6 @@
   <!-- EN: unnatural healing -->
   <UnnaturalHealing.label>不自然な治癒</UnnaturalHealing.label>
   <!-- EN: {PAWN_pronoun} offers to use {PAWN_possessive} healing power to help you. -->
-  <UnnaturalHealing.letterExtra>{PAWN_pronoun}は{PAWN_possessive}の治癒の力を使ってあなたを助けると申し出ています.</UnnaturalHealing.letterExtra>
+  <UnnaturalHealing.letterExtra>{PAWN_pronoun}は{PAWN_possessive}治癒の力を使ってあなたを助けると申し出ています.</UnnaturalHealing.letterExtra>
   
 </LanguageData>
