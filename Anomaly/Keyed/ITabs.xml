@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>\n\n<LanguageData>
+
+  <!-- ITab_Entity -->
+  <HoldingPlatformEscapeMTBDays>脱走間隔</HoldingPlatformEscapeMTBDays>
+  <HoldingPlatformEscapeMTBDaysDesc>脱走するまでの平均時間です.これは収容強度,「存在」の種類,「存在」の移動能力,「存在」の収容間に影響されます.また,寒さによって抑制される「存在」もいます.</HoldingPlatformEscapeMTBDaysDesc>
+  <TabEntity>「存在」</TabEntity>
+  <StudyInterval>研究間隔</StudyInterval>
+  <StudyIntervalDesc>この「存在」が研究できる頻度です.</StudyIntervalDesc>
+  <EntityStudyMode_MaintainOnly>維持のみ</EntityStudyMode_MaintainOnly>
+  <EntityStudyMode_MaintainOnlyDesc>看守はこの「存在」に対して特別な行動を行いませんが,その他の干渉は可能です.</EntityStudyMode_MaintainOnlyDesc>
+  <EntityStudyMode_Study>研究</EntityStudyMode_Study>
+  <EntityStudyMode_StudyDesc>研究員が「存在」を研究します.</EntityStudyMode_StudyDesc>
+  <EntityStudyMode_Release>解放</EntityStudyMode_Release>
+  <EntityStudyMode_ReleaseDesc>看守がこの「存在」を収容プラットフォームから解放します.解放された「存在」は敵対する可能性があります.</EntityStudyMode_ReleaseDesc>
+  <EntityStudyMode_Execute>処刑</EntityStudyMode_Execute>
+  <EntityStudyMode_ExecuteDesc>看守が拘束した「存在」を処刑します.</EntityStudyMode_ExecuteDesc>
+  <CantBeExecuted>処刑不可</CantBeExecuted>
+  <StudyKnowledgeGain>知識獲得量</StudyKnowledgeGain>
+  <StudyKnowledgeGainDesc>研究間隔ごとに得られる知識の獲得量です.うまく収容するほど,研究員が安全に研究する助けとなり,獲得できる知識量も増加します.</StudyKnowledgeGainDesc>
+  <MedicineQualityDescriptionEntity>この「存在」に投与できる薬の種類です.</MedicineQualityDescriptionEntity>
+
+  <FactorForElectroharvester>エレクトロハーベスター</FactorForElectroharvester>
+  <FactorForDaysInCaptivity>長期収容</FactorForDaysInCaptivity>
+  <FactorForColdCaptivity>寒気収容ボーナス</FactorForColdCaptivity>
+  <IncapableOfEscaping>脱走不可</IncapableOfEscaping>
+  <EntityDowned>「存在」意識不明</EntityDowned>
+  <FactorContainmentStrength>収容強度</FactorContainmentStrength>
+  <FactorElectroharvester>エレクトロハーベスター</FactorElectroharvester>
+  <FactorActivity>活動</FactorActivity>\n\n</LanguageData>

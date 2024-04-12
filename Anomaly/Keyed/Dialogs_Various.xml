@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Reading management -->
+  <MaxMentalBreakChance>最大精神崩壊確率{0}</MaxMentalBreakChance>
+  <TomePolicy>書物</TomePolicy>
+
+  <!-- Caravan -->
+  <EntitiesSection>「存在」</EntitiesSection>
+  
+  <!-- Hidden items filter -->
+  <UndiscoveredItemLabel>未知</UndiscoveredItemLabel>
+  <UndiscoveredItemDesc>このアイテムはまだ発見していません.</UndiscoveredItemDesc>
+
+  <!-- Medical settings -->
+  <MedGroupEntities>「存在」</MedGroupEntities>
+  <MedGroupEntitiesDesc>異常存在とその亜種です.</MedGroupEntitiesDesc>
+
+  <MedGroupGhouls>グール</MedGroupGhouls>
+  <MedGroupGhoulsDesc>あなたのコロニーにいるグールです.</MedGroupGhoulsDesc>
+
+  <GhoulConfirmation>{PAWN_nameDef}をグールに変えることは不可逆です.{PAWN_pronoun}は半意識不明の昏睡状態となり,作業が行えなくなります.\n\n本当に{PAWN_nameDef}をグールに変えてもいいですか？</GhoulConfirmation>
+
+  <RoomRequirementNoAnomalyBuildings>アノマリーの建物が不許可</RoomRequirementNoAnomalyBuildings>
+
+  <EntityCodex>「存在」辞典</EntityCodex>
+  <EntityCodexGizmoTip>発見されたすべての「存在」を確認できます.新しい「存在」を見つけることで,モノリスの研究を進展させ,新たな研究計画が行えます.</EntityCodexGizmoTip>
+  <ResearchUnlocks>研究をアンロック</ResearchUnlocks>
+  <EntityCodexDesc>このページの一覧には、闇のヴォイドに関連する既知の「存在」がすべて記載されています.サイキック儀式「ヴォイド喚起」を使うことで,新しい「存在」を見つけましょう.新たな「存在」を見つけることで新しい研究計画が現れ,ヴォイドモノリスの研究を進めることができます.</EntityCodexDesc>
+  <UndiscoveredEntity>未知の「存在」</UndiscoveredEntity>
+  <UndiscoveredEntityDesc>この「存在」はまだ発見されていません.サイキック儀式「ヴォイド喚起」を使用することで新しい「存在」を発見できます.</UndiscoveredEntityDesc>
+  <ViewEntityCodex>「存在」辞典を見る</ViewEntityCodex>\n\n</LanguageData>

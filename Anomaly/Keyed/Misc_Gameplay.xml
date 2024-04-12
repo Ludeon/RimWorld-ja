@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Shamblers -->
+  <ShamblerRegenerating>再復活のために再生中.</ShamblerRegenerating>
+  <ShamblerRising>復活中.</ShamblerRising>
+  <ShamblerStanding>無関心に立っている.</ShamblerStanding>
+  <ShamblerShuffling>無関心に足を引きずって歩いている.</ShamblerShuffling>
+  <LetterText_ShamblerGorehulk>この集団には,シャンブラー・ゴアハルクがいるので注意しよう.</LetterText_ShamblerGorehulk>
+  <LetterText_ShamblerGorehulkPlural>この集団には,複数のシャンブラー・ゴアハルクがいるので注意しよう.</LetterText_ShamblerGorehulkPlural>
+  <LetterText_ShamblerChimera>この集団には,シャンブラー・キメラがいるので注意しよう.</LetterText_ShamblerChimera>
+  <LetterText_ShamblerChimeraPlural>この集団には,複数のシャンブラー・キメラがいるので注意しよう.</LetterText_ShamblerChimeraPlural>
+
+  <MessageRitualCannotBeMutant>人間以外は儀式に参加できません.</MessageRitualCannotBeMutant>
+
+  <!-- Revenant -->
+  <LetterLabelRevenantRevealed>レヴナントの襲撃</LetterLabelRevenantRevealed>
+  <LetterRevenantRevealed>レヴナントが姿を現しました！</LetterRevenantRevealed>
+  <LetterRevenantRevealedFirst>レヴナントが姿を現し,入植者の1人を襲っています！</LetterRevenantRevealedFirst> 
+  <LetterLabelRevenantSmearDiscovered>レヴナントの汚れを発見</LetterLabelRevenantSmearDiscovered>
+  <LetterRevenantSmearDiscovered>{0}は地面に黒い液体がついているのに気づきました.不自然なみためのそれは,刺激臭を放っています.それはまだ新しく,湿っています.不気味な「存在」が最近通ったようです.</LetterRevenantSmearDiscovered>
+  <LetterLabelRevenantKilled>レヴナントの殺害</LetterLabelRevenantKilled>
+  <LetterRevenantKilled>レヴナントが死亡しました！催眠にかかった者は回復します.\n\nその体は消滅し,脊椎だけが残されました.脊椎を回収して研究することも,破壊することもできます.</LetterRevenantKilled>
+  <LetterLabelPawnHypnotized>{PAWN_nameDef}の催眠</LetterLabelPawnHypnotized>
+  <LetterPawnHypnotized>{PAWN_nameDef}はレヴナントによって催眠にかけられ,悪夢のようなイメージと考えを支離滅裂にしゃべっています.\n\nレヴナントを殺すことで催眠は解除されます.\n\nレヴナントはサイキックの力を使って周囲の知覚を歪め,自身の姿を隠します.ただし,レヴナントが残す黒い汚れを追いかけることで見つけることが可能です.レヴナントは爆発武器,泡消火器,EMP,炎,妨害フレアを当てることで姿を現します.\n\n殺されなければ,レヴナントは新たな犠牲者に催眠をかけつづけます.</LetterPawnHypnotized>
+  <LetterRevenantFleshChunkLabel>レヴナントの肉塊</LetterRevenantFleshChunkLabel>
+  <LetterRevenantFleshChunkText>傷ついたレヴナントは自分の肉片を残していきました.この肉塊を分析することで,レヴナントを追跡する方法を知ることがでできます.</LetterRevenantFleshChunkText>
+  <LetterRevenantSeenLabel>レヴナントの発見</LetterRevenantSeenLabel>
+  <LetterRevenantSeen>{PAWN_nameDef}が隠れているレヴナントを発見しました！</LetterRevenantSeen>
+  <InTrance>トランス状態です.</InTrance>
+  <LetterLabelRevenantEmergence>レヴナントの出現</LetterLabelRevenantEmergence>
+  <LetterRevenantEmergence>レヴナントがその脊椎から再出現しました！逃げる前に倒しましょう.\n\nこのプロセスで,レヴナントは変異し,新たなバイオシグネチャーを獲得しました.</LetterRevenantEmergence>
+
+  <!-- Sightstealers -->
+  <LetterLabelSightstealerRevealed>サイトスティーラーの発見</LetterLabelSightstealerRevealed>
+  <LetterSightstealerRevealed>捻れた生物が忽然と姿を現しました！</LetterSightstealerRevealed>
+  <MessageSightstealerRevealed>サイトスティーラーが出現しました！</MessageSightstealerRevealed>
+  <LetterLabelSightstealerHowl>サイトスティーラーの金切り声</LetterLabelSightstealerHowl>
+  <LetterSightstealerHowl>入植者たちが,遠くでサイトスティーラーの金切り声を聞きました.\n\nそれがどこで,何体いるのかはわかりません.すぐにやってくるかもしれませんし,しばらくかかるかもしれません.</LetterSightstealerHowl>
+  <LetterLabelSightstealerHowlBig>サイトスティーラーの咆哮</LetterLabelSightstealerHowlBig>
+  <LetterSightstealerHowlBig>入植者たちが,遠くから多数のサイトスティーラーによる歪んだ怒りの叫び声を聞きました.サイトスティーラーがやってくるでしょう.\n\nすぐにくるかもしれませんし,しばらくかかるかもしれません.</LetterSightstealerHowlBig>
+
+  <!-- Death Pall -->
+  <LetterLabelDeathPallEnded>死の帳がの消滅</LetterLabelDeathPallEnded> 
+  <LetterDeathPallEnded>死の帳が晴れてきました.死から蘇った遺体は,まもなく自然な状態に戻るでしょう.</LetterDeathPallEnded>
+  
+  <!-- Pit Gate -->
+  <LetterLabelGateClosing>ピットゲートの閉鎖</LetterLabelGateClosing>
+  <LetterGateClosing>ピットゲートが閉じていきます！入口は今にも崩れそうです.\n\nピットゲートの入口は最初から不安定で,ついに自ら閉じようとしています.</LetterGateClosing>
+  <MustPlaceNextToPitGate>ピットゲートの隣に配置する必要があります.</MustPlaceNextToPitGate>
+  <PitGateClosedHumanityNote>ピットゲートが閉じられました</PitGateClosedHumanityNote>
+  <PitGateCollapsing>ピットゲートの崩落</PitGateCollapsing> 
+  <PitGateSettling>ピットゲートの沈下</PitGateSettling> 
+  <ViewUndercave>地下洞窟を見る</ViewUndercave> 
+  <ViewUndercaveDesc>繋がった地下洞窟の地図を確認します.</ViewUndercaveDesc>
+  <ViewSurface>地表を見る</ViewSurface>
+  <ViewSurfaceDesc>繋がった地表の地図を確認します.</ViewSurfaceDesc>
+  <EmergenceWarningLabel>ぐらつく穴</EmergenceWarningLabel>
+  <EmergenceWarningText>足元の地面が揺れ,穴から響いている非人間的な悲鳴が近づいてきているようです.まもなく何かが現れるでしょう.</EmergenceWarningText>
+
+  <!-- Pit Burrow -->
+  <DesignatorFillIn>埋める</DesignatorFillIn>
+  <DesignatorFillInDesc>この竪穴を埋めます.</DesignatorFillInDesc>
+
+    <!-- Undercave -->
+  <EnterPitGate>ピットゲートへ入る</EnterPitGate> 
+  <ExitPitGate>地表へ上がる</ExitPitGate>
+  <LetterLabelGateEntered>フレッシュビーストの巣</LetterLabelGateEntered> 
+  <LetterGateEntered>ピットゲートの奥深くには,フレッシュビーストがはびこる巨大な洞窟網がありました.\n\n洞窟網は,あなたの進行を妨げる生きた肉塊で詰まっています.肉塊を攻撃することで破壊できます.\n\n洞窟網全体が不安定なようです.肉塊の背後にあるものを見つければ,トンネルを崩してピットゲートを閉じることができるかもしれません.</LetterGateEntered> 
+  <LetterLabelDreadmeldWarning>身悶えする音</LetterLabelDreadmeldWarning> 
+  <LetterDreadmeldWarning>{PAWN_nameDef}が肉塊に近づくと,そのあたたかな表面のしたから,重くうごめくような鼓動を感じました.何か巨大な存在が,肉塊の壁の後ろに隠れているようです.</LetterDreadmeldWarning> 
+  <LetterLabelUndercaveCollapsing>不安定な地底洞窟</LetterLabelUndercaveCollapsing> 
+  <LetterUndercaveCollapsing>ドレッドメルドの死は肉塊に衝撃を与え,洞窟網を不安定にさせました.洞窟を支えていた肉塊はすでに劣化し始めていいます.半日以内に,洞窟全体が崩壊するでしょう.\n\n手遅れになる前に,地下洞窟を脱出しましょう！</LetterUndercaveCollapsing>
+
+  <!-- Holding platform -->
+  <HoldingThing>収容</HoldingThing>
+  <RemoveFromPlatform>{0_labelShort}を取り除く</RemoveFromPlatform>
+  <RemoveFromPlatformDesc>現在このプラットフォームに収容されている「存在」を取り除きます.</RemoveFromPlatformDesc>
+  <ReleasingEntity>{TARGETLABEL}からの{GERUND}</ReleasingEntity>
+  <TransferringEntity>{GERUND} {TARGETLABEL}</TransferringEntity>
+  <SelectHoldingPlatform>収容プラットフォームを選択</SelectHoldingPlatform>
+  <LetterLabelEscapingFromHoldingPlatform>「存在」の脱走</LetterLabelEscapingFromHoldingPlatform> 
+  <LetterEscapingFromHoldingPlatform>以下の「存在」が拘束から脱走しました：\n\n{0}\n\n「存在」の逃亡を阻止するため,より強固な収容室を建設してください,頑丈な壁やドア,より良い照明,特別な収容装置があるほど収容プラットフォームの収容強度が高まり,「存在」の脱走確率が低下します.</LetterEscapingFromHoldingPlatform> 
+  <HoldingPlatformRequiresStrength>{0}が必要</HoldingPlatformRequiresStrength>
+  <NoHoldingPlatformsAvailable>利用可能な収容プラットフォームがありません.</NoHoldingPlatformsAvailable>
+  
+  
+  <!-- Obelisks -->
+  <MutatorObeliskLetterLabel>オベリスクの起動</MutatorObeliskLetterLabel>
+  <MutatorObeliskLetter>オベリスクが起動しています！オベリスクの周囲で空気がパチパチと音を立て,恐ろしいエネルギーが膨れ上がっています.オベリスクは大爆発を起こして自壊しようとしていますが,自壊の前に,オベリスクが検知したすべての生物に変異の力を使用します.</MutatorObeliskLetter>
+
+  <ObeliskTentacleLetterLabel>オベリスクの変異</ObeliskTentacleLetterLabel>
+  <ObeliskTentacleLetter>オベリスクに干渉している間,{PAWN_nameDef}は腕のうずきを感じました.数分後,{PAWN_possessive}の皮膚が裂け,身体から膿が吹き出してきました.{PAWN_possessive}の腕はうごめく触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.</ObeliskTentacleLetter>
+
+  <ObeliskFleshWhipLetterLabel>オベリスクの変異</ObeliskFleshWhipLetterLabel>
+  <ObeliskFleshWhipLetter>オベリスクに干渉している間,{PAWN_nameDef}は腕のうずきを感じました.数分後,{PAWN_possessive}の皮膚が暴力的に裂け,身体から膿が激しく吹き出してきました.{PAWN_possessive}の腕は先端に骨の刃のついた触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.触手は恐ろしい見た目ですが,優れた近接武器になるでしょう.</ObeliskFleshWhipLetter>
+
+  <MutatorObeliskFailedArmLetterLabel>オベリスクへの干渉</MutatorObeliskFailedArmLetterLabel>
+  <MutatorObeliskFailedArmLetter>オベリスクに干渉している間,{PAWN_nameDef}は暫くの間,腕のうずきを感じましたが,その感覚は過ぎ去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedArmLetter>
+
+  <ObeliskFleshmassStomachLetterLabel>オベリスクの変異</ObeliskFleshmassStomachLetterLabel>
+  <ObeliskFleshmassStomachLetter>オベリスクに干渉している間,{PAWN_nameDef}は胃に鋭い痛みを感じました.その後,{PAWN_possessive}の神経組織が乱れ,変異し始めました.{PAWN_possessive}の胃は,半ば知覚を持つ肉塊へと変異しました.胃が作り出す強力な酸は痛みを伴いますが,食中毒を防ぎます.</ObeliskFleshmassStomachLetter>
+
+  <MutatorObeliskFailedStomachLetterLabel>オベリスクへの干渉</MutatorObeliskFailedStomachLetterLabel>
+  <MutatorObeliskFailedStomachLetter>オベリスクに干渉している間,{PAWN_nameDef}は暫くの間,胃の痛みを感じましたが,その感覚は過ぎ去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedStomachLetter>
+
+  <ObeliskFleshmassLungLetterLabel>オベリスクの変異</ObeliskFleshmassLungLetterLabel>
+  <ObeliskFleshmassLungLetter>オベリスクに干渉している間,{PAWN_nameDef}は胸に鋭い痛みを感じました.その後,{PAWN_possessive}の肺が乱れ,変異し始めました.{PAWN_possessive}の肺は,半ば知覚を持つ,痛みを伴う肉塊へと変異しました.この肺組織は常に再生し,自己を置き換えていくため,肺腐敗や喘息の影響を受けません.</ObeliskFleshmassLungLetter>
+
+  <MutatorObeliskFailedLungLetterLabel>オベリスクへの干渉</MutatorObeliskFailedLungLetterLabel>
+  <MutatorObeliskFailedLungLetter>オベリスクに干渉している間,{PAWN_nameDef}は暫くの間,胸の痛みを感じましたが,その感覚は過ぎ去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedLungLetter>
+
+  <ObeliskAnimalMutationLetterLabel>オベリスクの変異</ObeliskAnimalMutationLetterLabel>
+  <ObeliskAnimalMutationLetter>オベリスクに干渉している間,{PAWN_nameDef}は突然のエネルギーの増幅を観測しました.オベリスクは{ANIMAL}の肉体を暴力的に歪め,恐るべきフレッシュビーストへ変異させました.</ObeliskAnimalMutationLetter>
+
+  <ObeliskTreeMutationLetterLabel>オベリスクの変異</ObeliskTreeMutationLetterLabel>
+  <ObeliskTreeMutationLetter>オベリスクに干渉している間,{PAWN_nameDef}は突然のエネルギーパルスを観測しました.オベリスクは近くの木をねじ曲げ,先触れの木に変異させてしまいました.この恐るべき木は,近くの死体や生肉を食べることができます.</ObeliskTreeMutationLetter>
+
+  <ObeliskDuplicationLetterLabel>オベリスクの複製</ObeliskDuplicationLetterLabel>
+  <ObeliskDuplicationLetter>{PAWN_nameDef}がオベリスクに干渉していると,オベリスクがエネルギーのパルスと閃光を放ちました.{PAWN_nameDef}は,眼の前に自分自身の複製がいることに気が付きました！複製は自分が本物の{PAWN_nameDef}であり,あなたのコロニーに加わると言っています.</ObeliskDuplicationLetter>
+
+  <ObeliskDuplicationFailedLetterLabel>オベリスクの失敗</ObeliskDuplicationFailedLetterLabel>
+  <ObeliskDuplicationFailedLetter>{PAWN_nameDef}はオベリスクを起動しようとしましたが,何も起こりませんでした.{PAWN_nameDef}の何かが,オベリスクによる{PAWN_objective}の複製を妨げているようです.</ObeliskDuplicationFailedLetter>
+  
+  <ObeliskDuplicationSuccessMessage>{PAWN_nameDef}はオベリスクの複製の起動に成功しました.</ObeliskDuplicationSuccessMessage>
+
+  <ObeliskHostileDuplicateLetterLabel>オベリスクの複製の敵対</ObeliskHostileDuplicateLetterLabel>
+  <ObeliskHostileDuplicateLetter>{PAWN_nameDef}がオベリスクに干渉していると,オベリスクがエネルギーのパルスと閃光を放ちました.{PAWN_nameDef}は,眼の前に自分自身の複製がいることに気が付きました！複製は暴力的な意図を持って,{PAWN_nameDef}に近づいています！</ObeliskHostileDuplicateLetter>
+
+  <DuplicatorObeliskLetterLabel>オベリスクの起動</DuplicatorObeliskLetterLabel>
+  <DuplicatorObeliskLetter>オベリスクが起動しています！オベリスクの周囲の空気が,エネルギーで弾けるような音を建てています.入植者の複製が,間もなく殺意とともに現れるでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意しましょう.</DuplicatorObeliskLetter>
+
+  <ObeliskAbductorLetterLabel>入植者の消滅</ObeliskAbductorLetterLabel>
+  <ObeliskAbductorLetter>歪んだオベリスクはバチバチとエネルギーを鳴り響かせ,周囲の空間を歪めています.あらゆる生物が姿を消し始め,間もなく完全に消滅するでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意しましょう.</ObeliskAbductorLetter>
+  
+  <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef}が消滅しています.</ObeliskAbductedDisappearingLetterLabel>
+  <ObeliskAbductedDisappearingLetter>{PAWN_nameDef}が歪んだオベリスクの動きに気が付きました.何らかの謎めいた内部機構が動き出し,{PAWN_nameDef}が消滅しはじめています.{PAWN_pronoun}は間もなく完全に消滅するでしょう.</ObeliskAbductedDisappearingLetter>
+  
+  <ObeliskAbductedLetterLabel>{PAWN_nameDef}の再出現</ObeliskAbductedLetterLabel>
+  <ObeliskAbductedLetter>{PAWN_nameDef}は奇妙な部屋にテレポートしました.その壁は正体不明の灰色の素材で,空気は死んだように静まり返っています.{PAWN_pronoun}は自分がどこにいるのか,どうやって家に帰れるのかわからないようです.\n\n知覚のドアは何かが詰まっているようですが,力を込めれば開けられそうです.右クリックで詰まったドアを開けることができます.\n\nオベリスクを研究することで,他の入植者は{PAWN_nameDef}に何が起きたのかを理解し,助ける方法を見つけられるかもしれません.また,オベリスクを攻撃すると,さらに多くの入植者が拐われる可能性があります.</ObeliskAbductedLetter>
+
+  <MutatorObeliskMutated>{PAWN_nameIndef}はフレッシュビーストに変異しました.</MutatorObeliskMutated>
+  <MutatorObeliskSpawned>地面からフレッシュビーストが出現しました.</MutatorObeliskSpawned>
+
+  <ObeliskActivateDesc>歪んだオベリスクが完全に起動しました.</ObeliskActivateDesc>
+  <ObeliskActivateDescWarning>警告：歪んだオベリスクが不安定です.完全に起動すると危険な反応を引き起こし,オベリスクが自壊する可能性があります.</ObeliskActivateDescWarning>
+
+  <ObeliskDeactivateMissingShards>無効化には{0}個の破片が必要</ObeliskDeactivateMissingShards>
+  
+  <!-- Activity / Supression -->
+  <ActivityLevel>活動レベル</ActivityLevel>
+  <IsPsychicallySuppressed>サイコサプレッション</IsPsychicallySuppressed>
+  <ActivityIncrease>上昇率</ActivityIncrease>
+  <NotInSealedRoom>封印室に不在</NotInSealedRoom>
+  <EnergyHarvesting>エネルギー収穫中</EnergyHarvesting>
+  <Unstable>不安定</Unstable>
+  <BaseLevel>基本レベル</BaseLevel>
+  <IsActive>機能中</IsActive>
+  <Resisted>抵抗</Resisted>
+  <HealthFactor>損傷</HealthFactor>
+  <Deactivated>無効化</Deactivated> <!-- -->
+
+  <CommandSent>{PAWN_labelShort}が送られました.</CommandSent>
+  <CannotActivateEntity>「存在」を活動させられません</CannotActivateEntity>
+  <CannotActivateEntityPlatform>「存在」はプラットフォームにいる必要があります</CannotActivateEntityPlatform>
+  
+  <ActivityGizmo>活動</ActivityGizmo>
+  <ActivitySuppressionTooltipTitle>自動抑制</ActivitySuppressionTooltipTitle>
+  <ActivitySuppressionTooltipDisabled>現在,自動抑制は無効になっています.看守が{PAWN_labelShort}を抑制するには有効にしてください.</ActivitySuppressionTooltipDisabled>
+  <ActivitySuppressionTooltipDesc>{0}の活動レベルは時間とともに上昇します.{0}がダメージを受けたり喚起されると,活動レベルの上昇が早くなります.\n\n活動レベルが100%になると,{0}は起動します.\n\n看守は{0}を抑制し,活動レベルを安全水域に維持できます.看守は,活動レベルが割り当てられたレベル以上の場合には常に抑制を行います：{LEVEL}\n\n活動レベルが高い「存在」は,研究時により多くの知識を得られます.</ActivitySuppressionTooltipDesc>
+  <ActivitySuppressionToggleTooltipDesc>これは活動レベルが{LEVEL}以下になったときに,自動的に{PAWN_labelShort}が抑制されるかを決定します.\n\n自動抑制は現在{ONOFF}になっています.</ActivitySuppressionToggleTooltipDesc>
+
+  <!-- Activity Descs -->
+  <ActivityLevelDesc>活動レベル</ActivityLevelDesc>
+  <PsychicallySuppressedDesc>サイコサプレッション</PsychicallySuppressedDesc>
+
+  <!-- Entity study -->
+  <CaptureEntity>捕獲</CaptureEntity>
+  <CaptureEntityDesc>{0_definite}を捕獲します.収容プラットフォームに拘束する必要があります.拘束すると,研究が可能になります.</CaptureEntityDesc>
+  <CancelCapture>捕獲不可</CancelCapture>
+  <CancelCaptureDesc>{0_definite}の捕獲をキャンセルします.</CancelCaptureDesc>
+  <ReadyToStudy>研究準備完了</ReadyToStudy>
+  <NoActiveResearchProject>{0}の知識カテゴリーで有効なアノマリー研究計画が選択されていません.</NoActiveResearchProject>
+  <Capturable>捕獲可能</Capturable>
+  <RequiresHoldingPlatform>収容プラットフォームに捕獲する必要があります.</RequiresHoldingPlatform>
+  <ChooseNociosphereDest>ノチオスフィアがテレポートする場所を選んでください.</ChooseNociosphereDest>
+  <TransferEntity>{0_definite}の移動</TransferEntity>
+  <TransferEntityDesc>収容された「存在」を別の収容プラットフォームに移動させます.</TransferEntityDesc>
+  <CancelTransfer>移動をキャンセル</CancelTransfer>
+  <CancelTransferDesc>この「存在」の別の収容プラットフォームへ移動をキャンセルします.</CancelTransferDesc>
+  
+  <!-- Metalhorrors -->
+  <EmergedFrom>出現元：</EmergedFrom>
+  <Emerging>メタルホラーの出現</Emerging>
+  
+  <ImplantSourceUnknown>コロニー到着前に寄生済</ImplantSourceUnknown>
+  <InsectImplant>虫からの寄生</InsectImplant>
+  <SleepImplant>睡眠中に{SOURCE_nameDef}から寄生</SleepImplant>
+  <SurgeryImplant>手術中に{SOURCE_nameDef}から寄生</SurgeryImplant>
+  <FoodImplant>{SOURCE_nameDef}によって調理された食事から寄生</FoodImplant>
+  <UnnaturalHealingImplant>{SOURCE_nameDef}による不自然な治癒から寄生</UnnaturalHealingImplant>
+  <FeedingImplant>{SOURCE_nameDef}から与えられた食事から寄生</FeedingImplant>
+
+  <MetalhorrorEmergingLabel>メタルホラーの出現</MetalhorrorEmergingLabel>
+  <MetalhorrorEmergingDesc>メタルホラーが出現します！肉と肌を切り裂き,この悪夢のような刃を盛った生物が,その宿主の中から姿を表します.メタルホラーの出現元：</MetalhorrorEmergingDesc>
+  <MetalhorrorEmergingPluralDesc>メタルホラーたちが出現します！肉と肌を切り裂き,この悪夢のような刃を盛った生物たちが,その宿主の中から姿を表します.メタルホラーの出現元：</MetalhorrorEmergingPluralDesc>
+  <MetalhorrorEmergingDescAppended>犠牲者の体内に寄生する恐るべき金属質の寄生体.毛髪のように細い金属フィラメントのネットワークを肉体と脳に広げることによって宿主の理性を支配します.犠牲者の精神を支配し,新たなメタルホラーを他者へと感染させます.</MetalhorrorEmergingDescAppended>
+  
+  <MetalhorrorSurgicalInspectionDetails>この医者たちはメタルホラーに感染して支配されているため,外科手術の結果について嘘をつきました.</MetalhorrorSurgicalInspectionDetails>
+  
+  <MetalhorrorReasonInteraction>{INFECTED_nameDef}のメタルホラーが人付き合い中に{PAWN_nameDef}によって発見され,姿を現しました.</MetalhorrorReasonInteraction>
+  <MetalhorrorReasonInterrogation>{INFECTED_nameDef}のメタルホラーが尋問に{PAWN_nameDef}によって発見され,姿を現しました.</MetalhorrorReasonInterrogation>
+  <MetalhorrorReasonHostDied>{INFECTED_nameDef}が死亡したため,{INFECTED_nameDef}のメタルホラーが姿を現しました.</MetalhorrorReasonHostDied>
+  <MetalhorrorReasonSurgeryInspected>{INFECTED_nameDef}のメタルホラーが外科手術中に{PAWN_nameDef}によって発見され,姿を現しました.</MetalhorrorReasonSurgeryInspected>
+  <MetalhorrorReasonRandom>理由は不明ながら,{INFECTED_nameDef}のメタルホラーが姿を現しました.</MetalhorrorReasonRandom>
+  <MetalhorrorReasonTriedToLeaveMap>コロニーから引き離されるのを察知した{INFECTED_nameDef}のメタルホラーが姿を現しました.</MetalhorrorReasonTriedToLeaveMap>
+  
+  <MetalhorrorDetected>メタルホラーの検知</MetalhorrorDetected>
+  <InteractionDetectedDesc>{PAWN_nameDef}は{INFECTED_nameDef}との会話の違和感に気が付きました.{INFECTED_nameDef}には,不自然な行動,奇妙な音声,目の中に金属質のミミズのようなものが見えました.{PAWN_nameDef}は{INFECTED_nameDef}がメタルホラーに感染したのだと疑っています.</InteractionDetectedDesc>
+  <InterrogationDetectedDesc>{PAWN_nameDef}は{INFECTED_nameDef}の尋問中に異常に気が付きました.{INFECTED_nameDef}には,不自然な行動,奇妙な音声,目の中に金属質のミミズのようなものが見えました.{PAWN_nameDef}は{INFECTED_nameDef}がメタルホラーに感染したのだと疑っています.</InterrogationDetectedDesc>
+  
+  <MetalhorrorNoticedDetailsAppended>メタルホラーは宿主を支配し,それを利用して他者へ感染を進めようとする寄生体です.\n\nメタルホラーは宿主の中で長く過ごすほど強力になります.メタルホラーは気付かれたことを察すると,宿主の肉体を切り裂いて姿を現します.このプロスは恐ろしいものですが,宿主は多くの場合は生存します.\n\nメタルホラーに感染した人物を確かめる唯一の方法は,メタルホラーの肉片を研究してそのバイオシグネチャーを特定し,信頼できる医者に外科調査手術を行ってもらうことです.\n\n発見すれば,外科調査手術を行うことでメタルホラーを宿主から追い出すことができます.戦いに備えましょう.</MetalhorrorNoticedDetailsAppended>
+  
+  <LetterGrayFleshDiscoveredLabel>灰色の肉体</LetterGrayFleshDiscoveredLabel>
+  <LetterGrayFleshDiscovered>{PAWN_nameDef}は帯状の肉片を発見しました.それは小さな金属粒子によって灰色に染まった人間の皮膚に似ています.これは肉体が液化する際に,誰かから剥がれ落ちたものに違いないでしょう.\n\nここにいる誰かがその外見と中身が違っている可能性があります.\n\n裏切り者を検知する方法はいくつかあります：\n\n{METHODS}\n\n警告：寄生体の中には,精神を支配し,他者へ感染を広げるものもいます.</LetterGrayFleshDiscovered>
+  
+  <LetterInterrogationUnlocked>囚人へのインタラクションモード「尋問」がアンロックされました.</LetterInterrogationUnlocked>
+  
+  <LetterGrayFleshMethodOne>誰かを投獄し,その正体について看守を送り込んで尋問します.これには数日かかります.</LetterGrayFleshMethodOne>
+  <LetterGrayFleshMethodTwo>さらに灰色の肉体を集め,それを分析して脅威のバイオシグネチャーを特定しましょう.その後,そのバイオシグネチャーを探すために外科調査手術を行います.十分なサンプルを集めるには時間がかかり,手術は身体に負担がかかります.</LetterGrayFleshMethodTwo>
+  <LetterGrayFleshMethodThree>疑わしい者を処刑または追放する.</LetterGrayFleshMethodThree>
+  
+  <LetterMetalhorrorReawakeningLabel>メタルホラーの覚醒</LetterMetalhorrorReawakeningLabel>
+  <LetterMetalhorrorReawakening>メタルホラーが再び目覚めます！</LetterMetalhorrorReawakening>
+
+  <MessageMetalHorrorDormant>メタルホラーは休眠状態に入りつつあります.妨害されれば再度目覚めるでしょう.</MessageMetalHorrorDormant>
+  
+  <MetalhorrorDormant>休眠中.妨害されると目覚めるでしょう.</MetalhorrorDormant>
+  
+  <!-- Surgical inspection -->
+  <LetterSurgicallyInspectedLabel>外科調査の結果</LetterSurgicallyInspectedLabel>
+  <LetterSurgicallyInspectedHeader>{DOCTOR_nameDef}は{PATIENT_nameDef}の外科調査を行いました.</LetterSurgicallyInspectedHeader>
+  <LetterSurgicallyInspectedNothing>{DOCTOR_pronoun}は{DOCTOR_pronoun}には異常は見つからなかったと言っています.ですが,この医者は自分の利益のために嘘をついている可能性があります.</LetterSurgicallyInspectedNothing>
+  
+  <!-- Death refusal -->
+  <DeathRefusalUseSingular>使用</DeathRefusalUseSingular>
+  <DeathRefusalUsePlural>使用</DeathRefusalUsePlural>
+  <SelfResurrecting>自己蘇生</SelfResurrecting>
+
+  <!-- Harbinger Tree -->
+  <HarbingerTreeConsumption>近くの先触れの木</HarbingerTreeConsumption>
+  <HarbingerTreeSprouted>新しい先触れの木が芽吹きました.</HarbingerTreeSprouted>
+  <HarbingerTreeConsuming>肉を食べています.</HarbingerTreeConsuming>
+  <HarbingerTreeNotConsuming>近くに置かれた遺体または肉を食べます.</HarbingerTreeNotConsuming>
+  <ConsumedByHarbingerTree>先触れの木に捕食されています.</ConsumedByHarbingerTree>
+  <FleshConsumption>肉食い</FleshConsumption>
+  <CreateCorpseStockpile>遺体の集積地を作る</CreateCorpseStockpile>
+  <CreateCorpseStockpileDesc>先触れの木の近くに,遺体置き場となる集積地を作ります.\n\n先触れの木は近くの遺体や生肉を食べます.十分に食べれば,木はより速く成長し,新たな先触れの木を生み出します.</CreateCorpseStockpileDesc>
+
+  <VoidNodeDisabled>ヴォイドノードが無効化されました.</VoidNodeDisabled>
+
+  <!-- Creepjoiners -->
+  <LetterCreeperAppearedAppended>{PAWN_pronoun}は話したいようです.入植者を送ることで{PAWN_pronoun}が何を言いたいのか聞けます.</LetterCreeperAppearedAppended>
+  <LetterCreeperInviteJoins>{PAWN_nameDef}は同行したいようです</LetterCreeperInviteJoins>
+  <LetterCreeperInviteAppend>{PAWN_pronoun}は非常に便利かもしれませんが,何か伝えていないことがあるようにも思えます.</LetterCreeperInviteAppend>
+  
+  <AcceptCreeper>{PAWN_nameDef}の同行を許可する</AcceptCreeper>
+  <CaptureCreeper>{SPEAKER_nameDef}を送って{PAWN_nameDef}を捕獲する</CaptureCreeper>
+  <RejectCreeper>{PAWN_nameDef}を追い払う</RejectCreeper>
+  
+  <!-- Unnatural healing ability -->
+  <LetterUnnaturalHealingLabel>不自然な治癒</LetterUnnaturalHealingLabel>
+  <LetterUnnaturalHealing>{CASTER_nameDef}は{PAWN_nameDef}に対するサイキック治療を終えました.</LetterUnnaturalHealing>
+  <LetterUnnaturalHealingTentacle>ですが,何かが恐ろしく間違っていたようです.\n\n{PAWN_nameDef}の腕は中から吹き出すもので激しく裂けています.{PAWN_possessive}の腕は肉質の触手に置き換えられてしまいました！</LetterUnnaturalHealingTentacle>
+  
+  <!-- Transmutation ability -->
+  <MessageTransmutedItem>{PAWN_nameDef}は{ORIGINAL}を{TRANSMUTED}に変異させました.</MessageTransmutedItem>
+  <MessageTransmutedStuff>{PAWN_nameDef}は{ORIGINAL_labelShortIndef}を{TRANSMUTED_labelShortIndef}に変異させました.</MessageTransmutedStuff>
+  <MessageTransmutedStuffPlural>{PAWN_nameDef}は{ORIGINAL_labelPluralIndef}を{TRANSMUTED_labelPluralIndef}に変異させました.</MessageTransmutedStuffPlural>
+  
+  <!-- Electroharvester -->
+  <ElectroharvesterNoEntity>拘束された「存在」がいません.</ElectroharvesterNoEntity>
+  <ElectroharvesterNoPlatform>収容プラットフォームに接続されていません.</ElectroharvesterNoPlatform>
+  
+  <!-- Fleshmass Heart -->
+  <FleshmassHeartInvulnerable>ダメージ無効.肉塊の神経塊を分析することで破壊できます.</FleshmassHeartInvulnerable>
+  <FleshmassHeartGrowing>肉塊が成長しています.</FleshmassHeartGrowing>
+  <FleshmassHeartCollecting>次の成長のためにバイオマスを集めています...</FleshmassHeartCollecting>
+  <MessageHeartAttack>肉塊の心臓がけいれんしています！</MessageHeartAttack>
+  <LetterLabelFleshmassHeartDestroyed>肉塊の心臓の撃破</LetterLabelFleshmassHeartDestroyed>
+  <LetterFleshmassHeartDestroyed>肉塊の心臓は破壊され,壊れてはいるものの,依然として機能している核が残されました.これが肉とアルコテクノロジーの歪んだ融合体です.核は成長をし続け,取り巻く肉塊が腐敗してもなお,肉を変異させ続けます.\n\n核を捕獲することでさらに研究することも,破壊してこの悪夢を終わらせることもできます.放っておけば,新たな肉塊の心臓に生まれ変わる可能性があります.</LetterFleshmassHeartDestroyed>
+  <NerveBundleGrewMessage>肉塊の心臓に新しい神経帯が成長しています.</NerveBundleGrewMessage>
+  <NeuralLumpDroppedMessage>神経帯は神経塊から手に入ります.分析することで,肉塊の心臓についてさらに詳しくわかります.</NeuralLumpDroppedMessage>
+  <DestroyHeartDisabled>肉塊の神経塊を集めて分析する必要があります.分析した神経塊：</DestroyHeartDisabled>
+  <SpitterAttacking>肉塊のスピッターが攻撃しています！</SpitterAttacking>
+  <SpitterGatheringSpit>酸を収集中.完了まで：</SpitterGatheringSpit>
+  <SpitterReadyToSpit>酸の準備完了.</SpitterReadyToSpit>
+
+  <ActiveFleshmassInspect>アクティブな肉塊.破壊されるとフレッシュビーストを生み出す可能性があります.</ActiveFleshmassInspect>
+
+  <!-- Misc -->
+  <LetterLabelFleshTentacleAttack>肉の触手の攻撃</LetterLabelFleshTentacleAttack>
+  <LetterFleshTentacleAttack>{PAWN_nameDef}の手術は成功しました..ですが,{PAWN_possessive}の触手だったねじれた肉塊が攻撃を始めました！</LetterFleshTentacleAttack>
+  <Biosignature>バイオシグネチャー</Biosignature>
+  <BlissLobotomy>至福のロボトミー</BlissLobotomy>
+  <HP>hp</HP>
+  <Analyzed>分析済</Analyzed>
+  
+  <MessageShardDropped>{0}は闇のアルコテクノロジーの破片を落としました.回収して使うことができます.</MessageShardDropped>
+  
+  <!-- Blood rain -->
+  <Berserk_BloodRain>血の雨が{0}を凶暴化させました！</Berserk_BloodRain>
+  <Manhunter_BloodRain>血の雨が{0}を殺人へと駆り立てました！</Manhunter_BloodRain>
+  <MentalBreakReason_BloodRage>これは血の怒りの蓄積によって発生しました.</MentalBreakReason_BloodRage>
+  
+  <!-- Unnatural corpses -->
+  <LetterLabelCorpseDisappeared>遺体の消滅</LetterLabelCorpseDisappeared>
+  <LetterCorpseDisappeared>不自然な遺体が消滅しました.</LetterCorpseDisappeared>
+  <LetterCorpseDisappearedPawnAliveAppend>{PAWN_nameDef}は落ち着いてきたようです.</LetterCorpseDisappearedPawnAliveAppend>
+
+  <LetterLabelCorpseReappeared>遺体の出現</LetterLabelCorpseReappeared>
+  <LetterCorpseReappeared>{PAWN_nameDef}に似た姿の遺体が,再度忽然と姿を現しました.</LetterCorpseReappeared>
+  
+  <MessageCorpseEscaped>{PAWN_nameDef}に似た姿の遺体が,何等かの手段で{CONTAINER_labelShort}から抜け出しました.</MessageCorpseEscaped>
+  <MessageUnnaturalCorpseResurrect>{PAWN_nameDef}の蘇生に失敗しました.反応がありませんでした.</MessageUnnaturalCorpseResurrect>
+  <MessagePawnFainted>不自然な遺体により{PAWN_nameDef}は気を失いました.</MessagePawnFainted>
+  <MessageAwokenReappeared>不自然な遺体が{PAWN_nameDef}の近くに出現し,近づいています！</MessageAwokenReappeared>
+  <MessageAwokenVanished>不自然な遺体が消滅しました.後で{PAWN_nameDef}のもとへやってくるでしょう.</MessageAwokenVanished>
+  <MessageAwokenAttacking>目覚めした遺体が{PAWN_nameDef}を攻撃しています！</MessageAwokenAttacking>
+  <MessageAwokenKilledVictim>目覚めした遺体が{PAWN_nameDef}の脳を破壊しました.</MessageAwokenKilledVictim>
+  <MessageAwokenDisappeared>目覚めした遺体が消滅しました.</MessageAwokenDisappeared>
+
+  <MentalBreakReason_MysteriousCorpse>これは不自然な遺体の存在により発生しました.</MentalBreakReason_MysteriousCorpse>
+
+  <UnnaturalCorpseStudyLetter>不自然な遺体研究の進捗</UnnaturalCorpseStudyLetter>
+  <UnnaturalCorpseStudyLetterDesc>不自然な遺体の調査により,より詳しいことが明らかになりました.コアにあるアルコテックの破片が,{VICTIM_nameDef}と精神的に結びついているようです.それは破壊されると自身を再構築し,{VICTIM_nameDef}の近くまでどれほど離れていようともテレポートします.\n\n{RESEARCHER_nameDef}はこの遺体を永久に破壊する方法があるかもしれないと考えていますが,そのためにはさらなる研究が必要です.</UnnaturalCorpseStudyLetterDesc>
+
+  <UnnaturalCorpseStudyCompletedLetter>不自然な遺体研究の完了</UnnaturalCorpseStudyCompletedLetter>
+  <UnnaturalCorpseStudyCompletedLetterDesc>不自然な遺体を調査した結果,アルコテックの破片を安全に取り除く方法が明らかになりました.これを粉うことで{VICTIM_nameDef}の精神的苦痛は止まります.ただし,これ以上の遺体の研究を妨げることになります.</UnnaturalCorpseStudyCompletedLetterDesc>
+
+  <UnnaturalCorpseDeactivatedLetter>遺体の破片</UnnaturalCorpseDeactivatedLetter>
+  <UnnaturalCorpseDeactivatedLetterDesc>{PAWN_nameDef}は不自然な遺体からアルコテックの破片を抽出しました.遺体は激しく膨れ上がり,爆発して血しぶきを撒き散らしました.</UnnaturalCorpseDeactivatedLetterDesc>
+  <UnnaturalCorpseDeactivatedLetterDescAppended>{PAWN_nameDef}の体調が良くなったようです.</UnnaturalCorpseDeactivatedLetterDescAppended>
+  
+  <UnnaturalCorpseDeactivate>不自然な遺体の破壊</UnnaturalCorpseDeactivate>
+  <UnnaturalCorpseDeactivateDesc>不自然な遺体を永久に破壊します.</UnnaturalCorpseDeactivateDesc>
+  <UnnaturalCorpseGuiLabel>誰がこれを破壊するか選択してください.</UnnaturalCorpseGuiLabel>
+  <UnnaturalCorpseJobString>破壊</UnnaturalCorpseJobString>
+  <UnnaturalCorpseActivatingEnroute>{0}を破壊中</UnnaturalCorpseActivatingEnroute>
+  <UnnaturalCorpseActivating>{0}を破壊中：{1}秒</UnnaturalCorpseActivating>
+  
+  <UnnaturalCorpseAwakeningLetter>不自然な遺体</UnnaturalCorpseAwakeningLetter>
+  <UnnaturalCorpseAwakeningLetterDesc>{PAWN_nameDef}は不自然な遺体が急速に強くなっているのを感じています.何か恐ろしい意識がその中にちらついています.\n\n数日以内に何か恐ろしいことが起きそうです.</UnnaturalCorpseAwakeningLetterDesc>
+
+  <UnnaturalCorpseAwokenLetter>目覚めた遺体</UnnaturalCorpseAwokenLetter>
+  <UnnaturalCorpseAwokenLetterDesc>不自然な遺体が目覚め,{PAWN_nameDef}に向かって移動しています！\n\n遺体は{PAWN_nameDef}がどれほど遠くまではなれようとも,永遠についていきます.\n\n今すぐ破壊せねばなりません.</UnnaturalCorpseAwokenLetterDesc>
+
+  <UnnaturalCorpseAwokenDefeatedLetter>不自然な遺体が破壊されました！</UnnaturalCorpseAwokenDefeatedLetter>
+  <UnnaturalCorpseAwokenDefeatedLetterDesc>{PAWN_nameDef}に向かっていた不自然な遺体が撃破されました！\n\n遺体はもはや{PAWN_nameDef}を苦しめることはありません.</UnnaturalCorpseAwokenDefeatedLetterDesc>
+
+  <!-- Golden Cube -->
+  <MessageGoldenCubeSeverityIncreased>{PAWN_labelShort}の黄金のキューブへの執着がますます強まっています.</MessageGoldenCubeSeverityIncreased>
+  <MessageGoldenCubeWithdrawal>{PAWN_labelShort}はキューブ禁断症状になっています.</MessageGoldenCubeWithdrawal>
+  <MessageGoldenCubeWithdrawalIncreased>{PAWN_labelShort}のキューブ禁断症状が悪化しています.</MessageGoldenCubeWithdrawalIncreased>
+  <MessageGoldenCubeInterest>{PAWN_labelShort}は黄金のキューブへ惹きつけられています.</MessageGoldenCubeInterest>
+  <MessageGoldenCubeSculptureDestroyed>{PAWN_labelShort}は,{PAWN_possessive}のキューブの彫刻が破壊されたことに怒っています.{PAWN_pronoun}は凶暴になるかもしれません.</MessageGoldenCubeSculptureDestroyed>
+  
+  <CannotDisableCube>{PAWN_labelShort}は黄金のキューブの無効化を拒んでいます.</CannotDisableCube>
+  
+  <LetterLabelGoldenCubeComa>キューブ禁断症状：{PAWN_labelShort}</LetterLabelGoldenCubeComa>
+  <LetterGoldenCubeComa>{PAWN_labelShort}はキューブ禁断症状により昏睡状態となりました.{PAWN_pronoun}は黄金のキューブとのサイキックリンクが完全に消滅するまで昏睡状態のままです.</LetterGoldenCubeComa>
+  
+  <MentalBreakReason_CubeSculpting>これは{PAWN_possessive}のキューブへの執着により発生しました.</MentalBreakReason_CubeSculpting>
+  
+  <CubeMaterialDirt>土</CubeMaterialDirt>
+  <CubeMaterialStone>石</CubeMaterialStone>
+  <CubeMaterialSand>砂</CubeMaterialSand>
+  <CubeMaterialScrap>スクラップ</CubeMaterialScrap>
+  
+  <ReportBuildingCubeEnroute>彫刻を作成中.</ReportBuildingCubeEnroute>
+  
+  <!-- Slaughter ability -->
+  <MessageSlaughterNoFlesh>屠殺不可：{PAWN_labelShort}には肉がありません.</MessageSlaughterNoFlesh>
+  <MessageSlaughterTooBig>屠殺不可：{PAWN_labelShort}は大きすぎます.</MessageSlaughterTooBig>
+  
+  <!-- Labyrinth -->
+  <GeneratingLabyrinth>迷宮入り</GeneratingLabyrinth>
+  <MessagePawnVanished>{PAWN_nameDef}は消滅しました.</MessagePawnVanished>
+  <MessagePawnReappeared>{PAWN_nameDef}は再出現しました.</MessagePawnReappeared>
+  
+  <FloorEtchingsInspectorExit>出口の方向</FloorEtchingsInspectorExit>
+  
+  <LetterLabelObeliskDiscovered>歪んだオベリスク</LetterLabelObeliskDiscovered>
+  <LetterObeliskDiscovered>{PAWN_nameDef}が巨大なオベリスクを発見しました.それは,{PAWN_objective}をここにもともと連れてきたものと同じように見えます.おそらく,起動できれば{PAWN_objective}の家に戻れるでしょう.\n\n{PAWN_nameDef}を選んで,オベリスクを右クリックで起動します.</LetterObeliskDiscovered>
+  
+  <LetterLabelFloorEtchings>床のエッチング</LetterLabelFloorEtchings>
+  <LetterFloorEtchings>{PAWN_nameDef}は床のエッチングの解読に成功しました.\n\n{RAMBLINGS}\n\nどうやら,ここのどこか{DIRECTION}への出口を示しているようです.</LetterFloorEtchings>
+
+  <LetterLabelFloorEtchingRamblings>床のエッチング</LetterLabelFloorEtchingRamblings>
+  <LetterFloorEtchingsRamblings>{PAWN_nameDef}は床のエッチングの解読に成功しました.</LetterFloorEtchingsRamblings>
+
+  <LetterLabelLabyrinthExit>入植者の帰還</LetterLabelLabyrinthExit>
+  <LetterLabyrinthExit>ブンブンと音を立てるオベリスクが,さらった入植者を帰還させました.そして,その直後にオベリスクは忽然と姿を消しました.\n\nオベリスクは他の生物も帰還させているかもしれないので,注意しましょう.</LetterLabyrinthExit>
+
+  <GrayDoorJammed>詰まって封鎖されています.強引に開ける必要があります.</GrayDoorJammed>
+  <ActivatedByProximity>近づくと起動.</ActivatedByProximity>
+
+  <!-- Void monolith -->
+  <MonolithActivateDisabledPawns>利用可能な入植者がいません.</MonolithActivateDisabledPawns>
+  <VoidMonolithInvestigatedText>モノリスの暗い金属質の表面は触れるとあたたかく,{PAWN_nameDef}は内側からうなるような音が聞こえるような気がしています.埃っぽい表面に描かれた線が,不安を掻き立てるような模様に感じられます.\n\n{PAWN_nameDef}は形に注目し,その意味を解き明かそうとしています.\n\n唸る音が強くなり,{PAWN_nameDef}の視界内の形が歪み始めますが,表面は代わりません.周囲の何も無い空間に力がうずまき始め,黒い形が{PAWN_possessive}の精神のなかに浮かび上がります.\n\nアノマリーがうごめきはじめる...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigate>アノマリーに注視し続ける</VoidMonolithInvestigate>
+  <VoidMonolithWalkAway>立ち去る</VoidMonolithWalkAway>
+  <VoidMonolithViewQuest>クエストを確認</VoidMonolithViewQuest>
+  <VoidMonolithViewResearch>アノマリー研究を確認</VoidMonolithViewResearch>
+  <CurrentMonolithLevel>現在のモノリスレベル</CurrentMonolithLevel>
+  <VoidMonolithUndiscovered>調査することでさらに詳しくわかります.</VoidMonolithUndiscovered>
+  <VoidMonolithRequiredEntityCategory>モノリスを次のステップへ進めるにはランク{1}の「存在」を{0}個発見する必要があります.</VoidMonolithRequiredEntityCategory>
+  <DiscoveredCount>発見数：{0}</DiscoveredCount>
+  <VoidMonolithAllEntitiesDiscovered>必要な数の「存在」を発見しました.</VoidMonolithAllEntitiesDiscovered>
+  <VoidMonolithRequiresDiscovery>レベル上昇に必要</VoidMonolithRequiresDiscovery>
+  <VoidMonolithRequiresDiscoveryShort>未発見の「存在」</VoidMonolithRequiresDiscoveryShort>
+  <VoidMonolithRequiresCategory>{0}体の{1}モノリス「存在」の発見が必須</VoidMonolithRequiresCategory>
+  <VoidMonolithVisionLabel>不穏なビジョン</VoidMonolithVisionLabel>
+  <VoidMonolithVisionText>{PAWN_nameDef}は奇妙な夢を見ました.その中で,{PAWN_pronoun}は空間と時空の中で広がり,成長し,消滅していく黒い形を見たのです.その形は,近くの崩れたモノリスから生じました.\n\n夢から目覚めると,{PAWN_nameDef}はモノリスに奇妙に惹きつけられるような感覚を覚えました.モノリスが{PAWN_objective}を呼んでいるのです.</VoidMonolithVisionText>
+  <VoidMonolithChooseActivator>誰がこれを実行するか選択してください.</VoidMonolithChooseActivator>
+  <VoidMonolithActivatorDowned>ターゲットは倒れています</VoidMonolithActivatorDowned>
+  <VoidMonolithActivatorMentalState>ターゲットは精神が衰弱しています</VoidMonolithActivatorMentalState>
+  <VoidMonolithActivatorBusy>ターゲットは忙しくしています</VoidMonolithActivatorBusy>
+  <VoidMonolithActivatorIncapable>ターゲットは実行できません</VoidMonolithActivatorIncapable>
+  <MonolithArrivalLabel>モノリスの到来</MonolithArrivalLabel>
+  <MonolithArrivalText>サイキックシグナルと相互干渉することで,奇妙な構造物が出現しました.</MonolithArrivalText>
+  <MonolithArrivalTextExt>以前見たモノリスと同じではなくとも,非常に似ています.</MonolithArrivalTextExt>
+  <CantActivateMonolith>モノリスの{0}不可</CantActivateMonolith>
+
+  <MonolithTwistingAlert>モノリスの捻れ</MonolithTwistingAlert>
+  <MonolithTwistingExplanation>あなたの存在がモノリスをねじれ,変異させています.まもなくそのプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithTwistingExplanation>
+  <MonolithAutoActivatingLabel>倒れたモノリス</MonolithAutoActivatingLabel>
+  <MonolithAutoActivatingText>入植者たちに恐怖の波が押し寄せます.倒れたモノリスが動き始めました.ゆっくりとそれはねじれ,再構成し始め,新しい何かへと姿を変えていきます.\n\n数日のうちに,このプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithAutoActivatingText>
+  <MonolithAutoActivatedLabel>ヴォイドモノリス</MonolithAutoActivatedLabel>
+  <MonolithAutoActivatedText>モノリスの変異がもうすぐ完了します...</MonolithAutoActivatedText>
+
+  <LetterLabelGrayPallDescending>灰の帳</LetterLabelGrayPallDescending>
+  <LetterGrayPallDescending>この一帯には,砂のような霧が立ち込めています.どこか古めかしい匂いがし,肌に刺すような感覚がします.その不自然な灰色は,恐怖を呼び覚まします.</LetterGrayPallDescending>
+
+  <!-- Void Awakening -->
+  <VoidAwakeningConfirmationText>モノリスを起動させると,コロニーは数日間闇に包まれ,強力な「存在」を引き寄せることになります.しっかりと準備をしましょう：\n\n-食事,建築素材,武器を備蓄しましょう.\n-コロニーに照明をしっかり作り,十分な電力が供給されてるようにしましょう.ただし,太陽光発電に頼らないように.\n-コロニーの防備をしっかりと行い,入植者に戦う準備をさせましょう.\n\nヴォイドモノリスを目覚めさせると,後戻りはできません.\n\n本当に続けてもよろしいですか？</VoidAwakeningConfirmationText>
+  <VoidNodeLetter>{PAWN_nameDef}の前にほとばしるサイキックエネルギーでうなりをあげる球体が出現しました.その表面はうねり,ねじれ,周囲の空間を歪めています.\n\n{PAWN_nameDef}は{PAWN_possessive}の精神の内に,通常の人間の感覚以上の深みを感じます.それは論理を破り,{PAWN_objective}をヴォイドに漂わせるのです.{PAWN_pronoun}は無限の黒き力の膿の浜辺に立っており,それが{PAWN_objective}を中へと手招きしています.\n\n{PAWN_nameDef}は現実へと正気を戻しました.\n\n近くのアルコテック装置が,脆弱なつながりとともに球体を支えているようです.{PAWN_nameDef}はそれを破壊することで,このリンクが閉ざされ,あなたの故郷を苦しめてきた恐ろしい現象を終わらせることができます.\n\nあるいは,{PAWN_pronoun}が球体の中へと足を踏み入れ,ヴォイドと一体化することができます.その先に何があるのか,そのような非人間的行為からどのような闇の力が得られるのかはわかりません.</VoidNodeLetter>
+  <VoidNodeDisrupt>リンクを破壊する</VoidNodeDisrupt>
+  <VoidNodeEmbrace>ヴォイドを受け入れる</VoidNodeEmbrace>
+  <VoidNodePostpone>後回し</VoidNodePostpone>
+  <DisruptTheLinkCredits>サイキックの流れが不安定化し,アルコテックの機械が悲鳴をあげはじめ,く虚空がちらつく.{PAWN_nameDef}はそれが限界を超えてこぼれ落ち,崩壊していくのを感じ取っています.\n\n金属の洞窟は捻れ,巨大な心室のように形を変えていきます.{PAWN_nameDef}が叫びを上げる前に,その存在は瞬く間に消え去りました.\n\n{PAWN_nameDef}はヴォイドに拒まれたのです.\n\n{PAWN_possessive}の物語は続く...</DisruptTheLinkCredits>
+  <EmbraceTheVoidCredits>{PAWN_nameDef}がヴォイドの中に足を踏み入れると,黒き海が{PAWN_objective}に押し寄せ,あらゆる感覚を圧倒します.{PAWN_possessive}の身体のすべての細胞,{PAWN_possessive}の精神のすべての思考がそれで満たされていきます.\n\nヴォイドノードは世界から,唯一人の人間へと焦点を合わせなしたのです.ヴォイド構造体が叫びをあげ,この世のものとは思えない基盤より引き剥がされ,存在を消滅させる.\n\n{PAWN_nameDef}はヴォイドを受け入れました.\n\n{PAWN_possessive}の物語は続く...</EmbraceTheVoidCredits>
+  <StructureActivatedMessage>{PAWN_nameDef}は{STRUCTURE_definite}の起動を終えました.</StructureActivatedMessage>
+  <StructuresActivatedAlertLabel>構造体が起動</StructuresActivatedAlertLabel>
+  <StructuresActivatedAlertDescription>ヴォイド構造体を起動し,モノリスの覚醒を完了します.</StructuresActivatedAlertDescription>
+  <GleamingMonolithInterrupted>{PAWN_nameDef}のヴォイドモノリスへのつながりが崩壊しました.再度起動する必要があります.</GleamingMonolithInterrupted>
+
+  <!-- HediffComp_GiveLovinMTBFactor -->
+  <IncreasesChanceOfLovin>愛を育む可能性を増やします.</IncreasesChanceOfLovin>
+
+  <UnnaturalCorpse>不自然な{0_label}の遺体</UnnaturalCorpse>
+
+  <!-- Studiable -->
+  <KnowledgeFactorOutdoors>研究で得られる知識が減少</KnowledgeFactorOutdoors>
+
+  <!-- Unnatural darkness -->
+  <EmergenceIn>{0}での出現</EmergenceIn>
+  <EmergenceInDesc>{0}のち中から何かが出現します.</EmergenceInDesc>
+  
+  <!-- Bioferrite harvester -->
+  <BioferriteHarvesterContained>バイオフェライト収容</BioferriteHarvesterContained>
+  <BioferriteHarvesterPerDay>/ 日</BioferriteHarvesterPerDay>
+  <BioferriteHarvesterEjectContents>内蔵物を排出</BioferriteHarvesterEjectContents>
+  <BioferriteHarvesterEjectContentsDesc>収められている{0}を全て地面に排出します.</BioferriteHarvesterEjectContentsDesc>
+  <BioferriteHarvesterToggleUnloading>バイオフェライトの排出切り替え</BioferriteHarvesterToggleUnloading>
+  <BioferriteHarvesterToggleUnloadingDesc>有効にすると,ハーベスターが満タンになると入植者が自動的にバイオフェライトを排出させます.</BioferriteHarvesterToggleUnloadingDesc>
+  
+  <!-- Proximity detector -->
+  <ProximityDetectorCreatureDetected>目に見えない生物が検出されました.</ProximityDetectorCreatureDetected>
+  
+  <!-- Frenzy inducer -->
+  <FrenzyInducerEffectDescription>熱狂フィールドを生成しています.</FrenzyInducerEffectDescription>
+  <MentalBreakReason_FrenzyInducer>これは熱狂誘発装置の影響によって発生しました.</MentalBreakReason_FrenzyInducer>
+  
+  <!-- Sleep suppressor -->
+  <SleepSuppressorEffectDescription>睡眠不要サイキックパルス.</SleepSuppressorEffectDescription>
+  
+  <!-- Devourer -->
+  <DigestedBy>{0_labelShort}に消化されています.</DigestedBy>
+
+  <!-- Chimeras -->
+  <MessageChimeraModeChangeSingular>キメラは{0}です</MessageChimeraModeChangeSingular>
+  <MessageChimeraModeChangePlural>キメラは{0}です</MessageChimeraModeChangePlural>
+  <MessageChimeraWithdrawing>離脱症状中です.</MessageChimeraWithdrawing>
+
+  <LetterChimerasAttackingLabel>キメラの攻撃</LetterChimerasAttackingLabel>
+  <LetterChimerasAttacking>キメラが攻撃を開始しました！</LetterChimerasAttacking>\n\n</LanguageData>

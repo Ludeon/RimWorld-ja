@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <PsychicRitual>サイキック儀式</PsychicRitual>
+  <CastPsychicRitual>サイキック儀式を開始</CastPsychicRitual>
+  <CastPsychicRitualDesc>実行するにはサイキック儀式を選択してください</CastPsychicRitualDesc>
+  <CannotCastPsychicRitual>{0_labelShort}は{2}ため,{1}のサイキック儀式を行えません.</CannotCastPsychicRitual>
+  <PsychicRitualBegun>{0}のサイキック儀式が始まりました.</PsychicRitualBegun>
+  <PsychicRitualCompleted>{0}のサイキック儀式が完了しました.</PsychicRitualCompleted>
+  <PsychicRitualAttending>{RITUALNAME}のサイキック儀式に参加中</PsychicRitualAttending>
+  <ParticipatingInPsychicRitual>{0_labelShort}は{1}のサイキック儀式に参加しています.</ParticipatingInPsychicRitual>
+  <AbilityDisabledInPsychicRitual>{0_labelShort}は{1}のサイキック儀式に参加しています.</AbilityDisabledInPsychicRitual>
+  <PsychicRitual_LocationTargetting>場所を選択</PsychicRitual_LocationTargetting>
+  <PsychicRitualExpectedQualityLabel>総合品質</PsychicRitualExpectedQualityLabel>
+  <PsychicRitualQualityFactorLabel>品質要因</PsychicRitualQualityFactorLabel>
+  <PsychicRitualExpectedDurationLabel>効果時間</PsychicRitualExpectedDurationLabel>
+  <PsychicRitualRequiredOffering>必要な供物</PsychicRitualRequiredOffering>
+  <CausedByPsychicRitual>サイキック儀式により発生</CausedByPsychicRitual>
+  <PsychicRitualCooldownLabel>クールダウン</PsychicRitualCooldownLabel>
+
+  <PsychicRitualSpotObstructed>サイキック儀式のエリアに障害があります.</PsychicRitualSpotObstructed>
+  <PsychicRitualOnCooldown>サイキック儀式はクールダウン中です.{0}後に再使用可能.</PsychicRitualOnCooldown>
+  <PsychicRitualCanBeCastAgain>{0}のサイキック儀式が再度行えるようになりました.</PsychicRitualCanBeCastAgain>
+  <NoBasicResearchForPsychicRitual>基本アノマリー研究計画を選んでいません.</NoBasicResearchForPsychicRitual>
+  <CantCastOnPocketMap>地表で{0}のサイキック儀式を行う必要があります.</CantCastOnPocketMap>
+
+  <PsychicRitualFactionWarning>警告：{PAWN_nameDef}の儀式の実行は{PAWN_possessive}の派閥の怒りを買うでしょう（{FACTION_name}）</PsychicRitualFactionWarning>
+
+  <PsychicRitualWakingPawnWarning>{0}は現在眠っており,サイキック儀式が始まると目覚めます.</PsychicRitualWakingPawnWarning>
+  <PsychicRitualUndraftPawnWarning>{0}は現在徴兵されており,サイキック儀式が始まると徴兵が解除されます.</PsychicRitualUndraftPawnWarning>
+  <PsychicRitualWakingPawnsWarning>{0}は現在眠っており,サイキック儀式が始まると目覚めます.</PsychicRitualWakingPawnsWarning>
+  <PsychicRitualUndraftPawnsWarning>{0}は現在徴兵されており,サイキック儀式が始まると徴兵が解除されます.</PsychicRitualUndraftPawnsWarning>
+
+  <PsychicRitualLeft>{0_labelShort}は{1}のサイキック儀式を離れました.</PsychicRitualLeft>
+  <PsychicRitualLeftBecause>{0_labelShort}は{2}ため,{1}のサイキック儀式を離れました.</PsychicRitualLeftBecause>
+  <PsychicRitualCanceled>{0}のサイキック儀式がキャンセルされました.</PsychicRitualCanceled>
+  <PsychicRitualCanceledBecause>{0}のサイキック儀式が,{1}ためキャンセルされました.</PsychicRitualCanceledBecause>
+
+  <PsychicRitualOfferingsInsufficient>{0}が必要ですが,{1}個しかありません</PsychicRitualOfferingsInsufficient>
+
+  <CommandLeavePsychicRitual>{0}のサイキック儀式を離れる</CommandLeavePsychicRitual>
+  <CommandLeavePsychicRitualDesc>{0}のサイキック儀式への参加をやめます.サイキック儀式は,最低でも一人の参加者がいれば継続されます.</CommandLeavePsychicRitualDesc>
+
+  <CommandCancelPsychicRitual>{0}のサイキック儀式をキャンセルする</CommandCancelPsychicRitual>
+  <CommandCancelPsychicRitualDesc>{0}のサイキック儀式をいますぐ終わらせます.儀式はまた後で再開できます.</CommandCancelPsychicRitualDesc>
+  <CommandCancelPsychicRitualConfirm>本当に{0}のサイキック儀式をキャンセルしますか？</CommandCancelPsychicRitualConfirm>
+
+  <PsychicRitualLeaveReason_Vanished>{PAWN_labelShort}が追放された</PsychicRitualLeaveReason_Vanished>
+  <PsychicRitualLeaveReason_Incapped>{PAWN_labelShort}が倒れた</PsychicRitualLeaveReason_Incapped>
+  <PsychicRitualLeaveReason_Killed>{PAWN_labelShort}が死んだ</PsychicRitualLeaveReason_Killed>
+  <PsychicRitualLeaveReason_WrongFaction>{PAWN_labelShort}が{FACTION_name}の一員ではない</PsychicRitualLeaveReason_WrongFaction>
+  <PsychicRitualLeaveReason_ExitedMap>{PAWN_labelShort}が地図上にない</PsychicRitualLeaveReason_ExitedMap>
+  <PsychicRitualLeaveReason_LeftVoluntarily>{PAWN_labelShort}は他にやることがあった</PsychicRitualLeaveReason_LeftVoluntarily>
+  <PsychicRitualLeaveReason_Drafted>{PAWN_labelShort}が徴兵された</PsychicRitualLeaveReason_Drafted>
+  <PsychicRitualLeaveReason_InMentalState>{PAWN_labelShort}は精神衰弱中の</PsychicRitualLeaveReason_InMentalState>
+  <PsychicRitualLeaveReason_Bleeding>{PAWN_labelShort}は出血している</PsychicRitualLeaveReason_Bleeding>
+  <PsychicRitualLeaveReason_Burning>{PAWN_labelShort}が火だるまな</PsychicRitualLeaveReason_Burning>
+  <PsychicRitualLeaveReason_ExtremeTemperature>ターゲットの近くの温度が{PAWN_labelShort}にとって安全ではない</PsychicRitualLeaveReason_ExtremeTemperature>
+  <PsychicRitualLeaveReason_InsideBuilding>{PAWN_labelShort}が{BUILDING}の中から参加できない</PsychicRitualLeaveReason_InsideBuilding>
+  <PsychicRitualLeaveReason_Humanlike>{PAWN_labelShort}が人型である</PsychicRitualLeaveReason_Humanlike>
+  <PsychicRitualLeaveReason_NonHumanlike>{PAWN_labelShort}が人型でない</PsychicRitualLeaveReason_NonHumanlike>
+  <PsychicRitualLeaveReason_Prisoner>{PAWN_labelShort}が囚人である</PsychicRitualLeaveReason_Prisoner>
+  <PsychicRitualLeaveReason_Slave>{PAWN_labelShort}が奴隷である</PsychicRitualLeaveReason_Slave>
+  <PsychicRitualLeaveReason_Freeman>{PAWN_labelShort}が自由である</PsychicRitualLeaveReason_Freeman>
+  <PsychicRitualLeaveReason_DevelopmentalStage>{PAWN_labelShort}が{STAGE}である</PsychicRitualLeaveReason_DevelopmentalStage>
+  <PsychicRitualLeaveReason_CannotReachTarget>{PAWN_labelShort}がターゲットの場所まで到達できない</PsychicRitualLeaveReason_CannotReachTarget>
+  <PsychicRitualLeaveReason_Sleeping>{PAWN_labelShort}は眠っている</PsychicRitualLeaveReason_Sleeping>
+  <PsychicRitualLeaveReason_Mutant>{PAWN_labelShort}が人間ではない</PsychicRitualLeaveReason_Mutant>
+  <PsychicRitualLeaveReason_IdeoUnwilling>{PAWN_labelShort}の思想が{IDEO_name}の参加を妨げている</PsychicRitualLeaveReason_IdeoUnwilling> 
+  <PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort}は精神感応ではない</PsychicRitualLeaveReason_NoPsychicSensitivity>
+  <PsychicRitualLeaveReason_TemporaryFactionMember>{PAWN_labelShort}は一時的な派閥メンバーである</PsychicRitualLeaveReason_TemporaryFactionMember>
+  <PsychicRitualLeaveReason_PawnBusyWithLord>{PAWN_labelShort}は他に参加すべきことがある</PsychicRitualLeaveReason_PawnBusyWithLord>
+  <PsychicRitualLeaveReason_ForcedByQuest>{PAWN_labelShort}は他に参加すべきことがある</PsychicRitualLeaveReason_ForcedByQuest>
+
+  <!-- PsychicRitualToils-->
+  <PsychicRitualToil_Goto_JobReport_Moving>持ち場へ移動中</PsychicRitualToil_Goto_JobReport_Moving>
+  <PsychicRitualToil_Goto_JobReport_Waiting>全員が持ち場に着くのを待っています</PsychicRitualToil_Goto_JobReport_Waiting>
+
+  <PsychicRitualToil_GatherOfferings_OfferingUnavailable>{PAWN_labelShort}は十分な{1}を発見できませんでした</PsychicRitualToil_GatherOfferings_OfferingUnavailable>
+  <PsychicRitualToil_GatherOfferings_JobReport>供物を収集中</PsychicRitualToil_GatherOfferings_JobReport>
+
+  <PsychicRitualToil_InvokeHorax_JobReport_Invoker>サイキック儀式を指揮中</PsychicRitualToil_InvokeHorax_JobReport_Invoker>
+  <PsychicRitualToil_InvokeHorax_JobReport_Chanter>サイキック儀式へ力を収束中</PsychicRitualToil_InvokeHorax_JobReport_Chanter>
+  <PsychicRitualToil_InvokeHorax_JobReport_Target>サイキック儀式のターゲット</PsychicRitualToil_InvokeHorax_JobReport_Target>
+  <PsychicRitualToil_InvokeHorax_MissingRequiredOffering>{0}は{1}が足りません</PsychicRitualToil_InvokeHorax_MissingRequiredOffering>
+  <PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>{PAWN_labelShort}が持ち場を外れています</PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>
+  <PsychicRitualToil_InvokeHorax_JobReport_Defender>サイキック儀式を防衛中</PsychicRitualToil_InvokeHorax_JobReport_Defender> 
+
+  <PsychicRitualToil_GatherForInvocation_Report>待機中</PsychicRitualToil_GatherForInvocation_Report>
+  <PsychicRitualToil_InvokeHorax_Report>ヴォイドを喚起中</PsychicRitualToil_InvokeHorax_Report>
+
+  <PsychicRitualDef_TargetDestroyed>{TARGET_labelShort}が破壊されました</PsychicRitualDef_TargetDestroyed>
+
+  <PsychicRitualDef_InvocationCircle_AreaMustBeClear>ターゲット地点の周辺から障害物を取り除く必要があります</PsychicRitualDef_InvocationCircle_AreaMustBeClear>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>{PAWN_labelShort}の精神感応性</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>{PAWN_labelShort}のサイキック現象との同調度合いです.</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>これらのオブジェクトは,儀式へのサイキックパワーの集中を助けます.</PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>思想補正</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>サイキック儀式がどの程度思想信条の影響を受けるかを示します.</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>
+
+  <!-- PsychicRitualDef_InvokationCircle messages -->
+  <PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0}が{1}のサイキック儀式を始めました.</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
+  <PsychicRitualAreaObstructed>サイキック儀式のエリアに障害があります.</PsychicRitualAreaObstructed>
+
+  <!-- Animal summoning -->
+  <NotEnoughAnimals>このバイオームの動物が足りません.</NotEnoughAnimals>
+
+  <!-- Shambler summoning -->
+  <NoNearbyShamblers>近くにシャンブラーがいません.</NoNearbyShamblers>
+
+  <!-- Pit gate summoning -->
+  <PitGateAlreadyExists>この地図上にすでにピットゲートがあります.</PitGateAlreadyExists>
+  
+  <!-- Chronophagy -->
+  <InvokerTooYoung>実行者は{0}歳以上である必要があります.</InvokerTooYoung>
+  <PsychicRitualTargetTooYoung>ターゲットは{0}歳以上である必要があります.</PsychicRitualTargetTooYoung>
+  <CronophagyAgeChange>{INVOKER_labelShort}は{1}歳になり,{TARGET_labelShort}は{3}歳になります.</CronophagyAgeChange>
+  
+  <!-- Philophagy -->
+  <PhilophagyTransferReport>{INVOKER_labelShort}は{TARGET_labelShort}から{SKILL_label}のXPを{1}奪います.</PhilophagyTransferReport>
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <KnowledgeFromStudy>研究で得られる知識</KnowledgeFromStudy>
+  <KnowledgeFromStudyDesc>この存在を研究したときに得られるアノマリー知識の種類と量です.より洗練された存在であるほど,高度なアノマリー研究計画のアンロックが可能となります.</KnowledgeFromStudyDesc>
+  <Stat_Knowledge>{0} {1}</Stat_Knowledge>
+  <StudyFrequency>研究間隔</StudyFrequency>
+  <StudyFrequencyDesc>この存在の研究が可能な期間の間隔です.</StudyFrequencyDesc>
+  
+  <Stat_Hediff_Regeneration_Name>回復</Stat_Hediff_Regeneration_Name>
+  <Stat_Hediff_Regeneration_Desc>一日ごとの一律の回復量です.</Stat_Hediff_Regeneration_Desc>
+  <Stat_Hediff_Regeneration_Stat>{0}HP/日</Stat_Hediff_Regeneration_Stat>
+
+  <Stat_ContainmentStrength_AverageLighting>平均照明</Stat_ContainmentStrength_AverageLighting>
+  <Stat_ContainmentStrength_AverageWallHp>壁の平均HP</Stat_ContainmentStrength_AverageWallHp>
+  <Stat_ContainmentStrength_AverageDoorHp>ドアの平均HP</Stat_ContainmentStrength_AverageDoorHp>
+  <Stat_ContainmentStrength_OtherHoldingPlatforms>複数（{0}）の収容プラットフォーム</Stat_ContainmentStrength_OtherHoldingPlatforms>
+  <Stat_ContainmentStrength_MapwideOffset>マップ全体のオフセット</Stat_ContainmentStrength_MapwideOffset>
+  <Stat_ContainmentStrength_DoorForcedOpen>ドアを開ける</Stat_ContainmentStrength_DoorForcedOpen>
+  <Stat_ContainmentStrength_NotFullyRoofed>屋根が不完全</Stat_ContainmentStrength_NotFullyRoofed>
+  <Stat_ContainmentStrength_Flooring>床張</Stat_ContainmentStrength_Flooring>
+  <Stat_ContainmentStrength_Platform>建物</Stat_ContainmentStrength_Platform>
+
+  <StatsReport_BioferriteGeneration>バイオフェライト生成</StatsReport_BioferriteGeneration>
+  <StatsReport_BioferriteGeneration_Desc>この存在が1日ごとに生成するバイオフェライトの量です.収容プラットフォームに捕獲した時に,バイオフェライトハーベスターを建てることで,バイオフェライトが集められます.</StatsReport_BioferriteGeneration_Desc>
+  
+  <StatsReport_Offering>供物</StatsReport_Offering>
+  <StatsReport_Offering_Desc>サイキック儀式を行うために必要な材料です.</StatsReport_Offering_Desc>
+
+  <StatsReport_RitualDuration>儀式期間</StatsReport_RitualDuration>
+  <StatsReport_RitualDuration_Desc>この儀式を行うのにかかる時間です.</StatsReport_RitualDuration_Desc>
+
+  <StatsReport_RitualCooldown>クールダウン</StatsReport_RitualCooldown>
+  <StatsReport_RitualCooldown_Desc>儀式を行うと,一定期間周囲のサイキックエネルギーが乱されます.この期間中,儀式を再度行うことはできません.</StatsReport_RitualCooldown_Desc>
+
+  <StatsReport_ContainmentStrengthOffset>収容補正</StatsReport_ContainmentStrengthOffset>
+  <StatsReport_ContainmentStrengthOffset_Desc>これは収容プラットフォームが存在を拘束する能力への影響度を示します.厳重に収容された存在は脱走の可能性が低くなり,研究時により多くの知識をもたらします.</StatsReport_ContainmentStrengthOffset_Desc>
+
+  <StatsReport_SerumDuration>持続期間</StatsReport_SerumDuration>
+  <StatsReport_SerumDuration_Desc>シーラムが効果を発揮し続ける時間です.</StatsReport_SerumDuration_Desc>
+  
+  <StatsReport_Occupied>占有</StatsReport_Occupied>
+  <MeditationFocusPerBuilding>周囲の{BUILDING_label}1つにつき{2}（{0}/{1}）</MeditationFocusPerBuilding>
+  <MeditationFocusPerBuildingAbstract>周囲の{BUILDING_label}1つにつき{1}（最大{0}）</MeditationFocusPerBuildingAbstract>\n\n</LanguageData>

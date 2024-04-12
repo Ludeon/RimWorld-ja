@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ActivityMultipleDangerous>危険な活動レベル</ActivityMultipleDangerous>
+  <ActivityDangerousDesc>これらの「存在」の活動は危険なほどの高レベルにあります</ActivityDangerousDesc>  
+  <ActivityDangerousDescAppended>活動率が100%に達すると,危険な状態になります.\n\n看守を派遣して抑制するか,「存在」の活動パネルを使って自動抑制を有効にしてください.</ActivityDangerousDescAppended>
+
+  <NeedAnomalyProject>アノマリー計画が必要</NeedAnomalyProject>
+  <NeedAnomalyProjectDesc>研究対象としてマークされた「存在」がありますが,それに一致するアノマリー研究計画が選択されていません：</NeedAnomalyProjectDesc>
+  <NeedAnomalyProjectDescLine>{NAME}アノマリー研究計画が必要</NeedAnomalyProjectDescLine>
+  <NeedAnomalyProjectDescAppended>研究メニューを開き,アノマリータブの計画を選択してください.\n\n基礎および上級研究計画を同時に選択できます.\n\n（クリックで研究メニューを開きます）</NeedAnomalyProjectDescAppended>
+
+  <CreepJoinerTimeout>訪問者の無視</CreepJoinerTimeout>
+  <CreepJoinerTimeoutDesc>以下の訪問者は無視されたと感じており,動揺を強めています</CreepJoinerTimeoutDesc>
+  <CreepJoinerTimeoutDescAppended>入植者を選択した後に,訪問者を右クリックします.\n\n急いで行動しましょう...彼らは無視されることは好みません.</CreepJoinerTimeoutDescAppended>
+
+  <Alert_UndercaveUnstable>不安定な地底洞窟</Alert_UndercaveUnstable>
+  <Alert_UndercaveUnstableDesc>地底洞窟が不安定になり,間もなく崩落します.\n\n手遅れになる前に入植者を外に出しましょう.</Alert_UndercaveUnstableDesc>
+
+  <Alert_CultistPsychicRitual>崇拝者のサイキック儀式</Alert_CultistPsychicRitual>
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef}の{INVOKER_nameDef}が{RITUAL_definite}の儀式を始めました.{INVOKER_objective}を妨害しない場合,悲惨な結果を招くかもしれません.</Alert_CultistPsychicRitualDesc>
+
+  <AlertMeatHunger>グールの飢え</AlertMeatHunger>
+  <AlertMeatHungerDesc>グールが生肉に飢えています</AlertMeatHungerDesc>
+  <AlertMeatHungerDescAppended>すぐに餌をやらなければ,攻撃してくるかもしれません.肉を食わせましょう.</AlertMeatHungerDescAppended>
+  
+  <AlertEmergingPitGate>ピットゲートが開く</AlertEmergingPitGate>
+  <AlertEmergingPitGateDesc>地面が崩れてきています.まもなくピットゲートが開くでしょう.</AlertEmergingPitGateDesc>
+
+  <Alert_InsufficientContainment>不十分な収容</Alert_InsufficientContainment>
+  <Alert_InsufficientContainmentDesc>以下の存在は,最低収容強度を満たしていない部屋に収容されています</Alert_InsufficientContainmentDesc>
+  <Alert_InsufficientContainmentDescAppended>じきに脱走してしまうでしょう.より強固な壁,扉,その他の収容装置を作って彼らを閉じ込めておきましょう.</Alert_InsufficientContainmentDescAppended>
+
+  <AlertHoldingPlatform>収容プラットフォームが必要</AlertHoldingPlatform>
+  <AlertHoldingPlatformDesc>捕獲した存在の収容と研究のため,収容プラットフォームまたは収容スポットを建てましょう.</AlertHoldingPlatformDesc>
+
+  <AlertCubeWithdrawal>キューブ禁断症状</AlertCubeWithdrawal>
+  <AlertCubeWithdrawalDesc>以下の人々がキューブ禁断症状に苦しんでいます</AlertCubeWithdrawalDesc>
+  <AlertCubeWithdrawalDescAppended>彼らの皮膚は痒くなり,心は逸り,黄金のキューブに近づきたいと切望するようになります.キューブで遊べるようになるまで,症状は悪化します.\n\n自由時間を確保し,彼らが黄金のキューブにたどり着けるようにしましょう.</AlertCubeWithdrawalDescAppended>
+
+  <AlertDigestion>デバウアーの消化</AlertDigestion>
+  <AlertDigestionDesc>以下の人々または生物が,デバウアーに消化されています</AlertDigestionDesc>
+  <AlertDigestionDescAppended>デバウアーを殺し,手遅れになる前に解放しましょう.</AlertDigestionDescAppended>
+  
+  <AlertInhibitorBlocked>ブロックされたインヒビター</AlertInhibitorBlocked>
+  <AlertInhibitorBlockedDesc>電動インヒビターの1つが,他の建物妨げられて機能していません.\n\n電動インヒビターの正面のスペースを空けましょう.</AlertInhibitorBlockedDesc>
+
+  <EntityNeedsTreatment>存在の治療が必要</EntityNeedsTreatment>
+  <EntityNeedsTreatmentDesc>これらの存在は治療が必要です.さもなければ、捕われのまま死んでしまうかもしれません.\n{0}\n\n医者を派遣して治療しましょう.</EntityNeedsTreatmentDesc>
+
+  <AlertGhoulHypothermia>グールの低体温症</AlertGhoulHypothermia>
+  <AlertGhoulHypothermiaDesc>これらのグールが低体温症に苦しんでいます：\n{0}\n\n温度の高い場所へ移動させましょう.</AlertGhoulHypothermiaDesc>\n\n</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Conversion -->
+  <AbilityCannotCastHoraxian>{0_nameDef}の進行度は揺るぎないものだ.</AbilityCannotCastHoraxian>
+
+  <!-- Entities -->
+  <MessageActivityRisingDamage>{0_definite}はダメージを受けたことで活動率が高まっている.</MessageActivityRisingDamage>
+  <EntityDiedOnHoldingPlatform>{0_labelShort}は収容プラットフォームで死亡した.</EntityDiedOnHoldingPlatform>
+  <MessageEntityDiscovered>新しい「存在」の発見</MessageEntityDiscovered>
+
+  <!-- Hate chanters -->
+  <MessageHateChantersAbsorbed>崇拝者はトランス状態にあり,攻撃に反応しない.</MessageHateChantersAbsorbed>
+  <MessageHateChantIncreased>憎悪の詠唱が大きくなっている.</MessageHateChantIncreased>
+
+  <!-- Self-resurrection -->
+  <SelfResurrectText>{0_nameDef}は死を拒む者を使用することで自己組成ができる</SelfResurrectText>
+  <MessageUsingSelfResurrection>{0_nameDef}は死を拒む者を使って自己蘇生している</MessageUsingSelfResurrection>
+
+  <!-- Pit Gate -->
+  <MessagePitGateCollapsed>ピットゲートが崩壊した.</MessagePitGateCollapsed>
+  <MessagePitBurrowCollapsed>竪穴が崩壊した.</MessagePitBurrowCollapsed>
+
+  <!-- Fleshsack -->
+  <FleshmassContainedMessage>肉袋には何かが入っています</FleshmassContainedMessage>
+
+  <!-- Psychic rituals -->
+  <MessagePsychicRitualAssault>{0_pawnsPluralDef}の攻撃！</MessagePsychicRitualAssault>
+  <MessageAIPsychicRitualBegan>{FACTION_pawnsPluralDef}がサイキック儀式を始めました</MessageAIPsychicRitualBegan>
+  
+  <!-- Biomutation lance -->
+  <MessageBiomutationLanceInvalidTargetRace>ターゲット不可: {0_nameDef}は動物または人間ではありません.</MessageBiomutationLanceInvalidTargetRace>
+  <MessageBiomutationLanceTargetTooBig>ターゲット不可: {0_nameDef}は大きすぎます.</MessageBiomutationLanceTargetTooBig>
+
+  <!-- Containment -->
+  <MessageNoRoomWithMinimumContainmentStrength>警告: {0}の最低収容強度に足りていません.すぐに脱走します.</MessageNoRoomWithMinimumContainmentStrength>
+  <MessageTargetBelowMinimumContainmentStrength>警告: {0}は{1}の最低収容強度未満です.すぐに脱走します.</MessageTargetBelowMinimumContainmentStrength>
+  <MessageHolderReserved>他の誰かが使用しているため,{0}を移せません.</MessageHolderReserved>
+  <MessageEntityExecuted>{EXECUTIONER_labelShort}は{VICTIM_kindIndef}を処刑しました.</MessageEntityExecuted>
+  <MessageOccupiedHoldingPlatformReinstalled>警告: 何かを収容している収容プラットフォームを再設置すると,「存在」を解放してしまいます.まずは他のプラットフォームに「存在」を移しましょう.</MessageOccupiedHoldingPlatformReinstalled>
+  <MessageOccupiedHoldingPlatformUninstalled>警告: 何かを収容している収容プラットフォームを撤去すると,「存在」を解放してしまいます.まずは他のプラットフォームに「存在」を移しましょう.</MessageOccupiedHoldingPlatformUninstalled>
+  <MessageOccupiedHoldingPlatformDeconstructed>警告: 何かを収容している収容プラットフォームを解体すると,「存在」を解放してしまいます.まずは他のプラットフォームに「存在」を移しましょう.</MessageOccupiedHoldingPlatformDeconstructed>
+  
+  <!-- Duplicator obelisk -->
+  <MessageHostileDuplicate>{0_nameDef}の敵対的な複製が出現しました.</MessageHostileDuplicate>
+  
+  <!-- Proximity detector -->
+  <MessageProximityDetectorTriggered>近接式検知器が目に見えない生き物を検知しました.</MessageProximityDetectorTriggered>
+  
+  <!-- Unnatural darkness --> 
+  <MessagePawnAttackedInDarkness>暗闇の中の何かが{0_nameDef}を攻撃しました.</MessagePawnAttackedInDarkness>
+  
+  <!-- Revenant -->
+  <MessageRevenantForcedVisibility>隠れたレヴナントが発見されました！</MessageRevenantForcedVisibility>
+  <MessageRevenantHeard>{PAWN_nameDef}は近くのレヴナント{1}の音を聞き取りました！</MessageRevenantHeard>
+  
+  <!-- Abilities -->
+  <MessageCannotUseOnNonBleeder>{ABILITY_label}は出血していない生物には使えません.</MessageCannotUseOnNonBleeder>
+  
+  <MessageFingerspikeDisturbed>{WAKER_nameDef}は指棘を妨げました.</MessageFingerspikeDisturbed>
+  <MessageFingerspikeDisturbedPlural>{WAKER_nameDef}はいくつかの指棘を妨げました.</MessageFingerspikeDisturbedPlural>
+
+  <DeathPallResurrectedMessage>死の帳が{0_indefinite}を蘇生しました.</DeathPallResurrectedMessage>
+  
+</LanguageData>

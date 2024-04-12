@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NoEmptyEntityHolders>空いている収容地点がありません</NoEmptyEntityHolders>
+  <ChooseEntityHolder>収容地点を選んでください</ChooseEntityHolder>
+  <FloatMenuContainmentStrength>収容強度</FloatMenuContainmentStrength>
+  <FloatMenuContainmentRequires>{0_label}が必要</FloatMenuContainmentRequires>
+  <EntityHolderReservedBy>使用中：</EntityHolderReservedBy>
+
+  <TalkTo>{0_nameDef}と話す</TalkTo>
+  <CannotTalkTo>{0_nameDef}と話せません</CannotTalkTo>
+  <ZeroSuppressionRate>抑制不可</ZeroSuppressionRate>\n\n</LanguageData>

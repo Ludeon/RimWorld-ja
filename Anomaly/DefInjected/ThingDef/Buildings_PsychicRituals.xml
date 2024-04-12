@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic ritual spot -->
+  <PsychicRitualSpot.label>サイキック儀式の場</PsychicRitualSpot.label>
+  <!-- EN: A spot for performing psychic rituals. Rituals can only be cast if the area around the ritual spot is unobstructed. -->
+  <PsychicRitualSpot.description>サイキック儀式を行うための場所です.儀式は,儀式の場の周囲に障害物となるものがない場合のみ行うことができます.</PsychicRitualSpot.description>
+  
+  <!-- EN: shard beacon -->
+  <ShardBeacon.label>破片ビーコン</ShardBeacon.label>
+  <!-- EN: A shard of dark archotechnology mounted on a bioferrite pedestal. The shard, focused by the bioferrite, shapes nearby dark psychic flows. When placed near a psychic ritual spot, it improves the ritual quality.\n\nA ritual can benefit from up to four shard beacons. -->
+  <ShardBeacon.description>バイオフェライトの台座に取り付けられた,闇のアルコテクノロジーの破片.バイオフェライトによって収束された破片は,近くの闇のサイキックへの流れを形成します.サイキック儀式の場の近くに置くことで,儀式の質を向上させます.\n\n1つの儀式で最大4つの破片ビーコンを使うことができます.</ShardBeacon.description>
+  
+  <!-- EN: void sculpture -->
+  <VoidSculpture.label>ヴォイドの彫刻</VoidSculpture.label>
+  <!-- EN: An unsettling sculpture made from bioferrite. The psychic properties of bioferrite enhance the quality of any psychic rituals performed nearby.\n\nUp to six void sculptures can connect to a psychic ritual spot. -->
+  <VoidSculpture.description>バイオフェライトで作られた不穏な彫刻です.バイオフェライトのサイキック特性が,近くで行われるあらゆるサイキック儀式の質を高めます.\n\n1つのサイキック儀式の場へ,最大6つのヴォイドの彫刻をリンクすることができます.</VoidSculpture.description>
+  
+</LanguageData>

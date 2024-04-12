@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleshmass neural lump -->
+  <FleshmassNeuralLump.label>肉塊の神経塊</FleshmassNeuralLump.label>
+  <!-- EN: A clump of fleshmass nervous tissue and fibres. You can analyze it to find a way to kill the fleshmass heart itself. -->
+  <FleshmassNeuralLump.description>肉塊の神経組織と繊維の塊です.これを分析することで,肉塊の心臓そのものを殺す方法を見つけることができます.</FleshmassNeuralLump.description>
+  <!-- EN: Analyze the fleshmass neural sample. Once enough neural samples are collected and analyzed, you should be able to figure out a way to kill the heart. -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateDescString>肉塊の神経サンプルを分析します.十分な数の神経サンプルを集めて分析すれば,心臓を殺す方法がわかるはずです.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateDescString>
+  <!-- EN: Analyze... -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>分析...</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>
+  <!-- EN: While analyzing the fleshmass neural tissue, {PAWN_nameDef} made a breakthrough!\n\nThis biosignature responds strongly when stimulated by a specific electric pulse. If used on the fleshmass heart itself, an electric signal could cause a tachycardiac overload and kill the heart.\n\nYou can now destroy the {BIOSIGNATURE} fleshmass heart by interacting with it directly. -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>肉塊の神経線維を分析中に,{PAWN_nameDef}はひらめいた！\n\nこのバイオシグネチャーは,特定の電気パルスで刺激されると強く反応するのだと.もし肉塊の心臓そのものに使用すれば,電気シグナルが頻脈性心過負荷を引き起こして,心臓を殺すことができるでしょう.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトすることで,破壊できるようになりました.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>
+  <!-- EN: Analysis complete -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.guiLabelString>誰がこれを分析するか選択してください.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.inspectString>入植者が分析可能です.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.inspectString>
+  <!-- EN: Analyze neural lump -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.jobString>神経塊を分析する</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.jobString>
+  <!-- EN: Analysis progress -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetterLabel>分析の進捗</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetterLabel>
+  <!-- EN: {PAWN_nameDef} has finished analyzing the fleshmass neural lump. The sample carries the biosignature {BIOSIGNATURE}.\n\n{PAWN_nameDef} is convinced that {PAWN_pronoun} can find a way to kill the fleshmass heart, but {PAWN_pronoun} needs to study more neural samples first. -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}は肉塊の神経塊の分析を完了しました.サンプルにはバイオシグネチャー{BIOSIGNATURE}が含まれています.\n\n{PAWN_nameDef}は,{PAWN_pronoun}なら肉塊の心臓を殺す方法を見つけられると確信していますが,まずはさらに神経サンプルを研究する必要があります.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetters.0>
+  <!-- EN: {PAWN_nameDef} has finished analyzing the fleshmass neural tissue. This tissue belongs to the previously studied biosignature {BIOSIGNATURE}, so you didn't gain any new knowledge.\n\nYou can destroy the {BIOSIGNATURE} fleshmass heart by interacting with it directly and inducing a tachycardiac overload. -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は肉塊の神経線維の分析を完了しました.この繊維は以前研究したバイオシグネチャー{BIOSIGNATURE}のものであり,新しい知識は得られませんでした.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトし,頻脈性過負荷を引き起こすことで破壊できます.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
+  <!-- EN: Analysis complete -->
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>分析完了</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
+  
+  <!-- EN: golden cube -->
+  <GoldenCube.label>黄金のキューブ</GoldenCube.label>
+  <!-- EN: A cube that fits snugly in the hand. Golden in color, it is always invitingly warm to the touch, like a trusted pet or a hug from a good friend. Those that look closely are rewarded for their attention, by the delightful way light plays across its welcoming surface.\n\nThe cube seems impervious to most damage. -->
+  <GoldenCube.description>手の中にすっぽりと収まるキューブです.黄金色をしており,信頼するペット,あるいは善き友からの抱擁のように,触れるといつも心地よいあたたかさを感じます.じっくりとみてみると,その見目麗しい表面には光が戯れ,目を楽しませてくれます.\n\nこのキューブはほとんどのダメージを受けません.</GoldenCube.description>
+  <!-- EN: Golden cube study progress -->
+  <GoldenCube.comps.CompStudyUnlocks.studyNotes.0.label>黄金のキューブ研究の進捗</GoldenCube.comps.CompStudyUnlocks.studyNotes.0.label>
+  <!-- EN: {PAWN_nameDef}'s investigation of the golden cube has revealed more. It is able to psychically influence anyone who interacts with it. Those under the cube's influence will experience extreme withdrawal if they're separated from it.\n\n{PAWN_nameDef} thinks that there may be a way to deactivate the cube, but {PAWN_pronoun} will need to study it further. -->
+  <GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef}の黄金のキューブに関する研究によって,さらに多くのことが明らかになりました.このキューブは,それを関わる人すべてに精神的な影響を及ぼすことが可能です.キューブの影響下にある者は,キューブから引き離されると極度の疎外感を覚えます.\n\n{PAWN_nameDef}は,キューブを無力化する方法があると考えていますが,そのために{PAWN_pronoun}はさらなる研究を行う必要です.</GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>
+  <!-- EN: Golden cube study complete -->
+  <GoldenCube.comps.CompStudyUnlocks.studyNotes.1.label>黄金のキューブ研究完了</GoldenCube.comps.CompStudyUnlocks.studyNotes.1.label>
+  <!-- EN: {PAWN_nameDef}'s investigation of the golden cube has revealed that it can be safely deactivated using an archotech shard. Deactivating the cube will break its psychic hold over people. However, it will also prevent further study of the cube.\n\nSelect the golden cube to deactivate it. -->
+  <GoldenCube.comps.CompStudyUnlocks.studyNotes.1.text>{PAWN_nameDef}の研究によって,黄金のキューブはアルコテックの破片を使うことで安全に無力化できることが明らかになりました.キューブを無力化することで,人々に対する精神支配を解除することができます.ただし,キューブのそれ以上の研究は行えなくなります.\n\n無力化するには,黄金のキューブを選んでください.</GoldenCube.comps.CompStudyUnlocks.studyNotes.1.text>
+  <!-- EN: Permanently disable the golden cube, breaking its psychic hold. This will prevent the cube from being studied further.\n\nRequires 1 shard. -->
+  <GoldenCube.comps.CompGoldenCube.activateDescString>黄金のキューブを永久的に無力化し,その精神支配を解除します.これにより,キューブのそれ以上の研究が行えなくなります.\n\n破片が1個必要です.</GoldenCube.comps.CompGoldenCube.activateDescString>
+  <!-- EN: Deactivate golden cube -->
+  <GoldenCube.comps.CompGoldenCube.activateLabelString>黄金のキューブの無力化</GoldenCube.comps.CompGoldenCube.activateLabelString>
+  <!-- EN: deactivating {0}: {1}s -->
+  <GoldenCube.comps.CompGoldenCube.activatingString>{0}の無力化中：{1}秒</GoldenCube.comps.CompGoldenCube.activatingString>
+  <!-- EN: deactivating {0} -->
+  <GoldenCube.comps.CompGoldenCube.activatingStringPending>{0}の無力化中</GoldenCube.comps.CompGoldenCube.activatingStringPending>
+  <!-- EN: Choose who should deactivate this. -->
+  <GoldenCube.comps.CompGoldenCube.guiLabelString>誰がこれを無力化するか選択してください.</GoldenCube.comps.CompGoldenCube.guiLabelString>
+  <!-- EN: deactivate -->
+  <GoldenCube.comps.CompGoldenCube.jobString>無力化</GoldenCube.comps.CompGoldenCube.jobString>
+  <!-- EN: The following people have recovered from the cube's psychic effects: -->
+  <GoldenCube.comps.CompGoldenCube.letterDeactivatedAppend>以下の人々が,キューブの精神的影響から回復しました：</GoldenCube.comps.CompGoldenCube.letterDeactivatedAppend>
+  <!-- EN: {PAWN_nameDef} has deactivated the golden cube. After its animating force was removed, the cube crumbled into a small pile of gold. -->
+  <GoldenCube.comps.CompGoldenCube.letterDeactivatedDesc>{PAWN_nameDef}は黄金のキューブを無力化しました.その支配の力が解除されたキューブは,小さな金の山へと崩れ去りました.</GoldenCube.comps.CompGoldenCube.letterDeactivatedDesc>
+  <!-- EN: Golden cube deactivated -->
+  <GoldenCube.comps.CompGoldenCube.letterDeactivatedLabel>黄金のキューブが無力化されました</GoldenCube.comps.CompGoldenCube.letterDeactivatedLabel>
+  
+  <!-- EN: gray flesh sample -->
+  <GrayFleshSample.label>灰色の肉体サンプル</GrayFleshSample.label>
+  <!-- EN: This strip of human flesh is stained with a dark and gritty ferrous material. Tiny threads of metallic filament run throughout, interspersed with tiny silvery beads. Its form suggests that it sloughed off someone's body during some unnatural liquification process. -->
+  <GrayFleshSample.description>この人間の肉体は,黒っぽく砂のような鉄製物質で汚れています.金属フィラメントの小さな糸が全身に走り,銀色の小さな玉が散りばめられています.その形から察するに,不自然な液化の過程で誰かの体からはがれ落ちたものと思われます.</GrayFleshSample.description>
+  <!-- EN: Analyze the gray flesh sample. Once enough flesh samples are collected and analyzed, the threat's biosignature will be detectable using a surgical inspection operation, allowing you to identify its host. -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.activateDescString>灰色の肉体サンプルを分析します.十分な量の肉体サンプルを収集して分析すれば,外科的調査手術で脅威となるバイオシグネチャーを検出できるようになり,宿主を特定できるようになります.</GrayFleshSample.comps.CompAnalyzableBiosignature.activateDescString>
+  <!-- EN: Analyze... -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>分析...</GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>
+  <!-- EN: While analyzing the gray flesh sample, {PAWN_nameDef} finally isolated the biosignature {BIOSIGNATURE}!\n\nThe signature emerges from the fusing of human tissue and metallic bioferrite filaments which spider through the flesh and take control of the nervous system.\n\nYou can now use the surgical inspection operation to detect {BIOSIGNATURE} in living subjects. -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>灰色の肉体サンプルを分析する中で,{PAWN_nameDef}はついにバイオシグネチャー{BIOSIGNATURE}を分離することに成功しました！\n\nシグネチャーは,肉体中に編みを張り巡らし,神経線維を乗っ取っている人体組織と金属性バイオフェライト繊維の融合から現れました.\n\nこれにより,生きている被験者の中の{BIOSIGNATURE}を,外科的調査手術で検知できるようになります.</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>
+  <!-- EN: Analysis complete -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.guiLabelString>誰がこれを分析するか選択してください.</GrayFleshSample.comps.CompAnalyzableBiosignature.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.inspectString>入植者が分析可能です.</GrayFleshSample.comps.CompAnalyzableBiosignature.inspectString>
+  <!-- EN: Analyze gray flesh sample -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.jobString>灰色の肉体サンプルを分析する</GrayFleshSample.comps.CompAnalyzableBiosignature.jobString>
+  <!-- EN: Analysis progress -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetterLabel>分析の進捗</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetterLabel>
+  <!-- EN: {PAWN_nameDef} has finished analyzing the gray flesh sample. The sample carried the biosignature {BIOSIGNATURE}.\n\n{PAWN_nameDef} made progress in learning to identify this biosignature in living subjects, but needs more samples to complete the work. Until then, your surgical inspections will not detect {BIOSIGNATURE}.\n\nCollect and analyze more grey flesh samples. -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.サンプルにはバイオシグネチャー{BIOSIGNATURE}が含まれていました.\n\n{PAWN_nameDef}は生きている被験者の中のバイオシグネチャー特定に関する研究を前進させましたが,研究の完了にはさらにサンプルが必要です.それまでは,外科的調査で{BIOSIGNATURE}を検知できません.\n\n灰色の肉体サンプルをさらに集めて分析しましょう.</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>
+  <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} analysis of the gray flesh sample. It carries the previously discovered biosignature {BIOSIGNATURE}.\n\nYour colonists now understand this biosignature well enough to detect it with the surgical inspection operation. -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.それには,以前発見したバイオシグネチャー{BIOSIGNATURE}が含まれていました.\n\n入植者たちは,このバイオシグネチャーを外科的調査手術で検知できるだけの知識を得ました.</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
+  <!-- EN: Analysis complete -->
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>分析完了</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
+  
+  <!-- EN: twisted meat -->
+  <Meat_Twisted.label>捻れた肉</Meat_Twisted.label>
+  <!-- EN: Pieces of twisted muscle and gristle, bloated with tumorous growths. These bizarre shreds of flesh must have come from a horrific creature. -->
+  <Meat_Twisted.description>ねじれた筋肉と軟骨,膨らんだ腫瘍で肥大化した肉片です.この奇妙な肉片は,この恐ろしい生物のものに違いないでしょう.</Meat_Twisted.description>
+  
+  <!-- EN: monolith fragment -->
+  <MonolithFragment.label>モノリスの破片</MonolithFragment.label>
+  <!-- EN: A broken-off fragment of the void monolith. It can be studied to learn more about void phenomena. -->
+  <MonolithFragment.description>ヴォイドモノリスから剥がれ落ちた破片です.研究することでヴォイド現象について学ぶことができます.</MonolithFragment.description>
+  
+  <!-- EN: revenant flesh chunk -->
+  <RevenantFleshChunk.label>レヴナントの肉塊</RevenantFleshChunk.label>
+  <!-- EN: A strip of leathery, desiccated flesh that sloughed off a revenant when it was harmed. The tissue oozes a dark, oily liquid. -->
+  <RevenantFleshChunk.description>レヴナントが傷を負った際に剥がれ落ちた,革のような乾燥した肉片です.その繊維からは,黒く,油のような液体がにじみ出ています.</RevenantFleshChunk.description>
+  <!-- EN: Analyze the revenant flesh chunk. Analyzing this tissue sample will give you tools to track and reveal the revenant. -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.activateDescString>レヴナントの肉塊を分析します.この組織サンプルを分析することで,レヴナントを追跡し,居場所を明らかにするツールが得られます.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.activateDescString>
+  <!-- EN: Analyze... -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.activateLabelString>分析...</RevenantFleshChunk.comps.CompAnalyzableBiosignature.activateLabelString>
+  <!-- EN: {PAWN_nameDef} has finished analyzing the revenant flesh chunk with biosignature {BIOSIGNATURE}.\n\n{PAWN_pronoun} has learned more about this specific revenant's biology and its method of hiding from sight. Your colonists can now see this revenant when it is nearby.\n\nPerhaps you'll be able to find it and kill it while it sleeps. -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.completedLetter>{PAWN_nameDef}はバイオシグネチャー{BIOSIGNATURE}の含まれるレヴナントの肉塊の分析を完了しました.\n\n{PAWN_pronoun}は,この特定のレヴナントの生態と,ひと目から隠れる手段についてさらに知識を得ました.入植者たちは,近くにレヴナントがいるときに見つけられるようになりました.\n\n眠っている間に見つけて殺すこともできるでしょう.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.completedLetter>
+  <!-- EN: Analysis progress -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.completedLetterLabel>分析の進捗</RevenantFleshChunk.comps.CompAnalyzableBiosignature.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.guiLabelString>誰がこれを分析するか選択してください.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.inspectString>入植者が分析可能です.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.inspectString>
+  <!-- EN: Analyze revenant flesh chunk -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.jobString>レヴナントの肉塊を分析する</RevenantFleshChunk.comps.CompAnalyzableBiosignature.jobString>
+  <!-- EN: Analysis progress -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetterLabel>分析の進捗</RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetterLabel>
+  <!-- EN: {PAWN_nameDef} has finished analyzing the revenant flesh chunk with biosignature {BIOSIGNATURE}.\n\n{PAWN_pronoun} learned more about this particular revenant's biology and how to identify fluids it leaves behind.\n\nThis revenant will now leave a much longer trail of visible smudges when it flees.\n\nPerhaps you'll be able to find it and kill it while it sleeps. You can track it by smears it leaves behind, and reveal it with disruptor flares, explosions, EMPs, or fire. -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}はバイオシグネチャー{BIOSIGNATURE}の含まれるレヴナントの肉塊の分析を完了しました.\n\n{PAWN_pronoun}は,この特定のレヴナントの生態と,それが残した液体を特定する方法についてさらなる知識を得ました.\n\nこのレヴナントは,逃走する際に目に見える痕跡をより長く残すようになります.\n\n眠っている間に見つけて殺すこともできるでしょう.残された汚れをたどって追跡し,妨害フレア,爆発物,EMP,または炎で居場所を明らかにすることができます.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.0>
+  <!-- EN: {PAWN_nameDef} has finished analyzing the revenant flesh chunk with biosignature {BIOSIGNATURE}.\n\n{PAWN_pronoun} has learned more about this specific revenant's biology and the vocalizations it makes. Your colonists can now hear this revenant when it is nearby. If you go hunting the revenant and get close, you'll be notified which colonists can hear it.\n\nPerhaps you'll be able to find it and kill it while it sleeps. You can track it by smears it leaves behind, and reveal it with disruptor flares, explosions, EMPs, or fire. -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.1>{PAWN_nameDef}はバイオシグネチャー{BIOSIGNATURE}の含まれるレヴナントの肉塊の分析を完了しました.\n\n{PAWN_pronoun}は,この特定のレヴナントの生態と,それが発する音についてさらなる知識を得ました.入植者はこのレヴナントが近くにいると音を聞くことができるようになります.レヴナントを仕留めに行く際は,どの入植者がその音が聞こえているかが通知されます.\n\n眠っている間に見つけて殺すこともできるでしょう.残された汚れをたどって追跡し,妨害フレア,爆発物,EMP,または炎で居場所を明らかにすることができます.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.1>
+  <!-- EN: {PAWN_nameDef} has finished analyzing the revenant flesh chunk with the previously studied biosignature {BIOSIGNATURE}.\n\n Your colonists can now see this revenant when it is nearby. Perhaps you'll be able to find it and kill it while it's sleeping. -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は以前に研究したバイオシグネチャー{BIOSIGNATURE}の含まれるレヴナントの肉塊の分析を完了しました.\n\n入植者たちは,近くにレヴナントがいるときに見つけられるようになりました.眠っている間に見つけて殺すこともできるでしょう.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
+  <!-- EN: Analysis complete -->
+  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>分析完了</RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
+  
+  <!-- EN: revenant spine -->
+  <RevenantSpine.label>レヴナントの脊椎</RevenantSpine.label>
+  <!-- EN: An articulated spine-like object from a dead revenant. It is a chaotic mesh of sharpened metal spokes, twisted into a warped cage. The material appears to be rough-cast black iron smeared in a dark, slippery fluid. Anyone who peers too closely inside its jagged form is left with a skull-splitting headache.\n\nYou can destroy the spine to permanently kill the revenant.\n\nAlternatively, you can secure it on a holding platform and wait for the revenant to re-emerge, so you can study the captured entity. -->
+  <RevenantSpine.description>死亡したレヴナントから採取された,節のある脊椎のような物体.まばらな網目状の鋭い金属スポークが,歪んだ檻の中に捻れて押し込まれています.この素材は,黒く,滑りやすい液体にまみれた荒削りな黒い鉄のようなもののようです.そのギザギザの形状の中をじっくりと覗き込んだ者は,頭蓋骨が割れるような頭痛にみまわれます.\n\n脊椎を破壊することで,レヴナントを永久に殺すことができます.\n\nまたは,それを収容プラットフォームに固定し,レヴナントが再び出現すっるのを待つことで,捕獲した「存在」を研究できます.</RevenantSpine.description>
+  <!-- EN: Revenant reformed -->
+  <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterLabel>レヴナントの再形成</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterLabel>
+  <!-- EN: After {PAWN_nameDef} chained the revenant spine to a holding platform, the revenant re-emerged.\n\nWhen killed, a revenant's body dissolves, leaving behind only its archotechnological spine. This cage of slick iron waits for a chance to grow a new body. -->
+  <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>{PAWN_nameDef}がレヴナントの脊椎を収容プラットフォームに接続した後,レブナントが再出現しました.\n\nそれを殺すと,レブナントの身体は溶解し,アルコテクノロジーの脊椎だけが残されました.この滑らかな鉄の檻は,新たな肉体を得るチャンスを待っています.</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>
+  <!-- EN: Smash {0_label} -->
+  <RevenantSpine.comps.CompUsable.useLabel>{0_label}を砕く</RevenantSpine.comps.CompUsable.useLabel>
+  <!-- EN: {PAWN_nameDef} smashed the revenant spine. It dissolved to reveal a shard of dark archotechnology. -->
+  <RevenantSpine.comps.CompUsable.useMessage>{PAWN_nameDef}はレブナントの脊椎を砕きました.それは溶解し,闇のアルコテクノロジーの破片が現れました.</RevenantSpine.comps.CompUsable.useMessage>
+  <!-- EN: Smash the revenant spine to prevent it reforming into a new revenant. -->
+  <RevenantSpine.comps.CompRevenantSpine.activateDescString>レブナントの脊椎を砕くことで,新たなレヴナントへの再形成を防ぎます.</RevenantSpine.comps.CompRevenantSpine.activateDescString>
+  <!-- EN: Smash... -->
+  <RevenantSpine.comps.CompRevenantSpine.activateLabelString>砕く...</RevenantSpine.comps.CompRevenantSpine.activateLabelString>
+  <!-- EN: smashing revenant spine -->
+  <RevenantSpine.comps.CompRevenantSpine.activatingStringPending>レヴナントの脊椎を砕いています</RevenantSpine.comps.CompRevenantSpine.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <RevenantSpine.comps.CompRevenantSpine.guiLabelString>誰がこれを実行するか選択してください.</RevenantSpine.comps.CompRevenantSpine.guiLabelString>
+  
+  <!-- EN: shard -->
+  <Shard.label>破片</Shard.label>
+  <!-- EN: A scavenged fragment of dark archotechnology. Originally created by a hyperintelligent archotech mind, this shard is packed with technology beyond human comprehension. It is capable of manipulating psychic flows, inducing archotech influences and more esoteric outcomes. While it is useless by itself, it can be built into devices that harness its power to produce exotic effects. -->
+  <Shard.description>回収された闇のアルコテクノロジーの破片です.本来は超知能のあるアルコテックの精神によって作られたこの破片は,人知を超えたテクノロジーが詰め込まれています.サイキックの流れを制御し,アルコテックの影響やそれ以上に不可解な結果を誘発することができます.それだけでは役に立ちませんが,その力を利用して奇妙な効果を生み出す装置に組み込むことができます.</Shard.description>
+  
+</LanguageData>

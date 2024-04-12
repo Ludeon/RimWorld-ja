@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Inhumanization -->
+  <ReHumanizedLabel>再人間化</ReHumanizedLabel>
+  <ReHumanizedText>{0_nameDef}は人間性のつながりを取り戻しました.{0_nameDef}の「非人間化」の健康状態は解除されました.</ReHumanizedText>
+  <WarningFromLabel>{0_nameDef}からの警告</WarningFromLabel>
+
+  <!-- Hate chanters -->
+  <HateChantersLabel>崇拝者の憎悪の詠唱者</HateChantersLabel>
+  <HateChantersText>崇拝者の憎悪の詠唱者がやってきました.彼らは憎悪の詠唱儀式を行って,入植者たちに精神的な怒りを強制し,狂気に駆り立てようとしています.この詠唱は,崇拝者たちを止めるまで大きくなっていきます.</HateChantersText>
+  <HateChantersAttackingLabel>崇拝者の攻撃</HateChantersAttackingLabel>
+  <HateChantersAttackingText>崇拝者たちは憎悪の詠唱を止め,儀式的なトランス状態となりました.\n\n防御の備えをしましょう.</HateChantersAttackingText>
+
+  <!-- Psychic rituals -->
+  <PsychicRitualCompleteLabel>{0}の完了</PsychicRitualCompleteLabel>
+
+  <VoidProvocationCompletedText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,「存在」を引き寄せる精神パルスを発信しています.</VoidProvocationCompletedText>
+  <VoidProvocationSucceeded>次に来るものに備えましょう.</VoidProvocationSucceeded>
+  <VoidProvocationFailed>残念ながら,あなたの呼びかけに応えるものはありませんでした.</VoidProvocationFailed>
+  <VoidProvocationDarkPsychicShock>その過程で,{INVOKER_nameDef}は人知を超えた恐ろしい何かを垣間見ました.その精神の暗闇は{INVOKER_objective}に衝撃を与え,短時間の昏睡状態に陥らせました.</VoidProvocationDarkPsychicShock>
+  <PhilophagyCompleteText>{INVOKER_nameDef}は,{TARGET_nameDef}のスキルと記憶を吸収する,{RITUAL_definite}の儀式を終えました.</PhilophagyCompleteText>
+  <PawnGainedXPInSkill>{0_nameDef}は{2_label}のXPを{1}得ました</PawnGainedXPInSkill>
+  <PawnLostXPInSkill>{0_nameDef}は{2_label}のXPを{1}失いました</PawnLostXPInSkill>
+  <PhilophagySkillLevelGained>スキルレベルが{0}から{1}にあがりました.</PhilophagySkillLevelGained>
+  <PhilophagySkillLevelLost>スキルレベルが{0}から{1}に下がりました.</PhilophagySkillLevelLost>
+  <PhilophagySkillLevelRemains>スキルレベルが{0}から変動しませんでした.</PhilophagySkillLevelRemains>
+  <PhilophagyDamagedTarget>このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PhilophagyDamagedTarget>
+
+  <ImbueDeathRefuralCompleteText>{0_nameDef}は死を拒む者となりました.{0_pronoun}は死亡後に自己蘇生できるようになります.\n\nこのプロセスは{0_nameDef}の脳を萎縮させ,{0_objective}の{0_possessive}スキルのXPを合計{1}失ってしまいます.</ImbueDeathRefuralCompleteText>
+
+  <SummonAnimalsSuccessText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.まもなく動物の群れがやってくるでしょう.</SummonAnimalsSuccessText>
+  <SummonAnimalsFailureText>{0_nameDef}は{RITUAL_definite}の儀式を終えましたが,何かが大きく間違っているようです！儀式は動物を狂わせました.あなたの方へ,人を狙う動物がやってきます！</SummonAnimalsFailureText>
+  
+  <SummonShamblersCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を成功させました.到着に備えましょう.</SummonShamblersCompleteText>
+
+  <AttackingFromMultipleDirections>彼らは複数の方向から襲撃してきます.</AttackingFromMultipleDirections> 
+
+  <ChronophagyCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を成功させました.儀式は以下の効果を及ぼします：</ChronophagyCompleteText>
+  <ChronophagyTargetAged>{0_nameDef}が{1}歳老いました</ChronophagyTargetAged>
+  <ChronophagyInvokerRejuvenated>{0_nameDef}が{1}歳若返りました</ChronophagyInvokerRejuvenated>
+  <ChronophagyTargetDiedOfOldAge>{0_nameDef}はクロノファジーの儀式による負荷に耐えきれず,老衰で死亡しました.</ChronophagyTargetDiedOfOldAge>
+  <ChronophagyTargetOldAgeDiseases>{0_nameDef}はクロノファジーの儀式を生き延びましたが,以下の状態になりました</ChronophagyTargetOldAgeDiseases>
+  <ChronophagyInvokerCuredDiseases>さらに,このプロセスは{0_nameDef}の以下の状態を治療しました：</ChronophagyInvokerCuredDiseases>
+  <ChronophagyCurrentAge>そして,今は{0}歳になりました</ChronophagyCurrentAge>
+
+  <PleasurePulseCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.次の{1}の間,{RITUAL_definite}の影響を受けた全員は幸せになりますが,作業が遅くなります.</PleasurePulseCompleteText>
+
+  <NeurosisPulseCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.次の{1}の間,パルスを聞いた全員は作業が早くなりますが,苛立ちやすくなります.</NeurosisPulseCompleteText>
+
+  <BloodRainCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.空から濃赤の雫が降り注ぎ始めました.凶暴化を防ぐために,全員を屋内に収容してください.</BloodRainCompleteText>
+
+  <BrainwipeCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,{TARGET_nameDef}の記憶を消去しました.</BrainwipeCompleteText>
+  <BrainwipeTargetComa>{TARGET_pronoun}は{1}の間,昏睡状態になります.</BrainwipeTargetComa>
+  <BrainwipeUnwaveringlyLoyal>{TARGET_nameDef}の揺るぎない忠誠はもはやありません.</BrainwipeUnwaveringlyLoyal>
+  <BrainwipeRehumanized>{TARGET_nameDef}は最人間化されました.</BrainwipeRehumanized>
+
+  <PsychophagyCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,{TARGET_nameDef}のサイキック存在を食い尽くしました.</PsychophagyCompleteText>
+  <PsychophagyTargetSurvived>{TARGET_nameDef}は精神的無反応になっています.このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PsychophagyTargetSurvived>
+  
+  <PsychicRitualTargetBrainLiquified>このプロセスは{TARGET_nameDef}の脳を液状化させ,{TARGET_objective}を殺します.</PsychicRitualTargetBrainLiquified>
+
+  <SummonFleshbeastsPlayerCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.フレッシュビーストが地面から出現します！</SummonFleshbeastsPlayerCompleteText>
+
+  <GhoulInfusionCompleteText>{INVOKER_nameDef}は{TARGET_nameDef}へのバイオフェライト注入を終えました.儀式は{TARGET_nameDef}の精神を捻じ曲げ,{TARGET_possessive}の肉体を変異させ,グールという名で知られる恐るべき生物を作り出しました.{INVOKER_nameDef}は{TARGET_nameDef}とサイキックリンクを共有しており,{TARGET_nameDef}を制御することができます.\n\nグールは生き延びるために生肉を食べます.空腹になると,敵対する可能性があります.</GhoulInfusionCompleteText>
+  
+  <AttackersMayCastRitualMultipleTimes>彼らは儀式を何度も行うかもしれません.止めなければなりません.</AttackersMayCastRitualMultipleTimes>
+
+  <SkipAbductionPlayerCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終えました.時間と空間を操ることで,{INVOKER_nameDef}は{FACTION_name}勢力の{TARGET_nameDef}を拐いました.この儀式の恐るべき性質により,{TARGET_nameDef}は短期間の昏睡状態に陥りました.</SkipAbductionPlayerCompleteText>
+
+  <FleshmassResponseLabel>肉塊の反応</FleshmassResponseLabel> 
+  <FleshmassResponseText>肉塊の死が暴力的な反応を引き起こしました！肉塊は身震いをし,身を守るために新たなフレッシュビーストを生み出しました.</FleshmassResponseText> 
+
+  <!-- Void awakening -->
+  <VoidAwakeningStageOneStructuresActivatedLabel>光が消えゆく空</VoidAwakeningStageOneStructuresActivatedLabel>
+  <VoidAwakeningStageTwoStructuresActivatedLabel>構造体が起動</VoidAwakeningStageTwoStructuresActivatedLabel>
+  <VoidAwakeningStageOneStructuresActivatedText>2つ目の構造体が起動すると,闇が強まり始めました.やがて不自然な闇が辺りを包むことですので,コロニーの準備を整えましょう.資源を備蓄し,光源を建て,妨害フレアを作り,防備を強化しましょう.光の中だけが安全なのですから.\n\nさらに多くの捻れた構造体が,じきに現れるでしょう.</VoidAwakeningStageOneStructuresActivatedText>
+  <VoidAwakeningStageTwoStructuresActivatedText>すべてのヴォイド構造体が起動しました.ヴォイドモノリスの周囲の空間が揺らぎ始めています.備えましょう.</VoidAwakeningStageTwoStructuresActivatedText> 
+  <VoidAwakeningFinalStructuresActivatedLabel>{STUDIER_nameDef}がテレポートしました</VoidAwakeningFinalStructuresActivatedLabel> 
+  <VoidAwakeningFinalStructuresActivatedText>モノリスを起動させた{STUDIER_nameDef}は,時空を越えて別の空間へと引きずり込まれました.\n\n{STUDIER_pronoun}は自身がギザギザの金属の棘がある部屋にいることに気が付きました.どの表面にも黒い滑らかな液体が張り付いており,空気は力で振動しています.この金属の地獄は,非人間的な超知性体への接続チャンネルなのです.\n\n{STUDIER_nameDef}は悪夢の如き精神を我々の世界へと流し込むチャンネルであるヴォイドノードを見つけました.それと交信して力を受け入れるか,破壊して完全につながりを断ち切るか.</VoidAwakeningFinalStructuresActivatedText> 
+  <VoidAwakeningShamblerArrivalLabel>シャンブラーの攻勢</VoidAwakeningShamblerArrivalLabel>
+  <VoidAwakeningShamblerArrivalText>シャンブラーの大群がヴォイド構造体に引き寄せられています.準備をしましょう！</VoidAwakeningShamblerArrivalText>
+  <VoidAwakeningFleshbeastBurrowLabel>フレッシュビーストの穴掘り</VoidAwakeningFleshbeastBurrowLabel>
+  <VoidAwakeningFleshbeastBurrowText>モノリスは強力なサイキックパルスを放ち,近くの「存在」を引き寄せています.\n\n地面の下からは,肉々しい悲鳴とひっかくような爪の音が聞こえてきます.フレッシュビーストがトンネルを掘って向かってきているのです.備えましょう！</VoidAwakeningFleshbeastBurrowText>
+  <VoidAwakeningMetalhorrorArrivalLabel>メタルホラーの襲撃</VoidAwakeningMetalhorrorArrivalLabel>
+  <VoidAwakeningMetalhorrorArrivalText>メタルホラーがヴォイドモノリスの近くに出現します.備えましょう！</VoidAwakeningMetalhorrorArrivalText>
+  <VoidAwakeningEntityArrivalLabel>「存在」の攻撃</VoidAwakeningEntityArrivalLabel> 
+  <VoidAwakeningEntityArrivalText>起動したヴォイド構造体が捻れたサイキックパルスを放ち、近くの「存在」を引き寄せています.備えましょう！</VoidAwakeningEntityArrivalText>
+  <VoidAwakeningBreadcrumbLetterLabel>ヴォイドを受け入れよ</VoidAwakeningBreadcrumbLetterLabel>
+  <VoidAwakeningBreadcrumbLetterText>ヴォイド構造体に関わっている間に,{PAWN_nameDef}はヴォイドの光景を目の当たりにしました.暫くの間,{PAWN_pronoun}は果てしない深さの黒い海を泳いでおり,そこからは無限の非人間的な力を感じました.\n\n{PAWN_nameDef}はヴォイドを受け入れることでその力を制御できるかもしれないと考えています.もしヴォイドへの導管を閉じるのではなく,永久的につなぐことができれば,計り知れない可能性が生み出されるでしょう.</VoidAwakeningBreadcrumbLetterText>
+
+  <!-- Void node -->
+  <VoidNodeReturnedLabel>{PAWN_nameDef}の帰還</VoidNodeReturnedLabel>
+  <VoidNodeReturnedMessage>{PAWN_nameDef}が再出現しました.</VoidNodeReturnedMessage>
+  <EmbracedVoidText>{PAWN_nameDef}が再出現しました.\n\n{PAWN_pronoun}はヴォイドの非人間的な思考パターンにより枯れ果ててしまったように見えます.{PAWN_possessive}の目からは,人間的な痕跡の一切が失われています.\n\n{PAWN_nameDef}の精神と肉体は今や,非人間的な怒りの暗きヴォイドと永久に繋がっているのです.この新たなつながりから力を得た{PAWN_nameDef}は,もはや食事や睡眠と行った人間的欲求の必要性も感じていません.{PAWN_pronoun}はヴォイドの力を活用することで,他者に恐怖を流し込む力を得たのです.\n\nモノリスは目覚めました.{PAWN_nameDef}の再出現とともに大きなうなりをあげ,ヴォイドとのつながりが開かれ,永遠のものとなったことをしらしめるのです.</EmbracedVoidText>
+  <DisruptedLinkText>{PAWN_nameDef}が再出現しました.{PAWN_pronoun}はその努力により疲れ切ってはいますが,健康ではあるようです.\n\nヴォイドへのチャンネルを閉じることで,{PAWN_nameDef}は我々の世界でのこれ以上の不自然な現象のハッセを阻止しました.この一帯の敵対的な「存在」は地に落ち、生命を失いました.\n\n{PAWN_possessive}の英雄譚は,広く知られることとなるでしょう.</DisruptedLinkText>
+  <RewardFleshcraftingAbility>肉体造り</RewardFleshcraftingAbility>
+  <RewardSlaughterAbility>屠殺</RewardSlaughterAbility>
+  <RewardShamblerControlAbility>シャンブラーの制御</RewardShamblerControlAbility>
+
+  <!-- Duplicate sickness -->
+  <DuplicateSicknessLabel>複製病</DuplicateSicknessLabel>
+  <DuplicateSicknessText>{0_nameDef}と{0_possessive}の複製の双方の体調がすぐれないようです.2人の体調は複製プロセスに関連しているようで,悪化の一途を辿っています.2人を結びつけている精神的なつながりが,その意識を徐々に失わせているようです.症状はどちらかが死ぬまで改善しないでしょう.</DuplicateSicknessText>
+
+  <!-- Frenzied animals -->
+  <FrenziedAnimalsLabel>狂乱する動物</FrenziedAnimalsLabel>
+  <FrenziedAnimalsText>{0}のヒト狩り集団が,やって来ました！やつらは,あなたの儀式によって狂気に駆られています.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また電源の入っていないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,1～2日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</FrenziedAnimalsText>
+
+  <!-- Ghouls -->
+  <GhoulBetrayalLabel>グールの裏切り</GhoulBetrayalLabel>
+  <GhoulBetrayalText>{PAWN_nameDef}は生肉への恐ろしいほどの欲求で狂いました！</GhoulBetrayalText>
+  
+  <!-- Distress signal -->
+  <DistressSignalLabel>救難信号</DistressSignalLabel>
+  <DistressSignalText>近くの{FACTION_name}のキャンプからの救難信号を傍受しました.\n\n必死な越えが,脅威から身を守るために即時の援助を懇願しています.彼らは援助の見返りとして,強力なアルコテクノロジーの破片など,キャンプにあるすべてのものを提供するそうです.\n\n声は脅威の性質について説明しようとしたところで,信号は途絶えました.</DistressSignalText>
+  <DistressSignalAmbushLabel>待ち伏せ</DistressSignalAmbushLabel>
+  <DistressSignalAmbushText>近くの竪穴からフレッシュビーストが出現します！</DistressSignalAmbushText>
+
+  <!-- Chimeras -->
+  <ChimeraAssaultLabel>キメラの接近</ChimeraAssaultLabel>
+  <ChimeraAssaultText>付近に,歪んだ動物のようなキメラの集団が出現しました.\n\n不格好な獣たちはあなたのコロニーを監視し,襲撃する機会を伺っています.キメラたちは神経質で,挑発すると報復してくる可能性があります.</ChimeraAssaultText>
+
+  <!-- Unnatural darkness -->
+  <DarknessLiftingEarlyLetterLabel>闇の消失</DarknessLiftingEarlyLetterLabel>
+  <DarknessLiftingEarlyLetterText>悪夢のような柱が崩落しました.不自然な闇が消滅し始めました.清浄な空気の中で,入植者たちは安堵のため息をつきます.</DarknessLiftingEarlyLetterText>
+  <PawnAttackedInDarknessLabel>{0_nameDef}が攻撃された</PawnAttackedInDarknessLabel>
+  <PawnAttackedInDarknessText>暗闇の中の何かが{0_nameDef}を攻撃しました！\n\nこの攻撃は,{0_pronoun}が光の中へ避難するまで続くでしょう.</PawnAttackedInDarknessText>
+  <NoctolAttackLetterLabel>ノクトルの攻撃</NoctolAttackLetterLabel>
+  <NoctolAttackLetterText>闇が蠢き始めました.真っ黒な闇の中のどこからか,人間のものとは思えない震えるような音が聞こえてきます.\n\n黒く,昆虫のようなノクトルが,間もなく闇の中から攻撃してくるでしょう.</NoctolAttackLetterText>
+  <DarknessWarningLetterLabel>迫る闇</DarknessWarningLetterLabel>
+  <DarknessWarningLetterText>闇はもうすぐそこまで迫っています.ランプや松明,フレアなどで直接照らされている者だけが安全でいられます.\n\n入植者を光の中にとどまらせるために,スケジュールタブから制限ゾーンを割り当てることで,移動を制限できます.</DarknessWarningLetterText>
+  <DarknessWaveringLetterLabel>闇のゆらめき</DarknessWaveringLetterLabel>
+  <DarknessWaveringLetterText>ノクトリスの破壊により,煤のような闇に覆われてしまう前に,かすかな亀裂が入りました.\n\n残りのノクトリスを破壊して,不自然な闇を終わらせましょう.</DarknessWaveringLetterText>
+
+  <!-- Shambler Swarms -->
+  <LetterLabelShamblerSwarmArrived>シャンブラーの接近</LetterLabelShamblerSwarmArrived>
+  <LetterLabelShamblerArrived>シャンブラーが接近しています</LetterLabelShamblerArrived>
+  <LetterShamblerSwarmArrived>{0}体のよろめき歩く,腐った遺体の集団が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
+  <LetterShamblerArrived>よろめき歩く,腐った遺体が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nこのシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
+  <LetterLabelShamblerAnimalsArrived>{0}体のシャンブラー</LetterLabelShamblerAnimalsArrived>
+  <LetterShamblerAnimalsArrived>{0}体のよろめき歩く,腐った遺体の集団が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
+
+  <!-- Ghoul pod crash -->
+  <GhoulPodCrashLabel>輸送ポッド事故</GhoulPodCrashLabel>
+  <GhoulPodCrashText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃するっでしょう.捕獲して収容プラットフォームに入れることで,さらに研究することもできます.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashText>
+  <GhoulPodCrashStartingPawnText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.しっかりと調べてみると,その姿は以前のクルーである{PAWN_nameDef}のようです.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃するっでしょう.捕獲して収容プラットフォームに入れることで,さらに研究することもできます.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashStartingPawnText>
+
+  <!-- Entity codex -->
+  <LetterLabelEntityDiscovery>新しい研究が利用可能</LetterLabelEntityDiscovery>
+  <LetterTextEntityDiscoveryResearch>あなたの{ENTITY_definite}の発見は,新たな洞察をもたらしました.以下のアノマリー計画を研究できるようになりました.</LetterTextEntityDiscoveryResearch>
+
+  <!-- Nociosphere -->
+  <NociosphereDefeatedLabel>ノチオスフィアを撃破</NociosphereDefeatedLabel>
+  <NociosphereDefeatedText>ノチオスフィアが破壊され,貴重な資源を大量に残しました.</NociosphereDefeatedText>
+  <NociosphereBecomingUnstableLabel>ノチオスフィアの不安定化</NociosphereBecomingUnstableLabel> 
+  <NociosphereBecomingUnstableText>ノクチオスフィアのエネルギーパターンが変化,適応を始めました.10日以内に,抑制できなくなるでしょう.\n\nノクチオスフィアは抑制されないと活性化します.</NociosphereBecomingUnstableText> 
+  <NociosphereBecomingUnstableTextExtraSendable>敵対する脅威を攻撃するためにノクチオスフィアを送り込み,ダメージを与えます.一度送り込まれたノクチオスフィアは,短時間,あらゆる生物を攻撃します.</NociosphereBecomingUnstableTextExtraSendable>
+  <NociosphereBecomingUnstableTextExtraNotSendable>ノクチオスフィアを研究し,処分する方法を見つける.</NociosphereBecomingUnstableTextExtraNotSendable>
+  <NociosphereUnstableLabel>不安定なノクチオスフィア</NociosphereUnstableLabel>
+  <NociosphereUnstableText>ノチスフィアが不安定になり,抑制に反応しなくなりました.活動率が100%に達すると覚醒します.</NociosphereUnstableText>
+  <NociosphereUnstableTextExtraSendable>敵対する大軍勢の攻撃にノクチオスフィアを送り込んで処分します.その猛攻撃が完了すると,永久に消滅するでしょう.</NociosphereUnstableTextExtraSendable> 
+  <NociosphereUnstableTextExtraNotSendable>ノクチオスフィアの猛攻に備えます.</NociosphereUnstableTextExtraNotSendable>>
+
+  <UnnaturalCorpseArrivalLabel>奇妙な遺体</UnnaturalCorpseArrivalLabel>
+  <UnnaturalCorpseArrivalText>まるで宙空から出現したかの如く,不自然な人間の遺体が出現しました.\n\nよく見ると,その遺体は{PAWN_nameDef}と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.\n\n遺体を研究することで,さらに詳しくわかります.</UnnaturalCorpseArrivalText>
+
+  <GoldenCubeArrivalLabel>黄金のキューブ</GoldenCubeArrivalLabel>
+  <GoldenCubeArrivalText>奇妙なキューブが近くに墜落しました.黄金のように輝いていますが,傷をつけることはできません.触れると軽くてあたたかくなっています.その見目麗しい表面には光が戯れ,目を楽しませてくれます.\n\n{PAWN_nameDef}はそのキューブに不可解な魅力を感じているようです.\n\nキューブを研究することで,さらに詳しくわかります.</GoldenCubeArrivalText>
+
+  <VoidCuriosityLabel>ヴォイドの好奇</VoidCuriosityLabel>
+  <VoidCuriosityText_Researched>{PAWN_nameDef}はヴォイドに執着し始め,ヴォイド喚起の儀式を行ってその調査を行いたいようです.\n\nヴォイド喚起の儀式を行うことで,「存在」を見つけ出して捕獲できます.捕獲した「存在」を研究することで,アノマリー研究計画を完成させたり,バイオフェライトハーベスターにつないでバイオフェライトを収集することができます.\n\nヴォイド喚起の儀式を行うには,サイキック儀式の場を配置しましょう.</VoidCuriosityText_Researched>
+  <VoidCuriosityText_NotResearched>{PAWN_nameDef}はヴォイドに執着し始め,ヴォイド喚起の儀式を行ってその調査を行いたいようです.\n\nヴォイド喚起の儀式を行うことで,「存在」を見つけ出して捕獲できます.捕獲した「存在」を研究することで,アノマリー研究計画を完成させたり,バイオフェライトハーベスターにつないでバイオフェライトを収集することができます.\n\nヴォイド喚起の儀式を行うには,ヴォイド喚起を研究し.サイキック儀式の場を配置しましょう.</VoidCuriosityText_NotResearched>\n\n</LanguageData>

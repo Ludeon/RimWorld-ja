@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alchemist -->
+  <Alchemist.label>錬金術師</Alchemist.label>
+  <!-- EN: {PAWN_nameDef} claims an extensive knowledge of alchemical practice. {PAWN_pronoun} can, using unknown archotechnological influence, transmute steel into various valuable resources. -->
+  <Alchemist.letterExtra>{PAWN_nameDef}は錬金術の広範な知識を持っています.{PAWN_pronoun}は未知のアルコテクノロジーの影響を用いて,鉄を様々な貴重な資源へ変化させることができます.</Alchemist.letterExtra>
+  
+  <!-- EN: body mastery -->
+  <BodyMastery.label>肉体の達人</BodyMastery.label>
+  <!-- EN: {PAWN_nameDef}'s eyes are pure white. Using local folk knowledge, {PAWN_pronoun} has mastered {PAWN_possessive} metabolic and circadian rhythms. At least, that's what {PAWN_pronoun} claims. {PAWN_nameDef} never sleeps and doesn't need to eat, though in {PAWN_possessive} eyes you see a primal hunger. -->
+  <BodyMastery.letterExtra>{PAWN_nameDef}の目は純白です.現地の民間知識を用い,{PAWN_pronoun}は{PAWN_possessive}代謝と概日リズムをマスターしました.少なくとも,{PAWN_pronoun}はそう主張しています.{PAWN_nameDef}は決して眠らず,食事もしませんが,{PAWN_possessive}の目には原始的な飢えが見え隠れします.</BodyMastery.letterExtra>
+  
+  <!-- EN: death refusal -->
+  <DeathRefusal.label>死を拒む者</DeathRefusal.label>
+  <!-- EN: As the former subject of a cultist ritual, {PAWN_nameDef} has the ability to defy death. Black archotechnology courses throughout {PAWN_possessive} body, allowing {PAWN_objective} to self-resurrect. When {PAWN_pronoun} does, {PAWN_possessive} flesh rapidly reforms, replacing missing organs and healing wounds. The process is, however, imperfect. -->
+  <DeathRefusal.letterExtra>かつて崇拝者の儀式の対象であった{PAWN_nameDef}は,死に抗う能力をテにしています.黒きアルコテクノロジーが{PAWN_possessive}の前進を巡り,{PAWN_objective}が自己再生することを可能としているのです.{PAWN_pronoun}が死亡すると,{PAWN_possessive}の肉体は休息に再生し,欠損した臓器は補われ,傷は治療されます.ですが,そのプロセスは不完全なものです</DeathRefusal.letterExtra>
+  
+  <!-- EN: fleshcrafter -->
+  <Fleshcrafter.label>肉体造り師</Fleshcrafter.label>
+  <!-- EN: {PAWN_nameDef} claims to be gifted with the dark art of animating dead flesh. {PAWN_pronoun} can turn corpses into hideous fleshbeasts. -->
+  <Fleshcrafter.letterExtra>{PAWN_nameDef}は死んだ肉体を復活させる闇の技術を授かったといいます.{PAWN_pronoun}は遺体を恐ろしい獣へと変化させることができます.</Fleshcrafter.letterExtra>
+  
+  <!-- EN: joybringer -->
+  <Joybringer.label>喜びをもたらす者</Joybringer.label>
+  <!-- EN: {PAWN_nameDef} is a bringer of joy and serenity whose abilities go beyond mere charisma. {PAWN_pronoun} lifts spirits and inspires others by telling jokes and spreading blissful thoughts. -->
+  <Joybringer.letterExtra>{PAWN_nameDef}は喜びと平穏をもたらす者であり,その能力は単なるカリスマ性を超えたものです.ジョークを言ったり,幸福な考えを広めることで,{PAWN_pronoun}は他者の気分を高揚させ,鼓舞します.</Joybringer.letterExtra>
+  
+  <!-- EN: occultist -->
+  <Occultist.label>オカルト主義者</Occultist.label>
+  <!-- EN: {PAWN_pronoun} is deeply knowledgeable of all things related to the void. {PAWN_pronoun} can study unnatural phenomena faster than others and will also teach others when {PAWN_pronoun} gets the chance. -->
+  <Occultist.letterExtra>{PAWN_pronoun}はヴォイドに関するあらゆることへ深い知識を持っています.{PAWN_pronoun}は他の人よりも素早く不自然な現象に関する研究を行うことができ,機会があれば他者へも伝えようとします.</Occultist.letterExtra>
+  
+  <!-- EN: perfect human -->
+  <PerfectHuman.label>完璧な人間</PerfectHuman.label>
+  <!-- EN: {PAWN_nameDef} is skilled in everything to an unnatural degree. Regardless of the subject, {PAWN_pronoun} has mastered it. In addition, {PAWN_possessive} work ethic is remarkable. {PAWN_pronoun} appears to be the perfect worker. -->
+  <PerfectHuman.letterExtra>{PAWN_nameDef}は不自然なまでにあらゆることに精通しています.対象が何であろうと,{PAWN_pronoun}はそれを習熟しているのです.さらに,{PAWN_possessive}の労働倫理も目を見張るものがあります.{PAWN_pronoun}はまるで完璧な労働者のようです.</PerfectHuman.letterExtra>
+  
+  <!-- EN: psychic butcher -->
+  <PsychicButcher.label>サイキック解体者</PsychicButcher.label>
+  <!-- EN: Animals are skittish around {PAWN_nameDef}. {PAWN_pronoun} has the unnatural power to deform the flesh of living creatures, causing them to erupt into piles of twisted meat. {PAWN_nameDef} claims to use {PAWN_possessive} gift only to butcher animals - but it's clear {PAWN_pronoun} could just as easily butcher a person. -->
+  <PsychicButcher.letterExtra>{PAWN_nameDef}の周りにいる動物は落ち着きがなくなります.{PAWN_pronoun}は生きている肉体を変質させる不自然な力を持っており,生物を歪んだ肉の山へと変えることができるのです.{PAWN_nameDef}は、その力は動物を解体することにだけ使うと言っています.しかし,{PAWN_pronoun}が動物と同じくらい人間を容易に解体できるのは明らかです.</PsychicButcher.letterExtra>
+  
+  <!-- EN: shambler overlord -->
+  <ShamblerOverlord.label>シャンブラーの支配者</ShamblerOverlord.label>
+  <!-- EN: {PAWN_nameDef}'s body is riddled with corrupt archites. {PAWN_pronoun} can release them at will, creating a cloud of deadlife dust which can reanimate nearby corpses. -->
+  <ShamblerOverlord.letterExtra>{PAWN_nameDef}の肉体には,腐敗したアルカイトが充満しています.{PAWN_pronoun}はそれを自在に解放し,付近の遺体を蘇生させる死の塵の雲を作り出すことができます.</ShamblerOverlord.letterExtra>
+  
+  <!-- EN: unnatural healing -->
+  <UnnaturalHealing.label>不自然な治癒</UnnaturalHealing.label>
+  <!-- EN: {PAWN_pronoun} offers to use {PAWN_possessive} healing power to help you. -->
+  <UnnaturalHealing.letterExtra>{PAWN_pronoun}は{PAWN_possessive}の治癒の力を使ってあなたを助けると申し出ています.</UnnaturalHealing.letterExtra>
+  
+</LanguageData>
