@@ -80,51 +80,51 @@
   <LabyrinthRamblings.rulePack.rulesStrings>
     <li>r_root->[textDescSentence] [horrorDescSentence] [maybeSignature]</li>
     <li>maybeSignature(p=3)-></li>
-    <li>maybeSignature->著者は[PAWN_possessive]名前をサインした: [PAWN_nameDef]。</li>
-    <li>maybeSignature->それは、この名前で終わっている: [PAWN_nameDef]。</li>
-    <li>maybeSignature->名前[PAWN_nameDef]が一番下に書き込まれている。</li>
-    <li>textDescSentence->床のエッチングはガタガタで一貫性がない。</li>
-    <li>textDescSentence->言葉の意味を理解するのは難しい。</li>
-    <li>textDescSentence->奇妙なエッチング文字は逆に書かれている。</li>
-    <li>textDescSentence->文字は震えていて弱々しい。</li>
-    <li>textDescSentence->文章は進むにつれ、どんどん奇妙になっていく。</li>
-    <li>textDescSentence->文章は[writingMaterial]で書かれていて、一部拭いて消されている。</li>
-    <li>textDescSentence->暗号のような記号とギザギザの文字が混じっている。</li>
-    <li>textDescSentence->文章は何度も中断されているかのように、分裂している。</li>
-    <li>textDescSentence->記された文章はところどころ消えている。</li>
-    <li>textDescSentence->文章は[writingMaterial]で書かれていて、殺気だった模様を表している。</li>
-    <li>horrorDescSentence->はっきりと読めるのは一つの文章だけだ： [rambling]。</li>
-    <li>horrorDescSentence->一つの表現が何度も何度も繰り返されている：[rambling]。</li>
-    <li>horrorDescSentence->全ての文章が同じ表現で終わっている：[rambling]。</li>
-    <li>horrorDescSentence->同じ言葉が何度も何度も繰り返されている: [rambling]。</li>
-    <li>horrorDescSentence->著者は鉄の寄生虫が[PAWN_possessive]肌の中にいると確信しているようだ。[PAWN_pronoun]は身体をもがかせながらその激しい痛みを表している。</li>
-    <li>horrorDescSentence->作者は友人が鉄の寄生虫を注射した犯人だと訴えている。[PAWN_pronoun]は[PAWN_objective]の中でそれが育っていく、恐ろしい感覚を表している。</li>
-    <li>horrorDescSentence->著者は[PAWN_possessive]弔問者から解放されることをせがんだ: [horrorDesc]。</li>
-    <li>horrorDescSentence->同じ文章が何度も何度も繰り返され、 [horrorDesc]を表現している。</li>
-    <li>horrorDescSentence->古い詩が[horrorDesc]を表現している。</li>
-    <li>horrorDescSentence->言葉は[horrorDesc]を表現するのに苦しんでいる。</li>
-    <li>horrorDescSentence->震える文字は[horrorDesc]の幻想への作者の反応を表している。</li>
-    <li>horrorDescSentence->文書には添えられた絵は[horrorDesc]を表している。</li>
-    <li>horrorDescSentence->狂乱したスケッチが[horrorDesc]を描いていて、 その特徴を注釈したメモもついている。</li>
-    <li>horrorDescSentence->背筋が凍るような詠唱が[horrorDesc]を表している。</li>
-    <li>horrorDescSentence->感情を露わにした絵が文章に添えられていて、それらは[horrorDesc]を表している。</li>
-    <li>horrorDescSentence->余白にささやかれた物語は[horrorDesc]を語っている。</li>
-    <li>horrorDescSentence->作家の必死な文章は、[horrorDesc]のクライマックスへと進んでいる。</li>
-    <li>horrorDescSentence->銅版画の中には柄があり、[horrorDesc]を描写している。</li>
-    <li>horrorDescSentence->文字は[horrorDesc]の鮮明な描写をしている。</li>
-    <li>horrorDescSentence->恐ろしい子守唄は、[horrorDesc]の描写とともに書かれている。</li>
-    <li>horrorDescSentence->慈悲を求める絶望的な嘆願は、[horrorDesc]の物語と共に並置されている。</li>
+    <li>maybeSignature->著者は[PAWN_possessive]名前をサインした: [PAWN_nameDef].</li>
+    <li>maybeSignature->それは,この名前で終わっている: [PAWN_nameDef].</li>
+    <li>maybeSignature->名前[PAWN_nameDef]が一番下に書き込まれている.</li>
+    <li>textDescSentence->床のエッチングはガタガタで一貫性がない.</li>
+    <li>textDescSentence->言葉の意味を理解するのは難しい.</li>
+    <li>textDescSentence->奇妙なエッチング文字は逆に書かれている.</li>
+    <li>textDescSentence->文字は震えていて弱々しい.</li>
+    <li>textDescSentence->文章は進むにつれ,どんどん奇妙になっていく.</li>
+    <li>textDescSentence->文章は[writingMaterial]で書かれていて,一部拭いて消されている.</li>
+    <li>textDescSentence->暗号のような記号とギザギザの文字が混じっている.</li>
+    <li>textDescSentence->文章は何度も中断されているかのように,分裂している.</li>
+    <li>textDescSentence->記された文章はところどころ消えている.</li>
+    <li>textDescSentence->文章は[writingMaterial]で書かれていて,殺気だった模様を表している.</li>
+    <li>horrorDescSentence->はっきりと読めるのは一つの文章だけだ： [rambling].</li>
+    <li>horrorDescSentence->一つの表現が何度も何度も繰り返されている：[rambling].</li>
+    <li>horrorDescSentence->全ての文章が同じ表現で終わっている：[rambling].</li>
+    <li>horrorDescSentence->同じ言葉が何度も何度も繰り返されている: [rambling].</li>
+    <li>horrorDescSentence->著者は鉄の寄生虫が[PAWN_possessive]肌の中にいると確信しているようだ.[PAWN_pronoun]は身体をもがかせながらその激しい痛みを表している.</li>
+    <li>horrorDescSentence->作者は友人が鉄の寄生虫を注射した犯人だと訴えている.[PAWN_pronoun]は[PAWN_objective]の中でそれが育っていく,恐ろしい感覚を表している.</li>
+    <li>horrorDescSentence->著者は[PAWN_possessive]弔問者から解放されることをせがんだ: [horrorDesc].</li>
+    <li>horrorDescSentence->同じ文章が何度も何度も繰り返され, [horrorDesc]を表現している.</li>
+    <li>horrorDescSentence->古い詩が[horrorDesc]を表現している.</li>
+    <li>horrorDescSentence->言葉は[horrorDesc]を表現するのに苦しんでいる.</li>
+    <li>horrorDescSentence->震える文字は[horrorDesc]の幻想への作者の反応を表している.</li>
+    <li>horrorDescSentence->文書には添えられた絵は[horrorDesc]を表している.</li>
+    <li>horrorDescSentence->狂乱したスケッチが[horrorDesc]を描いていて, その特徴を注釈したメモもついている.</li>
+    <li>horrorDescSentence->背筋が凍るような詠唱が[horrorDesc]を表している.</li>
+    <li>horrorDescSentence->感情を露わにした絵が文章に添えられていて,それらは[horrorDesc]を表している.</li>
+    <li>horrorDescSentence->余白にささやかれた物語は[horrorDesc]を語っている.</li>
+    <li>horrorDescSentence->作家の必死な文章は,[horrorDesc]のクライマックスへと進んでいる.</li>
+    <li>horrorDescSentence->銅版画の中には柄があり,[horrorDesc]を描写している.</li>
+    <li>horrorDescSentence->文字は[horrorDesc]の鮮明な描写をしている.</li>
+    <li>horrorDescSentence->恐ろしい子守唄は,[horrorDesc]の描写とともに書かれている.</li>
+    <li>horrorDescSentence->慈悲を求める絶望的な嘆願は,[horrorDesc]の物語と共に並置されている.</li>
     <li>horrorDesc->不信心者の心を蝕む見えない生き物</li>
-    <li>horrorDesc->純の苦しみに脈打つ、極限まで空虚な黒い球体</li>
-    <li>horrorDesc->手足が骨で、ねじれた肉と肉でできた生き物</li>
-    <li>horrorDesc->影のような物体で形成された生物、その目は星の様に光っている</li>
+    <li>horrorDesc->純の苦しみに脈打つ,極限まで空虚な黒い球体</li>
+    <li>horrorDesc->手足が骨で,ねじれた肉と肉でできた生き物</li>
+    <li>horrorDesc->影のような物体で形成された生物,その目は星の様に光っている</li>
     <li>horrorDesc->血みどろの鋭いナイフから出来た男</li>
     <li>horrorDesc->深淵から現れた回転する刃の塊</li>
     <li>horrorDesc->口が顔全体に広がっている静かな子供</li>
     <li>horrorDesc->トゲや刃で形成された大きな曲がったタワー</li>
-    <li>horrorDesc->様々な異なる種族の特徴を持つ、奇妙な動物のような生き物</li>
+    <li>horrorDesc->様々な異なる種族の特徴を持つ,奇妙な動物のような生き物</li>
     <li>horrorDesc->体の部位を並べ替えられた異形の人間</li>
-    <li>horrorDesc->膨大な人間の群れ、全員死んで腐っている</li>
+    <li>horrorDesc->膨大な人間の群れ,全員死んで腐っている</li>
     <li>horrorDesc->恐ろしいトゲのついたマスクをした人影</li>
     <li>rambling->ここから出して</li>
     <li>rambling->助けて</li>
@@ -136,7 +136,7 @@
     <li>rambling->時間は嘘だ</li>
     <li>rambling->痛みから解放して</li>
     <li>rambling->黒い海</li>
-    <li>rambling->切断、そして切断</li>
+    <li>rambling->切断,そして切断</li>
     <li>rambling->虚空のささやき</li>
     <li>rambling->あれが常に背後にいる</li>
     <li>rambling->あまりに沢山の目</li>

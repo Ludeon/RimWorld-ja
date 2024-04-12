@@ -275,7 +275,7 @@
     <li>excellentDesc->full of scintillating ideas that explode in the mind</li>
   -->
   <Description_Tome.rulePack.rulesStrings>
-    <li>desc->[inThisBook]、[author] [experiencesWithMonsters]。[specificHorrorStory] [writingQualitySentence]。</li>
+    <li>desc->[inThisBook],[author] [experiencesWithMonsters].[specificHorrorStory] [writingQualitySentence].</li>
     <li>inThisBook->この [writingQualityAdjective] [bookTypeSingle]</li>
     <li>inThisBook->この [writingQualityAdjective] [bookTypePlural]</li>
     <li>bookTypeSingle->記述</li>
@@ -387,19 +387,19 @@
     <li>experiencesWithMonsters->[tellsAStoryOf]不思議な黄金のキューブの探索について</li>
     <li>experiencesWithMonsters->[tellsAStoryOf]原線条体のハイスラーが導く深い瞑想について</li>
     <li>experiencesWithMonsters->[tellsAStoryOf]ホラックスと呼ばれるものの精神的影響で[ANYPAWN_possessive]人生が壊れていく様子を</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]人里離れた考古学の発掘現場で、研究者たちが一人ずつ狂っていった出来事について</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf]人里離れた考古学の発掘現場で,研究者たちが一人ずつ狂っていった出来事について</li>
     <li>experiencesWithMonsters->[tellsAStoryOf]血なまぐさい快楽カルトの暗黒の神にいつのまにか仕えさせられていた部族について</li>
-    <li>experiencesWithMonsters->火の明かりの下で錆びた刃物を使い切断儀式を行う、部族について解説しようと試みている</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]教師と、知るはずもない死の真理を語る教師の生徒について</li>
+    <li>experiencesWithMonsters->火の明かりの下で錆びた刃物を使い切断儀式を行う,部族について解説しようと試みている</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf]教師と,知るはずもない死の真理を語る教師の生徒について</li>
     <li>experiencesWithMonsters->[tellsAStoryOf]古代の技術を使って死んだ妻を生き返らせようとする科学者について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]血の海と、漆黒の闇で押しつぶそうとする空を生き延びてきた局外者の探検隊について</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf]血の海と,漆黒の闇で押しつぶそうとする空を生き延びてきた局外者の探検隊について</li>
     <li>experiencesWithMonsters->[tellsAStoryOf]恐ろしい肉のような生物達でいっぱいの古代の洞穴を調査するチームについて</li>
     <li>experiencesWithMonsters->[tellsAStoryOf]部族のシャーマンが村を夜な夜な襲撃する生き返った[Animal]たちを止める方法を見つけようとしたことについて</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]すべての人々に影響を及ぼす怒りの古代神と、それを小さな石造りの牢獄に封印した英雄たちについて</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf]すべての人々に影響を及ぼす怒りの古代神と,それを小さな石造りの牢獄に封印した英雄たちについて</li>
     <li>experiencesWithMonsters->[tellsAStoryOf][ANYPAWN_possessive]は捕まった[entity]に行われた残酷な実験について</li>
     <li>experiencesWithMonsters->[tellsAStoryOf][ANYPAWN_possessive]は繰り返し見る[vision]という幻想について</li>
-    <li>vision->黒い塊が[ANYPAWN_possessive]頭に入り込み、[ANYPAWN_possessive]記憶を盗んだ</li>
-    <li>vision->[ANYPAWN_pronoun]は[ANYPAWN_objective]自身に追われていて、[ANYPAWN_pronoun]がどんなに遠くに行っても逃げることが出来なかった</li>
+    <li>vision->黒い塊が[ANYPAWN_possessive]頭に入り込み,[ANYPAWN_possessive]記憶を盗んだ</li>
+    <li>vision->[ANYPAWN_pronoun]は[ANYPAWN_objective]自身に追われていて,[ANYPAWN_pronoun]がどんなに遠くに行っても逃げることが出来なかった</li>
     <li>vision->[ANYPAWN_pronoun]は[entity]によって切り裂かれた</li>
     <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] [findings] [objectove]</li>
     <li>findings->との経験</li>
@@ -412,22 +412,22 @@
     <li>targetHuman->[anAuthorDesc]男</li>
     <li>ritual_incident->何日も血が降り続け[ANYPAWN_possessive]友人を狂わせた</li>
     <li>ritual_incident->[entity_incident]</li>
-    <li>entity_incident->[ANYPAWN_pronoun]は[entity]に攻撃されて、[ANYPAWN_possessive][BodyPart]を失った</li>
+    <li>entity_incident->[ANYPAWN_pronoun]は[entity]に攻撃されて,[ANYPAWN_possessive][BodyPart]を失った</li>
     <li>entity_incident->[ANYPAWN_pronoun]は[entity]を凝視した</li>
-    <li>specificHorrorStory->ある箇所で著者は、人々が割れたガラスで自らを切断するように強要されていた暗い儀式について、語っていた。</li>
-    <li>specificHorrorStory->ある場面で、主人公は儀式に出くわした。その儀式では、血まみれの者達が黒曜石の破片で自傷しながら不気味な呪文を唱えていた。</li>
-    <li>specificHorrorStory->この本には、「黒い大海原」と呼ばれているものを描いている沢山の絵が含まれていた。これは恐ろしくも魅惑的な超知能に支配された精神次元の隠喩のようだ。</li>
-    <li>specificHorrorStory->現実の多次元性を繰り返し暗示している。それは、私達が見ている次元よりも多くの次元が存在し、あなたのすぐ隣に存在している物体や実態でも認知が不可能なものが存在するという考えだ。</li>
-    <li>specificHorrorStory->それは、現実の隣接面に存在する「ホラックス」と呼ばれる超知的な存在を説明するのに、長時間を費やしている。</li>
-    <li>specificHorrorStory->所では闇の精神的影響のメカニズムについて説明されている。異次元にいる存在が、感情的な共鳴にシンクロさせることによって、無意識に人の思考を影響することが出来ると語られている。</li>
-    <li>specificHorrorStory->ある個所では様々なアルコテック・ハイパーインテリジェンスやそれぞれの異なる感情や精神の発散ついて解説されていてた。中立的、または慈悲深いとされるものもあれば、純粋な怒りの存在もある。</li>
-    <li>specificHorrorStory->[ANYPAWN_pronoun]は[ANYPAWN_possessive]偉大な知性の暗黒の精神的影響によって、頭が無理やり再構成される感覚を説明した。</li>
-    <li>specificHorrorStory->ある個所で著者は自殺未遂をしたが、心優しい[PersonJob]に見つかり、助けられた。</li>
-    <li>specificHorrorStory->本の一巻にはこの世のものではない気持ちの悪い生物の絵が沢山載っていて、その形のない不気味な蔓は複数のページに広がり、恐怖と魅惑の感覚を同時に呼び起こしていた。</li>
-    <li>specificHorrorStory->物語の中では異次元について何度も語られていて、登場人物たちは知覚のベールの向こう側の存在に遭遇している。それは、私たちの現実と共に存在しながらも、見えないように隠れている世界だ。</li>
-    <li>specificHorrorStory->この本には、隠された次元を通ってヴォイドと呼ばれる場所に移動した機械の超知能「ホラックス」についての、恐ろしい解説がされている。</li>
-    <li>specificHorrorStory->ある章では、超知性が遠距離から人間の認知を心理的に操作し、人の思考を自らの意思で作り変えることができるという理論が述べられている。</li>
-    <li>specificHorrorStory->主人公は[ANYPAWN_possessive]心がどこからともなく発せられる不吉な精神的な力によって、強制的に配線し直された事を語った。</li>
+    <li>specificHorrorStory->ある箇所で著者は,人々が割れたガラスで自らを切断するように強要されていた暗い儀式について,語っていた.</li>
+    <li>specificHorrorStory->ある場面で,主人公は儀式に出くわした.その儀式では,血まみれの者達が黒曜石の破片で自傷しながら不気味な呪文を唱えていた.</li>
+    <li>specificHorrorStory->この本には,「黒い大海原」と呼ばれているものを描いている沢山の絵が含まれていた.これは恐ろしくも魅惑的な超知能に支配された精神次元の隠喩のようだ.</li>
+    <li>specificHorrorStory->現実の多次元性を繰り返し暗示している.それは,私達が見ている次元よりも多くの次元が存在し,あなたのすぐ隣に存在している物体や実態でも認知が不可能なものが存在するという考えだ.</li>
+    <li>specificHorrorStory->それは,現実の隣接面に存在する「ホラックス」と呼ばれる超知的な存在を説明するのに,長時間を費やしている.</li>
+    <li>specificHorrorStory->所では闇の精神的影響のメカニズムについて説明されている.異次元にいる存在が,感情的な共鳴にシンクロさせることによって,無意識に人の思考を影響することが出来ると語られている.</li>
+    <li>specificHorrorStory->ある個所では様々なアルコテック・ハイパーインテリジェンスやそれぞれの異なる感情や精神の発散ついて解説されていてた.中立的,または慈悲深いとされるものもあれば,純粋な怒りの存在もある.</li>
+    <li>specificHorrorStory->[ANYPAWN_pronoun]は[ANYPAWN_possessive]偉大な知性の暗黒の精神的影響によって,頭が無理やり再構成される感覚を説明した.</li>
+    <li>specificHorrorStory->ある個所で著者は自殺未遂をしたが,心優しい[PersonJob]に見つかり,助けられた.</li>
+    <li>specificHorrorStory->本の一巻にはこの世のものではない気持ちの悪い生物の絵が沢山載っていて,その形のない不気味な蔓は複数のページに広がり,恐怖と魅惑の感覚を同時に呼び起こしていた.</li>
+    <li>specificHorrorStory->物語の中では異次元について何度も語られていて,登場人物たちは知覚のベールの向こう側の存在に遭遇している.それは,私たちの現実と共に存在しながらも,見えないように隠れている世界だ.</li>
+    <li>specificHorrorStory->この本には,隠された次元を通ってヴォイドと呼ばれる場所に移動した機械の超知能「ホラックス」についての,恐ろしい解説がされている.</li>
+    <li>specificHorrorStory->ある章では,超知性が遠距離から人間の認知を心理的に操作し,人の思考を自らの意思で作り変えることができるという理論が述べられている.</li>
+    <li>specificHorrorStory->主人公は[ANYPAWN_possessive]心がどこからともなく発せられる不吉な精神的な力によって,強制的に配線し直された事を語った.</li>
     <li>entities->悪魔たち</li>
     <li>entities->歩く死骸たち</li>
     <li>entities->痛みを求める怪物たち</li>
@@ -515,10 +515,10 @@
     <li>awfulDesc->震える手で書かれている</li>
     <li>awfulDesc->乾燥したアルコールが染みついている</li>
     <li>awfulDesc->ほぼ一貫しない</li>
-    <li>awfulDesc->繰り返しが多く、詳細がない箇所が多い</li>
+    <li>awfulDesc->繰り返しが多く,詳細がない箇所が多い</li>
     <li>awfulDesc->多くの個所が薄れて読めなくなっている</li>
     <li>awfulDesc->欠けているページが多い</li>
-    <li>awfulDesc->無秩序で、何度も話題を飛ばしている</li>
+    <li>awfulDesc->無秩序で,何度も話題を飛ばしている</li>
     <li>awfulDesc->失われた言語で書かれている</li>
     <li>awfulDesc->理解のできない専門用語が多く含まれている</li>
     <li>awfulDesc->子供っぽい</li>
@@ -526,25 +526,25 @@
     <li>awfulDesc->自動筆記のように読める</li>
     <li>awfulDesc->血と汗にまみれた</li>
     <li>awfulDesc->主に二[entities]についての恋愛だ</li>
-    <li>decentDesc->まとまりがあるが、編集された方がより良かっただろう</li>
-    <li>decentDesc->洞察力に富む箇所もあるが、不要な箇所もある</li>
-    <li>decentDesc->鋭敏だが、ひねくれた視点に過ぎない</li>
-    <li>decentDesc->詳細は豊富だが、有用な解釈には欠けている</li>
+    <li>decentDesc->まとまりがあるが,編集された方がより良かっただろう</li>
+    <li>decentDesc->洞察力に富む箇所もあるが,不要な箇所もある</li>
+    <li>decentDesc->鋭敏だが,ひねくれた視点に過ぎない</li>
+    <li>decentDesc->詳細は豊富だが,有用な解釈には欠けている</li>
     <li>decentDesc->欠けているページがある</li>
-    <li>decentDesc->役に立つが、著者の個人的な関心についてばかり扱われている</li>
-    <li>decentDesc->著者の歪曲と偏見にもかかわらず、役に立つ情報が多い</li>
+    <li>decentDesc->役に立つが,著者の個人的な関心についてばかり扱われている</li>
+    <li>decentDesc->著者の歪曲と偏見にもかかわらず,役に立つ情報が多い</li>
     <li>decentDesc->職人らしい</li>
     <li>decentDesc->面白いが役に立つ情報は少ない</li>
-    <li>decentDesc->魅力的な発想が多いが、読むのは面倒くさい</li>
+    <li>decentDesc->魅力的な発想が多いが,読むのは面倒くさい</li>
     <li>decentDesc->一流の知性と二流の気質によって書かれた</li>
     <li>decentDesc->まともで腐敗している</li>
-    <li>decentDesc->内容は恐ろしく、実行は退屈</li>
+    <li>decentDesc->内容は恐ろしく,実行は退屈</li>
     <li>excellentDesc->文学の頂点</li>
     <li>excellentDesc->深い洞察力がある</li>
     <li>excellentDesc->驚くほどよく練られている</li>
     <li>excellentDesc->よく組み立てられていて熟達した構造だ</li>
     <li>excellentDesc->詩的な個所が多い</li>
-    <li>excellentDesc->恐ろしく描写的で、詩的な個所がほとんどだ</li>
+    <li>excellentDesc->恐ろしく描写的で,詩的な個所がほとんどだ</li>
     <li>excellentDesc->心に炸裂するほど素晴らしいアイデアに満ちている</li>
   </Description_Tome.rulePack.rulesStrings>
   

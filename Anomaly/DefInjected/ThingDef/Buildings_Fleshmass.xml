@@ -22,7 +22,7 @@
   <!-- EN: fleshmass heart -->
   <FleshmassHeart.label>肉塊の心臓</FleshmassHeart.label>
   <!-- EN: The primary organ of a fleshmass infestation. The heart gathers material through roots extended into the ground. Once it has collected enough, it spreads fleshmass around itself in a spurt of cancer-like growth. It will keep growing until it consumes everything.\n\nThe heart grows fleshmass spitters. These defensive organs can spit acid long distances. The heart will also generate fleshbeast defenders to protect itself.\n\nUltra-rapid regeneration makes the heart nearly invulnerable. It can only be killed by analyzing samples taken from the nerve bundles that form within its growing mass. -->
-  <FleshmassHeart.description>蔓延る肉塊の主要臓器.心臓は地面に延びた根より物質を収集します.十分な量が集まると,ガンのように増殖しながら周囲に肉塊を撒き散らし,すべてを喰らい尽くすまで成長し続けます.\n\n心臓は肉塊のスピッターを生やします.これらは長距離に酸を吐き出す防衛用の臓器です.また、心臓は自身を守るために護衛として肉獣を生成します.\n\n超高速再生により心臓はほぼ無敵です.この心臓を殺すには,増殖した肉塊の中に形成される神経帯からサンプルを採取し,分析するしかありません.</FleshmassHeart.description>
+  <FleshmassHeart.description>蔓延る肉塊の主要臓器.心臓は地面に延びた根より物質を収集します.十分な量が集まると,ガンのように増殖しながら周囲に肉塊を撒き散らし,すべてを喰らい尽くすまで成長し続けます.\n\n心臓は肉塊のスピッターを生やします.これらは長距離に酸を吐き出す防衛用の臓器です.また,心臓は自身を守るために護衛として肉獣を生成します.\n\n超高速再生により心臓はほぼ無敵です.この心臓を殺すには,増殖した肉塊の中に形成される神経帯からサンプルを採取し,分析するしかありません.</FleshmassHeart.description>
   <!-- EN: Use electrical pulses to induce a tachycardiac overload and kill the fleshmass heart. -->
   <FleshmassHeart.comps.CompDestroyHeart.activateDescString>電気パルスで頻脈性過負荷を誘発し,肉塊の心臓を殺します.</FleshmassHeart.comps.CompDestroyHeart.activateDescString>
   <!-- EN: Induce tachycardiac death... -->
@@ -43,7 +43,7 @@
   <!-- EN: Fleshmass heart -->
   <FleshmassHeartSpawner.building.groundSpawnerLetterLabel>肉塊の心臓</FleshmassHeartSpawner.building.groundSpawnerLetterLabel>
   <!-- EN: A fleshmass heart has emerged! This cancer-like creature will expand its living mass across the surface.\n\nThe heart itself is invulnerable to normal weapons. Fleshmass nerve bundles will soon appear - attack them to gather samples and find a way to kill the heart. -->
-  <FleshmassHeartSpawner.building.groundSpawnerLetterText>肉塊の心臓が出現しました！このガンのような生物は、その生きた肉塊を地表全体に広げていきます.\n\n心臓そのものは通常の武器は通用しません.肉塊の神経帯が間もなく出現しますそれらを攻撃してサンプルを集め,心臓を殺す方法を見つけましょう.</FleshmassHeartSpawner.building.groundSpawnerLetterText>
+  <FleshmassHeartSpawner.building.groundSpawnerLetterText>肉塊の心臓が出現しました！このガンのような生物は,その生きた肉塊を地表全体に広げていきます.\n\n心臓そのものは通常の武器は通用しません.肉塊の神経帯が間もなく出現しますそれらを攻撃してサンプルを集め,心臓を殺す方法を見つけましょう.</FleshmassHeartSpawner.building.groundSpawnerLetterText>
   
   <!-- EN: fleshmass spitter -->
   <FleshmassSpitter.label>肉塊のスピッター</FleshmassSpitter.label>
