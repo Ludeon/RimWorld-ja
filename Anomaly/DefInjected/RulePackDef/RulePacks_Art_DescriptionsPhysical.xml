@@ -114,8 +114,8 @@
   -->
   <ArtDescription_CubeSculpture.rulePack.rulesStrings>
     <li>r_art_description->この[cubeWork]は[aCube]を[cubeDepicts].[cube_style_group]</li>
-    <li>cube_style_group(p=2)->[cubeDescSentence].[cubeExtraSentence].</li>
-    <li>cube_style_group(p=3)->[cubeDescSentence].</li>
+    <li>cube_style_group(p=2)->[cubeDescSentence]。[cubeExtraSentence]。</li>
+    <li>cube_style_group(p=3)->[cubeDescSentence]。</li>
     <li>cube_style_group-></li>
     <li>cubeDescSentence(p=3)->[aPawn]が [worshipsTheCube]する様子が,[cubeLocation]に描かれている</li>
     <li>cubeDescSentence(p=3)->[pawnsPlural]が [worshippingTheCube]様子が,[cubeLocation]に描かれている</li>
@@ -289,7 +289,7 @@
     <li>voidDesc->手のような何かが,今にも誰かを攻撃しようとしているかのように待ち構えている.</li>
     <li>voidDesc->2つの影が互いを丸まったギザギザの指で貫いており,まるで拷問しているかのようだ.</li>
     <li>voidDesc->叫びを上げる口の中から,複雑な形が浮かび上がっている.</li>
-    <li>voidDesc->動物に似た抽象的な形が,自身の手足を引き裂こうとしているかのようだ.</li>
+    <li>voidDesc->動物に似た抽象的な形が、自身の手足を引き裂こうとしているかのようだ。</li>
     <li>voidDesc->何百もの小さな抽象的な形が,歪んだ大きな球体に群がっている.</li>
   </ArtDescription_VoidSculpture.rulePack.rulesStrings>
   

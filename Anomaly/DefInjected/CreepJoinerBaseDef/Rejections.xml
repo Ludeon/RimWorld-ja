@@ -11,7 +11,7 @@
   <!-- EN: departure -->
   <Departure.label>離脱</Departure.label>
   <!-- EN: {PAWN_nameDef} is disappointed by the way that you have treated {PAWN_objective}. {PAWN_pronoun} has decided to leave. -->
-  <Departure.letterDesc>{PAWN_nameDef}は,あなたの{PAWN_pronoun}への扱いに失望しています.{PAWN_pronoun}は立ち去ることを決めました.</Departure.letterDesc>
+  <Departure.letterDesc>{PAWN_nameDef}は,あなたの{PAWN_objective}への扱いに失望しています.{PAWN_pronoun}は立ち去ることを決めました.</Departure.letterDesc>
   <!-- EN: {PAWN_nameDef} departure -->
   <Departure.letterLabel>{PAWN_nameDef}の離脱</Departure.letterLabel>
   

@@ -23,13 +23,13 @@
     <li>image->[PAWN_nameFull]死の帳が降り,死者が蘇り,[circumstance_group]中,は武器を強く握りしめています.</li>
     <li>image->[PAWN_nameFull]死の帳の到来と,その影響で命なきものが立ち上がり,のを目撃し,[circumstance_group]は不安で震えています</li>
     <li>image->[PAWN_nameFull]は,死の帳が自身の穏やかな故郷を包み込み,死者に対する戦場に変え,[circumstance_group]のを恐ろしげに見つめています.</li>
-    <li>circumstance_phrase->[PAWN_possessive]無事を願う必死の祈りがかき消される</li>
+    <li>circumstance_phrase->[PAWN_possessive]の無事を願う必死の祈りがかき消される</li>
     <li>circumstance_phrase->腐敗と絶望の臭いが大気に満ちる</li>
     <li>circumstance_phrase->シャンブラーの大群に閉じ込められる</li>
     <li>desc_sentence->死の帳の真ん中で,[PAWN_nameDef]は戦いに備えています.</li>
     <li>desc_sentence->死の帳が迫り,[PAWN_nameDef]の友人は恐怖でいっぱいになっています.</li>
     <li>desc_sentence->死の帳の影響が広がり続け,[PAWN_nameDef]の背筋には震えが走ります.</li>
-    <li>desc_sentence->[PAWN_nameDef]に絶望的な不安というおもりがのしかかる.それは恐怖を前にした[PAWN_possessive]決意を試しているかのようです.</li>
+    <li>desc_sentence->[PAWN_nameDef]に絶望的な不安というおもりがのしかかる.それは恐怖を前にした[PAWN_possessive]の決意を試しているかのようです.</li>
   </DeathPall.rulePack.rulesStrings>
   
   <!-- EN: unnatural darkness -->
@@ -55,7 +55,7 @@
     <li>image->[PAWN_nameFull][circumstance_group]は,大地が闇で覆い尽くされ,,空から降りてくる黒い柱に取り囲まれています</li>
     <li>image->[PAWN_nameFull]は,ノクトルに追いやられ,[PAWN_possessive],窒息しそうな闇を突破する方法を探し求めています</li>
     <li>image->[PAWN_nameFull]は,影の深淵によって世界が飲み込まれていくさまを,[circumstance_group],見ています</li>
-    <li>circumstance_phrase->[PAWN_possessive]友人が安全な光へと戻ろうと必死に試みている中で</li>
+    <li>circumstance_phrase->[PAWN_possessive]の友人が安全な光へと戻ろうと必死に試みている中で</li>
     <li>circumstance_phrase->周囲に反響する突き刺すような悲鳴の中で</li>
     <li>circumstance_phrase->光がかろうじて持ちこたえている中で</li>
     <li>circumstance_phrase->救済の懇願を捧げながら</li>

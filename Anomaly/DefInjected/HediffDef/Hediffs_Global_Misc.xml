@@ -23,7 +23,7 @@
   <!-- EN: blood rage -->
   <BloodRage.label>血の怒り</BloodRage.label>
   <!-- EN: This person has been exposed to blood rain, a psychofluid that induces rage. This rage will continue to grow as long as they're exposed to the blood rain, eventually resulting in a violent mental break. The effect grows quicker in some individuals, depending on their traits, psychic sensitivity, and random individual differences. -->
-  <BloodRage.description>この人物は,怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感受性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
+  <BloodRage.description>この人物は、怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感受性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
   <!-- EN: very mild -->
   <BloodRage.stages.very_mild.label>極軽度</BloodRage.stages.very_mild.label>
   <!-- EN: mild -->
@@ -70,7 +70,7 @@
   <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will soon cause severe mental degradation. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
   <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef}は,間もなく深刻な精神的衰弱を引き起こす前兆を示しています.{SURGEON_nameDef}はそれの原因が何か正確にはわからないようですが,数日以内に症状は深刻化するでしょう.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: {PAWN_nameDef} has begun experiencing pounding headaches and begs for help. {PAWN_pronoun} can't think straight and is losing {PAWN_possessive} cognitive function. {PAWN_nameDef} claims that {PAWN_pronoun} has seen a vision of the future. Within a matter of days, {PAWN_possessive} mind will crumble and {PAWN_pronoun} will become incapable of most tasks.\n\nThe condition is currently reversible with sufficient technology, like a healer mech serum, but will soon become permanent. -->
-  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef}はズキズキするような頭痛を覚え,助けを求めています.{PAWN_pronoun}は考えがまとまらず,認知機能を失いつつあるようです.{PAWN_nameDef}は,未来のビジョンを見たと主張しています.数日以内に,{PAWN_possessive}精神は崩壊し,{PAWN_pronoun}はほとんどの作業が行えなくなるでしょう.\n\nヒーラーシーラムのような十分な技術があれば,今の状態から元に戻すことができます.ですが,このままではじきに治療できない状態になってしまうでしょう.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef}はズキズキするような頭痛を覚え,助けを求めています.{PAWN_pronoun}は考えがまとまらず,認知機能を失いつつあるようです.{PAWN_nameDef}は,未来のビジョンを見たと主張しています.数日以内に,{PAWN_possessive}の精神は崩壊し,{PAWN_pronoun}はほとんどの作業が行えなくなるでしょう.\n\nヒーラーシーラムのような十分な技術があれば,今の状態から元に戻すことができます.ですが,このままではじきに治療できない状態になってしまうでしょう.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
   <!-- EN: Crumbling mind: {PAWN_nameDef} -->
   <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>崩壊する精神：{PAWN_nameDef}</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>
   <!-- EN: diagnosed -->
