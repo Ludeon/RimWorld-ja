@@ -12,22 +12,22 @@
   <Brainwipe.label>記憶消去</Brainwipe.label>
   <!-- EN: Erase a person's memories. Traumatic events will be forgotten. Prisoners will forget their allegiance and become easier to recruit, even if they were unwavering before. Inhumanized individuals will forget their connection to the void. Unfortunately, the disruptive effect of the ritual will induce a coma that could last a long time, especially if the ritual is of poor quality. -->
   <Brainwipe.description>個人の記憶を消去します.トラウマとなる出来事が忘れられます.囚人は忠誠心を忘れ,それまでが断固たる決意を抱いていたとしても,仲間に加えやすくなります.非人間化した人々は,ヴォイドとのつながりをわすれます.残念ながら,この儀式のは快適な効果は昏睡を誘発します.儀式の品質が低い場合,昏睡が長く続く可能性があります.</Brainwipe.description>
-  <!-- EN: With the current ritual quality, the target will enter a coma for {0}. -->
-  <Brainwipe.outcomeDescription>現在の儀式品質の場合,ターゲットは{0}の間昏睡します.</Brainwipe.outcomeDescription>
+  <!-- EN: The target will be brainwiped.\n\nWith the current ritual quality, the target will also enter a coma for {0}. -->
+  <Brainwipe.outcomeDescription>ターゲットの記憶が消去されます.\n\n現在の儀式品質の場合,ターゲットは{0}の間昏睡します.</Brainwipe.outcomeDescription>
   
   <!-- EN: chronophagy -->
   <Chronophagy.label>クロノファジー</Chronophagy.label>
   <!-- EN: Induce a distant archotech to transfer entropy from one person to another. This causes the target to age rapidly while the invoker becomes younger, potentially healing scarring or age-related illnesses. The target will suffer brain damage, causing them to fall into a coma for several days. -->
   <Chronophagy.description>遠くのアルコテックを誘導し,ある人物から別の人物へエントロピーを転送します.これにより,ターゲットは急速に老化すると同時に実行者は若返り,傷跡や加齢に伴う病気が治る可能性があります.ターゲットは脳にダメージを受け,数日間昏睡状態となります.</Chronophagy.description>
-  <!-- EN: At the current ritual quality, the invoker will become {0} years younger and the target will become {1} years older. -->
-  <Chronophagy.outcomeDescription>現在の儀式品質の場合,実行者は{0}歳若返り,ターゲットは{1}歳老化します.</Chronophagy.outcomeDescription>
+  <!-- EN: At the current ritual quality, the invoker will become {0} years younger and the target will become {1} years older.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Chronophagy.outcomeDescription>現在の儀式品質の場合,実行者は{0}歳若返り,ターゲットは{1}歳老化します.\n\nターゲットは脳にダメージを受け,昏睡状態になります.</Chronophagy.outcomeDescription>
   
   <!-- EN: imbue death refusal -->
   <ImbueDeathRefusal.label>死を拒む者の注入</ImbueDeathRefusal.label>
   <!-- EN: Link a target with a distant archotechnological engine that can bring them back from the dead in seconds. This process is not without side-effects. -->
   <ImbueDeathRefusal.description>ターゲットを,数秒で死から蘇らせることのできる,遠くのアルコテクノロジーのエンジンとリンクします.このプロセスには副作用が伴う可能性もあります.</ImbueDeathRefusal.description>
-  <!-- EN: With the current quality, all the target's skills will be reduced by {0}. -->
-  <ImbueDeathRefusal.outcomeDescription>現在の品質の場合,ターゲットの全スキルが{0}減少します.</ImbueDeathRefusal.outcomeDescription>
+  <!-- EN: The target will gain death refusal.\n\nWith the current quality, all the target's skills will also be reduced by {0}. -->
+  <ImbueDeathRefusal.outcomeDescription>ターゲットに死を拒む者を注入します.\n\n現在の品質の場合,ターゲットの全スキルが{0}減少します.</ImbueDeathRefusal.outcomeDescription>
   
   <!-- EN: neurosis pulse -->
   <NeurosisPulse.label>精神パルス</NeurosisPulse.label>
@@ -40,8 +40,8 @@
   <Philophagy.label>フィロファジー</Philophagy.label>
   <!-- EN: Psychically draw experiences from the victim's mind and transfer them to the invoker, targeting the victim's highest skill. The target will suffer brain damage, causing them to fall into a coma for several days. -->
   <Philophagy.description>犠牲者の精神から,その最も高いスキルをターゲットとして,経験を引き出して実行者へと移し替えます.ターゲットは脳にダメージを受け,数日間昏睡状態となります.</Philophagy.description>
-  <!-- EN: With the current ritual quality, the invoker will steal {0} of the target's XP in their best skill. -->
-  <Philophagy.outcomeDescription>現在の儀式品質の場合,実行者はターゲットの最も高いスキルのXPの{0}を奪います.</Philophagy.outcomeDescription>
+  <!-- EN: With the current ritual quality, the invoker will steal {0} of the target's XP in their best skill.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Philophagy.outcomeDescription>現在の儀式品質の場合,実行者はターゲットの最も高いスキルのXPの{0}を奪います.\n\nターゲットは脳にダメージを受け,昏睡状態になります.</Philophagy.outcomeDescription>
   
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>喜びのパルス</PleasurePulse.label>
@@ -54,8 +54,8 @@
   <Psychophagy.label>サイコファジー</Psychophagy.label>
   <!-- EN: Consume the psychic sensitivity of a target. The invoker will increase their psychic sensitivity for a period of time. The effect does not stack. The target will suffer brain damage, causing them to fall into a coma for several days. -->
   <Psychophagy.description>ターゲットの精神感受性を消費します.実行者は一定時間,精神感受性が上昇します.この効果は累積しません.ターゲットは脳にダメージを受け,数日間昏睡状態となります.</Psychophagy.description>
-  <!-- EN: At the current ritual quality, the effect will last for {0}. -->
-  <Psychophagy.outcomeDescription>現在の儀式品質では,この効果は{0}持続します.</Psychophagy.outcomeDescription>
+  <!-- EN: At the current ritual quality, the invoker will increase their psychic sensitivity for {0}.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Psychophagy.outcomeDescription>現在の儀式品質の場合,実行者の精神感受性が{0}上昇します.\n\nターゲットは脳にダメージを受け,昏睡状態になります.</Psychophagy.outcomeDescription>
   
   <!-- EN: skip abduction -->
   <SkipAbduction.label>スキップアブダクション</SkipAbduction.label>
@@ -79,8 +79,8 @@
   
   <!-- EN: draw animals -->
   <SummonAnimals.label>動物の誘引</SummonAnimals.label>
-  <!-- EN: Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may drive the animals mad. -->
-  <SummonAnimals.description>精神パルスを発生させ,遠くの動物の群れを周辺エリアへと引き寄せます.その後,自由に狩りを行ったり,動物を利用することができます.正しく実行されなければ,動物が狂ってしまう可能性があります.</SummonAnimals.description>
+  <!-- EN: Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may attract scaria-infected manhunters. -->
+  <SummonAnimals.description>精神パルスを発生させ,遠くの動物の群れを周辺エリアへと引き寄せます.その後,自由に狩りを行ったり,動物を利用することができます.正しく実行されなかった場合,スカリアに感染したヒト狩り動物を引き寄せてしまう可能性があります.</SummonAnimals.description>
   <!-- EN: With the current ritual quality, there is a {0} chance that the animals will arrive as manhunters. -->
   <SummonAnimals.outcomeDescription>現在の儀式品質の場合,{0}の確率で動物はヒト狩りになってしまいます.</SummonAnimals.outcomeDescription>
   
@@ -94,7 +94,7 @@
   <SummonFleshbeasts.letterAICompleteLabel>フレッシュビーストの出現</SummonFleshbeasts.letterAICompleteLabel>
   <!-- EN: Fleshbeasts are clawing their way out of the ground. Prepare for their attack! -->
   <SummonFleshbeasts.letterAICompleteText>フレッシュビーストが地面から爪を立てて這い出ようとしています.攻撃に備えましょう！</SummonFleshbeasts.letterAICompleteText>
-  <!-- EN: Create a psychic pulse which will draw a horde of fleshbeats. -->
+  <!-- EN: Create a psychic pulse which will draw a horde of fleshbeasts. -->
   <SummonFleshbeasts.outcomeDescription>フレッシュビーストの群れを引き寄せる精神パルスを発生させます.</SummonFleshbeasts.outcomeDescription>
   
   <!-- EN: draw fleshbeasts -->

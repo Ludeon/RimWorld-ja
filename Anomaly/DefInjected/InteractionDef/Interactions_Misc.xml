@@ -179,17 +179,17 @@
   <OccultTeaching.label>オカルト的教育</OccultTeaching.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] explained [INITIATOR_possessive] theories about [subjectDarkStudy] to [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[RECIPIENT_nameDef] shared [INITIATOR_possessive] ideas about [subjectDarkStudy] with [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[RECIPIENT_nameDef] spoke about [subjectDarkStudy].</li>
-    <li>r_logentry->[RECIPIENT_nameDef] went over the subject of [subjectDarkStudy].</li>
-    <li>r_logentry->[RECIPIENT_nameDef] taught a lesson on [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] shared [INITIATOR_possessive] ideas about [subjectDarkStudy] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] spoke about [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] went over the subject of [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] taught a lesson on [subjectDarkStudy].</li>
   -->
   <OccultTeaching.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]に関する[INITIATOR_possessive]理論を[RECIPIENT_nameDef]に説明した.</li>
     <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]に関する[INITIATOR_possessive]アイデアを[RECIPIENT_nameDef]に共有した.</li>
-    <li>r_logentry->[RECIPIENT_nameDef]は[subjectDarkStudy]について話した.</li>
-    <li>r_logentry->[RECIPIENT_nameDef]は[subjectDarkStudy]について熟考した.</li>
-    <li>r_logentry->[RECIPIENT_nameDef]は[subjectDarkStudy]に関する講演をした.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]について話した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]について熟考した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]に関する講演をした.</li>
   </OccultTeaching.logRulesInitiator.rulesStrings>
   
   <!-- EN: prisoner study -->

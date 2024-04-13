@@ -1,52 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Dangerous activity levels -->
   <ActivityMultipleDangerous>危険な活動レベル</ActivityMultipleDangerous>
+  <!-- EN: These entities are at dangerously high activity levels -->
   <ActivityDangerousDesc>これらの「存在」の活動は危険なほどの高レベルにあります</ActivityDangerousDesc>  
+  <!-- EN: When an entity reaches 100% activity, it will become dangerous.\n\nSend your warden to suppress these entities, or enable automatic suppression using the entity's activity panel. -->
   <ActivityDangerousDescAppended>活動率が100%に達すると,危険な状態になります.\n\n看守を派遣して抑制するか,「存在」の活動パネルを使って自動抑制を有効にしてください.</ActivityDangerousDescAppended>
 
+  <!-- EN: Need anomaly project -->
   <NeedAnomalyProject>アノマリー計画が必要</NeedAnomalyProject>
+  <!-- EN: You have an entity marked for study but don't have a matching anomaly research project selected: -->
   <NeedAnomalyProjectDesc>研究対象としてマークされた「存在」がありますが,それに一致するアノマリー研究計画が選択されていません：</NeedAnomalyProjectDesc>
+  <!-- EN: Need {NAME} anomaly research project -->
   <NeedAnomalyProjectDescLine>{NAME}アノマリー研究計画が必要</NeedAnomalyProjectDescLine>
+  <!-- EN: Open the research menu and select a project on the anomaly tab.\n\nYou can have a basic and an advanced research project selected at the same time.\n\n(Click to open the research menu.) -->
   <NeedAnomalyProjectDescAppended>研究メニューを開き,アノマリータブの計画を選択してください.\n\n基礎および上級研究計画を同時に選択できます.\n\n（クリックで研究メニューを開きます）</NeedAnomalyProjectDescAppended>
 
+  <!-- EN: Visitor ignored -->
   <CreepJoinerTimeout>訪問者の無視</CreepJoinerTimeout>
+  <!-- EN: The following visitors feel ignored and are becoming increasingly upset -->
   <CreepJoinerTimeoutDesc>以下の訪問者は無視されたと感じており,動揺を強めています</CreepJoinerTimeoutDesc>
+  <!-- EN: Select a colonist and right-click on the visitor.\n\nAct quickly... they don't like being ignored. -->
   <CreepJoinerTimeoutDescAppended>入植者を選択した後に,訪問者を右クリックします.\n\n急いで行動しましょう...彼らは無視されることは好みません.</CreepJoinerTimeoutDescAppended>
 
+  <!-- EN: Undercave unstable -->
   <Alert_UndercaveUnstable>不安定な地底洞窟</Alert_UndercaveUnstable>
+  <!-- EN: The undercave has become unstable and will collapse soon.\n\nGet your colonists out before it's too late. -->
   <Alert_UndercaveUnstableDesc>地底洞窟が不安定になり,間もなく崩落します.\n\n手遅れになる前に入植者を外に出しましょう.</Alert_UndercaveUnstableDesc>
 
+  <!-- EN: Cultist psychic ritual -->
   <Alert_CultistPsychicRitual>崇拝者のサイキック儀式</Alert_CultistPsychicRitual>
+  <!-- EN: {INVOKER_kindDef} {INVOKER_nameDef} has started to perform {RITUAL_definite} ritual. If you don't interrupt {INVOKER_objective}, the consequences could be dire. -->
   <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef}の{INVOKER_nameDef}が{RITUAL_definite}の儀式を始めました.{INVOKER_objective}妨害しない場合,悲惨な結果を招くかもしれません.</Alert_CultistPsychicRitualDesc>
 
+  <!-- EN: Ghoul starvation -->
   <AlertMeatHunger>グールの飢え</AlertMeatHunger>
+  <!-- EN: These ghouls hunger for raw meat -->
   <AlertMeatHungerDesc>グールが生肉に飢えています</AlertMeatHungerDesc>
+  <!-- EN: They may attack if they're not fed soon. Get them some meat. -->
   <AlertMeatHungerDescAppended>すぐに餌をやらなければ,攻撃してくるかもしれません.肉を食わせましょう.</AlertMeatHungerDescAppended>
   
+  <!-- EN: Pit gate opening -->
   <AlertEmergingPitGate>ピットゲートが開く</AlertEmergingPitGate>
+  <!-- EN: The ground is collapsing in on itself. A pit gate will soon form. -->
   <AlertEmergingPitGateDesc>地面が崩れてきています.まもなくピットゲートが開くでしょう.</AlertEmergingPitGateDesc>
 
+  <!-- EN: Insufficient containment -->
   <Alert_InsufficientContainment>不十分な収容</Alert_InsufficientContainment>
+  <!-- EN: The following entities are being held in rooms that do not meet their minimum containment strength -->
   <Alert_InsufficientContainmentDesc>以下の存在は,最低収容強度を満たしていない部屋に収容されています</Alert_InsufficientContainmentDesc>
+  <!-- EN: They will escape soon. Build stronger walls, doors, or other containment devices to hold them. -->
   <Alert_InsufficientContainmentDescAppended>じきに脱走してしまうでしょう.より強固な壁,扉,その他の収容装置を作って彼らを閉じ込めておきましょう.</Alert_InsufficientContainmentDescAppended>
 
+  <!-- EN: Holding platforms needed -->
   <AlertHoldingPlatform>収容プラットフォームが必要</AlertHoldingPlatform>
+  <!-- EN: Build holding platforms or place holding spots to contain and study captured entities. -->
   <AlertHoldingPlatformDesc>捕獲した存在の収容と研究のため,収容プラットフォームまたは収容スポットを建てましょう.</AlertHoldingPlatformDesc>
 
+  <!-- EN: Cube withdrawal -->
   <AlertCubeWithdrawal>キューブ禁断症状</AlertCubeWithdrawal>
+  <!-- EN: The following people are suffering from cube withdrawal -->
   <AlertCubeWithdrawalDesc>以下の人々がキューブ禁断症状に苦しんでいます</AlertCubeWithdrawalDesc>
+  <!-- EN: Their skin itches and their mind races, craving closeness to the golden cube. Their symptoms will worsen until they can play with the cube.\n\nEnsure that they have free time and can reach the golden cube. -->
   <AlertCubeWithdrawalDescAppended>彼らの皮膚は痒くなり,心は逸り,黄金のキューブに近づきたいと切望するようになります.キューブで遊べるようになるまで,症状は悪化します.\n\n自由時間を確保し,彼らが黄金のキューブにたどり着けるようにしましょう.</AlertCubeWithdrawalDescAppended>
 
+  <!-- EN: Devourer digestion -->
   <AlertDigestion>デバウアーの消化</AlertDigestion>
+  <!-- EN: The following people or creatures are being digested by a devourer -->
   <AlertDigestionDesc>以下の人々または生物が,デバウアーに消化されています</AlertDigestionDesc>
+  <!-- EN: Kill the devourer to release them before it's too late. -->
   <AlertDigestionDescAppended>デバウアーを殺し,手遅れになる前に解放しましょう.</AlertDigestionDescAppended>
   
+  <!-- EN: Inhibitor blocked -->
   <AlertInhibitorBlocked>ブロックされたインヒビター</AlertInhibitorBlocked>
+  <!-- EN: One of your electric inhibitors is not functional because it’s blocked by another building.\n\nClear the space in front of the electric inhibitor. -->
   <AlertInhibitorBlockedDesc>電動インヒビターの1つが,他の建物妨げられて機能していません.\n\n電動インヒビターの正面のスペースを空けましょう.</AlertInhibitorBlockedDesc>
 
+  <!-- EN: Entity treatment needed -->
   <EntityNeedsTreatment>存在の治療が必要</EntityNeedsTreatment>
+  <!-- EN: These entities need medical treatment. Without it, they may die in captivity.\n{0}\n\nSend a doctor to treat them. -->
   <EntityNeedsTreatmentDesc>これらの存在は治療が必要です.さもなければ,捕われのまま死んでしまうかもしれません.\n{0}\n\n医者を派遣して治療しましょう.</EntityNeedsTreatmentDesc>
 
+  <!-- EN: Ghoul hypothermia -->
   <AlertGhoulHypothermia>グールの低体温症</AlertGhoulHypothermia>
-  <AlertGhoulHypothermiaDesc>これらのグールが低体温症に苦しんでいます：\n{0}\n\n温度の高い場所へ移動させましょう.</AlertGhoulHypothermiaDesc>\n\n</LanguageData>
+  <!-- EN: These ghouls are suffering from hypothermia:\n{0}\n\nGet them to warmer temperatures. -->
+  <AlertGhoulHypothermiaDesc>これらのグールが低体温症に苦しんでいます：\n{0}\n\n温度の高い場所へ移動させましょう.</AlertGhoulHypothermiaDesc>
+  
+  <!-- EN: Gray flesh -->
+  <AlertGrayFleshSample>灰色の肉体</AlertGrayFleshSample>
+  <!-- EN: You’ve discovered a strip of fleshy tissue. Analyze it to learn more about the biosignature. -->
+  <AlertGrayFleshSampleDesc>帯状の肉片を発見しました.分析することで,バイオシグネチャーについてさらに詳しくわかります.</AlertGrayFleshSampleDesc>
+  <!-- EN: Neural lump -->
+  <AlertNeuralLump>神経組織の塊</AlertNeuralLump>
+  <!-- EN: A fleshmass nerve bundle has dropped a neural lump. Analyze it to learn how to kill the fleshmass heart. -->
+  <AlertNeuralLumpDesc>肉塊の神経帯が神経組織の塊を落としました.分析することで,肉塊の心臓を破壊する方法についてさらに詳しくわかります.</AlertNeuralLumpDesc>
+  <!-- EN: Revenant flesh -->
+  <AlertRevenantFlesh>レヴナントの肉</AlertRevenantFlesh>
+  <!-- EN: The wounded revenant left behind a piece of itself. Analyze it to learn how to track the revenant. -->
+  <AlertRevenantFleshDesc>傷ついたレヴナントが自分の肉片を残していきました.分析することで,レヴナントを追跡する方法を知ることができます.</AlertRevenantFleshDesc>
+
+</LanguageData>

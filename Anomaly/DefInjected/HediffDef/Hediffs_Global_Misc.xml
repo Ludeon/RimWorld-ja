@@ -22,8 +22,8 @@
   
   <!-- EN: blood rage -->
   <BloodRage.label>血の怒り</BloodRage.label>
-  <!-- EN: This person has been exposed to blood rain, a psychofluid that induces rage. This rage will continue to grow as long as they're exposed to the blood rain, eventually resulting in a violent mental break. The effect grows quicker in some individuals, depending on their traits, psychic sensitivity, and random individual differences. -->
-  <BloodRage.description>この人物は,怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感受性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
+  <!-- EN: This creature has been exposed to blood rain, a psychofluid that induces rage. This rage will continue to grow as long as they're exposed to the blood rain, eventually resulting in a violent mental break. The effect grows quicker in some individuals, depending on their traits, psychic sensitivity, and random individual differences. -->
+  <BloodRage.description>この生物は,怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感受性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
   <!-- EN: very mild -->
   <BloodRage.stages.very_mild.label>極軽度</BloodRage.stages.very_mild.label>
   <!-- EN: mild -->
@@ -98,6 +98,18 @@
   <CubeInterest.label>キューブへの興味</CubeInterest.label>
   <!-- EN: This person is drawn to the golden cube. If separated from the cube for too long, they'll start to experience negative effects. -->
   <CubeInterest.description>この人物は黄金のキューブに惹きつけられています.キューブから長く離れすぎると,悪影響が出始めます.</CubeInterest.description>
+  <!-- EN: Wandering and thinking about the cube. -->
+  <CubeInterest.reportStringOverrides.0.reportString>キューブについて考えながらうろうろしている</CubeInterest.reportStringOverrides.0.reportString>
+  <!-- EN: Wandering and thinking about the cube. -->
+  <CubeInterest.reportStringOverrides.1.reportString>キューブについて考えながらうろうろしている</CubeInterest.reportStringOverrides.1.reportString>
+  <!-- EN: Asleep, dreaming about the cube. -->
+  <CubeInterest.reportStringOverrides.2.reportString>キューブの夢を見ながら眠っている</CubeInterest.reportStringOverrides.2.reportString>
+  <!-- EN: Meditating on the cube. -->
+  <CubeInterest.reportStringOverrides.3.reportString>キューブの上で瞑想中</CubeInterest.reportStringOverrides.3.reportString>
+  <!-- EN: Praying for the cube. -->
+  <CubeInterest.reportStringOverrides.4.reportString>キューブに祈りを捧げている</CubeInterest.reportStringOverrides.4.reportString>
+  <!-- EN: Praying for the cube. -->
+  <CubeInterest.reportStringOverrides.5.reportString>キューブに祈りを捧げている</CubeInterest.reportStringOverrides.5.reportString>
   <!-- EN: curious -->
   <CubeInterest.stages.curious.label>好奇</CubeInterest.stages.curious.label>
   <!-- EN: fascinated -->
@@ -132,7 +144,7 @@
   
   <!-- EN: dark psychic shock -->
   <DarkPsychicShock.label>闇のサイキックショック</DarkPsychicShock.label>
-  <!-- EN: Part of this person's neutral pattern has been disrupted by a dark psychic power. The shock from this process has left them in a temporary coma. -->
+  <!-- EN: Part of this person's neural pattern has been disrupted by a dark psychic power. The shock from this process has left them in a temporary coma. -->
   <DarkPsychicShock.description>この人物の神経パターンの一部が,闇のサイキックエネルギーによって破壊されています.このプロセスによるショックで,一時的に昏睡状態になっています.</DarkPsychicShock.description>
   
   <!-- EN: death refusal -->
@@ -320,7 +332,7 @@
   
   <!-- EN: void touched -->
   <VoidTouched.label>ヴォイドに触れた者</VoidTouched.label>
-  <!-- EN: This person has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need food or sleep. The void provides for them. -->
-  <VoidTouched.description>この人物はヴォイドの深淵を目の当たりにし,その本質を飲み込みました.それはこの人物の中でまだ生きており,その行動を導き,肉体を捻じ曲げています.これにより,その髪はもろく,真っ白になりました.もはや食事も睡眠も必要ありません.ヴォイドがこの人物を生かすからです.</VoidTouched.description>
+  <!-- EN: This person has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them. -->
+  <VoidTouched.description>この人物はヴォイドの深淵を目の当たりにし,その本質を飲み込みました.それはこの人物の中でまだ生きており,その行動を導き,肉体を捻じ曲げています.これにより,その髪はもろく,真っ白になりました.もはや睡眠も快適さも必要ありません.ヴォイドがこの人物を生かすからです.</VoidTouched.description>
   
 </LanguageData>

@@ -87,6 +87,11 @@
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>鉄,鉄くずの塊,鉄の建物,または鉄のアイテムをターゲットにしなければなりません.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   
+  <!-- EN: entity skip -->
+  <UnnaturalCorpseSkip.label>物体跳躍</UnnaturalCorpseSkip.label>
+  <!-- EN: Teleport to a target destination. -->
+  <UnnaturalCorpseSkip.description>目標地点へテレポートします.</UnnaturalCorpseSkip.description>
+  
   <!-- EN: unnatural healing -->
   <UnnaturalHealing.label>不自然な治癒</UnnaturalHealing.label>
   <!-- EN: Use dark psychic influence to heal someone. The process will stop bleeding, restore blood loss, and can even heal significant injuries. However, it may also have unexpected side effects. -->

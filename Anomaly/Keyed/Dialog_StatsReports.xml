@@ -1,44 +1,80 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Knowledge gain from study -->
   <KnowledgeFromStudy>研究で得られる知識</KnowledgeFromStudy>
+  <!-- EN: The type and amount of anomaly knowledge that can be obtained when this entity is studied. More sophisticated entities can unlock more advanced anomaly research projects. -->
   <KnowledgeFromStudyDesc>この存在を研究したときに得られるアノマリー知識の種類と量です.より洗練された存在であるほど,高度なアノマリー研究計画のアンロックが可能となります.</KnowledgeFromStudyDesc>
+  <!-- EN: {0} {1} -->
   <Stat_Knowledge>{0} {1}</Stat_Knowledge>
+  <!-- EN: Study interval -->
   <StudyFrequency>研究間隔</StudyFrequency>
+  <!-- EN: The duration between available study periods for this entity. -->
   <StudyFrequencyDesc>この存在の研究が可能な期間の間隔です.</StudyFrequencyDesc>
   
+  <!-- EN: Healing -->
   <Stat_Hediff_Regeneration_Name>回復</Stat_Hediff_Regeneration_Name>
+  <!-- EN: A flat amount of healing per day. -->
   <Stat_Hediff_Regeneration_Desc>一日ごとの一律の回復量です.</Stat_Hediff_Regeneration_Desc>
+  <!-- EN: {0} hp/day -->
   <Stat_Hediff_Regeneration_Stat>{0}HP/日</Stat_Hediff_Regeneration_Stat>
 
+  <!-- EN: Average lighting -->
   <Stat_ContainmentStrength_AverageLighting>平均照明</Stat_ContainmentStrength_AverageLighting>
+  <!-- EN: Average wall HP -->
   <Stat_ContainmentStrength_AverageWallHp>壁の平均HP</Stat_ContainmentStrength_AverageWallHp>
+  <!-- EN: Average door HP -->
   <Stat_ContainmentStrength_AverageDoorHp>ドアの平均HP</Stat_ContainmentStrength_AverageDoorHp>
+  <!-- EN: Multiple ({0}) holding platforms -->
   <Stat_ContainmentStrength_OtherHoldingPlatforms>複数（{0}）の収容プラットフォーム</Stat_ContainmentStrength_OtherHoldingPlatforms>
+  <!-- EN: Map-wide offset -->
   <Stat_ContainmentStrength_MapwideOffset>マップ全体のオフセット</Stat_ContainmentStrength_MapwideOffset>
+  <!-- EN: door open -->
   <Stat_ContainmentStrength_DoorForcedOpen>ドアを開ける</Stat_ContainmentStrength_DoorForcedOpen>
+  <!-- EN: Not fully roofed -->
   <Stat_ContainmentStrength_NotFullyRoofed>屋根が不完全</Stat_ContainmentStrength_NotFullyRoofed>
+  <!-- EN: Flooring -->
   <Stat_ContainmentStrength_Flooring>床張</Stat_ContainmentStrength_Flooring>
+  <!-- EN: Building -->
   <Stat_ContainmentStrength_Platform>建物</Stat_ContainmentStrength_Platform>
 
+  <!-- EN: Bioferrite generation -->
   <StatsReport_BioferriteGeneration>バイオフェライト生成</StatsReport_BioferriteGeneration>
+  <!-- EN: How much bioferrite this entity generates per day. When captured on a holding platform, bioferrite can be gathered from it by building a bioferrite harvester. -->
   <StatsReport_BioferriteGeneration_Desc>この存在が1日ごとに生成するバイオフェライトの量です.収容プラットフォームに捕獲した時に,バイオフェライトハーベスターを建てることで,バイオフェライトが集められます.</StatsReport_BioferriteGeneration_Desc>
+  <!-- EN: Multiplier for bioferrite density -->
+  <StatsReport_BioferriteDensityMultiplier>バイオフェライト密度の乗数</StatsReport_BioferriteDensityMultiplier>
   
+  <!-- EN: Offering -->
   <StatsReport_Offering>供物</StatsReport_Offering>
+  <!-- EN: The ingredients required to perform the psychic ritual. -->
   <StatsReport_Offering_Desc>サイキック儀式を行うために必要な材料です.</StatsReport_Offering_Desc>
 
+  <!-- EN: Ritual duration -->
   <StatsReport_RitualDuration>儀式期間</StatsReport_RitualDuration>
+  <!-- EN: The time it takes to perform this ritual. -->
   <StatsReport_RitualDuration_Desc>この儀式を行うのにかかる時間です.</StatsReport_RitualDuration_Desc>
 
+  <!-- EN: Cooldown -->
   <StatsReport_RitualCooldown>クールダウン</StatsReport_RitualCooldown>
+  <!-- EN: After a ritual is performed, it disrupts ambient psychic energy for a period of time. During this time, the ritual can't be performed again. -->
   <StatsReport_RitualCooldown_Desc>儀式を行うと,一定期間周囲のサイキックエネルギーが乱されます.この期間中,儀式を再度行うことはできません.</StatsReport_RitualCooldown_Desc>
 
+  <!-- EN: Containment offset -->
   <StatsReport_ContainmentStrengthOffset>収容補正</StatsReport_ContainmentStrengthOffset>
+  <!-- EN: How much this affects the ability of a holding platform to constrain an entity. Entities that are better contained are less likely to escape and provide more knowledge when studied. -->
   <StatsReport_ContainmentStrengthOffset_Desc>これは収容プラットフォームが存在を拘束する能力への影響度を示します.厳重に収容された存在は脱走の可能性が低くなり,研究時により多くの知識をもたらします.</StatsReport_ContainmentStrengthOffset_Desc>
 
+  <!-- EN: Duration -->
   <StatsReport_SerumDuration>持続期間</StatsReport_SerumDuration>
+  <!-- EN: How long the effects of a serum last. -->
   <StatsReport_SerumDuration_Desc>シーラムが効果を発揮し続ける時間です.</StatsReport_SerumDuration_Desc>
   
+  <!-- EN: Occupied -->
   <StatsReport_Occupied>占有</StatsReport_Occupied>
+  <!-- EN: {2} per nearby {BUILDING_label} ({0} / {1}) -->
   <MeditationFocusPerBuilding>周囲の{BUILDING_label}1つにつき{2}（{0}/{1}）</MeditationFocusPerBuilding>
-  <MeditationFocusPerBuildingAbstract>周囲の{BUILDING_label}1つにつき{1}（最大{0}）</MeditationFocusPerBuildingAbstract>\n\n</LanguageData>
+  <!-- EN: {1} per nearby {BUILDING_label} (up to {0}) -->
+  <MeditationFocusPerBuildingAbstract>周囲の{BUILDING_label}1つにつき{1}（最大{0}）</MeditationFocusPerBuildingAbstract>
+
+</LanguageData>

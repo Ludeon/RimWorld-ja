@@ -55,13 +55,13 @@
   
   <!-- EN:
     <li>deliveredLetterLabel->Mysterious cargo</li>
-    <li>deliveredLetterText(pawnOnMap==true)->The mysterious cargo has been delivered. It appears to be a human corpse.\n\nOn further inspection, the corpse looks identical to [pawn_nameDef]. Its skin feels waxy and warm to the touch. [pawn_nameDef] is deeply unsettled by its presence.\n\nYou can study the corpse to learn more about it.</li>
-    <li>deliveredLetterText(pawnOnMap==false)->The mysterious cargo has been delivered. It appears to be a human corpse.\n\nOn further inspection, the corpse looks identical to [pawn_nameDef]. Its skin feels waxy and warm to the touch. [pawn_nameDef] will be deeply unsettled by its presence.\n\nYou can study the corpse to learn more about it.</li>
+    <li>deliveredLetterText(pawnOnMap==true)->The mysterious cargo has been delivered. It appears to be a human corpse.\n\nOn further inspection, the corpse looks identical to [pawn_nameDef]. Its skin feels waxy and warm to the touch. [pawn_nameDef] is deeply unsettled by its presence.\n\nStudy the corpse to learn more about it.</li>
+    <li>deliveredLetterText(pawnOnMap==false)->The mysterious cargo has been delivered. It appears to be a human corpse.\n\nOn further inspection, the corpse looks identical to [pawn_nameDef]. Its skin feels waxy and warm to the touch. [pawn_nameDef] will be deeply unsettled by its presence.\n\nStudy the corpse to learn more about it.</li>
   -->
   <MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
     <li>deliveredLetterLabel->謎の荷物</li>
-    <li>deliveredLetterText(pawnOnMap==true)->謎の荷物が届けられました.それは人間の遺体のように見えます.\n\nよく見ると,その遺体は[pawn_nameDef]と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.[pawn_nameDef]はその存在に非常に落ち着かないようです.\n\n遺体を研究することで,さらに詳しくわかります.</li>
-    <li>deliveredLetterText(pawnOnMap==false)->謎の荷物が届けられました.それは人間の遺体のように見えます.\n\nよく見ると,その遺体は[pawn_nameDef]と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.[pawn_nameDef]はその存在に非常に落ち着かなくなるようです.\n\n遺体を研究することで,さらに詳しくわかります.</li>
+    <li>deliveredLetterText(pawnOnMap==true)->謎の荷物が届けられました.それは人間の遺体のように見えます.\n\nよく見ると,その遺体は[pawn_nameDef]と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.[pawn_nameDef]はその存在に非常に落ち着かないようです.\n\n遺体を研究することで,詳細を明らかにしましょう.</li>
+    <li>deliveredLetterText(pawnOnMap==false)->謎の荷物が届けられました.それは人間の遺体のように見えます.\n\nよく見ると,その遺体は[pawn_nameDef]と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.[pawn_nameDef]はその存在に非常に落ち着かなくなるようです.\n\n遺体を研究することで,詳細を明らかにしましょう.</li>
   </MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true)->An anonymous AI has reached out with an odd request. It would like you to accept some unspecified cargo. It avoids all your questions about the cargo.\n\nIf you accept, it will deliver the mystery cargo by transport pod.</li>

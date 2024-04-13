@@ -12,7 +12,7 @@
     <li>circumstance_phrase->while the void whispers in the background</li>
     <li>desc_sentence->The gray metal presses in from all sides.</li>
     <li>desc_sentence->The other colonists are shown [side_position], anxiously awaiting [PAWN_nameDef]'s return.</li>
-    <li>desc_sentence->[PAWN_nameDef]'s face betrays that [PAWN_pronoun] is agonising over the choice before [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_nameDef]'s face betrays that [PAWN_pronoun] is agonising over the choice before [PAWN_objective].</li>
   -->
   <ClosedTheVoid.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]がヴォイドノードを閉じようとしてる</li>
@@ -65,7 +65,7 @@
     <li>circumstance_phrase->with focused determination, showcasing [PAWN_possessive] mastery of the psychic arts</li>
     <li>circumstance_phrase->with a cruel smile</li>
     <li>circumstance_phrase->while [PAWN_possessive] voice fights to be heard over the roar of energy</li>
-    <li>desc_sentence->The chanters can be seen [side_position] lending their support</li>
+    <li>desc_sentence->The chanters can be seen [side_position] lending their support.</li>
     <li>desc_sentence->The air shimmers as [PAWN_nameDef] completes the psychic ritual.</li>
     <li>desc_sentence->The monolith shimmers in the background.</li>
     <li>desc_sentence->The surrounding candles flicker and sputter in the swirling energy.</li>
@@ -80,7 +80,7 @@
     <li>circumstance_phrase->[PAWN_possessive]サイキック技術の習熟を示すために,集中しながら</li>
     <li>circumstance_phrase->冷ややかな笑みを浮かべながら</li>
     <li>circumstance_phrase->エネルギーがうなりを上げる中,声を張り上げながら</li>
-    <li>desc_sentence->詠唱者は[side_position]が支援する姿を見ました</li>
+    <li>desc_sentence->詠唱者は[side_position]が支援する姿を見ました.</li>
     <li>desc_sentence->[PAWN_nameDef]がサイキック儀式を終えると,空気がきらめきます.</li>
     <li>desc_sentence->背後にあるモノリスがきらめいています.</li>
     <li>desc_sentence->渦をなすエネルギーの中で,周囲のろうそくが明滅します.</li>

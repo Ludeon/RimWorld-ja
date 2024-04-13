@@ -3,8 +3,8 @@
   
   <!-- EN: deadlife pack -->
   <Apparel_DeadlifePack.label>デッドライフパック</Apparel_DeadlifePack.label>
-  <!-- EN: A single-use pack that launches a capsule which explodes into deadlife dust. The dust animates human and animal corpses as shamblers that will only attack your enemies.\n\nDeadlife dust is composed of microscopic machine-like archites which hang in the air. The archites are similar to those in archotech resurrector serums, but are overpowered and chaotic. Where they touch a corpse, they induce a chaotic and violent resurrection. -->
-  <Apparel_DeadlifePack.description>爆発すると死の塵を撒き散らすカプセルを発射する使い切りのパック.塵は人間や動物の遺体を,敵対者のみを攻撃するシャンブラーとして蘇生させます.\n\n死の塵は,空中に浮遊する微細な機械のようなアルカイトで構成されています.アルカイトはアルコテックのリザレクトシーラムに含まれるものと似ていますが,それを遥かに上回る力と混沌を備えています.それらが遺体に触れると,混沌かつ暴力的な蘇生を誘発するのです.</Apparel_DeadlifePack.description>
+  <!-- EN: A single-use pack that launches a capsule which explodes into deadlife dust. The dust animates human and animal corpses as shamblers that will only attack your enemies.\n\nDeadlife dust is composed of microscopic machine-like archites which hang in the air. Where they touch a corpse, they induce a chaotic and violent resurrection. -->
+  <Apparel_DeadlifePack.description>爆発すると死の塵を撒き散らすカプセルを発射する使い切りのパック.塵は人間や動物の遺体を,敵対者のみを攻撃するシャンブラーとして蘇生させます.\n\n死の塵は,空中に浮遊する微細な機械のようなアルカイトで構成されています.それらが遺体に触れると,混沌かつ暴力的な蘇生を誘発するのです.</Apparel_DeadlifePack.description>
   <!-- EN: charge -->
   <Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>チャージ</Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
   <!-- EN: deploy deadlife dust -->
@@ -14,10 +14,15 @@
   <Apparel_DisruptorFlarePack.label>妨害フレアパック</Apparel_DisruptorFlarePack.label>
   <!-- EN: A utility pack that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
   <Apparel_DisruptorFlarePack.description>妨害フレアを射出するユーティリティパック.フレアは着弾時にバイオフェライトのカプセルを燃焼させ,まばゆい閃光と局所的な精神混乱を引き起こします.これにより,敏感な精神を持つ生物はスタンし,不可視の生物はその姿が明らかになり,短時間その意識と移動速度が低下します.その後,フレアは燃焼を続け,一定時間広範囲を照らします.</Apparel_DisruptorFlarePack.description>
-  <!-- EN: charge -->
-  <Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun>チャージ</Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <!-- EN: flare -->
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>フレア</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>クールダウン中</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy flare -->
   <Apparel_DisruptorFlarePack.verbs.deploy_flare.label>フレアを展開</Apparel_DisruptorFlarePack.verbs.deploy_flare.label>
+  
+  <!-- UNUSED -->
+  <Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun>チャージ</Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
   
   <!-- EN: turret pack -->
   <Apparel_PackTurret.label>タレットパック</Apparel_PackTurret.label>

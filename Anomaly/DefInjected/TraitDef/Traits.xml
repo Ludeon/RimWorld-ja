@@ -3,8 +3,8 @@
   
   <!-- EN: body mastery -->
   <BodyMastery.degreeDatas.body_mastery.label>肉体の主</BodyMastery.degreeDatas.body_mastery.label>
-  <!-- EN: {PAWN_nameDef} doesn't need to eat or sleep. {PAWN_possessive} body is driven by some unknown mechanism. The process has turned {PAWN_possessive} eyes completely white. -->
-  <BodyMastery.degreeDatas.body_mastery.description>{PAWN_nameDef}は食事や睡眠の必要がありません.{PAWN_possessive}肉体は未知の仕組みによって動いています.このプロセスにより,{PAWN_possessive}目は真っ白になりました.</BodyMastery.degreeDatas.body_mastery.description>
+  <!-- EN: {PAWN_nameDef} doesn't have basic needs like eating, sleeping, or comfort. {PAWN_possessive} body is driven by some unknown mechanism, which has turned {PAWN_possessive} eyes completely white. -->
+  <BodyMastery.degreeDatas.body_mastery.description>{PAWN_nameDef}には食事や睡眠,快適さなどの基本的欲求が存在しません.{PAWN_possessive}肉体は未知の仕組みによって動かされており,これによって{PAWN_possessive}目は真っ白になりました.</BodyMastery.degreeDatas.body_mastery.description>
   
   <!-- EN: disturbing -->
   <Disturbing.degreeDatas.disturbing.label>不穏</Disturbing.degreeDatas.disturbing.label>

@@ -1,172 +1,294 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Inhumanization -->
+  <!-- EN: Rehumanized -->
   <ReHumanizedLabel>再人間化</ReHumanizedLabel>
+  <!-- EN: {0_nameDef} has regained {0_possessive} connection to humanity. {0_nameDef}'s 'inhumanized' health condition has been removed. -->
   <ReHumanizedText>{0_nameDef}は人間性のつながりを取り戻しました.{0_nameDef}の「非人間化」の健康状態は解除されました.</ReHumanizedText>
+  <!-- EN: Warning from {0_nameDef} -->
   <WarningFromLabel>{0_nameDef}からの警告</WarningFromLabel>
 
   <!-- Hate chanters -->
+  <!-- EN: Cultist hate chanters -->
   <HateChantersLabel>崇拝者の憎悪の詠唱者</HateChantersLabel>
+  <!-- EN: Cultist hate chanters have arrived. They intend to perform a hate chant ritual to force psychic rage into your colonists and drive them mad. The chant will grow louder and louder until the cultists are stopped. -->
   <HateChantersText>崇拝者の憎悪の詠唱者がやってきました.彼らは憎悪の詠唱儀式を行って,入植者たちに精神的な怒りを強制し,狂気に駆り立てようとしています.この詠唱は,崇拝者たちを止めるまで大きくなっていきます.</HateChantersText>
+  <!-- EN: Cultists attacking -->
   <HateChantersAttackingLabel>崇拝者の攻撃</HateChantersAttackingLabel>
+  <!-- EN: The cultists have ended their hate chant and begun to come out of their ritual trance.\n\nPrepare to defend. -->
   <HateChantersAttackingText>崇拝者たちは憎悪の詠唱を止め,儀式的なトランス状態となりました.\n\n防御の備えをしましょう.</HateChantersAttackingText>
 
   <!-- Psychic rituals -->
+  <!-- EN: {0} complete -->
   <PsychicRitualCompleteLabel>{0}の完了</PsychicRitualCompleteLabel>
 
+  <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual, sending out a psychic pulse that will attract entities. -->
   <VoidProvocationCompletedText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,「存在」を引き寄せる精神パルスを発信しています.</VoidProvocationCompletedText>
+  <!-- EN: Prepare for what comes next. -->
   <VoidProvocationSucceeded>次に来るものに備えましょう.</VoidProvocationSucceeded>
+  <!-- EN: Unfortunately, your call has been left unanswered. -->
   <VoidProvocationFailed>残念ながら,あなたの呼びかけに応えるものはありませんでした.</VoidProvocationFailed>
+  <!-- EN: In the process, {INVOKER_nameDef} glimpsed something horrifying beyond human understanding. The psychic darkness shocked {INVOKER_objective} into a short-term coma. -->
   <VoidProvocationDarkPsychicShock>その過程で,{INVOKER_nameDef}は人知を超えた恐ろしい何かを垣間見ました.その精神の暗闇は{INVOKER_pronoun}に衝撃を与え,短時間の昏睡状態に陥らせました.</VoidProvocationDarkPsychicShock>
+  <!-- EN: {INVOKER_nameDef} has completed {RITUAL_definite} ritual, absorbing skills and memories of {TARGET_nameDef}. -->
   <PhilophagyCompleteText>{INVOKER_nameDef}は,{TARGET_nameDef}のスキルと記憶を吸収する,{RITUAL_definite}の儀式を終えました.</PhilophagyCompleteText>
+  <!-- EN: {0_nameDef} gained {1} XP in {2_label} -->
   <PawnGainedXPInSkill>{0_nameDef}は{2_label}のXPを{1}得ました</PawnGainedXPInSkill>
+  <!-- EN: {0_nameDef} lost {1} XP in {2_label} -->
   <PawnLostXPInSkill>{0_nameDef}は{2_label}のXPを{1}失いました</PawnLostXPInSkill>
+  <!-- EN: rising from skill level {0} to {1}. -->
   <PhilophagySkillLevelGained>スキルレベルが{0}から{1}にあがりました.</PhilophagySkillLevelGained>
+  <!-- EN: falling from skill level {0} to {1}. -->
   <PhilophagySkillLevelLost>スキルレベルが{0}から{1}に下がりました.</PhilophagySkillLevelLost>
+  <!-- EN: remaining at skill level {0}. -->
   <PhilophagySkillLevelRemains>スキルレベルが{0}から変動しませんでした.</PhilophagySkillLevelRemains>
+  <!-- EN: The process damaged {TARGET_nameDef}'s brain, putting {TARGET_objective} into a coma. -->
   <PhilophagyDamagedTarget>このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PhilophagyDamagedTarget>
 
+  <!-- EN: {0_nameDef} has been imbued with death refusal. {0_pronoun} can now self-resurrect after dying.\n\nThe process has atrophied {0_nameDef}'s brain, causing {0_objective} to lose a total of {1} XP in {0_possessive} skills. -->
   <ImbueDeathRefuralCompleteText>{0_nameDef}は死を拒む者となりました.{0_pronoun}は死亡後に自己蘇生できるようになります.\n\nこのプロセスは{0_nameDef}の脳を萎縮させ,{0_pronoun}の{0_possessive}スキルのXPを合計{1}失ってしまいます.</ImbueDeathRefuralCompleteText>
 
+  <!-- EN: {0_nameDef} has completed {RITUAL_definite} ritual. Expect a herd of animals shortly. -->
   <SummonAnimalsSuccessText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.まもなく動物の群れがやってくるでしょう.</SummonAnimalsSuccessText>
+  <!-- EN: {0_nameDef} has completed {RITUAL_definite} ritual but something has gone terribly wrong! The ritual has attracted scaria-infected manhunting animals. Prepare for their arrival! -->
   <SummonAnimalsFailureText>{0_nameDef}は{RITUAL_definite}の儀式を終えましたが,何かが大きく間違っているようです！儀式は動物を狂わせました.あなたの方へ,人を狙う動物がやってきます！</SummonAnimalsFailureText>
   
+  <!-- EN: {0_nameDef} has successfully completed {RITUAL_definite} ritual. Prepare for their arrival. -->
   <SummonShamblersCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を成功させました.到着に備えましょう.</SummonShamblersCompleteText>
 
+  <!-- EN: They are attacking from multiple directions. -->
   <AttackingFromMultipleDirections>彼らは複数の方向から襲撃してきます.</AttackingFromMultipleDirections> 
 
+  <!-- EN: {0_nameDef} has successfully completed {RITUAL_definite} ritual. The ritual had the following effects: -->
   <ChronophagyCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を成功させました.儀式は以下の効果を及ぼします：</ChronophagyCompleteText>
+  <!-- EN: {0_nameDef} aged {1} years -->
   <ChronophagyTargetAged>{0_nameDef}が{1}歳老いました</ChronophagyTargetAged>
+  <!-- EN: {0_nameDef} became {1} years younger -->
   <ChronophagyInvokerRejuvenated>{0_nameDef}が{1}歳若返りました</ChronophagyInvokerRejuvenated>
+  <!-- EN: {0_nameDef} could not take the strain of the aging from the chronophagy ritual and died due to old age. -->
   <ChronophagyTargetDiedOfOldAge>{0_nameDef}はクロノファジーの儀式による負荷に耐えきれず,老衰で死亡しました.</ChronophagyTargetDiedOfOldAge>
+  <!-- EN: While {0_nameDef} survived the chronophagy ritual, {0_pronoun} developed the following conditions -->
   <ChronophagyTargetOldAgeDiseases>{0_nameDef}はクロノファジーの儀式を生き延びましたが,以下の状態になりました</ChronophagyTargetOldAgeDiseases>
+  <!-- EN: Additionally, the process has cured {0_nameDef} of the following ailments: -->
   <ChronophagyInvokerCuredDiseases>さらに,このプロセスは{0_nameDef}の以下の状態を治療しました：</ChronophagyInvokerCuredDiseases>
+  <!-- EN: and is now {0} years old -->
   <ChronophagyCurrentAge>そして,今は{0}歳になりました</ChronophagyCurrentAge>
 
+  <!-- EN: {0_nameDef} has finished performing {RITUAL_definite} ritual. For the next {1}, everyone impacted by {RITUAL_definite} will be happier but work slower. -->
   <PleasurePulseCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.次の{1}の間,{RITUAL_definite}の影響を受けた全員は幸せになりますが,作業が遅くなります.</PleasurePulseCompleteText>
 
+  <!-- EN: {0_nameDef} has finished performing {RITUAL_definite} ritual. For the next {1}, everyone who heard the pulse will work faster but be more irritable. -->
   <NeurosisPulseCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.次の{1}の間,パルスを聞いた全員は作業が早くなりますが,苛立ちやすくなります.</NeurosisPulseCompleteText>
 
+  <!-- EN: {0_nameDef} has finished performing {RITUAL_definite} ritual. Thick red droplets have begun to fall from the sky. Keep everyone indoors to prevent them from being driven berserk. -->
   <BloodRainCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.空から濃赤の雫が降り注ぎ始めました.凶暴化を防ぐために,全員を屋内に収容してください.</BloodRainCompleteText>
 
+  <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual, chaotically erasing {TARGET_nameDef}'s memories. -->
   <BrainwipeCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,{TARGET_nameDef}の記憶を消去しました.</BrainwipeCompleteText>
+  <!-- EN: {TARGET_pronoun} will remain in a coma for {1}. -->
   <BrainwipeTargetComa>{TARGET_pronoun}は{1}の間,昏睡状態になります.</BrainwipeTargetComa>
+  <!-- EN: {TARGET_nameDef} is no longer unwaveringly loyal. -->
   <BrainwipeUnwaveringlyLoyal>{TARGET_nameDef}の揺るぎない忠誠はもはやありません.</BrainwipeUnwaveringlyLoyal>
+  <!-- EN: {TARGET_nameDef} has been re-humanized. -->
   <BrainwipeRehumanized>{TARGET_nameDef}は最人間化されました.</BrainwipeRehumanized>
 
+  <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual and has consumed {TARGET_nameDef}'s psychic presence. -->
   <PsychophagyCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,{TARGET_nameDef}のサイキック存在を食い尽くしました.</PsychophagyCompleteText>
+  <!-- EN: {TARGET_nameDef} is now psychically deaf. The process has damaged {TARGET_nameDef}'s brain, putting {TARGET_objective} into a coma. -->
   <PsychophagyTargetSurvived>{TARGET_nameDef}は精神的無反応になっています.このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PsychophagyTargetSurvived>
   
+  <!-- EN: The process has liquified {TARGET_nameDef}'s brain, killing {TARGET_objective}. -->
   <PsychicRitualTargetBrainLiquified>このプロセスは{TARGET_nameDef}の脳を液状化させ,{TARGET_objective}殺します.</PsychicRitualTargetBrainLiquified>
 
+  <!-- EN: {0_nameDef} has finished performing {RITUAL_definite} ritual. Fleshbeasts are emerging from the ground! -->
   <SummonFleshbeastsPlayerCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.フレッシュビーストが地面から出現します！</SummonFleshbeastsPlayerCompleteText>
 
+  <!-- EN: {INVOKER_nameDef} has finished infusing {TARGET_nameDef} with bioferrite. The ritual has twisted {TARGET_nameDef}'s mind and mutated {TARGET_possessive} body, creating a terrifying creature known as a ghoul. {INVOKER_nameDef} shares a psychic link with {TARGET_nameDef}, allowing {INVOKER_objective} to control {TARGET_nameDef}.\n\nGhouls eat raw meat to survive. If they go hungry, they can turn hostile. -->
   <GhoulInfusionCompleteText>{INVOKER_nameDef}は{TARGET_nameDef}へのバイオフェライト注入を終えました.儀式は{TARGET_nameDef}の精神を捻じ曲げ,{TARGET_possessive}肉体を変異させ,グールという名で知られる恐るべき生物を作り出しました.{INVOKER_nameDef}は{TARGET_nameDef}とサイキックリンクを共有しており,{TARGET_nameDef}を制御することができます.\n\nグールは生き延びるために生肉を食べます.空腹になると,敵対する可能性があります.</GhoulInfusionCompleteText>
   
+  <!-- EN: They might perform the ritual multiple times. You need to go stop them. -->
   <AttackersMayCastRitualMultipleTimes>彼らは儀式を何度も行うかもしれません.止めなければなりません.</AttackersMayCastRitualMultipleTimes>
 
+  <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual. By manipulating space and time, {INVOKER_nameDef} has abducted {TARGET_nameDef} of the {FACTION_name} faction. The terrifying nature of the ritual has put {TARGET_nameDef} into a short-term coma. -->
   <SkipAbductionPlayerCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終えました.時間と空間を操ることで,{INVOKER_nameDef}は{FACTION_name}勢力の{TARGET_nameDef}を拐いました.この儀式の恐るべき性質により,{TARGET_nameDef}は短期間の昏睡状態に陥りました.</SkipAbductionPlayerCompleteText>
 
+  <!-- EN: Fleshmass response -->
   <FleshmassResponseLabel>肉塊の反応</FleshmassResponseLabel> 
+  <!-- EN: The death of fleshmass has triggered a violent response! The fleshmass shudders as it births new fleshbeasts to defend itself. -->
   <FleshmassResponseText>肉塊の死が暴力的な反応を引き起こしました！肉塊は身震いをし,身を守るために新たなフレッシュビーストを生み出しました.</FleshmassResponseText> 
 
   <!-- Void awakening -->
+  <!-- EN: Dimming sky -->
   <VoidAwakeningStageOneStructuresActivatedLabel>光が消えゆく空</VoidAwakeningStageOneStructuresActivatedLabel>
+  <!-- EN: Structures activated -->
   <VoidAwakeningStageTwoStructuresActivatedLabel>構造体が起動</VoidAwakeningStageTwoStructuresActivatedLabel>
+  <!-- EN: As the second structure is activated, the darkness begins to intensify. An unnatural darkness will soon descend. Make sure your colony is prepared. Stockpile resources, build lights, craft disruptor flares, and reinforce defenses. Only those in the light will be safe.\n\nMore twisted structures will appear soon. -->
   <VoidAwakeningStageOneStructuresActivatedText>2つ目の構造体が起動すると,闇が強まり始めました.やがて不自然な闇が辺りを包むことですので,コロニーの準備を整えましょう.資源を備蓄し,光源を建て,妨害フレアを作り,防備を強化しましょう.光の中だけが安全なのですから.\n\nさらに多くの捻れた構造体が,じきに現れるでしょう.</VoidAwakeningStageOneStructuresActivatedText>
+  <!-- EN: All void structures have been activated. The space around the void monolith has begun to shimmer. Get ready. -->
   <VoidAwakeningStageTwoStructuresActivatedText>すべてのヴォイド構造体が起動しました.ヴォイドモノリスの周囲の空間が揺らぎ始めています.備えましょう.</VoidAwakeningStageTwoStructuresActivatedText> 
+  <!-- EN: {STUDIER_nameDef} teleported -->
   <VoidAwakeningFinalStructuresActivatedLabel>{STUDIER_nameDef}がテレポートしました</VoidAwakeningFinalStructuresActivatedLabel> 
+  <!-- EN: {STUDIER_nameDef} has activated the monolith and been ripped from our spacetime into another place.\n\n{STUDIER_pronoun} finds {STUDIER_objective}self in a room of jagged metallic spikes. Every surface is slick with dark fluid and the air vibrates with power. This metal hell is a connecting channel to an inhuman hyperintelligence. -->
   <VoidAwakeningFinalStructuresActivatedText>モノリスを起動させた{STUDIER_nameDef}は,時空を越えて別の空間へと引きずり込まれました.\n\n{STUDIER_pronoun}は自身がギザギザの金属の棘がある部屋にいることに気が付きました.どの表面にも黒い滑らかな液体が張り付いており,空気は力で振動しています.この金属の地獄は,非人間的な超知性体への接続チャンネルなのです.\n\n{STUDIER_nameDef}は悪夢の如き精神を我々の世界へと流し込むチャンネルであるヴォイドノードを見つけました.それと交信して力を受け入れるか,破壊して完全につながりを断ち切るか.</VoidAwakeningFinalStructuresActivatedText> 
+  <!-- EN: Shambler assault -->
   <VoidAwakeningShamblerArrivalLabel>シャンブラーの攻勢</VoidAwakeningShamblerArrivalLabel>
+  <!-- EN: A horde of shamblers have been attracted by the void structures. Get ready! -->
   <VoidAwakeningShamblerArrivalText>シャンブラーの大群がヴォイド構造体に引き寄せられています.準備をしましょう！</VoidAwakeningShamblerArrivalText>
+  <!-- EN: Fleshbeast tunneling -->
   <VoidAwakeningFleshbeastBurrowLabel>フレッシュビーストの穴掘り</VoidAwakeningFleshbeastBurrowLabel>
+  <!-- EN: The monolith has generated a powerful psychic pulse, attracting nearby entities.\n\nBeneath the ground, you can hear meaty shrieks and scratching claws. Fleshbeasts are tunneling towards you. Get ready! -->
   <VoidAwakeningFleshbeastBurrowText>モノリスは強力なサイキックパルスを放ち,近くの「存在」を引き寄せています.\n\n地面の下からは,肉々しい悲鳴とひっかくような爪の音が聞こえてきます.フレッシュビーストがトンネルを掘って向かってきているのです.備えましょう！</VoidAwakeningFleshbeastBurrowText>
+  <!-- EN: Metalhorror attack -->
   <VoidAwakeningMetalhorrorArrivalLabel>メタルホラーの襲撃</VoidAwakeningMetalhorrorArrivalLabel>
+  <!-- EN: Metalhorrors are appearing near the void monolith. Get ready! -->
   <VoidAwakeningMetalhorrorArrivalText>メタルホラーがヴォイドモノリスの近くに出現します.備えましょう！</VoidAwakeningMetalhorrorArrivalText>
+  <!-- EN: Entity attack -->
   <VoidAwakeningEntityArrivalLabel>「存在」の攻撃</VoidAwakeningEntityArrivalLabel> 
+  <!-- EN: The activated void structure has generated a twisted psychic pulse, attracting nearby entities. Get ready! -->
   <VoidAwakeningEntityArrivalText>起動したヴォイド構造体が捻れたサイキックパルスを放ち,近くの「存在」を引き寄せています.備えましょう！</VoidAwakeningEntityArrivalText>
+  <!-- EN: Embrace the void -->
   <VoidAwakeningBreadcrumbLetterLabel>ヴォイドを受け入れよ</VoidAwakeningBreadcrumbLetterLabel>
+  <!-- EN: While interacting with the void structure, {PAWN_nameDef} saw a vision of the void. For a moment {PAWN_pronoun} swam the black ocean of infinite depth and felt its endless inhuman power.\n\n{PAWN_nameDef} thinks there may be a way to control that power by embracing the void. If you were to permanently open the conduit to the void, rather than shutting it down, it could offer untold possibilities. -->
   <VoidAwakeningBreadcrumbLetterText>ヴォイド構造体に関わっている間に,{PAWN_nameDef}はヴォイドの光景を目の当たりにしました.暫くの間,{PAWN_pronoun}は果てしない深さの黒い海を泳いでおり,そこからは無限の非人間的な力を感じました.\n\n{PAWN_nameDef}はヴォイドを受け入れることでその力を制御できるかもしれないと考えています.もしヴォイドへの導管を閉じるのではなく,永久的につなぐことができれば,計り知れない可能性が生み出されるでしょう.</VoidAwakeningBreadcrumbLetterText>
 
   <!-- Void node -->
+  <!-- EN: {PAWN_nameDef} returns -->
   <VoidNodeReturnedLabel>{PAWN_nameDef}の帰還</VoidNodeReturnedLabel>
+  <!-- EN: {PAWN_nameDef} has reappeared. -->
   <VoidNodeReturnedMessage>{PAWN_nameDef}が再出現しました.</VoidNodeReturnedMessage>
+  <!-- EN: {PAWN_nameDef} has reappeared.\n\n{PAWN_pronoun} looks withered by the inhuman thought-patterns of the void. All traces of humanity have left {PAWN_possessive} eyes.\n\n{PAWN_nameDef}'s mind and body are now permanently linked to the dark void of inhuman rage. Powered by this new connection, {PAWN_nameDef} no longer feels tethered to mortal needs like comfort or sleep. {PAWN_pronoun} has gained the ability to induce terror in others using the power of the void.\n\nThe monolith is awakened. It hums louder with {PAWN_nameDef}'s reappearance, a reminder that its connection to the void has been opened and made permanent. -->
   <EmbracedVoidText>{PAWN_nameDef}が再出現しました.\n\n{PAWN_pronoun}はヴォイドの非人間的な思考パターンにより枯れ果ててしまったように見えます.{PAWN_possessive}目からは,人間的な痕跡の一切が失われています.\n\n{PAWN_nameDef}の精神と肉体は今や,非人間的な怒りの暗きヴォイドと永久に繋がっているのです.この新たなつながりから力を得た{PAWN_nameDef}は,もはや食事や睡眠と行った人間的欲求の必要性も感じていません.{PAWN_pronoun}はヴォイドの力を活用することで,他者に恐怖を流し込む力を得たのです.\n\nモノリスは目覚めました.{PAWN_nameDef}の再出現とともに大きなうなりをあげ,ヴォイドとのつながりが開かれ,永遠のものとなったことをしらしめるのです.</EmbracedVoidText>
+  <!-- EN: {PAWN_nameDef} has reappeared. {PAWN_pronoun} is weary from {PAWN_possessive} efforts, but otherwise healthy.\n\nBy closing the channel to the void, {PAWN_nameDef} has stopped any more unnatural phenomena from entering our world. Hostile entities in the area have all fallen to the ground, lifeless.\n\nTales of {PAWN_possessive} heroism are sure to spread far and wide. -->
   <DisruptedLinkText>{PAWN_nameDef}が再出現しました.{PAWN_pronoun}はその努力により疲れ切ってはいますが,健康ではあるようです.\n\nヴォイドへのチャンネルを閉じることで,{PAWN_nameDef}は我々の世界でのこれ以上の不自然な現象のハッセを阻止しました.この一帯の敵対的な「存在」は地に落ち,生命を失いました.\n\n{PAWN_possessive}英雄譚は,広く知られることとなるでしょう.</DisruptedLinkText>
+  <!-- EN: fleshcrafting -->
   <RewardFleshcraftingAbility>肉体造り</RewardFleshcraftingAbility>
+  <!-- EN: slaughter -->
   <RewardSlaughterAbility>屠殺</RewardSlaughterAbility>
+  <!-- EN: shambler control -->
   <RewardShamblerControlAbility>シャンブラーの制御</RewardShamblerControlAbility>
 
   <!-- Duplicate sickness -->
+  <!-- EN: Duplicate sickness -->
   <DuplicateSicknessLabel>複製病</DuplicateSicknessLabel>
+  <!-- EN: Both {0_nameDef} and {0_possessive} duplicate are feeling unwell. Their condition seems to be related to the duplication process and is worsening. The psychic connection that binds them is causing them to slowly lose consciousness. The condition won't get better until one of them dies. -->
   <DuplicateSicknessText>{0_nameDef}と{0_possessive}複製の双方の体調がすぐれないようです.2人の体調は複製プロセスに関連しているようで,悪化の一途を辿っています.2人を結びつけている精神的なつながりが,その意識を徐々に失わせているようです.症状はどちらかが死ぬまで改善しないでしょう.</DuplicateSicknessText>
 
   <!-- Frenzied animals -->
+  <!-- EN: Frenzied animals -->
   <FrenziedAnimalsLabel>狂乱する動物</FrenziedAnimalsLabel>
+  <!-- EN: A pack of man-hunting {0} have entered the area! They've been attracted by your ritual. They will roam the region hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out or fight them. -->
   <FrenziedAnimalsText>{0}のヒト狩り集団が,やって来ました！やつらは,あなたの儀式によって狂気に駆られています.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また電源の入っていないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,1～2日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</FrenziedAnimalsText>
 
   <!-- Ghouls -->
+  <!-- EN: Ghoul betrayal -->
   <GhoulBetrayalLabel>グールの裏切り</GhoulBetrayalLabel>
+  <!-- EN: {PAWN_nameDef} has been driven mad by {PAWN_possessive} ravenous hunger for raw meat! -->
   <GhoulBetrayalText>{PAWN_nameDef}は生肉への恐ろしいほどの欲求で狂いました！</GhoulBetrayalText>
   
   <!-- Distress signal -->
+  <!-- EN: Distress signal -->
   <DistressSignalLabel>救難信号</DistressSignalLabel>
+  <!-- EN: You've intercepted a distress signal from a nearby camp of {FACTION_name}.\n\nThe frantic voice begs for immediate assistance defending against a threat. They offer everything at their camp in return for help, including shards of powerful archotechnology.\n\nAs the voice tries to explain the nature of the threat, the signal goes dead. -->
   <DistressSignalText>近くの{FACTION_name}のキャンプからの救難信号を傍受しました.\n\n必死な越えが,脅威から身を守るために即時の援助を懇願しています.彼らは援助の見返りとして,強力なアルコテクノロジーの破片など,キャンプにあるすべてのものを提供するそうです.\n\n声は脅威の性質について説明しようとしたところで,信号は途絶えました.</DistressSignalText>
+  <!-- EN: Ambush -->
   <DistressSignalAmbushLabel>待ち伏せ</DistressSignalAmbushLabel>
+  <!-- EN: Fleshbeasts are emerging from a nearby pit burrow! -->
   <DistressSignalAmbushText>近くの竪穴からフレッシュビーストが出現します！</DistressSignalAmbushText>
 
   <!-- Chimeras -->
+  <!-- EN: Chimeras approach -->
   <ChimeraAssaultLabel>キメラの接近</ChimeraAssaultLabel>
+  <!-- EN: A group of twisted animal-like chimera monsters have appeared nearby.\n\nThe misshapen beasts will watch your colony, waiting for an opportunity to attack. They are skittish and may retaliate if provoked. -->
   <ChimeraAssaultText>付近に,歪んだ動物のようなキメラの集団が出現しました.\n\n不格好な獣たちはあなたのコロニーを監視し,襲撃する機会を伺っています.キメラたちは神経質で,挑発すると報復してくる可能性があります.</ChimeraAssaultText>
 
   <!-- Unnatural darkness -->
+  <!-- EN: Darkness lifting -->
   <DarknessLiftingEarlyLetterLabel>闇の消失</DarknessLiftingEarlyLetterLabel>
+  <!-- EN: The last of the nightmarish pillars has collapsed. The unnatural darkness has begun to dissipate. Colonists breathe a sigh of relief in the clear air. -->
   <DarknessLiftingEarlyLetterText>悪夢のような柱が崩落しました.不自然な闇が消滅し始めました.清浄な空気の中で,入植者たちは安堵のため息をつきます.</DarknessLiftingEarlyLetterText>
+  <!-- EN: {0_nameDef} attacked -->
   <PawnAttackedInDarknessLabel>{0_nameDef}が攻撃された</PawnAttackedInDarknessLabel>
+  <!-- EN: Something in the darkness has attacked {0_nameDef}!\n\nThese attacks will continue until {0_pronoun} is safely in the light. -->
   <PawnAttackedInDarknessText>暗闇の中の何かが{0_nameDef}を攻撃しました！\n\nこの攻撃は,{0_pronoun}が光の中へ避難するまで続くでしょう.</PawnAttackedInDarknessText>
+  <!-- EN: Noctol attack -->
   <NoctolAttackLetterLabel>ノクトルの攻撃</NoctolAttackLetterLabel>
+  <!-- EN: The darkness has begun to stir. Inhuman chittering sounds emerge from somewhere within the inky black.\n\nBlack, insect-like noctols will attack from the darkness soon. -->
   <NoctolAttackLetterText>闇が蠢き始めました.真っ黒な闇の中のどこからか,人間のものとは思えない震えるような音が聞こえてきます.\n\n黒く,昆虫のようなノクトルが,間もなく闇の中から攻撃してくるでしょう.</NoctolAttackLetterText>
+  <!-- EN: Darkness soon -->
   <DarknessWarningLetterLabel>迫る闇</DarknessWarningLetterLabel>
+  <!-- EN: The darkness is almost here. Only those in direct light from lamps, torches, or flares will be safe.\n\nTo keep colonists in the light, you can restrict their movement in the SCHEDULE tab by assigning allowed areas. -->
   <DarknessWarningLetterText>闇はもうすぐそこまで迫っています.ランプや松明,フレアなどで直接照らされている者だけが安全でいられます.\n\n入植者を光の中にとどまらせるために,スケジュールタブから制限ゾーンを割り当てることで,移動を制限できます.</DarknessWarningLetterText>
+  <!-- EN: Darkness wavering -->
   <DarknessWaveringLetterLabel>闇のゆらめき</DarknessWaveringLetterLabel>
+  <!-- EN: With the destruction of the noctolith, a faint crack appears in the darkness, before being filled with more of the sooty black.\n\nDestroy the remaining noctoliths to end the unnatural darkness. -->
   <DarknessWaveringLetterText>ノクトリスの破壊により,煤のような闇に覆われてしまう前に,かすかな亀裂が入りました.\n\n残りのノクトリスを破壊して,不自然な闇を終わらせましょう.</DarknessWaveringLetterText>
 
   <!-- Shambler Swarms -->
+  <!-- EN: Shamblers approach -->
   <LetterLabelShamblerSwarmArrived>シャンブラーの接近</LetterLabelShamblerSwarmArrived>
+  <!-- EN: Shambler approaches -->
   <LetterLabelShamblerArrived>シャンブラーが接近しています</LetterLabelShamblerArrived>
+  <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
   <LetterShamblerSwarmArrived>{0}体のよろめき歩く,腐った遺体の集団が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
+  <!-- EN: A shambling, rotting corpse is approaching. Some inhuman force has reanimated this lifeless body and set it to murder.\n\nIt will now wander through the area. If it sees a human, it will attack. If not, it will leave in a few days.\n\nIf you can capture it, you can study it for anomaly knowledge. -->
   <LetterShamblerArrived>よろめき歩く,腐った遺体が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nこのシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
+  <!-- EN: {ANIMALKIND_label} shamblers -->
   <LetterLabelShamblerAnimalsArrived>{0}体のシャンブラー</LetterLabelShamblerAnimalsArrived>
+  <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
   <LetterShamblerAnimalsArrived>{0}体のよろめき歩く,腐った遺体の集団が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
 
   <!-- Ghoul pod crash -->
+  <!-- EN: Transport pod crash -->
   <GhoulPodCrashLabel>輸送ポッド事故</GhoulPodCrashLabel>
+  <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
   <GhoulPodCrashText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃するっでしょう.捕獲して収容プラットフォームに入れることで,さらに研究することもできます.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashText>
+  <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby. On closer inspection, it appears to be {PAWN_nameDef}, a previous member of your crew.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
   <GhoulPodCrashStartingPawnText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.しっかりと調べてみると,その姿は以前のクルーである{PAWN_nameDef}のようです.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃するっでしょう.捕獲して収容プラットフォームに入れることで,さらに研究することもできます.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashStartingPawnText>
 
   <!-- Entity codex -->
+  <!-- EN: New research available -->
   <LetterLabelEntityDiscovery>新しい研究が利用可能</LetterLabelEntityDiscovery>
+  <!-- EN: Your discovery of {ENTITY_definite} has yielded new insights. You can now research the following Anomaly projects -->
   <LetterTextEntityDiscoveryResearch>あなたの{ENTITY_definite}の発見は,新たな洞察をもたらしました.以下のアノマリー計画を研究できるようになりました.</LetterTextEntityDiscoveryResearch>
 
   <!-- Nociosphere -->
+  <!-- EN: Nociosphere defeated -->
   <NociosphereDefeatedLabel>ノチオスフィアを撃破</NociosphereDefeatedLabel>
+  <!-- EN: The nociosphere has been destroyed, leaving behind a number of valuable resources. -->
   <NociosphereDefeatedText>ノチオスフィアが破壊され,貴重な資源を大量に残しました.</NociosphereDefeatedText>
+  <!-- EN: Nociosphere destabilising -->
   <NociosphereBecomingUnstableLabel>ノチオスフィアの不安定化</NociosphereBecomingUnstableLabel> 
+  <!-- EN: The nociosphere’s energy pattern has begun to shift and adapt. Within 10 days, it will no longer respond to suppression.\n\nThe nociosphere will activate if not suppressed. -->
   <NociosphereBecomingUnstableText>ノクチオスフィアのエネルギーパターンが変化,適応を始めました.10日以内に,抑制できなくなるでしょう.\n\nノクチオスフィアは抑制されないと活性化します.</NociosphereBecomingUnstableText> 
+  <!-- EN: Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart. -->
   <NociosphereBecomingUnstableTextExtraSendable>敵対する脅威を攻撃するためにノクチオスフィアを送り込み,ダメージを与えます.一度送り込まれたノクチオスフィアは,短時間,あらゆる生物を攻撃します.</NociosphereBecomingUnstableTextExtraSendable>
+  <!-- EN: Study the nociosphere to find a way to dispose of it. -->
   <NociosphereBecomingUnstableTextExtraNotSendable>ノクチオスフィアを研究し,処分する方法を見つける.</NociosphereBecomingUnstableTextExtraNotSendable>
+  <!-- EN: Nociosphere unstable -->
   <NociosphereUnstableLabel>不安定なノクチオスフィア</NociosphereUnstableLabel>
+  <!-- EN: The nociosphere has become unstable and is no longer responding to suppression. When its activity reaches 100%, it will awaken. -->
   <NociosphereUnstableText>ノチスフィアが不安定になり,抑制に反応しなくなりました.活動率が100%に達すると覚醒します.</NociosphereUnstableText>
+  <!-- EN: Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart. -->
   <NociosphereUnstableTextExtraSendable>敵対する大軍勢の攻撃にノクチオスフィアを送り込んで処分します.その猛攻撃が完了すると,永久に消滅するでしょう.</NociosphereUnstableTextExtraSendable> 
-  <NociosphereUnstableTextExtraNotSendable>ノクチオスフィアの猛攻に備えます.</NociosphereUnstableTextExtraNotSendable>>
+  <!-- EN: Prepare for the nociosphere’s onslaught. -->
+  <NociosphereUnstableTextExtraNotSendable>ノクチオスフィアの猛攻に備えます.</NociosphereUnstableTextExtraNotSendable>
 
+  <!-- EN: Strange corpse -->
   <UnnaturalCorpseArrivalLabel>奇妙な遺体</UnnaturalCorpseArrivalLabel>
+  <!-- EN: An unnatural human corpse has appeared, as if out of thin air.\n\nOn further inspection, the corpse looks identical to {PAWN_nameDef}. Its skin feels waxy and warm to the touch.\n\nStudy the corpse to learn more about it. -->
   <UnnaturalCorpseArrivalText>まるで宙空から出現したかの如く,不自然な人間の遺体が出現しました.\n\nよく見ると,その遺体は{PAWN_nameDef}と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.\n\n遺体を研究することで,さらに詳しくわかります.</UnnaturalCorpseArrivalText>
 
+  <!-- EN: Golden cube -->
   <GoldenCubeArrivalLabel>黄金のキューブ</GoldenCubeArrivalLabel>
+  <!-- EN: A strange cube has landed nearby. It shines like gold but is impossible to scratch. It's light and warm to the touch. The way light plays across its surface is captivating.\n\n{PAWN_nameDef} feels inexplicably drawn to the cube.\n\nStudy the cube to learn more about it. -->
   <GoldenCubeArrivalText>奇妙なキューブが近くに墜落しました.黄金のように輝いていますが,傷をつけることはできません.触れると軽くてあたたかくなっています.その見目麗しい表面には光が戯れ,目を楽しませてくれます.\n\n{PAWN_nameDef}はそのキューブに不可解な魅力を感じているようです.\n\nキューブを研究することで,さらに詳しくわかります.</GoldenCubeArrivalText>
 
+  <!-- EN: Void curiosity -->
   <VoidCuriosityLabel>ヴォイドの好奇</VoidCuriosityLabel>
+  <!-- EN: {PAWN_nameDef} has begun to fixate on the void, and wishes to investigate it using the void provocation ritual.\n\nUse the void provocation ritual to discover and capture entities. Captured entities can be studied to complete Anomaly research projects, or connected to a bioferrite harvester to generate bioferrite.\n\nPlace a psychic ritual spot to perform the void provocation ritual. -->
   <VoidCuriosityText_Researched>{PAWN_nameDef}はヴォイドに執着し始め,ヴォイド喚起の儀式を行ってその調査を行いたいようです.\n\nヴォイド喚起の儀式を行うことで,「存在」を見つけ出して捕獲できます.捕獲した「存在」を研究することで,アノマリー研究計画を完成させたり,バイオフェライトハーベスターにつないでバイオフェライトを収集することができます.\n\nヴォイド喚起の儀式を行うには,サイキック儀式の場を配置しましょう.</VoidCuriosityText_Researched>
-  <VoidCuriosityText_NotResearched>{PAWN_nameDef}はヴォイドに執着し始め,ヴォイド喚起の儀式を行ってその調査を行いたいようです.\n\nヴォイド喚起の儀式を行うことで,「存在」を見つけ出して捕獲できます.捕獲した「存在」を研究することで,アノマリー研究計画を完成させたり,バイオフェライトハーベスターにつないでバイオフェライトを収集することができます.\n\nヴォイド喚起の儀式を行うには,ヴォイド喚起を研究し.サイキック儀式の場を配置しましょう.</VoidCuriosityText_NotResearched>\n\n</LanguageData>
+  <!-- EN: {PAWN_nameDef} has begun to fixate on the void, and wishes to investigate it using the void provocation ritual.\n\nUse the void provocation ritual to discover and capture entities. Captured entities can be studied to complete Anomaly research projects, or connected to a bioferrite harvester to generate bioferrite.\n\nResearch void provocation, then place a psychic ritual spot to perform the ritual. -->
+  <VoidCuriosityText_NotResearched>{PAWN_nameDef}はヴォイドに執着し始め,ヴォイド喚起の儀式を行ってその調査を行いたいようです.\n\nヴォイド喚起の儀式を行うことで,「存在」を見つけ出して捕獲できます.捕獲した「存在」を研究することで,アノマリー研究計画を完成させたり,バイオフェライトハーベスターにつないでバイオフェライトを収集することができます.\n\nヴォイド喚起の儀式を行うには,ヴォイド喚起を研究し.サイキック儀式の場を配置しましょう.</VoidCuriosityText_NotResearched>
+
+</LanguageData>

@@ -3,7 +3,7 @@
   
   <!-- EN: atmospheric heater -->
   <AtmosphericHeater.label>大気ヒーター</AtmosphericHeater.label>
-  <!-- EN: A thermal projection device powered by a scavenged shard of dark archotechnology. The device burns bioferrite to agitate gas molecules in the atmosphere, raising the local outdoor temperature. The building itself also produces huge amounts of waste heat. -->
+  <!-- EN: A thermal projection device powered by scavenged shards of dark archotechnology. The device burns bioferrite to agitate gas molecules in the atmosphere, raising the local outdoor temperature. The building itself also produces huge amounts of waste heat. -->
   <AtmosphericHeater.description>闇のアルコテクノロジーの破片を回収し,それを動力源とする熱投射装置.バイオフェライトを燃焼させて大気中のガス分子を撹拌し,屋外の周辺温度を上昇させます.この建物そのものも大量の廃熱を発生させます.</AtmosphericHeater.description>
   <!-- EN: Target outdoor temperature -->
   <AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>目標屋外温度</AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>
