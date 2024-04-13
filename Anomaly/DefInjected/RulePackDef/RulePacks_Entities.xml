@@ -5,42 +5,42 @@
     <li>r_logentry->[INITIATOR_definite] leaped onto [SUBJECT_definite] and began digesting [SUBJECT_objective].</li>
   -->
   <Event_DevourerConsumeLeap.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]に飛び乗って[SUBJECT_objective]を消化し始めた。</li>
+    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]に飛び乗って[SUBJECT_objective]を消化し始めた.</li>
   </Event_DevourerConsumeLeap.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] vomited [SUBJECT_definite] up.</li>
   -->
   <Event_DevourerDigestionAborted.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]を吐き出した。</li>
+    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]を吐き出した.</li>
   </Event_DevourerDigestionAborted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] digested [SUBJECT_definite].</li>
   -->
   <Event_DevourerDigestionCompleted.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]を消化した。</li>
+    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]を消化した.</li>
   </Event_DevourerDigestionCompleted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] put [SUBJECT_definite] into a trance.</li>
   -->
   <Event_Hypnotized.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]をトランス状態にした。</li>
+    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]をトランス状態にした.</li>
   </Event_Hypnotized.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] emerged from [SUBJECT_definite].</li>
   -->
   <Event_MetalhorrorEmerged.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]が[SUBJECT_definite]から出てきた。</li>
+    <li>r_logentry->[INITIATOR_definite]が[SUBJECT_definite]から出てきた.</li>
   </Event_MetalhorrorEmerged.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] psychically incinerated [SUBJECT_definite]'s brain.</li>
   -->
   <Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]の脳を焼却処分した。</li>
+    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]の脳を焼却処分した.</li>
   </Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
   
   <!-- EN:

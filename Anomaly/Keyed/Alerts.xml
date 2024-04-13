@@ -18,7 +18,7 @@
   <Alert_UndercaveUnstableDesc>地底洞窟が不安定になり,間もなく崩落します.\n\n手遅れになる前に入植者を外に出しましょう.</Alert_UndercaveUnstableDesc>
 
   <Alert_CultistPsychicRitual>崇拝者のサイキック儀式</Alert_CultistPsychicRitual>
-  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef}の{INVOKER_nameDef}が{RITUAL_definite}の儀式を始めました.{INVOKER_objective}を妨害しない場合,悲惨な結果を招くかもしれません.</Alert_CultistPsychicRitualDesc>
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef}の{INVOKER_nameDef}が{RITUAL_definite}の儀式を始めました.{INVOKER_objective}妨害しない場合,悲惨な結果を招くかもしれません.</Alert_CultistPsychicRitualDesc>
 
   <AlertMeatHunger>グールの飢え</AlertMeatHunger>
   <AlertMeatHungerDesc>グールが生肉に飢えています</AlertMeatHungerDesc>
@@ -46,7 +46,7 @@
   <AlertInhibitorBlockedDesc>電動インヒビターの1つが,他の建物妨げられて機能していません.\n\n電動インヒビターの正面のスペースを空けましょう.</AlertInhibitorBlockedDesc>
 
   <EntityNeedsTreatment>存在の治療が必要</EntityNeedsTreatment>
-  <EntityNeedsTreatmentDesc>これらの存在は治療が必要です.さもなければ、捕われのまま死んでしまうかもしれません.\n{0}\n\n医者を派遣して治療しましょう.</EntityNeedsTreatmentDesc>
+  <EntityNeedsTreatmentDesc>これらの存在は治療が必要です.さもなければ,捕われのまま死んでしまうかもしれません.\n{0}\n\n医者を派遣して治療しましょう.</EntityNeedsTreatmentDesc>
 
   <AlertGhoulHypothermia>グールの低体温症</AlertGhoulHypothermia>
   <AlertGhoulHypothermiaDesc>これらのグールが低体温症に苦しんでいます：\n{0}\n\n温度の高い場所へ移動させましょう.</AlertGhoulHypothermiaDesc>\n\n</LanguageData>

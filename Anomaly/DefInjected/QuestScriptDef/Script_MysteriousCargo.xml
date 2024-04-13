@@ -18,8 +18,8 @@
   -->
   <MysteriousCargoCube.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->匿名のAIが奇妙な依頼をしてきました.そのAIは,ある謎の荷物を受け取ってほしいといいます.その荷物に関するあなたの質問はすべてかわされました.\n\n受領すれば,輸送ポッドで謎の荷物が届けられます.</li>
-    <li>[asker_faction_name]のquestDescription(asker_factionLeader==true)->[asker_faction_leaderTitle][asker_nameFull]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]の声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
-    <li>[asker_faction_name]のquestDescription(asker_royalInCurrentFaction==true)->[asker_nameFull][asker_royalTitleInCurrentFaction]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]の声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
+    <li>[asker_faction_name]のquestDescription(asker_factionLeader==true)->[asker_faction_leaderTitle][asker_nameFull]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
+    <li>[asker_faction_name]のquestDescription(asker_royalInCurrentFaction==true)->[asker_nameFull][asker_royalTitleInCurrentFaction]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
   </MysteriousCargoCube.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Mysterious cargo</li>
@@ -43,8 +43,8 @@
   -->
   <MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->匿名のAIが奇妙な依頼をしてきました.そのAIは,ある謎の荷物を受け取ってほしいといいます.その荷物に関するあなたの質問はすべてかわされました.\n\n受領すれば,輸送ポッドで謎の荷物が届けられます.</li>
-    <li>[asker_faction_name]のquestDescription(asker_factionLeader==true)->[asker_faction_leaderTitle][asker_nameFull]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]の声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
-    <li>[asker_faction_name]のquestDescription(asker_royalInCurrentFaction==true)->[asker_nameFull][asker_royalTitleInCurrentFaction]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]の声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
+    <li>[asker_faction_name]のquestDescription(asker_factionLeader==true)->[asker_faction_leaderTitle][asker_nameFull]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
+    <li>[asker_faction_name]のquestDescription(asker_royalInCurrentFaction==true)->[asker_nameFull][asker_royalTitleInCurrentFaction]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
   </MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Mysterious cargo</li>
@@ -70,8 +70,8 @@
   -->
   <MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->匿名のAIが奇妙な依頼をしてきました.そのAIは,ある謎の荷物を受け取ってほしいといいます.その荷物に関するあなたの質問はすべてかわされました.\n\n受領すれば,輸送ポッドで謎の荷物が届けられます.</li>
-    <li>[asker_faction_name]のquestDescription(asker_factionLeader==true)->[asker_faction_leaderTitle][asker_nameFull]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]の声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
-    <li>[asker_faction_name]のquestDescription(asker_royalInCurrentFaction==true)->[asker_nameFull][asker_royalTitleInCurrentFaction]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]の声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
+    <li>[asker_faction_name]のquestDescription(asker_factionLeader==true)->[asker_faction_leaderTitle][asker_nameFull]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
+    <li>[asker_faction_name]のquestDescription(asker_royalInCurrentFaction==true)->[asker_nameFull][asker_royalTitleInCurrentFaction]が奇妙な依頼をしてきました.[asker_pronoun]は,ある謎の荷物を受け取ってほしいといいます.詳細を問いただすも,[asker_pronoun]は質問をはぐらかしました.[asker_possessive]声には必死さがにじんでいます.\n\n受領すれば,[asker_nameFull]が輸送ポッドで謎の荷物が届けます.</li>
   </MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Mysterious cargo</li>

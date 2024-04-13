@@ -18,7 +18,7 @@
   <VoidProvocationCompletedText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,「存在」を引き寄せる精神パルスを発信しています.</VoidProvocationCompletedText>
   <VoidProvocationSucceeded>次に来るものに備えましょう.</VoidProvocationSucceeded>
   <VoidProvocationFailed>残念ながら,あなたの呼びかけに応えるものはありませんでした.</VoidProvocationFailed>
-  <VoidProvocationDarkPsychicShock>その過程で,{INVOKER_nameDef}は人知を超えた恐ろしい何かを垣間見ました.その精神の暗闇は{INVOKER_objective}に衝撃を与え,短時間の昏睡状態に陥らせました.</VoidProvocationDarkPsychicShock>
+  <VoidProvocationDarkPsychicShock>その過程で,{INVOKER_nameDef}は人知を超えた恐ろしい何かを垣間見ました.その精神の暗闇は{INVOKER_pronoun}に衝撃を与え,短時間の昏睡状態に陥らせました.</VoidProvocationDarkPsychicShock>
   <PhilophagyCompleteText>{INVOKER_nameDef}は,{TARGET_nameDef}のスキルと記憶を吸収する,{RITUAL_definite}の儀式を終えました.</PhilophagyCompleteText>
   <PawnGainedXPInSkill>{0_nameDef}は{2_label}のXPを{1}得ました</PawnGainedXPInSkill>
   <PawnLostXPInSkill>{0_nameDef}は{2_label}のXPを{1}失いました</PawnLostXPInSkill>
@@ -27,7 +27,7 @@
   <PhilophagySkillLevelRemains>スキルレベルが{0}から変動しませんでした.</PhilophagySkillLevelRemains>
   <PhilophagyDamagedTarget>このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PhilophagyDamagedTarget>
 
-  <ImbueDeathRefuralCompleteText>{0_nameDef}は死を拒む者となりました.{0_pronoun}は死亡後に自己蘇生できるようになります.\n\nこのプロセスは{0_nameDef}の脳を萎縮させ,{0_objective}の{0_possessive}スキルのXPを合計{1}失ってしまいます.</ImbueDeathRefuralCompleteText>
+  <ImbueDeathRefuralCompleteText>{0_nameDef}は死を拒む者となりました.{0_pronoun}は死亡後に自己蘇生できるようになります.\n\nこのプロセスは{0_nameDef}の脳を萎縮させ,{0_pronoun}の{0_possessive}スキルのXPを合計{1}失ってしまいます.</ImbueDeathRefuralCompleteText>
 
   <SummonAnimalsSuccessText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.まもなく動物の群れがやってくるでしょう.</SummonAnimalsSuccessText>
   <SummonAnimalsFailureText>{0_nameDef}は{RITUAL_definite}の儀式を終えましたが,何かが大きく間違っているようです！儀式は動物を狂わせました.あなたの方へ,人を狙う動物がやってきます！</SummonAnimalsFailureText>
@@ -58,11 +58,11 @@
   <PsychophagyCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,{TARGET_nameDef}のサイキック存在を食い尽くしました.</PsychophagyCompleteText>
   <PsychophagyTargetSurvived>{TARGET_nameDef}は精神的無反応になっています.このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PsychophagyTargetSurvived>
   
-  <PsychicRitualTargetBrainLiquified>このプロセスは{TARGET_nameDef}の脳を液状化させ,{TARGET_objective}を殺します.</PsychicRitualTargetBrainLiquified>
+  <PsychicRitualTargetBrainLiquified>このプロセスは{TARGET_nameDef}の脳を液状化させ,{TARGET_objective}殺します.</PsychicRitualTargetBrainLiquified>
 
   <SummonFleshbeastsPlayerCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.フレッシュビーストが地面から出現します！</SummonFleshbeastsPlayerCompleteText>
 
-  <GhoulInfusionCompleteText>{INVOKER_nameDef}は{TARGET_nameDef}へのバイオフェライト注入を終えました.儀式は{TARGET_nameDef}の精神を捻じ曲げ,{TARGET_possessive}の肉体を変異させ,グールという名で知られる恐るべき生物を作り出しました.{INVOKER_nameDef}は{TARGET_nameDef}とサイキックリンクを共有しており,{TARGET_nameDef}を制御することができます.\n\nグールは生き延びるために生肉を食べます.空腹になると,敵対する可能性があります.</GhoulInfusionCompleteText>
+  <GhoulInfusionCompleteText>{INVOKER_nameDef}は{TARGET_nameDef}へのバイオフェライト注入を終えました.儀式は{TARGET_nameDef}の精神を捻じ曲げ,{TARGET_possessive}肉体を変異させ,グールという名で知られる恐るべき生物を作り出しました.{INVOKER_nameDef}は{TARGET_nameDef}とサイキックリンクを共有しており,{TARGET_nameDef}を制御することができます.\n\nグールは生き延びるために生肉を食べます.空腹になると,敵対する可能性があります.</GhoulInfusionCompleteText>
   
   <AttackersMayCastRitualMultipleTimes>彼らは儀式を何度も行うかもしれません.止めなければなりません.</AttackersMayCastRitualMultipleTimes>
 
@@ -85,22 +85,22 @@
   <VoidAwakeningMetalhorrorArrivalLabel>メタルホラーの襲撃</VoidAwakeningMetalhorrorArrivalLabel>
   <VoidAwakeningMetalhorrorArrivalText>メタルホラーがヴォイドモノリスの近くに出現します.備えましょう！</VoidAwakeningMetalhorrorArrivalText>
   <VoidAwakeningEntityArrivalLabel>「存在」の攻撃</VoidAwakeningEntityArrivalLabel> 
-  <VoidAwakeningEntityArrivalText>起動したヴォイド構造体が捻れたサイキックパルスを放ち、近くの「存在」を引き寄せています.備えましょう！</VoidAwakeningEntityArrivalText>
+  <VoidAwakeningEntityArrivalText>起動したヴォイド構造体が捻れたサイキックパルスを放ち,近くの「存在」を引き寄せています.備えましょう！</VoidAwakeningEntityArrivalText>
   <VoidAwakeningBreadcrumbLetterLabel>ヴォイドを受け入れよ</VoidAwakeningBreadcrumbLetterLabel>
   <VoidAwakeningBreadcrumbLetterText>ヴォイド構造体に関わっている間に,{PAWN_nameDef}はヴォイドの光景を目の当たりにしました.暫くの間,{PAWN_pronoun}は果てしない深さの黒い海を泳いでおり,そこからは無限の非人間的な力を感じました.\n\n{PAWN_nameDef}はヴォイドを受け入れることでその力を制御できるかもしれないと考えています.もしヴォイドへの導管を閉じるのではなく,永久的につなぐことができれば,計り知れない可能性が生み出されるでしょう.</VoidAwakeningBreadcrumbLetterText>
 
   <!-- Void node -->
   <VoidNodeReturnedLabel>{PAWN_nameDef}の帰還</VoidNodeReturnedLabel>
   <VoidNodeReturnedMessage>{PAWN_nameDef}が再出現しました.</VoidNodeReturnedMessage>
-  <EmbracedVoidText>{PAWN_nameDef}が再出現しました.\n\n{PAWN_pronoun}はヴォイドの非人間的な思考パターンにより枯れ果ててしまったように見えます.{PAWN_possessive}の目からは,人間的な痕跡の一切が失われています.\n\n{PAWN_nameDef}の精神と肉体は今や,非人間的な怒りの暗きヴォイドと永久に繋がっているのです.この新たなつながりから力を得た{PAWN_nameDef}は,もはや食事や睡眠と行った人間的欲求の必要性も感じていません.{PAWN_pronoun}はヴォイドの力を活用することで,他者に恐怖を流し込む力を得たのです.\n\nモノリスは目覚めました.{PAWN_nameDef}の再出現とともに大きなうなりをあげ,ヴォイドとのつながりが開かれ,永遠のものとなったことをしらしめるのです.</EmbracedVoidText>
-  <DisruptedLinkText>{PAWN_nameDef}が再出現しました.{PAWN_pronoun}はその努力により疲れ切ってはいますが,健康ではあるようです.\n\nヴォイドへのチャンネルを閉じることで,{PAWN_nameDef}は我々の世界でのこれ以上の不自然な現象のハッセを阻止しました.この一帯の敵対的な「存在」は地に落ち、生命を失いました.\n\n{PAWN_possessive}の英雄譚は,広く知られることとなるでしょう.</DisruptedLinkText>
+  <EmbracedVoidText>{PAWN_nameDef}が再出現しました.\n\n{PAWN_pronoun}はヴォイドの非人間的な思考パターンにより枯れ果ててしまったように見えます.{PAWN_possessive}目からは,人間的な痕跡の一切が失われています.\n\n{PAWN_nameDef}の精神と肉体は今や,非人間的な怒りの暗きヴォイドと永久に繋がっているのです.この新たなつながりから力を得た{PAWN_nameDef}は,もはや食事や睡眠と行った人間的欲求の必要性も感じていません.{PAWN_pronoun}はヴォイドの力を活用することで,他者に恐怖を流し込む力を得たのです.\n\nモノリスは目覚めました.{PAWN_nameDef}の再出現とともに大きなうなりをあげ,ヴォイドとのつながりが開かれ,永遠のものとなったことをしらしめるのです.</EmbracedVoidText>
+  <DisruptedLinkText>{PAWN_nameDef}が再出現しました.{PAWN_pronoun}はその努力により疲れ切ってはいますが,健康ではあるようです.\n\nヴォイドへのチャンネルを閉じることで,{PAWN_nameDef}は我々の世界でのこれ以上の不自然な現象のハッセを阻止しました.この一帯の敵対的な「存在」は地に落ち,生命を失いました.\n\n{PAWN_possessive}英雄譚は,広く知られることとなるでしょう.</DisruptedLinkText>
   <RewardFleshcraftingAbility>肉体造り</RewardFleshcraftingAbility>
   <RewardSlaughterAbility>屠殺</RewardSlaughterAbility>
   <RewardShamblerControlAbility>シャンブラーの制御</RewardShamblerControlAbility>
 
   <!-- Duplicate sickness -->
   <DuplicateSicknessLabel>複製病</DuplicateSicknessLabel>
-  <DuplicateSicknessText>{0_nameDef}と{0_possessive}の複製の双方の体調がすぐれないようです.2人の体調は複製プロセスに関連しているようで,悪化の一途を辿っています.2人を結びつけている精神的なつながりが,その意識を徐々に失わせているようです.症状はどちらかが死ぬまで改善しないでしょう.</DuplicateSicknessText>
+  <DuplicateSicknessText>{0_nameDef}と{0_possessive}複製の双方の体調がすぐれないようです.2人の体調は複製プロセスに関連しているようで,悪化の一途を辿っています.2人を結びつけている精神的なつながりが,その意識を徐々に失わせているようです.症状はどちらかが死ぬまで改善しないでしょう.</DuplicateSicknessText>
 
   <!-- Frenzied animals -->
   <FrenziedAnimalsLabel>狂乱する動物</FrenziedAnimalsLabel>

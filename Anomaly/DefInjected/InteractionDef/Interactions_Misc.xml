@@ -166,7 +166,7 @@
     <li>identityTopic->[RECIPIENT_possessive]趣味と暇つぶし</li>
     <li>identityTopic->[RECIPIENT_possessive]道徳的価値観と原則</li>
     <li>identityTopic->[RECIPIENT_possessive]動機</li>
-    <li>identityTopic->[RECIPIENT_possessive]の大きな決断の理由</li>
+    <li>identityTopic->[RECIPIENT_possessive]大きな決断の理由</li>
     <li>identityTopic->過去のトラウマ体験</li>
     <li>identityTopic->人間の思考プロセス</li>
     <li>identityTopic->幼少期の経験</li>
@@ -185,8 +185,8 @@
     <li>r_logentry->[RECIPIENT_nameDef] taught a lesson on [subjectDarkStudy].</li>
   -->
   <OccultTeaching.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]に関する[INITIATOR_possessive]の理論を[RECIPIENT_nameDef]に説明した.</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]に関する[INITIATOR_possessive]のアイデアを[RECIPIENT_nameDef]に共有した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]に関する[INITIATOR_possessive]理論を[RECIPIENT_nameDef]に説明した.</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[subjectDarkStudy]に関する[INITIATOR_possessive]アイデアを[RECIPIENT_nameDef]に共有した.</li>
     <li>r_logentry->[RECIPIENT_nameDef]は[subjectDarkStudy]について話した.</li>
     <li>r_logentry->[RECIPIENT_nameDef]は[subjectDarkStudy]について熟考した.</li>
     <li>r_logentry->[RECIPIENT_nameDef]は[subjectDarkStudy]に関する講演をした.</li>
