@@ -450,16 +450,16 @@
 
   <!-- Creepjoiners -->
   <!-- EN: {PAWN_pronoun} wants to talk. You can send a colonist to hear what {PAWN_pronoun} has to say. -->
-  <LetterCreeperAppearedAppended>{PAWN_pronoun}は話したいようです.入植者を送ることで{PAWN_pronoun}が何を言いたいのか聞けます.</LetterCreeperAppearedAppended>
+  <LetterCreeperAppearedAppended>{PAWN_pronoun}は話をしたいようです.入植者を送ることで{PAWN_pronoun}が何を言いたいのか聞けます.</LetterCreeperAppearedAppended>
   <!-- EN: {PAWN_nameDef} wants to join -->
-  <LetterCreeperInviteJoins>{PAWN_nameDef}は同行したいようです</LetterCreeperInviteJoins>
+  <LetterCreeperInviteJoins>{PAWN_nameDef}が同行を要求</LetterCreeperInviteJoins>
   <!-- EN: {PAWN_pronoun} may be very useful, but you also sense there is something {PAWN_nameDef} is not telling you. -->
   <LetterCreeperInviteAppend>{PAWN_pronoun}は非常に便利かもしれませんが,何か伝えていないことがあるようにも思えます.</LetterCreeperInviteAppend>
   
   <!-- EN: Allow {PAWN_nameDef} to join -->
   <AcceptCreeper>{PAWN_nameDef}の同行を許可する</AcceptCreeper>
   <!-- EN: Send {SPEAKER_nameDef} to capture {PAWN_nameDef} -->
-  <CaptureCreeper>{SPEAKER_nameDef}を送って{PAWN_nameDef}を捕獲する</CaptureCreeper>
+  <CaptureCreeper>{SPEAKER_nameDef}に{PAWN_nameDef}を逮捕させる</CaptureCreeper>
   <!-- EN: Send {PAWN_nameDef} away -->
   <RejectCreeper>{PAWN_nameDef}を追い払う</RejectCreeper>
   
