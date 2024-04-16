@@ -3,8 +3,8 @@
   
   <!-- EN: bioferrite harvester -->
   <BioferriteHarvester.label>バイオフェライトハーベスター</BioferriteHarvester.label>
-  <!-- EN: When placed near to a holding platform, this device draws biomass from the held entity and converts it to bioferrite.\n\nLarger entities generally produce more bioferrite. However, for most creatures, the process causes extreme discomfort, making the entity harder to contain.\n\nEach holding platform can only support one harvester, however each harvester can link to up to four platforms. -->
-  <BioferriteHarvester.description>収容プラットフォームの近くに配置すると,収容されている存在からバイオマスを採取し,バイオフェライトへ変換します.\n\n存在が大きいほどより多くのバイオフェライトを生み出します.ただし,ほとんどの生物にとって,このプロセスは極度の不快感を引き起こすものであり,存在の収容をより難しいものとします.\n\nハーベスターは最大4つのプラットフォームとリンクできます.ただし,収容プラットフォームはそれぞれ1つのエレクトロハーベスターにしか対応できません.</BioferriteHarvester.description>
+  <!-- EN: When placed near to a holding platform, this device draws biomass from the held entity and converts it to bioferrite.\n\nLarger entities generally produce more bioferrite. However, for most creatures, the process causes extreme discomfort, making the entity harder to contain.\n\nEach holding platform can only support one harvester; however, each harvester can connect to multiple platforms. -->
+  <BioferriteHarvester.description>収容プラットフォームの近くに配置すると,収容されている存在からバイオマスを採取し,バイオフェライトへ変換します.\n\n存在が大きいほどより多くのバイオフェライトを生み出します.ただし,ほとんどの生物にとって,このプロセスは極度の不快感を引き起こすものであり,存在の収容をより難しいものとします.\n\nエレクトロハーベスターは複数の収容プラットフォームと接続できます.ただし,プラットフォームはそれぞれ1つのハーベスターにしか対応できません.</BioferriteHarvester.description>
   
   <!-- EN: bioferrite shaper -->
   <BioferriteShaper.label>バイオフェライトシェイパー</BioferriteShaper.label>

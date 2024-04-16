@@ -144,8 +144,6 @@
   <NonRecruitable>揺るぎない忠誠心</NonRecruitable>
   <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
   <NonRecruitableTip>この囚人は自分の派閥に揺るぎない忠誠心を持つため,勧誘されることを完全に拒否しています.</NonRecruitableTip>
-  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
-  <NonRecruitableTipCannotConvert>この人物らの忠誠心は信条にまで及んでいるため,改宗させることができません.</NonRecruitableTipCannotConvert>
   <!-- EN: What type of medicine can be given to this prisoner. -->
   <MedicineQualityDescriptionPrisoner>この囚人に与えられる薬の種類です.</MedicineQualityDescriptionPrisoner>
 
@@ -452,6 +450,7 @@
   <StudyNotesTab_NoDiscoveries>まだ未発見</StudyNotesTab_NoDiscoveries>
 
   <!-- UNUSED -->
+  <NonRecruitableTipCannotConvert>この人物らの忠誠心は信条にまで及んでいるため,改宗させることができません.</NonRecruitableTipCannotConvert>
   <SelfTend>自己治療</SelfTend>
   <SelfTendTip>{0}の自己治療を有効にすると,通常の{1}の効率で,自動的にその場において,彼ら自身を治療します.</SelfTendTip>
 

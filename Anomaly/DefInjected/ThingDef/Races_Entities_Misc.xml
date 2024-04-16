@@ -121,8 +121,8 @@
   <Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>{PAWN_nameDef}は,ノチオスフィアに関する驚くべき発見をしました.どうやら,この存在は不安定になりつつあるようです.\n\nノチオスフィアが不安定になり始めたら,敵対する脅威を送り込み攻撃することで,ノチオスフィアを処分することができます.この短い期間中,ノチオスフィアは近くにいる者を,友人であろうと敵であろうとすべての生物を攻撃します.\n\n攻撃期間が終了すると,永久にこの場所を立ち去ります.ただし,完全に不安定になってしまうと,もはや抑制することはできなくなります.</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>
   <!-- EN: Teleport the nociosphere to a nearby location. It will then unleash an onslaught of murder and pain on everyone nearby for a short time. The nociosphere will hunt down any creature, including allies and other entities.\n\nThe nociosphere can be sent multiple times. -->
   <Nociosphere.comps.CompNociosphere.activateDescString>近くの場所へノチオスフィアをテレポートさせます.ノチオスフィアはテレポート後に短時間,付近のすべてのものへと殺戮と苦痛を撒き散らします.ノチオスフィアは味方を含むすべての生物を攻撃します.\n\nノチオスフィアは複数回送り込むことができます.</Nociosphere.comps.CompNociosphere.activateDescString>
-  <!-- EN: Send nociosphere -->
-  <Nociosphere.comps.CompNociosphere.activateLabelString>ノチオスフィアを送る</Nociosphere.comps.CompNociosphere.activateLabelString>
+  <!-- EN: Send the nociosphere... -->
+  <Nociosphere.comps.CompNociosphere.activateLabelString>ノチオスフィアを送る...</Nociosphere.comps.CompNociosphere.activateLabelString>
   <!-- EN: sending {0}: {1}s -->
   <Nociosphere.comps.CompNociosphere.activatingString>{0}をテレポート中：{1}秒</Nociosphere.comps.CompNociosphere.activatingString>
   <!-- EN: Becoming unstable -->
