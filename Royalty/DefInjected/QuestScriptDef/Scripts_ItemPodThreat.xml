@@ -9,7 +9,7 @@
   <ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->軌道上の宇宙船の機械知性体が,複数の惑星規模の実験を行いたいようです.ただし彼女が実験を行う場合, [gameConditionDescriptionFuture].\n\n彼女は倫理レビューボードに問題が発生する可能性を危惧しており,あなたの同意を求めています.</li>
     <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_pawnsPlural]は復讐に駆られた機械知性体によって脅かされています. [asker_faction_leaderTitle]の[asker_nameFull]は, あなたに彼らの重罪に対する責任を認めるメッセージを送ってほしいようです.\n\nもしそうした場合,知性体は彼らの代わりにあなたを攻撃目標とするでしょう. [gameConditionDescriptionFuture].</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は, [asker_possessive]宇宙船に搭載されたエリア攻撃兵器の低出力テストをしたいようです.[asker_pronoun]がそれを実行した場合,[gameConditionDescriptionFuture].\n\nあなたは帝国法に基づく該当地域の地主なので,[asker_nameDef]はあなたの正当な許可を求めています.</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]は, [asker_possessive]宇宙船に搭載されたエリア攻撃兵器の低出力テストをしたいようです.[asker_pronoun]がそれを実行した場合,[gameConditionDescriptionFuture].\n\nあなたは帝国法に基づく該当地域の地主なので,[asker_nameDef]はあなたの正当な許可を求めています.</li>
   </ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[asker_nameDef]'s [gameCondition_label]</li>
@@ -35,10 +35,10 @@
   <ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験を行いたいそうです.承諾すると,彼らは[map_definite]にフェロモンを散布し,(*Threat)[hivesCount]の虫の巣(/Threat)の襲来を引き起こします.[helpersParagraph]</li>
     <li>infestationArrivalLetterText(askerIsNull==true)->虫の巣が研究船の散布したフェロモンに惹かれ出現しました.</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]は, [map_definite]付近の拠点で繰り返される虫の襲来に直面しています.[asker_pronoun]は,あなたの下にこの襲来を引き寄せてほしいそうです.これによって(*Threat)[hivesCount]個の虫の巣(/Threat)が発生するでしょう.[helpersParagraph]</li>
-    <li>infestationArrivalLetterText(asker_factionLeader==True)->虫の巣はもともと,[asker_faction_name]の[asker_nameFull]が統治する, 拠点付近を荒らしていました.</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は, 繰り返し発生する虫の襲来が原因で[map_definite]付近に着陸できません.[asker_pronoun]は,あなたに虫を引き寄せて対処して欲しいそうです.これによって(*Threat)[hivesCount]個の虫の巣(/Threat)が発生するでしょう.[helpersParagraph]</li>
-    <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]によって, 虫の巣の襲来が引き起こされました.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]は, [map_definite]付近の拠点で繰り返される虫の襲来に直面しています. [asker_pronoun]は,あなたの下にこの襲来を引き寄せてほしいそうです.これによって(*Threat)[hivesCount]個の虫の巣(/Threat)が発生するでしょう.[helpersParagraph]</li>
+    <li>infestationArrivalLetterText(asker_factionLeader==True)->虫の巣はもともと,[asker_faction_name]の [asker_nameFull]が統治する, 拠点付近を荒らしていました.</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]は, 繰り返し発生する虫の襲来が原因で[map_definite]付近に着陸できません. [asker_pronoun]は,あなたに虫を引き寄せて対処して欲しいそうです.これによって(*Threat)[hivesCount]個の虫の巣(/Threat)が発生するでしょう.[helpersParagraph]</li>
+    <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]によって, 虫の巣の襲来が引き起こされました.</li>
   </ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Pods and [insects]</li>
@@ -92,9 +92,9 @@
     <li>questDescription(asker_factionLeader==True)->[asker_faction_name]のキャラバンが[manhuntingBeastIndef]に悩まされています. [asker_faction_leaderTitle]の[asker_nameFull]は, 獣を引きつけてキャラバンから遠ざけてほしいとあなたに要請しています. [endSection]</li>
     <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount==1)->この[animalKind_label]は,[asker_faction_name]のキャラバンを悩ませていました.</li>
     <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount>=2)->この[animalKind_labelPlural]の群れは,[asker_faction_name]のキャラバンを悩ませていました.</li>
-    <li>questDescription(asker_royalInCurrentFaction==True,animalCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は, 最近(*Threat)人狩りの[animalKind_label](/Threat)によって偵察隊を失いました.[asker_pronoun]は自身の名誉を守るために連中を始末したいので,あなたに獣を引きつけるよう要請しています. [endSection]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,animalCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]は, 最近(*Threat)人狩りの[animalKind_label](/Threat)によって偵察隊を失いました. [asker_pronoun]は自身の名誉を守るために連中を始末したいので,あなたに獣を引きつけるよう要請しています. [endSection]</li>
     <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount==1)->この[animalKind_label]は,[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の 偵察隊を殺しました.</li>
-    <li>questDescription(asker_royalInCurrentFaction==True,animalCount>=2)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である[asker_nameFull]は最近, (*Threat)人狩りの[animalKind_label](/Threat)の群れによって偵察隊を失いました.[asker_pronoun]は自身の名誉を守るために連中を始末したいので,あなたに獣を引きつけるよう要請しています. [endSection]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,animalCount>=2)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]は最近, (*Threat)人狩りの[animalKind_label](/Threat)の群れによって偵察隊を失いました. [asker_pronoun]は自身の名誉を守るために連中を始末したいので,あなたに獣を引きつけるよう要請しています. [endSection]</li>
     <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount>=2)->この[animalKind_labelPlural]の群れは,[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]の 偵察隊を殺しました.</li>
   </ThreatReward_Manhunters_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
@@ -143,8 +143,8 @@
   -->
   <ThreatReward_SiteThreat_ItemPod.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->付近の貿易商から通信が入りました.[threat]が彼を襲っています!彼はあなたにシグナルを発して,[map_definite]へ敵を引き寄せて,彼を逃してくれるように頼んでいます.\n\nシグナルを送ると[askerEnemies]は,付近に拠点を配置してあなたを悩ませるでしょう.この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, あなたに助けを求めています. [askerEnemies]が,[asker_possessive]入植地を悩ませています.[asker_pronoun]は,シグナルを発して[map_definite]へ敵を引き寄せ,人々から遠ざける手助けをあなたにしててほしいようです.\n\nもしこれを行うと,[asker_possessive][askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameFull]が, [map_definite]付近を旅しています. [asker_pronoun]は[threat]に追跡されており,彼らを[map_definite]へ向かわせるためあなたにシグナルを発してほしいそうです.\n\nもしこれを行うと,[askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, あなたに助けを求めています. [askerEnemies]が,[asker_possessive]入植地を悩ませています.[asker_pronoun]は,シグナルを発して[map_definite]へ敵を引き寄せ,人々から遠ざける手助けをあなたにしててほしいようです.\n\nもしこれを行うと,[asker_possessive][askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, [map_definite]付近を旅しています. [asker_pronoun]は[threat]に追跡されており,彼らを[map_definite]へ向かわせるためあなたにシグナルを発してほしいそうです.\n\nもしこれを行うと,[askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
     <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]の[site/enemyFaction_pawnsPlural]</li>
     <li>threat(priority=1,site/MechCluster_exists==True)->メカノイド</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>
