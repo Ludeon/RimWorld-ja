@@ -1,7 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: Anomaly -->
+  <DifficultyAnomalySection>アノマリー</DifficultyAnomalySection>
+  <!-- EN: Anomaly threats (inactive) -->
+  <Difficulty_AnomalyThreatsInactive_Label>アノマリーの脅威(非アクティブ)</Difficulty_AnomalyThreatsInactive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is not active. Only certain minor Anomaly incidents can occur when the monolith is inactive. -->
+  <Difficulty_AnomalyThreatsInactive_Info>モノリスがアクティブでない場合の,アノマリー関連の脅威の割合を調整します.モノリスが非アクティブである場合,一部の小さなアノマリーイベントのみが低確率で発生します.</Difficulty_AnomalyThreatsInactive_Info>
+  <!-- EN: Anomaly threats (active) -->
+  <Difficulty_AnomalyThreatsActive_Label>アノマリーの脅威(アクティブ)</Difficulty_AnomalyThreatsActive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is active. With the current settings:\n  - {0} of major threats will be Anomaly-related at monolith level 1 and 5\n  - {1} of major threats will be Anomaly-related at monolith levels 2-4 -->
+  <Difficulty_AnomalyThreatsActive_Info>モノリスがアクティブである場合の,アノマリー関連の脅威の割合を調整します.現在の設定では次のようになります:\n-大きな脅威の{0}がモノリスレベル1,5のアノマリー関連\n-大きな脅威の{1}がモノリスレベル2~4のアノマリー関連</Difficulty_AnomalyThreatsActive_Info>
+
   <!-- EN: Child shamblers -->
   <Difficulty_ChildShamblersAllowed_Label>子どものシャンブラー</Difficulty_ChildShamblersAllowed_Label>
   <!-- EN: Reanimated child shamblers will sometimes appear. -->
   <Difficulty_ChildShamblersAllowed_Info>蘇生された子どものシャンブラーが時々出現します.</Difficulty_ChildShamblersAllowed_Info>
+
 </LanguageData>

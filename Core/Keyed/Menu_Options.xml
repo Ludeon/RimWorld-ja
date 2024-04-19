@@ -72,14 +72,6 @@
   <OpenLogOnWarnings>"warning"発生時にログを開く</OpenLogOnWarnings>
   <!-- EN: Close log by pressing cancel -->
   <CloseLogWindowOnEscape>"pressing_cancel"発生時ログを開かない</CloseLogWindowOnEscape>
-  <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>Royaltyのない環境をシミュレートする</SimulateNotOwningRoyalty>
-  <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>Ideologyのない環境をシミュレートする</SimulateNotOwningIdeology>
-  <!-- EN: Simulate not owning Biotech -->
-  <SimulateNotOwningBiotech>Biotechのない環境をシミュレートする</SimulateNotOwningBiotech>
-  <!-- EN: Simulate not owning Anomaly -->
-  <SimulateNotOwningAnomaly>Anomalyのない環境をシミュレートする</SimulateNotOwningAnomaly>
   <!-- EN: Verbose logging -->
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <!-- EN: Save data folder -->
@@ -174,5 +166,11 @@
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>メニュー画面背景</SetBackgroundImage>
+
+  <!-- UNUSED -->
+  <SimulateNotOwningRoyalty>Royaltyのない環境をシミュレートする</SimulateNotOwningRoyalty>
+  <SimulateNotOwningIdeology>Ideologyのない環境をシミュレートする</SimulateNotOwningIdeology>
+  <SimulateNotOwningBiotech>Biotechのない環境をシミュレートする</SimulateNotOwningBiotech>
+  <SimulateNotOwningAnomaly>Anomalyのない環境をシミュレートする</SimulateNotOwningAnomaly>
 
 </LanguageData>

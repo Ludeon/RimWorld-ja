@@ -18,8 +18,8 @@
   
   <!-- EN: organ decay -->
   <OrganDecayUndiagnosedCreepjoiner.label>臓器腐敗</OrganDecayUndiagnosedCreepjoiner.label>
-  <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
-  <OrganDecayUndiagnosedCreepjoiner.description>単一の臓器に影響を及ぼす変性疾患で,細菌やウイルスが原因であるとされています.この病気は自然界に存在する未知の宿主から感染すると推測されており,人間同士では直接感染しません.\n\nこの臓器は完全に死滅するまで,徐々に機能を失っていきます.天然または強化された臓器に置き換えましょう.</OrganDecayUndiagnosedCreepjoiner.description>
+  <!-- EN: This person is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. They will begin to display symptoms within a matter of days. -->
+  <OrganDecayUndiagnosedCreepjoiner.description>この人物には,臓器が急速に悪化する危険な病気の,初期症状がみられます.数日以内に症状が現れ始めるでしょう.</OrganDecayUndiagnosedCreepjoiner.description>
   <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
   <OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef}は,臓器が急速に悪化するような重篤な症状の前兆を示しています.{SURGEON_nameDef}はそれの原因が何か正確にはわからないようですが,数日以内に症状は深刻化するでしょう.</OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: {PAWN_nameDef} can no longer hide {PAWN_possessive} crippling condition. {PAWN_possessive} body is riddled with rotting organs - {PAWN_pronoun} is little more than a walking corpse. {PAWN_nameDef} has organ decay affecting the following body parts:\n\n{ORGANS}\n\nReplace the organs soon to keep {PAWN_nameDef} healthy. You can use bionic organs or natural ones taken from donors. -->
@@ -31,8 +31,8 @@
   
   <!-- EN: organ decay -->
   <OrganDecayUndiagnosedDuplicaton.label>臓器腐敗</OrganDecayUndiagnosedDuplicaton.label>
-  <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
-  <OrganDecayUndiagnosedDuplicaton.description>単一の臓器に影響を及ぼす変性疾患で,細菌やウイルスが原因であるとされています.この病気は自然界に存在する未知の宿主から感染すると推測されており,人間同士では直接感染しません.\n\nこの臓器は完全に死滅するまで,徐々に機能を失っていきます.天然または強化された臓器に置き換えましょう.</OrganDecayUndiagnosedDuplicaton.description>
+  <!-- EN: This person is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. They will begin to display symptoms within a matter of days. -->
+  <OrganDecayUndiagnosedDuplicaton.description>この人物には,臓器が急速に悪化する危険な病気の,初期症状がみられます.数日以内に症状が現れ始めるでしょう.</OrganDecayUndiagnosedDuplicaton.description>
   <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
   <OrganDecayUndiagnosedDuplicaton.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef}は,臓器が急速に悪化するような重篤な症状の前兆を示しています.{SURGEON_nameDef}はそれの原因が何か正確にはわからないようですが,数日以内に症状は深刻化するでしょう.</OrganDecayUndiagnosedDuplicaton.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: {PAWN_nameDef} can no longer hide {PAWN_possessive} crippling condition. The duplication process has left {PAWN_possessive} body riddled with rotting organs. {PAWN_nameDef} has organ decay affecting the following body parts:\n\n{ORGANS}\n\nReplace the organs soon to keep {PAWN_nameDef} healthy. You can use bionic organs or natural ones taken from donors. -->
