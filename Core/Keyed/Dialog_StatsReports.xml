@@ -347,9 +347,9 @@
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
   <Stat_Thing_ReloadRefill_Desc>このオブジェクトを最大まで充填するために必要なアイテムの量です.\n\nオブジェクトは空になる前に再充填できますが,必要なコストは変わりません.</Stat_Thing_ReloadRefill_Desc>
   <!-- EN: Reload cost per {CHARGENOUN} -->
-  <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN}1回分の再充填コスト</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN}回復コスト</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
-  <Stat_Thing_ReloadPerCharge_Desc>{CHARGENOUN}を1回分再充填するために必要なアイテムの量です.{CHARGENOUN_plural}を複数回分,まとめて充填できます.</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadPerCharge_Desc>{CHARGENOUN}を1回分回復するために必要な資源の量です.{CHARGENOUN_plural}を複数回分,まとめて回復できます.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
   <Stat_Thing_ReloadDestroyOnEmpty_Name>使い切り時に消滅する</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->

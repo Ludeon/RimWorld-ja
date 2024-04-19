@@ -190,7 +190,7 @@
   <!-- EN: Distress signal -->
   <DistressSignalLabel>救難信号</DistressSignalLabel>
   <!-- EN: You've intercepted a distress signal from a nearby camp of {FACTION_name}.\n\nThe frantic voice begs for immediate assistance defending against a threat. They offer everything at their camp in return for help, including shards of powerful archotechnology.\n\nAs the voice tries to explain the nature of the threat, the signal goes dead. -->
-  <DistressSignalText>近くの{FACTION_name}のキャンプからの救難信号を傍受しました.\n\n必死な越えが,脅威から身を守るために即時の援助を懇願しています.彼らは援助の見返りとして,強力なアルコテクノロジーの破片など,キャンプにあるすべてのものを提供するそうです.\n\n声は脅威の性質について説明しようとしたところで,信号は途絶えました.</DistressSignalText>
+  <DistressSignalText>近くの{FACTION_name}のキャンプからの救難信号を傍受しました.\n\n必死な声が,脅威から身を守るために即時の援助を懇願しています.彼らは援助の見返りとして,強力なアルコテクノロジーの破片など,キャンプにあるすべてのものを提供するそうです.\n\n声が脅威の性質について説明しようとしたところで,信号は途絶えました.</DistressSignalText>
   <!-- EN: Ambush -->
   <DistressSignalAmbushLabel>待ち伏せ</DistressSignalAmbushLabel>
   <!-- EN: Fleshbeasts are emerging from a nearby pit burrow! -->
@@ -230,13 +230,13 @@
   <!-- EN: Shambler approaches -->
   <LetterLabelShamblerArrived>シャンブラーが接近しています</LetterLabelShamblerArrived>
   <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerSwarmArrived>{0}体のよろめき歩く,腐った遺体の集団が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
+  <LetterShamblerSwarmArrived>{0}体の腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
   <!-- EN: A shambling, rotting corpse is approaching. Some inhuman force has reanimated this lifeless body and set it to murder.\n\nIt will now wander through the area. If it sees a human, it will attack. If not, it will leave in a few days.\n\nIf you can capture it, you can study it for anomaly knowledge. -->
-  <LetterShamblerArrived>よろめき歩く,腐った遺体が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nこのシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
+  <LetterShamblerArrived>腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nこのシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
   <!-- EN: {ANIMALKIND_label} shamblers -->
   <LetterLabelShamblerAnimalsArrived>{0}体のシャンブラー</LetterLabelShamblerAnimalsArrived>
   <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerAnimalsArrived>{0}体のよろめき歩く,腐った遺体の集団が近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
+  <LetterShamblerAnimalsArrived>腐った{ANIMALKIND_label}の死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
 
   <!-- Ghoul pod crash -->
   <!-- EN: Transport pod crash -->
