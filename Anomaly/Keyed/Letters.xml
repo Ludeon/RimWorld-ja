@@ -230,13 +230,13 @@
   <!-- EN: Shambler approaches -->
   <LetterLabelShamblerArrived>シャンブラーが接近しています</LetterLabelShamblerArrived>
   <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerSwarmArrived>{0}体の腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
+  <LetterShamblerSwarmArrived>{0}体の腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき死体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
   <!-- EN: A shambling, rotting corpse is approaching. Some inhuman force has reanimated this lifeless body and set it to murder.\n\nIt will now wander through the area. If it sees a human, it will attack. If not, it will leave in a few days.\n\nIf you can capture it, you can study it for anomaly knowledge. -->
-  <LetterShamblerArrived>腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nこのシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
+  <LetterShamblerArrived>腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき死体を蘇生させ,人を殺させているのです.\n\nこのシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
   <!-- EN: {ANIMALKIND_label} shamblers -->
   <LetterLabelShamblerAnimalsArrived>{0}体のシャンブラー</LetterLabelShamblerAnimalsArrived>
   <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerAnimalsArrived>腐った{ANIMALKIND_label}の死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき遺体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
+  <LetterShamblerAnimalsArrived>腐った{ANIMALKIND_label}の死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき死体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
 
   <!-- Ghoul pod crash -->
   <!-- EN: Transport pod crash -->
@@ -275,9 +275,9 @@
   <NociosphereUnstableTextExtraNotSendable>ノクチオスフィアの猛攻に備えます.</NociosphereUnstableTextExtraNotSendable>
 
   <!-- EN: Strange corpse -->
-  <UnnaturalCorpseArrivalLabel>奇妙な遺体</UnnaturalCorpseArrivalLabel>
+  <UnnaturalCorpseArrivalLabel>奇妙な死体</UnnaturalCorpseArrivalLabel>
   <!-- EN: An unnatural human corpse has appeared, as if out of thin air.\n\nOn further inspection, the corpse looks identical to {PAWN_nameDef}. Its skin feels waxy and warm to the touch.\n\nStudy the corpse to learn more about it. -->
-  <UnnaturalCorpseArrivalText>まるで宙空から出現したかの如く,不自然な人間の遺体が出現しました.\n\nよく見ると,その遺体は{PAWN_nameDef}と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.\n\n遺体を研究することで,さらに詳しくわかります.</UnnaturalCorpseArrivalText>
+  <UnnaturalCorpseArrivalText>まるで宙空から出現したかの如く,不自然な人間の死体が出現しました.\n\nよく見ると,その死体は{PAWN_nameDef}と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.\n\n死体を研究することで,さらに詳しくわかります.</UnnaturalCorpseArrivalText>
 
   <!-- EN: Golden cube -->
   <GoldenCubeArrivalLabel>黄金のキューブ</GoldenCubeArrivalLabel>

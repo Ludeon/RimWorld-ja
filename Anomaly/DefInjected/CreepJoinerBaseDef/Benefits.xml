@@ -19,7 +19,7 @@
   <!-- EN: fleshcrafter -->
   <Fleshcrafter.label>肉体造り師</Fleshcrafter.label>
   <!-- EN: {PAWN_nameDef} claims to be gifted with the dark art of animating dead flesh. {PAWN_pronoun} can turn corpses into hideous fleshbeasts. -->
-  <Fleshcrafter.letterExtra>{PAWN_nameDef}は死んだ肉体を復活させる闇の技術を授かったといいます.{PAWN_pronoun}は遺体を恐ろしい獣へと変化させることができます.</Fleshcrafter.letterExtra>
+  <Fleshcrafter.letterExtra>{PAWN_nameDef}は死んだ肉体を復活させる闇の技術を授かったといいます.{PAWN_pronoun}は死体を恐ろしい獣へと変化させることができます.</Fleshcrafter.letterExtra>
   
   <!-- EN: joybringer -->
   <Joybringer.label>喜びをもたらす者</Joybringer.label>
@@ -44,7 +44,7 @@
   <!-- EN: shambler overlord -->
   <ShamblerOverlord.label>シャンブラーの支配者</ShamblerOverlord.label>
   <!-- EN: {PAWN_nameDef}'s body is riddled with corrupt archites. {PAWN_pronoun} can release them at will, creating a cloud of deadlife dust which can reanimate nearby corpses. -->
-  <ShamblerOverlord.letterExtra>{PAWN_nameDef}の肉体には,腐敗したアルカイトが充満しています.{PAWN_pronoun}はそれを自在に解放し,付近の遺体を蘇生させる死の塵の雲を作り出すことができます.</ShamblerOverlord.letterExtra>
+  <ShamblerOverlord.letterExtra>{PAWN_nameDef}の肉体には,腐敗したアルカイトが充満しています.{PAWN_pronoun}はそれを自在に解放し,付近の死体を蘇生させる死の塵の雲を作り出すことができます.</ShamblerOverlord.letterExtra>
   
   <!-- EN: unnatural healing -->
   <UnnaturalHealing.label>不自然な治癒</UnnaturalHealing.label>

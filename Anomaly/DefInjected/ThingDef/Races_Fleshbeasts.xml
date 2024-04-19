@@ -57,7 +57,7 @@
   <!-- EN: toughspike -->
   <Toughspike.label>タフスパイク</Toughspike.label>
   <!-- EN: A fleshy man-sized creature with two spiked limbs and an armored carapace. Toughspikes throw hardened keratin spikes to take down victims from a distance.\n\nToughspike corpses will dissolve into puddles of liquefied flesh if they're not butchered quickly. -->
-  <Toughspike.description>2つの棘のついた突起物と鎧のような甲殻を備えた肉々しい人間大の生物.遠くからケラチンの棘を投げつけて犠牲者を攻撃します.\n\nタフスパイクの遺体は素早く屠殺しないと,溶解して液状化した肉溜まりとなってしまいます.</Toughspike.description>
+  <Toughspike.description>2つの棘のついた突起物と鎧のような甲殻を備えた肉々しい人間大の生物.遠くからケラチンの棘を投げつけて犠牲者を攻撃します.\n\nタフスパイクの死骸は素早く屠殺しないと,溶解して液状化した肉溜まりとなってしまいます.</Toughspike.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
   <Toughspike.comps.CompInspectStringEmergence.inspectString>{SOURCEPAWN_labelShort}から出現しました.</Toughspike.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: left spike -->

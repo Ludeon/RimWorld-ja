@@ -38,7 +38,7 @@
   <!-- EN: devourer -->
   <Devourer.label>デバウアー</Devourer.label>
   <!-- EN: A massive monster with a gaping toothed maw and a stubby, snake-like body. The devourer can leap several times its body length to swallow a person whole. Powerful stomach acids rapidly digest the still-living victim. The remains are regurgitated soon after. -->
-  <Devourer.description>ぽっかりと開かれた,歯のならぶ口と,ずんぐりとしたヘビのような胴体を持つ巨大なモンスター.デバウアーは体長の数倍もの跳躍力を持ち,人間を丸呑みにします.強力な胃酸は,まだ生きている犠牲者を急速に消化していきます.遺体はすぐに吐き出されます.</Devourer.description>
+  <Devourer.description>ぽっかりと開かれた,歯のならぶ口と,ずんぐりとしたヘビのような胴体を持つ巨大なモンスター.デバウアーは体長の数倍もの跳躍力を持ち,人間を丸呑みにします.強力な胃酸は,まだ生きている犠牲者を急速に消化していきます.丸吞みしたものが残骸になると,吐き出します.</Devourer.description>
   <!-- EN: Digesting {PAWN_nameDef}: {SECONDS} seconds left -->
   <Devourer.comps.CompDevourer.digestingInspector>{PAWN_nameDef}を消化中：残り{SECONDS}秒</Devourer.comps.CompDevourer.digestingInspector>
   <!-- EN: A devourer swallowed {PAWN_nameDef} whole! Kill the devourer before it digests {PAWN_nameDef}. -->
@@ -48,7 +48,7 @@
   <!-- EN: {PAWN_nameDef} emerged from the devourer. -->
   <Devourer.comps.CompDevourer.messageEmerged>{PAWN_nameDef}がデバウアーから出てきました.</Devourer.comps.CompDevourer.messageEmerged>
   <!-- EN: {PAWN_nameDef} emerged from the devourer's corpse. -->
-  <Devourer.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef}がデバウアーの遺体から出てきました.</Devourer.comps.CompDevourer.messageEmergedCorpse>
+  <Devourer.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef}がデバウアーの死体から出てきました.</Devourer.comps.CompDevourer.messageEmergedCorpse>
   <!-- EN: left fin -->
   <Devourer.tools.left_fin.label>左ヒレ</Devourer.tools.left_fin.label>
   <!-- EN: fin -->

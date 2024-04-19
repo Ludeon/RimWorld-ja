@@ -76,7 +76,7 @@
   <!-- EN: Death pall clearing -->
   <LetterLabelDeathPallEnded>死の帳がの消滅</LetterLabelDeathPallEnded> 
   <!-- EN: The pall of death is lifting. The corpses reanimated by it will soon return to their natural state. -->
-  <LetterDeathPallEnded>死の帳が晴れてきました.死から蘇った遺体は,まもなく自然な状態に戻るでしょう.</LetterDeathPallEnded>
+  <LetterDeathPallEnded>死の帳が晴れてきました.死から蘇った死体は,まもなく自然な状態に戻るでしょう.</LetterDeathPallEnded>
   
   <!-- Pit Gate -->
   <!-- EN: Pit gate closing -->
@@ -441,9 +441,9 @@
   <!-- EN: flesh consumption -->
   <FleshConsumption>肉食い</FleshConsumption>
   <!-- EN: Create corpse stockpile -->
-  <CreateCorpseStockpile>遺体の集積地を作る</CreateCorpseStockpile>
+  <CreateCorpseStockpile>死体の備蓄ゾーンを作成</CreateCorpseStockpile>
   <!-- EN: Create a dumping stockpile zone around the harbinger tree for corpses.\n\nHarbinger trees will consume nearby corpses and raw meat. If well fed, the trees will grow faster and create new harbinger trees. -->
-  <CreateCorpseStockpileDesc>先触れの木の近くに,遺体置き場となる集積地を作ります.\n\n先触れの木は近くの遺体や生肉を食べます.十分に食べれば,木はより速く成長し,新たな先触れの木を生み出します.</CreateCorpseStockpileDesc>
+  <CreateCorpseStockpileDesc>先触れの木の近くに,死体置き場となるエリアを作成します.\n\n先触れの木は近くの死体や生肉を食べます.十分に食べれば,木はより速く成長し,新たな先触れの木を生み出します.</CreateCorpseStockpileDesc>
 
   <!-- EN: Void node has been disabled. -->
   <VoidNodeDisabled>ヴォイドノードが無効化されました.</VoidNodeDisabled>
@@ -543,58 +543,58 @@
   
   <!-- Unnatural corpses -->
   <!-- EN: Corpse disappearance -->
-  <LetterLabelCorpseDisappeared>遺体の消滅</LetterLabelCorpseDisappeared>
+  <LetterLabelCorpseDisappeared>死体の消滅</LetterLabelCorpseDisappeared>
   <!-- EN: The unnatural corpse has vanished. -->
-  <LetterCorpseDisappeared>不自然な遺体が消滅しました.</LetterCorpseDisappeared>
+  <LetterCorpseDisappeared>不自然な死体が消滅しました.</LetterCorpseDisappeared>
   <!-- EN: {PAWN_nameDef} is starting to feel calmer. -->
   <LetterCorpseDisappearedPawnAliveAppend>{PAWN_nameDef}は落ち着いてきたようです.</LetterCorpseDisappearedPawnAliveAppend>
 
   <!-- EN: Corpse appearance -->
-  <LetterLabelCorpseReappeared>遺体の出現</LetterLabelCorpseReappeared>
+  <LetterLabelCorpseReappeared>死体の出現</LetterLabelCorpseReappeared>
   <!-- EN: The corpse resembling {PAWN_nameDef} has appeared again, as if out of thin air. -->
-  <LetterCorpseReappeared>{PAWN_nameDef}に似た姿の遺体が,再度忽然と姿を現しました.</LetterCorpseReappeared>
+  <LetterCorpseReappeared>{PAWN_nameDef}に似た姿の死体が,再度忽然と姿を現しました.</LetterCorpseReappeared>
   
   <!-- EN: The corpse resembling {PAWN_nameDef} has somehow gotten out of its {CONTAINER_labelShort}. -->
-  <MessageCorpseEscaped>{PAWN_nameDef}に似た姿の遺体が,何等かの手段で{CONTAINER_labelShort}から抜け出しました.</MessageCorpseEscaped>
+  <MessageCorpseEscaped>{PAWN_nameDef}に似た姿の死体が,何等かの手段で{CONTAINER_labelShort}から抜け出しました.</MessageCorpseEscaped>
   <!-- EN: Failed to resurrect {PAWN_nameDef}. It simply does not respond. -->
   <MessageUnnaturalCorpseResurrect>{PAWN_nameDef}の蘇生に失敗しました.反応がありませんでした.</MessageUnnaturalCorpseResurrect>
   <!-- EN: The unnatural corpse has caused {PAWN_nameDef} to faint. -->
-  <MessagePawnFainted>不自然な遺体により{PAWN_nameDef}は気を失いました.</MessagePawnFainted>
+  <MessagePawnFainted>不自然な死体により{PAWN_nameDef}は気を失いました.</MessagePawnFainted>
   <!-- EN: The unnatural corpse has appeared near {PAWN_nameDef} and is approaching! -->
-  <MessageAwokenReappeared>不自然な遺体が{PAWN_nameDef}の近くに出現し,近づいています！</MessageAwokenReappeared>
+  <MessageAwokenReappeared>不自然な死体が{PAWN_nameDef}の近くに出現し,近づいています！</MessageAwokenReappeared>
   <!-- EN: The unnatural corpse has vanished. It will come for {PAWN_nameDef} later. -->
-  <MessageAwokenVanished>不自然な遺体が消滅しました.後で{PAWN_nameDef}のもとへやってくるでしょう.</MessageAwokenVanished>
+  <MessageAwokenVanished>不自然な死体が消滅しました.後で{PAWN_nameDef}のもとへやってくるでしょう.</MessageAwokenVanished>
   <!-- EN: The awoken corpse is attacking {PAWN_nameDef}! -->
-  <MessageAwokenAttacking>目覚めした遺体が{PAWN_nameDef}を攻撃しています！</MessageAwokenAttacking>
+  <MessageAwokenAttacking>目覚めした死体が{PAWN_nameDef}を攻撃しています！</MessageAwokenAttacking>
   <!-- EN: The awoken corpse has destroyed {PAWN_nameDef}'s brain. -->
-  <MessageAwokenKilledVictim>目覚めした遺体が{PAWN_nameDef}の脳を破壊しました.</MessageAwokenKilledVictim>
+  <MessageAwokenKilledVictim>目覚めした死体が{PAWN_nameDef}の脳を破壊しました.</MessageAwokenKilledVictim>
   <!-- EN: The awoken corpse has disappeared. -->
-  <MessageAwokenDisappeared>目覚めした遺体が消滅しました.</MessageAwokenDisappeared>
+  <MessageAwokenDisappeared>目覚めした死体が消滅しました.</MessageAwokenDisappeared>
 
   <!-- EN: This happened because of the presence of an unnatural corpse. -->
-  <MentalBreakReason_MysteriousCorpse>これは不自然な遺体の存在により発生しました.</MentalBreakReason_MysteriousCorpse>
+  <MentalBreakReason_MysteriousCorpse>これは不自然な死体の存在により発生しました.</MentalBreakReason_MysteriousCorpse>
 
   <!-- EN: Unnatural corpse study progress -->
-  <UnnaturalCorpseStudyLetter>不自然な遺体研究の進捗</UnnaturalCorpseStudyLetter>
+  <UnnaturalCorpseStudyLetter>不自然な死体研究の進捗</UnnaturalCorpseStudyLetter>
   <!-- EN: Your investigation of the unnatural corpse has revealed more about the body. An archotech shard at its core psychically links it with {VICTIM_nameDef}. It will rebuild itself if destroyed, and teleport any distance to be near {VICTIM_nameDef}. \n\n{RESEARCHER_nameDef} thinks that there may be a way to permanently destroy the corpse but will need to study it further.\n\nStudy the corpse more to learn how to destroy it. -->
-  <UnnaturalCorpseStudyLetterDesc>不自然な遺体の調査により,より詳しいことが明らかになりました.コアにあるアルコテックの破片が,{VICTIM_nameDef}と精神的に結びついているようです.それは破壊されると自身を再構築し,{VICTIM_nameDef}の近くまでどれほど離れていようともテレポートします.\n\n{RESEARCHER_nameDef}はこの遺体を永久に破壊する方法があるかもしれないと考えていますが,そのためにはさらなる研究が必要です.</UnnaturalCorpseStudyLetterDesc>
+  <UnnaturalCorpseStudyLetterDesc>不自然な死体の調査により,より詳しいことが明らかになりました.コアにあるアルコテックの破片が,{VICTIM_nameDef}と精神的に結びついているようです.それは破壊されると自身を再構築し,{VICTIM_nameDef}の近くまでどれほど離れていようともテレポートします.\n\n{RESEARCHER_nameDef}はこの死体を永久に破壊する方法があるかもしれないと考えていますが,そのためにはさらなる研究が必要です.</UnnaturalCorpseStudyLetterDesc>
 
   <!-- EN: Unnatural corpse study complete -->
-  <UnnaturalCorpseStudyCompletedLetter>不自然な遺体研究の完了</UnnaturalCorpseStudyCompletedLetter>
+  <UnnaturalCorpseStudyCompletedLetter>不自然な死体研究の完了</UnnaturalCorpseStudyCompletedLetter>
   <!-- EN: Your investigation of the unnatural corpse has revealed how to safely remove the archotech shard. Doing so will stop it from psychically tormenting {VICTIM_nameDef}. However, it will also prevent further study of the corpse. -->
-  <UnnaturalCorpseStudyCompletedLetterDesc>不自然な遺体を調査した結果,アルコテックの破片を安全に取り除く方法が明らかになりました.これを粉うことで{VICTIM_nameDef}の精神的苦痛は止まります.ただし,これ以上の遺体の研究を妨げることになります.</UnnaturalCorpseStudyCompletedLetterDesc>
+  <UnnaturalCorpseStudyCompletedLetterDesc>不自然な死体を調査した結果,アルコテックの破片を安全に取り除く方法が明らかになりました.これを粉うことで{VICTIM_nameDef}の精神的苦痛は止まります.ただし,これ以上の死体の研究を妨げることになります.</UnnaturalCorpseStudyCompletedLetterDesc>
 
   <!-- EN: Corpse shard -->
-  <UnnaturalCorpseDeactivatedLetter>遺体の破片</UnnaturalCorpseDeactivatedLetter>
+  <UnnaturalCorpseDeactivatedLetter>死体の破片</UnnaturalCorpseDeactivatedLetter>
   <!-- EN: {PAWN_nameDef} extracted an archotech shard from the unnatural corpse, the corpse then began to violently bloat and exploded into gore. -->
-  <UnnaturalCorpseDeactivatedLetterDesc>{PAWN_nameDef}は不自然な遺体からアルコテックの破片を抽出しました.遺体は激しく膨れ上がり,爆発して血しぶきを撒き散らしました.</UnnaturalCorpseDeactivatedLetterDesc>
+  <UnnaturalCorpseDeactivatedLetterDesc>{PAWN_nameDef}は不自然な死体からアルコテックの破片を抽出しました.死体は激しく膨れ上がり,爆発して血しぶきを撒き散らしました.</UnnaturalCorpseDeactivatedLetterDesc>
   <!-- EN: {PAWN_nameDef} is feeling better already. -->
   <UnnaturalCorpseDeactivatedLetterDescAppended>{PAWN_nameDef}の体調が良くなったようです.</UnnaturalCorpseDeactivatedLetterDescAppended>
   
   <!-- EN: Destroy unnatural corpse -->
-  <UnnaturalCorpseDeactivate>不自然な遺体の破壊</UnnaturalCorpseDeactivate>
+  <UnnaturalCorpseDeactivate>不自然な死体の破壊</UnnaturalCorpseDeactivate>
   <!-- EN: Permanently destroy the unnatural corpse. -->
-  <UnnaturalCorpseDeactivateDesc>不自然な遺体を永久に破壊します.</UnnaturalCorpseDeactivateDesc>
+  <UnnaturalCorpseDeactivateDesc>不自然な死体を永久に破壊します.</UnnaturalCorpseDeactivateDesc>
   <!-- EN: Choose who should destroy this. -->
   <UnnaturalCorpseGuiLabel>誰がこれを破壊するか選択してください.</UnnaturalCorpseGuiLabel>
   <!-- EN: destroy -->
@@ -605,23 +605,23 @@
   <UnnaturalCorpseActivating>{0}を破壊中：{1}秒</UnnaturalCorpseActivating>
   
   <!-- EN: Unnatural corpse -->
-  <UnnaturalCorpseAwakeningLetter>不自然な遺体</UnnaturalCorpseAwakeningLetter>
+  <UnnaturalCorpseAwakeningLetter>不自然な死体</UnnaturalCorpseAwakeningLetter>
   <!-- EN: {PAWN_nameDef} feels the unnatural corpse growing rapidly stronger. Some horrible consciousness is flickering within it.\n\nSomething awful will happen in the next few days. -->
-  <UnnaturalCorpseAwakeningLetterDesc>{PAWN_nameDef}は不自然な遺体が急速に強くなっているのを感じています.何か恐ろしい意識がその中にちらついています.\n\n数日以内に何か恐ろしいことが起きそうです.</UnnaturalCorpseAwakeningLetterDesc>
+  <UnnaturalCorpseAwakeningLetterDesc>{PAWN_nameDef}は不自然な死体が急速に強くなっているのを感じています.何か恐ろしい意識がその中にちらついています.\n\n数日以内に何か恐ろしいことが起きそうです.</UnnaturalCorpseAwakeningLetterDesc>
   <!-- EN: Destroy the corpse before it's too late. -->
-  <UnnaturalCorpseAwakeningLetterExtra_StudyComplete>手遅れになる前に遺体を破壊しましょう.</UnnaturalCorpseAwakeningLetterExtra_StudyComplete>
+  <UnnaturalCorpseAwakeningLetterExtra_StudyComplete>手遅れになる前に死体を破壊しましょう.</UnnaturalCorpseAwakeningLetterExtra_StudyComplete>
   <!-- EN: Study the corpse to learn how to destroy it. -->
-  <UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>遺体を研究して破壊する方法を見つけましょう.</UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>
+  <UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>死体を研究して破壊する方法を見つけましょう.</UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>
 
   <!-- EN: Corpse awakened -->
-  <UnnaturalCorpseAwokenLetter>目覚めた遺体</UnnaturalCorpseAwokenLetter>
+  <UnnaturalCorpseAwokenLetter>目覚めた死体</UnnaturalCorpseAwokenLetter>
   <!-- EN: The unnatural corpse is rising! It intends to attack {PAWN_nameDef}!\n\nThe corpse will follow {PAWN_nameDef} forever no matter how far {PAWN_pronoun} goes.\n\nYou must destroy it now. -->
-  <UnnaturalCorpseAwokenLetterDesc>不自然な遺体が目覚め,{PAWN_nameDef}に向かって移動しています！\n\n遺体は{PAWN_nameDef}がどれほど遠くまではなれようとも,永遠についていきます.\n\n今すぐ破壊せねばなりません.</UnnaturalCorpseAwokenLetterDesc>
+  <UnnaturalCorpseAwokenLetterDesc>不自然な死体が目覚め,{PAWN_nameDef}に向かって移動しています！\n\n死体は{PAWN_nameDef}がどれほど遠くまではなれようとも,永遠についていきます.\n\n今すぐ破壊せねばなりません.</UnnaturalCorpseAwokenLetterDesc>
 
   <!-- EN: Unnatural corpse destroyed! -->
-  <UnnaturalCorpseAwokenDefeatedLetter>不自然な遺体が破壊されました！</UnnaturalCorpseAwokenDefeatedLetter>
+  <UnnaturalCorpseAwokenDefeatedLetter>不自然な死体が破壊されました！</UnnaturalCorpseAwokenDefeatedLetter>
   <!-- EN: The unnatural corpse charging towards {PAWN_nameDef} has been defeated!\n\nThe corpse will no longer torment {PAWN_nameDef}. -->
-  <UnnaturalCorpseAwokenDefeatedLetterDesc>{PAWN_nameDef}に向かっていた不自然な遺体が撃破されました！\n\n遺体はもはや{PAWN_nameDef}を苦しめることはありません.</UnnaturalCorpseAwokenDefeatedLetterDesc>
+  <UnnaturalCorpseAwokenDefeatedLetterDesc>{PAWN_nameDef}に向かっていた不自然な死体が撃破されました！\n\n死体はもはや{PAWN_nameDef}を苦しめることはありません.</UnnaturalCorpseAwokenDefeatedLetterDesc>
 
   <!-- Golden Cube -->
   <!-- EN: {PAWN_labelShort}'s obsession with the golden cube has intensified. -->
@@ -816,7 +816,7 @@
   <IncreasesChanceOfLovin>愛を育む可能性を増やします.</IncreasesChanceOfLovin>
 
   <!-- EN: Unnatural {0_label} corpse -->
-  <UnnaturalCorpse>不自然な{0_label}の遺体</UnnaturalCorpse>
+  <UnnaturalCorpse>不自然な{0_label}の死体</UnnaturalCorpse>
 
   <!-- Studiable -->
   <!-- EN: Knowledge from study reduced -->

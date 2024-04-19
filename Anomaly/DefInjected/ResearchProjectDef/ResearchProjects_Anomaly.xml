@@ -112,7 +112,7 @@
   <BioferriteHarvesting.generalRules.rulesStrings>
     <li>subject->バイオフェライト</li>
     <li>subject_story->奇妙な金属のような繊維状物質を研究してきました</li>
-    <li>subject_story->グールの遺体を生け捕りにしました</li>
+    <li>subject_story->グールの死体を生け捕りにしました</li>
     <li>subject_story->有機金属の隠れ家を発見しました</li>
     <li>subject_story->金属に汚染された奇妙な野生生物を観測しました</li>
     <li>subject_gerund->バイオフェライトを収穫する</li>
@@ -450,7 +450,7 @@
   <GhoulResurrection.generalRules.rulesStrings>
     <li>subject->グール蘇生</li>
     <li>subject_story->グールを蘇生する新たな方法を開発しました</li>
-    <li>subject_story->様々なアルコテック化合物を遺体に注入しました</li>
+    <li>subject_story->様々なアルコテック化合物を死体に注入しました</li>
     <li>subject_story->高濃度のアルコテックがグールへ与える影響を研究していました</li>
     <li>subject_story->グールの蘇生を何度も目撃しました</li>
     <li>subject_gerund->グールを蘇生する</li>
@@ -855,7 +855,7 @@
   <!-- EN: draw shamblers -->
   <SummonShamblers.label>シャンブラーの誘引</SummonShamblers.label>
   <!-- EN: Perform a psychic ritual which will draw a horde of animated corpses. While hostile, the corpses won't attack your colony directly. They can be captured for study. -->
-  <SummonShamblers.description>蘇生した遺体の大群を引き寄せるサイキック儀式を行います.この遺体は敵対的ですが,コロニーを直接攻撃することはありません.捕獲して研究することもできます.</SummonShamblers.description>
+  <SummonShamblers.description>蘇生した死体の大群を引き寄せるサイキック儀式を行います.この死体は敵対的ですが,コロニーを直接攻撃することはありません.捕獲して研究することもできます.</SummonShamblers.description>
   <!-- EN:
     <li>subject->shambler summoning rituals</li>
     <li>subject_story->studied the necrocults of the deadworlds, from the safety of a university library</li>

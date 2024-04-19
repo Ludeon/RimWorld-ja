@@ -51,7 +51,7 @@
   <!-- EN: release deadlife dust -->
   <ReleaseDeadlifeDust.label>死の塵の解放</ReleaseDeadlifeDust.label>
   <!-- EN: Release a cloud of dust-like substance that will settle on nearby corpses and raise them as shamblers. The shamblers will only attack your enemies. Deadlife dust is made of nano-scale archites that penetrate and reanimate dead tissue at the cellular level. -->
-  <ReleaseDeadlifeDust.description>粉塵のような雲を放って近くの遺体へ付着させ,それらをシャンブラーとして蘇生させます.シャンブラーは敵だけを攻撃します.死の塵はナノスケールのアルカイトでできており,死亡した組織へ浸透し,細胞レベルで蘇生させます.</ReleaseDeadlifeDust.description>
+  <ReleaseDeadlifeDust.description>粉塵のような雲を放って近くの死体へ付着させ,それらをシャンブラーとして蘇生させます.シャンブラーは敵だけを攻撃します.死の塵はナノスケールのアルカイトでできており,死亡した組織へ浸透し,細胞レベルで蘇生させます.</ReleaseDeadlifeDust.description>
   <!-- EN: release deadlife dust -->
   <ReleaseDeadlifeDust.verbProperties.label>死の塵の解放</ReleaseDeadlifeDust.verbProperties.label>
   
@@ -63,7 +63,7 @@
   <!-- EN: shape flesh -->
   <ShapeFlesh.label>肉の形成</ShapeFlesh.label>
   <!-- EN: Induce a dark archotech to reconfigure a corpse into a horrendous fleshbeast. The fleshbeast will be hostile to all humans, including the one who created it. -->
-  <ShapeFlesh.description>闇のアーコテックを誘発し,遺体を恐るべき獣へと再構成します.獣は,作成者を含め,すべての人間に対して敵意を抱きます</ShapeFlesh.description>
+  <ShapeFlesh.description>闇のアルコテックを誘発し,死体を恐るべき獣へと再構成します.獣は,作成者を含め,すべての人間に対して敵意を抱きます</ShapeFlesh.description>
   
   <!-- EN: spike launch -->
   <SpikeLaunch_Fingerspike.label>スパイクローンチ</SpikeLaunch_Fingerspike.label>

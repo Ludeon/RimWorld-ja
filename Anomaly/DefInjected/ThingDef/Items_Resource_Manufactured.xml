@@ -47,7 +47,7 @@
   <!-- EN: deadlife shell -->
   <Shell_Deadlife.label>デッドライフシェル</Shell_Deadlife.label>
   <!-- EN: An artillery shell packed with a dust-like substance that, after exploding into a cloud, will settle on nearby human and animal corpses and raise them as shamblers. The shamblers will only attack your enemies.\n\nThis can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_Deadlife.description>爆発すると雲のようになる粉塵のような物質が詰まった弾頭です.爆発後は近くの人間または動物の遺体に付着し,シャンブラーとして蘇生させます.シャンブラーは敵にのみ攻撃します.\n\nこれは迫撃砲から発射するか,トラップとして設置できます.爆発時はダメージを与えます.</Shell_Deadlife.description>
+  <Shell_Deadlife.description>爆発すると雲のようになる粉塵のような物質が詰まった弾頭です.爆発後は近くの人間または動物の死体に付着し,シャンブラーとして蘇生させます.シャンブラーは敵にのみ攻撃します.\n\nこれは迫撃砲から発射するか,トラップとして設置できます.爆発時はダメージを与えます.</Shell_Deadlife.description>
   
   <!-- EN: deadlife capsule -->
   <Shell_Deadlife_Releasing.label>死のカプセル</Shell_Deadlife_Releasing.label>

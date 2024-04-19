@@ -15,7 +15,7 @@
   <!-- EN: deathpall -->
   <Deathpall.label>デスポール</Deathpall.label>
   <!-- EN: A corpse-gray cloud composed of microscopic self-powered archites created by some unknown superintelligence. When they land on dead flesh, they enter the body and reanimate it to create a shambling imitation of life. -->
-  <Deathpall.description>何らかの未知の超知能によって作り出された,微小な自律稼働するアルカイトから成る屍灰の雲.遺体に付着すると体内に入り込み,よろめき歩く模造生命として蘇らせる.</Deathpall.description>
+  <Deathpall.description>何らかの未知の超知能によって作り出された,微小な自律稼働するアルカイトから成る屍灰の雲.死体に付着すると体内に入り込み,よろめき歩く模造生命として蘇らせる.</Deathpall.description>
   
   <!-- EN: devourer -->
   <Devourer.label>デバウアー</Devourer.label>
@@ -69,7 +69,7 @@
   <!-- EN: shambler -->
   <Shambler.label>シャンブラー</Shambler.label>
   <!-- EN: Corpses reanimated by microscopic archites. Shamblers are slow, mindless, and will attack relentlessly. Unless captured, shamblers die from metabolic exhaustion after several days. -->
-  <Shambler.description>微小なアルカイトによって蘇生された遺体です.シャンブラーは動きは遅く,心を持たないものの,容赦のない攻撃を行います.捕獲されないかぎり,数日後に代謝疲労で死亡します.</Shambler.description>
+  <Shambler.description>微小なアルカイトによって蘇生された死体です.シャンブラーは動きは遅く,心を持たないものの,容赦のない攻撃を行います.捕獲されないかぎり,数日後に代謝疲労で死亡します.</Shambler.description>
   
   <!-- EN: sightstealer -->
   <Sightstealer.label>サイトスティーラー</Sightstealer.label>
@@ -78,9 +78,9 @@
   <TwistedObelisk.label>捻れたオベリスク</TwistedObelisk.label>
   
   <!-- EN: unnatural corpse -->
-  <UnnaturalCorpse.label>不自然な遺体</UnnaturalCorpse.label>
+  <UnnaturalCorpse.label>不自然な死体</UnnaturalCorpse.label>
   <!-- EN: An odd corpse that feels waxy and warm to the touch. Something is deeply unsettling about it. -->
-  <UnnaturalCorpse.description>蝋のような感触の,温かさを感じさせる奇妙な遺体.極めて不穏な気持ちにさせる.</UnnaturalCorpse.description>
+  <UnnaturalCorpse.description>蝋のような感触の,温かさを感じさせる奇妙な死体.極めて不穏な気持ちにさせる.</UnnaturalCorpse.description>
   
   <!-- EN: void monolith -->
   <VoidMonolith.label>ヴォイドモノリス</VoidMonolith.label>

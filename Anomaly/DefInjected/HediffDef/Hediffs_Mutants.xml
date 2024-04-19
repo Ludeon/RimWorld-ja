@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: awoken unnatural corpse -->
-  <AwokenCorpse.label>覚醒した不自然な遺体</AwokenCorpse.label>
+  <AwokenCorpse.label>覚醒した不自然な死体</AwokenCorpse.label>
   <!-- EN: The energy building within this corpse is erupting. It has risen and is attacking with increasing power and speed. It will not stop until it reaches its victim. -->
-  <AwokenCorpse.description>この遺体の中に溜まっていたエネルギーが噴出している.遺体は立ち上がり,力と速度を増して攻撃していまし.それは犠牲者にたどり着くまで止まらないでしょう.</AwokenCorpse.description>
+  <AwokenCorpse.description>この死体の中に溜まっていたエネルギーが噴出している.死体は立ち上がり,力と速度を増して攻撃していまし.それは犠牲者にたどり着くまで止まらないでしょう.</AwokenCorpse.description>
   <!-- EN: The unnatural corpse is moving faster! -->
-  <AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>不自然な遺体の動きが早くなっています！</AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>
+  <AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>不自然な死体の動きが早くなっています！</AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>
   
   <!-- EN: ghoul -->
   <Ghoul.label>グール</Ghoul.label>
@@ -42,7 +42,7 @@
   <!-- EN: rising -->
   <Rising.label>蘇り</Rising.label>
   <!-- EN: Mysterious archotechnological influences are reanimating this creature's corpse. -->
-  <Rising.description>謎のアルコテクノロジーの影響により,この生物の遺体が蘇生しています.</Rising.description>
+  <Rising.description>謎のアルコテクノロジーの影響により,この生物の死体が蘇生しています.</Rising.description>
   
   <!-- EN: shambler -->
   <Shambler.label>シャンブラー</Shambler.label>
@@ -50,7 +50,7 @@
   <Shambler.description>この死亡した生物は,腐敗したアルカイトによって蘇生されました.シャンブラーは鈍重かつ精神も持たず,あらゆる生きている生物に容赦なく襲いかかります.数日間活動すると,代謝消耗により死亡します.捕獲したシャンブラーは動くことができないため,死亡しません.</Shambler.description>
   
   <!-- EN: shambler corpse -->
-  <ShamblerCorpse.label>シャンブラーの遺体</ShamblerCorpse.label>
+  <ShamblerCorpse.label>シャンブラーの死体</ShamblerCorpse.label>
   <!-- EN: This creature had previously been re-animated by corrupted archites. -->
   <ShamblerCorpse.description>この生物は,以前は腐敗したアルカイトによって蘇生されたものでした.</ShamblerCorpse.description>
   <!-- EN: Shambler wounds -->
