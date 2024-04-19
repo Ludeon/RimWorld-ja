@@ -74,7 +74,7 @@
 
   <!-- Death Pall -->
   <!-- EN: Death pall clearing -->
-  <LetterLabelDeathPallEnded>死の帳がの消滅</LetterLabelDeathPallEnded> 
+  <LetterLabelDeathPallEnded>死の帳の消滅</LetterLabelDeathPallEnded> 
   <!-- EN: The pall of death is lifting. The corpses reanimated by it will soon return to their natural state. -->
   <LetterDeathPallEnded>死の帳が晴れてきました.死から蘇った死体は,まもなく自然な状態に戻るでしょう.</LetterDeathPallEnded>
   
@@ -435,7 +435,7 @@
   <!-- EN: Consuming flesh. -->
   <HarbingerTreeConsuming>肉を食べています.</HarbingerTreeConsuming>
   <!-- EN: Will consume corpses and meat placed nearby. -->
-  <HarbingerTreeNotConsuming>近くに置かれた遺体または肉を食べます.</HarbingerTreeNotConsuming>
+  <HarbingerTreeNotConsuming>周囲の死体や肉を捕食する</HarbingerTreeNotConsuming>
   <!-- EN: Being consumed by harbinger tree. -->
   <ConsumedByHarbingerTree>先触れの木に捕食されています.</ConsumedByHarbingerTree>
   <!-- EN: flesh consumption -->
@@ -721,7 +721,7 @@
   <!-- EN: No available pawns. -->
   <MonolithActivateDisabledPawns>利用可能な入植者がいません.</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
-  <VoidMonolithInvestigatedText>モノリスの暗い金属質の表面は触れるとあたたかく,{PAWN_nameDef}は内側からうなるような音が聞こえるような気がしています.埃っぽい表面に描かれた線が,不安を掻き立てるような模様に感じられます.\n\n{PAWN_nameDef}は形に注目し,その意味を解き明かそうとしています.\n\n唸る音が強くなり,{PAWN_nameDef}の視界内の形が歪み始めますが,表面は代わりません.周囲の何も無い空間に力がうずまき始め,黒い形が{PAWN_possessive}精神のなかに浮かび上がります.\n\nアノマリーがうごめきはじめる...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigatedText>モノリスの暗い金属質の表面は触れるとあたたかく,{PAWN_nameDef}は内側からうなるような音が聞こえるような気がしました.埃っぽい表面に描かれた線は,不安を掻き立てる形をしているようにも見えます.\n\n{PAWN_nameDef}は形に注目し,その意味を解き明かそうとしました.\n\n唸る音が強くなり,{PAWN_nameDef}の視界内の形が歪み始めますが,モノリスの表面は何も変わりません.周囲の何も無い空間に力がうずまき始め,黒い形が{PAWN_possessive}精神のなかに浮かび上がります.\n\nアノマリーがうごめきはじめる...</VoidMonolithInvestigatedText>
   <!-- EN: Keep focusing on the Anomaly -->
   <VoidMonolithInvestigate>アノマリーに注視し続ける</VoidMonolithInvestigate>
   <!-- EN: Walk away -->
@@ -741,11 +741,11 @@
   <!-- EN: Required entities discovered. -->
   <VoidMonolithAllEntitiesDiscovered>必要な数の「存在」を発見しました.</VoidMonolithAllEntitiesDiscovered>
   <!-- EN: Required to increase level -->
-  <VoidMonolithRequiresDiscovery>レベル上昇に必要</VoidMonolithRequiresDiscovery>
+  <VoidMonolithRequiresDiscovery>レベルの上昇条件</VoidMonolithRequiresDiscovery>
   <!-- EN: Undiscovered entities -->
   <VoidMonolithRequiresDiscoveryShort>未発見の「存在」</VoidMonolithRequiresDiscoveryShort>
   <!-- EN: Must discover {0} more {1} monolith entities. -->
-  <VoidMonolithRequiresCategory>{0}体の{1}モノリス「存在」の発見が必須</VoidMonolithRequiresCategory>
+  <VoidMonolithRequiresCategory>{1}カテゴリーの「存在」を{0}体発見</VoidMonolithRequiresCategory>
   <!-- EN: Disturbing vision -->
   <VoidMonolithVisionLabel>不穏なビジョン</VoidMonolithVisionLabel>
   <!-- EN: {PAWN_nameDef} has had a strange dream. In it, {PAWN_pronoun} saw a black shape, unfurling in space and time, growing and consuming. The shape originated from a nearby crumbled monolith.\n\nUpon waking from the vision, {PAWN_nameDef} feels strangely drawn to the monolith. It calls to {PAWN_objective}. -->

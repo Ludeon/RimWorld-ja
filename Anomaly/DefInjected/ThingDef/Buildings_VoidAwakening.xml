@@ -39,7 +39,7 @@
   <!-- EN: void monolith -->
   <VoidMonolith.label>ヴォイドモノリス</VoidMonolith.label>
   <!-- EN: A monolith of unknown age, purpose, and construction. Its smooth surface is etched with lines that twist and writhe in unsettling patterns. -->
-  <VoidMonolith.description>年代も,目的も,構造も不明なモノリス.滑らかな表面には不穏な模様で,捻れ,捩れた線が刻まれています.</VoidMonolith.description>
+  <VoidMonolith.description>年代も,目的も,構造も不明なモノリス.滑らかな表面には不穏な模様を形作る,捻れた,悶え苦しむ線が刻まれています.</VoidMonolith.description>
   <!-- EN: activate -->
   <VoidMonolith.comps.CompGleamingMonolith.jobString>起動する</VoidMonolith.comps.CompGleamingMonolith.jobString>
   <!-- EN: Monolith study progress -->
@@ -57,7 +57,7 @@
   <!-- EN: Fallen monolith -->
   <VoidMonolith.comps.CompProximityLetter.letterLabel>倒れたモノリス</VoidMonolith.comps.CompProximityLetter.letterLabel>
   <!-- EN: {PAWN_nameDef} has noticed an ancient monolith partly buried nearby.\n\nIf you investigate it, you could learn more. -->
-  <VoidMonolith.comps.CompProximityLetter.letterText>{PAWN_nameDef}は近くに古代のモノリスが埋まっていることに気づきました.\n\n調査すれば,より多くのことがわかるかもしれません.</VoidMonolith.comps.CompProximityLetter.letterText>
+  <VoidMonolith.comps.CompProximityLetter.letterText>{PAWN_nameDef}は近くに古代のモノリスが埋まっていることに気づきました.\n\n調査をすれば,より多くのことがわかるかもしれません.</VoidMonolith.comps.CompProximityLetter.letterText>
   
   <!-- EN: void monolith attachment -->
   <VoidMonolithAttachmentBottomLeft.label>ヴォイドモノリスのアタッチメント</VoidMonolithAttachmentBottomLeft.label>
