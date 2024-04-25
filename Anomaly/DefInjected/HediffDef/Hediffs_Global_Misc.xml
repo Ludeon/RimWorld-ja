@@ -33,7 +33,9 @@
   <!-- EN: severe -->
   <BloodRage.stages.severe.label>重度</BloodRage.stages.severe.label>
   <!-- EN: extreme -->
-  <BloodRage.stages.extreme.label>深刻</BloodRage.stages.extreme.label>
+  <BloodRage.stages.extreme-0.label>深刻</BloodRage.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <BloodRage.stages.extreme-1.label>深刻</BloodRage.stages.extreme-1.label>
   
   <!-- EN: brainwipe coma -->
   <BrainwipeComa.label>記憶消去の昏睡</BrainwipeComa.label>
@@ -299,8 +301,8 @@
   
   <!-- EN: revenant hypnosis -->
   <RevenantHypnosis.label>レヴナントの催眠</RevenantHypnosis.label>
-  <!-- EN: This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or by being lit on fire. -->
-  <RevenantHypnosis.description>この人物はレヴナントに催眠をかけられ,リンクしたままになっています.瞬きすることなく目に見えぬ恐怖を見つめ,悪夢の如き生物について話し続けています.\n\n犠牲者に催眠をかけた後のレヴナントは,犠牲者と同じマップのどこかで眠りにつきます.\n\nレヴナントを殺すことで催眠は解除されます.隠れたレヴナントは,妨害フレア,爆発物,EMP,泡消火器,あるいは火をつけることで姿を現します.</RevenantHypnosis.description>
+  <!-- EN: This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or fire. -->
+  <RevenantHypnosis.description>この人物はレヴナントに催眠をかけられ,リンクしたままになっています.瞬きすることなく目に見えぬ恐怖を見つめ,悪夢の如き生物について話し続けています.\n\n犠牲者に催眠をかけた後のレヴナントは,犠牲者と同じマップのどこかで眠りにつきます.\n\nレヴナントを殺すことで催眠は解除されます.隠れたレヴナントは,妨害フレア,爆発物,EMP,泡消火器,あるいは炎で姿を現します.</RevenantHypnosis.description>
   
   <!-- EN: shard holder -->
   <ShardHolder.label>破片所持者</ShardHolder.label>

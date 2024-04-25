@@ -44,10 +44,10 @@
   <MessageBiomutationLanceTargetTooBig>ターゲット不可: {0_nameDef}は大きすぎます.</MessageBiomutationLanceTargetTooBig>
 
   <!-- Containment -->
-  <!-- EN: Warning: No rooms have the minimum containment strength for {0}. It will escape soon. -->
-  <MessageNoRoomWithMinimumContainmentStrength>警告: {0}の最低収容強度に足りる部屋がないため,すぐに脱走するでしょう.</MessageNoRoomWithMinimumContainmentStrength>
-  <!-- EN: Warning: {0} is below minimum containment strength for {1}. It will escape soon. -->
-  <MessageTargetBelowMinimumContainmentStrength>警告: {0}は{1}の最低収容強度未満であるため,すぐに脱走するでしょう.</MessageTargetBelowMinimumContainmentStrength>
+  <!-- EN: Warning: No rooms have the minimum containment strength for {0}. It may escape soon. -->
+  <MessageNoRoomWithMinimumContainmentStrength>警告: {0}の最低収容強度に足りる部屋がないため,脱走する恐れがあります.</MessageNoRoomWithMinimumContainmentStrength>
+  <!-- EN: Warning: {0} is below minimum containment strength for {1}. It may escape soon. -->
+  <MessageTargetBelowMinimumContainmentStrength>警告: {0}は{1}の最低収容強度未満であるため,脱走する恐れがあります.</MessageTargetBelowMinimumContainmentStrength>
   <!-- EN: Can't transfer to {0} reserved by someone else. -->
   <MessageHolderReserved>他の誰かが使用しているため,{0}を移せません.</MessageHolderReserved>
   <!-- EN: {EXECUTIONER_labelShort} has executed {VICTIM_kindIndef}. -->
