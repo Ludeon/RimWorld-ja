@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: No empty containment destination -->
-  <NoEmptyEntityHolders>空いている収容地点がありません</NoEmptyEntityHolders>
+  <NoEmptyEntityHolders>空いている収容場所がない</NoEmptyEntityHolders>
   <!-- EN: choose containment destination -->
-  <ChooseEntityHolder>収容地点を選んでください</ChooseEntityHolder>
+  <ChooseEntityHolder>収容場所を選択</ChooseEntityHolder>
   <!-- EN: Containment strength -->
   <FloatMenuContainmentStrength>収容強度</FloatMenuContainmentStrength>
   <!-- EN: {0_label} requires -->
@@ -15,7 +15,7 @@
   <!-- EN: Talk to {0_nameDef} -->
   <TalkTo>{0_nameDef}と話す</TalkTo>
   <!-- EN: Cannot talk to {0_nameDef} -->
-  <CannotTalkTo>{0_nameDef}と話せません</CannotTalkTo>
+  <CannotTalkTo>{0_nameDef}と話せない</CannotTalkTo>
   <!-- EN: incapable of suppression -->
   <ZeroSuppressionRate>抑制不可</ZeroSuppressionRate>
 

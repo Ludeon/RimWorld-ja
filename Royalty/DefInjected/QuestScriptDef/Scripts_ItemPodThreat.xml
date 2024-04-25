@@ -143,8 +143,8 @@
   -->
   <ThreatReward_SiteThreat_ItemPod.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->付近の貿易商から通信が入りました.[threat]が彼を襲っています!彼はあなたにシグナルを発して,[map_definite]へ敵を引き寄せて,彼を逃してくれるように頼んでいます.\n\nシグナルを送ると[askerEnemies]は,付近に拠点を配置してあなたを悩ませるでしょう.この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, あなたに助けを求めています. [askerEnemies]が,[asker_possessive]入植地を悩ませています.[asker_pronoun]は,シグナルを発して[map_definite]へ敵を引き寄せ,人々から遠ざける手助けをあなたにしててほしいようです.\n\nもしこれを行うと,[asker_possessive][askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, [map_definite]付近を旅しています. [asker_pronoun]は[threat]に追跡されており,彼らを[map_definite]へ向かわせるためあなたにシグナルを発してほしいそうです.\n\nもしこれを行うと,[askerEnemies]は付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, あなたに助けを求めています. [askerEnemies]が,[asker_possessive]入植地を悩ませています.[asker_pronoun]は,シグナルを発して[map_definite]へ敵を引き寄せ,人々から遠ざける手助けをあなたにしてほしいようです.\n\nもしこれを行うと,[askerEnemies]が付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, [map_definite]付近を旅しています. [asker_pronoun]は[threat]に追跡されており,彼らを[map_definite]へ向かわせるためあなたにシグナルを発してほしいそうです.\n\nもしこれを行うと,[askerEnemies]が付近に拠点を配置してあなたを悩ませるでしょう. この拠点は,[site/allSitePartsDescriptions] この拠点は破壊するまで残ります.</li>
     <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]の[site/enemyFaction_pawnsPlural]</li>
     <li>threat(priority=1,site/MechCluster_exists==True)->メカノイド</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->メカノイド</li>

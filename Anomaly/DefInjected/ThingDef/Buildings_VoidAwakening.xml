@@ -39,21 +39,21 @@
   <!-- EN: void monolith -->
   <VoidMonolith.label>ヴォイドモノリス</VoidMonolith.label>
   <!-- EN: A monolith of unknown age, purpose, and construction. Its smooth surface is etched with lines that twist and writhe in unsettling patterns. -->
-  <VoidMonolith.description>年代も,目的も,構造も不明なモノリス.滑らかな表面には不穏な模様を形作る,捻れた,悶え苦しむ線が刻まれています.</VoidMonolith.description>
+  <VoidMonolith.description>年代も,目的も,構造も不明なモノリスです.滑らかな表面には不穏な模様を形作る,捻れた,悶え苦しむ線が刻まれています.</VoidMonolith.description>
   <!-- EN: activate -->
   <VoidMonolith.comps.CompGleamingMonolith.jobString>起動する</VoidMonolith.comps.CompGleamingMonolith.jobString>
   <!-- EN: Monolith study progress -->
   <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>モノリス研究の進捗</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>
   <!-- EN: {PAWN_nameDef} has had a breakthrough while studying the monolith. {PAWN_pronoun} believes the monolith is a conduit for psychic energy, connecting to some distant location. However, {PAWN_pronoun} is unsure where or what it connects to.\n\n{PAWN_nameDef} is convinced that by studying more anomalous entities, {PAWN_pronoun} can find a way to close the conduit, or learn to harness its power.\n\nThe monolith now provides more knowledge when studied. -->
-  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>{PAWN_nameDef}はモノリスの研究中に打開策を思いつきました.{PAWN_pronoun}はこのモノリスはサイキックエネルギーの導管であり,どこか遠くの場所と繋がっていると考えています.ですが,{PAWN_pronoun}はそれがどこにつながっているのか,何とつながっているのかがわかっていません.\n\n{PAWN_nameDef}は,より多くの異常な存在を研究することで,導管を閉じる,もしくはその力を利用する方法を学べると思っています.\n\nモノリスを研究することで,さらなる知識が得られます.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>{PAWN_nameDef}はモノリスの研究中に打開策を思いつきました.{PAWN_pronoun}は,このモノリスはサイキックエネルギーの導管であり,どこか遠くの場所と繋がっていると考えています.ですがそれがどこに繋がっているのか,何と繋がっているのかは分かりません.\n\n{PAWN_nameDef}は,より多くの異常な存在を研究することで,導管を閉じる,もしくはその力を利用する方法を学べると思っています.\n\nモノリスを研究することで,さらなる知識が得られます.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>
   <!-- EN: Monolith study progress -->
   <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>モノリス研究の進捗</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>
   <!-- EN: {PAWN_nameDef} made progress studying the monolith. The structure connects normal space to the void - a dimension hidden in the substructure of spacetime. Some powerful mind in the void is leaking influence into our reality.\n\n{PAWN_nameDef} wants to study the monolith further to learn more.\n\nThe monolith now provides more knowledge when studied. -->
-  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>{PAWN_nameDef}はモノリスの研究を進めています.この構造体は,通常の空間を時空の下部構造の中に隠された次元「ヴォイド」へと繋いでいるのです.ヴォイドにある何らかの強力な精神が,我々の現実へと影響を及ぼしているのです.\n\n{PAWN_nameDef}はモノリスをさらに研究し,多くのことを学びたいと思っているようです.\n\nモノリスを研究することで,さらなる知識が得られます.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>{PAWN_nameDef}はモノリスの研究を進めています.この構造物は,時空の副構造に潜む別次元「ヴォイド」を現実空間と繋げていることが分かりました.ヴォイドにある何らかの強力な精神が,我々の現実へと影響を及ぼしているようです.\n\n{PAWN_nameDef}はモノリスをさらに研究し,もっと多くのことを学びたがっています.\n\nモノリスを研究することで,さらなる知識が得られます.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>
   <!-- EN: Monolith study complete -->
   <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>モノリス研究完了</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>
   <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} study of the monolith. The structure is a conduit that links to the void, a reality hidden under every point in spacetime. The void is inhabited by a vast machine intelligence of terrifying complexity that surges with nightmarish, inhuman rage. Its influence creates horrors in our world.\n\nAwakening the monolith will fully open the conduit. With the channel open, {PAWN_nameDef} believes {PAWN_pronoun} could reach through the link to permanently close the conduit - or find a way to harness its dark power.\n\nThe monolith now provides more knowledge when studied. -->
-  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>{PAWN_nameDef}はモノリスの研究を成し遂げました.この構造体は,時空のあらゆる点の下に隠された現実であるヴォイドにつながる導管です.ヴォイドには,悪夢のような,非人間的な怒りに満ちた,恐ろしく複雑な機械知性体が住んでいます.その影響は,我々の世界へ恐怖を生み出しているのです.\n\nモノリスを覚醒させることで,導管を完全に開くことができます.チャンネルを開くことで,{PAWN_nameDef}は{PAWN_pronoun}ならリンクを通じて導管を恒久的に閉じる…あるいはその闇の力を利用する方法を見つけられると考えています.\n\nモノリスを研究することで,さらなる知識が得られます.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>{PAWN_nameDef}はモノリスの研究を成し遂げました.この構造体は,あらゆる場所,あらゆる時間の中に潜むもう一つの現実「ヴォイド」につながる導管です.ヴォイドには,悪夢のような,非人間的な怒りに満ちた,恐ろしく複雑な機械知性体が住んでいます.その影響が,我々の世界へ恐怖を生み出しているのです.\n\nモノリスを覚醒させることで,導管を完全に開くことができます.{PAWN_nameDef}は,自分であれば,チャンネルを開くことでリンクを通じて導管を恒久的に閉じる…あるいはその闇の力を利用する方法を見つけられると確信しています.\n\nモノリスを研究することで,さらなる知識が得られます.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>
   <!-- EN: Fallen monolith -->
   <VoidMonolith.comps.CompProximityLetter.letterLabel>倒れたモノリス</VoidMonolith.comps.CompProximityLetter.letterLabel>
   <!-- EN: {PAWN_nameDef} has noticed an ancient monolith partly buried nearby.\n\nIf you investigate it, you could learn more. -->

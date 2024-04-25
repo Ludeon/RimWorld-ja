@@ -144,7 +144,7 @@
   <!-- EN: bioferrite shaping -->
   <BioferriteShaping.label>バイオフェライト成形</BioferriteShaping.label>
   <!-- EN: Shape and re-form bioferrite into useful tools, weapons, flooring, and more. -->
-  <BioferriteShaping.description>バイオフェライトを再成形し,便利な道具,武器,床張などを作ります</BioferriteShaping.description>
+  <BioferriteShaping.description>バイオフェライトを再成形し,便利な道具,武器,床張などを作ります.</BioferriteShaping.description>
   <!-- EN:
     <li>subject->bioferrite shaping</li>
     <li>subject_story->learned unique techniques for molding and sculpting</li>
@@ -328,7 +328,7 @@
   <!-- EN: electroharvester -->
   <Electroharvester.label>エレクトロハーベスター</Electroharvester.label>
   <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
-  <Electroharvester.description>収容された「存在」あら電気を作り出す発電機を作ります.このプロセスは「存在」の攻撃性を高め,収容しにくくします.</Electroharvester.description>
+  <Electroharvester.description>収容された「存在」から電気を作り出す発電機を作ります.このプロセスは「存在」の攻撃性を高め,収容しにくくします.</Electroharvester.description>
   <!-- EN:
     <li>subject->entity-derived power generation</li>
     <li>subject_story->researched ion pumps in cell membranes</li>
@@ -351,7 +351,7 @@
   <!-- EN: entity containment -->
   <EntityContainment.label>「存在」の収容</EntityContainment.label>
   <!-- EN: Build holding platforms and inhibitors to better contain entities. -->
-  <EntityContainment.description>収容プラットフォームとインヒビターを建てて,「存在」を収容しやすくします</EntityContainment.description>
+  <EntityContainment.description>収容プラットフォームとインヒビターを建てて,「存在」を収容しやすくします.</EntityContainment.description>
   <!-- EN:
     <li>subject->entity containment</li>
     <li>subject_story->worked in a prisonworld research facility</li>
@@ -736,7 +736,7 @@
   <!-- EN: skip abduction -->
   <SkipAbductionPlayer.label>スキップアブダクション</SkipAbductionPlayer.label>
   <!-- EN: Perform a psychic ritual that abducts a random hostile person from anywhere in the world, putting them in a short-term coma for capture. -->
-  <SkipAbductionPlayer.description>惑星中のどこからでも,敵対者1人をランダムに誘拐するサイキック儀式を行い,捕獲のために短時間昏睡状態にします.</SkipAbductionPlayer.description>
+  <SkipAbductionPlayer.description>惑星のどこからか,敵対者1人をランダムに誘拐するサイキック儀式を行い,捕獲のために短時間昏睡状態にします.</SkipAbductionPlayer.description>
   <!-- EN:
     <li>subject->psychic abduction</li>
     <li>subject->skip abduction</li>

@@ -293,7 +293,7 @@
   <!-- EN: The {0}'s activity level rises over time. Activity rises faster if the {0} is damaged or provoked.\n\nIf the activity level reaches 100%, the {0} will activate.\n\nWardens can suppress the {0} to keep its activity at a safe level. They will suppress it any time its activity is above the assigned level: {LEVEL}\n\nEntities that have higher activity levels will give more knowledge when studied. -->
   <ActivitySuppressionTooltipDesc>{0}の活動レベルは時間とともに上昇します.{0}がダメージを受けたり喚起されると,活動レベルの上昇が早くなります.\n\n活動レベルが100%になると,{0}は起動します.\n\n看守は{0}を抑制し,活動レベルを安全水域に維持できます.看守は,活動レベルが割り当てられたレベル以上の場合には常に抑制を行います：{LEVEL}\n\n活動レベルが高い「存在」は,研究時により多くの知識を得られます.</ActivitySuppressionTooltipDesc>
   <!-- EN: This determines whether the {PAWN_labelShort} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
-  <ActivitySuppressionToggleTooltipDesc>これは活動レベルが{LEVEL}以下になったときに,自動的に{PAWN_labelShort}が抑制されるかを決定します.\n\n自動抑制は現在{ONOFF}になっています.</ActivitySuppressionToggleTooltipDesc>
+  <ActivitySuppressionToggleTooltipDesc>{PAWN_labelShort}の活動レベルが{LEVEL}以上になったときに,自動で抑制するかどうかを設定できます.\n\n自動抑制は現在{ONOFF}になっています.</ActivitySuppressionToggleTooltipDesc>
 
   <!-- Activity Descs -->
   <!-- EN: activity level -->
@@ -433,11 +433,11 @@
   <!-- EN: A new harbinger tree has sprouted. -->
   <HarbingerTreeSprouted>新しい先触れの木が芽吹きました.</HarbingerTreeSprouted>
   <!-- EN: Consuming flesh. -->
-  <HarbingerTreeConsuming>肉を食べています.</HarbingerTreeConsuming>
+  <HarbingerTreeConsuming>肉を食べている</HarbingerTreeConsuming>
   <!-- EN: Will consume corpses and meat placed nearby. -->
   <HarbingerTreeNotConsuming>周囲の死体や肉を捕食する</HarbingerTreeNotConsuming>
   <!-- EN: Being consumed by harbinger tree. -->
-  <ConsumedByHarbingerTree>先触れの木に捕食されています.</ConsumedByHarbingerTree>
+  <ConsumedByHarbingerTree>先触れの木に捕食されている</ConsumedByHarbingerTree>
   <!-- EN: flesh consumption -->
   <FleshConsumption>肉食い</FleshConsumption>
   <!-- EN: Create corpse stockpile -->
@@ -721,7 +721,7 @@
   <!-- EN: No available pawns. -->
   <MonolithActivateDisabledPawns>利用可能な入植者がいません.</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
-  <VoidMonolithInvestigatedText>モノリスの暗い金属質の表面は触れるとあたたかく,{PAWN_nameDef}は内側からうなるような音が聞こえるような気がしました.埃っぽい表面に描かれた線は,不安を掻き立てる形をしているようにも見えます.\n\n{PAWN_nameDef}は形に注目し,その意味を解き明かそうとしました.\n\n唸る音が強くなり,{PAWN_nameDef}の視界内の形が歪み始めますが,モノリスの表面は何も変わりません.周囲の何も無い空間に力がうずまき始め,黒い形が{PAWN_possessive}精神のなかに浮かび上がります.\n\nアノマリーがうごめきはじめる...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigatedText>モノリスの暗い金属質の表面は触れるとあたたかく,{PAWN_nameDef}は内側からうなるような音が聞こえるような気がしました.埃っぽい表面に描かれた線は,不安を掻き立てる形をしているようにも見えます.\n\n{PAWN_nameDef}は形に注目し,その意味を解き明かそうとしています.\n\n唸る音が強くなり,{PAWN_nameDef}の視界内の形が歪み始めますが,モノリスの表面は何も変わりません.周囲の何も無い空間に力がうずまき始め,黒い形が{PAWN_possessive}精神のなかに浮かび上がります.\n\nアノマリーがうごめきはじめる...</VoidMonolithInvestigatedText>
   <!-- EN: Keep focusing on the Anomaly -->
   <VoidMonolithInvestigate>アノマリーに注視し続ける</VoidMonolithInvestigate>
   <!-- EN: Walk away -->
@@ -776,7 +776,7 @@
   <!-- EN: Fallen monolith -->
   <MonolithAutoActivatingLabel>倒れたモノリス</MonolithAutoActivatingLabel>
   <!-- EN: A wave of dread passes over your colonists. The fallen monolith has begun to stir. Slowly, it begins to twist and rearrange itself, morphing into something new.\n\nWithin a matter of days, the process will be complete. Be prepared for whatever comes next. -->
-  <MonolithAutoActivatingText>入植者たちに恐怖の波が押し寄せます.倒れたモノリスが動き始めました.ゆっくりとそれはねじれ,再構成し始め,新しい何かへと姿を変えていきます.\n\n数日のうちに,このプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithAutoActivatingText>
+  <MonolithAutoActivatingText>入植者たちに恐怖の波が押し寄せます.倒れたモノリスが動き始めました.それはゆっくりとねじれ,再構成し始め,新しい何かへと姿を変えていきます.\n\n数日のうちに,このプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithAutoActivatingText>
   <!-- EN: Void monolith -->
   <MonolithAutoActivatedLabel>ヴォイドモノリス</MonolithAutoActivatedLabel>
   <!-- EN: The monolith’s transformation is almost complete... -->

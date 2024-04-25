@@ -3,23 +3,23 @@
 
   <!-- Entities -->
   <!-- EN: {0_definite}'s activity is rising due to taking damage. -->
-  <MessageActivityRisingDamage>{0_definite}はダメージを受けたことで活動率が高まっている.</MessageActivityRisingDamage>
+  <MessageActivityRisingDamage>{0_definite}はダメージを受けたことで活動率が高まっています.</MessageActivityRisingDamage>
   <!-- EN: {0_definite} has died on a holding platform. -->
-  <EntityDiedOnHoldingPlatform>{0_labelShort}は収容プラットフォームで死亡した.</EntityDiedOnHoldingPlatform>
+  <EntityDiedOnHoldingPlatform>{0_labelShort}は収容プラットフォームで死亡した</EntityDiedOnHoldingPlatform>
   <!-- EN: New entity discovered -->
   <MessageEntityDiscovered>新しい「存在」の発見</MessageEntityDiscovered>
 
   <!-- Hate chanters -->
   <!-- EN: The cultists are in a trance and don't respond when attacked. -->
-  <MessageHateChantersAbsorbed>崇拝者はトランス状態にあり,攻撃に反応しない.</MessageHateChantersAbsorbed>
+  <MessageHateChantersAbsorbed>崇拝者はトランス状態にあるため,攻撃に反応しません.</MessageHateChantersAbsorbed>
   <!-- EN: The hate chanting has increased in volume. -->
-  <MessageHateChantIncreased>憎悪の詠唱が大きくなっている.</MessageHateChantIncreased>
+  <MessageHateChantIncreased>憎悪の詠唱が大きくなっています.</MessageHateChantIncreased>
 
   <!-- Self-resurrection -->
   <!-- EN: {0_nameDef} can self-resurrect on command using death refusal. -->
-  <SelfResurrectText>{0_nameDef}は死を拒む者を使用することで自己組成ができる</SelfResurrectText>
+  <SelfResurrectText>{0_nameDef}は死を拒む者を使用することで自己組成ができます.</SelfResurrectText>
   <!-- EN: {0_nameDef} is using death refusal to self-resurrect. -->
-  <MessageUsingSelfResurrection>{0_nameDef}は死を拒む者を使って自己蘇生している</MessageUsingSelfResurrection>
+  <MessageUsingSelfResurrection>{0_nameDef}は死を拒む者を使って自己蘇生しています.</MessageUsingSelfResurrection>
 
   <!-- Pit Gate -->
   <!-- EN: The pit gate has collapsed. -->
@@ -29,7 +29,7 @@
 
   <!-- Fleshsack -->
   <!-- EN: The flesh sack contained something -->
-  <FleshmassContainedMessage>肉袋には何かが入っています</FleshmassContainedMessage>
+  <FleshmassContainedMessage>肉袋に何かが入っている</FleshmassContainedMessage>
 
   <!-- Psychic rituals -->
   <!-- EN: {0_pawnsPluralDef} are attacking! -->

@@ -11,9 +11,9 @@
 
   <!-- Hate chanters -->
   <!-- EN: Cultist hate chanters -->
-  <HateChantersLabel>崇拝者の憎悪の詠唱者</HateChantersLabel>
+  <HateChantersLabel>崇拝者の憎悪の詠唱</HateChantersLabel>
   <!-- EN: Cultist hate chanters have arrived. They intend to perform a hate chant ritual to force psychic rage into your colonists and drive them mad. The chant will grow louder and louder until the cultists are stopped. -->
-  <HateChantersText>崇拝者の憎悪の詠唱者がやってきました.彼らは憎悪の詠唱儀式を行って,入植者たちに精神的な怒りを強制し,狂気に駆り立てようとしています.この詠唱は,崇拝者たちを止めるまで大きくなっていきます.</HateChantersText>
+  <HateChantersText>憎悪の詠唱を行う崇拝者がやってきました.彼らは憎悪の詠唱儀式を行って,入植者たちに精神的な怒りを強制し,狂気に駆り立てようとしています.この詠唱は,崇拝者たちを止めるまで大きくなっていきます.</HateChantersText>
   <!-- EN: Cultists attacking -->
   <HateChantersAttackingLabel>崇拝者の攻撃</HateChantersAttackingLabel>
   <!-- EN: The cultists have ended their hate chant and have begun to come out of their ritual trance.\n\nPrepare to defend. -->
@@ -190,7 +190,7 @@
   <!-- EN: Distress signal -->
   <DistressSignalLabel>救難信号</DistressSignalLabel>
   <!-- EN: You've intercepted a distress signal from a nearby camp of {FACTION_name}.\n\nThe frantic voice begs for immediate assistance defending against a threat. They offer everything at their camp in return for help, including shards of powerful archotechnology.\n\nAs the voice tries to explain the nature of the threat, the signal goes dead. -->
-  <DistressSignalText>近くの{FACTION_name}のキャンプからの救難信号を傍受しました.\n\n必死な声が,脅威から身を守るために即時の援助を懇願しています.彼らは援助の見返りとして,強力なアルコテクノロジーの破片など,キャンプにあるすべてのものを提供するそうです.\n\n声が脅威の性質について説明しようとしたところで,信号は途絶えました.</DistressSignalText>
+  <DistressSignalText>近くの{FACTION_name}のキャンプからの救難信号を傍受しました.\n\nこのキャンプは脅威に晒されているようで,必死な声が即時の援助を懇願しています.彼らは援助の見返りとして,強力なアルコテクノロジーの破片など,キャンプにあるすべてのものを提供するそうです.\n\n声が脅威の性質について説明しようとしたところで,信号は途絶えました.</DistressSignalText>
   <!-- EN: Ambush -->
   <DistressSignalAmbushLabel>待ち伏せ</DistressSignalAmbushLabel>
   <!-- EN: Fleshbeasts are emerging from a nearby pit burrow! -->
@@ -230,21 +230,21 @@
   <!-- EN: Shambler approaches -->
   <LetterLabelShamblerArrived>シャンブラーが接近しています</LetterLabelShamblerArrived>
   <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerSwarmArrived>{0}体の腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき死体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
+  <LetterShamblerSwarmArrived>{0}体の腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n1体でも捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
   <!-- EN: A shambling, rotting corpse is approaching. Some inhuman force has reanimated this lifeless body and set it to murder.\n\nIt will now wander through the area. If it sees a human, it will attack. If not, it will leave in a few days.\n\nIf you can capture it, you can study it for anomaly knowledge. -->
-  <LetterShamblerArrived>腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき死体を蘇生させ,人を殺させているのです.\n\nこのシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
+  <LetterShamblerArrived>腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
   <!-- EN: {ANIMALKIND_label} shamblers -->
   <LetterLabelShamblerAnimalsArrived>{0}体のシャンブラー</LetterLabelShamblerAnimalsArrived>
   <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerAnimalsArrived>腐った{ANIMALKIND_label}の死体が,よろめくように近づいています.何らかの非人間的な力がこれらの生なき死体を蘇生させ,人を殺させているのです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃してきます.そうでない場合,数日以内にいなくなるでしょう.\n\n1体捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
+  <LetterShamblerAnimalsArrived>腐った{ANIMALKIND_label}の死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n1体でも捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
 
   <!-- Ghoul pod crash -->
   <!-- EN: Transport pod crash -->
   <GhoulPodCrashLabel>輸送ポッド事故</GhoulPodCrashLabel>
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
-  <GhoulPodCrashText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃するっでしょう.捕獲して収容プラットフォームに入れることで,さらに研究することもできます.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashText>
+  <GhoulPodCrashText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃し始めます.捕獲して収容プラットフォームに入れることで,研究することも可能です.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashText>
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby. On closer inspection, it appears to be {PAWN_nameDef}, a previous member of your crew.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
-  <GhoulPodCrashStartingPawnText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.しっかりと調べてみると,その姿は以前のクルーである{PAWN_nameDef}のようです.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃するっでしょう.捕獲して収容プラットフォームに入れることで,さらに研究することもできます.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashStartingPawnText>
+  <GhoulPodCrashStartingPawnText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.しっかりと調べてみると,その姿は以前のクルーである{PAWN_nameDef}のようです.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃し始めます.捕獲して収容プラットフォームに入れることで,研究することも可能です.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashStartingPawnText>
 
   <!-- Entity codex -->
   <!-- EN: New research available -->
