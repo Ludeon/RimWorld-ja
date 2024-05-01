@@ -40,11 +40,13 @@
 
   <!-- EN: Bioferrite generation -->
   <StatsReport_BioferriteGeneration>バイオフェライト生成</StatsReport_BioferriteGeneration>
-  <!-- EN: How much bioferrite this entity generates per day. When captured on a holding platform, bioferrite can be gathered from it by building a bioferrite harvester. -->
-  <StatsReport_BioferriteGeneration_Desc>この存在が1日ごとに生成するバイオフェライトの量です.収容プラットフォームに捕獲した時に,バイオフェライトハーベスターを建てることで,バイオフェライトが集められます.</StatsReport_BioferriteGeneration_Desc>
+  <!-- EN: How much bioferrite this entity generates per day when connected to a bioferrite harvester. -->
+  <StatsReport_BioferriteGeneration_Desc>バイオフェライトハーベスターに接続したときの,この「存在」が1日ごとに生成するバイオフェライトの量です.</StatsReport_BioferriteGeneration_Desc>
   <!-- EN: Multiplier for bioferrite density -->
   <StatsReport_BioferriteDensityMultiplier>バイオフェライト密度の乗数</StatsReport_BioferriteDensityMultiplier>
-  
+  <!-- EN: Multiplier for bioferrite extracted recently -->
+  <StatsReport_BioferriteExtractedMultiplier>最近抽出されたバイオフェライトの乗数</StatsReport_BioferriteExtractedMultiplier>
+
   <!-- EN: Offering -->
   <StatsReport_Offering>供物</StatsReport_Offering>
   <!-- EN: The ingredients required to perform the psychic ritual. -->

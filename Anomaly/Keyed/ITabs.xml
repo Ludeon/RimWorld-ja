@@ -28,6 +28,14 @@
   <EntityStudyMode_Execute>処刑</EntityStudyMode_Execute>
   <!-- EN: A warden will execute the restrained entity. -->
   <EntityStudyMode_ExecuteDesc>看守が拘束した「存在」を処刑します.</EntityStudyMode_ExecuteDesc>
+  <!-- EN: Extract bioferrite -->
+  <EntityStudyMode_Extract>バイオフェライト抽出</EntityStudyMode_Extract>
+  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester. -->
+  <EntityStudyMode_ExtractDesc>可能な限り,医者は捕獲された「存在」からバイオフェライトを抽出します.この抽出方法は単純ですが非効率的です.「存在」がバイオフェライトハーベスターに接続されている場合は実行できません.</EntityStudyMode_ExtractDesc>
+  <!-- EN: Requires bioferrite extraction. -->
+  <RequiresBioferriteExtraction>バイオフェライトの抽出が必要です.</RequiresBioferriteExtraction>
+  <!-- EN: Blocked by bioferrite harvester. -->
+  <BioferriteHarvesterAttached>バイオフェライトハーベスターに接続されているため抽出できません.</BioferriteHarvesterAttached>
   <!-- EN: Can't be executed. -->
   <CantBeExecuted>処刑不可</CantBeExecuted>
   <!-- EN: Knowledge gain -->

@@ -36,6 +36,13 @@
   <!-- EN: execute -->
   <ExecuteEntity.verb>処刑する</ExecuteEntity.verb>
   
+  <!-- EN: extract bioferrite from entities -->
+  <ExtractBioferrite.label>「存在」からバイオフェライトを抽出</ExtractBioferrite.label>
+  <!-- EN: extracting from -->
+  <ExtractBioferrite.gerund>から抽出する</ExtractBioferrite.gerund>
+  <!-- EN: extract from -->
+  <ExtractBioferrite.verb>抽出する</ExtractBioferrite.verb>
+  
   <!-- EN: fill in -->
   <FillIn.label>埋める</FillIn.label>
   <!-- EN: filling in -->

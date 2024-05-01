@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambient horror -->
+  <AmbientHorror.label>アンビエントホラー</AmbientHorror.label>
+  <!-- EN: The monolith does not appear. Any Anomaly threat can occur, but Anomaly threats will be rare by default. Good if you want to interact with Anomaly expansion content without it being the focus. Note: The monolith endgame cannot occur in this mode. -->
+  <AmbientHorror.description>モノリスが出現しなくなります.アノマリー関連の脅威は発生しますが,デフォルトではこの脅威の発生は低確率です. Anomalyのコンテンツはほどほどにしたい場合に適しています. 注意:このモードではモノリスのエンドゲームが発生しません.</AmbientHorror.description>
+  
+  <!-- EN: disabled -->
+  <Disabled.label>無効化</Disabled.label>
+  <!-- EN: Anomaly threats do not occur. Good if you don’t want to interact with most Anomaly expansion content. -->
+  <Disabled.description>アノマリー関連の脅威が発生しなくなります.Anomalyのコンテンツに関わりたくない場合に適しています.</Disabled.description>
+  
+  <!-- EN: standard with monolith -->
+  <Standard.label>スタンダードとモノリス</Standard.label>
+  <!-- EN: The standard Anomaly experience. Anomaly threats are linked to the activation of the void monolith. -->
+  <Standard.description>標準的なアノマリーを体験できます.アノマリー関連の脅威は,ヴォイドモノリスの活性化と連動します.</Standard.description>
+  
+</LanguageData>

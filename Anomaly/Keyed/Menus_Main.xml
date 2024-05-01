@@ -2,7 +2,11 @@
 <LanguageData>
 
   <!-- EN: Anomaly -->
-  <DifficultyAnomalySection>アノマリー</DifficultyAnomalySection>
+  <DifficultyAnomalySection>Anomaly</DifficultyAnomalySection>
+  <!-- EN: Anomaly threats -->
+  <Difficulty_AnomalyThreats_Label>アノマリーの脅威</Difficulty_AnomalyThreats_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related. -->
+  <Difficulty_AnomalyThreats_Info>アノマリー関連の大きな脅威が発生する割合を調整します.</Difficulty_AnomalyThreats_Info>
   <!-- EN: Anomaly threats (inactive) -->
   <Difficulty_AnomalyThreatsInactive_Label>アノマリーの脅威(非アクティブ)</Difficulty_AnomalyThreatsInactive_Label>
   <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is not active. Only certain minor Anomaly incidents can occur when the monolith is inactive. -->
@@ -11,10 +15,23 @@
   <Difficulty_AnomalyThreatsActive_Label>アノマリーの脅威(アクティブ)</Difficulty_AnomalyThreatsActive_Label>
   <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is active. With the current settings:\n  - {0} of major threats will be Anomaly-related at monolith level 1 and 5\n  - {1} of major threats will be Anomaly-related at monolith levels 2-4 -->
   <Difficulty_AnomalyThreatsActive_Info>モノリスがアクティブである場合の,アノマリー関連の脅威の割合を調整します.現在の設定では次のようになります:\n-大きな脅威の{0}がモノリスレベル1,5のアノマリー関連\n-大きな脅威の{1}がモノリスレベル2~4のアノマリー関連</Difficulty_AnomalyThreatsActive_Info>
+  <!-- EN: Study efficiency -->
+  <Difficulty_StudyEfficiency_Label>調査効率</Difficulty_StudyEfficiency_Label>
+  <!-- EN: Add a multiplier to how much research is gained when studying unnatural entities. -->
+  <Difficulty_StudyEfficiency_Info>不自然な「存在」を調査したときに得られる研究ポイントの乗数を調整します.</Difficulty_StudyEfficiency_Info>
 
   <!-- EN: Child shamblers -->
   <Difficulty_ChildShamblersAllowed_Label>子どものシャンブラー</Difficulty_ChildShamblersAllowed_Label>
   <!-- EN: Reanimated child shamblers will sometimes appear. -->
   <Difficulty_ChildShamblersAllowed_Info>蘇生された子どものシャンブラーが時々出現します.</Difficulty_ChildShamblersAllowed_Info>
+  
+  <!-- EN: Anomaly settings -->
+  <AnomalySettings>アノマリー設定</AnomalySettings>
+  <!-- EN: Choose how you'd like to integrate Anomaly horror into your game: -->
+  <ChooseAnomalyPlaystyle>Anomalyのホラー要素をどの程度反映させるか選択してください:</ChooseAnomalyPlaystyle>
+  <!-- EN: Update Anomaly storyteller settings. These can be modified during the game -->
+  <CanBeEditedInStorytellerSettings>現在のストーリーテラーの設定をアノマリー向けに変更します. この設定はゲーム中でも変更できます</CanBeEditedInStorytellerSettings>
+  <!-- EN: Set to standard playstyle -->
+  <SetToStandardPlaystyle>標準のプレイスタイルを反映</SetToStandardPlaystyle>
 
 </LanguageData>

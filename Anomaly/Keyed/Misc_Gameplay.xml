@@ -534,10 +534,10 @@
   <MessageShardDropped>{0}は闇のアルコテクノロジーの破片を落としました.回収して使うことができます.</MessageShardDropped>
   
   <!-- Blood rain -->
-  <!-- EN: The blood rain has driven {0} into a berserk rage! -->
-  <Berserk_BloodRain>血の雨が{0}を凶暴化させました！</Berserk_BloodRain>
-  <!-- EN: The blood rain has driven {0} into a manhunting rage! -->
-  <Manhunter_BloodRain>血の雨が{0}を殺人へと駆り立てました！</Manhunter_BloodRain>
+  <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
+  <Berserk_BloodRain>血の雨が{0_nameIndef}を凶暴化させました！</Berserk_BloodRain>
+  <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
+  <Manhunter_BloodRain>血の雨が{0_nameIndef}を殺人へと駆り立てました！</Manhunter_BloodRain>
   <!-- EN: This happened because of blood rage buildup. -->
   <MentalBreakReason_BloodRage>これは血の怒りの蓄積によって発生しました.</MentalBreakReason_BloodRage>
   
@@ -872,5 +872,19 @@
   <LetterChimerasAttackingLabel>キメラの攻撃</LetterChimerasAttackingLabel>
   <!-- EN: The chimeras have begun their attack! -->
   <LetterChimerasAttacking>キメラが攻撃を開始しました！</LetterChimerasAttacking>
-
+  
+  <!-- Anomaly event frequency -->
+  <!-- EN: No major threats -->
+  <AnomalyFrequency_None>脅威を無効化</AnomalyFrequency_None>
+  <!-- EN: Very rare -->
+  <AnomalyFrequency_VeryRare>非常に珍しい</AnomalyFrequency_VeryRare>
+  <!-- EN: Rare -->
+  <AnomalyFrequency_Rare>珍しい</AnomalyFrequency_Rare>
+  <!-- EN: Balanced -->
+  <AnomalyFrequency_Balanced>バランス</AnomalyFrequency_Balanced>
+  <!-- EN: Intense -->
+  <AnomalyFrequency_Intense>苛烈</AnomalyFrequency_Intense>
+  <!-- EN: Overwhelming -->
+  <AnomalyFrequency_Overwhelming>圧倒的</AnomalyFrequency_Overwhelming>
+  
 </LanguageData>
