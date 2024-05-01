@@ -124,9 +124,9 @@
   <!-- EN: A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy. -->
   <GrayStatueTeleporter.description>不穏な形状をした,奇妙な捻れた彫像.内部に奇妙なエネルギーが満たされており,穏やかな唸りをあげています.</GrayStatueTeleporter.description>
   <!-- EN: {PAWN_nameDef} teleported -->
-  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>{PAWN_nameDef}がテレポートしました</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>{PAWN_nameDef}がテレポート</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>
   <!-- EN: After approaching the strange statue, {PAWN_nameDef} blinked and found {PAWN_objective}self transported to a new location. -->
-  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>奇妙な像に接近すると,{PAWN_nameDef}は瞬いたかと思うと新しい場所へとテレポートしました.</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>奇妙な像に接近した{PAWN_nameDef}は,一瞬のうちに自分が別の場所にテレポートしていることに気づきました.</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>
   
   <!-- EN: wall -->
   <GrayWall.label>壁</GrayWall.label>
@@ -189,7 +189,7 @@
   <!-- EN: proximity detector -->
   <ProximityDetector.label>近接式検知器</ProximityDetector.label>
   <!-- EN: A scanner capable of detecting invisible creatures. The device raises an alarm when it detects the presence of psychically invisible biosignatures within its radius. -->
-  <ProximityDetector.description>目に見えない生物を検知するスキャナー.この装置は,その範囲内に精神的な不可視のバイオシグニチャーの存在を検出すると警報を発します.</ProximityDetector.description>
+  <ProximityDetector.description>目に見えない生物を検知するスキャナー.この装置は,その範囲内に精神的な不可視のバイオシグネチャーの存在を検出すると警報を発します.</ProximityDetector.description>
   
   <!-- EN: sand cube sculpture -->
   <SandCubeSculpture.label>砂のキューブの彫刻</SandCubeSculpture.label>

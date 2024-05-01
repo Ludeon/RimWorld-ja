@@ -11,13 +11,13 @@
   <!-- EN: Shuffling listlessly. -->
   <ShamblerShuffling>無関心に足を引きずって歩いている.</ShamblerShuffling>
   <!-- EN: Be careful, the group contains a shambler gorehulk. -->
-  <LetterText_ShamblerGorehulk>この集団には,シャンブラー・ゴアハルクがいるので注意しよう.</LetterText_ShamblerGorehulk>
+  <LetterText_ShamblerGorehulk>注意してください,この集団にはシャンブラー・ゴアハルクがいます.</LetterText_ShamblerGorehulk>
   <!-- EN: Be careful, the group contains several shambler gorehulks. -->
-  <LetterText_ShamblerGorehulkPlural>この集団には,複数のシャンブラー・ゴアハルクがいるので注意しよう.</LetterText_ShamblerGorehulkPlural>
+  <LetterText_ShamblerGorehulkPlural>注意してください,この集団には複数のシャンブラー・ゴアハルクがいます.</LetterText_ShamblerGorehulkPlural>
   <!-- EN: Be careful, the group contains a shambler chimera. -->
-  <LetterText_ShamblerChimera>この集団には,シャンブラー・キメラがいるので注意しよう.</LetterText_ShamblerChimera>
+  <LetterText_ShamblerChimera>注意してください,この集団にはシャンブラー・キメラがいます.</LetterText_ShamblerChimera>
   <!-- EN: Be careful, the group contains several shambler chimeras. -->
-  <LetterText_ShamblerChimeraPlural>この集団には,複数のシャンブラー・キメラがいるので注意しよう.</LetterText_ShamblerChimeraPlural>
+  <LetterText_ShamblerChimeraPlural>注意してください,この集団には複数のシャンブラー・キメラがいます.</LetterText_ShamblerChimeraPlural>
 
   <!-- EN: Non-humans cannot participate in rituals. -->
   <MessageRitualCannotBeMutant>人間以外は儀式に参加できません.</MessageRitualCannotBeMutant>
@@ -231,7 +231,7 @@
   <ObeliskAbductorLetter>歪んだオベリスクはバチバチとエネルギーを鳴り響かせ,周囲の空間を歪めています.あらゆる生物が姿を消し始め,間もなく完全に消滅するでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意しましょう.</ObeliskAbductorLetter>
   
   <!-- EN: {PAWN_nameDef} is disappearing -->
-  <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef}が消滅しています.</ObeliskAbductedDisappearingLetterLabel>
+  <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef}の消滅</ObeliskAbductedDisappearingLetterLabel>
   <!-- EN: {PAWN_nameDef} noticed activity in the warped obelisk. Some mysterious internal mechanism has come to life, causing {PAWN_nameDef} to begin to disappear. {PAWN_pronoun} will soon vanish entirely. -->
   <ObeliskAbductedDisappearingLetter>{PAWN_nameDef}が歪んだオベリスクの動きに気が付きました.何らかの謎めいた内部機構が動き出し,{PAWN_nameDef}が消滅しはじめています.{PAWN_pronoun}は間もなく完全に消滅するでしょう.</ObeliskAbductedDisappearingLetter>
   
@@ -577,12 +577,12 @@
   <!-- EN: Unnatural corpse study progress -->
   <UnnaturalCorpseStudyLetter>不自然な死体研究の進捗</UnnaturalCorpseStudyLetter>
   <!-- EN: Your investigation of the unnatural corpse has revealed more about the body. An archotech shard at its core psychically links it with {VICTIM_nameDef}. It will rebuild itself if destroyed, and teleport any distance to be near {VICTIM_nameDef}. \n\n{RESEARCHER_nameDef} thinks that there may be a way to permanently destroy the corpse but will need to study it further.\n\nStudy the corpse more to learn how to destroy it. -->
-  <UnnaturalCorpseStudyLetterDesc>不自然な死体の調査により,より詳しいことが明らかになりました.コアにあるアルコテックの破片が,{VICTIM_nameDef}と精神的に結びついているようです.それは破壊されると自身を再構築し,{VICTIM_nameDef}の近くまでどれほど離れていようともテレポートします.\n\n{RESEARCHER_nameDef}はこの死体を永久に破壊する方法があるかもしれないと考えていますが,そのためにはさらなる研究が必要です.</UnnaturalCorpseStudyLetterDesc>
+  <UnnaturalCorpseStudyLetterDesc>不自然な死体の調査により,より詳しいことが明らかになりました.コアにあるアルコテックの破片が,{VICTIM_nameDef}と精神的に結びついているようです.それは破壊されると自身を再構築し,どれほど離れていようとも{VICTIM_nameDef}の近くにテレポートします.\n\n{RESEARCHER_nameDef}はこの死体を永久に破壊する方法があるかもしれないと考えていますが,そのためにはさらなる研究が必要です.</UnnaturalCorpseStudyLetterDesc>
 
   <!-- EN: Unnatural corpse study complete -->
   <UnnaturalCorpseStudyCompletedLetter>不自然な死体研究の完了</UnnaturalCorpseStudyCompletedLetter>
   <!-- EN: Your investigation of the unnatural corpse has revealed how to safely remove the archotech shard. Doing so will stop it from psychically tormenting {VICTIM_nameDef}. However, it will also prevent further study of the corpse. -->
-  <UnnaturalCorpseStudyCompletedLetterDesc>不自然な死体を調査した結果,アルコテックの破片を安全に取り除く方法が明らかになりました.これを粉うことで{VICTIM_nameDef}の精神的苦痛は止まります.ただし,これ以上の死体の研究を妨げることになります.</UnnaturalCorpseStudyCompletedLetterDesc>
+  <UnnaturalCorpseStudyCompletedLetterDesc>不自然な死体を調査した結果,アルコテックの破片を安全に取り除く方法が明らかになりました.これを行うことで,{VICTIM_nameDef}の精神的苦痛を止めることができます.ただし,この死体はこれ以上研究できなくなります.</UnnaturalCorpseStudyCompletedLetterDesc>
 
   <!-- EN: Corpse shard -->
   <UnnaturalCorpseDeactivatedLetter>死体の破片</UnnaturalCorpseDeactivatedLetter>
@@ -683,7 +683,7 @@
   
   <!-- Labyrinth -->
   <!-- EN: Entering the labyrinth -->
-  <GeneratingLabyrinth>迷宮入り</GeneratingLabyrinth>
+  <GeneratingLabyrinth>迷宮に移動中</GeneratingLabyrinth>
   <!-- EN: {PAWN_nameDef} has vanished. -->
   <MessagePawnVanished>{PAWN_nameDef}は消滅しました.</MessagePawnVanished>
   <!-- EN: {PAWN_nameDef} has reappeared. -->
@@ -695,7 +695,7 @@
   <!-- EN: Warped obelisk -->
   <LetterLabelObeliskDiscovered>歪んだオベリスク</LetterLabelObeliskDiscovered>
   <!-- EN: {PAWN_nameDef} has discovered a large obelisk. It looks nearly identical to the one that originally brought {PAWN_objective} here. Perhaps it can be activated to return {PAWN_objective} home.\n\nSelect {PAWN_nameDef} and right-click the obelisk to activate it. -->
-  <LetterObeliskDiscovered>{PAWN_nameDef}が巨大なオベリスクを発見しました.それは,{PAWN_objective}ここにもともと連れてきたものと同じように見えます.おそらく,起動できれば{PAWN_pronoun}の家に戻れるでしょう.\n\n{PAWN_nameDef}を選んで,オベリスクを右クリックで起動します.</LetterObeliskDiscovered>
+  <LetterObeliskDiscovered>{PAWN_nameDef}は巨大なオベリスクを発見しました.それは,{PAWN_objective}ここに送り込んだオベリスクと同じような見た目をしています.おそらく,起動できれば{PAWN_pronoun}は家に戻れるでしょう.\n\n{PAWN_nameDef}を選択して,オベリスクを右クリックすることで起動できます.</LetterObeliskDiscovered>
   
   <!-- EN: Floor etchings -->
   <LetterLabelFloorEtchings>床のエッチング</LetterLabelFloorEtchings>
