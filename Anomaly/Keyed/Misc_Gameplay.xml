@@ -307,7 +307,7 @@
   <!-- EN: Capture {0_definite}. It must be restrained on a holding platform. Once restrained, it can be studied. -->
   <CaptureEntityDesc>{0_definite}を捕獲します.収容プラットフォームに拘束する必要があります.拘束すると,研究が可能になります.</CaptureEntityDesc>
   <!-- EN: Cancel capture -->
-  <CancelCapture>捕獲不可</CancelCapture>
+  <CancelCapture>捕獲をキャンセル</CancelCapture>
   <!-- EN: Cancel capturing {0_definite}. -->
   <CancelCaptureDesc>{0_definite}の捕獲をキャンセルします.</CancelCaptureDesc>
   <!-- EN: ready to study -->
@@ -319,7 +319,7 @@
   <!-- EN: Must be captured in a holding platform. -->
   <RequiresHoldingPlatform>収容プラットフォームに捕獲する必要があります.</RequiresHoldingPlatform>
   <!-- EN: Choose a location for the nociosphere to teleport to. -->
-  <ChooseNociosphereDest>ノチオスフィアがテレポートする場所を選んでください.</ChooseNociosphereDest>
+  <ChooseNociosphereDest>ノチオスフィアをテレポートさせる場所を選んでください.</ChooseNociosphereDest>
   <!-- EN: Transfer {0_definite} -->
   <TransferEntity>{0_definite}の移動</TransferEntity>
   <!-- EN: Transfer the contained entity to another holding platform. -->

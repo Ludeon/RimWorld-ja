@@ -208,7 +208,7 @@
   <ArrestChance>逮捕成功率 {0}</ArrestChance>
 
   <!-- EN: Capture {1_labelShort} -->
-  <Capture>{1_labelShort}を捕らえる</Capture>
+  <Capture>{1_labelShort}の捕獲</Capture>
   <!-- EN: capture {0_labelShort} -->
   <CaptureLower>{0_labelShort}を捕らえる</CaptureLower>
   <!-- EN: Cannot capture -->
@@ -218,7 +218,7 @@
   <!-- EN: not recruitable -->
   <UnrecruitableNoFaction>勧誘不可</UnrecruitableNoFaction>
   <!-- EN: Transfer {0_label} -->
-  <TransferEntity>{0_definite}を移動させる</TransferEntity>
+  <TransferEntity>{0_definite}の移動</TransferEntity>
 
   <!-- EN: Rescue {1_labelShort} -->
   <Rescue>{1_labelShort}を救助する</Rescue>
