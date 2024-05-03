@@ -862,11 +862,11 @@
 
   <!-- Chimeras -->
   <!-- EN: The chimera is {0} -->
-  <MessageChimeraModeChangeSingular>キメラは{0}です</MessageChimeraModeChangeSingular>
+  <MessageChimeraModeChangeSingular>キメラが{0}</MessageChimeraModeChangeSingular>
   <!-- EN: The chimeras are {0} -->
-  <MessageChimeraModeChangePlural>キメラは{0}です</MessageChimeraModeChangePlural>
+  <MessageChimeraModeChangePlural>キメラが{0}</MessageChimeraModeChangePlural>
   <!-- EN: temporarily withdrawing. -->
-  <MessageChimeraWithdrawing>離脱症状中です.</MessageChimeraWithdrawing>
+  <MessageChimeraWithdrawing>一時的に離脱しています.</MessageChimeraWithdrawing>
 
   <!-- EN: Chimeras attacking -->
   <LetterChimerasAttackingLabel>キメラの攻撃</LetterChimerasAttackingLabel>
