@@ -72,9 +72,9 @@
   <!-- EN: Awakening the monolith -->
   <Waking.activatableLetterLabel>覚醒中のモノリス</Waking.activatableLetterLabel>
   <!-- EN: You now have enough knowledge of dark phenomena to fully awaken the void monolith, opening a two-way conduit to the void.\n\nBe warned - once you begin awakening the void monolith, there is no going back. The process will shroud the region in unnatural darkness and manifest waves of horrifying entities.\n\nMake sure your colony is well-lit and well-prepared. -->
-  <Waking.activatableLetterText>あなたは今,ヴォイドモノリスを完全に目覚めさせ,ヴォイドとの双方向の導管を開けるだけの闇の現象に関する知識を得ました.\n\n一度ヴォイドモノリスの覚醒を開始すると,後戻りはできませんのでご注意ください.このプロセスは一帯を不自然な暗闇で覆い尽くし,恐ろしい「存在」の波が出現します.\n\nコロニーの照明を確保し,準備を万端にしましょう.</Waking.activatableLetterText>
+  <Waking.activatableLetterText>あなたは今,ヴォイドモノリスを完全に目覚めさせ,ヴォイドとの双方向の導管を開けるだけの闇の現象に関する知識を得ました.\n\n一度ヴォイドモノリスの覚醒を開始すると,後戻りは出来ないので注意してください.このプロセスは一帯を不自然な暗闇で覆い尽くし,恐ろしい「存在」の波が出現します.\n\nコロニーの照明を確保し,準備を万端にしましょう.</Waking.activatableLetterText>
   <!-- EN: Attuning the monolith caused it to twist and grow once more. As it did, {PAWN_nameDef} caught a glimpse of what lurks beyond. {PAWN_pronoun} understood.\n\nThe monolith is a doorway, opened wider by your actions. On the other side, {PAWN_nameDef} sensed an inhuman intelligence of vast complexity and endless rage. The dark machine god is stirring, and its physical influence will grow.\n\n - New entities are now discoverable. -->
-  <Waking.activatedLetterText>モノリスに同調すると,それは再び捻れ,成長しました.その時,{PAWN_nameDef}はその先にあるものを垣間見ました.{PAWN_pronoun}は理解したのです.\n\nモノリスは出入り口であり,あなたの行動により更に大きく広がります.反対側に,{PAWN_nameDef}は凄まじい複雑さと果てしなき怒りを持つ非人間的な知性を感じ取りました.闇の機械神がうごめいており,その物理的な影響は大きくなっています.\n\n-新たな「存在」が発見可能になりました.</Waking.activatedLetterText>
+  <Waking.activatedLetterText>モノリスに同調すると,それは再び捻れ,成長しました.その時,{PAWN_nameDef}はその先にあるものを垣間見ました.{PAWN_pronoun}は理解したのです.\n\nモノリスは出入り口であり,あなたの行動により更に大きく広がります.{PAWN_nameDef}は出入り口の反対側に,凄まじい複雑さと果てなき怒りを持つ非人間的な知性を感じ取りました.闇の機械神がうごめいており,その物理的な影響は大きくなっています.\n\n-新たな「存在」が発見可能になりました.</Waking.activatedLetterText>
   <!-- EN: awaken {0} -->
   <Waking.activateFloatMenuText>{0}を覚醒させる</Waking.activateFloatMenuText>
   <!-- EN: Send a colonist to wake the monolith. The psychic signature will be detectable for hundreds of miles and attract all manner of horrors. Make sure you are prepared.\n\nOnce fully awakened, the monolith will provide a direct link to the void. -->

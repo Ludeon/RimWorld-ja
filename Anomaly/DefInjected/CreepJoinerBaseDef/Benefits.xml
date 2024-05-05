@@ -14,12 +14,12 @@
   <!-- EN: death refusal -->
   <DeathRefusal.label>死を拒む者</DeathRefusal.label>
   <!-- EN: As the former subject of a cultist ritual, {PAWN_nameDef} has the ability to defy death. Black archotechnology courses throughout {PAWN_possessive} body, allowing {PAWN_objective} to self-resurrect. When {PAWN_pronoun} does, {PAWN_possessive} flesh rapidly reforms, replacing missing organs and healing wounds. The process is, however, imperfect. -->
-  <DeathRefusal.letterExtra>かつて崇拝者の儀式の対象であった{PAWN_nameDef}は,死に抗う能力を持っています.黒きアルコテクノロジーが{PAWN_possessive}前進を巡り,{PAWN_pronoun}が自己再生することを可能としているのです.{PAWN_pronoun}が死亡すると,{PAWN_possessive}肉体は急速に再生し,欠損した臓器は補われ,傷は治療されます.ですが,そのプロセスは不完全なものです</DeathRefusal.letterExtra>
+  <DeathRefusal.letterExtra>かつて崇拝者の儀式の対象であった{PAWN_nameDef}は,死に抗う能力を持っています.黒きアルコテクノロジーが{PAWN_possessive}全身を巡り,{PAWN_pronoun}が自己再生することを可能としているのです.{PAWN_pronoun}が死亡すると,{PAWN_possessive}肉体は急速に再生し,欠損した臓器は補われ,傷は治療されます.ですが,そのプロセスは不完全なものです.</DeathRefusal.letterExtra>
   
   <!-- EN: fleshcrafter -->
-  <Fleshcrafter.label>肉体造り師</Fleshcrafter.label>
+  <Fleshcrafter.label>ビースト生成者</Fleshcrafter.label>
   <!-- EN: {PAWN_nameDef} claims to be gifted with the dark art of animating dead flesh. {PAWN_pronoun} can turn corpses into hideous fleshbeasts. -->
-  <Fleshcrafter.letterExtra>{PAWN_nameDef}は死んだ肉体を復活させる闇の技術を授かったといいます.{PAWN_pronoun}は死体を恐ろしい獣へと変化させることができます.</Fleshcrafter.letterExtra>
+  <Fleshcrafter.letterExtra>{PAWN_nameDef}は死んだ肉体を復活させる闇の技術を授かったといいます.{PAWN_pronoun}は死体を恐ろしいフレッシュビーストへと変化させることができます.</Fleshcrafter.letterExtra>
   
   <!-- EN: joybringer -->
   <Joybringer.label>喜びをもたらす者</Joybringer.label>
@@ -49,6 +49,6 @@
   <!-- EN: unnatural healing -->
   <UnnaturalHealing.label>不自然な治癒</UnnaturalHealing.label>
   <!-- EN: {PAWN_pronoun} offers to use {PAWN_possessive} healing power to help you. -->
-  <UnnaturalHealing.letterExtra>{PAWN_pronoun}は{PAWN_possessive}治癒の力を使ってあなたを助けると申し出ています.</UnnaturalHealing.letterExtra>
+  <UnnaturalHealing.letterExtra>{PAWN_pronoun}は自身の治癒の力を使ってコロニーを手助けしたいと申し出ています.</UnnaturalHealing.letterExtra>
   
 </LanguageData>

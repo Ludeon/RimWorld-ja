@@ -6,28 +6,28 @@
   <!-- EN: A blind healer is approaching the colony. -->
   <Blindhealer.letterLabel>盲目の癒し手がコロニーに近づいてきています.</Blindhealer.letterLabel>
   <!-- EN: A small, withered {PAWN_genderNoun} stands in front of you. Where {PAWN_possessive} eyes should be, there are only scar-crusted holes in {PAWN_possessive} flesh. Yet, even without eyes, {PAWN_pronoun} somehow looks at you with kindness. {PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
-  <Blindhealer.letterPrompt>小さく,萎れたような{PAWN_genderNoun}があなたの前に立っています.その目があるべき場所には,傷跡だらけの穴が空いているだけです.だが,その目がなくとも,{PAWN_pronoun}はなぜか優しげにあなたを見つめています.{PAWN_pronoun}は,自身の技術がここで必要とされていることを知り,しばらく滞在したいと言っています.</Blindhealer.letterPrompt>
+  <Blindhealer.letterPrompt>小さく,萎れたような{PAWN_genderNoun}が対話者の前に立っています.その目があるべき場所には,傷跡だらけの穴だけが空いています.しかし,その目がなくとも,{PAWN_pronoun}はなぜか優しげに相手を見つめています.{PAWN_pronoun}は,自身の技術がここで必要とされることを知っており,しばらく滞在したいと言っています.</Blindhealer.letterPrompt>
   
   <!-- EN: drifter -->
   <CreepDrifter.label>放浪者</CreepDrifter.label>
   <!-- EN: A visitor is approaching the colony. -->
   <CreepDrifter.letterLabel>訪問者がコロニーに近づいてきています.</CreepDrifter.letterLabel>
   <!-- EN: The weary-looking drifter stretches {PAWN_possessive} legs. {PAWN_pronoun} seems very tired.\n\n{PAWN_pronoun} asks to stay in your colony for a while - at least until {PAWN_pronoun} has recovered {PAWN_possessive} strength. -->
-  <CreepDrifter.letterPrompt>くたびれた様子の放浪者がその足を伸ばします.どうやら,{PAWN_pronoun}はとても疲れているようです.\n\n{PAWN_pronoun}は,しばらく…少なくとも{PAWN_possessive}力が回復するまで,あなたのコロニーに滞在させてほしいと言っています.</CreepDrifter.letterPrompt>
+  <CreepDrifter.letterPrompt>くたびれた様子の放浪者がその足を伸ばします.どうやら,{PAWN_pronoun}はとても疲れているようです.\n\n{PAWN_pronoun}は,しばらく…少なくとも{PAWN_possessive}力が回復するまで,このコロニーに滞在させてほしいと言っています.</CreepDrifter.letterPrompt>
   
   <!-- EN: cult escapee -->
   <CultEscapee.label>カルト脱走者</CultEscapee.label>
   <!-- EN: A mangled figure is approaching the colony. -->
   <CultEscapee.letterLabel>ボロボロの人影がコロニーに近づいてきています.</CultEscapee.letterLabel>
   <!-- EN: The mangled stranger stares at you with empty eyes and speaks in a broken voice. {PAWN_pronoun} claims to have escaped from a terrible cult and begs to join your colony. -->
-  <CultEscapee.letterPrompt>ボロボロになった見知らぬ人物が,虚ろな目であなたを見つめ,しわがれた声であなたに話しかけます.{PAWN_pronoun}は,自分はカルト教団から逃れてきた者であり,コロニーに加わりたいと懇願しています.</CultEscapee.letterPrompt>
+  <CultEscapee.letterPrompt>ボロボロになった見知らぬ人物が,虚ろな目で対話者を見つめ,しわがれた声で話しかけます.{PAWN_pronoun}は,自分はカルト教団から逃れてきた者であり,コロニーに加わりたいと懇願しています.</CultEscapee.letterPrompt>
   
   <!-- EN: dark scholar -->
   <DarkScholar.label>闇の学者</DarkScholar.label>
   <!-- EN: A dark scholar covered with twisted scars is approaching the colony. -->
   <DarkScholar.letterLabel>捻れた傷跡に覆われた闇の学者がコロニーに近づいてきています.</DarkScholar.letterLabel>
   <!-- EN: The dark scholar slouches in place, lifeless and silent. Only {PAWN_possessive} eyes seem alive, as if {PAWN_pronoun} could look inside you.\n\n{PAWN_pronoun} says that this is where {PAWN_pronoun} belongs and asks to stay for a while. {PAWN_possessive} tone indicates that {PAWN_pronoun} will not take 'no' for an answer. -->
-  <DarkScholar.letterPrompt>闇の学者が,その場所に生気なく,黙ったまま佇んでいます.{PAWN_possessive}目だけが,まるであなたの内面を見透かすかのように,それが生きていることを物語っています.\n\n{PAWN_pronoun}は,ここが自分の居場所であると言い,しばしの滞在を申し出てきました.{PAWN_possessive}口調は,その答えに「ノー」は許されないことを示しています.</DarkScholar.letterPrompt>
+  <DarkScholar.letterPrompt>闇の学者が,その場所に生気なく,黙ったまま佇んでいます.しかし{PAWN_possessive}目だけは生きており,まるで相手の内側を覗いているかのようです.\n\n{PAWN_pronoun}は,ここが自分の居場所であると言い,しばらくの滞在を申し出てきました.{PAWN_possessive}口調は,その答えに「ノー」は許されないことを示しています.</DarkScholar.letterPrompt>
   
   <!-- EN: deal maker -->
   <DealMaker.label>交渉人</DealMaker.label>
@@ -41,20 +41,20 @@
   <!-- EN: A ragged stranger with leathery skin is approaching your colony. -->
   <LeatheryStranger.letterLabel>革のような肌をしたボロボロの見知らぬ人物がコロニーに近づいてきています.</LeatheryStranger.letterLabel>
   <!-- EN: The leathery stranger stares into space and speaks in a monotone, as though {PAWN_pronoun} hardly sees anyone or anything. {PAWN_pronoun} refuses to leave, insisting {PAWN_pronoun} is only interested in your colony. {PAWN_pronoun} says that {PAWN_pronoun} can help. -->
-  <LeatheryStranger.letterPrompt>革のような肌の見知らぬ人物が,宙空を見つめ,まるでその目には何物も見えていないかのように,単調に言葉を発します.{PAWN_pronoun}は立ち去ることを拒み,興味があるのはあなたのコロニーだけであると告げます.{PAWN_pronoun}は,助けになれると言っています.</LeatheryStranger.letterPrompt>
+  <LeatheryStranger.letterPrompt>革のような肌の見知らぬ人物が,宙空を見つめ,まるでその目には何物も見えていないかのように,単調に言葉を発します.{PAWN_pronoun}は立ち去ることを拒み,このコロニー以外に興味はないことを強調しています.そして{PAWN_pronoun}は,自分であればコロニーの力になれると言いました.</LeatheryStranger.letterPrompt>
   
   <!-- EN: lone genius -->
   <LoneGenius.label>孤独な天才</LoneGenius.label>
   <!-- EN: A lone figure is approaching the colony. -->
   <LoneGenius.letterLabel>孤独な人影がコロニーに近づいてきています.</LoneGenius.letterLabel>
   <!-- EN: The strange figure keeps muttering about some scientific breakthrough. All {PAWN_pronoun} needs is a laboratory. If you let {PAWN_objective} stay, {PAWN_pronoun} will share {PAWN_possessive} vast knowledge with you. It's hard to tell whether {PAWN_pronoun}'s insane or a genius - or both. -->
-  <LoneGenius.letterPrompt>その奇妙な人影は,何らかの科学的ブレイクスルーについてつぶやき続けています.{PAWN_pronoun}が必要とするのは研究室だけです.もし{PAWN_objective}滞在させれば,{PAWN_possessive}膨大な知識があなたに分け与えられるでしょう.{PAWN_pronoun}が狂人なのか天才なのか...それともその両方であるのかはわかりません.</LoneGenius.letterPrompt>
+  <LoneGenius.letterPrompt>その奇妙な人影は,何らかの科学的ブレイクスルーについてつぶやき続けています.{PAWN_pronoun}が必要とするのは研究室だけです.もし{PAWN_objective}滞在させれば,本人の膨大な知識がコロニーに恩恵を与えるでしょう.{PAWN_pronoun}が狂人なのか天才なのか...それともその両方であるのかはわかりません.</LoneGenius.letterPrompt>
   
   <!-- EN: timeless one -->
   <TimelessOne.label>時間なき者</TimelessOne.label>
   <!-- EN: A teenager is approaching the colony. {PAWN_pronoun} has a strange air of confidence around {PAWN_objective}. -->
   <TimelessOne.letterLabel>若者がコロニーに近づいています.その周囲には,奇妙なまでの自信が満ち溢れています.</TimelessOne.letterLabel>
   <!-- EN: {PAWN_nameDef} is barely more than a child but in {PAWN_possessive} thoughtful eyes you sense an ancient wisdom. When {PAWN_pronoun} speaks, the words seem to come from an unnatural knowledge of endless time. {PAWN_pronoun} says that the stars brought {PAWN_objective} here to fulfill {PAWN_possessive} destiny. {PAWN_pronoun} wants to stay with you and help. -->
-  <TimelessOne.letterPrompt>{PAWN_nameDef}は子供と言っても良いほどの年齢ですが,その目には古代の叡智が感じ取れます.{PAWN_pronoun}の言葉には,まるで無限の時を得ているかのような不自然な知識が含まれているようにも見えます.{PAWN_pronoun}は自分の運命を果たすため,星によってここに導かれたと主張しています.{PAWN_pronoun}はここに滞在し,あなたの助けとなりたいようです.</TimelessOne.letterPrompt>
+  <TimelessOne.letterPrompt>{PAWN_nameDef}は子供と言っても良いほどの年齢ですが,その目には古代の叡智が感じ取れます.{PAWN_pronoun}の言葉には,まるで無限の時を得ているかのような不自然な知識が含まれているようにも見えます.{PAWN_pronoun}は自分の運命を果たすため,星によってここに導かれたと主張しています.{PAWN_pronoun}はここに滞在し,コロニーの助けとなりたいようです.</TimelessOne.letterPrompt>
   
 </LanguageData>

@@ -160,47 +160,47 @@
   <!-- EN: Obelisk mutation -->
   <ObeliskTentacleLetterLabel>オベリスクの変異</ObeliskTentacleLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open as a fleshy growth erupted from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a squirming tentacle!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed. -->
-  <ObeliskTentacleLetter>オベリスクに干渉している間,{PAWN_nameDef}は腕のうずきを感じました.数分後,{PAWN_possessive}皮膚が裂け,身体から膿が吹き出してきました.{PAWN_possessive}腕はうごめく触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.</ObeliskTentacleLetter>
+  <ObeliskTentacleLetter>{PAWN_nameDef}はオベリスクに干渉する最中,腕に違和感を覚えました.そして数分後,{PAWN_possessive}皮膚が裂け,身体から膿が吹き出しました.{PAWN_possessive}腕はうごめく触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.</ObeliskTentacleLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshWhipLetterLabel>オベリスクの変異</ObeliskFleshWhipLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open violently as a growth burst from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a tentacle tipped with a bony blade!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed by this disturbing event. The tentacle is hideous, but it will make an excellent melee weapon. -->
-  <ObeliskFleshWhipLetter>オベリスクに干渉している間,{PAWN_nameDef}は腕のうずきを感じました.数分後,{PAWN_possessive}皮膚が暴力的に裂け,身体から膿が激しく吹き出してきました.{PAWN_possessive}腕は先端に骨の刃のついた触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.触手は恐ろしい見た目ですが,優れた近接武器になるでしょう.</ObeliskFleshWhipLetter>
+  <ObeliskFleshWhipLetter>{PAWN_nameDef}はオベリスクに干渉する最中,腕に違和感を覚えました.そして数分後,{PAWN_possessive}皮膚が暴力的に裂け,身体から膿が激しく吹き出しました.{PAWN_possessive}腕は先端に骨の刃のついた触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.触手は恐ろしい見た目ですが,優れた近接武器になるでしょう.</ObeliskFleshWhipLetter>
 
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedArmLetterLabel>オベリスクへの干渉</MutatorObeliskFailedArmLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedArmLetter>オベリスクに干渉している間,{PAWN_nameDef}は暫くの間,腕のうずきを感じましたが,その感覚は過ぎ去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedArmLetter>
+  <MutatorObeliskFailedArmLetter>{PAWN_nameDef}はオベリスクに干渉する最中,数分ほど腕に違和感を覚えましたが,その感覚はやがて消え去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedArmLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshmassStomachLetterLabel>オベリスクの変異</ObeliskFleshmassStomachLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} stomach, as {PAWN_possessive} tissue began to roil and mutate. {PAWN_possessive} stomach has mutated into a mass of semi-sentient flesh. The harsh acids it produces are painful but prevent food poisoning. -->
-  <ObeliskFleshmassStomachLetter>オベリスクに干渉している間,{PAWN_nameDef}は胃に鋭い痛みを感じました.その後,{PAWN_possessive}神経組織が乱れ,変異し始めました.{PAWN_possessive}胃は,半ば知覚を持つ肉塊へと変異しました.胃が作り出す強力な酸は痛みを伴いますが,食中毒を防ぎます.</ObeliskFleshmassStomachLetter>
+  <ObeliskFleshmassStomachLetter>{PAWN_nameDef}はオベリスクに干渉する最中,胃に鋭い痛みを感じました.{PAWN_possessive}神経組織が乱れ,変異し始めたのです.{PAWN_possessive}胃は今,半ば知覚を持つ肉塊へと変異しました.胃が作り出す強力な酸は痛みを伴いますが,食中毒を防ぎます.</ObeliskFleshmassStomachLetter>
 
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedStomachLetterLabel>オベリスクへの干渉</MutatorObeliskFailedStomachLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} stomach aching for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedStomachLetter>オベリスクに干渉している間,{PAWN_nameDef}は暫くの間,胃の痛みを感じましたが,その感覚は過ぎ去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedStomachLetter>
+  <MutatorObeliskFailedStomachLetter>{PAWN_nameDef}はオベリスクに干渉する最中,数分ほど胃に痛みを感じましたが,その感覚はやがて消え去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedStomachLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshmassLungLetterLabel>オベリスクの変異</ObeliskFleshmassLungLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} chest, as {PAWN_possessive} lung began to twist and swell. {PAWN_possessive} lung has mutated into a painful mass of semi-sentient flesh. The tissue is constantly regrowing and replacing itself, making it immune to effects like lung rot and asthma. -->
-  <ObeliskFleshmassLungLetter>オベリスクに干渉している間,{PAWN_nameDef}は胸に鋭い痛みを感じました.その後,{PAWN_possessive}肺が乱れ,変異し始めました.{PAWN_possessive}肺は,半ば知覚を持つ,痛みを伴う肉塊へと変異しました.この肺組織は常に再生し,自己を置き換えていくため,肺腐敗や喘息の影響を受けません.</ObeliskFleshmassLungLetter>
+  <ObeliskFleshmassLungLetter>{PAWN_nameDef}はオベリスクに干渉する最中,胸に鋭い痛みを感じました.{PAWN_possessive}肺が乱れ,変異し始めたのです.{PAWN_possessive}肺は今,半ば知覚を持つ,痛みを伴う肉塊へと変異しました.この肺組織は常に再生し,自己を置き換えていくため,肺腐敗や喘息の影響を受けません.</ObeliskFleshmassLungLetter>
 
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedLungLetterLabel>オベリスクへの干渉</MutatorObeliskFailedLungLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} chest ache for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedLungLetter>オベリスクに干渉している間,{PAWN_nameDef}は暫くの間,胸の痛みを感じましたが,その感覚は過ぎ去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedLungLetter>
+  <MutatorObeliskFailedLungLetter>{PAWN_nameDef}はオベリスクに干渉する最中,数分ほど胸に痛みを感じましたが,その感覚はやがて消え去りました.\n\nオベリスクは{PAWN_nameDef}を変異させようとしましたが,失敗しました.</MutatorObeliskFailedLungLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskAnimalMutationLetterLabel>オベリスクの変異</ObeliskAnimalMutationLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden spike in energy. The obelisk has violently warped the flesh of {ANIMAL}, turning it into a hideous fleshbeast. -->
-  <ObeliskAnimalMutationLetter>オベリスクに干渉している間,{PAWN_nameDef}は突然のエネルギーの増幅を観測しました.オベリスクは{ANIMAL}の肉体を暴力的に歪め,恐るべきフレッシュビーストへ変異させました.</ObeliskAnimalMutationLetter>
+  <ObeliskAnimalMutationLetter>{PAWN_nameDef}はオベリスクに干渉する最中,突然のエネルギーの増幅を観測しました.オベリスクは{ANIMAL}の肉体を暴力的に歪め,恐るべきフレッシュビーストへ変異させました.</ObeliskAnimalMutationLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskTreeMutationLetterLabel>オベリスクの変異</ObeliskTreeMutationLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden pulse of energy. The obelisk has twisted a nearby tree into a harbinger tree. These monstrous trees are capable of feeding on nearby corpses and raw meat. -->
-  <ObeliskTreeMutationLetter>オベリスクに干渉している間,{PAWN_nameDef}は突然のエネルギーパルスを観測しました.オベリスクは近くの木をねじ曲げ,先触れの木に変異させてしまいました.この恐るべき木は,近くの死体や生肉を食べることができます.</ObeliskTreeMutationLetter>
+  <ObeliskTreeMutationLetter>{PAWN_nameDef}はオベリスクに干渉する最中,突然のエネルギーパルスを観測しました.オベリスクは近くの木をねじ曲げ,先触れの木に変異させてしまいました.この恐るべき木は,近くの死体や生肉を食べることができます.</ObeliskTreeMutationLetter>
 
   <!-- EN: Obelisk duplicate -->
   <ObeliskDuplicationLetterLabel>オベリスクの複製</ObeliskDuplicationLetterLabel>
@@ -336,40 +336,40 @@
   <Emerging>メタルホラーの出現</Emerging>
   
   <!-- EN: Implanted before arrival at your colony -->
-  <ImplantSourceUnknown>コロニー到着前に寄生済</ImplantSourceUnknown>
+  <ImplantSourceUnknown>コロニーに到着前から寄生済</ImplantSourceUnknown>
   <!-- EN: Implanter insectoid -->
   <InsectImplant>虫からの寄生</InsectImplant>
   <!-- EN: Implanted during sleep by {SOURCE_nameDef} -->
-  <SleepImplant>睡眠中に{SOURCE_nameDef}から寄生</SleepImplant>
+  <SleepImplant>{SOURCE_nameDef}によって睡眠中に寄生</SleepImplant>
   <!-- EN: Implanted during surgery by {SOURCE_nameDef} -->
-  <SurgeryImplant>手術中に{SOURCE_nameDef}から寄生</SurgeryImplant>
+  <SurgeryImplant>{SOURCE_nameDef}による手術からの寄生</SurgeryImplant>
   <!-- EN: Implanted through a meal cooked by {SOURCE_nameDef} -->
-  <FoodImplant>{SOURCE_nameDef}によって調理された食事から寄生</FoodImplant>
+  <FoodImplant>{SOURCE_nameDef}によって調理された食事からの寄生</FoodImplant>
   <!-- EN: Implanted during unnatural healing by {SOURCE_nameDef} -->
-  <UnnaturalHealingImplant>{SOURCE_nameDef}による不自然な治癒から寄生</UnnaturalHealingImplant>
+  <UnnaturalHealingImplant>{SOURCE_nameDef}による不自然な治癒からの寄生</UnnaturalHealingImplant>
   <!-- EN: Implanted when fed a meal by {SOURCE_nameDef} -->
-  <FeedingImplant>{SOURCE_nameDef}から与えられた食事から寄生</FeedingImplant>
+  <FeedingImplant>{SOURCE_nameDef}から与えられた食事からの寄生</FeedingImplant>
 
   <!-- EN: Metalhorror emerging -->
   <MetalhorrorEmergingLabel>メタルホラーの出現</MetalhorrorEmergingLabel>
   <!-- EN: A metalhorror is emerging! Slicing through flesh and skin, this nightmarish bladed creature is cutting its way out of its host. The metalhorror is emerging from: -->
-  <MetalhorrorEmergingDesc>メタルホラーが出現します！肉と肌を切り裂き,この悪夢のような刃を盛った生物が,その宿主の中から姿を表します.メタルホラーの出現元：</MetalhorrorEmergingDesc>
+  <MetalhorrorEmergingDesc>メタルホラーが出現します！肉と肌を切り裂き,この悪夢のような刃を盛った生物が,その宿主の中から姿を表します.メタルホラーの出現元は以下の通りです:</MetalhorrorEmergingDesc>
   <!-- EN: Metalhorrors are emerging! Slicing through flesh and skin, these nightmarish bladed creatures are cutting their way out of their hosts. Metalhorrors are emerging from: -->
-  <MetalhorrorEmergingPluralDesc>メタルホラーたちが出現します！肉と肌を切り裂き,この悪夢のような刃を盛った生物たちが,その宿主の中から姿を表します.メタルホラーの出現元：</MetalhorrorEmergingPluralDesc>
+  <MetalhorrorEmergingPluralDesc>複数のメタルホラーが出現します！肉と肌を切り裂き,この悪夢のような刃を盛った生物たちが,その宿主の中から姿を表します.メタルホラーの出現元は以下の通りです:</MetalhorrorEmergingPluralDesc>
   <!-- EN: These horrifying metallic parasites live inside the victim, taking control of higher reasoning via a network of hair-thin metallic filaments that they spread throughout the body and brain. They control the victim's mind and compel them to infect others with new metalhorrors. -->
-  <MetalhorrorEmergingDescAppended>犠牲者の体内に寄生する恐るべき金属質の寄生体.毛髪のように細い金属フィラメントのネットワークを肉体と脳に広げることによって宿主の理性を支配します.犠牲者の精神を支配し,新たなメタルホラーを他者へと感染させます.</MetalhorrorEmergingDescAppended>
+  <MetalhorrorEmergingDescAppended>メタルホラーは犠牲者の体内に寄生する恐るべき金属質の寄生体です.毛髪のように細い金属フィラメントのネットワークを肉体と脳に広げることによって宿主の理性を支配します.犠牲者の精神を支配し,新たなメタルホラーを他者へと感染させます.</MetalhorrorEmergingDescAppended>
   
   <!-- EN: These doctors were infested and controlled by metalhorrors, so they lied about the results of a surgical inspection -->
   <MetalhorrorSurgicalInspectionDetails>この医者たちはメタルホラーに感染して支配されているため,外科手術の結果について嘘をつきました.</MetalhorrorSurgicalInspectionDetails>
   
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during a social interaction. -->
-  <MetalhorrorReasonInteraction>{INFECTED_nameDef}のメタルホラーが人付き合い中に{PAWN_nameDef}によって発見され,姿を現しました.</MetalhorrorReasonInteraction>
+  <MetalhorrorReasonInteraction>{PAWN_nameDef}との会話中に,{INFECTED_nameDef}のメタルホラーが発見されて姿を現しました.</MetalhorrorReasonInteraction>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during an interrogation. -->
-  <MetalhorrorReasonInterrogation>{INFECTED_nameDef}のメタルホラーが尋問に{PAWN_nameDef}によって発見され,姿を現しました.</MetalhorrorReasonInterrogation>
+  <MetalhorrorReasonInterrogation>{PAWN_nameDef}による尋問中に,{INFECTED_nameDef}のメタルホラーが発見されて姿を現しました.</MetalhorrorReasonInterrogation>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because {INFECTED_nameDef} died. -->
   <MetalhorrorReasonHostDied>{INFECTED_nameDef}が死亡したため,{INFECTED_nameDef}のメタルホラーが姿を現しました.</MetalhorrorReasonHostDied>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was detected by {PAWN_nameDef} during a surgical inspection. -->
-  <MetalhorrorReasonSurgeryInspected>{INFECTED_nameDef}のメタルホラーが外科手術中に{PAWN_nameDef}によって発見され,姿を現しました.</MetalhorrorReasonSurgeryInspected>
+  <MetalhorrorReasonSurgeryInspected>{PAWN_nameDef}による手術中に,{INFECTED_nameDef}のメタルホラーが発見されて姿を現しました.</MetalhorrorReasonSurgeryInspected>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged for unknown reasons. -->
   <MetalhorrorReasonRandom>理由は不明ながら,{INFECTED_nameDef}のメタルホラーが姿を現しました.</MetalhorrorReasonRandom>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged upon sensing it was being taken away from the colony. -->
@@ -383,7 +383,7 @@
   <InterrogationDetectedDesc>{PAWN_nameDef}は{INFECTED_nameDef}の尋問中に異常に気が付きました.{INFECTED_nameDef}には,不自然な行動,奇妙な音声,目の中に金属質のミミズのようなものが見えました.{PAWN_nameDef}は{INFECTED_nameDef}がメタルホラーに感染したのだと疑っています.</InterrogationDetectedDesc>
   
   <!-- EN: Metalhorrors are parasites that control the host and use them to infect others.\n\nMetalhorrors grow stronger inside the host as time passes. A metalhorror will cut its way out of the host's body if it knows it's been detected. The process is horrifying, but the host generally survives.\n\nThe only way to confirm a person is infected with a metalhorror is to study the metalhorror's fleshy leavings to identify its biosignature, then use the surgical inspection operation with a trusted doctor.\n\nOnce discovered, you can use the surgical inspection operation to cause a metalhorror to emerge from its host. Be prepared for a fight. -->
-  <MetalhorrorNoticedDetailsAppended>メタルホラーは宿主を支配し,それを利用して他者へ感染を進めようとする寄生体です.\n\nメタルホラーは宿主の中で長く過ごすほど強力になります.メタルホラーは気付かれたことを察すると,宿主の肉体を切り裂いて姿を現します.このプロスは恐ろしいものですが,宿主は多くの場合は生存します.\n\nメタルホラーに感染した人物を確かめる唯一の方法は,メタルホラーの肉片を研究してそのバイオシグネチャーを特定し,信頼できる医者に外科調査手術を行ってもらうことです.\n\n発見すれば,外科調査手術を行うことでメタルホラーを宿主から追い出すことができます.戦いに備えましょう.</MetalhorrorNoticedDetailsAppended>
+  <MetalhorrorNoticedDetailsAppended>メタルホラーは宿主を支配し,それを利用して他者へ感染を進めようとする寄生体です.\n\nメタルホラーは宿主の中で長く過ごすほど強力になります.メタルホラーは気付かれたことを察すると,宿主の肉体を切り裂いて姿を現します.このプロセスは恐ろしいものですが,宿主は多くの場合は生存します.\n\nメタルホラーに感染した人物を確かめる唯一の方法は,メタルホラーの肉片を研究してそのバイオシグネチャーを特定し,信頼できる医者に外科調査手術を行ってもらうことです.\n\n発見すれば,外科調査手術を行うことでメタルホラーを宿主から追い出すことができます.戦いに備えましょう.</MetalhorrorNoticedDetailsAppended>
   
   <!-- EN: Gray flesh -->
   <LetterGrayFleshDiscoveredLabel>灰色の肉体</LetterGrayFleshDiscoveredLabel>
@@ -467,9 +467,9 @@
   <!-- EN: Unnatural healing -->
   <LetterUnnaturalHealingLabel>不自然な治癒</LetterUnnaturalHealingLabel>
   <!-- EN: {CASTER_nameDef} has finished {CASTER_possessive} psychic healing on {PAWN_nameDef}. -->
-  <LetterUnnaturalHealing>{CASTER_nameDef}は{PAWN_nameDef}に対するサイキック治療を終えました.</LetterUnnaturalHealing>
+  <LetterUnnaturalHealing>{CASTER_nameDef}は{PAWN_nameDef}へのサイキック治療を終えました.</LetterUnnaturalHealing>
   <!-- EN: However, something went terribly wrong.\n\n{PAWN_nameDef}'s arm split open as a violent growth emerged from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a fleshy tentacle! -->
-  <LetterUnnaturalHealingTentacle>ですが,何かが恐ろしく間違っていたようです.\n\n{PAWN_nameDef}の腕は中から吹き出すもので激しく裂けています.{PAWN_possessive}腕は肉質の触手に置き換えられてしまいました！</LetterUnnaturalHealingTentacle>
+  <LetterUnnaturalHealingTentacle>しかし,何かが恐ろしく間違っていたようです.\n\n{PAWN_nameDef}の腕が激しく裂け,暴力的な何かが生え始めます.{PAWN_possessive}腕は,肉質の触手に置き換えられてしまいました！</LetterUnnaturalHealingTentacle>
   
   <!-- Transmutation ability -->
   <!-- EN: {PAWN_nameDef} has transmuted {ORIGINAL} into {TRANSMUTED}. -->
