@@ -136,7 +136,7 @@
   <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
   <WakeDesc>死眠から目覚めます.\n\n{PAWN_nameDef}は{DURATION}間死眠しています.</WakeDesc>
   <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
-  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}は少なくとも{TOTAL}後までに死眠する必要があります.早起きすると病気になり,死眠用設備からの恩恵を得られません.</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}は少なくとも{TOTAL}間死眠する必要があります.早起きすると病気になり,死眠用設備からの恩恵を得られません.</WakeExtraDesc_Exhaustion>
   <!-- EN: {PAWN_nameDef} can now wake safely. -->
   <WakeExtraDesc_Safe>{PAWN_nameDef}は安全に起きることができます.</WakeExtraDesc_Safe>
   <!-- EN: Cannot wake. Need at least {0} hemogen. -->
@@ -166,7 +166,7 @@
   <!-- EN: Regeneration rate -->
   <RegenerationRate>再生レート</RegenerationRate>
   <!-- EN: {PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion. -->
-  <NextDeathrestNeed>{PAWN_nameDef}は死眠不足を避けるため,{DURATION}間死眠する必要があります.</NextDeathrestNeed>
+  <NextDeathrestNeed>{PAWN_nameDef}は死眠不足を避けるため,{DURATION}後までに死眠する必要があります.</NextDeathrestNeed>
   <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
   <PawnShouldDeathrestNow>{PAWN_nameDef}は死眠不足を避けるため,今すぐに死眠する必要があります.</PawnShouldDeathrestNow>
   <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
