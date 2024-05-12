@@ -11,9 +11,9 @@
   -->
   <UnnaturalDarkness.questContentRules.rulesStrings>
     <li>initialPhaseLetterLabel->光が消えゆく空</li>
-    <li>initialPhaseLetterText->空が薄暗くなってきました.まもなく,ランプや松明で直接照らされていないものは見えなくなるでしょう.\n\n生き延びるには明るい場所を作りましょう.暗闇を探索するには,妨害フレアを作りましょう.</li>
+    <li>initialPhaseLetterText->空が薄暗くなり始めています.やがてランプや松明で直接照らされた場所以外,何も見えなくなるでしょう.\n\n生き延びるために,明るい場所を作りましょう.暗闇を探索するために,妨害フレアを作りましょう.</li>
     <li>mainPhaseLetterLabel->不自然な闇</li>
-    <li>mainPhaseLetterText->不自然な闇が降りてきます.人間ではないものが光のすぐ外でうごめいています.\n\nギザギザとした油っぽい金属が空より落ちてきます.見た目は恐ろしいですが,きっと貴重なテクノロジーが収められているでしょう.明るい道を作ってそこに到達し,破壊することでこの悪夢を終わらせましょう.\n\nまたは,一定期間生き延びることで,闇はひとりでに消滅します.</li>
+    <li>mainPhaseLetterText->不自然な闇が降りてきます.人間ではないものが光のすぐ外でうごめいています.\n\nギザギザとした油っぽい金属が空より落ちてきます.見た目は恐ろしいですが,きっと貴重なテクノロジーが収められているでしょう.明るい道を作ってそこに到達し,破壊することでこの悪夢を終わらせましょう.\n\n一定期間生き延びることができれば,闇はひとりでに消滅します.</li>
     <li>darknessLiftedLetterLabel->闇の消失</li>
     <li>darknessLiftedLetterText->不自然な闇が消えはじめています.金属の柱は,いつの間にか折り重なって消滅しました.あなたは生き延びたのです！</li>
   </UnnaturalDarkness.questContentRules.rulesStrings>

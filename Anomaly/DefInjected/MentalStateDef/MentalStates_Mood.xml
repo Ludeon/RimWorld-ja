@@ -6,7 +6,7 @@
   <!-- EN: Mental state: Dark visions -->
   <DarkVisions.baseInspectLine>精神状態：闇の幻視</DarkVisions.baseInspectLine>
   <!-- EN: {PAWN_nameDef} has become overwhelmed with horrible visions, rambling about things that only {PAWN_pronoun} can see. {PAWN_pronoun} will snap out of it in a few hours. -->
-  <DarkVisions.beginLetter>{PAWN_nameDef}は恐るべき幻影に圧倒され,{PAWN_pronoun}にしか見えないことについてわめきつづけています.{PAWN_pronoun}は数時間ほどで耐えられなくなるでしょう.</DarkVisions.beginLetter>
+  <DarkVisions.beginLetter>{PAWN_nameDef}は恐るべき幻影に圧倒され,{PAWN_pronoun}にしか見えない何かについてボソボソと呟き続けます.{PAWN_pronoun}は数時間ほどで正気に戻るでしょう.</DarkVisions.beginLetter>
   <!-- EN: dark visions -->
   <DarkVisions.beginLetterLabel>闇の幻視</DarkVisions.beginLetterLabel>
   <!-- EN: {PAWN_nameDef}'s dark visions have stopped. -->
@@ -35,7 +35,7 @@
   <!-- EN: Mental state: Insane ramblings -->
   <InsaneRamblings.baseInspectLine>精神状態：狂気的な語り</InsaneRamblings.baseInspectLine>
   <!-- EN: {PAWN_nameDef} has become completely untethered from reality, ranting about impossible subjects. {PAWN_pronoun} will snap out of it in a few hours. -->
-  <InsaneRamblings.beginLetter>{PAWN_nameDef}は現実から全く離れ,あり得ざる話題についてわめきつづけています.{PAWN_pronoun}は数時間ほどで耐えられなくなるでしょう.</InsaneRamblings.beginLetter>
+  <InsaneRamblings.beginLetter>{PAWN_nameDef}の精神は現実から遠く離れ,妄言のような言葉をわめき続けます.{PAWN_pronoun}は数時間ほどで正気に戻るでしょう.</InsaneRamblings.beginLetter>
   <!-- EN: insane ramblings -->
   <InsaneRamblings.beginLetterLabel>狂気的な語り</InsaneRamblings.beginLetterLabel>
   <!-- EN: {PAWN_nameDef} has stopped rambling. -->
