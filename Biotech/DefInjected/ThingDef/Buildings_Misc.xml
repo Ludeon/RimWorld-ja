@@ -42,8 +42,8 @@
   
   <!-- EN: mechband dish -->
   <MechbandDish.label>メカバンドパラボラ</MechbandDish.label>
-  <!-- EN: A mech-band signaling device more powerful than the normal mechlink antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
-  <MechbandDish.description>メカ帯域に,普通のメカリンクのアンテナよりも強力な信号を送るデバイスです.起動すると,極めて強力なメカ信号パルスを発信し,野生のメカノイド指揮官の注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば,その残骸から特別なテクノロジーを入手できます.信号パルスはアンテナを焼き切ってしまうため,1回しか使用できません.</MechbandDish.description>
+  <!-- EN: A mech-band signaling device more powerful than the normal mechband antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
+  <MechbandDish.description>普通のメカバンドアンテナよりも強力な信号を,メカ帯域に送るデバイスです.起動すると,極めて強力なメカ信号パルスを発信し,野生のメカノイド指揮官の注意をひきつけ,仲間とともに攻撃を仕掛けてくるよう仕向けます.\n\nもしも打ち勝つことができれば,その残骸から特別なテクノロジーを入手できます.信号パルスはアンテナを焼き切ってしまうため,1回しか使用できません.</MechbandDish.description>
   <!-- EN: Summon apocriton threat -->
   <MechbandDish.comps.CompUsable.useLabel>アポクリトンの脅威を呼び込む</MechbandDish.comps.CompUsable.useLabel>
   

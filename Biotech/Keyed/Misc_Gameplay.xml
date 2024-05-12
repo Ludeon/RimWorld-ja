@@ -768,6 +768,11 @@
   <MyChildIsHappy>私の子供が幸せ</MyChildIsHappy>
   <!-- EN: my child is sad -->
   <MyChildIsSad>私の子供が悲しんでる</MyChildIsSad> 
+  
+  <!-- EN: Genetic {CHEMICAL_label} dependency -->
+  <GeneticChemicalDependency_Label>先天的な{CHEMICAL_label}依存</GeneticChemicalDependency_Label><!-- text_todo -->
+  <!-- EN: I need {CHEMICAL_label} because of my genetic deficiency. But it's been so long since I've had any. -->
+  <GeneticChemicalDependency_Desc>先天的欠乏症が原因で{CHEMICAL_label}が必要だ.しかし,最後に手にしたのはもうずいぶん前だ.</GeneticChemicalDependency_Desc><!-- text_todo -->
 
   <!-- UNUSED -->
   <LearningDesireTooltip_CurrentDesire>{0_nameDef}の現在の学習意欲:</LearningDesireTooltip_CurrentDesire>
