@@ -292,8 +292,8 @@
   <ActivitySuppressionTooltipDisabled>現在,自動抑制は無効になっています.看守が{0}を抑制するには有効にしてください.</ActivitySuppressionTooltipDisabled>
   <!-- EN: The {0}'s activity level rises over time. Activity rises faster if the {0} is damaged or provoked.\n\nIf the activity level reaches 100%, the {0} will activate.\n\nWardens can suppress the {0} to keep its activity at a safe level. They will suppress it any time its activity is above the assigned level: {LEVEL}\n\nEntities that have higher activity levels will give more knowledge when studied. -->
   <ActivitySuppressionTooltipDesc>{0}の活動レベルは時間とともに上昇します.{0}がダメージを受けたり喚起されると,活動レベルの上昇が早くなります.\n\n活動レベルが100%になると,{0}は起動します.\n\n看守は{0}を抑制し,活動レベルを安全水域に維持できます.看守は,活動レベルが割り当てられたレベル以上の場合には常に抑制を行います：{LEVEL}\n\n活動レベルが高い「存在」は,研究時により多くの知識を得られます.</ActivitySuppressionTooltipDesc>
-  <!-- EN: This determines whether the {PAWN_labelShort} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
-  <ActivitySuppressionToggleTooltipDesc>{PAWN_labelShort}の活動レベルが{LEVEL}以上になったときに,自動で抑制するかどうかを設定できます.\n\n自動抑制は現在{ONOFF}になっています.</ActivitySuppressionToggleTooltipDesc>
+  <!-- EN: This determines whether the {0} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
+  <ActivitySuppressionToggleTooltipDesc>{0}の活動レベルが{LEVEL}以上になったときに,自動で抑制するかどうかを設定できます.\n\n自動抑制は現在{ONOFF}になっています.</ActivitySuppressionToggleTooltipDesc>
 
   <!-- Activity Descs -->
   <!-- EN: activity level -->
