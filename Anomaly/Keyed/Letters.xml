@@ -63,9 +63,9 @@
   <!-- EN: {0_nameDef} has successfully completed {RITUAL_definite} ritual. The ritual had the following effects: -->
   <ChronophagyCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を成功させました.儀式は以下の効果を及ぼします：</ChronophagyCompleteText>
   <!-- EN: {0_nameDef} aged {1} years -->
-  <ChronophagyTargetAged>{0_nameDef}が{1}歳老いました</ChronophagyTargetAged>
+  <ChronophagyTargetAged>{0_nameDef}が{1}歳年を取り,</ChronophagyTargetAged>
   <!-- EN: {0_nameDef} became {1} years younger -->
-  <ChronophagyInvokerRejuvenated>{0_nameDef}が{1}歳若返りました</ChronophagyInvokerRejuvenated>
+  <ChronophagyInvokerRejuvenated>{0_nameDef}が{1}歳若返り,</ChronophagyInvokerRejuvenated>
   <!-- EN: {0_nameDef} could not take the strain of the aging from the chronophagy ritual and died due to old age. -->
   <ChronophagyTargetDiedOfOldAge>{0_nameDef}はクロノファジーの儀式による負荷に耐えきれず,老衰で死亡しました.</ChronophagyTargetDiedOfOldAge>
   <!-- EN: While {0_nameDef} survived the chronophagy ritual, {0_pronoun} developed the following conditions -->
@@ -73,7 +73,7 @@
   <!-- EN: Additionally, the process has cured {0_nameDef} of the following ailments: -->
   <ChronophagyInvokerCuredDiseases>さらに,このプロセスは{0_nameDef}の以下の状態を治療しました：</ChronophagyInvokerCuredDiseases>
   <!-- EN: and is now {0} years old -->
-  <ChronophagyCurrentAge>そして,今は{0}歳になりました</ChronophagyCurrentAge>
+  <ChronophagyCurrentAge>{0}歳になりました</ChronophagyCurrentAge>
 
   <!-- EN: {0_nameDef} has finished performing {RITUAL_definite} ritual. For the next {1}, everyone impacted by {RITUAL_definite} will be happier but work slower. -->
   <PleasurePulseCompleteText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.次の{1}の間,{RITUAL_definite}の影響を受けた全員は幸せになりますが,作業が遅くなります.</PleasurePulseCompleteText>
@@ -242,9 +242,9 @@
   <!-- EN: Transport pod crash -->
   <GhoulPodCrashLabel>輸送ポッド事故</GhoulPodCrashLabel>
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
-  <GhoulPodCrashText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃し始めます.捕獲して収容プラットフォームに入れることで,研究することも可能です.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashText>
+  <GhoulPodCrashText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者全てを攻撃し始めます.捕獲して収容プラットフォームに入れることで,研究することも可能です.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashText>
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby. On closer inspection, it appears to be {PAWN_nameDef}, a previous member of your crew.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
-  <GhoulPodCrashStartingPawnText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.しっかりと調べてみると,その姿は以前のクルーである{PAWN_nameDef}のようです.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者すべてを攻撃し始めます.捕獲して収容プラットフォームに入れることで,研究することも可能です.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashStartingPawnText>
+  <GhoulPodCrashStartingPawnText>貪欲で敵対的なグールを載せた輸送ポッドが近くに着陸しました.しっかりと調べてみると,その姿は以前のクルーである{PAWN_nameDef}のようです.\n\nグールは現在ショック状態にありますが,すぐに回復し,目に付く者全てを攻撃し始めます.捕獲して収容プラットフォームに入れることで,研究することも可能です.\n\n目覚めるまでに捕獲するか殺しましょう.</GhoulPodCrashStartingPawnText>
 
   <!-- Entity codex -->
   <!-- EN: New research available -->

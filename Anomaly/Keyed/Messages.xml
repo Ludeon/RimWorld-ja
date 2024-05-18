@@ -17,7 +17,7 @@
 
   <!-- Self-resurrection -->
   <!-- EN: {0_nameDef} can self-resurrect on command using death refusal. -->
-  <SelfResurrectText>{0_nameDef}は死を拒む者を使用することで自己組成ができます.</SelfResurrectText>
+  <SelfResurrectText>{0_nameDef}は死を拒む者を使用することで自己蘇生ができます.</SelfResurrectText>
   <!-- EN: {0_nameDef} is using death refusal to self-resurrect. -->
   <MessageUsingSelfResurrection>{0_nameDef}は死を拒む者を使って自己蘇生しています.</MessageUsingSelfResurrection>
 
@@ -61,7 +61,7 @@
   
   <!-- Duplicator obelisk -->
   <!-- EN: A hostile duplicate of {0_nameDef} has appeared. -->
-  <MessageHostileDuplicate>{0_nameDef}の敵対的な複製が出現しました.</MessageHostileDuplicate>
+  <MessageHostileDuplicate>敵対的な{0_nameDef}の複製体が出現しました.</MessageHostileDuplicate>
   
   <!-- Proximity detector -->
   <!-- EN: A proximity detector has detected an invisible creature. -->

@@ -527,7 +527,7 @@
     <li>title->[randAdjective][subject_primary][referenceType]([volNumeral]巻)</li>
     <li>title->[randAdjective][subject_primary]の[studiesStart]([volNumeral]巻)</li>
     <li>title->[randAdjective][subject_primary]の[studiesStart][referenceType]</li>
-    <li>title->[lifeEvent]についての[discussionNoun]と[subject_primary]</li>
+    <li>title->[lifeEvent]に関する[discussionNoun]と[subject_primary]</li>
     <li>studiesStart->研究</li>
     <li>studiesStart->基礎</li>
     <li>studiesStart->管理</li>
@@ -580,7 +580,7 @@
     <li>lifeEvent->幻想</li>
     <li>lifeEvent->殺人衝動</li>
     <li>lifeEvent->ロボトミー手術</li>
-    <li>lifeEvent->アルカイトの空気感染</li>
+    <li>lifeEvent->空気感染するアルカイト</li>
     <li>volNumeral->1</li>
     <li>volNumeral->2</li>
     <li>volNumeral->3</li>

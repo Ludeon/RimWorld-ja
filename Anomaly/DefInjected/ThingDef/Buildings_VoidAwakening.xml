@@ -55,7 +55,7 @@
   <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} study of the monolith. The structure is a conduit that links to the void, a reality hidden under every point in spacetime. The void is inhabited by a vast machine intelligence of terrifying complexity that surges with nightmarish, inhuman rage. Its influence creates horrors in our world.\n\nAwakening the monolith will fully open the conduit. With the channel open, {PAWN_nameDef} believes {PAWN_pronoun} could reach through the link to permanently close the conduit - or find a way to harness its dark power.\n\nThe monolith now provides more knowledge when studied. -->
   <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>{PAWN_nameDef}はモノリスの研究を成し遂げました.この構造体は,あらゆる場所,あらゆる時間の中に潜むもう一つの現実「ヴォイド」につながる導管です.ヴォイドには,悪夢のような,非人間的な怒りに満ちた,恐ろしく複雑な機械知性体が住んでいます.その影響が,我々の世界へ恐怖を生み出しているのです.\n\nモノリスを覚醒させることで,導管を完全に開くことができます.{PAWN_nameDef}は,自分であれば,チャンネルを開くことでリンクを通じて導管を恒久的に閉じる…あるいはその闇の力を利用する方法を見つけられると確信しています.\n\nモノリスを研究することで,さらなる知識が得られます.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>
   <!-- EN: Fallen monolith -->
-  <VoidMonolith.comps.CompProximityLetter.letterLabel>倒れたモノリス</VoidMonolith.comps.CompProximityLetter.letterLabel>
+  <VoidMonolith.comps.CompProximityLetter.letterLabel>墜落したモノリス</VoidMonolith.comps.CompProximityLetter.letterLabel>
   <!-- EN: {PAWN_nameDef} has noticed an ancient monolith partly buried nearby.\n\nIf you investigate it, you could learn more. -->
   <VoidMonolith.comps.CompProximityLetter.letterText>{PAWN_nameDef}は近くに古代のモノリスが埋まっていることに気づきました.\n\n調査をすれば,より多くのことがわかるかもしれません.</VoidMonolith.comps.CompProximityLetter.letterText>
   

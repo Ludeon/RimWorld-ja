@@ -213,7 +213,7 @@
   <ObeliskDuplicationFailedLetter>{PAWN_nameDef}はオベリスクを起動しようとしましたが,何も起こりませんでした.{PAWN_nameDef}の何かが,オベリスクによる{PAWN_pronoun}の複製を妨げているようです.</ObeliskDuplicationFailedLetter>
   
   <!-- EN: {PAWN_nameDef} has successfully triggered obelisk duplication. -->
-  <ObeliskDuplicationSuccessMessage>{PAWN_nameDef}はオベリスクの複製の起動に成功しました.</ObeliskDuplicationSuccessMessage>
+  <ObeliskDuplicationSuccessMessage>{PAWN_nameDef}はオベリスクの複製を正常に起動しました.</ObeliskDuplicationSuccessMessage>
 
   <!-- EN: Hostile obelisk duplicate -->
   <ObeliskHostileDuplicateLetterLabel>オベリスクの複製の敵対</ObeliskHostileDuplicateLetterLabel>
@@ -223,12 +223,12 @@
   <!-- EN: Obelisk activation -->
   <DuplicatorObeliskLetterLabel>オベリスクの起動</DuplicatorObeliskLetterLabel>
   <!-- EN: The obelisk is activating! The air around it crackles with energy. Duplicates of your colonists will soon appear with murderous intent.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
-  <DuplicatorObeliskLetter>オベリスクが起動しています！オベリスクの周囲の空気が,エネルギーで弾けるような音を建てています.入植者の複製が,間もなく殺意とともに現れるでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意しましょう.</DuplicatorObeliskLetter>
+  <DuplicatorObeliskLetter>オベリスクが起動しています！オベリスクの周囲の空気が,エネルギーで弾けるような音を立てています.入植者の複製が,間もなく殺意とともに現れるでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意してください.</DuplicatorObeliskLetter>
 
   <!-- EN: Colonists disappearing -->
   <ObeliskAbductorLetterLabel>入植者の消滅</ObeliskAbductorLetterLabel>
   <!-- EN: The warped obelisk crackles with energy as it warps space around itself. All manner of creatures are beginning to disappear and will soon vanish entirely.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
-  <ObeliskAbductorLetter>歪んだオベリスクはバチバチとエネルギーを鳴り響かせ,周囲の空間を歪めています.あらゆる生物が姿を消し始め,間もなく完全に消滅するでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意しましょう.</ObeliskAbductorLetter>
+  <ObeliskAbductorLetter>歪んだオベリスクはバチバチとエネルギーを鳴り響かせ,周囲の空間を歪めています.あらゆる生物が姿を消し始め,間もなく完全に消滅するでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意してください.</ObeliskAbductorLetter>
   
   <!-- EN: {PAWN_nameDef} is disappearing -->
   <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef}の消滅</ObeliskAbductedDisappearingLetterLabel>
@@ -421,9 +421,9 @@
   
   <!-- Death refusal -->
   <!-- EN: use -->
-  <DeathRefusalUseSingular>使用</DeathRefusalUseSingular>
+  <DeathRefusalUseSingular>使用可能</DeathRefusalUseSingular>
   <!-- EN: uses -->
-  <DeathRefusalUsePlural>使用</DeathRefusalUsePlural>
+  <DeathRefusalUsePlural>使用可能</DeathRefusalUsePlural>
   <!-- EN: Self-resurrecting -->
   <SelfResurrecting>自己蘇生</SelfResurrecting>
 
@@ -710,7 +710,7 @@
   <!-- EN: Colonists returned -->
   <LetterLabelLabyrinthExit>入植者の帰還</LetterLabelLabyrinthExit>
   <!-- EN: The whirring obelisk has returned your abducted colonists. Shortly after doing so, it vanished into thin air.\n\nBe careful, the obelisk may have returned other creatures as well. -->
-  <LetterLabyrinthExit>ブンブンと音を立てるオベリスクが,さらった入植者を帰還させました.そして,その直後にオベリスクは忽然と姿を消しました.\n\nオベリスクは他の生物も帰還させているかもしれないので,注意しましょう.</LetterLabyrinthExit>
+  <LetterLabyrinthExit>ブンブンと音を立てるオベリスクが,さらった入植者を帰還させました.そして,その直後にオベリスクは忽然と姿を消しました.\n\nオベリスクは他の生物も帰還させているかもしれないので,注意してください.</LetterLabyrinthExit>
 
   <!-- EN: Jammed shut. Must be forced open. -->
   <GrayDoorJammed>詰まって封鎖されています.強引に開ける必要があります.</GrayDoorJammed>
@@ -770,13 +770,13 @@
   <CantActivateMonolith>モノリスの{0}不可</CantActivateMonolith>
 
   <!-- EN: Monolith twisting -->
-  <MonolithTwistingAlert>モノリスの捻れ</MonolithTwistingAlert>
+  <MonolithTwistingAlert>モノリス</MonolithTwistingAlert>
   <!-- EN: Your presence has caused the monolith to twist and morph. Soon the process will be complete. Be prepared for whatever comes next. -->
-  <MonolithTwistingExplanation>あなたの存在がモノリスをねじれ,変異させています.まもなくそのプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithTwistingExplanation>
+  <MonolithTwistingExplanation>あなたの行為によってモノリスがねじれ,変異しています.まもなくそのプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithTwistingExplanation>
   <!-- EN: Fallen monolith -->
-  <MonolithAutoActivatingLabel>倒れたモノリス</MonolithAutoActivatingLabel>
+  <MonolithAutoActivatingLabel>墜落したモノリス</MonolithAutoActivatingLabel>
   <!-- EN: A wave of dread passes over your colonists. The fallen monolith has begun to stir. Slowly, it begins to twist and rearrange itself, morphing into something new.\n\nWithin a matter of days, the process will be complete. Be prepared for whatever comes next. -->
-  <MonolithAutoActivatingText>入植者たちに恐怖の波が押し寄せます.倒れたモノリスが動き始めました.それはゆっくりとねじれ,再構成し始め,新しい何かへと姿を変えていきます.\n\n数日のうちに,このプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithAutoActivatingText>
+  <MonolithAutoActivatingText>入植者たちに恐怖の波が押し寄せます.墜落したモノリスが動き始めました.それはゆっくりとねじれ,再構成し始め,新しい何かへと姿を変えていきます.\n\n数日のうちに,このプロセスは完了するでしょう.次に何が起きてもいいように準備しておきましょう.</MonolithAutoActivatingText>
   <!-- EN: Void monolith -->
   <MonolithAutoActivatedLabel>ヴォイドモノリス</MonolithAutoActivatedLabel>
   <!-- EN: The monolith’s transformation is almost complete... -->

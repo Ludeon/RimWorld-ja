@@ -59,13 +59,13 @@
   <!-- EN: gray flesh sample -->
   <GrayFleshSample.label>灰色の肉体サンプル</GrayFleshSample.label>
   <!-- EN: This strip of human flesh is stained with a dark and gritty ferrous material. Tiny threads of metallic filament run throughout, interspersed with tiny silvery beads. Its form suggests that it sloughed off someone's body during some unnatural liquification process. -->
-  <GrayFleshSample.description>この人間の肉体は,黒っぽく砂のような鉄製物質で汚れています.金属フィラメントの小さな糸が全身に走り,銀色の小さな玉が散りばめられています.その形から察するに,不自然な液化の過程で誰かの体からはがれ落ちたものと思われます.</GrayFleshSample.description>
+  <GrayFleshSample.description>この人間の肉体は,黒っぽく砂のような鉄製物質で汚れています.金属フィラメントで構成された細い糸が全身に走り,銀色の小さな玉が散りばめられています.その形から察するに,不自然な液化の過程で誰かの体からはがれ落ちたものと思われます.</GrayFleshSample.description>
   <!-- EN: Analyze the gray flesh sample. Once enough flesh samples are collected and analyzed, the threat's biosignature will be detectable using a surgical inspection operation, allowing you to identify its host. -->
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.activateDescString>灰色の肉体サンプルを分析します.十分な量の肉体サンプルを収集して分析すれば,外科的調査手術で脅威となるバイオシグネチャーを検出できるようになり,宿主を特定できるようになります.</GrayFleshSample.comps.CompAnalyzableBiosignature.activateDescString>
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.activateDescString>灰色の肉体サンプルを分析します.十分な量の肉体サンプルを収集して分析すれば,脅威となるバイオシグネチャーを外科的調査手術で検出できるようになり,宿主を特定できるようになります.</GrayFleshSample.comps.CompAnalyzableBiosignature.activateDescString>
   <!-- EN: Analyze... -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>分析...</GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>
   <!-- EN: While analyzing the gray flesh sample, {PAWN_nameDef} finally isolated the biosignature {BIOSIGNATURE}!\n\nThe signature emerges from the fusing of human tissue and metallic bioferrite filaments which spider through the flesh and take control of the nervous system.\n\nYou can now use the surgical inspection operation to detect {BIOSIGNATURE} in living subjects. -->
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>灰色の肉体サンプルを分析する中で,{PAWN_nameDef}はついにバイオシグネチャー{BIOSIGNATURE}を分離することに成功しました！\n\nシグネチャーは,肉体中に編みを張り巡らし,神経線維を乗っ取っている人体組織と金属性バイオフェライト繊維の融合から現れました.\n\nこれにより,生きている被験者の中の{BIOSIGNATURE}を,外科的調査手術で検知できるようになります.</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>灰色の肉体サンプルの分析の結果,{PAWN_nameDef}はついにバイオシグネチャー{BIOSIGNATURE}の分離に成功しました！\n\nシグネチャーは金属製のバイオフェライトフィラメントが人間の組織と融合することで生まれた存在です.この存在は体中に網を張り巡らし,神経系を乗っ取ります.\n\nこの分析によって,生きた人間の体内に潜む{BIOSIGNATURE}を,外科的調査手術で検知できるようになりました.</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>
   <!-- EN: Analysis complete -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
@@ -79,7 +79,7 @@
   <!-- EN: {PAWN_nameDef} has finished analyzing the gray flesh sample. The sample carried the biosignature {BIOSIGNATURE}.\n\n{PAWN_nameDef} made progress in learning to identify this biosignature in living subjects, but needs more samples to complete the work. Until then, your surgical inspections will not detect {BIOSIGNATURE}.\n\nCollect and analyze more gray flesh samples. -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.サンプルにはバイオシグネチャー{BIOSIGNATURE}が含まれていました.\n\n{PAWN_nameDef}は生きている被験者の中のバイオシグネチャー特定に関する研究を前進させましたが,研究の完了にはさらにサンプルが必要です.それまでは,外科的調査で{BIOSIGNATURE}を検知できません.\n\n灰色の肉体サンプルをさらに集めて分析しましょう.</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>
   <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} analysis of the gray flesh sample. It carries the previously discovered biosignature {BIOSIGNATURE}.\n\nYour colonists now understand this biosignature well enough to detect it with the surgical inspection operation. -->
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.それには,以前発見したバイオシグネチャー{BIOSIGNATURE}が含まれていました.\n\n入植者たちは,このバイオシグネチャーを外科的調査手術で検知できるだけの知識を得ました.</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は灰色の肉体サンプルの分析を完了しました.このサンプルには,以前発見したバイオシグネチャー{BIOSIGNATURE}が含まれていました.\n\n入植者たちは,このバイオシグネチャーを外科的調査手術で検知できるだけの知識を得ました.</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
   <!-- EN: Analysis complete -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>分析完了</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
   
