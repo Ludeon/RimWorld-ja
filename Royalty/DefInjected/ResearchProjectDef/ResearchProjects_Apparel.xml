@@ -12,7 +12,13 @@
     <li>subject_story->fought with the rebels and studied the armor of a captured cataphract</li>
     <li>subject_gerund->crafting cataphract armor</li>
   -->
-  <CataphractArmor.generalRules.rulesStrings>TODO</CataphractArmor.generalRules.rulesStrings>
+  <CataphractArmor.generalRules.rulesStrings>
+    <li>subject->カタフラクトアーマー</li>
+    <li>subject_story->活火山を探索する手段として,カタフラクトに相当するアーマーを最初に開発した</li>
+    <li>subject_story->帝国軍の依頼を受けて,搭乗部隊用のカタフラクトアーマーのカスタムセットを作成した</li>
+    <li>subject_story->反乱軍と共に戦い,捕らえたカタフラクトの着ている鎧を研究した</li>
+    <li>subject_gerund->カタフラクトアーマーの作成</li>
+  </CataphractArmor.generalRules.rulesStrings>
   
   <!-- EN: gunlink -->
   <Gunlink.label>ガンリンク</Gunlink.label>
@@ -25,7 +31,13 @@
     <li>subject_story->bulk-purchased gunlinks for the snipers in the army, forbidding them to front-line soldiers</li>
     <li>subject_gerund->enhancing accuracy with gunlinks</li>
   -->
-  <Gunlink.generalRules.rulesStrings>TODO</Gunlink.generalRules.rulesStrings>
+  <Gunlink.generalRules.rulesStrings>
+    <li>subject->射撃精度向上</li>
+    <li>subject_story->Glitterworldの視覚インプラントを,より汎用的のある照準コンピューターに改造した</li>
+    <li>subject_story->工場生産したガンリンクの品質に満足した.しかし,ヘルメットを着用できないことによる死亡率の増加には常に悩まされていた</li>
+    <li>subject_story->軍の狙撃兵のためにガンリンクを大量購入し,前線の兵士にはガンリンクの使用を禁止した</li>
+    <li>subject_gerund->ガンリンクと射撃精度</li>
+  </Gunlink.generalRules.rulesStrings>
   
   <!-- EN: jump packs -->
   <JumpPack.label>ジャンプパック</JumpPack.label>
@@ -40,7 +52,15 @@
     <li>subject_gerund->performing aerial assaults</li>
     <li>subject_gerund->crafting jump packs</li>
   -->
-  <JumpPack.generalRules.rulesStrings>TODO</JumpPack.generalRules.rulesStrings>
+  <JumpPack.generalRules.rulesStrings>
+    <li>subject->ジャンプパック</li>
+    <li>subject->短距離飛行</li>
+    <li>subject_story->極限の体験に焦点を当てたテーマパークを運営し,ボムネズミとのふれあいやジャンプパックコースなどのコーナーを設けた</li>
+    <li>subject_story->低重力惑星での登山ツアーを主催し,登山中はジャンプパックと酸素マスクの着用を義務付けた</li>
+    <li>subject_story->士官訓練中にジャンプパック攻撃でタレット防衛網を飛び越えた</li>
+    <li>subject_gerund->空中攻撃の実行</li>
+    <li>subject_gerund->ジャンプパックの作成</li>
+  </JumpPack.generalRules.rulesStrings>
   
   <!-- EN: noble apparel -->
   <NobleApparel.label>貴族の衣服</NobleApparel.label>
@@ -55,7 +75,15 @@
     <li>subject_gerund->tailoring for the nobility</li>
     <li>subject_gerund->crafting noble apparel</li>
   -->
-  <NobleApparel.generalRules.rulesStrings>TODO</NobleApparel.generalRules.rulesStrings>
+  <NobleApparel.generalRules.rulesStrings>
+    <li>subject->フォーマルな衣服</li>
+    <li>subject->貴族用衣服</li>
+    <li>subject_story->Urbworldに住む学生の卒業式用にフォーマルなコルセットを作った</li>
+    <li>subject_story->貴族の家に雇われてトップハットを作った</li>
+    <li>subject_story->新しいスタイルのベレー帽を発表し,シーズンを問わず大流行した</li>
+    <li>subject_gerund->貴族向けの衣服作り</li>
+    <li>subject_gerund->貴族用衣服の作成</li>
+  </NobleApparel.generalRules.rulesStrings>
   
   <!-- EN: royal apparel -->
   <RoyalApparel.label>王家の衣服</RoyalApparel.label>
@@ -69,6 +97,13 @@
     <li>subject_gerund->tailoring for monarchs</li>
     <li>subject_gerund->crafting royal apparel</li>
   -->
-  <RoyalApparel.generalRules.rulesStrings>TODO</RoyalApparel.generalRules.rulesStrings>
+  <RoyalApparel.generalRules.rulesStrings>
+    <li>subject->高貴な衣服</li>
+    <li>subject_story->戴冠式に向けた王室のローブを作るために丸一年を費やした</li>
+    <li>subject_story->すべての衣装が持ち主に相応しい物であることを確認するために,さまざまな貴族グループの紋章の要素を研究した</li>
+    <li>subject_story->帝国貴族に気に入られ,彼らのローブとコロネットの作成を要求された</li>
+    <li>subject_gerund->帝王向けの衣服作り</li>
+    <li>subject_gerund->王家用衣服の作成</li>
+  </RoyalApparel.generalRules.rulesStrings>
   
 </LanguageData>

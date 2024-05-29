@@ -15,7 +15,16 @@
     <li>subject_story->researched the cultural significance of stringed instrument usage</li>
     <li>subject_gerund->playing the harp</li>
   -->
-  <Harp.generalRules.rulesStrings>TODO</Harp.generalRules.rulesStrings>
+  <Harp.generalRules.rulesStrings>
+    <li>subject->ハープ</li>
+    <li>subject->シンプルな弦楽器</li>
+    <li>subject_story->音楽学校で練習を重ねた</li>
+    <li>subject_story->原生の惑星でよく見かける材料からハープを作った</li>
+    <li>subject_story->帝国貴族のためにソロでハープを演奏した</li>
+    <li>subject_story->毎日グリッサンド奏法を練習した</li>
+    <li>subject_story->弦楽器を使うことの文化的重要性を研究した</li>
+    <li>subject_gerund->ハープの演奏</li>
+  </Harp.generalRules.rulesStrings>
   
   <!-- EN: harpsichord -->
   <Harpsichord.label>チェンバロ</Harpsichord.label>
@@ -29,7 +38,14 @@
     <li>subject_story->constructed dual-keyboard harpsichords focused on harmonics</li>
     <li>subject_gerund->playing the harpsichord</li>
   -->
-  <Harpsichord.generalRules.rulesStrings>TODO</Harpsichord.generalRules.rulesStrings>
+  <Harpsichord.generalRules.rulesStrings>
+    <li>subject->チェンバロ</li>
+    <li>subject_story->Coreworld様式の音楽をチェンバロで表現し,ルネサンスを導いた</li>
+    <li>subject_story->さまざまなGlitterworldでチェンバロをコンサート用に調律した</li>
+    <li>subject_story->田舎の交響楽団のチェンバロ奏者を指導する役割を引き受けた</li>
+    <li>subject_story->ハーモニーに重点を置いた二重鍵盤チェンバロを製作した</li>
+    <li>subject_gerund->チェンバロの演奏</li>
+  </Harpsichord.generalRules.rulesStrings>
   
   <!-- EN: piano -->
   <Piano.label>ピアノ</Piano.label>
@@ -44,6 +60,14 @@
     <li>subject_story->constructed a strange piano</li>
     <li>subject_gerund->playing the piano</li>
   -->
-  <Piano.generalRules.rulesStrings>TODO</Piano.generalRules.rulesStrings>
+  <Piano.generalRules.rulesStrings>
+    <li>subject->ピアノ</li>
+    <li>subject_story->弦楽器に関する資料を全て読んだ</li>
+    <li>subject_story->音楽アカデミーに入学し,そこで生徒たちと共にピアノや作曲家について学んだ</li>
+    <li>subject_story->複数のCoreworld間でピアノを輸送した</li>
+    <li>subject_story->数人の有名なピアニストのテクニックを録音した</li>
+    <li>subject_story->奇妙なピアノを作った</li>
+    <li>subject_gerund->ピアノの演奏</li>
+  </Piano.generalRules.rulesStrings>
   
 </LanguageData>

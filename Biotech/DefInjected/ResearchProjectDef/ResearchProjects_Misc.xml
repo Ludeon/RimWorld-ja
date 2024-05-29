@@ -13,7 +13,14 @@
     <li>subject_gerund->assembling archite genes</li>
     <li>subject_gerund->creating seemingly impossible genes</li>
   -->
-  <Archogenetics.generalRules.rulesStrings>TODO</Archogenetics.generalRules.rulesStrings>
+  <Archogenetics.generalRules.rulesStrings>
+    <li>subject->アルコ遺伝学</li>
+    <li>subject_story->巨大コンピューター惑星の第九衛星からアルカイトの遺伝子を発掘した</li>
+    <li>subject_story->アルカイト遺伝子トレーダーとして豊かな生計を立てた</li>
+    <li>subject_story->遠征調査隊を率いて古代のモノリスへと向かい,戻ってきたときには別の姿になっていた</li>
+    <li>subject_gerund->アルカイト遺伝子の作成</li>
+    <li>subject_gerund->超常的な遺伝子作成</li>
+  </Archogenetics.generalRules.rulesStrings>
   
   <!-- EN: deathrest -->
   <Deathrest.label>死眠</Deathrest.label>
@@ -27,7 +34,14 @@
     <li>subject_gerund->constructing deathrest facilities</li>
     <li>subject_gerund->improving deathrest</li>
   -->
-  <Deathrest.generalRules.rulesStrings>TODO</Deathrest.generalRules.rulesStrings>
+  <Deathrest.generalRules.rulesStrings>
+    <li>subject->死眠</li>
+    <li>subject_story->死眠用の部屋に残された死体を解剖し,設備の仕組みを理解した</li>
+    <li>subject_story->老いを全く感じさせないとある有名人に取材を行い,そこで彼女の秘密を知った</li>
+    <li>subject_story->技術の再現を試みた.しかしその結果,昏睡状態に陥り,目が覚めたのは数週間後だった</li>
+    <li>subject_gerund->死眠用施設の建築</li>
+    <li>subject_gerund->死眠の改善</li>
+  </Deathrest.generalRules.rulesStrings>
   
   <!-- EN: fertility procedures -->
   <FertilityProcedures.label>生殖制御</FertilityProcedures.label>
@@ -41,7 +55,14 @@
     <li>subject_gerund->altering human fertility</li>
     <li>subject_gerund->improving or blocking human fertility</li>
   -->
-  <FertilityProcedures.generalRules.rulesStrings>TODO</FertilityProcedures.generalRules.rulesStrings>
+  <FertilityProcedures.generalRules.rulesStrings>
+    <li>subject->生殖制御</li>
+    <li>subject_story->Coreworldに住むとある夫婦の,試験管胚を使って子供を作るという夢を叶えられるよう支援した</li>
+    <li>subject_story->カロピアに生息するボムネズミの希少種を,手作業による危険な受精技術で絶滅の危機から救った</li>
+    <li>subject_story->Urbworldの人口問題を解決する手段として不妊治療と人工生育槽を利用した</li>
+    <li>subject_gerund->生殖機能の改変</li>
+    <li>subject_gerund->生殖機能の制御</li>
+  </FertilityProcedures.generalRules.rulesStrings>
   
   <!-- EN: gene processor -->
   <GeneProcessor.label>遺伝子プロセッサ</GeneProcessor.label>
@@ -55,7 +76,14 @@
     <li>subject_gerund->constructing gene processors</li>
     <li>subject_gerund->processing genes</li>
   -->
-  <GeneProcessor.generalRules.rulesStrings>TODO</GeneProcessor.generalRules.rulesStrings>
+  <GeneProcessor.generalRules.rulesStrings>
+    <li>subject->遺伝子プロセッサ</li>
+    <li>subject_story->Gritterworldから漂流した棄民から遺伝子を抽出した</li>
+    <li>subject_story->村中の住民から遺伝子を抽出し,より高度な遺伝子のセットを作成した</li>
+    <li>subject_story->原住民の部族に異種胚を移植し,少しずつ社会性を向上させるプロセスを始めた</li>
+    <li>subject_gerund->遺伝子プロセッサの作成</li>
+    <li>subject_gerund->遺伝子の加工</li>
+  </GeneProcessor.generalRules.rulesStrings>
   
   <!-- EN: growth vats -->
   <GrowthVats.label>人工生育槽</GrowthVats.label>
@@ -71,7 +99,16 @@
     <li>subject_gerund->accelerating human growth</li>
     <li>subject_gerund->constructing growth vats</li>
   -->
-  <GrowthVats.generalRules.rulesStrings>TODO</GrowthVats.generalRules.rulesStrings>
+  <GrowthVats.generalRules.rulesStrings>
+    <li>subject->先進的生育槽</li>
+    <li>subject->人工子宮</li>
+    <li>subject_story->Coreworldに労働者を供給するためのクローン施設を運営した</li>
+    <li>subject_story->戦争惑星の軍事政権のために新しい軍隊を作った</li>
+    <li>subject_story->どんな背景の家族でも子供を産めるよう手助けした</li>
+    <li>subject_gerund->人工子宮での胚の成長</li>
+    <li>subject_gerund->人体成長の促進</li>
+    <li>subject_gerund->人工生育槽の作成</li>
+  </GrowthVats.generalRules.rulesStrings>
   
   <!-- EN: toxin filtration -->
   <ToxFiltration.label>毒フィルター</ToxFiltration.label>
@@ -86,7 +123,15 @@
     <li>subject_gerund->metabolising toxins</li>
     <li>subject_gerund->crafting antitoxin organs</li>
   -->
-  <ToxFiltration.generalRules.rulesStrings>TODO</ToxFiltration.generalRules.rulesStrings>
+  <ToxFiltration.generalRules.rulesStrings>
+    <li>subject->毒フィルター</li>
+    <li>subject->毒代謝</li>
+    <li>subject_story->軍人の惑星で辛うじて戦争から生き残った人々の命を助けた</li>
+    <li>subject_story->倫理の特別授業を受けるために化学の実習をさぼった</li>
+    <li>subject_story->ろ過作業の専門家として鉱山企業に入社した</li>
+    <li>subject_gerund->毒代謝</li>
+    <li>subject_gerund->毒無効化臓器の作成</li>
+  </ToxFiltration.generalRules.rulesStrings>
   
   <!-- EN: tox gas -->
   <ToxGas.label>毒ガス</ToxGas.label>
@@ -100,7 +145,14 @@
     <li>subject_story->researched cloud control tech for the tyrannocracy of a deathworld</li>
     <li>subject_gerund->crafting toxic gas weapons</li>
   -->
-  <ToxGas.generalRules.rulesStrings>TODO</ToxGas.generalRules.rulesStrings>
+  <ToxGas.generalRules.rulesStrings>
+    <li>subject->ガス発生武器</li>
+    <li>subject->化学戦闘</li>
+    <li>subject_story->すべての戦争を終わらせる武器を作ることを夢見るようになった</li>
+    <li>subject_story->化学の特別実習を受けるために倫理の授業をさぼった</li>
+    <li>subject_story->死の惑星を力で支配するために雲の制御技術を研究した</li>
+    <li>subject_gerund->毒ガス武器の作成</li>
+  </ToxGas.generalRules.rulesStrings>
   
   <!-- EN: toxifier generator -->
   <ToxifierGenerator.label>有毒発電機</ToxifierGenerator.label>
@@ -113,7 +165,13 @@
     <li>subject_story->researched cheap and dirty power sources for an urbcorp</li>
     <li>subject_gerund->constructing toxifier generators</li>
   -->
-  <ToxifierGenerator.generalRules.rulesStrings>TODO</ToxifierGenerator.generalRules.rulesStrings>
+  <ToxifierGenerator.generalRules.rulesStrings>
+    <li>subject->有毒発電機</li>
+    <li>subject_story->クルーを有毒な小惑星に送り浄化を任せた</li>
+    <li>subject_story->超高層マンションの深い汚水溜りから毒性物質を学んだ</li>
+    <li>subject_story->Urbcorpのために安価な電力を研究した結果,有毒な発電方法を生み出した</li>
+    <li>subject_gerund->有毒発電機の作成</li>
+  </ToxifierGenerator.generalRules.rulesStrings>
   
   <!-- EN: xenogenetics -->
   <Xenogermination.label>異種遺伝学</Xenogermination.label>
@@ -127,6 +185,13 @@
     <li>subject_story->ran a genetic transfer clinic for the glitterworld elite</li>
     <li>subject_gerund->crafting xenogerms</li>
   -->
-  <Xenogermination.generalRules.rulesStrings>TODO</Xenogermination.generalRules.rulesStrings>
+  <Xenogermination.generalRules.rulesStrings>
+    <li>subject->異種生成技術</li>
+    <li>subject->遺伝子移植</li>
+    <li>subject_story->その後Glitterworldへ向かい,そこで遺伝的に恵まれない人々のための慈善団体の援助を受けた</li>
+    <li>subject_story->その後,悪徳生物学者に遺伝子を盗まれた</li>
+    <li>subject_story->Glitterworldのエリート向けに遺伝子移植クリニックを運営した</li>
+    <li>subject_gerund->異種胚の作製</li>
+  </Xenogermination.generalRules.rulesStrings>
   
 </LanguageData>

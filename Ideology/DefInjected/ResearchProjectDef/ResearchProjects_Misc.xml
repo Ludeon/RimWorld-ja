@@ -14,7 +14,15 @@
     <li>subject_gerund->regenerating the human form</li>
     <li>subject_gerund->activating regeneration with biosculpters</li>
   -->
-  <Bioregeneration.generalRules.rulesStrings>TODO</Bioregeneration.generalRules.rulesStrings>
+  <Bioregeneration.generalRules.rulesStrings>
+    <li>subject->生体再生</li>
+    <li>subject_story->ボマロープの角の再生と人体の再生の類似点を研究した</li>
+    <li>subject_story->サラマンダーの遺伝子データを自分の体につなぎ合わせた</li>
+    <li>subject_story->Glitterworldの病院で訓練を受けた</li>
+    <li>subject_story->Glitterworldの美術学を通信コースで修了した</li>
+    <li>subject_gerund->人体再生</li>
+    <li>subject_gerund->生体改造ポッドと再生機能</li>
+  </Bioregeneration.generalRules.rulesStrings>
   
   <!-- EN: biosculpting -->
   <Biosculpting.label>生体改造</Biosculpting.label>
@@ -30,7 +38,16 @@
     <li>subject_gerund->constructing biosculpter pods</li>
     <li>subject_gerund->sculpting the human form</li>
   -->
-  <Biosculpting.generalRules.rulesStrings>TODO</Biosculpting.generalRules.rulesStrings>
+  <Biosculpting.generalRules.rulesStrings>
+    <li>subject->生体改造</li>
+    <li>subject_story->さまざまなコロニーと契約を結んだうえで生体改造ポッドを作成した</li>
+    <li>subject_story->生体改造ポッドを必要とするトランスヒューマニストの思想を研究した</li>
+    <li>subject_story->どの程度の生物学的変化であれば安全に行えるかを研究した</li>
+    <li>subject_story->Glitterworldのサポートファームからポッドの設計図を持ち出して逃げた</li>
+    <li>subject_story->トランスヒューマニストのコロニーに迎え入れられた</li>
+    <li>subject_gerund->生体改造ポッドの作成</li>
+    <li>subject_gerund->人体改造</li>
+  </Biosculpting.generalRules.rulesStrings>
   
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>ニューラルスーパーチャージャー</NeuralSupercharger.label>
@@ -45,6 +62,14 @@
     <li>subject_gerund->supercharging a human's intellect</li>
     <li>subject_gerund->constructing neural superchargers</li>
   -->
-  <NeuralSupercharger.generalRules.rulesStrings>TODO</NeuralSupercharger.generalRules.rulesStrings>
+  <NeuralSupercharger.generalRules.rulesStrings>
+    <li>subject->ニューラルスーパーチャージャー</li>
+    <li>subject_story->自分の寄宿学校にニューラルスーパーチャージャーを導入した</li>
+    <li>subject_story->培養クローンの神経をスーパーチャージし,成長を大幅に加速させた</li>
+    <li>subject_story->自分の勤めていた大学コースでニューラルスーパーチャージャーの使用を禁止しようと試みた</li>
+    <li>subject_story->ニューラルスーパーチャージを義務とするトランスヒューマニストの一派に加わった</li>
+    <li>subject_gerund->知力のスーパーチャージ</li>
+    <li>subject_gerund->ニューラルスーパーチャージャーの作成</li>
+  </NeuralSupercharger.generalRules.rulesStrings>
   
 </LanguageData>

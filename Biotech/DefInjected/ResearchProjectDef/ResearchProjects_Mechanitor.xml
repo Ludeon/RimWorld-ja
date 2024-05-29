@@ -4,7 +4,7 @@
   <!-- EN: basic mechtech -->
   <BasicMechtech.label>機械技術 基礎</BasicMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control basic-tier mechanoids. -->
-  <BasicMechtech.description>メカニターが基本層のメカノイドを製造,制御するために必要な技術です.</BasicMechtech.description>
+  <BasicMechtech.description>メカニターが基礎的なメカノイドを製造,制御するために必要な技術です.</BasicMechtech.description>
   <!-- EN:
     <li>subject->mechanoids</li>
     <li>subject_story->authored a children's book covering the basic types of mechanoid</li>
@@ -13,12 +13,19 @@
     <li>subject_story->was mining an ancient exostrider wreck and found a mechlink preserved in the wreckage</li>
     <li>subject_gerund->creating basic mechanoids</li>
   -->
-  <BasicMechtech.generalRules.rulesStrings>TODO</BasicMechtech.generalRules.rulesStrings>
+  <BasicMechtech.generalRules.rulesStrings>
+    <li>subject->基礎メカノイド</li>
+    <li>subject_story->基本的なメカノイドの種類を説明した児童書を書いた</li>
+    <li>subject_story->メカリンクの試作品を自身に埋め込んだ</li>
+    <li>subject_story->バイオメカ技術の基礎的な部分を再現して人間にも使えるようにした</li>
+    <li>subject_story->古代のエクソストライダーの残骸を採掘し,その最中に残骸の山に埋もれていたメカリンクを発見した</li>
+    <li>subject_gerund->基礎メカノイドの作成</li>
+  </BasicMechtech.generalRules.rulesStrings>
   
   <!-- EN: high mechtech -->
   <HighMechtech.label>機械技術 高度</HighMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
-  <HighMechtech.description>メカニターが高度層のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがウォークイーンの脅威を呼び出すことで,パワーフォーカスチップを入手できます.</HighMechtech.description>
+  <HighMechtech.description>メカニターが高位のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがウォークイーンの脅威を呼び出すことで,パワーフォーカスチップを入手できます.</HighMechtech.description>
   <!-- EN:
     <li>subject->high tier mechanoids</li>
     <li>subject_story->survived a War Queen assault on an Imperial world</li>
@@ -27,12 +34,19 @@
     <li>subject_story->built prototype mechanoid micro-organs for an offworld client</li>
     <li>subject_gerund->creating high-tier mechanoids</li>
   -->
-  <HighMechtech.generalRules.rulesStrings>TODO</HighMechtech.generalRules.rulesStrings>
+  <HighMechtech.generalRules.rulesStrings>
+    <li>subject->高位メカノイド</li>
+    <li>subject_story->帝国惑星でウォークイーンに襲撃された際,そこから生還した</li>
+    <li>subject_story->パワーフォーカスチップをトレーダーから購入したが,トレーダーはその価値を理解していようだった</li>
+    <li>subject_story->惑星襲撃で捕らえたメカニターたちを尋問した</li>
+    <li>subject_story->離れた惑星のクライアントのために試作型メカノイドの内部機構を作った</li>
+    <li>subject_gerund->高位メカノイドの作成</li>
+  </HighMechtech.generalRules.rulesStrings>
   
   <!-- EN: standard mechtech -->
   <StandardMechtech.label>機械技術 標準</StandardMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
-  <StandardMechtech.description>メカニターが標準層のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがディアボロスの脅威を呼び出すことで,シグナルチップを入手できます.</StandardMechtech.description>
+  <StandardMechtech.description>メカニターが標準的のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがディアボロスの脅威を呼び出すことで,シグナルチップを入手できます.</StandardMechtech.description>
   <!-- EN:
     <li>subject->mechanoids</li>
     <li>subject_story->acquired a signal chip in shady circumstances</li>
@@ -41,12 +55,19 @@
     <li>subject_story->collated reports of mechanoid attacks, looking for commonalities</li>
     <li>subject_gerund->creating standard mechanoids</li>
   -->
-  <StandardMechtech.generalRules.rulesStrings>TODO</StandardMechtech.generalRules.rulesStrings>
+  <StandardMechtech.generalRules.rulesStrings>
+    <li>subject->メカノイド</li>
+    <li>subject_story->シグナルチップを怪しい経路で入手した</li>
+    <li>subject_story->ディアボロスの残骸から無傷のシグナルチップを見つけた</li>
+    <li>subject_story->メカノイドの襲撃から生き残った</li>
+    <li>subject_story->メカノイドによる襲撃事例の状況を照らし合わせ,共通点を探した</li>
+    <li>subject_gerund->標準メカノイドの作成</li>
+  </StandardMechtech.generalRules.rulesStrings>
   
   <!-- EN: ultra mechtech -->
   <UltraMechtech.label>機械技術 超高度</UltraMechtech.label>
   <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
-  <UltraMechtech.description>メカニターが大型メカや超高度型メカニターギアを含む超高度層のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがアポクリトンの脅威を呼び出すことで,ナノ構造体チップを入手できます.</UltraMechtech.description>
+  <UltraMechtech.description>メカニターが大型メカや最高位型メカニターギアを含む最高位のメカノイドを製造,制御するために必要な技術です.\n\nメカニターがアポクリトンの脅威を呼び出すことで,ナノ構造体チップを入手できます.</UltraMechtech.description>
   <!-- EN:
     <li>subject->ultra-tier mechanoids</li>
     <li>subject_story->found a powered-down apocriton in the wreckage of a deadworld</li>
@@ -55,7 +76,14 @@
     <li>subject_story->found an ascension diary next to an inert archonexus</li>
     <li>subject_gerund->creating ultra-tier mechanoids</li>
   -->
-  <UltraMechtech.generalRules.rulesStrings>TODO</UltraMechtech.generalRules.rulesStrings>
+  <UltraMechtech.generalRules.rulesStrings>
+    <li>subject->最高位メカノイド</li>
+    <li>subject_story->移住不能な惑星の瓦礫の山から停止状態のアポクリトンを発見した</li>
+    <li>subject_story->アポクリトンがメカを蘇生する様子を安全な距離から観察した</li>
+    <li>subject_story->アポクリトンの持つ人類に対する強い精神的憎悪を利用した</li>
+    <li>subject_story->不活性なアルコネクサスの隣で,ここで何が起きたのかを記した日記を見つけた</li>
+    <li>subject_gerund->最高位メカノイドの作成</li>
+  </UltraMechtech.generalRules.rulesStrings>
   
   <!-- EN: wastepack atomizer -->
   <WastepackAtomizer.label>廃棄物パック分解装置</WastepackAtomizer.label>
@@ -69,6 +97,13 @@
     <li>subject_story->observed a toxicworld from orbit</li>
     <li>subject_gerund->constructing wastepack atomizers</li>
   -->
-  <WastepackAtomizer.generalRules.rulesStrings>TODO</WastepackAtomizer.generalRules.rulesStrings>
+  <WastepackAtomizer.generalRules.rulesStrings>
+    <li>subject->有毒廃棄物分解器</li>
+    <li>subject_story->核廃棄物の安全な処理方法を研究した</li>
+    <li>subject_story->太陽廃棄物の処理任務のために使い捨てのチームを編成した</li>
+    <li>subject_story->既存の基本原理から,原子の不安定化に関する理論を考案した</li>
+    <li>subject_story->汚染の惑星を惑星軌道上から観察した</li>
+    <li>subject_gerund->廃棄物パック分解装置の作成</li>
+  </WastepackAtomizer.generalRules.rulesStrings>
   
 </LanguageData>

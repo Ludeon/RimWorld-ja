@@ -13,12 +13,19 @@
     <li>subject_gerund->crafting digestion-related bionics</li>
     <li>subject_gerund->crafting artificial guts</li>
   -->
-  <ArtificialMetabolism.generalRules.rulesStrings>TODO</ArtificialMetabolism.generalRules.rulesStrings>
+  <ArtificialMetabolism.generalRules.rulesStrings>
+    <li>subject->人工代謝</li>
+    <li>subject_story->ある時あまりにもひどい空腹感に襲われたが,その時本人がとれる唯一の解決策は自身の胃を人工胃に置き換えることだということに気付いた</li>
+    <li>subject_story->惑星の女王に殺菌胃が移植されていることに気付いたが,何も言わずに女王の食品検査官としての仕事を続けた</li>
+    <li>subject_story->食事行為に対して強い嫌悪感を抱くようになった.そのためヌークストマックを移植し,放射能の影響には悩まされたものの,食料摂取量を大幅に減らすことに成功した</li>
+    <li>subject_gerund->人造消化器官の作成</li>
+    <li>subject_gerund->人造内臓の作成</li>
+  </ArtificialMetabolism.generalRules.rulesStrings>
   
   <!-- EN: brain wiring -->
   <BrainWiring.label>ブレインワイヤー</BrainWiring.label>
   <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
-  <BrainWiring.description>喜びや痛みといった感情を引き起こしたりあるいはにぶらせたりする脳インプラントの製作が可能になります.</BrainWiring.description>
+  <BrainWiring.description>喜びや痛みといった感情を引き起こしたり,あるいは鈍らせたりする脳インプラントの製作が可能になります.</BrainWiring.description>
   <!-- EN:
     <li>subject->brain implants</li>
     <li>subject_story->wrote a paper about the masochist cults use of mindscrews to improve their morale</li>
@@ -26,7 +33,13 @@
     <li>subject_story->had a joywire installed and, though happy after that, stumbled simply through life</li>
     <li>subject_gerund->crafting brain implants</li>
   -->
-  <BrainWiring.generalRules.rulesStrings>TODO</BrainWiring.generalRules.rulesStrings>
+  <BrainWiring.generalRules.rulesStrings>
+    <li>subject->ブレインワイヤー</li>
+    <li>subject_story->自傷を好むカルト集団が士気を高めるためにマインドスクリューを使うことについて論文を書いた</li>
+    <li>subject_story->襲撃部隊にペインストッパーを埋め込んだ.彼らは非常に大きな戦果を挙げたが,全員が致命傷を負うか,もしくは死亡した</li>
+    <li>subject_story->ジョイワイヤーを埋め込んでもらった.その後は常に幸せであり続けたが,ただただ単調な一生をよろよろと過ごすだけになった</li>
+    <li>subject_gerund->ブレインワイヤーの作成</li>
+  </BrainWiring.generalRules.rulesStrings>
   
   <!-- EN: circadian influence -->
   <CircadianInfluence.label>体内時計調整</CircadianInfluence.label>
@@ -39,7 +52,13 @@
     <li>subject_story->studied bullfrogs and giraffes to ascertain what  xenogerms would be necessary for a circadian assistance gland</li>
     <li>subject_gerund->crafting sleep reduction implants</li>
   -->
-  <CircadianInfluence.generalRules.rulesStrings>TODO</CircadianInfluence.generalRules.rulesStrings>
+  <CircadianInfluence.generalRules.rulesStrings>
+    <li>subject->睡眠削減インプラント</li>
+    <li>subject_story->クジラ目の半球睡眠パターンを研究し,体内時計分割器という全く新しいインプラントを提案した</li>
+    <li>subject_story->警備員の志願者に体内時計分割器を強制し,必要に応じて無期限に警備させ続けた</li>
+    <li>subject_story->ウシガエルとキリンを研究し,体内時計アシスタントの腺を生み出すためにどのような異種胚が必要になるのか確認した</li>
+    <li>subject_gerund->睡眠削減インプラントの作成</li>
+  </CircadianInfluence.generalRules.rulesStrings>
   
   <!-- EN: compact weaponry -->
   <CompactWeaponry.label>暗器</CompactWeaponry.label>
@@ -52,7 +71,13 @@
     <li>subject_story->was working in security, scanning visitors to the hall, when the cyborg attempted to enter</li>
     <li>subject_gerund->crafting compact bionic weapons</li>
   -->
-  <CompactWeaponry.generalRules.rulesStrings>TODO</CompactWeaponry.generalRules.rulesStrings>
+  <CompactWeaponry.generalRules.rulesStrings>
+    <li>subject->暗器</li>
+    <li>subject_story->やがて刑事として雇われ,体内に隠したニースパイクに何度も救われた</li>
+    <li>subject_story->逃亡した奴隷に隠し鉤爪で切りつけられ,怪我の回復に1季節を費やした</li>
+    <li>subject_story->警備員としてホールで訪問者をスキャンしていた時,サイボーグが侵入しようとしていることに気付いた</li>
+    <li>subject_gerund->人造暗器の作成</li>
+  </CompactWeaponry.generalRules.rulesStrings>
   
   <!-- EN: flesh shaping -->
   <FleshShaping.label>肉体整形</FleshShaping.label>
@@ -65,7 +90,13 @@
     <li>subject_story->gathered the glitterworld children around the campfire and told horror stories about getting their non-aesthetic noses back</li>
     <li>subject_gerund->crafting aesthetic bionics</li>
   -->
-  <FleshShaping.generalRules.rulesStrings>TODO</FleshShaping.generalRules.rulesStrings>
+  <FleshShaping.generalRules.rulesStrings>
+    <li>subject->美容整形</li>
+    <li>subject_story->Urbworldの住民にラブマシーンと沢山の薬物を無料で配布し,人口減少を止めた</li>
+    <li>subject_story->のちに美容クリニックの整形主任として雇われ,その後は形の良い手足を作ることに日々を費やした</li>
+    <li>subject_story->Glitterworldでキャンプファイヤーの周りに子供たちを集め,整形した美しい鼻が元の醜い形に戻るホラーストーリーを話した</li>
+    <li>subject_gerund->美容人工臓器の作成</li>
+  </FleshShaping.generalRules.rulesStrings>
   
   <!-- EN: healing factors -->
   <HealingFactors.label>ヒーリングファクター</HealingFactors.label>
@@ -78,7 +109,13 @@
     <li>subject_story->studied the ancient corpses found in a cryptosleep shrine and harvested rapid healing devices from them</li>
     <li>subject_gerund->crafting regeneration bionics</li>
   -->
-  <HealingFactors.generalRules.rulesStrings>TODO</HealingFactors.generalRules.rulesStrings>
+  <HealingFactors.generalRules.rulesStrings>
+    <li>subject->ヒーリングバイオニクス</li>
+    <li>subject_story->帝国の貴族を研究し,彼らが青い血を持っているかどうかを調べた.結果として彼らの血は青くなかったが,信じられないほど速く凝血することを確認した</li>
+    <li>subject_story->すべての洞窟傭兵に治癒能力向上器官と適切な異種胚を移植し,より沢山戦えるようにした</li>
+    <li>subject_story->冷凍睡眠カプセルの遺跡から見つかった古代の死体を調査し,死体から急速治癒装置を摘出した</li>
+    <li>subject_gerund->治癒能力向上器官の作成</li>
+  </HealingFactors.generalRules.rulesStrings>
   
   <!-- EN: molecular analysis -->
   <MolecularAnalysis.label>分子解析</MolecularAnalysis.label>
@@ -91,7 +128,13 @@
     <li>subject_story->lectured on the potential hardware conflicts between bionic parts and molecular analysis implants</li>
     <li>subject_gerund->crafting molecular analysis bionics</li>
   -->
-  <MolecularAnalysis.generalRules.rulesStrings>TODO</MolecularAnalysis.generalRules.rulesStrings>
+  <MolecularAnalysis.generalRules.rulesStrings>
+    <li>subject->分子解析バイオニクス</li>
+    <li>subject_story->料理学校のシェフたちに,ガストロアナライザとエステティックノーズを併用すると故障してしまうことを説明した</li>
+    <li>subject_story->免疫促進器を移植して隔離コロニー内を自由に歩いた</li>
+    <li>subject_story->バイオニック器官と分子解析インプラントの間の潜在的なハードウェア競合について講義した</li>
+    <li>subject_gerund->分子解析インプラントの作成</li>
+  </MolecularAnalysis.generalRules.rulesStrings>
   
   <!-- EN: neural computation -->
   <NeuralComputation.label>神経計算機</NeuralComputation.label>
@@ -105,7 +148,14 @@
     <li>subject_story->had a learning assistant installed. It proved to be a problem later, when captured by pirates, who halted any escape attempts with EMP attacks</li>
     <li>subject_gerund->crafting brain implants</li>
   -->
-  <NeuralComputation.generalRules.rulesStrings>TODO</NeuralComputation.generalRules.rulesStrings>
+  <NeuralComputation.generalRules.rulesStrings>
+    <li>subject->脳インプラント</li>
+    <li>subject->神経計算機</li>
+    <li>subject_story->とある監獄で学習アシスタントを装着した看守にEMP攻撃で脳にショックを与え,囚人を解放する時間を稼いだ</li>
+    <li>subject_story->自身の勤める大学の全学部に学習アシスタントか神経計算機の移植を義務付けた</li>
+    <li>subject_story->自身の脳に学習アシスタントを移植した.しかしのちに宙族に捕らえられた時,逃亡の試みがEMPによって阻止されてしまい,そこで初めてこのインプラントの問題点に気が付いた</li>
+    <li>subject_gerund->脳インプラントの作成</li>
+  </NeuralComputation.generalRules.rulesStrings>
   
   <!-- EN: skin hardening -->
   <SkinHardening.label>皮膚強化</SkinHardening.label>
@@ -118,7 +168,13 @@
     <li>subject_story->worked with nanonmachine glands to thicken the human epidermis, at the expense of meeting traditional standards of beauty</li>
     <li>subject_gerund->crafting subdermal armor implants</li>
   -->
-  <SkinHardening.generalRules.rulesStrings>TODO</SkinHardening.generalRules.rulesStrings>
+  <SkinHardening.generalRules.rulesStrings>
+    <li>subject->皮下インプラント</li>
+    <li>subject_story->バークスキンドライアドの腺を研究し,それが人間にも適応できると推論した</li>
+    <li>subject_story->のちに恐竜の惑星を石の肌を持つ動物使いたちと共に旅し,彼らを覆う分厚いケラチンプレートを研究した</li>
+    <li>subject_story->人間の表皮をナノマシン腺で分厚くする手段を研究し,人間的な美しさを損なうデメリットは無視した</li>
+    <li>subject_gerund->皮下装甲インプラントの作成</li>
+  </SkinHardening.generalRules.rulesStrings>
   
   <!-- EN: specialized limbs -->
   <SpecializedLimbs.label>専門的義手</SpecializedLimbs.label>
@@ -131,7 +187,13 @@
     <li>subject_story->worked as a surgeon on the rim, replacing missing arms with everything from a woodhand to a power claw</li>
     <li>subject_gerund->crafting specialized bionic arms</li>
   -->
-  <SpecializedLimbs.generalRules.rulesStrings>TODO</SpecializedLimbs.generalRules.rulesStrings>
+  <SpecializedLimbs.generalRules.rulesStrings>
+    <li>subject->専門的補助器具</li>
+    <li>subject_story->封建の惑星で働く契約制農業者に,農作業の合間に取材をした</li>
+    <li>subject_story->パワークローを装備した洞窟傭兵が両手にドリルアームを装備した鉱山労働者と喧嘩しているところを観察した</li>
+    <li>subject_story->Rimworldの外科医として働き,患者の失われた腕を義手からパワークローまで様々なパーツに置き換えた</li>
+    <li>subject_gerund->専門的義手の作成</li>
+  </SpecializedLimbs.generalRules.rulesStrings>
   
   <!-- EN: poison synthesis -->
   <VenomSynthesis.label>毒物合成</VenomSynthesis.label>
@@ -144,6 +206,12 @@
     <li>subject_story->learned to love sharp little cutting edges, which could kill with a mere nick</li>
     <li>subject_gerund->crafting poisonous bionic weapons</li>
   -->
-  <VenomSynthesis.generalRules.rulesStrings>TODO</VenomSynthesis.generalRules.rulesStrings>
+  <VenomSynthesis.generalRules.rulesStrings>
+    <li>subject->毒物バイオニック</li>
+    <li>subject_story->内部に小さく格納できる小規模な化学反応器の開発に取り組んだ</li>
+    <li>subject_story->ゴミの惑星に棲むコウヤネズミを研究し,この種特有の毒牙について論文を書いた</li>
+    <li>subject_story->わずかな傷一つで人を殺せる,鋭く,小さな刃物の愛らしさに気付いた</li>
+    <li>subject_gerund->有毒器官の作成</li>
+  </VenomSynthesis.generalRules.rulesStrings>
   
 </LanguageData>

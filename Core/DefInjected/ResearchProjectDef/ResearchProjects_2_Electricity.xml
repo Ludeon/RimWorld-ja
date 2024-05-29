@@ -12,7 +12,13 @@
     <li>subject_story->learned all about air conditioning and freezers, then returned home</li>
     <li>subject_gerund->building air conditioning units</li>
   -->
-  <AirConditioning.generalRules.rulesStrings>TODO</AirConditioning.generalRules.rulesStrings>
+  <AirConditioning.generalRules.rulesStrings>
+    <li>subject->空調設備</li>
+    <li>subject_story->惑星上で最も暑い町を訪れた</li>
+    <li>subject_story->絶対零度に近い温度で管理された,大氷原の星間倉庫で働いた</li>
+    <li>subject_story->空調設備と冷凍技術についてすべて学び,故郷に戻った</li>
+    <li>subject_gerund->空調設備建築</li>
+  </AirConditioning.generalRules.rulesStrings>
   
   <!-- EN: autodoor -->
   <Autodoors.label>自動ドア</Autodoors.label>
@@ -26,7 +32,14 @@
     <li>subject_story->worked very hard to ensure the doors made a satisfying 'hiss' when they opened or closed</li>
     <li>subject_gerund->constructing autodoors</li>
   -->
-  <Autodoors.generalRules.rulesStrings>TODO</Autodoors.generalRules.rulesStrings>
+  <Autodoors.generalRules.rulesStrings>
+    <li>subject->自動ドア</li>
+    <li>subject->全自動式ドア</li>
+    <li>subject_story->ロボットセキュリティ会社に採用され自動化技術部門のテスターとなり,大きなキャリアへの扉を開いた</li>
+    <li>subject_story->ユニークな自動ドアの試作品を設計した</li>
+    <li>subject_story->ドアの開閉時の音にこだわり,自分の満足できる"シューッ"が鳴るように試行錯誤した</li>
+    <li>subject_gerund->自動ドア建築</li>
+  </Autodoors.generalRules.rulesStrings>
   
   <!-- EN: battery -->
   <Batteries.label>バッテリー</Batteries.label>
@@ -39,7 +52,13 @@
     <li>subject_story->worked in the scrapworlds, repairing machines and batteries</li>
     <li>subject_gerund->building batteries</li>
   -->
-  <Batteries.generalRules.rulesStrings>TODO</Batteries.generalRules.rulesStrings>
+  <Batteries.generalRules.rulesStrings>
+    <li>subject->バッテリー</li>
+    <li>subject_story->死の惑星にある鉛色の海岸沿いに位置する酸性湖が,自然の電池として機能していることを発見した</li>
+    <li>subject_story->コロニーが停電した場合に生命維持装置を維持する役目を自ら負った</li>
+    <li>subject_story->瓦礫の惑星で機械やバッテリーを修理して働いていた</li>
+    <li>subject_gerund->バッテリー建築</li>
+  </Batteries.generalRules.rulesStrings>
   
   <!-- EN: biofuel refining -->
   <BiofuelRefining.label>精油施設</BiofuelRefining.label>
@@ -52,12 +71,18 @@
     <li>subject_story->started a distillery to make moonshine but, realizing it was undrinkable, sold it as chemfuel instead</li>
     <li>subject_gerund->refining biofuel</li>
   -->
-  <BiofuelRefining.generalRules.rulesStrings>TODO</BiofuelRefining.generalRules.rulesStrings>
+  <BiofuelRefining.generalRules.rulesStrings>
+    <li>subject->バイオ液化燃料</li>
+    <li>subject_story->発電用の船が電源を失ったとき,船内に閉じ込められつつも精製の知識を活かして人間の遺体をバイオ液化燃料に変え,エンジンを再始動した</li>
+    <li>subject_story->氷の惑星で自動バイオ精製装置を使用し,長期にわたるテラフォーミング計画を始めた</li>
+    <li>subject_story->密造酒を作るための蒸留所を作り,生産物がとても飲めたものではないことに気づき,代わりにそれを化学燃料として販売した</li>
+    <li>subject_gerund->バイオ燃料精製</li>
+  </BiofuelRefining.generalRules.rulesStrings>
   
   <!-- EN: blowback operation -->
   <BlowbackOperation.label>ブローバック作動式</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
-  <BlowbackOperation.description>オートピストル,マシンピストルのような低火力のブローバック銃を作れるようになります.</BlowbackOperation.description>
+  <BlowbackOperation.description>自動式拳銃,マシンピストルのような低火力のブローバック銃を作れるようになります.</BlowbackOperation.description>
   <!-- EN:
     <li>subject->pistols</li>
     <li>subject->blowback firearms</li>
@@ -66,7 +91,14 @@
     <li>subject_story->crafted blowback-operated guns for near-sighted conscripts</li>
     <li>subject_gerund->crafting blowback firearms</li>
   -->
-  <BlowbackOperation.generalRules.rulesStrings>TODO</BlowbackOperation.generalRules.rulesStrings>
+  <BlowbackOperation.generalRules.rulesStrings>
+    <li>subject->ピストル</li>
+    <li>subject->ブローバック式銃器</li>
+    <li>subject_story->惑星の略奪中に行った塹壕戦闘でマシンピストルを使用した</li>
+    <li>subject_story->低出力の自動式拳銃を惑星軌道上の法執行機関に販売した</li>
+    <li>subject_story->近視の兵士のためにブローバック作動式の銃を作った</li>
+    <li>subject_gerund->ブローバック式銃器の作成</li>
+  </BlowbackOperation.generalRules.rulesStrings>
   
   <!-- EN: advanced lights -->
   <ColoredLights.label>先進ライト</ColoredLights.label>
@@ -79,7 +111,13 @@
     <li>subject_story->moved into running concerts for interstellar troubadours, specializing in controlling the ship's massive lighting rigs</li>
     <li>subject_gerund->building advanced lights</li>
   -->
-  <ColoredLights.generalRules.rulesStrings>TODO</ColoredLights.generalRules.rulesStrings>
+  <ColoredLights.generalRules.rulesStrings>
+    <li>subject->先進ライト</li>
+    <li>subject_story->監獄の惑星にあるセキュリティ境界線のいたるところに投光器を設置した</li>
+    <li>subject_story->惑星の暗い面が十分に照らされていることを確認した</li>
+    <li>subject_story->星間吟遊詩人のためのコンサートを運営するようになり,船に取り付ける巨大な照明装置の制御を専門とするようになった</li>
+    <li>subject_gerund->先進ライト建築</li>
+  </ColoredLights.generalRules.rulesStrings>
   
   <!-- EN: electricity -->
   <Electricity.label>電気工学 基礎</Electricity.label>
@@ -96,7 +134,13 @@
     <li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
     <li>subject_gerund->harnessing electricity</li>
   -->
-  <Electricity.generalRules.rulesStrings>TODO</Electricity.generalRules.rulesStrings>
+  <Electricity.generalRules.rulesStrings>
+    <li>subject->電気工学</li>
+    <li>subject_story->照明という存在に衝撃を受け,それを利用しようと決心した</li>
+    <li>subject_story->中世の惑星で最初の発電機と電球を作った</li>
+    <li>subject_story->光を創造するという冒涜の罪で封建の惑星で処刑された</li>
+    <li>subject_gerund->電気の利用</li>
+  </Electricity.generalRules.rulesStrings>
   
   <!-- EN: firefoam -->
   <Firefoam.label>泡消火器</Firefoam.label>
@@ -111,7 +155,15 @@
     <li>subject_gerund->constructing firefoam poppers</li>
     <li>subject_gerund->suppressing fires with poppers</li>
   -->
-  <Firefoam.generalRules.rulesStrings>TODO</Firefoam.generalRules.rulesStrings>
+  <Firefoam.generalRules.rulesStrings>
+    <li>subject->泡消火器</li>
+    <li>subject->防火装置</li>
+    <li>subject_story->火災安全を一般化させる機関を率いた</li>
+    <li>subject_story->消防士になった</li>
+    <li>subject_story->石油火災が制御不能になった際に,事前に設置しておいた泡消火器によって救われた</li>
+    <li>subject_gerund->泡消火器建築</li>
+    <li>subject_gerund->消火器による火災鎮圧</li>
+  </Firefoam.generalRules.rulesStrings>
   
   <!-- EN: flak armor -->
   <FlakArmor.label>防弾</FlakArmor.label>
@@ -124,7 +176,13 @@
     <li>subject_story->survived a rifle bullet thanks to the metal plate sewn into the breast pocket</li>
     <li>subject_gerund->crafting flak armor</li>
   -->
-  <FlakArmor.generalRules.rulesStrings>TODO</FlakArmor.generalRules.rulesStrings>
+  <FlakArmor.generalRules.rulesStrings>
+    <li>subject->防弾アーマー</li>
+    <li>subject_story->都市を運営する民兵に防弾アーマーを供給した</li>
+    <li>subject_story->暴れギャング集団から家族を守るために,金属板を衣服に縫い付けることを学んだ</li>
+    <li>subject_story->胸ポケットに縫い付けられた金属板によってライフル銃弾から身を守った</li>
+    <li>subject_gerund->防弾アーマー作成</li>
+  </FlakArmor.generalRules.rulesStrings>
   
   <!-- EN: foam turret -->
   <FoamTurret.label>泡タレット</FoamTurret.label>
@@ -139,7 +197,15 @@
     <li>subject_gerund->constructing fire suppression turrets</li>
     <li>subject_gerund->suppressing fires with turrets</li>
   -->
-  <FoamTurret.generalRules.rulesStrings>TODO</FoamTurret.generalRules.rulesStrings>
+  <FoamTurret.generalRules.rulesStrings>
+    <li>subject->泡タレット</li>
+    <li>subject->火災鎮圧タレット</li>
+    <li>subject_story->発砲するためのタレットを,発泡するためのタレットに再設計した</li>
+    <li>subject_story->熱センサーと泡放出器を一般的なタレットの砲座に組み込んだ</li>
+    <li>subject_story->公共エリアに安価な泡タレットを設置し,多くの命を救ったことで賞賛された</li>
+    <li>subject_gerund->泡タレット建築</li>
+    <li>subject_gerund->タレットによる火災鎮圧</li>
+  </FoamTurret.generalRules.rulesStrings>
   
   <!-- EN: gas operation -->
   <GasOperation.label>ガス作動式</GasOperation.label>
@@ -153,7 +219,14 @@
     <li>subject_story->designed new types of high-power gun, still known today</li>
     <li>subject_gerund->crafting heavy firearms</li>
   -->
-  <GasOperation.generalRules.rulesStrings>TODO</GasOperation.generalRules.rulesStrings>
+  <GasOperation.generalRules.rulesStrings>
+    <li>subject->重火器</li>
+    <li>subject->高出力銃器</li>
+    <li>subject_story->とある国の暴君のガードを務める特殊武器部隊に軽機関銃を支給した</li>
+    <li>subject_story->いくつかの惑星軍に重火器を支給した</li>
+    <li>subject_story->今ではよく知られている高出力銃の設計者となった</li>
+    <li>subject_gerund->重火器作成</li>
+  </GasOperation.generalRules.rulesStrings>
   
   <!-- EN: geothermal power -->
   <GeothermalPower.label>地熱発電</GeothermalPower.label>
@@ -167,7 +240,14 @@
     <li>subject_gerund->tapping geothermal energy</li>
     <li>subject_gerund->building geothermal power plants</li>
   -->
-  <GeothermalPower.generalRules.rulesStrings>TODO</GeothermalPower.generalRules.rulesStrings>
+  <GeothermalPower.generalRules.rulesStrings>
+    <li>subject->地熱発電</li>
+    <li>subject_story->蒸気動力を研究し,地域に地熱発電装置を建築した</li>
+    <li>subject_story->休火山の力を利用して田舎の送電網に電力を供給した</li>
+    <li>subject_story->間欠泉を保護したいと主張する地元住民と議論し,電力よりも美しい景観を守りたいという意見に反対した</li>
+    <li>subject_gerund->地熱エネルギーの利用</li>
+    <li>subject_gerund->地熱発電装置の建築</li>
+  </GeothermalPower.generalRules.rulesStrings>
   
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>ガンスミス</Gunsmithing.label>
@@ -181,7 +261,14 @@
     <li>subject_gerund->gunsmithing</li>
     <li>subject_gerund->crafting firearms</li>
   -->
-  <Gunsmithing.generalRules.rulesStrings>TODO</Gunsmithing.generalRules.rulesStrings>
+  <Gunsmithing.generalRules.rulesStrings>
+    <li>subject->簡単な銃器</li>
+    <li>subject_story->ユニークな12発のリボルバーを作り,銃撃戦に次ぐ銃撃戦に勝利した</li>
+    <li>subject_story->簡単な銃器作成を専門とするようになり,狩人に散弾銃やライフルを提供した</li>
+    <li>subject_story->ガンスミスとして起業し,この分野で有名になった</li>
+    <li>subject_gerund->ガンスミス</li>
+    <li>subject_gerund->銃作成</li>
+  </Gunsmithing.generalRules.rulesStrings>
   
   <!-- EN: gun turrets -->
   <GunTurrets.label>ガンタレット</GunTurrets.label>
@@ -194,7 +281,13 @@
     <li>subject_story->disabled the enemy's turrets remotely, before leading the charge</li>
     <li>subject_gerund->constructing automated gun turrets</li>
   -->
-  <GunTurrets.generalRules.rulesStrings>TODO</GunTurrets.generalRules.rulesStrings>
+  <GunTurrets.generalRules.rulesStrings>
+    <li>subject->ガンタレット</li>
+    <li>subject_story->ガンタレットが味方と敵を識別できるようにAIルーチンを組み替えた</li>
+    <li>subject_story->あらゆる武器を使えるようにする組み立て式タレットホルスターを設計した</li>
+    <li>subject_story->敵の拠点を攻める際,攻撃命令を出す前に敵のタレットを遠隔操作で無力化した</li>
+    <li>subject_gerund->自動式ガンタレットの作成</li>
+  </GunTurrets.generalRules.rulesStrings>
   
   <!-- EN: hydroponics -->
   <Hydroponics.label>水耕栽培器</Hydroponics.label>
@@ -208,7 +301,14 @@
     <li>subject_gerund->building hydroponics</li>
     <li>subject_gerund->growing plants indoors</li>
   -->
-  <Hydroponics.generalRules.rulesStrings>TODO</Hydroponics.generalRules.rulesStrings>
+  <Hydroponics.generalRules.rulesStrings>
+    <li>subject->水耕栽培器</li>
+    <li>subject_story->作物の専門家として世代宇宙船の乗組員に加わった</li>
+    <li>subject_story->飢えた人々に食事を与えるために水耕栽培施設を建てた</li>
+    <li>subject_story->様々な土地を訪れ,新しい入植者に人工的に植物を育てる方法を教えた</li>
+    <li>subject_gerund->水耕栽培器の建築</li>
+    <li>subject_gerund->屋内栽培</li>
+  </Hydroponics.generalRules.rulesStrings>
   
   <!-- EN: IEDs -->
   <IEDs.label>爆発物 IED</IEDs.label>
@@ -221,7 +321,13 @@
     <li>subject_story->advocated for the rights of small settlements, where unexploded munitions were a constant peril</li>
     <li>subject_gerund->crafting improvised explosive traps</li>
   -->
-  <IEDs.generalRules.rulesStrings>TODO</IEDs.generalRules.rulesStrings>
+  <IEDs.generalRules.rulesStrings>
+    <li>subject->即席爆発トラップ</li>
+    <li>subject_story->戦後に放置された砲弾を分解し,地雷に作り替えて新たな前線に送った</li>
+    <li>subject_story->迫撃砲の砲撃にさらされた際も,地上に落ちた不発弾から罠を作り,唯一生き残った</li>
+    <li>subject_story->沢山の不発弾によって危険に晒され続けていた小さな集落の領有権を主張した</li>
+    <li>subject_gerund->即席爆発トラップの作成</li>
+  </IEDs.generalRules.rulesStrings>
   
   <!-- EN: machining -->
   <Machining.label>精密工作機械</Machining.label>
@@ -235,7 +341,14 @@
     <li>subject_gerund->building machining equipment</li>
     <li>subject_gerund->machining</li>
   -->
-  <Machining.generalRules.rulesStrings>TODO</Machining.generalRules.rulesStrings>
+  <Machining.generalRules.rulesStrings>
+    <li>subject->精密工作機械</li>
+    <li>subject_story->壊れたメカノイドの残骸を集め,寸断して資源として利用した</li>
+    <li>subject_story->郊外の家の地下室にひっそりと自作の武器庫を築いた</li>
+    <li>subject_story->平和主義者であったにもかかわらず,多くの銃鍛冶屋のために工作台を作った</li>
+    <li>subject_gerund->精密加工機械の建築</li>
+    <li>subject_gerund->機械加工</li>
+  </Machining.generalRules.rulesStrings>
   
   <!-- EN: mortars -->
   <Mortars.label>迫撃砲</Mortars.label>
@@ -250,7 +363,15 @@
     <li>subject_gerund->crafting mortars</li>
     <li>subject_gerund->constructing simple artillery</li>
   -->
-  <Mortars.generalRules.rulesStrings>TODO</Mortars.generalRules.rulesStrings>
+  <Mortars.generalRules.rulesStrings>
+    <li>subject->大砲</li>
+    <li>subject->迫撃砲</li>
+    <li>subject_story->議会の転覆を目的とした軍刑務所包囲襲撃に貢献した</li>
+    <li>subject_story->地方の警察のために組み立て式の軽量迫撃砲を開発した</li>
+    <li>subject_story->沢山の廃墟を遠距離から迫撃砲弾を使って破壊した</li>
+    <li>subject_gerund->迫撃砲作成</li>
+    <li>subject_gerund->簡単な大砲作り</li>
+  </Mortars.generalRules.rulesStrings>
   
   <!-- EN: nutrient paste -->
   <NutrientPaste.label>栄養補給ペースト</NutrientPaste.label>
@@ -263,7 +384,13 @@
     <li>subject_story->advocated for the recycling of all organic matter into nutrient paste, even corpses</li>
     <li>subject_gerund->building nutrient paste dispensers</li>
   -->
-  <NutrientPaste.generalRules.rulesStrings>TODO</NutrientPaste.generalRules.rulesStrings>
+  <NutrientPaste.generalRules.rulesStrings>
+    <li>subject->栄養補給ペースト</li>
+    <li>subject_story->工場の食堂で働き,調理仕事をサボるために栄養補給ペーストを考案した</li>
+    <li>subject_story->病気で嗅覚を失った際に,安価で味のない栄養補給ペーストを考案した</li>
+    <li>subject_story->死体も含めたすべての有機物を栄養補給ペーストにリサイクルすることを提唱した</li>
+    <li>subject_gerund->ペーストディスペンサーの建築</li>
+  </NutrientPaste.generalRules.rulesStrings>
   
   <!-- EN: packaged survival meal -->
   <PackagedSurvivalMeal.label>非常用食品</PackagedSurvivalMeal.label>
@@ -277,7 +404,14 @@
     <li>subject_story->discovered survival meals in the mountains that were hundreds of years old</li>
     <li>subject_gerund->preparing survival meals</li>
   -->
-  <PackagedSurvivalMeal.generalRules.rulesStrings>TODO</PackagedSurvivalMeal.generalRules.rulesStrings>
+  <PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>subject->非常用食品</li>
+    <li>subject->保存食</li>
+    <li>subject_story->災害発生時でも,救助が来るまでに十分な量の非常用食品があることを知っていた</li>
+    <li>subject_story->ソーシャルキッチンを設立し,出航するすべての船舶にサバイバル用食品を寄付した</li>
+    <li>subject_story->山中で数百年前のサバイバル用食品を発見した</li>
+    <li>subject_gerund->非常用食品の作成</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
   
   <!-- EN: prosthetics -->
   <Prosthetics.label>人工装具</Prosthetics.label>
@@ -290,7 +424,13 @@
     <li>subject_story->began crafting bespoke fake limbs for the many war veterans in the area</li>
     <li>subject_gerund->crafting prosthetics</li>
   -->
-  <Prosthetics.generalRules.rulesStrings>TODO</Prosthetics.generalRules.rulesStrings>
+  <Prosthetics.generalRules.rulesStrings>
+    <li>subject->人工装具</li>
+    <li>subject_story->自分の手足を義肢に置き換え,人工装具がいかに取り扱いやすいかを人々に示した</li>
+    <li>subject_story->人工装具を取り扱う個人病院を開いた</li>
+    <li>subject_story->地域に住む大勢の退役軍人のために,特注の義肢を作り始めた</li>
+    <li>subject_gerund->人工装具の作成</li>
+  </Prosthetics.generalRules.rulesStrings>
   
   <!-- EN: smokepop packs -->
   <SmokepopBelt.label>スモークポップパック</SmokepopBelt.label>
@@ -304,7 +444,14 @@
     <li>subject_gerund->building smokepop packs</li>
     <li>subject_gerund->deploying smokescreens</li>
   -->
-  <SmokepopBelt.generalRules.rulesStrings>TODO</SmokepopBelt.generalRules.rulesStrings>
+  <SmokepopBelt.generalRules.rulesStrings>
+    <li>subject->煙幕</li>
+    <li>subject_story->あるバンドの荷物運びとして働き,特殊効果のためにスモークポップを使用していた</li>
+    <li>subject_story->郊外の町の周囲に防衛用煙幕を展開し,野生動物を寄せ付けないようにした</li>
+    <li>subject_story->新人消防士の訓練を行う際,炎を用いた訓練の危険性を考慮し,スモークポップパックを使用した</li>
+    <li>subject_gerund->スモークポップパックの作成</li>
+    <li>subject_gerund->煙幕展開</li>
+  </SmokepopBelt.generalRules.rulesStrings>
   
   <!-- EN: solar panel -->
   <SolarPanels.label>太陽光発電</SolarPanels.label>
@@ -318,7 +465,14 @@
     <li>subject_story->left on a sundiver to see a fly-by of a star's photosphere</li>
     <li>subject_gerund->building solar panels</li>
   -->
-  <SolarPanels.generalRules.rulesStrings>TODO</SolarPanels.generalRules.rulesStrings>
+  <SolarPanels.generalRules.rulesStrings>
+    <li>subject->太陽光発電装置</li>
+    <li>subject->太陽エネルギー</li>
+    <li>subject_story->マルチスペクトル太陽光発電所を設立した</li>
+    <li>subject_story->装置から得られる太陽エネルギーの量を最大化する方法を研究した</li>
+    <li>subject_story->太陽が最も地表に近寄る際に,光球面を観察するためにサンダイバーに乗った</li>
+    <li>subject_gerund->太陽光発電機の建築</li>
+  </SolarPanels.generalRules.rulesStrings>
   
   <!-- EN: sterile materials -->
   <SterileMaterials.label>抗菌素材</SterileMaterials.label>
@@ -332,7 +486,14 @@
     <li>subject_gerund->sterilizing surfaces</li>
     <li>subject_gerund->constructing sterilized surfaces</li>
   -->
-  <SterileMaterials.generalRules.rulesStrings>TODO</SterileMaterials.generalRules.rulesStrings>
+  <SterileMaterials.generalRules.rulesStrings>
+    <li>subject->抗菌タイル</li>
+    <li>subject_story->すべての器具を効果的に滅菌することの重要性を主張し,多くの死を防いだ</li>
+    <li>subject_story->ペットフードキッチンを開き,ここで用いられた特殊な調理法は食中毒が発生しないことで有名になった</li>
+    <li>subject_story->医療機器と抗菌タイルを製造するかたわら,装飾用タイル工場を開業した</li>
+    <li>subject_gerund->タイルの殺菌</li>
+    <li>subject_gerund->抗菌タイル作成</li>
+  </SterileMaterials.generalRules.rulesStrings>
   
   <!-- EN: tube television -->
   <TubeTelevision.label>ブラウン管テレビ</TubeTelevision.label>
@@ -345,7 +506,13 @@
     <li>subject_story->ensured that everyone knew the dangers of cathode ray tubes</li>
     <li>subject_gerund->producing tube televisions</li>
   -->
-  <TubeTelevision.generalRules.rulesStrings>TODO</TubeTelevision.generalRules.rulesStrings>
+  <TubeTelevision.generalRules.rulesStrings>
+    <li>subject->ブラウン管テレビ</li>
+    <li>subject_story->星間信号を受信できるレトロなテレビを設計した</li>
+    <li>subject_story->放送業界に移り,旧式ブラウン管テレビ専用の番組を制作した</li>
+    <li>subject_story->誰もがブラウン管の危険性を理解できるようにした</li>
+    <li>subject_gerund->ブラウン管テレビ作成</li>
+  </TubeTelevision.generalRules.rulesStrings>
   
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>水力発電</WatermillGenerator.label>
@@ -358,6 +525,12 @@
     <li>subject_story->beached a paddle steamer on a ruinworld's shores and converted it into a watermill</li>
     <li>subject_gerund->watermill generators</li>
   -->
-  <WatermillGenerator.generalRules.rulesStrings>TODO</WatermillGenerator.generalRules.rulesStrings>
+  <WatermillGenerator.generalRules.rulesStrings>
+    <li>subject->水力発電</li>
+    <li>subject_story->小枝や葉っぱが下流に引っ張られる様子を見て,そこあるエネルギーが何なのかを考えた</li>
+    <li>subject_story->封建の惑星にある大昔に作られた製粉工場に送電線を繋いだ</li>
+    <li>subject_story->滅亡した惑星の海岸に外輪型蒸気船を引き寄せ,船を水車小屋に改造した</li>
+    <li>subject_gerund->水力発電</li>
+  </WatermillGenerator.generalRules.rulesStrings>
   
 </LanguageData>

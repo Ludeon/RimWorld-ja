@@ -12,12 +12,18 @@
     <li>subject_story->became wealthy from the resources dug out of the world's core</li>
     <li>subject_gerund->mining deeply</li>
   -->
-  <DeepDrilling.generalRules.rulesStrings>TODO</DeepDrilling.generalRules.rulesStrings>
+  <DeepDrilling.generalRules.rulesStrings>
+    <li>subject->深部ドリルマシン</li>
+    <li>subject_story->ダートモール主導の部隊に移り,最深部の発掘調査を行った</li>
+    <li>subject_story->惑星の氷冠の根元まで掘削し,人類史以前に絶滅した生物群系を発見した</li>
+    <li>subject_story->惑星の地殻から資源を掘り出し,裕福になった</li>
+    <li>subject_gerund->深部採掘</li>
+  </DeepDrilling.generalRules.rulesStrings>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>平面スクリーンテレビ</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
-  <FlatscreenTelevision.description>大きな娯楽を得られる,高解像度でスクリーンが平面なテレビを作れるようになります.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>大きな娯楽を得られる,高解像度で画面がフラットなテレビを作れるようになります.</FlatscreenTelevision.description>
   <!-- EN:
     <li>subject->flatscreen televisions</li>
     <li>subject_story->experimented with removing tubes from televisions</li>
@@ -30,7 +36,18 @@
     <li>subject_story->became a television executive, in charge of [tv_content]</li>
     <li>subject_gerund->producing flatscreen televisions</li>
   -->
-  <FlatscreenTelevision.generalRules.rulesStrings>TODO</FlatscreenTelevision.generalRules.rulesStrings>
+  <FlatscreenTelevision.generalRules.rulesStrings>
+    <li>subject->平面スクリーンテレビ</li>
+    <li>subject_story->ブラウン管なしでテレビを動作させる実験をした</li>
+    <li>subject_story->銀河中に放送できる高解像度な[tv_content]を求めて活動した</li>
+    <li>tv_content->メロドラマ</li>
+    <li>tv_content->ニュース番組</li>
+    <li>tv_content->革命プロパガンダ</li>
+    <li>tv_content->Glitterworldファッション番組</li>
+    <li>tv_content->料理アニメ</li>
+    <li>subject_story->エグゼクティブプロデューサーになり,[tv_content]の製作を担当した</li>
+    <li>subject_gerund->平面スクリーンテレビ作成</li>
+  </FlatscreenTelevision.generalRules.rulesStrings>
   
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
@@ -44,7 +61,14 @@
     <li>subject_story->scanned the ground for ancient minefields, to protect the people</li>
     <li>subject_gerund->constructing geophysical scanners</li>
   -->
-  <GroundPenetratingScanner.generalRules.rulesStrings>TODO</GroundPenetratingScanner.generalRules.rulesStrings>
+  <GroundPenetratingScanner.generalRules.rulesStrings>
+    <li>subject->惑星物理学</li>
+    <li>subject->地殻深部スキャナー</li>
+    <li>subject_story->惑星の地表のはるか下に,大昔の巨人の骨を発見した</li>
+    <li>subject_story->スズのスキャン中に偶然高価な金の薄層を見つけ,信じられないほど裕福になった</li>
+    <li>subject_story->人々を守るために地下をスキャンし,古代の地雷原を探した</li>
+    <li>subject_gerund->惑星物理学に基づくスキャナー作成</li>
+  </GroundPenetratingScanner.generalRules.rulesStrings>
   
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>オートキャノンタレット</HeavyTurrets.label>
@@ -57,7 +81,13 @@
     <li>subject_story->built turret after turret, never asking who was buying them</li>
     <li>subject_gerund->crafting heavy autocannon turrets</li>
   -->
-  <HeavyTurrets.generalRules.rulesStrings>TODO</HeavyTurrets.generalRules.rulesStrings>
+  <HeavyTurrets.generalRules.rulesStrings>
+    <li>subject->オートキャノンタレット</li>
+    <li>subject_story->タレットの後ろに隠れながらカルト信者の襲撃をたった一人で食い止めた</li>
+    <li>subject_story->地域住民に雇われ,土嚢とタレットによる防衛線を築いた</li>
+    <li>subject_story->タレットを次々と作り販売したが,購入者の素性は決して尋ねなかった</li>
+    <li>subject_gerund->オートキャノンタレット作成</li>
+  </HeavyTurrets.generalRules.rulesStrings>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>病院用ベッド</HospitalBed.label>
@@ -70,7 +100,13 @@
     <li>subject_story->focused on profit, selling their superior medical suites to the wealthy</li>
     <li>subject_gerund->constructing hospital beds</li>
   -->
-  <HospitalBed.generalRules.rulesStrings>TODO</HospitalBed.generalRules.rulesStrings>
+  <HospitalBed.generalRules.rulesStrings>
+    <li>subject->病院環境</li>
+    <li>subject_story->医療水準の革命を指揮した</li>
+    <li>subject_story->このシステムを用いた最初の公立病院を開いた</li>
+    <li>subject_story->利益を重視し,優れた医療具一式を富裕層に販売した</li>
+    <li>subject_gerund->病院用ベッド作成</li>
+  </HospitalBed.generalRules.rulesStrings>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>長距離鉱物探査スキャナー</LongRangeMineralScanner.label>
@@ -83,7 +119,13 @@
     <li>subject_story->mined out the entirety of the planet's jade for religious effigies</li>
     <li>subject_gerund->constructing long-range mineral scanners</li>
   -->
-  <LongRangeMineralScanner.generalRules.rulesStrings>TODO</LongRangeMineralScanner.generalRules.rulesStrings>
+  <LongRangeMineralScanner.generalRules.rulesStrings>
+    <li>subject->長距離鉱物探査スキャナー</li>
+    <li>subject_story->スキャナーを大量生産し,これによって惑星全体の地質が明らかになった</li>
+    <li>subject_story->他の居住地が採掘している鉱石をスキャナーで把握し,取引を通じて巨額の利益を得た</li>
+    <li>subject_story->宗教的な彫像のために惑星上のヒスイをすべて採掘した</li>
+    <li>subject_gerund->長距離鉱物探査スキャナーの作成</li>
+  </LongRangeMineralScanner.generalRules.rulesStrings>
   
   <!-- EN: medicine production -->
   <MedicineProduction.label>製薬</MedicineProduction.label>
@@ -97,7 +139,14 @@
     <li>subject_story->seized the resources of a drug-dealer and produced useful medicines instead</li>
     <li>subject_gerund->producing industrial-tech medicine</li>
   -->
-  <MedicineProduction.generalRules.rulesStrings>TODO</MedicineProduction.generalRules.rulesStrings>
+  <MedicineProduction.generalRules.rulesStrings>
+    <li>subject->医薬品調合</li>
+    <li>subject->製薬</li>
+    <li>subject_story->Urbworldに医学知識を広めるために,惑星間の医学の違いを調査した</li>
+    <li>subject_story->ニュートロアミンの起源に頭を悩ませ,より詳しく調べようと決心した</li>
+    <li>subject_story->麻薬製造に使われていた資源を奪い取り,それを使って有用な薬を生産した</li>
+    <li>subject_gerund->工業技術医薬品の製造</li>
+  </MedicineProduction.generalRules.rulesStrings>
   
   <!-- EN: microelectronics -->
   <MicroelectronicsBasics.label>マイクロエレクトロニクス 基礎</MicroelectronicsBasics.label>
@@ -110,7 +159,13 @@
     <li>subject_story->moved from town to town, praising the virtues of pure research</li>
     <li>subject_gerund->crafting microelectronics</li>
   -->
-  <MicroelectronicsBasics.generalRules.rulesStrings>TODO</MicroelectronicsBasics.generalRules.rulesStrings>
+  <MicroelectronicsBasics.generalRules.rulesStrings>
+    <li>subject->マイクロエレクトロニクス</li>
+    <li>subject_story->マイクロエレクトロニクスの開発に移った</li>
+    <li>subject_story->とある研究卓を作成し,現在ではその研究卓をもとに多くのバリエーションが作成されるようになった</li>
+    <li>subject_story->純粋な研究を行うことの美徳を説きながら町から町へと移動した</li>
+    <li>subject_gerund->集積回路の作成</li>
+  </MicroelectronicsBasics.generalRules.rulesStrings>
   
   <!-- EN: moisture pump -->
   <MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
@@ -123,7 +178,13 @@
     <li>subject_story->tried to drain the seas, foolishly</li>
     <li>subject_gerund->constructing moisture pumps</li>
   -->
-  <MoisturePump.generalRules.rulesStrings>TODO</MoisturePump.generalRules.rulesStrings>
+  <MoisturePump.generalRules.rulesStrings>
+    <li>subject->土壌改良ポンプ</li>
+    <li>subject_story->地球という惑星にある古代の風車に取り付けられた土壌改良ポンプを研究した</li>
+    <li>subject_story->病気の発生源となる大きな沼地から水を抜いた</li>
+    <li>subject_story->愚かにも海を排水しようとした</li>
+    <li>subject_gerund->土壌改良ポンプの作成</li>
+  </MoisturePump.generalRules.rulesStrings>
   
   <!-- EN: multibarrel weapons -->
   <MultibarrelWeapons.label>ミニガン</MultibarrelWeapons.label>
@@ -136,7 +197,13 @@
     <li>subject_story->built guns explicitly to kill every last person in a room</li>
     <li>subject_gerund->crafting multibarrel weapons</li>
   -->
-  <MultibarrelWeapons.generalRules.rulesStrings>TODO</MultibarrelWeapons.generalRules.rulesStrings>
+  <MultibarrelWeapons.generalRules.rulesStrings>
+    <li>subject->ミニガン</li>
+    <li>subject_story->部隊のために特殊な携帯用ミニガンを作ったが,その部隊が消息不明になったのちに唯一見つかったものはその武器だけだった</li>
+    <li>subject_story->ミニガンの弾薬が尽きないように巨大なホッパーを設計した</li>
+    <li>subject_story->銃を作ったが,その理由が部屋に最後まで残っていた人物を殺すためであるのは明らかであった</li>
+    <li>subject_gerund->ミニガン作成</li>
+  </MultibarrelWeapons.generalRules.rulesStrings>
   
   <!-- EN: precision rifling -->
   <PrecisionRifling.label>精密なライフリング</PrecisionRifling.label>
@@ -149,7 +216,13 @@
     <li>subject_story->became briefly famous for shooting an ambrosia fruit out of the overlord's hand</li>
     <li>subject_gerund->crafting rifles</li>
   -->
-  <PrecisionRifling.generalRules.rulesStrings>TODO</PrecisionRifling.generalRules.rulesStrings>
+  <PrecisionRifling.generalRules.rulesStrings>
+    <li>subject->ライフル</li>
+    <li>subject_story->とある鋳物工場の製造過程における公差を改善し,高品質のライフリングを生産できるようにした</li>
+    <li>subject_story->ネアンデルタールに追われた際,彼らの指導者を安全に仕留めるために狙撃銃を作った</li>
+    <li>subject_story->君主が手に持つアンブロージアの実を撃ち抜き,しばらくのあいだ有名になった</li>
+    <li>subject_gerund->ライフル作成</li>
+  </PrecisionRifling.generalRules.rulesStrings>
   
   <!-- EN: shields -->
   <ShieldBelt.label>シールド</ShieldBelt.label>
@@ -162,7 +235,13 @@
     <li>subject_story->killed an enemy by advancing a blade slowly enough to bypass their shield</li>
     <li>subject_gerund->crafting personal shields</li>
   -->
-  <ShieldBelt.generalRules.rulesStrings>TODO</ShieldBelt.generalRules.rulesStrings>
+  <ShieldBelt.generalRules.rulesStrings>
+    <li>subject->個人用シールド</li>
+    <li>subject_story->たまたま所持していたシールド・プロトタイプのおかげで暗殺の手から生き延びた</li>
+    <li>subject_story->隠し持っていた運動量反発装置を使ってビリヤードの玉を無理やり押し込んだ</li>
+    <li>subject_story->敵のシールド効果を発動させないよう,ゆっくりと刃を動かして殺した</li>
+    <li>subject_gerund->個人用シールドの作成</li>
+  </ShieldBelt.generalRules.rulesStrings>
   
   <!-- EN: transport pod -->
   <TransportPod.label>輸送ポッド</TransportPod.label>
@@ -175,6 +254,12 @@
     <li>subject_story->staved off famine through judicious pod deployment</li>
     <li>subject_gerund->constructing transport pods</li>
   -->
-  <TransportPod.generalRules.rulesStrings>TODO</TransportPod.generalRules.rulesStrings>
+  <TransportPod.generalRules.rulesStrings>
+    <li>subject->輸送ポッド</li>
+    <li>subject_story->原住民の部族の真ん中にポッドを着陸させてしまっただ,かろうじて逃げ延びた</li>
+    <li>subject_story->愛情の証として非常に高価な結婚指輪を購入し,それをたった一つだけ詰めて輸送ポッドで相手のもとに送った</li>
+    <li>subject_story->食料を乗せたポッドを合理的に輸送することで飢饉を食い止めた</li>
+    <li>subject_gerund->輸送ポッドの作成</li>
+  </TransportPod.generalRules.rulesStrings>
   
 </LanguageData>

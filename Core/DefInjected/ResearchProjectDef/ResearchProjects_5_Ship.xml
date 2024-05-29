@@ -16,12 +16,18 @@
     <li>subject_story->harvested shipwrecks in the debris belt of a deadworld</li>
     <li>subject_gerund->constructing starship structures</li>
   -->
-  <ShipBasics.generalRules.rulesStrings>TODO</ShipBasics.generalRules.rulesStrings>
+  <ShipBasics.generalRules.rulesStrings>
+    <li>subject->宇宙船工学</li>
+    <li>subject_story->Glitterworldの船隊のために宇宙船エンジニアを雇用した</li>
+    <li>subject_story->Urbworldの超高層地区の構造設計者として活躍した</li>
+    <li>subject_story->移住不能な惑星にある瓦礫の山から難破船を拾い集めた</li>
+    <li>subject_gerund->宇宙船の建築</li>
+  </ShipBasics.generalRules.rulesStrings>
   
   <!-- EN: machine persuasion -->
   <ShipComputerCore.label>AIコンピュータコア</ShipComputerCore.label>
   <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
-  <ShipComputerCore.description>既存の人工知能(AI)を宇宙船のAI船長として仕えさせるリワードシグナルシステムを作成できるようになります.船員が恒星間旅行で冬眠に入っている間,AIコアは,長期間の恒星間航行中に複雑な決定事項を裁くことが必要とされます.</ShipComputerCore.description>
+  <ShipComputerCore.description>既存のAI人格コアに新たな報酬信号系システムを組み込み,自発的に宇宙船の操縦士として働きたがるようにさせます.星間旅行中の船員は冬眠に入るため,長期間の航行中に複雑な意思決定を行うためにも,AI人格コアの存在は必要不可欠です.</ShipComputerCore.description>
   <!-- EN:
     <li>subject->persona core incentivization</li>
     <li>subject->starship AI sanity maintenance</li>
@@ -32,7 +38,16 @@
     <li>subject_gerund->maintaining starship AI sanity</li>
     <li>subject_gerund->constructing reward-signal systems</li>
   -->
-  <ShipComputerCore.generalRules.rulesStrings>TODO</ShipComputerCore.generalRules.rulesStrings>
+  <ShipComputerCore.generalRules.rulesStrings>
+    <li>subject->AI人格コア改変</li>
+    <li>subject->宇宙船コア正気度メンテナンス</li>
+    <li>subject_story->異常をきたした宇宙船コアを慎重に修理し,制御権を取り戻した</li>
+    <li>subject_story->長期間の星間旅行中に,宇宙船コアを使ったコロニー管理シミュレーションを作成した</li>
+    <li>subject_story->"短期間の"星間旅行中に宇宙船コアカンパニーを経営し,その過程でコアについて多くのことを学んだ</li>
+    <li>subject_gerund->AI人格コアの改変</li>
+    <li>subject_gerund->宇宙船コアの正気度メンテナンス</li>
+    <li>subject_gerund->報酬信号系システムの作成</li>
+  </ShipComputerCore.generalRules.rulesStrings>
   
   <!-- EN: vacuum cryptosleep casket -->
   <ShipCryptosleep.label>耐圧冬眠カプセル</ShipCryptosleep.label>
@@ -45,7 +60,13 @@
     <li>subject_story->lectured on the differences between planetary- and starship-grade equipment</li>
     <li>subject_gerund->constructing hardened cryptosleep caskets</li>
   -->
-  <ShipCryptosleep.generalRules.rulesStrings>TODO</ShipCryptosleep.generalRules.rulesStrings>
+  <ShipCryptosleep.generalRules.rulesStrings>
+    <li>subject->宇宙船規格冬眠カプセル</li>
+    <li>subject_story->故障したCMC-Celeste製冬眠カプセルを交換し,旧世代の宇宙船を再び使えるようにした</li>
+    <li>subject_story->誤って深宇宙に放り出されてしまった際に,自ら設計したカプセルの中で2か月間生き延びた</li>
+    <li>subject_story->宇宙船で使用する設備と地上でしか使用できない設備の違いについて講義した</li>
+    <li>subject_gerund->強化冬眠カプセルの作成</li>
+  </ShipCryptosleep.generalRules.rulesStrings>
   
   <!-- EN: Johnson-Tanaka drive -->
   <ShipEngine.label>ジョンソン-タナカ ドライブ</ShipEngine.label>
@@ -59,12 +80,19 @@
     <li>subject_story->maintained a Johnson-Tanaka drive for two decades, as the ship traveled between the stars</li>
     <li>subject_gerund->constructing starship drives</li>
   -->
-  <ShipEngine.generalRules.rulesStrings>TODO</ShipEngine.generalRules.rulesStrings>
+  <ShipEngine.generalRules.rulesStrings>
+    <li>subject->ジョンソン-タナカ理論</li>
+    <li>subject->異国の運動量伝達技術</li>
+    <li>subject_story->大学の講義でジョンソンとタナカ,そして量子スケール効果について教えた</li>
+    <li>subject_story->論文の基本原理からジョンソン-タナカドライブを作成した</li>
+    <li>subject_story->20年にも及ぶ星間旅行中,宇宙船のジョンソン-タナカドライブをメンテナンスし続けた</li>
+    <li>subject_gerund->宇宙船ドライブの作成</li>
+  </ShipEngine.generalRules.rulesStrings>
   
   <!-- EN: starship reactor -->
   <ShipReactor.label>宇宙船 反応炉</ShipReactor.label>
   <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
-  <ShipReactor.description>宇宙船にパワーを供給する長寿命核物質反応炉を作れるようになります.注意：反応炉は長い起動時間を必要とするので,レイダー達の興味をそそります.</ShipReactor.description>
+  <ShipReactor.description>宇宙船にパワーを供給する長寿命原子反応炉を作れるようになります.注意：反応炉は長い起動時間を必要とするので,レイダー達の興味をそそります.</ShipReactor.description>
   <!-- EN:
     <li>subject->starship nuclear reactor</li>
     <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
@@ -72,7 +100,13 @@
     <li>subject_story->used a starship reactor as the back-up power for a genebank buried beneath the planet's ice-cap</li>
     <li>subject_gerund->constructing starship reactors</li>
   -->
-  <ShipReactor.generalRules.rulesStrings>TODO</ShipReactor.generalRules.rulesStrings>
+  <ShipReactor.generalRules.rulesStrings>
+    <li>subject->宇宙船用原子反応炉</li>
+    <li>subject_story->コロニーの船を動かすために新しい原子炉を建築した.しかし,本人が生きているうちに船が打ち上がる様子を見ることはできなかった</li>
+    <li>subject_story->反応炉が動き始める間,惑星から脱出しようと死に物狂いな襲撃者たちから船を守った</li>
+    <li>subject_story->惑星の氷床の下にジーンバンクを埋め,施設のバックアップ電源として宇宙船の反応炉を使用した</li>
+    <li>subject_gerund->宇宙船用反応炉の作成</li>
+  </ShipReactor.generalRules.rulesStrings>
   
   <!-- EN: starflight sensors -->
   <ShipSensorCluster.label>宇宙船センサー</ShipSensorCluster.label>
@@ -86,6 +120,13 @@
     <li>subject_gerund->navigating interstellar space</li>
     <li>subject_gerund->constructing starship sensors</li>
   -->
-  <ShipSensorCluster.generalRules.rulesStrings>TODO</ShipSensorCluster.generalRules.rulesStrings>
+  <ShipSensorCluster.generalRules.rulesStrings>
+    <li>subject->星間旅行</li>
+    <li>subject_story->宇宙船センサーの試作品で絶滅レベルの小惑星の到来を検出し,惑星を避難させた</li>
+    <li>subject_story->Glitterworldのスターヨットのナビゲーター兼料理人として雇用された</li>
+    <li>subject_story->長距離センサーの設計を改良し,実用性も向上させた</li>
+    <li>subject_gerund->宇宙空間の運航</li>
+    <li>subject_gerund->宇宙船センサーの作成</li>
+  </ShipSensorCluster.generalRules.rulesStrings>
   
 </LanguageData>

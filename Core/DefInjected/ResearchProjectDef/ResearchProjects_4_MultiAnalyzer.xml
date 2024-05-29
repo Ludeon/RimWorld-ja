@@ -4,7 +4,7 @@
   <!-- EN: advanced fabrication -->
   <AdvancedFabrication.label>先進組立製造</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>並コンポーネントや他の素材から,先進コンポーネントを加工できるようになります.</AdvancedFabrication.description>
+  <AdvancedFabrication.description>標準コンポーネントや他の素材から,先進コンポーネントに加工できるようになります.</AdvancedFabrication.description>
   <!-- EN:
     <li>subject->advanced component fabrication</li>
     <li>subject_story->traded advanced components to desperate rimworlders</li>
@@ -12,7 +12,13 @@
     <li>subject_story->balked at the extreme cost of crafting advanced components and chose a simpler lifestyle</li>
     <li>subject_gerund->fabricating advanced components</li>
   -->
-  <AdvancedFabrication.generalRules.rulesStrings>TODO</AdvancedFabrication.generalRules.rulesStrings>
+  <AdvancedFabrication.generalRules.rulesStrings>
+    <li>subject->先進コンポーネント製造機</li>
+    <li>subject_story->先進コンポーネントを絶望的なRimworldに住む人々と交換した</li>
+    <li>subject_story->先進コンポーネントの製造を簡単に行う方法を研究したが,その手段を見つける前に死亡した</li>
+    <li>subject_story->先進コンポーネントの製造には莫大な費用がかかることに躊躇し,よりシンプルな部品を選択した</li>
+    <li>subject_gerund->先進コンポーネント製造</li>
+  </AdvancedFabrication.generalRules.rulesStrings>
   
   <!-- EN: bionic replacements -->
   <Bionics.label>バイオニクス</Bionics.label>
@@ -26,12 +32,19 @@
     <li>subject_gerund->constructing bionic prosthetics</li>
     <li>subject_gerund->utilizing bionic body parts</li>
   -->
-  <Bionics.generalRules.rulesStrings>TODO</Bionics.generalRules.rulesStrings>
+  <Bionics.generalRules.rulesStrings>
+    <li>subject->バイオニック補装具</li>
+    <li>subject_story->主に顔が損壊した兵士のために働き,元の顔に戻すためのバイオニックフェイスパーツを個々人に合わせて作成した</li>
+    <li>subject_story->バイオニック補装具の精度を上げるために,人体の動きをスロービデオで研究した</li>
+    <li>subject_story->自ら志願して様々なバイオニック補装具の試作品を移植され,最終的に本来の人間と呼べる部分はほとんどなくなった</li>
+    <li>subject_gerund->バイオニック補装具の作成</li>
+    <li>subject_gerund->バイオニック補装具の活用</li>
+  </Bionics.generalRules.rulesStrings>
   
   <!-- EN: pulse-charged munitions -->
   <ChargedShot.label>チャージライフル</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>追加ダメージを与えるパルスチャージされた弾丸を発射する武器を作成できるようになります.注意：これも先進コンポーネントが必要です.</ChargedShot.description>
+  <ChargedShot.description>パルスチャージされた弾丸によって威力を増大させる武器を作成できるようになります.注意：これも先進コンポーネントが必要です.</ChargedShot.description>
   <!-- EN:
     <li>subject->pulse munitions</li>
     <li>subject_story->studied glitterworld monorails and modified the tech for weapons</li>
@@ -40,7 +53,14 @@
     <li>subject_gerund->constructing pulse munitions</li>
     <li>subject_gerund->utilising pulse munitions</li>
   -->
-  <ChargedShot.generalRules.rulesStrings>TODO</ChargedShot.generalRules.rulesStrings>
+  <ChargedShot.generalRules.rulesStrings>
+    <li>subject->チャージライフル</li>
+    <li>subject_story->Glitterworldで使用されるモノレールを研究し,その技術を武器に組み込んだ</li>
+    <li>subject_story->メカニカルクローラーをチャージランスで凧のように撃ち飛ばして殺した</li>
+    <li>subject_story->電荷を帯びたライフル弾が非常に強い殺傷力を持つことを学んだ</li>
+    <li>subject_gerund->チャージライフルの作成</li>
+    <li>subject_gerund->チャージライフルの活用</li>
+  </ChargedShot.generalRules.rulesStrings>
   
   <!-- EN: cryptosleep casket -->
   <Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
@@ -54,7 +74,14 @@
     <li>subject_gerund->constructing cryptosleep caskets</li>
     <li>subject_gerund->inducing cryptosleep</li>
   -->
-  <Cryptosleep.generalRules.rulesStrings>TODO</Cryptosleep.generalRules.rulesStrings>
+  <Cryptosleep.generalRules.rulesStrings>
+    <li>subject->人為的冬眠</li>
+    <li>subject_story->冬眠カプセルの試作機をテストしたが,一世代が過ぎた頃に一人だけ目を覚ましてしまった</li>
+    <li>subject_story->システム関連の重犯罪者に,死刑ではなく無期限の冬眠を宣告した</li>
+    <li>subject_story->末期患者を冬眠カプセルで眠らせて,彼らが成長した子供たちに会えるようにした</li>
+    <li>subject_gerund->冬眠カプセルの作成</li>
+    <li>subject_gerund->人為的な冬眠</li>
+  </Cryptosleep.generalRules.rulesStrings>
   
   <!-- EN: fabrication -->
   <Fabrication.label>組立製造</Fabrication.label>
@@ -72,7 +99,14 @@
     <li>subject_gerund->constructing high-tech projects</li>
     <li>subject_gerund->building high-tech fabrication stations</li>
   -->
-  <Fabrication.generalRules.rulesStrings>TODO</Fabrication.generalRules.rulesStrings>
+  <Fabrication.generalRules.rulesStrings>
+    <li>subject->ハイテク組立製造機</li>
+    <li>subject_story->先進コンポーネントを作るための組立製造台を作るための先進コンポーネントを作るために長い年月を費やした</li>
+    <li>subject_story->すべてを売り払って先進コンポーネントを入手し,1台の組立製造台を建築した</li>
+    <li>subject_story->驚異的な技術を生み出し,原住民の部族はそれを魔法のように崇拝した</li>
+    <li>subject_gerund->高度技術計画の作成</li>
+    <li>subject_gerund->ハイテク組立製造所の建築</li>
+  </Fabrication.generalRules.rulesStrings>
   
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
@@ -85,7 +119,13 @@
     <li>subject_story->helped identify new stable isotopes</li>
     <li>subject_gerund->constructing multi-analyzers</li>
   -->
-  <MultiAnalyzer.generalRules.rulesStrings>TODO</MultiAnalyzer.generalRules.rulesStrings>
+  <MultiAnalyzer.generalRules.rulesStrings>
+    <li>subject->マルチアナライザー</li>
+    <li>subject_story->研究室を自動化した</li>
+    <li>subject_story->宇宙の超スペクトルの秘密を解き明かした</li>
+    <li>subject_story->新しい安定同位体の特定に貢献した</li>
+    <li>subject_gerund->マルチアナライザーの作成</li>
+  </MultiAnalyzer.generalRules.rulesStrings>
   
   <!-- EN: marine armor -->
   <PoweredArmor.label>マリーンアーマー</PoweredArmor.label>
@@ -100,7 +140,15 @@
     <li>subject_gerund->constructing marine armor</li>
     <li>subject_gerund->constructing general-use advanced armor</li>
   -->
-  <PoweredArmor.generalRules.rulesStrings>TODO</PoweredArmor.generalRules.rulesStrings>
+  <PoweredArmor.generalRules.rulesStrings>
+    <li>subject->マリーンアーマー</li>
+    <li>subject_story->奇襲部隊のアーマーをメンテナンスするために雇われた</li>
+    <li>subject_story->アーマーのテストのために武器を持たずに敵対的な蛮族の村を歩き,傷を負うことなく帰還した</li>
+    <li>subject_story->惑星の厳しい天候から身を守るためにこのアーマーを作ったが,宙族からも身を守ることができた</li>
+    <li>subject_gerund->奇襲部隊用アーマーの作成</li>
+    <li>subject_gerund->マリーンアーマーの作成</li>
+    <li>subject_gerund->汎用先進アーマーの作成</li>
+  </PoweredArmor.generalRules.rulesStrings>
   
   <!-- EN: recon armor -->
   <ReconArmor.label>レコンアーマー</ReconArmor.label>
@@ -114,7 +162,14 @@
     <li>subject_gerund->crafting recon armor</li>
     <li>subject_gerund->reducing armor weight</li>
   -->
-  <ReconArmor.generalRules.rulesStrings>TODO</ReconArmor.generalRules.rulesStrings>
+  <ReconArmor.generalRules.rulesStrings>
+    <li>subject->レコンアーマー</li>
+    <li>subject_story->帝国軍に捕らえられるまで反乱軍の偵察隊を率いていた</li>
+    <li>subject_story->重い武器を持つ者でも敵に近づけるほど軽くて強靭なパワーアーマーを作った</li>
+    <li>subject_story->レコンアーマーを兵士よりも狩人に適したアーマーとして設計したが,それにも関わらず多くの人々に購入された</li>
+    <li>subject_gerund->レコンアーマーの作成</li>
+    <li>subject_gerund->アーマーの重量削減</li>
+  </ReconArmor.generalRules.rulesStrings>
   
   <!-- EN: rocketswarm launcher -->
   <RocketswarmLauncher.label>広範囲ロケットランチャー</RocketswarmLauncher.label>
@@ -127,7 +182,13 @@
     <li>subject_story->started by constructing primitive rockets to reach space, but the high failure rate led to them being repurposed as weapons</li>
     <li>subject_gerund->constructing rocket turrets</li>
   -->
-  <RocketswarmLauncher.generalRules.rulesStrings>TODO</RocketswarmLauncher.generalRules.rulesStrings>
+  <RocketswarmLauncher.generalRules.rulesStrings>
+    <li>subject->ロケットランチャー</li>
+    <li>subject_story->民間人に向けて広範囲ロケットランチャーが使用された事件について意見を述べた</li>
+    <li>subject_story->コロニーが脅威に晒された場合に備え,トラップやランチャーを用いた最後の防衛網を構築した</li>
+    <li>subject_story->宇宙に行くためのロケット作りとして初歩的なロケットの製作から学び始めた.しかしあまりにも失敗率が高すぎたため,最終的にこれらの技術は兵器として再利用された</li>
+    <li>subject_gerund->ロケットランチャーの作成</li>
+  </RocketswarmLauncher.generalRules.rulesStrings>
   
   <!-- EN: uranium slug turret -->
   <SniperTurret.label>ウランスラグタレット</SniperTurret.label>
@@ -140,7 +201,13 @@
     <li>subject_story->researched the effects of ammunition density on armor</li>
     <li>subject_gerund->constructing sniper turrets</li>
   -->
-  <SniperTurret.generalRules.rulesStrings>TODO</SniperTurret.generalRules.rulesStrings>
+  <SniperTurret.generalRules.rulesStrings>
+    <li>subject->スナイパータレット</li>
+    <li>subject_story->戦後の清掃活動を主導し,前線から使用済みの放射性ウランスラグ弾を回収した</li>
+    <li>subject_story->戦闘用メカノイドがタレットにまっすぐ撃ち抜かれるを見て,どのようにすればこのように撃ち抜けるのかを理解する必要があると気付いた</li>
+    <li>subject_story->弾の密度が装甲に及ぼす影響を研究した</li>
+    <li>subject_gerund->スナイパータレットの作成</li>
+  </SniperTurret.generalRules.rulesStrings>
   
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
@@ -154,6 +221,13 @@
     <li>subject_gerund->monitoring vital signs</li>
     <li>subject_gerund->constructing vital signs monitors</li>
   -->
-  <VitalsMonitor.generalRules.rulesStrings>TODO</VitalsMonitor.generalRules.rulesStrings>
+  <VitalsMonitor.generalRules.rulesStrings>
+    <li>subject->バイタルサインのモニタリング</li>
+    <li>subject_story->混雑した病院を目の当たりにし,現状を変える方法を見つけることを誓った</li>
+    <li>subject_story->融解した惑星の生存者を看護して健康な状態に戻した</li>
+    <li>subject_story->隔離病棟を遠隔監視し,治療用メカノイドで治療を行った</li>
+    <li>subject_gerund->バイタルサインのモニタリング</li>
+    <li>subject_gerund->バイタルサインモニターの作成</li>
+  </VitalsMonitor.generalRules.rulesStrings>
   
 </LanguageData>
