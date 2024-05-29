@@ -15,11 +15,11 @@
   -->
   <SecurityDoor.generalRules.rulesStrings>
     <li>subject->セキュリティドア</li>
-    <li>subject_story->封鎖された研究施設で警備ドローンとして働いていました</li>
-    <li>subject_story->星間商人のためのセキュリティデバイスを製造していました</li>
-    <li>subject_story->傭兵会社のために材料科学を研究していました</li>
-    <li>subject_story->グリッターワールド動物園で働いていました</li>
-    <li>subject_gerund->セキュリティドアを建造中です</li>
+    <li>subject_story->封鎖された研究施設で警備ドローンを管理する仕事に就いた</li>
+    <li>subject_story->星間商人向けにセキュリティデバイスを製造した</li>
+    <li>subject_story->傭兵企業向けに材料科学を研究した</li>
+    <li>subject_story->Glitterworldの動物園で働いた</li>
+    <li>subject_gerund->セキュリティドア建築</li>
   </SecurityDoor.generalRules.rulesStrings>
   
   <!-- EN: turret pack -->
@@ -35,12 +35,12 @@
     <li>subject_gerund->crafting deployable gun turrets</li>
   -->
   <TurretPack.generalRules.rulesStrings>
-    <li>subject->展開可能タレット</li>
-    <li>subject_story->フェラルワールドの城を襲撃から護りました</li>
-    <li>subject_story->帝国の降下艇のテールガンに搭乗しました</li>
-    <li>subject_story->展開可能な軍事技術を研究していました</li>
-    <li>subject_story->[worldname]戦争での塹壕戦を戦い抜きました</li>
-    <li>subject_gerund->展開可能なガンタレットを製造しています</li>
+    <li>subject->展開式タレット</li>
+    <li>subject_story->原生の惑星に建てられた城を襲撃から守った</li>
+    <li>subject_story->帝国の降下船のテールガンに配備された</li>
+    <li>subject_story->展開可能な軍事技術を研究した</li>
+    <li>subject_story->[worldname]戦争での塹壕戦を戦い抜いた</li>
+    <li>subject_gerund->展開式ガンタレットの製造</li>
   </TurretPack.generalRules.rulesStrings>
   
 </LanguageData>

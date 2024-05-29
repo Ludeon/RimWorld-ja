@@ -9,7 +9,7 @@
     <li>subject->advanced psychic rituals</li>
     <li>subject_story->was brought into a cult circle</li>
     <li>subject_story->encountered an exiled cult master, who happily boasted about his secrets</li>
-    <li>subject_story->deepened his understanding of ritual sacrifice</li>
+    <li>subject_story->deepened [ANYPAWN_possessive] understanding of ritual sacrifice</li>
     <li>subject_story->was appointed professor of psychic history at the University of Ix</li>
     <li>subject_gerund->performing advanced psychic rituals</li>
   -->
@@ -484,7 +484,7 @@
   <InsanityWeaponry.description>アルコテックの破片を,アルコテクノロジーを使って敵にショックを与え,操り,破壊する使い切りの武器に再構築します.</InsanityWeaponry.description>
   <!-- EN:
     <li>subject->archotech insanity weaponry</li>
-    <li>subject_story->explored psychological warfare for their dissertation</li>
+    <li>subject_story->explored psychological warfare for [ANYPAWN_possessive] dissertation</li>
     <li>subject_story->watched an Imperial battalion rout and learned the value of fear</li>
     <li>subject_story->worked in an asylum of archotech victims</li>
     <li>subject_story->vivisected archite-infested wildlife to understand the effects on the mammalian brain</li>
@@ -505,7 +505,7 @@
   <JuggernautSerum.description>使用者の力とスピードを一時的に増加させ,負傷の治癒も早めるシーラムを合成します.ただし,心情は低下します.</JuggernautSerum.description>
   <!-- EN:
     <li>subject->juggernaut serum</li>
-    <li>subject_story->was banned from the coreworld leagues after he was caught doping a team with Juggernaut Serum</li>
+    <li>subject_story->was banned from the coreworld leagues after [ANYPAWN_pronoun] was caught doping a team with Juggernaut Serum</li>
     <li>subject_story->gave soldiers Juggernaut Serum when their ammo ran out</li>
     <li>subject_story->researched serum use among indentured building sectors</li>
     <li>subject_story->fell into a barrel of juggernaut serum</li>
@@ -624,7 +624,7 @@
     <li>subject_story->followed a trail of victims left by a philophage</li>
     <li>subject_story->researched neural replication processes in a glitterworld's labs</li>
     <li>subject_story->investigated the damaged minds of cult victims</li>
-    <li>subject_story->found their skills weakened after a psychic assault</li>
+    <li>subject_story->found [ANYPAWN_possessive] skills weakened after a psychic assault</li>
     <li>subject_gerund->transferring a subject's learning</li>
     <li>subject_gerund->performing a ritual to steal a victim's skills</li>
   -->
