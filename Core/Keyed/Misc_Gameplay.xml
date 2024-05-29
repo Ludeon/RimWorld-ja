@@ -123,7 +123,7 @@
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
   <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun}は{PAWN_possessive}全てのサイリンクレベルと超能力を維持します.</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
-  <UnknownLower>身元不明</UnknownLower>
+  <UnknownLower>不明</UnknownLower>
   <!-- EN: On -->
   <On>On</On>
   <!-- EN: Off -->
@@ -1872,7 +1872,7 @@
   <!-- EN: rot stink -->
   <RotStink>腐敗臭</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>TODO</DeadlifeDust> 
+  <DeadlifeDust>死の塵</DeadlifeDust> 
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->

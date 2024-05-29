@@ -34,20 +34,20 @@
   <!-- EN: {INVOKER_nameDef} has completed {RITUAL_definite} ritual, absorbing skills and memories of {TARGET_nameDef}. -->
   <PhilophagyCompleteText>{INVOKER_nameDef}は,{TARGET_nameDef}のスキルと記憶を吸収する,{RITUAL_definite}の儀式を終えました.</PhilophagyCompleteText>
   <!-- EN: {0_nameDef} gained {1} XP in {2_label} -->
-  <PawnGainedXPInSkill>{0_nameDef}は{2_label}のXPを{1}得ました</PawnGainedXPInSkill>
+  <PawnGainedXPInSkill>{0_nameDef}は{2_label}スキルの経験値を{1}入手し</PawnGainedXPInSkill>
   <!-- EN: {0_nameDef} lost {1} XP in {2_label} -->
-  <PawnLostXPInSkill>{0_nameDef}は{2_label}のXPを{1}失いました</PawnLostXPInSkill>
+  <PawnLostXPInSkill>{0_nameDef}は{2_label}スキルの経験値を{1}失い</PawnLostXPInSkill>
   <!-- EN: rising from skill level {0} to {1}. -->
-  <PhilophagySkillLevelGained>スキルレベルが{0}から{1}にあがりました.</PhilophagySkillLevelGained>
+  <PhilophagySkillLevelGained>スキルレベルが{0}から{1}に上がりました.</PhilophagySkillLevelGained>
   <!-- EN: falling from skill level {0} to {1}. -->
   <PhilophagySkillLevelLost>スキルレベルが{0}から{1}に下がりました.</PhilophagySkillLevelLost>
   <!-- EN: remaining at skill level {0}. -->
-  <PhilophagySkillLevelRemains>スキルレベルが{0}から変動しませんでした.</PhilophagySkillLevelRemains>
+  <PhilophagySkillLevelRemains>しかしスキルレベルは{0}から変動しませんでした.</PhilophagySkillLevelRemains>
   <!-- EN: The process damaged {TARGET_nameDef}'s brain, putting {TARGET_objective} into a coma. -->
   <PhilophagyDamagedTarget>このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PhilophagyDamagedTarget>
 
   <!-- EN: {0_nameDef} has been imbued with death refusal. {0_pronoun} can now self-resurrect after dying.\n\nThe process has atrophied {0_nameDef}'s brain, causing {0_objective} to lose a total of {1} XP in {0_possessive} skills. -->
-  <ImbueDeathRefuralCompleteText>{0_nameDef}は死を拒む者となりました.{0_pronoun}は死亡後に自己蘇生できるようになります.\n\nこのプロセスは{0_nameDef}の脳を萎縮させ,{0_pronoun}の{0_possessive}スキルのXPを合計{1}失ってしまいます.</ImbueDeathRefuralCompleteText>
+  <ImbueDeathRefuralCompleteText>{0_nameDef}は死を拒む者となりました.{0_pronoun}は死亡後に自己蘇生できるようになります.\n\n{0_nameDef}はこのプロセスによって脳が萎縮し,スキル経験値を合計{1}失いました.</ImbueDeathRefuralCompleteText>
 
   <!-- EN: {0_nameDef} has completed {RITUAL_definite} ritual. Expect a herd of animals shortly. -->
   <SummonAnimalsSuccessText>{0_nameDef}は{RITUAL_definite}の儀式を終えました.まもなく動物の群れがやってくるでしょう.</SummonAnimalsSuccessText>
@@ -230,13 +230,13 @@
   <!-- EN: Shambler approaches -->
   <LetterLabelShamblerArrived>シャンブラーが接近しています</LetterLabelShamblerArrived>
   <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerSwarmArrived>{0}体の腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n1体でも捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
+  <LetterShamblerSwarmArrived>{0}体の腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n1体でも捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerSwarmArrived>
   <!-- EN: A shambling, rotting corpse is approaching. Some inhuman force has reanimated this lifeless body and set it to murder.\n\nIt will now wander through the area. If it sees a human, it will attack. If not, it will leave in a few days.\n\nIf you can capture it, you can study it for anomaly knowledge. -->
-  <LetterShamblerArrived>腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
+  <LetterShamblerArrived>腐った死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerArrived>
   <!-- EN: {ANIMALKIND_label} shamblers -->
   <LetterLabelShamblerAnimalsArrived>{0}体のシャンブラー</LetterLabelShamblerAnimalsArrived>
   <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerAnimalsArrived>腐った{ANIMALKIND_label}の死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をはうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n1体でも捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
+  <LetterShamblerAnimalsArrived>腐った{ANIMALKIND_label}の死体が,よろめくように近づいています.何らかの非人間的な力がこれらの命なき死体を蘇生させ,人を殺させているようです.\n\nシャンブラーはこの一帯をうろつきまわり,人間を見かけると攻撃します.そうでない場合,数日以内にいなくなるでしょう.\n\n1体でも捕獲できれば,研究してアノマリーの知識が得られます.</LetterShamblerAnimalsArrived>
 
   <!-- Ghoul pod crash -->
   <!-- EN: Transport pod crash -->

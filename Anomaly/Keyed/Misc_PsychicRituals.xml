@@ -211,7 +211,7 @@
   
   <!-- Philophagy -->
   <!-- EN: {INVOKER_labelShort} will steal {1} {SKILL_label} XP from {TARGET_labelShort}. -->
-  <PhilophagyTransferReport>{INVOKER_labelShort}は{TARGET_labelShort}から{SKILL_label}のXPを{1}奪います.</PhilophagyTransferReport>
+  <PhilophagyTransferReport>{INVOKER_labelShort}は{TARGET_labelShort}から{SKILL_label}スキルの経験値を{1}奪います.</PhilophagyTransferReport>
   <!-- EN: {TARGET_labelShort} has no skills to transfer. -->
   <NoSkillsToTransfer>{TARGET_labelShort}には譲渡できるスキルがありません.</NoSkillsToTransfer>
 </LanguageData>
