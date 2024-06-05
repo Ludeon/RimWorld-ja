@@ -8,8 +8,8 @@
   -->
   <MysteriousCargoCube.questContentRules.rulesStrings>
     <li>deliveredLetterLabel->謎の荷物</li>
-    <li>deliveredLetterText(pawnOnMap==true)->謎の荷物が届きました.黄金のように輝いているシンプルなキューブですが,傷をつけることはできません.触れると軽くてあたたかくなっています.その見目麗しい表面には光が戯れ,目を楽しませてくれます.\n\n[pawn_nameDef]はそのキューブに不可解な魅力を感じているようです.</li>
-    <li>deliveredLetterText(pawnOnMap==false)->謎の荷物が届きました.黄金のように輝いているシンプルなキューブですが,傷をつけることはできません.触れると軽くてあたたかくなっています.その見目麗しい表面には光が戯れ,目を楽しませてくれます.</li>
+    <li>deliveredLetterText(pawnOnMap==true)->謎の荷物が届きました.それはシンプルなキューブのように見えますが,黄金のように輝いており,傷つくこともありません.このキューブは軽く,触れると温かさを感じます.表面は大いなる光を放ち,その光は魅力的な力を宿しています.\n\n[pawn_nameDef]はそのキューブに不可解な魅力を感じているようです.</li>
+    <li>deliveredLetterText(pawnOnMap==false)->謎の荷物が届きました.それはシンプルなキューブのように見えますが,黄金のように輝いており,傷つくこともありません.このキューブは軽く,触れると温かさを感じます.表面は大いなる光を放ち,その光は魅力的な力を宿しています.</li>
   </MysteriousCargoCube.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true)->An anonymous AI has reached out with an odd request. It would like you to accept some unspecified cargo. It avoids all your questions about the cargo.\n\nIf you accept, it will deliver the mystery cargo by transport pod.</li>

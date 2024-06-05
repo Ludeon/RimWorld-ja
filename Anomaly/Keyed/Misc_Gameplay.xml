@@ -497,7 +497,7 @@
   <!-- EN: Fleshmass heart defeated -->
   <LetterLabelFleshmassHeartDestroyed>肉塊の心臓の撃破</LetterLabelFleshmassHeartDestroyed>
   <!-- EN: The fleshmass heart has been destroyed, leaving behind a broken but still functional core - a twisted amalgam of flesh and archotechnology. The nucleus continues to grow and mutate flesh, even while the surrounding fleshmass decays.\n\nYou can capture the nucleus to study it further or destroy it to end this nightmare. If left alone, it may reform into a new fleshmass heart. -->
-  <LetterFleshmassHeartDestroyed>肉塊の心臓は破壊され,壊れてはいるものの,依然として機能している核が残されました.これが肉とアルコテクノロジーの歪んだ融合体です.核は成長をし続け,取り巻く肉塊が腐敗してもなお,肉を変異させ続けます.\n\n核を捕獲することでさらに研究することも,破壊してこの悪夢を終わらせることもできます.放っておけば,新たな肉塊の心臓に生まれ変わる可能性があります.</LetterFleshmassHeartDestroyed>
+  <LetterFleshmassHeartDestroyed>肉塊の心臓は破壊されて壊れましたが,残された核は依然として機能しています.この核は,肉とアルコテクノロジーの歪んだ融合体です.核は成長をし続け,取り巻く肉塊が腐敗してもなお,肉を変異させ続けます.\n\n核を捕獲することでさらに研究することも,破壊してこの悪夢を終わらせることもできます.放っておけば,新たな肉塊の心臓に生まれ変わる可能性があります.</LetterFleshmassHeartDestroyed>
   <!-- EN: The fleshmass heart has grown a new nerve bundle. -->
   <NerveBundleGrewMessage>肉塊の心臓が新しい神経帯を成長させました.</NerveBundleGrewMessage>
   <!-- EN: The nerve bundle has dropped a neural lump. Analyze it to learn more about the fleshmass heart. -->
@@ -507,7 +507,7 @@
   <!-- EN: A fleshmass spitter is attacking! -->
   <SpitterAttacking>肉塊のスピッターが攻撃しています！</SpitterAttacking>
   <!-- EN: Gathering acid. Ready in -->
-  <SpitterGatheringSpit>酸を収集中.完了まで：</SpitterGatheringSpit>
+  <SpitterGatheringSpit>酸を収集中.完了まで残り</SpitterGatheringSpit>
   <!-- EN: Ready to spit acid. -->
   <SpitterReadyToSpit>酸の準備完了.</SpitterReadyToSpit>
 
@@ -598,7 +598,7 @@
   <!-- EN: Choose who should destroy this. -->
   <UnnaturalCorpseGuiLabel>誰がこれを破壊するか選択してください.</UnnaturalCorpseGuiLabel>
   <!-- EN: destroy -->
-  <UnnaturalCorpseJobString>破壊</UnnaturalCorpseJobString>
+  <UnnaturalCorpseJobString>破壊する</UnnaturalCorpseJobString>
   <!-- EN: destroying {0} -->
   <UnnaturalCorpseActivatingEnroute>{0}を破壊中</UnnaturalCorpseActivatingEnroute>
   <!-- EN: destroying {0}: {1}s -->
