@@ -78,32 +78,32 @@
     <li>writingMaterial->dark ink</li>
   -->
   <LabyrinthRamblings.rulePack.rulesStrings>
-    <li>r_root->[textDescSentence] [horrorDescSentence] [maybeSignature]</li>
+    <li>r_root->[textDescSentence][horrorDescSentence][maybeSignature]</li>
     <li>maybeSignature(p=3)-></li>
-    <li>maybeSignature->著者は[PAWN_possessive]名前をサインした: [PAWN_nameDef].</li>
-    <li>maybeSignature->それは,この名前で終わっている: [PAWN_nameDef].</li>
-    <li>maybeSignature->名前[PAWN_nameDef]が一番下に書き込まれている.</li>
-    <li>textDescSentence->床のエッチングはガタガタで一貫性がない.</li>
-    <li>textDescSentence->言葉の意味を理解するのは難しい.</li>
-    <li>textDescSentence->奇妙なエッチング文字は逆に書かれている.</li>
-    <li>textDescSentence->文字は震えていて弱々しい.</li>
-    <li>textDescSentence->文章は進むにつれ,どんどん奇妙になっていく.</li>
-    <li>textDescSentence->文章は[writingMaterial]で書かれていて,一部拭いて消されている.</li>
-    <li>textDescSentence->暗号のような記号とギザギザの文字が混じっている.</li>
-    <li>textDescSentence->文章は何度も中断されているかのように,分裂している.</li>
+    <li>maybeSignature->文章を書いた人物は最後に名前を記している:[PAWN_nameDef]</li>
+    <li>maybeSignature->文章の最後にはこの名前が書かれている:[PAWN_nameDef]</li>
+    <li>maybeSignature->文章の一番下には"[PAWN_nameDef]"と名が記されている.</li>
+    <li>textDescSentence->床のエッチングは支離滅裂で漠然とした内容だ.</li>
+    <li>textDescSentence->この文章の意味を理解するのは非常に困難だ.</li>
+    <li>textDescSentence->この奇妙なエッチングの文字は右から左へ読むようだ.</li>
+    <li>textDescSentence->床には弱々しく震えた文字が書かれている.</li>
+    <li>textDescSentence->床に書かれた文章は,進むにつれて奇妙な内容に変わっている.</li>
+    <li>textDescSentence->この文章は[writingMaterial]で書かれており,一部の文字が拭き消されている.</li>
+    <li>textDescSentence->この文章には暗号のような記号やギザギザとした文字が混じっている.</li>
+    <li>textDescSentence->この文章は断片的に書かれており,まるで何度も中断しながら書いたかのようだ.</li>
     <li>textDescSentence->記された文章はところどころ消えている.</li>
-    <li>textDescSentence->文章は[writingMaterial]で書かれていて,殺気だった模様を表している.</li>
-    <li>horrorDescSentence->はっきりと読めるのは一つの文章だけだ： [rambling].</li>
-    <li>horrorDescSentence->一つの表現が何度も何度も繰り返されている：[rambling].</li>
-    <li>horrorDescSentence->全ての文章が同じ表現で終わっている：[rambling].</li>
-    <li>horrorDescSentence->同じ言葉が何度も何度も繰り返されている: [rambling].</li>
-    <li>horrorDescSentence->著者は鉄の寄生虫が[PAWN_possessive]肌の中にいると確信しているようだ.[PAWN_pronoun]は身体をもがかせながらその激しい痛みを表している.</li>
-    <li>horrorDescSentence->作者は友人が鉄の寄生虫を注射した犯人だと訴えている.[PAWN_pronoun]は[PAWN_objective]の中でそれが育っていく,恐ろしい感覚を表している.</li>
-    <li>horrorDescSentence->著者は[PAWN_possessive]弔問者から解放されることをせがんだ: [horrorDesc].</li>
-    <li>horrorDescSentence->同じ文章が何度も何度も繰り返され, [horrorDesc]を表現している.</li>
-    <li>horrorDescSentence->古い詩が[horrorDesc]を表現している.</li>
-    <li>horrorDescSentence->言葉は[horrorDesc]を表現するのに苦しんでいる.</li>
-    <li>horrorDescSentence->震える文字は[horrorDesc]の幻想への作者の反応を表している.</li>
+    <li>textDescSentence->この文章は[writingMaterial]で書かれており,非常に急いで書かれたようだ.</li>
+    <li>horrorDescSentence->辛うじて読み取れる文章はこの言葉だけだ— "[rambling]" </li>
+    <li>horrorDescSentence->一つの言葉が何度も何度も繰り返し書かれている— "[rambling]" </li>
+    <li>horrorDescSentence->全ての文末にこの言葉が書かれている— "[rambling]" </li>
+    <li>horrorDescSentence->文章は同じ言葉を際限なく繰り返している— "[rambling]" </li>
+    <li>horrorDescSentence->この文章を書いた人物は,自分の皮膚の下に鉄の寄生虫がいると確信していたようだ.[PAWN_pronoun]はそれが動くたび,もがくたび,激しい痛みに襲われると訴えている.</li>
+    <li>horrorDescSentence->この文章を書いた人物は,友人に鉄の寄生虫を注入されたと主張している.[PAWN_pronoun]は自分の体内でそれが成長していく,恐ろしい感覚を書き記している.</li>
+    <li>horrorDescSentence->この文章を書いた人物は,自分を苦しめる存在—[horrorDesc]からの解放を懇願している.</li>
+    <li>horrorDescSentence->この文章は,[horrorDesc]を表現する言葉を何度も何度も繰り返している.</li>
+    <li>horrorDescSentence->この奇妙な詩は,[horrorDesc]について書き記している.</li>
+    <li>horrorDescSentence->この文章を書いた人物は,自分の見た[horrorDesc]について,どう表現すれば良いか苦しんでいるようだ.</li>
+    <li>horrorDescSentence->[horrorDesc]の幻影を見た犠牲者の反応が,震えた文字で書かれている.</li>
     <li>horrorDescSentence->文書には添えられた絵は[horrorDesc]を表している.</li>
     <li>horrorDescSentence->狂乱したスケッチが[horrorDesc]を描いていて, その特徴を注釈したメモもついている.</li>
     <li>horrorDescSentence->背筋が凍るような詠唱が[horrorDesc]を表している.</li>
