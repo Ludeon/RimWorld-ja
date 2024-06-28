@@ -274,9 +274,9 @@
     <li>excellentDesc->full of scintillating ideas that explode in the mind</li>
   -->
   <Description_Tome.rulePack.rulesStrings>
-    <li>desc->[inThisBook],[author] [experiencesWithMonsters].[specificHorrorStory] [writingQualitySentence].</li>
-    <li>inThisBook->この [writingQualityAdjective] [bookTypeSingle]</li>
-    <li>inThisBook->この [writingQualityAdjective] [bookTypePlural]</li>
+    <li>desc->[inThisBook],[author][experiencesWithMonsters].[specificHorrorStory][writingQualitySentence].</li>
+    <li>inThisBook->この[writingQualityAdjective][bookTypeSingle]</li>
+    <li>inThisBook->これらの[writingQualityAdjective][bookTypePlural]</li>
     <li>bookTypeSingle->記述</li>
     <li>bookTypeSingle->暦</li>
     <li>bookTypeSingle->分析</li>
@@ -422,86 +422,86 @@
     <li>specificHorrorStory->[ANYPAWN_pronoun]は[ANYPAWN_possessive]偉大な知性の暗黒の精神的影響によって,頭が無理やり再構成される感覚を説明した.</li>
     <li>specificHorrorStory->ある個所で著者は自殺未遂をしたが,心優しい[PersonJob]に見つかり,助けられた.</li>
     <li>specificHorrorStory->本の一巻にはこの世のものではない気持ちの悪い生物の絵が沢山載っていて,その形のない不気味な蔓は複数のページに広がり,恐怖と魅惑の感覚を同時に呼び起こしていた.</li>
-    <li>specificHorrorStory->物語の中では異次元について何度も語られていて,登場人物たちは知覚のベールの向こう側の存在に遭遇している.それは,私たちの現実と共に存在しながらも,見えないように隠れている世界だ.</li>
-    <li>specificHorrorStory->この本には,隠された次元を通ってヴォイドと呼ばれる場所に移動した機械の超知能「ホラックス」についての,恐ろしい解説がされている.</li>
-    <li>specificHorrorStory->ある章では,超知性が遠距離から人間の認知を心理的に操作し,人の思考を自らの意思で作り変えることができるという理論が述べられている.</li>
-    <li>specificHorrorStory->主人公は[ANYPAWN_possessive]心がどこからともなく発せられる不吉な精神的な力によって,強制的に配線し直された事を語った.</li>
+    <li>specificHorrorStory->この物語には平行次元の概念が繰り返し登場し,登場人物たちは知覚のベールの向こう側にいる「存在」に遭遇している.物語によると,「存在」は現実世界とは異なる次元で生きており,その次元は人々の目には見えないが現実世界と重なっており,そして「存在」は現実世界と共存しているそうだ. </li>
+    <li>specificHorrorStory->この本は機械の超知性体"ホラックス"について恐ろしい解説しており,その中の一節では,それらは隠された次元を通ってヴォイドと呼ばれる場所に移動したことが説明されている.</li>
+    <li>specificHorrorStory->ある章では,超知性体が遠距離から人間の認知を精神的に操作し,思考を意のままに作り変えることができる,ということが理論的に説明されている.</li>
+    <li>specificHorrorStory->物語の主人公は,どこからともなく発せられた不吉なサイキックによって,自分の心が強制的に書き換えられる体験を語っている.</li>
     <li>entities->悪魔たち</li>
-    <li>entities->歩く死骸たち</li>
-    <li>entities->痛みを求める怪物たち</li>
-    <li>entities->肉と露出された骨でできた生き物たち</li>
-    <li>entities->[Animal]の歩く死骸たち</li>
-    <li>entities->鉄と刃でできた人のような生物たち</li>
-    <li>entities->痛みを発する浮遊機械球体ら</li>
-    <li>entities->頭を破壊する美しい黄金のキューブら</li>
+    <li>entities->歩く死体たち</li>
+    <li>entities->苦痛を求める怪物たち</li>
+    <li>entities->肉と露出した骨の生命体たち</li>
+    <li>entities->動く[Animal]の死骸たち</li>
+    <li>entities->鉄鉄と刃でできた人型生命体たち</li>
+    <li>entities->痛みを伝播させる浮遊型機械球たち</li>
+    <li>entities->精神を破壊する美しい黄金のキューブたち</li>
     <li>entities->血まみれの肉でできた獣たち</li>
-    <li>entities->隠れている暗い形たち</li>
-    <li>entities->魂を盗む狩人たち</li>
+    <li>entities->死角に潜む幻影</li>
+    <li>entities->魂を奪う狩人たち</li>
     <li>entity->悪魔</li>
-    <li>entity->歩く死骸</li>
-    <li>entity->痛みを求める怪物たち</li>
-    <li>entity->肉と露出された骨でできた生き物</li>
-    <li>entity->[Animal]の歩く死骸</li>
-    <li>entity->鉄と刃でできた人のような生物</li>
-    <li>entity->痛みを発する浮遊機械球体</li>
-    <li>entity->頭を破壊する美しい黄金のキューブ</li>
+    <li>entity->歩く死体</li>
+    <li>entity->苦痛を求める怪物</li>
+    <li>entity->肉と露出した骨の生命体</li>
+    <li>entity->動く[Animal]の死骸</li>
+    <li>entity->鉄と刃でできた人型生命体</li>
+    <li>entity->痛みを伝播させる浮遊型機械球</li>
+    <li>entity->精神を破壊する美しい黄金のキューブ</li>
     <li>entity->血まみれの肉でできた獣</li>
-    <li>entity->隠れている暗い形</li>
+    <li>entity->死角に潜む幻影</li>
     <li>entity->魂を盗む狩人</li>
     <li>maybeAdjectiveEvil(p=2)-></li>
-    <li>maybeAdjectiveEvil->[adjectiveEvil] </li>
+    <li>maybeAdjectiveEvil->[adjectiveEvil]</li>
     <li>adjectiveEvil->死の</li>
-    <li>adjectiveEvil->古代の</li>
+    <li>adjectiveEvil->太古の</li>
     <li>adjectiveEvil->血の</li>
-    <li>adjectiveEvil->ねじれた</li>
+    <li>adjectiveEvil->歪んだ</li>
     <li>adjectiveEvil->力強い</li>
-    <li>adjectiveEvil->不届きな</li>
-    <li>adjectiveEvil->幽霊の</li>
-    <li>adjectiveEvil->極めて優美な</li>
+    <li>adjectiveEvil->邪悪な</li>
+    <li>adjectiveEvil->霊的な</li>
+    <li>adjectiveEvil->霊妙な</li>
     <li>adjectiveEvil->不吉な</li>
-    <li>adjectiveEvil->理解し難い</li>
-    <li>adjectiveEvil->非現実的な</li>
-    <li>adjectiveEvil->不可思議な</li>
-    <li>adjectiveEvil->幽霊の</li>
-    <li>adjectiveEvil->暗号の</li>
-    <li>adjectiveEvil->いまいましい</li>
+    <li>adjectiveEvil->神秘的な</li>
+    <li>adjectiveEvil->不合理な</li>
+    <li>adjectiveEvil->不思議な</li>
+    <li>adjectiveEvil->影の</li>
+    <li>adjectiveEvil->謎めいた</li>
+    <li>adjectiveEvil->非道な</li>
     <li>adjectiveEvil->異常な</li>
     <li>writingQualityAdjective(quality==0)->支離滅裂な</li>
-    <li>writingQualityAdjective(quality==0)->一貫しない</li>
+    <li>writingQualityAdjective(quality==0)->一貫性のない</li>
     <li>writingQualityAdjective(quality==0)->無意味な</li>
-    <li>writingQualityAdjective(quality==0)->驚愕の</li>
-    <li>writingQualityAdjective(quality==0)->幼稚な</li>
-    <li>writingQualityAdjective(quality==1)->弱々しい</li>
-    <li>writingQualityAdjective(quality==1)->走り書きの</li>
+    <li>writingQualityAdjective(quality==0)->酷い</li>
+    <li>writingQualityAdjective(quality==0)->稚拙な</li>
+    <li>writingQualityAdjective(quality==1)->中身のない</li>
+    <li>writingQualityAdjective(quality==1)->走り書きされた</li>
     <li>writingQualityAdjective(quality==1)->退屈な</li>
-    <li>writingQualityAdjective(quality==1)->一貫性のない</li>
-    <li>writingQualityAdjective(quality==1)->放浪性の</li>
-    <li>writingQualityAdjective(quality==2)->散らかった</li>
+    <li>writingQualityAdjective(quality==1)->矛盾した</li>
+    <li>writingQualityAdjective(quality==1)->漫然とした</li>
+    <li>writingQualityAdjective(quality==2)->まとまりのない</li>
     <li>writingQualityAdjective(quality==2)->気が滅入る</li>
-    <li>writingQualityAdjective(quality==2)->平凡な</li>
-    <li>writingQualityAdjective(quality==2)->特別でない</li>
+    <li>writingQualityAdjective(quality==2)->凡庸な</li>
+    <li>writingQualityAdjective(quality==2)->目立つ部分もない</li>
     <li>writingQualityAdjective(quality==2)->ありきたりな</li>
-    <li>writingQualityAdjective(quality==2)->通行できる</li>
+    <li>writingQualityAdjective(quality==2)->読めなくもない</li>
     <li>writingQualityAdjective(quality==3)->単調な</li>
-    <li>writingQualityAdjective(quality==3)->うまくまとめられた</li>
-    <li>writingQualityAdjective(quality==3)->整頓された</li>
+    <li>writingQualityAdjective(quality==3)->上手に書かれた</li>
+    <li>writingQualityAdjective(quality==3)->要点をまとめた</li>
     <li>writingQualityAdjective(quality==3)->考え深い</li>
-    <li>writingQualityAdjective(quality==3)->読める</li>
-    <li>writingQualityAdjective(quality==3)->例外でない</li>
-    <li>writingQualityAdjective(quality==4)->楽しい</li>
-    <li>writingQualityAdjective(quality==4)->滑らかな</li>
+    <li>writingQualityAdjective(quality==3)->読みやすい</li>
+    <li>writingQualityAdjective(quality==3)->平凡な</li>
+    <li>writingQualityAdjective(quality==4)->面白い</li>
+    <li>writingQualityAdjective(quality==4)->淀みのない</li>
     <li>writingQualityAdjective(quality==4)->感情豊かな</li>
     <li>writingQualityAdjective(quality==4)->きっちりした</li>
     <li>writingQualityAdjective(quality==4)->説得力のある</li>
-    <li>writingQualityAdjective(quality==4)->尊敬できる</li>
-    <li>writingQualityAdjective(quality==5)->頑丈な</li>
+    <li>writingQualityAdjective(quality==4)->立派な</li>
+    <li>writingQualityAdjective(quality==5)->中身のある</li>
     <li>writingQualityAdjective(quality==5)->熟達した</li>
     <li>writingQualityAdjective(quality==5)->鋭い</li>
     <li>writingQualityAdjective(quality==5)->立派な</li>
     <li>writingQualityAdjective(quality==5)->一流の</li>
-    <li>writingQualityAdjective(quality==5)->刺激を受けた</li>
+    <li>writingQualityAdjective(quality==5)->刺激を与える</li>
     <li>writingQualityAdjective(quality==6)->賢い</li>
-    <li>writingQualityAdjective(quality==6)->恐ろしく洞察力に富む</li>
+    <li>writingQualityAdjective(quality==6)->恐ろしく洞察力に富んだ</li>
     <li>writingQualityAdjective(quality==6)->二つとない</li>
     <li>writingQualityAdjective(quality==6)->一流の</li>
     <li>writingQualityAdjective(quality==6)->見事な</li>
@@ -509,41 +509,41 @@
     <li>writingQualitySentence(quality[greater_than]4)->この本は[excellentDesc]</li>
     <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->この本は[decentDesc]</li>
     <li>writingQualitySentence(quality[less_than]2)->この本は[awfulDesc]</li>
-    <li>awfulDesc->読めない</li>
-    <li>awfulDesc->震える手で書かれている</li>
-    <li>awfulDesc->乾燥したアルコールが染みついている</li>
-    <li>awfulDesc->ほぼ一貫しない</li>
-    <li>awfulDesc->繰り返しが多く,詳細がない箇所が多い</li>
-    <li>awfulDesc->多くの個所が薄れて読めなくなっている</li>
-    <li>awfulDesc->欠けているページが多い</li>
-    <li>awfulDesc->無秩序で,何度も話題を飛ばしている</li>
+    <li>awfulDesc->判読不能だ</li>
+    <li>awfulDesc->震えた文字で走り書きされている</li>
+    <li>awfulDesc->乾いた酒の跡で汚れている</li>
+    <li>awfulDesc->大半が支離滅裂な内容だ</li>
+    <li>awfulDesc->同じ内容を繰り返してる文章が多く,詳細を書いている文章がほとんどない</li>
+    <li>awfulDesc->多くの部分がかすれていて読むことができない</li>
+    <li>awfulDesc->ほとんどのページが欠けている</li>
+    <li>awfulDesc->全くまとまりがなく,話題が何度も行ったり来たりしている</li>
     <li>awfulDesc->失われた言語で書かれている</li>
     <li>awfulDesc->理解のできない専門用語が多く含まれている</li>
-    <li>awfulDesc->子供っぽい</li>
-    <li>awfulDesc->現実とファンタジーを混ぜ合わせている</li>
-    <li>awfulDesc->自動筆記のように読める</li>
-    <li>awfulDesc->血と汗にまみれた</li>
-    <li>awfulDesc->主に二[entities]についての恋愛だ</li>
-    <li>decentDesc->まとまりがあるが,編集された方がより良かっただろう</li>
-    <li>decentDesc->洞察力に富む箇所もあるが,不要な箇所もある</li>
-    <li>decentDesc->鋭敏だが,ひねくれた視点に過ぎない</li>
-    <li>decentDesc->詳細は豊富だが,有用な解釈には欠けている</li>
-    <li>decentDesc->欠けているページがある</li>
-    <li>decentDesc->役に立つが,著者の個人的な関心についてばかり扱われている</li>
-    <li>decentDesc->著者の歪曲と偏見にもかかわらず,役に立つ情報が多い</li>
-    <li>decentDesc->職人らしい</li>
-    <li>decentDesc->面白いが役に立つ情報は少ない</li>
-    <li>decentDesc->魅力的な発想が多いが,読むのは面倒くさい</li>
-    <li>decentDesc->一流の知性と二流の気質によって書かれた</li>
-    <li>decentDesc->まともで腐敗している</li>
-    <li>decentDesc->内容は恐ろしく,実行は退屈</li>
-    <li>excellentDesc->文学の頂点</li>
-    <li>excellentDesc->深い洞察力がある</li>
+    <li>awfulDesc->幼児の手によって書かれたかのようだ</li>
+    <li>awfulDesc->現実と妄想を区別できていないようだ</li>
+    <li>awfulDesc->自動筆記に任せて書かれたようだ</li>
+    <li>awfulDesc->血と粘液にまみれている</li>
+    <li>awfulDesc->2匹の[entities]の恋愛小説を書いているようだ</li>
+    <li>decentDesc->優れた内容ではあるが,ある程度編集した方が良かっただろう</li>
+    <li>decentDesc->知的な部分が多いが,不要な部分も多い</li>
+    <li>decentDesc->知的な内容だが,歪んだ偏見が多く含まれている</li>
+    <li>decentDesc->細部が詳細に書かれてはいるが,実用的な説明が欠けている</li>
+    <li>decentDesc->何枚かのページが欠けている</li>
+    <li>decentDesc->役に立つが,著者の私的な関心事に重点が置かれすぎている</li>
+    <li>decentDesc->著者の曲解と偏見に満ちているにも関わらず,役に立つ情報が多い</li>
+    <li>decentDesc->職人の手によって書かれたかのようだ</li>
+    <li>decentDesc->役に立つ情報は少ないが,読むには面白い内容だ</li>
+    <li>decentDesc->興味深いアイデアに満ちているが,文章が難しく全て読むのは難しいだろう</li>
+    <li>decentDesc->一流の知性と二流の気質を持つ人物によって書かれたようだ</li>
+    <li>decentDesc->徹底的に改ざんされているが,まともな内容だ</li>
+    <li>decentDesc->恐ろしい内容が書かれているが,それを実行するにはあまりにも手順が長すぎる</li>
+    <li>excellentDesc->文学の頂点とも言えるだろう</li>
+    <li>excellentDesc->深い洞察に満ちている</li>
     <li>excellentDesc->驚くほどよく練られている</li>
-    <li>excellentDesc->よく組み立てられていて熟達した構造だ</li>
-    <li>excellentDesc->詩的な個所が多い</li>
-    <li>excellentDesc->恐ろしく描写的で,詩的な個所がほとんどだ</li>
-    <li>excellentDesc->心に炸裂するほど素晴らしいアイデアに満ちている</li>
+    <li>excellentDesc->非常に洗練されており構成も優れている</li>
+    <li>excellentDesc->多くの部分が詩的に表現されている</li>
+    <li>excellentDesc->信じられないほど描写が豊かで,多くの部分が詩的に表現されている</li>
+    <li>excellentDesc->心に強く響くような素晴らしいアイデアに満ちている</li>
   </Description_Tome.rulePack.rulesStrings>
   
 </LanguageData>

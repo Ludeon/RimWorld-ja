@@ -104,28 +104,28 @@
     <li>horrorDescSentence->この奇妙な詩は,[horrorDesc]について書き記している.</li>
     <li>horrorDescSentence->この文章を書いた人物は,自分の見た[horrorDesc]について,どう表現すれば良いか苦しんでいるようだ.</li>
     <li>horrorDescSentence->[horrorDesc]の幻影を見た犠牲者の反応が,震えた文字で書かれている.</li>
-    <li>horrorDescSentence->文書には添えられた絵は[horrorDesc]を表している.</li>
-    <li>horrorDescSentence->狂乱したスケッチが[horrorDesc]を描いていて, その特徴を注釈したメモもついている.</li>
-    <li>horrorDescSentence->背筋が凍るような詠唱が[horrorDesc]を表している.</li>
-    <li>horrorDescSentence->感情を露わにした絵が文章に添えられていて,それらは[horrorDesc]を表している.</li>
-    <li>horrorDescSentence->余白にささやかれた物語は[horrorDesc]を語っている.</li>
-    <li>horrorDescSentence->作家の必死な文章は,[horrorDesc]のクライマックスへと進んでいる.</li>
-    <li>horrorDescSentence->銅版画の中には柄があり,[horrorDesc]を描写している.</li>
-    <li>horrorDescSentence->文字は[horrorDesc]の鮮明な描写をしている.</li>
-    <li>horrorDescSentence->恐ろしい子守唄は,[horrorDesc]の描写とともに書かれている.</li>
-    <li>horrorDescSentence->慈悲を求める絶望的な嘆願は,[horrorDesc]の物語と共に並置されている.</li>
-    <li>horrorDesc->不信心者の心を蝕む見えない生き物</li>
-    <li>horrorDesc->純の苦しみに脈打つ,極限まで空虚な黒い球体</li>
-    <li>horrorDesc->手足が骨で,ねじれた肉と肉でできた生き物</li>
-    <li>horrorDesc->影のような物体で形成された生物,その目は星の様に光っている</li>
-    <li>horrorDesc->血みどろの鋭いナイフから出来た男</li>
+    <li>horrorDescSentence->この文章の隅には[horrorDesc]の絵が描かれている.</li>
+    <li>horrorDescSentence->慌てて描いたような[horrorDesc]の絵が床に刻まれており,そのそばにはそれの特徴を記したメモ書きがある.</li>
+    <li>horrorDescSentence->[horrorDesc]について書かれた文章が,呪文のように単調な言葉で書き連ねられている.</li>
+    <li>horrorDescSentence->[horrorDesc]を表す絵が,文章のあちこちに感情的に描かれている.</li>
+    <li>horrorDescSentence->[horrorDesc]についての物語が,端の方に小さく書かれている.</li>
+    <li>horrorDescSentence->この文章を書いた人物が,[horrorDesc]と対面し最終的にどうなったのかが,文字の鬼気迫る様子からうかがえる.</li>
+    <li>horrorDescSentence->[horrorDesc]を表現したような模様が,エッチングの中に散りばめられている.</li>
+    <li>horrorDescSentence->[horrorDesc]を克明に表現した文章が,元々の文章と絡み合っている.</li>
+    <li>horrorDescSentence->この文章は恐ろしい子守唄になっており,唄の中で[horrorDesc]を描写している.</li>
+    <li>horrorDescSentence->この文章には[horrorDesc]についての物語が書かれており,必死に慈悲を乞う言葉が同時に書かれている.</li>
+    <li>horrorDesc->信者以外の者の心を蝕む透明な生き物</li>
+    <li>horrorDesc->純粋な苦しみで脈動する空虚な黒球</li>
+    <li>horrorDesc->人間の肉と捻じれた肉が混ざったような生き物</li>
+    <li>horrorDesc->星のように輝く目を持つ影のような存在</li>
+    <li>horrorDesc->血に染まった鋭いナイフで構成された男</li>
     <li>horrorDesc->深淵から現れた回転する刃の塊</li>
-    <li>horrorDesc->口が顔全体に広がっている静かな子供</li>
-    <li>horrorDesc->トゲや刃で形成された大きな曲がったタワー</li>
-    <li>horrorDesc->様々な異なる種族の特徴を持つ,奇妙な動物のような生き物</li>
-    <li>horrorDesc->体の部位を並べ替えられた異形の人間</li>
-    <li>horrorDesc->膨大な人間の群れ,全員死んで腐っている</li>
-    <li>horrorDesc->恐ろしいトゲのついたマスクをした人影</li>
+    <li>horrorDesc->顔全体に口が広がる無言の子供</li>
+    <li>horrorDesc->トゲと刃で形成された捻じれた巨大な柱</li>
+    <li>horrorDesc->無数の動物が混ざったような異常な生命体</li>
+    <li>horrorDesc->人体パーツがちぐはぐに組み合わさった異形の生き物</li>
+    <li>horrorDesc->腐った死体の巨大な群れ</li>
+    <li>horrorDesc->棘だらけのマスクを被った人型生命体</li>
     <li>rambling->ここから出して</li>
     <li>rambling->助けて</li>
     <li>rambling->私を救って</li>
@@ -136,22 +136,22 @@
     <li>rambling->時間は嘘だ</li>
     <li>rambling->痛みから解放して</li>
     <li>rambling->黒い海</li>
-    <li>rambling->切断,そして切断</li>
-    <li>rambling->虚空のささやき</li>
+    <li>rambling->切断と切断と切断と切...</li>
+    <li>rambling->虚空がささやく</li>
     <li>rambling->あれが常に背後にいる</li>
-    <li>rambling->あまりに沢山の目</li>
-    <li>rambling->私の頭の中</li>
+    <li>rambling->無数の目</li>
+    <li>rambling->頭の中に...</li>
     <li>rambling->静けさに溺れる</li>
-    <li>rambling->私の名前を知っている</li>
+    <li>rambling->あいつは私の名前を知っている</li>
     <li>rambling->影が動いている</li>
     <li>rambling->出口はない</li>
-    <li>rambling->闇が喋る</li>
-    <li>rambling->彼らが見ている</li>
-    <li>writingMaterial->白墨</li>
+    <li>rambling->闇が喋っている</li>
+    <li>rambling->あいつらが見てる</li>
+    <li>writingMaterial->チョーク</li>
     <li>writingMaterial->すす</li>
-    <li>writingMaterial->しみついた液体</li>
-    <li>writingMaterial->燃えた灰</li>
-    <li>writingMaterial->濃い墨</li>
+    <li>writingMaterial->汚れた液体</li>
+    <li>writingMaterial->何かの燃えカス</li>
+    <li>writingMaterial->濃いインク</li>
   </LabyrinthRamblings.rulePack.rulesStrings>
   
 </LanguageData>
