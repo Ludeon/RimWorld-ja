@@ -274,15 +274,15 @@
     <li>excellentDesc->full of scintillating ideas that explode in the mind</li>
   -->
   <Description_Tome.rulePack.rulesStrings>
-    <li>desc->[inThisBook],[author][experiencesWithMonsters].[specificHorrorStory][writingQualitySentence].</li>
+    <li>desc->[inThisBook]の中で[author]は,[experiencesWithMonsters].[specificHorrorStory][writingQualitySentence].</li>
     <li>inThisBook->この[writingQualityAdjective][bookTypeSingle]</li>
     <li>inThisBook->これらの[writingQualityAdjective][bookTypePlural]</li>
-    <li>bookTypeSingle->記述</li>
-    <li>bookTypeSingle->暦</li>
-    <li>bookTypeSingle->分析</li>
+    <li>bookTypeSingle->記述書</li>
+    <li>bookTypeSingle->暦書</li>
+    <li>bookTypeSingle->解析書</li>
     <li>bookTypeSingle->記事</li>
     <li>bookTypeSingle->本</li>
-    <li>bookTypeSingle->解説</li>
+    <li>bookTypeSingle->解説書</li>
     <li>bookTypeSingle->作文</li>
     <li>bookTypeSingle->結論</li>
     <li>bookTypeSingle->評論</li>
@@ -300,7 +300,7 @@
     <li>bookTypeSingle->原稿</li>
     <li>bookTypeSingle->作品</li>
     <li>bookTypeSingle->紙</li>
-    <li>bookTypeSingle->一つの</li>
+    <li>bookTypeSingle->紙きれ</li>
     <li>bookTypeSingle->研究</li>
     <li>bookTypeSingle->記録</li>
     <li>bookTypeSingle->記事</li>
@@ -320,109 +320,109 @@
     <li>bookTypePlural->哀歌</li>
     <li>bookTypePlural->年代記</li>
     <li>bookTypePlural->啓示</li>
-    <li>author(p=3)->作者</li>
-    <li>author(p=3)->[anAuthorDesc] [PersonJob]</li>
-    <li>author->[anAuthorDesc]研究者</li>
-    <li>author->[anAuthorDesc]降霊術者</li>
-    <li>author->[anAuthorDesc]オカルト主義者</li>
-    <li>author->[anAuthorDesc]崇拝者</li>
-    <li>author->[anAuthorDesc]カルトの一員</li>
-    <li>author->[anAuthorDesc]カルト脱走者</li>
-    <li>author->[anAuthorDesc]古美術商</li>
-    <li>author->[anAuthorDesc]墓掘り人</li>
-    <li>author->[anAuthorDesc]虚空の研究者</li>
-    <li>author->[anAuthorDesc]放浪者</li>
-    <li>author->[anAuthorDesc]懐疑論者</li>
-    <li>author->[anAuthorDesc]学者</li>
-    <li>author->[anAuthorDesc]狩人</li>
-    <li>author->[anAuthorDesc]捜査官</li>
-    <li>author->[anAuthorDesc]年長者</li>
-    <li>author->[anAuthorDesc]信者</li>
-    <li>author->[anAuthorDesc]ウィッチ</li>
-    <li>author->[anAuthorDesc]後継者</li>
-    <li>author->[anAuthorDesc]貴族</li>
-    <li>author->[anAuthorDesc]翻訳者</li>
-    <li>author->[anAuthorDesc]修道士</li>
-    <li>author->[anAuthorDesc]ドッペルゲンガー</li>
-    <li>author->[anAuthorDesc]作者</li>
-    <li>author->[anAuthorDesc]諜報員</li>
-    <li>author->[anAuthorDesc]ヒーロー</li>
-    <li>author->[anAuthorDesc]作者</li>
+    <li>author(p=3)->著者は</li>
+    <li>author(p=3)->は一人の[anAuthorDesc][PersonJob]が</li>
+    <li>author->は一人の[anAuthorDesc]研究者が</li>
+    <li>author->は一人の[anAuthorDesc]降霊術者が</li>
+    <li>author->は一人の[anAuthorDesc]オカルト主義者が</li>
+    <li>author->は一人の[anAuthorDesc]崇拝者が</li>
+    <li>author->は一人の[anAuthorDesc]カルトメンバーが</li>
+    <li>author->は一人の[anAuthorDesc]カルト脱走者が</li>
+    <li>author->は一人の[anAuthorDesc]古美術商が</li>
+    <li>author->は一人の[anAuthorDesc]墓掘り人が</li>
+    <li>author->は一人の[anAuthorDesc]ヴォイド研究者が</li>
+    <li>author->は一人の[anAuthorDesc]放浪者が</li>
+    <li>author->は一人の[anAuthorDesc]懐疑論者が</li>
+    <li>author->は一人の[anAuthorDesc]学者が</li>
+    <li>author->は一人の[anAuthorDesc]狩人が</li>
+    <li>author->は一人の[anAuthorDesc]捜査官が</li>
+    <li>author->は一人の[anAuthorDesc]年長者が</li>
+    <li>author->は一人の[anAuthorDesc]信者が</li>
+    <li>author->は一人の[anAuthorDesc]予言者が</li>
+    <li>author->は一人の[anAuthorDesc]後継者が</li>
+    <li>author->は一人の[anAuthorDesc]貴族が</li>
+    <li>author->は一人の[anAuthorDesc]翻訳者が</li>
+    <li>author->は一人の[anAuthorDesc]修道士が</li>
+    <li>author->は一人の[anAuthorDesc]ドッペルゲンガーが</li>
+    <li>author->は[anAuthorDesc]著者が</li>
+    <li>author->は一人の[anAuthorDesc]諜報員が</li>
+    <li>author->は一人の[anAuthorDesc]英雄が</li>
+    <li>author->は[anAuthorDesc]作者が</li>
     <li>anAuthorDesc(p=2)-></li>
     <li>anAuthorDesc->若い</li>
     <li>anAuthorDesc->年を取った</li>
     <li>anAuthorDesc->おびえた</li>
     <li>anAuthorDesc->悲嘆に暮れた</li>
     <li>anAuthorDesc->年老いた</li>
-    <li>anAuthorDesc->賢明な</li>
+    <li>anAuthorDesc->聡明な</li>
     <li>anAuthorDesc->頑固な</li>
-    <li>anAuthorDesc->馬鹿げた</li>
+    <li>anAuthorDesc->愚かな</li>
     <li>anAuthorDesc->無知な</li>
-    <li>anAuthorDesc->神経症の</li>
+    <li>anAuthorDesc->神経質な</li>
     <li>anAuthorDesc->気味の悪い</li>
-    <li>anAuthorDesc->無礼な</li>
-    <li>anAuthorDesc->典型的な</li>
-    <li>anAuthorDesc->退屈な</li>
+    <li>anAuthorDesc->邪悪な</li>
+    <li>anAuthorDesc->模範的な</li>
+    <li>anAuthorDesc->面白みのない</li>
     <li>anAuthorDesc->気の狂った</li>
     <li>anAuthorDesc->不道徳な</li>
-    <li>anAuthorDesc->道徳上の</li>
-    <li>anAuthorDesc->道徳心がない</li>
+    <li>anAuthorDesc->道徳的な</li>
+    <li>anAuthorDesc->善悪を区別しない</li>
     <li>anAuthorDesc->謎につつまれた</li>
-    <li>tellsAStoryOf->の物語を語る</li>
-    <li>tellsAStoryOf->さらけ出す</li>
-    <li>tellsAStoryOf->話し合う</li>
-    <li>tellsAStoryOf->解説する</li>
-    <li>tellsAStoryOf->詳細を語る</li>
-    <li>tellsAStoryOf->詳しく語る</li>
-    <li>tellsAStoryOf->について詳しく説明する</li>
-    <li>tellsAStoryOf->順序だてて述べる</li>
-    <li>tellsAStoryOf->物語る </li>
-    <li>tellsAStoryOf->報じる</li>
-    <li>tellsAStoryOf->記録する </li>
-    <li>tellsAStoryOf->描写する</li>
-    <li>tellsAStoryOf->公表する</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf][ANYPAWN_pronoun]は[entities]と役割の経験について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]遠方の[TerrainFeature]の下に貼る基地を持つ秘密のカルトについて</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]不思議な黄金のキューブの探索について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]原線条体のハイスラーが導く深い瞑想について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]ホラックスと呼ばれるものの精神的影響で[ANYPAWN_possessive]人生が壊れていく様子を</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]人里離れた考古学の発掘現場で,研究者たちが一人ずつ狂っていった出来事について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]血なまぐさい快楽カルトの暗黒の神にいつのまにか仕えさせられていた部族について</li>
-    <li>experiencesWithMonsters->火の明かりの下で錆びた刃物を使い切断儀式を行う,部族について解説しようと試みている</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]教師と,知るはずもない死の真理を語る教師の生徒について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]古代の技術を使って死んだ妻を生き返らせようとする科学者について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]血の海と,漆黒の闇で押しつぶそうとする空を生き延びてきた局外者の探検隊について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]恐ろしい肉のような生物達でいっぱいの古代の洞穴を調査するチームについて</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]部族のシャーマンが村を夜な夜な襲撃する生き返った[Animal]たちを止める方法を見つけようとしたことについて</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf]すべての人々に影響を及ぼす怒りの古代神と,それを小さな石造りの牢獄に封印した英雄たちについて</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf][ANYPAWN_possessive]は捕まった[entity]に行われた残酷な実験について</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf][ANYPAWN_possessive]は繰り返し見る[vision]という幻想について</li>
-    <li>vision->黒い塊が[ANYPAWN_possessive]頭に入り込み,[ANYPAWN_possessive]記憶を盗んだ</li>
-    <li>vision->[ANYPAWN_pronoun]は[ANYPAWN_objective]自身に追われていて,[ANYPAWN_pronoun]がどんなに遠くに行っても逃げることが出来なかった</li>
-    <li>vision->[ANYPAWN_pronoun]は[entity]によって切り裂かれた</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] [findings] [objectove]</li>
-    <li>findings->との経験</li>
-    <li>findings->の研究</li>
-    <li>objective->[maybeAdjectiveEvil][ritual_incident]が起こった儀式</li>
-    <li>objective->[entity_incident]後の闇の科学</li>
-    <li>ritual_incident->[ANYPAWN_pronoun]は忽然と現れた[targetHuman]を凝視した</li>
-    <li>targetHuman->[anAuthorDesc]女</li>
-    <li>targetHuman->[anAuthorDesc]男</li>
-    <li>ritual_incident->何日も血が降り続け[ANYPAWN_possessive]友人を狂わせた</li>
+    <li>tellsAStoryOf->伝えている</li>
+    <li>tellsAStoryOf->暴露している</li>
+    <li>tellsAStoryOf->多面的に語っている</li>
+    <li>tellsAStoryOf->説明してる</li>
+    <li>tellsAStoryOf->詳しく語っている</li>
+    <li>tellsAStoryOf->詳細に説明している</li>
+    <li>tellsAStoryOf->時系列順に語っている</li>
+    <li>tellsAStoryOf->語っている</li>
+    <li>tellsAStoryOf->丁寧に語っている</li>
+    <li>tellsAStoryOf->まとめている</li>
+    <li>tellsAStoryOf->記録している</li>
+    <li>tellsAStoryOf->口にしている</li>
+    <li>tellsAStoryOf->公開している</li>
+    <li>experiencesWithMonsters->[entities]と共に過ごした体験談を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->遠く離れた[TerrainFeature]の下にある秘密カルトの基地を探索する話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->不思議な黄金のキューブを探す話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->アルキスト崇拝の高位隷従者によって導かれた深い瞑想についての話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->ホラックスと呼ばれる存在の精神的影響で自分の人生が崩壊した話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->人里離れた考古学の発掘現場の研究者たちが一人ずつ狂気に陥っていった話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->いつの間にか闇の神に仕えさせられ,知らないうちに血にまみれた快楽崇拝者と変容していった部族の話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->火の光の中で錆びた刃物を使い,自身に傷を付ける伝統的儀式を持つ部族についての解説を試みている</li>
+    <li>experiencesWithMonsters->とある教師の教え子が,知るはずのない死の真理を語り始める話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->古代の技術を使って死んだ妻を生き返らせようとする科学者の話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->血の雨と漆黒の闇で全てを押し潰す空を生き延びた異国の探検隊の話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->とある探索チームが恐ろしい肉の怪物だらけの古代の洞穴を調査する話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->[Animal]の死骸が生き返り村を毎夜襲う脅威と,それを止める方法を探す部族シャーマンの話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->すべての人々に影響を与えた古代の怒りの神と,その神を小さな石造りの牢獄に封印した英雄たちについての部族神話を[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->捕獲した[entity]に対して行った残酷な実験について[tellsAStoryOf]</li>
+    <li>experiencesWithMonsters->[vision]幻覚を何度も見る話を[tellsAStoryOf]</li>
+    <li>vision->自分の心の中に暗い影が侵入し,記憶を奪われる</li>
+    <li>vision->自分が何かに追われて,どれだけ遠くに逃げても逃げられない</li>
+    <li>vision->自分が[entity]に八つ裂きにされる</li>
+    <li>experiencesWithMonsters->[objective][findings]を[tellsAStoryOf]</li>
+    <li>findings->を体験した話</li>
+    <li>findings->を研究した話</li>
+    <li>objective->[ritual_incident]ことをきっかけに[maybeAdjectiveEvil]儀式</li>
+    <li>objective->[entity_incident]後に闇の科学技術</li>
+    <li>ritual_incident->[targetHuman]がどこからともなく現れるのを見た</li>
+    <li>targetHuman->[anAuthorDesc]女性</li>
+    <li>targetHuman->[anAuthorDesc]男性</li>
+    <li>ritual_incident->3日間血の雨が降り友人の精神がおかしくなった</li>
     <li>ritual_incident->[entity_incident]</li>
-    <li>entity_incident->[ANYPAWN_pronoun]は[entity]に攻撃されて,[ANYPAWN_possessive][BodyPart]を失った</li>
-    <li>entity_incident->[ANYPAWN_pronoun]は[entity]を凝視した</li>
-    <li>specificHorrorStory->ある箇所で著者は,人々が割れたガラスで自らを切断するように強要されていた暗い儀式について,語っていた.</li>
-    <li>specificHorrorStory->ある場面で,主人公は儀式に出くわした.その儀式では,血まみれの者達が黒曜石の破片で自傷しながら不気味な呪文を唱えていた.</li>
-    <li>specificHorrorStory->この本には,「黒い大海原」と呼ばれているものを描いている沢山の絵が含まれていた.これは恐ろしくも魅惑的な超知能に支配された精神次元の隠喩のようだ.</li>
-    <li>specificHorrorStory->現実の多次元性を繰り返し暗示している.それは,私達が見ている次元よりも多くの次元が存在し,あなたのすぐ隣に存在している物体や実態でも認知が不可能なものが存在するという考えだ.</li>
-    <li>specificHorrorStory->それは,現実の隣接面に存在する「ホラックス」と呼ばれる超知的な存在を説明するのに,長時間を費やしている.</li>
-    <li>specificHorrorStory->所では闇の精神的影響のメカニズムについて説明されている.異次元にいる存在が,感情的な共鳴にシンクロさせることによって,無意識に人の思考を影響することが出来ると語られている.</li>
-    <li>specificHorrorStory->ある個所では様々なアルコテック・ハイパーインテリジェンスやそれぞれの異なる感情や精神の発散ついて解説されていてた.中立的,または慈悲深いとされるものもあれば,純粋な怒りの存在もある.</li>
-    <li>specificHorrorStory->[ANYPAWN_pronoun]は[ANYPAWN_possessive]偉大な知性の暗黒の精神的影響によって,頭が無理やり再構成される感覚を説明した.</li>
-    <li>specificHorrorStory->ある個所で著者は自殺未遂をしたが,心優しい[PersonJob]に見つかり,助けられた.</li>
-    <li>specificHorrorStory->本の一巻にはこの世のものではない気持ちの悪い生物の絵が沢山載っていて,その形のない不気味な蔓は複数のページに広がり,恐怖と魅惑の感覚を同時に呼び起こしていた.</li>
-    <li>specificHorrorStory->この物語には平行次元の概念が繰り返し登場し,登場人物たちは知覚のベールの向こう側にいる「存在」に遭遇している.物語によると,「存在」は現実世界とは異なる次元で生きており,その次元は人々の目には見えないが現実世界と重なっており,そして「存在」は現実世界と共存しているそうだ. </li>
+    <li>entity_incident->[entity]に攻撃されて[BodyPart]を失った</li>
+    <li>entity_incident->総力を挙げて[entity]を調査した</li>
+    <li>specificHorrorStory->著者はこの本の中でとある暗い儀式について詳しく説明しており,その儀式では生贄が割れたガラスで自らを切り落とすことを強制されていたそうだ.</li>
+    <li>specificHorrorStory->この本のワンシーンでは,主人公がとある儀式に遭遇し,血まみれの人々が黒曜石の破片で自傷しながら不気味な呪文を唱える様子を目撃している.</li>
+    <li>specificHorrorStory->この本には"黒き海"と呼ばれる存在のイラストが多く描かれている.このイラストは,人々に恐怖と魅力を与える超知性体に支配された精神世界を暗喩しているようだ.</li>
+    <li>specificHorrorStory->著者はこの本の中で,現実の多次元性を何度も暗に伝えようとしている.本によると,人々の認知できる次元は限られており,実際はもっと多くの次元が存在するそうだ.そのため,私たちのすぐ隣には私たちには認知できない何かが存在するかもしれない,と著者は主張している.</li>
+    <li>specificHorrorStory->この本はほとんどの章で,現実世界に隣接する次元と,そこに存在する"ホラックス"と呼ばれる超知性体について説明している.</li>
+    <li>specificHorrorStory->この本は一部の章で,闇の精神とその影響の仕組みについて説明している.説明によると,別次元の「存在」は無意識のうちに人間の思考を自身の感情と同期させ,共鳴させて影響を与えているそうだ.</li>
+    <li>specificHorrorStory->この本は一部の章で,アルコテック技術で作られたさまざまな超知性体と,感情と精神を伝播する特性について説明している.説明によると,超知性体の中には中立的や好意的なものも存在するが,それ以外は純粋な怒りで満ちているそうだ.</li>
+    <li>specificHorrorStory->本の中で著者は,巨大な知性の持つ闇の精神によって自分の心が無理やり作り替えられていく感覚について説明している.</li>
+    <li>specificHorrorStory->この本によると著者は自殺未遂の経験があり,そこで心優しい[PersonJob]に救われたそうだ.</li>
+    <li>specificHorrorStory->この本は異世界の「存在」のイラストで装飾されている.そのグロテスクで不気味な「存在」は形容しがたい真っ黒なツタのような見た目で,見る者に恐怖を与える一方で,どこか引き付けられる魅力を持っている.</li>
+    <li>specificHorrorStory->この物語には平行次元の概念が繰り返し登場し,登場人物たちは知覚のベールの向こう側にいる「存在」に遭遇している.物語によると,「存在」は現実世界とは異なる次元で生きており,その次元は現実世界と重なっているが見ることができず,そして「存在」は現実世界と共存しているそうだ. </li>
     <li>specificHorrorStory->この本は機械の超知性体"ホラックス"について恐ろしい解説しており,その中の一節では,それらは隠された次元を通ってヴォイドと呼ばれる場所に移動したことが説明されている.</li>
     <li>specificHorrorStory->ある章では,超知性体が遠距離から人間の認知を精神的に操作し,思考を意のままに作り変えることができる,ということが理論的に説明されている.</li>
     <li>specificHorrorStory->物語の主人公は,どこからともなく発せられた不吉なサイキックによって,自分の心が強制的に書き換えられる体験を語っている.</li>
