@@ -41,7 +41,7 @@
   <MessageMechanitorCasketOpened>{0}はメカニターでした.{0_possessive}{1_label}を取り外し,それを入植者に使うことができます.</MessageMechanitorCasketOpened>
   
   <!-- EN: Some prisoners' interaction mode required a bloodfeeder. Since the last bloodfeeder is gone, their interaction modes have reset to "No interaction". -->
-  <MessageNoBloodfeedersPrisonerInteractionReset>一部の囚人の対話モードに吸血が要求されていました.吸血者が一人もいなくなったため,彼らの対話モードは"対話なし"に変更されます.</MessageNoBloodfeedersPrisonerInteractionReset>
+  <MessageNoBloodfeedersPrisonerInteractionReset>一部の囚人の交流モードは吸血に設定されていました.吸血者が一人もいなくなったため,彼らの交流モードは"維持管理のみ"に変更されます.</MessageNoBloodfeedersPrisonerInteractionReset>
 
   <!-- EN: {PAWN_nameDef}'s pregnancy was successfully terminated. -->
   <MessagePregnancyTerminated>{PAWN_nameDef}の妊娠は正常に完了しました.</MessagePregnancyTerminated>

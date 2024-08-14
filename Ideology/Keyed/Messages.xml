@@ -65,7 +65,7 @@
   <!-- EN: No warden is capable of this enslavement. -->
   <MessageNoWardenCapableOfEnslavement>奴隷化を実行できる看守がいません.</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
-  <MessageNoWardenOfIdeo>{PRISONER_nameDef}の改宗を行う{MEMBERNAME}の看守がいません. {PRISONER_possessive}交流モードが"交流なし"に戻りました.</MessageNoWardenOfIdeo>
+  <MessageNoWardenOfIdeo>{PRISONER_nameDef}の改宗を行う{MEMBERNAME}の看守がいません.この人物の交流モードが"無視"に変更されました.</MessageNoWardenOfIdeo>
 
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->

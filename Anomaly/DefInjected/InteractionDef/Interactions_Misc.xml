@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: creepy words -->
@@ -47,36 +47,36 @@
     <li>talkingAbout->going into detail about</li>
   -->
   <DisturbingChat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[subjectDisturbing]について[talkingAbout]ことで[RECIPIENT_nameDef]を[disturbed].</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[subjectDisturbing][darkSpeechAdverb]について[spoke].</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[subjectDisturbing]について[talkingAbout],[RECIPIENT_nameDef]を[disturbed].</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[subjectDisturbing]について[darkSpeechAdverb][spoke].</li>
     <li>spoke->話した</li>
-    <li>spoke->ぶつぶつと言った</li>
-    <li>spoke->口ごもった</li>
-    <li>spoke->愚痴をこぼした</li>
-    <li>spoke->唸り声をあげた</li>
-    <li>spoke->つぶやいた</li>
+    <li>spoke->ぶつぶつ話した</li>
+    <li>spoke->どもりながら話した</li>
+    <li>spoke->泣き言を言った</li>
+    <li>spoke->不満げに話した</li>
+    <li>spoke->呟いた</li>
     <li>spoke(p=5)->[rambled]</li>
     <li>subjectDisturbing->[subjectDarkStudy]</li>
     <li>subjectDisturbing->[subjectInsane]</li>
-    <li>disturbed->動揺させた</li>
+    <li>disturbed->不安にさせた</li>
     <li>disturbed->怯えさせた</li>
     <li>disturbed->怖がらせた</li>
-    <li>disturbed->怒らせた</li>
-    <li>disturbed->混乱させた</li>
+    <li>disturbed->動揺させた</li>
+    <li>disturbed->狼狽させた</li>
     <li>disturbed->落ち着きを失わせた</li>
-    <li>disturbed->取り乱させた</li>
-    <li>disturbed->落ち着かせた</li>
-    <li>disturbed->心配させた</li>
+    <li>disturbed->当惑させた</li>
+    <li>disturbed->怖気づかせた</li>
+    <li>disturbed->恐れさせた</li>
     <li>disturbed->動転させた</li>
     <li>disturbed->うろたえさせた</li>
     <li>maybeDarkSpeechAdverb-></li>
     <li>maybeDarkSpeechAdverb->[darkSpeechAdverb]</li>
-    <li>talkingAbout->描写することで</li>
-    <li>talkingAbout->説明することで</li>
-    <li>talkingAbout->[maybeDarkSpeechAdverb]について愚痴を言うことで</li>
-    <li>talkingAbout->[maybeDarkSpeechAdverb]について語ることで</li>
-    <li>talkingAbout->[maybeDarkSpeechAdverb]について喚き散らし</li>
-    <li>talkingAbout->事細かく説明することで</li>
+    <li>talkingAbout->具体的に話し</li>
+    <li>talkingAbout->詳しく話し</li>
+    <li>talkingAbout->[maybeDarkSpeechAdverb]愚痴を言い</li>
+    <li>talkingAbout->[maybeDarkSpeechAdverb]話し</li>
+    <li>talkingAbout->[maybeDarkSpeechAdverb]喚き散らし</li>
+    <li>talkingAbout->事細かく説明し</li>
   </DisturbingChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: inhuman rambling -->
@@ -134,45 +134,45 @@
     <li>r_logentry->[INITIATOR_nameDef] [askedAbout] [identityTopic].</li>
   -->
   <InterrogateIdentity.logRulesInitiator.rulesStrings>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]を尋問した</li>
-    <li>askedAbout->は[RECIPIENT_possessive]について[RECIPIENT_nameDef]に聞いた</li>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]から詳細を求めた</li>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]に問いかけた</li>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]を質問攻めにした</li>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]からしつこく答えを求めた</li>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]に難しい問いかけをした</li>
-    <li>askedAbout->[RECIPIENT_possessive]に関する質問で[RECIPIENT_nameDef]を油断させようとした</li>
-    <li>askedAbout->[RECIPIENT_possessive]に関する情報を求めて,[RECIPIENT_nameDef]に叫んだ</li>
-    <li>askedAbout->[RECIPIENT_possessive]について大量の質問を[RECIPIENT_nameDef]に投げかけた</li>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]に質問を突きつけた</li>
-    <li>askedAbout->[RECIPIENT_possessive]について何度も[RECIPIENT_nameDef]に質問した</li>
-    <li>askedAbout->[RECIPIENT_possessive]について[RECIPIENT_nameDef]に探りを入れた</li>
-    <li>identityTopic->[RECIPIENT_possessive]前の仕事</li>
-    <li>identityTopic->[RECIPIENT_possessive]他の勢力との以前の関係</li>
-    <li>identityTopic->[RECIPIENT_possessive]出産</li>
-    <li>identityTopic->[RECIPIENT_possessive]生い立ち</li>
-    <li>identityTopic->[RECIPIENT_possessive]両親</li>
-    <li>identityTopic->[RECIPIENT_possessive]旧友</li>
-    <li>identityTopic->[RECIPIENT_possessive]恋愛遍歴</li>
-    <li>identityTopic->[RECIPIENT_possessive]好きなものと嫌いなもの</li>
-    <li>identityTopic->[RECIPIENT_possessive]厄介な状況への感情的な反応</li>
-    <li>identityTopic->[RECIPIENT_possessive]食べ物の好み</li>
-    <li>identityTopic->[RECIPIENT_possessive]一番の恐怖</li>
-    <li>identityTopic->[RECIPIENT_possessive]大切な思い出</li>
-    <li>identityTopic->[RECIPIENT_possessive]個人的な後悔</li>
-    <li>identityTopic->[RECIPIENT_possessive]夢と憧れ</li>
-    <li>identityTopic->[RECIPIENT_possessive]現在の勢力に参加した理由</li>
-    <li>identityTopic->[RECIPIENT_possessive]過去の大事件での役割</li>
-    <li>identityTopic->[RECIPIENT_possessive]趣味と暇つぶし</li>
-    <li>identityTopic->[RECIPIENT_possessive]道徳的価値観と原則</li>
-    <li>identityTopic->[RECIPIENT_possessive]動機</li>
-    <li>identityTopic->[RECIPIENT_possessive]大きな決断の理由</li>
+    <li>askedAbout->尋問した</li>
+    <li>askedAbout->聞いた</li>
+    <li>askedAbout->詳細を求めた</li>
+    <li>askedAbout->問いかけた</li>
+    <li>askedAbout->質問攻めにした</li>
+    <li>askedAbout->しつこく答えを求めた</li>
+    <li>askedAbout->難しい質問をした</li>
+    <li>askedAbout->質問して油断させようとした</li>
+    <li>askedAbout->話すよう大声で恫喝した</li>
+    <li>askedAbout->大量の質問を投げかけた</li>
+    <li>askedAbout->質問を突きつけた</li>
+    <li>askedAbout->何度も質問した</li>
+    <li>askedAbout->探りを入れた</li>
+    <li>identityTopic->前の仕事</li>
+    <li>identityTopic->他勢力との以前の関係</li>
+    <li>identityTopic->生まれた場所</li>
+    <li>identityTopic->生い立ち</li>
+    <li>identityTopic->両親</li>
+    <li>identityTopic->旧友</li>
+    <li>identityTopic->恋愛遍歴</li>
+    <li>identityTopic->好きなものと嫌いなもの</li>
+    <li>identityTopic->厄介な状況下でどんな気持ちになるか</li>
+    <li>identityTopic->食べ物の好み</li>
+    <li>identityTopic->一番怖い物</li>
+    <li>identityTopic->大切な思い出</li>
+    <li>identityTopic->個人的な後悔</li>
+    <li>identityTopic->夢と憧れ</li>
+    <li>identityTopic->現在の勢力に参加した理由</li>
+    <li>identityTopic->過去に起きたとある出来事における[RECIPIENT_possessive]役割</li>
+    <li>identityTopic->趣味と好きなこと</li>
+    <li>identityTopic->[RECIPIENT_possessive]道徳的価値観と倫理主義</li>
+    <li>identityTopic->[RECIPIENT_pronoun]が過去に起こした出来事の動機</li>
+    <li>identityTopic->[RECIPIENT_pronoun]が過去に大きな決断をした理由</li>
     <li>identityTopic->過去のトラウマ体験</li>
     <li>identityTopic->人間の思考プロセス</li>
     <li>identityTopic->幼少期の経験</li>
     <li>identityTopic->学校での経験</li>
     <li>identityTopic->文化的経験</li>
-    <li>r_logentry->[INITIATOR_nameDef]が[identityTopic]について[askedAbout].</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[identityTopic]について[askedAbout].</li>
   </InterrogateIdentity.logRulesInitiator.rulesStrings>
   
   <!-- EN: occult teaching -->

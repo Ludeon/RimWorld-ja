@@ -391,7 +391,7 @@
   <LetterGrayFleshDiscovered>{PAWN_nameDef}は帯状の肉片を発見しました.それは人間の肌に似ていますが,小さな金属粒子によって灰色に染まっています.これはきっと,誰かの肉体が溶けた際に剥がれ落ちたものに違いないでしょう.\n\nこの場所にいる誰かが,外見とは異なる中身を持っている可能性があります.\n\n裏切り者を検知する方法がいくつかあります：\n\n{METHODS}\n\n警告：寄生体の中には,精神を支配し,他者へ感染を広げるものもいます.</LetterGrayFleshDiscovered>
   
   <!-- EN: The “interrogate” prisoner interaction mode is now unlocked. -->
-  <LetterInterrogationUnlocked>囚人へのインタラクションモード「尋問」がアンロックされました.</LetterInterrogationUnlocked>
+  <LetterInterrogationUnlocked>囚人への交流モードに"尋問"が追加されました.</LetterInterrogationUnlocked>
   
   <!-- EN: Imprison someone and send a warden to interrogate them about their true identity. This can take many days. -->
   <LetterGrayFleshMethodOne>誰かを投獄し,看守がその正体について尋問します.これには数日かかります.</LetterGrayFleshMethodOne>
@@ -417,7 +417,7 @@
   <!-- EN: {DOCTOR_nameDef} performed an extensive surgical inspection of {PATIENT_nameDef}. -->
   <LetterSurgicallyInspectedHeader>{DOCTOR_nameDef}は{PATIENT_nameDef}の外科調査を行いました.</LetterSurgicallyInspectedHeader>
   <!-- EN: {DOCTOR_pronoun} says that {DOCTOR_pronoun} found no anomalies. However, a doctor may lie if it is in their own self-interest. -->
-  <LetterSurgicallyInspectedNothing>{DOCTOR_pronoun}は{DOCTOR_pronoun}には異常は見つからなかったと言っています.ですが,この医者は自分の利益のために嘘をついている可能性があります.</LetterSurgicallyInspectedNothing>
+  <LetterSurgicallyInspectedNothing>{DOCTOR_pronoun}は{PATIENT_pronoun}に異常は見つからなかったと言っています.しかし,医者が自分の利益のために嘘をついている可能性もあることに注意してください.</LetterSurgicallyInspectedNothing>
   
   <!-- Death refusal -->
   <!-- EN: use -->
@@ -700,7 +700,7 @@
   <!-- EN: Floor etchings -->
   <LetterLabelFloorEtchings>床のエッチング</LetterLabelFloorEtchings>
   <!-- EN: {PAWN_nameDef} has managed to decipher the floor etchings.\n\n{RAMBLINGS}\n\nThey seem to indicate that an exit is somewhere {DIRECTION} of here. -->
-  <LetterFloorEtchings>{PAWN_nameDef}は床のエッチングの解読に成功しました.\n\n{RAMBLINGS}\n\nどうやら,ここのどこか{DIRECTION}への出口を示しているようです.</LetterFloorEtchings>
+  <LetterFloorEtchings>{PAWN_nameDef}は床のエッチングの解読に成功しました.\n\n{RAMBLINGS}\n\nこの文章はどうやら,この位置から{DIRECTION}のどこかに出口があることを示しているようです.</LetterFloorEtchings>
 
   <!-- EN: Floor etchings -->
   <LetterLabelFloorEtchingRamblings>床のエッチング</LetterLabelFloorEtchingRamblings>
