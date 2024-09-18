@@ -160,7 +160,7 @@
   <!-- EN: {PAWN_nameDef} has reappeared.\n\n{PAWN_pronoun} looks withered by the inhuman thought-patterns of the void. All traces of humanity have left {PAWN_possessive} eyes.\n\n{PAWN_nameDef}'s mind and body are now permanently linked to the dark void of inhuman rage. Powered by this new connection, {PAWN_nameDef} no longer feels tethered to mortal needs like comfort or sleep. {PAWN_pronoun} has gained the ability to induce terror in others using the power of the void.\n\nThe monolith is awakened. It hums louder with {PAWN_nameDef}'s reappearance, a reminder that its connection to the void has been opened and made permanent. -->
   <EmbracedVoidText>{PAWN_nameDef}が再出現しました.\n\n{PAWN_pronoun}はヴォイドの非人間的な思考パターンにより枯れ果ててしまったように見えます.{PAWN_possessive}目からは,人間的な痕跡の一切が失われています.\n\n{PAWN_nameDef}の精神と肉体は今や,非人間的な怒りの暗きヴォイドと永久に繋がっています.この新たなつながりから力を得た{PAWN_nameDef}は,もはや食事や睡眠と行った人間的欲求の必要性も感じていません.{PAWN_pronoun}はヴォイドの力を活用することで,他者に恐怖を流し込む力を得ました.\n\nモノリスが目覚めました.{PAWN_nameDef}の再出現とともに大きなうなりをあげ,ヴォイドとのつながりを完全に開き,そしてそれが永遠のものとなったことをしらしめます.</EmbracedVoidText>
   <!-- EN: {PAWN_nameDef} has reappeared. {PAWN_pronoun} is weary from {PAWN_possessive} efforts, but otherwise healthy.\n\nBy closing the channel to the void, {PAWN_nameDef} has stopped any more unnatural phenomena from entering our world. Hostile entities in the area have all fallen to the ground, lifeless.\n\nTales of {PAWN_possessive} heroism are sure to spread far and wide. -->
-  <DisruptedLinkText>{PAWN_nameDef}が再出現しました.{PAWN_pronoun}はその努力により疲れ切ってはいますが,健康ではあるようです.\n\nヴォイドへのチャンネルを閉じることで,{PAWN_nameDef}は我々の世界でのこれ以上の不自然な現象の発生を阻止しました.この一帯の敵対的な「存在」は地に落ち,命を失いました.\n\n{PAWN_possessive}英雄譚は,広く知られることとなるでしょう.</DisruptedLinkText>
+  <DisruptedLinkText>{PAWN_nameDef}が再出現しました.{PAWN_pronoun}はその努力により疲れ切った様子ですが,健康ではあるようです.\n\nヴォイドへのチャンネルを閉じることで,{PAWN_nameDef}は我々の世界でのこれ以上の不自然な現象の発生を阻止しました.この一帯の敵対的な「存在」は地に落ち,命を失いました.\n\n{PAWN_possessive}英雄譚は,広く知られることとなるでしょう.</DisruptedLinkText>
   <!-- EN: fleshcrafting -->
   <RewardFleshcraftingAbility>肉体造り</RewardFleshcraftingAbility>
   <!-- EN: slaughter -->
@@ -277,7 +277,7 @@
   <!-- EN: Strange corpse -->
   <UnnaturalCorpseArrivalLabel>奇妙な死体</UnnaturalCorpseArrivalLabel>
   <!-- EN: An unnatural human corpse has appeared, as if out of thin air.\n\nOn further inspection, the corpse looks identical to {PAWN_nameDef}. Its skin feels waxy and warm to the touch.\n\nStudy the corpse to learn more about it. -->
-  <UnnaturalCorpseArrivalText>まるで宙空から出現したかの如く,不自然な人間の死体が出現しました.\n\nよく見ると,その死体は{PAWN_nameDef}と同じように見えます.皮膚は蝋のようになっており,触れると温かさを感じます.\n\n死体を研究することで,さらに詳しくわかります.</UnnaturalCorpseArrivalText>
+  <UnnaturalCorpseArrivalText>不自然な死体がどこからともなく出現しました.\n\nさらに調べたところ,この死体は{PAWN_nameDef}と全く同じ見た目をしているようです.死体はまだ温かく,皮膚は蝋状に変化しています.\n\n死体を研究することで,さらに詳しくわかります.</UnnaturalCorpseArrivalText>
 
   <!-- EN: Golden cube -->
   <GoldenCubeArrivalLabel>黄金のキューブ</GoldenCubeArrivalLabel>

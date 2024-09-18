@@ -60,8 +60,8 @@
   -->
   <MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
     <li>deliveredLetterLabel->謎の荷物</li>
-    <li>deliveredLetterText(pawnOnMap==true)->謎の荷物が届けられました.それは人間の死体のように見えます.\n\nよく見ると,その死体は[pawn_nameDef]と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.[pawn_nameDef]はその存在に非常に落ち着かないようです.\n\n死体を研究することで,詳細を明らかにしましょう.</li>
-    <li>deliveredLetterText(pawnOnMap==false)->謎の荷物が届けられました.それは人間の死体のように見えます.\n\nよく見ると,その死体は[pawn_nameDef]と同じように見えます.皮膚は蝋のようになっており,触れるとあたたかさを感じます.[pawn_nameDef]はその存在に非常に落ち着かなくなるようです.\n\n死体を研究することで,詳細を明らかにしましょう.</li>
+    <li>deliveredLetterText(pawnOnMap==true)->謎の荷物が届けられました.それは人間の死体のように見えます.\n\nさらに調べたところ,この死体は[pawn_nameDef]と全く同じ見た目をしているようです.死体はまだ温かく,皮膚は蝋状に変化しています.[pawn_nameDef]はその存在に強い不安を感じています.\n\n死体を研究することで,さらに詳しくわかります.</li>
+    <li>deliveredLetterText(pawnOnMap==false)->謎の荷物が届けられました.それは人間の死体のように見えます.\n\nさらに調べたところ,この死体は[pawn_nameDef]と全く同じ見た目をしているようです.死体はまだ温かく,皮膚は蝋状に変化しています.[pawn_nameDef]はその存在に強い不安を感じるでしょう.\n\n死体を研究することで,さらに詳しくわかります.</li>
   </MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true)->An anonymous AI has reached out with an odd request. It would like you to accept some unspecified cargo. It avoids all your questions about the cargo.\n\nIf you accept, it will deliver the mystery cargo by transport pod.</li>

@@ -35,7 +35,7 @@
   <!-- EN: Golden cube study progress -->
   <GoldenCube.comps.CompStudyUnlocks.studyNotes.0.label>黄金のキューブ研究の進捗</GoldenCube.comps.CompStudyUnlocks.studyNotes.0.label>
   <!-- EN: {PAWN_nameDef}'s investigation of the golden cube has revealed more. It is able to psychically influence anyone who interacts with it. Those under the cube's influence will experience extreme withdrawal if they're separated from it.\n\n{PAWN_nameDef} thinks that there may be a way to deactivate the cube, but {PAWN_pronoun} will need to study it further. -->
-  <GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef}の黄金のキューブに関する研究によって,さらに多くのことが明らかになりました.このキューブは,それを関わる人すべてに精神的な影響を及ぼすことが可能です.キューブの影響下にある者は,キューブから引き離されると極度の疎外感を覚えます.\n\n{PAWN_nameDef}は,キューブを無力化する方法があると考えていますが,そのために{PAWN_pronoun}はさらなる研究を行う必要です.</GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>
+  <GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef}の黄金のキューブに関する研究によって,さらに多くのことが明らかになりました.このキューブは,それに関わる人すべてに精神的な影響を及ぼすことが可能です.キューブの影響下にある者は,キューブから引き離されると極度の疎外感を覚えます.\n\n{PAWN_nameDef}は,キューブを無力化する方法があると考えていますが,そのためにはさらなる研究を行う必要があります.</GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>
   <!-- EN: Golden cube study complete -->
   <GoldenCube.comps.CompStudyUnlocks.studyNotes.1.label>黄金のキューブ研究完了</GoldenCube.comps.CompStudyUnlocks.studyNotes.1.label>
   <!-- EN: {PAWN_nameDef}'s investigation of the golden cube has revealed that it can be deactivated using an archotech shard. Doing so will destroy the cube, breaking its psychic hold over your colonists.\n\nHowever, the psychic whiplash from the cube’s destruction will send any cube-interested people into a berserk rage. Those in caravans will abandon your colony entirely.\n\nSelect the golden cube to deactivate it. -->
@@ -125,17 +125,17 @@
   <!-- EN: revenant spine -->
   <RevenantSpine.label>レヴナントの脊椎</RevenantSpine.label>
   <!-- EN: An articulated spine-like object from a dead revenant. It is a chaotic mesh of sharpened metal spokes, twisted into a warped cage. The material appears to be rough-cast black iron smeared in a dark, slippery fluid. Anyone who peers too closely inside its jagged form is left with a skull-splitting headache.\n\nYou can destroy the spine to permanently kill the revenant.\n\nAlternatively, you can secure it on a holding platform and wait for the revenant to re-emerge, so you can study the captured entity. -->
-  <RevenantSpine.description>死亡したレヴナントから採取された,節のある脊椎のような物体.まばらな網目状の鋭い金属スポークが,歪んだ檻の中に捻れて押し込まれています.この素材は,黒く,滑りやすい液体にまみれた荒削りな黒い鉄のようなもののようです.そのギザギザの形状の中をじっくりと覗き込んだ者は,頭蓋骨が割れるような頭痛にみまわれます.\n\n脊椎を破壊することで,レヴナントを永久に殺すことができます.\n\nまたは,それを収容プラットフォームに固定し,レヴナントが再び出現するのを待つことで,捕獲した「存在」を研究できます.</RevenantSpine.description>
+  <RevenantSpine.description>死亡したレヴナントから採取された,節のある脊椎のような物体です.脊椎は針のように細い金属製のスポークで構成されており,スポークがねじれながら無秩序な編み目を形作り,全体として歪んだ骨組みのようになっています.この金属は粗雑に鋳造された黒い鉄のような見た目で,ヌルヌルした黒い液体にまみれています.のこぎりの刃のような見た目をしたこの物体は,至近距離で内部を覗き込む者に頭が割れるような痛みを与えます.\n\n脊椎を破壊することで,レヴナントを永久に殺すことができます.\n\nまたは,収容プラットフォームに固定し,レヴナントが再形成されるのを待ち,捕獲した「存在」を研究することもできます.</RevenantSpine.description>
   <!-- EN: Revenant reformed -->
   <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterLabel>レヴナントの再形成</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterLabel>
   <!-- EN: After {PAWN_nameDef} chained the revenant spine to a holding platform, the revenant re-emerged.\n\nWhen killed, a revenant's body dissolves, leaving behind only its archotechnological spine. This cage of slick iron waits for a chance to grow a new body. -->
-  <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>{PAWN_nameDef}がレヴナントの脊椎を収容プラットフォームに接続した後,レブナントが再出現しました.\n\nそれを殺すと,レブナントの身体は溶解し,アルコテクノロジーの脊椎だけが残されました.この滑らかな鉄の檻は,新たな肉体を得るチャンスを待っています.</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>
+  <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>{PAWN_nameDef}がレヴナントの脊椎を収容プラットフォームに固定してしばらくすると,レヴナントの体が再生しました.\n\nレヴナントは死亡すると体が溶け,アルコテック技術で作られた脊椎のみがその場に残ります.ヌルヌルした鉄で作られたこの骨組みは,新たな肉体を再形成するチャンスを待っています.</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>
   <!-- EN: Smash {0_label} -->
   <RevenantSpine.comps.CompUsable.useLabel>{0_label}を砕く</RevenantSpine.comps.CompUsable.useLabel>
   <!-- EN: {PAWN_nameDef} smashed the revenant spine. It dissolved to reveal a shard of dark archotechnology. -->
-  <RevenantSpine.comps.CompUsable.useMessage>{PAWN_nameDef}はレブナントの脊椎を砕きました.それは溶解し,闇のアルコテクノロジーの破片が現れました.</RevenantSpine.comps.CompUsable.useMessage>
+  <RevenantSpine.comps.CompUsable.useMessage>{PAWN_nameDef}はレヴナントの脊椎を砕きました.脊椎は溶解し,闇のアルコテクノロジーの破片が現れました.</RevenantSpine.comps.CompUsable.useMessage>
   <!-- EN: Smash the revenant spine to prevent it reforming into a new revenant. -->
-  <RevenantSpine.comps.CompRevenantSpine.activateDescString>レブナントの脊椎を砕くことで,新たなレヴナントへの再形成を防ぎます.</RevenantSpine.comps.CompRevenantSpine.activateDescString>
+  <RevenantSpine.comps.CompRevenantSpine.activateDescString>レヴナントの脊椎を砕くことで,新たなレヴナントが再形成されるを防ぎます.</RevenantSpine.comps.CompRevenantSpine.activateDescString>
   <!-- EN: Smash... -->
   <RevenantSpine.comps.CompRevenantSpine.activateLabelString>砕く...</RevenantSpine.comps.CompRevenantSpine.activateLabelString>
   <!-- EN: smashing revenant spine -->
