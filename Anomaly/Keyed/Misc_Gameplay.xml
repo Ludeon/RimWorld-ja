@@ -226,19 +226,19 @@
   <DuplicatorObeliskLetter>オベリスクが起動しています！オベリスクの周囲の空気が,エネルギーで弾けるような音を立てています.入植者の複製が,間もなく殺意とともに現れるでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意してください.</DuplicatorObeliskLetter>
 
   <!-- EN: Colonists disappearing -->
-  <ObeliskAbductorLetterLabel>入植者の消滅</ObeliskAbductorLetterLabel>
+  <ObeliskAbductorLetterLabel>入植者の消失</ObeliskAbductorLetterLabel>
   <!-- EN: The warped obelisk crackles with energy as it warps space around itself. All manner of creatures are beginning to disappear and will soon vanish entirely.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
-  <ObeliskAbductorLetter>歪んだオベリスクはバチバチとエネルギーを鳴り響かせ,周囲の空間を歪めています.あらゆる生物が姿を消し始め,間もなく完全に消滅するでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意してください.</ObeliskAbductorLetter>
+  <ObeliskAbductorLetter>歪んだオベリスクはバチバチとエネルギーを鳴り響かせ,周囲の空間を歪めています.あらゆる生物の姿が薄れ始め,間もなく完全に姿を消すでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意してください.</ObeliskAbductorLetter>
   
   <!-- EN: {PAWN_nameDef} is disappearing -->
-  <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef}の消滅</ObeliskAbductedDisappearingLetterLabel>
+  <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef}の消失</ObeliskAbductedDisappearingLetterLabel>
   <!-- EN: {PAWN_nameDef} noticed activity in the warped obelisk. Some mysterious internal mechanism has come to life, causing {PAWN_nameDef} to begin to disappear. {PAWN_pronoun} will soon vanish entirely. -->
-  <ObeliskAbductedDisappearingLetter>{PAWN_nameDef}が歪んだオベリスクの動きに気が付きました.何らかの謎めいた内部機構が動き出し,{PAWN_nameDef}が消滅しはじめています.{PAWN_pronoun}は間もなく完全に消滅するでしょう.</ObeliskAbductedDisappearingLetter>
+  <ObeliskAbductedDisappearingLetter>{PAWN_nameDef}が歪んだオベリスクの動きに気が付きました.何らかの謎めいた内部機構が動き出し,{PAWN_nameDef}の姿が徐々に薄れていきます.{PAWN_pronoun}は間もなく完全に姿を消すでしょう.</ObeliskAbductedDisappearingLetter>
   
   <!-- EN: {PAWN_nameDef} reappeared -->
   <ObeliskAbductedLetterLabel>{PAWN_nameDef}の再出現</ObeliskAbductedLetterLabel>
   <!-- EN: {PAWN_nameDef} has been teleported to a strange room. The walls are an unidentifiable gray material and the air is dead still. {PAWN_pronoun} doesn't know where {PAWN_pronoun} is - or how to get home.\n\nA nearby door is jammed but looks like it can be forced open with some effort. Right-click jammed doors to open them.\n\nBy studying the obelisk, other colonists may be able to understand what happened to {PAWN_nameDef} and find a way to help {PAWN_objective}. Alternatively, attacking the obelisk may provoke it to abduct more colonists. -->
-  <ObeliskAbductedLetter>{PAWN_nameDef}は奇妙な部屋にテレポートしました.その壁は正体不明の灰色の素材で,空気は死んだように静まり返っています.{PAWN_pronoun}は自分がどこにいるのか,どうやって家に帰れるのかわからないようです.\n\n知覚のドアは何かが詰まっているようですが,力を込めれば開けられそうです.右クリックで詰まったドアを開けることができます.\n\nオベリスクを研究することで,他の入植者は{PAWN_nameDef}に何が起きたのかを理解し,助ける方法を見つけられるかもしれません.また,オベリスクを攻撃すると,さらに多くの入植者が拐われる可能性があります.</ObeliskAbductedLetter>
+  <ObeliskAbductedLetter>{PAWN_nameDef}は奇妙な部屋にテレポートしました.その壁は正体不明の灰色の素材で,空気は死んだように静まり返っています.{PAWN_pronoun}は自分がどこにいるのか,どうやって家に帰れるのかわからないようです.\n\n近くのドアは動かなくなっていますが,力を込めれば開けられそうです.右クリックで詰まったドアを開けることができます.\n\nオベリスクを研究することで,他の入植者は{PAWN_nameDef}に何が起きたのかを理解し,助ける方法を見つけられるかもしれません.また,オベリスクを攻撃すると,さらに多くの入植者が拐われる可能性があります.</ObeliskAbductedLetter>
 
   <!-- EN: {PAWN_nameIndef} has mutated into a fleshbeast. -->
   <MutatorObeliskMutated>{PAWN_nameIndef}はフレッシュビーストに変異しました.</MutatorObeliskMutated>
