@@ -215,7 +215,7 @@
 
   <!-- Babies -->
   <!-- EN: Select at least one child or adult. -->
-  <ChooseChildOrAdult>子どもか大人を一人選択してください.</ChooseChildOrAdult>
+  <ChooseChildOrAdult>子供か大人を一人選択してください.</ChooseChildOrAdult>
 
   <!-- Deathrest -->
   <!-- EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
@@ -283,9 +283,9 @@
   <!-- EN: {PAWN_nameDef} is infertile. -->
   <PawnIsInfertile>{PAWN_nameDef}は生殖能力がありません.</PawnIsInfertile>
   <!-- EN: {PAWN1_nameDef} and {PAWN2_nameDef} are too young to have children. -->
-  <PawnsAreTooYoung>{PAWN1_nameDef}と{PAWN2_nameDef}は子どもを持つには若すぎます.</PawnsAreTooYoung>
+  <PawnsAreTooYoung>{PAWN1_nameDef}と{PAWN2_nameDef}は子供を持つには若すぎます.</PawnsAreTooYoung>
   <!-- EN: {PAWN_nameDef} is too young to have children. -->
-  <PawnIsTooYoung>{PAWN_nameDef}は子どもを持つには若すぎます.</PawnIsTooYoung>
+  <PawnIsTooYoung>{PAWN_nameDef}は子供を持つには若すぎます.</PawnIsTooYoung>
   <!-- EN: {PAWN_nameDef} is dead. -->
   <PawnIsDead>{PAWN_nameDef}は死んでいます.</PawnIsDead>
 
