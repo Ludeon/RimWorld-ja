@@ -80,52 +80,52 @@
   <LabyrinthRamblings.rulePack.rulesStrings>
     <li>r_root->[textDescSentence][horrorDescSentence][maybeSignature]</li>
     <li>maybeSignature(p=3)-></li>
-    <li>maybeSignature->文章を書いた人物は最後に名前を記している:[PAWN_nameDef]</li>
-    <li>maybeSignature->文章の最後にはこの名前が書かれている:[PAWN_nameDef]</li>
-    <li>maybeSignature->文章の一番下には"[PAWN_nameDef]"と名が記されている.</li>
-    <li>textDescSentence->床のエッチングは支離滅裂で漠然とした内容だ.</li>
-    <li>textDescSentence->この文章の意味を理解するのは非常に困難だ.</li>
-    <li>textDescSentence->この奇妙なエッチングの文字は右から左へ読むようだ.</li>
-    <li>textDescSentence->床には弱々しく震えた文字が書かれている.</li>
-    <li>textDescSentence->床に書かれた文章は,進むにつれて奇妙な内容に変わっている.</li>
-    <li>textDescSentence->この文章は[writingMaterial]で書かれており,一部の文字が拭き消されている.</li>
-    <li>textDescSentence->この文章には暗号のような記号やギザギザとした文字が混じっている.</li>
-    <li>textDescSentence->この文章は断片的に書かれており,まるで何度も中断しながら書いたかのようだ.</li>
-    <li>textDescSentence->記された文章はところどころ消えている.</li>
-    <li>textDescSentence->この文章は[writingMaterial]で書かれており,非常に急いで書かれたようだ.</li>
-    <li>horrorDescSentence->辛うじて読み取れる文章はこの言葉だけだ— "[rambling]" </li>
-    <li>horrorDescSentence->一つの言葉が何度も何度も繰り返し書かれている— "[rambling]" </li>
-    <li>horrorDescSentence->全ての文末にこの言葉が書かれている— "[rambling]" </li>
-    <li>horrorDescSentence->文章は同じ言葉を際限なく繰り返している— "[rambling]" </li>
-    <li>horrorDescSentence->この文章を書いた人物は,自分の皮膚の下に鉄の寄生虫がいると確信していたようだ.[PAWN_pronoun]はそれが動くたび,もがくたび,激しい痛みに襲われると訴えている.</li>
-    <li>horrorDescSentence->この文章を書いた人物は,友人に鉄の寄生虫を注入されたと主張している.[PAWN_pronoun]は自分の体内でそれが成長していく,恐ろしい感覚を書き記している.</li>
-    <li>horrorDescSentence->この文章を書いた人物は,自分を苦しめる存在—[horrorDesc]からの解放を懇願している.</li>
-    <li>horrorDescSentence->この文章は,[horrorDesc]を表現する言葉を何度も何度も繰り返している.</li>
-    <li>horrorDescSentence->この奇妙な詩は,[horrorDesc]について書き記している.</li>
-    <li>horrorDescSentence->この文章を書いた人物は,自分の見た[horrorDesc]について,どう表現すれば良いか苦しんでいるようだ.</li>
-    <li>horrorDescSentence->[horrorDesc]の幻影を見た犠牲者の反応が,震えた文字で書かれている.</li>
-    <li>horrorDescSentence->この文章の隅には[horrorDesc]の絵が描かれている.</li>
-    <li>horrorDescSentence->慌てて描いたような[horrorDesc]の絵が床に刻まれており,そのそばにはそれの特徴を記したメモ書きがある.</li>
-    <li>horrorDescSentence->[horrorDesc]について書かれた文章が,呪文のように単調な言葉で書き連ねられている.</li>
-    <li>horrorDescSentence->[horrorDesc]を表す絵が,文章のあちこちに感情的に描かれている.</li>
-    <li>horrorDescSentence->[horrorDesc]についての物語が,端の方に小さく書かれている.</li>
-    <li>horrorDescSentence->この文章を書いた人物が,[horrorDesc]と対面し最終的にどうなったのかが,文字の鬼気迫る様子からうかがえる.</li>
-    <li>horrorDescSentence->[horrorDesc]を表現したような模様が,エッチングの中に散りばめられている.</li>
-    <li>horrorDescSentence->[horrorDesc]を克明に表現した文章が,元々の文章と絡み合っている.</li>
-    <li>horrorDescSentence->この文章は恐ろしい子守唄になっており,唄の中で[horrorDesc]を描写している.</li>
-    <li>horrorDescSentence->この文章には[horrorDesc]についての物語が書かれており,必死に慈悲を乞う言葉が同時に書かれている.</li>
-    <li>horrorDesc->信者以外の者の心を蝕む透明な生き物</li>
-    <li>horrorDesc->純粋な苦しみで脈動する空虚な黒球</li>
-    <li>horrorDesc->人間の肉と捻じれた肉が混ざったような生き物</li>
+    <li>maybeSignature->文章を書いた人物は最後に名前を記しています:[PAWN_nameDef]</li>
+    <li>maybeSignature->文章の最後には名前が書かれています:[PAWN_nameDef]</li>
+    <li>maybeSignature->文章の一番下には"[PAWN_nameDef]"と名が記されています.</li>
+    <li>textDescSentence->床に書かれたエッチングは漠然としており,支離滅裂な内容です.</li>
+    <li>textDescSentence->床には意味を理解するのが非常に難しい文章が書かれています.</li>
+    <li>textDescSentence->床に書かれた奇妙なエッチングは,文字が右から左へ書かれています.</li>
+    <li>textDescSentence->床には震えた文字が弱々しく書かれています.</li>
+    <li>textDescSentence->床に書かれた文字は,文章が進むにつれて内容が奇妙なものへと変化しています.</li>
+    <li>textDescSentence->床の文字は[writingMaterial]で書かれており,一部の文字が拭き消されています.</li>
+    <li>textDescSentence->床に書かれた文章には,暗号のような記号やギザギザとした文字が混じっています.</li>
+    <li>textDescSentence->床の文字は途切れ途切れに書かれており,まるで何度も中断しながら書いたかのようです.</li>
+    <li>textDescSentence->床に書かれた文字はところどころ消えています.</li>
+    <li>textDescSentence->床の文字は[writingMaterial]で書かれており,非常に急いでいたかのような筆跡です.</li>
+    <li>horrorDescSentence->辛うじて読み取れる文章は"[rambling]"という一文のみです.</li>
+    <li>horrorDescSentence->文中には"[rambling]"という言葉が何度も繰り返し書かれています.</li>
+    <li>horrorDescSentence->すべての文末には"[rambling]"という言葉が書かれています.</li>
+    <li>horrorDescSentence->この文章は"[rambling]"という言葉を際限なく繰り返しています.</li>
+    <li>horrorDescSentence->この文章を書いた人物は,自分の皮膚の下に鉄の寄生虫がいると確信していたようです.文中ではそれが動くたび,もがくたび,激しい痛みに襲われると訴えています.</li>
+    <li>horrorDescSentence->この文章を書いた人物は,友人に鉄の寄生虫を注入されたと主張しています.文中では自分の体内でそれが成長していく,恐ろしい感覚を書き記しています.</li>
+    <li>horrorDescSentence->この文章を書いた人物は,[horrorDesc]に苦しめられており,その存在からの解放を文中で懇願しています.</li>
+    <li>horrorDescSentence->この文章には,[horrorDesc]を表現する言葉が何度も繰り返し書かれています.</li>
+    <li>horrorDescSentence->この奇妙な詩は,[horrorDesc]について書かれています.</li>
+    <li>horrorDescSentence->この文章を書いた人物は自分の見た何かについてどのように形容すればよいか悩んでいるようで,[horrorDesc]を見た,ということが書かれています.</li>
+    <li>horrorDescSentence->この文章を書いた犠牲者は[horrorDesc]の幻影を見たようで,それに対する反応が震えた文字で書かれています.</li>
+    <li>horrorDescSentence->また,この文章の隅には[horrorDesc]の絵が描かれています.</li>
+    <li>horrorDescSentence->また,慌てて描いたような[horrorDesc]の絵が床に刻まれており,そのそばにはそれの特徴を記したメモ書きがあります.</li>
+    <li>horrorDescSentence->この文章は呪文のように単調な言葉で,[horrorDesc]について書き連ねられています.</li>
+    <li>horrorDescSentence->また,[horrorDesc]の絵が,衝動的な様子であちこちに描かれています.</li>
+    <li>horrorDescSentence->また,[horrorDesc]の物語が,端の方に小さく書かれています.</li>
+    <li>horrorDescSentence->また,この文字の鬼気迫る様子からは,文章を書いた人物が[horrorDesc]と対面し,最終的にどうなったのかが想像できます.</li>
+    <li>horrorDescSentence->また,[horrorDesc]を表現したような模様が,エッチングの中に散りばめられています.</li>
+    <li>horrorDescSentence->また,この文章の上から書き加えられた形で,[horrorDesc]についての文章が乱雑に書き殴られています.</li>
+    <li>horrorDescSentence->この恐ろしい文章は子守唄の歌詞のようになっており,唄の中では[horrorDesc]が表現されています.</li>
+    <li>horrorDescSentence->この文章には[horrorDesc]についての物語が書かれており,必死に慈悲を乞う言葉も書かれています.</li>
+    <li>horrorDesc->不信心者の精神を蝕む透明な生き物</li>
+    <li>horrorDesc->純粋な苦しみで脈動する暗黒色の球</li>
+    <li>horrorDesc->捻じれた肉の体と骨の四肢を持つ生き物</li>
     <li>horrorDesc->星のように輝く目を持つ影のような存在</li>
-    <li>horrorDesc->血に染まった鋭いナイフで構成された男</li>
-    <li>horrorDesc->深淵から現れた回転する刃の塊</li>
+    <li>horrorDesc->血塗れの刃物で形成された男</li>
+    <li>horrorDesc->深淵から湧き出る回転刃の塊</li>
     <li>horrorDesc->顔全体に口が広がる無言の子供</li>
-    <li>horrorDesc->トゲと刃で形成された捻じれた巨大な柱</li>
-    <li>horrorDesc->無数の動物が混ざったような異常な生命体</li>
-    <li>horrorDesc->人体パーツがちぐはぐに組み合わさった異形の生き物</li>
+    <li>horrorDesc->トゲと刃が捻じれて形成された巨大な柱</li>
+    <li>horrorDesc->無数の動物が混ざった異常な生命体</li>
+    <li>horrorDesc->人の部位がデタラメに繋がった異形の存在</li>
     <li>horrorDesc->腐った死体の巨大な群れ</li>
-    <li>horrorDesc->棘だらけのマスクを被った人型生命体</li>
+    <li>horrorDesc->棘だらけのマスクを被った人型の存在</li>
     <li>rambling->ここから出して</li>
     <li>rambling->助けて</li>
     <li>rambling->私を救って</li>
@@ -133,19 +133,19 @@
     <li>rambling->あれが放してくれない</li>
     <li>rambling->放して</li>
     <li>rambling->あれの声が聞こえる</li>
-    <li>rambling->時間は嘘だ</li>
+    <li>rambling->時間は嘘</li>
     <li>rambling->痛みから解放して</li>
     <li>rambling->黒い海</li>
-    <li>rambling->切断と切断と切断と切...</li>
+    <li>rambling->切断と切断</li>
     <li>rambling->虚空がささやく</li>
     <li>rambling->あれが常に背後にいる</li>
     <li>rambling->無数の目</li>
-    <li>rambling->頭の中に...</li>
+    <li>rambling->頭の中が</li>
     <li>rambling->静けさに溺れる</li>
     <li>rambling->あいつは私の名前を知っている</li>
     <li>rambling->影が動いている</li>
     <li>rambling->出口はない</li>
-    <li>rambling->闇が喋っている</li>
+    <li>rambling->闇が喋る</li>
     <li>rambling->あいつらが見てる</li>
     <li>writingMaterial->チョーク</li>
     <li>writingMaterial->すす</li>
