@@ -136,15 +136,15 @@
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1}が死亡: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>{0}の{1}である{OLDLEADER_nameFull}が死んだ.</LetterLeadersDeath>
+  <LetterLeadersDeath>{0}の {1}である {OLDLEADER_nameFull}が死んだ.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>新{1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull}は,もう{0}の{1}ではなくなった.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull}は, もう{0}の{1}ではなくなった.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
-  <LetterNewLeader>新しい{0}は{NEWLEADER_nameFull}になった.</LetterNewLeader>
+  <LetterNewLeader>新しい{0}は\n{NEWLEADER_nameFull}になった.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>不幸な出来事: {0}</FinalStraw>
