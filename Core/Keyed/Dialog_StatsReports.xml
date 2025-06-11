@@ -443,7 +443,7 @@
   <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
   <Stat_Thing_Drug_AddictionRecoveryTime_Desc>このドラッグの初期の依存症から回復するために必要な時間です.\n\nこれは,依存症の深刻度を,依存症の回復速度で割ることによって計算されています.供給が続いている依存症は,回復するまでさらに時間がかかります.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
   <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
-  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>このドラッグを摂取したときに,既存の依存症の深刻度がどの程度増加するかを示す値です.\n\n依存症の深刻度は100％を超えません.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>このドラッグを摂取したときに,既存の依存症の深刻度がどの程度増加するかを示す値です.\n\n依存症の深刻度は100%を超えません.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
   <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
   <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>離脱症状の発生を防ぐために,常用者がこのドラッグを摂取して,依存症の欲求を満たさなければならない頻度です.\n\nこれは,依存欲求の減少速度と,満たされる依存欲求の量から計算されています.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->

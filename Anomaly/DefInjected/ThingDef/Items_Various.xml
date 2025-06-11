@@ -10,7 +10,7 @@
   <!-- EN: Analyze... -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>分析...</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>
   <!-- EN: While analyzing the fleshmass neural tissue, {PAWN_nameDef} made a breakthrough!\n\nThis biosignature responds strongly when stimulated by a specific electric pulse. If used on the fleshmass heart itself, an electric signal could cause a tachycardiac overload and kill the heart.\n\nYou can now destroy the {BIOSIGNATURE} fleshmass heart by interacting with it directly. -->
-  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>肉塊の神経線維の分析中に,{PAWN_nameDef}はひらめいた！\n\nこのバイオシグネチャーは,特定の電気パルスで刺激されると強く反応するのだと.もし肉塊の心臓そのものに使用すれば,電気シグナルが頻脈性心過負荷を引き起こして,心臓を殺すことができるでしょう.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトすることで,破壊できるようになりました.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>肉塊の神経線維の分析中に,{PAWN_nameDef}はひらめいた!\n\nこのバイオシグネチャーは,特定の電気パルスで刺激されると強く反応するのだと.もし肉塊の心臓そのものに使用すれば,電気シグナルが頻脈性心過負荷を引き起こして,心臓を殺すことができるでしょう.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトすることで,破壊できるようになりました.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>
   <!-- EN: Analysis complete -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
@@ -65,7 +65,7 @@
   <!-- EN: Analyze... -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>分析...</GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>
   <!-- EN: While analyzing the gray flesh sample, {PAWN_nameDef} finally isolated the biosignature {BIOSIGNATURE}!\n\nThe signature emerges from the fusing of human tissue and metallic bioferrite filaments which spider through the flesh and take control of the nervous system.\n\nYou can now use the surgical inspection operation to detect {BIOSIGNATURE} in living subjects. -->
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>灰色の肉体サンプルの分析の結果,{PAWN_nameDef}はついにバイオシグネチャー{BIOSIGNATURE}の分離に成功しました！\n\nシグネチャーは金属製のバイオフェライトフィラメントが人間の組織と融合することで生まれた存在です.この存在は体中に網を張り巡らし,神経系を乗っ取ります.\n\nこの分析によって,生きた人間の体内に潜む{BIOSIGNATURE}を,外科的調査手術で検知できるようになりました.</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>灰色の肉体サンプルの分析の結果,{PAWN_nameDef}はついにバイオシグネチャー{BIOSIGNATURE}の分離に成功しました!\n\nシグネチャーは金属製のバイオフェライトフィラメントが人間の組織と融合することで生まれた存在です.この存在は体中に網を張り巡らし,神経系を乗っ取ります.\n\nこの分析によって,生きた人間の体内に潜む{BIOSIGNATURE}を,外科的調査手術で検知できるようになりました.</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>
   <!-- EN: Analysis complete -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->

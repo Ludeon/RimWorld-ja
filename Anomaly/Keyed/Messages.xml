@@ -33,7 +33,7 @@
 
   <!-- Psychic rituals -->
   <!-- EN: {0_pawnsPluralDef} are attacking! -->
-  <MessagePsychicRitualAssault>{0_pawnsPluralDef}の攻撃！</MessagePsychicRitualAssault>
+  <MessagePsychicRitualAssault>{0_pawnsPluralDef}の攻撃!</MessagePsychicRitualAssault>
   <!-- EN: {FACTION_pawnsPluralDef} are beginning the psychic ritual -->
   <MessageAIPsychicRitualBegan>{FACTION_pawnsPluralDef}がサイキック儀式を始めました</MessageAIPsychicRitualBegan>
   
@@ -73,9 +73,9 @@
   
   <!-- Revenant -->
   <!-- EN: A hidden revenant has been revealed! -->
-  <MessageRevenantForcedVisibility>隠れたレヴナントが発見されました！</MessageRevenantForcedVisibility>
+  <MessageRevenantForcedVisibility>隠れたレヴナントが発見されました!</MessageRevenantForcedVisibility>
   <!-- EN: {PAWN_nameDef} can hear the revenant {1} nearby! -->
-  <MessageRevenantHeard>{PAWN_nameDef}は近くのレヴナント{1}の音を聞き取りました！</MessageRevenantHeard>
+  <MessageRevenantHeard>{PAWN_nameDef}は近くのレヴナント{1}の音を聞き取りました!</MessageRevenantHeard>
   
   <!-- Abilities -->
   <!-- EN: {ABILITY_label} cannot be used on non-bleeding creatures. -->

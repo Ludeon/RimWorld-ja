@@ -29,7 +29,7 @@
   <MedGroupGhoulsDesc>あなたのコロニーにいるグールです.</MedGroupGhoulsDesc>
 
   <!-- EN: Turning {PAWN_nameDef} into a ghoul is irreversible. {PAWN_pronoun} will be left in a half-conscious stupor and be incapable of work.\n\nAre you sure you want to turn {PAWN_nameDef} into a ghoul? -->
-  <GhoulConfirmation>{PAWN_nameDef}をグールに変えることは不可逆です.{PAWN_pronoun}は半意識不明の昏睡状態となり,作業が行えなくなります.\n\n本当に{PAWN_nameDef}をグールに変えてもいいですか？</GhoulConfirmation>
+  <GhoulConfirmation>{PAWN_nameDef}をグールに変えることは不可逆です.{PAWN_pronoun}は半意識不明の昏睡状態となり,作業が行えなくなります.\n\n本当に{PAWN_nameDef}をグールに変えてもいいですか?</GhoulConfirmation>
 
   <!-- EN: no anomaly buildings allowed -->
   <RoomRequirementNoAnomalyBuildings>アノマリーの建物が不許可</RoomRequirementNoAnomalyBuildings>

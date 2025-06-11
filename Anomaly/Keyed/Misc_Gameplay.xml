@@ -26,9 +26,9 @@
   <!-- EN: Revenant attack -->
   <LetterLabelRevenantRevealed>レヴナントの襲撃</LetterLabelRevenantRevealed>
   <!-- EN: A revenant has revealed itself! -->
-  <LetterRevenantRevealed>レヴナントが姿を現しました！</LetterRevenantRevealed>
+  <LetterRevenantRevealed>レヴナントが姿を現しました!</LetterRevenantRevealed>
   <!-- EN: A revenant has revealed itself and is hunting one of your colonists! -->
-  <LetterRevenantRevealedFirst>レヴナントが姿を現し,入植者の1人を襲っています！</LetterRevenantRevealedFirst> 
+  <LetterRevenantRevealedFirst>レヴナントが姿を現し,入植者の1人を襲っています!</LetterRevenantRevealedFirst> 
   <!-- EN: Revenant smear discovered -->
   <LetterLabelRevenantSmearDiscovered>レヴナントの汚れを発見</LetterLabelRevenantSmearDiscovered>
   <!-- EN: {0} has noticed a black slick on the ground. It looks unnatural and gives off a foul, acrid smell. It is still fresh and wet. An eldritch entity passed by recently. -->
@@ -36,7 +36,7 @@
   <!-- EN: Revenant killed -->
   <LetterLabelRevenantKilled>レヴナントの殺害</LetterLabelRevenantKilled>
   <!-- EN: The revenant is dead! Those who were hypnotized will recover.\n\nIts body has dissipated, leaving behind its spine. You can gather and study the spine, or destroy it. -->
-  <LetterRevenantKilled>レヴナントが死亡しました！催眠にかかった者は回復します.\n\nその体は消滅し,脊椎だけが残されました.脊椎を回収して研究することも,破壊することもできます.</LetterRevenantKilled>
+  <LetterRevenantKilled>レヴナントが死亡しました!催眠にかかった者は回復します.\n\nその体は消滅し,脊椎だけが残されました.脊椎を回収して研究することも,破壊することもできます.</LetterRevenantKilled>
   <!-- EN: {PAWN_nameDef} hypnotized -->
   <LetterLabelPawnHypnotized>{PAWN_nameDef}の催眠</LetterLabelPawnHypnotized>
   <!-- EN: {PAWN_nameDef} has been hypnotized by a revenant and is now rambling incoherently about nightmarish images and ideas.\n\nKilling the revenant will end the hypnosis.\n\nThe revenant uses psychic powers to twist the perceptions of those around it, making itself invisible. However, it can still be hunted by following the black smears that it leaves. The revenant will be revealed if hit by explosive weapons, firefoam, EMPs, fire, or disruptor flares.\n\nIf not killed, the revenant will continue to hypnotize new victims. -->
@@ -48,21 +48,21 @@
   <!-- EN: Revenant seen -->
   <LetterRevenantSeenLabel>レヴナントの発見</LetterRevenantSeenLabel>
   <!-- EN: {PAWN_nameDef} has seen a hiding revenant! -->
-  <LetterRevenantSeen>{PAWN_nameDef}が隠れているレヴナントを発見しました！</LetterRevenantSeen>
+  <LetterRevenantSeen>{PAWN_nameDef}が隠れているレヴナントを発見しました!</LetterRevenantSeen>
   <!-- EN: In trance. -->
   <InTrance>トランス状態です.</InTrance>
   <!-- EN: Revenant emergence -->
   <LetterLabelRevenantEmergence>レヴナントの出現</LetterLabelRevenantEmergence>
   <!-- EN: The revenant has reemerged from the safety of its spine! Destroy it before it escapes.\n\nIn the process, the revenant has mutated and adopted a new biosignature. -->
-  <LetterRevenantEmergence>レヴナントがその脊椎から再出現しました！逃げる前に倒しましょう.\n\nこのプロセスで,レヴナントは変異し,新たなバイオシグネチャーを獲得しました.</LetterRevenantEmergence>
+  <LetterRevenantEmergence>レヴナントがその脊椎から再出現しました!逃げる前に倒しましょう.\n\nこのプロセスで,レヴナントは変異し,新たなバイオシグネチャーを獲得しました.</LetterRevenantEmergence>
 
   <!-- Sightstealers -->
   <!-- EN: Sightstealer revealed -->
   <LetterLabelSightstealerRevealed>サイトスティーラーの発見</LetterLabelSightstealerRevealed>
   <!-- EN: A twisted creature has appeared out of thin air! -->
-  <LetterSightstealerRevealed>捻れた生物が忽然と姿を現しました！</LetterSightstealerRevealed>
+  <LetterSightstealerRevealed>捻れた生物が忽然と姿を現しました!</LetterSightstealerRevealed>
   <!-- EN: A sightstealer has appeared! -->
-  <MessageSightstealerRevealed>サイトスティーラーが出現しました！</MessageSightstealerRevealed>
+  <MessageSightstealerRevealed>サイトスティーラーが出現しました!</MessageSightstealerRevealed>
   <!-- EN: Sightstealer shrieks -->
   <LetterLabelSightstealerHowl>サイトスティーラーの金切り声</LetterLabelSightstealerHowl>
   <!-- EN: Your colonists hear sightstealers shrieking in the distance.\n\nIt's hard to tell where they are or how many. They might arrive immediately or days from now. -->
@@ -82,7 +82,7 @@
   <!-- EN: Pit gate closing -->
   <LetterLabelGateClosing>ピットゲートの閉鎖</LetterLabelGateClosing>
   <!-- EN: The pit gate is closing! Its entrance is about to crumble.\n\nThe pit gate entrance was unstable from the start and is finally sealing itself. -->
-  <LetterGateClosing>ピットゲートが閉じていきます！入口は今にも崩れそうです.\n\nピットゲートの入口は最初から不安定で,ついに自ら閉じようとしています.</LetterGateClosing>
+  <LetterGateClosing>ピットゲートが閉じていきます!入口は今にも崩れそうです.\n\nピットゲートの入口は最初から不安定で,ついに自ら閉じようとしています.</LetterGateClosing>
   <!-- EN: Must be placed adjacent to a pit gate. -->
   <MustPlaceNextToPitGate>ピットゲートの隣に配置する必要があります.</MustPlaceNextToPitGate>
   <!-- EN: Pit gate closed -->
@@ -98,13 +98,13 @@
 
     <!-- Undercave -->
   <!-- EN: Squirming sounds -->
-  <LetterLabelDreadmeldWarning>身悶えする音</LetterLabelDreadmeldWarning> 
+  <LetterLabelDreadmeldWarning>身悶えする音</LetterLabelDreadmeldWarning>
   <!-- EN: As {PAWN_nameDef} draws near the fleshmass here, {PAWN_pronoun} senses a heavy writhing and throbbing from under its warm surface. Some huge living entity is hidden behind the wall of flesh. -->
   <LetterDreadmeldWarning>{PAWN_nameDef}が肉塊に近づくと,その生暖かい表面の奥から,重くうごめくような鼓動を感じました.何か巨大な存在が,肉塊の壁の後ろに隠れているようです.</LetterDreadmeldWarning> 
   <!-- EN: Undercave unstable -->
   <LetterLabelUndercaveCollapsing>地底が不安定</LetterLabelUndercaveCollapsing> 
   <!-- EN: The dreadmeld's death has shocked the fleshmass and caused the cave system to destabilize. The fleshmass that supported the cavern is already beginning to deteriorate. Within half a day, the entire cavern will collapse.\n\nGet out of the undercave before it's too late! -->
-  <LetterUndercaveCollapsing>ドレッドメルドの死は肉塊に衝撃を与え,洞窟網を不安定にさせました.洞窟を支えていた肉塊はすでに劣化し始めています.半日以内に,洞窟全体が崩壊するでしょう.\n\n手遅れになる前に,地下洞窟を脱出しましょう！</LetterUndercaveCollapsing>
+  <LetterUndercaveCollapsing>ドレッドメルドの死は肉塊に衝撃を与え,洞窟網を不安定にさせました.洞窟を支えていた肉塊はすでに劣化し始めています.半日以内に,洞窟全体が崩壊するでしょう.\n\n手遅れになる前に,地下洞窟を脱出しましょう!</LetterUndercaveCollapsing>
 
   <!-- Holding platform -->
   <!-- EN: Holding -->
@@ -133,17 +133,17 @@
   <!-- EN: Obelisk activation -->
   <MutatorObeliskLetterLabel>オベリスクの起動</MutatorObeliskLetterLabel>
   <!-- EN: The obelisk is activating! It swells with grisly energy as the air crackles around it. It is about to self-destruct in a great explosion, but before it does, it will use its hideous transformative power on any creature it can detect. -->
-  <MutatorObeliskLetter>オベリスクが起動しています！オベリスクの周囲で空気がパチパチと音を立て,恐ろしいエネルギーが膨れ上がっています.オベリスクは大爆発を起こして自壊しようとしていますが,自壊の前に,オベリスクが検知したすべての生物に変異の力を使用します.</MutatorObeliskLetter>
+  <MutatorObeliskLetter>オベリスクが起動しています!オベリスクの周囲で空気がパチパチと音を立て,恐ろしいエネルギーが膨れ上がっています.オベリスクは大爆発を起こして自壊しようとしていますが,自壊の前に,オベリスクが検知したすべての生物に変異の力を使用します.</MutatorObeliskLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskTentacleLetterLabel>オベリスクの変異</ObeliskTentacleLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open as a fleshy growth erupted from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a squirming tentacle!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed. -->
-  <ObeliskTentacleLetter>{PAWN_nameDef}はオベリスクに干渉する最中,腕に違和感を覚えました.そして数分後,{PAWN_possessive}皮膚が裂け,身体から膿が吹き出しました.{PAWN_possessive}腕はうごめく触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.</ObeliskTentacleLetter>
+  <ObeliskTentacleLetter>{PAWN_nameDef}はオベリスクに干渉する最中,腕に違和感を覚えました.そして数分後,{PAWN_possessive}皮膚が裂け,身体から膿が吹き出しました.{PAWN_possessive}腕はうごめく触手に置き換えられてしまいました!\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.</ObeliskTentacleLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshWhipLetterLabel>オベリスクの変異</ObeliskFleshWhipLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open violently as a growth burst from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a tentacle tipped with a bony blade!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed by this disturbing event. The tentacle is hideous, but it will make an excellent melee weapon. -->
-  <ObeliskFleshWhipLetter>{PAWN_nameDef}はオベリスクに干渉する最中,腕に違和感を覚えました.そして数分後,{PAWN_possessive}皮膚が暴力的に裂け,身体から膿が激しく吹き出しました.{PAWN_possessive}腕は先端に骨の刃のついた触手に置き換えられてしまいました！\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.触手は恐ろしい見た目ですが,優れた近接武器になるでしょう.</ObeliskFleshWhipLetter>
+  <ObeliskFleshWhipLetter>{PAWN_nameDef}はオベリスクに干渉する最中,腕に違和感を覚えました.そして数分後,{PAWN_possessive}皮膚が暴力的に裂け,身体から膿が激しく吹き出しました.{PAWN_possessive}腕は先端に骨の刃のついた触手に置き換えられてしまいました!\n\n{PAWN_nameDef}はいくらか血を失いましたが,それ以外は無傷のようです.触手は恐ろしい見た目ですが,優れた近接武器になるでしょう.</ObeliskFleshWhipLetter>
 
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedArmLetterLabel>オベリスクへの干渉</MutatorObeliskFailedArmLetterLabel>
@@ -183,7 +183,7 @@
   <!-- EN: Obelisk duplicate -->
   <ObeliskDuplicationLetterLabel>オベリスクの複製</ObeliskDuplicationLetterLabel>
   <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self! The duplicate claims to be the real {PAWN_nameDef} and has joined your colony. -->
-  <ObeliskDuplicationLetter>{PAWN_nameDef}がオベリスクに干渉していると,オベリスクがエネルギーのパルスと閃光を放ちました.{PAWN_nameDef}は,眼の前に自分自身の複製がいることに気が付きました！複製は自分が本物の{PAWN_nameDef}であり,あなたのコロニーに加わると言っています.</ObeliskDuplicationLetter>
+  <ObeliskDuplicationLetter>{PAWN_nameDef}がオベリスクに干渉していると,オベリスクがエネルギーのパルスと閃光を放ちました.{PAWN_nameDef}は,眼の前に自分自身の複製がいることに気が付きました!複製は自分が本物の{PAWN_nameDef}であり,あなたのコロニーに加わると言っています.</ObeliskDuplicationLetter>
 
   <!-- EN: Obelisk failure -->
   <ObeliskDuplicationFailedLetterLabel>オベリスクの失敗</ObeliskDuplicationFailedLetterLabel>
@@ -196,12 +196,12 @@
   <!-- EN: Hostile obelisk duplicate -->
   <ObeliskHostileDuplicateLetterLabel>オベリスクの複製の敵対</ObeliskHostileDuplicateLetterLabel>
   <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self. The duplicate is approaching {PAWN_nameDef} with murderous intent! -->
-  <ObeliskHostileDuplicateLetter>{PAWN_nameDef}がオベリスクに干渉していると,オベリスクがエネルギーのパルスと閃光を放ちました.{PAWN_nameDef}は,眼の前に自分自身の複製がいることに気が付きました！複製は暴力的な意図を持って,{PAWN_nameDef}に近づいています！</ObeliskHostileDuplicateLetter>
+  <ObeliskHostileDuplicateLetter>{PAWN_nameDef}がオベリスクに干渉していると,オベリスクがエネルギーのパルスと閃光を放ちました.{PAWN_nameDef}は,眼の前に自分自身の複製がいることに気が付きました!複製は暴力的な意図を持って,{PAWN_nameDef}に近づいています!</ObeliskHostileDuplicateLetter>
 
   <!-- EN: Obelisk activation -->
   <DuplicatorObeliskLetterLabel>オベリスクの起動</DuplicatorObeliskLetterLabel>
   <!-- EN: The obelisk is activating! The air around it crackles with energy. Duplicates of your colonists will soon appear with murderous intent.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
-  <DuplicatorObeliskLetter>オベリスクが起動しています！オベリスクの周囲の空気が,エネルギーで弾けるような音を立てています.入植者の複製が,間もなく殺意とともに現れるでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意してください.</DuplicatorObeliskLetter>
+  <DuplicatorObeliskLetter>オベリスクが起動しています!オベリスクの周囲の空気が,エネルギーで弾けるような音を立てています.入植者の複製が,間もなく殺意とともに現れるでしょう.\n\nオベリスクには不安定なエネルギーが流れており,いつでも爆発する可能性があることに注意してください.</DuplicatorObeliskLetter>
 
   <!-- EN: Colonists disappearing -->
   <ObeliskAbductorLetterLabel>入植者の消失</ObeliskAbductorLetterLabel>
@@ -329,9 +329,9 @@
   <!-- EN: Metalhorror emerging -->
   <MetalhorrorEmergingLabel>メタルホラーの出現</MetalhorrorEmergingLabel>
   <!-- EN: A metalhorror is emerging! Slicing through flesh and skin, this nightmarish bladed creature is cutting its way out of its host. The metalhorror is emerging from: -->
-  <MetalhorrorEmergingDesc>メタルホラーが出現します！肉と肌を切り裂き,悪夢のような刃を持った生物が,宿主の中から姿を現します.メタルホラーの出現元は以下の通りです:</MetalhorrorEmergingDesc>
+  <MetalhorrorEmergingDesc>メタルホラーが出現します!肉と肌を切り裂き,悪夢のような刃を持った生物が,宿主の中から姿を現します.メタルホラーの出現元は以下の通りです:</MetalhorrorEmergingDesc>
   <!-- EN: Metalhorrors are emerging! Slicing through flesh and skin, these nightmarish bladed creatures are cutting their way out of their hosts. Metalhorrors are emerging from: -->
-  <MetalhorrorEmergingPluralDesc>複数のメタルホラーが出現します！肉と肌を切り裂き,悪夢のような刃を持った生物たちが,宿主の中から姿を現します.メタルホラーの出現元は以下の通りです:</MetalhorrorEmergingPluralDesc>
+  <MetalhorrorEmergingPluralDesc>複数のメタルホラーが出現します!肉と肌を切り裂き,悪夢のような刃を持った生物たちが,宿主の中から姿を現します.メタルホラーの出現元は以下の通りです:</MetalhorrorEmergingPluralDesc>
   <!-- EN: These horrifying metallic parasites live inside the victim, taking control of higher reasoning via a network of hair-thin metallic filaments that they spread throughout the body and brain. They control the victim's mind and compel them to infect others with new metalhorrors. -->
   <MetalhorrorEmergingDescAppended>メタルホラーは犠牲者の体内に寄生する恐るべき金属質の寄生体です.毛髪のように細い金属フィラメントのネットワークを肉体と脳に広げることによって宿主の理性を支配します.犠牲者の精神を支配し,新たなメタルホラーを他者へと感染させます.</MetalhorrorEmergingDescAppended>
   
@@ -379,7 +379,7 @@
   <!-- EN: Metalhorrors awakening -->
   <LetterMetalhorrorReawakeningLabel>メタルホラーの覚醒</LetterMetalhorrorReawakeningLabel>
   <!-- EN: The metalhorrors have been disturbed and are awakening again! -->
-  <LetterMetalhorrorReawakening>メタルホラーが再び目覚めます！</LetterMetalhorrorReawakening>
+  <LetterMetalhorrorReawakening>メタルホラーが再び目覚めます!</LetterMetalhorrorReawakening>
 
   <!-- EN: The metalhorrors are beginning to hibernate. They will awaken again if disturbed. -->
   <MessageMetalHorrorDormant>メタルホラーは休眠状態に入りつつあります.妨害されれば再度目覚めるでしょう.</MessageMetalHorrorDormant>
@@ -445,7 +445,7 @@
   <!-- EN: {CASTER_nameDef} has finished {CASTER_possessive} psychic healing on {PAWN_nameDef}. -->
   <LetterUnnaturalHealing>{CASTER_nameDef}は{PAWN_nameDef}へのサイキック治療を終えました.</LetterUnnaturalHealing>
   <!-- EN: However, something went terribly wrong.\n\n{PAWN_nameDef}'s arm split open as a violent growth emerged from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a fleshy tentacle! -->
-  <LetterUnnaturalHealingTentacle>しかし,何かが恐ろしく間違っていたようです.\n\n{PAWN_nameDef}の腕が激しく裂け,暴力的な何かが生え始めます.{PAWN_possessive}腕は,肉質の触手に置き換えられてしまいました！</LetterUnnaturalHealingTentacle>
+  <LetterUnnaturalHealingTentacle>しかし,何かが恐ろしく間違っていたようです.\n\n{PAWN_nameDef}の腕が激しく裂け,暴力的な何かが生え始めます.{PAWN_possessive}腕は,肉質の触手に置き換えられてしまいました!</LetterUnnaturalHealingTentacle>
   
   <!-- Transmutation ability -->
   <!-- EN: {PAWN_nameDef} has transmuted {ORIGINAL} into {TRANSMUTED}. -->
@@ -469,7 +469,7 @@
   <!-- EN: Collecting biomass for next growth spurt... -->
   <FleshmassHeartCollecting>次の成長のためにバイオマスを集めています...</FleshmassHeartCollecting>
   <!-- EN: The fleshmass heart is convulsing! -->
-  <MessageHeartAttack>肉塊の心臓がけいれんしています！</MessageHeartAttack>
+  <MessageHeartAttack>肉塊の心臓がけいれんしています!</MessageHeartAttack>
   <!-- EN: Fleshmass heart defeated -->
   <LetterLabelFleshmassHeartDestroyed>肉塊の心臓の撃破</LetterLabelFleshmassHeartDestroyed>
   <!-- EN: The fleshmass heart has been destroyed, leaving behind a broken but still functional core - a twisted amalgam of flesh and archotechnology. The nucleus continues to grow and mutate flesh, even while the surrounding fleshmass decays.\n\nYou can capture the nucleus to study it further or destroy it to end this nightmare. If left alone, it may reform into a new fleshmass heart. -->
@@ -481,7 +481,7 @@
   <!-- EN: Must collect and analyze fleshmass neural lumps. Lumps analyzed -->
   <DestroyHeartDisabled>肉塊の神経塊を集めて分析する必要があります.分析した神経塊：</DestroyHeartDisabled>
   <!-- EN: A fleshmass spitter is attacking! -->
-  <SpitterAttacking>肉塊のスピッターが攻撃しています！</SpitterAttacking>
+  <SpitterAttacking>肉塊のスピッターが攻撃しています!</SpitterAttacking>
   <!-- EN: Gathering acid. Ready in -->
   <SpitterGatheringSpit>酸を収集中.完了まで残り</SpitterGatheringSpit>
   <!-- EN: Ready to spit acid. -->
@@ -494,7 +494,7 @@
   <!-- EN: Flesh tentacle attack -->
   <LetterLabelFleshTentacleAttack>肉の触手の攻撃</LetterLabelFleshTentacleAttack>
   <!-- EN: {PAWN_nameDef}'s operation was successful. However, the twisting mass of flesh that was {PAWN_possessive} tentacle has begun to attack! -->
-  <LetterFleshTentacleAttack>{PAWN_nameDef}の手術は成功しました..ですが,{PAWN_possessive}触手だったねじれた肉塊が攻撃を始めました！</LetterFleshTentacleAttack>
+  <LetterFleshTentacleAttack>{PAWN_nameDef}の手術は成功しました..ですが,{PAWN_possessive}触手だったねじれた肉塊が攻撃を始めました!</LetterFleshTentacleAttack>
   <!-- EN: Biosignature -->
   <Biosignature>バイオシグネチャー</Biosignature>
   <!-- EN: Bliss lobotomy -->
@@ -511,9 +511,9 @@
   
   <!-- Blood rain -->
   <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
-  <Berserk_BloodRain>血の雨が{0_nameIndef}を凶暴化させました！</Berserk_BloodRain>
+  <Berserk_BloodRain>血の雨が{0_nameIndef}を凶暴化させました!</Berserk_BloodRain>
   <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
-  <Manhunter_BloodRain>血の雨が{0_nameIndef}を殺人へと駆り立てました！</Manhunter_BloodRain>
+  <Manhunter_BloodRain>血の雨が{0_nameIndef}を殺人へと駆り立てました!</Manhunter_BloodRain>
   <!-- EN: This happened because of blood rage buildup. -->
   <MentalBreakReason_BloodRage>これは血の怒りの蓄積によって発生しました.</MentalBreakReason_BloodRage>
   
@@ -537,11 +537,11 @@
   <!-- EN: The unnatural corpse has caused {PAWN_nameDef} to faint. -->
   <MessagePawnFainted>不自然な死体により{PAWN_nameDef}は気を失いました.</MessagePawnFainted>
   <!-- EN: The unnatural corpse has appeared near {PAWN_nameDef} and is approaching! -->
-  <MessageAwokenReappeared>不自然な死体が{PAWN_nameDef}の近くに出現し,近づいています！</MessageAwokenReappeared>
+  <MessageAwokenReappeared>不自然な死体が{PAWN_nameDef}の近くに出現し,近づいています!</MessageAwokenReappeared>
   <!-- EN: The unnatural corpse has vanished. It will come for {PAWN_nameDef} later. -->
   <MessageAwokenVanished>不自然な死体が消滅しました.後で{PAWN_nameDef}のもとへやってくるでしょう.</MessageAwokenVanished>
   <!-- EN: The awoken corpse is attacking {PAWN_nameDef}! -->
-  <MessageAwokenAttacking>目覚めした死体が{PAWN_nameDef}を攻撃しています！</MessageAwokenAttacking>
+  <MessageAwokenAttacking>目覚めした死体が{PAWN_nameDef}を攻撃しています!</MessageAwokenAttacking>
   <!-- EN: The awoken corpse has destroyed {PAWN_nameDef}'s brain. -->
   <MessageAwokenKilledVictim>目覚めした死体が{PAWN_nameDef}の脳を破壊しました.</MessageAwokenKilledVictim>
   <!-- EN: The awoken corpse has disappeared. -->
@@ -592,12 +592,12 @@
   <!-- EN: Corpse awakened -->
   <UnnaturalCorpseAwokenLetter>目覚めた死体</UnnaturalCorpseAwokenLetter>
   <!-- EN: The unnatural corpse is rising! It intends to attack {PAWN_nameDef}!\n\nThe corpse will follow {PAWN_nameDef} forever no matter how far {PAWN_pronoun} goes.\n\nYou must destroy it now. -->
-  <UnnaturalCorpseAwokenLetterDesc>不自然な死体が目覚め,{PAWN_nameDef}に向かって移動しています！\n\n死体は{PAWN_nameDef}がどれほど遠くまではなれようとも,永遠についていきます.\n\n今すぐ破壊せねばなりません.</UnnaturalCorpseAwokenLetterDesc>
+  <UnnaturalCorpseAwokenLetterDesc>不自然な死体が目覚め,{PAWN_nameDef}に向かって移動しています!\n\n死体は{PAWN_nameDef}がどれほど遠くまではなれようとも,永遠についていきます.\n\n今すぐ破壊せねばなりません.</UnnaturalCorpseAwokenLetterDesc>
 
   <!-- EN: Unnatural corpse destroyed! -->
-  <UnnaturalCorpseAwokenDefeatedLetter>不自然な死体が破壊されました！</UnnaturalCorpseAwokenDefeatedLetter>
+  <UnnaturalCorpseAwokenDefeatedLetter>不自然な死体が破壊されました!</UnnaturalCorpseAwokenDefeatedLetter>
   <!-- EN: The unnatural corpse charging towards {PAWN_nameDef} has been defeated!\n\nThe corpse will no longer torment {PAWN_nameDef}. -->
-  <UnnaturalCorpseAwokenDefeatedLetterDesc>{PAWN_nameDef}に向かっていた不自然な死体が撃破されました！\n\n死体はもはや{PAWN_nameDef}を苦しめることはありません.</UnnaturalCorpseAwokenDefeatedLetterDesc>
+  <UnnaturalCorpseAwokenDefeatedLetterDesc>{PAWN_nameDef}に向かっていた不自然な死体が撃破されました!\n\n死体はもはや{PAWN_nameDef}を苦しめることはありません.</UnnaturalCorpseAwokenDefeatedLetterDesc>
 
   <!-- Golden Cube -->
   <!-- EN: {PAWN_labelShort}'s obsession with the golden cube has intensified. -->
@@ -765,7 +765,7 @@
 
   <!-- Void Awakening -->
   <!-- EN: Awakening the void monolith will engulf your colony in darkness for days and attract powerful entities. Make sure you are well prepared:\n\n- Stockpile food, building material, and weapons.\n- Make sure your colony is well lit, and has ample power. Avoid relying on solar generators.\n- Ensure your colony is well defended, and your colonists are ready to fight.\n\nOnce you awaken the void monolith, there is no going back.\n\nAre you sure you want to continue? -->
-  <VoidAwakeningConfirmationText>モノリスを起動させると,コロニーは数日間闇に包まれ,強力な「存在」を引き寄せることになります.しっかりと準備をしましょう：\n\n-食事,建築素材,武器を備蓄しましょう.\n-コロニーに照明をしっかり作り,十分な電力が供給されてるようにしましょう.ただし,太陽光発電に頼らないように.\n-コロニーの防備をしっかりと行い,入植者に戦う準備をさせましょう.\n\nヴォイドモノリスを目覚めさせると,後戻りはできません.\n\n本当に続けてもよろしいですか？</VoidAwakeningConfirmationText>
+  <VoidAwakeningConfirmationText>モノリスを起動させると,コロニーは数日間闇に包まれ,強力な「存在」を引き寄せることになります.しっかりと準備をしましょう：\n\n-食事,建築素材,武器を備蓄しましょう.\n-コロニーに照明をしっかり作り,十分な電力が供給されてるようにしましょう.ただし,太陽光発電に頼らないように.\n-コロニーの防備をしっかりと行い,入植者に戦う準備をさせましょう.\n\nヴォイドモノリスを目覚めさせると,後戻りはできません.\n\n本当に続けてもよろしいですか?</VoidAwakeningConfirmationText>
   <!-- EN: A sphere of writhing psychic energy rises before {PAWN_nameDef}.\n\n{PAWN_nameDef} feels a presence inside {PAWN_possessive} mind, deeper than any normal human sense. {PAWN_pronoun} stands on the shoreline of an infinite black ocean of power. It beckons {PAWN_objective} in...\n\nNearby archotech devices support the sphere along fragile connections. {PAWN_nameDef} could disrupt them, closing this link between worlds.\n\nOr, {PAWN_pronoun} could step into the sphere and merge with the void. It's unknown what dark power could be gained from such an inhuman act. -->
   <VoidNodeLetter>{PAWN_nameDef}の目の前に捻じれたサイキックエネルギーの球体が出現しました.\n\n{PAWN_nameDef}は自身の心の中に,普通の人間の意識以上に深い存在を感じます.{PAWN_pronoun}は今,無限の力に満ちた黒き海の浜辺に立っています.そしてそれが,{PAWN_objective}招き入れます...\n\n近くのアルコテック装置が,脆弱なつながりとともに球体を支えているようです.{PAWN_nameDef}にそれらを破壊させ,世界とのリンクを閉じることができます.\n\nあるいは,{PAWN_pronoun}に球体の中へと足を踏み入れさせ,ヴォイドと一体化させることもできます.しかし,このような人道に背く行為によってどのような闇の力が得られるのかはわかりません.</VoidNodeLetter>
   <!-- EN: Disrupt the link -->
@@ -847,7 +847,7 @@
   <!-- EN: Chimeras attacking -->
   <LetterChimerasAttackingLabel>キメラの攻撃</LetterChimerasAttackingLabel>
   <!-- EN: The chimeras have begun their attack! -->
-  <LetterChimerasAttacking>キメラが攻撃を開始しました！</LetterChimerasAttacking>
+  <LetterChimerasAttacking>キメラが攻撃を開始しました!</LetterChimerasAttacking>
   
   <!-- Anomaly event frequency -->
   <!-- EN: No major threats -->

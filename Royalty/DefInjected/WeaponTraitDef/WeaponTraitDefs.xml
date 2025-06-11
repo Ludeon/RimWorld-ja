@@ -4,7 +4,7 @@
   <!-- EN: hunger pangs -->
   <HungerMaker.label>飢えの苦痛</HungerMaker.label>
   <!-- EN: This weapon's persona loves food, and transmits that onto whoever bonds with it. The bonded person's hunger rate will be 50% higher. -->
-  <HungerMaker.description>この武器に宿るペルソナは食べ物を愛し,絆を結んだ人物にもそれを伝えます.絆を結んだ人物の空腹率が50％高くなります.</HungerMaker.description>
+  <HungerMaker.description>この武器に宿るペルソナは食べ物を愛し,絆を結んだ人物にもそれを伝えます.絆を結んだ人物の空腹率が50%高くなります.</HungerMaker.description>
   
   <!-- EN: jealous -->
   <Jealous.label>嫉妬深い</Jealous.label>
@@ -34,7 +34,7 @@
   <!-- EN: kill-focused -->
   <OnKill_PsyfocusGain.label>キルフォーカス</OnKill_PsyfocusGain.label>
   <!-- EN: This weapon's persona focuses on deaths. If the weapon kills someone, the wielder will instantly gain 20% psyfocus. -->
-  <OnKill_PsyfocusGain.description>この武器に宿るペルソナは,死にフォーカスを合わせています.武器が誰かを殺した場合,使用者は即座に20％のサイフォーカスを獲得します.</OnKill_PsyfocusGain.description>
+  <OnKill_PsyfocusGain.description>この武器に宿るペルソナは,死にフォーカスを合わせています.武器が誰かを殺した場合,使用者は即座に20%のサイフォーカスを獲得します.</OnKill_PsyfocusGain.description>
   
   <!-- EN: kill sorrow -->
   <OnKill_ThoughtBad.label>死への悲嘆</OnKill_ThoughtBad.label>
@@ -49,32 +49,32 @@
   <!-- EN: psychic fog -->
   <PsychicSensitivityDownMajor.label>精神濃霧</PsychicSensitivityDownMajor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 30%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMajor.description>この武器は,所有者の精神的感受性を30％抑えます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityDownMajor.description>
+  <PsychicSensitivityDownMajor.description>この武器は,所有者の精神感応性を30%抑えます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityDownMajor.description>
   
   <!-- EN: psychic quiet -->
   <PsychicSensitivityDownMinor.label>精神安定</PsychicSensitivityDownMinor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 15%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMinor.description>この武器は,所有者の精神的感受性を15％抑えます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityDownMinor.description>この武器は,所有者の精神感応性を15%抑えます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityDownMinor.description>
   
   <!-- EN: psychic hypersensitizer -->
   <PsychicSensitivityUpMajor.label>精神超増強</PsychicSensitivityUpMajor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 40%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMajor.description>この武器は,所有者の精神的感受性を40％増幅させます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMajor.description>この武器は,所有者の精神感応性を40%増幅させます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityUpMajor.description>
   
   <!-- EN: psychic sensitizer -->
   <PsychicSensitivityUpMinor.label>精神増強</PsychicSensitivityUpMinor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 20%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMinor.description>この武器は,所有者の精神的感受性を20％増幅させます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityUpMinor.description>
+  <PsychicSensitivityUpMinor.description>この武器は,所有者の精神感応性を20%増幅させます.これは武器が装備されている間のみ適用されます.</PsychicSensitivityUpMinor.description>
   
   <!-- EN: psy-meditative -->
   <PsyfocusMeditationBonus.label>精神瞑想</PsyfocusMeditationBonus.label>
   <!-- EN: This weapon's persona is naturally meditative and helps its wielder focus in psychic meditation. The wielder gains an extra 10% psyfocus per day of meditation, as long as the weapon is held. -->
-  <PsyfocusMeditationBonus.description>この武器に宿るペルソナは常に瞑想的であり,持ち主が精神的な瞑想に集中するを助けます.武器を装備している限り,持ち主は瞑想によって1日あたり10％のサイフォーカスを獲得できます.</PsyfocusMeditationBonus.description>
+  <PsyfocusMeditationBonus.description>この武器に宿るペルソナは常に瞑想的であり,持ち主が精神的な瞑想に集中するを助けます.武器を装備している限り,持ち主は瞑想によって1日あたり10%のサイフォーカスを獲得できます.</PsyfocusMeditationBonus.description>
   
   <!-- EN: fast mover -->
   <SpeedBoost.label>快走者</SpeedBoost.label>
   <!-- EN: This weapon's persona has a sense of motion. It confers this onto the wielder, making them move 15% faster as long as the weapon is held. -->
-  <SpeedBoost.description>この武器に宿るペルソナには,運動の感覚があります.これを持ち主に与えることで,武器を装備している限り15％速く移動できるようになります.</SpeedBoost.description>
+  <SpeedBoost.description>この武器に宿るペルソナには,運動の感覚があります.これを持ち主に与えることで,武器を装備している限り15%速く移動できるようになります.</SpeedBoost.description>
   
   <!-- EN: calm thoughts -->
   <ThoughtCalm.label>落ち着いた意見</ThoughtCalm.label>

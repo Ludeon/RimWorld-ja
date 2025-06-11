@@ -4,12 +4,12 @@
   <!-- EN: basic assault -->
   <Assault.label>基本攻勢</Assault.label>
   <!-- EN: {PAWN_nameDef} has become hostile! -->
-  <Assault.message>{PAWN_nameDef}と敵対した！</Assault.message>
+  <Assault.message>{PAWN_nameDef}と敵対した!</Assault.message>
   
   <!-- EN: fleshbeast emergence -->
   <FleshbeastEmergence.label>フレッシュビーストの出現</FleshbeastEmergence.label>
   <!-- EN: {PAWN_nameDef} has transformed into a hideous fleshbeast! -->
-  <FleshbeastEmergence.letterDesc>{PAWN_nameDef}が恐ろしいフレッシュビーストに変異した！</FleshbeastEmergence.letterDesc>
+  <FleshbeastEmergence.letterDesc>{PAWN_nameDef}が恐ろしいフレッシュビーストに変異した!</FleshbeastEmergence.letterDesc>
   <!-- EN: {PAWN_nameDef} transformed -->
   <FleshbeastEmergence.letterLabel>{PAWN_nameDef}が変異した</FleshbeastEmergence.letterLabel>
   
