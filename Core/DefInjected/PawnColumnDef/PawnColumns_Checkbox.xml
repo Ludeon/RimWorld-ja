@@ -7,8 +7,8 @@
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
   <FollowFieldwork.headerTip>主人がフィールドワークしている間も追従します(狩猟,手懐け).</FollowFieldwork.headerTip>
   
-  <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>ハンターを狩る獲物に印をつけます.</Hunt.headerTip>
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <Hunt.headerTip>狩猟対象の野生動物に印を付けます.\n\n適切な遠距離武器を持つハンターのみが狩猟を行います.</Hunt.headerTip>
   
   <!-- EN: Release to wild -->
   <ReleaseAnimalToWild.headerTip>野生に返す</ReleaseAnimalToWild.headerTip>

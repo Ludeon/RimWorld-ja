@@ -102,19 +102,56 @@
   <AreYouSure>本当によろしいですか?</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <ChangingOwnerTypeBedWarning>ベッドの使用用途を変更すると,全てのベッドが影響を受けます(囚人,奴隷,入植者は同じ部屋で寝れません).\n\n以下の人物はベッドの所有権を失います.</ChangingOwnerTypeBedWarning>
-
-
+  
   <!-- EN: Detonate -->
   <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
   <!-- EN: Start the countdown to detonation. -->
-  <CommandDetonateDesc>起爆 カウントダウンを 開始します.</CommandDetonateDesc>
-
+  <CommandDetonateDesc>起爆カウントダウンを開始します.</CommandDetonateDesc>
+  
   <!-- EN: Hide -->
-  <CommandHideZoneLabel>非表示</CommandHideZoneLabel>
+  <CommandHideLabel>非表示</CommandHideLabel>
   <!-- EN: Unhide -->
-  <CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
-  <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>ゾーンの 非表示 / 再表示.</CommandHideZoneDesc>
+  <CommandUnhideLabel>表示</CommandUnhideLabel>
+  
+  <!-- EN: Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones. -->
+  <CommandHidePlanDesc>この予定地の表示を切り替えます.\n\n右クリックですべてのゾーンの表示,非表示を切り替えられます.</CommandHidePlanDesc>
+  <!-- EN: Hide/unhide this zone.\n\nRight-click to hide or unhide all zones. -->
+  <CommandHideZoneDesc>このゾーンを表示/非表示します.\n\n右クリックですべてのゾーンの表示,非表示を切り替えられます.</CommandHideZoneDesc>
+  
+  <!-- EN: Show all zones -->
+  <ShowAllZones>すべてのゾーンを表示する</ShowAllZones>
+  <!-- EN: Hide all zones -->
+  <HideAllZones>すべてのゾーンを非表示にする</HideAllZones>
+  <!-- EN: Show all {0} zones -->
+  <ShowAllZoneTypes>すべての{0}ゾーンを表示する</ShowAllZoneTypes>
+  <!-- EN: Hide all {0} zones -->
+  <HideAllZoneTypes>すべての{0}ゾーンを非表示にする</HideAllZoneTypes>
+  <!-- EN: planning -->
+  <Planning>予定地</Planning>
+  
+  <!-- EN: Change color -->
+  <CommandChangeColorPlanLabel>色変更</CommandChangeColorPlanLabel>
+  <!-- EN: Change the color of this plan. -->
+  <CommandChangeColorPlanDesc>予定地の色を変更します.</CommandChangeColorPlanDesc>
+  
+  <!-- EN: Delete -->
+  <CommandDeletePlanLabel>予定地削除</CommandDeletePlanLabel>
+  <!-- EN: Delete this plan. -->
+  <CommandDeletePlanDesc>予定地を削除します.</CommandDeletePlanDesc>
+  
+  <!-- EN: Copy -->
+  <CommandCopyPlanLabel>コピー</CommandCopyPlanLabel>
+  <!-- EN: Copy this plan. -->
+  <CommandCopyPlanDesc>この予定地をコピーします.</CommandCopyPlanDesc>
+  
+  <!-- EN: Copy selection... -->
+  <CommandCopyPlanSelectionLabel>範囲コピー...</CommandCopyPlanSelectionLabel>
+  <!-- EN: Copy all plans within a selected area. -->
+  <CommandCopyPlanSelectionDesc>選択したエリア内のすべての予定地をコピーします.</CommandCopyPlanSelectionDesc>
+  <!-- EN: Select area to copy -->
+  <CommandCopyPlanSelectionMouse>コピーするエリアを選択</CommandCopyPlanSelectionMouse> <!-- text_todo -->
+  <!-- EN: Paste selected area -->
+  <CommandCopyPlanSelectionPasteMouse>選択したエリアを貼り付け</CommandCopyPlanSelectionPasteMouse> <!-- text_todo -->
 
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>ゾーン削除</CommandDeleteZoneLabel>
@@ -357,6 +394,16 @@
   <CommandSettleFailNoColonists>この入植地を主張する人が誰もいません.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>ここには敵がいます.</CommandSettleFailEnemies>
+  <!-- EN: Cannot settle here. -->
+  <CommandSettleFailGeneric>この地には定住できません.</CommandSettleFailGeneric>
+
+  <!-- Camp -->
+  <!-- EN: Camp -->
+  <CommandCamp>キャンプ</CommandCamp>
+  <!-- EN: Set up a temporary camp that can quickly be abandoned. -->
+  <CommandCampDesc>すぐに放棄できる仮設キャンプを設置します.</CommandCampDesc>
+  <!-- EN: Cannot camp here. -->
+  <CommandCampFailExistingWorldObject>この地ではキャンプができません.</CommandCampFailExistingWorldObject>
   
   <!-- Abandon home -->
   <!-- EN: Abandon -->
@@ -383,6 +430,20 @@
   <CommandAddToCaravan>キャラバン隊に入れる</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
   <CommandAddToCaravanDesc>この人・動物をキャラバン隊に入れます.</CommandAddToCaravanDesc>
+  
+  <!-- Force caravan depart -->
+  <!-- EN: Force caravan departure -->
+  <CommandForceCaravanDepart>キャラバン隊を即時出発</CommandForceCaravanDepart>
+  <!-- EN: Force the caravan to depart immediately with only the currently-loaded items. Anyone unable to travel will be left behind. -->
+  <CommandForceCaravanDepartDesc>現在荷積みされている物のみで,いますぐキャラバン隊を出発させます.移動できない生物は取り残されます.</CommandForceCaravanDepartDesc>
+  <!-- EN: Are you sure you want to depart? -->
+  <ConfirmForceDepartIntro>本当に出発させますか?</ConfirmForceDepartIntro>
+  <!-- EN: The following items are still being loaded and will be left behind: -->
+  <ConfirmForceDepartItemsStillLoading>以下の物品はまだ荷積みされていないため,取り残されます:</ConfirmForceDepartItemsStillLoading>
+  <!-- EN: The following people won't be a part of the caravan: -->
+  <ConfirmForceDepartPawnsNotLeaving>以下の人物はキャラバンに加われません:</ConfirmForceDepartPawnsNotLeaving>
+  <!-- EN: The following items are loaded onto creatures who won't be a part of the caravan and will be left behind: -->
+  <ConfirmForceDepartItemsOnPawnsNotLeaving>以下の物品はキャラバンに加われない生物に荷積みされているため,取り残されます:</ConfirmForceDepartItemsOnPawnsNotLeaving>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
@@ -433,27 +494,41 @@
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
   <CommandToggleAllowAutoRefuel>自動給油 切替</CommandToggleAllowAutoRefuel>
-  <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>自動給油を行うかどうかを設定します.</CommandToggleAllowAutoRefuelDesc>
-  
+  <!-- EN: This determines whether colonists will automatically refuel this. If enabled, colonists will fill this up to {0}.\n\nAutomatic refueling is currently {ONOFF}. -->
+  <CommandToggleAllowAutoRefuelDesc>入植者が自動で燃料を補給するかどうかを設定します.有効にすると,入植者は{0}まで燃料を補給します.\n\n自動給油は現在{ONOFF}になっています.</CommandToggleAllowAutoRefuelDesc>
+  <!-- EN: This determines whether colonists will automatically refuel these buildings.\n\nAutomatic refueling is currently {ONOFF}. -->
+  <CommandToggleAllowAutoRefuelDescMult>入植者がこれらの建築物に自動で燃料を補給するかどうかを設定します.\n\n自動給油は現在{ONOFF}になっています.</CommandToggleAllowAutoRefuelDescMult>
+
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>荷積みを中止</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>荷積みを中止して,既に積んであるものを下ろします.</CommandCancelLoadDesc>
-  
+  <!-- EN: Unload all -->
+  <CommandUnload>すべて下ろす</CommandUnload>
+  <!-- EN: Eject all contents from the {0}. -->
+  <CommandUnloadDesc>{0}に積まれている荷物を全て下ろします.</CommandUnloadDesc>
+
   <!-- Launch group -->
   <!-- EN: Launch -->
   <CommandLaunchGroup>発射</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>離陸して目的地へ飛ばします.</CommandLaunchGroupDesc>
+  <!-- EN: Must be loaded first. -->
+  <CommandLaunchGroupFailNotLoaded>先に荷物を積む必要があります.</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドは,給油口に接続されていません.</CommandLaunchGroupFailNotConnectedToFuelingPort>
-  <!-- EN: Some pod launchers in this group have no fuel. -->
-  <CommandLaunchGroupFailNoFuel>一部のポッドランチャーは,燃料がありません.</CommandLaunchGroupFailNoFuel>
-  <!-- EN: Some pod launchers are under a roof. -->
-  <CommandLaunchGroupFailUnderRoof>一部のポッドランチャーは,屋根の下にあります.</CommandLaunchGroupFailUnderRoof>
-  
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドが給油口に接続されていません.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <!-- EN: Roof blocking launch. -->
+  <CommandLaunchGroupFailUnderRoof>屋根が原因で発射できません.</CommandLaunchGroupFailUnderRoof>
+  <!-- EN: Not enough fuel to launch. -->
+  <CommandLaunchGroupFailNoFuel>燃料が足りないため発射できません.</CommandLaunchGroupFailNoFuel>
+  <!-- EN: Over mass capacity. -->
+  <CommandLaunchGroupFailOverMassCapacity>積載できる重量をオーバーしています.</CommandLaunchGroupFailOverMassCapacity>
+  <!-- EN: On cooldown. -->
+  <CommandLaunchGroupCooldown>クールタイム中です.</CommandLaunchGroupCooldown>
+  <!-- EN: {0} / {1} kg -->
+  <MassUsageString>{0} / {1} kg</MassUsageString>
+
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>{0}グループを発射</CommandLoadTransporter>
@@ -615,15 +690,15 @@
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
   <CommandLeaveRitual>{RITUAL_label}から立ち去る</CommandLeaveRitual>
-  <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>{RITUAL_labelDef}への参加をやめます.儀式は,最低でも一人の参加者がいれば継続されます.</CommandLeaveRitualDesc>
+  <!-- EN: Stop participating in the {RITUAL_labelDef}. The event will continue as long as it has at least one participant. -->
+  <CommandLeaveRitualDesc>{RITUAL_labelDef}への参加をやめます.この行事は,参加者が一人でもいれば継続できます.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
   <CommandLeaveLastParticipant>これは,{RITUAL_labelDef}に参加している,最後の一人の参加者です.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>{RITUAL_label}を中止する</CommandCancelRitual>
-  <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>{RITUAL_labelDef}をいますぐ終わらせます.ただし儀式の義務は残ります.儀式はまた後で再開できます.</CommandCancelRitualDesc>
+  <!-- EN: End the {RITUAL_labelDef} immediately. You can restart the event later. -->
+  <CommandCancelRitualDesc>{RITUAL_labelDef}をいますぐ終わらせます.この行事はまた後で再開できます.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>本当に{RITUAL_labelDef}を中止しますか?</CommandCancelRitualConfirm>
 
@@ -665,8 +740,34 @@
   <!-- Limited use count action -->
   <!-- EN: No uses left. -->
   <CommandNoUsesLeft>使用回数が切れています.</CommandNoUsesLeft>
+
+  <!-- Map Portal -->
+  <!-- EN: View {0} -->
+  <CommandViewPocketMapLabel>{0}を見る</CommandViewPocketMapLabel>
+  <!-- EN: View the connected {0} map. -->
+  <CommandViewPocketMapDesc>接続された{0}マップを表示します.</CommandViewPocketMapDesc>
+  <!-- EN: View surface -->
+  <CommandViewSurface>地表を見る</CommandViewSurface>
+  <!-- EN: View the connected surface map. -->
+  <CommandViewSurfaceDesc>接続された地表マップを表示します.</CommandViewSurfaceDesc>
+
+  <!-- Auto-build pod -->
+  <!-- EN: Auto build transport pod -->
+  <AutoBuildTransportPod>輸送ポッドを自動建築</AutoBuildTransportPod>
+  <!-- EN: If on, your colonists will automatically build a new transport pod when possible. -->
+  <AutoBuildTransportPodDesc>オンにすると,入植者は可能な時に新しい輸送ポッドを自動で建築するようになります.</AutoBuildTransportPodDesc>
+  
+  <!-- Hacking gizmo -->
+  <!-- EN: Hack... -->
+  <HackGizmo>ハッキング...</HackGizmo>
+  <!-- EN: Cannot hack -->
+  <CannotChooseHacker>ハッキングできない</CannotChooseHacker>
+  <!-- EN: Choose hacker -->
+  <CommandChooseHacker>ハッキングする人物を選択</CommandChooseHacker>
   
   <!-- UNUSED -->
+  <CommandHideZoneLabel>非表示</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
   <CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
   <CommandRenameZoneDesc>このゾーンの 名前を 変更します.</CommandRenameZoneDesc>
 

@@ -82,8 +82,8 @@
   
   <!-- EN: transmute steel -->
   <TransmuteSteel.label>鉄変化</TransmuteSteel.label>
-  <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target a stack of steel or a steel slag chunk. -->
-  <TransmuteSteel.description>鉄を原子レベルで再構成し,ランダムな貴重な素材へ変化させます.鉄のスタックまたは鉄くずの塊をターゲットにできます.</TransmuteSteel.description>
+  <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items. -->
+  <TransmuteSteel.description>鉄を原子レベルで再構成し,ランダムな貴重な素材へ変化させます.スチールや鉄くずの塊,鉄製の建築物,または鉄製アイテムをターゲットにできます.</TransmuteSteel.description>
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>鉄,鉄くずの塊,鉄の建物,または鉄のアイテムをターゲットにしなければなりません.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   

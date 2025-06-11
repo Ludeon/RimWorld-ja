@@ -91,17 +91,17 @@
   <Styles>スタイル</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>確率で戒律を覚える</ChanceToHavePrecept>
-  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色です.着ている衣服の{PERCENTAGE}以上がこの色{ORIDEO}{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
+  <!-- EN: {PAWN_labelShort}'s favorite color: {COLOR}\nHaving more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
+  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色: {COLOR}\n着ている衣服の{PERCENTAGE}以上がこの色{ORIDEO}であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
   <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
-  <OrIdeoColor>,もしくは{PAWN_possessive}持つ思想の色であると,</OrIdeoColor>
+  <OrIdeoColor>,もしくは{PAWN_possessive}持つ思想の色</OrIdeoColor>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>思想の色に設定</SetIdeoColor>
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>好きな色に設定</SetFavoriteColor>
-  <!-- EN: {PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
+  <!-- EN: {PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
   <FavoriteColorPickerTip>{PAWN_nameDef}の好きな色です.着ている衣服の60%以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.</FavoriteColorPickerTip>
-  <!-- EN: {PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
+  <!-- EN: {PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
   <IdeoColorPickerTip>{PAWN_nameDef}の持つ思想の色です.着ている衣服の60%以上がこの色,もしくは{PAWN_possessive}好きな色であると,{PAWN_pronoun}は少し幸せになります.</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>派閥の思想を設定する</ConfigureIdeoligion>
@@ -382,18 +382,6 @@
   <!-- EN: Slave -->
   <OutfitSlave>奴隷</OutfitSlave>
 
-  <!-- Hacking -->
-  <!-- EN: Hack progress -->
-  <HackProgress>ハッキングの進捗</HackProgress>
-  <!-- EN: hacking speed -->
-  <HackingSpeed>ハッキングの速度</HackingSpeed>
-  <!-- EN: {0}'s -->
-  <HackingLastUser>{0}の</HackingLastUser>
-  <!-- EN: hacked -->
-  <Hacked>ハッキング</Hacked>
-  <!-- EN: Terminals hacked -->
-  <TerminalsHacked>ターミナルをハッキング</TerminalsHacked>
-
   <!-- EN: Relic info found -->
   <RelicInfoFound>レリックの情報が見つかった</RelicInfoFound>
   <!-- EN: inactive, requires at least {0} {1}s (have {2}) -->
@@ -666,6 +654,8 @@
   <ChangeStyleDesc>これの製作時の見た目を変更します.これは純粋に視覚的なものであり,ゲームプレイへの影響はありません.</ChangeStyleDesc>
   <!-- EN: No available styles. -->
   <ChangeStyleDisabledNoCategories>利用可能なスタイルがありません.</ChangeStyleDisabledNoCategories>
+  <!-- EN: Spacedrone self-destructs in {0} -->
+  <SpacedroneSelfDestructsIn>宇宙ドローンは{0}後に自己破壊する</SpacedroneSelfDestructsIn>
 
   <!-- UNUSED -->
   <RitualTargeWoodInfo>参加者ごとに{0}本の木材が必要です(合計{2}).現在{1}本の木材を持っています.</RitualTargeWoodInfo>

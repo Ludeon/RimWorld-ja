@@ -322,6 +322,8 @@
   <QuestPawnNotOnColonyMap>このコロニーに居る{PAWN_definite}</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
   <QuestRequiresNoDangerOnMap>贈呈者の派閥の敵対者をマップから排除する</QuestRequiresNoDangerOnMap>
+  <!-- EN: that {PROJECT_label} has been researched. -->
+  <QuestRequiresResearch>{PROJECT_label}の研究はすでに完了しています.</QuestRequiresResearch>
   <!-- EN: to finish the ongoing bestowing ceremony quest -->
   <QuestCanNotStartUntilBestowingCeremonyFinished>進行中の授与式クエストを終わらせる必要がある</QuestCanNotStartUntilBestowingCeremonyFinished>
   <!-- EN: Reward preferences -->
@@ -358,6 +360,10 @@
   <QuestNeutralTo>{0}と中立</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>{0_labelShort}を調査した</QuestRequiredThingStudied>
+  <!-- EN: cannot accept {GERUND} {LAYER} -->
+  <QuestRequiredLayer>{LAYER}{GERUND}では受諾できない</QuestRequiredLayer> <!-- text_todo -->
+  <!-- EN: cannot accept in space -->
+  <QuestNotSpace>宇宙では受諾できない</QuestNotSpace> <!-- text_todo -->
 
   <!-- Health tab -->
   <!-- EN: Creates need -->

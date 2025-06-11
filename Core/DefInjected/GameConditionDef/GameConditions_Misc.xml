@@ -91,8 +91,8 @@
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>死の灰</ToxicFallout.label>
-  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>少し遠い所で発生した,もくもくと立ち上がる有毒な塵が,ゆっくりと惑星全体を覆っていきます.屋根の無い所にいる人は,ゆっくりと毒に冒され,外にあるものは腐食するでしょう.</ToxicFallout.description>
+  <!-- EN: A plume of toxic dust is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>もくもくと立ち上がる有毒な塵が,ゆっくりと惑星全体を覆っていきます.屋根の無い所にいる人は,ゆっくりと毒に冒され,外にあるものは腐食するでしょう.</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
   <ToxicFallout.descriptionFuture>有毒な雲が[map_definite]の辺りを[gameConditionDuration_duration]ほど覆い,野外にいる植物や動物の命を奪い始めるでしょう</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
@@ -104,7 +104,7 @@
   <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
   <VolcanicWinter.description>大規模噴火による火山灰が,大気を覆ってしまった為,地表に届く日射量が著しく減っています.気温はより寒くなり植物の成長が遅くなるでしょう.</VolcanicWinter.description>
-  <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
+  <!-- EN: a layer of ash will be deposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
   <VolcanicWinter.descriptionFuture>幾重もの火山灰が大気の上層を覆い尽くし,[map_definite]の辺りの日射量を[gameConditionDuration_duration]ほど減らし,局地的な生態系に深刻なダメージを与えるでしょう</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
   <VolcanicWinter.endMessage>ほとんどの火山灰は落ち着いてきた.</VolcanicWinter.endMessage>

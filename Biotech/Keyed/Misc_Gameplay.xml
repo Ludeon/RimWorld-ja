@@ -27,10 +27,14 @@
   <CaravanMechsCount>{0}メカ</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
   <BossWithApparel>{APPAREL}を着た{BOSS}</BossWithApparel>
+  <!-- EN: Resulting from gene -->
+  <ComesFromGene>遺伝子に起因</ComesFromGene>
 
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>{0}を取り外しています.</ReportRemovingMechlink>
+  <!-- EN: from {TEACHER_labelShort} -->
+  <ReportTakingLessonFrom>{TEACHER_labelShort}から</ReportTakingLessonFrom>
 
   <!-- Areas -->
   <!-- EN: Pollution clear -->
@@ -99,6 +103,8 @@
   <ReadyToSummonThreat>{0}の脅威を呼び出す準備が完了</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
   <Summon>{0}の脅威を呼び出す</Summon>
+  <!-- EN: Mechanoids disabled -->
+  <MechsDisabled>メカノイドが無効</MechsDisabled> <!-- text_todo -->
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>{0}に到達できない</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
@@ -247,12 +253,6 @@
   <BirthRitualHealthyBabyChance>この品質レベルでの健康な出産の可能性は{0_percentage}です.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
   <GivingBirth>出産します.</GivingBirth>
-
-  <!-- Shield comp -->
-  <!-- EN: Shield energy -->
-  <ShieldEnergy>シールドエネルギー</ShieldEnergy>
-  <!-- EN: Time to recovery -->
-  <ShieldTimeToRecovery>リカバリーまでの時間</ShieldTimeToRecovery>
 
   <!-- Genes -->
   <!-- EN: genes -->
@@ -754,10 +754,6 @@
   <IvfPregnancyLetterText>{0}は胚の移植からの妊娠に成功しました!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
   <IvfPregnancyLetterParents>赤ん坊は{0}と{1}の遺伝子構造を持っています.</IvfPregnancyLetterParents>
-
-  <!-- Projectile interceptor -->
-  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>発射物や榴散弾の侵入を阻止する低角度の投影シールドです.EMPに当たると即座に停止します.</ProjectileInterceptorTip>
 
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->

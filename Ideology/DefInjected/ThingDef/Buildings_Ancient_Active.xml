@@ -4,22 +4,18 @@
   <!-- EN: ancient comms console -->
   <AncientCommsConsole.label>古代の通信コンソール</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientCommsConsole.description>通信盤が取り付けられた古代のコンソールです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientCommsConsole.description>
+  <AncientCommsConsole.description>通信用パラボラアンテナが取り付けられた古代のコンソールです.貴重な部品が失われており,他の部分も劣化して役に立たなくなっています.</AncientCommsConsole.description>
+  <!-- EN: Hack to access ancient supply satellite. -->
+  <AncientCommsConsole.comps.CompHackable.notHackedInspectString>ハッキングで古代の補給衛星へアクセス.</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: ancient enemy terminal -->
   <AncientEnemyTerminal.label>古代の敵性ターミナル</AncientEnemyTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
-  <AncientEnemyTerminal.description>古代のコンピュータ端末です.付近の敵を呼び出すためにハッキングされる可能性があります.</AncientEnemyTerminal.description>
-  
-  <!-- EN: ancient unstable fuel node -->
-  <AncientFuelNode.label>古代の不安定な燃料ノード</AncientFuelNode.label>
-  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
-  <AncientFuelNode.description>かつてマシンに燃料を注入するために使われていたノードです.整備不足なため極めて不安定な状態にあります.</AncientFuelNode.description>
-  
-  <!-- EN: hermetic crate -->
-  <AncientHermeticCrate.label>密閉容器</AncientHermeticCrate.label>
-  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
-  <AncientHermeticCrate.description>貴重な品物を保管するために自己発電式の密閉装置が組み込まれた容器です.非常に長期間の保存が可能です.</AncientHermeticCrate.description>
+  <AncientEnemyTerminal.description>古代のコンピュータ端末です.ハッキングすることで付近の敵を呼び出すことができます.</AncientEnemyTerminal.description>
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>この{0}をハッキングすると,警報が届いた敵対者による攻撃が始まります.</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <!-- EN: Hack to call nearby enemies. -->
+  <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>ハッキングで付近の敵を呼び出す.</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: security crate -->
   <AncientSecurityCrate.label>警報付き容器</AncientSecurityCrate.label>

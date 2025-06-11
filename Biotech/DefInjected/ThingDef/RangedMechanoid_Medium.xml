@@ -6,8 +6,8 @@
   
   <!-- EN: beam graser -->
   <Gun_BeamGraser.label>ビームグレイザー</Gun_BeamGraser.label>
-  <!-- EN: A high-energy gamma ray laser which fires a sweeping beam that pierces thick armor and burns targets. Because of the health risks, grasers are usually only used by mechanoids. This one was made to interface directly with a mechanoid wielder and draw from its power source. -->
-  <Gun_BeamGraser.description>高エネルギーのガンマ線レーザーで,分厚い装甲を貫き標的を焼き尽くす掃射ビームを発射します.健康上のリスクが有るため,通常はメカノイドのみが使用します.エネルギーとインターフェースがメカノイドと直結されています.</Gun_BeamGraser.description>
+  <!-- EN: A gamma ray laser which fires a sweeping beam. The narrow, high-energy beam can pierce thick armor and ignite targets. -->
+  <Gun_BeamGraser.description>掃射ビームを発射するガンマ線レーザーです.細く高エネルギーのビームは分厚い装甲を貫き,標的を燃やすことができます.</Gun_BeamGraser.description>
   <!-- EN: barrel -->
   <Gun_BeamGraser.tools.barrel.label>バレル</Gun_BeamGraser.tools.barrel.label>
   <!-- EN: beam graser -->

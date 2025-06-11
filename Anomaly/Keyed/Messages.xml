@@ -86,8 +86,8 @@
   <!-- EN: {WAKER_nameDef} has disturbed several fingerspikes. -->
   <MessageFingerspikeDisturbedPlural>{WAKER_nameDef}はいくつかの指棘を妨げました.</MessageFingerspikeDisturbedPlural>
 
-  <!-- EN: The death pall has resurrected {0_indefinite}. -->
-  <DeathPallResurrectedMessage>死の帳が{0_indefinite}を蘇生しました.</DeathPallResurrectedMessage>
+  <!-- EN: The death pall has begun to resurrect corpses. -->
+  <DeathPallResurrectedMessage>死の帳が死体を蘇生し始めました.</DeathPallResurrectedMessage> <!-- text_todo -->
   
   <!-- UNUSED -->
   <AbilityCannotCastHoraxian>{0_nameDef}の進行度は揺るぎないものだ.</AbilityCannotCastHoraxian>

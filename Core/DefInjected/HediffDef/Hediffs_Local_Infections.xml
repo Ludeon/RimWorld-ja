@@ -105,6 +105,23 @@
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>重度</Plague.stages.extreme-1.label>
   
+  <!-- EN: scaria infection -->
+  <ScariaInfection.label>スカリア感染</ScariaInfection.label>
+  <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
+  <ScariaInfection.description>スカリアという細菌が引き起こす感染症です.治療を行わず放置すると,最終的に宿主を凶暴な怒りに駆り立てます.</ScariaInfection.description>
+  <!-- EN: Scaria: {PAWN_nameDef} -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>スカリア：{PAWN_nameDef}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
+  <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef}はスカリア感染による病が進行し,凶暴な怒りに支配されました.スカリア症は特別な医療措置で治すことができますが,そのためにはまず{PAWN_nameDef}を気絶させる必要があります.</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
+  <!-- EN: a scaria infection -->
+  <ScariaInfection.labelNoun>スカリア感染</ScariaInfection.labelNoun>
+  <!-- EN: minor -->
+  <ScariaInfection.stages.minor.label>軽度</ScariaInfection.stages.minor.label>
+  <!-- EN: major -->
+  <ScariaInfection.stages.major.label>中度</ScariaInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <ScariaInfection.stages.extreme.label>重度</ScariaInfection.stages.extreme.label>
+  
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>感覚器 機械化症</SensoryMechanites.label>
   <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->

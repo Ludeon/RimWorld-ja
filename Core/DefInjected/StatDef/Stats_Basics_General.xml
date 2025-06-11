@@ -11,6 +11,11 @@
   <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
   <BeautyOutdoors.description>屋外にある何かを見たときの楽しさです.\n\n美しい物は人々の美への欲求を満たします.</BeautyOutdoors.description>
   
+  <!-- EN: caravan speed factor -->
+  <CaravanBonusSpeedFactor.label>キャラバン速度係数</CaravanBonusSpeedFactor.label>
+  <!-- EN: A multiplier applied to a caravan's speed when this person is part of a caravan. -->
+  <CaravanBonusSpeedFactor.description>この人物がキャラバン隊にいる場合,キャラバンの速度に適用される乗数です.</CaravanBonusSpeedFactor.description>
+  
   <!-- EN: cleanliness -->
   <Cleanliness.label>清潔さ</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
@@ -51,8 +56,8 @@
   
   <!-- EN: mass -->
   <Mass.label>重量</Mass.label>
-  <!-- EN: The physical mass of an object. -->
-  <Mass.description>オブジェクトの重量です.</Mass.description>
+  <!-- EN: The physical mass of an object or creature. -->
+  <Mass.description>物,生物の重量です.</Mass.description>
   <!-- EN: {0} kg -->
   <Mass.formatString>{0} ㌔</Mass.formatString>
   

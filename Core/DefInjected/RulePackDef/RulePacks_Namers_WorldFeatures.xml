@@ -190,23 +190,19 @@
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
     <li>terrain_word(p=6)->lake</li>
-    <li>terrain_word->sea</li>
     <li>terrain_word->pond</li>
     <li>terrain_word->basin</li>
     <li>terrain_word->reservoir</li>
     <li>terrain_word(p=0.3)->puddle</li>
-    <li>terrain_word(p=0.3)->lagoon</li>
     <li>terrain_word(p=0.3)->loch</li>
   -->
   <NamerLake.rulePack.rulesStrings>
     <li>r_name->[narrative_name]湖</li>
     <li>terrain_word(p=6)->湖</li>
-    <li>terrain_word->海</li>
     <li>terrain_word->池</li>
     <li>terrain_word->滝壺</li>
     <li>terrain_word->貯水池</li>
     <li>terrain_word(p=0.3)->沼</li>
-    <li>terrain_word(p=0.3)->礁湖</li>
     <li>terrain_word(p=0.3)->湖</li>
   </NamerLake.rulePack.rulesStrings>
   
@@ -286,16 +282,14 @@
   </NamerPeninsula.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_name(p=0.1)->lake [narrative_name]</li>
     <li>terrain_word(p=6)->sea</li>
+    <li>terrain_word->lagoon</li>
     <li>terrain_word->ocean</li>
-    <li>terrain_word->lake</li>
   -->
   <NamerSea.rulePack.rulesStrings>
-    <li>r_name(p=0.1)->[narrative_name]湖</li>
     <li>terrain_word(p=6)->海</li>
+    <li>terrain_word->礁湖</li>
     <li>terrain_word->大洋</li>
-    <li>terrain_word->湖</li>
   </NamerSea.rulePack.rulesStrings>
   
   <!-- EN:
@@ -463,35 +457,23 @@
     <li>story_result->fraud</li>
   -->
   <WorldFeatureNamerCommon.rulePack.rulesStrings>
-    <li>r_name->[metaprefix][standardname]</li>
+    <li>r_name->[narrative_name][terrain_word]</li>
     <li>r_name(p=0.05)->[storyname][terrain_word]</li>
-    <li>standardname->[narrative_name][terrain_word]</li>
-    <li>metaprefix(p=10)-></li>
-    <li>metaprefix->[Direction]</li>
-    <li>metaprefix->[basic_adjective]・</li>
-    <li>basic_adjective->グレイト</li>
-    <li>basic_adjective->グレイター</li>
-    <li>basic_adjective->レッサー</li>
-    <li>basic_adjective->グランド</li>
-    <li>basic_adjective->ニュー</li>
-    <li>basic_adjective->オールド</li>
     <li>narrative_name(p=12)->[WordTribal]</li>
     <li>narrative_name(p=12)->[PlaceOutlander]</li>
     <li>narrative_name->[Color]の[NaturalObject]</li>
     <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
     <li>narrative_name->[Animal]</li>
     <li>narrative_name->[Color]</li>
-    <li>narrative_name->[Color]の[Animal]</li>
+    <li>narrative_name->[Color][Animal]</li>
     <li>narrative_name->[AdjectiveNatural][Animal]</li>
     <li>narrative_name->[Animal][BodyPart]</li>
-    <li>narrative_name->[Color] [Animal]</li>
-    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
-    <li>narrative_name->[Animal] [BodyPart]</li>
-    <li>storyname(p=50)->[subject]の[maybe_basic_adjective] [story_result]</li>
+    <li>narrative_name->[Color]の[Animal]</li>
+    <li>narrative_name->[AdjectiveNatural][Animal]</li>
+    <li>narrative_name->[Animal]の[BodyPart]</li>
+    <li>storyname(p=50)->[subject]の[story_result]</li>
     <li>storyname(p=2)->[subject]の[BodyPart]</li>
     <li>storyname->[subject]の[Gore]</li>
-    <li>maybe_basic_adjective-></li>
-    <li>maybe_basic_adjective(p=0.1)->[basic_adjective]</li>
     <li>subject(p=5)->[NamePerson]</li>
     <li>subject->[Animal]</li>
     <li>subject->[WordTribal]</li>

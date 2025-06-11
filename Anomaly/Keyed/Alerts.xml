@@ -53,7 +53,7 @@
   <!-- EN: They will escape soon. Build stronger walls, doors, or other containment devices to hold them. -->
   <Alert_InsufficientContainmentDescAppended>じきに脱走してしまうでしょう.より強固な壁,扉,その他の収容装置を作って彼らを閉じ込めておきましょう.</Alert_InsufficientContainmentDescAppended>
 
-  <!-- EN: Holding platforms needed -->
+  <!-- EN: Need holding platforms -->
   <AlertHoldingPlatform>収容プラットフォームが必要</AlertHoldingPlatform>
   <!-- EN: Build holding platforms or place holding spots to contain and study captured entities. -->
   <AlertHoldingPlatformDesc>捕獲した存在の収容と研究のため,収容プラットフォームまたは収容スポットを建てましょう.</AlertHoldingPlatformDesc>
@@ -74,7 +74,7 @@
   
   <!-- EN: Inhibitor blocked -->
   <AlertInhibitorBlocked>ブロックされたインヒビター</AlertInhibitorBlocked>
-  <!-- EN: One of your electric inhibitors is not functional because it’s blocked by another building.\n\nClear the space in front of the electric inhibitor. -->
+  <!-- EN: One of your electric inhibitors is not functional because it's blocked by another building.\n\nClear the space in front of the electric inhibitor. -->
   <AlertInhibitorBlockedDesc>電動インヒビターの1つが,他の建物妨げられて機能していません.\n\n電動インヒビターの正面のスペースを空けましょう.</AlertInhibitorBlockedDesc>
 
   <!-- EN: Entity treatment needed -->
@@ -89,7 +89,7 @@
   
   <!-- EN: Gray flesh -->
   <AlertGrayFleshSample>灰色の肉体</AlertGrayFleshSample>
-  <!-- EN: You’ve discovered a strip of fleshy tissue. Analyze it to learn more about the biosignature. -->
+  <!-- EN: You've discovered a strip of fleshy tissue. Analyze it to learn more about the biosignature. -->
   <AlertGrayFleshSampleDesc>帯状の肉片を発見しました.分析することで,バイオシグネチャーについてさらに詳しくわかります.</AlertGrayFleshSampleDesc>
   <!-- EN: Neural lump -->
   <AlertNeuralLump>神経組織の塊</AlertNeuralLump>

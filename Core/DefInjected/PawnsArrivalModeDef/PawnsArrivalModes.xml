@@ -60,4 +60,11 @@
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef}は輸送ポットで到着します.</RandomDrop.textWillArrive>
   
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textEnemy>{1}から来た{0}が,輸送ポッドですぐ近くに到着しました.</SpecificDropDebug.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textFriendly>{1}から来た友好的な{0}が,輸送ポッドですぐ近くに到着しました.</SpecificDropDebug.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <SpecificDropDebug.textWillArrive>{0_pawnsPluralDef}は輸送ポットで到着します.</SpecificDropDebug.textWillArrive>
+  
 </LanguageData>

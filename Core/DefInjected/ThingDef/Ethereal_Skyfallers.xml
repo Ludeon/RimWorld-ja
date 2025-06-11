@@ -2,22 +2,34 @@
 <LanguageData>
   
   <!-- EN: crashed ship part (incoming) -->
-  <CrashedShipPartIncoming.label>壊れた船の一部分(到着間近)</CrashedShipPartIncoming.label>
+  <CrashedShipPartIncoming.label>壊れた船の一部分 (接近中)</CrashedShipPartIncoming.label>
   
   <!-- EN: drop pod (incoming) -->
-  <DropPodIncoming.label>ドロップポッド(到着間近)</DropPodIncoming.label>
+  <DropPodIncoming.label>ドロップポッド (接近中)</DropPodIncoming.label>
   
   <!-- EN: drop pod (incoming) -->
-  <DropPodIncomingMechanoid.label>ドロップポッド(到着間近)</DropPodIncomingMechanoid.label>
+  <DropPodIncomingMechanoidRapid.label>ドロップポッド (接近中)</DropPodIncomingMechanoidRapid.label>
   
   <!-- EN: drop pod (leaving) -->
-  <DropPodLeaving.label>ドロップポッド(脱出中)</DropPodLeaving.label>
+  <DropPodLeaving.label>ドロップポッド (離脱中)</DropPodLeaving.label>
+  
+  <!-- EN: flying creature -->
+  <FlyerArrival.label>飛行中の生物</FlyerArrival.label>
+  
+  <!-- EN: flying creature -->
+  <FlyerLeaving.label>飛行中の生物</FlyerLeaving.label>
   
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteIncoming.label>隕石(到着間近)</MeteoriteIncoming.label>
+  <MeteoriteCraterIncoming.label>隕石 (接近中)</MeteoriteCraterIncoming.label>
+  
+  <!-- EN: meteorite (incoming) -->
+  <MeteoriteIncoming.label>隕石 (接近中)</MeteoriteIncoming.label>
   
   <!-- EN: ship chunk (incoming) -->
-  <ShipChunkIncoming.label>船の残骸(到着間近)</ShipChunkIncoming.label>
+  <ShipChunkIncoming.label>船の残骸 (接近中)</ShipChunkIncoming.label>
+  
+  <!-- EN: ship chunk (incoming) -->
+  <ShipChunkIncoming_SmallExplosion.label>船の残骸 (接近中)</ShipChunkIncoming_SmallExplosion.label>
   
   <!-- EN: shuttle (crashing) -->
   <ShuttleCrashing.label>シャトル (故障中)</ShuttleCrashing.label>

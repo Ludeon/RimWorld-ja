@@ -84,6 +84,8 @@
   <MessageBeggarsLeavingWithItemsPlural>{0}たちは要求したアイテムを受け取り立ち去ります.</MessageBeggarsLeavingWithItemsPlural>
   <!-- EN: {0_nameDef} died without any treatment. -->
   <MessageWandererLeftToDie>{0_nameDef}は何の治療も受けられずに死にました.</MessageWandererLeftToDie>
+  <!-- EN: {0_nameDef} was left to die. -->
+  <MessageWandererLeftBehind>{0_nameDef}は死ぬまで放置されました.</MessageWandererLeftBehind>
   <!-- EN: {0_nameDef} was recruited. -->
   <MessageWandererRecruited>{0_nameDef}を勧誘しました.</MessageWandererRecruited>
   <!-- EN: {0_nameDef} left healthy. -->

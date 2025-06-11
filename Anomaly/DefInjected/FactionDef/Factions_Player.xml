@@ -7,6 +7,8 @@
   <ResearchExpedition.description>科学者のチームです.</ResearchExpedition.description>
   <!-- EN: leader -->
   <ResearchExpedition.leaderTitle>リーダー</ResearchExpedition.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ResearchExpedition.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</ResearchExpedition.messageDefendersAttacking>
   <!-- EN: colonist -->
   <ResearchExpedition.pawnSingular>入植者</ResearchExpedition.pawnSingular>
   <!-- EN: colonists -->

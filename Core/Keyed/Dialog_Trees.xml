@@ -40,6 +40,14 @@
   <TraderSent>{0}は, あなたにトレーダーキャラバンを送ることに承諾しました.2～3日以内には到着するでしょう.</TraderSent>
   <!-- EN: wait {0} -->
   <WaitTime>待ち時間 {0}</WaitTime>
+
+  <!-- Orbital trade request -->
+  <!-- EN: Request orbital trader (cost: {0} goodwill) -->
+  <RequestOrbitalTrader>軌道上の商船を要求する(コスト: {0}友好値)</RequestOrbitalTrader>
+  <!-- EN: {0} asks what kind of orbital trader you want. -->
+  <ChooseOrbitalTraderKind>{0}は,どの種類の商船が必要なのか質問しています.</ChooseOrbitalTraderKind>
+  <!-- EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours. -->
+  <OrbitalTraderSent>{0}は,商船にコロニーに訪れるよう依頼します.商船は数時間以内に到着するでしょう.</OrbitalTraderSent>
   
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->

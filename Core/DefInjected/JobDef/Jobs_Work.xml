@@ -43,6 +43,9 @@
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>TargetAを解体中</Deconstruct.reportString>
   
+  <!-- EN: deconstructing TargetA. -->
+  <DeconstructForBlueprint.reportString>TargetAを解体中</DeconstructForBlueprint.reportString>
+  
   <!-- EN: feeding TargetA to TargetB. -->
   <DeliverFood.reportString>TargetBにTargetAを給仕中</DeliverFood.reportString>
   
@@ -69,6 +72,9 @@
   
   <!-- EN: executing TargetA. -->
   <GuiltyColonistExecution.reportString>TargetAを処刑中</GuiltyColonistExecution.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>TargetAをハッキングしている</Hack.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>TargetAを収穫中</Harvest.reportString>
@@ -126,6 +132,9 @@
   
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>床を剥がしている</RemoveFloor.reportString>
+  
+  <!-- EN: removing foundation. -->
+  <RemoveFoundation.reportString>土台を解体している</RemoveFoundation.reportString>
   
   <!-- EN: removing paint from TargetA. -->
   <RemovePaintBuilding.reportString>TargetAの色を除去している</RemovePaintBuilding.reportString>

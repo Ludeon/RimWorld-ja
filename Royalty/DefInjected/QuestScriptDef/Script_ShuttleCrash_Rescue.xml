@@ -22,8 +22,14 @@
     <li>allLostLetterText->The rescue shuttle for the crashed [asker_faction_pawnsPlural] has departed without anyone on board.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
     <li>askerDiedLetterLabel->Quest failed: [resolvedQuestName]</li>
     <li>askerDiedLetterText->[commanderLandingDesc] has died.\n\n[failLetterEndingCommon]</li>
+    <li>civilianDiedLetterLabel->Quest failed: [resolvedQuestName]</li>
+    <li>civilianDiedLetterText->a civilian has died.\n\n[failLetterEndingCommon]</li>
     <li>shuttleDestroyedLetterLabel->Quest failed: [resolvedQuestName]</li>
     <li>shuttleDestroyedLetterText->The shuttle sent to collect the crashed [asker_faction_pawnsPlural] has been destroyed. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</li>
+    <li>shuttleLeftBehindLetterLabel->Quest failed: [resolvedQuestName]</li>
+    <li>shuttleLeftBehindLetterText->The shuttle sent to collect the crashed [asker_faction_pawnsPlural] has been left behind. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</li>
+    <li>mapRemovedLetterLabel->Quest failed: [resolvedQuestName]</li>
+    <li>mapRemovedLetterText->The map was left behind before the crashed [asker_faction_pawnsPlural] could be collected. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</li>
   -->
   <ShuttleCrash_Rescue.questContentRules.rulesStrings>
     <li>failLetterEndingCommon->クエスト'[resolvedQuestName]'に失敗しました.</li>
@@ -46,8 +52,14 @@
     <li>allLostLetterText->不時着した[asker_faction_pawnsPlural]の救助用シャトルが,誰かを乗せずに出発しました.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
     <li>askerDiedLetterLabel->クエスト失敗: [resolvedQuestName]</li>
     <li>askerDiedLetterText->[commanderLandingDesc]が,死亡しました.\n\n[failLetterEndingCommon]</li>
+    <li>civilianDiedLetterLabel->クエスト失敗: [resolvedQuestName]</li>
+    <li>civilianDiedLetterText->民間人が死亡しました.\n\n[failLetterEndingCommon]</li>
     <li>shuttleDestroyedLetterLabel->クエスト失敗: [resolvedQuestName]</li>
     <li>shuttleDestroyedLetterText->不時着した[asker_faction_pawnsPlural]を回収するために送られたシャトルが破壊されました.[asker_faction_pawnsPlural]は,徒歩でこの場所を去ります.\n\n[failLetterEndingCommon]</li>
+    <li>shuttleLeftBehindLetterLabel->クエスト失敗: [resolvedQuestName]</li>
+    <li>shuttleLeftBehindLetterText->不時着した[asker_faction_pawnsPlural]を回収するために送られたシャトルが置き去りにされました.[asker_faction_pawnsPlural]は,徒歩でこの場所を去ります.\n\n[failLetterEndingCommon]</li>
+    <li>mapRemovedLetterLabel->クエスト失敗: [resolvedQuestName]</li>
+    <li>mapRemovedLetterText->不時着した[asker_faction_pawnsPlural]が回収される前にマップが放棄されました.[asker_faction_pawnsPlural]は,徒歩でこの場所を去ります.\n\n[failLetterEndingCommon]</li>
   </ShuttleCrash_Rescue.questContentRules.rulesStrings>
   <!-- EN:
     <li>pawnLabel->civilian</li>

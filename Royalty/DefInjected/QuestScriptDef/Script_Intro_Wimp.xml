@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Yeoman, and all benefits that come with it - including the first level of psychic powers.</li>
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Novice, and all benefits that come with it - including the first level of psychic powers.</li>
   -->
   <Intro_Wimp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]が, 付近から通信を送ってきました. [asker_possessive]護衛が待ち伏せに殺されたようです.[asker_pronoun]は逃げ延びましたが,(*Threat)人狩りの[animalKindDef_label](/Threat)に追跡されています.\n\n[asker_nameDef]は[asker_possessive]シャトルが[asker_objective]拾い上げるまでの数時間,[map_definite]で自分を守って欲しいようです.\n\n[asker_pronoun]は,このクエストを受け入れると[royalFavorReward][asker_faction_royalFavorLabel]を与えるでしょう.ノービスの爵位と,それに伴う特典 - 初期段階の超能力を含む - を受け取るのに十分な[asker_faction_royalFavorLabel]と言えます.</li>
+    <li>questDescription->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]が, 付近から通信を送ってきました. [asker_possessive]護衛が待ち伏せに殺されたようです.[asker_pronoun]は逃げ延びましたが,(*Threat)人狩りの[animalKindDef_label](/Threat)に追跡されています.\n\n[asker_nameDef]は[asker_possessive]シャトルが[asker_objective]拾い上げるまでの数時間,[map_definite]で自分を守って欲しいようです.\n\n[asker_pronoun]は,このクエストを受け入れると[royalFavorReward][asker_faction_royalFavorLabel]を与えるでしょう.これはノービスの爵位とそれに伴う利益,そして初期段階の超能力を受け取るのに十分な[asker_faction_royalFavorLabel]と言えるでしょう.</li>
   </Intro_Wimp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</li>
@@ -39,6 +39,10 @@
   <Intro_Wimp.LetterLabelGuestDied.slateRef>ゲスト死亡: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextGuestDied.slateRef>護衛の対象である{SUBJECT_definite}が死亡しました.[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
+  <!-- EN: Guest left behind: {SUBJECT_definite} -->
+  <Intro_Wimp.root.nodes.askerLeftBehind.node.nodes.Letter.label.slateRef>ゲストが置き去り: {SUBJECT_definite}</Intro_Wimp.root.nodes.askerLeftBehind.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has been left behind. [failLetterEndingCommon] -->
+  <Intro_Wimp.root.nodes.askerLeftBehind.node.nodes.Letter.text.slateRef>護衛の対象である{SUBJECT_definite}が置き去りにされました.[failLetterEndingCommon]</Intro_Wimp.root.nodes.askerLeftBehind.node.nodes.Letter.text.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>無許可の手術: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon] -->
@@ -63,6 +67,10 @@
   <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>シャトル破壊</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>[asker_nameDef]を迎えに来たシャトルが破壊されました.[asker_pronoun]は自分の足で立ち去ります.[failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <!-- EN: Shuttle left behind -->
+  <Intro_Wimp.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.label.slateRef>シャトルが置き去りにされた</Intro_Wimp.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.label.slateRef>
+  <!-- EN: The shuttle sent to collect [asker_nameDef] has been left behind. [asker_pronoun] will now leave on foot. -->
+  <Intro_Wimp.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>[asker_nameDef]を迎えに来たシャトルが置き去りにされました.[asker_pronoun]は自分の足で立ち去ります.</Intro_Wimp.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Intro_Wimp.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->

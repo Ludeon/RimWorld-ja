@@ -64,6 +64,13 @@
   <!-- EN: remove floor -->
   <ConstructRemoveFloors.verb>除去</ConstructRemoveFloors.verb>
   
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.label>土台を解体</ConstructRemoveFoundations.label>
+  <!-- EN: removing foundation -->
+  <ConstructRemoveFoundations.gerund>土台を解体する</ConstructRemoveFoundations.gerund>
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.verb>土台解体</ConstructRemoveFoundations.verb>
+  
   <!-- EN: smooth floors -->
   <ConstructSmoothFloors.label>床の張り替え</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
@@ -92,6 +99,13 @@
   <!-- EN: deconstruct -->
   <Deconstruct.verb>解体</Deconstruct.verb>
   
+  <!-- EN: deconstruct structures for blueprints -->
+  <DeconstructForBlueprint.label>設計図のために解体</DeconstructForBlueprint.label>
+  <!-- EN: deconstructing -->
+  <DeconstructForBlueprint.gerund>を解体する</DeconstructForBlueprint.gerund>
+  <!-- EN: deconstruct -->
+  <DeconstructForBlueprint.verb>解体</DeconstructForBlueprint.verb>
+  
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>囚人に食事を運ぶ</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
@@ -117,42 +131,42 @@
   <DoBillsBrew.label>アルコール醸造</DoBillsBrew.label>
   <!-- EN: brewing at -->
   <DoBillsBrew.gerund>で醸造する</DoBillsBrew.gerund>
-  <!-- EN: brew -->
+  <!-- EN: brew at -->
   <DoBillsBrew.verb>醸造</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>肉をさばく</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>で解体する</DoBillsButcherFlesh.gerund>
-  <!-- EN: butcher -->
+  <!-- EN: butcher at -->
   <DoBillsButcherFlesh.verb>解体</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>コンロで調理</DoBillsCook.label>
   <!-- EN: cooking at -->
   <DoBillsCook.gerund>で調理する</DoBillsCook.gerund>
-  <!-- EN: cook -->
+  <!-- EN: cook at -->
   <DoBillsCook.verb>調理</DoBillsCook.verb>
   
   <!-- EN: cook meals at campfire -->
   <DoBillsCookCampfire.label>焚き火で調理</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
   <DoBillsCookCampfire.gerund>で調理する</DoBillsCookCampfire.gerund>
-  <!-- EN: cook -->
+  <!-- EN: cook at -->
   <DoBillsCookCampfire.verb>調理</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
   <DoBillsCremate.label>焼却</DoBillsCremate.label>
   <!-- EN: cremating at -->
   <DoBillsCremate.gerund>で焼却する</DoBillsCremate.gerund>
-  <!-- EN: cremate -->
+  <!-- EN: cremate at -->
   <DoBillsCremate.verb>焼却</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
   <DoBillsFabricationBench.label>組立製造</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>で組立製造する</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricate -->
+  <!-- EN: fabricate things at -->
   <DoBillsFabricationBench.verb>製造</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -166,21 +180,21 @@
   <DoBillsMachiningTable.label>機械加工</DoBillsMachiningTable.label>
   <!-- EN: working at -->
   <DoBillsMachiningTable.gerund>で機械加工する</DoBillsMachiningTable.gerund>
-  <!-- EN: work -->
+  <!-- EN: work at -->
   <DoBillsMachiningTable.verb>機械加工</DoBillsMachiningTable.verb>
   
   <!-- EN: make apparel -->
   <DoBillsMakeApparel.label>仕立て</DoBillsMakeApparel.label>
   <!-- EN: tailoring at -->
   <DoBillsMakeApparel.gerund>で仕立てる</DoBillsMakeApparel.gerund>
-  <!-- EN: tailor -->
+  <!-- EN: tailor at -->
   <DoBillsMakeApparel.verb>仕立て</DoBillsMakeApparel.verb>
   
   <!-- EN: make weapons -->
   <DoBillsMakeWeapons.label>武器製造</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
   <DoBillsMakeWeapons.gerund>で鍛冶をする</DoBillsMakeWeapons.gerund>
-  <!-- EN: smith -->
+  <!-- EN: smith at -->
   <DoBillsMakeWeapons.verb>鍛冶</DoBillsMakeWeapons.verb>
   
   <!-- EN: operate on animals -->
@@ -201,42 +215,42 @@
   <DoBillsProduceDrugs.label>ドラッグ合成</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
   <DoBillsProduceDrugs.gerund>で合成する</DoBillsProduceDrugs.gerund>
-  <!-- EN: produce drugs -->
+  <!-- EN: produce drugs at -->
   <DoBillsProduceDrugs.verb>合成</DoBillsProduceDrugs.verb>
   
   <!-- EN: work at refinery -->
   <DoBillsRefinery.label>精製</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->
   <DoBillsRefinery.gerund>で精製する</DoBillsRefinery.gerund>
-  <!-- EN: refine chemicals -->
+  <!-- EN: refine chemicals at -->
   <DoBillsRefinery.verb>精製</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
   <DoBillsSculpt.label>彫刻</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>で彫刻する</DoBillsSculpt.gerund>
-  <!-- EN: sculpt -->
+  <!-- EN: sculpt at -->
   <DoBillsSculpt.verb>彫刻</DoBillsSculpt.verb>
   
   <!-- EN: smelt items -->
   <DoBillsSmelter.label>アイテム溶解</DoBillsSmelter.label>
   <!-- EN: refining at -->
   <DoBillsSmelter.gerund>で溶解する</DoBillsSmelter.gerund>
-  <!-- EN: refine -->
+  <!-- EN: refine at -->
   <DoBillsSmelter.verb>溶解</DoBillsSmelter.verb>
   
   <!-- EN: make stone blocks -->
   <DoBillsStonecut.label>ストーンカッター</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
   <DoBillsStonecut.gerund>で石切りする</DoBillsStonecut.gerund>
-  <!-- EN: stonecut -->
+  <!-- EN: cut stone blocks at -->
   <DoBillsStonecut.verb>石切り</DoBillsStonecut.verb>
   
   <!-- EN: make things at crafting spot -->
   <DoBillsUseCraftingSpot.label>工芸品を加工</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
   <DoBillsUseCraftingSpot.gerund>で作業する</DoBillsUseCraftingSpot.gerund>
-  <!-- EN: craft -->
+  <!-- EN: craft at -->
   <DoBillsUseCraftingSpot.verb>作業</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
@@ -309,6 +323,13 @@
   <!-- EN: drill -->
   <Drill.verb>ボーリング</Drill.verb>
   
+  <!-- EN: eject fuel -->
+  <EjectFuel.label>燃料取り出し</EjectFuel.label>
+  <!-- EN: ejecting fuel from -->
+  <EjectFuel.gerund>から燃料を取り出す</EjectFuel.gerund>
+  <!-- EN: eject fuel -->
+  <EjectFuel.verb>燃料取り出し</EjectFuel.verb>
+  
   <!-- EN: empty egg box -->
   <EmptyEggBox.label>卵箱を空にする</EmptyEggBox.label>
   <!-- EN: emptying -->
@@ -376,7 +397,7 @@
   <GroundPenetratingScan.label>地殻深部スキャナーを操作</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
   <GroundPenetratingScan.gerund>でスキャンする</GroundPenetratingScan.gerund>
-  <!-- EN: scan -->
+  <!-- EN: scan at -->
   <GroundPenetratingScan.verb>スキャン</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
@@ -392,6 +413,13 @@
   <GrowerSow.gerund>に種をまく</GrowerSow.gerund>
   <!-- EN: sow -->
   <GrowerSow.verb>種まき</GrowerSow.verb>
+  
+  <!-- EN: hack buildings -->
+  <Hack.label>ハッキング</Hack.label>
+  <!-- EN: hacking -->
+  <Hack.gerund>ハッキングする</Hack.gerund>
+  <!-- EN: hack -->
+  <Hack.verb>ハッキング</Hack.verb>
   
   <!-- EN: feed animals -->
   <HandlingFeedPatientAnimals.label>給餌</HandlingFeedPatientAnimals.label>
@@ -453,7 +481,7 @@
   <LongRangeScan.label>長距離スキャナーを操作</LongRangeScan.label>
   <!-- EN: scanning at -->
   <LongRangeScan.gerund>でスキャンする</LongRangeScan.gerund>
-  <!-- EN: scan -->
+  <!-- EN: scan at -->
   <LongRangeScan.verb>スキャン</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
@@ -540,7 +568,7 @@
   <!-- EN: rope -->
   <RebalanceAnimalsInPens.verb>誘導</RebalanceAnimalsInPens.verb>
   
-  <!-- EN: refuel fuelable buildings -->
+  <!-- EN: refuel buildings -->
   <Refuel.label>燃料補給</Refuel.label>
   <!-- EN: refueling -->
   <Refuel.gerund>に燃料補給する</Refuel.gerund>
@@ -600,7 +628,7 @@
   <Research.label>研究</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>で研究する</Research.gerund>
-  <!-- EN: research -->
+  <!-- EN: research at -->
   <Research.verb>研究</Research.verb>
   
   <!-- EN: shear animals -->

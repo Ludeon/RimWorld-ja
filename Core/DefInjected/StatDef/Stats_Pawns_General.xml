@@ -51,6 +51,13 @@
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
   <FilthRate.description>この生き物がどれだけ床を汚しやすいかです.\n\n床を汚しやすい家畜は,汚れが問題にならない屋外やわらマットの上のみを歩かせるのが最善です.</FilthRate.description>
   
+  <!-- EN: flight cooldown -->
+  <FlightCooldown.label>飛行の休憩時間</FlightCooldown.label>
+  <!-- EN: The rest time needed before this creature can fly again. -->
+  <FlightCooldown.description>この生物が再び飛べるようになるまでに必要な休憩時間です.</FlightCooldown.description>
+  <!-- EN: {0}s -->
+  <FlightCooldown.formatString>{0}秒</FlightCooldown.formatString>
+  
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>食料調達量</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
@@ -85,6 +92,13 @@
   <LifespanFactor.label>寿命係数</LifespanFactor.label>
   <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
   <LifespanFactor.description>寿命係数は,生物が加齢に伴う病気を発症するまでの時間に影響を与え,生物の有効寿命を変更します.寿命係数が100%を超えると病気の発症が遅くなり寿命が長くなりますが,寿命係数が100%を下回ると病気の発症が早まり寿命が短くなります.</LifespanFactor.description>
+  
+  <!-- EN: max flight time -->
+  <MaxFlightTime.label>最大飛行時間</MaxFlightTime.label>
+  <!-- EN: The maximum amount of time this creature can stay in flight before landing. -->
+  <MaxFlightTime.description>この生物が地面に降りずに飛び続けられる最大時間です.</MaxFlightTime.description>
+  <!-- EN: {0}s -->
+  <MaxFlightTime.formatString>{0}秒</MaxFlightTime.formatString>
   
   <!-- EN: max nutrition -->
   <MaxNutrition.label>最大栄養量</MaxNutrition.label>
@@ -163,5 +177,10 @@
   <ToxicResistance.label>毒耐性</ToxicResistance.label>
   <!-- EN: How well this creature resists toxic buildup. -->
   <ToxicResistance.description>この生物が毒に対してどの程度抵抗できるかです.</ToxicResistance.description>
+  
+  <!-- EN: wildness -->
+  <Wildness.label>野生</Wildness.label>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <Wildness.description>野生に近い動物は手懐けたり,調教したり,従わせるのがより難しくなります.</Wildness.description>
   
 </LanguageData>

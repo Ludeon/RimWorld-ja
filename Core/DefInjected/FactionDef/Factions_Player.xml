@@ -7,6 +7,8 @@
   <PlayerColony.description>直近に到着したコロニーの人達です.</PlayerColony.description>
   <!-- EN: leader -->
   <PlayerColony.leaderTitle>リーダー</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</PlayerColony.messageDefendersAttacking>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>入植者</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
@@ -18,6 +20,8 @@
   <PlayerTribe.description>小さな部族です.</PlayerTribe.description>
   <!-- EN: leader -->
   <PlayerTribe.leaderTitle>リーダー</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</PlayerTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>部族民</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->

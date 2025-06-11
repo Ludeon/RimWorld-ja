@@ -6,4 +6,14 @@
   <!-- EN: A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once. -->
   <AncientCryptosleepPod.description>生体反応を停止させる個人用の仮死化ポッドです.仮死化キャスケットと異なり一度しか使用できません.</AncientCryptosleepPod.description>
   
+  <!-- EN: ancient unstable fuel node -->
+  <AncientFuelNode.label>古代の不安定な燃料ノード</AncientFuelNode.label>
+  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
+  <AncientFuelNode.description>かつてマシンに燃料を注入するために使われていたノードです.整備不足なため極めて不安定な状態にあります.</AncientFuelNode.description>
+  
+  <!-- EN: hermetic crate -->
+  <AncientHermeticCrate.label>密閉容器</AncientHermeticCrate.label>
+  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
+  <AncientHermeticCrate.description>貴重な品物を保管するために自己発電式の密閉装置が組み込まれた容器です.非常に長期間の保存が可能です.</AncientHermeticCrate.description>
+  
 </LanguageData>

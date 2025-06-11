@@ -7,6 +7,9 @@
   <!-- EN: animal productivity -->
   <AnimalProductivity.label>家畜の生産力</AnimalProductivity.label>
   
+  <!-- EN: animal -->
+  <Animals.label>動物</Animals.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>衣服</Apparel.label>
   
@@ -58,8 +61,20 @@
   <!-- EN: Combat -->
   <PawnCombat.label>戦闘</PawnCombat.label>
   
+  <!-- EN: Food -->
+  <PawnFood.label>食物</PawnFood.label>
+  
+  <!-- EN: Health -->
+  <PawnHealth.label>健康</PawnHealth.label>
+  
   <!-- EN: Misc -->
   <PawnMisc.label>その他</PawnMisc.label>
+  
+  <!-- EN: Psyfocus -->
+  <PawnPsyfocus.label>サイフォーカス</PawnPsyfocus.label>
+  
+  <!-- EN: Resistances and sensitivities -->
+  <PawnResistances.label>耐性と感応性</PawnResistances.label>
   
   <!-- EN: Social -->
   <PawnSocial.label>社交</PawnSocial.label>

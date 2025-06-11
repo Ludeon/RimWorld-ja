@@ -16,6 +16,11 @@
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>建物を解体し,その材料の一部を再利用します.</DesignatorDeconstructDesc>
 
+  <!-- EN: Deconstruct conduit -->
+  <DesignatorDeconstructConduit>電力線解体</DesignatorDeconstructConduit>
+  <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
+  <DesignatorDeconstructConduitDesc>電力線を解体し,その材料の一部を回収します.</DesignatorDeconstructConduitDesc>
+
   <!-- EN: Uninstall -->
   <DesignatorUninstall>撤去</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
@@ -45,8 +50,8 @@
 
   <!-- EN: Hunt -->
   <DesignatorHunt>狩猟</DesignatorHunt>
-  <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>動物を狩るために狙いをつけます.</DesignatorHuntDesc>
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <DesignatorHuntDesc>狩猟対象の野生動物に印を付けます.\n\n適切な遠距離武器を持つハンターのみが狩猟を行います.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
   <DesignatorMine>採掘</DesignatorMine>
@@ -73,8 +78,8 @@
 
   <!-- EN: Plan -->
   <DesignatorPlan>予定地</DesignatorPlan>
-  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>予定地を設定します.予定地として印をつけるのみで,実際にはなにもしません.</DesignatorPlanDesc>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones. -->
+  <DesignatorPlanDesc>予定地を設定します.予定地として印をつけるのみで,実際にはなにもしません.\n\n右クリックですべての予定地の表示,非表示を切り替えられます.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
   <DesignatorPlanRemove>予定地を 取り消す</DesignatorPlanRemove>
@@ -167,9 +172,9 @@
   <DesignatorRemoveFloorDesc>床を剥がして地面を出します.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>橋梁解体</DesignatorRemoveBridge>
-  <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>橋梁を解体して,下の地形を露出させます.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridge>橋を解体</DesignatorRemoveBridge>
+  <!-- EN: Deconstruct bridges to reclaim partial resources. -->
+  <DesignatorRemoveBridgeDesc>橋を解体して一部の資源を回収します.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
   <DesignatorStrip>剥ぐ</DesignatorStrip>
@@ -181,6 +186,11 @@
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>箱を開けます.</DesignatorOpenDesc>
   
+  <!-- EN: Eject fuel -->
+  <DesignatorEjectFuel>燃料取り出し</DesignatorEjectFuel>
+  <!-- EN: Eject all contained fuel onto the ground. -->
+  <DesignatorEjectFuelDesc>中の燃料をすべて取り出して地面に置きます.</DesignatorEjectFuelDesc>
+
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>屠殺</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
@@ -190,6 +200,8 @@
   <DesignatorTame>手懐ける</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>野生動物を手懐けます.</DesignatorTameDesc>
+  <!-- EN: Scaria infected animals can't be tamed. -->
+  <CantTameScaria>スカリアに感染した野生動物は手懐けられません.</CantTameScaria>
 
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>野生に返す</DesignatorReleaseAnimalToWild>
@@ -240,6 +252,16 @@
   <!-- EN: Grabbed color -->
   <GrabbedColor>色を取得</GrabbedColor>
 
+  <!-- EN: Expand plan -->
+  <DesignatorExpandPlan>予定地を拡張</DesignatorExpandPlan>
+  <!-- EN: New plan -->
+  <NewPlan>新しい予定地</NewPlan>
+  
+  <!-- EN: Shrink plan -->
+  <DesignatorPlanShrinkSingular>予定地を縮小</DesignatorPlanShrinkSingular>
+  <!-- EN: Remove plans. -->
+  <DesignatorPlanShrinkDesc>予定地を削ります.</DesignatorPlanShrinkDesc>
+
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>素材が選ばれていません.</UnchosenStuff>
@@ -258,7 +280,11 @@
   <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0}が{1}の作用空間をブロックするでしょう.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
-  <TerrainIsAlready>すでにここの地形は{0}です.</TerrainIsAlready>
+  <TerrainIsAlready>この地形はすでに{0}です.</TerrainIsAlready>
+  <!-- EN: There is already foundation here. -->
+  <FoundationAlreadyExists>すでに土台が設置されています.</FoundationAlreadyExists>
+  <!-- EN: The existing terrain here cannot be removed. -->
+  <TerrainUnremovable>この場所の地形は削除できません.</TerrainUnremovable>
   <!-- EN: The surface is already marked for smoothing. -->
   <SurfaceBeingSmoothed>すでにこの表面は磨くよう指示されています.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
@@ -296,9 +322,14 @@
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
-  <ExpandOrCreateZone>{0}を拡張するか\n新しく{1}を作ります.</ExpandOrCreateZone>
+  <ExpandOrCreateZone>{0}を拡張するか\n新しい{1}を作成</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
-  <CreateNewZone>新しく{0}を作ります.</CreateNewZone>
+  <CreateNewZone>新しい{0}を作成</CreateNewZone>
+  
+  <!-- EN: Expand {0} or\nCreate new plan -->
+  <ExpandOrCreatePlan>{0}を拡張するか\n新しい予定地を作成</ExpandOrCreatePlan>
+  <!-- EN: Create new plan -->
+  <CreateNewPlan>新しい予定地を作成</CreateNewPlan>
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->

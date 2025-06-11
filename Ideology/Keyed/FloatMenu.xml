@@ -7,6 +7,8 @@
   <OnlyMembersCanBuild>{0}のみ建築できる</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0}はすでに進行中です.</CantStartRitualAlreadyInProgress>
+  <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
+  <CantStartRitualLayer>{LAYER}{GERUND}では{RITUAL}を行えません.</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
   <CantJoinRitualInExtremeWeather>極端な気温のため,1人以上の参加者が参加できません.</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
@@ -36,8 +38,6 @@
   <!-- EN: not allowed for faction -->
   <NotAllowedForFaction>この派閥は選択できません</NotAllowedForFaction>
 
-  <!-- EN: Remove -->
-  <Remove>削除</Remove>
   <!-- EN: Remove precept -->
   <RemovePrecept>戒律を削除</RemovePrecept>
   <!-- EN: Regenerate -->
@@ -101,17 +101,6 @@
   <IdeoAlreadyHasAltar>祭壇/イデオグラムは一つしか選べない</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>衣服に着色</RecolorApparel>
-
-  <!-- EN: Hack {0} -->
-  <Hack>{0}ハックする</Hack>
-  <!-- EN: Cannot hack {0} -->
-  <CannotHack>{0}はハックできない</CannotHack>
-  <!-- EN: Already hacked -->
-  <AlreadyHacked>すでにハック済みです</AlreadyHacked>
-  <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>ハッキング不可能です</IncapableOfHacking>
-  <!-- EN: to drop supplies -->
-  <ToDropSupplies>物資を落とすために</ToDropSupplies>
 
   <!-- EN: Install {0} -->
   <InstallRelic>{0}をインストールする</InstallRelic>

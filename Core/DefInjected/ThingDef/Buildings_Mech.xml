@@ -1,9 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: mini-slug -->
+  <Bullet_MiniSlug.label>ミニスラグ弾</Bullet_MiniSlug.label>
+  
   <!-- EN: burning power cell -->
   <BurningPowerCell.label>可燃性パワーコア</BurningPowerCell.label>
   <!-- EN: A damaged mechanoid power generation unit. The cell has been destabilized by the death of the mechanoid, and is burning down in seconds. When critically damaged, this cell will explode. -->
   <BurningPowerCell.description>損傷したしたメカノイドの,発電ユニットです.コアはメカノイドの死によって不安定になり,数秒で燃え尽きてしまいます.大きな損傷を受けると爆発します.</BurningPowerCell.description>
+  
+  <!-- EN: mech node -->
+  <Gloomlight.label>メカノード</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>未知の技術で作られた,自己発電型のメカノイドノードです.メカノードは,有用な資源を回収するために解体できますが,ただしそれは,傷つけずに鹵獲できた場合のみに限られます.ユニットが大きなダメージを受けると,内部のマイクロ発電器が炎上し,資源を使い物にならなくします.</Gloomlight.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <Gloomlight.comps.CompInspectString.inspectString>解体して価値ある資源を入手可能.</Gloomlight.comps.CompInspectString.inspectString>
+  
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.label>ミニスラッガー</Gun_MiniTurretMech.label>
+  <!-- EN: An automatic turret-mounted slug-thrower. -->
+  <Gun_MiniTurretMech.description>タレットに装着された自動式スラグ銃です.</Gun_MiniTurretMech.description>
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.verbs.Verb_Shoot.label>ミニスラッガー</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mini-slugger turret -->
+  <Turret_AutoMiniTurret.label>ミニスラッガータレット</Turret_AutoMiniTurret.label>
+  <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
+  <Turret_AutoMiniTurret.description>威力の低い,長射程のスラグ弾を放つ自己給電式タレットです.破壊されると爆発する可能性があります.</Turret_AutoMiniTurret.description>
   
 </LanguageData>

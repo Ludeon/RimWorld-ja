@@ -123,9 +123,17 @@
   <NewColonyOptimism.stages.initial_optimism.description>手強い状況だが,新しい入植地の基礎を築くことに興奮している.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
-  <Nuzzled.stages.nuzzled.label>擦り寄る</Nuzzled.stages.nuzzled.label>
+  <Nuzzled.stages.nuzzled-0.label>擦り寄る</Nuzzled.stages.nuzzled-0.label>
   <!-- EN: A cute animal nuzzled me. -->
-  <Nuzzled.stages.nuzzled.description>かわいい動物が私に擦り寄ってきた.</Nuzzled.stages.nuzzled.description>
+  <Nuzzled.stages.nuzzled-0.description>かわいい動物が私に擦り寄ってきた.</Nuzzled.stages.nuzzled-0.description>
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled-1.label>擦り寄る</Nuzzled.stages.nuzzled-1.label>
+  <!-- EN: It is so cute, and supportive, and loving... I feel fulfilled and refreshed. -->
+  <Nuzzled.stages.nuzzled-1.description>とてもかわいくて,支えになってくれて,愛おしい...心が満たされて,気分がリフレッシュされた.</Nuzzled.stages.nuzzled-1.description>
+  
+  <!-- UNUSED -->
+  <Nuzzled_Improved.stages.nuzzled.label>甘えられる</Nuzzled_Improved.stages.nuzzled.label>
+  <Nuzzled_Improved.stages.nuzzled.description>とてもかわいく,支えられていると感じ,愛されている...満たされ,爽やかになった.</Nuzzled_Improved.stages.nuzzled.description>
   
   <!-- EN: observed corpse -->
   <ObservedLayingCorpse.stages.observed_corpse.label>死体を見た</ObservedLayingCorpse.stages.observed_corpse.label>

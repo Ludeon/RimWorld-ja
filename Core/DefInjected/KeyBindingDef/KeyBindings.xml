@@ -22,11 +22,20 @@
   <!-- EN: deconstruct -->
   <Designator_Deconstruct.label>破壊</Designator_Deconstruct.label>
   
+  <!-- EN: next draw style -->
+  <Designator_NextDrawStyle.label>次のドロースタイル</Designator_NextDrawStyle.label>
+  
+  <!-- EN: previous draw style -->
+  <Designator_PreviousDrawStyle.label>前のドロースタイル</Designator_PreviousDrawStyle.label>
+  
   <!-- EN: rotate left -->
   <Designator_RotateLeft.label>反時計回りに回転</Designator_RotateLeft.label>
   
   <!-- EN: rotate right -->
   <Designator_RotateRight.label>時計回りに回転</Designator_RotateRight.label>
+  
+  <!-- EN: force square dimensions -->
+  <Designator_ShapeSnap.label>正方形モードで設計図を引く</Designator_ShapeSnap.label>
   
   <!-- EN: change selected debug action -->
   <Dev_ChangeSelectedDebugAction.label>選択したdebug actionを変更する</Dev_ChangeSelectedDebugAction.label>

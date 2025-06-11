@@ -7,6 +7,8 @@
   <Entities.fixedName>闇の存在</Entities.fixedName>
   <!-- EN: leader -->
   <Entities.leaderTitle>リーダー</Entities.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Entities.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</Entities.messageDefendersAttacking>
   <!-- EN: entity -->
   <Entities.pawnSingular>「存在」</Entities.pawnSingular>
   <!-- EN: entities -->
@@ -24,6 +26,8 @@
   <HoraxCult.ideoName>悪夢の深み</HoraxCult.ideoName>
   <!-- EN: leader -->
   <HoraxCult.leaderTitle>リーダー</HoraxCult.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <HoraxCult.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</HoraxCult.messageDefendersAttacking>
   <!-- EN: member -->
   <HoraxCult.pawnSingular>教団員</HoraxCult.pawnSingular>
   <!-- EN: cultists -->

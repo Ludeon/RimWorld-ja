@@ -70,11 +70,6 @@
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>入植者が埋葬されずに放置されている.\n\nこれはコロニーに悪影響を及ぼします.</AlertColonistLeftUnburiedDesc>
 
-  <!-- EN: Hunter lacks suitable weapon -->
-  <HunterLacksWeapon>適切な武装が必要</HunterLacksWeapon>
-  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
-  <HunterLacksWeaponDesc>「狩猟」作業を与えられた入植者が,狩猟に適した遠距離武器を装備していません.\n\n狩人は狩猟に適した武器がないと狩りを行いません.\n\n以下の入植者は狩人として割り当てられているため,適切な遠距離武器が必要です</HunterLacksWeaponDesc>
-
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
@@ -152,8 +147,10 @@
   <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
   <NeedResearchProjectDesc>研究用機器があるのに,なにも計画してません.\n\n(クリックすると「研究」タブを開けます)</NeedResearchProjectDesc>
 
+  <!-- EN: 1 colonist idle -->
+  <ColonistIdle>1人の入植者に作業を</ColonistIdle>
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
+  <ColonistsIdle>{0}人の入植者に作業を</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>次の入植者は作業が無く,ぶらぶらしています:\n{0}\n\n何か生産的な作業を見つけてあげましょう.</ColonistsIdleDesc>
   
@@ -334,4 +331,8 @@
   <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
   <NeedResearchBenchDesc>研究プロジェクト'{0}'を研究中です.このプロジェクトを続けるには{1}を建築する必要があります.</NeedResearchBenchDesc>
   
+  <!-- UNUSED -->
+  <HunterLacksWeapon>適切な武装が必要</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>「狩猟」作業を与えられた入植者が,狩猟に適した遠距離武器を装備していません.\n\n狩人は狩猟に適した武器がないと狩りを行いません.\n\n以下の入植者は狩人として割り当てられているため,適切な遠距離武器が必要です</HunterLacksWeaponDesc>
+
 </LanguageData>

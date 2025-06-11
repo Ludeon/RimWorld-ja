@@ -11,12 +11,32 @@
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
   <CaravanPackingSpot.description>家畜をつなぎとめてキャラバン隊を編成する場所を指示します.キャラバンに荷物を積載する間,家畜をこの場所に繋ぎとめます.また,ホームから離れた場所で敵と戦う間にこれを使用して,家畜が彷徨うのを防ぐこともできます.</CaravanPackingSpot.description>
   
+  <!-- EN: cave exit -->
+  <CaveExit.label>洞窟の出口</CaveExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <CaveExit.description>地上と繋がるロープです.</CaveExit.description>
+  
   <!-- EN: comms console -->
   <CommsConsole.label>通信機</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
   <CommsConsole.description>惑星軌道上の商船や, 他の派閥と,貿易や交渉を行うために必要な通信機です.</CommsConsole.description>
   <!-- EN: Summon diabolus threat -->
   <CommsConsole.comps.CompUsable.useLabel>ディアボロスの脅威を呼び出す</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: crater -->
+  <CraterLarge.label>クレーター</CraterLarge.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterLarge.description>強力な武器によって爆発した場所です.</CraterLarge.description>
+  
+  <!-- EN: crater -->
+  <CraterMedium.label>クレーター</CraterMedium.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterMedium.description>強力な武器によって爆発した場所です.</CraterMedium.description>
+  
+  <!-- EN: crater -->
+  <CraterSmall.label>クレーター</CraterSmall.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterSmall.description>強力な武器によって爆発した場所です.</CraterSmall.description>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>冬眠カプセル</CryptosleepCasket.label>
@@ -110,8 +130,8 @@
   
   <!-- EN: transport pod -->
   <TransportPod.label>輸送ポッド</TransportPod.label>
-  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>人や,動物,アイテムを乗せて運べる,打ち上げ可能な大気圏外輸送カーゴポッドです.人や物資,贈り物の輸送,大気圏外からの奇襲降下や,増援などを行うことができます.</TransportPod.description>
+  <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>人や動物,物品を乗せて運べる,打ち上げ可能なカーゴポッドです.人や物資,贈り物の輸送,奇襲降下攻撃や,増援などを行うことができます.</TransportPod.description>
   
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>

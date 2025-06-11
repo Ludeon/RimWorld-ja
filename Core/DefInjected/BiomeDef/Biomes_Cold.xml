@@ -14,12 +14,16 @@
   <!-- EN: ice sheet -->
   <IceSheet.label>大氷原</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
-  <IceSheet.description>何キロの厚さもある氷床.土壌が無いので植物は育ちません.ここにいる動物達は,他へ移住している途中か - さもなくば死に絶えます.</IceSheet.description>
+  <IceSheet.description>何キロの厚さもある氷床です.土壌が無いので植物は育ちません.ここにいる動物達はどこか別の場所に移動している途中か,もしくは完全に迷い込んでしまったかのどちらかです.</IceSheet.description>
+  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>大氷原は極めて過酷な場所です.植物の育つ土壌がなく,動物もほとんどいません.長期的に生き残ることは非常に困難でしょう.</IceSheet.settleWarning>
   
   <!-- EN: sea ice -->
   <SeaIce.label>海氷</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
-  <SeaIce.description>水の上に永久的な氷床が浮かんでいます.ここには植物が育つための土壌はなく,鉱物資源もなく,ほとんど動物もいません.</SeaIce.description>
+  <SeaIce.description>水の上に浮かぶ永久的に溶けない氷床です.ここには植物が育つための土壌はなく,鉱物資源もなく,ほとんど動物もいません.</SeaIce.description>
+  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>海氷は極めて過酷な場所です.植物の育つ土壌がなく,動物もほとんどいません.長期的に生き残ることは非常に困難でしょう.</SeaIce.settleWarning>
   
   <!-- EN: tundra -->
   <Tundra.label>ツンドラ</Tundra.label>

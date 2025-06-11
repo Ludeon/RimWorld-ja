@@ -35,6 +35,11 @@
     <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
     <li>lodgersAllArrestedLetterLabel->Quest failed</li>
     <li>lodgersAllArrestedLetterText->You arrested {SUBJECT_definite}, the [lastOrNot] desperate [faction_pawnSingular] [whoAskedToStay].\n\n[questOver]</li>
+    <li>letterIntroLeftBehind->{SUBJECT_definite}, [oneOfThe], was left behind.</li>
+    <li>lodgerLeftBehindMemoryThoughtLetterLabel->[lodgersLabel] left behind: Anger</li>
+    <li>lodgerLeftBehindMemoryThoughtLetterText->[letterIntroLeftBehind]\n\n[appalledButNoAction]</li>
+    <li>lodgerLeftBehindLeaveMapLetterLabel->[lodgersLabel] left behind: Departure</li>
+    <li>lodgerLeftBehindLeaveMapLetterText->[letterIntroLeftBehind]\n\n[decidedToLeave]</li>
     <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
     <li>lodgerViolatedMemoryThoughtLetterLabel->[lodgersLabel] violated: Anger</li>
     <li>lodgerViolatedMemoryThoughtLetterText->[letterIntroViolated]\n\n[appalledButNoAction]</li>
@@ -90,6 +95,11 @@
     <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
     <li>lodgersAllArrestedLetterLabel->クエスト失敗</li>
     <li>lodgersAllArrestedLetterText->[whoAskedToStay],絶望的な状況にある[lastOrNot][faction_pawnSingular],{SUBJECT_definite}を拘束しました.\n\n[questOver]</li>
+    <li>letterIntroLeftBehind->[oneOfThe],{SUBJECT_definite}が置き去りにされました.</li>
+    <li>lodgerLeftBehindMemoryThoughtLetterLabel->[lodgersLabel]が置き去りにされた: 怒り</li>
+    <li>lodgerLeftBehindMemoryThoughtLetterText->[letterIntroLeftBehind]\n\n[appalledButNoAction]</li>
+    <li>lodgerLeftBehindLeaveMapLetterLabel->[lodgersLabel]が置き去りにされた: 離脱</li>
+    <li>lodgerLeftBehindLeaveMapLetterText->[letterIntroLeftBehind]\n\n[decidedToLeave]</li>
     <li>letterIntroViolated->[oneOfThe],{SUBJECT_definite}が不当に手術をされました.</li>
     <li>lodgerViolatedMemoryThoughtLetterLabel->[lodgersLabel]が不当に扱われた: 怒り</li>
     <li>lodgerViolatedMemoryThoughtLetterText->[letterIntroViolated]\n\n[appalledButNoAction]</li>

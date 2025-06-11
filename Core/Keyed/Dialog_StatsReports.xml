@@ -142,6 +142,8 @@
   <StatsReport_Ideoligion>思想</StatsReport_Ideoligion>
   <!-- EN: Multiplier for malnutrition {0} -->
   <StatsReport_Malnutrition>{0}栄養失調による掛け率</StatsReport_Malnutrition>
+  <!-- EN: Optimal room -->
+  <StatsReport_OptimalRoom>最適な部屋</StatsReport_OptimalRoom> <!-- text_todo -->
 
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>適用可能な増減量</StatReport_PossibleOffsets>
@@ -246,6 +248,14 @@
   <Stat_Race_RoamInterval_Desc>飼いならされた家畜が遠くまで徘徊して,マップから出ていこうとする頻度です.\n\n家畜は,マップの端へ直接移動できる経路がある場合のみ徘徊します.フェンスやバリケード,壁,ドアを使用することで,これを防ぐことができます.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>これを摂取することの娯楽的価値です.数値が高いほど,この娯楽の必要性が高まります.</Stat_Thing_Ingestible_Joy_Desc>
+  <!-- EN: The weight of this creature and their equipment. -->
+  <Stat_Mass_Desc>この生物と装備している物の総重量です.</Stat_Mass_Desc>
+  <!-- EN: Base mass -->
+  <Stat_Mass_Base>基本的な重さ</Stat_Mass_Base>
+  <!-- EN: Mass from equipment -->
+  <Stat_Mass_Equipment>装備による重さ</Stat_Mass_Equipment>
+  <!-- EN: Total mass -->
+  <Stat_Mass_Total>合計の重さ</Stat_Mass_Total>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
   <Stat_Race_BodySize_Desc>一般的なヒトと比較したときの,この生物の体格です.</Stat_Race_BodySize_Desc>
   <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
@@ -260,6 +270,12 @@
   <Stat_Thing_Weapon_BurstShotFireRate_Desc>バースト射撃時の発射速度です.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
   <!-- EN: The maximum range of this weapon. -->
   <Stat_Thing_Weapon_Range_Desc>この武器の最大射程です.</Stat_Thing_Weapon_Range_Desc>
+  <!-- EN: Range multiplier -->
+  <Stat_Thing_Weapon_Range_Multiplier>射程掛け率</Stat_Thing_Weapon_Range_Multiplier>
+  <!-- EN: Reduced from {ORIGINAL} to {CAP} by weather. -->
+  <Stat_Thing_Weapon_Range_Clamped>天候が原因で{ORIGINAL}から{CAP}に減っています.</Stat_Thing_Weapon_Range_Clamped>
+  <!-- EN: Aiming time multiplier -->
+  <Stat_Thing_Weapon_WarmupTime_Multiplier>照準時間掛け率</Stat_Thing_Weapon_WarmupTime_Multiplier>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
   <Stat_Thing_Weapon_MissRadius_Desc>この武器を発射したときに着弾位置がばらつく範囲です.\n\n高い数値ほど着弾地点はターゲットの周りにばらつきます.</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
@@ -396,6 +412,8 @@
   <Stat_Thing_TurretDesc>この生物が持っている武器です.</Stat_Thing_TurretDesc>
   <!-- EN: The ingredients needed to make this. -->
   <Stat_Thing_Ingredients>これを作るのに必要な材料です.</Stat_Thing_Ingredients>
+  <!-- EN: Working at this building will be slower if it’s not in this room type. -->
+  <Stat_Building_OptimalRoom_Desc>部屋の種類がこれ以外の場合,この建築物での作業速度が低下します.</Stat_Building_OptimalRoom_Desc> <!-- text_todo -->
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
@@ -551,4 +569,18 @@
   <ContainedBookBeauty>収納された本による美しさ</ContainedBookBeauty>
   <!-- EN: {0} hits -->
   <Stat_TrapDamageHitCount>{0}ヒット</Stat_TrapDamageHitCount>
+
+  <!-- EN: The amount of progress that has been made towards hacking this object. -->
+  <Stat_Thing_HackingProgress>このオブジェクトのハッキングに向けて行われた進捗です.</Stat_Thing_HackingProgress>
+
+  <!-- EN: Multiplier for {0} terrain -->
+  <StatsReport_TerrainSpeedMultiplier>地形'{0}'による掛け率</StatsReport_TerrainSpeedMultiplier>
+
+  <!-- EN: {0} trained -->
+  <StatsReport_Trainable>訓練された({0})</StatsReport_Trainable>
+  <!-- EN: Available training -->
+  <StatsReport_AvailableTraining>可能な訓練</StatsReport_AvailableTraining>
+  <!-- EN: The tasks that this creature can be trained to perform. The available training is dependent on the creature's trainability, body size, and species. -->
+  <StatsReport_AvailableTraining_Desc>この生物が訓練によって行えるようになる行動です.可能な訓練は生物の調教しやすさ,体格,種類によって変わります.</StatsReport_AvailableTraining_Desc>
+  
 </LanguageData>

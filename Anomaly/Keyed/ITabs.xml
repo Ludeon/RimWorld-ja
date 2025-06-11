@@ -4,7 +4,7 @@
   <!-- ITab_Entity -->
   <!-- EN: Escape interval -->
   <HoldingPlatformEscapeMTBDays>脱走間隔</HoldingPlatformEscapeMTBDays>
-  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity’s movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
+  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity's movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
   <HoldingPlatformEscapeMTBDaysDesc>脱走するまでの平均時間です.これは収容強度,「存在」の種類,「存在」の移動能力,「存在」の収容間に影響されます.また,寒さによって抑制される「存在」もいます.</HoldingPlatformEscapeMTBDaysDesc>
   <!-- EN: Entity -->
   <TabEntity>「存在」</TabEntity>
@@ -30,7 +30,7 @@
   <EntityStudyMode_ExecuteDesc>看守が拘束した「存在」を処刑します.</EntityStudyMode_ExecuteDesc>
   <!-- EN: Extract bioferrite -->
   <EntityStudyMode_Extract>バイオフェライト抽出</EntityStudyMode_Extract>
-  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester. -->
+  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can't be done if the entity is attached to a bioferrite harvester. -->
   <EntityStudyMode_ExtractDesc>可能な限り,医者は捕獲された「存在」からバイオフェライトを抽出します.この抽出方法は単純ですが非効率的です.「存在」がバイオフェライトハーベスターに接続されている場合は実行できません.</EntityStudyMode_ExtractDesc>
   <!-- EN: Requires bioferrite extraction. -->
   <RequiresBioferriteExtraction>バイオフェライトの抽出が必要です.</RequiresBioferriteExtraction>

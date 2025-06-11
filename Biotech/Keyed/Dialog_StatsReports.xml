@@ -107,8 +107,6 @@
   <PassionModAdd>{0_label}に一段階の情熱を追加します.</PassionModAdd>
   <!-- EN: Removes all passion in {0_label}. -->
   <PassionModDrop>{0_label}に情熱が付きません.</PassionModDrop>
-  <!-- EN: Causes need -->
-  <CausesNeed>主張する欲求</CausesNeed>
   <!-- EN: Gives ability -->
   <GivesAbility>能力を追加</GivesAbility>
   <!-- EN: Gives abilities -->
@@ -117,10 +115,6 @@
   <ResourceLossPerDay>一日ごとに{RESOURCE}:{OFFSET}</ResourceLossPerDay>
   <!-- EN: Removes -->
   <Removes>削除</Removes>
-  <!-- EN: Disables need -->
-  <DisablesNeed>欲求を無効</DisablesNeed>
-  <!-- EN: Disables needs -->
-  <DisablesNeeds>欲求を無効</DisablesNeeds>
   <!-- EN: Baby -->
   <DevelopmentStage_Baby>幼児</DevelopmentStage_Baby>
   <!-- EN: Child -->
@@ -139,5 +133,8 @@
   <GeneOverdoseImmune>この遺伝子の保有者は{0_label}を過剰摂取できません.</GeneOverdoseImmune>
   <!-- EN: Carriers are {1} as likely to overdose on {0_label}. -->
   <GeneOverdoseFactor>この遺伝子の保有者は{0_label}を過剰摂取する可能性が{1}あります.</GeneOverdoseFactor>
+
+  <!-- UNUSED -->
+  <CausesNeed>主張する欲求</CausesNeed>
 
 </LanguageData>

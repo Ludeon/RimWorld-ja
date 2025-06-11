@@ -52,6 +52,9 @@
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TargetAを除装している</DropEquipment.reportString>
   
+  <!-- EN: Ejecting fuel from TargetA. -->
+  <EjectFuel.reportString>TargetAから燃料を取り出している</EjectFuel.reportString>
+  
   <!-- EN: emptying TargetA. -->
   <EmptyThingContainer.reportString>TargetAを空にしている</EmptyThingContainer.reportString>
   
@@ -94,6 +97,9 @@
   <!-- EN: following TargetA. -->
   <FollowRoper.reportString>TargetAに引かれている</FollowRoper.reportString>
   
+  <!-- EN: making TargetA wear TargetB. -->
+  <ForceTargetWear.reportString>TargetAにTargetBを着せている</ForceTargetWear.reportString>
+  
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>TargetAを与えている</GiveToPackAnimal.reportString>
   
@@ -129,6 +135,9 @@
   
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>TargetAを摂っている</Ingest.reportString>
+  
+  <!-- EN: installing TargetB in TargetA. -->
+  <InstallImplant.reportString>TargetAにTargetBを使用している</InstallImplant.reportString>
   
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>TargetAを侮辱している</Insult.reportString>

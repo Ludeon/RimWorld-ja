@@ -94,7 +94,11 @@
   <!-- EN: Shuttle destroyed -->
   <PawnLend.LetterLabelShuttleDestroyed.slateRef>シャトル破壊</PawnLend.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
-  <PawnLend.LetterTextShuttleDestroyed.slateRef>入植者を乗せるはずのシャトルが破壊された.</PawnLend.LetterTextShuttleDestroyed.slateRef>
+  <PawnLend.LetterTextShuttleDestroyed.slateRef>入植者を乗せるために送られたシャトルが破壊されました.</PawnLend.LetterTextShuttleDestroyed.slateRef>
+  <!-- EN: Shuttle abandoned -->
+  <PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.label.slateRef>シャトルが放棄された</PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.label.slateRef>
+  <!-- EN: The shuttle sent to collect colonists has been left behind. -->
+  <PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>入植者を乗せるために送られたシャトルが置き去りにされました.</PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>
   <!-- EN: Colonists returned -->
   <PawnLend.LetterLabelColonistsReturned.slateRef>入植者の帰還</PawnLend.LetterLabelColonistsReturned.slateRef>
   

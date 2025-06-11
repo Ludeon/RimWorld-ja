@@ -21,6 +21,11 @@
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyTouch.description>この武器の3セル以下の至近距離での命中精度です.\n\n実際の命中率は様々な要因の影響を受けます.</AccuracyTouch.description>
   
+  <!-- EN: armor penetration multiplier -->
+  <RangedWeapon_ArmorPenetrationMultiplier.label>AP値掛け率</RangedWeapon_ArmorPenetrationMultiplier.label>
+  <!-- EN: A multiplier applied to armor penetration. -->
+  <RangedWeapon_ArmorPenetrationMultiplier.description>アーマー貫通力に適用される掛け率です.</RangedWeapon_ArmorPenetrationMultiplier.description>
+  
   <!-- EN: ranged cooldown -->
   <RangedWeapon_Cooldown.label>クールダウン時間(遠距離武器)</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
@@ -30,7 +35,17 @@
   
   <!-- EN: damage multiplier -->
   <RangedWeapon_DamageMultiplier.label>ダメージ掛け率</RangedWeapon_DamageMultiplier.label>
-  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
-  <RangedWeapon_DamageMultiplier.description>この武器より発射された弾丸に適用するダメージ掛け率です.</RangedWeapon_DamageMultiplier.description>
+  <!-- EN: A multiplier applied to this weapon's damage. -->
+  <RangedWeapon_DamageMultiplier.description>この武器に適用されるダメージ掛け率です.</RangedWeapon_DamageMultiplier.description>
+  
+  <!-- EN: range multiplier -->
+  <RangedWeapon_RangeMultiplier.label>射程掛け率</RangedWeapon_RangeMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's range. -->
+  <RangedWeapon_RangeMultiplier.description>この武器の射程に適用される掛け率です.</RangedWeapon_RangeMultiplier.description>
+  
+  <!-- EN: aiming time multiplier -->
+  <RangedWeapon_WarmupMultiplier.label>照準時間掛け率</RangedWeapon_WarmupMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's aiming time. -->
+  <RangedWeapon_WarmupMultiplier.description>この武器の照準時間に適用される掛け率です.</RangedWeapon_WarmupMultiplier.description>
   
 </LanguageData>

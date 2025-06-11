@@ -23,5 +23,9 @@
   <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>労働者が死亡: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
   <Permit_CallLaborers.LetterTextLaborerDied.slateRef>[permitFaction_name]から送られた労働者が死亡しました.[permitFaction_name]との友好値が[goodwillPenaltyPawn]減少しました.</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+  <!-- EN: Laborer abandoned: {SUBJECT_definite} -->
+  <Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>労働者を見捨てた: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>
+  <!-- EN: A laborer sent to you by [permitFaction_name] has been left behind. Any remaining laborers will now leave. -->
+  <Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>[permitFaction_name]から送られた労働者が置き去りにされました.残された労働者は立ち去ります.</Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>
   
 </LanguageData>

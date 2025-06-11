@@ -1,9 +1,136 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: ancient barrel -->
+  <AncientBarrel.label>古代の樽</AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <AncientBarrel.description>かつてはある種の廃棄物が入れられていたであろう壊れた樽です.今となってはヘドロと乾いた汚物がへばりついてるだけです.</AncientBarrel.description>
+  
+  <!-- EN: ancient basic recharger -->
+  <AncientBasicRecharger.label>古代の基本充電器</AncientBasicRecharger.label>
+  <!-- EN: An ancient basic recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientBasicRecharger.description>古代の基本充電器です.貴重な部品は失われており,残ったものも劣化して使い物になりません.</AncientBasicRecharger.description>
+  
+  <!-- EN: ancient bed -->
+  <AncientBed.label>古代のベッド</AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <AncientBed.description>錆びたフレームに古くて腐ったマットレスが載せられたものです.老朽化して修繕はできませんが,不快なりに寝ることはできます.</AncientBed.description>
+  
+  <!-- EN: ancient crate -->
+  <AncientCrate.label>古代の容器</AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <AncientCrate.description>壊れた古代の容器です.貴重品はなく何の役にも立ちません.</AncientCrate.description>
+  
+  <!-- EN: ancient display bank -->
+  <AncientDisplayBank.label>古代のディスプレイ</AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientDisplayBank.description>古代のコンピュータインターフェイスです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientDisplayBank.description>
+  
+  <!-- EN: ancient equipment blocks -->
+  <AncientEquipmentBlocks.label>古代の部品の塊</AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientEquipmentBlocks.description>機能さえ不明な古代の部品の塊です.貴重な部品が失われている為,他の部分も役に立ちません.</AncientEquipmentBlocks.description>
+  
+  <!-- EN: ancient generator -->
+  <AncientGenerator.label>古代のジェネレータ</AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <AncientGenerator.description>古代の発電機です.使える部品は長い間に壊されたり奪われされたりしており,他の部分は錆びて役に立たなくなっています.</AncientGenerator.description>
+  
+  <!-- EN: ancient kitchen sink -->
+  <AncientKitchenSink.label>古代のキッチンシンク</AncientKitchenSink.label>
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <AncientKitchenSink.description>非金属の繊維シートを組み合わせて作られた古代の流し台です.ひどく劣化していてどうやっても使いようがありません.\n\nどうしてこんな所にあるのか,おそらく気の遠くなるような話なのでしょう.</AncientKitchenSink.description>
+  
   <!-- EN: ancient lamp -->
   <AncientLamp.label>古代のランプ</AncientLamp.label>
   <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
   <AncientLamp.description>古代の自己発電式ランプです.内部電源は消耗しきってますが,まだぼんやりと光を放っています.</AncientLamp.description>
+  
+  <!-- EN: ancient large mech gestator -->
+  <AncientLargeMechGestator.label>古代の大型メカ培養槽</AncientLargeMechGestator.label>
+  <!-- EN: An ancient large mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientLargeMechGestator.description>古代の大型メカ培養槽です.貴重な部品は失われており,残ったものも劣化して使い物になりません.</AncientLargeMechGestator.description>
+  
+  <!-- EN: ancient locker bank -->
+  <AncientLockerBank.label>古代のロッカー</AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <AncientLockerBank.description>古代の錆びたロッカーです.全ての扉がこじ開けられ役に立つものは残っていません.</AncientLockerBank.description>
+  
+  <!-- EN: ancient machine -->
+  <AncientMachine.label>古代の機械</AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMachine.description>未知の機器で満たされた古代の機械ケースです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientMachine.description>
+  
+  <!-- EN: ancient mech drop beacon -->
+  <AncientMechDropBeacon.label>古代のメカノイドのビーコン</AncientMechDropBeacon.label>
+  <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
+  <AncientMechDropBeacon.description>壊れたドロップビーコンの外殻です.有用なコンポーネントは失われており,外殻も年月によって劣化しています.</AncientMechDropBeacon.description>
+  
+  <!-- EN: ancient mech gestator -->
+  <AncientMechGestator.label>古代のメカ培養槽</AncientMechGestator.label>
+  <!-- EN: An ancient mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMechGestator.description>古代のメカ培養槽です.貴重な部品は失われており,残ったものも劣化して使い物になりません.</AncientMechGestator.description>
+  
+  <!-- EN: ancient mech vat -->
+  <AncientMechGestatorTank.label>古代のメカ容器</AncientMechGestatorTank.label>
+  <!-- EN: An ancient device capable of forming new mechanoids, and sustaining injured mechanoids while they rejuvenate. -->
+  <AncientMechGestatorTank.description>新しいメカノイドを形成し,怪我したメカノイドを若返らせつつ回復する古代の装置です.</AncientMechGestatorTank.description>
+  <!-- EN: A {0_labelShort} has emerged from a mech vat. -->
+  <AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>{0_labelShort}がメカ容器から出現しました.</AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>
+  
+  <!-- EN: ancient microwave -->
+  <AncientMicrowave.label>古代の電子レンジ</AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientMicrowave.description>食品を加熱するための古代の装置です.砕けて錆びてしまい,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</AncientMicrowave.description>
+  
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>古代の軍用容器</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>古代の軍用と思われる容器です.大昔から壊れており,かつてそこに含まれていた貴重品は略奪されました.</AncientMilitaryCrate.description>
+  
+  <!-- EN: ancient operating table -->
+  <AncientOperatingTable.label>古代の手術台</AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <AncientOperatingTable.description>かつて外科手術に使用された台です.とっくの昔に役に立たなくなっています.</AncientOperatingTable.description>
+  
+  <!-- EN: ancient oven -->
+  <AncientOven.label>古代のオーブン</AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientOven.description>古代のオーブンです.砕けて錆びてしまい,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</AncientOven.description>
+  
+  <!-- EN: ancient refrigerator -->
+  <AncientRefrigerator.label>古代の冷蔵庫</AncientRefrigerator.label>
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <AncientRefrigerator.description>古代の冷蔵庫です.ずっと前に有用な部品は失われました.</AncientRefrigerator.description>
+  
+  <!-- EN: ancient security turret -->
+  <AncientSecurityTurret.label>古代の警備タレット</AncientSecurityTurret.label>
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <AncientSecurityTurret.description>古代の壊れた警備タレットです.有用な部品は全て奪われたか破壊されました.</AncientSecurityTurret.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>古代の円柱型容器</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>古代の壊れた容器です.かつて含まれていた貴重品はずっと昔に取られました.</AncientSpacerCrate.description>
+  
+  <!-- EN: ancient standard recharger -->
+  <AncientStandardRecharger.label>古代の標準充電器</AncientStandardRecharger.label>
+  <!-- EN: An ancient standard recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStandardRecharger.description>古代の標準充電器です.貴重な部品は失われており,残ったものも劣化して使い物になりません.</AncientStandardRecharger.description>
+  
+  <!-- EN: ancient storage cylinder -->
+  <AncientStorageCylinder.label>古代の貯蔵シリンダー</AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStorageCylinder.description>かつてはある種の液体を満たしていたと思われるシリンダーです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientStorageCylinder.description>
+  
+  <!-- EN: ancient stove -->
+  <AncientStove.label>古代のカマド</AncientStove.label>
+  <!-- EN: An old stove. Smashed and rusted, it is now completely useless. -->
+  <AncientStove.description>古いカマドです.砕けて錆びてしまい,今ではまったく役に立たなくなっています.</AncientStove.description>
+  
+  <!-- EN: ancient system rack -->
+  <AncientSystemRack.label>古代のシステムラック</AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientSystemRack.description>識別不能なデバイスが埋め込まれた古代のラックユニットです.貴重な部品が失われている為,他の部分も役に立ちません.</AncientSystemRack.description>
   
 </LanguageData>

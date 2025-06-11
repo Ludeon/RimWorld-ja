@@ -116,6 +116,8 @@
   <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>派閥</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>詳細設定</AdvancedSettings>
 
   <!-- Select world -->
   <!-- EN: Select world -->
@@ -481,6 +483,10 @@
   <Difficulty_UnwaveringPrisoners_Label>動じない囚人を追加</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
   <Difficulty_UnwaveringPrisoners_Info>このオプションは,揺るぎない忠誠心を持ち勧誘できない囚人をゲームに追加します.\n\n動じない囚人は通常の囚人とは別に追加されるため,これをオフにしても勧誘可能な囚人は増えません.動じない囚人が削除されるだけです.\n\n動じない囚人は,外交上の利益のために解放したり,売却したり,奴隷にしたり,臓器を摘出したり,それ以外にもいくつかの手段で利用できます.一般に,この設定はより多くのオプションとリソースを提供し,ゲームをより豊かで簡単にします.</Difficulty_UnwaveringPrisoners_Info>
+  <!-- EN: Nomadic mineable resources -->
+  <Difficulty_NomadicMineableResourcesFactor_Label>遊牧的な採掘資源</Difficulty_NomadicMineableResourcesFactor_Label>
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
+  <Difficulty_NomadicMineableResourcesFactor_Info>2回目以降に生成されるマップでの,採掘できる資源の量を調整します.\n\n注：一番最初のコロニーマップでは必ず通常量の資源が生成されます.</Difficulty_NomadicMineableResourcesFactor_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>プレイヤーツール</DifficultyPlayerToolsSection>
@@ -560,6 +566,8 @@
   <River>川</River>
   <!-- EN: Elevation -->
   <Elevation>高度</Elevation>
+  <!-- EN: Features -->
+  <TileMutators>特徴</TileMutators>
   <!-- EN: Fertility -->
   <Fertility>豊穣</Fertility>
   <!-- EN: fertility -->
@@ -721,6 +729,12 @@
   <ClickForMoreInfo>クリックで詳細を見る.</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>これ以上の情報はありません.</NoMoreInfoAvailable>
+  <!-- EN: Best skill -->
+  <BestSkillLabel>最も高いスキル</BestSkillLabel>
+  <!-- EN: {PAWN_nameDef}'s best stat -->
+  <BestSkillLetterLabel>{PAWN_nameDef}の最も高いスキル</BestSkillLetterLabel> <!-- text_todo -->
+  <!-- EN: skill level {0} -->
+  <BestSkillInfoLevel>スキルレベル {0}</BestSkillInfoLevel>
 
   <!-- Factions -->
   <!-- EN: Factions -->
@@ -738,6 +752,8 @@
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
   <MechanoidsDisabledContentWarning>{0}を無効にすると,クエストの数と一部の脅威の種類が少なくなります.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>他の派閥がない場合,襲撃,取引,クエストが通常どおりに発生しません.</FactionsDisabledWarning>
+  <FactionsDisabledWarning>派閥が1つもない場合,襲撃,取引,クエストが通常どおりに発生しません.</FactionsDisabledWarning>
+  <!-- EN: Cannot be removed for this scenario. -->
+  <FactionRemovalDisabled>このシナリオでは削除できません.</FactionRemovalDisabled>
 
 </LanguageData>

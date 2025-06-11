@@ -59,8 +59,8 @@
   <LetterRoleLostReasonLowBelieversDesc>{0}の数が少ないため,役割が使用不可になりました.</LetterRoleLostReasonLowBelieversDesc>
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
   <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort}は{OLDIDEO_name}の思想を放棄したため,{ROLE_labelDef}としての地位を失いました.</LetterRoleLostLetterIdeoChangedPostfix>
-  <!-- EN: {0} skipped. -->
-  <LetterObligationRoleInactive>{0}がスキップされました.</LetterObligationRoleInactive>
+  <!-- EN: {0} skipped -->
+  <LetterObligationRoleInactive>{0}がスキップされた</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
   <LetterObligationRoleInactiveDateDesc>{0}の日付は{1}ですが,{ROLE_labelDef}の役割が使用不可なため,{2}は{1}をスキップします.</LetterObligationRoleInactiveDateDesc>
   

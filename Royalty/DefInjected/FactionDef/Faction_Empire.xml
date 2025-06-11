@@ -7,6 +7,8 @@
   <Empire.description>惑星ソフィアムンダからやって来た,最先端技術を有する難民の共同体です.彼らの文化は,行動規範と,厳格な階級制度,そして強制された社会的停滞に基づいています.\n\nソフィア社会をバラバラに引き裂いた大災害から生き残った彼らは,残った艦隊を使ってリムワールドに逃げました.多くを失ったにもかかわらず,彼らの船と技術は依然として強力です.\n\n彼らは適切な爵位を持たない者との交渉を拒否します.</Empire.description>
   <!-- EN: high stellarch -->
   <Empire.leaderTitle>星王</Empire.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Empire.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</Empire.messageDefendersAttacking>
   <!-- EN: imperial -->
   <Empire.pawnSingular>帝国</Empire.pawnSingular>
   <!-- EN: imperials -->

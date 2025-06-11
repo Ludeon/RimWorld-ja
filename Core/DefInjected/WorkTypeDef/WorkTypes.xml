@@ -13,9 +13,9 @@
   <Art.verb>芸術</Art.verb>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>スキルが不要な雑用です.囚人の釈放,機械類のスイッチをオンオフします.</BasicWorker.description>
-  <!-- EN: dealing with -->
-  <BasicWorker.gerundLabel>対応</BasicWorker.gerundLabel>
+  <BasicWorker.description>スキルが不要な簡単な雑用です.囚人の釈放,機械類のスイッチをオンオフします.</BasicWorker.description>
+  <!-- EN: basic tasks -->
+  <BasicWorker.gerundLabel>雑務</BasicWorker.gerundLabel>
   <!-- EN: basic -->
   <BasicWorker.labelShort>雑用</BasicWorker.labelShort>
   <!-- EN: Worker -->
@@ -122,8 +122,8 @@
   <!-- EN: Haul -->
   <Hauling.verb>運ぶ</Hauling.verb>
   
-  <!-- EN: Kill animals which are designated to be hunted. -->
-  <Hunting.description>獲物と指示された動物を狩ります.</Hunting.description>
+  <!-- EN: Kill animals which are designated to be hunted and fish in fishing zones. -->
+  <Hunting.description>指示された動物を狩り,釣りゾーンで釣りをします.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>狩猟</Hunting.gerundLabel>
   <!-- EN: hunt -->

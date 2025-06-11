@@ -4,10 +4,19 @@
   <!-- EN: starting people -->
   <ConfigPage_ConfigureStartingPawns.label>開始時の人数</ConfigPage_ConfigureStartingPawns.label>
   
+  <!-- EN: forced map -->
+  <ForcedMap.label>マップを指定</ForcedMap.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayerFixed.label>惑星レイヤータイプ</PlanetLayerFixed.label>
+  
   <!-- EN: Player faction -->
   <PlayerFaction.label>プレイヤーの派閥</PlayerFaction.label>
   
   <!-- EN: arrival method -->
   <PlayerPawnsArriveMethod.label>登場方法</PlayerPawnsArriveMethod.label>
+  
+  <!-- EN: surface layer type -->
+  <SurfaceLayerFixed.label>地表レイヤータイプ</SurfaceLayerFixed.label>
   
 </LanguageData>

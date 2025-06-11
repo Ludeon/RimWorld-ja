@@ -2,10 +2,16 @@
 <LanguageData>
   
   <!-- EN: create incident -->
-  <CreateIncident.label>偶発事件を作成</CreateIncident.label>
+  <CreateIncident.label>偶発イベントを作成</CreateIncident.label>
+  
+  <!-- EN: create quest -->
+  <CreateQuest.label>クエストを作成</CreateQuest.label>
   
   <!-- EN: disable incident -->
-  <DisableIncident.label>偶発事件を無効</DisableIncident.label>
+  <DisableIncident.label>偶発イベントを無効</DisableIncident.label>
+  
+  <!-- EN: disable quest -->
+  <DisableQuest.label>クエストを無効</DisableQuest.label>
   
   <!-- EN: forced health condition -->
   <ForcedHediff.label>健康状態を強制</ForcedHediff.label>
@@ -32,7 +38,10 @@
   <PawnFilter_Age.label>許可する年齢の範囲</PawnFilter_Age.label>
   
   <!-- EN: permanent game condition -->
-  <PermanentGameCondition.label>永久的なゲーム条件</PermanentGameCondition.label>
+  <PermanentGameCondition.label>永久的なゲーム環境</PermanentGameCondition.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayer.label>惑星レイヤータイプ</PlanetLayer.label>
   
   <!-- EN: disallow building -->
   <Rule_DisallowBuilding.label>建造できない</Rule_DisallowBuilding.label>

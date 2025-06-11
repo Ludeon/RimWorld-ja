@@ -51,14 +51,14 @@
     <li>artextra_clause->the scene takes place on the outskirts of a [Community]</li>
     <li>artextra_clause->the scene takes place inside a [Community] built near a [TerrainFeature]</li>
     <li>artextra_clause->a [Character] [idles] [side_position]</li>
-    <li>artextra_clause->a [PAWN_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->a [pawn_adj] [Character] [idles] [side_position]</li>
     <li>artextra_clause->[Quantity_adjphrase] [Character]s appear [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s appear [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [pawn_adj] [Character]s appear [side_position]</li>
     <li>artextra_clause->a [Animal] [idles] [side_position]</li>
     <li>artextra_clause->if you squint your eyes, the [composition] composition of the image reveals the outline of [subimageany]</li>
-    <li>artextra_clause->the [emotional_expression] head of a [PAWN_adj] [PersonJob] watches over all</li>
-    <li>artextra_clause->a [PAWN_adj] [PersonJob] watches over all while [emotional_expression]</li>
-    <li>artextra_clause->the head of a [PAWN_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->the [emotional_expression] head of a [pawn_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->a [pawn_adj] [PersonJob] watches over all while [emotional_expression]</li>
+    <li>artextra_clause->the head of a [pawn_adj] [PersonJob] watches over all</li>
     <li>artextra_clause->the whole image is depicted by the careful arrangement of [subimageplural]</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
@@ -228,15 +228,15 @@
     <li>artextra_clause->そのシーンは[TerrainFeature]のそばにある[Community]の中で起きている</li>
     <!-- Pawn in side position -->
     <li>artextra_clause->[Character]が[side_position]で[idles]いる</li>
-    <li>artextra_clause->[PAWN_adj][Character]が[side_position]で[idles]いる</li>
+    <li>artextra_clause->[pawn_adj][Character]が[side_position]で[idles]いる</li>
     <li>artextra_clause->[Quantity_adjphrase]体の[Character]達が[side_position]に姿を見せている</li>
-    <li>artextra_clause->[Quantity_adjphrase]体の[PAWN_adj][Character]達が[side_position]に姿を見せている</li>
+    <li>artextra_clause->[Quantity_adjphrase]体の[pawn_adj][Character]達が[side_position]に姿を見せている</li>
     <li>artextra_clause->[Animal]が[side_position]で[idles]いる</li>
     <!-- One-offs -->
-    <li>artextra_clause->もし目を細めて見れば,イメージの[composition]構成が[subimageany]のアウトラインを浮き彫りにしていることに気付けるだろう</li>
-    <li>artextra_clause->[emotional_expression]表情を浮かべる[PAWN_adj][PersonJob]の頭がこの場面全体を見ている</li>
-    <li>artextra_clause->[PAWN_adj][PersonJob]が[emotional_expression]表情を浮かべながらこの場面全体を見ている</li>
-    <li>artextra_clause->[PAWN_adj][PersonJob]の頭がこの場面全体を見ている</li>
+    <li>artextra_clause->もし目を細めて見れば,このイメージに使用されている[composition]構図によって,[subimageany]の輪郭が見えてくることに気付けるだろう</li>
+    <li>artextra_clause->[emotional_expression]表情を浮かべる[pawn_adj][PersonJob]の頭がこの場面全体を見ている</li>
+    <li>artextra_clause->[pawn_adj][PersonJob]が[emotional_expression]表情を浮かべながらこの場面全体を見ている</li>
+    <li>artextra_clause->[pawn_adj][PersonJob]の頭がこの場面全体を見ている</li>
     <li>artextra_clause->[subimageplural]を配置することでイメージ全体を描写している</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>

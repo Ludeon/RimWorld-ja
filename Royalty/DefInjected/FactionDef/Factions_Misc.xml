@@ -7,6 +7,8 @@
   <OutlanderRefugee.description>家を失ったと主張する外部の難民グループです.</OutlanderRefugee.description>
   <!-- EN: leader -->
   <OutlanderRefugee.leaderTitle>リーダー</OutlanderRefugee.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRefugee.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</OutlanderRefugee.messageDefendersAttacking>
   <!-- EN: refugee -->
   <OutlanderRefugee.pawnSingular>難民</OutlanderRefugee.pawnSingular>
   <!-- EN: refugees -->

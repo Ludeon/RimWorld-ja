@@ -2,7 +2,9 @@
 <LanguageData>
 
   <!-- ======================== Non-grouped ========================-->
-  
+
+  <!-- EN: Title -->
+  <ScenarioTitle>タイトル</ScenarioTitle>
   <!-- EN: Your faction will be a {0}. -->
   <ScenPart_PlayerFaction>あなたの派閥は "{0}" です.</ScenPart_PlayerFaction>
 
@@ -22,7 +24,10 @@
   <ScenPart_ArriveInDropPods>ドロップポッドで惑星に到着します.</ScenPart_ArriveInDropPods>
 
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
-  <ScenPart_StatFactor>"{0}" の効果は,すべてにおいて "{1}" 掛けられます.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>すべての"{0}"に対して,{1}の倍率がかかります.</ScenPart_StatFactor>
+  
+  <!-- EN: Select -->
+  <ScenPart_SelectQuestDef>選択</ScenPart_SelectQuestDef>
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
@@ -53,7 +58,10 @@
   <!-- EN: Start with {0}. -->
   <ScenPart_StartWithSpecificColonists>{0}から開始.</ScenPart_StartWithSpecificColonists>
   <!-- EN: {COUNT} {KINDLABEL} -->
-  <PawnCount>{COUNT} {KINDLABEL}</PawnCount>
+  <PawnCount>{COUNT}人の{KINDLABEL}</PawnCount>
+  
+  <!-- EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts. -->
+  <ScenPart_Error>MODのコンテンツが不足しているため,このシナリオに含まれるいくつかの設定がロードできません.\n\n必要なMODと一緒にシナリオをロードするとこもできますが,読み込めなかった設定なしでシナリオをロードすることもできます.</ScenPart_Error>
 
   <!-- ======================== Grouped ========================-->
 
@@ -69,5 +77,51 @@
   <ScenPart_CreateIncident>作成された偶発事件</ScenPart_CreateIncident>
   <!-- EN: Can never build -->
   <ScenPart_DisallowBuilding>作成できないオブジェクト</ScenPart_DisallowBuilding>
+
+  <!-- ======================== Layers ========================-->
+  
+  <!-- EN: Tag -->
+  <ScenPart_PlanetLayerTag>タグ</ScenPart_PlanetLayerTag>
+  <!-- EN: Must have a unique tag -->
+  <ScenPart_PlanetLayerTag_Error>区別できるタグが必要</ScenPart_PlanetLayerTag_Error>
+  
+  <!-- EN: Settings -->
+  <ScenPart_PlanetLayerSettings>設定</ScenPart_PlanetLayerSettings>
+  <!-- EN: Use settings def -->
+  <ScenPart_PlanetLayerSettings_UseDef>デフォルトの設定を使用</ScenPart_PlanetLayerSettings_UseDef>
+  <!-- EN: Select -->
+  <ScenPart_PlanetLayerSettings_SelectDef>選択</ScenPart_PlanetLayerSettings_SelectDef>
+  <!-- EN: Position -->
+  <ScenPart_PlanetLayerSettings_Position>位置</ScenPart_PlanetLayerSettings_Position>
+  <!-- EN: Radius -->
+  <ScenPart_PlanetLayerSettings_Radius>範囲</ScenPart_PlanetLayerSettings_Radius>
+  <!-- EN: Use surface view angle -->
+  <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>地上のビューアングルを使用</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
+  <!-- EN: View angle -->
+  <ScenPart_PlanetLayerSettings_ViewAngle>ビューアングル</ScenPart_PlanetLayerSettings_ViewAngle>
+  <!-- EN: Extra camera height -->
+  <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>特殊カメラ高さ</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
+  <!-- EN: Subdivisions -->
+  <ScenPart_PlanetLayerSettings_Subdivisions>細分化</ScenPart_PlanetLayerSettings_Subdivisions>
+  <!-- EN: Background camera offset -->
+  <ScenPart_PlanetLayerSettings_BackgroundOffset>背景カメラの増減量</ScenPart_PlanetLayerSettings_BackgroundOffset>
+  <!-- EN: Background parallax per 100 cells -->
+  <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>100セル毎の背景の視差</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
+  
+  <!-- EN: Connections -->
+  <ScenPart_PlanetLayerConnections>接続</ScenPart_PlanetLayerConnections>
+  <!-- EN: Add connection -->
+  <ScenPart_PlanetLayerConnections_Add>接続を追加</ScenPart_PlanetLayerConnections_Add>
+  <!-- EN: No zoom -->
+  <ScenPart_PlanetLayerConnections_Zoom>非接続</ScenPart_PlanetLayerConnections_Zoom>
+  <!-- EN: Zoom in -->
+  <ScenPart_PlanetLayerConnections_ZoomIn>拡大</ScenPart_PlanetLayerConnections_ZoomIn>
+  <!-- EN: Zoom out -->
+  <ScenPart_PlanetLayerConnections_ZoomOut>縮小</ScenPart_PlanetLayerConnections_ZoomOut>
+  <!-- EN: Fuel cost -->
+  <ScenPart_PlanetLayerConnections_Fuel>必要燃料</ScenPart_PlanetLayerConnections_Fuel>
+  
+  <!-- EN: Planet layer -->
+  <ScenPart_ForcedMapPlanetLayer>惑星レイヤー</ScenPart_ForcedMapPlanetLayer>
 
 </LanguageData>

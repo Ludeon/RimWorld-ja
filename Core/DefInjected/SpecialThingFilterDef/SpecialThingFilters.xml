@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: allow adult-only apparel -->
+  <AllowAdultOnlyApparel.label>大人用衣服を許可</AllowAdultOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by adults. -->
+  <AllowAdultOnlyApparel.description>大人用の衣服の着用を許可</AllowAdultOnlyApparel.description>
+  
   <!-- EN: allow biocoded apparel -->
   <AllowBiocodedApparel.label>バイオコード化した衣服を許可</AllowBiocodedApparel.label>
   
@@ -72,6 +77,11 @@
   
   <!-- EN: allow burnable -->
   <AllowBurnableWeapons.label>焼却できる武器を許可</AllowBurnableWeapons.label>
+  
+  <!-- EN: allow child-only apparel -->
+  <AllowChildOnlyApparel.label>子ども用衣服を許可</AllowChildOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by children. -->
+  <AllowChildOnlyApparel.description>子ども用の衣服の着用を許可</AllowChildOnlyApparel.description>
   
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>入植者の遺体を許可</AllowCorpsesColonist.label>
@@ -151,5 +161,10 @@
   
   <!-- EN: allow smeltable -->
   <AllowSmeltableApparel.label>溶解できる服を許可</AllowSmeltableApparel.label>
+  
+  <!-- EN: allow unfinished -->
+  <AllowUnfinished.label>未完成品を許可</AllowUnfinished.label>
+  <!-- EN: Allow unfinished items. -->
+  <AllowUnfinished.description>未完成の物品を許可</AllowUnfinished.description>
   
 </LanguageData>

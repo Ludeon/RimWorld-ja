@@ -276,18 +276,22 @@
   <Map>地図</Map>
   <!-- EN: {0} until enemies arrive -->
   <CaravanDetectedRaidCountdown>敵が到着するまで残り{0}</CaravanDetectedRaidCountdown>
-  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>{0}後に敵の増援がこのエリアに到着します.</CaravanDetectedRaidCountdownTip>
+  <!-- EN: Enemies have learned of your location. They will arrive in {0}. -->
+  <CaravanDetectedRaidCountdownTip>敵がこの場所の存在を知りました.{0}後にこの場所に到着します.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
   <BeautyHere>美しい...</BeautyHere>
   <!-- EN: no power -->
   <NoPower>電力喪失</NoPower>
+  <!-- EN: not in {0} -->
+  <NotInRoomRole>部屋が{0}でない</NotInRoomRole>
   <!-- EN: Work speed -->
   <WorkSpeedPenalty>作業速度</WorkSpeedPenalty>
   <!-- EN: Disabled -->
   <DisabledCommand>無効</DisabledCommand>
+  <!-- EN: Deactivated -->
+  <Deactivated>無効化</Deactivated>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>発射準備完了</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
@@ -295,11 +299,13 @@
   <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>燃料が未接続</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>燃料無し</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllLaunchablesInGroupHaveAnyFuel>燃料無し</NotAllLaunchablesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>積み込み中</TransportPodInGroupHasSomethingLeftToLoad>
+  <LaunchableInGroupHasSomethingLeftToLoad>積み込み中</LaunchableInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
-  <TransportPodDestinationBeyondMaximumRange>最大航続距離を超えた</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationBeyondMaximumRange>最大航続距離を超えている</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: No path to {LAYER_label} -->
+  <TransportPodDestinationNoPath>{LAYER_label}までの道がない</TransportPodDestinationNoPath>
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>燃料が不十分</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
@@ -344,6 +350,10 @@
   <Products>製品</Products>
   <!-- EN: Requires -->
   <Requires>必要</Requires>
+  <!-- EN: Replaces -->
+  <Replaces>交換</Replaces>
+  <!-- EN: missing {0} -->
+  <MissingPartWithLabel>{0}がない</MissingPartWithLabel> <!-- text_todo -->
   <!-- EN: {0}x any of -->
   <NumAnyOf>{0}個のいずれか</NumAnyOf>
   <!-- EN: {0} of {1} -->
@@ -366,10 +376,14 @@
   <RideableAnimalsPerPeople>騎乗家畜/ヒト</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
   <MultiplierFromRiddenAnimals>家畜への騎乗による掛け率</MultiplierFromRiddenAnimals>
+  <!-- EN: Multiplier from bonuses -->
+  <MultiplierFromMoveSpeedBonus>ボーナスによる掛け率</MultiplierFromMoveSpeedBonus>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>積載重量による掛け率: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
   <RideableAnimalTip>この家畜には乗ることができます.キャラバンのメンバーは利用可能な最速の家畜に乗り,キャラバン全体の移動速度を向上させます.</RideableAnimalTip>
+  <!-- EN: This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members. -->
+  <CaravanBonusTip>この人物はキャラバン隊の移動速度にボーナスを与えます.キャラバン隊メンバー全員のボーナスの平均値が,移動速度の増加量になります.</CaravanBonusTip>
   <!-- EN: This caravan can't move because it carries too much. -->
   <EncumberedCaravanTilesPerDayTip>このキャラバンは荷物が多すぎるため動けません.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
@@ -470,16 +484,16 @@
   <ViewHyperlink>{0}を表示</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>爆発まで{0}日</DetonationCountdown>
-  <!-- EN: Large fire explosion if damaged. -->
-  <ExplosionOnDamageWarning>被ダメージで大きな爆発火災.</ExplosionOnDamageWarning>
+  <!-- EN: Large explosion if damaged. -->
+  <ExplosionOnDamageWarning>被ダメージで大きな爆発.</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>メカクラスター</MechCluster>
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>{0}後にスポーン</SpawningNextPawnIn>
-  <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{1}後に{0}の組み立てが完了します.</MechAssemblyCompleteIn>
-  <!-- EN: Will assemble -->
-  <MechAssemblyNextType>組み立てる機体</MechAssemblyNextType>
+  <!-- EN: {0} gestation completes in {1}. -->
+  <MechAssemblyCompleteIn>{1}後に{0}の培養が完了します.</MechAssemblyCompleteIn>
+  <!-- EN: Will gestate -->
+  <MechAssemblyNextType>培養する機体</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>生産された量</ThingsProduced>
   <!-- EN: harvested -->
@@ -566,6 +580,8 @@
   <RequiredTechprintTip>必要</RequiredTechprintTip>
   <!-- EN: size -->
   <Size>サイズ</Size>
+  <!-- EN: Total planning area -->
+  <TotalPlanningArea>予定地の合計サイズ</TotalPlanningArea>
   <!-- EN: cost -->
   <Cost>コスト</Cost>
   <!-- EN: Stunned by EMP -->
@@ -584,8 +600,10 @@
   <Investigate>調査</Investigate> 
   <!-- EN: Activate -->
   <Activate>作動</Activate> 
+  <!-- EN: Deactivate -->
+  <Deactivate>停止</Deactivate> <!-- text_todo -->
   <!-- EN: Activation -->
-  <Activation>起動</Activation> 
+  <Activation>起動</Activation>
   <!-- EN: complete -->
   <Complete>完了</Complete>
   <!-- EN: Must be imprisoned. -->
@@ -610,6 +628,25 @@
   <ReportStringCrawlingToSafety>安全な場所に這っている</ReportStringCrawlingToSafety>
   <!-- EN: Crawling to bed. -->
   <ReportStringCrawlingToBed>寝床に這っている</ReportStringCrawlingToBed>
+  <!-- EN: flying -->
+  <Flying>飛行中</Flying>
+  <!-- EN: Prevent cutting -->
+  <PreventCutting>伐採禁止</PreventCutting>
+  <!-- EN: When on, colonists won't cut this plant. -->
+  <PreventCuttingDesc>オンにすると,入植者はこの樹木を伐採しなくなります.</PreventCuttingDesc>
+
+  <!-- EN: Resulting from trait -->
+  <ComesFromTrait>特性・特徴に起因</ComesFromTrait>
+  <!-- EN: Resulting from condition -->
+  <ComesFromHediff>体調に起因</ComesFromHediff>
+  <!-- EN: Adds need -->
+  <AddsNeed>欲求を追加</AddsNeed>
+  <!-- EN: Adds needs -->
+  <AddsNeeds>欲求を追加</AddsNeeds>
+  <!-- EN: Disables need -->
+  <DisablesNeed>欲求を無効</DisablesNeed>
+  <!-- EN: Disables needs -->
+  <DisablesNeeds>欲求を無効</DisablesNeeds>
   
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -778,6 +815,8 @@
   <!-- EN: Filth -->
   <Filth_Label>汚物</Filth_Label>
   
+  <!-- EN: Features -->
+  <Features_Label>特徴</Features_Label>
   <!-- EN: Faction -->
   <Faction_Label>派閥</Faction_Label>
   <!-- EN: Relationship -->
@@ -803,6 +842,8 @@
   <ApparelPreventsShooting>{PAWN_nameDef}は{APPAREL_label}を身に着けているため,遠隔武器を使用できません.</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
   <CannotUseReason_PocketMap>{0}の中では使用できない</CannotUseReason_PocketMap>
+  <!-- EN: Range reduced -->
+  <WeatherMaxRangeCap>射程減少</WeatherMaxRangeCap>
 
   <!-- Snow -->
   <!-- EN: Snow -->
@@ -1065,6 +1106,8 @@
   <PowerConsumptionHigh>高</PowerConsumptionHigh>
   <!-- EN: low -->
   <PowerConsumptionLow>低</PowerConsumptionLow>
+  <!-- EN: off -->
+  <PowerConsumptionOff>オフ</PowerConsumptionOff>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
@@ -1119,14 +1162,14 @@
   <GrowthRate>成長速度</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
   <FullyGrownIn>成長 {0} で 完熟 します</FullyGrownIn>
-  <!-- EN: Needs light level -->
+  <!-- EN: needs light level -->
   <PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
-  <!-- EN: Resting -->
+  <!-- EN: resting -->
   <PlantResting>成長していない(活動停止中)</PlantResting>
-  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています(通常の成長速度の{0}%)</OutOfIdealTemperatureRange>
-  <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています(活動停止)</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: temperature growth multiplier {0}% -->
+  <OutOfIdealTemperatureRange>温度による成長速度{0}%</OutOfIdealTemperatureRange>
+  <!-- EN: out of temperature growth range -->
+  <OutOfIdealTemperatureRangeNotGrowing>成長できる温度範囲外</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <!-- EN: Mature. -->
@@ -1149,6 +1192,8 @@
   <Blighted>枯病</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>陽に晒されて死亡</DyingBecauseExposedToLight>
+  <!-- EN: Dying from non-ideal terrain -->
+  <DyingBecauseOfTerrain>良くない地面が原因で死亡</DyingBecauseOfTerrain>
   <!-- EN: Cut now -->
   <AutoCutNow>いますぐ刈り取る</AutoCutNow>
   <!-- EN: harvesting -->
@@ -1165,8 +1210,12 @@
   <Zone>ゾーン</Zone>
   <!-- EN: Growing zone -->
   <GrowingZone>農業ゾーン</GrowingZone>
+  <!-- EN: growing -->
+  <GrowingGroup>農業</GrowingGroup>
   <!-- EN: Stockpile zone -->
   <Stockpile>備蓄ゾーン</Stockpile>
+  <!-- EN: stockpile -->
+  <StockpileGroup>備蓄</StockpileGroup>
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>廃棄ゾーン</DumpingStockpile>
   <!-- EN: Corpse stockpile zone -->
@@ -1236,9 +1285,11 @@
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
-  <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
-  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます.</ShowExpandingIconsToggleButton>
+  <UsePlanetDayNightSystemToggleButton>日照表示 切り替え\n\n惑星ビューで昼夜の明るさを表示するかどうかを切り替えます.</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons for settlements belonging to other factions. -->
+  <ShowBasesExpandingIconsToggleButton>他派閥拡大アイコン 切り替え\n\n他派閥のコロニーを大きなアイコンで表示するかどうかを切り替えます.</ShowBasesExpandingIconsToggleButton>
+  <!-- EN: Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps. -->
+  <ShowImportantExpandingIconsToggleButton>重要な拡大アイコン 切り替え\n\nコロニーやクエストの場所,アクティブなマップなどの重要な場所を大きなアイコンで表示するかどうかを切り替えます.</ShowImportantExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
   <ShowWorldFeaturesToggleButton>地形の名称表示 切り替え</ShowWorldFeaturesToggleButton>
   <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
@@ -1431,14 +1482,16 @@
   <GameOverKeepWatchingForNow>今は観察を続ける</GameOverKeepWatchingForNow>
   <!-- EN: Create new wanderers -->
   <GameOverCreateNewWanderers>新しい放浪者を作成</GameOverCreateNewWanderers>
-  <!-- EN: Create new wanderers (must wait {0}h) -->
-  <GameOverCreateNewWanderersWait>新しい放浪者を作成({0}時間後に選択可能)</GameOverCreateNewWanderersWait>
   <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
   <GameOverCreateNewWanderersText>ある者は去り,ある者は亡くなり,そして全ての人が居なくなりました.もしも誰かがこの廃墟を見つけたら,その人はこの場所の使い道を考えてくれるかもしれません.\n\nこのコロニーを訪れる新たな放浪者を選び,この物語を続けましょう.</GameOverCreateNewWanderersText>
   <!-- EN: Main menu -->
   <GameOverMainMenu>メニューに戻る</GameOverMainMenu>
   <!-- EN: No colony -->
   <NoColony>コロニーがない</NoColony>
+  <!-- EN: cannot reach any destination -->
+  <NoWandererDestination>目的地に到達できない</NoWandererDestination>
+  <!-- EN: must wait {0}h -->
+  <GameOverCreateNewWanderersWait>{0}時間後に選択可能</GameOverCreateNewWanderersWait>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
@@ -1583,6 +1636,8 @@
   <OutfitSoldier>戦闘服</OutfitSoldier>
   <!-- EN: Nudist -->
   <OutfitNudist>ヌーディスト</OutfitNudist>
+  <!-- EN: Spacefarer -->
+  <OutfitSpacefarer>宇宙乗組員</OutfitSpacefarer>
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
@@ -1691,10 +1746,12 @@
   <BiocodedCodedForSomeoneElse>バイオコード化済み</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
-  <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>迎撃: {0} {1}毎</InterceptsProjectilesEvery>
-  <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>迎撃: {0}</InterceptsProjectiles>
+  <!-- EN: Intercepts {0} every {1}. -->
+  <InterceptsProjectilesEvery>{0}を迎撃します.({1}毎)</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0}. -->
+  <InterceptsProjectiles>{0}を迎撃します.</InterceptsProjectiles>
+  <!-- EN: ground and aerial projectiles -->
+  <InterceptsProjectiles_BothProjectiles>地上・上空からの投射物</InterceptsProjectiles_BothProjectiles>
   <!-- EN: ground projectiles -->
   <InterceptsProjectiles_GroundProjectiles>地上からの投射物</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
@@ -1831,8 +1888,6 @@
   <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort}の{1}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
   <RitualPredictedOutcomeDescRoomBeauty>部屋の美しさ</RitualPredictedOutcomeDescRoomBeauty>
-  <!-- EN: Participants -->
-  <RitualPredictedOutcomeDescParticipantCount>参加者</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}の期待</RitualPredictedOutcomeDescPawnExpectations>
   <!-- EN: Loved one present -->
@@ -2001,7 +2056,8 @@
   <CommandPushTo>押す...</CommandPushTo>
   <!-- EN: requires {0} -->
   <RequiredCapacity>{0}が必要</RequiredCapacity>
-  
+
+  <!-- Pocket Maps -->
   <!-- EN: Unable to enter {0}, destination is blocked -->
   <UnableToEnterPortal>目的地が塞がれているため,{0}に入れない</UnableToEnterPortal>
 
@@ -2021,6 +2077,8 @@
   
   <!-- EN: About to explode -->
   <AboutToExplode>爆発寸前</AboutToExplode>
+  <!-- EN: No fuel to eject -->
+  <RefuelableNoFuelToEject>取り出す燃料がない</RefuelableNoFuelToEject> <!-- text_todo -->
   
   <!-- EN: New Anomaly expansion available now! -->
   <MainScreen_AnomalyAvailableNow>新しい拡張版,Anomalyが利用可能になりました!</MainScreen_AnomalyAvailableNow>
@@ -2030,8 +2088,108 @@
 
   <!-- EN: blocked by roof -->
   <BlockedByRoof>屋根に塞がれています</BlockedByRoof>
+  <!-- EN: Blocked by terrain (requires {0_label} terrain support) -->
+  <BlockedByTerrain>地形にブロックされている({0_label}を支えられる地形が必要)</BlockedByTerrain> <!-- text_todo -->
+
+  <!-- Craters -->
+  <!-- EN: Fill in -->
+  <DesignatorFillIn>埋める</DesignatorFillIn>
+  <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
+  <DesignatorFillInDesc>このクレーターを埋め立てるよう指示します.建築の仕事を割り当てられた入植者が埋め立てを行います.</DesignatorFillInDesc>
+
+  <!-- Hacking -->
+  <!-- EN: Hack progress -->
+  <HackProgress>ハッキングの進捗</HackProgress>
+  <!-- EN: hacking speed -->
+  <HackingSpeed>ハッキングの速度</HackingSpeed>
+  <!-- EN: {0}'s -->
+  <HackingLastUser>{0}の</HackingLastUser>
+  <!-- EN: hacked -->
+  <Hacked>ハッキング</Hacked>
+  <!-- EN: Terminals hacked -->
+  <TerminalsHacked>ターミナルをハッキング</TerminalsHacked>
+  <!-- EN: Intellectual needed -->
+  <IntellectualSkillPrerequisite>必要な知力</IntellectualSkillPrerequisite>
+  <!-- EN: Auto hack -->
+  <AutoHack>自動ハッキング</AutoHack>
+  <!-- EN: When enabled, researchers will automatically hack this. -->
+  <AutoHackDesc>有効にすると,研究者が自動的にこれをハッキングします.</AutoHackDesc>
+
+  <!-- World -->
+  <!-- EN: View {LAYER_label} -->
+  <WorldSelectLayer>{LAYER_label}を見る</WorldSelectLayer>
+  <!-- EN: Jump to location -->
+  <WorldJumpTo>ロケーションに移動</WorldJumpTo>
+  <!-- EN: Find a colony, caravan, or quest location on the world map. -->
+  <WorldJumpToDesc>ワールドマップ上の,コロニー,キャラバン隊,クエストのある地点に移動します.</WorldJumpToDesc>
+  <!-- EN: Nothing to jump to. -->
+  <NothingToJumpTo>選べる場所がありません.</NothingToJumpTo>
+  <!-- EN: cannot function in {0} -->
+  <CannotFunctionOnLayer>{0}では使えない</CannotFunctionOnLayer>
+  <!-- EN: New settlement -->
+  <NewSettlement>新しい入植地</NewSettlement>
+  <!-- EN: Settled -->
+  <Settled>定住</Settled>
+  <!-- EN: Abandoned -->
+  <Abandoned>放棄</Abandoned>
+  <!-- EN: Cannot perform {GERUND} {LAYER} -->
+  <CannotPerformPlanetLayer>{LAYER}{GERUND}では行えない</CannotPerformPlanetLayer>
+  <!-- EN: This will not affect you {GERUND} {LAYER}. -->
+  <ThisWillNotAffectLayer>{LAYER}{GERUND}ではこれは影響しません.</ThisWillNotAffectLayer>
+
+  <!-- Pocket maps -->
+  <!-- EN: Enter {0} -->
+  <EnterPortal>{0}に入る</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>{0}に入っている</EnteringPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>{0}に入る人間とアイテムを選択してください.</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>侵入をキャンセル</CommandCancelEnterPortal>
+  <!-- EN: Cancel exiting -->
+  <CommandCancelExitPortal>脱出をキャンセル</CommandCancelExitPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>人間やアイテムの侵入を中断します.</CommandCancelEnterPortalDesc>
+  <!-- EN: Exit {0} -->
+  <ExitPortal>{0}を出る</ExitPortal>
+
+  <!-- CompProjectileInterceptor -->
+  <!-- EN: Shield energy -->
+  <ShieldEnergy>シールドエネルギー</ShieldEnergy>
+  <!-- EN: Shield cooldown -->
+  <ShieldTimeToRecovery>リカバリーまでの時間</ShieldTimeToRecovery>
+  <!-- EN: Shield duration -->
+  <ShieldDuration>シールド持続時間</ShieldDuration>
+  <!-- EN: On cooldown -->
+  <ShieldOnCooldown>クールタイム中</ShieldOnCooldown>
+  <!-- EN: Below minimum energy -->
+  <ShieldBelowMinHitpoints>最低エネルギー未満</ShieldBelowMinHitpoints>
+  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
+  <ProjectileInterceptorTip>発射物や榴散弾の侵入を阻止する低角度の投影シールドです.EMPに当たると即座に停止します.</ProjectileInterceptorTip>
+
+  <!-- EN: max {0} -->
+  <MaxOf>最大{0}</MaxOf>
+
+  <!-- EN: Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}. -->
+  <CannotUseDueToHediff>{TARGETABLE_label}を使えない：{TARGET_nameDef}はすでに{2}です.</CannotUseDueToHediff>
+
+  <!-- Scanner -->
+  <!-- EN: Blocked by roof -->
+  <CannotUseScannerRoofed>屋根に遮られている</CannotUseScannerRoofed> <!-- text_todo -->
+  <!-- EN: Does not function in this biome -->
+  <CannotUseScannerNoBedrock>このバイオームでは機能しない</CannotUseScannerNoBedrock> <!-- text_todo -->
+  
+  <!-- Quests -->
+  <!-- EN: Cannot accept this quest {GERUND} {LAYER}. -->
+  <CannotAcceptQuestFromLayer>{LAYER}{GERUND}ではこのクエストを受諾できません.</CannotAcceptQuestFromLayer>
+  <!-- EN: Cannot accept this quest without a permanent colony. -->
+  <CannotAcceptQuestNoMap>定住したコロニーがなければこのクエストを受諾できません.</CannotAcceptQuestNoMap>
   
   <!-- UNUSED -->
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>燃料無し</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>積み込み中</TransportPodInGroupHasSomethingLeftToLoad>
+  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます.</ShowExpandingIconsToggleButton>
+  <RitualPredictedOutcomeDescParticipantCount>参加者</RitualPredictedOutcomeDescParticipantCount>
   <RadiusExpandRate>範囲拡張速度</RadiusExpandRate>
   <GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
   <HealingCureHediff>{0_nameDef}の{1}は治療されました.</HealingCureHediff>

@@ -30,6 +30,8 @@
   <PowerPlantMaxPowerOuput.label>最大出力</PowerPlantMaxPowerOuput.label>
   <!-- EN: The maximum power that this generator can output in ideal conditions. -->
   <PowerPlantMaxPowerOuput.description>この発電機が理想的な条件下で出力できる最大電力です.</PowerPlantMaxPowerOuput.description>
+  <!-- EN: {0} W -->
+  <PowerPlantMaxPowerOuput.formatString>{0}W</PowerPlantMaxPowerOuput.formatString>
   
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>研究速度係数</ResearchSpeedFactor.label>

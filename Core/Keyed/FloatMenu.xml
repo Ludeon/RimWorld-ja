@@ -22,8 +22,12 @@
   <!-- EN: Not allowed -->
   <NotAllowed>許可されていない</NotAllowed>
   
+  <!-- EN: Attack {1_labelShort} -->
+  <Attack>{1_labelShort}を攻撃</Attack>
   <!-- EN: Fire at {1_labelShort} -->
   <FireAt>{1_labelShort}に遠距離射撃</FireAt>
+  <!-- EN: Remove -->
+  <Remove>削除</Remove>
 
   <!-- EN: out of range -->
   <OutOfRange>範囲外</OutOfRange>
@@ -41,6 +45,8 @@
   <IsNotDraftedLower>{1_labelShort}は徴兵されていない</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>支配下にいない</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack -->
+  <CannotAttack>攻撃できない</CannotAttack>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
@@ -88,6 +94,8 @@
   <AboveAllowedSkill>認められたスキル以上 {0}</AboveAllowedSkill>
   <!-- EN: no reachable outside cell -->
   <NoReachableOutsideCell>到達可能な外部セルがない</NoReachableOutsideCell>
+  <!-- EN: cannot exit map -->
+  <CannotExitMap>マップから出られない</CannotExitMap>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>要求するスキルレベルが無い</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -228,6 +236,8 @@
   <TakingToBed>{0_labelShort}をベッドに運搬している</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>救助できない</CannotRescue>
+  <!-- EN: Cannot rescue {PAWN_labelShort} -->
+  <CannotRescuePawn>{PAWN_labelShort}を救助できない</CannotRescuePawn>
 
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
   <CarryToCryptosleepCasket>{1_labelShort}を冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
@@ -288,13 +298,21 @@
   <CannotManThing>{1_labelShort}を配置できない</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
-  <ForceWear>{1_labelShort}に 着替えさせる</ForceWear>
+  <ForceWear>{1_labelShort}を 着させる</ForceWear>
+  <!-- EN: Force target to wear {1_labelShort}... -->
+  <ForceTargetToWear>対象に{1_labelShort}を 着させる...</ForceTargetToWear>
   <!-- EN: Cannot wear {1_label} -->
-  <CannotWear>{1_label}を 着用できない</CannotWear>
+  <CannotWear>{1_label}を 着ることができない</CannotWear>
+  <!-- EN: Cannot force target to wear {1_label} -->
+  <CannotForceTargetToWear>対象は{1_label}を 着ることができない</CannotForceTargetToWear>
   <!-- EN: Force equip {1_labelShort} -->
   <ForceEquipApparel>{1_labelShort}を 装備させる</ForceEquipApparel>
+  <!-- EN: Force target to equip {1_labelShort}... -->
+  <ForceTargetToEquipApparel>対象に{1_labelShort}を 装備させる...</ForceTargetToEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
   <CannotEquipApparel>{1_label}を 装備できない</CannotEquipApparel>
+  <!-- EN: Cannot force target to equip {1_label} -->
+  <CannotForceTargetToEquipApparel>対象は{1_label}を 装備できない</CannotForceTargetToEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
   
@@ -397,6 +415,8 @@
   <NoDoctor>医者がいない</NoDoctor>
   <!-- EN: medical bed not for slaves -->
   <NotForSlaves>医療用ベッドが奴隷用でない</NotForSlaves>
+  <!-- EN: Medical care disabled -->
+  <MedicalCareDisabled>医療行為が無効</MedicalCareDisabled>
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>{0}が独占している</SomeoneElseSleeping>
   
@@ -426,25 +446,12 @@
   <AttackSettlement>{0}を攻撃する</AttackSettlement>
   <!-- EN: Approach {0} -->
   <ApproachSite>{0}に接触</ApproachSite>
-  <!-- EN: Approaching {0} -->
+  <!-- EN: Approaching {0}. -->
   <ApproachingSite>{0}に接触中</ApproachingSite>
   <!-- EN: Offer gifts -->
   <OfferGifts>贈り物を提供する</OfferGifts>
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>{0}と貿易</TradeWithSettlement>
-  
-  <!-- EN: Enter {0} -->
-  <EnterPortal>{0}に入る</EnterPortal>
-  <!-- EN: Entering {0} -->
-  <EnteringPortal>{0}に入っている</EnteringPortal>
-  <!-- EN: Enter {0} -->
-  <CommandEnterPortal>{0}に入る</CommandEnterPortal>
-  <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>{0}に入る人間とアイテムを選択してください.</CommandEnterPortalDesc>
-  <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>侵入をキャンセル</CommandCancelEnterPortal>
-  <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>人間やアイテムの侵入を中断します.</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -460,8 +467,8 @@
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>{0}ができない</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize: Incapable of {0} -->
-  <CannotMissingHealthActivities>優先できない: {0}能力が無い</CannotMissingHealthActivities>
+  <!-- EN: Incapable of {0} -->
+  <CannotMissingHealthActivities>{0}能力が無い</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
@@ -469,28 +476,28 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>すでに行っている: {0}</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize: Will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>優先できない: {0}しない</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: Will never do {0} -->
+  <CannotPrioritizeWorkTypeDisabled>{0}しない</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>必要な称号がない</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize: Will never {0} -->
-  <CannotPrioritizeWorkGiverDisabled>優先できない: {0}しない</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: Will never {0} -->
+  <CannotPrioritizeWorkGiverDisabled>{0}しない</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
-  <WillNever>"{0}" しない</WillNever>
+  <WillNever>{0}しない</WillNever>
 
-  <!-- EN: Cannot prioritize: Not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>優先できない: {0}の割り当てなし</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: Not assigned to {0} -->
+  <CannotPrioritizeNotAssignedToWorkType>{0}の割り当てなし</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>割り当てなし</NotAssigned>
   <!-- EN: not assigned to {0} -->
   <NotAssignedToWorkType>{0}の割り当てなし</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize: Research is a long-term task -->
-  <CannotPrioritizeResearch>優先できない: 研究は優先順位をつけられない</CannotPrioritizeResearch>
+  <!-- EN: Research is a long-term task -->
+  <CannotPrioritizeResearch>研究は優先順位をつけられない</CannotPrioritizeResearch>
 
-  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>優先できない: {1_label}は禁止されている</CannotPrioritizeForbidden>
+  <!-- EN: {1_label} is forbidden -->
+  <CannotPrioritizeForbidden>{1_label}は禁止されている</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>優先できない: 禁止事項</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
@@ -501,7 +508,13 @@
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>いますぐ{1}{0}</PrioritizeGeneric>
-  
+  <!-- EN: Prioritize {0} -->
+  <PrioritizeGenericSimple>いますぐ{0}</PrioritizeGenericSimple>
+
+  <!-- EN: Launch to {LOCATION_label} -->
+  <LaunchTo>{LOCATION_label}に発射</LaunchTo>
+  <!-- EN: Are you sure you want to launch? -->
+  <LaunchToConfirmation>本当に発射しますか?</LaunchToConfirmation>
   <!-- EN: Drop at edge -->
   <DropAtEdge>端に落とす</DropAtEdge>
   <!-- EN: Drop in center -->
@@ -626,4 +639,24 @@
   <AlreadyAnalyzed>すでに分析済</AlreadyAnalyzed>
   <!-- EN: no reachable, un-reserved research bench available -->
   <NoResearchBench>到達可能な,予約されてない研究卓がない</NoResearchBench>
+
+  <!-- Hacking -->
+  <!-- EN: Hack {0} -->
+  <Hack>{0}をハッキングする</Hack>
+  <!-- EN: Choose a colonist to hack this. -->
+  <HackDesc>ハッキングする入植者を選択してください.</HackDesc>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>{0}はハッキングできない</CannotHack>
+  <!-- EN: Locked out -->
+  <LockedOut>ロックアウト</LockedOut>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>すでにハッキング済みです</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>ハッキング不可能です</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>物資を落とすために</ToDropSupplies>
+
+  <!-- UNUSED -->
+  <CommandEnterPortal>{0}に入る</CommandEnterPortal>
+
 </LanguageData>

@@ -7,6 +7,8 @@
   <Beggars.description>慈悲を求める乞食の群れです.</Beggars.description>
   <!-- EN: leader -->
   <Beggars.leaderTitle>リーダー</Beggars.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Beggars.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</Beggars.messageDefendersAttacking>
   <!-- EN: beggar -->
   <Beggars.pawnSingular>乞食</Beggars.pawnSingular>
   <!-- EN: beggars -->
@@ -18,6 +20,8 @@
   <CannibalPirate.description>外敵との戦いを目的に相互不戦同盟をゆるく結んだ宙賊の集団です.\n\n宙賊は種をまかず,建物を造らず,取引もめったにしません.個人的武勇と冷酷さを重んじる血と名誉の文化に駆り立てられ,彼らはより生産的な隣人を襲撃し,略奪によって自らの富を膨らませます.\n\n彼らの技術レベルは直近の略奪相手に依存します.大半は火器を携えていますが,時に白兵戦で斬り殺すことを望む者もいます.\n\n特にこの宙賊は,人食い集団です.</CannibalPirate.description>
   <!-- EN: boss -->
   <CannibalPirate.leaderTitle>ボス</CannibalPirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <CannibalPirate.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</CannibalPirate.messageDefendersAttacking>
   <!-- EN: pirate -->
   <CannibalPirate.pawnSingular>宙賊</CannibalPirate.pawnSingular>
   <!-- EN: pirates -->
@@ -29,6 +33,8 @@
   <NudistTribe.description>この人々はとても長い間この地に住んできました.おそらく彼らの先祖は千年ほど前に墜落したのでしょう.あるいは機械文明を破壊した数度の大変動を生き延びたのかもしれません.いずれにせよこの部族は原始的な道具や武器を携えて各地を放浪する遊牧民です.\n\nローテク戦争の技術と数の力,そして頑健さが,明らかな技術的弱点にも関わらず彼らを恐るべき敵にしています.\n\n特にこの部族は,自らの身体を隠すことは正しくないと信じています.</NudistTribe.description>
   <!-- EN: chief -->
   <NudistTribe.leaderTitle>族長</NudistTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <NudistTribe.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</NudistTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <NudistTribe.pawnSingular>蛮族</NudistTribe.pawnSingular>
   <!-- EN: tribespeople -->
@@ -40,6 +46,8 @@
   <Pilgrims.description>古代の遺物を崇める巡礼者の集団.</Pilgrims.description>
   <!-- EN: leader -->
   <Pilgrims.leaderTitle>リーダー</Pilgrims.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pilgrims.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</Pilgrims.messageDefendersAttacking>
   <!-- EN: pilgrim -->
   <Pilgrims.pawnSingular>巡礼者</Pilgrims.pawnSingular>
   <!-- EN: pilgrims -->
@@ -51,6 +59,8 @@
   <TribeCannibal.description>この人々はとても長い間この地に住んできました.おそらく彼らの先祖は千年ほど前に墜落したのでしょう.あるいは機械文明を破壊した数度の大変動を生き延びたのかもしれません.いずれにせよこの部族は原始的な道具や武器を携えて各地を放浪する遊牧民です.\n\nローテク戦争の技術と数の力,そして頑健さが,明らかな技術的弱点にも関わらず彼らを恐るべき敵にしています.\n\n特にこの異常な部族は,敵の肉を食らうことは最高の名誉であると信じています.</TribeCannibal.description>
   <!-- EN: chief -->
   <TribeCannibal.leaderTitle>族長</TribeCannibal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCannibal.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</TribeCannibal.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeCannibal.pawnSingular>蛮族</TribeCannibal.pawnSingular>
   <!-- EN: tribespeople -->

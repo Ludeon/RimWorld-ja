@@ -94,7 +94,9 @@
   <!-- EN: Breastfeed {BABY_labelShort} -->
   <BabyCareBreastfeed>{BABY_labelShort}に授乳する</BabyCareBreastfeed>
   <!-- EN: Cannot breastfeed {BABY_labelShort} -->
-  <BabyCareBreastfeedUnable>{BABY_labelShort}は授乳できない</BabyCareBreastfeedUnable>
+  <BabyCareBreastfeedUnable>{BABY_labelShort}に授乳できない</BabyCareBreastfeedUnable>
+  <!-- EN: Already breastfeeding {BABY_labelShort} -->
+  <AlreadyBreastfeeding>{BABY_labelShort}は既に授乳されている</AlreadyBreastfeeding>
   <!-- EN: No baby-edible food -->
   <NoBabyFood>離乳食禁止</NoBabyFood>
 
@@ -164,6 +166,10 @@
   <CarryToSafePlace>安全な場所に運ぶ</CarryToSafePlace>
   <!-- EN: Cannot take to safe location -->
   <CannotCarryToSafePlace>安全な場所に運べない</CannotCarryToSafePlace>
+  <!-- EN: No safer location than current location -->
+  <NoBetterSafePlace>この場所より安全な場所がない</NoBetterSafePlace>
+  <!-- EN: Already taking to safe location -->
+  <AlreadyCarryingToSafePlace>既に安全な場所に運んでいる</AlreadyCarryingToSafePlace>
 
   <!-- UNUSED -->
   <CannotStudy>研究できない</CannotStudy>

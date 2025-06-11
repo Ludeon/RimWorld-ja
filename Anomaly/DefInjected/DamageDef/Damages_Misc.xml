@@ -14,17 +14,7 @@
   <!-- EN: energy bolt -->
   <EnergyBolt.label>エネルギーボルト</EnergyBolt.label>
   <!-- EN: {0} has been killed by an energy bolt. -->
-  <EnergyBolt.deathMessage>{0}はエネルギーボルトで殺された</EnergyBolt.deathMessage>
-  
-  <!-- EN: nerve -->
-  <Nerve.label>神経</Nerve.label>
-  <!-- EN: {0} has been killed by nerve shock. -->
-  <Nerve.deathMessage>{0}は神経ショックで殺された</Nerve.deathMessage>
-  
-  <!-- EN: nerve stun -->
-  <NerveStun.label>神経麻痺</NerveStun.label>
-  <!-- EN: {0} has been killed. -->
-  <NerveStun.deathMessage>{0}は殺された</NerveStun.deathMessage>
+  <EnergyBolt.deathMessage>{0}はエネルギーボルトで殺されました.</EnergyBolt.deathMessage>
   
   <!-- EN: vaporize -->
   <NociosphereVaporize.label>蒸発</NociosphereVaporize.label>
