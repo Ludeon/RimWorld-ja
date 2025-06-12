@@ -451,9 +451,9 @@
   <!-- EN: {PAWN_nameDef} has transmuted {ORIGINAL} into {TRANSMUTED}. -->
   <MessageTransmutedItem>{PAWN_nameDef}は{ORIGINAL}を{TRANSMUTED}に変異させました.</MessageTransmutedItem>
   <!-- EN: {PAWN_nameDef} has transmuted {1} into {TRANSMUTED_labelShortIndef}. -->
-  <MessageTransmutedStuff>{PAWN_nameDef}は{ORIGINAL_labelShortIndef}を{TRANSMUTED_labelShortIndef}に変異させました.</MessageTransmutedStuff>
+  <MessageTransmutedStuff>{PAWN_nameDef}は{1}を{TRANSMUTED_labelShortIndef}に変異させました.</MessageTransmutedStuff>
   <!-- EN: {PAWN_nameDef} has transmuted {1} into {TRANSMUTED_labelPluralIndef}. -->
-  <MessageTransmutedStuffPlural>{PAWN_nameDef}は{ORIGINAL_labelPluralIndef}を{TRANSMUTED_labelPluralIndef}に変異させました.</MessageTransmutedStuffPlural>
+  <MessageTransmutedStuffPlural>{PAWN_nameDef}は{1}を{TRANSMUTED_labelPluralIndef}に変異させました.</MessageTransmutedStuffPlural>
   
   <!-- Electroharvester -->
   <!-- EN: No restrained entity. -->

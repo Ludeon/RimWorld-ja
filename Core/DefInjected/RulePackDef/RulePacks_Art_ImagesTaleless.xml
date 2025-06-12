@@ -63,7 +63,7 @@
     <li>image->ある[Shape]の</li>
     <li>image->たくさんの[Shape]で囲まれた[Shape]の</li>
     <li>image->「[Concept]」の抽象的描写の</li>
-    <li>image->[Adjective]抽象画の</li>
+    <li>image->[AdjectiveAny]抽象画の</li>
     <li>desc_pawn(p=12)-></li>
     <li>desc_pawn->空を飛んでいる</li>
     <li>desc_pawn->宙に浮いた</li>
@@ -73,7 +73,7 @@
     <li>desc_pawn->鏡越しに映る</li>
     <li>desc_pawn->シルエットで表現された</li>
     <li>desc_pawn->[Apparel]を着て[Animal]に乗っている</li>
-    <li>desc_pawn->[adjective]ように見える</li>
+    <li>desc_pawn->[AdjectiveAny]ように見える</li>
     <li>desc_pawn->[Gore]にまみれた</li>
   </TalelessImages.rulePack.rulesStrings>
   
