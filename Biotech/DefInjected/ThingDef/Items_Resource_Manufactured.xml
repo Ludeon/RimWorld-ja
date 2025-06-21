@@ -30,10 +30,6 @@
   <!-- EN: Analyze nano structuring chip -->
   <NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>ナノ構造体チップを分析中</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
   
-  <!-- UNUSED -->
-  <NanostructuringChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</NanostructuringChip.comps.CompStudiable.completedLetterText>
-  <NanostructuringChip.comps.CompStudiable.completedLetterTitle>{PARENT_label}研究完了:{RESEARCH}がアンロックされた</NanostructuringChip.comps.CompStudiable.completedLetterTitle>
-  
   <!-- EN: powerfocus chip -->
   <PowerfocusChip.label>パワーフォーカスチップ</PowerfocusChip.label>
   <!-- EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
@@ -52,10 +48,6 @@
   <PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>入植者であれば分析できます.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze powerfocus chip -->
   <PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>パワーフォーカスチップを分析中</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
-  
-  <!-- UNUSED -->
-  <PowerfocusChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</PowerfocusChip.comps.CompStudiable.completedLetterText>
-  <PowerfocusChip.comps.CompStudiable.completedLetterTitle>{PARENT_label}研究完了:{RESEARCH}がアンロックされた</PowerfocusChip.comps.CompStudiable.completedLetterTitle>
   
   <!-- EN: tox shell -->
   <Shell_Toxic.label>毒弾</Shell_Toxic.label>
@@ -86,10 +78,6 @@
   <SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>入植者であれば分析できます.</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze signal chip -->
   <SignalChip.comps.CompAnalyzableUnlockResearch.jobString>シグナルチップを分析中</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
-  
-  <!-- UNUSED -->
-  <SignalChip.comps.CompStudiable.completedLetterText>{PARENT_label}を研究することによって,{STUDIER_labelShort}は{RESEARCH}の研究に 必要な知見を得ました.\n\n研究者は,この技術の使い方について研究卓で研究開始できます.</SignalChip.comps.CompStudiable.completedLetterText>
-  <SignalChip.comps.CompStudiable.completedLetterTitle>{PARENT_label}研究完了:{RESEARCH}がアンロックされた</SignalChip.comps.CompStudiable.completedLetterTitle>
   
   <!-- EN: basic subcore -->
   <SubcoreBasic.label>基本サブコア</SubcoreBasic.label>

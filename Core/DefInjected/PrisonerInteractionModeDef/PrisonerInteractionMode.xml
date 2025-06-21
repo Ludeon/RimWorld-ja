@@ -16,10 +16,6 @@
   <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
   <MaintainOnly.description>囚人と対話せず,食事と必需品の支給のみを行います.</MaintainOnly.description>
   
-  <!-- UNUSED -->
-  <NoInteraction.label>相互交流無し</NoInteraction.label>
-  <NoInteraction.description>囚人と対話を行いません.</NoInteraction.description>
-  
   <!-- EN: reduce resistance only -->
   <ReduceResistance.label>雑談のみ</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->

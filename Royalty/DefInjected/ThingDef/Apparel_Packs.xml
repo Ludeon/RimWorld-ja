@@ -12,10 +12,6 @@
   <!-- EN: deploy low-shield -->
   <Apparel_PackBroadshield.verbs.deploy_lowshield.label>低角シールドを設置</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
   
-  <!-- UNUSED -->
-  <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>シールド</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
-  <Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>
-  
   <!-- EN: jump pack -->
   <Apparel_PackJump.label>ジャンプパック</Apparel_PackJump.label>
   <!-- EN: A single-person burst rocket for short-ranged flight. With its integrated harness and guidance assistant, the jump pack allows anyone to leap long distances at high speed, even over obstacles. It must be recharged after several uses.\n\nSome spacer tech militaries have melee combat specialists who use jump packs to bypass obstacles and rapidly close with the enemy. -->
@@ -26,9 +22,5 @@
   <Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>クールダウン</Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: jump -->
   <Apparel_PackJump.verbs.jump.label>ジャンプ</Apparel_PackJump.verbs.jump.label>
-  
-  <!-- UNUSED -->
-  <Apparel_PackJump.comps.CompReloadable.chargeNoun>ジャンプ</Apparel_PackJump.comps.CompReloadable.chargeNoun>
-  <Apparel_PackJump.comps.CompReloadable.cooldownGerund>クールダウン</Apparel_PackJump.comps.CompReloadable.cooldownGerund>
   
 </LanguageData>

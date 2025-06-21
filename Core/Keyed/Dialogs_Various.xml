@@ -1436,29 +1436,4 @@
   <!-- EN: Searching -->
   <Searching>検索中</Searching>
 
-  <!-- UNUSED -->
-  <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています.それは自殺行為に等しいです.不可能なことに挑みたいのでなければ,着陸地点を変更するか,日付を変更してください.</MapTemperatureDangerWarning>
-  <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか?</ConfirmSendNotCompletelyLoadedPods>
-  <Outfit>服装</Outfit>
-  <SelectOutfit>服装を選択...</SelectOutfit>
-  <NewOutfit>新しい服装</NewOutfit>
-  <DeleteOutfit>服装を削除...</DeleteOutfit>
-  <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
-  <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
-  <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
-  <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
-  <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
-  <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
-  <DrugUsageColumnDesc>ドラッグの使用目的です.</DrugUsageColumnDesc>
-  <FoodRestriction>食事制限</FoodRestriction>
-  <FoodRestrictionShort>食事</FoodRestrictionShort>
-  <SelectFoodRestriction>食事制限を選択</SelectFoodRestriction>
-  <NewFoodRestriction>新しい食事制限</NewFoodRestriction>
-  <DeleteFoodRestriction>食事制限を削除</DeleteFoodRestriction>
-  <NoFoodRestrictionSelected>食事制限を未選択</NoFoodRestrictionSelected>
-  <MedGroupColonist>入植者</MedGroupColonist>
-  <MedGroupImprisonedColonist>逮捕された入植者</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>家畜</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>野生動物</MedGroupNeutralAnimal>
-
 </LanguageData>
