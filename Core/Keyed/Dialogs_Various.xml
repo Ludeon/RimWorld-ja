@@ -469,7 +469,7 @@
   <!-- EN: Wildness -->
   <Wildness>野性</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>野性に近い動物は,手懐けたり,調教するのが,より難しくなります.</WildnessExplanation>
+  <WildnessExplanation>野生に近い動物は手懐けたり,調教したり,従わせるのがより難しくなります.</WildnessExplanation>
   <!-- EN: Training decay interval -->
   <TrainingDecayInterval>調教値減衰間隔</TrainingDecayInterval>
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
@@ -531,7 +531,7 @@
   <!-- EN: Pack animal -->
   <PackAnimal>駄載獣</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>この動物は,キャラバン隊が長い距離,アイテムを運ぶのに適しています.</PackAnimalExplanation>
+  <PackAnimalExplanation>この動物がキャラバンで長距離,荷物を運ぶのに適しているかどうかです.</PackAnimalExplanation>
   <!-- EN: Skill -->
   <Skill>スキル</Skill>
   <!-- EN: Success rate multiplier -->
@@ -991,9 +991,9 @@
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
-  <MoodThresholdColumnLabel>使用条件:"心情"が以下のとき</MoodThresholdColumnLabel>
+  <MoodThresholdColumnLabel>使用条件:"心情"が下回るとき</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>使用条件:"娯楽"が以下のとき</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>使用条件:"娯楽"が下回るとき</JoyThresholdColumnLabel>
   <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>携帯数</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
@@ -1019,7 +1019,7 @@
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき,余分に持ち出すドラッグの量です.予備の持ち出しを禁止すると,毎回,備蓄ゾーンにドラッグを取りにいきます.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>中毒者の欲求目的の使用\n\n中毒者が欲求を維持するためにこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>薬物依存者の欲求目的の使用\n\n薬物依存者が欲求を維持するためにこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
   <DrugUsageTipForJoy>娯楽目的の使用\n\n娯楽や人付き合いを目的としてこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
@@ -1097,7 +1097,7 @@
   <!-- EN: Friendly faction members -->
   <MedGroupFriendlyFaction>友好派閥のメンバー</MedGroupFriendlyFaction>
   <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
-  <MedGroupFriendlyFactionDesc>あなたの派閥に友好的な派閥(友好値が75以上)に所属する人間,動物です.</MedGroupFriendlyFactionDesc>
+  <MedGroupFriendlyFactionDesc>あなたの派閥に友好的な派閥(友好値が75より高い)に所属する人間,動物です.</MedGroupFriendlyFactionDesc>
   
   <!-- EN: Neutral faction members -->
   <MedGroupNeutralFaction>中立派閥のメンバー</MedGroupNeutralFaction>
@@ -1107,7 +1107,7 @@
   <!-- EN: Hostile faction members -->
   <MedGroupHostileFaction>敵対派閥のメンバー</MedGroupHostileFaction>
   <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
-  <MedGroupHostileFactionDesc>あなたの派閥に敵対的な派閥(友好値が-75以下)に所属する人間,動物です.</MedGroupHostileFactionDesc>
+  <MedGroupHostileFactionDesc>あなたの派閥に敵対的な派閥(友好値が-75より低い)に所属する人間,動物です.</MedGroupHostileFactionDesc>
 
   <!-- EN: Other humans -->
   <MedGroupNoFaction>その他の人間</MedGroupNoFaction>
@@ -1121,7 +1121,7 @@
 
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0}の種を蒔くのには, 栽培スキルが{1}必要です.\n\n誰も,これだけのスキルを持っていないので,この植物を育てられません.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0}の種を蒔くには,栽培スキルが{1}必要です.\n\nこのレベルのスキルを持つ,動ける栽培者がいないため,誰もこの植物を育てられません.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->

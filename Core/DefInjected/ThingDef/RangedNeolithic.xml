@@ -15,7 +15,7 @@
   <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
   <Bow_Great.description>威力ある長弓,長距離から射かけられます.</Bow_Great.description>
   <!-- EN: limb -->
-  <Bow_Great.tools.limb.label>縁</Bow_Great.tools.limb.label>
+  <Bow_Great.tools.limb.label>弓幹</Bow_Great.tools.limb.label>
   <!-- EN: greatbow -->
   <Bow_Great.verbs.Verb_Shoot.label>グレートボウ</Bow_Great.verbs.Verb_Shoot.label>
   
@@ -24,7 +24,7 @@
   <!-- EN: A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
   <Bow_Recurve.description>進化したリカーブボウです.それはバネを調整してよりエネルギーを効果的に早く矢に伝えられるように作られています.</Bow_Recurve.description>
   <!-- EN: limb -->
-  <Bow_Recurve.tools.limb.label>縁</Bow_Recurve.tools.limb.label>
+  <Bow_Recurve.tools.limb.label>弓幹</Bow_Recurve.tools.limb.label>
   <!-- EN: recurve bow -->
   <Bow_Recurve.verbs.Verb_Shoot.label>リカーブボウ</Bow_Recurve.verbs.Verb_Shoot.label>
   
@@ -33,14 +33,14 @@
   <!-- EN: A simple short selfbow made from a single piece of wood. -->
   <Bow_Short.description>単純なショートボウ,初歩的なテクノロジーのみを用いて作られます.</Bow_Short.description>
   <!-- EN: limb -->
-  <Bow_Short.tools.limb.label>縁</Bow_Short.tools.limb.label>
+  <Bow_Short.tools.limb.label>弓幹</Bow_Short.tools.limb.label>
   <!-- EN: short bow -->
   <Bow_Short.verbs.Verb_Shoot.label>ショートボウ</Bow_Short.verbs.Verb_Shoot.label>
   
   <!-- EN: pila -->
   <Pila.label>投槍</Pila.label>
   <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
-  <Pila.description>たくさんの使い捨て投げ槍です.</Pila.description>
+  <Pila.description>投擲用の槍で,ピラという名前を持ちます.投げるまでに時間がかかる半面,一撃で大きなダメージを与えることができます.ピラはピルムの複数形であり,つまりこの武器は,ピルムを何本も集めたものであることを表しています.そのため,ピルムを何度でも投擲することができます.</Pila.description>
   <!-- EN: shaft -->
   <Pila.tools.shaft.label>軸</Pila.tools.shaft.label>
   <!-- EN: point -->

@@ -6,7 +6,7 @@
   <!-- EN: These entities are at dangerously high activity levels -->
   <ActivityDangerousDesc>これらの「存在」の活動は危険なほどの高レベルにあります</ActivityDangerousDesc>  
   <!-- EN: When an entity reaches 100% activity, it will become dangerous.\n\nSend your warden to suppress these entities, or enable automatic suppression using the entity's activity panel. -->
-  <ActivityDangerousDescAppended>活動率が100%に達すると,危険な状態になります.\n\n看守を派遣して抑制するか,「存在」の活動パネルを使って自動抑制を有効にしてください.</ActivityDangerousDescAppended>
+  <ActivityDangerousDescAppended>活動率が100%に達すると,危険な状態になります.\n\n看守で抑制するか,「存在」の活動パネルを使って自動抑制を有効にしてください.</ActivityDangerousDescAppended>
 
   <!-- EN: Need anomaly project -->
   <NeedAnomalyProject>アノマリー計画が必要</NeedAnomalyProject>
@@ -80,7 +80,7 @@
   <!-- EN: Entity treatment needed -->
   <EntityNeedsTreatment>存在の治療が必要</EntityNeedsTreatment>
   <!-- EN: These entities need medical treatment. Without it, they may die in captivity.\n{0}\n\nSend a doctor to treat them. -->
-  <EntityNeedsTreatmentDesc>これらの存在は治療が必要です.さもなければ,捕われのまま死んでしまうかもしれません.\n{0}\n\n医者を派遣して治療しましょう.</EntityNeedsTreatmentDesc>
+  <EntityNeedsTreatmentDesc>これらの存在は治療が必要です.さもなければ,捕われのまま死んでしまうかもしれません.\n{0}\n\n医者を送って治療しましょう.</EntityNeedsTreatmentDesc>
 
   <!-- EN: Ghoul hypothermia -->
   <AlertGhoulHypothermia>グールの低体温症</AlertGhoulHypothermia>

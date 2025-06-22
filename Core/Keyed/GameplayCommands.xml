@@ -287,11 +287,11 @@
   
   <!-- Animal control -->
   <!-- EN: Animals attack -->
-  <CommandReleaseAnimalsLabel>獲物を指示</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsLabel>攻撃指示</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>これがオンになっている間,主人を持っている動物を,離れた獲物に向かわせることができます.これがオフの間は,動物は主人のそばを離れず守ります.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>動物が存在しません.</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsFail_NoAnimals>家畜がいません.</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->

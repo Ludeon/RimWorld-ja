@@ -87,11 +87,11 @@
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
   <NoMedicineMatchingCategory>医薬品設定'{CATEGORY}'の薬がありません.</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
-  <UnderRequiredSkill>要求するスキル以下 {0}</UnderRequiredSkill>
+  <UnderRequiredSkill>要求スキル{0}に満たない</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
-  <UnderAllowedSkill>認められたスキル以下 {0}</UnderAllowedSkill>
+  <UnderAllowedSkill>必要スキル{0}に満たない</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>認められたスキル以上 {0}</AboveAllowedSkill>
+  <AboveAllowedSkill>必要スキル{0}を超えている</AboveAllowedSkill>
   <!-- EN: no reachable outside cell -->
   <NoReachableOutsideCell>到達可能な外部セルがない</NoReachableOutsideCell>
   <!-- EN: cannot exit map -->
@@ -268,11 +268,11 @@
   <!-- EN: No unforbidden, un-reserved {0} -->
   <NoItemReserved>禁止されていない,予約されていない{0}がありません.</NoItemReserved>
   <!-- EN: Reserved by someone else. -->
-  <Reserved>他の誰かが使用しています.</Reserved>
+  <Reserved>他の誰かが使用している</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>{1_labelShort}が使用しています.</ReservedBy>
+  <ReservedBy>{1_labelShort}が使用している</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
-  <IsReservedBy>{0}は{1}が使用しています.</IsReservedBy>
+  <IsReservedBy>{0}は{1}が使用している</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>重すぎる</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
@@ -541,7 +541,7 @@
   <!-- EN: Designate all -->
   <DesignateAll>全てを指示する</DesignateAll>
   <!-- EN: {0} affected -->
-  <CountToDesignate>{0} 影響下にある</CountToDesignate>
+  <CountToDesignate>{0}個が影響を受ける</CountToDesignate>
   <!-- EN: Forbid all items -->
   <ForbidAllItems>全アイテムを接触禁止</ForbidAllItems>
   <!-- EN: Unforbid all items -->

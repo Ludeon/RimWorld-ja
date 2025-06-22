@@ -69,7 +69,7 @@
   <!-- EN: Total tend quality -->
   <DisappearsAtTotalTendQuality>看病の総合品質</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
-  <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>{0}がない</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
   <Immunity>免疫</Immunity>
   <!-- EN: {0} days to recover -->
@@ -543,7 +543,7 @@
   <!-- EN: Too large -->
   <TooLargeForBed>大きすぎる</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>危険</Warning>
+  <Warning>警告</Warning>
   <!-- EN: Has subquest -->
   <HasSubquest>サブクエストがある</HasSubquest>
   <!-- EN: Subquest of -->
@@ -561,7 +561,7 @@
   <!-- EN: Attack this to destroy it. -->
   <AttackToDestroy>攻撃することで破壊できます.</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
-  <RemoveByAttackingTooltip>これを攻撃して削除します.</RemoveByAttackingTooltip>
+  <RemoveByAttackingTooltip>攻撃することで取り除けます.</RemoveByAttackingTooltip>
   <!-- EN: Food -->
   <ThoughtFoodEatenFood>食料</ThoughtFoodEatenFood>
   <!-- EN: Ingredients -->
@@ -919,9 +919,9 @@
   <!-- EN: watching the aurora. -->
   <WatchingAurora>オーロラを眺めている</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>{1}に{0}を使う</UsingVerb>
+  <UsingVerb>{1}に{0}を使っている</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>{0}を使う</UsingVerbNoTarget>
+  <UsingVerbNoTarget>{0}を使っている</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>ゾーン</AreaLower>
   <!-- EN: cowering. -->

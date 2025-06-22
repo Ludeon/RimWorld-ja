@@ -68,7 +68,7 @@
     <li>paralyzedInfo->[lodgersLabelSingOrPluralDef][areIs]歩行不能症になっておりベッドで休まなければなりません.</li>
     <li>bloodRotInfo->[lodgersLabelSingOrPluralDef][areIs]血液腐敗症を患っており毎日の治療が必要です.高品質の医療と薬物で進行を遅らせることはできますが,一般に完全な治療はできません.重症化すると[lodgersLabelSingOrPluralDef]は死亡するため,薬物の備蓄に注意してください.</li>
     <li>minMoodInfo-></li>
-    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\n[lodgersLabelSingOrPluralDef]の心情を[lodgersMoodThreshold_percent]以上に高く保つ必要があります.</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\n[lodgersLabelSingOrPluralDef]の心情が[lodgersMoodThreshold_percent]を上回り続けるよう保つ必要があります.</li>
     <li>workInfo-></li>
     <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef]は全ての仕事を行いません.</li>
     <li>commonDescEnding->[helpersParagraph]</li>

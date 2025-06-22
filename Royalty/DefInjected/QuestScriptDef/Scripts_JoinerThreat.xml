@@ -60,7 +60,7 @@
     <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]が言うには,[joiner_pronoun]が地下の虫の巣窟を毒物で全滅させようとしたところ,逆に[joiner_pronoun]は警報フェロモンを浴びせかけられてしまいました.そのせいで[joiner_pronoun]は巨大な昆虫に追われています!\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,(*Threat)[hivesCount]匹の虫(/Threat)が[infestationDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
+    <li>questDescription->[joiner_nameDef]という名の[introduction]が付近から通信を送ってきました.[joiner_pronoun]が言うには,[joiner_pronoun]が地下の虫の巣窟を毒物で全滅させようとしたところ,逆に[joiner_pronoun]は警報フェロモンを浴びせかけられてしまいました.そのせいで[joiner_pronoun]は巨大な虫に追われています!\n\n[joiner_pronoun]は安全のためにあなたの[map_definite]に匿ってくれるよう懇願しています.[joiner_relationInfo]\n\n[joiner_nameDef]を受け入れた場合,(*Threat)[hivesCount]匹の虫(/Threat)が[infestationDelayTicks_duration]後に襲来するでしょう.\n\n[joiner_nameDef]は混乱していてそれ以上の情報を聞き出せませんでした.</li>
     <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
     <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
@@ -77,11 +77,11 @@
     <li>questName->[joiner_nameDef]のinsects</li>
   </ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly. -->
-  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{BASETEXT}\n            \n[joiner_nameDef]は昆虫のフェロモンを振りまきつつ追跡から逃げています.[joiner_objective]追っている虫の集団はまもなく到着します.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
+  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{BASETEXT}\n            \n[joiner_nameDef]は虫のフェロモンを振りまきつつ追跡から逃げています.[joiner_objective]追っている虫の集団はまもなく到着します.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
   <ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL}: [joiner_nameDef]を追跡中</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe insects are here for [joiner_nameDef]. -->
-  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n                  \n[joiner_nameDef]を追う昆虫がやって来た.</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
+  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n                  \n[joiner_nameDef]を追う虫がやって来た.</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
   
   <!-- EN:
     <li>questDescription(animalCount==1)->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a manhunting [animalKind_label](/Threat) is hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_label] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>

@@ -15,13 +15,13 @@
   <ChooseMechColor>メカの色を選択...</ChooseMechColor>
 
   <!-- EN: Pollution removal area -->
-  <DesignatorAreaPollutionClearExpand>除染エリア</DesignatorAreaPollutionClearExpand>
+  <DesignatorAreaPollutionClearExpand>除染ゾーン</DesignatorAreaPollutionClearExpand>
   <!-- EN: Designate an area where colonists will manually clean polluted terrain. Cleaning the terrain removes pollution from the ground and packages it into toxic wastepacks which can be carried away. -->
-  <DesignatorAreaPollutionClearExpandDesc>入植者が手動で除染するエリアを指定します.土地を清掃すると汚染が取り除かれ,汚染物は持ち運び可能な廃棄物パックに詰め込まれます.</DesignatorAreaPollutionClearExpandDesc>
+  <DesignatorAreaPollutionClearExpandDesc>入植者が手動で除染する場所を指定します.土地を清掃すると汚染が取り除かれ,汚染物は持ち運び可能な廃棄物パックに詰め込まれます.</DesignatorAreaPollutionClearExpandDesc>
   <!-- EN: Clear pollution removal area -->
-  <DesignatorAreaPollutionClearClear>除染エリアを削除</DesignatorAreaPollutionClearClear>
+  <DesignatorAreaPollutionClearClear>除染ゾーン 取消</DesignatorAreaPollutionClearClear>
   <!-- EN: Removes the pollution removal area. Colonists will no longer manually extract pollution from the terrain in this area. -->
-  <DesignatorAreaPollutionClearClearDesc>除染エリアを削除します.入植者による手動清掃が行われなくなります.</DesignatorAreaPollutionClearClearDesc>
+  <DesignatorAreaPollutionClearClearDesc>除染ゾーンを取り消します.入植者による手動清掃が行われなくなります.</DesignatorAreaPollutionClearClearDesc>
 
 
 </LanguageData>

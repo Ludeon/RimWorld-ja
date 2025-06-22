@@ -25,7 +25,7 @@
   <!-- EN: tainted {0} etc -->
   <DeadMansApparel.stages.tainted_etc.label>穢れた{0} (etc)</DeadMansApparel.stages.tainted_etc.label>
   <!-- EN: I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
-  <DeadMansApparel.stages.tainted_etc.description>私は,死人が着ていた服を三枚以上着ている.気味が悪くて不潔な感じがする.</DeadMansApparel.stages.tainted_etc.description>
+  <DeadMansApparel.stages.tainted_etc.description>私は,死人が着ていた服を四枚以上着ている.気味が悪くて不潔な感じがする.</DeadMansApparel.stages.tainted_etc.description>
   
   <!-- EN: chilly -->
   <EnvironmentCold.stages.chilly.label>冷える</EnvironmentCold.stages.chilly.label>
@@ -60,7 +60,7 @@
   <!-- EN: sweltering hot -->
   <EnvironmentHot.stages.sweltering_hot.label>極度に暑い</EnvironmentHot.stages.sweltering_hot.label>
   <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
-  <EnvironmentHot.stages.sweltering_hot.description>オーブンの中にいるようだ!,どの位耐えられるかわからない.</EnvironmentHot.stages.sweltering_hot.description>
+  <EnvironmentHot.stages.sweltering_hot.description>オーブンの中にいるようだ!どの位耐えられるかわからない.</EnvironmentHot.stages.sweltering_hot.description>
   <!-- EN: blistering hot -->
   <EnvironmentHot.stages.blistering_hot.label>熱中症</EnvironmentHot.stages.blistering_hot.label>
   <!-- EN: This place is searing hot. I think I could die from this heat! -->

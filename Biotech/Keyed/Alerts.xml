@@ -4,7 +4,7 @@
   <!-- EN: Uncontrolled mechs -->
   <AlertMechLacksOverseer>未制御のメカ</AlertMechLacksOverseer>
   <!-- EN: One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed. -->
-  <AlertMechLacksOverseerDesc>1体か,それ以上のメカノイドが制御下にありません.制御に十分な帯域幅を有したメカニターとメカノイドを接続してください.\n\n未制御状態が1日以上続くとメカノイドは野生化する可能性があります.その場合,彼らは{0}に加わり,コロニーと敵対します.1体が野生化すると,付近にいる他のメカノイドも連鎖して離反します.\n\n野生化したメカノイドは,破壊されると培養槽で復活させることができません.</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerDesc>何体かのメカノイドが制御下にありません.制御に十分な帯域幅を有したメカニターとメカノイドを接続してください.\n\nメカノイドは未制御状態で1日が過ぎると,野生化する可能性があります.その場合,彼らは{0}に加わり,コロニーと敵対します.1体が野生化すると,付近にいる他のメカノイドも連鎖して離反します.\n\n野生化したメカノイドは,破壊されると培養槽で復活させることができません.</AlertMechLacksOverseerDesc>
   <!-- EN: The following mechanoids are uncontrolled -->
   <AlertMechLacksOverseerUncontrolled>次のメカノイドが未制御です</AlertMechLacksOverseerUncontrolled>
   <!-- EN: The following mechanoids are uncontrolled and could go feral at any moment -->
@@ -13,7 +13,7 @@
   <!-- EN: {0} is low on resources -->
   <AlertWarqueenHasLowResources>{0}のリソースが不足</AlertWarqueenHasLowResources>
   <!-- EN: One or more {0} are low on resoures. They will be unable to produce mechs on command if they run out of resources. -->
-  <AlertWarqueenHasLowResourcesDesc>1体か,それ以上の{0}のリソースが不足しています.リソースが不足するとメカの生産指令が出せなくなります.</AlertWarqueenHasLowResourcesDesc>
+  <AlertWarqueenHasLowResourcesDesc>何体かの{0}のリソースが不足しています.リソースが不足するとメカの生産指令が出せなくなります.</AlertWarqueenHasLowResourcesDesc>
 
   <!-- EN: {PAWN} needs deathrest -->
   <AlertLowDeathrestPawn>{PAWN}に死眠が必要</AlertLowDeathrestPawn>
@@ -35,7 +35,7 @@
   <!-- EN: Need mech rechargers -->
   <AlertNeedMechChargers>メカ充電器が必要</AlertNeedMechChargers>
   <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
-  <AlertNeedMechChargersDesc>すべてのメカノイドに行き渡る充電器がありません.エネルギーを使い果たしたメカは自己充電のための休眠状態に入りますが,この方法はとても充電速度が遅いです.\n\n以下の充電器を建造してください:\n{0}\n\nNote:通常のメカ充電器は小型メカノイドだけが使えます.中型以上のメカノイドには大型メカ充電器が必要です.</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargersDesc>すべてのメカノイドに行き渡る充電器がありません.エネルギーを使い果たしたメカは自己充電のための休眠状態に入りますが,この方法はとても充電速度が遅いです.\n\n以下の充電器を建造してください:\n{0}\n\n注意:通常のメカ充電器は小型メカノイドだけが使えます.中型以上のメカノイドには大型メカ充電器が必要です.</AlertNeedMechChargersDesc>
   <!-- EN: Research basic mechtech or higher to build rechargers. -->
   <AlertNeedMechChargerBasicMechtech>充電器を建築するためには,機械技術基礎以上の研究を行ってください.</AlertNeedMechChargerBasicMechtech>
 

@@ -21,7 +21,7 @@
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>{0}との関係が断絶しました.彼らは今や敵です.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは友好値({0})が{1}以下のときに起きます.中立の関係に戻す目的なら,友好値を再び{2}に到達させなければなりません.</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは友好値({0})が{1}を下回ったため発生しました.中立の関係に戻す目的なら,友好値を再び{2}に到達させなければなりません.</LetterRelationsChange_HostileGoodwillDescription>  
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました.もう彼らは,あなたを攻撃しようともせず,中立とみなしています.</LetterRelationsChange_NeutralFromHostile>
@@ -559,7 +559,7 @@
   <!-- EN: Caravan detected -->
   <LetterLabelSiteCountdownStarted>キャラバンが発見された</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
-  <LetterTextSiteCountdownStarted>キャラバンが発見されました. {0}後に, 強化した{1}が{2}からエリアに到着し始めます.\n\nキャラバンを再編成し,{1}を避けるために移動してください.彼らの到着までをカウントダウンするタイマーが表示されます.</LetterTextSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>キャラバンが発見されました. {0}後に, {2}の{1}が大勢でこのエリアに到着します.\n\n{1}を避けるために,キャラバンを再編成して移動してください.彼らの到着までをカウントダウンするタイマーが表示されます.</LetterTextSiteCountdownStarted>
 
   <!-- EN: Unwavering prisoner -->
   <LetterLabelUnrecruitablePawnCaptured>動じない囚人</LetterLabelUnrecruitablePawnCaptured>

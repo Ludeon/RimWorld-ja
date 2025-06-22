@@ -45,7 +45,7 @@
     <li>setup(tag=meme_AnimalPersonhood)           ->[founderName]は森に20年間住み, 動物を研究し,動物と繋がった.[founder_pronoun]は動物たちの真の道徳を理解するようになり,我々の運動を創設した.</li>
     <li>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName]は 野原や森の動物たちと親しく交わり,平等に彼らと繋がった.</li>
     <li>lessonIntro(tag=meme_AnimalPersonhood)         ->[veneratedOrAnyAnimal]への毎日の訪問で,私は本当にある真実を聞くことを学びました.何度も何度も,彼らは彼ら自身の方法で,私にそのメッセージを繰り返しました.</li>
-    <li>lesson(tag=meme_AnimalPersonhood)              ->それは,動物はこの世界の私たちのパートナーであり,それ以下のものとして扱うのは間違いである,ということです</li>
+    <li>lesson(tag=meme_AnimalPersonhood)              ->それは,動物はこの世界における私たちのパートナーであり,それ未満の存在として扱うのは間違いである,ということです</li>
     <li>lessonReinforcement(tag=meme_AnimalPersonhood) ->[veneratedOrAnyAnimal]が私にささやくまで,私はそれを信じていませんでした.</li>
     <li>archistBasis(tag=meme_AnimalPersonhood)    ->アルコテックは目覚めてから,明らかに人間と動物を道徳的に区別していない.</li>
     <li>archistFact(tag=meme_AnimalPersonhood)     ->アルコテックは生物の命よりも高い道徳面にある.彼らの優位性は非常に大きいため,相対的に人間は動物と同じ道徳面にいる.</li>

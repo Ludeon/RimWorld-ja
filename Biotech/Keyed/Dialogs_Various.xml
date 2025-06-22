@@ -17,7 +17,7 @@
   <!-- EN: {PAWN_labelShort} is in a '{MENTALSTATE_label}' mental state. -->
   <MechControllerMentalState>{PAWN_labelShort}は'{MENTALSTATE_label}の精神状態にあります.</MechControllerMentalState>
   <!-- EN: Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover -->
-  <ConfirmDisassemblingMech>{0}を完全に分解しますか?\n\n{0}を完全に分解すると回復します</ConfirmDisassemblingMech>
+  <ConfirmDisassemblingMech>{0}を完全に分解しますか?\n\n{0}を完全に分解すると以下の資源が戻ってきます</ConfirmDisassemblingMech>
   <!-- EN: A mechanitor must be capable of smithing to create mechanoids.\n\nAre you sure you want to continue? -->
   <ConfirmInstallMechlink_Smithing>メカニターがメカノイドを作成するには鍛冶スキルが必要です.\n\n本当に続けますか?</ConfirmInstallMechlink_Smithing>
   <!-- EN: A mechanitor must be capable of intellectual tasks to unlock mechanitor research.\n\nAre you sure you want to continue? -->

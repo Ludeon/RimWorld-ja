@@ -80,13 +80,13 @@
   <!-- EN: Groups -->
   <Groups>グループ</Groups>
   <!-- EN: Loading mech gestation resources -->
-  <LoadingMechGestator>メカ培養の資源を積んでいる</LoadingMechGestator>
+  <LoadingMechGestator>メカ培養に資源を運んでいる</LoadingMechGestator>
   <!-- EN: Time left this cycle -->
   <GestatingInspect>このサイクルの残り時間</GestatingInspect>
   <!-- EN: Initiating mech gestation cycle -->
-  <InitMechGestationCycle>メカ培養サイクルを開始</InitMechGestationCycle>
+  <InitMechGestationCycle>メカ培養サイクルを始めている</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
-  <InitMechBirth>メカ誕生を開始</InitMechBirth>
+  <InitMechBirth>メカを誕生させている</InitMechBirth>
   <!-- EN: Mech energy -->
   <MechEnergy>メカエネルギー</MechEnergy>
   <!-- EN: Energy -->
@@ -114,7 +114,7 @@
   <!-- EN: already used -->
   <AlreadyUsed>既に使われている</AlreadyUsed>
   <!-- EN: Gestating -->
-  <Gestating>培養している</Gestating>
+  <Gestating>培養中</Gestating>
   <!-- EN: Escorting {TARGET_labelShort}. -->
   <Escorting>{TARGET_labelShort}を護衛しています.</Escorting>
   <!-- EN: Worker -->
@@ -182,9 +182,9 @@
   <!-- EN: Never consume hemogen. -->
   <NeverConsumeHemogen>ヘモゲンを決して補充しません.</NeverConsumeHemogen>
   <!-- EN: Will kill -->
-  <WillKill>殺す</WillKill>
+  <WillKill>死亡する</WillKill>
   <!-- EN: Will cause major blood loss -->
-  <WillCauseSeriousBloodloss>大量失血の原因になる</WillCauseSeriousBloodloss>
+  <WillCauseSeriousBloodloss>大量失血を起こす</WillCauseSeriousBloodloss>
   <!-- EN: too small -->
   <TooSmall>小さすぎる</TooSmall>
 
@@ -202,7 +202,7 @@
   <!-- EN: Already bound to {0_nameDef} -->
   <CannotAssignAlreadyBound>すでに{0_nameDef}に接続されている</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
-  <CannotAssignBedCannotBindToMoreBuildings>これ以上{BUILDING_labelPlural}に接続できない</CannotAssignBedCannotBindToMoreBuildings>
+  <CannotAssignBedCannotBindToMoreBuildings>これより多くの{BUILDING_labelPlural}に接続できない</CannotAssignBedCannotBindToMoreBuildings>
 
   <!-- Aptitudes -->
   <!-- EN: aptitude -->
@@ -458,7 +458,7 @@
   <!-- EN: Fall per day -->
   <CurrentMechEnergyFallPerDay>1日あたりの減少率</CurrentMechEnergyFallPerDay>
   <!-- EN: Cannot assign to control group {0} -->
-  <CannotAssignMechToControlGroup>管理グループ{0}に割り当てることができません</CannotAssignMechToControlGroup>
+  <CannotAssignMechToControlGroup>管理グループ{0}に割り当てられない</CannotAssignMechToControlGroup>
   <!-- EN: Already assigned -->
   <AssignMechAlreadyAssigned>割り当て済み</AssignMechAlreadyAssigned>
 

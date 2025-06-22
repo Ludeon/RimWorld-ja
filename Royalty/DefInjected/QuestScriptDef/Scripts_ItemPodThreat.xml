@@ -33,7 +33,7 @@
     <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)->The infestation was drawn to you by [asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name].</li>
   -->
   <ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の昆虫フェロモンの実験を行いたいそうです.承諾すると,彼らは[map_definite]にフェロモンを散布し,(*Threat)[hivesCount]の虫の巣(/Threat)の襲来を引き起こします.[helpersParagraph]</li>
+    <li>questDescription(askerIsNull==true)->軌道上の研究船が新種の虫フェロモンの実験を行いたいそうです.承諾すると,彼らは[map_definite]にフェロモンを散布し,(*Threat)[hivesCount]の虫の巣(/Threat)の襲来を引き起こします.[helpersParagraph]</li>
     <li>infestationArrivalLetterText(askerIsNull==true)->虫の巣が研究船の散布したフェロモンに惹かれ出現しました.</li>
     <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]は, [map_definite]付近の拠点で繰り返される虫の襲来に直面しています. [asker_pronoun]は,あなたの下にこの襲来を引き寄せてほしいそうです.これによって(*Threat)[hivesCount]個の虫の巣(/Threat)が発生するでしょう.[helpersParagraph]</li>
     <li>infestationArrivalLetterText(asker_factionLeader==True)->虫の巣はもともと,[asker_faction_name]の [asker_nameFull]が統治する, 拠点付近を荒らしていました.</li>

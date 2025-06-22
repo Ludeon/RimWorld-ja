@@ -92,7 +92,7 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>確率で戒律を覚える</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color: {COLOR}\nHaving more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色: {COLOR}\n着ている衣服の{PERCENTAGE}以上がこの色{ORIDEO}であると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort}の好きな色: {COLOR}\n着ている衣服がこの色{ORIDEO}に染められており,なおかつその色の割合が{PERCENTAGE}を超えていると,{PAWN_pronoun}は少し幸せになります.\n\nティンクトリア染料を使用して,化粧台で衣服の色を変更できます.</FavoriteColorTooltip>
   <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
   <OrIdeoColor>,もしくは{PAWN_possessive}持つ思想の色</OrIdeoColor>
   <!-- EN: Set ideo color -->
@@ -100,9 +100,9 @@
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>好きな色に設定</SetFavoriteColor>
   <!-- EN: {PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
-  <FavoriteColorPickerTip>{PAWN_nameDef}の好きな色です.着ている衣服の60%以上がこの色,もしくは{PAWN_possessive}持つ思想の色であると,{PAWN_pronoun}は少し幸せになります.</FavoriteColorPickerTip>
+  <FavoriteColorPickerTip>{PAWN_nameDef}の好きな色です.着ている衣服がこの色,もしくは{PAWN_possessive}持つ思想の色に染められており,なおかつその色の割合が60%を超えていると,{PAWN_pronoun}は少し幸せになります.</FavoriteColorPickerTip>
   <!-- EN: {PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
-  <IdeoColorPickerTip>{PAWN_nameDef}の持つ思想の色です.着ている衣服の60%以上がこの色,もしくは{PAWN_possessive}好きな色であると,{PAWN_pronoun}は少し幸せになります.</IdeoColorPickerTip>
+  <IdeoColorPickerTip>{PAWN_nameDef}の持つ思想の色です.着ている衣服がこの色,もしくは{PAWN_possessive}好きな色に染められており,なおかつその色の割合が60%を超えていると,{PAWN_pronoun}は少し幸せになります.</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>派閥の思想を設定する</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
@@ -450,7 +450,7 @@
   <!-- EN: {PAWN_nameDef} is too far away -->
   <ConnectedPawnAway>{PAWN_nameDef}は遠すぎる</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
-  <TreeBlockedByNearbyBuildingsDesc>人工物の近くに{PLANT_definite}を植えると,接続強度が時間の経過と共に低下します.接続強度によって{PLANT_definite}が一度にサポートできるドライアドの最大数が決まります.\n\n本当にこの場所に植えますか?</TreeBlockedByNearbyBuildingsDesc>
+  <TreeBlockedByNearbyBuildingsDesc>人工物の近くに{PLANT_definite}を植えると,接続強度が時間の経過と共に低下します.接続強度によって{PLANT_definite}が一度に養えるドライアドの最大数が決まります.\n\n本当にこの場所に植えますか?</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
   <GauranlenModeChangeDescFull>{TREE_definite}のドライアド階級の変更には時間とエネルギーがかかります.\n\n接続された人物が木と対話した後,全てのドライアドは,選択された階級に変化するまでの間,繭の中で{DURATION}日間過ごします.\n\n既存の繭は変化をキャンセルして,現在の階級に変化するようにできます.</GauranlenModeChangeDescFull>
   <!-- EN: Change the type of dryads created by {TREE_definite}. -->
@@ -476,7 +476,7 @@
   <!-- EN: Desired -->
   <DesiredConnectionStrength>欲求</DesiredConnectionStrength>
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
-  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}は,接続強度をこのレベル以上に保つのに十分な頻度で{TREE_definite}を剪定します.\n\nより高い接続強度はより多くのドライアドを養えますが,接続強度の低下速度が速くなるため,維持するためにより頻繁な剪定が必要になります.\n\nバーをクリックして,目的のターゲット接続強度を調整できます.\n\n一日あたりの接続強度の低下量: {FALL}\n\n接続強度は近くの建築物の影響を受けます.</DesiredConnectionStrengthDesc>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}は,接続強度がこのレベルを上回り続けるよう保つのに十分な頻度で{TREE_definite}を剪定します.\n\nより高い接続強度はより多くのドライアドを養えますが,接続強度の低下速度が速くなるため,維持するためにより頻繁な剪定が必要になります.\n\nバーをクリックして,目的のターゲット接続強度を調整できます.\n\n一日あたりの接続強度の低下量: {FALL}\n\n接続強度は近くの建築物の影響を受けます.</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
   <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}がドライアド階級を変更するのを待っています.</WaitingForConnectorToChangeCaste>
   <!-- EN: Dryad caste -->

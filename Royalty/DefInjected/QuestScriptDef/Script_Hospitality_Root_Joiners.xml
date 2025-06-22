@@ -82,7 +82,7 @@
     <li>lodgersWasWere(lodgersCount>=2)->は</li>
     <li>appreciateAppreciates(lodgersCount==1)->評価</li>
     <li>appreciateAppreciates(lodgersCount>=2)->評価</li>
-    <li>goodwillForMood(goodwillRewardForMood==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef]は高品質な宿泊環境を高く[appreciateAppreciates]します.[theirHisHer]心情を50%以上に保つと,[asker_faction_name]の友好値を得られるでしょう.</li>
+    <li>goodwillForMood(goodwillRewardForMood==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef]は高品質な宿泊環境を高く[appreciateAppreciates]します.[theirHisHer]心情の平均値が50%を上回ると,[asker_faction_name]の友好値を得られるでしょう.</li>
     <li>goodwillForMood-></li>
     <li>questDescription(askerIsNull==true,lodgersCount==1)->[lodgers0_nameFull]という名の[lodgers0_title]が, [lodgers0_objective][shuttleDelayTicks_duration]間,[map_definite]で護衛するよう求めています.[allLodgerInfo][threatsInfo1][commonDescEnding]\n\n[joinerEnding]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef]は最近[wrongAct]捕まりました.復讐を行おうと,[lodgers0_pronoun]が共にいる限り[lodgers0_objective]を求めて[enemyFaction_pawnsPlural]がやって来るでしょう.[enemyGroupsParagraph]</li>

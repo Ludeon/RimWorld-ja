@@ -259,7 +259,7 @@
     <li>conflict->[foeLeader]と[foeLeader_possessive][foeSoldiers]が[deity0_name]の統治に反旗を翻すまでは平和な時代だった.[memberNamePlural]は逃亡し,[place_community]に潜むことを余儀なくされた.</li>
     <li>founderJoin->[founderName]という名の英雄が [foeLeader]の暗殺を試みた.[founder_pronoun]は失敗したが,[deity0_name]は[founderName]の戦いを目にし,[memberNamePlural]の預言者として[founder_objective]を聖別した.</li>
     <li>founderJoin->[deity0_name]が[revelationAdverb], [place_job]である[founderName]の下に表れ, [memeConcept]について[founder_pronoun]に語った.</li>
-    <li>founderJoin->[founderName]は[revelationObject]出会い, [memeConcept]について[deity0_name]の声で語った.</li>
+    <li>founderJoin->ある日[founderName]は,[deity0_name]の声で[memeConcept]について語る[revelationObject]に出会った.</li>
     <li>founderJoin->[founderName]と言う名の有名な[place_job]は, [memberNamePlural]を引き連れ,さらに数名の[foeSoldiers]を勧誘した.</li>
     <li>founderJoin->[founderName]と言う名の[place_job]が立ち上がり, [foeLeader]に対して声を上げ,[deity0_name]は[founderName]を祝福した.</li>
     <li>founderJoin->[deity0_name]は[memberNamePlural]を助けるため人間となり, [founderName]と名乗り, [place_name]に赴くことを決意した.</li>
@@ -271,9 +271,9 @@
     <li>revelationAdverb->悪夢の中</li>
     <li>revelationAdverb->[Animal]に擬態して</li>
     <li>revelationAdverb->乞食に擬態して</li>
-    <li>revelationObject->隠された[NaturalObject]の姿で</li>
-    <li>revelationObject->輝く[Vegetable]の姿で</li>
-    <li>revelationObject->古代の[Weapon]の姿で</li>
+    <li>revelationObject->隠された[NaturalObject]</li>
+    <li>revelationObject->輝く[Vegetable]</li>
+    <li>revelationObject->太古の[Weapon]</li>
   </TheistFounder.rules.rulesStrings>
   
   <!-- EN:
@@ -297,7 +297,7 @@
   -->
   <TheistMyth.rules.rulesStrings>
     <li>episode(priority=-1)-></li>
-    <li>creation->悠久の時の彼方, [deity0_name]が惑星と星々を想像するまで,[Color]色の[materialOrigin]世界があった.</li>
+    <li>creation->悠久の時の彼方, [deity0_name]が惑星と星々を創造するまで,[Color]色の[materialOrigin]世界があった.</li>
     <li>creation->古き闘争の宇宙において,[deity0_name]は偉大なる炎で最後の時代を一掃し,新たな火を生み出した.</li>
     <li>creation->[deity0_name]は,偉大な事故で人類を生み出し,好奇心から人類を見つめた.</li>
     <li>creation->宇宙は空虚だった.そうして,[deity0_name]は永遠に退屈し,[bodilyOrigin]の男女を作り上げた.</li>

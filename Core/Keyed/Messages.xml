@@ -446,7 +446,7 @@
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
   <MessageCantAddWaypointBecauseUnreachable>最後のウェイポイントから,このタイルに到達することは不可能です.</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>{0}個以上のウェイポイントを追加することはできません.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>追加できるウェイポイントは最大{0}個までです.</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
   <MessageCantRemoveWaypointBecauseFirst>このウェイポイントは削除できません.</MessageCantRemoveWaypointBecauseFirst>
   
@@ -703,7 +703,7 @@
   <!-- EN: You need {0_indefinite}. -->
   <MessageLordJobNeedsAtLeastOneRolePawn>{0_indefinite}が必要です.</MessageLordJobNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->
-  <MessageLordJobNeedsAtLeastNumRolePawn>{1}以上の{0}が必要です.</MessageLordJobNeedsAtLeastNumRolePawn>
+  <MessageLordJobNeedsAtLeastNumRolePawn>{1}人より多くの{0}が必要です.</MessageLordJobNeedsAtLeastNumRolePawn>
 
   <!-- Rituals -->
   <!-- EN: spectate -->

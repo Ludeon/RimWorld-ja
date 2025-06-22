@@ -66,17 +66,17 @@
   <ShapeFlesh.description>闇のアルコテックを誘発し,死体を恐るべき獣へと再構成します.獣は,作成者を含め,すべての人間に対して敵意を抱きます</ShapeFlesh.description>
   
   <!-- EN: spike launch -->
-  <SpikeLaunch_Fingerspike.label>スパイクローンチ</SpikeLaunch_Fingerspike.label>
+  <SpikeLaunch_Fingerspike.label>スパイク射出</SpikeLaunch_Fingerspike.label>
   <!-- EN: Launch a bone spike at a target. -->
   <SpikeLaunch_Fingerspike.description>ターゲットへ骨のトゲを発射します.</SpikeLaunch_Fingerspike.description>
   
   <!-- EN: spike launch -->
-  <SpikeLaunch_Toughspike.label>スパイクローンチ</SpikeLaunch_Toughspike.label>
+  <SpikeLaunch_Toughspike.label>スパイク射出</SpikeLaunch_Toughspike.label>
   <!-- EN: Launch a bone spike at a target. -->
   <SpikeLaunch_Toughspike.description>ターゲットへ骨のトゲを発射します.</SpikeLaunch_Toughspike.description>
   
   <!-- EN: spine launch -->
-  <SpineLaunch_Gorehulk.label>スパインローンチ</SpineLaunch_Gorehulk.label>
+  <SpineLaunch_Gorehulk.label>スパイン射出</SpineLaunch_Gorehulk.label>
   <!-- EN: Launch a keratin spine at a target to do damage. -->
   <SpineLaunch_Gorehulk.description>ターゲットにケラチンのトゲを発射してダメージを与えます.</SpineLaunch_Gorehulk.description>
   
@@ -85,7 +85,7 @@
   <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.description>鉄を原子レベルで再構成し,ランダムな貴重な素材へ変化させます.スチールや鉄くずの塊,鉄製の建築物,または鉄製アイテムをターゲットにできます.</TransmuteSteel.description>
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
-  <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>鉄,鉄くずの塊,鉄の建物,または鉄のアイテムをターゲットにしなければなりません.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
+  <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>スチール,鉄くずの塊,鉄製の建築物,または鉄製アイテムをターゲットにしなければなりません.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   
   <!-- EN: entity skip -->
   <UnnaturalCorpseSkip.label>物体跳躍</UnnaturalCorpseSkip.label>

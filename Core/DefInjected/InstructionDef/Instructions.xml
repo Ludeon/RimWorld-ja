@@ -7,7 +7,7 @@
   <!-- EN: Select this -->
   <AddBillSimpleMeal.onMapInstruction>これを選択します</AddBillSimpleMeal.onMapInstruction>
   <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
-  <AddBillSimpleMeal.rejectInputMessage>かまどの設定を,簡単な食事を作らせるように設定しましょう.</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.rejectInputMessage>カマドの設定を,簡単な食事を作らせるように設定しましょう.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
   <AddBillSimpleMeal.text>入植者達に,何の料理を作らせるかを伝える必要があります.\n\n"カマド"に料理注文書を付け足します.注文書が作成されてしまえば,入植者達は自動的に作業を行ないます.\n\n1."カマド"が完成するのを待ちます.\n2."カマド"をクリックして選択します.\n3."加工"タブを開きます.\n4."新しい加工"をクリックします.\n5."簡単な食事"を選択します.\n6."+"ボタンを押して,個数を10個に増やします.\n\n"カマド"を作るのに時間が掛かりすぎると思ったときは,時間を速めることができるのを思い出してください.\n\n入植者を選択したあと,"カマド"を右クリックして優先的に作らせることもできます.</AddBillSimpleMeal.text>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and press left trigger button on the stove to prioritize building it. -->
@@ -86,7 +86,7 @@
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots), and with no Landmark or Mixed Biome feature in the TERRAIN tab. -->
   <ChooseLandingSite.rejectInputMessage>"ランドマーク"や"特徴"のない,温帯森林の平地(茶色い点のない薄緑色の場所)を選択してみましょう.地域の情報は,場所を選択した際の"地形タブ"から見れます.</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text> この画面では,あなたの登場地点を選びます.\n\nたくさんの生物帯が存在しますが,今は,やりやすい場所から始めましょう.\n\n登場地点として,温帯森林で平地の地形を選びクリックし,"次へ"をクリックします.\n\n"地形"タブを使えば,選択したタイルの詳しい情報が見れます.</ChooseLandingSite.text>
+  <ChooseLandingSite.text> この画面では,あなたの最初の入植地を選びます.\n\n茶色い丘のない,温帯森林の平地(薄緑色の場所)を選びクリックし,"次へ"をクリックします.\n\n"地形タブ"を使えば,選択したタイルの詳しい情報が見れます.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>オプションメニューから,ストーリーテラーを選択して,このチュートリアルを終了します.</ChooseStoryteller.rejectInputMessage>

@@ -263,7 +263,7 @@
   <!-- EN: plate armor -->
   <PlateArmor.label>プレートアーマー</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
-  <PlateArmor.description>鋼や木からプレートアーマーを作ります.この重装甲は著しく歩みを遅くしますが,非常に効果的に防護します.</PlateArmor.description>
+  <PlateArmor.description>金属や木材からプレートアーマーを作ります.この重装甲は著しく歩みを遅くしますが,非常に効果的に防護します.</PlateArmor.description>
   <!-- EN:
     <li>subject->plate armor</li>
     <li>subject_story->crafted armor from scrap, when the authorities surrounded [ANYPAWN_possessive] family's shack</li>
@@ -341,7 +341,7 @@
   <!-- EN: smithing -->
   <Smithing.label>鍛冶</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
-  <Smithing.description>ナイフ,グラディ,メイスのような金属武器を鍛冶で作ります.金属は綺麗で美しいフロアタイルとしても役立ちます.</Smithing.description>
+  <Smithing.description>ナイフ,グラディウス,メイスのような金属武器を鍛冶で作ります.金属は清潔で美しいフロアタイルとしても役立ちます.</Smithing.description>
   <!-- EN:
     <li>subject->blacksmithing</li>
     <li>subject_story->settled in a medieval hamlet and mastered simple metal crafting</li>
@@ -408,7 +408,7 @@
   -->
   <WakeUpProduction.generalRules.rulesStrings>
     <li>subject->ウェイクアップ製造</li>
-    <li>subject_story->ウェイクアップの服用でカフェイン中毒を克服しようとした</li>
+    <li>subject_story->ウェイクアップの服用でカフェインへの依存を克服しようとした</li>
     <li>subject_story->慎重にタイミングを見計らってウェイクアップを投与することで,ナルコレプシーや夢遊病の患者を治療した</li>
     <li>subject_story->人々を光の当たらない小惑星に移動させ,生体リズムの維持のためにウェイクアップを服用させた</li>
     <li>subject_gerund->ウェイクアップ合成</li>

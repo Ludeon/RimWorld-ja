@@ -60,9 +60,9 @@
   <!-- EN: Pollution has increased by {0} at {1}. -->
   <MessageWorldTilePollutionChanged>{1}の汚染度が{0}増加しました.</MessageWorldTilePollutionChanged>
   <!-- EN: A cocoon has been disturbed and is opening! -->
-  <MessageCocoonDisturbed>繭が荒れ狂い開いていきます!</MessageCocoonDisturbed>
+  <MessageCocoonDisturbed>睡眠を妨害された繭が開き始めました!</MessageCocoonDisturbed>
   <!-- EN: Cocoons have been disturbed and are opening! -->
-  <MessageCocoonDisturbedPlural>繭が荒れ狂い開いていきます!</MessageCocoonDisturbedPlural>
+  <MessageCocoonDisturbedPlural>睡眠を妨害された繭が開き始めました!</MessageCocoonDisturbedPlural>
   <!-- EN: {0} has rotted due to polluted terrain. -->
   <MessagePlantDiedOfRot_PollutedTerrain>{0}は汚染された地形により腐敗しました.</MessagePlantDiedOfRot_PollutedTerrain>
 
@@ -76,7 +76,7 @@
   <MessageDeathrestingPawnCanWakeSafely>死眠中の{PAWN_nameDef}を安全に覚醒できるようになりました.</MessageDeathrestingPawnCanWakeSafely>
 
   <!-- EN: {0_nameDef} has lost control of a {1_kindBase} mech -->
-  <MessageMechanitorLostControlOfMech>{0_nameDef}は{1_kindBase}の制御を失いました.</MessageMechanitorLostControlOfMech>
+  <MessageMechanitorLostControlOfMech>{0_nameDef}は{1_kindBase}の制御を失いました</MessageMechanitorLostControlOfMech>
   <!-- EN: {0_nameDef} has disconnected from {1_nameDef} mech. -->
   <MessageMechanitorDisconnectedFromMech>{0_nameDef}と{1_nameDef}の接続が断たれました.</MessageMechanitorDisconnectedFromMech>
 
