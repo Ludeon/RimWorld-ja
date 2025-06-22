@@ -4,7 +4,7 @@
   <!-- EN: blood rain -->
   <BloodRain.label>血の雨</BloodRain.label>
   <!-- EN: Cast a ritual which causes blood-like psychofluid to fall from the sky. The fluid will slowly drive exposed humans and animals into a berserk frenzy. Traits and psychic sensitivity modulate the effect. -->
-  <BloodRain.description>空から血のような精神流体が降ってくる儀式を行います.この液体はそれを浴びた人間や動物をゆっくりと狂暴化させます.特性や精神感受性の強さによって効果が変化します.</BloodRain.description>
+  <BloodRain.description>空から血のような精神流体が降ってくる儀式を行います.この液体はそれを浴びた人間や動物をゆっくりと狂暴化させます.特性や精神感応性の強さによって効果が変化します.</BloodRain.description>
   <!-- EN: At the current ritual quality, the blood rain will last for {0}. -->
   <BloodRain.outcomeDescription>現在の儀式品質では,血の雨は{0}持続します.</BloodRain.outcomeDescription>
   
@@ -32,7 +32,7 @@
   <!-- EN: neurosis pulse -->
   <NeurosisPulse.label>精神パルス</NeurosisPulse.label>
   <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region work faster but become more irritable. Those affected will feel less need for recreation but will be unhappier and more likely to have a mental break. This will replace the effect of other active pulses. -->
-  <NeurosisPulse.description>激しいサイキックパルスを発し,その地域にいる精神感受性の高い人の作業を加速させるが,苛立ちやすくします.影響を受けた者は,娯楽の必要性をあまり感じなくなりますが,より不幸になり,精神崩壊しやすくなります.これは他の有効なパルスの効果に取って代わります.</NeurosisPulse.description>
+  <NeurosisPulse.description>激しいサイキックパルスを発し,その地域にいる精神感応性の高い人の作業を加速させるが,苛立ちやすくします.影響を受けた者は,娯楽の必要性をあまり感じなくなりますが,より不幸になり,精神崩壊しやすくなります.これは他の有効なパルスの効果に取って代わります.</NeurosisPulse.description>
   <!-- EN: At the current ritual quality, the effect will last for {0}. -->
   <NeurosisPulse.outcomeDescription>現在の儀式品質では,この効果は{0}持続します.</NeurosisPulse.outcomeDescription>
   
@@ -46,16 +46,16 @@
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>喜びのパルス</PleasurePulse.label>
   <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region happier but reduces their desire to work. This will replace the effect of other active pulses. -->
-  <PleasurePulse.description>激しいサイキックパルスを発し,その地域にいる精神感受性の高い人幸福にしますが,作業への欲求を低下させます.これは他の有効なパルスの効果に取って代わります.</PleasurePulse.description>
+  <PleasurePulse.description>激しいサイキックパルスを発し,その地域にいる精神感応性の高い人幸福にしますが,作業への欲求を低下させます.これは他の有効なパルスの効果に取って代わります.</PleasurePulse.description>
   <!-- EN: At the current ritual quality, the effect will last for {0}. -->
   <PleasurePulse.outcomeDescription>現在の儀式品質では,この効果は{0}持続します.</PleasurePulse.outcomeDescription>
   
   <!-- EN: psychophagy -->
   <Psychophagy.label>サイコファジー</Psychophagy.label>
   <!-- EN: Consume the psychic sensitivity of a target. The invoker will increase their psychic sensitivity for a period of time. The effect does not stack. The target will suffer brain damage, causing them to fall into a coma for several days. -->
-  <Psychophagy.description>ターゲットの精神感受性を消費します.実行者は一定時間,精神感受性が上昇します.この効果は累積しません.ターゲットは脳にダメージを受け,数日間昏睡状態となります.</Psychophagy.description>
+  <Psychophagy.description>ターゲットの精神感応性を低下させます.実行者は一定時間,精神感応性が上昇します.この効果は累積しません.ターゲットは脳にダメージを受け,数日間昏睡状態となります.</Psychophagy.description>
   <!-- EN: At the current ritual quality, the invoker will increase their psychic sensitivity for {0}.\n\nThe target will suffer brain damage and fall into a coma. -->
-  <Psychophagy.outcomeDescription>現在の儀式品質の場合,実行者の精神感受性が{0}上昇します.\n\nターゲットは脳にダメージを受け,昏睡状態になります.</Psychophagy.outcomeDescription>
+  <Psychophagy.outcomeDescription>現在の儀式品質の場合,実行者の精神感応性が{0}上昇します.\n\nターゲットは脳にダメージを受け,昏睡状態になります.</Psychophagy.outcomeDescription>
   
   <!-- EN: skip abduction -->
   <SkipAbduction.label>スキップアブダクション</SkipAbduction.label>

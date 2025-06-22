@@ -356,7 +356,7 @@
   <!-- EN: Order implantation -->
   <ImplantXenogerm>移植予約</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
-  <ImplantXenogermDesc>これを人に移植して,遺伝子コードを部分的に上書きします.\n\nこれは外科手術なので,医師と医療ベッド,そして{MEDICINEAMOUNT}の薬が必要です.</ImplantXenogermDesc>
+  <ImplantXenogermDesc>これを人に移植して,遺伝子コードを部分的に上書きします.\n\nこれは外科手術なので,医師と医療用ベッド,そして{MEDICINEAMOUNT}の薬が必要です.</ImplantXenogermDesc>
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
   <ImplantXenogermWarningDesc>異種胚を移植すると,異種胚が{PAWN_nameDef}自身と統合するため,昏睡状態になります.これは平均で{COMADURATION}の間続きます.昏睡状態の長さは医師の医療技術と医療施設の質によって異なります.</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->

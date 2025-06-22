@@ -632,7 +632,7 @@
     <li>subject->フィロファジー</li>
     <li>subject->スキル移譲</li>
     <li>subject_story->フィロファージによって残された犠牲者の痕跡を辿ってきました</li>
-    <li>subject_story->グリッターワールドの研究室で,神経の複製プロセスを研究していました</li>
+    <li>subject_story->Glitterworldの研究室で,神経の複製プロセスを研究していました</li>
     <li>subject_story->教団犠牲者の傷ついた精神を調査していました</li>
     <li>subject_story->サイキック攻撃の後,スキルの弱体化に気が付きました</li>
     <li>subject_gerund->犠牲者の知識を移譲する</li>
@@ -690,7 +690,7 @@
   <!-- EN: psychophagy -->
   <Psychophagy.label>サイコファジー</Psychophagy.label>
   <!-- EN: Perform a psychic ritual which deadens a target's psychic sensitivity and temporarily boosts the ritual invoker's psychic sensitivity. The target will suffer brain damage as a side-effect. -->
-  <Psychophagy.description>ターゲットの精神感受性を低下させ,儀式実行者の精神感受性を一時的に高めるサイキック儀式を行います.ターゲットは副作用として脳にダメージを負います.</Psychophagy.description>
+  <Psychophagy.description>ターゲットの精神感応性を低下させ,儀式実行者の精神感応性を一時的に高めるサイキック儀式を行います.ターゲットは副作用として脳にダメージを負います.</Psychophagy.description>
   <!-- EN:
     <li>subject->psychophagy</li>
     <li>subject_story->studied managed desensitization to psychic effects</li>
@@ -798,7 +798,7 @@
     <li>subject_story->工場労働者の睡眠不足を研究していました</li>
     <li>subject_story->帝国兵士への薬物使用を研究していました</li>
     <li>subject_story->様々なアルコフィールドが人間の意識へ与える影響を研究していました</li>
-    <li>subject_story->富裕層が暮らしを夢見る,グリッターワールドの非睡眠研究所で働いていました</li>
+    <li>subject_story->富裕層が暮らしを夢見る,Glitterworldの非睡眠研究所で働いていました</li>
     <li>subject_story->プリズンワールドの労働キャンプで起床を管理していました</li>
     <li>subject_gerund->アルコテックでスリープサプレッサーを建築する</li>
     <li>subject_gerund->アルコテックで睡眠を抑制する</li>

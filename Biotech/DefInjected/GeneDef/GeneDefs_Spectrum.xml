@@ -577,7 +577,7 @@
   <!-- EN: tox resistance -->
   <ToxResist_Partial.label>毒耐性</ToxResist_Partial.label>
   <!-- EN: Carriers of this gene are resistant to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain half the amount of toxic buildup compared to others.\n\nCellular filters in the lung and skin reduce the dose of toxins entering the bloodstream. -->
-  <ToxResist_Partial.description>この遺伝子を持つ者は,あらゆる要因からなる毒性蓄積に対して耐性があります.これには汚染された地形,有毒な放射性降下物,有毒ガス,および毒液,注入された毒による直接攻撃が含まれます.\n\n肺と皮膚の細胞フィルターが血流に入る毒素の量を減らします.</ToxResist_Partial.description>
+  <ToxResist_Partial.description>この遺伝子を持つ者は,あらゆる要因からなる毒性蓄積に対して耐性があります.これには汚染された地形,死の灰,有毒ガス,および毒液,注入された毒による直接攻撃が含まれます.\n\n肺と皮膚の細胞フィルターが血流に入る毒素の量を減らします.</ToxResist_Partial.description>
   <!-- EN: tox-resistant -->
   <ToxResist_Partial.labelShortAdj>毒耐性</ToxResist_Partial.labelShortAdj>
   <!-- EN: tox -->
@@ -586,7 +586,7 @@
   <!-- EN: tox immunity -->
   <ToxResist_Total.label>毒免疫</ToxResist_Total.label>
   <!-- EN: Carriers of this gene are totally immune to toxic buildup from all sources including polluted terrain, toxic fallout, tox gas, and direct attacks with venom or injected poison. They are also not bothered by acidic smog.\n\nThe carrier's biochemical pathways are modified to route around interference from nearly all known toxins. Along with enhancements to the kidneys and liver, this keeps carriers comfortable in even the most toxic of environments. -->
-  <ToxResist_Total.description>この遺伝子を持つ者は,汚染された地形,有毒な放射性降下物,有毒ガス,および毒液,注入された毒による直接攻撃を含むすべての要因からなる毒性蓄積に対して完全に免疫があります.また,酸性スモッグにも悩まされません.\n\n保因者の生化学的経路は,ほぼすべての既知の毒素からの干渉を回避するように変更されています.腎臓と肝臓が強化され,最も有毒な環境でも快適さが保たれます.</ToxResist_Total.description>
+  <ToxResist_Total.description>この遺伝子を持つ者は,汚染された地形,死の灰,有毒ガス,および毒液,注入された毒による直接攻撃を含むすべての要因からなる毒性蓄積に対して完全に免疫があります.また,酸性スモッグにも悩まされません.\n\n保因者の生化学的経路は,ほぼすべての既知の毒素からの干渉を回避するように変更されています.腎臓と肝臓が強化され,最も有毒な環境でも快適さが保たれます.</ToxResist_Total.description>
   <!-- EN: Tox gas immunity -->
   <ToxResist_Total.customEffectDescriptions.0>毒ガス免疫</ToxResist_Total.customEffectDescriptions.0>
   <!-- EN: tox-immune -->

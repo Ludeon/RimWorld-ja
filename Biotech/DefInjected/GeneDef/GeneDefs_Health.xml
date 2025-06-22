@@ -58,7 +58,7 @@
   <!-- EN: partial antitoxic lungs -->
   <ToxicEnvironmentResistance_Partial.label>毒耐性肺</ToxicEnvironmentResistance_Partial.label>
   <!-- EN: Carriers of this gene are resistant to environmental toxins. They get less toxic buildup from tox gas, polluted terrain, and toxic fallout, but are still vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure slower. -->
-  <ToxicEnvironmentResistance_Partial.description>この遺伝子を持つ者は,環境毒に耐性があります.有毒ガス,汚染された地形,有毒な放射性降下物による毒性物質の蓄積は少なくなりますが,毒や注入された毒による直接攻撃に対しては脆弱です.また,腐敗臭からの影響も遅くなります.</ToxicEnvironmentResistance_Partial.description>
+  <ToxicEnvironmentResistance_Partial.description>この遺伝子を持つ者は,環境毒に耐性があります.有毒ガス,汚染された地形,死の灰による毒性物質の蓄積は少なくなりますが,毒や注入された毒による直接攻撃に対しては脆弱です.また,腐敗臭からの影響も遅くなります.</ToxicEnvironmentResistance_Partial.description>
   <!-- EN: tox-resistant -->
   <ToxicEnvironmentResistance_Partial.labelShortAdj>毒耐性</ToxicEnvironmentResistance_Partial.labelShortAdj>
   <!-- EN: tox -->
@@ -67,7 +67,7 @@
   <!-- EN: total antitoxic lungs -->
   <ToxicEnvironmentResistance_Total.label>毒無効肺</ToxicEnvironmentResistance_Total.label>
   <!-- EN: Carriers of this gene are immune to environmental toxins, but not from direct toxic attacks. They get no toxic buildup from tox gas, polluted terrain, or toxic fallout, and they are not bothered by acidic smog. They are still vulnerable to direct attacks like venom and injected poison. Additionally, they are immune to rot stink exposure. -->
-  <ToxicEnvironmentResistance_Total.description>この遺伝子を持つ者は環境毒に対して免疫がありますが,毒による直接攻撃には免疫がありません.有毒ガスや汚染された地形,有毒な放射性降下物による毒性物質の蓄積を受けず,酸性スモッグに悩まされることもありません.しかし,毒や注入された毒による直接攻撃に対して依然として脆弱です.また,腐敗臭に対して免疫があります.</ToxicEnvironmentResistance_Total.description>
+  <ToxicEnvironmentResistance_Total.description>この遺伝子を持つ者は環境毒に対して免疫がありますが,毒による直接攻撃には免疫がありません.有毒ガスや汚染された地形,死の灰による毒性物質の蓄積を受けず,酸性スモッグに悩まされることもありません.しかし,毒や注入された毒による直接攻撃に対して依然として脆弱です.また,腐敗臭に対して免疫があります.</ToxicEnvironmentResistance_Total.description>
   <!-- EN: Tox gas immunity -->
   <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>毒ガス免疫</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
   <!-- EN: tox-immune -->

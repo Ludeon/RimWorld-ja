@@ -25,7 +25,7 @@
   <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
     <li>questDescription->[joiner_nameFull]という名の[introduction]が 助けを求めています! [joiner_pronoun]は[hidingFrom]から身を隠しています.[joiner_pronoun]は亡命してあなたの[map_definite]に加わりたいようです.[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef]は,今は隠れるのに必死で,自分自身について詳しく説明している余裕がないと主張しています.</li>
     <li>hidingFrom(gameCondition==ToxicFallout)->餓狼の集団</li>
-    <li>condDesc(gameCondition==ToxicFallout)->ただし[joiner_nameDef]は狼を撃退する最後の手段として付近のゴミ捨て場に火を放って毒物を拡散させるつもりです.[gameConditionDuration_duration]の期間,毒物の降下が続きます.</li>
+    <li>condDesc(gameCondition==ToxicFallout)->ただし[joiner_nameDef]は狼を撃退する最後の手段として付近のゴミ捨て場に火を放って毒物を拡散させるつもりです.[gameConditionDuration_duration]の期間,死の灰が続きます.</li>
     <li>hidingFrom(gameCondition==VolcanicWinter)->人食い集団</li>
     <li>condDesc(gameCondition==VolcanicWinter)->ただし[joiner_nameDef]は襲撃者を撃退する最後の手段として付近のゴミ捨て場に火を放つつもりです.[joiner_pronoun]が加入すると,煙が太陽を[gameConditionDuration_duration]の期間遮ります.</li>
     <li>hidingFrom(gameCondition==EMIField)->メカノイドの集団</li>

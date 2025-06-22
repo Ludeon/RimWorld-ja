@@ -28,7 +28,7 @@
   <!-- EN: blood rage -->
   <BloodRage.label>血の怒り</BloodRage.label>
   <!-- EN: This creature has been exposed to blood rain, a psychofluid that induces rage. This rage will continue to grow as long as they're exposed to the blood rain, eventually resulting in a violent mental break. The effect grows quicker in some individuals, depending on their traits, psychic sensitivity, and random individual differences. -->
-  <BloodRage.description>この生物は,怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感受性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
+  <BloodRage.description>この生物は,怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感応性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
   <!-- EN: very mild -->
   <BloodRage.stages.very_mild.label>極軽度</BloodRage.stages.very_mild.label>
   <!-- EN: mild -->
@@ -335,7 +335,7 @@
   <!-- EN: voidsight -->
   <Voidsight.label>ヴォイドサイト</Voidsight.label>
   <!-- EN: This person has ingested a drug which enhanced their perception of dark psychic phenomena. They will gain more knowledge when studying dark psychic phenomena and entities. Their psychic sensitivity is also increased. -->
-  <Voidsight.description>この人物は,闇のサイキック現象の知覚を強化する薬物を摂取しています.闇のサイキック現象や「存在」を研究する際に,より多くの知識が得られます.また,サイキック感度も上昇します.</Voidsight.description>
+  <Voidsight.description>この人物は,闇のサイキック現象の知覚を強化する薬物を摂取しています.闇のサイキック現象や「存在」を研究する際に,より多くの知識が得られます.また,精神感応性も上昇します.</Voidsight.description>
   
   <!-- EN: void touched -->
   <VoidTouched.label>ヴォイドに触れた者</VoidTouched.label>

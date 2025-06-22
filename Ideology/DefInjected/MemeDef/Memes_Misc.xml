@@ -324,7 +324,7 @@
     <li>conflict(tag=meme_Darkness)        ->常に暗闇を恐れていた[foeLeader]は,[place_name]に一定の日光をもたらすためにソーラーミラーを建てた.</li>
     <li>founderJoin(tag=meme_Darkness)     ->預言者[founderName]は[place_name]の暗闇の中で生まれ, 一生を暗闇の中で過ごしていたため,[founder_possessive]声は[deity0_name]の知恵として伝えられた.</li>
     <li>victory(tag=meme_Darkness)         ->最後のストライキで,[memberNamePlural]は[place_powerCenter]の電源を切り, [founderName]は [foeSoldiers]をすり抜けた.暗闇の中で[foeLeader]を見つけた[founderName]は,[place_personalWeapon]を使用して[foeLeader_objective]無限の黒を送った.</li>
-    <li>setup(tag=meme_Darkness)           ->[founderName]は,グリッターワールドの街の厳しい光の中で混乱した生活を送っていた.太陽フレアに続く長い暗闇の中で,[founder_pronoun]は平和と熟考を見つけ,我々の運動を創設した論文を記録した.</li>
+    <li>setup(tag=meme_Darkness)           ->[founderName]は,Glitterworldの街の厳しい光の中で混乱した生活を送っていた.太陽フレアに続く長い暗闇の中で,[founder_pronoun]は平和と熟考を見つけ,我々の運動を創設した論文を記録した.</li>
     <li>story(uses=1,tag=meme_Darkness)    ->[founderName]は, アーティストが暗闇の中で作業するスタジオを作成し,多くの傑作を制作した.</li>
     <li>lessonIntro(tag=meme_Darkness)         ->私は子供の頃,厳しい光の下で目を細めて過ごしました.そのため,ある真実を理解するのにとても時間がかかりました.</li>
     <li>lesson(tag=meme_Darkness)              ->それは,光は燃やすが,闇は栄養を与える,ということです</li>
