@@ -10,7 +10,7 @@
   <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
   <CantStartRitualLayer>{LAYER}{GERUND}では{RITUAL}を行えません.</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
-  <CantJoinRitualInExtremeWeather>極端な気温のため,1人以上の参加者が参加できません.</CantJoinRitualInExtremeWeather>
+  <CantJoinRitualInExtremeWeather>極端な気温のため,何人かの参加者が参加できません.</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
   <CantStartRitualTargetIsAlreadyInRitual>{0}はすでに儀式に参加しています.</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->

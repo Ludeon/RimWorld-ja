@@ -220,12 +220,12 @@
     <li>artextra_clause->作品全体が[subimageplural]で縁取られている</li>
     <li>artextra_clause->作品の縁には[subimageplural]が描かれている</li>
     <li>artextra_clause->[side_position]には[subimagesingle]が描かれている</li>
-    <li>artextra_clause->作品のテーマが[subimageany]の前に描かれている</li>
+    <li>artextra_clause->[subimageany]の前に,作品のテーマが描かれている</li>
     <li>artextra_clause->作品の下部は[subimageany]で占められている</li>
     <!-- Scene is near terrain -->
-    <li>artextra_clause->そのシーンは[Community]の中央で起きている</li>
-    <li>artextra_clause->そのシーンは[Community]の外れで起きている</li>
-    <li>artextra_clause->そのシーンは[TerrainFeature]のそばにある[Community]の中で起きている</li>
+    <li>artextra_clause->見たところ,この場面は[Community]の中央で起きているようだ</li>
+    <li>artextra_clause->見たところ,この場面は[Community]の外れで起きているようだ</li>
+    <li>artextra_clause->見たところ,この場面は[TerrainFeature]のそばにある[Community]の中で起きているようだ</li>
     <!-- Pawn in side position -->
     <li>artextra_clause->[Character]が[side_position]で[idles]いる</li>
     <li>artextra_clause->[pawn_adj][Character]が[side_position]で[idles]いる</li>
@@ -234,8 +234,8 @@
     <li>artextra_clause->[Animal]が[side_position]で[idles]いる</li>
     <!-- One-offs -->
     <li>artextra_clause->もし目を細めて見れば,このイメージに使用されている[composition]構図によって,[subimageany]の輪郭が見えてくることに気付けるだろう</li>
-    <li>artextra_clause->[emotional_expression]表情を浮かべる[pawn_adj][PersonJob]の頭がこの場面全体を見ている</li>
-    <li>artextra_clause->[pawn_adj][PersonJob]が[emotional_expression]表情を浮かべながらこの場面全体を見ている</li>
+    <li>artextra_clause->[pawn_adj][PersonJob]の[emotional_expression]頭がこの場面全体を見ている</li>
+    <li>artextra_clause->[pawn_adj][PersonJob]が[emotional_expression]ような表情でこの場面全体を見ている</li>
     <li>artextra_clause->[pawn_adj][PersonJob]の頭がこの場面全体を見ている</li>
     <li>artextra_clause->[subimageplural]を配置することでイメージ全体を描写している</li>
     <li>subimageany->[subimagesingle]</li>
@@ -263,14 +263,14 @@
     <li>pawn_adj->[Apparel]を着た</li>
     <li>pawn_adj->[Weapon]を構えた</li>
     <li>pawn_adj->[Vegetable]を口にした</li>
-    <li>emotional_expression->微笑んでいる</li>
-    <li>emotional_expression->不機嫌な</li>
-    <li>emotional_expression->しかめっ面な</li>
-    <li>emotional_expression->嬉しそうな</li>
-    <li>emotional_expression->けばけばしい</li>
-    <li>emotional_expression->差し迫った</li>
-    <li>emotional_expression->大げさな</li>
-    <li>emotional_expression->歓喜の</li>
+    <li>emotional_expression->微笑む</li>
+    <li>emotional_expression->眉をひそめる</li>
+    <li>emotional_expression->睨む</li>
+    <li>emotional_expression->笑う</li>
+    <li>emotional_expression->凝視する</li>
+    <li>emotional_expression->泣く</li>
+    <li>emotional_expression->絶叫する</li>
+    <li>emotional_expression->大喜びする</li>
     <li>idles->座って</li>
     <li>idles->立って</li>
     <li>idles->じっとして</li>
@@ -296,17 +296,17 @@
     <!--=== style_clause ===-->
     <li>style_clause(p=4)->この作品は「[ConceptAny]」[symbolizes]</li>
     <li>artextra_clause->[side_position]にある[subimagesingle]は,「[ConceptAny]」[symbolizes]</li>
-    <li>style_clause->この作品は[ConceptAny]のアイデアが吹き込まれ,[artstyle_adj]様式となっている</li>
-    <li>style_clause->この作品は[artstyle_adj]様式で創作されている</li>
-    <li>style_clause->主要なシーンの[artstyle_adj]様式は,[artstyle_adj]様式の背景描写とぶつかり合っている</li>
-    <li>style_clause->この作品は[composition]構造と[artstyle_adj]様式を併せ持っている</li>
-    <li>style_clause->作品全体が[composition]構造になっている</li>
-    <li>style_clause->この作品は[artstyle_adj]様式の要素を含んだ[artstyle_adj]様式が使われている</li>
-    <li>style_clause->この作品には何らかの形で[ConceptAny]と[ConceptAny]の両方が表現されている</li>
-    <li>style_clause->この作品は[ConceptAny]と[ConceptAny]が対比されている</li>
-    <li>style_clause->この作品は[composition]構成と[artstyle_adj]様式とが対立していると言ってもいい</li>
-    <li>style_clause->この作品の色相は[Color]から[Color]へと次第に変化している</li>
-    <li>style_clause->そのほとんど全ての形状が[composition]構造で表現されているように見える</li>
+    <li>style_clause->この作品には[ConceptAny]のテーマから得たアイデアが随所に散りばめられており,[artstyle_adj]スタイルで表現されている</li>
+    <li>style_clause->この作品は[artstyle_adj]スタイルで創作されている</li>
+    <li>style_clause->作品の中央部分に使用されている[artstyle_adj]スタイルと,背景に使用されている[artstyle_adj]スタイルがちぐはぐで,まとまりがなくなっている</li>
+    <li>style_clause->この作品は[composition]図形を使用して[artstyle_adj]スタイルを表現している</li>
+    <li>style_clause->作品全体が[composition]図形で構成されている</li>
+    <li>style_clause->この作品は[artstyle_adj]要素を含めつつ[artstyle_adj]スタイルを使用している</li>
+    <li>style_clause->この作品は信じられない手法で[ConceptAny]と[ConceptAny]のテーマを両立して表現している</li>
+    <li>style_clause->この作品は[ConceptAny]と[ConceptAny]の対比をテーマにしている</li>
+    <li>style_clause->この作品は[composition]図形と[artstyle_adj]スタイルがちぐはぐで,まとまりがなくなっている</li>
+    <li>style_clause->この作品の色は[Color]から[Color]へと次第に変化している</li>
+    <li>style_clause->この作品は全体を通して[composition]図形で表現されているようだ</li>
     <li>symbolizes->を象徴しているようだ</li>
     <li>symbolizes->を象徴しているように見える</li>
     <li>symbolizes->を表しているようだ</li>
@@ -317,30 +317,30 @@
     <li>symbolizes->を見る者に想起させる</li>
     <li>symbolizes->を作者の立場から表しているようだ</li>
     <li>symbolizes->の概念を暗示しているようだ</li>
-    <li>depicts->描写している</li>
-    <li>depicts->示している</li>
-    <li>depicts->人物描写している</li>
-    <li>depicts->生き写している</li>
-    <li>depicts->図解している</li>
+    <li>depicts->再現している</li>
+    <li>depicts->見せている</li>
+    <li>depicts->かたどっている</li>
+    <li>depicts->表現している</li>
+    <li>depicts->生き生きと表現している</li>
     <li>depicts->表している</li>
     <li>depicts->似せてかたち作られている</li>
     <li>depiction->描写</li>
-    <li>depiction->イメージ</li>
+    <li>depiction->シーン</li>
     <li>depiction->肖像</li>
     <li>depiction->表現</li>
     <li>depiction->イラスト</li>
     <li>depiction->アートワーク</li>
-    <li>composition->三角形状の</li>
-    <li>composition->長方形状の</li>
-    <li>composition->正方形状の</li>
+    <li>composition->三角形を用いた</li>
+    <li>composition->長方形を用いた</li>
+    <li>composition->正方形を用いた</li>
     <li>composition->不安定な</li>
-    <li>composition->よく釣り合いのとれた</li>
+    <li>composition->バランスの取れた</li>
     <li>composition->ダイナミックな</li>
     <li>composition->静的な</li>
-    <li>composition->垂直的な</li>
-    <li>composition->水平的な</li>
-    <li>composition->中心的な</li>
-    <li>artstyle_adj->独創的でない</li>
+    <li>composition->垂直線的な</li>
+    <li>composition->水平線的な</li>
+    <li>composition->緻密に計算された</li>
+    <li>artstyle_adj->独創性に欠ける</li>
     <li>artstyle_adj->シンプルな</li>
     <li>artstyle_adj->複雑で写実主義な</li>
     <li>artstyle_adj->シュールリアリズム的な</li>
@@ -349,24 +349,24 @@
     <li>artstyle_adj->シンボリックな</li>
     <li>artstyle_adj->素人らしくも魅力的な</li>
     <li>artstyle_adj->細部にこだわった</li>
-    <li>artstyle_adj->ずんぐりとした</li>
-    <li>artstyle_adj->キュビズム</li>
-    <li>artstyle_adj->印象派の</li>
-    <li>artstyle_adj->表現派の</li>
+    <li>artstyle_adj->濃淡にムラのある</li>
+    <li>artstyle_adj->キュビズムな</li>
+    <li>artstyle_adj->印象派な</li>
+    <li>artstyle_adj->表現派な</li>
     <li>artstyle_adj->写真のような</li>
     <li>artstyle_adj->バロック調の</li>
-    <li>artstyle_adj->ダダイズム</li>
+    <li>artstyle_adj->ダダイズムの</li>
     <li>artstyle_adj->グリッチアートの</li>
     <li>artstyle_adj->ピクセル調の</li>
-    <li>artstyle_adj->フォーヴィズム</li>
-    <li>artstyle_adj->庶民派の</li>
-    <li>artstyle_adj->比喩的な</li>
-    <li>artstyle_adj->曲がりくねった</li>
+    <li>artstyle_adj->フォーヴィズムの</li>
+    <li>artstyle_adj->素朴な</li>
+    <li>artstyle_adj->暗喩的な</li>
+    <li>artstyle_adj->曲線的な</li>
     <li>artstyle_adj->幾何学的な</li>
     <li>artstyle_adj->抽象的な</li>
     <li>artstyle_adj->超現実主義的な</li>
-    <li>artstyle_adj->ポップアートの</li>
-    <li>artstyle_adj->ミニマリズム</li>
+    <li>artstyle_adj->ポップアート的な</li>
+    <li>artstyle_adj->ミニマリズムな</li>
     <li>artstyle_adj->ネオクラシカルな</li>
     <li>artstyle_adj->トゥーンレンダリングの</li>
     <li>artstyle_adj->後期印象派の</li>

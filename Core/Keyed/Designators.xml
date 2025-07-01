@@ -127,7 +127,7 @@
   <!-- EN: Clear snow removal area -->
   <DesignatorAreaSnowClearClear>除雪ゾーン 取消</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します.もうそこを入植者は雪かきしません.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します.入植者はもうその場所を雪かきしません.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>制限ゾーン</DesignatorExpandAreaAllowed>
@@ -169,7 +169,7 @@
   <!-- EN: Remove floor -->
   <DesignatorRemoveFloor>フロアを除去</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>床を剥がして地面を出します.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>フロアを剥がして,その下の地形を見えるようにします.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
   <DesignatorRemoveBridge>橋を解体</DesignatorRemoveBridge>
@@ -272,13 +272,13 @@
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>未知の場所に配置することはできません.</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
-  <InteractionSpotBlocked>{1_labelShort}によって作用空間がブロックされています.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>{1_labelShort}によって干渉スポットが塞がれています.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>作用空間が領域外です.</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
-  <InteractionSpotWillBeBlocked>{1_labelShort}によって作用空間がブロックされるでしょう.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>{1_labelShort}が干渉スポットを塞いでしまいます.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
-  <WouldBlockInteractionSpot>{0}が{1}の作用空間をブロックするでしょう.</WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>{0}が{1}への干渉スポットを塞いでしまいます.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>この地形はすでに{0}です.</TerrainIsAlready>
   <!-- EN: There is already foundation here. -->

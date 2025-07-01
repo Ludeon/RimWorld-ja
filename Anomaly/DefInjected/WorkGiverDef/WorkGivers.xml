@@ -6,42 +6,42 @@
   <!-- EN: suppressing -->
   <ActivitySuppression.gerund>を抑制する</ActivitySuppression.gerund>
   <!-- EN: suppress -->
-  <ActivitySuppression.verb>抑制する</ActivitySuppression.verb>
+  <ActivitySuppression.verb>を抑制</ActivitySuppression.verb>
   
   <!-- EN: make things at bioferrite shaper -->
   <DoBillsBioferriteShaper.label>バイオフェライトシェイパーで作成</DoBillsBioferriteShaper.label>
   <!-- EN: working at -->
   <DoBillsBioferriteShaper.gerund>で作成する</DoBillsBioferriteShaper.gerund>
   <!-- EN: work at -->
-  <DoBillsBioferriteShaper.verb>作成する</DoBillsBioferriteShaper.verb>
+  <DoBillsBioferriteShaper.verb>で作成</DoBillsBioferriteShaper.verb>
   
   <!-- EN: make things at serum lab -->
   <DoBillsSerumCentrifuge.label>シーラムラボで作成</DoBillsSerumCentrifuge.label>
   <!-- EN: working at -->
   <DoBillsSerumCentrifuge.gerund>で作成する</DoBillsSerumCentrifuge.gerund>
   <!-- EN: work at -->
-  <DoBillsSerumCentrifuge.verb>作成する</DoBillsSerumCentrifuge.verb>
+  <DoBillsSerumCentrifuge.verb>で作成</DoBillsSerumCentrifuge.verb>
   
   <!-- EN: tend to entities -->
   <DoctorTendToEntities.label>「存在」の治療</DoctorTendToEntities.label>
   <!-- EN: tending to -->
   <DoctorTendToEntities.gerund>を治療する</DoctorTendToEntities.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToEntities.verb>治療する</DoctorTendToEntities.verb>
+  <DoctorTendToEntities.verb>を治療</DoctorTendToEntities.verb>
   
   <!-- EN: execute entities -->
   <ExecuteEntity.label>「存在」を処刑</ExecuteEntity.label>
   <!-- EN: executing -->
   <ExecuteEntity.gerund>を処刑する</ExecuteEntity.gerund>
   <!-- EN: execute -->
-  <ExecuteEntity.verb>処刑する</ExecuteEntity.verb>
+  <ExecuteEntity.verb>を処刑</ExecuteEntity.verb>
   
   <!-- EN: extract bioferrite from entities -->
   <ExtractBioferrite.label>「存在」からバイオフェライトを抽出</ExtractBioferrite.label>
   <!-- EN: extracting from -->
   <ExtractBioferrite.gerund>から抽出する</ExtractBioferrite.gerund>
   <!-- EN: extract from -->
-  <ExtractBioferrite.verb>抽出する</ExtractBioferrite.verb>
+  <ExtractBioferrite.verb>を抽出</ExtractBioferrite.verb>
   
   <!-- EN: fill in -->
   <FillIn.label>埋める</FillIn.label>
@@ -55,41 +55,41 @@
   <!-- EN: interrogating -->
   <InterrogatePrisoner.gerund>を尋問する</InterrogatePrisoner.gerund>
   <!-- EN: interrogate -->
-  <InterrogatePrisoner.verb>尋問する</InterrogatePrisoner.verb>
+  <InterrogatePrisoner.verb>を尋問</InterrogatePrisoner.verb>
   
   <!-- EN: release entities -->
   <ReleaseEntity.label>「存在」を解放</ReleaseEntity.label>
   <!-- EN: releasing -->
   <ReleaseEntity.gerund>を解放する</ReleaseEntity.gerund>
   <!-- EN: release -->
-  <ReleaseEntity.verb>解放する</ReleaseEntity.verb>
+  <ReleaseEntity.verb>を解放</ReleaseEntity.verb>
   
   <!-- EN: study -->
   <StudyInteract.label>研究</StudyInteract.label>
   <!-- EN: studying -->
   <StudyInteract.gerund>を研究する</StudyInteract.gerund>
   <!-- EN: study -->
-  <StudyInteract.verb>研究する</StudyInteract.verb>
+  <StudyInteract.verb>を研究</StudyInteract.verb>
   
   <!-- EN: take bioferrite out of bioferrite harvester -->
   <TakeBioferriteOutOfHarvester.label>バイオフェライトハーベスターからバイオフェライトを採取</TakeBioferriteOutOfHarvester.label>
   <!-- EN: taking bioferrite from -->
   <TakeBioferriteOutOfHarvester.gerund>からバイオフェライトを採取する</TakeBioferriteOutOfHarvester.gerund>
   <!-- EN: take bioferrite -->
-  <TakeBioferriteOutOfHarvester.verb>バイオフェライトを採取する</TakeBioferriteOutOfHarvester.verb>
+  <TakeBioferriteOutOfHarvester.verb>からバイオフェライトを採取</TakeBioferriteOutOfHarvester.verb>
   
   <!-- EN: capture entity -->
   <TakeEntityToHoldingPlatform.label>「存在」の捕獲</TakeEntityToHoldingPlatform.label>
   <!-- EN: capturing -->
   <TakeEntityToHoldingPlatform.gerund>を捕獲する</TakeEntityToHoldingPlatform.gerund>
   <!-- EN: capture -->
-  <TakeEntityToHoldingPlatform.verb>捕獲する</TakeEntityToHoldingPlatform.verb>
+  <TakeEntityToHoldingPlatform.verb>を捕獲</TakeEntityToHoldingPlatform.verb>
   
   <!-- EN: transfer entities -->
   <TransferEntity.label>「存在」の移動</TransferEntity.label>
   <!-- EN: transferring -->
   <TransferEntity.gerund>を移動する</TransferEntity.gerund>
   <!-- EN: transfer -->
-  <TransferEntity.verb>移動する</TransferEntity.verb>
+  <TransferEntity.verb>を移動</TransferEntity.verb>
   
 </LanguageData>

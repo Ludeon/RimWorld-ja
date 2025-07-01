@@ -14,27 +14,27 @@
   <!-- EN: bomb -->
   <Bomb.label>爆発</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>{0}は爆発に巻き込まれて死んだ</Bomb.deathMessage>
+  <Bomb.deathMessage>{0}は爆発に巻き込まれて死亡しました.</Bomb.deathMessage>
   
   <!-- EN: bomb -->
   <BombSuper.label>爆発</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>{0}は爆発に巻き込まれて死んだ</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0}は爆発に巻き込まれて死亡しました.</BombSuper.deathMessage>
   
   <!-- EN: decayed organ -->
   <Decayed.label>臓器腐敗</Decayed.label>
   <!-- EN: {0} died from metabolic disruptions caused by organ decay. -->
-  <Decayed.deathMessage>{0}は臓器の腐敗による代謝障害で死んだ</Decayed.deathMessage>
+  <Decayed.deathMessage>{0}は臓器の腐敗による代謝障害で死亡しました.</Decayed.deathMessage>
   
   <!-- EN: deterioration -->
   <Deterioration.label>劣化</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>{0}は劣化した</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0}は殺されました.</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
   <Extinguish.label>消火</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>{0}は殺された</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0}は殺されました.</Extinguish.deathMessage>
   
   <!-- EN: mining -->
   <Mining.label>採掘</Mining.label>
@@ -54,21 +54,21 @@
   <!-- EN: rotting -->
   <Rotting.label>腐敗</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>{0}は殺された</Rotting.deathMessage>
+  <Rotting.deathMessage>{0}は殺されました.</Rotting.deathMessage>
   
   <!-- EN: smoke -->
   <Smoke.label>煙幕</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>{0}は殺された</Smoke.deathMessage>
+  <Smoke.deathMessage>{0}は殺されました.</Smoke.deathMessage>
   
   <!-- EN: thump -->
   <Thump.label>砲弾</Thump.label>
   <!-- EN: {0} has been shot to death. -->
-  <Thump.deathMessage>{0}は撃たれて死んだ</Thump.deathMessage>
+  <Thump.deathMessage>{0}は撃たれて死亡しました.</Thump.deathMessage>
   
   <!-- EN: vaporize -->
   <Vaporize.label>蒸発</Vaporize.label>
   <!-- EN: {0} has been vaporized by extreme heat. -->
-  <Vaporize.deathMessage>{0}は超高熱により蒸発した</Vaporize.deathMessage>
+  <Vaporize.deathMessage>{0}は超高熱によって蒸発しました.</Vaporize.deathMessage>
   
 </LanguageData>

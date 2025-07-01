@@ -543,19 +543,19 @@
   <!-- EN: Please select a site. -->
   <MustSelectStartingSite>目標を設定してください.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
+  <CannotLandBiome>着陸できない地域: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
+  <BiomeNotImplemented>気候が適してない</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>山岳には着陸できません</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>山岳には着陸できません.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
+  <BaseAlreadyThere>すでに{0}に拠点にされています.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>すでに 貴方の本拠地です</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>すでにあなたに拠点にされています.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>このタイルは占領下です</TileOccupied>
+  <TileOccupied>このタイルは占領されています.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>入植地は,お互いに接することはできません</FactionBaseAdjacent>
+  <FactionBaseAdjacent>入植地は互いに接することができません.</FactionBaseAdjacent>
   <!-- EN: Biome -->
   <Biome>気候</Biome>
   <!-- EN: Terrain -->
@@ -740,17 +740,17 @@
   <!-- EN: Factions -->
   <Factions>派閥</Factions>
   <!-- EN: max {0} basic factions allowed -->
-  <TotalFactionsAllowed>基本派閥は最大{0}つまで許可されます.</TotalFactionsAllowed>
+  <TotalFactionsAllowed>基本派閥は最大{0}まで</TotalFactionsAllowed>
   <!-- EN: max {0} -->
   <MaxFactionsForType>最大{0}</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
   <FactionSelectionDesc>ワールドの派閥を選択してください.合計で最大{0}つまで派閥を選択できます.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>{0}を無効にすると,クエストの種類が少なくなり,コンテンツが減ります.</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>{0}を無効にすると, クエストの種類が少なくなり, コンテンツが減ります.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>{0}を無効にすると,一部の脅威の種類が少なくなります.</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>{0}を無効にすると, 自然に発生する脅威の種類が 少なくなります.</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>{0}を無効にすると,クエストの数と一部の脅威の種類が少なくなります.</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>{0}を無効にすると, クエストと 自然に発生する脅威の種類が 少なくなります.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>派閥が1つもない場合,襲撃,取引,クエストが通常どおりに発生しません.</FactionsDisabledWarning>
   <!-- EN: Cannot be removed for this scenario. -->

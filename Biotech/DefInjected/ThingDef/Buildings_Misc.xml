@@ -80,7 +80,7 @@
   <!-- EN: IED tox trap -->
   <TrapIED_ToxGas.label>IED 毒トラップ</TrapIED_ToxGas.label>
   <!-- EN: A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_ToxGas.description>接触信管に接続された一対の毒ガス弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_ToxGas.description>
+  <TrapIED_ToxGas.description>接触信管に接続された一対の毒ガス弾頭です.周囲の地形に隠すため,他のトラップの隣には設置できません.落ち着いている動物達は,これに気づきます.</TrapIED_ToxGas.description>
   
   <!-- EN: wastepack atomizer -->
   <WastepackAtomizer.label>廃棄物パック分解装置</WastepackAtomizer.label>

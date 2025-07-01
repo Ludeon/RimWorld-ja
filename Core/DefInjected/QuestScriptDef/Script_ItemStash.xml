@@ -25,21 +25,21 @@
     <li>treasure->Supplies</li>
   -->
   <OpportunitySite_ItemStash.questNameRules.rulesStrings>
-    <li>questName(priority=1)->[asker_nameDef]の[stash][treasure]</li>
-    <li>questName->[stash][treasure]</li>
-    <li>stash->隠された</li>
-    <li>stash->埋蔵された</li>
-    <li>stash->収集された</li>
-    <li>stash->小屋にある</li>
-    <li>treasure->秘宝</li>
+    <li>questName(priority=1)->[asker_nameDef]と[treasure]の[stash]</li>
+    <li>questName->[treasure]の[stash]</li>
+    <li>stash->隠し場所</li>
+    <li>stash->貯蔵庫</li>
+    <li>stash->貯蓄場所</li>
+    <li>stash->小屋</li>
+    <li>treasure->宝</li>
     <li>treasure->貴重品</li>
-    <li>treasure->財産</li>
-    <li>treasure->良い品</li>
+    <li>treasure->富</li>
+    <li>treasure->良い物</li>
     <li>treasure->物資</li>
   </OpportunitySite_ItemStash.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>傍受した通信によると,埋蔵物は他の者たちによって回収されてしまったようです.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>傍受した通信によると,収集物の隠し場所は他の者たちに占有されてしまったようです.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

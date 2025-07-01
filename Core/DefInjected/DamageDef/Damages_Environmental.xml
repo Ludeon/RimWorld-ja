@@ -4,21 +4,21 @@
   <!-- EN: burn -->
   <Burn.label>火傷</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>{0}は火傷で死んだ</Burn.deathMessage>
+  <Burn.deathMessage>{0}は火傷で死亡しました.</Burn.deathMessage>
   
   <!-- EN: flame -->
   <Flame.label>焼身</Flame.label>
   <!-- EN: {0} has burned to death. -->
-  <Flame.deathMessage>{0}は燃えて死んだ</Flame.deathMessage>
+  <Flame.deathMessage>{0}は燃えて死亡しました.</Flame.deathMessage>
   
   <!-- EN: frostbite -->
   <Frostbite.label>凍傷</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>{0}は凍傷になって死んだ</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0}は凍傷によって死亡しました.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
   <TornadoScratch.label>外傷</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>{0}は竜巻に巻かれて死んだ</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0}は竜巻に巻かれて死亡しました.</TornadoScratch.deathMessage>
   
 </LanguageData>

@@ -98,7 +98,7 @@
   <!-- EN: {0} stopped -->
   <AlertToxifierGeneratorStopped>{0}が停止</AlertToxifierGeneratorStopped>
   <!-- EN: Your {0} is not producing power because it has no nearby fertile terrain to convert.\n\nClean polluted terrain with pollution pumps, or by assigning a pollution removal area. -->
-  <AlertToxifierGeneratorStoppedDesc>変換に必要な肥沃な土壌が付近にないため,{0}は電力供給を停止しました.\n\n除染ポンプを設置するか,除染エリアを指定して作業させてください.</AlertToxifierGeneratorStoppedDesc>
+  <AlertToxifierGeneratorStoppedDesc>変換に必要な肥沃度のある土壌が付近にないため,{0}は電力供給を停止しました.\n\n除染ポンプを設置するか,除染エリアを指定して作業させてください.</AlertToxifierGeneratorStoppedDesc>
 
   <!-- EN: Psychic bond distance -->
   <AlertPsychicBondedPawnsSeparated>精神的絆の距離</AlertPsychicBondedPawnsSeparated>

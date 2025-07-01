@@ -25,8 +25,8 @@
     <li>ofThing->the Spirit</li>
   -->
   <NamerFactionEmpire.rulePack.rulesStrings>
-    <li>r_name(p=2)->[ofThing]の[empire]</li>
-    <li>r_name(p=2)->[ofThing]の[empire]</li>
+    <li>r_name(p=2)->[ofThing][empire]</li>
+    <li>r_name(p=2)->[ofThing][empire]</li>
     <li>r_name->流亡[empire]</li>
     <li>r_name->亡命[empire]</li>
     <li>r_name->崩壊[empire]</li>
@@ -34,17 +34,17 @@
     <li>r_name->落日[empire]</li>
     <li>r_name->[Color]色[empire]</li>
     <li>empire(p=4)->帝国</li>
-    <li>empire->連合王国</li>
+    <li>empire->連合国</li>
     <li>empire->大帝国</li>
-    <li>empire->藩王国</li>
-    <li>empire->領主国</li>
+    <li>empire->自治国</li>
+    <li>empire->独立国</li>
     <li>ofThing(p=4)->[WordImperial]</li>
     <li>ofThing->太陽</li>
     <li>ofThing->月</li>
     <li>ofThing->宇宙</li>
     <li>ofThing->神聖</li>
     <li>ofThing->完全</li>
-    <li>ofThing->永遠</li>
+    <li>ofThing->永久</li>
     <li>ofThing->精神</li>
   </NamerFactionEmpire.rulePack.rulesStrings>
   

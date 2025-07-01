@@ -4,7 +4,7 @@
   <!-- EN: granite blocks -->
   <BlocksGranite.label>花崗岩のブロック</BlocksGranite.label>
   <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
-  <BlocksGranite.description>花崗岩でできたブロック,花崗岩はとても硬い.</BlocksGranite.description>
+  <BlocksGranite.description>花崗岩でできたブロックです.花崗岩はとても硬い岩です.</BlocksGranite.description>
   <!-- EN: granite -->
   <BlocksGranite.stuffProps.stuffAdjective>花崗岩製</BlocksGranite.stuffProps.stuffAdjective>
   
@@ -18,43 +18,43 @@
   <!-- EN: marble blocks -->
   <BlocksMarble.label>大理石のブロック</BlocksMarble.label>
   <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
-  <BlocksMarble.description>大理石でできたブロック,大理石はやわく綺麗な岩で彫刻の題材として知られています.</BlocksMarble.description>
+  <BlocksMarble.description>大理石でできたブロックです.大理石は柔らかく綺麗な岩で,彫刻の材料としてよく使われています.</BlocksMarble.description>
   <!-- EN: marble -->
   <BlocksMarble.stuffProps.stuffAdjective>大理石製</BlocksMarble.stuffProps.stuffAdjective>
   
   <!-- EN: sandstone blocks -->
   <BlocksSandstone.label>砂岩のブロック</BlocksSandstone.label>
   <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
-  <BlocksSandstone.description>砂岩でできたブロック,砂岩は比較的にやわらかで割れやすい.</BlocksSandstone.description>
+  <BlocksSandstone.description>砂岩でできたブロックです.砂岩は比較的に柔らかく,割れやすい岩です.</BlocksSandstone.description>
   <!-- EN: sandstone -->
   <BlocksSandstone.stuffProps.stuffAdjective>砂岩製</BlocksSandstone.stuffProps.stuffAdjective>
   
   <!-- EN: slate blocks -->
   <BlocksSlate.label>粘板岩のブロック</BlocksSlate.label>
   <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
-  <BlocksSlate.description>粘板岩でできたブロックです.</BlocksSlate.description>
+  <BlocksSlate.description>粘板岩でできたブロックです.くすんだ色をしており,割れやすい岩です.</BlocksSlate.description>
   <!-- EN: slate -->
   <BlocksSlate.stuffProps.stuffAdjective>粘板岩製</BlocksSlate.stuffProps.stuffAdjective>
   
   <!-- EN: granite chunk -->
   <ChunkGranite.label>花崗岩の塊</ChunkGranite.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkGranite.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkGranite.description>
+  <ChunkGranite.description>岩の塊です.有用な石のブロックに切り出すことができます.</ChunkGranite.description>
   
   <!-- EN: limestone chunk -->
   <ChunkLimestone.label>石灰岩の塊</ChunkLimestone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkLimestone.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkLimestone.description>
+  <ChunkLimestone.description>岩の塊です.有用な石のブロックに切り出すことができます.</ChunkLimestone.description>
   
   <!-- EN: marble chunk -->
   <ChunkMarble.label>大理石の塊</ChunkMarble.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkMarble.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkMarble.description>
+  <ChunkMarble.description>岩の塊です.有用な石のブロックに切り出すことができます.</ChunkMarble.description>
   
   <!-- EN: sandstone chunk -->
   <ChunkSandstone.label>砂岩の塊</ChunkSandstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSandstone.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkSandstone.description>
+  <ChunkSandstone.description>岩の塊です.有用な石のブロックに切り出すことができます.</ChunkSandstone.description>
   
   <!-- EN: steel slag chunk -->
   <ChunkSlagSteel.label>鉄くずの塊</ChunkSlagSteel.label>
@@ -64,7 +64,7 @@
   <!-- EN: slate chunk -->
   <ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSlate.description>岩の塊です.これを使用可能なブロックに切り分けることもできます.</ChunkSlate.description>
+  <ChunkSlate.description>岩の塊です.有用な石のブロックに切り出すことができます.</ChunkSlate.description>
   
   <!-- EN: granite -->
   <Granite.label>花崗岩</Granite.label>
@@ -114,6 +114,6 @@
   <!-- EN: smoothed slate -->
   <SmoothedSlate.label>磨かれた粘板岩</SmoothedSlate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
-  <SmoothedSlate.description>濃い色がついた変成岩です.その細かい層はスレート劈開の象徴です.内部の層も磨かれた表面をとおして良く見えます.</SmoothedSlate.description>
+  <SmoothedSlate.description>濃い色がついた変成岩です.その細かい層はスレート劈開の象徴です.磨かれた表面を通して内部の層が良く見えます.</SmoothedSlate.description>
   
 </LanguageData>

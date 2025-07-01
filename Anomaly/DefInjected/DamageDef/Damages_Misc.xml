@@ -4,12 +4,12 @@
   <!-- EN: deadlife dust -->
   <DeadlifeDust.label>死の塵</DeadlifeDust.label>
   <!-- EN: {0} has been killed. -->
-  <DeadlifeDust.deathMessage>{0}は殺された</DeadlifeDust.deathMessage>
+  <DeadlifeDust.deathMessage>{0}は殺されました.</DeadlifeDust.deathMessage>
   
   <!-- EN: digestion -->
   <Digested.label>消化機能</Digested.label>
   <!-- EN: {0} died from being digested. -->
-  <Digested.deathMessage>{0}は消化されて死亡した</Digested.deathMessage>
+  <Digested.deathMessage>{0}は消化されて死亡しました.</Digested.deathMessage>
   
   <!-- EN: energy bolt -->
   <EnergyBolt.label>エネルギーボルト</EnergyBolt.label>
@@ -19,11 +19,11 @@
   <!-- EN: vaporize -->
   <NociosphereVaporize.label>蒸発</NociosphereVaporize.label>
   <!-- EN: {0} has been vaporized by extreme heat. -->
-  <NociosphereVaporize.deathMessage>{0}は超高熱により蒸発した</NociosphereVaporize.deathMessage>
+  <NociosphereVaporize.deathMessage>{0}は超高熱によって蒸発しました.</NociosphereVaporize.deathMessage>
   
   <!-- EN: psychic -->
   <Psychic.label>サイキック</Psychic.label>
   <!-- EN: {0} has been killed by a psychic attack. -->
-  <Psychic.deathMessage>{0}はサイキック攻撃で殺された</Psychic.deathMessage>
+  <Psychic.deathMessage>{0}はサイキック攻撃で殺されました.</Psychic.deathMessage>
   
 </LanguageData>

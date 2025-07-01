@@ -300,21 +300,21 @@
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>{1_labelShort}を 着させる</ForceWear>
   <!-- EN: Force target to wear {1_labelShort}... -->
-  <ForceTargetToWear>対象に{1_labelShort}を 着させる...</ForceTargetToWear>
+  <ForceTargetToWear>指定した相手に{1_labelShort}を 着させる...</ForceTargetToWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>{1_label}を 着ることができない</CannotWear>
   <!-- EN: Cannot force target to wear {1_label} -->
-  <CannotForceTargetToWear>対象は{1_label}を 着ることができない</CannotForceTargetToWear>
+  <CannotForceTargetToWear>相手は{1_label}を 着ることができない</CannotForceTargetToWear>
   <!-- EN: Force equip {1_labelShort} -->
   <ForceEquipApparel>{1_labelShort}を 装備させる</ForceEquipApparel>
   <!-- EN: Force target to equip {1_labelShort}... -->
-  <ForceTargetToEquipApparel>対象に{1_labelShort}を 装備させる...</ForceTargetToEquipApparel>
+  <ForceTargetToEquipApparel>指定した相手に{1_labelShort}を 装備させる...</ForceTargetToEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
   <CannotEquipApparel>{1_label}を 装備できない</CannotEquipApparel>
   <!-- EN: Cannot force target to equip {1_label} -->
-  <CannotForceTargetToEquipApparel>対象は{1_label}を 装備できない</CannotForceTargetToEquipApparel>
+  <CannotForceTargetToEquipApparel>相手は{1_label}を 装備できない</CannotForceTargetToEquipApparel>
   <!-- EN: missing body parts -->
-  <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
+  <CannotWearBecauseOfMissingBodyParts>必要な部位が欠損している</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
   <Reload>{GEAR_labelShort} に {AMMO_label}を充填する</Reload>
@@ -432,7 +432,7 @@
   <!-- EN: Open {0_label} -->
   <Open>{0_label}を開く</Open>
   <!-- EN: Cannot open {0_label} -->
-  <CannotOpen>{0_label}は開けない</CannotOpen>
+  <CannotOpen>{0_label}をひらけない</CannotOpen>
   
   <!-- EN: Enter {0} -->
   <EnterMap>{0}に入る</EnterMap>
@@ -463,9 +463,9 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>{1}を{0}できない</CannotGenericWork>
+  <CannotGenericWork>{1}{0}できない</CannotGenericWork>
   <!-- EN: Cannot {0} -->
-  <CannotGenericWorkCustom>{0}ができない</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>{0}できない</CannotGenericWorkCustom>
 
   <!-- EN: Incapable of {0} -->
   <CannotMissingHealthActivities>{0}能力が無い</CannotMissingHealthActivities>

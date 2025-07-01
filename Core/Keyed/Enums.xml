@@ -201,9 +201,9 @@
   <!-- EN: all characters -->
   <PawnGenerationContext_All>全キャラクター</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>プレイヤー初期キャラクター</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>開始キャラクター</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>非プレイヤーキャラクター</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>非開始キャラクター</PawnGenerationContext_NonPlayer>
 
   <!-- Screen shake mode -->
   <!-- EN: Screen shake intensity -->

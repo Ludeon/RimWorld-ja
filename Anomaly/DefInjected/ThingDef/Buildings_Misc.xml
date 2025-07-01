@@ -134,11 +134,11 @@
   <GrayWall.description>通り抜けられない灰色の壁.</GrayWall.description>
   
   <!-- EN: tactical turret gun -->
-  <Gun_TacticalTurret.label>戦術的タレットガン</Gun_TacticalTurret.label>
+  <Gun_TacticalTurret.label>戦術的タレット銃</Gun_TacticalTurret.label>
   <!-- EN: A simple automatic gun made to be mounted on a turret. -->
   <Gun_TacticalTurret.description>タレットに銃を取り付けただけのシンプルな自動銃です.</Gun_TacticalTurret.description>
   <!-- EN: tactical turret gun -->
-  <Gun_TacticalTurret.verbs.Verb_Shoot.label>戦術的タレットガン</Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  <Gun_TacticalTurret.verbs.Verb_Shoot.label>戦術的タレット銃</Gun_TacticalTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: holding platform -->
   <HoldingPlatform.label>収容プラットフォーム</HoldingPlatform.label>
@@ -188,7 +188,7 @@
   <!-- EN: Pit gate opened -->
   <PitGateSpawner.building.groundSpawnerLetterLabel>開かれたピットゲート</PitGateSpawner.building.groundSpawnerLetterLabel>
   <!-- EN: The shifting terrain has fallen into the depths below, forming a massive hole.\n\nThis pit gate will remain open until you collapse its entrance. Explore the pit gate to find a way to collapse it from underneath and to find useful items in the undercaves. -->
-  <PitGateSpawner.building.groundSpawnerLetterText>変化する地形が地中奥深くへと落ち込み,巨大な穴を形成しています.\n\nこのピットゲートは入口を崩落させるまで開き続けます.ピットゲートを探索することで,地下から崩す方法や,地底洞窟内の役立つアイテムが見つかります.</PitGateSpawner.building.groundSpawnerLetterText>
+  <PitGateSpawner.building.groundSpawnerLetterText>変化する地形が地中奥深くへと落ち込み,巨大な穴を形成しています.\n\nこのピットゲートは入口を崩落させるまで開き続けます.ピットゲートを探索すれば,地底洞窟内で役立つアイテムが見つかるかもしれませんし,地下から洞窟を崩壊させる手段も見つかるでしょう.</PitGateSpawner.building.groundSpawnerLetterText>
   
   <!-- EN: proximity detector -->
   <ProximityDetector.label>近接式検知器</ProximityDetector.label>
@@ -228,7 +228,7 @@
   <!-- EN: IED deadlife trap -->
   <TrapIED_Deadlife.label>IED デッドライフトラップ</TrapIED_Deadlife.label>
   <!-- EN: A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust. -->
-  <TrapIED_Deadlife.description>接触信管に接続された一対のデッドライフ弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.\n\nこのトラップは,死の塵によって蘇生するための死体が付近に必要となります.</TrapIED_Deadlife.description>
+  <TrapIED_Deadlife.description>接触信管に接続された一対のデッドライフ弾頭です.周囲の地形に隠すため,他のトラップの隣には設置できません.落ち着いている動物達は,これに気づきます.\n\nこのトラップは,死の塵によって蘇生するための死体が付近に必要となります.</TrapIED_Deadlife.description>
   
   <!-- EN: tactical turret -->
   <Turret_TacticalTurret.label>戦術的タレット</Turret_TacticalTurret.label>

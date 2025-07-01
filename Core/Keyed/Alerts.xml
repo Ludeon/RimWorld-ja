@@ -310,11 +310,11 @@
   <AlertHitchedAnimalHungryNoFoodDesc>つなぎとめスポットに縛られている家畜の何匹かが空腹です.彼らの手の届く場所に適切な食料がないかもしれません.\n\n食料を持っていくか,つなぎとめスポットを削除して,自分で食料を見つけられるようにすることができます.\n\n以下の繋がれた家畜は空腹です:\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
-  <AlertTimedRaidsArrivingIn>{0} 襲撃者が到着</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingIn>{0}後に襲撃</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>敵は以下の遺物に引き付けられており,まもなく強制的に到着します.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>敵対者が以下の場所に興味を示しており,まもなく大勢でやってきます.\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
-  <AlertTimedRaidsArrivingAt>{1}後に{0}に到着</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingAt>{0}に到着するまで残り{1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
   <FactionWillBecomeHostileIfNotLeavingWithin>とどまると敵対する</FactionWillBecomeHostileIfNotLeavingWithin>

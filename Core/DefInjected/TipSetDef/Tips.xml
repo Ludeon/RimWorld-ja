@@ -24,7 +24,7 @@
   <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
   <GameplayTips.GunfightCover>銃撃戦では常にカバーに隠れてください!右クリックしてドラッグすると,徴兵された兵士たちが一列になります.</GameplayTips.GunfightCover>
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
-  <GameplayTips.GunfightSpread>右クリックしてドラッグすると,徴兵された兵士たちが一列になります.1ヶ所に集まったターゲットは被弾しやすいです.</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>右クリックでドラッグすると,徴兵された兵士たちが一列になります.1ヶ所に集まったターゲットは被弾しやすいです.</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>煙幕はタレットがターゲットを検出することを完全に防げますが,人間は精度を落としつつ撃つことができます.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
@@ -106,7 +106,7 @@
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
   <GameplayTips.EnemyFactionBaseDefenses>敵の拠点は非常によく防衛されています.それらを攻撃する必要はありませんが,試すことを選択した場合は十分に準備してください.</GameplayTips.EnemyFactionBaseDefenses>
   <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
-  <GameplayTips.AnimalNuzzle>かわいい家畜は入植者にすり寄り,彼らの心情を改善します.</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalNuzzle>かわいい家畜は入植者に擦り寄り,彼らの心情を改善します.</GameplayTips.AnimalNuzzle>
   <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
   <GameplayTips.AnimalHerbivorousGrassArea>草食動物は草の多い地域に配備しましょう.彼らは雑草を食べるので,エサを用意する労力を抑えられます.</GameplayTips.AnimalHerbivorousGrassArea>
   <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->

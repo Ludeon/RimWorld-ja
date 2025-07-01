@@ -86,9 +86,9 @@
   <!-- EN: Disease -->
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{PAWN}は {1}の病に倒れました.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewDisease>
+  <NewDisease>{PAWN}は {1}の病にかかりました.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN}は {3}の病に倒れました.感染元は{PAWN_possessive}{1}です.医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
+  <NewPartDisease>{PAWN}は {3}の病にかかりました.感染元は{PAWN_possessive}{1}です.医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>{PAWN_labelShort}は病気を発症しました: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
@@ -160,9 +160,9 @@
   <LastFactionRelationsEvent>きっかけとなった出来事</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>関連するクエストを参照</ViewRelatedQuest>
+  <ViewRelatedQuest>関連するクエストを確認</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>クエストを参照</ViewQuest>
+  <ViewQuest>クエストを確認</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>{PAWN_definite}の人生で最後に起きた出来事</LastEventsInLife>
 
@@ -432,7 +432,7 @@
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>疫病 ({0})</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>{PAWN_label}は {1}の病に倒れました.\n\n医療用ベッドと医者を確保してください. {PAWN_pronoun}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
+  <LetterTraitDisease>{PAWN_label}は {1}の病にかかりました.\n\n医療用ベッドと医者を確保してください. {PAWN_pronoun}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
 
   <!-- Quests -->
   <!-- EN: Quest available: {0} -->

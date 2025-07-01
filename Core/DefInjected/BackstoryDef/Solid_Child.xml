@@ -1015,12 +1015,12 @@
   <IcePlanetChild95.titleShort>氷の子供</IcePlanetChild95.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on an iceworld. Survival depended on staying together and building with nothing.\n\n[PAWN_pronoun] got used to the cold. [PAWN_pronoun] never got used to dealing with those strange green things called plants. -->
-  <IceworldSurvivor75.description>[PAWN_nameDef]は,氷の世界に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.description>
-  <IceworldSurvivor75.baseDesc>[PAWN_nameDef]は,氷の世界に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.baseDesc>
+  <IceworldSurvivor75.description>[PAWN_nameDef]は,氷の惑星に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.description>
+  <IceworldSurvivor75.baseDesc>[PAWN_nameDef]は,氷の惑星に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.baseDesc>
   <!-- EN: iceworld survivor -->
-  <IceworldSurvivor75.title>氷の世界の生存者</IceworldSurvivor75.title>
+  <IceworldSurvivor75.title>氷惑星の生存者</IceworldSurvivor75.title>
   <!-- EN: iceborn -->
-  <IceworldSurvivor75.titleShort>氷界生まれ</IceworldSurvivor75.titleShort>
+  <IceworldSurvivor75.titleShort>氷星生まれ</IceworldSurvivor75.titleShort>
   
   <!-- EN: Raised in the military traditions of [PAWN_possessive] forefathers, [PAWN_nameDef] was taught from a young age that [PAWN_pronoun] would be a great leader and the hero of [PAWN_possessive] family.\n\n[PAWN_pronoun] excelled at [PAWN_possessive] studies and graduated from the academy with honors. -->
   <IdealisticCadet64.description>祖先から続く軍人の家系出身の[PAWN_nameDef]は,立派な指揮官を務め,[PAWN_possessive]家の英雄になるようにと,若い頃から叩き込まれていました.\n\n[PAWN_pronoun]は,勉学に秀でていて,栄誉を持って大学を卒業しました.</IdealisticCadet64.description>
@@ -1431,8 +1431,8 @@
   <OrphanedAcrobat84.titleShort>曲芸師</OrphanedAcrobat84.titleShort>
   
   <!-- EN: [PAWN_nameDef] lost [PAWN_possessive] family and home early in life. [PAWN_possessive] life became emotionally hollow, but [PAWN_possessive] painful memories drove [PAWN_objective] to survive.\n\n[PAWN_pronoun] took several jobs, but never achieved more than a basic education. -->
-  <OrphanOfWar60.description>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_possessive]人生は,空虚なものになったが,苦しい記憶が,[PAWN_objective]生き残らせるためへと駆り立てました.\n\n[PAWN_pronoun]は,幾つかの仕事を得たが,基礎的な教育以上には,達していませんでした.</OrphanOfWar60.description>
-  <OrphanOfWar60.baseDesc>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_possessive]人生は,空虚なものになったが,苦しい記憶が,[PAWN_objective]生き残らせるためへと駆り立てました.\n\n[PAWN_pronoun]は,幾つかの仕事を得たが,基礎的な教育以上には,達していませんでした.</OrphanOfWar60.baseDesc>
+  <OrphanOfWar60.description>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_pronoun]は心の内に空虚な穴が開きましたが,つらい記憶が,[PAWN_pronoun]が生き残るための原動力となりました.\n\n[PAWN_pronoun]はいくつかの職を転々としましたが,基礎教育より高度な知識を求められる仕事は何もできませんでした.</OrphanOfWar60.description>
+  <OrphanOfWar60.baseDesc>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_pronoun]は心の内に空虚な穴が開きましたが,つらい記憶が,[PAWN_pronoun]が生き残るための原動力となりました.\n\n[PAWN_pronoun]はいくつかの職を転々としましたが,基礎教育より高度な知識を求められる仕事は何もできませんでした.</OrphanOfWar60.baseDesc>
   <!-- EN: orphan of war -->
   <OrphanOfWar60.title>戦争孤児</OrphanOfWar60.title>
   <!-- EN: orphan -->

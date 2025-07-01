@@ -237,13 +237,13 @@
     <li>using->突き刺す</li>
     <li>using->活用する</li>
     <li>using->動かす</li>
-    <li>skillAdv(INITIATOR_skill>=3)->役に立たずな</li>
-    <li>skillAdv(INITIATOR_skill>=3)->下手な</li>
-    <li>skillAdv(INITIATOR_skill>=3)->激しく</li>
+    <li>skillAdv(INITIATOR_skill>=3)->無意味に</li>
+    <li>skillAdv(INITIATOR_skill>=3)->めちゃくちゃに</li>
+    <li>skillAdv(INITIATOR_skill>=3)->乱暴に</li>
     <li>skillAdv(INITIATOR_skill>=3)->手当たりしだいに</li>
-    <li>skillAdv(INITIATOR_skill>=3)->壊れやすい</li>
-    <li>skillAdv(INITIATOR_skill>=4)->ぎこちない手つきで</li>
-    <li>skillAdv(INITIATOR_skill>=4)->不器用な</li>
+    <li>skillAdv(INITIATOR_skill>=3)->振り回すように</li>
+    <li>skillAdv(INITIATOR_skill>=4)->ぎこちない動きで</li>
+    <li>skillAdv(INITIATOR_skill>=4)->不器用な手つきで</li>
     <li>skillAdv(INITIATOR_skill>=5)->おそるおそる</li>
     <li>skillAdv(INITIATOR_skill>=5)->ためらいながら</li>
     <li>skillAdv(INITIATOR_skill>=5)->愚かにも</li>
@@ -251,15 +251,15 @@
     <li>skillAdv(INITIATOR_skill>=6)->仕方なく</li>
     <li>skillAdv(INITIATOR_skill>=6)->ゆっくりと</li>
     <li>skillAdv(INITIATOR_skill>=6)->試しに</li>
-    <li>skillAdv(INITIATOR_skill>=6)->不器用に</li>
+    <li>skillAdv(INITIATOR_skill>=6)->未熟な動きで</li>
     <li>skillAdv(INITIATOR_skill>=6)->素人のように</li>
     <li>skillAdv(INITIATOR_skill>=6)->こわごわ</li>
     <li>skillAdv(INITIATOR_skill>=8)->熱狂的に</li>
-    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->熟練した手つきで</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->熟練した動きで</li>
     <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->的確に</li>
     <li>skillAdv(INITIATOR_skill>=8)->プロのように</li>
     <li>skillAdv(INITIATOR_skill>=8)->器用に</li>
-    <li>skillAdv(INITIATOR_skill>=8)->うまく</li>
+    <li>skillAdv(INITIATOR_skill>=8)->上手に</li>
     <li>skillAdv(INITIATOR_skill>=8)->巧妙に</li>
     <li>skillAdv(INITIATOR_skill>=8)->機敏に</li>
     <li>skillAdv(INITIATOR_skill>=8)->巧みに</li>

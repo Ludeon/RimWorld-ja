@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
-  <FactionGreetingHostile>{0}は 口汚い言葉を浴びせたあと, 通信を切断しました.</FactionGreetingHostile>
+  <FactionGreetingHostile>{0}は マイクに向かって口汚い言葉を浴びせ, 通信を切りました.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
-  <FactionGreetingHostileAppreciative>{0}は, あなたが{0_possessive}一つの集落に贈り物を持参したり, {0_possessive}派閥の囚人を無傷で解放するというような,誠意を見せるよう強く要求しています.そうなるまで{0_pronoun}は会話をする気にはならないでしょう.\n\n{0_pronoun}は無礼な言葉をつぶやいて,通信を切断しました.</FactionGreetingHostileAppreciative>
+  <FactionGreetingHostileAppreciative>{0}は, {0_possessive}入植地に贈り物をするか, {0_possessive}派閥の囚人を無傷で解放するなどの,誠意のある行いを強く求めています.誠意を感じるまで,{0_pronoun}は会話を拒否するでしょう.\n\n{0_pronoun}は無礼な言葉をつぶやいて,通信を切りました.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
-  <FactionGreetingWary>{0}は用心しつつも {NEGOTIATOR_labelShort}と挨拶を交わし, どのようなビジネスを行いたいのかを尋ねてきました.</FactionGreetingWary>
+  <FactionGreetingWary>{0}は {NEGOTIATOR_labelShort}と挨拶を交わし, 要件はなにかと尋ねてきました.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>{0}は 暖かく{NEGOTIATOR_labelShort}を歓迎し, あなたのためにどのような手助けを行えるのかを尋ねてきました.</FactionGreetingWarm>
+  <FactionGreetingWarm>{0}は 暖かく{NEGOTIATOR_labelShort}を歓迎し, 自分がどのような手助けをできるか尋ねてきました.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
   <WorkTypeDisablesOption>{0}を行わない</WorkTypeDisablesOption>
@@ -25,7 +25,7 @@
   <!-- EN: need {0} silver near trade beacons -->
   <NeedSilverLaunchable>貿易ビーコンのそばに{0}シルバーが必要</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
-  <NotEnoughSilver>シルバーが足りない.</NotEnoughSilver>
+  <NotEnoughSilver>シルバーが足りません.</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
   <SilverForGoodwill>{0}シルバーで 友好値 +{1}</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
@@ -35,9 +35,9 @@
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
   <RequestTrader>トレーダーキャラバンを要求する(コスト: {0}友好値)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0}は, あなたが必要としているトレーダーキャラバンの種別を聞いています.</ChooseTraderKind>
+  <ChooseTraderKind>{0}は,どの種類のトレーダーキャラバンが必要なのか質問しています.</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
-  <TraderSent>{0}は, あなたにトレーダーキャラバンを送ることに承諾しました.2～3日以内には到着するでしょう.</TraderSent>
+  <TraderSent>{0}は,コロニーにトレーダーキャラバンを送ることを承諾しました.トレーダーキャラバンは数日以内に到着するでしょう.</TraderSent>
   <!-- EN: wait {0} -->
   <WaitTime>待ち時間 {0}</WaitTime>
 

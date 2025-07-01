@@ -51,7 +51,7 @@
   <!-- EN: Travel -->
   <TabMapPortalContents>移動</TabMapPortalContents>
   <!-- EN: Contents -->
-  <TabCasketContents>積載物</TabCasketContents>
+  <TabCasketContents>収納</TabCasketContents>
   <!-- EN: Details -->
   <TabBookContents>詳細</TabBookContents>
   <!-- EN: Study -->
@@ -345,7 +345,7 @@
   <!-- EN: Animals -->
   <CaravanAnimals>家畜</CaravanAnimals>
   <!-- EN: To load -->
-  <ItemsToLoad>積載する</ItemsToLoad>
+  <ItemsToLoad>積載中</ItemsToLoad>
   <!-- EN: Loaded -->
   <LoadedItems>積載済み</LoadedItems>
   <!-- EN: pack animals -->
@@ -357,7 +357,7 @@
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>削除 {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
-  <ContainedItems>収納しているアイテム</ContainedItems>
+  <ContainedItems>収納されている</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>{0}を本当に取り除きますか?</ConfirmRemoveItemDialog>
   

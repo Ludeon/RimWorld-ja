@@ -186,7 +186,7 @@
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>この動物の名前を{0}としました.</AnimalGainsName>
   <!-- EN: rename person -->
-  <RenamePerson>人物をリネーム</RenamePerson>
+  <RenamePerson>人物の名前を変更</RenamePerson>
   <!-- EN: mother -->
   <Mother>母</Mother>
   <!-- EN: father -->
@@ -789,7 +789,7 @@
   <!-- EN: You must choose a route for the caravan first. -->
   <MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.少なくとも,マップの端のどこかが到達可能か確認してください.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.少なくとも1か所,マップ端のどこかに到達できるようにしてください.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>このアイテムの重量</ItemWeightTip>
   <!-- EN: Market value -->
@@ -801,7 +801,7 @@
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
   <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>一日に調達できる栄養素数です.実際の数値はその土地の食料調達性も影響します.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
   <NutritionEatenPerDayTip>一日に摂取する栄養素の数です.参考までに簡単な食事は{0}栄養素です.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
@@ -1159,7 +1159,7 @@
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか?\n\n次のことが実行されます:\n　-翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n　-全ての翻訳文が適切なXMLファイル内に再配置されます\n　-全てのXMLファイルについて書式が自動的に整えられます\n　-旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n　-既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか?\n\n次のことが実行されます:\n  -翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n  -それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n  -全ての翻訳文が適切なXMLファイル内に再配置されます\n  -全てのXMLファイルについて書式が自動的に整えられます\n  -旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n  -既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
   <ConfirmCleanupTranslationFiles_Confirm>はい,バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 

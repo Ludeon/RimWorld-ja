@@ -4,7 +4,7 @@
   <!-- EN: guilty -->
   <Guilty.label>有罪者</Guilty.label>
   <!-- EN: Our people carry guilt from ages past. Others are more worthy. -->
-  <Guilty.description>私たちは何年も前から罪悪感を覚えています.他人の方がもっと価値があります.</Guilty.description>
+  <Guilty.description>我々は遠い昔から罪を背負っている.我々以外の生命の方がはるかに価値のある存在だ.</Guilty.description>
   <!-- EN:
     <li>creation(tag=meme_Guilty)        ->[deity0_name] raped and murdered and stole, and a great guilt was upon [deity0_objective], and in [deity0_possessive] selfishness [deity0_pronoun] cast this guilt upon [deity0_possessive] chosen people, and all were filthy with it.</li>
     <li>episode(uses=1,tag=meme_Guilty)  ->The believers went forth and conquered, burned, and raped for a thousand years, and [deity0_name]'s grief at their depravity consumed [deity0_objective].</li>
@@ -109,7 +109,7 @@
   <!-- EN: loyalist -->
   <Loyalist.label>忠義者</Loyalist.label>
   <!-- EN: We stand for our own before others. -->
-  <Loyalist.description>私たちは他の人よりも自分たちに所属する人物を支持します.</Loyalist.description>
+  <Loyalist.description>我々は他者よりも優先して仲間を守る.</Loyalist.description>
   <!-- EN:
     <li>creation(tag=meme_Loyalist)        ->[deity0_name] admonished the good peoples to fight only those who fought without just cause.</li>
     <li>episode(uses=1,tag=meme_Loyalist)  ->A war with the unbelievers followed. One of the believers, [believer_nameFull], seeking advantage, invited the heathens inside the land of [deity0_name], and [deity0_name] became furious at [believer_possessive] betrayal, and struck [believer_objective] down ten thousand times.</li>
@@ -194,7 +194,7 @@
   <!-- EN: supremacist -->
   <Supremacist.label>支配者</Supremacist.label>
   <!-- EN: Our people should dominate all others. -->
-  <Supremacist.description>私たちは他の全てを支配する側である必要があります.</Supremacist.description>
+  <Supremacist.description>我々は全てを支配する側であるべきだ.</Supremacist.description>
   <!-- EN:
     <li>creation(tag=meme_Supremacist)        ->The people of the [place_summary] [place_name] squabbled endlessly, and [deity0_name] became tired of discord and anointed the [memberNamePlural] as the rightful rulers of all.</li>
     <li>episode(uses=1,tag=meme_Supremacist)  ->The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, in my name, until I am worshipped throughout the universe and the true peace may finally reign."</li>

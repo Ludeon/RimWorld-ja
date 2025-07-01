@@ -382,7 +382,7 @@
   <!-- EN: In sunlight -->
   <InSunlight>日光の下</InSunlight>
   <!-- EN: {0_labelShort} is exposed to the sky. -->
-  <ThingIsSkyExposed>{0_labelShort}は 空の下にさらされています.</ThingIsSkyExposed>
+  <ThingIsSkyExposed>{0_labelShort}が 空の下にさらされています.</ThingIsSkyExposed>
   <!-- EN: Insert person -->
   <InsertPerson>人を乗せる</InsertPerson>
   <!-- EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
@@ -666,9 +666,9 @@
   <!-- EN: Pollution -->
   <TilePollution>汚染</TilePollution>
   <!-- EN: Nearby pollution -->
-  <TilePollutionNearby>近くの汚染</TilePollutionNearby>
+  <TilePollutionNearby>周囲の汚染</TilePollutionNearby>
   <!-- EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
-  <NearbyPollutionTip>半径{0}タイル内のすべてのタイルの汚染レベルの合計です.このタイルからの距離が遠くなるほど,汚染の影響が減少します:\n\n{1}\n\n近くの汚染が高いほど,酸性スモッグの発生する可能性が高くなります.</NearbyPollutionTip>
+  <NearbyPollutionTip>半径{0}タイル内のすべてのタイルの汚染レベルの合計です.このタイルからの距離が遠くなるほど,汚染の影響が減少します:\n\n{1}\n\n周囲の汚染が高いほど,酸性スモッグの発生する可能性が高くなります.</NearbyPollutionTip>
   <!-- EN: This tile will have acidic smog every {0} days on average. -->
   <NoxiousHazeInterval>このタイルは平均して{0}日ごとに酸性スモッグが発生します.</NoxiousHazeInterval>
   <!-- EN: This tile will never have acidic smog. -->
@@ -751,9 +751,9 @@
   <EmbryoEjectedFromGrowthVatBiostarvation>{0}は生物学的栄養失調により,人工生育槽で死亡しました.</EmbryoEjectedFromGrowthVatBiostarvation>
 
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
-  <IvfPregnancyLetterText>{0}は胚の移植からの妊娠に成功しました!</IvfPregnancyLetterText>
+  <IvfPregnancyLetterText>{0}は 胚の移植による妊娠に成功しました!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
-  <IvfPregnancyLetterParents>赤ん坊は{0}と{1}の遺伝子構造を持っています.</IvfPregnancyLetterParents>
+  <IvfPregnancyLetterParents>赤ん坊は {0}と {1}の 遺伝子構造を持っています.</IvfPregnancyLetterParents>
 
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->

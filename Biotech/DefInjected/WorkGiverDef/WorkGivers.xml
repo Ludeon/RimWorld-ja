@@ -6,28 +6,28 @@
   <!-- EN: feeding -->
   <BottleFeedBaby.gerund>に食事を与える</BottleFeedBaby.gerund>
   <!-- EN: feed -->
-  <BottleFeedBaby.verb>食事を与える</BottleFeedBaby.verb>
+  <BottleFeedBaby.verb>に給仕</BottleFeedBaby.verb>
   
   <!-- EN: breastfeed babies -->
   <BreastfeedBaby.label>授乳</BreastfeedBaby.label>
   <!-- EN: breastfeeding -->
   <BreastfeedBaby.gerund>に授乳する</BreastfeedBaby.gerund>
   <!-- EN: breastfeed -->
-  <BreastfeedBaby.verb>授乳</BreastfeedBaby.verb>
+  <BreastfeedBaby.verb>に授乳</BreastfeedBaby.verb>
   
   <!-- EN: bring babies to safe temperature -->
   <BringBabyToSafety.label>赤ん坊を安全な気温へ退避</BringBabyToSafety.label>
   <!-- EN: rescuing -->
   <BringBabyToSafety.gerund>を救出する</BringBabyToSafety.gerund>
   <!-- EN: rescue -->
-  <BringBabyToSafety.verb>救出</BringBabyToSafety.verb>
+  <BringBabyToSafety.verb>を救出</BringBabyToSafety.verb>
   
   <!-- EN: carry to mother -->
   <CarryToBreastfeed.label>母親の元へ運ぶ</CarryToBreastfeed.label>
   <!-- EN: getting mother to breastfeed -->
-  <CarryToBreastfeed.gerund>を授乳のため母親の元へ運ぶ</CarryToBreastfeed.gerund>
+  <CarryToBreastfeed.gerund>母親に授乳させる</CarryToBreastfeed.gerund>
   <!-- EN: get mother to breastfeed -->
-  <CarryToBreastfeed.verb>母親の元へ運ぶ</CarryToBreastfeed.verb>
+  <CarryToBreastfeed.verb>母親に授乳させることが</CarryToBreastfeed.verb>
   
   <!-- EN: carry to gene extractor -->
   <CarryToGeneExtractor.label>遺伝子抽出器へ運搬</CarryToGeneExtractor.label>
@@ -41,49 +41,49 @@
   <!-- EN: growing -->
   <CarryToGrowthVat.gerund>を成長させる</CarryToGrowthVat.gerund>
   <!-- EN: grow -->
-  <CarryToGrowthVat.verb>成長</CarryToGrowthVat.verb>
+  <CarryToGrowthVat.verb>を成長させることが</CarryToGrowthVat.verb>
   
   <!-- EN: carry to subcore scanner -->
   <CarryToSubcoreScanner.label>サブコアスキャナーへ運搬</CarryToSubcoreScanner.label>
   <!-- EN: carrying -->
   <CarryToSubcoreScanner.gerund>を運搬</CarryToSubcoreScanner.gerund>
   <!-- EN: carry -->
-  <CarryToSubcoreScanner.verb>運搬</CarryToSubcoreScanner.verb>
+  <CarryToSubcoreScanner.verb>を運搬</CarryToSubcoreScanner.verb>
   
   <!-- EN: teach child -->
   <ChildcarerTeach.label>子供を教育</ChildcarerTeach.label>
   <!-- EN: teaching -->
   <ChildcarerTeach.gerund>を教育する</ChildcarerTeach.gerund>
   <!-- EN: teach -->
-  <ChildcarerTeach.verb>教育</ChildcarerTeach.verb>
+  <ChildcarerTeach.verb>を教育</ChildcarerTeach.verb>
   
   <!-- EN: clean pollution -->
   <CleanClearPollution.label>除染</CleanClearPollution.label>
   <!-- EN: cleaning pollution -->
-  <CleanClearPollution.gerund>を除染する</CleanClearPollution.gerund>
+  <CleanClearPollution.gerund>エリアを除染する</CleanClearPollution.gerund>
   <!-- EN: clean pollution -->
-  <CleanClearPollution.verb>除染</CleanClearPollution.verb>
+  <CleanClearPollution.verb>を除染</CleanClearPollution.verb>
   
   <!-- EN: create xenogerm -->
   <CreateXenogerm.label>異種胚を作成</CreateXenogerm.label>
   <!-- EN: creating xenogerm at -->
-  <CreateXenogerm.gerund>の異種胚を作成する</CreateXenogerm.gerund>
+  <CreateXenogerm.gerund>で異種胚を作成する</CreateXenogerm.gerund>
   <!-- EN: create xenogerm -->
   <CreateXenogerm.verb>異種胚を作成</CreateXenogerm.verb>
   
   <!-- EN: deliver hemogen to prisoners -->
-  <DeliverHemogenToPrisoner.label>ヘモゲンを囚人へ配達</DeliverHemogenToPrisoner.label>
+  <DeliverHemogenToPrisoner.label>ヘモゲンを囚人へ届ける</DeliverHemogenToPrisoner.label>
   <!-- EN: delivering hemogen for -->
-  <DeliverHemogenToPrisoner.gerund>にヘモゲンを配達する</DeliverHemogenToPrisoner.gerund>
+  <DeliverHemogenToPrisoner.gerund>にヘモゲンを届ける</DeliverHemogenToPrisoner.gerund>
   <!-- EN: deliver hemogen for -->
-  <DeliverHemogenToPrisoner.verb>ヘモゲンを配達</DeliverHemogenToPrisoner.verb>
+  <DeliverHemogenToPrisoner.verb>にヘモゲンを運搬</DeliverHemogenToPrisoner.verb>
   
   <!-- EN: make things at mech gestator -->
   <DoBillsMechGestator.label>メカ培養槽で作成</DoBillsMechGestator.label>
   <!-- EN: working at -->
   <DoBillsMechGestator.gerund>で作成する</DoBillsMechGestator.gerund>
   <!-- EN: work at -->
-  <DoBillsMechGestator.verb>作成</DoBillsMechGestator.verb>
+  <DoBillsMechGestator.verb>で作成</DoBillsMechGestator.verb>
   
   <!-- EN: make things at subcore encoder -->
   <DoBillsSubcoreEncoder.label>サブコアエンコーダーで作成</DoBillsSubcoreEncoder.label>
@@ -95,92 +95,92 @@
   <!-- EN: empty waste container -->
   <EmptyWasteContainer.label>廃棄物コンテナを空にする</EmptyWasteContainer.label>
   <!-- EN: extracting from -->
-  <EmptyWasteContainer.gerund>から抽出する</EmptyWasteContainer.gerund>
+  <EmptyWasteContainer.gerund>から取り出す</EmptyWasteContainer.gerund>
   <!-- EN: extract from -->
-  <EmptyWasteContainer.verb>抽出</EmptyWasteContainer.verb>
+  <EmptyWasteContainer.verb>から取り出すことが</EmptyWasteContainer.verb>
   
   <!-- EN: enter gene extractor -->
   <EnterGeneExtractor.label>遺伝子抽出機に入る</EnterGeneExtractor.label>
   <!-- EN: entering -->
   <EnterGeneExtractor.gerund>に入る</EnterGeneExtractor.gerund>
   <!-- EN: enter -->
-  <EnterGeneExtractor.verb>入る</EnterGeneExtractor.verb>
+  <EnterGeneExtractor.verb>に入ることが</EnterGeneExtractor.verb>
   
   <!-- EN: enter growth vat -->
   <EnterGrowthVat.label>人工生育槽へ入る</EnterGrowthVat.label>
   <!-- EN: entering -->
   <EnterGrowthVat.gerund>に入る</EnterGrowthVat.gerund>
   <!-- EN: enter -->
-  <EnterGrowthVat.verb>入る</EnterGrowthVat.verb>
+  <EnterGrowthVat.verb>に入ることが</EnterGrowthVat.verb>
   
   <!-- EN: enter subcore scanner -->
   <EnterSubcoreScanner.label>サブコアスキャナーに入る</EnterSubcoreScanner.label>
   <!-- EN: entering -->
   <EnterSubcoreScanner.gerund>に入る</EnterSubcoreScanner.gerund>
   <!-- EN: enter -->
-  <EnterSubcoreScanner.verb>入る</EnterSubcoreScanner.verb>
+  <EnterSubcoreScanner.verb>に入ることが</EnterSubcoreScanner.verb>
   
   <!-- EN: administer hemogen -->
   <FeedHemogen.label>ヘモゲンを与える</FeedHemogen.label>
   <!-- EN: administering hemogen to -->
   <FeedHemogen.gerund>にヘモゲンを与える</FeedHemogen.gerund>
   <!-- EN: administer hemogen to -->
-  <FeedHemogen.verb>ヘモゲンを与える</FeedHemogen.verb>
+  <FeedHemogen.verb>にヘモゲンを与える</FeedHemogen.verb>
   
   <!-- EN: haul mechs to charger -->
   <HaulMechsToCharger.label>メカを充電器へ運搬</HaulMechsToCharger.label>
   <!-- EN: hauling -->
   <HaulMechsToCharger.gerund>を運搬する</HaulMechsToCharger.gerund>
   <!-- EN: haul -->
-  <HaulMechsToCharger.verb>運搬</HaulMechsToCharger.verb>
+  <HaulMechsToCharger.verb>を運搬</HaulMechsToCharger.verb>
   
   <!-- EN: haul resources to carrier -->
   <HaulToCarrier.label>材料をキャリアーへ運搬</HaulToCarrier.label>
   <!-- EN: hauling to -->
   <HaulToCarrier.gerund>へ運搬する</HaulToCarrier.gerund>
   <!-- EN: haul to -->
-  <HaulToCarrier.verb>運搬</HaulToCarrier.verb>
+  <HaulToCarrier.verb>へ運搬</HaulToCarrier.verb>
   
   <!-- EN: bank genepack -->
   <HaulToGeneBank.label>遺伝子パックを保存</HaulToGeneBank.label>
   <!-- EN: banking -->
   <HaulToGeneBank.gerund>を保存する</HaulToGeneBank.gerund>
   <!-- EN: bank -->
-  <HaulToGeneBank.verb>保存</HaulToGeneBank.verb>
+  <HaulToGeneBank.verb>を保存</HaulToGeneBank.verb>
   
   <!-- EN: carry to growth vat -->
   <HaulToGrowthVat.label>人工生育槽へ運搬</HaulToGrowthVat.label>
   <!-- EN: filling -->
   <HaulToGrowthVat.gerund>へ運搬する</HaulToGrowthVat.gerund>
   <!-- EN: fill -->
-  <HaulToGrowthVat.verb>運搬</HaulToGrowthVat.verb>
+  <HaulToGrowthVat.verb>へ運搬</HaulToGrowthVat.verb>
   
   <!-- EN: haul resources to subcore scanner -->
   <HaulToSubcoreScanner.label>材料をサブコアスキャナーへ運搬</HaulToSubcoreScanner.label>
   <!-- EN: hauling to -->
   <HaulToSubcoreScanner.gerund>へ運搬する</HaulToSubcoreScanner.gerund>
   <!-- EN: haul to -->
-  <HaulToSubcoreScanner.verb>運搬</HaulToSubcoreScanner.verb>
+  <HaulToSubcoreScanner.verb>へ運搬</HaulToSubcoreScanner.verb>
   
   <!-- EN: haul resources to wastepack atomizer -->
   <HaulToWastepackAtomizer.label>材料を廃棄物パック分解装置へ運搬</HaulToWastepackAtomizer.label>
   <!-- EN: hauling to -->
   <HaulToWastepackAtomizer.gerund>へ運搬する</HaulToWastepackAtomizer.gerund>
   <!-- EN: haul to -->
-  <HaulToWastepackAtomizer.verb>運搬</HaulToWastepackAtomizer.verb>
+  <HaulToWastepackAtomizer.verb>へ運搬</HaulToWastepackAtomizer.verb>
   
   <!-- EN: play with babies -->
   <PlayWithBaby.label>赤ん坊と遊ぶ</PlayWithBaby.label>
   <!-- EN: playing with -->
   <PlayWithBaby.gerund>と遊ぶ</PlayWithBaby.gerund>
   <!-- EN: play with -->
-  <PlayWithBaby.verb>遊ぶ</PlayWithBaby.verb>
+  <PlayWithBaby.verb>と遊ぶことが</PlayWithBaby.verb>
   
   <!-- EN: repair mech -->
   <RepairMech.label>メカを修理</RepairMech.label>
   <!-- EN: repairing -->
   <RepairMech.gerund>を修理する</RepairMech.gerund>
   <!-- EN: repair -->
-  <RepairMech.verb>修理</RepairMech.verb>
+  <RepairMech.verb>を修理</RepairMech.verb>
   
 </LanguageData>

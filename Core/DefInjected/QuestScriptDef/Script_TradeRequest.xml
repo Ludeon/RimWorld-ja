@@ -7,7 +7,7 @@
     <li>qualityInfo-></li>
   -->
   <TradeRequest.questDescriptionRules.rulesStrings>
-    <li>questDescription->入植地の近くにある,[settlement_label]が特別な取引を申し出てきました. 彼らは,以下の物を欲しがっています:\n\n[requestedThingCount]個の[qualityInfo][requestedThing_label] (価値 [requestedThingMarketValue_money])\n\n取引を行いたければ,要求された品物を持たせたキャラバン隊を送りましょう. おおよその旅程時間は[estimatedTravelTime_duration]です.</li>
+    <li>questDescription->入植地の近くにある,[settlement_label]が特別な取引を申し出てきました. 彼らは,以下の物を欲しがっています:\n\n  [requestedThingCount]個の[qualityInfo][requestedThing_label] (価値 [requestedThingMarketValue_money])\n\nこの取引に興味があれば,要求された品物を持たせたキャラバン隊を送りましょう. おおよその旅程時間は[estimatedTravelTime_duration]です.</li>
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->標準品以上の品質の</li>
     <li>qualityInfo-></li>
   </TradeRequest.questDescriptionRules.rulesStrings>

@@ -28,14 +28,14 @@
     <li>questName->[bandit]の[camp]</li>
     <li>questName->[bandit]達の[camp]</li>
     <li>questName->[asker_nameDef]と[camp]</li>
-    <li>camp->宿営地</li>
+    <li>camp->キャンプ</li>
     <li>camp->前哨基地</li>
     <li>camp->隠れ家</li>
     <li>camp->野営地</li>
     <li>bandit->盗賊</li>
     <li>bandit->レイダー</li>
     <li>bandit->無法者</li>
-    <li>bandit->犯罪者</li>
+    <li>bandit->ならず者</li>
     <li>bandit->逃亡者</li>
     <li>bandit->略奪者</li>
     <li>bandit->強盗</li>
@@ -44,11 +44,11 @@
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>野営地を畳んで移動しました.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>盗賊の野営地は荷物をまとめて移動しました.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>野営地を発見されたため,彼らは解散しました.クエスト'[resolvedQuestName]'は終了しました.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>野営地を発見されたため,盗賊は解散しました.クエスト'[resolvedQuestName]'は終了しました.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
   <!-- EN: Payment arrived -->
   <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>報酬が届いた</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
   <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->

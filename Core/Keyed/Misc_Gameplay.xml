@@ -99,7 +99,7 @@
   <!-- EN: This person refuses to drop this. -->
   <DropThingLocked>この人はこれを手放しません.</DropThingLocked>
   <!-- EN: Rename -->
-  <Rename>命名</Rename>
+  <Rename>名前を変更</Rename>
   <!-- EN: Rename animal -->
   <RenameAnimal>動物の名前を変更</RenameAnimal>
   <!-- EN: Rename colonist -->
@@ -147,7 +147,7 @@
   <!-- EN: Hatches in -->
   <HatchesIn>孵化まで残り</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>{0} には {2} 必要ですが, {1} しかありません</SkillTooLow>
+  <SkillTooLow>{0}レベルが{2}必要,現在のレベルは{1}</SkillTooLow>
   <!-- EN: Freezing -->
   <Freezing>冷凍</Freezing>
   <!-- EN: Overheating -->
@@ -363,7 +363,7 @@
   <!-- EN: Refugee -->
   <Refugee>亡命者</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>地形-移動速度</TileMovementDifficulty>
+  <TileMovementDifficulty>地形の移動難易度</TileMovementDifficulty>
   <!-- EN: Impassable -->
   <Impassable>通行不能</Impassable>
   <!-- EN: Caravan movement speed -->
@@ -387,7 +387,7 @@
   <!-- EN: This caravan can't move because it carries too much. -->
   <EncumberedCaravanTilesPerDayTip>このキャラバンは荷物が多すぎるため動けません.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>キャラバン隊メンバー速度</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>メンバーの速度</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
   <FinalCaravanMovementSpeed>最終的な速度</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
@@ -463,7 +463,7 @@
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>警告：あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>警告：取引の依頼は輸送ポッドでは行えません.\n品物を送ったとしても,集落はそれを贈り物としては受け取りますが,報酬は支払いません.\n\n取引依頼を完了したい場合は,キャラバン隊で集落に訪れてください!\n\n積載した荷物をこの派閥に,本当に贈り物として渡しますか?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>囚人</PrisonerLower>
   <!-- EN: prisoners -->
@@ -893,7 +893,7 @@
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>{THING_label}を{DESTINATION}に運搬中</ReportHaulingTo>
+  <ReportHaulingTo>{THING_label}を {DESTINATION}に運搬中</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
   <ReportHaulingToGrave>{THING_label}を{DESTINATION}に埋葬中</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
@@ -1607,9 +1607,9 @@
   <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>計算: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>右クリック: 追加/削除 ウェイポイント</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>右クリック: ウェイポイントを追加/削除</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: Left trigger button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>左トリガーボタン: 追加/削除 ウェイポイント</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>左トリガーボタン: ウェイポイントを追加/削除</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <!-- EN: ESC: Exit planning mode. -->
   <RoutePlannerPressEscapeToExit>ESC: ナビモードを抜ける</RoutePlannerPressEscapeToExit>
   <!-- EN: {Key:Cancel}: Exit planning mode. -->
@@ -2087,7 +2087,7 @@
   <DisabledByScenario>シナリオにより無効化</DisabledByScenario>
 
   <!-- EN: blocked by roof -->
-  <BlockedByRoof>屋根に塞がれています</BlockedByRoof>
+  <BlockedByRoof>屋根にブロックされている</BlockedByRoof>
   <!-- EN: Blocked by terrain (requires {0_label} terrain support) -->
   <BlockedByTerrain>地形にブロックされている({0_label}を支えられる地形が必要)</BlockedByTerrain> <!-- text_todo -->
 

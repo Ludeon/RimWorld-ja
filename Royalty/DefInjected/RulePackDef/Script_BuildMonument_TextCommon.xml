@@ -86,16 +86,16 @@
   <QuestConstructionNameCommon.rulePack.rulesStrings>
     <li>questName->[constAdj][construction]</li>
     <li>questName->一つの[constAdj][construction]</li>
-    <li>questName->[constAdj][construction]</li>
+    <li>questName->とある[constAdj][construction]</li>
     <li>constAdj(p=20)->[AdjectiveLarge]</li>
-    <li>constAdj->ひどい</li>
+    <li>constAdj->恐怖の</li>
     <li>constAdj->偉大な</li>
     <li>constAdj->壮大な</li>
     <li>constAdj->危険な</li>
-    <li>constAdj->モニュメントの</li>
+    <li>constAdj->不朽の</li>
     <li>constAdj->贅沢な</li>
     <li>constAdj->予知の</li>
-    <li>constAdj->ぎょっとする</li>
+    <li>constAdj->驚くべき</li>
     <li>constAdj->不快な</li>
     <li>constAdj->恐ろしい</li>
     <li>constAdj->荘厳な</li>

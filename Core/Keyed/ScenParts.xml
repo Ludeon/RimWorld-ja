@@ -11,14 +11,14 @@
   <!-- EN: Start with 1 person. -->
   <ScenPart_StartWithPawn>ゲームを1人で始めます.</ScenPart_StartWithPawn>
   <!-- EN: Start with {0} people. -->
-  <ScenPart_StartWithPawns>ゲームを総勢{0}人で始めます.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>ゲームを{0}人で始めます.</ScenPart_StartWithPawns>
   <!-- EN: chosen from -->
   <ScenPart_StartWithPawns_OutOf>候補人数</ScenPart_StartWithPawns_OutOf>
   <!-- EN: random pet -->
   <RandomPet>ランダムなペット</RandomPet>
 
   <!-- EN: Start with research: {0} -->
-  <ScenPart_StartingResearchFinished>研究済み:\n  -{0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>開始時に研究済み: {0}</ScenPart_StartingResearchFinished>
   
   <!-- EN: Arrive in drop pods. -->
   <ScenPart_ArriveInDropPods>ドロップポッドで惑星に到着します.</ScenPart_ArriveInDropPods>
@@ -31,32 +31,32 @@
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
-  <ScenPart_PawnsHaveHediff>{0}は "{1}"の確率で,"{2}" を持って始まります.</ScenPart_PawnsHaveHediff>
+  <ScenPart_PawnsHaveHediff>{0}は{1}の確率で,{2}の状態になります.</ScenPart_PawnsHaveHediff>
   <!-- EN: severity: {0} -->
   <ConfigurableSeverity>深刻度: {0}</ConfigurableSeverity>
 
   <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
-  <ScenPart_SetNeed>{0}は,{1}の確率で,{2}欲求への満足度が,{3}～{4}となります.</ScenPart_SetNeed>
+  <ScenPart_SetNeed>{0}は{1}の確率で,{2}欲求の初期満足度が{3}～{4}になります.</ScenPart_SetNeed>
   <!-- EN: level: {0} -->
   <ConfigurableLevel>レベル: {0}</ConfigurableLevel>
 
   <!-- EN: {0} have a {1} chance to start with trait: {2} -->
-  <ScenPart_PawnsHaveTrait>{0}は {1}の確率で,次の才能・性格を持っています:\n  -{2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_PawnsHaveTrait>{0}は{1}の確率で次の特徴を持つようになります: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
-  <ScenPart_OnPawnDeathExplode>キャラクターは,死ぬときに爆発します( {0}, 半径 {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_OnPawnDeathExplode>キャラクターは死亡すると爆発します ({0},半径{1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} have a {1} chance to start naked. -->
-  <ScenPart_PawnsAreNaked>{0}は {1}の確率で全裸になります.</ScenPart_PawnsAreNaked>
+  <ScenPart_PawnsAreNaked>{0}は{1}の確率で全裸になります.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
-  <ScenPart_StartingPawnAgeMin>人々の年齢は,少なくとも"{0}才"となります.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMin>開始キャラクターの年齢は最低でも{0}歳です.</ScenPart_StartingPawnAgeMin>
   <!-- EN: Your people will be at most {0} years old. -->
-  <ScenPart_StartingPawnAgeMax>人々の年齢は,多くとも"{0}才"となります.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeMax>開始キャラクターの年齢は最大でも{0}歳です.</ScenPart_StartingPawnAgeMax>
   <!-- EN: Your people will be between {0} and {1} years old. -->
-  <ScenPart_StartingPawnAgeRange>人々の年齢は,"{0}才" から "{1}才"となります.</ScenPart_StartingPawnAgeRange>
+  <ScenPart_StartingPawnAgeRange>開始キャラクターの年齢は{0}歳から{1}歳までです.</ScenPart_StartingPawnAgeRange>
 
   <!-- EN: Start with {0}. -->
-  <ScenPart_StartWithSpecificColonists>{0}から開始.</ScenPart_StartWithSpecificColonists>
+  <ScenPart_StartWithSpecificColonists>{0}で始めます.</ScenPart_StartWithSpecificColonists>
   <!-- EN: {COUNT} {KINDLABEL} -->
   <PawnCount>{COUNT}人の{KINDLABEL}</PawnCount>
   
@@ -70,11 +70,11 @@
   <!-- EN: Map is scattered with -->
   <ScenPart_MapScatteredWith>マップ上に撒かれる物</ScenPart_MapScatteredWith>
   <!-- EN: Permanent game condition(s) -->
-  <ScenPart_PermaGameCondition>永久的なゲーム条件</ScenPart_PermaGameCondition>
+  <ScenPart_PermaGameCondition>永久的なゲーム環境</ScenPart_PermaGameCondition>
   <!-- EN: Incident(s) disabled -->
-  <ScenPart_DisableIncident>発生しない偶発事件</ScenPart_DisableIncident>
+  <ScenPart_DisableIncident>発生しない偶発イベント</ScenPart_DisableIncident>
   <!-- EN: Incident created -->
-  <ScenPart_CreateIncident>作成された偶発事件</ScenPart_CreateIncident>
+  <ScenPart_CreateIncident>作成された偶発イベント</ScenPart_CreateIncident>
   <!-- EN: Can never build -->
   <ScenPart_DisallowBuilding>作成できないオブジェクト</ScenPart_DisallowBuilding>
 

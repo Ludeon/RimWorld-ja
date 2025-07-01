@@ -53,9 +53,9 @@
   <IdeoBuildingDisrespectedDesc>{0}では,{1}が威厳のある部屋にいる必要があります.これらの部屋の要件を満たす必要があります:\n{2}\n\n{1}の部屋の要件が満たされていない場合,以下の信者は不幸になります:\n{3}</IdeoBuildingDisrespectedDesc>
   
   <!-- EN: Raids arriving in {0} -->
-  <QuestPartRaidsDelay>{0}後に襲撃が来る</QuestPartRaidsDelay>
+  <QuestPartRaidsDelay>{0}後に襲撃</QuestPartRaidsDelay>
   <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data. -->
-  <QuestPartRaidsDelayDesc>襲撃者は{0}後にやってきます.\n\n襲撃者はスペースドローンを目標に破壊しようとします.入植者がコンピューターをハッキングしてデータを取得できるように,スペースドローンを保護してください.</QuestPartRaidsDelayDesc>
+  <QuestPartRaidsDelayDesc>襲撃者が{0}後にやってきます.\n\n襲撃者はスペースドローンを目標に破壊しようとします.入植者がコンピューターをハッキングしてデータを取得できるように,スペースドローンを保護してください.</QuestPartRaidsDelayDesc>
 
   <!-- EN: {0} role unfilled -->
   <IdeoRoleEmpty>{0} 役割未割当</IdeoRoleEmpty>
@@ -97,7 +97,7 @@
   <!-- EN: Dryad caste not set -->
   <AlertGauranlenTreeWithoutDryadTypeLabel>ドライアド階級未割当</AlertGauranlenTreeWithoutDryadTypeLabel>
   <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
-  <AlertGauranlenTreeWithoutDryadTypeDesc>一本またはそれ以上のガウランレンツリーには,ドライアド階級が設定されていません.\n\nツリーを選択し,'{0}'ボタンをクリックして,作成されたドライアド階級を設定してください.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>何本かのガウランレンツリーに,ドライアド階級が設定されていません.\n\nツリーを選択し,'{0}'ボタンをクリックして,作成されたドライアド階級を設定してください.</AlertGauranlenTreeWithoutDryadTypeDesc>
   <!-- EN: Connector not assigned to plant cutting -->
   <AlertConnectedPawnNotAssignedToPlantCuttingLabel>収穫者が未割当</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
   <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
@@ -116,7 +116,7 @@
   <!-- EN: {0_pawnsPlural} waking in {1} -->
   <AlertHostilesWakingUp>{0_pawnsPlural}が{1}で目を覚ます</AlertHostilesWakingUp>
   <!-- EN: One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you. -->
-  <AlertHostilesWakingUpDesc>1体以上の{0_pawnsPlural}が目を覚ましています.\n\n彼らは入植者を見つけると攻撃します.</AlertHostilesWakingUpDesc>
+  <AlertHostilesWakingUpDesc>何体かの{0_pawnsPlural}が目を覚ましています.\n\n彼らは入植者を見つけると攻撃します.</AlertHostilesWakingUpDesc>
 
   <!-- EN: Cryptosleep caskets opening in {0} -->
   <AlertCasketOpening>冷凍睡眠装置が{0}で開く</AlertCasketOpening>

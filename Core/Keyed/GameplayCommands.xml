@@ -75,7 +75,7 @@
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
   <CommandMeditationSpotSetOwnerDesc>瞑想スポットの所有者を割り当てます.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
-  <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistLabel>墓石に記名</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
   <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
@@ -289,7 +289,7 @@
   <!-- EN: Animals attack -->
   <CommandReleaseAnimalsLabel>攻撃指示</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>これがオンになっている間,主人を持っている動物を,離れた獲物に向かわせることができます.これがオフの間は,動物は主人のそばを離れず守ります.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>オンにすると,自身を主人とする家畜全員が,離れた標的に向かうようになります.オフにすると,家畜は主人のそばを離れず守ります.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
   <CommandReleaseAnimalsFail_NoAnimals>家畜がいません.</CommandReleaseAnimalsFail_NoAnimals>
   
@@ -591,7 +591,7 @@
   <!-- EN: Rest -->
   <CommandPauseCaravan>休息</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>休息を取ります.これは以下の恩恵があります:\n\n-隊員同士で交流することができます.\n-食料調達が {0}倍 早くなります.\n-目立ちやすさが {1} になります.</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>休息を取ります.\nこれには以下の恩恵があります:\n\n  - 隊員同士の交流\n  - 食料調達速度が {0}倍に上昇\n  - 目立ちやすさが{1}に低下</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
@@ -639,9 +639,9 @@
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>クエストを見る：{0}</CommandViewQuest>
+  <CommandViewQuest>クエストを確認：{0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>このクエストをクエストタブで見る.</CommandViewQuestDesc>
+  <CommandViewQuestDesc>このクエストをクエストタブで確認する.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
   <CommandOpenLinkedQuest>関連クエストを開く</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
@@ -693,7 +693,7 @@
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The event will continue as long as it has at least one participant. -->
   <CommandLeaveRitualDesc>{RITUAL_labelDef}への参加をやめます.この行事は,参加者が一人でもいれば継続できます.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
-  <CommandLeaveLastParticipant>これは,{RITUAL_labelDef}に参加している,最後の一人の参加者です.</CommandLeaveLastParticipant>
+  <CommandLeaveLastParticipant>この人物は,{RITUAL_labelDef}に参加している最後の一人の参加者です.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>{RITUAL_label}を中止する</CommandCancelRitual>
