@@ -54,8 +54,8 @@
   <Hospitality_Animals.questDescriptionRules.rulesStrings>
     <li>threatsInfoMechClustersSingleAnimal->理由は不明ですが,[lodgersLabel]は軌道を周回するメカノイドの群れにより標的にされています.</li>
     <li>threatsInfoMechClustersMultiAnimal->理由は不明ですが,[lodgersLabelPlural]は軌道を周回するメカノイドの群れにより標的にされています.</li>
-    <li>threatsInfoMechRaidsSingleAnimal->理由は不明ですが,[lodgersLabel]はメカノイドの巣により標的にされています.</li>
-    <li>threatsInfoMechRaidsMultiAnimal->理由は不明ですが,[lodgersLabelPlural]はメカノイドの巣により標的にされています.</li>
+    <li>threatsInfoMechRaidsSingleAnimal->理由は不明ですが,[lodgersLabel]はメカノイドハイブにより標的にされています.</li>
+    <li>threatsInfoMechRaidsMultiAnimal->理由は不明ですが,[lodgersLabelPlural]はメカノイドハイブにより標的にされています.</li>
     <li>questDescription(askerIsNull==true,lodgersCount==1)->動物救助団体が,[lodgers0_nameDef]という名の[lodgersLabel]を,[map_definite]で[shuttleDelayTicks_duration]の間保護するよう求めています.[healthInfo][threatsInfo1][commonDescEnding]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n彼らは[enemyFaction_name]で開催されている屠殺の儀式から,[lodgers0_nameDef]を盗みました.そして今,[enemyFaction_pawnsPlural]が復讐のために追っています. [lodgers0_nameDef]を受け入れた場合,[enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal][enemyGroupsParagraph]</li>

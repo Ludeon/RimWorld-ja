@@ -83,8 +83,8 @@
     <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->通常の[threatSize]倍の戦力を持つ(*Threat)2つのメカクラスター(/Threat)が近辺に配置されます.</li>
     <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]は最近[mechViolation].そして今,軌道上のメカノイドの群れの標的にされています.</li>
     <li>threatsInfoMechClustersMultiPrisoners->囚人たちは最近[mechViolation].そして今,軌道上のメカノイドの群れの標的にされています.</li>
-    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation].そして今,メカノイドの巣の標的にされています.</li>
-    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation].そして今,メカノイドの巣の標的にされています.</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]は最近[mechViolation].そして今,メカノイドハイブの標的にされています.</li>
+    <li>threatsInfoMechRaidsMultiHuman->彼らは最近[mechViolation].そして今,メカノイドハイブの標的にされています.</li>
     <li>mechViolation->どういうわけか機械知性体を怒らせました</li>
     <li>mechViolation->古代のスーパーコンピューター端末を破壊しました</li>
     <li>mechViolation->アルコテックが好む人間の子供を殺しました</li>

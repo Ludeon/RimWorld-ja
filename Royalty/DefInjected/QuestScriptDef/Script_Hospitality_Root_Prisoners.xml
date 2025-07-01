@@ -49,7 +49,7 @@
     <li>threatsInfo1(generateThreats==false)-></li>
     <li>questDescription(askerIsNull==true,lodgersCount>=2)->軌道上の宇宙船の船長が[lodgersCount]人の囚人たちを[shuttleDelayTicks_duration]の間[map_definite]で護衛するよう求めています.[allLodgerInfo][threatsInfo2][commonDescEnding]</li>
     <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n囚人たちは[enemyFaction_name]の[enemyFaction_pawnsPlural]に対して一連の殺人を行い,その犠牲者たちの家族は復讐をしようと襲撃者を送り込んでくるでしょう.[enemyGroupsParagraph]</li>
-    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n囚人たちは[mechViolation].そして今,メカノイドの巣の標的にされています.[enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n囚人たちは[mechViolation].そして今,メカノイドハイブの標的にされています.[enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners][enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==false)-></li>
     <li>questDescription(asker_factionLeader==True,lodgersCount==1)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]は, [asker_pronoun]のために特別な囚人を匿うよう求めています.\nその囚人は,[lodgers0_age]歳の[lodgers0_nameFull]という名の[lodgers0_title]で, [asker_nameDef]の[PersonalCharacteristic]に関する恥ずかしい情報を知っており,[asker_nameDef]は[lodgers0_objective]解放したくないと思っています.その囚人を不祥事が収まるまでの[shuttleDelayTicks_duration]の間,留めておく必要があります.[allLodgerInfo][threatsInfo3][commonDescEnding]</li>
@@ -59,7 +59,7 @@
     <li>threatsInfo3(generateThreats==false)-></li>
     <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]は, [lodgersCount]人の囚人を敵の領地から捕まえました .彼らを収容する場所が無いため,[asker_nameDef]は監獄の準備が整うまでの[shuttleDelayTicks_duration]の間,彼らを監視するよう求めています.[allLodgerInfo][threatsInfo4]\n\n[commonDescEnding]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n囚人たちは[enemyFaction_name]と救出の契約を結んでいるので,彼らはあなたを追って[enemyFaction_pawnsPlural]を送り出すでしょう.[enemyGroupsParagraph]</li>
-    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]の敵は囚人たちを追うようメカノイドの巣をいくつか扇動しているので,メカノイドの襲撃グループを送り出すでしょう.[enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]の敵は囚人たちを追うようメカノイドハイブをいくつか扇動しているので,メカノイドの襲撃グループを送り出すでしょう.[enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners][enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==false)-></li>
     <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]は, 不適切な人物と寝ているところを見つかってしまいました. [asker_pronoun]は不適切な愛人との関係を絶ったことを装うために,[lodgers0_pronoun]を投獄しました.\n[asker_pronoun]は直ちにその囚人,[lodgers0_nameFull]を 不祥事が収まるまでの[shuttleDelayTicks_duration]の間,投獄したままにしておくよう求めています.[allLodgerInfo][threatsInfo5][commonDescEnding]</li>
