@@ -40,7 +40,7 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>入植者を徴兵します.\n\n徴兵中の入植者は,与えられた指示と戦闘を実行します.作業や食事,睡眠は行いません.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>徴兵状態を切り替えます.\n\n徴兵中は,与えられた指示と戦闘を実行します.作業や食事,睡眠は行いません.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort}は歩くことができない.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->

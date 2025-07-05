@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
-  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないでください.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!\n\nあなたは登場人物の名前をクリックすることで改名することができます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押しましょう.しかし,完璧なキャラクターを求めようとしないでください.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!\n\n登場人物の名前をクリックすることで改名することができます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
   
   <!-- EN: Select this -->
   <AddBillSimpleMeal.onMapInstruction>これを選択します</AddBillSimpleMeal.onMapInstruction>
@@ -86,7 +86,7 @@
   <!-- EN: Please choose a temperate forest (light green color) site with no landmarks, no mixed biomes, and no hills. -->
   <ChooseLandingSite.rejectInputMessage>ランドマークや混合バイオーム,丘のある場所は避け,温帯森林の平地(薄緑色の場所)を選択してみましょう.</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text> この画面では,あなたの最初の入植地を選びます.\n\n茶色い丘のない,温帯森林の平地(薄緑色の場所)を選びクリックし,"次へ"をクリックします.\n\n"地形タブ"を使えば,選択したタイルの詳しい情報が見れます.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>この画面では,あなたの最初の入植地を選びます.\n\n茶色い丘のない,温帯森林の平地(薄緑色の場所)を選びクリックし,"次へ"をクリックします.\n\n"地形タブ"を使えば,選択したタイルの詳しい情報が見れます.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>オプションメニューから,ストーリーテラーを選択して,このチュートリアルを終了します.</ChooseStoryteller.rejectInputMessage>
@@ -166,7 +166,7 @@
   <MapCameraZoom.textController>素晴らしい!\n\n{Key:MapZoom_In}ボタンと{Key:MapZoom_Out}ボタンでズームイン,ズームアウトができます.\n\n試してみましょう!</MapCameraZoom.textController>
   
   <!-- EN: Designate all this\nfor mining -->
-  <MineSteel.onMapInstruction>これ全てに指示します\n掘削</MineSteel.onMapInstruction>
+  <MineSteel.onMapInstruction>全てに指示を出します\n採掘</MineSteel.onMapInstruction>
   <!-- EN: Please use the 'mine' designator on the compacted steel. -->
   <MineSteel.rejectInputMessage>鉱物資源の上で,"採掘"を指示しましょう.</MineSteel.rejectInputMessage>
   <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->

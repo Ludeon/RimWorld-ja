@@ -5,7 +5,7 @@
   <!-- EN: Any mechanitor -->
   <AnyMechanitor>いずれかのメカニター</AnyMechanitor>
   <!-- EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
-  <BossgroupWarningDialog>{LEADERKIND_label}の脅威を呼び寄せると,以下の敵対的なメカノイドが来襲します.:\n\n{PAWNS}\n\nメカノイドは数時間ないし数日中に到着するでしょう.戦闘準備はよろしいですか?</BossgroupWarningDialog>
+  <BossgroupWarningDialog>{LEADERKIND_label}の脅威を呼び寄せると,以下の敵対的なメカノイドが来襲します:\n\n{PAWNS}\n\nメカノイドが到着するまで数時間から数日かかります.戦闘準備はよろしいですか?</BossgroupWarningDialog>
   <!-- EN: {PAWN_labelShort} is downed. -->
   <MechControllerDowned>{PAWN_labelShort}がダウンした.</MechControllerDowned>
   <!-- EN: {PAWN_labelShort} is a prisoner. -->

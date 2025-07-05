@@ -26,9 +26,9 @@
   <CommandCancelExtractionDesc>抽出プロセスを停止します.内部の人間は排出されます.</CommandCancelExtractionDesc>
 
   <!-- EN: Summon mech threat... -->
-  <CommandCallBossgroup>メカの脅威を呼び寄せる...</CommandCallBossgroup>
+  <CommandCallBossgroup>メカの脅威を呼び出す...</CommandCallBossgroup>
   <!-- EN: Summon an enemy leader mechanoid along with escorts.\n\nIf you defeat the leader mechanoid, it will drop a special chip which you can use to advance your own mechanoid technology.\n\nThere are three leader mechanoid types, each summoned a different way, each dropping a different type of chip. -->
-  <CommandCallBossgroupDesc>護衛部隊を率いた敵対的なメカノイドリーダーを呼び寄せます.\n\nメカノイドリーダーを撃破すると,特別なチップがドロップし,それを用いてメカノイド技術の研究を進めることができます.\n\n3種のメカノイドリーダーが存在ます.それぞれ異なる方法で呼び寄せられ,別々のチップをドロップします.</CommandCallBossgroupDesc>
+  <CommandCallBossgroupDesc>護衛部隊を率いた敵対的なメカノイドリーダーを呼び出します.\n\nメカノイドリーダーを撃破すると,特別なチップがドロップし,それを用いてメカノイド技術の研究を進めることができます.\n\n3種のメカノイドリーダーが存在ます.それぞれ異なる方法で呼び出す必要があり,別々のチップをドロップします.</CommandCallBossgroupDesc>
 
   <!-- EN: Toggle auto load {0} -->
   <CommandAutoLoad>{0}の自動ロードの切り替え</CommandAutoLoad>

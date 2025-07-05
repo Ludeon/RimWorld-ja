@@ -33,8 +33,8 @@
     <li>r_deityName(p=3)->神</li>
     <li>r_deityName->主キリスト</li>
     <li>r_deityName->キリスト</li>
-    <li>r_deityName->[color] イエス</li>
-    <li>r_deityName->[color] キリスト</li>
+    <li>r_deityName->[color]のイエス</li>
+    <li>r_deityName->[color]のキリスト</li>
   </NamerDeityChristian.rulePack.rulesStrings>
   
   <!-- EN:
@@ -60,7 +60,7 @@
     <li>r_deityName->アル-イッラー</li>
     <li>r_deityName->アル-ラフマーン</li>
     <li>r_deityName->アル-マリーク</li>
-    <li>r_deityName->アル-クドゥスQudus</li>
+    <li>r_deityName->アル-クドゥス</li>
     <li>r_deityName->アッ-サラーム</li>
     <li>r_deityName->アル-ムミン</li>
     <li>r_deityName->アル-アズィーズ</li>

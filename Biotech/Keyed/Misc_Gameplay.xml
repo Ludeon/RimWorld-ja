@@ -26,7 +26,7 @@
   <!-- EN: {0} mechs -->
   <CaravanMechsCount>{0}メカ</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
-  <BossWithApparel>{APPAREL}を着た{BOSS}</BossWithApparel>
+  <BossWithApparel>{APPAREL}を装備した\n    {BOSS}</BossWithApparel>
   <!-- EN: Resulting from gene -->
   <ComesFromGene>遺伝子に起因</ComesFromGene>
 
@@ -100,7 +100,7 @@
   <!-- EN: Cannot summon {0} threat -->
   <CannotSummon>{0}の脅威を呼び出せない</CannotSummon>
   <!-- EN: {0} threat ready to summon -->
-  <ReadyToSummonThreat>{0}の脅威を呼び出す準備が完了</ReadyToSummonThreat>
+  <ReadyToSummonThreat>{0}の脅威を呼び出せる</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
   <Summon>{0}の脅威を呼び出す</Summon>
   <!-- EN: Mechanoids disabled -->
@@ -515,7 +515,7 @@
 
   <!-- Bossgroup -->
   <!-- EN: available in {0}. -->
-  <BossgroupAvailableIn>{0}で利用できます.</BossgroupAvailableIn>
+  <BossgroupAvailableIn>{0}後まで使用できません.</BossgroupAvailableIn>
   <!-- EN: requires mechanitor -->
   <RequiresMechanitor>メカニターが必要</RequiresMechanitor>
 
