@@ -294,7 +294,7 @@
   <!-- EN: The caravan formation process has been terminated. -->
   <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成プロセスは終了しました.</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: No colonist capable of forming caravan. The caravan formation process has been terminated. -->
-  <MessageForceSendingCaravan_AllLost>キャラバンに参加できる入植者がいません.キャラバン隊の編成プロセスは終了しました.</MessageForceSendingCaravan_AllLost> <!-- text_todo -->
+  <MessageForceSendingCaravan_AllLost>キャラバンに参加できる入植者がいません.キャラバン隊の編成プロセスは終了しました.</MessageForceSendingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
   <MessageCaravanFormationPaused>キャラバン隊の編成プロセスは,全員が精神崩壊から回復するまで延長されるでしょう.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
@@ -359,7 +359,7 @@
   <!-- EN: Assigned items and people will now be loaded into the transport pod. -->
   <MessageTransporterSingleLoadingProcessStarted>指示されたヒトとアイテムを輸送ポッドに積み込もうとします.</MessageTransporterSingleLoadingProcessStarted>
   <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
-  <MessageShuttleLoadingProcessStarted>指示されたヒトとアイテムをシャトルに積み込もうとします.</MessageShuttleLoadingProcessStarted> <!-- text_todo -->
+  <MessageShuttleLoadingProcessStarted>指示されたヒトとアイテムをシャトルに積み込もうとします.</MessageShuttleLoadingProcessStarted>
 
   <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>輸送ポッドが到着しました.</MessageTransportPodsArrived>
@@ -371,19 +371,19 @@
   <!-- EN: Transport pod loading complete. Launch when ready. -->
   <MessageFinishedLoadingTransporters>たった今,輸送ポッドへの積み込みを終了しました.</MessageFinishedLoadingTransporters>
   <!-- EN: {SHUTTLE_label} is loaded with required cargo and can launch when ready. -->
-  <MessageFinishedLoadingShuttle>{SHUTTLE_label}に全ての荷物が積み込まれたため,準備が整えば打ち上げられます.</MessageFinishedLoadingShuttle> <!-- text_todo -->
+  <MessageFinishedLoadingShuttle>{SHUTTLE_label}に全ての荷物が積み込まれたため,準備が整えば打ち上げられます.</MessageFinishedLoadingShuttle>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>{1}は輸送ポッドへの積み込みを完了できません.次の人物・アイテムを入手できませんでした({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoShuttle>{1}はシャトルへの積み込みを完了できません.次の人物・アイテムを入手できませんでした({2_labelShort}).</MessageCantLoadMoreIntoShuttle> <!-- text_todo -->
+  <MessageCantLoadMoreIntoShuttle>{1}はシャトルへの積み込みを完了できません.次の人物・アイテムを入手できませんでした({2_labelShort}).</MessageCantLoadMoreIntoShuttle>
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoPortal>{1}は{0}への侵入を完了できません.次の人物・アイテムを入手できませんでした({2_labelShort}).</MessageCantLoadMoreIntoPortal>
   
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>目的地が不正です.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: {OBJECT_labelCap} is not a valid destination. -->
-  <MessageWorldObjectIsInvalid>{OBJECT_labelCap}は不正な目的地です.</MessageWorldObjectIsInvalid> <!-- text_todo -->
+  <MessageWorldObjectIsInvalid>{OBJECT_labelCap}は不正な目的地です.</MessageWorldObjectIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
   <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは輸送ポッドを飛ばすのに少なくとも{0}個の燃料を必要とします.</MessageTransportPodsDestinationIsTooFar>
   
@@ -865,6 +865,6 @@
   <MessageShuttleArrived>シャトルが到着しました.</MessageShuttleArrived>
 
   <!-- EN: Warning: {THING_labelCap} will not function in this biome -->
-  <MessageGroundPenetratingScannerNoBedrock>警告：{THING_labelCap}はこのバイオームでは機能しない</MessageGroundPenetratingScannerNoBedrock> <!-- text_todo -->
+  <MessageGroundPenetratingScannerNoBedrock>警告：{THING_labelCap}はこのバイオームでは機能しない</MessageGroundPenetratingScannerNoBedrock>
 
 </LanguageData>

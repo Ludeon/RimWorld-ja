@@ -361,9 +361,9 @@
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>{0_labelShort}を調査した</QuestRequiredThingStudied>
   <!-- EN: cannot accept {GERUND} {LAYER} -->
-  <QuestRequiredLayer>{LAYER}{GERUND}では受諾できない</QuestRequiredLayer> <!-- text_todo -->
+  <QuestRequiredLayer>{LAYER}{GERUND}では受諾できない</QuestRequiredLayer>
   <!-- EN: cannot accept in space -->
-  <QuestNotSpace>宇宙では受諾できない</QuestNotSpace> <!-- text_todo -->
+  <QuestNotSpace>宇宙では受諾できない</QuestNotSpace>
 
   <!-- Health tab -->
   <!-- EN: Creates need -->

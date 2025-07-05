@@ -143,7 +143,7 @@
   <!-- EN: Multiplier for malnutrition {0} -->
   <StatsReport_Malnutrition>{0}栄養失調による掛け率</StatsReport_Malnutrition>
   <!-- EN: Optimal room -->
-  <StatsReport_OptimalRoom>最適な部屋</StatsReport_OptimalRoom> <!-- text_todo -->
+  <StatsReport_OptimalRoom>最適な部屋</StatsReport_OptimalRoom>
 
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>適用可能な増減量</StatReport_PossibleOffsets>
@@ -412,8 +412,8 @@
   <Stat_Thing_TurretDesc>この生物が持っている武器です.</Stat_Thing_TurretDesc>
   <!-- EN: The ingredients needed to make this. -->
   <Stat_Thing_Ingredients>これを作るのに必要な材料です.</Stat_Thing_Ingredients>
-  <!-- EN: Working at this building will be slower if it’s not in this room type. -->
-  <Stat_Building_OptimalRoom_Desc>部屋の種類がこれ以外の場合,この建築物での作業速度が低下します.</Stat_Building_OptimalRoom_Desc> <!-- text_todo -->
+  <!-- EN: Working at this building will be slower if it's not in this room type. -->
+  <Stat_Building_OptimalRoom_Desc>部屋の種類がこれ以外の場合,この建築物での作業速度が低下します.</Stat_Building_OptimalRoom_Desc>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->

@@ -18,6 +18,8 @@
   <Credit_Testers>Testers</Credit_Testers>
   <!-- EN: Additional development -->
   <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
 
   <!-- EN: Volunteer testers -->
   <Credits_TitleTester>Volunteer testers</Credits_TitleTester>
@@ -29,6 +31,8 @@
   <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
   <!-- EN: Anomaly localization -->
   <Credits_Localization_Anomaly>Anomaly localization</Credits_Localization_Anomaly>
+  <!-- EN: Odyssey localization -->
+  <Credits_Localization_Odyssey>Odyssey localization</Credits_Localization_Odyssey> <!-- text_todo -->
   <!-- EN: Lead Localization Project Manager -->
   <Credits_LeadLocalizationProjectManager>Lead Localization Project Manager</Credits_LeadLocalizationProjectManager>
   <!-- EN: Localization Project Manager -->
@@ -49,14 +53,18 @@
   <Credits_Polish>Polish</Credits_Polish>
   <!-- EN: Russian -->
   <Credits_Russian>Russian</Credits_Russian>
+  <!-- EN: Dutch -->
+  <Credits_Dutch>Dutch</Credits_Dutch> <!-- text_todo -->
+  <!-- EN: Turkish -->
+  <Credits_Turkish>Turkish</Credits_Turkish> <!-- text_todo -->
+  <!-- EN: Ukrainian -->
+  <Credits_Ukrainian>Ukrainian</Credits_Ukrainian> <!-- text_todo -->
   <!-- EN: Simplified Chinese -->
   <Credits_ChineseSimplified>Simplified Chinese</Credits_ChineseSimplified>
   <!-- EN: Traditional Chinese -->
   <Credits_ChineseTraditional>Traditional Chinese</Credits_ChineseTraditional>
 
   <!-- Credits - Currently unused -->
-  <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
   <!-- EN: Test lead -->
   <Credit_TestLead>Test lead</Credit_TestLead>
   <!-- EN: Community donations -->

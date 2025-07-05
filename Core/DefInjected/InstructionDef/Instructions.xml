@@ -83,8 +83,8 @@
   <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
   <ChangeWorkSettings.text>あなたは,チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます.入植者は優先順位(左から右)に従って作業をしようとします.\n\nいくつかの設定を変えてみましょう.\n\n注意：入植者は,どんなにくだらないことでも,常に自分の優先順序に従います.効率的な作業体制を敷くことは,リムワールドでの成功のカギとなります.優先順位の設定は慎重に行い,何度も見直しましょう!</ChangeWorkSettings.text>
   
-  <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots), and with no Landmark or Mixed Biome feature in the TERRAIN tab. -->
-  <ChooseLandingSite.rejectInputMessage>"ランドマーク"や"特徴"のない,温帯森林の平地(茶色い点のない薄緑色の場所)を選択してみましょう.地域の情報は,場所を選択した際の"地形タブ"から見れます.</ChooseLandingSite.rejectInputMessage>
+  <!-- EN: Please choose a temperate forest (light green color) site with no landmarks, no mixed biomes, and no hills. -->
+  <ChooseLandingSite.rejectInputMessage>ランドマークや混合バイオーム,丘のある場所は避け,温帯森林の平地(薄緑色の場所)を選択してみましょう.</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
   <ChooseLandingSite.text> この画面では,あなたの最初の入植地を選びます.\n\n茶色い丘のない,温帯森林の平地(薄緑色の場所)を選びクリックし,"次へ"をクリックします.\n\n"地形タブ"を使えば,選択したタイルの詳しい情報が見れます.</ChooseLandingSite.text>
   
