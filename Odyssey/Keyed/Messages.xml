@@ -35,8 +35,8 @@
   <!-- EN: The ancient heat vents are stopping. -->
   <AncientHeatVentShutdown>古代の熱風口が止まりました.</AncientHeatVentShutdown>
   
-  <!-- EN: Must be placed over water containing fish. -->
-  <CannotPlaceFishingZone>魚のいる水域にしか配置できません.</CannotPlaceFishingZone>
+  <!-- EN: Must be placed over shallow water containing fish. -->
+  <CannotPlaceFishingZone>魚のいる,浅い水域にしか配置できません.</CannotPlaceFishingZone>
   
   <!-- EN: {TRAP_indefinite} was triggered. -->
   <MessageTrapSprung>{TRAP_indefinite}が発動しました.</MessageTrapSprung>
