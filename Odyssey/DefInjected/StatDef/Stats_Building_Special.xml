@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravship range -->
+  <GravshipRange.label>グラヴシップの移動距離</GravshipRange.label>
+  <!-- EN: The maximum distance this gravship can travel with its connected substructure. -->
+  <GravshipRange.description>このグラヴシップが,接続された土台と共に移動できる最大距離です.</GravshipRange.description>
+  
+  <!-- EN: substructure support -->
+  <SubstructureSupport.label>最大土台数</SubstructureSupport.label>
+  <!-- EN: The maximum amount of substructure supported by this gravship. -->
+  <SubstructureSupport.description>このグラヴシップが持ち上げられる土台の最大タイル数です.</SubstructureSupport.description>
+  
+</LanguageData>

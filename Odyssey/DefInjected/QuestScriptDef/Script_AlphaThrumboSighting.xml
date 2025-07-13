@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an alpha thrumbo.\n\nAlpha thrumbos are exceptionally rare creatures, believed by many to be mere fiction. Too wild for most to tame and too powerful for most to hunt, their horns are worth more than their weight in gold.</li>
+  -->
+  <OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]アルファスランボのいる場所を発見しました.\n\nアルファスランボは非常に稀な生物であり,多くの人にフィクションだと思われています.ほとんどの人には手懐けることができず,狩ることもできないほど強力で,その角はその重量を上回るのゴールドと取引できるほどの価値があります.</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->alpha thrumbo</li>
+  -->
+  <OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+    <li>questName->アルファスランボ</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>subject->alpha thrumbos</li>
+    <li>subject->thrumbos</li>
+    <li>subject->rare thrumbos</li>
+    <li>subject->rare animals</li>
+    <li>subject->legendary creatures</li>
+    <li>questMapFeature->drawing of a thrumbo</li>
+    <li>questMapFeature->sketch of an odd-looking thrumbo</li>
+    <li>questMapText->thrumbo habitat</li>
+    <li>questMapText->alpha thrumbo</li>
+    <li>questMapText->found the beast</li>
+    <li>questMapText->they are real</li>
+  -->
+  <OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+    <li>subject->アルファスランボ</li>
+    <li>subject->スランボ</li>
+    <li>subject->希少なスランボ</li>
+    <li>subject->希少動物</li>
+    <li>subject->伝説の生物</li>
+    <li>questMapFeature->スランボの絵</li>
+    <li>questMapFeature->珍しいスランボのスケッチ</li>
+    <li>questMapText->スランボの生息地</li>
+    <li>questMapText->アルファスランボ</li>
+    <li>questMapText->獣を見つけた</li>
+    <li>questMapText->奴らは本物</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>あなたは,</OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the alpha thrumbo has moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>傍受した通信によると,アルファスランボは移動したようです.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

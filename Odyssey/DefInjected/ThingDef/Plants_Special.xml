@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archean seed -->
+  <ArcheanSeed.label>アーキアンの種</ArcheanSeed.label>
+  <!-- EN: The seed of an archean tree. It can be planted to grow an archean tree, which converts nearby terrain into rich soil.\n\nArchean trees were bioengineered to terraform deadworlds and early-stage rimworlds. They are hardy enough to survive in the vacuum of space and produce a small amount of oxygen. The tree's delicate roots prevent it from being replanted. -->
+  <ArcheanSeed.description>アーキアンツリーの種です.植えることでアーキアンツリーを育てることができ,育ったツリーは周囲の地面を肥えた土に変化させます.\n\nアーキアンツリーは,デッドワールドや人が少なかった頃のリムワールドをテラフォーミングするために生体工学的に作られたものです.宇宙の真空でも生きることができるほど頑強で,さらには少量の酸素も生成します.ただし根がとても繊細なため,植え替えることはできません.</ArcheanSeed.description>
+  
+  <!-- EN: chopped Archean stump -->
+  <ChoppedStump_Archean.label>アーキアンの切り株</ChoppedStump_Archean.label>
+  <!-- EN: A stump left behind after an archean tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Archean.description>アーキアンツリーを伐採した後に残る切り株です.切り株は引き抜けますが,使用可能な木材はほとんど得られません.屋外に放置すると時間の経過とともに劣化します.</ChoppedStump_Archean.description>
+  
+  <!-- EN: archean tree -->
+  <Plant_TreeArchean.label>アーキアンツリー</Plant_TreeArchean.label>
+  <!-- EN: A tree bioengineered to terraform deadworlds and early-stage rimworlds. The tree hosts a special microbial community in its roots which enriches nearby terrain into rich soil. The trees are hardy enough to survive in the vacuum of space and produce a small amount of oxygen.\n\nArchean trees are sterile, preventing them from becoming an invasive species after terraforming has been completed. They can only be grown from seeds produced on glitterworld planets. The tree's delicate root system prevents it from being replanted. -->
+  <Plant_TreeArchean.description>デッドワールドや人が少なかった頃のリムワールドをテラフォーミングするために生体工学的に作られたものです.この木は根に特別な微生物群を持っており,周囲の地形を肥えた土に変化させます.宇宙の真空でも生きることができるほど頑強で,さらには少量の酸素も生成します.\n\nアーキアンツリーは不妊性なので,テラフォーミングが完了した後の侵略的な種になることを防ぎます.この木はGlitterworldの惑星で生産された種からしか成長することができません.また,根がとても繊細なため,植え替えることはできません.</Plant_TreeArchean.description>
+  
+  <!-- EN: smashed Archean stump -->
+  <SmashedStump_Archean.label>破壊されたアーキアンの切り株</SmashedStump_Archean.label>
+  <!-- EN: The remnants of an archean tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Archean.description>ダメージによって破壊されたアーキアンツリーの残骸です.醜い見た目です.切り株は引き抜けますが,使用可能な木材はほとんど得られません.屋外に放置すると時間の経過とともに劣化します.</SmashedStump_Archean.description>
+  
+</LanguageData>

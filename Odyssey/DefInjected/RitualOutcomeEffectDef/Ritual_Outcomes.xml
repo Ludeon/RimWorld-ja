@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Quality factors determine the engine's cooldown duration and the chance for a mishap when landing. -->
+  <GravshipLaunch.description>品質要因は,エンジンのクールダウン時間と着陸時の事故の可能性を決定します.</GravshipLaunch.description>
+  <!-- EN: {PAWN_labelShort}'s piloting ability -->
+  <GravshipLaunch.comps.0.label>{PAWN_labelShort}の操縦能力</GravshipLaunch.comps.0.label>
+  <!-- EN: pilot's piloting ability -->
+  <GravshipLaunch.comps.0.labelAbstract>操縦士の操縦能力</GravshipLaunch.comps.0.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s piloting ability -->
+  <GravshipLaunch.comps.1.label>{PAWN_labelShort}の操縦能力</GravshipLaunch.comps.1.label>
+  <!-- EN: copilot's piloting ability -->
+  <GravshipLaunch.comps.1.labelAbstract>副操縦士の操縦能力</GravshipLaunch.comps.1.labelAbstract>
+  <!-- EN: crew count -->
+  <GravshipLaunch.comps.2.label>乗組員数</GravshipLaunch.comps.2.label>
+  <!-- EN: small thrusters -->
+  <GravshipLaunch.comps.3.label>小型スラスター</GravshipLaunch.comps.3.label>
+  <!-- EN: large thrusters -->
+  <GravshipLaunch.comps.4.label>大型スラスター</GravshipLaunch.comps.4.label>
+  <!-- EN: pilot subpersona core -->
+  <GravshipLaunch.comps.5.label>パイロットAI亜人格コア</GravshipLaunch.comps.5.label>
+  <!-- EN: At the current quality, the gravship won't be able to launch again for {0_time} after landing. -->
+  <GravshipLaunch.extraOutcomeDescriptions.0.description>現在の品質の場合,着陸してから{0_time}間はグラヴシップを再発進できません.</GravshipLaunch.extraOutcomeDescriptions.0.description>
+  <!-- EN: Additionally, there's a {0_percentage} chance of having a minor incident when landing the gravship. -->
+  <GravshipLaunch.extraOutcomeDescriptions.1.description>さらにグラヴシップを着陸させる際,{0_percentage}の確率で小さな事故が起こる可能性があります.</GravshipLaunch.extraOutcomeDescriptions.1.description>
+  
+</LanguageData>

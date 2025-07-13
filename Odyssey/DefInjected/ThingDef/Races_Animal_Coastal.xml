@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hermit crab -->
+  <HermitCrab.label>ヤドカリ</HermitCrab.label>
+  <!-- EN: A small crustacean found along coastlines. Hermit crabs scavenge various shells to protect themselves. -->
+  <HermitCrab.description>海岸沿いに生息する小さな甲殻類です.ヤドカリは自分を守るためにさまざまな貝殻を拾っていきます.</HermitCrab.description>
+  <!-- EN: right claw -->
+  <HermitCrab.tools.right_claw.label>右爪</HermitCrab.tools.right_claw.label>
+  <!-- EN: claw -->
+  <HermitCrab.tools.right_claw.labelNoLocation>爪</HermitCrab.tools.right_claw.labelNoLocation>
+  <!-- EN: left claw -->
+  <HermitCrab.tools.left_claw.label>左爪</HermitCrab.tools.left_claw.label>
+  <!-- EN: claw -->
+  <HermitCrab.tools.left_claw.labelNoLocation>爪</HermitCrab.tools.left_claw.labelNoLocation>
+  <!-- EN: head -->
+  <HermitCrab.tools.head.label>頭部</HermitCrab.tools.head.label>
+  
+  <!-- EN: otter -->
+  <Otter.label>カワウソ</Otter.label>
+  <!-- EN: A playful marine creature. They use tools such as rocks to crack open shellfish. -->
+  <Otter.description>遊びが大好きな海洋生物です.彼らは貝を割るために岩などの道具を使います.</Otter.description>
+  <!-- EN: left claw -->
+  <Otter.tools.left_claw.label>左爪</Otter.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Otter.tools.left_claw.labelNoLocation>爪</Otter.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Otter.tools.right_claw.label>右爪</Otter.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Otter.tools.right_claw.labelNoLocation>爪</Otter.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Otter.tools.head.label>頭部</Otter.tools.head.label>
+  
+  <!-- EN: seal -->
+  <Seal.label>アザラシ</Seal.label>
+  <!-- EN: A marine mammal with a streamlined body that is adept at hunting fish. While slow on land, seals are relatively quick in water. -->
+  <Seal.description>流線形の体を持ち,魚を狩るのが得意な海洋哺乳動物です.陸上では鈍足ですが,水中では比較的すばやいです.</Seal.description>
+  <!-- EN: head -->
+  <Seal.tools.head.label>頭部</Seal.tools.head.label>
+  
+  <!-- EN: sea lion -->
+  <SeaLion.label>アシカ</SeaLion.label>
+  <!-- EN: A large and intelligent marine animal. Male sea lions have thick fur around their necks, which evoke a lion's mane. -->
+  <SeaLion.description>大きく賢い海洋動物です.雄のアシカは首の周りにライオンのたてがみに似た厚い毛があります.</SeaLion.description>
+  <!-- EN: head -->
+  <SeaLion.tools.head.label>頭部</SeaLion.tools.head.label>
+  
+  <!-- EN: sea turtle -->
+  <SeaTurtle.label>ウミガメ</SeaTurtle.label>
+  <!-- EN: A large marine turtle. Their streamlined shell and powerful flippers make them excellent swimmers. -->
+  <SeaTurtle.description>大きな海洋カメです.流線形の甲羅と強力なひれを持つ彼らは,優れた水泳者です.</SeaTurtle.description>
+  <!-- EN: beak -->
+  <SeaTurtle.tools.beak.label>嘴</SeaTurtle.tools.beak.label>
+  <!-- EN: head -->
+  <SeaTurtle.tools.head.label>頭部</SeaTurtle.tools.head.label>
+  
+  <!-- EN: stone crab -->
+  <StoneCrab.label>イシガニ</StoneCrab.label>
+  <!-- EN: A robust crustacean with powerful claws. Stone crabs are a delicacy in some regions. -->
+  <StoneCrab.description>強力なハサミを持つ頑丈な甲殻類です.イシガニは一部の地域では珍味とされています.</StoneCrab.description>
+  <!-- EN: right claw -->
+  <StoneCrab.tools.right_claw.label>右爪</StoneCrab.tools.right_claw.label>
+  <!-- EN: claw -->
+  <StoneCrab.tools.right_claw.labelNoLocation>爪</StoneCrab.tools.right_claw.labelNoLocation>
+  <!-- EN: left claw -->
+  <StoneCrab.tools.left_claw.label>左爪</StoneCrab.tools.left_claw.label>
+  <!-- EN: claw -->
+  <StoneCrab.tools.left_claw.labelNoLocation>爪</StoneCrab.tools.left_claw.labelNoLocation>
+  <!-- EN: head -->
+  <StoneCrab.tools.head.label>頭部</StoneCrab.tools.head.label>
+  
+  <!-- EN: walrus -->
+  <Walrus.label>セイウチ</Walrus.label>
+  <!-- EN: A large marine animal with tusks and whiskers. Its considerable bulk allows it to survive in extremely cold environments. While slow on land, it is relatively quick in water. -->
+  <Walrus.description>牙とひげを持つ大きな海洋動物です.かなりの巨体を持ち,その体重によって極寒の環境でも生き残ることができます.陸上では鈍足ですが,水中では比較的すばやいです.</Walrus.description>
+  <!-- EN: tusk -->
+  <Walrus.tools.tusk.label>牙</Walrus.tools.tusk.label>
+  <!-- EN: head -->
+  <Walrus.tools.head.label>頭部</Walrus.tools.head.label>
+  
+</LanguageData>

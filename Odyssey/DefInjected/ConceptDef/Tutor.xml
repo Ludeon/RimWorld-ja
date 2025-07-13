@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fishing -->
+  <Fishing.label>釣り</Fishing.label>
+  <!-- EN: Place a 'fishing zone' where your hunters will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nHunters with a high animals skill catch more fish faster. -->
+  <Fishing.helpText>"釣りゾーン"は,狩猟の仕事を行う入植者が釣りをするエリアです.水域が大きいほど,釣りに適しています.\n\n釣りを行うと水域の魚の数が減少します.\n\n過剰な釣りは避けましょう.水域の魚が300匹未満になると,釣れる魚の数が減ります.\n\n調教スキルの高い狩人は,多くの魚をより速く釣ることができます.</Fishing.helpText>
+  
+  <!-- EN: gravship -->
+  <Gravship.label>グラヴシップ</Gravship.label>
+  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map. You can build a grav anchor to prevent this.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
+  <Gravship.helpText>グラヴシップは重力エンジンの周りに建築できます.船を発進させると,全構造物が新しいマップに移動します.\n\nグラヴシップが発進すると,現在のマップが消滅します.重力アンカーを建築すれば,これを防げます.\n\nグラヴシップを発進させるには以下のパーツが必要です:\n     - パイロットコンソール\n     - 燃料タンク\n     - スラスター\n\nこれらを解除するには'重力技術 基礎'の研究が必要です.\n\n建築できる基礎構造の量には限りがあります.この限界を増やすには,重力コアと重力軽量パネルを見つける必要があります.\n\n重力エンジンは時折,惑星周辺の重力技術を検知し,それをワールドマップにマークします.</Gravship.helpText>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>軌道</Orbit.label>
+  <!-- EN: On the world map, use the 'view planet' and 'view orbit' buttons to switch between planetary and orbital views.\n\nYou can travel to orbital locations using transport pods, shuttles, or gravships.\n\nColonists need vacsuits or other advanced armor to survive in the vacuum of space.\n\nIf using a gravship, make sure it's well-heated. Build oxygen pumps to maintain breathable air and enclose your ship with airtight walls and doors. Avoid using wood or stone for exterior walls and doors.\n\nPlan your return trip before you launch. Living in orbit for a long time is very challenging. Getting stranded in orbit is deadly. -->
+  <Orbit.helpText>ワールドマップの"惑星を見る"ボタンと"軌道を見る"ボタンから,惑星ビューと軌道ビューを切り替えられます.\n\n輸送ポッド,シャトル,またはグラヴシップを使用して,軌道上の場所へ移動できます.\n\n真空である宇宙で生存するためにも,入植者には真空スーツや先進的なアーマーが必要です.\n\nグラヴシップを使用する場合,十分な暖房を用意してください.また,酸素ポンプを建設して呼吸可能な空気を維持し,気密壁と扉で船を囲むことも必要です.外壁やドアには木材や石材を使わないようにしましょう.\n\n発進する前に,帰還までの計画を練ってください.軌道上に長く住むことは非常に困難であり,軌道上で立ち往生することは命取りです.</Orbit.helpText>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy bridge -->
+  <HeavyBridge.label>強化橋</HeavyBridge.label>
+  <!-- EN: A stronger version of the basic bridge which supports heavy structures on top. You can build a whole colony on water with this. -->
+  <HeavyBridge.description>基本的な橋の強化版で,上に重い構造物を支えることができます.これを使えば水上にコロニー全体を建設することができます.</HeavyBridge.description>
+  
+  <!-- EN: gravship substructure -->
+  <Substructure.label>グラヴシップの土台</Substructure.label>
+  <!-- EN: A lightweight truss structure with flooring on top that forms the deck of a gravship. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine. -->
+  <Substructure.description>グラヴシップのデッキを形成する上部に床を備えた軽量のトラス構造です.この土台の上にあるものだけが,重力エンジンの浮揚フィールドで持ち上がることができます.この床を設置できるのは,重力エンジンの範囲内に限ります.</Substructure.description>
+  
+</LanguageData>

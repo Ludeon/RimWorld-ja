@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hive queen -->
+  <HiveQueen.label>ハイブクイーン</HiveQueen.label>
+  <!-- EN: The birth mother of an insect megahive. Under suitable conditions, several distinct insect hives will merge together and produce a hive queen. The queen quickly grows in size, becoming trapped in her own burrow. -->
+  <HiveQueen.description>巨大な虫の巣の母体です.適切な条件下で複数の虫の巣が繋がると,やがてハイブクイーンを生み出します.女王は急速に成長し,自らの巣穴に閉じ込められます.</HiveQueen.description>
+  <!-- EN: Hive queen -->
+  <HiveQueen.comps.CompLetterOnRevealed.label>ハイブクイーン</HiveQueen.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered the center of the nest. It's guarded by a massive insect queen! -->
+  <HiveQueen.comps.CompLetterOnRevealed.text>巣の中心を発見しました.この場所は巨大な虫の女王によって守られています!</HiveQueen.comps.CompLetterOnRevealed.text>
+  <!-- EN: head claw -->
+  <HiveQueen.tools.head_claw.label>頭爪</HiveQueen.tools.head_claw.label>
+  <!-- EN: head -->
+  <HiveQueen.tools.head.label>頭部</HiveQueen.tools.head.label>
+  
+  <!-- EN: larva -->
+  <Larva.label>幼虫</Larva.label>
+  <!-- EN: The juvenile form of larger bioengineered insects. Larva maintain and expand hives using an acidic secretion. If provoked, they defend themselves by spewing sludge. -->
+  <Larva.description>生体工学的に作られた大きな虫の幼生です.幼虫は酸性分泌物を使って巣を維持・拡張します.刺激されると,スラッジを吹きかけて身を守ります.</Larva.description>
+  <!-- EN: mandibles -->
+  <Larva.tools.mandibles.label>大あご</Larva.tools.mandibles.label>
+  <!-- EN: head -->
+  <Larva.tools.head.label>頭部</Larva.tools.head.label>
+  
+  <!-- EN: locust -->
+  <Locust.label>バッタ</Locust.label>
+  <!-- EN: A bioengineered insect capable of flying short distances. Specialized chemical receptors allow locusts to effectively forage for food. While relatively weak on their own, swarms of locusts can be deadly. -->
+  <Locust.description>短距離を飛べる,生体工学的に作られた虫です.バッタは特殊な化学受容体を持つため,効果的に食べ物を探し出せます.単体では比較的弱いですが,群れになると致命的な被害を与えます.</Locust.description>
+  <!-- EN: mandibles -->
+  <Locust.tools.mandibles.label>大あご</Locust.tools.mandibles.label>
+  <!-- EN: head -->
+  <Locust.tools.head.label>頭部</Locust.tools.head.label>
+  
+</LanguageData>

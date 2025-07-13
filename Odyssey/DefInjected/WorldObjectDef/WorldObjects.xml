@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned landmark -->
+  <AbandonedLandmark.label>放棄されたランドマーク</AbandonedLandmark.label>
+  <!-- EN: An abandoned campsite at a landmark. -->
+  <AbandonedLandmark.description>ランドマーク上で放棄されたキャンプの跡地です.</AbandonedLandmark.description>
+  
+  <!-- EN: basic asteroid -->
+  <AsteroidBasic.label>一般的な小惑星</AsteroidBasic.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidBasic.description>真空岩で構成されたこの小惑星は,かつて採鉱作業の一環として惑星の周回軌道に引き込まれたものです.貴重な資源はすでにほとんど枯渇しています.\n\nこの場所には輸送ポッド,シャトル,またはグラヴシップを使用して到達できます.</AsteroidBasic.description>
+  
+  <!-- EN: asteroid mining site -->
+  <AsteroidMiningSite.label>採掘用小惑星</AsteroidMiningSite.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidMiningSite.description>真空岩で構成されたこの小惑星は,かつて採鉱作業の一環として惑星の周回軌道に引き込まれたものです.この小惑星はまだ部分的にしか採掘されていません.\n\nこの場所には輸送ポッド,シャトル,またはグラヴシップを使用して到達できます.</AsteroidMiningSite.description>
+  
+  <!-- EN: claimable site -->
+  <ClaimableSite.label>領有の主張が可能な場所</ClaimableSite.label>
+  
+  <!-- EN: claimable space site -->
+  <ClaimableSpaceSite.label>領有の主張が可能な宇宙上の場所</ClaimableSpaceSite.label>
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSpaceSettlement.label>破壊された入植地</DestroyedSpaceSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSpaceSettlement.description>破壊された入植地です.</DestroyedSpaceSettlement.description>
+  
+  <!-- EN: gravship -->
+  <Gravship.label>グラヴシップ</Gravship.label>
+  <!-- EN: A gravship in flight. -->
+  <Gravship.description>飛行中のグラヴシップです.</Gravship.description>
+  
+  <!-- EN: gravship launch -->
+  <GravshipLaunch.label>グラヴシップ発射地点</GravshipLaunch.label>
+  <!-- EN: The launch site of a gravship. -->
+  <GravshipLaunch.description>グラヴシップを発射した場所です.</GravshipLaunch.description>
+  
+  <!-- EN: mechhive -->
+  <Mechhive.label>メカハイブ</Mechhive.label>
+  
+  <!-- EN: orbital item stash -->
+  <OrbitalItemStash.label>軌道上のアイテム隠し場所</OrbitalItemStash.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <OrbitalItemStash.description>真空岩で構成されたこの小惑星は,かつて採鉱作業の一環として惑星の周回軌道に引き込まれたものです.貴重な資源はすでにほとんど枯渇しています.\n\nこの場所には輸送ポッド,シャトル,またはグラヴシップを使用して到達できます.</OrbitalItemStash.description>
+  
+  <!-- EN: passenger shuttle -->
+  <PassengerShuttle.label>旅客シャトル</PassengerShuttle.label>
+  <!-- EN: A passenger shuttle in flight. -->
+  <PassengerShuttle.description>飛行中の旅客シャトルです.</PassengerShuttle.description>
+  
+  <!-- EN: space -->
+  <Space.label>宇宙</Space.label>
+  
+  <!-- EN: orbital settlement -->
+  <SpaceSettlement.label>軌道上の入植地</SpaceSettlement.label>
+  <!-- EN: An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer. -->
+  <SpaceSettlement.description>他の人系派閥が管理する軌道プラットフォームです.訪問者には好意的ではありません.\n\nこれらのプラットフォームは,接近する船を破壊できる長距離自動兵器システムを備えています.安全に接近したい場合は,グラヴシップにシグナルジャマーを搭載しましょう.</SpaceSettlement.description>
+  
+  <!-- EN: space site -->
+  <SpaceSite.label>宇宙上の場所</SpaceSite.label>
+  
+</LanguageData>

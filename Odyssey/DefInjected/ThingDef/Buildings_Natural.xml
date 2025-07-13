@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient light -->
+  <AncientEmergencyLight_Blue.label>古代のライト</AncientEmergencyLight_Blue.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <AncientEmergencyLight_Blue.description>長寿命のバッテリーが内蔵された古代のライトです.</AncientEmergencyLight_Blue.description>
+  
+  <!-- EN: mechanoid light -->
+  <AncientEmergencyLight_Green.label>メカノイドライト</AncientEmergencyLight_Green.label>
+  <!-- EN: A light used in mechanoid facilities. The green hue is optimal for mechanoid optical arrays. -->
+  <AncientEmergencyLight_Green.description>メカノイド施設で使用されるライトです.緑の色合いはメカノイドの光学アレイに最適です.</AncientEmergencyLight_Green.description>
+  
+  <!-- EN: ancient emergency light -->
+  <AncientEmergencyLight_Red.label>古代の非常灯</AncientEmergencyLight_Red.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <AncientEmergencyLight_Red.description>長寿命のバッテリーが内蔵された古代のライトです.</AncientEmergencyLight_Red.description>
+  
+  <!-- EN: ancient heat vent -->
+  <AncientHeatVent.label>古代の熱風口</AncientHeatVent.label>
+  <!-- EN: A massive duct that drops endlessly into the ground. It will regularly vent heat from an underground megastructure, dramatically raising the temperature of the surrounding area. -->
+  <AncientHeatVent.description>地中深くまで続く巨大なダクトです.地下の大型建造物から定期的に熱を排出し,周囲の温度を劇的に上昇させます.</AncientHeatVent.description>
+  
+  <!-- EN: ancient smoke vent -->
+  <AncientSmokeVent.label>古代の煙突</AncientSmokeVent.label>
+  <!-- EN: The exhaust vent of some long forgotten underground megastructure. It periodically vents a large amount of smoke, blocking the sun for days at a time. -->
+  <AncientSmokeVent.description>遠い昔に忘れられた,地下の大型建造物の排気口です.定期的に大量の煙を放出し,数日間太陽を遮ります.</AncientSmokeVent.description>
+  
+  <!-- EN: ancient toxic vent -->
+  <AncientToxVent.label>古代の毒ガス口</AncientToxVent.label>
+  <!-- EN: A massive duct that vents toxic fumes from an underground megastructure. It will regularly cause toxic fallout in the area. -->
+  <AncientToxVent.description>地下にある大型建造物から有毒な煙を放出する巨大なダクトです.定期的に周辺に死の灰をばら撒きます.</AncientToxVent.description>
+  
+  <!-- EN: burrow wall -->
+  <BurrowWall.label>巣穴の壁</BurrowWall.label>
+  <!-- EN: A compact mix of dirt, rock, and insect secretion. -->
+  <BurrowWall.description>土,岩,虫の分泌物が混ざって圧縮されたものです.</BurrowWall.description>
+  
+  <!-- EN: sulfur spout -->
+  <GeothermalVent.label>硫黄噴出口</GeothermalVent.label>
+  <!-- EN: A naturally-occurring break in the ground from which volcanic gases escape. These vents bring nutrients to the surface from deep underground. Collectively, the fumes they spew are enough to block out the sun. -->
+  <GeothermalVent.description>火山ガスが噴出する,自然にできた地面の亀裂.これらのベントは地下深くから地表まで栄養を運びます.放出される煙は太陽を遮るでしょう.</GeothermalVent.description>
+  
+  <!-- EN: cave entrance -->
+  <InsectLairEntrance.label>洞窟の入り口</InsectLairEntrance.label>
+  <!-- EN: The entrance to a cave network. It is possible to climb down into the caves below. -->
+  <InsectLairEntrance.description>洞窟網への入口です.下の洞窟に降りることができます.</InsectLairEntrance.description>
+  
+  <!-- EN: life support unit -->
+  <LifeSupportUnit.label>生命維持ユニット</LifeSupportUnit.label>
+  <!-- EN: A unit connected to the orbital platform's larger life support network. It keeps rooms heated and pressurized. -->
+  <LifeSupportUnit.description>軌道プラットフォームにある巨大な生命維持ネットワークに接続されているユニットです.部屋を暖め,加圧し続けます.</LifeSupportUnit.description>
+  
+  <!-- EN: obsidian -->
+  <MineableObsidian.label>黒曜石</MineableObsidian.label>
+  <!-- EN: Volcanic rock formed by rapidly cooling lava. It can be mined for obsidian glass. -->
+  <MineableObsidian.description>溶岩が急速に冷えて形成された火山岩です.天然ガラスの黒曜石を採掘できます.</MineableObsidian.description>
+  
+</LanguageData>

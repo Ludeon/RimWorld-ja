@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->asteroid</li>
+    <li>terrain_word->rock</li>
+    <li>terrain_word->satellite</li>
+    <li>terrain_word->planetoid</li>
+    <li>terrain_word->moon</li>
+  -->
+  <NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->小惑星</li>
+    <li>terrain_word->岩</li>
+    <li>terrain_word->衛星</li>
+    <li>terrain_word->小惑星体</li>
+    <li>terrain_word->月</li>
+  </NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
+  
+</LanguageData>

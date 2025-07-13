@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chassis -->
+  <DroneChassis.label>シャーシ</DroneChassis.label>
+  
+  <!-- EN: core -->
+  <DroneCore.label>コア</DroneCore.label>
+  
+  <!-- EN: visual sensor -->
+  <DroneEye.label>視覚センサー</DroneEye.label>
+  
+  <!-- EN: shell -->
+  <DroneShell.label>外殻</DroneShell.label>
+  
+  <!-- EN: shell section -->
+  <DroneShellSection.label>外殻パーツ</DroneShellSection.label>
+  
+  <!-- EN: spiked shell section -->
+  <DroneShellSectionWithSpike.label>トゲ付き外殻パーツ</DroneShellSectionWithSpike.label>
+  
+  <!-- EN: tread -->
+  <DroneTreads.label>トレッド</DroneTreads.label>
+  
+</LanguageData>

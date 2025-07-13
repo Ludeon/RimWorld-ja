@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced gravtech -->
+  <AdvancedGravtech.label>重力技術 先進</AdvancedGravtech.label>
+  <!-- EN: Build advanced gravship parts. -->
+  <AdvancedGravtech.description>先進的なグラヴシップの部品の作成が可能になります.</AdvancedGravtech.description>
+  <!-- EN:
+    <li>subject->advanced gravtech</li>
+    <li>subject_story->researched advanced gravship components</li>
+    <li>subject_gerund->researching signal jamming</li>
+  -->
+  <AdvancedGravtech.generalRules.rulesStrings>
+    <li>subject->先進的重力技術</li>
+    <li>subject_story->グラヴシップのための先進的な部品を研究した</li>
+    <li>subject_gerund->信号妨害を行う方法の研究</li>
+  </AdvancedGravtech.generalRules.rulesStrings>
+  
+  <!-- EN: basic gravtech -->
+  <BasicGravtech.label>重力技術 基礎</BasicGravtech.label>
+  <!-- EN: Build a gravship and use it to travel the planet. Launching a gravship will abandon your current map. You won't be able to return. -->
+  <BasicGravtech.description>グラヴシップを作成し,惑星を移動できるようになります.グラヴシップを打ち上げると現在のマップを放棄します.戻ることはできません.</BasicGravtech.description>
+  <!-- EN:
+    <li>subject->gravship</li>
+    <li>subject_story->flew a gravship for a tourism company</li>
+    <li>subject_gerund->constructing gravships</li>
+  -->
+  <BasicGravtech.generalRules.rulesStrings>
+    <li>subject->グラヴシップ</li>
+    <li>subject_story->旅行会社のためにグラヴシップを飛ばした</li>
+    <li>subject_gerund->グラヴシップの建造</li>
+  </BasicGravtech.generalRules.rulesStrings>
+  
+  <!-- EN: beam weapons -->
+  <BeamWeapons.label>ビーム兵器</BeamWeapons.label>
+  <!-- EN: Construct weapons that use gamma ray beams to burn through armor and ignite targets. -->
+  <BeamWeapons.description>ガンマ線ビームを使用する武器が作成可能になります.ビームは装甲を貫通し,標的を燃やすことができます.</BeamWeapons.description>
+  <!-- EN:
+    <li>subject->beam weapons</li>
+    <li>subject_story->made gamma-ray beam weaponry</li>
+    <li>subject_gerund->making beam weapons</li>
+  -->
+  <BeamWeapons.generalRules.rulesStrings>
+    <li>subject->ビーム兵器</li>
+    <li>subject_story->ガンマ線ビーム兵器を作成した</li>
+    <li>subject_gerund->ビーム兵器の作成</li>
+  </BeamWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: fishing -->
+  <Fishing.label>釣り</Fishing.label>
+  <!-- EN: Place zones where your colonists can go fishing. -->
+  <Fishing.description>入植者の釣りが可能になるエリアを配置できるようになります.</Fishing.description>
+  <!-- EN: Fishing zone -->
+  <Fishing.customUnlockTexts.0>釣りゾーン</Fishing.customUnlockTexts.0>
+  <!-- EN:
+    <li>subject->fishing</li>
+    <li>subject_story->fished for a living</li>
+    <li>subject_gerund->fishing</li>
+  -->
+  <Fishing.generalRules.rulesStrings>
+    <li>subject->釣り</li>
+    <li>subject_story->生計を立てるために釣りをした</li>
+    <li>subject_gerund->釣り</li>
+  </Fishing.generalRules.rulesStrings>
+  
+  <!-- EN: heavy bridges -->
+  <HeavyBridges.label>強化橋</HeavyBridges.label>
+  <!-- EN: Build heavy bridges that support heavy buildings. You can use this to build whole colonies on the water. -->
+  <HeavyBridges.description>重い建物を支えられる強化橋を建築できるようになります.これを使うことで水上コロニーを作ることも可能になります.</HeavyBridges.description>
+  <!-- EN:
+    <li>subject->construction</li>
+    <li>subject_story->built bridges</li>
+    <li>subject_gerund->constructing</li>
+  -->
+  <HeavyBridges.generalRules.rulesStrings>
+    <li>subject->建築</li>
+    <li>subject_story->橋を建築した</li>
+    <li>subject_gerund->建築</li>
+  </HeavyBridges.generalRules.rulesStrings>
+  
+  <!-- EN: hunter drone -->
+  <HunterDrones.label>ハンタードローン</HunterDrones.label>
+  <!-- EN: Build traps and wearable packs that release hunter drones. These explosive drones pursue hostiles and detonate when within range. -->
+  <HunterDrones.description>ハンタードローンを放出するトラップと着用可能なパックを作成できるようになります.この爆発性ドローンは敵を追尾し,範囲内に入ると爆発します.</HunterDrones.description>
+  <!-- EN:
+    <li>subject->hunter drones</li>
+    <li>subject_story->made self-detonating drones</li>
+    <li>subject_gerund->making hunter drones</li>
+  -->
+  <HunterDrones.generalRules.rulesStrings>
+    <li>subject->ハンタードローン</li>
+    <li>subject_story->自己爆発型のドローンを作成した</li>
+    <li>subject_gerund->ハンタードローンの作成</li>
+  </HunterDrones.generalRules.rulesStrings>
+  
+  <!-- EN: orbital tech -->
+  <OrbitalTech.label>軌道技術</OrbitalTech.label>
+  <!-- EN: Construct buildings and apparel that can protect against the harsh vacuum of space. -->
+  <OrbitalTech.description>宇宙の過酷な真空環境から保護する建築物と衣類を作成できるようになります.</OrbitalTech.description>
+  <!-- EN:
+    <li>subject->orbital apparel</li>
+    <li>subject_story->assembled liners for vacsuits</li>
+    <li>subject_story->tested vacsuits</li>
+    <li>subject_story->developed rebreather technology</li>
+    <li>subject_story->studied the effects of space radiation on human tissue</li>
+    <li>subject_gerund->assembling vacsuits</li>
+    <li>subject_gerund->assembling rebreathers</li>
+    <li>subject_gerund->testing vacsuits</li>
+  -->
+  <OrbitalTech.generalRules.rulesStrings>
+    <li>subject->軌道用衣類</li>
+    <li>subject_story->真空スーツの裏地を組み立てた</li>
+    <li>subject_story->真空スーツを試験した</li>
+    <li>subject_story->リブリーザー技術を開発した</li>
+    <li>subject_story->宇宙放射線が人体に与える影響を研究した</li>
+    <li>subject_gerund->真空スーツの組み立て</li>
+    <li>subject_gerund->リブリーザーの組み立て</li>
+    <li>subject_gerund->真空スーツの試験</li>
+  </OrbitalTech.generalRules.rulesStrings>
+  
+  <!-- EN: shuttle -->
+  <Shuttles.label>シャトル</Shuttles.label>
+  <!-- EN: Build a shuttle which can be used for long distance travel or to reach orbit. This requires a shuttle engine which can be bought from orbital traders, salvaged from other shuttles, or obtained through quests. -->
+  <Shuttles.description>長距離移動や軌道上までの移動が可能なシャトルを建造できるようになります.シャトルを建造するにはシャトルエンジンが必要になり,このエンジンは商船から購入したり,他のシャトルから回収したり,クエストから入手できます.</Shuttles.description>
+  <!-- EN:
+    <li>subject->shuttles</li>
+    <li>subject_story->flew in a shuttle</li>
+    <li>subject_story->designed a shuttle</li>
+    <li>subject_gerund->engineering shuttles</li>
+    <li>subject_gerund->piloting shuttles</li>
+  -->
+  <Shuttles.generalRules.rulesStrings>
+    <li>subject->シャトル</li>
+    <li>subject_story->シャトルで飛行した</li>
+    <li>subject_story->シャトルを設計した</li>
+    <li>subject_gerund->シャトルの設計</li>
+    <li>subject_gerund->シャトルの操縦</li>
+  </Shuttles.generalRules.rulesStrings>
+  
+  <!-- EN: standard gravtech -->
+  <StandardGravtech.label>重力技術 標準</StandardGravtech.label>
+  <!-- EN: Build complex gravship parts. -->
+  <StandardGravtech.description>複雑なグラヴシップの部品を作成できるようになります.</StandardGravtech.description>
+  <!-- EN: You now have the technology to build large thrusters. These require vacstone blocks which can be obtained from orbital asteroids.\n\nYou can travel to orbital locations using transport pods, shuttles, or a gravship. Make sure to equip your colonists with vacsuits or other advanced armors to survive in space. -->
+  <StandardGravtech.discoveredLetterText>この研究を終えることで,大型スラスターを作成する技術が手に入ります.これらの作成には,真空岩ブロックという,軌道上の小惑星から得られる石材が必要になります.\n\n軌道上の場所へは輸送ポッド,シャトル,もしくはグラヴシップを使用することで移動できます.入植者を宇宙で生存させるために,真空スーツかその他の先進アーマーを装備させてください.</StandardGravtech.discoveredLetterText>
+  <!-- EN: About: Getting vacstone -->
+  <StandardGravtech.discoveredLetterTitle>真空岩の入手方法について</StandardGravtech.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->gravtech</li>
+    <li>subject_story->researched complex gravship components</li>
+    <li>subject_gerund->researching gravships</li>
+  -->
+  <StandardGravtech.generalRules.rulesStrings>
+    <li>subject->重力技術</li>
+    <li>subject_story->複雑なグラヴシップの部品を研究した</li>
+    <li>subject_gerund->グラヴシップの研究</li>
+  </StandardGravtech.generalRules.rulesStrings>
+  
+</LanguageData>

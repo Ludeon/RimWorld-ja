@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alligator -->
+  <Alligator.label>アリゲーター</Alligator.label>
+  <!-- EN: A large semi-aquatic reptile with a powerful bite. Alligators are slow on land, but deadly in the water. -->
+  <Alligator.description>噛む力が非常に強い半水生の大型爬虫類です.陸上での動きは鈍いものの,水中では致命的な存在となるでしょう.</Alligator.description>
+  <!-- EN: left claw -->
+  <Alligator.tools.left_claw.label>左爪</Alligator.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alligator.tools.left_claw.labelNoLocation>爪</Alligator.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Alligator.tools.right_claw.label>右爪</Alligator.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alligator.tools.right_claw.labelNoLocation>爪</Alligator.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Alligator.tools.head.label>頭部</Alligator.tools.head.label>
+  
+  <!-- EN: alpha thrumbo -->
+  <AlphaThrumbo.label>アルファスランボ</AlphaThrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. Alpha thrumbos are even rarer and more dangerous than the typical thrumbo. Their hide is nearly impossible to pierce and their razor-sharp horn is worth more than its weight in gold.\n\nAlpha thrumbos are some of the longest-lived moving creatures in the known universe. Some tribes believe they remember and psychically pass on everything they ever experience to their young, so each one has a memory going back thousands of years. -->
+  <AlphaThrumbo.description>巨大で優雅な未知の起源を持つ生物です.アルファスランボは一般的なスランボよりもさらに希少で危険です.彼らの皮膚はほとんど貫通不可能で,鋭い角はその重量を上回るゴールドと取引できるほどの価値があります.\n\nアルファスランボは,既知の宇宙で最も長命な動物の一つです.一部の部族では,アルファスランボは自身の経験したすべてを記憶し,その記憶を超能力で子孫に伝えると信じられており,これによってアルファスランボは数千年にわたる記憶を持っていると考えています.</AlphaThrumbo.description>
+  <!-- EN: horn -->
+  <AlphaThrumbo.tools.horn.label>角</AlphaThrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <AlphaThrumbo.tools.left_foot.label>左足</AlphaThrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <AlphaThrumbo.tools.left_foot.labelNoLocation>足</AlphaThrumbo.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <AlphaThrumbo.tools.right_foot.label>右足</AlphaThrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <AlphaThrumbo.tools.right_foot.labelNoLocation>足</AlphaThrumbo.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <AlphaThrumbo.tools.head.label>頭部</AlphaThrumbo.tools.head.label>
+  
+  <!-- EN: armadillo -->
+  <Armadillo.label>アルマジロ</Armadillo.label>
+  <!-- EN: A small mammal with leathery armor all over its body. It is surprisingly quick for a creature with such stubby legs. -->
+  <Armadillo.description>全身に革のような装甲をまとった小型哺乳類です.短くずんぐりとした脚を持つ生物ですが,その動きは驚くほど素早いです.</Armadillo.description>
+  <!-- EN: left claw -->
+  <Armadillo.tools.left_claw.label>左爪</Armadillo.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Armadillo.tools.left_claw.labelNoLocation>爪</Armadillo.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Armadillo.tools.right_claw.label>右爪</Armadillo.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Armadillo.tools.right_claw.labelNoLocation>爪</Armadillo.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Armadillo.tools.head.label>頭部</Armadillo.tools.head.label>
+  
+  <!-- EN: badger -->
+  <Badger.label>アナグマ</Badger.label>
+  <!-- EN: A stocky omnivorous mammal. Badgers are surprisingly tough for their size. -->
+  <Badger.description>ずんぐりとした見た目の雑食性哺乳類です.アナグマは体格の割に驚くほど頑丈です.</Badger.description>
+  <!-- EN: left claw -->
+  <Badger.tools.left_claw.label>左爪</Badger.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Badger.tools.left_claw.labelNoLocation>爪</Badger.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Badger.tools.right_claw.label>右爪</Badger.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Badger.tools.right_claw.labelNoLocation>爪</Badger.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Badger.tools.head.label>頭部</Badger.tools.head.label>
+  
+  <!-- EN: bog hound -->
+  <BogHound.label>ボッグハウンド</BogHound.label>
+  <!-- EN: Descended from domesticated dogs, these canines have grown unaccustomed to human company. They're skilled scavengers, able to survive in extremely toxic environments. Bog hounds are harder to tame than their domesticated cousins, and much more dangerous. -->
+  <BogHound.description>このイヌ科の生物は家畜化された犬から進化した種であり,現在は人間に対してあまり友好的でなくなりました.彼らは非常に毒性の高い環境でも生き残ることができる優れた腐肉食動物です.ボッグハウンドは,家畜化された親戚よりも飼い慣らしにくく,ずっと危険です.</BogHound.description>
+  <!-- EN: left claw -->
+  <BogHound.tools.left_claw.label>左爪</BogHound.tools.left_claw.label>
+  <!-- EN: claw -->
+  <BogHound.tools.left_claw.labelNoLocation>爪</BogHound.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <BogHound.tools.right_claw.label>右爪</BogHound.tools.right_claw.label>
+  <!-- EN: claw -->
+  <BogHound.tools.right_claw.labelNoLocation>爪</BogHound.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <BogHound.tools.head.label>頭部</BogHound.tools.head.label>
+  
+  <!-- EN: bullfrog -->
+  <Bullfrog.label>ウシガエル</Bullfrog.label>
+  <!-- EN: A large frog known for its loud croak. Bullfrog legs are a delicacy on some planets. -->
+  <Bullfrog.description>大きな鳴き声で有名な大型のカエルです.ウシガエルの脚は一部の惑星では珍味として扱われています.</Bullfrog.description>
+  <!-- EN: head -->
+  <Bullfrog.tools.head.label>頭部</Bullfrog.tools.head.label>
+  
+  <!-- EN: scimitar cat -->
+  <Cat_Scimitar.label>シミターキャット</Cat_Scimitar.label>
+  <!-- EN: A bioengineered predator that resembles its long-extinct namesake. Originally bred to populate iceworld hunting reserves, these animals are now common pets among glitterworld socialites. Their ferocity should not be underestimated. -->
+  <Cat_Scimitar.description>生体工学的に作られた捕食者で,その名前の由来である,遠い昔に絶滅した動物に似た生物です.元々は氷の惑星の狩猟保護区で育てるために繁殖されましたが,今ではGlitterworldの社交家たちの一般的なペットになりました.しかし,その獰猛さは過小評価してはいけません.</Cat_Scimitar.description>
+  <!-- EN: left claw -->
+  <Cat_Scimitar.tools.left_claw.label>左爪</Cat_Scimitar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cat_Scimitar.tools.left_claw.labelNoLocation>爪</Cat_Scimitar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cat_Scimitar.tools.right_claw.label>右爪</Cat_Scimitar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cat_Scimitar.tools.right_claw.labelNoLocation>爪</Cat_Scimitar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cat_Scimitar.tools.head.label>頭部</Cat_Scimitar.tools.head.label>
+  
+  <!-- EN: colossus toad -->
+  <ColossusToad.label>コロッサストード</ColossusToad.label>
+  <!-- EN: A massive frog bioengineered for industrial farms. While safe to eat, its thick skin secretes an unpleasant slime. -->
+  <ColossusToad.description>工業型農場のために,生体工学的に作られた巨大なカエルです.安全に食べられますが,分厚い皮膚からは不快な粘液が分泌されます.</ColossusToad.description>
+  <!-- EN: head -->
+  <ColossusToad.tools.head.label>頭部</ColossusToad.tools.head.label>
+  
+  <!-- EN: gorilla -->
+  <Gorilla.label>ゴリラ</Gorilla.label>
+  <!-- EN: A massive and intelligent great ape. While generally peaceful, gorillas are terrifying when enraged. -->
+  <Gorilla.description>巨大で知能の高い大型類人猿です.普段は温厚な性格ですが,激怒すると非常に恐ろしい存在となります.</Gorilla.description>
+  <!-- EN: left fist -->
+  <Gorilla.tools.left_fist.label>左拳</Gorilla.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Gorilla.tools.left_fist.labelNoLocation>拳</Gorilla.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Gorilla.tools.right_fist.label>右拳</Gorilla.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Gorilla.tools.right_fist.labelNoLocation>拳</Gorilla.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Gorilla.tools.head.label>頭部</Gorilla.tools.head.label>
+  
+  <!-- EN: hippo -->
+  <Hippo.label>カバ</Hippo.label>
+  <!-- EN: An enormous semi-aquatic mammal with short stocky legs. While it is a herbivore, it can attack with devastating force if provoked. Its powerful jaw can crush bone and armor. -->
+  <Hippo.description>短くずんぐりとした脚を持つ,巨大な半水棲の哺乳類です.草食動物ではありますが,怒らせると壊滅的な力で攻撃を行います.さらにその強力な顎は,骨や鎧をも粉砕します.</Hippo.description>
+  <!-- EN: head -->
+  <Hippo.tools.head.label>頭部</Hippo.tools.head.label>
+  
+  <!-- EN: lava snail -->
+  <LavaSnail.label>ヨウガンツムリ</LavaSnail.label>
+  <!-- EN: A large slow-moving mollusk. Originating from the volcanic planet Nuchandus, lava snails were bred as farm animals. Their skin secretes a thick slime that protects them from extreme temperatures. -->
+  <LavaSnail.description>動きの遅い大型軟体類です.ヨウガンツムリは火山惑星ヌカンドゥスの生物で,家畜として飼育されていました.皮膚から厚みのある粘液を分泌することで,極度の温度から身を守っています.</LavaSnail.description>
+  <!-- EN: head -->
+  <LavaSnail.tools.head.label>頭部</LavaSnail.tools.head.label>
+  
+  <!-- EN: mastodon -->
+  <Mastodon.label>マストドン</Mastodon.label>
+  <!-- EN: A massive elephant-like mammal. While briefly extinct, the mastodon now roams countless worlds due its resilience to bitter cold. Its thick hide makes excellent cold-weather clothing. However, hunting the animal is a dangerous proposition even for skilled hunters. -->
+  <Mastodon.description>巨大な象に似た哺乳類です.一時的に絶滅しましたが,その耐寒性により今では無数の惑星を徘徊しています.その厚い皮膚は寒冷地用の素晴らしい衣料となります.しかし,この動物を狩ることは,熟練したハンターにとっても危険な仕事です.</Mastodon.description>
+  <!-- EN: tusk -->
+  <Mastodon.tools.tusk.label>牙</Mastodon.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Mastodon.tools.left_foot.label>左足</Mastodon.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Mastodon.tools.left_foot.labelNoLocation>足</Mastodon.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Mastodon.tools.right_foot.label>右足</Mastodon.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Mastodon.tools.right_foot.labelNoLocation>足</Mastodon.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Mastodon.tools.head.label>頭部</Mastodon.tools.head.label>
+  
+  <!-- EN: megavole -->
+  <Megavole.label>メガハタネズミ</Megavole.label>
+  <!-- EN: A massive burrowing rodent, bred for its size and strength. It's almost completely blind but can be surprisingly aggressive when cornered. On some low-tech worlds, these creatures are trained to dig for valuable minerals. -->
+  <Megavole.description>穴を掘る巨大なげっ歯類で,その大きさと強さからよく飼育されています.ほとんど目が見えていませんが,追い詰められると驚くほど攻撃的になります.技術の低い一部の惑星では,価値のある鉱物を掘らせるために訓練しています.</Megavole.description>
+  <!-- EN: left claw -->
+  <Megavole.tools.left_claw.label>左爪</Megavole.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megavole.tools.left_claw.labelNoLocation>爪</Megavole.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Megavole.tools.right_claw.label>右爪</Megavole.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megavole.tools.right_claw.labelNoLocation>爪</Megavole.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Megavole.tools.head.label>頭部</Megavole.tools.head.label>
+  
+  <!-- EN: mink -->
+  <Mink.label>ミンク</Mink.label>
+  <!-- EN: A small semi-aquatic mammal. The high value of its fur has resulted in mink being farmed on numerous planets. -->
+  <Mink.description>半水生の小型哺乳類です.毛皮の価値が高いため,多くの惑星でミンクが飼育されています.</Mink.description>
+  <!-- EN: left claw -->
+  <Mink.tools.left_claw.label>左爪</Mink.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Mink.tools.left_claw.labelNoLocation>爪</Mink.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Mink.tools.right_claw.label>右爪</Mink.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Mink.tools.right_claw.labelNoLocation>爪</Mink.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Mink.tools.head.label>頭部</Mink.tools.head.label>
+  
+  <!-- EN: monitor lizard -->
+  <MonitorLizard.label>オオトカゲ</MonitorLizard.label>
+  <!-- EN: A large venomous lizard. They secrete toxins from venom glands in their lower jaw to neutralize their prey. -->
+  <MonitorLizard.description>毒を持つ大きなトカゲです.彼らは下顎の毒腺から毒素を分泌し,獲物を無力化します.</MonitorLizard.description>
+  <!-- EN: left claw -->
+  <MonitorLizard.tools.left_claw.label>左爪</MonitorLizard.tools.left_claw.label>
+  <!-- EN: claw -->
+  <MonitorLizard.tools.left_claw.labelNoLocation>爪</MonitorLizard.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <MonitorLizard.tools.right_claw.label>右爪</MonitorLizard.tools.right_claw.label>
+  <!-- EN: claw -->
+  <MonitorLizard.tools.right_claw.labelNoLocation>爪</MonitorLizard.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <MonitorLizard.tools.head.label>頭部</MonitorLizard.tools.head.label>
+  
+  <!-- EN: moose -->
+  <Moose.label>オオヘラジカ</Moose.label>
+  <!-- EN: One of the largest members of the deer family, adapted to extremely cold climates. Its long legs allow it to travel easily through deep snow. -->
+  <Moose.description>シカ科に属する最も巨大な生物の一種であり,非常に寒い気候に適応しています.彼らは長い脚によって,深い雪の中を簡単に移動することができます.</Moose.description>
+  <!-- EN: left hoof -->
+  <Moose.tools.left_hoof.label>左蹄</Moose.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Moose.tools.left_hoof.labelNoLocation>蹄</Moose.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Moose.tools.right_hoof.label>右蹄</Moose.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Moose.tools.right_hoof.labelNoLocation>蹄</Moose.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Moose.tools.head.label>頭部</Moose.tools.head.label>
+  
+  <!-- EN: muskox -->
+  <Muskox.label>ジャコウウシ</Muskox.label>
+  <!-- EN: A shaggy hoofed mammal found in colder climates. Muskox wool is known for being scratchy, but offers good protection against the cold. -->
+  <Muskox.description>寒冷な土地に生息する毛むくじゃらの有蹄哺乳類です.ジャコウウシの毛はチクチクすることで知られていますが,高い防寒性能もあります.</Muskox.description>
+  <!-- EN: left hoof -->
+  <Muskox.tools.left_hoof.label>左蹄</Muskox.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muskox.tools.left_hoof.labelNoLocation>蹄</Muskox.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muskox.tools.right_hoof.label>右蹄</Muskox.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muskox.tools.right_hoof.labelNoLocation>蹄</Muskox.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Muskox.tools.head.label>頭部</Muskox.tools.head.label>
+  
+  <!-- EN: panda -->
+  <Panda.label>パンダ</Panda.label>
+  <!-- EN: A slow lumbering herbivore. Pandas are admired by many for their clumsy charm, making them common pets on urbworlds. On the rim, pandas are rarely seen outside of captivity. -->
+  <Panda.description>動きが鈍重な草食動物です.パンダはその不器用な魅力から多くの人に愛され,Urbworldでは一般的なペットとなっています.辺境の惑星では,檻に捕らわれた個体を除けば,ほとんど見かけることがありません.</Panda.description>
+  <!-- EN: left claw -->
+  <Panda.tools.left_claw.label>左爪</Panda.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panda.tools.left_claw.labelNoLocation>爪</Panda.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Panda.tools.right_claw.label>右爪</Panda.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panda.tools.right_claw.labelNoLocation>爪</Panda.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Panda.tools.head.label>頭部</Panda.tools.head.label>
+  
+  <!-- EN: porcupine -->
+  <Porcupine.label>ヤマアラシ</Porcupine.label>
+  <!-- EN: A large rodent. While slow moving, it has a cloak of sharp quills which protect it from predators. -->
+  <Porcupine.description>大型のげっ歯類です.動きは遅いものの,全身が鋭い針に覆われており,捕食者から身を守ります.</Porcupine.description>
+  <!-- EN: left claw -->
+  <Porcupine.tools.left_claw.label>左爪</Porcupine.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Porcupine.tools.left_claw.labelNoLocation>爪</Porcupine.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Porcupine.tools.right_claw.label>右爪</Porcupine.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Porcupine.tools.right_claw.labelNoLocation>爪</Porcupine.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Porcupine.tools.head.label>頭部</Porcupine.tools.head.label>
+  
+  <!-- EN: prairie dog -->
+  <PrairieDog.label>プレーリードッグ</PrairieDog.label>
+  <!-- EN: A burrowing rodent with a short tail and sharp claws used for digging. They are social animals, often living in large colonies. -->
+  <PrairieDog.description>短い尾と鋭い爪で穴を掘るげっ歯類です.彼らは社交的な動物で,大きなコロニーを形成することが多いです.</PrairieDog.description>
+  <!-- EN: left claw -->
+  <PrairieDog.tools.left_claw.label>左爪</PrairieDog.tools.left_claw.label>
+  <!-- EN: claw -->
+  <PrairieDog.tools.left_claw.labelNoLocation>爪</PrairieDog.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <PrairieDog.tools.right_claw.label>右爪</PrairieDog.tools.right_claw.label>
+  <!-- EN: claw -->
+  <PrairieDog.tools.right_claw.labelNoLocation>爪</PrairieDog.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <PrairieDog.tools.head.label>頭部</PrairieDog.tools.head.label>
+  
+  <!-- EN: tiger -->
+  <Tiger.label>トラ</Tiger.label>
+  <!-- EN: A solitary and dangerous apex predator. Tigers make quick work of their prey, using a mix of stealth and razor-sharp claws. -->
+  <Tiger.description>危険で孤高な頂点捕食者です.トラは隠密行動と鋭い爪を使って獲物を素早く仕留めます.</Tiger.description>
+  <!-- EN: left claw -->
+  <Tiger.tools.left_claw.label>左爪</Tiger.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Tiger.tools.left_claw.labelNoLocation>爪</Tiger.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Tiger.tools.right_claw.label>右爪</Tiger.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Tiger.tools.right_claw.labelNoLocation>爪</Tiger.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Tiger.tools.head.label>頭部</Tiger.tools.head.label>
+  
+  <!-- EN: greatwolf -->
+  <Wolf_Great.label>グレートウルフ</Wolf_Great.label>
+  <!-- EN: A genetically engineered canine modeled on long-extinct dire wolves. These fearsome predators were created as pets for the glitterworld elite. Wild greatwolves now populate many planets, due to their tendency to escape confinement. -->
+  <Wolf_Great.description>遺伝子工学的に創造された犬種であり,遠い昔に絶滅したダイアウルフがモデルにされています.この恐ろしい捕食者は,Glitterworldのエリート層のためのペットとして作られました.グレートウルフには閉じられた場所から逃げ出す習性があるため,今では多くの惑星に野生動物として生息しています.</Wolf_Great.description>
+  <!-- EN: greatwolf meat -->
+  <Wolf_Great.race.meatLabel>グレートウルフの肉</Wolf_Great.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Great.tools.left_claw.label>左爪</Wolf_Great.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Great.tools.left_claw.labelNoLocation>爪</Wolf_Great.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Great.tools.right_claw.label>右爪</Wolf_Great.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Great.tools.right_claw.labelNoLocation>爪</Wolf_Great.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Great.tools.head.label>頭部</Wolf_Great.tools.head.label>
+  
+  <!-- EN: wolverine -->
+  <Wolverine.label>クズリ</Wolverine.label>
+  <!-- EN: A small but ferocious predator. Wolverines are solitary animals that prefer to eat carrion but can kill animals many times their size if needed. -->
+  <Wolverine.description>小さいながらも獰猛な捕食者です.クズリは孤独な動物で,腐肉を好みますが,必要に応じて自分の何倍も大きい動物を倒すことができます.</Wolverine.description>
+  <!-- EN: left claw -->
+  <Wolverine.tools.left_claw.label>左爪</Wolverine.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolverine.tools.left_claw.labelNoLocation>爪</Wolverine.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolverine.tools.right_claw.label>右爪</Wolverine.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolverine.tools.right_claw.labelNoLocation>爪</Wolverine.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolverine.tools.head.label>頭部</Wolverine.tools.head.label>
+  
+</LanguageData>

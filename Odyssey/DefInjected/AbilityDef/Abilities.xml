@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call drop pods -->
+  <CallDropPods.label>ドロップポッドを呼び出す</CallDropPods.label>
+  <!-- EN: Summon drop pods that you can use to travel to another location. -->
+  <CallDropPods.description>別の場所への移動に使えるドロップポッドを召喚します.</CallDropPods.description>
+  
+  <!-- EN: call mechanoids -->
+  <CallMechanoids.label>メカノイドを呼び出す</CallMechanoids.label>
+  <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
+  <CallMechanoids.description>ドロップポッドを使って敵対的なメカノイドをその場所に召喚します.彼らは近くの人間全員を,敵味方区別なく攻撃します.</CallMechanoids.description>
+  
+  <!-- EN: deactivate mechanoid -->
+  <DeactivateMechanoid.label>メカノイドを無効化</DeactivateMechanoid.label>
+  <!-- EN: Permanently disable a hostile mechanoid. -->
+  <DeactivateMechanoid.description>敵対的なメカノイドを永久に無効化します.</DeactivateMechanoid.description>
+  
+  <!-- EN: egg spew -->
+  <EggSpew.label>卵噴出</EggSpew.label>
+  <!-- EN: Launch an egg sac and a spray of acidic sludge at the target area. The sludge will stick to targets and burn them. -->
+  <EggSpew.description>ターゲットエリアに卵嚢と酸性スラッジの噴射を行います.スラッジはターゲットに付着し,火傷を負わせます.</EggSpew.description>
+  
+  <!-- EN: sludge spew -->
+  <SludgeSpew.label>スラッジ噴出</SludgeSpew.label>
+  <!-- EN: Spray an acidic sludge all over the target area. The sludge will stick to targets and burn them. -->
+  <SludgeSpew.description>ターゲットエリア全体に酸性スラッジを噴出します.スラッジはターゲットに付着し,火傷を負わせます.</SludgeSpew.description>
+  
+  <!-- EN: terror roar -->
+  <TerrorRoar.label>恐怖の咆哮</TerrorRoar.label>
+  <!-- EN: Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror. -->
+  <TerrorRoar.description>恐ろしい咆哮を放ち,確率で近くの敵対する人間や動物を恐怖で逃走させます.</TerrorRoar.description>
+  
+  <!-- EN: thrumbo roar -->
+  <ThrumboRoar.label>スランボの咆哮</ThrumboRoar.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <ThrumboRoar.description>強力な咆哮を放ち,確率で敵対する人間や動物を恐怖で震え上がらせ,移動速度と指の機能を低下させます.</ThrumboRoar.description>
+  
+  <!-- EN: war trumpet -->
+  <WarTrumpet.label>闘争の轟き</WarTrumpet.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <WarTrumpet.description>強力な咆哮を放ち,確率で敵対する人間や動物を恐怖で震え上がらせ,移動速度と指の機能を低下させます.</WarTrumpet.description>
+  
+</LanguageData>

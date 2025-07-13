@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hunter trap -->
+  <HunterDroneTrap.label>ハンタートラップ</HunterDroneTrap.label>
+  <!-- EN: A dormant hunter drone that activates when it detects a threat. The hunter drone closes with the target and detonates. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. -->
+  <HunterDroneTrap.description>脅威を感知すると起動する休止状態のハンタードローンです.ハンタードローンは目標に接近し,爆発します.周囲の地形に隠すため,他のトラップの隣には設置できません.</HunterDroneTrap.description>
+  
+  <!-- EN: wasp trap -->
+  <WaspDroneTrap.label>ワスプトラップ</WaspDroneTrap.label>
+  <!-- EN: Several dormant wasp drones. They activate when they detect threats, injecting their target with a paralytic biotoxin. -->
+  <WaspDroneTrap.description>数体の休止状態のワスプドローンです.脅威を感知すると起動し,目標に麻痺性バイオトキシンを注入します.</WaspDroneTrap.description>
+  
+</LanguageData>

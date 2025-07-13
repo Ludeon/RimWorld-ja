@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grav nausea -->
+  <GravNausea.label>重力酔い</GravNausea.label>
+  <!-- EN: Intense nausea caused by sudden acceleration or deceleration on a gravship. -->
+  <GravNausea.description>グラヴシップでの急加速や急減速によって引き起こされる激しい吐き気です.</GravNausea.description>
+  
+  <!-- EN: thrumbo roar -->
+  <ThrumboRoar.label>スランボの咆哮</ThrumboRoar.label>
+  <!-- EN: This creature has been shaken by the powerful roar of a thrumbo. -->
+  <ThrumboRoar.description>この生物は,スランボの強力な咆哮に震えています.</ThrumboRoar.description>
+  
+  <!-- EN: vacuum exposure -->
+  <VacuumExposure.label>真空暴露</VacuumExposure.label>
+  <!-- EN: This creature is suffering a variety of negative effects caused by exposure to the vacuum of space, including hypoxia and decompression sickness. They will soon die unless they can get to a pressurized area. -->
+  <VacuumExposure.description>この生物は,宇宙の真空にさらされることによって引き起こされる低酸素症や減圧症など,さまざまな悪影響に苦しんでいます.加圧された領域に到達しない限り,まもなく死亡します.</VacuumExposure.description>
+  <!-- EN: initial -->
+  <VacuumExposure.stages.initial-0.label>初期</VacuumExposure.stages.initial-0.label>
+  <!-- EN: initial -->
+  <VacuumExposure.stages.initial-1.label>初期</VacuumExposure.stages.initial-1.label>
+  <!-- EN: mild -->
+  <VacuumExposure.stages.mild.label>軽度</VacuumExposure.stages.mild.label>
+  <!-- EN: moderate -->
+  <VacuumExposure.stages.moderate.label>中度</VacuumExposure.stages.moderate.label>
+  <!-- EN: extreme -->
+  <VacuumExposure.stages.extreme.label>極度</VacuumExposure.stages.extreme.label>
+  
+  <!-- EN: volcanic ash -->
+  <VolcanicAsh.label>火山灰</VolcanicAsh.label>
+  <!-- EN: Ash from a volcanic eruption. -->
+  <VolcanicAsh.description>火山噴火による灰です.</VolcanicAsh.description>
+  
+  <!-- EN: war trumpet -->
+  <WarTrumpet.label>闘争の轟き</WarTrumpet.label>
+  <!-- EN: This creature has been shaken by the powerful trumpeting of a mighty beast. -->
+  <WarTrumpet.description>この生物は,巨大な獣の轟くような力強い鳴き声に動揺しています.</WarTrumpet.description>
+  
+</LanguageData>

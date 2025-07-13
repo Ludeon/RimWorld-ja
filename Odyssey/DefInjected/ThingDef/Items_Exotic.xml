@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpha thrumbo horn -->
+  <AlphaThrumboHorn.label>アルファスランボの角</AlphaThrumboHorn.label>
+  <!-- EN: An alpha thrumbo's horn. It's razor-sharp and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.\n\nThe alpha horn is much lighter than a normal thrumbo horn, making it much faster to wield. -->
+  <AlphaThrumboHorn.description>アルファスランボの角です.非常に鋭く,大半の市場で貴重とされています.これは真のトロフィーであり,致命的な近接武器でもあります.\n\nアルファの角は通常のスランボの角よりも軽く,はるかに素早く武器として振るうことができます.</AlphaThrumboHorn.description>
+  <!-- EN: point -->
+  <AlphaThrumboHorn.tools.point.label>先端</AlphaThrumboHorn.tools.point.label>
+  <!-- EN: base -->
+  <AlphaThrumboHorn.tools.base.label>基部</AlphaThrumboHorn.tools.base.label>
+  
+  <!-- EN: mastodon tusk -->
+  <MastodonTusk.label>マストドンの牙</MastodonTusk.label>
+  <!-- EN: A mastodon's tusk. Traders pay handsomely for samples like this. While somewhat unwieldy as a melee weapon, it still hits quite hard. -->
+  <MastodonTusk.description>マストドンの牙です.このような標本は貿易商によって高値で取引されます.近接武器としては扱いにくいですが,それでも強い威力を持ちます.</MastodonTusk.description>
+  <!-- EN: point -->
+  <MastodonTusk.tools.point.label>先端</MastodonTusk.tools.point.label>
+  <!-- EN: base -->
+  <MastodonTusk.tools.base.label>基部</MastodonTusk.tools.base.label>
+  
+  <!-- EN: sentience catalyst -->
+  <SentienceCatalyst.label>知覚促進器</SentienceCatalyst.label>
+  <!-- EN: A single-use dose of mechanites used to enhance neural pathways in animals, permanently increasing their trainability and reducing their wildness.\n\nThe effect does not stack. -->
+  <SentienceCatalyst.description>動物の神経経路を強化するために投与されるメカナイトが1回分入った装置で,永久的に,訓練しやすさを高めて野性度を減少させます.\n\nこの効果は重複しません.</SentienceCatalyst.description>
+  <!-- EN: Use {0_label} -->
+  <SentienceCatalyst.comps.CompUsable.useLabel>{0_label}を使う</SentienceCatalyst.comps.CompUsable.useLabel>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deactivated. -->
+  <Deactivated.reportString>無効化されている</Deactivated.reportString>
+  
+  <!-- EN: fishing. -->
+  <Fish.reportString>釣りをしている</Fish.reportString>
+  
+  <!-- EN: fishing. -->
+  <FishAnimal.reportString>釣りをしている</FishAnimal.reportString>
+  
+  <!-- EN: foraging for food. -->
+  <Forage.reportString>食料を探している</Forage.reportString>
+  
+  <!-- EN: seeking oxygen. -->
+  <GotoOxygenatedArea.reportString>酸素を求めている</GotoOxygenatedArea.reportString>
+  
+  <!-- EN: patrolling. -->
+  <GotoPatrolDest.reportString>巡回中</GotoPatrolDest.reportString>
+  
+  <!-- EN: going to ship. -->
+  <GotoShip.reportString>船に向かっている</GotoShip.reportString>
+  
+  <!-- EN: inspecting TargetA. -->
+  <InspectGravEngine.reportString>TargetAを調査中</InspectGravEngine.reportString>
+  
+  <!-- EN: operating TargetA. -->
+  <PilotConsole.reportString>TargetAを操作中</PilotConsole.reportString>
+  
+  <!-- EN: putting TargetA on TargetB. -->
+  <PutApparelOnOutfitStand.reportString>TargetAをTargetBに着させている</PutApparelOnOutfitStand.reportString>
+  
+  <!-- EN: sealing TargetA. -->
+  <Seal.reportString>TargetAを封鎖中</Seal.reportString>
+  
+  <!-- EN: swapping outfit with TargetA. -->
+  <UseOutfitStand.reportString>TargetAと衣服を交換中</UseOutfitStand.reportString>
+  
+</LanguageData>

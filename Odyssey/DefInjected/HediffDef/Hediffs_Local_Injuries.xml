@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: porcupine quill -->
+  <PorcupineQuill.label>ヤマアラシの針</PorcupineQuill.label>
+  <!-- EN: A sharp spine from a porcupine. While generally not fatal, these are incredibly painful. It must be surgically removed. -->
+  <PorcupineQuill.description>ヤマアラシの鋭い針です.致命傷になることは少ないですが,強い痛みを与えます.外科的に取り除く必要があります.</PorcupineQuill.description>
+  
+  <!-- EN: vacuum burn -->
+  <VacuumBurn.label>真空火傷</VacuumBurn.label>
+  <!-- EN: Tissue damage caused by exposure to the vacuum of space. It can be extremely painful. -->
+  <VacuumBurn.description>宇宙空間の真空にさらされることで生じる組織損傷です.強い痛みを伴うことがあります.</VacuumBurn.description>
+  <!-- EN: a vacuum burn -->
+  <VacuumBurn.labelNoun>真空火傷</VacuumBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VacuumBurn.labelNounPretty>{1}内の{0}</VacuumBurn.labelNounPretty>
+  
+</LanguageData>

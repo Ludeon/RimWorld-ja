@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gravcore detected: Ancient reactor -->
+  <Gravcore_AncientReactor.questAvailableLetterLabel>重力コア発見: 古代のリアクター</Gravcore_AncientReactor.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient decaying reactor. The location is marked on the world map.\n\nCracks in the reactor's shielding are leaking harmful material, bathing the nearby area in toxic fallout. The reactor itself will be heavily guarded by ancient security systems.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
+  -->
+  <Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.信号は古代の壊れたリアクターから発信されています.検出地点がワールドマップにマークされました.\n\nリアクターの保護壁の亀裂からは有害物質が漏れ出しており,近くの地域を死の灰で包んでいます.また,リアクターは自身の古代セキュリティシステムによって厳重に守られているでしょう.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</li>
+  </Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->ancient reactor</li>
+  -->
+  <Gravcore_AncientReactor.questNameRules.rulesStrings>
+    <li>questName->古代のリアクター</li>
+  </Gravcore_AncientReactor.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Ancient stockpile -->
+  <Gravcore_AncientStockpile.questAvailableLetterLabel>重力コア発見: 古代の貯蔵庫</Gravcore_AncientStockpile.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient underground stockpile. The location is marked on the world map.\n\nUnderground stockpiles must be hacked to enter. This process can take days to complete.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
+  -->
+  <Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.信号は古代の地下貯蔵庫から発信されています.検出地点がワールドマップにマークされました.\n\n地下貯蔵庫に入るにはハッキングが必要です.このプロセスには数日かかることがあります.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</li>
+  </Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Ancient stockpile</li>
+  -->
+  <Gravcore_AncientStockpile.questNameRules.rulesStrings>
+    <li>questName->古代の貯蔵庫</li>
+  </Gravcore_AncientStockpile.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Crash site -->
+  <Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>重力コア発見: 墜落物</Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from the wreckage of a crashed orbital platform.\n\nScans reveal a heavy mechanoid presence.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
+  -->
+  <Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.信号は墜落した軌道プラットフォームの残骸から発信されています.\n\nスキャンの結果,大型メカノイドの存在が明らかになりました.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</li>
+  </Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->crashed mechanoid platform</li>
+  -->
+  <Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->墜落したメカノイドプラットフォーム</li>
+  </Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Frozen terraformer -->
+  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>重力コア発見: 凍結のテラフォーマー</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather and a long stay.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
+  -->
+  <Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.重力コアは故障した古代のテラフォーマーに電力を供給しているようです.検出地点がワールドマップにマークされました.\n\nこのテラフォーマーは,地域の気温を危険なほどにまで冷やしています.寒い天候と長期滞在の準備をしてください.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</li>
+  </Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->frozen terraformer</li>
+  -->
+  <Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+    <li>questName->凍結のテラフォーマー</li>
+  </Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Cave entrance -->
+  <Gravcore_InsectLair.questAvailableLetterLabel>重力コア発見: 洞窟の入り口</Gravcore_InsectLair.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. The signal emanates from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nSubterranean caves can be extremely dangerous and may take days to explore.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
+  -->
+  <Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.信号は地下深くの洞窟システムから発信されています.洞窟システムへの入り口がワールドマップにマークされました.\n\n地下の洞窟は非常に危険であり,探索には数日かかる可能性があります.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</li>
+  </Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->cave entrance</li>
+  -->
+  <Gravcore_InsectLair.questNameRules.rulesStrings>
+    <li>questName->洞窟の入り口</li>
+  </Gravcore_InsectLair.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Mechanoid relay -->
+  <Gravcore_MechanoidRelay.questAvailableLetterLabel>重力コア発見: メカノイド・リレー</Gravcore_MechanoidRelay.questAvailableLetterLabel>
+  <!-- EN:
+    <li>letterLabelMapGenerated->Mechanoid relay</li>
+    <li>letterTextMapGenerated->A mechanoid relay is nearby, powered by a gravcore.\n\nThe relay is currently protected by nearby stabilizers. Extract the relay's gravcore by first hacking or destroying all the stabilizers.\n\nBe careful, destroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option.</li>
+  -->
+  <Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+    <li>letterLabelMapGenerated->メカノイド・リレー</li>
+    <li>letterTextMapGenerated->近くに重力コアによって動力を供給されているメカノイド・リレーがあります.\n\n現在,リレーは近くの安定装置によって保護されています.すべての安定装置をハッキングまたは破壊すると,リレーの重力コアを取り出せます.\n\n注意してください,安定装置を破壊すると防衛システムが作動する可能性があります.ハッキングは時間はかかりますが,安全な手段です.</li>
+  </Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. It is powering a relay that is part of a huge mechanoid communication net.\n\nYou can disassemble the relay, but the process will take days to complete. The relay itself will be heavily defended by mechanoids.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
+  -->
+  <Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.検出結果によると,重力コアは巨大なメカノイド通信網の一部であるリレーの動力源となっているようです.\n\nリレーは分解することができますが,これを完遂するには数日かかります.また,リレーはメカノイドによって厳重に守られています.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</li>
+  </Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->mechanoid relay</li>
+  -->
+  <Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+    <li>questName->メカノイド・リレー</li>
+  </Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+  
+  <!-- EN: Mechhive detected -->
+  <Gravcore_Mechhive.questAvailableLetterLabel>メカハイブ発見</Gravcore_Mechhive.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected a huge gravtech energy spike originating from a mechhive in orbit. Its location is marked on the world map.\n\nThis mechhive is the center of mechanoid intelligence on this planet. Shutting it down will disable all murderous mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nThe mechhive is defended with anti-ship weapons. Build a signal jammer before approaching it.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit.</li>
+  -->
+  <Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+    <li>questDescription->惑星軌道上のメカハイブから,重力技術を用いた巨大なエネルギー波の発生を検出しました.検出地点がワールドマップにマークされました.\n\nこのメカハイブは,この惑星におけるメカノイドの知能ネットワークの中心です.これをシャットダウンすると,殺人メカノイドが惑星規模で無力化されます.またそれとは別に,メカハイブを自分の目的のために使うこともできるかもしれません.\n\nメカハイブは対船用兵器で守られています.近づく前にシグナルジャマーを建築しましょう.\n\n警告,メカハイブは非常に危険です.先に他の場所での探索を終え,軌道上での長期滞在の準備が整っていることを確認してください.</li>
+  </Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->mechhive</li>
+  -->
+  <Gravcore_Mechhive.questNameRules.rulesStrings>
+    <li>questName->メカハイブ</li>
+  </Gravcore_Mechhive.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Orbital platform -->
+  <Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>重力コア発見: 軌道プラットフォーム</Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an abandoned orbital platform.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
+  -->
+  <Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.信号は放棄された軌道プラットフォームから発信されています.\n\n軌道プラットフォームまで移動するには,グラヴシップ,シャトル,もしくは輸送ポッドが必要になります.\n\n注意してください,惑星軌道上は非常に危険です.入植者に真空スーツを用意しましょう.また,軌道上に長期間滞在するのは非常に難しいため,帰還の計画も立ててください.</li>
+  </Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->abandoned orbital platform</li>
+  -->
+  <Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+    <li>questName->放棄された軌道プラットフォーム</li>
+  </Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Mechanoid platform -->
+  <Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>重力コア発見: メカノイドプラットフォーム</Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>
+  <!-- EN:
+    <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an orbital mechanoid platform. Scans reveal a heavy defensive presence.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
+  -->
+  <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->重力コアのエネルギーの波紋を検出しました.信号は軌道メカノイドプラットフォームから発信されています.スキャン結果によると,多くの防衛機構が存在しているようです.\n\n軌道プラットフォームまで移動するには,グラヴシップ,シャトル,もしくは輸送ポッドが必要になります.\n\n注意してください,惑星軌道上は非常に危険です.入植者に真空スーツを用意しましょう.また,軌道上に長期間滞在するのは非常に難しいため,帰還の計画も立ててください.</li>
+  </Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Mechanoid platform</li>
+  -->
+  <Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->メカノイドプラットフォーム</li>
+  </Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription->You've discovered a mechanoid grav engine! You can use this to build a gravship to quickly move around the planet.\n\nThe engine includes tech that passively scans for nearby gravship technology. If you obtain this gravship tech, you can upgrade your gravship over time.</li>
+  -->
+  <GravEngine.questDescriptionRules.rulesStrings>
+    <li>questDescription->メカノイドの重力エンジンを発見しました!これを使ってグラヴシップを建造することで,惑星内を素早く移動できます.\n\nこのエンジンは,自動スキャンによって周囲の重力技術を検出することができます.この重力技術を入手することで,時間をかけてグラヴシップをアップグレードできます.</li>
+  </GravEngine.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->the gravship</li>
+  -->
+  <GravEngine.questNameRules.rulesStrings>
+    <li>questName->グラヴシップ</li>
+  </GravEngine.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->You've intercepted the distress beacon from a crashed gravship. The wreckage contains valuable gravtech. Be careful - it is guarded by hostile mechanoids.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] has shared with you the location of a crashed gravship. [asker_pronoun] heard of your study of gravcore technology and thought you might be interested in scavenging whatever gravtech remains. [asker_nameDef] warns you that the crash site is guarded by hostile mechanoids.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], demands that you destroy a number of bothersome mechanoids that are harassing a nearby settlement. The mechanoids are guarding the wreckage of a gravship. If you destroy the mechanoids, [asker_nameDef] will let you keep whatever gravtech you're able to scavenge.</li>
+  -->
+  <GravshipWreckage.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->墜落したグラヴシップからの遭難信号を傍受しました.残骸には貴重な重力技術が含まれています.しかし注意してください,この船は敵対的なメカノイドによって守られています.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, 墜落したグラヴシップの位置を共有しました. [asker_pronoun]はこのコロニーが重力コア技術の研究を行っていることを知り,残骸に残る重力技術に対しても興味を持つかもしれないと考え,情報の共有を行ったそうです.また,[asker_nameDef]は墜落場所が敵対的なメカノイドに守られていることも警告しました.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]は, 多くの厄介なメカノイドの破壊を要求しています.近くの入植地を悩ませているこのメカノイドたちは,グラヴシップの残骸を守っているそうです.[asker_nameDef]は,メカノイドを破壊するのであれば,この場所から入手できるすべての重力技術の回収を許可すると話しています.</li>
+  </GravshipWreckage.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Gravship wreckage</li>
+  -->
+  <GravshipWreckage.questNameRules.rulesStrings>
+    <li>questName->グラヴシップの残骸</li>
+  </GravshipWreckage.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription->You've detected a signal from a mechanoid ship in orbit. The ship has malfunctioned and is slowly losing altitude.\n\nBy falsely responding to the signal you can make the ship crashland nearby, letting you salvage valuable grav tech.</li>
+    <li>gravEngineSpawnedLetterLabel->grav engine</li>
+    <li>gravEngineSpawnedLetterText->The mechanoid ship has crashlanded nearby.\n\nIt contains a working grav engine. The engine pushes against gravity and generates a lift field around itself, allowing it to levitate massive ships or platforms. While it does not work when far from a planet, it can be used to move across the planet and to reach orbit.\n\nInspect the engine to make use of it.</li>
+  -->
+  <MechanoidSignal.questDescriptionRules.rulesStrings>
+    <li>questDescription->軌道上のメカノイド船から信号を検出しました.この船は故障しているようで,徐々に高度を失っています.\n\n信号に虚偽の応答をすることで,船を近くに墜落させ,貴重な重力技術を回収できるようになります.</li>
+    <li>gravEngineSpawnedLetterLabel->重力エンジン</li>
+    <li>gravEngineSpawnedLetterText->メカノイド船が近くに不時着しました.\n\nこの船には動く重力エンジンが組み込まれています.このエンジンは周囲にリフトを発生させることで重力に逆らい,大規模な船やプラットフォームを浮上させることを可能にします.惑星から遠く離れると動作しなくなりますが,惑星上を移動したり,惑星軌道上に到達するために使用できます.\n\nエンジンを調査して利用しましょう.</li>
+  </MechanoidSignal.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->mechanoid signal</li>
+  -->
+  <MechanoidSignal.questNameRules.rulesStrings>
+    <li>questName->メカノイド信号</li>
+  </MechanoidSignal.questNameRules.rulesStrings>
+  
+</LanguageData>

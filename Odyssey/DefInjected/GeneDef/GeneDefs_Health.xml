@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacuum resistant -->
+  <VacuumResistance_Partial.label>真空耐性</VacuumResistance_Partial.label>
+  <!-- EN: Carriers of this gene have skin that releases a waxy substance when air pressure is low, preventing vacuum burns and allowing them to survive longer when exposed to vacuum. -->
+  <VacuumResistance_Partial.description>この遺伝子を持つ者は,気圧が低くなると皮膚からワックス状の物質を放出します.これにより真空火傷を防ぎ,真空にさらされたときに長く生存することができます.</VacuumResistance_Partial.description>
+  <!-- EN: vacuum-resistant -->
+  <VacuumResistance_Partial.labelShortAdj>真空耐性</VacuumResistance_Partial.labelShortAdj>
+  
+  <!-- EN: breathless -->
+  <VacuumResistance_Total.label>息不要</VacuumResistance_Total.label>
+  <!-- EN: Carriers of this gene can store concentrated oxygen in their bodies. Their cells consume much less oxygen, meaning they rarely need to breathe. These adaptations make them immune to the harmful effects of space, as well as environmental toxins, tox gas, acidic smog, and rot stink. -->
+  <VacuumResistance_Total.description>この遺伝子を持つ者は,体内に濃縮酸素を蓄えることができます.細胞が消費する酸素量が非常に少なく,ほとんど呼吸を必要としません.これらの適応により,彼らは宇宙や環境毒素,毒ガス,酸性スモッグ,腐敗臭などの有害な影響に免疫を持ちます.</VacuumResistance_Total.description>
+  <!-- EN: Tox gas immunity -->
+  <VacuumResistance_Total.customEffectDescriptions.0>毒ガス免疫</VacuumResistance_Total.customEffectDescriptions.0>
+  <!-- EN: breathless -->
+  <VacuumResistance_Total.labelShortAdj>息不要</VacuumResistance_Total.labelShortAdj>
+  
+</LanguageData>

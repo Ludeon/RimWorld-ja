@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Grav engine -->
+  <!-- EN: Show substructure overlay -->
+  <CommandShowSubstructureOverlay>土台オーバーレイを表示</CommandShowSubstructureOverlay>
+  <!-- EN: Display valid substructure in blue and invalid substructure in red. -->
+  <CommandShowSubstructureOverlayDesc>有効な土台は青で,無効な土台は赤で表示されます.</CommandShowSubstructureOverlayDesc>
+  <!-- EN: Inspect {0_labelShort} -->
+  <CommandInspectGravEngine>{0_labelShort}を調査</CommandInspectGravEngine>
+  <!-- EN: Choose a colonist to inspect the mysterious grav engine. -->
+  <CommandInspectGravEngineDesc>入植者を選んで不思議な重力エンジンを調査させます.</CommandInspectGravEngineDesc>
+  <!-- EN: Choose navigator -->
+  <CommandChooseNavigator>ナビゲーターを選択</CommandChooseNavigator>
+  <!-- EN: Cannot navigate -->
+  <CannotChooseNavigator>ナビゲートできません</CannotChooseNavigator>
+
+  <!-- EN: Launch -->
+  <CommandLaunchGravship>発射</CommandLaunchGravship>
+  <!-- EN: Choose a colonist to pilot the gravship. Anything on gravship substructure will be transported to a new map. Your current map will be abandoned if you don't have a grav anchor. -->
+  <CommandLaunchGravshipDesc>グラヴシップを操縦する入植者を選択します.グラヴシップの土台の上にあるものはすべて新しいマップまで運ばれます.重力アンカーがない場合,現在のマップは放棄されます.</CommandLaunchGravshipDesc>
+
+  <!-- EN: Allow fishing -->
+  <CommandAllowFish>釣りを許可</CommandAllowFish>
+  <!-- EN: When disabled, colonists will never fish in this zone. -->
+  <CommandAllowFishDesc>無効にすると,入植者はこの水域で釣りをしなくなります.</CommandAllowFishDesc>
+  
+  <!-- EN: Allow removing items -->
+  <CommandAllowRemovingApparel>装備持ち出しを許可</CommandAllowRemovingApparel>
+  <!-- EN: When disabled, haulers won't remove items from the outfit stand and colonists won't equip apparel unless ordered to do so. -->
+  <CommandAllowRemovingApparelDesc>無効にすると,運搬者は衣服スタンドから道具を持ち出さず,入植者は命令されない限り衣服を装備しません.</CommandAllowRemovingApparelDesc>
+
+  <!-- EN: No colonist capable of piloting shuttle. Requires minimum piloting ability of 10%. -->
+  <CommandShuttleNoPilot>シャトルを操縦できる入植者がいません.最低でも10%の操縦能力が必要です.</CommandShuttleNoPilot>
+
+  <!-- EN: Confirm landing zone -->
+  <ConfirmLandGravship>着陸ゾーンを確定</ConfirmLandGravship>
+  <!-- EN: Land your gravship in the landing zone. -->
+  <ConfirmLandGravshipDesc>指定した着陸ゾーンにグラヴシップを着陸させます.</ConfirmLandGravshipDesc>
+  <!-- EN: Abort landing -->
+  <AbortLandGravship>着陸中止</AbortLandGravship>
+  <!-- EN: Cancel landing on this map, and force the gravship to land nearby on the world map. Useful if you can't find a landing spot.\n\nWarning: This increases the chance of a mishap when landing. -->
+  <AbortLandGravshipDesc>このマップへの着陸をキャンセルし,グラヴシップをワールドマップの近くの場所に着陸させます.この操作は,着陸できる場所がないときに役立ちます.\n\n警告：着陸時に軽い事故が発生する確率が高くなります.</AbortLandGravshipDesc>
+  <!-- EN: Aborting the landing will force your gravship to land in a random nearby location on the world map. This increases the chance of a mishap when landing.\n\nAre you sure you want to continue? -->
+  <AbortLandConfirmation>着陸を中止すると,グラヴシップはワールドマップの近くの場所にランダムに着陸します.これを行うと,着陸時に軽い事故が発生する確率が高くなります.\n\n本当に続けますか?</AbortLandConfirmation>
+  <!-- EN: Failed to find crash site. -->
+  <FailedToFindCrashSite>墜落現場を見つけられませんでした.</FailedToFindCrashSite>
+  <!-- EN: You must designate a landing area for your gravship. -->
+  <GravshipLandingMarkerNotPlaced>グラヴシップを着陸させる場所を指定してください.</GravshipLandingMarkerNotPlaced>
+
+  <!-- EN: Refuel from cargo -->
+  <CommandRefuelShuttleFromCargo>貨物から燃料補給</CommandRefuelShuttleFromCargo>
+  <!-- EN: Refuel the passenger shuttle using chemfuel stored within. -->
+  <CommandRefuelShuttleFromCargoDesc>内部に保管されているバイオ液化燃料を使用して,旅客シャトルの燃料を補給します.</CommandRefuelShuttleFromCargoDesc>
+  <!-- EN: No fuel in caravan. -->
+  <NoFuelInCaravan>キャラバンに燃料がありません.</NoFuelInCaravan>
+  <!-- EN: No fuel in shuttle. -->
+  <NoFuelInShuttle>シャトルに燃料がありません.</NoFuelInShuttle>
+  <!-- EN: Shuttle is already fully fueled -->
+  <ShuttleFullyFueled>シャトルの燃料は既に満タンです.</ShuttleFullyFueled>
+
+  <!-- EN: Seal entrance... -->
+  <SealHatch>入口を封鎖</SealHatch>
+  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
+  <SealHatchDesc>入口を永久に封鎖します.中に残っている物や人は永遠に失われます.</SealHatchDesc>
+
+  <!-- EN: Activate -->
+  <GravshipShieldOrderActivation>起動</GravshipShieldOrderActivation>
+  <!-- EN: Deactivate -->
+  <GravshipShieldOrderDeactivation>停止</GravshipShieldOrderDeactivation>
+  <!-- EN: Order a pawn to activate the gravship shield generator. -->
+  <GravshipShieldOrderActivationDesc>入植者にシールドジェネレーターを起動するよう指示します.</GravshipShieldOrderActivationDesc>
+  <!-- EN: Order a pawn to deactivate the gravship shield generator. -->
+  <GravshipShieldOrderDeactivationDesc>入植者にシールドジェネレーターを停止するよう指示します.</GravshipShieldOrderDeactivationDesc>
+
+  <!-- EN: Merging these caravans will cause the following to be lost:\n{0}\n\nAre you sure you want to continue? -->
+  <ConfirmMergeShuttles>これらのキャラバン隊を合流させると,以下のものが失われます:\n{0}\n\n本当に続けますか?</ConfirmMergeShuttles>
+</LanguageData>

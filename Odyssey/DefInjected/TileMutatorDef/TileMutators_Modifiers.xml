@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal habitat -->
+  <AnimalHabitat.label>動物の生息地</AnimalHabitat.label>
+  <!-- EN: A natural habitat for {ANIMALKIND_labelPlural}. They appear in greater numbers here. -->
+  <AnimalHabitat.description>野性の{ANIMALKIND_labelPlural}の生息地です.この地域にはこの動物が多く住んでいます.</AnimalHabitat.description>
+  
+  <!-- EN: decreased animal life -->
+  <AnimalLife_Decreased.label>野生動物が少ない</AnimalLife_Decreased.label>
+  <!-- EN: Animals are less abundant here than normal. -->
+  <AnimalLife_Decreased.description>この地域は野生動物の数が通常よりも少ないです.</AnimalLife_Decreased.description>
+  
+  <!-- EN: increased animal life -->
+  <AnimalLife_Increased.label>野生動物が多い</AnimalLife_Increased.label>
+  <!-- EN: Animals are more abundant here. -->
+  <AnimalLife_Increased.description>この地域には多くの野生動物が生息しています.</AnimalLife_Increased.description>
+  
+  <!-- EN: archean trees -->
+  <ArcheanTrees.label>アーキアンツリー</ArcheanTrees.label>
+  <!-- EN: This area contains ancient archean trees. These trees host a special microbial community in their roots which converts nearby terrain into rich soil. Their delicate root system makes it impossible to replant them. -->
+  <ArcheanTrees.description>この地域には古代のアーキアンツリーが存在します.この木は根に特殊な微生物群を持っており,周囲の地形を肥えた土に変化させます.この木の根はとても繊細なため,植え替えることはできません.</ArcheanTrees.description>
+  
+  <!-- EN: dry ground -->
+  <DryGround.label>乾いた地面</DryGround.label>
+  <!-- EN: The ground in this area is drier than normal. There are no small ponds or bodies of water. -->
+  <DryGround.description>この地域は地面が他の場所よりも乾燥しており,小さな池や水域もありません.</DryGround.description>
+  
+  <!-- EN: decreased fish -->
+  <Fish_Decreased.label>魚が少ない</Fish_Decreased.label>
+  <!-- EN: This area has fewer fish than normal. -->
+  <Fish_Decreased.description>この地域は魚の数が通常よりも少ないです.</Fish_Decreased.description>
+  
+  <!-- EN: increased fish -->
+  <Fish_Increased.label>魚が多い</Fish_Increased.label>
+  <!-- EN: This area has more fish than normal. -->
+  <Fish_Increased.description>この地域には多くの魚が生息しています.</Fish_Increased.description>
+  
+  <!-- EN: foggy -->
+  <FoggyMutator.label>霧</FoggyMutator.label>
+  <!-- EN: Fog is common in this area. -->
+  <FoggyMutator.description>この地域には霧がよく発生します.</FoggyMutator.description>
+  
+  <!-- EN: junkyard -->
+  <Junkyard.label>ジャンクヤード</Junkyard.label>
+  <!-- EN: An old dumping ground for various kinds of junk. -->
+  <Junkyard.description>この地域はかつて,様々な廃棄物を捨てるゴミ捨て場にされていました.</Junkyard.description>
+  
+  <!-- EN: mineral rich -->
+  <MineralRich.label>豊富な鉱物</MineralRich.label>
+  
+  <!-- EN: obsidian deposits -->
+  <ObsidianDeposits.label>黒曜石鉱床</ObsidianDeposits.label>
+  <!-- EN: This area has deposits of volcanic obsidian, which can be mined for obsidian glass. -->
+  <ObsidianDeposits.description>この地域には火山によって形成された鉱床があり,天然ガラスの黒曜石を採掘できます.</ObsidianDeposits.description>
+  
+  <!-- EN: plant grove -->
+  <PlantGrove.label>植生地</PlantGrove.label>
+  <!-- EN: This area contains a large number of {0}. -->
+  <PlantGrove.description>この地域には多くの{0}が生えています.</PlantGrove.description>
+  
+  <!-- EN: decreased plant life -->
+  <PlantLife_Decreased.label>植物が少ない</PlantLife_Decreased.label>
+  <!-- EN: Plant life is less abundant here. -->
+  <PlantLife_Decreased.description>この地域には自生する植物の量が少ないです.</PlantLife_Decreased.description>
+  
+  <!-- EN: increased plant life -->
+  <PlantLife_Increased.label>植物が多い</PlantLife_Increased.label>
+  <!-- EN: Plant life is more abundant here. -->
+  <PlantLife_Increased.description>この地域は自生する植物量が多いです.</PlantLife_Increased.description>
+  
+  <!-- EN: increased pollution -->
+  <Pollution_Increased.label>汚染が大きい</Pollution_Increased.label>
+  <!-- EN: This area is contaminated with toxic pollutants. -->
+  <Pollution_Increased.description>この地域は有害な汚染物質で汚染されています.</Pollution_Increased.description>
+  
+  <!-- EN: high geothermal activity -->
+  <SteamGeysers_Increased.label>地熱活動が多い</SteamGeysers_Increased.label>
+  <!-- EN: Steam geysers are more common in this area. -->
+  <SteamGeysers_Increased.description>この地域には間欠泉がよく見られます.</SteamGeysers_Increased.description>
+  
+  <!-- EN: sunny -->
+  <SunnyMutator.label>晴天</SunnyMutator.label>
+  <!-- EN: Clear weather is much more common here. -->
+  <SunnyMutator.description>この地域は晴れの日が圧倒的に多いです.</SunnyMutator.description>
+  
+  <!-- EN: wet climate -->
+  <WetClimate.label>湿潤な気候</WetClimate.label>
+  <!-- EN: Precipitation is much more common here. -->
+  <WetClimate.description>この地域は降水量が非常に多いです.</WetClimate.description>
+  
+  <!-- EN: wild plants -->
+  <WildPlants.label>野生植物</WildPlants.label>
+  <!-- EN: When warm enough, this area can grow a large number of {0}. -->
+  <WildPlants.description>この地域は十分に暖かくなると,沢山の{0}が育ちます.</WildPlants.description>
+  
+  <!-- EN: wild plants -->
+  <WildTropicalPlants.label>野生の熱帯植物</WildTropicalPlants.label>
+  <!-- EN: This area can grow a large number of {0}s. -->
+  <WildTropicalPlants.description>この地域では沢山の{0}が育ちます.</WildTropicalPlants.description>
+  
+  <!-- EN: windy -->
+  <WindyMutator.label>強風</WindyMutator.label>
+  <!-- EN: Winds are much stronger in this area. -->
+  <WindyMutator.description>この地域の風は非常に強いです.</WindyMutator.description>
+  
+</LanguageData>

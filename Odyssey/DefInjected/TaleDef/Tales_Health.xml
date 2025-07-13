@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacuum exposure revealed -->
+  <VacuumExposureRevealed.label>真空暴露が露見</VacuumExposureRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] being exposed to hard vacuum</li>
+    <li>tale_noun->[PAWN_nameDef] suffering from vacuum exposure</li>
+    <li>image->[PAWN_nameFull] floating away from a ship [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] drifting through space [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] drifting among stars [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] staggering out an airlock [circumstance_group]</li>
+    <li>circumstance_phrase->while [PAWN_possessive] face slowly turns blue</li>
+    <li>circumstance_phrase->while [PAWN_possessive] saliva begins to boil</li>
+    <li>circumstance_phrase->while [PAWN_possessive] body begins to swell</li>
+    <li>circumstance_phrase->while [PAWN_possessive] skin begins to freeze</li>
+    <li>circumstance_phrase->while silently screaming</li>
+    <li>circumstance_phrase->and beginning to lose consciousness</li>
+    <li>circumstance_phrase->and gasping for air</li>
+    <li>desc_sentence->[PAWN_nameDef]'s eyes are turning glassy.</li>
+    <li>desc_sentence->An endless darkness surrounds the subject.</li>
+    <li>desc_sentence->The scene appears to take place in space.</li>
+    <li>desc_sentence->Beneath a shattered helmet are lifeless eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] twisted stars surround the image.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a torn vacsuit.</li>
+    <li>desc_sentence->A [Color] asteroid looms large behind the image.</li>
+    <li>desc_sentence->Behind the image is a large [Color] planet.</li>
+  -->
+  <VacuumExposureRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]が高真空にさらされる</li>
+    <li>tale_noun->[PAWN_nameDef]が真空暴露に苦しむ</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]船から浮かび離れていく</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]宇宙を漂う</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]星の間を漂う</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]エアロックからよろめき出る</li>
+    <li>circumstance_phrase->顔を徐々に青くしながら</li>
+    <li>circumstance_phrase->口から泡を吹きながら</li>
+    <li>circumstance_phrase->体が徐々に膨らむなか</li>
+    <li>circumstance_phrase->肌が徐々に凍り付くなか</li>
+    <li>circumstance_phrase->届かぬ声で叫びながら</li>
+    <li>circumstance_phrase->徐々に意識を失いながら</li>
+    <li>circumstance_phrase->息を求めてあえぎながら</li>
+    <li>desc_sentence->[PAWN_nameDef]の目はガラスのようになっている.</li>
+    <li>desc_sentence>無限に広がる闇が,この場面を取り囲んでいる.</li>
+    <li>desc_sentence>この場面は宇宙で起きているようだ.</li>
+    <li>desc_sentence>壊れたヘルメットの下には,生気のない目がある.</li>
+    <li>desc_sentence>[Quantity_adjphrase]個のねじれた星が,この場面を取り囲んでいる.</li>
+    <li>desc_sentence>[PAWN_nameDef]は破れた真空スーツを着ている.</li>
+    <li>desc_sentence>この場面の後ろでは,大きな[Color]色の小惑星がぼんやりと浮かんでいる.</li>
+    <li>desc_sentence>この場面の後ろには,大きな[Color]色の惑星がある.</li>
+  </VacuumExposureRevealed.rulePack.rulesStrings>
+  
+</LanguageData>

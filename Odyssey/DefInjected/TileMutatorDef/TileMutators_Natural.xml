@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archipelago -->
+  <Archipelago.label>群島</Archipelago.label>
+  <!-- EN: A network of several small islands dotting the coast. -->
+  <Archipelago.description>海岸に点在する,いくつかの小さな島が集まった群島です.</Archipelago.description>
+  
+  <!-- EN: basin -->
+  <Basin.label>盆地</Basin.label>
+  <!-- EN: A natural depression in a mountain range, in which groundwater feeds a small lake. -->
+  <Basin.description>山脈の中にある自然にくぼんだ土地で,地下水によって小さな湖が生まれています.</Basin.description>
+  
+  <!-- EN: bay -->
+  <Bay.label>湾</Bay.label>
+  <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
+  <Bay.description>海岸からの強風を打ち消す役割も果たす,海岸線にある大きな湾入です.</Bay.description>
+  
+  <!-- EN: cave pools -->
+  <CaveLakes.label>洞窟池</CaveLakes.label>
+  <!-- EN: Small bodies of water can be found within caves in this area. -->
+  <CaveLakes.description>この地域の洞窟内には小さな水域があります.</CaveLakes.description>
+  
+  <!-- EN: cavern -->
+  <Cavern.label>大洞窟</Cavern.label>
+  <!-- EN: A network of caves formed by various geological processes. -->
+  <Cavern.description>さまざまな地質過程によって生まれた複数の洞窟が1つに繋がった,大きな洞窟です.</Cavern.description>
+  
+  <!-- EN: chasm -->
+  <Chasm.label>深い裂け目</Chasm.label>
+  <!-- EN: Geological movement has caused deep fissures in this mountain. -->
+  <Chasm.description>この山には地殻変動による深い裂け目が存在します.</Chasm.description>
+  
+  <!-- EN: cliffs -->
+  <Cliffs.label>断崖絶壁</Cliffs.label>
+  <!-- EN: Steep cliffs surround three sides of this area. -->
+  <Cliffs.description>この地域は三方が急な断崖に囲まれています.</Cliffs.description>
+  
+  <!-- EN: coastal atoll -->
+  <CoastalAtoll.label>沿岸環礁</CoastalAtoll.label>
+  <!-- EN: An island surrounding a large lagoon. There's very little land to build on here. -->
+  <CoastalAtoll.description>大きなラグーンができた珊瑚の島です.物を建てられる土地がほとんどありません.</CoastalAtoll.description>
+  
+  <!-- EN: coastal island -->
+  <CoastalIsland.label>沿岸島</CoastalIsland.label>
+  <!-- EN: A large island near the shore. -->
+  <CoastalIsland.description>海岸に近い大きな島です.</CoastalIsland.description>
+  
+  <!-- EN: bay -->
+  <Cove.label>入り江</Cove.label>
+  <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
+  <Cove.description>海岸からの強風を打ち消す役割も果たす,海岸線にある大きな湾入です.</Cove.description>
+  
+  <!-- EN: crevasse -->
+  <Crevasse.label>クレバス</Crevasse.label>
+  <!-- EN: A massive rift created by glacial movement. -->
+  <Crevasse.description>氷河の移動によって作られた巨大な裂け目です.</Crevasse.description>
+  
+  <!-- EN: dry lake -->
+  <DryLake.label>干上がった湖</DryLake.label>
+  <!-- EN: The remains of a former lake. -->
+  <DryLake.description>かつて湖があった場所の跡地です.</DryLake.description>
+  
+  <!-- EN: dunes -->
+  <Dunes.label>砂丘</Dunes.label>
+  <!-- EN: A barren expanse of sand. This area is extremely inhospitable. -->
+  <Dunes.description>一面に広がる不毛の大地です.非常に住みにくい地域です.</Dunes.description>
+  
+  <!-- EN: fertile -->
+  <Fertile.label>肥沃</Fertile.label>
+  <!-- EN: This area contains more fertile soil than normal. -->
+  <Fertile.description>この地域は普通の場所よりも肥えた土が多いです.</Fertile.description>
+  
+  <!-- EN: fjord -->
+  <Fjord.label>フィヨルド</Fjord.label>
+  <!-- EN: A long, narrow sea inlet surrounded by steep terrain. -->
+  <Fjord.description>急な地形に囲まれた,細長い海の入り江です.</Fjord.description>
+  
+  <!-- EN: headwater -->
+  <Headwater.label>源流</Headwater.label>
+  <!-- EN: A river's origin point. -->
+  <Headwater.description>川の源流点です.</Headwater.description>
+  
+  <!-- EN: hollow -->
+  <Hollow.label>窪地</Hollow.label>
+  <!-- EN: A small open area surrounded by cliffs. -->
+  <Hollow.description>崖に囲まれた小さな開けた土地です.</Hollow.description>
+  
+  <!-- EN: hot springs -->
+  <HotSprings.label>温泉</HotSprings.label>
+  <!-- EN: A hot water spring, heated by geothermal activity. -->
+  <HotSprings.description>地熱活動によって熱された温水の泉です.</HotSprings.description>
+  
+  <!-- EN: iceberg -->
+  <Iceberg.label>氷山</Iceberg.label>
+  <!-- EN: A floating mass of ice, detached from the larger ice sheet. -->
+  <Iceberg.description>大きな氷床から分離した,水に浮かぶ氷の塊です.</Iceberg.description>
+  
+  <!-- EN: ice caves -->
+  <IceCaves.label>氷の洞窟</IceCaves.label>
+  <!-- EN: Small cave networks can be found within the ice. -->
+  <IceCaves.description>氷の中の小さな洞窟網です.</IceCaves.description>
+  
+  <!-- EN: ice dunes -->
+  <IceDunes.label>氷の砂丘</IceDunes.label>
+  <!-- EN: Massive rolling hills made from compacted windswept snow. -->
+  <IceDunes.description>雪が風で圧縮された,巨大で緩やかな丘陵です.</IceDunes.description>
+  
+  <!-- EN: lake -->
+  <Lake.label>湖</Lake.label>
+  <!-- EN: A large body of fresh water. -->
+  <Lake.description>大きな淡水の湖です.</Lake.description>
+  
+  <!-- EN: lakeshore -->
+  <Lakeshore.label>湖畔</Lakeshore.label>
+  <!-- EN: This tile borders a lake. -->
+  <Lakeshore.description>湖に隣接した場所です.</Lakeshore.description>
+  
+  <!-- EN: lake with island -->
+  <LakeWithIsland.label>島のある湖</LakeWithIsland.label>
+  <!-- EN: A large body of fresh water encircles one or more islands. -->
+  <LakeWithIsland.description>いくつかの島を取り囲む,大きな淡水の湖があります.</LakeWithIsland.description>
+  
+  <!-- EN: lake with island -->
+  <LakeWithIslands.label>島のある湖</LakeWithIslands.label>
+  <!-- EN: A large body of fresh water encircles one or more islands. -->
+  <LakeWithIslands.description>いくつかの島を取り囲む,大きな淡水の湖があります.</LakeWithIslands.description>
+  
+  <!-- EN: lava caves -->
+  <LavaCaves.label>溶岩洞窟</LavaCaves.label>
+  <!-- EN: Small lava-filled cave networks can be found here. -->
+  <LavaCaves.description>溶岩で満たされた小さな洞窟網が存在します.</LavaCaves.description>
+  
+  <!-- EN: lava lake -->
+  <LavaCrater.label>溶岩湖</LavaCrater.label>
+  <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
+  <LavaCrater.description>火山岩に囲まれた,深さのある溶岩の湖が存在します.</LavaCrater.description>
+  
+  <!-- EN: lava flow -->
+  <LavaFlow.label>溶岩流</LavaFlow.label>
+  <!-- EN: The surrounding landscape routinely funnels large amounts of lava into this area, making it extremely inhospitable. -->
+  <LavaFlow.description>この地域は周囲の地形が原因で定期的に大量の溶岩が流れ込むため,非常に住みにくい環境です.</LavaFlow.description>
+  
+  <!-- EN: lava lake -->
+  <LavaLake.label>溶岩湖</LavaLake.label>
+  <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
+  <LavaLake.description>火山岩に囲まれた,深さのある溶岩の湖が存在します.</LavaLake.description>
+  
+  <!-- EN: marshy -->
+  <Marshy.label>湿地</Marshy.label>
+  <!-- EN: Patches of marsh break up this area. -->
+  <Marshy.description>この地域には湿地が点在しています.</Marshy.description>
+  
+  <!-- EN: mixed biome -->
+  <MixedBiome.label>混合バイオーム</MixedBiome.label>
+  <!-- EN: This area is at the boundary of two distinct biomes and has elements of both. -->
+  <MixedBiome.description>この地域は2つの異なるバイオームの境界にあり,その両方の要素を持っています.</MixedBiome.description>
+  
+  <!-- EN: muddy -->
+  <Muddy.label>泥濘地</Muddy.label>
+  <!-- EN: This area is muddier than normal. -->
+  <Muddy.description>この地域は通常よりも泥が多いです.</Muddy.description>
+  
+  <!-- EN: oasis -->
+  <Oasis.label>オアシス</Oasis.label>
+  <!-- EN: A lush spring featuring abundant plant life and water. -->
+  <Oasis.description>豊かな植物と水を特徴とする緑の湧水地です.</Oasis.description>
+  
+  <!-- EN: peninsula -->
+  <Peninsula.label>半島</Peninsula.label>
+  <!-- EN: An outcropping of land surrounded by ocean. -->
+  <Peninsula.description>海に囲まれた陸地の突き出た部分です.</Peninsula.description>
+  
+  <!-- EN: plateau -->
+  <Plateau.label>台地</Plateau.label>
+  <!-- EN: A small rise with sharp cliffs and a flat top. -->
+  <Plateau.description>鋭い崖と平らな頂上を持つ小高い土地です.</Plateau.description>
+  
+  <!-- EN: pond -->
+  <Pond.label>池</Pond.label>
+  <!-- EN: A small body of fresh water. -->
+  <Pond.description>小さな淡水の池です.</Pond.description>
+  
+  <!-- EN: river confluence -->
+  <RiverConfluence.label>川の合流点</RiverConfluence.label>
+  <!-- EN: A merging of two rivers. -->
+  <RiverConfluence.description>2つの川が合流する場所です.</RiverConfluence.description>
+  
+  <!-- EN: delta -->
+  <RiverDelta.label>三角州</RiverDelta.label>
+  <!-- EN: A river splitting into many branches as it enters the ocean. -->
+  <RiverDelta.description>川が海に入る際に多くの支流に分かれる場所です.</RiverDelta.description>
+  
+  <!-- EN: river island -->
+  <RiverIsland.label>川の島</RiverIsland.label>
+  <!-- EN: A river splitting into two and then merging again. -->
+  <RiverIsland.description>2つに分かれた川が再び合流する場所です.</RiverIsland.description>
+  
+  <!-- EN: sandy -->
+  <Sandy.label>砂地</Sandy.label>
+  <!-- EN: Large patches of sand are scattered throughout this area. -->
+  <Sandy.description>この地域には大きな砂地が点在しています.</Sandy.description>
+  
+  <!-- EN: terraforming scar -->
+  <TerraformingScar.label>テラフォーミングの傷跡</TerraformingScar.label>
+  <!-- EN: A misaligned blast from an ancient terraforming device has warped the earth into serpentine spirals. The area has since recovered, though the twisted and deformed hills remain. -->
+  <TerraformingScar.description>古代のテラフォーミング装置による誤った衝撃波により,大地は蛇のような螺旋状にねじ曲がってしまいました.その後この地域は回復しましたが,ねじれ変形した丘は依然として残っています.</TerraformingScar.description>
+  
+  <!-- EN: toxic lake -->
+  <ToxicLake.label>毒性湖</ToxicLake.label>
+  <!-- EN: A body of water that has been poisoned by chemicals leaching out of the ground. The water will cause toxic buildup. -->
+  <ToxicLake.description>地中から浸出する化学物質によって毒された水域です.この水は毒物の蓄積を引き起こします.</ToxicLake.description>
+  
+  <!-- EN: valley -->
+  <Valley.label>谷</Valley.label>
+  <!-- EN: A steep valley carved through a mountain. -->
+  <Valley.description>山を貫いて刻まれたかのような急な谷です.</Valley.description>
+  
+  <!-- EN: wetland -->
+  <Wetland.label>湿原</Wetland.label>
+  <!-- EN: Large interconnected waterways dominate the area. -->
+  <Wetland.description>いくつかの水路が繋がり,広範囲に広がった水路がこの地域一帯を占めています.</Wetland.description>
+  
+</LanguageData>

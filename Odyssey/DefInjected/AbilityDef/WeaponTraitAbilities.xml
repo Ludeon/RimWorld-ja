@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fire EMP -->
+  <EMPPulse.label>EMPパルスを発射</EMPPulse.label>
+  <!-- EN: Emit a burst of electromagnetic energy centered on the user. The burst will stun nearby mechanical targets like mechanoids or turrets. -->
+  <EMPPulse.description>使用者を中心にEMPパルスを放出します.このエネルギーの爆発は,メカノイドやタレットのような近くの機械的ターゲットをスタンさせます.</EMPPulse.description>
+  
+  <!-- EN: launch EMP shell -->
+  <LaunchEMPShell.label>EMPシェルを発射</LaunchEMPShell.label>
+  <!-- EN: Launch a shell that releases a burst of electromagnetic energy, stunning mechanical targets. Can be reloaded using steel. -->
+  <LaunchEMPShell.description>電磁エネルギーの爆発を起こすシェルを発射し,機械的ターゲットをスタンさせます.スチールを使用して再装填できます.</LaunchEMPShell.description>
+  
+  <!-- EN: launch frag grenade -->
+  <LaunchFragGrenade.label>手榴弾を発射</LaunchFragGrenade.label>
+  <!-- EN: Launch a grenade. Can be reloaded using steel. -->
+  <LaunchFragGrenade.description>手榴弾を発射します.スチールを使用して再装填できます.</LaunchFragGrenade.description>
+  
+  <!-- EN: launch incendiary shell -->
+  <LaunchIncendiaryShell.label>焼夷弾を発射</LaunchIncendiaryShell.label>
+  <!-- EN: Launch a shell that creates an explosion on impact, igniting everything nearby. Can be reloaded using chemfuel. -->
+  <LaunchIncendiaryShell.description>着弾時に爆発を起こし,近くのすべてを燃やす焼夷弾を発射します.液化燃料を使用して再装填できます.</LaunchIncendiaryShell.description>
+  
+  <!-- EN: launch smoke shell -->
+  <LaunchSmokeShell.label>煙幕弾を発射</LaunchSmokeShell.label>
+  <!-- EN: Launch a smoke shell that obscures incoming shots and prevents turrets from locking on. Can be reloaded using steel. -->
+  <LaunchSmokeShell.description>弾丸やタレットのロックオンから身を隠す煙幕弾を発射します.スチールを使用して再装填できます.</LaunchSmokeShell.description>
+  
+</LanguageData>

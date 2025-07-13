@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: terror -->
+  <Terror.label>恐怖</Terror.label>
+  <!-- EN: Mental state: Fleeing in terror -->
+  <Terror.baseInspectLine>精神状態: 恐怖で逃げている</Terror.baseInspectLine>
+  <!-- EN: {0} is fleeing in terror. -->
+  <Terror.beginLetter>{0}は恐怖で逃げています.</Terror.beginLetter>
+  <!-- EN: fleeing in terror -->
+  <Terror.beginLetterLabel>恐怖で逃げている</Terror.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in terror. -->
+  <Terror.recoveryMessage>{0}は恐怖から立ち直った.</Terror.recoveryMessage>
+  
+</LanguageData>

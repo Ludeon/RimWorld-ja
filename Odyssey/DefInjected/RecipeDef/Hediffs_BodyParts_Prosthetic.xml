@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install blood warmer -->
+  <InstallBloodWarmer.label>血液加温器を取り付ける</InstallBloodWarmer.label>
+  <!-- EN: Install blood warmer. -->
+  <InstallBloodWarmer.description>血液加温器を取り付けます.</InstallBloodWarmer.description>
+  <!-- EN: Installing blood warmer. -->
+  <InstallBloodWarmer.jobString>血液加温器を取り付け中</InstallBloodWarmer.jobString>
+  
+  <!-- EN: install pilot assistant -->
+  <InstallPilotAssistant.label>パイロットアシスタントを取り付ける</InstallPilotAssistant.label>
+  <!-- EN: Install a pilot assistant. -->
+  <InstallPilotAssistant.description>パイロットアシスタントを取り付けます.</InstallPilotAssistant.description>
+  <!-- EN: Installing pilot assistant. -->
+  <InstallPilotAssistant.jobString>パイロットアシスタントを取り付け中</InstallPilotAssistant.jobString>
+  
+  <!-- EN: remove pilot assistant -->
+  <RemovePilotAssistant.label>パイロットアシスタントを取り外す</RemovePilotAssistant.label>
+  <!-- EN: Remove pilot assistant. -->
+  <RemovePilotAssistant.description>パイロットアシスタントを取り外します.</RemovePilotAssistant.description>
+  <!-- EN: Removing pilot assistant. -->
+  <RemovePilotAssistant.jobString>パイロットアシスタントを取り外し中</RemovePilotAssistant.jobString>
+  
+</LanguageData>

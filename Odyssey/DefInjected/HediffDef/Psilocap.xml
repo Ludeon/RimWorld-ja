@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psilocap hallucinations -->
+  <PsilocapHigh.label>サイロキャップの幻覚</PsilocapHigh.label>
+  <!-- EN: Chemicals from psilocap spores, possibly inhaled from the air, are causing this person to experience subtle hallucinations that distort their perception of reality. -->
+  <PsilocapHigh.description>サイロキャップの胞子に含まれる化学物質を,恐らく空気を介して吸引したため,この人物は現実の認識力が歪み,不思議な幻覚を引き起こしています.</PsilocapHigh.description>
+  <!-- EN: minor -->
+  <PsilocapHigh.stages.minor.label>軽度</PsilocapHigh.stages.minor.label>
+  <!-- EN: moderate -->
+  <PsilocapHigh.stages.moderate.label>中度</PsilocapHigh.stages.moderate.label>
+  <!-- EN: extreme -->
+  <PsilocapHigh.stages.extreme.label>重度</PsilocapHigh.stages.extreme.label>
+  
+  <!-- EN: psilocap tolerance -->
+  <PsilocapTolerance.label>サイロキャップ耐性</PsilocapTolerance.label>
+  <!-- EN: An acquired tolerance to psilocap. The more severe this tolerance is, the more psilocap it takes to get the same effect. -->
+  <PsilocapTolerance.description>サイロキャップに対する耐性です.この耐性が大きいほど,同じ効果を得るために必要なサイロキャップの量が増えます.</PsilocapTolerance.description>
+  <!-- EN: small -->
+  <PsilocapTolerance.stages.small.label>小</PsilocapTolerance.stages.small.label>
+  <!-- EN: large -->
+  <PsilocapTolerance.stages.large.label>大</PsilocapTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsilocapTolerance.stages.massive.label>極大</PsilocapTolerance.stages.massive.label>
+  
+</LanguageData>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioluminescent spores -->
+  <BioluminescentSpores.label>胞子の生物発光</BioluminescentSpores.label>
+  <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores are strangely beautiful and pose no danger. -->
+  <BioluminescentSpores.description>何らかの菌類が成長し,発光する胞子を放出しています!この不思議な胞子は美しく,危険性もありません.</BioluminescentSpores.description>
+  <!-- EN: The bioluminescent spores are subsiding. -->
+  <BioluminescentSpores.endMessage>胞子の生物発光は収まった.</BioluminescentSpores.endMessage>
+  <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores pose no danger, and the shimmering visuals will brighten the mood of anyone who sees them. -->
+  <BioluminescentSpores.letterText>何らかの菌類が成長し,発光する胞子を放出しています!この胞子に危険性はなく,そのきらめく光景は見る人の気分を明るくします.</BioluminescentSpores.letterText>
+  
+  <!-- EN: darkened skies -->
+  <DarkenedSkies.label>暗い空</DarkenedSkies.label>
+  <!-- EN: Thick black clouds are blocking out the sky and sun. -->
+  <DarkenedSkies.description>黒色の厚い雲が空と太陽を遮っています.</DarkenedSkies.description>
+  
+  <!-- EN: deep freeze -->
+  <DeepFreeze.label>凍結の寒波</DeepFreeze.label>
+  <!-- EN: An ancient, mysterious device is dramatically lowering temperatures in the area. -->
+  <DeepFreeze.description>古代の神秘的な装置がこの地域の気温を劇的に下げています.</DeepFreeze.description>
+  <!-- EN: The deep freeze is lifting. -->
+  <DeepFreeze.endMessage>凍結の寒波は解除された.</DeepFreeze.endMessage>
+  
+  <!-- EN: drought -->
+  <Drought.label>干ばつ</Drought.label>
+  <!-- EN: A prolonged period of low rainfall. Plants will grow slower during a drought. -->
+  <Drought.description>長期にわたって降水量が減ります.干ばつの間,植物の成長が遅くなります.</Drought.description>
+  <!-- EN: The drought is over. -->
+  <Drought.endMessage>干ばつは収まった.</Drought.endMessage>
+  <!-- EN: Due to a recent lack of rain, a drought has begun. Outdoor plants will grow significantly slower. -->
+  <Drought.letterText>最近の雨の量が少なかったことが原因で,干ばつが始まりました.屋外の植物は著しく成長が遅れます.</Drought.letterText>
+  
+  <!-- EN: initial drought conditions -->
+  <DroughtInitial.label>干ばつ初期状態</DroughtInitial.label>
+  <!-- EN: The initial signs of a drought. If it continues, a full drought will occur. -->
+  <DroughtInitial.description>干ばつの初期兆候が表れています.これが続くと,完全な干ばつが発生します.</DroughtInitial.description>
+  
+  <!-- EN: gill rot -->
+  <GillRot.label>えら腐敗菌</GillRot.label>
+  <!-- EN: Fish populations are slowly declining due to a parasitic fungus known as gill rot. The fungus is harmless to people. -->
+  <GillRot.description>えら腐敗菌と呼ばれる寄生菌によって,魚の数がゆっくりと減少しています.この菌は人間には無害です.</GillRot.description>
+  <!-- EN: Gill rot is ending. -->
+  <GillRot.endMessage>えら腐敗菌の蔓延は収まった.</GillRot.endMessage>
+  <!-- EN: A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive. -->
+  <GillRot.letterText>えら腐敗菌と呼ばれる寄生菌が付近に住む魚の群から発生しました.この菌は人間には無害ですが,しばらくの間,魚の個体数を着実に減少させます.\n\n魚の個体数が少ないと漁獲量が減少します.</GillRot.letterText>
+  
+  <!-- EN: heat vent emissions -->
+  <HeatVentHeat.label>熱口排出</HeatVentHeat.label>
+  <!-- EN: Heat from a nearby underground vent is raising the temperature in the area. -->
+  <HeatVentHeat.description>地下にある熱風口から熱が排出され,この地域の気温が上昇しています.</HeatVentHeat.description>
+  
+  <!-- EN: lava flow -->
+  <LavaFlow.label>溶岩流</LavaFlow.label>
+  <!-- EN: Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way! -->
+  <LavaFlow.description>溶岩がこの地域に流れ込み始めました.溶岩は低地の火山岩に流れ込みますが,それ以外の地域には影響を与えません.入植者を危険から遠ざけましょう!</LavaFlow.description>
+  
+  <!-- EN: volcanic ash -->
+  <VolcanicAsh.label>火山灰</VolcanicAsh.label>
+  <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
+  <VolcanicAsh.description>近くで発生した火山噴火によって,灰が空を満たしています.太陽が遮られ,刺激臭の漂う空気が肺を焼きつけます.この雲は数日間続くでしょう.</VolcanicAsh.description>
+  <!-- EN: a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe -->
+  <VolcanicAsh.descriptionFuture>近くで発生した噴火が[map_definite]に灰の雲を送り込み,[gameConditionDuration_duration]の間,空が暗くなり呼吸がしにくくなります.</VolcanicAsh.descriptionFuture>
+  <!-- EN: Most of the ash has settled. -->
+  <VolcanicAsh.endMessage>ほとんどの火山灰は落ち着いてきた.</VolcanicAsh.endMessage>
+  <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
+  <VolcanicAsh.letterText>近くで発生した火山噴火によって,灰が空を満たしています.太陽が遮られ,刺激臭の漂う空気が肺を焼きつけます.この雲は数日間続くでしょう.</VolcanicAsh.letterText>
+  
+  <!-- EN: volcanic debris -->
+  <VolcanicDebris.label>火山噴火</VolcanicDebris.label>
+  <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
+  <VolcanicDebris.description>近くで火山が噴火し,この地域へ溶岩を降らせています!</VolcanicDebris.description>
+  <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
+  <VolcanicDebris.letterText>近くで火山が噴火し,この地域へ溶岩を降らせています!</VolcanicDebris.letterText>
+  
+  <!-- EN: windy -->
+  <WindyGameCondition.label>強風</WindyGameCondition.label>
+  <!-- EN: Winds are much stronger in this area. -->
+  <WindyGameCondition.description>この地域では非常に強い風が吹きます.</WindyGameCondition.description>
+  
+</LanguageData>

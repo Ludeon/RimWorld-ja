@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <Nomadic_Preferred.label>望ましい</Nomadic_Preferred.label>
+  <!-- EN: Staying in one place makes us weak. Travel makes us strong. -->
+  <Nomadic_Preferred.description>同じ場所に留まることは我々を弱くする.旅をすることで我々は強くなる.</Nomadic_Preferred.description>
+  <!-- EN: Last resettled {DURATION} ago -->
+  <Nomadic_Preferred.comps.0.description>最後の再定住から{DURATION}経過</Nomadic_Preferred.comps.0.description>
+  <!-- EN: Just resettled -->
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>再定住したばかり</Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Resettled recently -->
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>最近再定住した</Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Need to move soon -->
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>すぐに移動する必要がある</Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Must move soon -->
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>すぐに移動しなければならない</Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>
+  
+</LanguageData>

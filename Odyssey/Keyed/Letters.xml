@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {FACTION_pawnsPlural} from {FACTION_name} are attacking! They've used the gravcore to lure you into an ambush. -->
+  <GravcoreAbandonedSettlementRaid>{FACTION_name}の{FACTION_pawnsPlural}が襲撃してきています!彼らは重力コアを利用して待ち伏せしていたようです.</GravcoreAbandonedSettlementRaid>
+  <!-- EN: More reinforcements are on their way, and will arrive in the next few days. Prepare for their attack, or escape before they arrive. -->
+  <GravcoreAbandonedSettlementRaid_Reinforcements>さらなる増援が向かっており,数日以内に到着します.彼らの攻撃に備えるか,到着前に逃げてください.</GravcoreAbandonedSettlementRaid_Reinforcements>
+  
+  <!-- EN: Relay defense response -->
+  <GravcoreMechRelayRaidLetterLabel>リレーの防衛反応</GravcoreMechRelayRaidLetterLabel>
+  <!-- EN: Mechanoids are arriving to defend the relay!\n\nThey are arriving by transport pod and will attack immediately. -->
+  <GravcoreMechRelayRaidLetterText>メカノイドがリレーを防衛するために移動しています!\n\n彼らは輸送ポッドで到着し,すぐに攻撃を開始するでしょう.</GravcoreMechRelayRaidLetterText>
+  
+  <!-- EN: Amongst the remnants of the crashed mechanoid platform, a still-intact grav engine hums with energy.\n\nYou can build gravship substructure around the engine to create a new gravship. The engine pushes against gravity, levitating the ship and allowing long-distance travel.\n\nLaunch a gravship by researching basic gravtech, then building fuel tanks, thrusters, and a pilot console.\n\nLaunching a gravship will abandon your current map unless you build a grav anchor first.\n\n  - Research unlocked: Basic gravtech\n  - Flooring unlocked: Gravship substructure -->
+  <GravEngineInspectedLetterContents>墜落したメカノイドプラットフォームの残骸の中には,無傷の重力エンジンが残っていました.\n\nこのエンジンの周りにグラヴシップの土台を築くことで,新しいグラヴシップを建造できます.エンジンは重力に逆らって船を浮かび上がらせることができ,長距離移動を可能にします.\n\n重力技術基礎を研究すると,燃料タンク,スラスター,及びパイロットコンソールを建築してグラヴシップを発射できるようになります.\n\nまた,重力アンカーを建築せずにグラヴシップを発射すると,現在のマップは放棄されます.\n\n  - 研究解放: 重力技術 基礎\n  - 床材解放: グラヴシップの土台</GravEngineInspectedLetterContents>
+  <!-- EN: View quest -->
+  <ViewQuest>クエストを確認</ViewQuest>
+  
+  <!-- Asteroid -->
+  <!-- EN: {RESOURCE} asteroid -->
+  <AsteroidLetter>{RESOURCE}小惑星</AsteroidLetter> 
+  <!-- EN: You've discovered the location of an asteroid orbiting the planet. It contains significant amounts of {RESOURCE}, and potentially other resources.\n\nOrbital miners steer valuable asteroids into planetary orbit so that they can be easily mined and sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. -->
+  <AsteroidLetterText>あなたはこの惑星を周回する小惑星の位置を発見しました.そこには大量の{RESOURCE}が存在し,他の資源も残っている可能性があります.\n\n軌道鉱夫たちは貴重な小惑星を惑星軌道上まで移動させ,簡単に採掘し,商船に売ることができます.この小惑星から生命の兆候が検出されていません.\n\n輸送ポッド,シャトル,またはグラヴシップで小惑星に移動できます.</AsteroidLetterText>
+
+  <!-- EN: {RESOURCE} asteroid -->
+  <AsteroidName>{RESOURCE}小惑星</AsteroidName>
+
+  <!-- Ancient Reactor -->
+  <!-- EN: Ancient reactor -->
+  <AncientReactorArrivedLetter>古代の反応炉</AncientReactorArrivedLetter>
+  <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is damaged and leaking, covering the region in toxic fallout. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
+  <AncientReactorArrivedLetterText>近くの遺跡内には古代の反応炉が隠されています.反応炉は損傷し,漏れており,この地域を死の灰で覆っています.反応炉を見つけて停止させれば,重力コアを入手して降下物を止められます.</AncientReactorArrivedLetterText>
+
+  <!-- Frozen Terraformer -->
+  <!-- EN: Ancient terraformer -->
+  <FrozenTerraformerArrivedLetter>古代のテラフォーマー</FrozenTerraformerArrivedLetter>
+  <!-- EN: The malfunctioning terraformer has encased itself in solid ice. The gravcore energy signal is coming from somewhere within. Find and destroy the terraformer to obtain the gravcore. -->
+  <FrozenTerraformerArrivedLetterText>故障しているテラフォーマーが硬氷に覆われています.重力コアのエネルギー信号はこの中のどこかから発信されているようです.テラフォーマーを見つけて破壊し,重力コアを入手してください.</FrozenTerraformerArrivedLetterText>
+
+  <!-- Ancient Stockpile -->
+  <!-- EN: Ancient stockpile -->
+  <AncientStockpileArrivedLetter>古代の貯蔵庫</AncientStockpileArrivedLetter>
+  <!-- EN: The gravcore energy signal is coming from one of the nearby underground stockpiles. Hack the entrances and search the stockpiles to find the gravcore.\n\nBe careful, some of the defense systems may still be active. -->
+  <AncientStockpileArrivedLetterText>重力コアのエネルギー信号が近くの地下貯蔵庫のひとつから発信されています.入口をハッキングして貯蔵庫を調べ,重力コアを見つけてください.\n\n注意してください,一部の防御システムがまだ作動中かもしれません.</AncientStockpileArrivedLetterText>
+
+  <!-- Orbital Mechanoid Platform -->
+  <!-- EN: Mechanoid platform -->
+  <OrbitalMechanoidPlatformLetterArrived>メカノイドプラットフォーム</OrbitalMechanoidPlatformLetterArrived>
+  <!-- EN: This orbital platform is built to service and deploy combat mechanoids, likely as part of some ancient planet-spanning war machine.\n\nThe gravcore signal is coming from somewhere within. -->
+  <OrbitalMechanoidPlatformLetterArrivedText>この軌道プラットフォームは戦闘メカノイドを整備および配備するために建てられており,おそらく古代の,惑星をまたぐ戦争機器の一部です.\n\n重力コアの信号は内部のどこかから発信されているようです.</OrbitalMechanoidPlatformLetterArrivedText>
+
+  <!-- Orbital Ancient Platform -->
+  <!-- EN: Ancient platform -->
+  <OrbitalAncientPlatformLetterArrived>古代のプラットフォーム</OrbitalAncientPlatformLetterArrived>
+  <!-- EN: The people who once inhabited this orbital platform are long gone and its original purpose has long been forgotten.\n\nThe gravcore signal is coming from somewhere within. -->
+  <OrbitalAncientPlatformLetterArrivedText>かつてこの軌道プラットフォームに住んでいた人々はすでにいなくなり,本来の目的も遠い昔に忘れ去られています.\n\n重力コアの信号は内部のどこかから発信されているようです.</OrbitalAncientPlatformLetterArrivedText>
+  
+  <!-- Ancient Reactor -->
+  <!-- EN: Crashed mechanoid platform -->
+  <CrashedPlatformArrivedLetter>墜落したメカノイドプラットフォーム</CrashedPlatformArrivedLetter>
+  <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
+  <CrashedPlatformArrivedLetterText>軌道プラットフォームの残骸が近くに散らばっています.注意してください,残骸の中には敵対的なメカノイドが存在します.\n\n重力コアの信号は墜落現場のどこかから発信されているようです.</CrashedPlatformArrivedLetterText>
+
+  <!-- Lava Incidents-->
+  <!-- EN: Lava emergence -->
+  <LetterLabelLavaEmergence>溶岩の発生</LetterLabelLavaEmergence>
+  <!-- EN: Lava is emerging from cracks in the ground! It'll continue to pool until it creates a small lake. It will then take several days to cool, after which it can be removed. -->
+  <LetterLavaEmergence>地面の亀裂から溶岩が出現しています!この溶岩は溜まり続け,小さな湖を作るでしょう.溶岩が冷えるのには数日かかり,冷えた後であれば取り除くことができます.</LetterLavaEmergence>
+  <!-- EN: Lava flow -->
+  <LetterLabelLavaFlow>溶岩流</LetterLabelLavaFlow>
+  <!-- EN: Lava has begun to pour into the region, flooding the low-lying volcanic rock. Keep your colonists out of harm's way! -->
+  <LetterLavaFlow>溶岩がこの地域に流れ込み始め,低地の火山岩が浸水しています.入植者を安全な場所に避難させましょう!</LetterLavaFlow>
+
+  <!-- Seasonal Flooding -->
+  <!-- EN: Seasonal flooding -->
+  <LetterLabelSeasonalFlooding>季節的な洪水</LetterLabelSeasonalFlooding>
+  <!-- EN: Rainfall upriver is causing the river to swell. The flooding will subside after several days. -->
+  <LetterSeasonalFlooding>上流での降雨によって川の水位が上昇しています.洪水は数日後に収まるでしょう.</LetterSeasonalFlooding>
+  <!-- EN: Low temperatures have begun to freeze the river. Flooding is subsiding. -->
+  <MessageSeasonalFloodingFrozen>気温の低さが原因で,川が凍り始めました.洪水はおさまりつつあります.</MessageSeasonalFloodingFrozen>
+  <!-- EN: Flooding is subsiding. -->
+  <MessageFloodingSubsiding>洪水はおさまりつつあります.</MessageFloodingSubsiding>
+
+  <!-- Fishing -->
+  <!-- EN: Rare catch -->
+  <LetterLabelRareCatch>珍しい釣果</LetterLabelRareCatch>
+  <!-- EN: While fishing, {PAWN_nameDef} made an unusual catch -->
+  <LetterTextRareCatch>{PAWN_nameDef}は釣りの最中,珍しいものを釣り上げた</LetterTextRareCatch>
+
+  <!-- Pursuing Mechanoids -->
+  <!-- EN: Incoming mechanoids -->
+  <LetterLabelMechanoidThreat>迫り来るメカノイド</LetterLabelMechanoidThreat>
+  <!-- EN: The mechhive's scanning process is close to determining your location. When it locates your gravship, it will send a massive mechanoid force to kill you.\n\nGather your supplies, then flee the map by selecting the pilot console, and selecting launch. -->
+  <LetterTextMechanoidThreat>メカハイブのスキャンプロセスがこの場所を特定しようとしています.グラヴシップの場所が特定されると,皆殺しにするために大量のメカノイド部隊が送り込まれます.\n\n物資を集め,パイロットコンソールを選択し,発射を選択してマップから逃げましょう.</LetterTextMechanoidThreat>
+
+  <!-- Mechhive -->
+  <!-- EN: Mechhive signal -->
+  <LetterLabelMechhiveWarning>メカハイブシグナル</LetterLabelMechhiveWarning>
+  <!-- EN: You have detected a massive gravtech energy reading indicating that the mechhive is hidden somewhere in orbit. If you could find it, you could shut it down - or make use of its power.\n\nMechhives are production-and-control platforms that birth mechanoids and coordinate their actions around the planet. They're powered by a persona core.\n\nCollect more gravship technology to track down the mechhive's location. -->
+  <LetterTextMechhiveWarning>メカハイブが軌道上のどこかに隠れていることを指し示す,重力技術を用いた巨大なエネルギー信号が検出されました.この場所を見つけることができれば,完全に機能を停止させるか,その力を利用することができます.\n\nメカハイブはメカノイドを生み出し,惑星上での行動を調整する生産・制御プラットフォームです.それらはAI人格コアによって動力を供給されています.\n\nメカハイブの場所を追跡するためには,さらに多くのグラヴシップ技術を収集する必要があります.</LetterTextMechhiveWarning>
+
+  <!-- EN: Cerebrex core -->
+  <OrbitalMechhiveLetterArrived>セレブレックス・コア</OrbitalMechhiveLetterArrived>
+  <!-- EN: At the center of the orbital platform sits a massive mechanoid structure made of hair-fine ultratech filaments supporting an AI persona core. This is the intelligence core of the mechhive that directs mechanoids all over the planet.\n\nThe structure is protected by nearby stabilizers, making it nearly invulnerable. Find and destroy the cerebrex stabilizers to lower the core's defenses. -->
+  <OrbitalMechhiveLetterArrivedText>軌道プラットフォームの中心には,細い線状のウルトラテック製巨大メカノイド建造物が建っており,それがAI人格コアを支えているようです.これは,惑星全体のメカノイドを指揮するメカハイブの知性核です.\n\nその構造は近くのスタビライザーによって保護されており,ほぼ無敵です.セレブレックス・スタビライザーを見つけて破壊し,コアの防衛機能を下げてください.</OrbitalMechhiveLetterArrivedText>
+
+  <!-- EN: Mechanoid assault -->
+  <MechhiveRaidLetterLabel>メカノイドの攻勢</MechhiveRaidLetterLabel>
+  <!-- EN: The cerebrex core is sending mechanoids to attack you. Get ready! -->
+  <MechhiveRaidLetterText>セレブレックス・コアがメカノイドを送り込んで襲撃します.準備をしてください!</MechhiveRaidLetterText>
+
+  <!-- EN: Defense response -->
+  <MechhiveDefenseResponseLetterLabel>防衛反応</MechhiveDefenseResponseLetterLabel>
+  <!-- EN: The mechanoid hive has summoned mechanoid reinforcements to defend itself. They are arriving by transport pod and will attack immediately! -->
+  <MechhiveDefenseResponseLetterText>メカノイドハイブが自己防衛のためにメカノイドの増援を呼びました.彼らは輸送ポッドで到着し,すぐに攻撃を開始するでしょう!</MechhiveDefenseResponseLetterText>
+
+  <!-- EN: Cerebrex core -->
+  <CerebrexCoreLoweredLetterLabel>セレブレックス・コア</CerebrexCoreLoweredLetterLabel>
+  <!-- EN: By destroying the stabilizers, you've lowered the cerebrex core's defenses. Send a colonist to inspect the core. -->
+  <CerebrexCoreLoweredLetterText>スタビライザーを破壊することにより,セレブレックス・コアの防衛機能が低下しました.入植者を送ってコアを調査してください.</CerebrexCoreLoweredLetterText>
+
+  <!-- EN: Mechanoids deactivated -->
+  <CerebrexCoreDestroyedLetterLabel>メカノイド無効化</CerebrexCoreDestroyedLetterLabel>
+  <!-- EN: By destroying the cerebrex core, {PAWN_nameDef} has deactivated mechanoids across the planet.\n\nThe mechanoid threat is over. -->
+  <CerebrexCoreDestroyedLetterText>セレブレックス・コアを破壊することにより,{PAWN_nameDef}は惑星全体のメカノイドを無効化しました.\n\nメカノイドの脅威は終わりを迎えました.</CerebrexCoreDestroyedLetterText>
+
+  <!-- EN: Cerebrex node -->
+  <CerebrexCoreScavengedLetterLabel>セレブレックスノード</CerebrexCoreScavengedLetterLabel>
+  <!-- EN: The scavenged node from the cerebrex core lies nearby. It responds strongly to the core, clearly still linked to it.\n\nEquip the node to a colonist to make use of it. -->
+  <CerebrexCoreScavengedLetterText>セレブレックス・コアから回収されたノードがそばに残っています.ノードはコアに強い反応を示しており,明らかにまだ繋がりを持っているようです.\n\n入植者に装備させることでノードを使用できます.</CerebrexCoreScavengedLetterText>
+
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelGravshipEnteredEnemyBase>攻撃開始</LetterLabelGravshipEnteredEnemyBase>
+  <!-- EN: Your gravship has landed at {0} and is ready to begin the attack. -->
+  <LetterGravshipEnteredEnemyBase>グラヴシップは{0}に着陸し,攻撃を開始する準備が整いました.</LetterGravshipEnteredEnemyBase>
+  
+  <!-- Survey Scanner -->
+  <!-- EN: Surveying scanner -->
+  <LetterLabelSurveyScannerArrived>測量スキャナー</LetterLabelSurveyScannerArrived>
+  <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
+  <LetterSurveyScannerArrived>スキャナーがエリアの測量を終了するまで防衛してください.{DURATION}の間,守り続けましょう.</LetterSurveyScannerArrived>
+
+  <!-- EN: Insect lair -->
+  <EnteredMegahiveLabel>虫の巣穴</EnteredMegahiveLabel>
+  <!-- EN: {PAWN_nameDef} has arrived in the depths of a massive underground insect lair. The air is heavy with the stench of insect secretions. -->
+  <EnteredMegahiveText>{PAWN_nameDef}は地下にある巨大な巣穴の奥深くに到着しました.辺りの空気は虫の分泌物による悪臭で満ちています.</EnteredMegahiveText>
+  <!-- EN: The gravcore signal is coming from somewhere behind the burrow walls. Attack the burrow walls to explore further. -->
+  <EnteredMegahiveGravcoreExtra>重力コアの信号が巣穴の壁の奥から発信されています.巣穴の壁を攻撃してさらに探索しましょう.</EnteredMegahiveGravcoreExtra>
+
+</LanguageData>

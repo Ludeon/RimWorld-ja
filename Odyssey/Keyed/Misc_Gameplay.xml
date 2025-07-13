@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Gravship -->
+  <!-- EN: Gravship -->
+  <Gravship>グラヴシップ</Gravship>
+  <!-- EN: no grav engine -->
+  <CannotLaunchNoEngine>重力エンジンがない</CannotLaunchNoEngine>
+  <!-- EN: not enough fuel -->
+  <CannotLaunchNotEnoughFuel>燃料が足りない</CannotLaunchNotEnoughFuel>
+  <!-- EN: Cannot reach this destination -->
+  <CannotLaunchDestination>この目的地には到達できません</CannotLaunchDestination>
+  <!-- EN: Cannot land on the same tile -->
+  <CannotLandOnSameTile>同じ場所には着陸できない</CannotLandOnSameTile>
+  <!-- EN: Connected substructure -->
+  <ConnectedSubstructure>接続された土台</ConnectedSubstructure>
+  <!-- EN: Substructure blueprints placed -->
+  <SubstructureBlueprintsCount>土台の設計図が配置されました</SubstructureBlueprintsCount>
+  <!-- EN: not connected to grav engine -->
+  <CannotLaunchDisconnected>重力エンジンに接続されていない</CannotLaunchDisconnected>
+  <!-- EN: no substructure -->
+  <CannotLaunchNoSubstructure>土台がない</CannotLaunchNoSubstructure>
+  <!-- EN: no unblocked functioning thrusters -->
+  <CannotLaunchNoThrusters>機能するスラスターが妨げられていない</CannotLaunchNoThrusters>
+  <!-- EN: engine cooldown: {0} -->
+  <CannotLaunchOnCooldown>エンジン冷却: {0}</CannotLaunchOnCooldown>
+  <!-- EN: Choose where to land -->
+  <ChooseWhereToLand>着陸地点を選択</ChooseWhereToLand>
+  <!-- EN: Send a colonist to inspect this. -->
+  <GravEngineNotInspected>入植者を送って調査します.</GravEngineNotInspected>
+  <!-- EN: Choose who should inspect {0_definite} -->
+  <ChooseWhoShouldInspect>{0_definite}を調査する人を選択</ChooseWhoShouldInspect>
+  <!-- EN: Cannot launch gravship -->
+  <CannotPilotGravship>グラヴシップを発進できない</CannotPilotGravship>
+  <!-- EN: Launch gravship -->
+  <PilotGravship>グラヴシップを発進</PilotGravship>
+  <!-- EN: {0} {1_label} -->
+  <FuelAmount>{0} {1_label}</FuelAmount>
+  <!-- EN: gravship name -->
+  <GravshipName>グラヴシップの名前</GravshipName>
+  <!-- EN: gravship range -->
+  <GravshipRange>グラヴシップの範囲</GravshipRange>
+  <!-- EN: stored chemfuel -->
+  <StoredChemfuel>燃料貯蔵量</StoredChemfuel>
+  <!-- EN: thruster blocked -->
+  <ThrusterBlocked>スラスターが塞がれています</ThrusterBlocked>
+  <!-- EN: fuel consumption -->
+  <FuelConsumption>燃料消費量</FuelConsumption>
+  <!-- EN: {0} chemfuel per tile -->
+  <FuelPerTile>バイオ液化燃料x{0}(1タイル毎)</FuelPerTile>
+  <!-- EN: Heavy weapons systems: Requires signal jammer to approach -->
+  <RequiresSignalJammer>重火器システム: 接近にはシグナルジャマーが必要</RequiresSignalJammer>
+  <!-- EN: {0} landing site -->
+  <GravshipLandingSite>{0}の着陸地点</GravshipLandingSite>
+  <!-- EN: Confirm landing area -->
+  <ConfirmLandingArea>着陸ゾーンを確認</ConfirmLandingArea>
+  <!-- EN: Blocked by {0_label} -->
+  <GravshipBlockedBy>{0_label}でブロックされている</GravshipBlockedBy>
+  <!-- EN: Can't place in undiscovered area -->
+  <GravshipBlockedByFog>未知のエリアには配置できない</GravshipBlockedByFog>
+  <!-- EN: Blocked by roof -->
+  <GravshipBlockedByRoof>屋根でブロックされている</GravshipBlockedByRoof> <!-- text_todo -->
+  <!-- EN: Can't place outside map bounds -->
+  <GravshipOutOfBounds>マップの範囲外には配置できない</GravshipOutOfBounds>
+  <!-- EN: Can't place close to the map edge -->
+  <GravshipInNoBuildArea>マップの端に近くには配置できない</GravshipInNoBuildArea>
+  <!-- EN: Can't place in blocked area -->
+  <GravshipInBlockedArea>ブロックされたエリアには配置できない</GravshipInBlockedArea>
+  <!-- EN: Can't place on {0_label} -->
+  <GravshipBlockedByTerrain>{0_label}の上には配置できない</GravshipBlockedByTerrain>
+  <!-- EN: Must be connected to solid ground -->
+  <GravshipMustBeConnectedToLand>固い地面に配置する必要がある</GravshipMustBeConnectedToLand>
+  <!-- EN: Confirm landing zone to continue -->
+  <ConfirmLandingToContinue>続行するには着陸ゾーンを確認</ConfirmLandingToContinue>
+  <!-- EN: a valid pilot console -->
+  <RitualTargetPilotConsole>有効なパイロットコンソール</RitualTargetPilotConsole>
+  <!-- EN: Based on the gravship's launch, there was a {0_percentage} chance of a negative outcome. -->
+  <GravshipOutcomeChanceLetterExtra>グラヴシップ発進時の品質に基づき,発生確率{0_percentage}の悪い結果が起きました.</GravshipOutcomeChanceLetterExtra>
+  <!-- EN: The following thrusters were affected -->
+  <ThrustersBrokeDown>次のスラスターが影響を受けました</ThrustersBrokeDown>
+  <!-- EN: No path to gravship -->
+  <NoPathToGravship>グラヴシップへの経路がない</NoPathToGravship>
+  <!-- EN: No path to pilot console -->
+  <NoPathToPilotConsole>パイロットコンソールへの経路がない</NoPathToPilotConsole>
+  <!-- EN: Pilot console is not accessible from gravship -->
+  <PilotConsoleInaccessible>グラヴシップからパイロットコンソールまでアクセスできない</PilotConsoleInaccessible>
+  <!-- EN: Launch date -->
+  <LaunchDate>発進日</LaunchDate>
+  <!-- EN: Warning: {0} will be blocked by {1}. -->
+  <WarningThrusterBlocked>警告: {0}は{1}に妨げられています.</WarningThrusterBlocked>
+  <!-- EN: Warning: {0} will be blocked due to being indoors. -->
+  <WarningThrusterInside>警告: 屋内の{0}は機能しません.</WarningThrusterInside>
+  <!-- EN: Max per gravship -->
+  <GravFacilityMaxSimultaneousConnections>船に接続可能な最大数</GravFacilityMaxSimultaneousConnections>
+  <!-- EN: Not connected to gravship -->
+  <ShieldNotConnectedToGravship>グラヴシップに接続されていない</ShieldNotConnectedToGravship>
+  <!-- EN: Gravship launch called off -->
+  <GravshipLaunchInterrupted>グラヴシップの発進が中止された</GravshipLaunchInterrupted>
+  <!-- EN: Not connected to grav engine. -->
+  <NotConnectedToGravEngine>重力エンジンに接続されていない.</NotConnectedToGravEngine>
+  <!-- EN: Not functional -->
+  <ThrusterNotFunctional>機能していない</ThrusterNotFunctional>
+  <!-- EN: not connected to grav engine -->
+  <ThrusterNotConnected>重力エンジンに接続されていない</ThrusterNotConnected>
+  <!-- EN: blocked by {0_label} -->
+  <ThrusterBlockedBy>{0_label}に妨げられている</ThrusterBlockedBy>
+  <!-- EN: must be outside -->
+  <MustBeOutside>屋外である必要がある</MustBeOutside>
+  <!-- EN: blocked by substructure -->
+  <BlockedBySubstructure>土台に妨げられている</BlockedBySubstructure>
+
+  <!-- Map generation -->
+  <!-- EN: Landmark -->
+  <Landmark>ランドマーク</Landmark>
+  <!-- EN: {ANIMALKIND_label} habitat -->
+  <AnimalHabitat>{ANIMALKIND_label}の生息地</AnimalHabitat>
+  <!-- EN: {0} grove -->
+  <PlantGrove>{0}の木立</PlantGrove>
+  <!-- EN: {0} -->
+  <WildPlants>{0}</WildPlants>
+  <!-- EN: {MINERAL_label} rich -->
+  <MineralRich>豊富な{MINERAL_label}</MineralRich>
+  <!-- EN: This area has more {MINERAL_label} deposits than normal. -->
+  <MineralRichDescription>この地域には普通よりも多くの{MINERAL_label}鉱床があります.</MineralRichDescription>
+
+  <!-- Insect Lair -->
+  <!-- EN: Cave entrance -->
+  <CaveEntranceLetter>洞窟の入口</CaveEntranceLetter>
+  <!-- EN: The gravcore energy signature is coming from a nearby cave network. The entrance is guarded by insect hives.\n\nExplore the cave network to find the gravcore. -->
+  <CaveEntranceLetterText>近くの洞窟網から重力コアのエネルギー信号が発信されています.入口は虫の巣によって守られています.\n\n洞窟網を探検し,重力コアを見つけましょう.</CaveEntranceLetterText>
+  <!-- EN: Insect ambush -->
+  <InsectAmbushLetter>虫の待ち伏せ</InsectAmbushLetter>
+  <!-- EN: Insects are tunneling up from underneath the ground. Be prepared! -->
+  <InsectAmbushLetterText>虫が地面の下からトンネルを掘り進んでいます.準備してください!</InsectAmbushLetterText>
+  <!-- EN: Muffled chittering -->
+  <LetterLabelInsectQueenWarning>かすかな音</LetterLabelInsectQueenWarning>
+  <!-- EN: Behind a nearby wall, {PAWN_nameDef} can hear muffled pulsations accompanied by a low chittering noise. Something massive lies behind the wall. -->
+  <LetterInsectQueenWarning>{PAWN_nameDef}は,近くの壁の奥からカサカサという低い音と,何かが脈動するかすかな音を聞きました.壁の奥には巨大な何かが隠れているようです.</LetterInsectQueenWarning>
+  
+  <!-- Overlay -->
+  <!-- EN: Toggle vacuum overlay. This displays which areas have vacuum and identifies leaks.\n\nWithout the right equipment, exposure to vacuum can be deadly. -->
+  <ShowVacuumOverlayToggleButton>真空の可視を切り替えます.これにより,どの領域が真空であるかを表示し,漏れを特定できます.\n\n適切な装備がなければ,真空への曝露は致命的となるでしょう.</ShowVacuumOverlayToggleButton>
+  <!-- EN: vacuum -->
+  <Vacuum>真空</Vacuum>
+  
+  <!-- World -->
+  <!-- EN: No discovered orbital locations. -->
+  <CannotSelectOrbitReason>発見された軌道上の場所がありません.</CannotSelectOrbitReason>
+  <!-- EN: Dying from vacuum exposure -->
+  <DyingBecauseExposedToVacuum>真空曝露による死</DyingBecauseExposedToVacuum>
+  <!-- EN: Vacstone with traces of {RESOURCE_label} -->
+  <TracesOfPreciousResource>真空岩と{RESOURCE_label}の痕跡あり</TracesOfPreciousResource>
+  <!-- EN: Requires signal jammer -->
+  <TransportPodDestinationRequiresSignalJammer>シグナルジャマーが必要</TransportPodDestinationRequiresSignalJammer>
+  <!-- EN: cannot function in vacuum. -->
+  <CannotFunctionInVacuum>真空中では機能しません.</CannotFunctionInVacuum>
+  <!-- EN: Gravship -->
+  <GravshipOnTileInspectString>グラヴシップ</GravshipOnTileInspectString>
+  
+  <!-- Ruins -->
+  <!-- EN: Hack to open. -->
+  <HackableDoorLocked>ハッキングで開く.</HackableDoorLocked>
+  
+  <!-- Fishing -->
+  <!-- EN: Fish -->
+  <Fish>魚</Fish>
+  <!-- EN: fishing -->
+  <Fishing>釣り</Fishing>
+  <!-- EN: Cannot fish -->
+  <CannotFish>釣りができない</CannotFish>
+  <!-- EN: blocked -->
+  <FishingSpotBlocked>ブロックされている</FishingSpotBlocked>
+  <!-- EN: frozen -->
+  <FishingSpotFrozen>凍っている</FishingSpotFrozen>
+  <!-- EN: below minimum fish population -->
+  <FishingSpotUnderTargetPopulation>生息数が最小数を下回っている</FishingSpotUnderTargetPopulation>
+  <!-- EN: stored fish exceed fishing zone settings -->
+  <FishingSpotOverTargetResourceCount>在庫数が釣りゾーン設定を上回っている</FishingSpotOverTargetResourceCount>
+  <!-- EN: Fishing -->
+  <TabFishing>釣り</TabFishing>
+  <!-- EN: Fish population -->
+  <FishPopulation>魚の生息数</FishPopulation>
+  <!-- EN: Population declining -->
+  <FishPopulationDecline>生息数が減少</FishPopulationDecline>
+  <!-- EN: very low -->
+  <FishPopulation_VeryLow>非常に少ない</FishPopulation_VeryLow>
+  <!-- EN: low -->
+  <FishPopulation_Low>少ない</FishPopulation_Low> 
+  <!-- EN: moderate -->
+  <FishPopulation_Moderate>適度</FishPopulation_Moderate>
+  <!-- EN: healthy -->
+  <FishPopulation_Healthy>大量</FishPopulation_Healthy>
+
+  <!-- Sand -->
+  <!-- EN: Windswept sand -->
+  <Sand>風に流された砂</Sand>
+  <!-- EN: No sand -->
+  <SandNone>砂がない</SandNone>
+  <!-- EN: dusting -->
+  <SandDusting>薄く積もった砂</SandDusting>
+  <!-- EN: thin -->
+  <SandThin>薄い</SandThin>
+  <!-- EN: medium -->
+  <SandMedium>中程度</SandMedium>
+  <!-- EN: thick -->
+  <SandThick>厚い</SandThick>
+  <!-- EN: Windswept sand -->
+  <Sand_Label>風に流された砂</Sand_Label>
+  <!-- EN: clearing sand. -->
+  <JobClearingSand>砂を取り除いています.</JobClearingSand>
+  <!-- EN: clearing sand -->
+  <ClearingSandGerund>砂を除去</ClearingSandGerund>
+
+  <!-- Stockpile -->
+  <!-- EN: medicine stockpile -->
+  <StockpileMedicine>医薬品の備蓄</StockpileMedicine>
+  <!-- EN: chemfuel stockpile -->
+  <StockpileChemfuel>バイオ液化燃料の備蓄</StockpileChemfuel>
+  <!-- EN: component stockpile -->
+  <StockpileComponent>コンポーネントの備蓄</StockpileComponent>
+  <!-- EN: weapons stockpile -->
+  <StockpileWeapons>武器の備蓄</StockpileWeapons>
+  <!-- EN: drug stockpile -->
+  <StockpileDrugs>ドラッグの備蓄</StockpileDrugs>
+  
+  <!-- Outfit Stand -->
+  <!-- EN: equip outfit -->
+  <SwapOutfit>衣服を装備</SwapOutfit>
+  <!-- EN: equip outfit... -->
+  <SwapOutfitGizmo>衣服を装備...</SwapOutfitGizmo>
+  <!-- EN: Order a colonist to wear all apparel on the stand. The colonist will place any unequipped clothing back on the stand. -->
+  <SwapOutfitDesc>スタンドのすべての衣服を着るよう指示します.脱いだ衣服や装備はスタンドに戻します.</SwapOutfitDesc>
+  <!-- EN: cannot equip outfit -->
+  <CannotSwapOutfit>衣服を装備できない</CannotSwapOutfit>
+  <!-- EN: outfit stand is empty -->
+  <OutfitStandEmpty>衣服スタンドに何もない</OutfitStandEmpty>
+  <!-- EN: Remove this from the outfit stand. -->
+  <EjectApparelTooltip>衣服スタンドから取り出します.</EjectApparelTooltip>
+  
+  <!-- Orbital mechanoid platform -->
+  <!-- EN: Ancient grav engine -->
+  <LetterAncientGravEngineDiscoveredLabel>古代の重力エンジン</LetterAncientGravEngineDiscoveredLabel>
+  <!-- EN: You've discovered an ancient grav engine. Destroy it to obtain a gravcore. -->
+  <LetterAncientGravEngineDiscovered>古代の重力エンジンを発見しました.破壊して重力コアを手に入れましょう.</LetterAncientGravEngineDiscovered>
+
+  <!-- EN: Gravship -->
+  <PlayerPawnsArriveMethod_Gravship>グラヴシップ</PlayerPawnsArriveMethod_Gravship>
+
+  <!-- Misc -->
+  <!-- EN: Toggle displaying expanding icons for landmarks. -->
+  <ShowExpandingLandmarksToggleButton>ランドマーク拡大アイコン 切り替え</ShowExpandingLandmarksToggleButton>
+
+  <!-- Mechive -->
+  <!-- EN: Before {PAWN_nameDef} stands the cerebrex core - a massive brain-like neural mesh that commands mechanoids across the planet.\n\nWith its stabilizers destroyed, {PAWN_nameDef} can now access it directly... but what should {PAWN_pronoun} do with that power? -->
+  <CerebrexCoreDialog>{PAWN_nameDef}の目の前にはセレブレックス・コア——惑星全体のメカノイドを指揮する,巨大な脳のような見た目のニューラルメッシュがあります.\n\n安定装置が破壊されたため,{PAWN_nameDef}は今,直接アクセスできます...しかし{PAWN_pronoun}はその力で何をすべきでしょうか?</CerebrexCoreDialog>
+  <!-- EN: Destroy the core -->
+  <CerebrexCoreOption_Destroy>コアを破壊</CerebrexCoreOption_Destroy>
+  <!-- EN: Scavenge technology -->
+  <CerebrexCoreOption_Scavenge>技術を漁る</CerebrexCoreOption_Scavenge>
+  <!-- EN: Postpone -->
+  <CerebrexCoreOption_Postpone>後回し</CerebrexCoreOption_Postpone>
+  <!-- EN: Stabilizers remaining -->
+  <StabilizersRemaining>残りの安定装置</StabilizersRemaining>
+  <!-- EN: Gestating mechanoids. -->
+  <ProducingMechanoids>メカを培養中</ProducingMechanoids>
+
+  <!-- EN: {PAWN_nameDef} begins to tear apart the hair-thin cerebral mesh inside the cerebrex core. The mesh twists and groans, as if alive. Electricity arcs among the latticework frame - then in an instant, all goes dark and lifeless.\n\nThe mechanoid whirring stops. Here, and all across the planet, mechanoids begin to permanently deactivate, no longer under the control of the mechhive.\n\nThe mechanoid threat is over. But your story continues... -->
+  <OdysseyDestroyedCredits>{PAWN_nameDef}は,セレブレックス・コア内部の,髪のように細い知性メッシュを引き裂き始めました.メッシュは生きているかのようにねじれ,うめきはじめます.\n格子状のフレームに沿って電気アークが迸り——瞬く間にすべてが暗くなり,\nそしてついに,動きが止まりました.\n\nメカノイドが静かになりました.この場所で,そして惑星全体で,\nメカノイドは恒久的に非アクティブになり,メカハイブの支配下から外れたのです.\n\nメカノイドの脅威は終わりを迎えました.しかし,あなたの物語は続きます...</OdysseyDestroyedCredits>
+  <!-- EN: {PAWN_nameDef} begins working to free a processing node buried within the core. The latticework frame convulses as if in agony. As {PAWN_nameDef} pulls the node free, the mesh begins to mend, repairing the damage. The core rebuilds its defences and closes.\n\nTurning the node over, {PAWN_nameDef} recoils as it sparks to life, pulsing in time with the core. In {PAWN_possessive} hand, {PAWN_nameDef} holds a weapon of untold power.\n\nThe story continues... -->
+  <OdysseyScavengedCredits>{PAWN_nameDef}は,コア内部に埋め込まれた処理ノードの解放作業を始めました.格子状のフレームが,苦しみ悶えるかのように激しく振動します.{PAWN_nameDef}がノードを引き抜くと,知性メッシュが修復作業を開始し,損傷を直し始めます.\nコアの防衛機能は再構築され,閉じられました.\n\n{PAWN_nameDef}はノードをひっくり返し,思わず身を引きました.それは火花を散らしながら息を吹き返し,コアに合わせて脈打ち始めたのです.\n{PAWN_nameDef}は今,計り知れない力を持つ武器をその手に握っています.\n\n物語は続く...</OdysseyScavengedCredits>
+
+  <!-- EN: {0} stabilizers remaining -->
+  <CoreNotInteractableStabilizersRemaining>残りの安定装置: {0}</CoreNotInteractableStabilizersRemaining>
+  <!-- EN: Deactivated -->
+  <CoreNotInteractableDeactivated>無効化された</CoreNotInteractableDeactivated>
+
+  <!-- EN: Shuttle fuel -->
+  <CaravanShuttleFuel>シャトル燃料</CaravanShuttleFuel>
+
+  <!-- EN: Passively scanning for orbital signals. -->
+  <OrbitalScannerScanning>軌道信号を受動的にスキャン中.</OrbitalScannerScanning>
+  <!-- EN: Locating orbital signal -->
+  <OrbitalScannerLocating>軌道信号を特定中</OrbitalScannerLocating>
+
+  <!-- EN: Traits -->
+  <WeaponTraits>特性</WeaponTraits>
+  <!-- EN: Unique weapon -->
+  <UniqueWeapon>ユニークな武器</UniqueWeapon>
+
+  <!-- EN: Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'. -->
+  <ConfirmLoseShuttle>キャラバンを再編成するとシャトルを放棄することになります.本当に続行しますか?\n\nシャトルで出発する場合,シャトルを選択し,「発射」を選択してください.</ConfirmLoseShuttle>
+
+  <!-- EN: Discover a quest -->
+  <BookHasQuest>クエストを発見</BookHasQuest>
+  <!-- EN: discovered -->
+  <DiscoveredQuest>発見された</DiscoveredQuest>
+
+  <!-- EN: Your orbital scanner has detected -->
+  <QuestDiscoveredFromOrbitalScanner>軌道スキャナーが情報を検出し,</QuestDiscoveredFromOrbitalScanner>
+  <!-- EN: {HACKER_nameDef} hacked an uplink and discovered -->
+  <QuestDiscoveredFromUplink>{HACKER_nameDef}はアップリンクをハッキングし,</QuestDiscoveredFromUplink>
+
+  <!-- Special Trainables -->
+  <!-- EN: Attack -->
+  <AnimalAttackTarget>攻撃</AnimalAttackTarget>
+  <!-- EN: Command this animal to attack a specific target that its master can see. -->
+  <AnimalAttackTargetDesc>この家畜に,主人の視界範囲内の,指示したターゲットを攻撃させます.</AnimalAttackTargetDesc>
+  <!-- EN: Animals attack target -->
+  <AnimalsAttackTarget>攻撃目標指示</AnimalsAttackTarget>
+  <!-- EN: Direct all mastered animals to attack a specific target. -->
+  <AnimalsAttackTargetDesc>自身を主人とする家畜全員に,指定したターゲットを攻撃するよう指示します.</AnimalsAttackTargetDesc>
+  <!-- EN: Cancel attack -->
+  <CancelAttack>攻撃中止</CancelAttack>
+  <!-- EN: Clear this animal's current target. -->
+  <CancelAttackDesc>この家畜に,現在のターゲットへの攻撃をやめさせます.</CancelAttackDesc>
+  <!-- EN: This animal does not have a master -->
+  <NoMaster>主人がいない</NoMaster>
+  <!-- EN: This animal's master is not on this map -->
+  <MasterNotSpawned>主人がこのマップにいない</MasterNotSpawned>
+  <!-- EN: Not in range of master. -->
+  <MessageNotInRangeOfMaster>主人の範囲外です.</MessageNotInRangeOfMaster>
+  <!-- EN: {ANIMAL_nameDef} found {FOOD_label} while foraging. -->
+  <MessageAnimalForagedFood>{ANIMAL_nameDef}は食料調達中に{FOOD_label}を見つけました.</MessageAnimalForagedFood>
+  <!-- EN: Forage trained -->
+  <ForageTrained>食料調達訓練済み</ForageTrained>
+  <!-- EN: Allow foraging -->
+  <ForageEnabled>食料調達を許可する</ForageEnabled>
+  <!-- EN: Allow digging -->
+  <DigEnabled>掘削を許可する</DigEnabled>
+
+  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
+  <ConfirmSealHatch>古代の貯蔵庫の入口の封鎖は永続します.中に残された物や人は永久に失われます.\n\n本当に続けますか?</ConfirmSealHatch>
+  <!-- EN: Cannot seal -->
+  <CannotChooseSealer>封鎖できない</CannotChooseSealer>
+  <!-- EN: Sealed -->
+  <Sealed>封鎖済み</Sealed>
+  <!-- EN: Permanently sealed. -->
+  <HatchSealed>永続的に封鎖.</HatchSealed>
+  <!-- EN: Unlocked. -->
+  <HatchUnlocked>ロック解除済み.</HatchUnlocked>
+
+  <!-- EN: A short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. It shuts down instantly if hit by an EMP. -->
+  <GravshipShieldTip>投射物を遮る慣性遮断面を一時的に生成します.通常の射撃や迫撃砲にも効果があります.ただしEMP攻撃を受けると即座に停止します.</GravshipShieldTip>
+
+</LanguageData>

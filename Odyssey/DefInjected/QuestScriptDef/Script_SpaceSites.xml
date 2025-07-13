@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an abandoned orbital platform. You don't detect any signs of life.\n\nYou can break in to obtain the loot inside, but the platform probably has defense systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]放棄された軌道プラットフォームのある場所を発見しました.また,この場所からは生命体のシグナルが検出されませんでした.\n\nプラットフォームに侵入して略奪することができますが,内部には防衛システムが備わっている可能性があります.\n\n軌道上に位置するこの場所まで移動するには,グラヴシップ,シャトル,もしくは輸送ポッドが必要になります.</li>
+  </OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=3)->[ancientPlatAdj] [platform]</li>
+    <li>questName->[PlaceOutlander] [platform]</li>
+    <li>questName->[platform] [greekLetter]</li>
+    <li>questName->[platAdj] [platform] [RomanNumeral]</li>
+    <li>ancientPlatAdj->abandoned</li>
+    <li>ancientPlatAdj->ancient</li>
+    <li>ancientPlatAdj->[platAdj]</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->solace</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->apollo</li>
+    <li>platAdj->ares</li>
+    <li>platAdj->hades</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->eros</li>
+    <li>platAdj->chronos</li>
+    <li>platAdj->zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->hermes</li>
+    <li>platAdj->atlas</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaestus</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->vanguard</li>
+    <li>platAdj->aegis</li>
+    <li>platAdj->halcyon</li>
+    <li>platAdj->skyforge</li>
+    <li>platAdj->titan</li>
+    <li>platform(p=2)->station</li>
+    <li>platform->platform</li>
+    <li>platform->orbital platform</li>
+    <li>platform->orbital hub</li>
+    <li>platform(p=0.5)->skygate</li>
+    <li>platform(p=0.5)->spacedock</li>
+    <li>platform(p=0.5)->gateway</li>
+    <li>greekLetter->alpha</li>
+    <li>greekLetter->beta</li>
+    <li>greekLetter->theta</li>
+    <li>greekLetter->delta</li>
+    <li>greekLetter->zeta</li>
+    <li>greekLetter->sigma</li>
+    <li>greekLetter->omega</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  -->
+  <OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+    <li>questName(p=3)->[ancientPlatAdj][platform]</li>
+    <li>questName->[PlaceOutlander][platform]</li>
+    <li>questName->[platform][greekLetter]</li>
+    <li>questName->[platAdj][platform][RomanNumeral]</li>
+    <li>ancientPlatAdj->放棄された</li>
+    <li>ancientPlatAdj->古代の</li>
+    <li>ancientPlatAdj->[platAdj]</li>
+    <li>platAdj->スターライト</li>
+    <li>platAdj->ネビュラ</li>
+    <li>platAdj->ホライゾン</li>
+    <li>platAdj->エクリプス</li>
+    <li>platAdj->ゼニス</li>
+    <li>platAdj->オーロラ</li>
+    <li>platAdj->コロナ</li>
+    <li>platAdj->ノヴァ</li>
+    <li>platAdj->イーオン</li>
+    <li>platAdj->ソーレス</li>
+    <li>platAdj->ルミネ</li>
+    <li>platAdj->イオン</li>
+    <li>platAdj->アストラル</li>
+    <li>platAdj->アポロ</li>
+    <li>platAdj->アレース</li>
+    <li>platAdj->ハデス</li>
+    <li>platAdj->アイアス</li>
+    <li>platAdj->エオス</li>
+    <li>platAdj->エロス</li>
+    <li>platAdj->クロノ</li>
+    <li>platAdj->ゼフィルス</li>
+    <li>platAdj->アルゴス</li>
+    <li>platAdj->オリジン</li>
+    <li>platAdj->ヘルメス</li>
+    <li>platAdj->アトラス</li>
+    <li>platAdj->ヘリオス</li>
+    <li>platAdj->ヘパイトス</li>
+    <li>platAdj->タロス</li>
+    <li>platAdj->ヴァンガード</li>
+    <li>platAdj->イージス</li>
+    <li>platAdj->ハルシオン</li>
+    <li>platAdj->スカイフォージ</li>
+    <li>platAdj->タイタン</li>
+    <li>platform(p=2)->ステーション</li>
+    <li>platform->プラットフォーム</li>
+    <li>platform->ベース</li>
+    <li>platform->スペースハブ</li>
+    <li>platform(p=0.5)->スカイゲート</li>
+    <li>platform(p=0.5)->スペースドック</li>
+    <li>platform(p=0.5)->ゲートウェイ</li>
+    <li>greekLetter->・アルファ</li>
+    <li>greekLetter->・ベータ</li>
+    <li>greekLetter->・シータ</li>
+    <li>greekLetter->・デルタ</li>
+    <li>greekLetter->・ゼータ</li>
+    <li>greekLetter->・シグマ</li>
+    <li>greekLetter->・オメガ</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>あなたは,</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>傍受した通信によると,プラットフォームは他の者の手に渡ったようです.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an asteroid orbiting the planet. It contains significant amounts of [resource], and potentially other resources as well.\n\nOrbital miners steer asteroids into orbit so that they can be mined and the ore sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</li>
+  -->
+  <OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]この惑星を周回している小惑星のある場所を発見しました.この小惑星には大量の[resource]が存在し,さらに他の資源が存在する可能性もあります.\n\n宇宙の鉱夫はしばしば小惑星を近くの惑星軌道上に乗せて採掘を行い,鉱石を軌道上の商船に売ります.しかし,この小惑星からは生命体のシグナルが検出されませんでした.\n\nグラヴシップ,シャトル,もしくは輸送ポッドを使用することで小惑星まで移動できます.出発する前に,入植者に真空状態でも活動可能な装備をしっかりと用意してください.</li>
+  </OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[resource] Asteroid</li>
+  -->
+  <OpportunitySite_Asteroid.questNameRules.rulesStrings>
+    <li>questName->[resource]の小惑星</li>
+  </OpportunitySite_Asteroid.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>あなたは,</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an orbital platform. You detect high levels of mechanoid activity.\n\nYou can scavenge valuables from the platform.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]軌道プラットフォームのある場所を発見しました.この場所からは,メカノイドの活動が高レベルで検出されています.\n\nプラットフォームからは貴重品を漁ることができます.\n\n軌道上に位置するこの場所まで移動するには,グラヴシップ,シャトル,もしくは輸送ポッドが必要になります.</li>
+  </OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[platAdj] [platform] [designation]</li>
+    <li>questName->[platAdj] [platform]</li>
+    <li>platAdj(p=3)->mechanoid</li>
+    <li>platAdj(p=3)->[mechanoid]</li>
+    <li>platAdj->genesis</li>
+    <li>platAdj->synthesis</li>
+    <li>platAdj->assembly</li>
+    <li>platAdj->formation</li>
+    <li>platform->platform</li>
+    <li>platform->station</li>
+    <li>platform->hub</li>
+    <li>designation->[RomanNumeral]</li>
+    <li>designation->[Letter]-[RomanNumeral]</li>
+    <li>mechanoid->scyther</li>
+    <li>mechanoid->lancer</li>
+    <li>mechanoid->centipede</li>
+    <li>mechanoid->cyclops</li>
+  -->
+  <OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->[platAdj][platform][designation]</li>
+    <li>questName->[platAdj][platform]</li>
+    <li>platAdj(p=3)->メカノイド</li>
+    <li>platAdj(p=3)->[mechanoid]</li>
+    <li>platAdj->創世</li>
+    <li>platAdj->総合</li>
+    <li>platAdj->組立</li>
+    <li>platAdj->形成</li>
+    <li>platform->プラットフォーム</li>
+    <li>platform->ステーション</li>
+    <li>platform->ハブ</li>
+    <li>designation->[RomanNumeral]</li>
+    <li>designation->[Letter]-[RomanNumeral]</li>
+    <li>mechanoid->カマキリ</li>
+    <li>mechanoid->ランサー</li>
+    <li>mechanoid->ムカデ</li>
+    <li>mechanoid->サイクロプス</li>
+  </OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>あなたは,</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>傍受した通信によると,プラットフォームは他の者の手に渡ったようです.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] an unusual asteroid orbiting the planet. The asteroid has a hollow core which contains several structures.\n\nYou can break in to obtain the loot inside.\n\nBe warned - the buildings may contain defense systems.</li>
+  -->
+  <OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]この惑星を周回している不思議な小惑星を発見しました.この小惑星には建物の収まった大きな洞窟が存在します.\n\n内部に侵入して略奪することができます.\n\nしかし,注意してください.建物には防衛システムが備わっている可能性があります.</li>
+  </OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[adjective] [orbital] [stash_noun]</li>
+    <li>questName->[orbital] [stash_noun]</li>
+    <li>adjective->Hidden</li>
+    <li>adjective->Secret</li>
+    <li>orbital->Orbital</li>
+    <li>orbital->Asteroid</li>
+    <li>stash_noun->Stash</li>
+    <li>stash_noun->Cache</li>
+  -->
+  <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+    <li>questName->[orbital][adjective][stash_noun]</li>
+    <li>questName->[orbital][stash_noun]</li>
+    <li>adjective->隠れた</li>
+    <li>adjective->秘密の</li>
+    <li>orbital->軌道上の</li>
+    <li>orbital->小惑星の</li>
+    <li>stash_noun->隠し部屋</li>
+    <li>stash_noun->貯蔵庫</li>
+  </OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>あなたは,</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the coordinates of a massive piece of wreckage in orbit. It could contain valuable resources. Orbital debris fields are often occupied by hostile scavengers.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]この惑星の軌道上に巨大な船の残骸を発見しました.この残骸にはまだ貴重な資源が残っているかもしれません.また,軌道上のデブリフィールドは大抵の場合,敵対的なスカベンジャーに占拠されています.\n\n軌道上に位置するこの場所まで移動するには,グラヴシップ,シャトル,もしくは輸送ポッドが必要になります.</li>
+  </OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=2)->the ruins of [platAdj] [platform]</li>
+    <li>questName->[platAdj] [wreckage]</li>
+    <li>questName->[PlaceOutlander] [wreckage]</li>
+    <li>questName->[ruined] [platAdj] [platform]</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->solace</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->apollo</li>
+    <li>platAdj->ares</li>
+    <li>platAdj->hades</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->eros</li>
+    <li>platAdj->chronos</li>
+    <li>platAdj->zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->hermes</li>
+    <li>platAdj->atlas</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaestus</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->vanguard</li>
+    <li>platAdj->aegis</li>
+    <li>platAdj->halcyon</li>
+    <li>platAdj->skyforge</li>
+    <li>platAdj->titan</li>
+    <li>wreckage(p=2)->wreckage</li>
+    <li>wreckage(p=2)->wreck</li>
+    <li>wreckage->orbital ruins</li>
+    <li>wreckage->debris field</li>
+    <li>platform(p=2)->station</li>
+    <li>platform->platform</li>
+    <li>platform(p=0.5)->skygate</li>
+    <li>platform(p=0.5)->spacedock</li>
+    <li>platform(p=0.5)->gateway</li>
+    <li>ruined->ruined</li>
+    <li>ruined->destroyed</li>
+    <li>ruined->scuttled</li>
+    <li>ruined->lost</li>
+    <li>ruined->ravaged</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  -->
+  <OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+    <li>questName(p=2)->[platAdj][platform]の迷宮</li>
+    <li>questName->[platAdj][wreckage]</li>
+    <li>questName->[PlaceOutlander][wreckage]</li>
+    <li>questName->[ruined][platAdj][platform]</li>
+    <li>platAdj->スターライト</li>
+    <li>platAdj->ネビュラ</li>
+    <li>platAdj->ホライゾン</li>
+    <li>platAdj->エクリプス</li>
+    <li>platAdj->ゼニス</li>
+    <li>platAdj->オーロラ</li>
+    <li>platAdj->コロナ</li>
+    <li>platAdj->ノヴァ</li>
+    <li>platAdj->イーオン</li>
+    <li>platAdj->ソーレス</li>
+    <li>platAdj->ルミネ</li>
+    <li>platAdj->イオン</li>
+    <li>platAdj->アストラル</li>
+    <li>platAdj->アポロ</li>
+    <li>platAdj->アレース</li>
+    <li>platAdj->ハデス</li>
+    <li>platAdj->アイアス</li>
+    <li>platAdj->エオス</li>
+    <li>platAdj->エロス</li>
+    <li>platAdj->クロノ</li>
+    <li>platAdj->ゼフィルス</li>
+    <li>platAdj->アルゴス</li>
+    <li>platAdj->オリジン</li>
+    <li>platAdj->ヘルメス</li>
+    <li>platAdj->アトラス</li>
+    <li>platAdj->ヘリオス</li>
+    <li>platAdj->ヘパイトス</li>
+    <li>platAdj->タロス</li>
+    <li>platAdj->ヴァンガード</li>
+    <li>platAdj->イージス</li>
+    <li>platAdj->ハルシオン</li>
+    <li>platAdj->スカイフォージ</li>
+    <li>platAdj->タイタン</li>
+    <li>wreckage(p=2)->の漂流</li>
+    <li>wreckage(p=2)->の残骸</li>
+    <li>wreckage->迷宮</li>
+    <li>wreckage->デブリフィールド</li>
+    <li>platform(p=2)->ステーション</li>
+    <li>platform->プラットフォーム</li>
+    <li>platform(p=0.5)->スカイゲート</li>
+    <li>platform(p=0.5)->スペースドック</li>
+    <li>platform(p=0.5)->ゲートウェイ</li>
+    <li>ruined->迷宮化した</li>
+    <li>ruined->破壊された</li>
+    <li>ruined->座礁した</li>
+    <li>ruined->失われた</li>
+    <li>ruined->略奪された</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>あなたは,</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the orbital wreck has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>傍受した通信によると,軌道上の残骸は他の者の手に渡ったようです.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an orbital satellite. These satellites are unmanned and often incapable of supporting life. Satellites serve a wide variety of purposes, from power collection to weapons platforms.\n\nYou can scavenge valuable technology from the satellites but be warned, satellites are heavily guarded by ancient security systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]この惑星の軌道上にある人工衛星の場所を発見しました.大抵の人工衛星は無人であり,生命を維持する環境も揃っていません.人工衛星は様々な目的で利用され,電力収集から兵器のプラットフォームまで,その用途は多岐に渡ります.\n\n人工衛星からは貴重な技術を漁ることができますが,注意が必要です.人工衛星は古代のセキュリティシステムにより厳重に守られています.\n\n軌道上に位置するこの場所まで移動するには,グラヴシップ,シャトル,もしくは輸送ポッドが必要になります.</li>
+  </OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[PlaceOutlander] [platform]</li>
+    <li>questName->[platAdj] [platform]</li>
+    <li>platAdj(p=4)->orbital</li>
+    <li>platAdj->observation</li>
+    <li>platAdj->network</li>
+    <li>platAdj->imperial</li>
+    <li>platAdj->solar</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->solace</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->echo</li>
+    <li>platform(p=4)->satellite</li>
+    <li>platform->relay</li>
+    <li>platform->ring</li>
+    <li>platform->satlink</li>
+    <li>platform->sentinel</li>
+    <li>platform->prime</li>
+    <li>platform->beacon</li>
+    <li>platform->bombarder</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  -->
+  <OpportunitySite_Satellite.questNameRules.rulesStrings>
+    <li>questName->[PlaceOutlander][platform]</li>
+    <li>questName->[platAdj][platform]</li>
+    <li>platAdj(p=4)->軌道上の</li>
+    <li>platAdj->観測用</li>
+    <li>platAdj->ネットワーク</li>
+    <li>platAdj->帝国</li>
+    <li>platAdj->ソーラー</li>
+    <li>platAdj->スターライト</li>
+    <li>platAdj->ネビュラ</li>
+    <li>platAdj->ホライゾン</li>
+    <li>platAdj->エクリプス</li>
+    <li>platAdj->ゼニス</li>
+    <li>platAdj->オーロラ</li>
+    <li>platAdj->コロナ</li>
+    <li>platAdj->ノヴァ</li>
+    <li>platAdj->イーオン</li>
+    <li>platAdj->ソーレス</li>
+    <li>platAdj->ルミネ</li>
+    <li>platAdj->イオン</li>
+    <li>platAdj->アストラル</li>
+    <li>platAdj->エコー</li>
+    <li>platform(p=4)->衛星</li>
+    <li>platform->リレー</li>
+    <li>platform->リング</li>
+    <li>platform->通信基地</li>
+    <li>platform->センチネル</li>
+    <li>platform->プライム</li>
+    <li>platform->ビーコン</li>
+    <li>platform->重火砲基地</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_Satellite.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>あなたは,</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Scanner readings indicate the satellite has boosted itself into a higher, unreachable orbit. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>スキャナーの読み取りによると,人工衛星はより高く,到達不可能な軌道に自らを引き上げたことを示しています.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

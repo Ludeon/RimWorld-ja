@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unique greatbow -->
+  <Bow_Great_Unique.label>ユニークなグレートボウ</Bow_Great_Unique.label>
+  <!-- EN: A greatbow with customized parts. -->
+  <Bow_Great_Unique.description>カスタマイズされた部品を持つグレートボウです.</Bow_Great_Unique.description>
+  <!-- EN: charge -->
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: greatbow -->
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>グレートボウ</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: bow -->
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>弓</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: limb -->
+  <Bow_Great_Unique.tools.limb.label>弓幹</Bow_Great_Unique.tools.limb.label>
+  <!-- EN: unique greatbow -->
+  <Bow_Great_Unique.verbs.Verb_Shoot.label>ユニークなグレートボウ</Bow_Great_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique assault rifle -->
+  <Gun_AssaultRifle_Unique.label>ユニークな軍用ライフル</Gun_AssaultRifle_Unique.label>
+  <!-- EN: An assault rifle with customized parts. -->
+  <Gun_AssaultRifle_Unique.description>カスタマイズされた部品を持つ軍用ライフルです.</Gun_AssaultRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>軍用ライフル</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: carbine -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>カービン銃</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: battle rifle -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>バトルライフル</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: war rifle -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>ウォーライフル</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: wargun -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>戦銃</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: fusil -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>アサルトライフル</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stock -->
+  <Gun_AssaultRifle_Unique.tools.stock.label>銃床</Gun_AssaultRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AssaultRifle_Unique.tools.barrel.label>銃身</Gun_AssaultRifle_Unique.tools.barrel.label>
+  <!-- EN: unique assault rifle -->
+  <Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>ユニークな軍用ライフル</Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique beam repeater -->
+  <Gun_BeamRepeater_Unique.label>ユニークなビームリピーター</Gun_BeamRepeater_Unique.label>
+  <!-- EN: A beam repeater with customized parts. -->
+  <Gun_BeamRepeater_Unique.description>カスタマイズされた部品を持つビームリピーターです.</Gun_BeamRepeater_Unique.description>
+  <!-- EN: charge -->
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: repeater -->
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>リピーター</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: beam repeater -->
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>ビームリピーター</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: beamgun -->
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>光線銃</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: barrels -->
+  <Gun_BeamRepeater_Unique.tools.barrels.label>銃身</Gun_BeamRepeater_Unique.tools.barrels.label>
+  <!-- EN: unique beam repeater -->
+  <Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>ユニークなビームリピーター</Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique bolt-action rifle -->
+  <Gun_BoltActionRifle_Unique.label>ユニークなボルトアクションライフル</Gun_BoltActionRifle_Unique.label>
+  <!-- EN: A bolt-action rifle with customized parts. -->
+  <Gun_BoltActionRifle_Unique.description>カスタマイズされた部品を持つボルトアクションライフルです.</Gun_BoltActionRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>ボルトアクションライフル</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: thumper -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>ティンパー</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: bolt-gun -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>ボルトガン</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: rifle -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>ライフル</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: longshot -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>ロングショット</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: longshooter -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>ロングシューター</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stock -->
+  <Gun_BoltActionRifle_Unique.tools.stock.label>銃床</Gun_BoltActionRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_BoltActionRifle_Unique.tools.barrel.label>銃身</Gun_BoltActionRifle_Unique.tools.barrel.label>
+  <!-- EN: unique bolt-action rifle -->
+  <Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>ユニークなボルトアクションライフル</Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique chain shotgun -->
+  <Gun_ChainShotgun_Unique.label>ユニークなチェーンショットガン</Gun_ChainShotgun_Unique.label>
+  <!-- EN: A chain shotgun with customized parts. -->
+  <Gun_ChainShotgun_Unique.description>カスタマイズされた部品を持つチェーンショットガンです.</Gun_ChainShotgun_Unique.description>
+  <!-- EN: charge -->
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>チェーンショットガン</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: shotgun -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>ショットガン</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: chainshot -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>チェーンショット</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: blaster -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>ブラスター</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: blaststick -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>ブラストステッキ</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: sweeper -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.5>スイーパー</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: gutspewer -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>粉砕銃</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <!-- EN: stock -->
+  <Gun_ChainShotgun_Unique.tools.stock.label>銃床</Gun_ChainShotgun_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChainShotgun_Unique.tools.barrel.label>銃身</Gun_ChainShotgun_Unique.tools.barrel.label>
+  <!-- EN: unique chain shotgun -->
+  <Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>ユニークなチェーンショットガン</Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique charge lance -->
+  <Gun_ChargeLance_Unique.label>ユニークなチャージランス</Gun_ChargeLance_Unique.label>
+  <!-- EN: A charge lance with customized parts. -->
+  <Gun_ChargeLance_Unique.description>カスタマイズされた部品を持つチャージランスです.</Gun_ChargeLance_Unique.description>
+  <!-- EN: charge -->
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>チャージランス</Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance_Unique.tools.barrel.label>銃身</Gun_ChargeLance_Unique.tools.barrel.label>
+  <!-- EN: unique charge lance -->
+  <Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>ユニークなチャージランス</Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique charge rifle -->
+  <Gun_ChargeRifle_Unique.label>ユニークなチャージライフル</Gun_ChargeRifle_Unique.label>
+  <!-- EN: A charge rifle with customized parts. -->
+  <Gun_ChargeRifle_Unique.description>カスタマイズされた部品を持つチャージライフルです.</Gun_ChargeRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>チャージライフル</Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle_Unique.tools.stock.label>銃床</Gun_ChargeRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle_Unique.tools.barrel.label>銃身</Gun_ChargeRifle_Unique.tools.barrel.label>
+  <!-- EN: unique charge rifle -->
+  <Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>ユニークなチャージライフル</Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique heavy SMG -->
+  <Gun_HeavySMG_Unique.label>ユニークなサブマシンガン</Gun_HeavySMG_Unique.label>
+  <!-- EN: A heavy SMG with customized parts. -->
+  <Gun_HeavySMG_Unique.description>カスタマイズされた部品を持つサブマシンガンです.</Gun_HeavySMG_Unique.description>
+  <!-- EN: charge -->
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>サブマシンガン</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: SMG -->
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>SMG</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: chugger -->
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>連射銃</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: grip -->
+  <Gun_HeavySMG_Unique.tools.grip.label>グリップ</Gun_HeavySMG_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_HeavySMG_Unique.tools.barrel.label>銃身</Gun_HeavySMG_Unique.tools.barrel.label>
+  <!-- EN: unique heavy SMG -->
+  <Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>ユニークな重サブマシンガン</Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique hellcat rifle -->
+  <Gun_HellcatRifle_Unique.label>ユニークなヘルキャットライフル</Gun_HellcatRifle_Unique.label>
+  <!-- EN: A hellcat rifle with customized parts. -->
+  <Gun_HellcatRifle_Unique.description>カスタマイズされた部品を持つヘルキャットライフルです.</Gun_HellcatRifle_Unique.description>
+  <!-- EN: burner charge -->
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>バーナーチャージ</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: hellcat rifle -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>ヘルキャットライフル</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: hellcat -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>ヘルキャット</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: flamer -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>フレイマー</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: flamegun -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>フレイム銃</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: burner -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>バーナー</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: burngun -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>燃焼銃</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stock -->
+  <Gun_HellcatRifle_Unique.tools.stock.label>銃床</Gun_HellcatRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_HellcatRifle_Unique.tools.barrel.label>銃身</Gun_HellcatRifle_Unique.tools.barrel.label>
+  <!-- EN: unique hellcat rifle -->
+  <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>ユニークなヘルキャットライフル</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique LMG -->
+  <Gun_LMG_Unique.label>ユニークな軽機関銃</Gun_LMG_Unique.label>
+  <!-- EN: An LMG with customized parts. -->
+  <Gun_LMG_Unique.description>カスタマイズされた部品を持つ軽機関銃です.</Gun_LMG_Unique.description>
+  <!-- EN: charge -->
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: LMG -->
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>LMG</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: machine gun -->
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>機関銃</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: light machine gun -->
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>軽機関銃</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: stock -->
+  <Gun_LMG_Unique.tools.stock.label>銃床</Gun_LMG_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_LMG_Unique.tools.barrel.label>銃身</Gun_LMG_Unique.tools.barrel.label>
+  <!-- EN: unique LMG -->
+  <Gun_LMG_Unique.verbs.Verb_Shoot.label>ユニークな軽機関銃</Gun_LMG_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique minigun -->
+  <Gun_Minigun_Unique.label>ユニークなミニガン</Gun_Minigun_Unique.label>
+  <!-- EN: A minigun with customized parts. -->
+  <Gun_Minigun_Unique.description>カスタマイズされた部品を持つミニガンです.</Gun_Minigun_Unique.description>
+  <!-- EN: charge -->
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: minigun -->
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>ミニガン</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: gatling gun -->
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>ガトリング</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: six-barrel -->
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>六銃身</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: barrels -->
+  <Gun_Minigun_Unique.tools.barrels.label>銃身</Gun_Minigun_Unique.tools.barrels.label>
+  <!-- EN: unique minigun -->
+  <Gun_Minigun_Unique.verbs.Verb_Shoot.label>ユニークなミニガン</Gun_Minigun_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique revolver -->
+  <Gun_Revolver_Unique.label>ユニークなリボルバー</Gun_Revolver_Unique.label>
+  <!-- EN: A revolver with customized parts. -->
+  <Gun_Revolver_Unique.description>カスタマイズされた部品を持つリボルバーです.</Gun_Revolver_Unique.description>
+  <!-- EN: charge -->
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: revolver -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>リボルバー</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: six-shooter -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>シックスシューター</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: iron -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>アイアン</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: hammer -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>撃鉄</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: grip -->
+  <Gun_Revolver_Unique.tools.grip.label>グリップ</Gun_Revolver_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Revolver_Unique.tools.barrel.label>銃身</Gun_Revolver_Unique.tools.barrel.label>
+  <!-- EN: unique revolver -->
+  <Gun_Revolver_Unique.verbs.Verb_Shoot.label>ユニークなリボルバー</Gun_Revolver_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique sniper rifle -->
+  <Gun_SniperRifle_Unique.label>ユニークなスナイパーライフル</Gun_SniperRifle_Unique.label>
+  <!-- EN: A sniper rifle with customized parts. -->
+  <Gun_SniperRifle_Unique.description>カスタマイズされた部品を持つスナイパーライフルです.</Gun_SniperRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>チャージ</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>クールダウン中</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>スナイパーライフル</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: precision rifle -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>精密ライフル</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: marksman rifle -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>マークスマンライフル</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: sniper -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>スナイパー</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: headshotter -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>ヘッドシューター</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: snipegun -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>狙撃銃</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stalker -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>追跡銃</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <!-- EN: assassinator -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>暗殺銃</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>
+  <!-- EN: stock -->
+  <Gun_SniperRifle_Unique.tools.stock.label>銃床</Gun_SniperRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SniperRifle_Unique.tools.barrel.label>銃身</Gun_SniperRifle_Unique.tools.barrel.label>
+  <!-- EN: unique sniper rifle -->
+  <Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>ユニークなスナイパーライフル</Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>
+  
+</LanguageData>

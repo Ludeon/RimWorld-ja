@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: small chemfuel tank -->
+  <ChemfuelTank.label>小型液化燃料タンク</ChemfuelTank.label>
+  <!-- EN: A chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <ChemfuelTank.description>グラヴシップのスラスターに燃料を供給する,バイオ液化燃料貯蔵タンクです.</ChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>バイオ液化燃料</ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <ChemfuelTank.comps.CompRefuelable.fuelLabel>バイオ液化燃料</ChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: fuel optimizer -->
+  <FuelOptimizer.label>燃料最適化装置</FuelOptimizer.label>
+  <!-- EN: A gravtech unit that allows grav engine lift to coordinate more efficiently with traditional thrusters. It reduces the fuel needed for gravship flight.\n\nA gravship can support two fuel optimizers. -->
+  <FuelOptimizer.description>従来のスラスターと連携し,重力エンジンのリフトをより効率的に調整する重力技術ユニットです.グラヴシップの飛行に必要な燃料を減らします.\n\nグラヴシップには最大2つまでの燃料最適化装置を設置できます.</FuelOptimizer.description>
+  
+  <!-- EN: grav anchor -->
+  <GravAnchor.label>重力アンカー</GravAnchor.label>
+  <!-- EN: Prevents the local map from being destroyed during a gravship launch.\n\nGrav anchors passively reduce unstable gravitation shear in a large area, which prevents the damaging effects of a gravship launch. It can't be constructed on the gravship itself because it would prevent flight entirely. -->
+  <GravAnchor.description>グラヴシップ発進時に地域マップが破壊されるのを防ぎます.\n\nグラヴシップは発進時に広範囲にわたって引力を不安定に切断します.重力アンカーはこの切断される量を減らし,これによって地域に与えるダメージを防ぎます.グラヴシップ自身に設置すると飛べなくなるため,船の上には建築できません.</GravAnchor.description>
+  
+  <!-- EN: gravcore power cell -->
+  <GravcorePowerCell.label>重力コア・パワーセル</GravcorePowerCell.label>
+  <!-- EN: A power generator that passively draws a small amount of energy from gravitational waves passing through the gravship. -->
+  <GravcorePowerCell.description>グラヴシップを通過する重力波からわずかなエネルギーを受動的に引き出す発電機です.</GravcorePowerCell.description>
+  
+  <!-- EN: grav engine -->
+  <GravEngine.label>重力エンジン</GravEngine.label>
+  <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nWhen launched, anything on substructure that's connected to the grav engine will be transported to a new map. Without a grav anchor, launching a gravship will abandon your current map.\n\nGlitterworld engineers use gravships to launch orbital platforms and build skyrippers. They require massive and hyper-specialized facilities to produce, making them a rare sight outside of glitterworlds. -->
+  <GravEngine.description>ウルトラテックが用いられたグラヴシップの心臓部です.重力エンジンは自らの周囲のフィールドで重力の効果を反転させて強化し,リフトを生成します.このエンジンは上方に浮かぶことは可能ですが,前方への推力は生み出しません.惑星のような大きな重力井戸からは離れることができず,惑星間旅行には使えません.\n\n発射されると,重力エンジンに接続された土台の上のすべての物が新しいマップに移動されます.重力アンカーなしでグラヴシップを発射すると,現在のマップが放棄されます.\n\nGlitterworldのエンジニアは,軌道プラットフォームを打ち上げたり,超高層マンションを建設するためにグラヴシップを使用します.船を建造するには超専門的な巨大な施設が必要で,Glitterworld以外の場所ではめったにその姿を見ることがありません.</GravEngine.description>
+  
+  <!-- EN: grav field extender -->
+  <GravFieldExtender.label>重力域拡張器</GravFieldExtender.label>
+  <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support. Must be built near a grav engine.\n\nA gravship can support up to six grav field extenders. -->
+  <GravFieldExtender.description>ウルトラテックが用いられた,グラヴシップのサイズを大きくする装置です.グラヴシップの土台を敷ける範囲と,使用できる土台の量を増やします.重力エンジンの近くに建設する必要があります.\n\nグラヴシップには最大6つまでの重力域拡張器を設置できます.</GravFieldExtender.description>
+  
+  <!-- EN: gravship hull -->
+  <GravshipHull.label>グラヴシップ壁</GravshipHull.label>
+  <!-- EN: A strong airtight wall that prevents oxygen leaks in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
+  <GravshipHull.description>宇宙の真空中で酸素漏れを防ぐ強力な気密壁です.この壁はグラヴシップの土台の上でなければ建築できず,そのため,グラヴシップにのみ使うことができます.</GravshipHull.description>
+  
+  <!-- EN: gravship shield generator -->
+  <GravshipShieldGenerator.label>シールドジェネレーター</GravshipShieldGenerator.label>
+  <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support two gravship shield generators. -->
+  <GravshipShieldGenerator.description>グラヴシップを保護するシールド装置です.重力域を調節して,投射物を遮る慣性遮断面を一時的に生成します.このシールドは,通常の射撃や迫撃砲にも効果があります.また,内側にいる者は外に向けて射撃できます.\n\n使用前に充電する必要があります.1機のグラヴシップには最大2つまでのシールドジェネレーターを設置できます.</GravshipShieldGenerator.description>
+  <!-- EN: activate -->
+  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>起動</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  
+  <!-- EN: large chemfuel tank -->
+  <LargeChemfuelTank.label>大型液化燃料タンク</LargeChemfuelTank.label>
+  <!-- EN: A massive chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <LargeChemfuelTank.description>グラヴシップのスラスターに燃料を供給する,巨大なバイオ液化燃料貯蔵タンクです.</LargeChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>バイオ液化燃料</LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <LargeChemfuelTank.comps.CompRefuelable.fuelLabel>バイオ液化燃料</LargeChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: large thruster -->
+  <LargeThruster.label>大型スラスター</LargeThruster.label>
+  <!-- EN: An advanced chemfuel thruster with a heat-resistant vacstone liner. It greatly increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to six large thrusters. -->
+  <LargeThruster.description>耐熱性真空岩で内部を保護した高度なバイオ液化燃料スラスターです.グラヴシップの航続距離を大幅に増加させます.スラスターには障害物のないエリアが必要で,大型の建築物やグラヴシップの土台がエリア内に存在すると機能しなくなります.\n\n建材として必要になる真空岩ブロックは,軌道上の小惑星から入手可能です.\n\nグラヴシップには最大6つまでの大型スラスターを設置できます.</LargeThruster.description>
+  
+  <!-- EN: minified thing -->
+  <MinifiedGravEngine.label>物(梱包)</MinifiedGravEngine.label>
+  
+  <!-- EN: pilot console -->
+  <PilotConsole.label>パイロットコンソール</PilotConsole.label>
+  <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine. -->
+  <PilotConsole.description>グラヴシップの発射と操縦を可能にするインターフェースです.電力は重力エンジンから直接得ます.</PilotConsole.description>
+  
+  <!-- EN: pilot subpersona core -->
+  <PilotSubpersonaCore.label>パイロットAI亜人格コア</PilotSubpersonaCore.label>
+  <!-- EN: A low-grade subpersona specialized in gravship flight. It reduces the chance of an accident when flying a gravship, though it can't fully account for human error.\n\nA gravship can support up to two pilot subpersona cores. -->
+  <PilotSubpersonaCore.description>グラヴシップの飛行に特化した簡素な人工知能です.グラヴシップの飛行中の事故の可能性を減らしますが,人為ミスを完全に防ぐことはできません.\n\nパイロットコンソールの近くに設置する必要があります.パイロットコンソールは最大2つまでのパイロットAI亜人格コアを認識できます.</PilotSubpersonaCore.description>
+  
+  <!-- EN: mechanoid ship chunk -->
+  <ShipChunk_Mech.label>メカノイド船の残骸</ShipChunk_Mech.label>
+  <!-- EN: A chunk of mechanoid spacecraft made of steel and gravlite panels. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nDeconstruct it to obtain valuable resources. -->
+  <ShipChunk_Mech.description>スチールと重力軽量パネルで作られた,メカノイド宇宙船の残骸です.この残骸は,制御を失った船が大気圏に突入したか,あるいは何らかの武器によって攻撃され,吹き飛ばされたようです.\n\n分解すると,貴重な資源を入手できます.</ShipChunk_Mech.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <ShipChunk_Mech.comps.CompInspectString.inspectString>解体して価値ある資源を入手可能.</ShipChunk_Mech.comps.CompInspectString.inspectString>
+  
+  <!-- EN: signal jammer -->
+  <SignalJammer.label>シグナルジャマー</SignalJammer.label>
+  <!-- EN: A signal emitter that disguises the electromagnetic signature of your gravship, allowing it to approach heavily-defended landing sites. -->
+  <SignalJammer.description>グラヴシップの電磁サインを偽装する信号送信機です.これにより,厳重に防衛された着陸地点に接近することができます.</SignalJammer.description>
+  
+  <!-- EN: small thruster -->
+  <SmallThruster.label>小型スラスター</SmallThruster.label>
+  <!-- EN: A chemfuel thruster that increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nA gravship can support up to four small thrusters. -->
+  <SmallThruster.description>グラヴシップの航続距離を増やすバイオ液化燃料スラスターです.スラスターには障害物のないエリアが必要で,大型の建築物やグラヴシップの土台がエリア内に存在すると機能しなくなります.\n\nグラヴシップには最大4つまでの小型スラスターを設置できます.</SmallThruster.description>
+  
+</LanguageData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of a camp controlled by [siteFaction_name]. The camp contains hostile [siteFaction_pawnsPlural], but you don't know what defenses they have.</li>
+  -->
+  <OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod][siteFaction_name]に支配されたキャンプのある場所を発見しました.キャンプには敵対的な[siteFaction_pawnsPlural]がいますが,どのような防衛拠点が築かれているのかまでは分かりませんでした.</li>
+  </OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+  -->
+  <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+    <li>questName->[bandit]の[camp]</li>
+    <li>questName->[bandit]達の[camp]</li>
+    <li>questName->[asker_nameDef]と[camp]</li>
+    <li>camp->キャンプ</li>
+    <li>camp->前哨基地</li>
+    <li>camp->隠れ家</li>
+    <li>camp->野営地</li>
+    <li>bandit->盗賊</li>
+    <li>bandit->レイダー</li>
+    <li>bandit->無法者</li>
+    <li>bandit->ならず者</li>
+    <li>bandit->逃亡者</li>
+    <li>bandit->略奪者</li>
+    <li>bandit->強盗</li>
+    <li>bandit->悪党</li>
+  </OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>subject->bandit camps</li>
+    <li>subject->outlaws</li>
+    <li>subject->raider sightings</li>
+    <li>questMapFeature->small camp</li>
+    <li>questMapFeature->bandit outpost</li>
+    <li>questMapFeature->raider encampment</li>
+    <li>questMapText->dangerous folk</li>
+    <li>questMapText->camp loot</li>
+    <li>questMapText->trespassers get skinned</li>
+    <li>questMapText->traders beware - outlaws</li>
+  -->
+  <OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+    <li>subject->盗賊の野営地</li>
+    <li>subject->無法者</li>
+    <li>subject->レイダーの目撃情報</li>
+    <li>questMapFeature->小さなキャンプ</li>
+    <li>questMapFeature->盗賊の前哨基地</li>
+    <li>questMapFeature->レイダーの野営地</li>
+    <li>questMapText->危険な奴ら</li>
+    <li>questMapText->キャンプの戦利品</li>
+    <li>questMapText->侵入者は剥がされる</li>
+    <li>questMapText->商人要注意:無法者</li>
+  </OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>盗賊の野営地は荷物をまとめて移動しました.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>クエスト失敗: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>野営地を発見されたため,盗賊は解散しました.クエスト'[resolvedQuestName]'は終了しました.</OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>
+  
+</LanguageData>

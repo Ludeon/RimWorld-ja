@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital scanner -->
+  <OrbitalScanner.label>軌道スキャナー</OrbitalScanner.label>
+  <!-- EN: A sensor unit that passively scans for irregular objects orbiting the planet. It will periodically detect locations in orbit that can be visited with transport pods, shuttles, or gravships.\n\nThe scanner won't function under a roof. -->
+  <OrbitalScanner.description>惑星を周回する不規則な物体を受動的にスキャンするセンサー装置です.輸送ポッド,シャトル,またはグラヴシップで訪れることができる軌道上の場所を定期的に検出します.\n\nスキャナーは屋根の下では機能しません.</OrbitalScanner.description>
+  
+  <!-- EN: oxygen pump -->
+  <OxygenPump.label>酸素ポンプ</OxygenPump.label>
+  <!-- EN: A small wall-mounted unit that releases oxygen into the surrounding room, allowing enclosed areas to repressurize in space. Essential for long stays in orbit. -->
+  <OxygenPump.description>周囲の部屋に酸素を放出する小型の壁付けユニットで,宇宙でも密閉された空間であれば再加圧できます.軌道上で長期滞在するために不可欠です.</OxygenPump.description>
+  
+  <!-- EN: vac barrier -->
+  <VacBarrier.label>真空バリア</VacBarrier.label>
+  <!-- EN: An ultrasonic barrier that prevents depressurization in space. The field compresses air molecules near the threshold, preventing gases from escaping while allowing people to freely travel through it. A vac barrier will do nothing to prevent intruders.\n\nMust be powered to prevent depressurization. -->
+  <VacBarrier.description>宇宙での減圧を防ぐ超音波バリアです.このフィールドはバリア付近の空気分子を圧縮し,ガスの漏出を防ぎつつ,人々が自由に通過できるようにします.真空バリアは侵入者を防ぐことはできません.\n\n減圧を防ぐ機能を損なわないためには電力を供給する必要があります.</VacBarrier.description>
+  
+</LanguageData>

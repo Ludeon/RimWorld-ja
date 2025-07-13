@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravship crew -->
+  <GravshipCrew.label>グラヴシップの乗組員</GravshipCrew.label>
+  <!-- EN: The crew of a gravship. -->
+  <GravshipCrew.description>グラヴシップの乗組員です.</GravshipCrew.description>
+  <!-- EN: leader -->
+  <GravshipCrew.leaderTitle>リーダー</GravshipCrew.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <GravshipCrew.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</GravshipCrew.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <GravshipCrew.pawnSingular>入植者</GravshipCrew.pawnSingular>
+  <!-- EN: colonists -->
+  <GravshipCrew.pawnsPlural>入植者たち</GravshipCrew.pawnsPlural>
+  
+</LanguageData>

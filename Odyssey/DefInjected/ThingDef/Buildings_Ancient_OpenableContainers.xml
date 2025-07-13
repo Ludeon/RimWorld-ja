@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: component box -->
+  <AncientBox_ComponentIndustrial.label>コンポーネントボックス</AncientBox_ComponentIndustrial.label>
+  <!-- EN: A box filled with valuable components. Some are intact and useable. -->
+  <AncientBox_ComponentIndustrial.description>有用なコンポーネントが入った箱です.いくつかは無傷で使用可能です.</AncientBox_ComponentIndustrial.description>
+  
+  <!-- EN: advanced component box -->
+  <AncientBox_ComponentSpacer.label>先進コンポーネントボックス</AncientBox_ComponentSpacer.label>
+  <!-- EN: A box of advanced components, well-preserved and potentially valuable. -->
+  <AncientBox_ComponentSpacer.description>先進コンポーネントが入った箱です.保存状態が良いため,有用な物がまだ残っているかもしれません.</AncientBox_ComponentSpacer.description>
+  
+  <!-- EN: steel scrap box -->
+  <AncientBox_SteelSlag.label>スチールスクラップボックス</AncientBox_SteelSlag.label>
+  <!-- EN: A box filled with steel scrap. It's heavy but might contain some recoverable metal. -->
+  <AncientBox_SteelSlag.description>スチールのスクラップが入った箱です.重いですが,再利用可能な金属が残っているかもしれません.</AncientBox_SteelSlag.description>
+  
+  <!-- EN: chemfuel canister -->
+  <AncientChemfuelCanister.label>液化燃料キャニスター</AncientChemfuelCanister.label>
+  <!-- EN: A sealed canister of chemfuel. It might still contain usable fuel. -->
+  <AncientChemfuelCanister.description>バイオ液化燃料が入った密封缶です.まだ使える燃料が残っているかもしれません.</AncientChemfuelCanister.description>
+  
+  <!-- EN: steel scrap pallet -->
+  <AncientPallet_SteelSlag.label>スチールスクラップパレット</AncientPallet_SteelSlag.label>
+  <!-- EN: A pallet stacked with steel scrap. It could still hold some recoverable metal. -->
+  <AncientPallet_SteelSlag.description>スチールのスクラップが積まれたパレットです.まだ再利用可能な金属が残っているかもしれません.</AncientPallet_SteelSlag.description>
+  
+  <!-- EN: rusted safe -->
+  <AncientSafe.label>錆びた金庫</AncientSafe.label>
+  <!-- EN: A locked safe. It's heavily rusted, making it easy to open. It may hold valuable items inside. -->
+  <AncientSafe.description>鍵がかかった金庫です.かなり錆びているため開けやすく,内部に貴重なアイテムがあるかもしれません.</AncientSafe.description>
+  
+  <!-- EN: sealed container -->
+  <AncientSealedContainer.label>密封されたコンテナ</AncientSealedContainer.label>
+  <!-- EN: A large sealed container. It may contain valuable supplies. -->
+  <AncientSealedContainer.description>密封された大きなコンテナです.貴重な物資が残っているかもしれません.</AncientSealedContainer.description>
+  
+  <!-- EN: sealed container -->
+  <AncientSealedContainer_GravshipUpgrade.label>密封されたコンテナ</AncientSealedContainer_GravshipUpgrade.label>
+  <!-- EN: A large sealed container. It may contain valuable supplies. -->
+  <AncientSealedContainer_GravshipUpgrade.description>密封された大きなコンテナです.貴重な物資が残っているかもしれません.</AncientSealedContainer_GravshipUpgrade.description>
+  
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate.label>密封されたクレート</AncientSealedCrate.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate.description>まだ密封されている小さなクレートです.内部に貴重品が残っているかもしれません.</AncientSealedCrate.description>
+  
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate_Gravlite.label>密封されたクレート</AncientSealedCrate_Gravlite.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate_Gravlite.description>まだ密封されている小さなクレートです.内部に貴重品が残っているかもしれません.</AncientSealedCrate_Gravlite.description>
+  
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate_Shells.label>密封されたクレート</AncientSealedCrate_Shells.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate_Shells.description>まだ密封されている小さなクレートです.内部に貴重品が残っているかもしれません.</AncientSealedCrate_Shells.description>
+  
+  <!-- EN: malfunctioning transport pod -->
+  <MalfunctioningTransportPod.label>故障した輸送ポッド</MalfunctioningTransportPod.label>
+  <!-- EN: A cargo pod with a faulty release mechanism. It's still sealed, holding unknown contents. -->
+  <MalfunctioningTransportPod.description>落下機構が故障した貨物ポッドです.まだ密封されており,内容物は不明です.</MalfunctioningTransportPod.description>
+  
+  <!-- EN: medicine pallet -->
+  <Pallet_Medicine.label>医薬品パレット</Pallet_Medicine.label>
+  <!-- EN: A pallet containing old medical supplies. Some items might still be usable. -->
+  <Pallet_Medicine.description>古い医薬品が入ったパレットです.いくつかの物資はまだ使えるかもしれません.</Pallet_Medicine.description>
+  
+  <!-- EN: survival meal pallet -->
+  <Pallet_SurvivalMeals.label>非常用食品パレット</Pallet_SurvivalMeals.label>
+  <!-- EN: A pallet containing survival meals. The contents are damaged but some meals might still be salvageable. -->
+  <Pallet_SurvivalMeals.description>非常用食品が入ったパレットです.中に入っている物は損傷していますが,いくつかの食品はまだ回収可能かもしれません.</Pallet_SurvivalMeals.description>
+  
+  <!-- EN: sealed crate -->
+  <SealedCrate.label>密封されたクレート</SealedCrate.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <SealedCrate.description>まだ密封されている小さなクレートです.内部に貴重品が残っているかもしれません.</SealedCrate.description>
+  
+</LanguageData>

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name->The [spaceAdj] Salvagers</li>
+    <li>r_name->The [spaceAdj] Scavengers</li>
+    <li>r_name->[spaceAdj] [AnimalBadass]s</li>
+    <li>r_name->The [spaceAdj] [AnimalBadass]s</li>
+    <li>r_name->The [spaceAdj] [Enemy]s</li>
+    <li>r_name->The [spaceNoun] [Enemy]s</li>
+    <li>r_name->The [spaceNoun] [groupname]</li>
+    <li>r_name->The [spaceAdj] [groupname]</li>
+    <li>r_name->The [ColorBadass] [spaceNoun]</li>
+    <li>r_name->The [AdjectiveBadass] [spaceNoun]</li>
+    <li>r_name->The [ColorBadass] [spaceCollectiveNoun]</li>
+    <li>r_name->The [AdjectiveBadass] [spaceCollectiveNoun]</li>
+    <li>r_name->The [spaceNoun]s of [ConceptBadass]</li>
+    <li>r_name(p=2)->[NamePerson]'s [spaceNoun]s</li>
+    <li>r_name(p=2)->[NamePerson]'s [spaceCollectiveNoun]</li>
+    <li>r_name(p=2)->[NamePerson]'s [spaceAdj] [spaceCollectiveNoun]</li>
+    <li>spaceAdj->Orbital</li>
+    <li>spaceAdj->Cosmic</li>
+    <li>spaceAdj->Astral</li>
+    <li>spaceAdj->Solar</li>
+    <li>spaceAdj->Celestial</li>
+    <li>spaceNoun->Star</li>
+    <li>spaceNoun->Moon</li>
+    <li>spaceNoun->Comet</li>
+    <li>spaceNoun->Asteroid</li>
+    <li>spaceNoun->Eclipse</li>
+    <li>spaceCollectiveNoun->Armada</li>
+    <li>spaceCollectiveNoun->Fleet</li>
+    <li>spaceCollectiveNoun->Flotilla</li>
+    <li>spaceCollectiveNoun->Fleet</li>
+    <li>spaceCollectiveNoun->Corsairs</li>
+    <li>spaceCollectiveNoun->Pirates</li>
+    <li>spaceCollectiveNoun->Marauders</li>
+    <li>spaceCollectiveNoun->Reapers</li>
+  -->
+  <NamerFactionSalvagers.rulePack.rulesStrings>
+    <li>r_name->[spaceAdj]略奪団</li>
+    <li>r_name->[spaceAdj]スカベンジャー</li>
+    <li>r_name->[spaceAdj][AnimalBadass]組</li>
+    <li>r_name->[spaceAdj][AnimalBadass]団</li>
+    <li>r_name->[spaceAdj][Enemy]賊</li>
+    <li>r_name->[spaceNoun]の[Enemy]団</li>
+    <li>r_name->[spaceNoun]の[groupname]組</li>
+    <li>r_name->[spaceAdj][groupname]団</li>
+    <li>r_name->[ColorBadass]の[spaceNoun]賊</li>
+    <li>r_name->[AdjectiveBadass][spaceNoun]組</li>
+    <li>r_name->[ColorBadass]の[spaceCollectiveNoun]</li>
+    <li>r_name->[AdjectiveBadass][spaceCollectiveNoun]</li>
+    <li>r_name->[ConceptBadass]の[spaceNoun]賊</li>
+    <li>r_name(p=2)->[NamePerson]の[spaceNoun]一家</li>
+    <li>r_name(p=2)->[NamePerson]の[spaceCollectiveNoun]</li>
+    <li>r_name(p=2)->[NamePerson]の[spaceAdj][spaceCollectiveNoun]</li>
+    <li>spaceAdj->オービタル</li>
+    <li>spaceAdj->コスモ</li>
+    <li>spaceAdj->アストラル</li>
+    <li>spaceAdj->ソーラー</li>
+    <li>spaceAdj->セレスティア</li>
+    <li>spaceNoun->星</li>
+    <li>spaceNoun->月</li>
+    <li>spaceNoun->彗星</li>
+    <li>spaceNoun->小惑星</li>
+    <li>spaceNoun->日食</li>
+    <li>spaceCollectiveNoun->艦隊</li>
+    <li>spaceCollectiveNoun->船隊</li>
+    <li>spaceCollectiveNoun->小艦隊</li>
+    <li>spaceCollectiveNoun->船団</li>
+    <li>spaceCollectiveNoun->宙族船</li>
+    <li>spaceCollectiveNoun->宙族船団</li>
+    <li>spaceCollectiveNoun->略奪艦</li>
+    <li>spaceCollectiveNoun->収穫船</li>
+  </NamerFactionSalvagers.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[tradeAdj] [tradeNoun]</li>
+    <li>tradeAdj->merchant's</li>
+    <li>tradeAdj->orbital</li>
+    <li>tradeAdj->trade</li>
+    <li>tradeAdj->spacer's</li>
+    <li>tradeAdj->space</li>
+    <li>tradeAdj->cosmic</li>
+    <li>tradeAdj->skyflight</li>
+    <li>tradeAdj->voidborn</li>
+    <li>tradeAdj->exo</li>
+    <li>tradeNoun->guild</li>
+    <li>tradeNoun->consortium</li>
+    <li>tradeNoun->syndicate</li>
+    <li>tradeNoun->alliance</li>
+    <li>tradeNoun->cartel</li>
+    <li>tradeNoun->coalition</li>
+    <li>tradeNoun->federation</li>
+    <li>tradeNoun->conglomerate</li>
+    <li>tradeNoun->corporation</li>
+    <li>tradeNoun->company</li>
+    <li>tradeNoun->network</li>
+    <li>tradeNoun->exchange</li>
+    <li>tradeNoun->bazaar</li>
+    <li>tradeNoun->emporium</li>
+    <li>tradeNoun->nexus</li>
+  -->
+  <NamerFactionTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[tradeAdj][tradeNoun]</li>
+    <li>tradeAdj->貿易</li>
+    <li>tradeAdj->軌道</li>
+    <li>tradeAdj->通商</li>
+    <li>tradeAdj->宙海</li>
+    <li>tradeAdj->スペース</li>
+    <li>tradeAdj->コスモ</li>
+    <li>tradeAdj->宙航</li>
+    <li>tradeAdj->ヴォイドボーン</li>
+    <li>tradeAdj->エキソ</li>
+    <li>tradeNoun->ギルド</li>
+    <li>tradeNoun->組合</li>
+    <li>tradeNoun->連合</li>
+    <li>tradeNoun->同盟</li>
+    <li>tradeNoun->連盟</li>
+    <li>tradeNoun->協同組合</li>
+    <li>tradeNoun->商船組合</li>
+    <li>tradeNoun->コングロマリット</li>
+    <li>tradeNoun->コーポレーション</li>
+    <li>tradeNoun->カンパニー</li>
+    <li>tradeNoun->ネットワーク</li>
+    <li>tradeNoun->取引商隊</li>
+    <li>tradeNoun->バザー</li>
+    <li>tradeNoun->大商隊</li>
+    <li>tradeNoun->グループ</li>
+  </NamerFactionTradersGuild.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[platAdj] [platform]</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->sunshine</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->stardust</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->galaxy</li>
+    <li>platAdj->cosmos</li>
+    <li>platAdj->void</li>
+    <li>platAdj->asteroid</li>
+    <li>platAdj->comet</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->quasar</li>
+    <li>platAdj->pulsar</li>
+    <li>platAdj->meteor</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->lunar</li>
+    <li>platAdj->solar</li>
+    <li>platAdj->celestial</li>
+    <li>platAdj->moonbeam</li>
+    <li>platAdj->sunburst</li>
+    <li>platAdj->starfield</li>
+    <li>platAdj->cosmic</li>
+    <li>platAdj->astral</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->luminary</li>
+    <li>platAdj->corona</li>
+    <li>platform->platform</li>
+    <li>platform->station</li>
+    <li>platform->hub</li>
+    <li>platform->station</li>
+    <li>platform->base</li>
+    <li>platform->dock</li>
+    <li>platform->ring</li>
+  -->
+  <NamerSettlementTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[platAdj][platform]</li>
+    <li>platAdj->スターライト</li>
+    <li>platAdj->サンシャイン</li>
+    <li>platAdj->ネビュラ</li>
+    <li>platAdj->スターダスト</li>
+    <li>platAdj->オリオン</li>
+    <li>platAdj->ホライゾン</li>
+    <li>platAdj->ギャラクシー</li>
+    <li>platAdj->コスモス</li>
+    <li>platAdj->ヴォイド</li>
+    <li>platAdj->アステロイド</li>
+    <li>platAdj->コメット</li>
+    <li>platAdj->エクリプス</li>
+    <li>platAdj->クエーサー</li>
+    <li>platAdj->パルス</li>
+    <li>platAdj->メテオ</li>
+    <li>platAdj->ゼニス</li>
+    <li>platAdj->ルナ</li>
+    <li>platAdj->ソーラー</li>
+    <li>platAdj->セレスティア</li>
+    <li>platAdj->ムーンビーム</li>
+    <li>platAdj->サンバースト</li>
+    <li>platAdj->スターフィールド</li>
+    <li>platAdj->コスモ</li>
+    <li>platAdj->アストラル</li>
+    <li>platAdj->オーロラ</li>
+    <li>platAdj->ルミネ</li>
+    <li>platAdj->コロナ</li>
+    <li>platform->プラットフォーム</li>
+    <li>platform->ステーション</li>
+    <li>platform->ハブ</li>
+    <li>platform->ステーション</li>
+    <li>platform->ベース</li>
+    <li>platform->ドック</li>
+    <li>platform->リング</li>
+  </NamerSettlementTradersGuild.rulePack.rulesStrings>
+  
+</LanguageData>

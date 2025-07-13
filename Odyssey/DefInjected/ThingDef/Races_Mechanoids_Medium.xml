@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyclops -->
+  <Mech_Cyclops.label>サイクロプス</Mech_Cyclops.label>
+  <!-- EN: A front-line combat mechanoid named for its large optical array. The cyclops specializes in counter-shield attacks. It takes a long time to lock onto a target, but once locked on, it fires a near endless barrage of shield-piercing beams. -->
+  <Mech_Cyclops.description>大型の光学アレイにちなんで名付けられた,前線戦闘用メカノイドです.サイクロプスは反シールド攻撃を専門としています.ターゲットをロックオンするのに時間がかかりますが,一度ロックオンすると,ほぼ無限のシールド破壊ビームの集中砲火を放ちます.</Mech_Cyclops.description>
+  <!-- EN: front left leg -->
+  <Mech_Cyclops.tools.front_left_leg.label>前左脚</Mech_Cyclops.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Cyclops.tools.front_left_leg.labelNoLocation>脚</Mech_Cyclops.tools.front_left_leg.labelNoLocation>
+  <!-- EN: front right leg -->
+  <Mech_Cyclops.tools.front_right_leg.label>前右脚</Mech_Cyclops.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Cyclops.tools.front_right_leg.labelNoLocation>脚</Mech_Cyclops.tools.front_right_leg.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Cyclops.tools.head.label>頭部</Mech_Cyclops.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital debris -->
+  <OrbitalDebris.label>軌道残骸</OrbitalDebris.label>
+  <!-- EN:
+    <li>tale_noun->a micrometeorite storm sweeping over [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->micrometeorite fragments peppering the area around [PAWN_nameDef]'s [Community]</li>
+    <li>image->a cascade of micrometeorites glimmering with [Color] sparks [airborne_circumstance]</li>
+    <li>image->a scattering of brightly-glowing micrometeorites [airborne_circumstance]</li>
+    <li>image->a shower of [Color] sparks as micrometeorites blaze [airborne_circumstance]</li>
+    <li>airborne_circumstance->racing across the sky</li>
+    <li>airborne_circumstance->tumbling down in a flurry of light</li>
+    <li>airborne_circumstance->dissipating into shimmering dust as they fall</li>
+    <li>image->a cluster of smoldering impact marks, [ground_circumstance]</li>
+    <li>image->a [Color] scorched fragment, [ground_circumstance]</li>
+    <li>image->a [Color] scatter of tiny stones, [ground_circumstance]</li>
+    <li>ground_circumstance->surrounded by a haze of fine dust</li>
+    <li>ground_circumstance->glowing faintly from residual heat</li>
+    <li>ground_circumstance->embedded in a blanket of cracked ground</li>
+    <li>ground_circumstance->scattered across the landscape</li>
+    <li>ground_circumstance->dotted amidst a field of minor craters</li>
+    <li>desc_sentence->[PAWN_nameDef] watches the shower in awe.</li>
+    <li>desc_sentence->[PAWN_nameDef] gazes up in wonder.</li>
+    <li>desc_sentence->[PAWN_nameDef] is startled by the relentless barrage.</li>
+    <li>desc_sentence->[Quantity_adjphrase] figures emerge from a nearby [TerrainFeature] to take shelter.</li>
+    <li>desc_sentence->[Quantity_adjphrase] figures scramble to secure their belongings.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s scurry about, seeking cover.</li>
+    <li>desc_sentence->Space is charged with an eerie power.</li>
+  -->
+  <OrbitalDebris.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]の[Community]が小さな隕石の嵐に襲われる</li>
+    <li>tale_noun->[PAWN_nameDef]の[Community]周辺に小さな隕石の破片が散らばる</li>
+    <li>image->小さな隕石群が[Color]色の火花を散らしながら[airborne_circumstance]</li>
+    <li>image->明るく輝く小さな隕石群がまばらに[airborne_circumstance]</li>
+    <li>image->小さな隕石群が燃えながら[airborne_circumstance]と同時に,その際に発生した火花によって,[Color]色の雨が降っているかのような光景が生み出される</li>
+    <li>airborne_circumstance->空を駆け抜ける</li>
+    <li>airborne_circumstance->集まり,光の渦となって落下する</li>
+    <li>airborne_circumstance->落下し,やがて輝く塵となり消える</li>
+    <li>image->地面でくすぶる無数の衝突痕が,[ground_circumstance]</li>
+    <li>image->[Color]色の焦げた隕石の破片が,[ground_circumstance]</li>
+    <li>image->バラバラになった[Color]色の小さな石片が,[ground_circumstance]</li>
+    <li>ground_circumstance->その周囲を細かい塵の霞で包まれる</li>
+    <li>ground_circumstance->残った熱でほのかに光る</li>
+    <li>ground_circumstance->ひび割れた地面のあちこちに埋まり込む</li>
+    <li>ground_circumstance->辺り一面に点在する</li>
+    <li>ground_circumstance->小さなクレーターの中に点在する</li>
+    <li>desc_sentence->[PAWN_nameDef]が畏怖の念を抱きながらこの雨のような光景を見ている.</li>
+    <li>desc_sentence->[PAWN_nameDef]が驚きながらそれをじっと見上げている.</li>
+    <li>desc_sentence->[PAWN_nameDef]が容赦のない隕石の雨を前に驚いている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の人物が,避難のために[TerrainFeature]から訪れている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の人物が,我先にと自分の持ち物を守ろうとしている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]体の[Animal]が,隠れる場所を探して走り回っている.</li>
+    <li>desc_sentence->宇宙には不気味な力が宿っている.</li>
+  </OrbitalDebris.rulePack.rulesStrings>
+  
+</LanguageData>

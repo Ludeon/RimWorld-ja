@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: salvagers -->
+  <Salvagers.label>略奪者</Salvagers.label>
+  <!-- EN: A ruthless faction of orbital scavengers who scour space for derelict ships and valuable wreckage. Salvagers operate entirely in space. -->
+  <Salvagers.description>軌道上のスカベンジャーで,遺棄された船や貴重な残骸を宇宙からくまなく探し出す冷酷な派閥です.略奪者は完全に宇宙で活動します.</Salvagers.description>
+  <!-- EN: boss -->
+  <Salvagers.leaderTitle>ボス</Salvagers.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Salvagers.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</Salvagers.messageDefendersAttacking>
+  <!-- EN: pirate -->
+  <Salvagers.pawnSingular>宙族</Salvagers.pawnSingular>
+  <!-- EN: pirates -->
+  <Salvagers.pawnsPlural>宙族</Salvagers.pawnsPlural>
+  
+  <!-- EN: traders guild -->
+  <TradersGuild.label>商人ギルド</TradersGuild.label>
+  <!-- EN: A loose coalition of orbital traders. Together they form an orbital marketplace that buys and sells goods from around the planet. Orbital traders will also buy goods from the occasional interplanetary trading vessel, giving them access to rare technologies.\n\nThese merchants are rarely found on the planet itself, preferring to live in the safety of their orbital platforms. -->
+  <TradersGuild.description>軌道上の商人たちによる緩い集まりです.彼らは協力して,惑星全体から商品を売買する軌道市場を形成しています.軌道上の商人は時折,惑星間の貿易船から商品を購入し,希少な技術を入手します.\n\nこれらの商人は通常,地表に降り立つことはなく,安全な軌道プラットフォームを好んでいます.</TradersGuild.description>
+  <!-- EN: magister of trade -->
+  <TradersGuild.leaderTitle>交易修士</TradersGuild.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TradersGuild.messageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</TradersGuild.messageDefendersAttacking>
+  <!-- EN: guild member -->
+  <TradersGuild.pawnSingular>ギルドメンバー</TradersGuild.pawnSingular>
+  <!-- EN: guild members -->
+  <TradersGuild.pawnsPlural>ギルドメンバー</TradersGuild.pawnsPlural>
+  
+</LanguageData>

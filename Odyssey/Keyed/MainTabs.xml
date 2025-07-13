@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Research -->
+  <!-- EN: Grav engine must be inspected -->
+  <MissingGravEngineInspection>重力エンジンの調査が必要</MissingGravEngineInspection>
+  <!-- EN: Requires inspection of -->
+  <RequiresInspectionof>調査が必要</RequiresInspectionof>
+  <!-- EN: Grav engine inspected -->
+  <RequireGravEngineInspected>重力エンジン調査済み</RequireGravEngineInspected>
+  
+  <!-- Ancient vents -->
+  <!-- EN: venting smoke. -->
+  <AncientSmokeVentActive>煙を排出中.</AncientSmokeVentActive>
+  <!-- EN: creating toxic fallout. -->
+  <AncientToxVentActive>死の灰を生成中.</AncientToxVentActive>
+  <!-- EN: venting heat. -->
+  <AncientHeatVentActive>熱を排出中.</AncientHeatVentActive>
+  
+</LanguageData>

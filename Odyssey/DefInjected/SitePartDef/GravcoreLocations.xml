@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>放棄された集落</AbandonedSettlement.label>
+  <!-- EN: The gravcore energy signature is coming from somewhere in this settlement. Explore the abandoned buildings to find the gravcore. -->
+  <AbandonedSettlement.description>重力コアのエネルギーの波紋がこの集落内のどこかから発せられています.放棄された建物を探索して重力コアを見つけましょう.</AbandonedSettlement.description>
+  <!-- EN: Contains: Gravcore -->
+  <AbandonedSettlement.mainPartAllThreatsLabel>内容物：重力コア</AbandonedSettlement.mainPartAllThreatsLabel>
+  
+  <!-- EN: ancient reactor -->
+  <AncientReactor.label>古代のリアクター</AncientReactor.label>
+  <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is cracked and leaking toxic fallout over the whole region. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
+  <AncientReactor.description>古代のリアクターが近くの廃墟に隠されています.リアクターには亀裂が入り,死の灰が地域全体に影響を与えています.リアクターを見つけて無力化し,重力コアを入手して毒の影響を止めましょう.</AncientReactor.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientReactor.mainPartAllThreatsLabel>内容物：重力コア</AncientReactor.mainPartAllThreatsLabel>
+  
+  <!-- EN: ancient stockpile -->
+  <AncientStockpile.label>古代の貯蔵庫</AncientStockpile.label>
+  <!-- EN: You have detected the energy signature of a gravcore emanating from an ancient underground stockpile. The location is marked on the world map.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
+  <AncientStockpile.description>重力コアのエネルギーの波紋を古代の地下貯蔵庫から検出しました.この場所がワールドマップにマークされました.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</AncientStockpile.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientStockpile.mainPartAllThreatsLabel>内容物：重力コア</AncientStockpile.mainPartAllThreatsLabel>
+  
+  <!-- EN: crashed mechanoid platform -->
+  <CrashedMechanoidPlatform.label>墜落したメカノイドプラットフォーム</CrashedMechanoidPlatform.label>
+  <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
+  <CrashedMechanoidPlatform.description>軌道プラットフォームの残骸が近くに散乱しています.しかし注意してください,この漂着物のそばには敵対的なメカノイドがいるでしょう.\n\n墜落場所のどこかから,重力コアの信号が発信されています.</CrashedMechanoidPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <CrashedMechanoidPlatform.mainPartAllThreatsLabel>内容物：重力コア</CrashedMechanoidPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: frozen terraformer -->
+  <FrozenTerraformer.label>凍結のテラフォーマー</FrozenTerraformer.label>
+  <!-- EN: You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
+  <FrozenTerraformer.description>重力コアのエネルギーの波紋を検出しました.重力コアは,故障した古代のテラフォーマーを動かしているようです.この場所がワールドマップにマークされました.\n\nテラフォーマーは地域を危険なほど低温に冷却しています.寒冷な天候に備えましょう.\n\n重力コアと重力軽量パネルを入手して,グラヴシップのサイズを拡大しましょう.</FrozenTerraformer.description>
+  <!-- EN: Contains: Gravcore -->
+  <FrozenTerraformer.mainPartAllThreatsLabel>内容物：重力コア</FrozenTerraformer.mainPartAllThreatsLabel>
+  
+  <!-- EN: cave system -->
+  <InsectLair.label>洞窟システム</InsectLair.label>
+  <!-- EN: You have detected the energy signature of a gravcore emanating from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nObtain gravcores and gravlite paneling to upgrade your gravship. -->
+  <InsectLair.description>重力コアのエネルギーの波紋を地下深くの洞窟システムから検出しました.洞窟システムへの入り口がワールドマップにマークされました.\n\n重力コアと重力軽量パネルを入手してグラヴシップをアップグレードしましょう.</InsectLair.description>
+  <!-- EN: Contains: Gravcore -->
+  <InsectLair.mainPartAllThreatsLabel>内容物：重力コア</InsectLair.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechanoid relay -->
+  <MechanoidRelay.label>メカノイド・リレー</MechanoidRelay.label>
+  <!-- EN: The gravcore energy signature is coming from a mechanoid communication relay here. Disassemble it to acquire the gravcore. -->
+  <MechanoidRelay.description>重力コアのエネルギーの波紋がメカノイド通信リレーから発せられています.分解して重力コアを手に入れましょう.</MechanoidRelay.description>
+  <!-- EN: Contains: Gravcore -->
+  <MechanoidRelay.mainPartAllThreatsLabel>内容物：重力コア</MechanoidRelay.mainPartAllThreatsLabel>
+  
+  <!-- EN: abandoned orbital platform -->
+  <OrbitalAncientPlatform.label>放棄された軌道プラットフォーム</OrbitalAncientPlatform.label>
+  <!-- EN: You have detected the energy signature of a gravcore.\n\nBe careful - orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <OrbitalAncientPlatform.description>重力コアのエネルギーの波紋を検出しました.\n\n注意してください,惑星の軌道上は非常に危険です.グラヴシップが気密壁で完全に囲まれていることを確認し,入植者に真空スーツを装備させてください.また,軌道上に長期間滞在するのは非常に難しいため,帰還の計画も立ててください.</OrbitalAncientPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <OrbitalAncientPlatform.mainPartAllThreatsLabel>内容物：重力コア</OrbitalAncientPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechanoid platform -->
+  <OrbitalMechanoidPlatform.label>メカノイドプラットフォーム</OrbitalMechanoidPlatform.label>
+  <!-- EN: You have detected the energy signature of a gravcore on this platform. There is a heavy mechanoid presence.\n\nBe careful, orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <OrbitalMechanoidPlatform.description>重力コアのエネルギーの波紋をこのプラットフォームから検出しました.また同時に,大型メカノイドの存在も明らかになりました.\n\n注意してください,惑星の軌道上は非常に危険です.グラヴシップが気密壁で完全に囲まれていることを確認し,入植者に真空スーツを装備させてください.また,軌道上に長期間滞在するのは非常に難しいため,帰還の計画も立ててください.</OrbitalMechanoidPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <OrbitalMechanoidPlatform.mainPartAllThreatsLabel>内容物：重力コア</OrbitalMechanoidPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechhive -->
+  <OrbitalMechhive.label>メカハイブ</OrbitalMechhive.label>
+  <!-- EN: You have detected the mechhive in orbit above the planet. Its location is marked on the world map.\n\nThe mechhive is the center of mechanoid intelligence and directs mechanoids across planet. If shut it down, it will disable mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit. -->
+  <OrbitalMechhive.description>惑星軌道上のメカハイブを検出しました.この場所がワールドマップにマークされました.\n\nメカハイブはメカノイドの知能の中心であり,惑星中のメカノイドを指揮します.これを停止すれば,惑星全体でメカノイドが無力化されます.あるいは,あなた自身の目的のためにメカハイブを利用できるかもしれません.\n\n警告：メカハイブは非常に危険です.先に他の場所での探索を終え,そして軌道上で長期滞在する準備を整えましょう.</OrbitalMechhive.description>
+  
+</LanguageData>

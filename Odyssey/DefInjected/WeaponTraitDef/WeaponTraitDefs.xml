@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aim assistance -->
+  <AimAssistance.label>照準補助</AimAssistance.label>
+  <!-- EN: This weapon contains a rudimentary aim assistant computer which helps track targets, increasing accuracy at all ranges. The device can account for environmental challenges, allowing the weapon to ignore the accuracy penalty from bad weather and smoke. -->
+  <AimAssistance.description>この武器にはターゲットを追尾する簡易的な照準補助コンピュータが組み込まれており,全距離での精度が向上しています.この装置は環境的な障害も考慮できるため,悪天候や煙幕による精度低下も無視できるようになります.</AimAssistance.description>
+  <!-- EN: seeking -->
+  <AimAssistance.traitAdjectives.0>探知の</AimAssistance.traitAdjectives.0>
+  <!-- EN: accurate -->
+  <AimAssistance.traitAdjectives.1>正確な</AimAssistance.traitAdjectives.1>
+  <!-- EN: precise -->
+  <AimAssistance.traitAdjectives.2>精密な</AimAssistance.traitAdjectives.2>
+  <!-- EN: auto-aim -->
+  <AimAssistance.traitAdjectives.3>オートエイムの</AimAssistance.traitAdjectives.3>
+  <!-- EN: self-aim -->
+  <AimAssistance.traitAdjectives.4>自動照準の</AimAssistance.traitAdjectives.4>
+  
+  <!-- EN: bioferrite burner -->
+  <BioferriteBurner.label>バイオフェライトバーナー</BioferriteBurner.label>
+  <!-- EN: This weapon has a bioferrite-powered flamethrower unit. The burner generates a blast of flame from a pressurized bioferrite charge. Once used, it must be reloaded using bioferrite. -->
+  <BioferriteBurner.description>この武器にはバイオフェライト駆動の火炎放射装置が付いています.バーナーは加圧されたバイオフェライトを利用して火炎を噴射します.一度使用するごとに,バイオフェライトを使って再装填する必要があります.</BioferriteBurner.description>
+  <!-- EN: burner charge -->
+  <BioferriteBurner.abilityProps.chargeNoun>バーナーチャージ</BioferriteBurner.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <BioferriteBurner.abilityProps.cooldownGerund>クールダウン中</BioferriteBurner.abilityProps.cooldownGerund>
+  <!-- EN: fiery -->
+  <BioferriteBurner.traitAdjectives.0>灼熱の</BioferriteBurner.traitAdjectives.0>
+  <!-- EN: flame -->
+  <BioferriteBurner.traitAdjectives.1>炎の</BioferriteBurner.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <BioferriteBurner.traitAdjectives.2>火を吐く</BioferriteBurner.traitAdjectives.2>
+  <!-- EN: burning -->
+  <BioferriteBurner.traitAdjectives.3>業火の</BioferriteBurner.traitAdjectives.3>
+  
+  <!-- EN: birdshot pellets -->
+  <BirdshotPellets.label>バードショットペレット</BirdshotPellets.label>
+  <!-- EN: This weapon fires shells containing smaller pellets than normal. It's much more accurate at close range, but less effective at long range. -->
+  <BirdshotPellets.description>この武器は通常より小さな散弾の入ったショットシェルを発射できます.近距離では非常に正確ですが,遠距離では効果が低くなります.</BirdshotPellets.description>
+  <!-- EN: birdshot -->
+  <BirdshotPellets.traitAdjectives.0>バードショットの</BirdshotPellets.traitAdjectives.0>
+  <!-- EN: nearshot -->
+  <BirdshotPellets.traitAdjectives.1>近距離の</BirdshotPellets.traitAdjectives.1>
+  
+  <!-- EN: broadhead arrows -->
+  <BroadheadArrows.label>ブロードヘッドアロー</BroadheadArrows.label>
+  <!-- EN: This bow shoots arrows tipped with sharp blades, increasing its damage. -->
+  <BroadheadArrows.description>この弓は通常よりも鋭い矢じりを持つ矢を放つことができ,ダメージが増加します.</BroadheadArrows.description>
+  <!-- EN: strong -->
+  <BroadheadArrows.traitAdjectives.0>強き</BroadheadArrows.traitAdjectives.0>
+  <!-- EN: broadhead -->
+  <BroadheadArrows.traitAdjectives.1>ブロードヘッドの</BroadheadArrows.traitAdjectives.1>
+  
+  <!-- EN: charge capacitor -->
+  <ChargeCapacitor.label>チャージキャパシタ</ChargeCapacitor.label>
+  <!-- EN: This weapon amplifies pulse-charge technology with a massive capacitor, increasing damage and armor penetration. -->
+  <ChargeCapacitor.description>この武器にはパルスチャージ技術を増幅する巨大なキャパシタが使われており,ダメージとアーマー貫通力を向上させます.</ChargeCapacitor.description>
+  <!-- EN: overcharged -->
+  <ChargeCapacitor.traitAdjectives.0>過充電の</ChargeCapacitor.traitAdjectives.0>
+  
+  <!-- EN: cumbersome -->
+  <Cumbersome.label>扱いにくい</Cumbersome.label>
+  <!-- EN: This weapon is unwieldy to use, making it slower to aim. -->
+  <Cumbersome.description>この武器は扱いが難しく,照準が遅くなります.</Cumbersome.description>
+  <!-- EN: cumbersome -->
+  <Cumbersome.traitAdjectives.0>扱いにくい</Cumbersome.traitAdjectives.0>
+  <!-- EN: bulky -->
+  <Cumbersome.traitAdjectives.1>使いにくい</Cumbersome.traitAdjectives.1>
+  <!-- EN: awkward -->
+  <Cumbersome.traitAdjectives.2>不器用な</Cumbersome.traitAdjectives.2>
+  
+  <!-- EN: custom grip -->
+  <CustomGrip.label>改造グリップ</CustomGrip.label>
+  <!-- EN: This weapon contains a customized grip that handles recoil better, improving accuracy at short range. It looks cool too. -->
+  <CustomGrip.description>この武器はグリップが改造されており,反動制御や近距離での精度が向上しています.また,見た目もかっこいいです.</CustomGrip.description>
+  <!-- EN: custom -->
+  <CustomGrip.traitAdjectives.0>特注の</CustomGrip.traitAdjectives.0>
+  <!-- EN: customized -->
+  <CustomGrip.traitAdjectives.1>改造された</CustomGrip.traitAdjectives.1>
+  <!-- EN: gripped -->
+  <CustomGrip.traitAdjectives.2>握られた</CustomGrip.traitAdjectives.2>
+  <!-- EN: hi-grip -->
+  <CustomGrip.traitAdjectives.3>高性能な</CustomGrip.traitAdjectives.3>
+  
+  <!-- EN: EMP cannon -->
+  <EMPLauncher.label>EMPキャノン</EMPLauncher.label>
+  <!-- EN: This weapon has an attached EMP shell launcher. The shell emits a burst of electromagnetic energy that stuns electronic targets like turrets and mechanoids. Once fired, it must be reloaded using steel. -->
+  <EMPLauncher.description>この武器にはEMPシェルランチャーが付いています.EMPシェルはタレットやメカノイドのような電子ターゲットをスタンさせるEMPパルスを放ちます.発射後は,スチールを使って再装填する必要があります.</EMPLauncher.description>
+  <!-- EN: shell -->
+  <EMPLauncher.abilityProps.chargeNoun>シェル</EMPLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EMPLauncher.abilityProps.cooldownGerund>クールダウン中</EMPLauncher.abilityProps.cooldownGerund>
+  <!-- EN: EMP -->
+  <EMPLauncher.traitAdjectives.0>電磁パルスの</EMPLauncher.traitAdjectives.0>
+  <!-- EN: disabling -->
+  <EMPLauncher.traitAdjectives.1>無効化の</EMPLauncher.traitAdjectives.1>
+  <!-- EN: stunning -->
+  <EMPLauncher.traitAdjectives.2>意識を奪う</EMPLauncher.traitAdjectives.2>
+  
+  <!-- EN: EMP pulser -->
+  <EMPPulser.label>EMPパルサー</EMPPulser.label>
+  <!-- EN: This weapon can emit a burst of energy centered on the user. The burst will stun nearby electronic targets like mechanoids or turrets. Once used, the pulser takes some time to recharge. -->
+  <EMPPulser.description>この武器はEMPパルスを使用者の周囲に発生させます.この爆発は近くのメカノイドやタレットのような電子ターゲットをスタンさせます.一度使用すると,時間をかけて再充電する必要があります.</EMPPulser.description>
+  <!-- EN: charge -->
+  <EMPPulser.abilityProps.chargeNoun>チャージ</EMPPulser.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EMPPulser.abilityProps.cooldownGerund>クールダウン中</EMPPulser.abilityProps.cooldownGerund>
+  <!-- EN: pulse -->
+  <EMPPulser.traitAdjectives.0>パルスの</EMPPulser.traitAdjectives.0>
+  <!-- EN: EMP -->
+  <EMPPulser.traitAdjectives.1>電磁パルスの</EMPPulser.traitAdjectives.1>
+  
+  <!-- EN: EMP rounds -->
+  <EMPRounds.label>EMP弾</EMPRounds.label>
+  <!-- EN: This weapon fires rounds with embedded EMP capacitors, which will temporarily disable electronics and mechanoids. -->
+  <EMPRounds.description>この武器はEMPキャパシタを搭載した弾丸を発射でき,電子機器やメカノイドを一時的に無効化します.</EMPRounds.description>
+  <!-- EN: EMP -->
+  <EMPRounds.traitAdjectives.0>電磁パルスの</EMPRounds.traitAdjectives.0>
+  <!-- EN: electric -->
+  <EMPRounds.traitAdjectives.1>電撃の</EMPRounds.traitAdjectives.1>
+  <!-- EN: shocking -->
+  <EMPRounds.traitAdjectives.2>衝撃の</EMPRounds.traitAdjectives.2>
+  <!-- EN: sparky -->
+  <EMPRounds.traitAdjectives.3>火花を上げる</EMPRounds.traitAdjectives.3>
+  <!-- EN: zapping -->
+  <EMPRounds.traitAdjectives.4>流電の</EMPRounds.traitAdjectives.4>
+  
+  <!-- EN: extended barrel -->
+  <ExtendedBarrel.label>延長バレル</ExtendedBarrel.label>
+  <!-- EN: This weapon has a longer range than normal. -->
+  <ExtendedBarrel.description>この武器は射程が通常より長いです.</ExtendedBarrel.description>
+  <!-- EN: long -->
+  <ExtendedBarrel.traitAdjectives.0>長い</ExtendedBarrel.traitAdjectives.0>
+  <!-- EN: extended -->
+  <ExtendedBarrel.traitAdjectives.1>伸ばされた</ExtendedBarrel.traitAdjectives.1>
+  
+  <!-- EN: extended magazine -->
+  <ExtendedMagazine.label>拡張マガジン</ExtendedMagazine.label>
+  <!-- EN: This weapon fires 50% more shots in a single burst than normal. -->
+  <ExtendedMagazine.description>この武器は1回の射撃で通常よりも50%多くの弾を発射できます.</ExtendedMagazine.description>
+  <!-- EN: high-capacity -->
+  <ExtendedMagazine.traitAdjectives.0>大容量の</ExtendedMagazine.traitAdjectives.0>
+  <!-- EN: extendo-clip -->
+  <ExtendedMagazine.traitAdjectives.1>マガジンの</ExtendedMagazine.traitAdjectives.1>
+  
+  <!-- EN: frequency amplifier -->
+  <FrequencyAmplifier.label>周波増幅器</FrequencyAmplifier.label>
+  <!-- EN: This weapon passes the beam through a crystal amplifier, dramatically increasing the weapon's damage and range. The weapon needs to cool down between uses. -->
+  <FrequencyAmplifier.description>この武器にはクリスタル製の増幅器が使われており,これにビームを通すことでダメージと射程を劇的に向上させます.武器は使うたびにクールダウンが必要です.</FrequencyAmplifier.description>
+  <!-- EN: amplified -->
+  <FrequencyAmplifier.traitAdjectives.0>増幅された</FrequencyAmplifier.traitAdjectives.0>
+  
+  <!-- EN: gold inlay -->
+  <GoldInlay.label>金の象眼</GoldInlay.label>
+  <!-- EN: This weapon is inlaid with gold. Traders will pay more for it. -->
+  <GoldInlay.description>この武器は金で装飾されています.貿易商は高値でこれを買い取ります.</GoldInlay.description>
+  <!-- EN: gold -->
+  <GoldInlay.traitAdjectives.0>金の</GoldInlay.traitAdjectives.0>
+  <!-- EN: golden -->
+  <GoldInlay.traitAdjectives.1>黄金の</GoldInlay.traitAdjectives.1>
+  
+  <!-- EN: grenade launcher -->
+  <GrenadeLauncher.label>グレネードランチャー</GrenadeLauncher.label>
+  <!-- EN: This weapon has an attached frag grenade launcher. Once fired, it must be reloaded using steel. -->
+  <GrenadeLauncher.description>この武器にはグレネードランチャーが付いています.発射後はスチールを使って再装填する必要があります.</GrenadeLauncher.description>
+  <!-- EN: grenade -->
+  <GrenadeLauncher.abilityProps.chargeNoun>グレネード</GrenadeLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <GrenadeLauncher.abilityProps.cooldownGerund>クールダウン中</GrenadeLauncher.abilityProps.cooldownGerund>
+  <!-- EN: explosive -->
+  <GrenadeLauncher.traitAdjectives.0>爆発の</GrenadeLauncher.traitAdjectives.0>
+  
+  <!-- EN: high-power rounds -->
+  <HighPowerRounds.label>高威力弾</HighPowerRounds.label>
+  <!-- EN: Special ammunition makes this weapon more powerful than normal. The heavy recoil makes it less accurate. -->
+  <HighPowerRounds.description>この武器は特別な弾薬を使用しており,通常よりも高い威力を持ちます.ただし反動が大きいため,精度が低下します.</HighPowerRounds.description>
+  <!-- EN: atlas -->
+  <HighPowerRounds.traitAdjectives.0>アトラスのような</HighPowerRounds.traitAdjectives.0>
+  <!-- EN: hi-power -->
+  <HighPowerRounds.traitAdjectives.1>高威力な</HighPowerRounds.traitAdjectives.1>
+  <!-- EN: heavy-shot -->
+  <HighPowerRounds.traitAdjectives.2>会心の</HighPowerRounds.traitAdjectives.2>
+  <!-- EN: hardpunch -->
+  <HighPowerRounds.traitAdjectives.3>強撃の</HighPowerRounds.traitAdjectives.3>
+  <!-- EN: heavy-hit -->
+  <HighPowerRounds.traitAdjectives.4>致命的な</HighPowerRounds.traitAdjectives.4>
+  
+  <!-- EN: hollow-point rounds -->
+  <HollowPointRounds.label>ホローポイント弾</HollowPointRounds.label>
+  <!-- EN: This weapon fires bullets that expand on impact, dealing more damage than normal. -->
+  <HollowPointRounds.description>この武器は着弾地点で拡散する弾丸を発射でき,通常よりも多くのダメージを与えます.</HollowPointRounds.description>
+  <!-- EN: shredding -->
+  <HollowPointRounds.traitAdjectives.0>寸断する</HollowPointRounds.traitAdjectives.0>
+  <!-- EN: hollowpoint -->
+  <HollowPointRounds.traitAdjectives.1>ホローポイントの</HollowPointRounds.traitAdjectives.1>
+  <!-- EN: hardpunch -->
+  <HollowPointRounds.traitAdjectives.2>強撃の</HollowPointRounds.traitAdjectives.2>
+  <!-- EN: meatrip -->
+  <HollowPointRounds.traitAdjectives.3>肉裂きの</HollowPointRounds.traitAdjectives.3>
+  <!-- EN: grinder -->
+  <HollowPointRounds.traitAdjectives.4>粉砕の</HollowPointRounds.traitAdjectives.4>
+  
+  <!-- EN: tactical sight -->
+  <ImprovedSights.label>タクティカル照準器</ImprovedSights.label>
+  <!-- EN: This weapon has a custom sight, increasing its accuracy at long range. -->
+  <ImprovedSights.description>この武器には特別な照準器が使われており,長距離での精度が向上しています.</ImprovedSights.description>
+  <!-- EN: accurate -->
+  <ImprovedSights.traitAdjectives.0>正確な</ImprovedSights.traitAdjectives.0>
+  <!-- EN: precise -->
+  <ImprovedSights.traitAdjectives.1>精密な</ImprovedSights.traitAdjectives.1>
+  <!-- EN: sniper -->
+  <ImprovedSights.traitAdjectives.2>狙撃する</ImprovedSights.traitAdjectives.2>
+  
+  <!-- EN: incendiary launcher -->
+  <IncendiaryLauncher.label>火炎筒投射機</IncendiaryLauncher.label>
+  <!-- EN: This weapon has an attached incendiary shell launcher. The shell creates a small flame explosion that ignites everything nearby. Once fired, it must be reloaded using chemfuel. -->
+  <IncendiaryLauncher.description>この武器には焼夷弾ランチャーが付いています.弾は小さな火焔爆発を起こし,周囲のものを発火させます.発射後は,バイオ液化燃料を使用して再装填する必要があります.</IncendiaryLauncher.description>
+  <!-- EN: shell -->
+  <IncendiaryLauncher.abilityProps.chargeNoun>シェル</IncendiaryLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <IncendiaryLauncher.abilityProps.cooldownGerund>クールダウン中</IncendiaryLauncher.abilityProps.cooldownGerund>
+  <!-- EN: fiery -->
+  <IncendiaryLauncher.traitAdjectives.0>灼熱の</IncendiaryLauncher.traitAdjectives.0>
+  <!-- EN: flame -->
+  <IncendiaryLauncher.traitAdjectives.1>炎の</IncendiaryLauncher.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <IncendiaryLauncher.traitAdjectives.2>火を吐く</IncendiaryLauncher.traitAdjectives.2>
+  <!-- EN: burning -->
+  <IncendiaryLauncher.traitAdjectives.3>業火の</IncendiaryLauncher.traitAdjectives.3>
+  
+  <!-- EN: incendiary pellets -->
+  <IncendiaryPellets.label>焼夷ペレット</IncendiaryPellets.label>
+  <!-- EN: This weapon fires phosphorus pellets that have a chance to ignite targets. -->
+  <IncendiaryPellets.description>この武器はリンを含んだペレットを発射でき,確率でターゲットを発火させることができます.</IncendiaryPellets.description>
+  <!-- EN: red -->
+  <IncendiaryPellets.traitAdjectives.0>赤き</IncendiaryPellets.traitAdjectives.0>
+  <!-- EN: fiery -->
+  <IncendiaryPellets.traitAdjectives.1>灼熱の</IncendiaryPellets.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <IncendiaryPellets.traitAdjectives.2>火を吐く</IncendiaryPellets.traitAdjectives.2>
+  <!-- EN: burning -->
+  <IncendiaryPellets.traitAdjectives.3>業火の</IncendiaryPellets.traitAdjectives.3>
+  <!-- EN: hot -->
+  <IncendiaryPellets.traitAdjectives.4>熱き</IncendiaryPellets.traitAdjectives.4>
+  <!-- EN: volcanic -->
+  <IncendiaryPellets.traitAdjectives.5>火山のような</IncendiaryPellets.traitAdjectives.5>
+  <!-- EN: promethean -->
+  <IncendiaryPellets.traitAdjectives.6>プロメテウスのような</IncendiaryPellets.traitAdjectives.6>
+  
+  <!-- EN: incendiary rounds -->
+  <IncendiaryRounds.label>焼夷弾</IncendiaryRounds.label>
+  <!-- EN: This weapon fires ammunition that contains a flammable chemical. It has a chance to ignite targets. -->
+  <IncendiaryRounds.description>この武器は可燃性化学物質を含んだ弾薬を発射でき,確率でターゲットを発火させることができます.</IncendiaryRounds.description>
+  <!-- EN: red -->
+  <IncendiaryRounds.traitAdjectives.0>赤き</IncendiaryRounds.traitAdjectives.0>
+  <!-- EN: fiery -->
+  <IncendiaryRounds.traitAdjectives.1>灼熱の</IncendiaryRounds.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <IncendiaryRounds.traitAdjectives.2>火を吐く</IncendiaryRounds.traitAdjectives.2>
+  <!-- EN: burning -->
+  <IncendiaryRounds.traitAdjectives.3>業火の</IncendiaryRounds.traitAdjectives.3>
+  <!-- EN: hot -->
+  <IncendiaryRounds.traitAdjectives.4>熱き</IncendiaryRounds.traitAdjectives.4>
+  <!-- EN: igniting -->
+  <IncendiaryRounds.traitAdjectives.5>発火の</IncendiaryRounds.traitAdjectives.5>
+  <!-- EN: napalm -->
+  <IncendiaryRounds.traitAdjectives.6>ナパームの</IncendiaryRounds.traitAdjectives.6>
+  
+  <!-- EN: jade inlay -->
+  <JadeInlay.label>ヒスイの象眼</JadeInlay.label>
+  <!-- EN: This weapon is adorned with jade. Traders will pay more for it. -->
+  <JadeInlay.description>この武器はヒスイで装飾されています.貿易商は高値でこれを買い取ります.</JadeInlay.description>
+  <!-- EN: jade -->
+  <JadeInlay.traitAdjectives.0>ヒスイの</JadeInlay.traitAdjectives.0>
+  
+  <!-- EN: lightweight -->
+  <Lightweight.label>軽量</Lightweight.label>
+  <!-- EN: This weapon is much lighter than normal, lowering its aiming time. -->
+  <Lightweight.description>この武器は通常よりも大幅に軽いため,照準にかかる時間が短縮されます.</Lightweight.description>
+  <!-- EN: light -->
+  <Lightweight.traitAdjectives.0>軽い</Lightweight.traitAdjectives.0>
+  <!-- EN: quickdraw -->
+  <Lightweight.traitAdjectives.1>早撃ちの</Lightweight.traitAdjectives.1>
+  
+  <!-- EN: lightweight arrows -->
+  <LightweightArrows.label>軽量矢</LightweightArrows.label>
+  <!-- EN: This bow is adept at firing lightweight arrows. They fly farther but deal less damage. -->
+  <LightweightArrows.description>この弓は軽量矢を放つことに優れています.軽量矢はより遠くまで飛びますが,与えるダメージが減ります.</LightweightArrows.description>
+  <!-- EN: light -->
+  <LightweightArrows.traitAdjectives.0>軽い</LightweightArrows.traitAdjectives.0>
+  <!-- EN: longreach -->
+  <LightweightArrows.traitAdjectives.1>射程の長い</LightweightArrows.traitAdjectives.1>
+  
+  <!-- EN: ornamental -->
+  <Ornamental.label>装飾的</Ornamental.label>
+  <!-- EN: This weapon was crafted for aesthetics over functionality. It deals less damage but looks great. -->
+  <Ornamental.description>この武器は実用性よりも美観を重視して作られています.与えるダメージは減りますが,見た目は素晴らしいです.</Ornamental.description>
+  <!-- EN: beautiful -->
+  <Ornamental.traitAdjectives.0>美しい</Ornamental.traitAdjectives.0>
+  <!-- EN: elegant -->
+  <Ornamental.traitAdjectives.1>優美な</Ornamental.traitAdjectives.1>
+  <!-- EN: ornamental -->
+  <Ornamental.traitAdjectives.2>おしゃれな</Ornamental.traitAdjectives.2>
+  
+  <!-- EN: heavy rounds -->
+  <OversizedRounds.label>重弾</OversizedRounds.label>
+  <!-- EN: This weapon deals more damage and has a much higher stopping power than normal. -->
+  <OversizedRounds.description>この武器は通常よりも大きなダメージを与えられ,動きを止める力も非常に強力です.</OversizedRounds.description>
+  <!-- EN: hammering -->
+  <OversizedRounds.traitAdjectives.0>打ち付ける</OversizedRounds.traitAdjectives.0>
+  <!-- EN: forceful -->
+  <OversizedRounds.traitAdjectives.1>力強い</OversizedRounds.traitAdjectives.1>
+  <!-- EN: oversized -->
+  <OversizedRounds.traitAdjectives.2>強大な</OversizedRounds.traitAdjectives.2>
+  <!-- EN: knockout -->
+  <OversizedRounds.traitAdjectives.3>圧倒的な</OversizedRounds.traitAdjectives.3>
+  
+  <!-- EN: paralytic arrows -->
+  <ParalyticArrows.label>麻痺矢</ParalyticArrows.label>
+  <!-- EN: This bow shoots arrows embedded with a paralytic biotoxin, which briefly stuns targets. -->
+  <ParalyticArrows.description>この弓は麻痺性バイオトキシンを塗布した矢を放つことができ,ターゲットを短時間スタンさせます.</ParalyticArrows.description>
+  <!-- EN: paralyzing -->
+  <ParalyticArrows.traitAdjectives.0>麻痺性の</ParalyticArrows.traitAdjectives.0>
+  <!-- EN: paralytic -->
+  <ParalyticArrows.traitAdjectives.1>痺れる</ParalyticArrows.traitAdjectives.1>
+  <!-- EN: stunning -->
+  <ParalyticArrows.traitAdjectives.2>意識を奪う</ParalyticArrows.traitAdjectives.2>
+  
+  <!-- EN: piercing arrows -->
+  <PiercingArrows.label>貫通矢</PiercingArrows.label>
+  <!-- EN: This bow shoots bodkin-tipped arrows, making it more effective against armored targets. -->
+  <PiercingArrows.description>この弓は鎧通しの矢を放つことができ,装甲を持つターゲットにも効果的にダメージを与えます.</PiercingArrows.description>
+  <!-- EN: piercing -->
+  <PiercingArrows.traitAdjectives.0>貫く</PiercingArrows.traitAdjectives.0>
+  <!-- EN: sharp -->
+  <PiercingArrows.traitAdjectives.1>鋭い</PiercingArrows.traitAdjectives.1>
+  <!-- EN: penetrating -->
+  <PiercingArrows.traitAdjectives.2>突き刺す</PiercingArrows.traitAdjectives.2>
+  <!-- EN: bodkin -->
+  <PiercingArrows.traitAdjectives.3>穿つ</PiercingArrows.traitAdjectives.3>
+  <!-- EN: anti-armor -->
+  <PiercingArrows.traitAdjectives.4>対装甲用</PiercingArrows.traitAdjectives.4>
+  
+  <!-- EN: piercing rounds -->
+  <PiercingRounds.label>貫通弾</PiercingRounds.label>
+  <!-- EN: This weapon fires rounds designed to penetrate thick armor. -->
+  <PiercingRounds.description>この武器は厚い装甲を貫通するよう設計された弾丸を発射できます.</PiercingRounds.description>
+  <!-- EN: piercing -->
+  <PiercingRounds.traitAdjectives.0>貫く</PiercingRounds.traitAdjectives.0>
+  <!-- EN: sharp -->
+  <PiercingRounds.traitAdjectives.1>鋭い</PiercingRounds.traitAdjectives.1>
+  <!-- EN: sabot -->
+  <PiercingRounds.traitAdjectives.2>サボット弾の</PiercingRounds.traitAdjectives.2>
+  <!-- EN: penetrating -->
+  <PiercingRounds.traitAdjectives.3>突き刺す</PiercingRounds.traitAdjectives.3>
+  
+  <!-- EN: tracking scope -->
+  <PrecisionScope.label>追跡スコープ</PrecisionScope.label>
+  <!-- EN: This weapon's scope uses target recognition software to automate target tracking, making it faster to fire. -->
+  <PrecisionScope.description>この武器のスコープにはターゲット認識ソフトウェアが搭載されており,ターゲットを自動で追尾することで射撃速度が向上します.</PrecisionScope.description>
+  <!-- EN: trackscope -->
+  <PrecisionScope.traitAdjectives.0>追跡する</PrecisionScope.traitAdjectives.0>
+  <!-- EN: fastfire -->
+  <PrecisionScope.traitAdjectives.1>速射の</PrecisionScope.traitAdjectives.1>
+  
+  <!-- EN: pulse charger -->
+  <PulseCharger.label>パルスチャージャー</PulseCharger.label>
+  <!-- EN: This weapon is retrofitted with pulse-charge technology, imbuing bullets with unstable energy. The weapon was clearly not designed for this, dramatically lowering its accuracy. -->
+  <PulseCharger.description>この武器にはパルスチャージ技術を組み込まれており,不安定なエネルギーを弾丸に付与できます.しかし明らかに無理に組み込まれたものであるため,射撃精度が劇的に低下します.</PulseCharger.description>
+  <!-- EN: charged-shot -->
+  <PulseCharger.traitAdjectives.0>チャージショットの</PulseCharger.traitAdjectives.0>
+  <!-- EN: charged -->
+  <PulseCharger.traitAdjectives.1>力に満ちた</PulseCharger.traitAdjectives.1>
+  <!-- EN: pulse-charged -->
+  <PulseCharger.traitAdjectives.2>パルスチャージの</PulseCharger.traitAdjectives.2>
+  
+  <!-- EN: quick reload -->
+  <QuickReload.label>クイックリロード</QuickReload.label>
+  <!-- EN: This weapon has a quick release-and-replace mechanism that makes it faster to reload. -->
+  <QuickReload.description>この武器には素早く取り外しと交換のできる機構が備わっており,素早いリロードが可能になります.</QuickReload.description>
+  <!-- EN: quick -->
+  <QuickReload.traitAdjectives.0>素早い</QuickReload.traitAdjectives.0>
+  <!-- EN: nimble -->
+  <QuickReload.traitAdjectives.1>敏捷な</QuickReload.traitAdjectives.1>
+  <!-- EN: quickload -->
+  <QuickReload.traitAdjectives.2>クイックリロードの</QuickReload.traitAdjectives.2>
+  <!-- EN: quickshot -->
+  <QuickReload.traitAdjectives.3>射撃の早い</QuickReload.traitAdjectives.3>
+  <!-- EN: fastload -->
+  <QuickReload.traitAdjectives.4>速装弾の</QuickReload.traitAdjectives.4>
+  
+  <!-- EN: rangefinder -->
+  <RangefinderScope.label>距離計スコープ</RangefinderScope.label>
+  <!-- EN: This weapon's scope contains an advanced rangefinder, allowing it to fire further. -->
+  <RangefinderScope.description>この武器のスコープには高度な距離計が搭載されており,より遠くまで射撃が可能です.</RangefinderScope.description>
+  <!-- EN: eagle -->
+  <RangefinderScope.traitAdjectives.0>ワシの</RangefinderScope.traitAdjectives.0>
+  <!-- EN: farsight -->
+  <RangefinderScope.traitAdjectives.1>超視力の</RangefinderScope.traitAdjectives.1>
+  
+  <!-- EN: rapid fire -->
+  <RapidFire.label>速射</RapidFire.label>
+  <!-- EN: This weapon contains an improved self-loading mechanism. When firing bursts of multiple rounds, the time between each round is dramatically reduced. -->
+  <RapidFire.description>この武器には改良された自動装填メカニズムが備わっています.弾を連射する際,各弾間の時間が劇的に短縮されます.</RapidFire.description>
+  <!-- EN: rapid -->
+  <RapidFire.traitAdjectives.0>速い</RapidFire.traitAdjectives.0>
+  <!-- EN: burst -->
+  <RapidFire.traitAdjectives.1>バースト射撃の</RapidFire.traitAdjectives.1>
+  <!-- EN: rapid-fire -->
+  <RapidFire.traitAdjectives.2>連射する</RapidFire.traitAdjectives.2>
+  
+  <!-- EN: reinforced bow limbs -->
+  <ReinforcedLimbs.label>強化弓</ReinforcedLimbs.label>
+  <!-- EN: The limbs of this bow have been strengthened, allowing it to shoot further. -->
+  <ReinforcedLimbs.description>この弓は各部位が強化されており,より遠くまで射撃できるようになっています.</ReinforcedLimbs.description>
+  <!-- EN: reinforced -->
+  <ReinforcedLimbs.traitAdjectives.0>強化された</ReinforcedLimbs.traitAdjectives.0>
+  
+  <!-- EN: shoddy sights -->
+  <ShoddySights.label>粗悪な照準器</ShoddySights.label>
+  <!-- EN: Defects in this weapon's sights decrease its accuracy at long ranges. -->
+  <ShoddySights.description>この武器の照準器には欠陥があり,長距離での精度が低下します.</ShoddySights.description>
+  <!-- EN: inaccurate -->
+  <ShoddySights.traitAdjectives.0>ずさんな</ShoddySights.traitAdjectives.0>
+  <!-- EN: imprecise -->
+  <ShoddySights.traitAdjectives.1>見誤った</ShoddySights.traitAdjectives.1>
+  
+  <!-- EN: shortened barrel -->
+  <ShortenedBarrel.label>短いバレル</ShortenedBarrel.label>
+  <!-- EN: This weapon's barrel has been sawn off, reducing its range but making it quicker to aim and fire. -->
+  <ShortenedBarrel.description>この武器はバレルが切断されており,射程を犠牲に照準と射撃が素早く行えるようになっています.</ShortenedBarrel.description>
+  <!-- EN: shortened -->
+  <ShortenedBarrel.traitAdjectives.0>短い</ShortenedBarrel.traitAdjectives.0>
+  <!-- EN: sawn-off -->
+  <ShortenedBarrel.traitAdjectives.1>切られた</ShortenedBarrel.traitAdjectives.1>
+  
+  <!-- EN: smoke launcher -->
+  <SmokeLauncher.label>煙幕筒投射機</SmokeLauncher.label>
+  <!-- EN: This weapon has an attached smoke shell launcher. The shell releases smoke that obscures incoming shots and prevents turrets from locking on. Once fired, it must be reloaded using steel. -->
+  <SmokeLauncher.description>この武器には煙幕筒投射機が付いています.シェルは煙幕を放出することで,射撃命中率を低下させ,タレットにロックオンされるのを防ぎます.発射後はスチールを使用して再装填する必要があります.</SmokeLauncher.description>
+  <!-- EN: shell -->
+  <SmokeLauncher.abilityProps.chargeNoun>シェル</SmokeLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <SmokeLauncher.abilityProps.cooldownGerund>クールダウン中</SmokeLauncher.abilityProps.cooldownGerund>
+  <!-- EN: smoke -->
+  <SmokeLauncher.traitAdjectives.0>煙幕の</SmokeLauncher.traitAdjectives.0>
+  <!-- EN: concealing -->
+  <SmokeLauncher.traitAdjectives.1>覆い隠す</SmokeLauncher.traitAdjectives.1>
+  <!-- EN: clouding -->
+  <SmokeLauncher.traitAdjectives.2>視界を覆う</SmokeLauncher.traitAdjectives.2>
+  
+  <!-- EN: pistol brace -->
+  <StabilizerBrace.label>ピストルブレース</StabilizerBrace.label>
+  <!-- EN: This weapon has a stabilizing brace that connects to the user's arm, increasing its accuracy. -->
+  <StabilizerBrace.description>この武器にはピストル安定化ブレースが付いており,これを使用者の腕に巻き付けることで射撃を安定させ,精度を向上させます.</StabilizerBrace.description>
+  <!-- EN: stable -->
+  <StabilizerBrace.traitAdjectives.0>安定した</StabilizerBrace.traitAdjectives.0>
+  <!-- EN: accurate -->
+  <StabilizerBrace.traitAdjectives.1>正確な</StabilizerBrace.traitAdjectives.1>
+  <!-- EN: precise -->
+  <StabilizerBrace.traitAdjectives.2>精密な</StabilizerBrace.traitAdjectives.2>
+  <!-- EN: braced -->
+  <StabilizerBrace.traitAdjectives.3>支えられた</StabilizerBrace.traitAdjectives.3>
+  
+  <!-- EN: toxic pellets -->
+  <ToxPellets.label>毒ペレット</ToxPellets.label>
+  <!-- EN: This weapon fires chemical pellets which cause toxic buildup. -->
+  <ToxPellets.description>この武器は毒を蓄積させる化学ペレットを発射できます.</ToxPellets.description>
+  <!-- EN: green -->
+  <ToxPellets.traitAdjectives.0>緑の</ToxPellets.traitAdjectives.0>
+  <!-- EN: toxic -->
+  <ToxPellets.traitAdjectives.1>毒々しい</ToxPellets.traitAdjectives.1>
+  <!-- EN: poisonous -->
+  <ToxPellets.traitAdjectives.2>有毒な</ToxPellets.traitAdjectives.2>
+  <!-- EN: poison -->
+  <ToxPellets.traitAdjectives.3>毒の</ToxPellets.traitAdjectives.3>
+  
+  <!-- EN: tox rounds -->
+  <ToxRounds.label>毒弾</ToxRounds.label>
+  <!-- EN: This weapon fires rounds coated with toxic chemicals, which sicken wounded targets. -->
+  <ToxRounds.description>この武器は化学毒を塗布した弾丸を発射でき,命中したターゲットを病気にします.</ToxRounds.description>
+  <!-- EN: green -->
+  <ToxRounds.traitAdjectives.0>緑の</ToxRounds.traitAdjectives.0>
+  <!-- EN: poison -->
+  <ToxRounds.traitAdjectives.1>毒の</ToxRounds.traitAdjectives.1>
+  <!-- EN: venom -->
+  <ToxRounds.traitAdjectives.2>毒液の</ToxRounds.traitAdjectives.2>
+  <!-- EN: venomous -->
+  <ToxRounds.traitAdjectives.3>毒の滴る</ToxRounds.traitAdjectives.3>
+  <!-- EN: snakebite -->
+  <ToxRounds.traitAdjectives.4>蛇咬みの</ToxRounds.traitAdjectives.4>
+  
+  <!-- EN: ugly -->
+  <Ugly.label>醜い</Ugly.label>
+  <!-- EN: This weapon was crafted with no respect for aesthetics. It looks like junk but gets the job done. Traders will pay less for it. -->
+  <Ugly.description>この武器は美学を完全に無視して作られています.ジャンクのような見た目ではありますが,武器として使うことができます.貿易商は低い価格でこれを買い取ります.</Ugly.description>
+  <!-- EN: monstrous -->
+  <Ugly.traitAdjectives.0>化け物のような</Ugly.traitAdjectives.0>
+  <!-- EN: crude -->
+  <Ugly.traitAdjectives.1>粗野な</Ugly.traitAdjectives.1>
+  <!-- EN: ugly -->
+  <Ugly.traitAdjectives.2>醜い</Ugly.traitAdjectives.2>
+  
+</LanguageData>

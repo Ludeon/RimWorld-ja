@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Vacuum exposure -->
+  <AlertVacuumExposure>真空露出</AlertVacuumExposure>
+  <!-- EN: These people and animals are suffering from exposure to the vacuum of space:\n{0}\n\nGet them to a pressurized area before they die. -->
+  <AlertVacuumExposureDesc>以下の人々と動物が,宇宙の真空にさらされ苦しんでいます:\n{0}\n\n死ぬ前に加圧されたエリアに移動させましょう.</AlertVacuumExposureDesc>
+
+  <!-- EN: Mechanoid threat -->
+  <AlertMechanoidThreat>メカの脅威</AlertMechanoidThreat>
+  <!-- EN: A mechhive is conducting scans to determine your location. It will send a massive raid of hostile mechanoids when it locates you.\n\nFlee the map before mechanoids arrive! -->
+  <AlertMechanoidThreatDesc>メカハイブがこの場所を特定するためにスキャンを行っています.発見されると,敵対的なメカノイドによる大規模な襲撃が始まります.\n\nメカノイドが到着する前に,このマップから逃げてください!</AlertMechanoidThreatDesc>
+  <!-- EN: Incoming mechanoids -->
+  <AlertMechanoidThreatCritical>メカノイド襲来</AlertMechanoidThreatCritical>
+  <!-- EN: A mechhive has discovered your location. It will continue to send hostile mechanoids until you flee this location. -->
+  <AlertMechanoidThreatCriticalDesc>メカハイブにこの場所を発見されました.この場所から逃げるまで,敵対的なメカノイドが送り込まれ続けます.</AlertMechanoidThreatCriticalDesc>
+
+  <!-- Mechhive -->
+  <!-- EN: Stabilizers remaining -->
+  <StabilizersRemainingAlertLabel>残りのスタビライザー</StabilizersRemainingAlertLabel>
+  <!-- EN: The cerebrex core is currently invulnerable. Find and destroy its stabilizers to gain access to the core. -->
+  <StabilizersRemainingAlertDescription>セレブレックスのコアは現在無敵です.スタビライザーを見つけて破壊し,コアにアクセスできるようにしましょう.</StabilizersRemainingAlertDescription>
+
+  <!-- Relay -->
+  <!-- EN: Stabilizers remaining -->
+  <RelayStabilizersRemainingAlertLabel>残りのスタビライザー</RelayStabilizersRemainingAlertLabel>
+  <!-- EN: The relay is currently protected by nearby stabilizers. Destroy or hack them to destabilize it. -->
+  <RelayStabilizersRemainingAlertDescription>リレーは現在,近くのスタビライザーによって保護されています.これらを破壊,もしくはハッキングして不安定化させましょう.</RelayStabilizersRemainingAlertDescription>
+
+  <!-- Scanner -->
+  <!-- EN: Protect the scanner -->
+  <SurveyScannerAlertLabel>スキャナー防衛</SurveyScannerAlertLabel>
+  <!-- EN: Protect the scanner until the surveying operation is complete. -->
+  <SurveyScannerAlertDescription>調査作業が完了するまでスキャナーを守ってください.</SurveyScannerAlertDescription>
+  
+</LanguageData>

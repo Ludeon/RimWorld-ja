@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Create/review world -->
+  <!-- EN: Landmarks -->
+  <PlanetLandmarkDensity>ランドマーク</PlanetLandmarkDensity>
+  <!-- EN: Sparse -->
+  <PlanetLandmarkDensity_Low>まばら</PlanetLandmarkDensity_Low>
+  <!-- EN: Normal -->
+  <PlanetLandmarkDensity_Normal>普通</PlanetLandmarkDensity_Normal>
+  <!-- EN: Crowded -->
+  <PlanetLandmarkDensity_High>混雑</PlanetLandmarkDensity_High>
+  
+  <!-- EN: Preparing for takeoff -->
+  <GeneratingGravship>離陸準備中</GeneratingGravship>
+  <!-- EN: Preparing for landing -->
+  <PreparingForLanding>着陸準備中</PreparingForLanding>
+
+  <!-- EN: Subject -->
+  <Subject>題材</Subject>
+
+  <!-- EN: Fishing yield -->
+  <Difficulty_FishingYieldFactor_Label>釣り収率</Difficulty_FishingYieldFactor_Label>
+  <!-- EN: Adjust how many fish are caught when fishing. -->
+  <Difficulty_FishingYieldFactor_Info>釣りで捕れる魚の量を調整します.</Difficulty_FishingYieldFactor_Info>
+
+  <!-- EN: Disabling {0} will make it impossible to complete major Odyssey quests. -->
+  <OdysseyFactionDisabledContentWarning>{0}を無効にすると, Odysseyの主要なクエストを 完了できなくなります.</OdysseyFactionDisabledContentWarning>
+</LanguageData>

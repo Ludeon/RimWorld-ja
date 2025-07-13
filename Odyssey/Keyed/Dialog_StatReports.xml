@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Gravship -->
+  <!-- EN: Gravship range offset -->
+  <StatsReport_GravshipRangeOffset>グラヴシップの航続距離補正</StatsReport_GravshipRangeOffset>
+  <!-- EN: How much further this building lets a gravship travel on the world map. -->
+  <StatsReport_GravshipRangeOffset_Desc>この設備が,ワールドマップ上でのグラヴシップの航続距離をどれだけ延ばせるかです.</StatsReport_GravshipRangeOffset_Desc>
+  <!-- EN: Fuel savings -->
+  <StatsReport_GravshipFuelSavings>燃料節約</StatsReport_GravshipFuelSavings>
+  <!-- EN: How much this building reduces fuel needed for gravship travel. -->
+  <StatsReport_GravshipFuelSavings_Desc>この設備が,グラヴシップの移動に必要な燃料をどれだけ削減するかです.</StatsReport_GravshipFuelSavings_Desc>
+  <!-- EN: Fuel consumption -->
+  <StatsReport_GravEngineFuelConsumption>燃料消費</StatsReport_GravEngineFuelConsumption>
+  <!-- EN: A multiplier on how much fuel is needed during gravship travel. -->
+  <StatsReport_GravEngineFuelConsumption_Desc>グラヴシップの移動に必要な燃料の倍率です.</StatsReport_GravEngineFuelConsumption_Desc>
+
+  <!-- EN: Traits -->
+  <Stat_ThingUniqueWeaponTrait_Label>特性</Stat_ThingUniqueWeaponTrait_Label>
+  <!-- EN: This weapon's individual traits. -->
+  <Stat_ThingUniqueWeaponTrait_Desc>この武器固有の特性です.</Stat_ThingUniqueWeaponTrait_Desc>
+
+  <!-- EN: Weapon traits -->
+  <StatsReport_WeaponTraits>武器の特性</StatsReport_WeaponTraits>
+  <!-- EN: Burst shot count multiplier -->
+  <StatsReport_BurstShotCountMultiplier>バーストショット数の倍率</StatsReport_BurstShotCountMultiplier>
+  <!-- EN: Fire rate multiplier -->
+  <StatsReport_BurstShotSpeedMultiplier>発射速度の倍率</StatsReport_BurstShotSpeedMultiplier>
+  <!-- EN: Stopping power offset -->
+  <StatsReport_AdditionalStoppingPower>威力の増減量</StatsReport_AdditionalStoppingPower>
+
+  <!-- EN: Airtight -->
+  <Stat_Airtight>気密性</Stat_Airtight>
+  <!-- EN: Airtight walls prevent a room from depressurizing in the vacuum of space. -->
+  <Stat_Airtight_Desc>気密壁は真空状態の宇宙でも部屋が減圧するのを防ぎます.</Stat_Airtight_Desc>
+
+  <!-- EN: Contained apparel beauty -->
+  <ContainedApparelBeauty>服の美しさを含む</ContainedApparelBeauty>
+
+  <!-- EN: Sentience catalyst installed. -->
+  <StatsReport_SentienceCatalystInstalled>知覚促進器がインストールされています.</StatsReport_SentienceCatalystInstalled>
+
+</LanguageData>

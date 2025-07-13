@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravcore -->
+  <Gravcore.label>重力コア</Gravcore.label>
+  <!-- EN: An ultratech device that generates an unstructured graviton field. It is useless by itself, but it can be installed in a grav engine to increase lift capacity. -->
+  <Gravcore.description>構造のない重力子フィールドを生成するウルトラテック装置です.これ単体では役に立ちませんが,重力エンジンに取り付けることで,リフトを発生させる能力を増強することができます.</Gravcore.description>
+  
+  <!-- EN: gravlite panel -->
+  <GravlitePanel.label>重力軽量パネル</GravlitePanel.label>
+  <!-- EN: A sheet of advanced polymer used in the construction of gravships. It's lightweight and has a high graviton conductance, making it ideal for gravtech structures.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids. -->
+  <GravlitePanel.description>グラヴシップの建設に使用される高度なポリマーシートです.軽量で高い重力子伝導性を持ち,重力技術構造に理想的です.\n\n真空岩ブロックを周回小惑星から入手する必要があります.</GravlitePanel.description>
+  
+  <!-- EN: shuttle engine -->
+  <ShuttleEngine.label>シャトルエンジン</ShuttleEngine.label>
+  <!-- EN: An engine capable of powering a small shuttle. Shuttle engines can only be manufactured in large specialized factories, making them rare on the rim. -->
+  <ShuttleEngine.description>小型シャトルに電力を供給できるエンジンです.シャトルエンジンは大規模な専門工場でなければ製造できず,辺境の惑星では滅多に見ることができません.</ShuttleEngine.description>
+  
+</LanguageData>

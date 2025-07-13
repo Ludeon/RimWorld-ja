@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Grav engine/substructrues -->
+  <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. -->
+  <ConfirmGravEngineLaunch>本当に発射しますか?\n\n現在のマップと,グラヴシップの土台の上にないものはすべて永久に失われます.発射プロセスは破壊的なものであるため,元の場所に戻ることはできません.</ConfirmGravEngineLaunch>
+  <!-- EN: Warning -->
+  <GravEngineWarning>警告</GravEngineWarning>
+  <!-- EN: The following people will be left behind -->
+  <PeopleWillBeLeftBehind>次の人物が取り残されます</PeopleWillBeLeftBehind>
+  <!-- EN: The following will be left behind -->
+  <AnimalsWillBeLeftBehind>次のものが取り残されます</AnimalsWillBeLeftBehind>
+  <!-- EN: The following people and animals from another faction will be taken with you. This will upset their faction, potentially turning them hostile -->
+  <PawnsKidnappedOnGravship>次の他派閥の人物と動物が一緒に連れて行かれます.これにより派閥が不満を抱き,敵対的になる可能性があります</PawnsKidnappedOnGravship>
+  <!-- EN: The following buildings are not fully on the gravship and will be left behind -->
+  <BuildingsWillBeLeftBehind>次の建築物がグラヴシップの上に完全に乗っていないため,取り残されます</BuildingsWillBeLeftBehind>
+  <!-- EN: Some substructure has invalid placement and will be left behind -->
+  <SubstructureWillBeLeftBehind>一部の土台が無効な配置なため,取り残されます</SubstructureWillBeLeftBehind>
+  <!-- EN: Disconnected from grav engine -->
+  <DisconnectedSubstructure>重力エンジンから切り離される</DisconnectedSubstructure>
+  <!-- EN: Under rock roof -->
+  <SubstructureUnderRockRoof>岩の屋根の下</SubstructureUnderRockRoof>
+  <!-- EN: Out of range -->
+  <SubstructureOutsideFootprint>範囲外</SubstructureOutsideFootprint>
+
+  <!-- EN: {0} has high hopes for your new gravship and wants to christen it with a good name. What should your gravship be called? -->
+  <NamePlayerGravshipMessage>{0}は新しいグラヴシップに大きな期待を寄せており,良い名前をつけたいと考えています.このグラヴシップを人々は何と呼ぶべきでしょうか?</NamePlayerGravshipMessage>
+  <!-- EN: The gravship is now known as {0}. -->
+  <PlayerGravshipGainsName>グラヴシップは{0}という名で知れ渡ります.</PlayerGravshipGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerGravshipNameIsInvalid>その名前は無効です.</PlayerGravshipNameIsInvalid>
+
+  <!-- EN: {0} are hostile. If you land here they will attack you. -->
+  <ConfirmLandOnHostileFactionBase>{0}は敵対的です.ここに着陸すると攻撃を受けます.</ConfirmLandOnHostileFactionBase>
+  <!-- EN: Landing here will be seen as an aggressive act by {0}. They will become hostile and attack. -->
+  <ConfirmLandOnNeutralFactionBase>ここに着陸することは{0}に対する敵対行為と見なされます.彼らは敵対的になり,攻撃します.</ConfirmLandOnNeutralFactionBase>
+
+  <!-- EN: Land here anyway? -->
+  <ConfirmLand>本当にこの場所に着陸しますか?</ConfirmLand>
+
+  <!-- EN: Orbital locations are dangerous. Make sure you're prepared:\n - Equip your colonists with vacsuits or other advanced armors.\n - Plan your return trip. Living in orbit for extended periods is extremely challenging. -->
+  <OrbitalWarning>軌道上の場所は危険です.準備が整ったことを確認してください:\n - 真空スーツかその他先進アーマーを装備しましょう.\n - 帰還までの計画を立ててください.軌道上での長期生活は非常に困難です.</OrbitalWarning>
+  <!-- EN: Prepare your gravship for orbit:\n- Use airtight walls and doors.\n- Ensure rooms are well heated and fully roofed.\n- Construct oxygen pumps. -->
+  <OrbitalWarning_Gravship>グラヴシップを軌道上に乗せる準備をしてください:\n - 気密性の壁とドアを使いましょう.\n - 室内の暖房と,部屋が屋根で完全に覆われているか確認しましょう.\n - 酸素ポンプを設置しましょう.</OrbitalWarning_Gravship>
+  <!-- EN: Warning -->
+  <OrbitalWarning_Warning>警告</OrbitalWarning_Warning>
+  <!-- EN: Some exterior walls or doors are not airtight. -->
+  <OrbitalWarning_Vacuum>外に面した壁やドアの一部に,気密性のない物が使用されています.</OrbitalWarning_Vacuum>
+  <!-- EN: No functional heat sources. -->
+  <OrbitalWarning_NoHeatSources>稼働している熱源がありません.</OrbitalWarning_NoHeatSources>
+  <!-- EN: Few functional heat sources -->
+  <OrbitalWarning_FewHeatSources>稼働している熱源が少ない</OrbitalWarning_FewHeatSources>
+  <!-- EN: No functional oxygen pumps. -->
+  <OrbitalWarning_NoOxygenPumps>稼働している酸素ポンプがありません.</OrbitalWarning_NoOxygenPumps>
+  <!-- EN: Few functional oxygen pumps -->
+  <OrbitalWarning_FewOxygenPumps>稼働している酸素ポンプが少ない</OrbitalWarning_FewOxygenPumps>
+
+  <!-- EN: The shuttle does not have enough fuel to return from this destination. It may be stranded.\n\nYou currently have {0} fuel but need {1} fuel for a return flight.\n\nAre you sure you want to continue? -->
+  <ConfirmShuttleNotEnoughFuelToReturn>この目的地に移動すると,出発地点まで帰るためのシャトルの燃料が足りなくなります.燃料が足りなくなると,どこにも行けなくなるでしょう.\n\n現在のシャトルの燃料は{0}ですが,目的地を往復するためには{1}の燃料が必要です.\n\n本当に続けますか?</ConfirmShuttleNotEnoughFuelToReturn>
+  <!-- EN: Caravan is immobile due to shuttle -->
+  <CaravanMovementSpeedShuttle>シャトルが原因でキャラバンが動けない</CaravanMovementSpeedShuttle>
+  <!-- EN: Refuel {0}x chemfuel -->
+  <RefuelShuttleCount>バイオ液化燃料x{0}を補給</RefuelShuttleCount>
+  <!-- EN: Zoom range (gravship) {0} -->
+  <ZoomRangeGravshipCutscene>ズーム範囲(グラヴシップ) {0}</ZoomRangeGravshipCutscene>
+
+</LanguageData>

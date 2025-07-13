@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Fishing -->
+  <!-- EN: do X times -->
+  <FishRepeatMode_RepeatCount>x 回繰り返す</FishRepeatMode_RepeatCount>
+  <!-- EN: do until you have X -->
+  <FishRepeatMode_TargetCount>在庫 X 匹まで繰り返す</FishRepeatMode_TargetCount>
+  <!-- EN: do forever -->
+  <FishRepeatMode_Forever>無制限</FishRepeatMode_Forever>
+  <!-- EN: Fish population -->
+  <FishPopulation>魚の生息数</FishPopulation>
+  <!-- EN: How many fish are in this body of water. Larger bodies of water have more fish and will recover fish populations faster. -->
+  <FishPopulationDesc>この水域にどれだけ魚がいるかです.大きな水域にはより多くの魚が住んでおり,魚の生息数がより早く回復します.</FishPopulationDesc>
+  <!-- EN: Minimum population -->
+  <MinimumPopulation>最小生息数</MinimumPopulation>
+  <!-- EN: Colonists won't fish if the fish population is under this limit. Fishing yields are lower if there are less than 300 fish. -->
+  <MinimumPopulationDesc>水域内の生息数がこの数値を下回ると,入植者は釣りを行いません.魚の数が300匹未満になると,釣果が減少します.</MinimumPopulationDesc>
+  <!-- EN: uncommon -->
+  <Uncommon>希少</Uncommon>
+  <!-- EN: When toggled off, colonists will avoid catching this fish. -->
+  <ToggleFishAvoid>オフにすると,入植者はこの魚を釣らなくなります.</ToggleFishAvoid>
+  
+</LanguageData>

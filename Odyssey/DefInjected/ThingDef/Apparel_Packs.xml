@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cerebrex node -->
+  <Apparel_CerebrexNode.label>セレブレックスノード</Apparel_CerebrexNode.label>
+  <!-- EN: An interlink node scavenged technology from the cerebrex core of a mechhive. It can be used to summon mechanoids or mechanoid transport pods from the planet-wide mechanoid satellite network. -->
+  <Apparel_CerebrexNode.description>メカハイブのセレブレックス・コア技術から回収された相互通信ノードです.惑星全体のメカノイド衛星ネットワークからメカノイドやメカノイド輸送ポッドを召喚できます.</Apparel_CerebrexNode.description>
+  
+  <!-- EN: hunter pack -->
+  <Apparel_PackHunter.label>ハンターパック</Apparel_PackHunter.label>
+  <!-- EN: A wearable pack that deploys a hunter drone. The drone will close with the target and detonate when it is within range. -->
+  <Apparel_PackHunter.description>ハンタードローンを展開できる,着用可能なパックです.ドローンは目標に接近し,起爆します.</Apparel_PackHunter.description>
+  <!-- EN: charge -->
+  <Apparel_PackHunter.comps.CompApparelVerbOwner_Charged.chargeNoun>チャージ</Apparel_PackHunter.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <!-- EN: deploy hunter drone -->
+  <Apparel_PackHunter.verbs.deploy_hunter_drone.label>ハンタードローンを展開</Apparel_PackHunter.verbs.deploy_hunter_drone.label>
+  
+  <!-- EN: hunter pack capsule -->
+  <Grenade_HunterPack.label>ハンターパックカプセル</Grenade_HunterPack.label>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The Gravship -->
+  <TheGravship.label>グラヴシップ</TheGravship.label>
+  <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheGravship.description>あなたはグラヴシップに乗り,軌道リレーにドッキングしました.リレー上の設備を回収し始めてすぐ,クルーはこれらが古代の人類技術ではなく,メカノイドビーコンであることに気づきます.リレーはパチパチと音を立てて作動し,遠く離れたメカハイブに戦争警報を送信しました.そして今,メカはあなたを追跡し,どこへ逃げようとも最終的にあなたを見つけるでしょう.\n\n注意：このシナリオは難易度が高く,始めたばかりのプレイヤーにはお勧めできません.</TheGravship.description>
+  <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheGravship.scenario.description>あなたはグラヴシップに乗り,軌道リレーにドッキングしました.リレー上の設備を回収し始めてすぐ,クルーはこれらが古代の人類技術ではなく,メカノイドビーコンであることに気づきます.リレーはパチパチと音を立てて作動し,遠く離れたメカハイブに戦争警報を送信しました.そして今,メカはあなたを追跡し,どこへ逃げようとも最終的にあなたを見つけるでしょう.\n\n注意：このシナリオは難易度が高く,始めたばかりのプレイヤーにはお勧めできません.</TheGravship.scenario.description>
+  <!-- EN: The Gravship -->
+  <TheGravship.scenario.name>グラヴシップ</TheGravship.scenario.name>
+  <!-- EN: You screwed up, and now the mechhive wants you dead. Its terrifying murder machines will arrive soon. Gather the valuable gravlite panels, then use your gravship to flee to a safe location on the planet below.\n\nTo launch the gravship, select the pilot console, then select the launch command.\n\nOn the world map, select ‘view planet' to choose a landing spot on the planet.\n\nFrom now on, wherever you go, the mechanoids will eventually find you. To stop them, you must find and defeat the mechhive itself. -->
+  <TheGravship.scenario.parts.GameStartDialog.text>ミスを犯したあなたは今,命を狙うメカハイブに追われています.\nあの恐ろしい殺人マシンはすぐにでも追いつくでしょう.とにかく今は,貴重品である重力軽量パネルを回収し,グラヴシップで目の前にある惑星の,安全そうな場所に逃げなければなりません.\n\nグラヴシップを打ち上げるには,パイロットコンソールを選択し,発射コマンドを選択してください.\n\nワールドマップで"惑星を見る"を選択し,着陸地点を選びましょう.\n\n今後,どこへ逃げようとも最終的にはメカノイドに見つけられます.これを止めるには,メカハイブそのものを見つけ出し,打ち負かさなければなりません.</TheGravship.scenario.parts.GameStartDialog.text>
+  <!-- EN: A crew of three hunted by mechanoids. -->
+  <TheGravship.scenario.summary>メカノイドに追われる3人のクルー.</TheGravship.scenario.summary>
+  
+</LanguageData>

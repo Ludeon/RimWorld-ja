@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disapproved -->
+  <Fishing_Disapproved.label>反対</Fishing_Disapproved.label>
+  <!-- EN: Fishing is gruesome. We should avoid it. -->
+  <Fishing_Disapproved.description>釣りは残酷であり,避けるべきだ.</Fishing_Disapproved.description>
+  <!-- EN: Someone slaughtered a fish -->
+  <Fishing_Disapproved.comps.1.description>誰かが魚を屠殺した</Fishing_Disapproved.comps.1.description>
+  
+  <!-- EN: prohibited -->
+  <Fishing_Prohibited.label>禁止</Fishing_Prohibited.label>
+  <!-- EN: Fishing is immoral. We should never do it. -->
+  <Fishing_Prohibited.description>釣りは非道徳的であり,決して手を染めてはならない.</Fishing_Prohibited.description>
+  <!-- EN: Someone slaughtered fish -->
+  <Fishing_Prohibited.comps.1.description>誰かが魚を屠殺した</Fishing_Prohibited.comps.1.description>
+  <!-- EN: Slaughter fish -->
+  <Fishing_Prohibited.comps.2.description>屠殺された魚</Fishing_Prohibited.comps.2.description>
+  
+  <!-- EN: sacred -->
+  <Fishing_Sacred.label>神聖</Fishing_Sacred.label>
+  <!-- EN: Fishing is part of the right path. -->
+  <Fishing_Sacred.description>釣りは正しい行いの一つだ.</Fishing_Sacred.description>
+  <!-- EN: Not enough fish -->
+  <Fishing_Sacred.comps.0.description>魚が不十分</Fishing_Sacred.comps.0.description>
+  
+</LanguageData>

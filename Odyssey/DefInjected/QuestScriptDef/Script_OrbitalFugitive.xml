@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->An anonymous AI has requested your help dealing with an outlaw named [fugitive_nameDef]. The AI claims [fugitive_nameDef] is wanted for [reason_AI].\n\n[fugitive_nameDef] has stolen a transport pod and has fled to an abandoned orbital platform.\n\nHaving heard rumors of your gravship, the AI requests that you travel to the abandoned platform and kill [fugitive_nameDef]. In return, it will reward you with a gravtech device.\n\nThe AI warns you that [fugitive_nameDef] may be in the company of hostile orbital pirates.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] has sent us a message. A fugitive named [fugitive_nameDef] escaped from [asker_possessive] custody and used a transport pod to flee to an abandoned orbital platform. [fugitive_nameDef] was in custody for [reason].\n\nHaving heard rumors of your gravship, the [asker_faction_leaderTitle] asks that you travel to the abandoned platform and kill [fugitive_nameDef]. If you do so, [asker_nameDef] will reward you with a gravtech device.\n\n[asker_nameDef] warns you that [fugitive_nameDef] may be in the company of hostile orbital pirates.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], requests that you track down and kill a dangerous fugitive known as [fugitive_nameDef]. The fugitive is wanted for [reason_royal].\n\n[fugitive_nameDef] is hiding out on an abandoned orbital platform and may be guarded by orbital pirates. If you kill the fugitive, [asker_nameDef] will reward you with a gravtech device.</li>
+    <li>reason_AI->the destruction of multiple high-level subpersona cores</li>
+    <li>reason_AI->deorbiting an AI satellite</li>
+    <li>reason_AI->crimes on numerous distant planets</li>
+    <li>reason_AI->unlicensed orbital trafficking of psychic artifacts</li>
+    <li>reason_AI->[reason]</li>
+    <li>reason_royal->drunkenly insulting the [asker_royalTitleInCurrentFaction] in a wedding speech</li>
+    <li>reason_royal->attempting to assassinate the [asker_royalTitleInCurrentFaction]</li>
+    <li>reason_royal->accidentally detonating a firefoam pack in an imperial shuttle</li>
+    <li>reason_royal->the improper use of a tornado generator near an imperial settlement</li>
+    <li>reason_royal->trying to orchestrate a rebellion</li>
+    <li>reason_royal->treason</li>
+    <li>reason_royal->[reason]</li>
+    <li>reason->collaborating with a sanguophage cabal</li>
+    <li>reason->trafficking dangerous psychic artifacts</li>
+    <li>reason->grand larceny and multiple counts of corporate sabotage</li>
+    <li>reason->unauthorized genetic experimentation</li>
+    <li>reason->inciting inter-factional conflict</li>
+    <li>reason->drunkenly profaning a peace ritual</li>
+    <li>reason->the destruction of an orbital trade vessel</li>
+  -->
+  <OrbitalFugitive.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->匿名のAIが[fugitive_nameDef]という名のならず者の処理を手伝ってほしいと依頼してきました.AIによると,[fugitive_nameDef]は[reason_AI]ため指名手配されているそうです.\n\n[fugitive_nameDef]は輸送ポッドを盗み,放棄された軌道プラットフォームに逃亡しました.\n\nグラヴシップの噂を聞いたAIはこのコロニーに対して,放棄されたプラットフォームまで行って[fugitive_nameDef]を殺すことを依頼し,その報酬として,重力技術デバイスを用意することを約束しています.\n\nまた,AIは[fugitive_nameDef]が敵対的な軌道宙族と共にいる可能性があるとも警告しています.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, メッセージを送ってきました. 話によると,[fugitive_nameDef]という名の脱走者が監禁を抜け出し,輸送ポッドを使って放棄された軌道プラットフォームまで逃亡したそうです.[fugitive_nameDef]は[reason]ため拘留されていました.\n\nグラヴシップの噂を聞いた[asker_faction_leaderTitle]はこのコロニーに対して,放棄されたプラットフォームまで行って[fugitive_nameDef]を殺すことを依頼し,その報酬として,重力技術デバイスを用意することを約束しています.\n\nまた,[asker_nameDef]は[fugitive_nameDef]が敵対的な軌道宙族と共にいる可能性があるとも警告しています.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_faction_name]の[asker_royalTitleInCurrentFaction]である [asker_nameFull]が 依頼を出しており, [fugitive_nameDef]という名の危険な逃亡者の追跡と殺害を要求しています.[asker_nameDef]によると,逃亡者は[reason_royal]ため指名手配されているそうです.\n\n[fugitive_nameDef]は放棄された軌道プラットフォームに潜伏しており,軌道宙族に守られている可能性があります.[asker_nameDef]は,逃亡者を殺せば報酬として重力技術デバイスを用意することを約束しています.</li>
+    <li>reason_AI->複数のハイグレード亜人格コアを破壊した</li>
+    <li>reason_AI->AI衛星を軌道上から離脱させた</li>
+    <li>reason_AI->遠くにある複数の惑星で犯罪行為を重ねた</li>
+    <li>reason_AI->軌道上でサイキックアーティファクトを無許可で取引した</li>
+    <li>reason_AI->[reason]</li>
+    <li>reason_royal->結婚式のスピーチで酔って[asker_royalTitleInCurrentFaction]を侮辱した</li>
+    <li>reason_royal->[asker_royalTitleInCurrentFaction]の暗殺を企てた</li>
+    <li>reason_royal->帝国のシャトル内で泡消火器の詰まった箱を誤って爆発させた</li>
+    <li>reason_royal->帝国の入植地のそばで竜巻発生装置を不当に使用した</li>
+    <li>reason_royal->反乱を画策しようとした</li>
+    <li>reason_royal->反逆罪を犯した</li>
+    <li>reason_royal->[reason]</li>
+    <li>reason->サングオファージと協力して陰謀を企てていた</li>
+    <li>reason->危険なサイキックアーティファクトを取引していた</li>
+    <li>reason->重大窃盗と複数の企業妨害を行った</li>
+    <li>reason->無許可の遺伝子実験を行った</li>
+    <li>reason->派閥間の紛争を煽った</li>
+    <li>reason->酔って平和祈願の式典を冒涜した</li>
+    <li>reason->軌道上の貿易船を破壊した</li>
+  </OrbitalFugitive.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The Hunt for [fugitive_nameDef]</li>
+    <li>questName->A Bounty for [fugitive_nameDef]</li>
+    <li>questName->[fugitive_nameDef] the [criminal]</li>
+    <li>questName->The Orbital [criminal]</li>
+    <li>criminal->Criminal</li>
+    <li>criminal->Fugitive</li>
+    <li>criminal->Outlaw</li>
+    <li>criminal->Felon</li>
+    <li>criminal->Renegade</li>
+  -->
+  <OrbitalFugitive.questNameRules.rulesStrings>
+    <li>questName->[fugitive_nameDef]の追跡</li>
+    <li>questName->[fugitive_nameDef]の懸賞金</li>
+    <li>questName->[criminal][fugitive_nameDef]</li>
+    <li>questName->軌道上の[criminal]</li>
+    <li>criminal->犯罪者</li>
+    <li>criminal->逃亡者</li>
+    <li>criminal->無法者</li>
+    <li>criminal->重罪者</li>
+    <li>criminal->反逆者</li>
+  </OrbitalFugitive.questNameRules.rulesStrings>
+  
+</LanguageData>

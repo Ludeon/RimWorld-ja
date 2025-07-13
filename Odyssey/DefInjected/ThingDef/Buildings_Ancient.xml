@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient ammo box -->
+  <AncientAmmoStack.label>古代の弾薬箱</AncientAmmoStack.label>
+  <!-- EN: A container of ancient ammunition. It's empty and any remaining rounds are corroded to uselessness. -->
+  <AncientAmmoStack.description>古代の弾薬を収納するための箱です.中は空で,残っていた弾薬は腐食して使い物になりません.</AncientAmmoStack.description>
+  
+  <!-- EN: ancient antenna -->
+  <AncientAntenna.label>古代のアンテナ</AncientAntenna.label>
+  <!-- EN: A rusted antenna used to transmit long-forgotten communications. -->
+  <AncientAntenna.description>遠い昔に使われなくなった通信情報を,送信するために使われていた錆びたアンテナです.</AncientAntenna.description>
+  
+  <!-- EN: ancient armchair -->
+  <AncientArmchair.label>古代のアームチェア</AncientArmchair.label>
+  <!-- EN: A faded and torn armchair. It's unusable in its current state. -->
+  <AncientArmchair.description>色褪せて裂けたアームチェアです.今はもう使えない状態になっています.</AncientArmchair.description>
+  
+  <!-- EN: broken autocannon turret -->
+  <AncientAutocannonTurret.label>壊れたオートキャノンタレット</AncientAutocannonTurret.label>
+  <!-- EN: An autocannon turret with a shattered barrel. The targeting system is missing and all the components are rusted and bent to uselessness. -->
+  <AncientAutocannonTurret.description>バレルが砕けたオートキャノンタレットです.照準システムが欠けており,全てのコンポーネントは錆びついて曲がり,使い物になりません.</AncientAutocannonTurret.description>
+  
+  <!-- EN: large concrete barrier -->
+  <AncientBarrierLong.label>大きなコンクリートバリア</AncientBarrierLong.label>
+  <!-- EN: A concrete barrier used to block the path of vehicles. -->
+  <AncientBarrierLong.description>車両の通行を阻止するために使用されていたコンクリート製のバリアです.</AncientBarrierLong.description>
+  
+  <!-- EN: cracked bathtub -->
+  <AncientBathtub.label>ひび割れたバスタブ</AncientBathtub.label>
+  <!-- EN: A bathtub with deep cracks and rust stains. It's completely unusable. -->
+  <AncientBathtub.description>深いひび割れと錆汚れのあるバスタブです.完全に使い物になりません.</AncientBathtub.description>
+  
+  <!-- EN: old cardboard box -->
+  <AncientCardboardBox.label>古い段ボール箱</AncientCardboardBox.label>
+  <!-- EN: An soggy cardboard box filled with old detritus. -->
+  <AncientCardboardBox.description>古い何かの破片が詰まった湿った段ボール箱です.</AncientCardboardBox.description>
+  
+  <!-- EN: ancient chembarrel -->
+  <AncientChembarrel.label>古代の液化燃料バレル</AncientChembarrel.label>
+  <!-- EN: A rusted barrel that once stored chemfuel. It's empty and corroded. -->
+  <AncientChembarrel.description>かつてバイオ液化燃料を保存していた錆びたバレルです.中は空で腐食しています.</AncientChembarrel.description>
+  
+  <!-- EN: ancient chembarrel pallet -->
+  <AncientChembarrelPallet.label>古代の液化燃料バレルパレット</AncientChembarrelPallet.label>
+  <!-- EN: A stack of rusted barrels on a decayed pallet. Any valuable fuel leaked out long ago. -->
+  <AncientChembarrelPallet.description>腐ったパレットに積まれた錆びたバレルです.貴重な燃料は遠い昔に漏れ出しています.</AncientChembarrelPallet.description>
+  
+  <!-- EN: ancient chemtruck -->
+  <AncientChemtruck.label>古代の液化燃料トラック</AncientChemtruck.label>
+  <!-- EN: An abandoned chemfuel transport truck. Any usable parts were looted long ago. -->
+  <AncientChemtruck.description>放置されたバイオ液化燃料の輸送トラックです.使える部品はすでに略奪されました.</AncientChemtruck.description>
+  
+  <!-- EN: ancient cold storage -->
+  <AncientColdStorage.label>古代の冷蔵庫</AncientColdStorage.label>
+  <!-- EN: An old refrigeration unit, now rusted shut. Any contents have long since decayed to dust. -->
+  <AncientColdStorage.description>古い冷蔵ユニットで,錆によって閉じられています.中身はすでに塵と化しています.</AncientColdStorage.description>
+  
+  <!-- EN: ruined crane arm -->
+  <AncientCraneArm.label>壊れたクレーンアーム</AncientCraneArm.label>
+  <!-- EN: A rusted crane arm, twisted and broken. -->
+  <AncientCraneArm.description>歪んで壊れた,錆びたクレーンアームです.</AncientCraneArm.description>
+  
+  <!-- EN: ruined crane arm -->
+  <AncientCraneArmSmall.label>壊れた小さなクレーンアーム</AncientCraneArmSmall.label>
+  <!-- EN: A smaller chunk of a crane arm, snapped and rusted. -->
+  <AncientCraneArmSmall.description>折れて錆びた,小さなクレーンアームの一部です.</AncientCraneArmSmall.description>
+  
+  <!-- EN: ruined crane base -->
+  <AncientCraneBase.label>壊れたクレーンの土台</AncientCraneBase.label>
+  <!-- EN: The base of a large industrial crane. -->
+  <AncientCraneBase.description>大きな産業用クレーンの土台です.</AncientCraneBase.description>
+  
+  <!-- EN: ruined crane column -->
+  <AncientCraneColumn.label>壊れたクレーンの柱</AncientCraneColumn.label>
+  <!-- EN: A vertical support column from a ruined crane. It's rusted and no longer stable. -->
+  <AncientCraneColumn.description>クレーンを縦に支える壊れた柱です.錆びており,もはや安定していません.</AncientCraneColumn.description>
+  
+  <!-- EN: ancient crate pallet -->
+  <AncientCratePallet.label>古代のクレートパレット</AncientCratePallet.label>
+  <!-- EN: A pallet for stacking and transporting crates. The contents have been scavenged long ago. -->
+  <AncientCratePallet.description>クレートを積み上げて運ぶためのパレットです.中身はすでに略奪されています.</AncientCratePallet.description>
+  
+  <!-- EN: ancient destroyed console -->
+  <AncientDestroyedConsole.label>破壊された古代のコンソール</AncientDestroyedConsole.label>
+  <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
+  <AncientDestroyedConsole.description>壊れたコンソールです.今はもう完全に使い物になりません.使える部品はすでに破壊されているか,略奪されています.</AncientDestroyedConsole.description>
+  
+  <!-- EN: ancient destroyed console -->
+  <AncientDestroyedConsoleLarge.label>破壊された古代の大型コンソール</AncientDestroyedConsoleLarge.label>
+  <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
+  <AncientDestroyedConsoleLarge.description>壊れたコンソールです.今はもう完全に使い物になりません.使える部品はすでに破壊されているか,略奪されています.</AncientDestroyedConsoleLarge.description>
+  
+  <!-- EN: rusted double bed -->
+  <AncientDoubleBed.label>錆びたダブルベッド</AncientDoubleBed.label>
+  <!-- EN: A double bed with a sagging, rusted frame. It's better than sleeping on the ground, but just barely. -->
+  <AncientDoubleBed.description>フレームが錆びてたわんだダブルベッドです.地面で寝るよりはましですが,ほとんど変わりません.</AncientDoubleBed.description>
+  
+  <!-- EN: ancient drill rig -->
+  <AncientDrillPlatform.label>古代のドリル装置</AncientDrillPlatform.label>
+  <!-- EN: A device meant for drilling deep into the earth. Any valuable parts were looted long ago. -->
+  <AncientDrillPlatform.description>地中深くを掘削するための装置です.貴重な部品はすでに略奪されています.</AncientDrillPlatform.description>
+  
+  <!-- EN: ancient excavator -->
+  <AncientExcavator.label>古代のエクスカベーター</AncientExcavator.label>
+  <!-- EN: The remains of a mining vehicle. The valuable parts were looted long ago. -->
+  <AncientExcavator.description>採掘車両の残骸です.貴重な部品はすでに略奪されています.</AncientExcavator.description>
+  
+  <!-- EN: rusted filing cabinet -->
+  <AncientFilingCabinet.label>錆びたファイルキャビネット</AncientFilingCabinet.label>
+  <!-- EN: A corroded filing cabinet. There's nothing useful left inside. -->
+  <AncientFilingCabinet.description>腐食したファイルキャビネットです.役に立つものは何も入っていません.</AncientFilingCabinet.description>
+  
+  <!-- EN: ruined forklift -->
+  <AncientForklift.label>壊れたフォークリフト</AncientForklift.label>
+  <!-- EN: A broken forklift, rusted and missing parts. It's far too damaged to be repaired. -->
+  <AncientForklift.description>錆びて部品の欠けた,壊れたフォークリフトです.あまりにも破損が酷いため修理することもできません.</AncientForklift.description>
+  
+  <!-- EN: ancient industrial shelf -->
+  <AncientIndustrialShelf.label>古代の工業用シェルフ</AncientIndustrialShelf.label>
+  <!-- EN: An industrial shelf covered in rust. It offers nothing of value. -->
+  <AncientIndustrialShelf.description>錆びに覆われた工業用シェルフです.価値のあるものは何もありません.</AncientIndustrialShelf.description>
+  
+  <!-- EN: rusted industrial truck -->
+  <AncientIndustrialTruck.label>錆びた工業用トラック</AncientIndustrialTruck.label>
+  <!-- EN: An industrial truck, heavily rusted and abandoned. The engine is beyond repair. -->
+  <AncientIndustrialTruck.description>ひどく錆びついた,放棄された工業用トラックです.エンジンの修理はできません.</AncientIndustrialTruck.description>
+  
+  <!-- EN: rusted lockers -->
+  <AncientLockers.label>錆びたロッカー</AncientLockers.label>
+  <!-- EN: A set of metal lockers, heavily rusted and bent. They've been thoroughly looted. -->
+  <AncientLockers.description>ひどく錆びて曲がった,一組の金属ロッカーです.中身はすべて略奪されています.</AncientLockers.description>
+  
+  <!-- EN: ancient container -->
+  <AncientMediumContainer.label>古代のコンテナ</AncientMediumContainer.label>
+  <!-- EN: A rusted shipping container. It's completely empty. -->
+  <AncientMediumContainer.description>錆びた輸送用コンテナです.中は空っぽです.</AncientMediumContainer.description>
+  
+  <!-- EN: rusted metal crate -->
+  <AncientMetalCrate.label>錆びた金属クレート</AncientMetalCrate.label>
+  <!-- EN: A metal crate, now rusted shut. It's empty and worthless. -->
+  <AncientMetalCrate.description>錆びで閉じられた金属クレートです.中は空っぽで価値もありません.</AncientMetalCrate.description>
+  
+  <!-- EN: ancient military barrier -->
+  <AncientMilitaryBarrier.label>古代の軍事バリア</AncientMilitaryBarrier.label>
+  <!-- EN: A concrete barrier once used for military roadblocks. -->
+  <AncientMilitaryBarrier.description>かつて軍用バリケードに使用されていたコンクリート製のバリアです.</AncientMilitaryBarrier.description>
+  
+  <!-- EN: ancient military generator -->
+  <AncientMilitaryGeneratorSmall.label>古代の軍用発電機</AncientMilitaryGeneratorSmall.label>
+  <!-- EN: A small rusted generator. The fuel tank is empty and the engine is beyond repair. -->
+  <AncientMilitaryGeneratorSmall.description>錆びた小さな発電機です.燃料タンクは空で,エンジンの修理もできません.</AncientMilitaryGeneratorSmall.description>
+  
+  <!-- EN: busted mortar -->
+  <AncientMortar.label>壊れた迫撃砲</AncientMortar.label>
+  <!-- EN: A shattered mortar emplacement. It's smashed and will never work again. -->
+  <AncientMortar.description>砕けた迫撃砲の砲床です.壊されており二度と動作しません.</AncientMortar.description>
+  
+  <!-- EN: rusted open container -->
+  <AncientOpenContainer.label>開いた錆びコンテナ</AncientOpenContainer.label>
+  <!-- EN: A rusted shipping container. Its contents are worthless. -->
+  <AncientOpenContainer.description>錆びた輸送用コンテナです.価値のある物は何もありません.</AncientOpenContainer.description>
+  
+  <!-- EN: ancient pipe -->
+  <AncientPipe.label>古代のパイプ</AncientPipe.label>
+  <!-- EN: A segment of old corroded piping. -->
+  <AncientPipe.description>古く腐食した配管の一部です.</AncientPipe.description>
+  
+  <!-- EN: ancient plant pot -->
+  <AncientPlantPot.label>古代の植木鉢</AncientPlantPot.label>
+  <!-- EN: A large cracked pot with dead soil. Nothing can grow here any more. -->
+  <AncientPlantPot.description>土の枯れた,大きなひびの入った鉢植えです.ここではもはや何も育ちません.</AncientPlantPot.description>
+  
+  <!-- EN: rusted microwave -->
+  <AncientRustedMicrowave.label>錆びた電子レンジ</AncientRustedMicrowave.label>
+  <!-- EN: An ancient microwave covered in rust. It's beyond repair. -->
+  <AncientRustedMicrowave.description>錆びに覆われた古代の電子レンジです.修理不可能です.</AncientRustedMicrowave.description>
+  
+  <!-- EN: ancient shelf -->
+  <AncientShelf.label>古代のシェルフ</AncientShelf.label>
+  <!-- EN: An ancient shelf. It holds nothing of interest. -->
+  <AncientShelf.description>古代のシェルフです.興味を引くものは何もありません.</AncientShelf.description>
+  
+  <!-- EN: cracked shower -->
+  <AncientShower.label>砕けたシャワー室</AncientShower.label>
+  <!-- EN: A broken shower stall. The plumbing is corroded and the ceramics are shattered. -->
+  <AncientShower.description>壊れたシャワーブースです.配管が腐食しており,セラミック製のパーツが砕けています.</AncientShower.description>
+  
+  <!-- EN: ancient research bench -->
+  <AncientSimpleResearchBench.label>古代の研究卓</AncientSimpleResearchBench.label>
+  <!-- EN: An old, rudimentary research bench with corroded tools and faded notes. Nothing of value remains. -->
+  <AncientSimpleResearchBench.description>腐食したツールと色あせたメモが置かれた,古い基本的な研究卓です.価値のあるものは何も残っていません.</AncientSimpleResearchBench.description>
+  
+  <!-- EN: rusted bed -->
+  <AncientSingleBed.label>錆びたシングルベッド</AncientSingleBed.label>
+  <!-- EN: A single bed frame with rusted metal and a torn mattress. It's better than sleeping on the ground, but just barely. -->
+  <AncientSingleBed.description>金属製フレームが錆び,マットレスが破れたシングルベッドです.地面で寝るよりはましですが,ほとんど変わりません.</AncientSingleBed.description>
+  
+  <!-- EN: ancient container -->
+  <AncientSmallContainer.label>古代の小型コンテナ</AncientSmallContainer.label>
+  <!-- EN: A rusted shipping container. It's completely empty. -->
+  <AncientSmallContainer.description>錆びた輸送用小型コンテナです.中には何も残っていません.</AncientSmallContainer.description>
+  
+  <!-- EN: ancient small shelf -->
+  <AncientSmallShelf.label>古代の小さなシェルフ</AncientSmallShelf.label>
+  <!-- EN: An ancient shelf. There's nothing useful left on it. -->
+  <AncientSmallShelf.description>古代のシェルフです.役に立つものは何も残っていません.</AncientSmallShelf.description>
+  
+  <!-- EN: ancient brewery -->
+  <AncientTableBrewery.label>古代の醸造器</AncientTableBrewery.label>
+  <!-- EN: A dilapidated brewing table once used for fermentation. The equipment is rusted beyond use. -->
+  <AncientTableBrewery.description>かつて発酵のために使われていた古びた醸造台です.設備は錆びついており使い物になりません.</AncientTableBrewery.description>
+  
+  <!-- EN: ancient butcher table -->
+  <AncientTableButcher.label>古代の食肉加工台</AncientTableButcher.label>
+  <!-- EN: A broken butcher's table littered with old stains. -->
+  <AncientTableButcher.description>古い染みが散らばった,壊れた食肉加工用の台です.</AncientTableButcher.description>
+  
+  <!-- EN: ancient drug lab -->
+  <AncientTableDrugLab.label>古代のドラッグラボ</AncientTableDrugLab.label>
+  <!-- EN: A crumbling lab table with shattered glassware. The equipment is useless and contaminated. -->
+  <AncientTableDrugLab.description>砕けたガラス器具だけが残る,崩れたラボです.装置は使い物にならず汚染されています.</AncientTableDrugLab.description>
+  
+  <!-- EN: ancient machining table -->
+  <AncientTableMachining.label>古代の精密工作機械</AncientTableMachining.label>
+  <!-- EN: A rusted machining table covered in debris. All useful parts have been scavenged. -->
+  <AncientTableMachining.description>瓦礫に覆われた,錆びた精密工作機械です.使える部品はすべて略奪されています.</AncientTableMachining.description>
+  
+  <!-- EN: ancient electric smithy -->
+  <AncientTableSmithingElectric.label>古代の電動工作台</AncientTableSmithingElectric.label>
+  <!-- EN: A ruined electric smithy with frayed wires and scorched surfaces. It's beyond repair. -->
+  <AncientTableSmithingElectric.description>ケーブルがボロボロになり天板が焼け焦げた,破壊された電動工作台です.修理不可能です.</AncientTableSmithingElectric.description>
+  
+  <!-- EN: ancient fueled smithy -->
+  <AncientTableSmithingFueled.label>古代の工作台</AncientTableSmithingFueled.label>
+  <!-- EN: An ancient smithy that once burned fuel for crafting. Now, it's covered in soot and rust. -->
+  <AncientTableSmithingFueled.description>かつては燃料を燃やして加工作業を行っていた古代の工作台です.今や煤と錆で覆われています.</AncientTableSmithingFueled.description>
+  
+  <!-- EN: ancient electric stove -->
+  <AncientTableStoveElectric.label>古代の電気ストーブ</AncientTableStoveElectric.label>
+  <!-- EN: An old electric stove with shattered heating elements. It's far too damaged to use. -->
+  <AncientTableStoveElectric.description>加熱用パーツが壊れた古い電気ストーブです.これを使うにはあまりにも破損しすぎています.</AncientTableStoveElectric.description>
+  
+  <!-- EN: ancient fueled stove -->
+  <AncientTableStoveFueled.label>古代のカマド</AncientTableStoveFueled.label>
+  <!-- EN: A rusted cooking stove. It's beyond unusable. -->
+  <AncientTableStoveFueled.description>錆びた調理用コンロです.もはや使えません.</AncientTableStoveFueled.description>
+  
+  <!-- EN: ancient electric tailor bench -->
+  <AncientTableTailorElectric.label>古代の電動ミシン台</AncientTableTailorElectric.label>
+  <!-- EN: A ruined tailor's bench with torn fabric and broken tools. It's beyond salvage. -->
+  <AncientTableTailorElectric.description>破れた生地と壊れた道具が置かれた,壊れたミシン台です.修理不可能です.</AncientTableTailorElectric.description>
+  
+  <!-- EN: ancient hand tailor bench -->
+  <AncientTableTailorHand.label>古代のミシン台</AncientTableTailorHand.label>
+  <!-- EN: A simple tailor's bench with splintered wood and rusted needles. Nothing useful remains. -->
+  <AncientTableTailorHand.description>木材が裂けて針が錆びている,シンプルなミシン台です.役に立つものは何も残っていません.</AncientTableTailorHand.description>
+  
+  <!-- EN: ancient tunneler claw -->
+  <AncientTunnelerClaw.label>古代のトンネラーのクロー</AncientTunnelerClaw.label>
+  <!-- EN: The claw of an ancient mining mechanoid. All the parts are degraded to uselessness. -->
+  <AncientTunnelerClaw.description>古代の採掘メカノイドのクローです.すべての部品が劣化していて使い物になりません.</AncientTunnelerClaw.description>
+  
+  <!-- EN: ancient tunneler husk -->
+  <AncientTunnelerHusk.label>古代のトンネラーの外殻</AncientTunnelerHusk.label>
+  <!-- EN: The remains of an ancient mining mechanoid. Its complex parts are all degraded to uselessness. -->
+  <AncientTunnelerHusk.description>古代の採掘メカノイドの残骸です.複雑な部品は全て劣化していて使い物になりません.</AncientTunnelerHusk.description>
+  
+  <!-- EN: busted television -->
+  <AncientTV.label>壊れたテレビ</AncientTV.label>
+  <!-- EN: A shattered television set. The screen is broken and the electronics are stripped out. -->
+  <AncientTV.description>砕けたテレビです.画面は壊れ,電子機器は取り除かれています.</AncientTV.description>
+  
+  <!-- EN: broken uranium slug turret -->
+  <AncientUraniumSlugTurret.label>壊れたウランスラグタレット</AncientUraniumSlugTurret.label>
+  <!-- EN: A heavy turret designed to fire uranium slugs. The mechanism is smashed and the ammo is depleted. -->
+  <AncientUraniumSlugTurret.description>ウラン弾を発射できるよう設計されたヘビータレットです.装置は砕かれ,弾薬はすべて使い尽くされています.</AncientUraniumSlugTurret.description>
+  
+  <!-- EN: ancient wind turbine -->
+  <AncientWindTurbineBody.label>古代の風力発電機</AncientWindTurbineBody.label>
+  <!-- EN: A toppled wind turbine with broken blades. It's been scavenged for parts long ago. -->
+  <AncientWindTurbineBody.description>ブレードが壊れ,倒れた風力発電機です.部品は遠い昔にすでに略奪され尽くしています.</AncientWindTurbineBody.description>
+  
+  <!-- EN: old wooden crate -->
+  <AncientWoodenCrate.label>古い木製クレート</AncientWoodenCrate.label>
+  <!-- EN: A weathered wooden crate. It's empty, and the wood is brittle. -->
+  <AncientWoodenCrate.description>風化した木製のクレートです.中は空っぽで,本体は壊れやすくなっています.</AncientWoodenCrate.description>
+  
+  <!-- EN: rubble pile -->
+  <RubblePile.label>瓦礫の山</RubblePile.label>
+  <!-- EN: The crumbled remains of an ancient structure. -->
+  <RubblePile.description>古代の建物が崩れた残骸です.</RubblePile.description>
+  
+</LanguageData>

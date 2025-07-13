@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blind fog -->
+  <BlindFog.label>盲目の霧</BlindFog.label>
+  <!-- EN: A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range. -->
+  <BlindFog.description>濃霧によって射撃武器の精度および最大射程が低下します.</BlindFog.description>
+  <!-- EN: Blind fog -->
+  <BlindFog.letterLabel>盲目の霧</BlindFog.letterLabel>
+  <!-- EN: A thick fog is setting in, dramatically reducing vision. Ranged weapons will be less accurate and their maximum range will be reduced. -->
+  <BlindFog.letterText>濃い霧が漂い始め,視界を劇的に低下させています.射撃武器の精度が下がり,最大射程も短くなります.</BlindFog.letterText>
+  
+  <!-- EN: blizzard -->
+  <Blizzard.label>吹雪</Blizzard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Blizzard.description>雪によって射撃武器の精度が低下し,火が消され,人々の動きが鈍くなります.</Blizzard.description>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>軌道上</Orbit.label>
+  <!-- EN: There is no weather in orbit. -->
+  <Orbit.description>軌道上には天候はありません.</Orbit.description>
+  
+  <!-- EN: overcast -->
+  <Overcast.label>曇り</Overcast.label>
+  <!-- EN: Thick clouds obscure the sky, reducing light levels. -->
+  <Overcast.description>厚い雲が空を覆い,光の量を減少させます.</Overcast.description>
+  
+  <!-- EN: sandstorm -->
+  <Sandstorm.label>砂嵐</Sandstorm.label>
+  <!-- EN: Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere. -->
+  <Sandstorm.description>砂嵐によって射撃武器の精度が低下し,人々の動きが鈍くなり,砂が至る所に飛び散ります.</Sandstorm.description>
+  
+  <!-- EN: torrential rain -->
+  <TorrentialRain.label>豪雨</TorrentialRain.label>
+  <!-- EN: Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <TorrentialRain.description>豪雨は冠水を引き起こします.また,射撃武器の精度を低下させ,火を消し,人々の動きが鈍くなります.</TorrentialRain.description>
+  <!-- EN: Torrential rain -->
+  <TorrentialRain.letterLabel>豪雨</TorrentialRain.letterLabel>
+  <!-- EN: Heavy rain is beginning to pour from the sky. It will cause temporary flooding around bodies of water. Build barriers to prevent floodwater from spreading. -->
+  <TorrentialRain.letterText>激しい雨が降り始めました.これにより,水場の周辺で一時的な洪水が発生するでしょう.冠水が広がるのを防ぐためにバリアを築きましょう.</TorrentialRain.letterText>
+  
+  <!-- EN: tox rain -->
+  <ToxRain.label>毒雨</ToxRain.label>
+  <!-- EN: Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <ToxRain.description>毒雨は生物を毒の蓄積で病気にします.また,射撃武器の精度を低下させ,火を消し,人々の動きが鈍くなります.</ToxRain.description>
+  <!-- EN: Tox rain -->
+  <ToxRain.letterLabel>毒雨</ToxRain.letterLabel>
+  <!-- EN: Toxic rain has begun to fall from the sky. It will slowly sicken anyone it touches. Keep your colonists under a roof. -->
+  <ToxRain.letterText>毒性のある雨が降り始めました.触れるものを徐々に病気にします.入植者を屋根の下に避難させましょう.</ToxRain.letterText>
+  
+  <!-- EN: windy -->
+  <Windy.label>強風</Windy.label>
+  <!-- EN: Strong winds reduce movement speed. -->
+  <Windy.description>強い風によって移動速度が低下します.</Windy.description>
+  
+</LanguageData>
