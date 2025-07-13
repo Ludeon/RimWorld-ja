@@ -329,7 +329,7 @@
   <DigEnabled>掘削を許可する</DigEnabled>
 
   <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <ConfirmSealHatch>古代の貯蔵庫の入口の封鎖は永続します.中に残された物や人は永久に失われます.\n\n本当に続けますか?</ConfirmSealHatch>
+  <ConfirmSealHatch>古代の貯蔵庫の入口の封鎖は永続します.中に残された物や人は永久に失われます.{0}\n\n本当に続けますか?</ConfirmSealHatch>
   <!-- EN: Cannot seal -->
   <CannotChooseSealer>封鎖できない</CannotChooseSealer>
   <!-- EN: Sealed -->
