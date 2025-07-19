@@ -140,6 +140,12 @@
   <LetterLabelSurveyScannerArrived>測量スキャナー</LetterLabelSurveyScannerArrived>
   <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
   <LetterSurveyScannerArrived>スキャナーがエリアの測量を終了するまで防衛してください.{DURATION}の間,守り続けましょう.</LetterSurveyScannerArrived>
+  
+  <!-- Psilocaps -->
+  <!-- EN: Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginPsilocap>サイロキャップの摂取によって,[PAWN_nameIndef]は奮い立ちました!</LetterInspirationBeginPsilocap> <!-- text_todo -->
+  <!-- EN: This happened due to ingesting psilocaps. -->
+  <MentalBreakReason_Psilocap>これはサイロキャップを摂取したことで発生しました.</MentalBreakReason_Psilocap> <!-- text_todo -->
 
   <!-- EN: Insect lair -->
   <EnteredMegahiveLabel>虫の巣穴</EnteredMegahiveLabel>

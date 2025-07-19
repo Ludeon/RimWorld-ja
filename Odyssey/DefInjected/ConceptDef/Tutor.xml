@@ -8,8 +8,8 @@
   
   <!-- EN: gravship -->
   <Gravship.label>グラヴシップ</Gravship.label>
-  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map. You can build a grav anchor to prevent this.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
-  <Gravship.helpText>グラヴシップは重力エンジンの周りに建築できます.船を発進させると,全構造物が新しいマップに移動します.\n\nグラヴシップが発進すると,現在のマップが消滅します.重力アンカーを建築すれば,これを防げます.\n\nグラヴシップを発進させるには以下のパーツが必要です:\n     - パイロットコンソール\n     - 燃料タンク\n     - スラスター\n\nこれらを解除するには'重力技術 基礎'の研究が必要です.\n\n建築できる基礎構造の量には限りがあります.この限界を増やすには,重力コアと重力軽量パネルを見つける必要があります.\n\n重力エンジンは時折,惑星周辺の重力技術を検知し,それをワールドマップにマークします.</Gravship.helpText>
+  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map. You can build a grav anchor to prevent this.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nGravship substructure can be removed using the 'remove foundation' designator.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
+  <Gravship.helpText>グラヴシップは重力エンジンの周りに建築できます.船を発進させると,全構造物が新しいマップに移動します.\n\nグラヴシップが発進すると,現在のマップが消滅します.重力アンカーを建築すれば,これを防げます.\n\nグラヴシップを発進させるには以下のパーツが必要です:\n     - パイロットコンソール\n     - 燃料タンク\n     - スラスター\n\nこれらを解除するには'重力技術 基礎'の研究が必要です.\n\n建築できる基礎構造の量には限りがあります.この限界を増やすには,重力コアと重力軽量パネルを見つける必要があります.\n\nグラヴシップの土台は"土台を解体"から解体できます.\n\n重力エンジンは時折,惑星周辺の重力技術を検知し,それをワールドマップにマークします.</Gravship.helpText>
   
   <!-- EN: orbit -->
   <Orbit.label>軌道</Orbit.label>

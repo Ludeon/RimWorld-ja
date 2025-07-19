@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: drop pod -->
+  <ActiveDropPodAncient.label>ドロップポッド</ActiveDropPodAncient.label>
+  
   <!-- EN: ancient blast door -->
   <AncientBlastDoor.label>古代の防爆扉</AncientBlastDoor.label>
   <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
@@ -14,8 +17,8 @@
   
   <!-- EN: ancient explosives crate -->
   <AncientExplosivesCrate.label>古代の爆薬クレート</AncientExplosivesCrate.label>
-  <!-- EN: A container of ancient mining charges. It will explode if damaged.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientExplosivesCrate.description>古代の発掘用爆薬が入った容器です.損傷すると爆発します.\n\nこの爆発には壁を破壊できるほどの威力があります.</AncientExplosivesCrate.description>
+  <!-- EN: A container of ancient mining charges. It will explode if damaged. -->
+  <AncientExplosivesCrate.description>古代の発掘用爆薬が入った容器です.損傷すると爆発します.</AncientExplosivesCrate.description>
   
   <!-- EN: fortified wall -->
   <AncientFortifiedWall.label>強化壁</AncientFortifiedWall.label>
@@ -66,8 +69,8 @@
   
   <!-- EN: ancient mining charge -->
   <AncientMiningCharge.label>古代の発掘用爆薬</AncientMiningCharge.label>
-  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientMiningCharge.description>岩を迅速に爆破するための爆発物です.精製されたバイオ液化燃料で作られています.古いものですが,まだ起爆させることができます.\n\nこの爆発には壁を破壊できるほどの威力があります.</AncientMiningCharge.description>
+  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate. -->
+  <AncientMiningCharge.description>岩を迅速に爆破するための爆発物です.精製されたバイオ液化燃料で作られています.古いものですが,まだ起爆させることができます.</AncientMiningCharge.description>
   
   <!-- EN: ancient security terminal -->
   <AncientSecurityTerminal.label>古代のセキュリティターミナル</AncientSecurityTerminal.label>

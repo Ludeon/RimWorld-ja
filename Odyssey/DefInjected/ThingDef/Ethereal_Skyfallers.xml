@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: drop pod (incoming) -->
-  <DropPodIncomingMechanoidSoft.label>ドロップポッド (接近中)</DropPodIncomingMechanoidSoft.label>
+  <!-- EN: ancient drop pod (incoming) -->
+  <DropPodIncomingAncient.label>古代のドロップポッド (接近中)</DropPodIncomingAncient.label>
+  
+  <!-- EN: mechanoid drop pod (incoming) -->
+  <DropPodIncomingMechanoidSoft.label>メカのドロップポッド (接近中)</DropPodIncomingMechanoidSoft.label>
+  
+  <!-- EN: ancient drop pod (leaving) -->
+  <DropPodLeavingAncient.label>古代のドロップポッド (離脱中)</DropPodLeavingAncient.label>
   
   <!-- EN: mechanoid drop pod (leaving) -->
-  <DropPodLeavingMechanoid.label>メカノイドドロップポッド (離脱中)</DropPodLeavingMechanoid.label>
+  <DropPodLeavingMechanoid.label>メカのドロップポッド (離脱中)</DropPodLeavingMechanoid.label>
   
   <!-- EN: lava rock (incoming) -->
-  <LavaRockIncoming.label>溶岩岩 (接近中)</LavaRockIncoming.label>
+  <LavaRockIncoming.label>溶岩石 (接近中)</LavaRockIncoming.label>
   
   <!-- EN: passenger shuttle (incoming) -->
   <PassengerShuttleIncoming.label>旅客シャトル (接近中)</PassengerShuttleIncoming.label>

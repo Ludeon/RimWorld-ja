@@ -18,8 +18,8 @@
   
   <!-- EN: basic gravtech -->
   <BasicGravtech.label>重力技術 基礎</BasicGravtech.label>
-  <!-- EN: Build a gravship and use it to travel the planet. Launching a gravship will abandon your current map. You won't be able to return. -->
-  <BasicGravtech.description>グラヴシップを作成し,惑星を移動できるようになります.グラヴシップを打ち上げると現在のマップを放棄します.戻ることはできません.</BasicGravtech.description>
+  <!-- EN: Build a gravship and use it to travel the planet. Without a grav anchor, launching a gravship will abandon your current map. -->
+  <BasicGravtech.description>グラヴシップを作成し,惑星を移動できるようになります.重力アンカーを使わずにグラヴシップを打ち上げると,現在のマップを放棄します.</BasicGravtech.description>
   <!-- EN:
     <li>subject->gravship</li>
     <li>subject_story->flew a gravship for a tourism company</li>

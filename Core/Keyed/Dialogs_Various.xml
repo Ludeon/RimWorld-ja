@@ -246,7 +246,9 @@
 
   <!-- Game start -->
   <!-- EN: Must include exactly {SUMMARY} -->
-  <SelectedCharactersMustInclude>{SUMMARY}を正確に含める必要があります</SelectedCharactersMustInclude>
+  <SelectedCharactersMustInclude>{SUMMARY}を正確に含める必要がある</SelectedCharactersMustInclude>
+  <!-- EN: All colonists must be {0} -->
+  <SelectedCharactersMustBeOfAllowedDevelopmentalStages>すべての入植者が{0}である必要がある</SelectedCharactersMustBeOfAllowedDevelopmentalStages> <!-- text_todo -->
 
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->
