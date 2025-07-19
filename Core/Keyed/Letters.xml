@@ -88,7 +88,7 @@
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
   <NewDisease>{PAWN}は {1}の病にかかりました.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN}は {3}の病にかかりました.感染元は{PAWN_possessive}{1}です.医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
+  <NewPartDisease>{PAWN}は {3}の病にかかりました. 感染元は{PAWN_possessive}{1}です.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>{PAWN_labelShort}は病気を発症しました: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->

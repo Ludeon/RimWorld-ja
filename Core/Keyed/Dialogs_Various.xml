@@ -254,7 +254,7 @@
   <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->
   <MapWinterWarning>警告：あなたは冬の季節の場所に着陸しようとしています.それは自殺行為に等しいです.不可能なことに挑みたいのでなければ,日付を変更してください.</MapWinterWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>このゲームはミディアムマップサイズで遊ぶように設計されています.この大きさは相当広いゲーム空間を提供します.\n\n大きなマップサイズは処理速度が低下するだけでなく - ゲームデザインの本質をも壊します.AIは,馬鹿な決断をしたり,様々な方面でゲームバランスに悪い結果をもたらします.このサイズは,テスト的な目的で,それを引き継いだ為に含まれているので,これらの状況を省みずには使用しないでください.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>このゲームは中サイズのマップでプレイすることを想定しています.このマップサイズは非常に大きなゲーム空間をもたらすでしょう!\n\n広大なマップは処理速度を低下させるだけでなく,ゲームデザインをも壊します.AIは愚かな判断をするようになり,様々な面でゲームバランスに悪影響を与えます.このマップサイズは,テストプレイ用に慣習的に用意されたものなので,特別な理由がない限り使用しないでください.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>マップサイズ</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
