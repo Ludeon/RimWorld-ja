@@ -4,13 +4,13 @@
   <!-- EN: Knowledge gain from study -->
   <KnowledgeFromStudy>研究で得られる知識</KnowledgeFromStudy>
   <!-- EN: The type and amount of anomaly knowledge that can be obtained when this entity is studied. More sophisticated entities can unlock more advanced anomaly research projects. -->
-  <KnowledgeFromStudyDesc>この存在を研究したときに得られるアノマリー知識の種類と量です.より洗練された存在であるほど,高度なアノマリー研究計画のアンロックが可能となります.</KnowledgeFromStudyDesc>
+  <KnowledgeFromStudyDesc>この「存在」を研究したときに得られるアノマリー知識の種類と量です.より洗練された「存在」であるほど,高度なアノマリー研究計画のアンロックが可能となります.</KnowledgeFromStudyDesc>
   <!-- EN: {0} {1} -->
   <Stat_Knowledge>{0} {1}</Stat_Knowledge>
   <!-- EN: Study interval -->
   <StudyFrequency>研究間隔</StudyFrequency>
   <!-- EN: The duration between available study periods for this entity. -->
-  <StudyFrequencyDesc>この存在の研究が可能な期間の間隔です.</StudyFrequencyDesc>
+  <StudyFrequencyDesc>この「存在」の研究が可能な期間の間隔です.</StudyFrequencyDesc>
   
   <!-- EN: Healing -->
   <Stat_Hediff_Regeneration_Name>回復</Stat_Hediff_Regeneration_Name>
@@ -65,7 +65,7 @@
   <!-- EN: Containment offset -->
   <StatsReport_ContainmentStrengthOffset>収容補正</StatsReport_ContainmentStrengthOffset>
   <!-- EN: How much this affects the ability of a holding platform to constrain an entity. Entities that are better contained are less likely to escape and provide more knowledge when studied. -->
-  <StatsReport_ContainmentStrengthOffset_Desc>これは収容プラットフォームが存在を拘束する能力への影響度を示します.厳重に収容された存在は脱走の可能性が低くなり,研究時により多くの知識をもたらします.</StatsReport_ContainmentStrengthOffset_Desc>
+  <StatsReport_ContainmentStrengthOffset_Desc>これは収容プラットフォームが「存在」を拘束する能力への影響度を示します.厳重に収容された「存在」は脱走の可能性が低くなり,研究時により多くの知識をもたらします.</StatsReport_ContainmentStrengthOffset_Desc>
 
   <!-- EN: Duration -->
   <StatsReport_SerumDuration>持続期間</StatsReport_SerumDuration>

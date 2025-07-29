@@ -36,10 +36,10 @@
   <!-- EN: psychic agony -->
   <PsychicAgony.label>精神的苦痛</PsychicAgony.label>
   <!-- EN: {PAWN_nameDef} has involuntarily released a wave of psychic suffering! {PAWN_pronoun} tried to prevent it, but was unable to do so.\n\nNearby creatures will experience intense pain. The effects will linger for several days. -->
-  <PsychicAgony.letterDesc>{PAWN_nameDef}は無意識のうちにサイキック的な苦悶の波を放ちました!{PAWN_pronoun}はそれを防ごうとしましたが,失敗しました.\n\n周囲の生物は激しい苦痛を味わいます.この効果は数日間持続します.</PsychicAgony.letterDesc>
+  <PsychicAgony.letterDesc>{PAWN_nameDef}は無意識のうちに精神的な苦悶の波を放ちました!{PAWN_pronoun}はそれを抑えようとしましたが,失敗したようです.\n\n周囲の生物は激しい苦痛を味わいます.この効果は数日間持続します.</PsychicAgony.letterDesc>
   <!-- EN: Psychic agony -->
   <PsychicAgony.letterLabel>精神的苦痛</PsychicAgony.letterLabel>
   <!-- EN: {SURGEON_nameDef} detected a faint but painful psychic presence emanating from {PAWN_nameDef} but failed to understand what was causing it. -->
-  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef}は{PAWN_nameDef}から放たれる,苦痛を伴うサイキック的存在を感知しました.ですが,その原因がなにかはわかりませんでした.</PsychicAgony.surgicalInspectionLetterExtra>
+  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef}は{PAWN_nameDef}から放たれる,苦痛を伴う精神的な何かを感知しました.ですが,その原因がなにかはわかりませんでした.</PsychicAgony.surgicalInspectionLetterExtra>
   
 </LanguageData>

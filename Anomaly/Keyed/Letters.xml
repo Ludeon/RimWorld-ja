@@ -94,7 +94,7 @@
   <BrainwipeRehumanized>{TARGET_nameDef}は最人間化されました.</BrainwipeRehumanized>
 
   <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual and has consumed {TARGET_nameDef}'s psychic presence. -->
-  <PsychophagyCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,{TARGET_nameDef}のサイキック存在を食い尽くしました.</PsychophagyCompleteText>
+  <PsychophagyCompleteText>{INVOKER_nameDef}は{RITUAL_definite}の儀式を終え,{TARGET_nameDef}の精神体を食い尽くしました.</PsychophagyCompleteText>
   <!-- EN: {TARGET_nameDef} is now psychically deaf. The process has damaged {TARGET_nameDef}'s brain, putting {TARGET_objective} into a coma. -->
   <PsychophagyTargetSurvived>{TARGET_nameDef}は精神的無反応になっています.このプロセスは{TARGET_nameDef}の脳を損傷させ,昏睡状態に陥らせました.</PsychophagyTargetSurvived>
   

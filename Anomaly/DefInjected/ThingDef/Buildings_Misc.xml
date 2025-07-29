@@ -22,7 +22,7 @@
   <!-- EN: electric inhibitor -->
   <ElectricInhibitor.label>電動インヒビター</ElectricInhibitor.label>
   <!-- EN: A device that emits a specially tuned electromagnetic field which numbs the neural activity of captured entities. As long as it is powered, it improves the containment strength of any holding platform that it is pointed at. The electric field does not affect humans or normal animals. -->
-  <ElectricInhibitor.description>特別に調整された電磁場を発生させる装置.捕獲した存在の神経活動を麻痺させます.動力が供給されている限り,これが向けられたあらゆる収容プラットフォームの収容強度を向上させます.電磁場は人間や通常の動物には影響を及ぼしません.</ElectricInhibitor.description>
+  <ElectricInhibitor.description>特別に調整された電磁場を発生させる装置.捕獲した「存在」の神経活動を麻痺させます.動力が供給されている限り,これが向けられたあらゆる収容プラットフォームの収容強度を向上させます.電磁場は人間や通常の動物には影響を及ぼしません.</ElectricInhibitor.description>
   
   <!-- EN: endless pit -->
   <EndlessPit2x2c.label>底なしの穴</EndlessPit2x2c.label>
@@ -143,12 +143,12 @@
   <!-- EN: holding platform -->
   <HoldingPlatform.label>収容プラットフォーム</HoldingPlatform.label>
   <!-- EN: A platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices. -->
-  <HoldingPlatform.description>危険な存在を収容するためのプラットフォーム.角には小穴があり,強力な鎖を取り付けることができます.\n\n倒れた存在は捕獲して収容プラットフォームに閉じ込めることができ,そこでそのアノマリーの知識を研究することができます.強力な壁やドア,その他の特殊な収容装置を作ることで収容強度を高められます.</HoldingPlatform.description>
+  <HoldingPlatform.description>危険な「存在」を収容するためのプラットフォームです.角には小穴があり,強力な鎖を取り付けることができます.\n\n倒れた「存在」は捕獲して収容プラットフォームに閉じ込めることができ,そこでそのアノマリーの知識を研究することができます.強力な壁やドア,その他の特殊な収容装置を作ることで収容強度を高められます.</HoldingPlatform.description>
   
   <!-- EN: holding spot -->
   <HoldingSpot.label>収容スポット</HoldingSpot.label>
   <!-- EN: A spot for holding dangerous entities. Not as good as a steel holding platform, but a lot better than nothing.\n\nDowned entities can be secured at a holding spot where they can be studied. Increase containment strength by building strong walls and doors, and other special containment devices. -->
-  <HoldingSpot.description>危険な存在を収容するためのスポット.鉄製の収容プラットフォームには及びませんが,何も無いよりはマシです.\n\n倒れた存在は捕獲して収容スポットに閉じ込めることができ,そこで研究することができます.強力な壁やドア,その他の特殊な収容装置を作ることで収容強度を高められます.</HoldingSpot.description>
+  <HoldingSpot.description>危険な「存在」を収容するためのスポットです.鉄製の収容プラットフォームには及びませんが,何も無いよりはマシです.\n\n倒れた「存在」は捕獲して収容スポットに閉じ込めることができ,そこで研究することができます.強力な壁やドア,その他の特殊な収容装置を作ることで収容強度を高められます.</HoldingSpot.description>
   
   <!-- EN: noctolith -->
   <Noctolith.label>ノクトリス</Noctolith.label>

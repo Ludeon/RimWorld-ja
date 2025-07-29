@@ -118,7 +118,7 @@
   <!-- EN: Nociosphere study complete -->
   <Nociosphere.comps.CompStudyUnlocks.studyNotes.2.label>ノチオスフィア研究完了</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.label>
   <!-- EN: {PAWN_nameDef} has made an alarming discovery about the nociosphere. The entity is showing early signs of instability.\n\nOnce the nociosphere starts to become unstable, you can dispose of it by sending it to attack a hostile threat. For a short period, the nociosphere will hunt down anything nearby - friend or foe.\n\nOnce its onslaught is complete, it will permanently depart. If it becomes fully unstable, it will no longer respond to suppression. -->
-  <Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>{PAWN_nameDef}は,ノチオスフィアに関する驚くべき発見をしました.どうやら,この存在は不安定になりつつあるようです.\n\nノチオスフィアが不安定になり始める前に,敵対する脅威に送り込むことで,ノチオスフィアを処分することができます.この短い期間中,ノチオスフィアは近くにいる者を,友人であろうと敵であろうとすべての生物を攻撃します.\n\n攻撃期間が終了すると,永久にこの場所を立ち去ります.ただし,完全に不安定になってしまうと,もはや抑制することはできなくなります.</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>{PAWN_nameDef}は,ノチオスフィアに関する驚くべき発見をしました.どうやら,この「存在」は不安定になりつつあるようです.\n\nノチオスフィアが不安定になり始める前に,敵対する脅威に送り込むことで,ノチオスフィアを処分することができます.この短い期間中,ノチオスフィアは近くにいる者を,友人であろうと敵であろうとすべての生物を攻撃します.\n\n攻撃期間が終了すると,永久にこの場所を立ち去ります.ただし,完全に不安定になってしまうと,もはや抑制することはできなくなります.</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>
   <!-- EN: Teleport the nociosphere to a nearby location. It will then unleash an onslaught of murder and pain on everyone nearby for a short time. The nociosphere will hunt down any creature, including allies and other entities.\n\nThe nociosphere can be sent multiple times. -->
   <Nociosphere.comps.CompNociosphere.activateDescString>近くの場所へノチオスフィアをテレポートさせます.ノチオスフィアはテレポート後に短時間,付近のすべてのものへと殺戮と苦痛を撒き散らします.ノチオスフィアは味方を含むすべての生物を攻撃します.\n\nノチオスフィアは複数回送り込むことができます.</Nociosphere.comps.CompNociosphere.activateDescString>
   <!-- EN: Send the nociosphere... -->
@@ -149,7 +149,7 @@
   <!-- EN: noctol -->
   <Noctol.label>ノクトル</Noctol.label>
   <!-- EN: A large, chittering creature covered with an oily black carapace and armed with claws formed from bioferrite. While it is deadly in the dark, exposure to light irritates its eyes and flesh, slowing it down considerably. -->
-  <Noctol.description>油っぽい黒い甲殻に覆われ,バイオフェライトで作られた爪を備えた,大型の震えるような音を出す生物です.闇の中では恐ろしい存在ですが,光にさらされると目と肉体に刺激を受け,動きが大きく鈍ります.</Noctol.description>
+  <Noctol.description>油っぽい黒い甲殻に覆われ,バイオフェライトで作られた爪を備えた,震えるような音を出す大型の生物です.闇の中では恐ろしい存在ですが,光にさらされると目と肉体に刺激を受け,動きが大きく鈍ります.</Noctol.description>
   <!-- EN: left claw -->
   <Noctol.tools.left_claw.label>左爪</Noctol.tools.left_claw.label>
   <!-- EN: claw -->

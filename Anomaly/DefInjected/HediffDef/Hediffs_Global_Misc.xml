@@ -136,7 +136,7 @@
   <!-- EN: cube withdrawal -->
   <CubeWithdrawal.label>キューブ禁断症状</CubeWithdrawal.label>
   <!-- EN: This person obsessively wants to find their golden cube. Their skin itches and their mind races, thinking of ways to get closer to the cube. Their symptoms will get worse until they play with the cube. -->
-  <CubeWithdrawal.description>この人物は黄金のキューブを見つけることに執着しています.皮膚は痒くなり,心は逸り,キューブへなんとしても近づきたいと切望しています.キューブで遊べるようになるまで,症状は悪化します.</CubeWithdrawal.description>
+  <CubeWithdrawal.description>この人物は黄金のキューブを見つけることに執着しています.皮膚は痒くなり,心は逸り,キューブへなんとしても近づきたいと切望しています.キューブと遊べるようになるまで,症状は悪化します.</CubeWithdrawal.description>
   <!-- EN: inital -->
   <CubeWithdrawal.stages.inital.label>初期症状</CubeWithdrawal.stages.inital.label>
   <!-- EN: moderate -->
@@ -268,7 +268,7 @@
   <!-- EN: pain field -->
   <PainField.label>ペイン・フィールド</PainField.label>
   <!-- EN: A searing pain caused by the presence of a psychically active entity nearby. The effect intensifies when the entity is more active. -->
-  <PainField.description>精神的な活動存在が周囲に存在することにより,苦痛が引き起こされます.この「存在」が活動的であるほど,効果が強まります.</PainField.description>
+  <PainField.description>精神的な活動を行う「存在」がそばにいることで,苦痛が引き起こされます.この「存在」が活動的であるほど,効果が強まります.</PainField.description>
   
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>喜びのパルス</PleasurePulse.label>
@@ -278,7 +278,7 @@
   <!-- EN: psychically dead -->
   <PsychicallyDead.label>精神的な死</PsychicallyDead.label>
   <!-- EN: This person's psychic presence has been consumed and burned away, leaving them cut off from psychic phenomena. -->
-  <PsychicallyDead.description>この人物の精神存在は使い果たされ,焼き払われ,精神実体から切り離されたままになっています.</PsychicallyDead.description>
+  <PsychicallyDead.description>この人物の精神体は使い潰されました.精神体は燃え尽きてしまい,精神的な現象から切り離されます.</PsychicallyDead.description>
   
   <!-- EN: psychic trance -->
   <PsychicTrance.label>サイキックトランス</PsychicTrance.label>
@@ -288,7 +288,7 @@
   <!-- EN: psychophage -->
   <Psychophage.label>サイコファージ</Psychophage.label>
   <!-- EN: This person has devoured the psychic presence of another, making them more psychically sensitive for a period of time. -->
-  <Psychophage.description>この人物は他者の精神存在を貪り喰らい,一定期間,よりサイキック感度が強まっています.</Psychophage.description>
+  <Psychophage.description>この人物は他者の精神体を喰らい,一定期間,精神感応性がより強まります.</Psychophage.description>
   
   <!-- EN: rage speed -->
   <RageSpeed.label>レイジスピード</RageSpeed.label>
