@@ -230,7 +230,7 @@
   <Stat_Thing_Plant_MinGrowthTemperature_Desc>この植物の生存限界最低温度です.\n\nこの値より温度が下回りだすとダメージを受けます.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
   <Stat_Thing_Plant_MaxGrowthTemperature_Desc>この植物の生存限界最高温度です.\n\nこの値より温度が上回りだすとダメージを受けます.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
-  <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
+  <!-- EN: The minimum skill needed for a farmer to sow this plant. -->
   <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>この植物を収穫するのに必要な最低スキルです.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
   <Stat_Race_Diet_Desc>この生物が食料とする食物の種類です.\n\n食料: {0}</Stat_Race_Diet_Desc>

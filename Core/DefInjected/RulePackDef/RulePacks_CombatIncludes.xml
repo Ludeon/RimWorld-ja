@@ -71,9 +71,9 @@
     <li>strikeAdv->horribly</li>
     <li>strikeAdv->savagely</li>
     <li>strikeAdv->viciously</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving a disgusting wound</li>
     <li>flavortext_consequence->leaving a horrific wound</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
   <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
@@ -84,9 +84,9 @@
     <li>strikeAdv->恐ろしく</li>
     <li>strikeAdv->残酷に</li>
     <li>strikeAdv->意地悪に</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->嫌な傷を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->嫌な傷を残した</li>
     <li>flavortext_consequence->恐ろしい傷を残した</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[painevent][RECIPIENT_objective][wince]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->[painevent][RECIPIENT_objective][wince]</li>
     <li>flavortext_consequence(p=0.2)->体勢の整っていない[RECIPIENT_objective]投げ飛ばした</li>
   </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
@@ -111,20 +111,20 @@
     <li>destroyed(p=0.5)->demolished</li>
     <li>destroyed(p=0.5)->ruined</li>
     <li>destroyed(p=0.5)->wrecked</li>
-    <li>wince(recipient_flesh==Normal)->wince</li>
-    <li>wince(recipient_flesh==Normal)->grimace</li>
-    <li>wince(recipient_flesh==Normal)->cringe</li>
-    <li>wince(recipient_flesh==Normal)->groan</li>
-    <li>wince(recipient_flesh!=Mechanoid)->scream</li>
-    <li>wince(recipient_flesh!=Mechanoid)->shout</li>
+    <li>wince(RECIPIENT_flesh==Normal)->wince</li>
+    <li>wince(RECIPIENT_flesh==Normal)->grimace</li>
+    <li>wince(RECIPIENT_flesh==Normal)->cringe</li>
+    <li>wince(RECIPIENT_flesh==Normal)->groan</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->scream</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->shout</li>
     <li>wince->recoil</li>
     <li>wince->stumble</li>
     <li>painstate->in</li>
     <li>painstate->with</li>
     <li>painstate->from the</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</li>
-    <li>painevent(recipient_flesh==Normal)->with misery</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate] pain</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate] agony</li>
+    <li>painevent(RECIPIENT_flesh==Normal)->with misery</li>
     <li>painevent->from the injury</li>
     <li>painevent->from the wound</li>
     <li>to->to</li>
@@ -152,20 +152,20 @@
     <li>destroyed(p=0.5)->粉砕した</li>
     <li>destroyed(p=0.5)->崩壊した</li>
     <li>destroyed(p=0.5)->破壊した</li>
-    <li>wince(recipient_flesh==Normal)->たじろがせた</li>
-    <li>wince(recipient_flesh==Normal)->しかめさせた</li>
-    <li>wince(recipient_flesh==Normal)->すくませた</li>
-    <li>wince(recipient_flesh==Normal)->うめかせた</li>
-    <li>wince(recipient_flesh!=Mechanoid)->叫ばせた</li>
-    <li>wince(recipient_flesh!=Mechanoid)->わめかせた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->たじろがせた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->しかめさせた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->すくませた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->うめかせた</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->叫ばせた</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->わめかせた</li>
     <li>wince->ひるませた</li>
     <li>wince->よろめかせた</li>
     <li>painstate->で</li>
     <li>painstate->で</li>
     <li>painstate->によって</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->痛み[painstate]</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->苦痛[painstate]</li>
-    <li>painevent(recipient_flesh==Normal)->惨めさで</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->痛み[painstate]</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->苦痛[painstate]</li>
+    <li>painevent(RECIPIENT_flesh==Normal)->惨めさで</li>
     <li>painevent->傷によって</li>
     <li>painevent->怪我によって</li>
     <li>to->へ</li>

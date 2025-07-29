@@ -1834,10 +1834,10 @@
   <DragPawnsToRolesInfoController>ドラッグアンドドロップ,またはクリックで人を移動.</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>奴隷です.他人の人的財産です.</RitualBeginSlaveDesc>
-  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>{0_labelShort}は眠っています.儀式の参加者である場合,{0_pronoun}は参加するために目を覚まします.</RitualBeginSleepingDesc>
-  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
-  <RitualBeginSleepingWarning>選ばれた参加者の何人かは眠っています.儀式を始めると,彼らは目を覚まします.</RitualBeginSleepingWarning>
+  <!-- EN: {0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>{0_labelShort}は眠っています.{0_pronoun}がこのイベントの参加者である場合,参加するために目を覚まします.</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the event. -->
+  <RitualBeginSleepingWarning>選ばれた参加者の何人かは眠っています.このイベントを始めると,彼らは目を覚まします.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
   <RitualRoleRequiresSocialRole>この立場は,{0}の社会的役割を持つ入植者によって,最もよく行われます.\n\nこの役割を持たない人がこの立場に就いた場合,次のボーナスは得られません.</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
@@ -2184,5 +2184,8 @@
   <CannotAcceptQuestFromLayer>{LAYER}{GERUND}ではこのクエストを受諾できません.</CannotAcceptQuestFromLayer>
   <!-- EN: Cannot accept this quest without a permanent colony. -->
   <CannotAcceptQuestNoMap>定住したコロニーがなければこのクエストを受諾できません.</CannotAcceptQuestNoMap>
+
+  <!-- EN: {0} of {1} -->
+  <GuildTradeShipName>{1}の{0}</GuildTradeShipName> <!-- text_todo -->
   
 </LanguageData>

@@ -64,6 +64,9 @@
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>TargetAをTargetBに給仕中</FeedPatient.reportString>
   
+  <!-- EN: filling in TargetA. -->
+  <FillIn.reportString>targetAを詰めている</FillIn.reportString>
+  
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>TargetAを仕上げ中</FinishFrame.reportString>
   

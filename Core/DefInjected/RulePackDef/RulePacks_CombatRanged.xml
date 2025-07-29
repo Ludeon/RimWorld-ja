@@ -114,7 +114,7 @@
     <li>destroyed_suffix->a fine mist</li>
     <li>destroyed_suffix->fragments</li>
     <li>destroyed_suffix(p=0.5)->a holey mess</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->ground beef</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid,p=0.2)->ground beef</li>
     <li>damaged_past->wounded</li>
     <li>damaged_past->injured</li>
     <li>damaged_past->pierced</li>
@@ -126,8 +126,8 @@
     <li>damaged_present->damaging</li>
     <li>damaged_present->shooting</li>
     <li>damaged_suffix->in an ugly fashion</li>
-    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</li>
-    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</li>
+    <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->with visible blood</li>
+    <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->with the flesh visible</li>
     <li>to->to</li>
     <li>to->into</li>
     <li>missed->missed</li>
@@ -175,7 +175,7 @@
     <li>destroyed_suffix->細かい霧状</li>
     <li>destroyed_suffix->断片</li>
     <li>destroyed_suffix(p=0.5)->蜂の巣</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->肉塊</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid,p=0.2)->肉塊</li>
     <li>damaged_past->傷つけた</li>
     <li>damaged_past->怪我させた</li>
     <li>damaged_past->突き刺した</li>
@@ -187,8 +187,8 @@
     <li>damaged_present->害する</li>
     <li>damaged_present->撃つ</li>
     <li>damaged_suffix->悪いやり方で</li>
-    <li>damaged_suffix(recipient_flesh!=Mechanoid)->血まみれで</li>
-    <li>damaged_suffix(recipient_flesh!=Mechanoid)->生々しく</li>
+    <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->血まみれで</li>
+    <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->生々しく</li>
     <li>to->へ</li>
     <li>to->中へ</li>
     <li>missed->当たらなかった</li>

@@ -3,8 +3,8 @@
   
   <!-- EN: orbital scanner -->
   <OrbitalScanner.label>軌道スキャナー</OrbitalScanner.label>
-  <!-- EN: A sensor unit that passively scans for irregular objects orbiting the planet. It will periodically detect locations in orbit that can be visited with transport pods, shuttles, or gravships.\n\nThe scanner won't function under a roof. -->
-  <OrbitalScanner.description>惑星を周回する不規則な物体を受動的にスキャンするセンサー装置です.輸送ポッド,シャトル,またはグラヴシップで訪れることができる軌道上の場所を定期的に検出します.\n\nスキャナーは屋根の下では機能しません.</OrbitalScanner.description>
+  <!-- EN: A sensor unit that passively scans for irregular objects orbiting the planet. It will periodically detect locations in orbit that can be visited with transport pods, shuttles, or gravships.\n\nThe scanner won't function under a roof. Building multiple orbital scanners does not increase the chance to find new locations. -->
+  <OrbitalScanner.description>惑星を周回する不規則な物体を受動的にスキャンするセンサー装置です.輸送ポッド,シャトル,またはグラヴシップで訪れることができる軌道上の場所を定期的に検出します.\n\nスキャナーは屋根の下では機能しません.また,軌道スキャナーを複数台設置しても,新たな場所を発見する確率は増えません.</OrbitalScanner.description>
   
   <!-- EN: oxygen pump -->
   <OxygenPump.label>酸素ポンプ</OxygenPump.label>
