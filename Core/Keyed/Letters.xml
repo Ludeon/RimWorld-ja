@@ -422,9 +422,9 @@
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort}は{PREY_definite}を狩っている</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort}が{PREY_definite}を狩っている</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>{PREDATOR}はエサとして{PREY_definite}を狩っている!</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR}が{PREY_definite}をエサとして狩っています!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on -->
