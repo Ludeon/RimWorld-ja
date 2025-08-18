@@ -696,9 +696,9 @@
   <CommandLeaveLastParticipant>この人物は,{RITUAL_labelDef}に参加している最後の一人の参加者です.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>{RITUAL_label}を中止する</CommandCancelRitual>
+  <CommandCancelRitual>{RITUAL_label}を中止</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. You can restart the event later. -->
-  <CommandCancelRitualDesc>{RITUAL_labelDef}をいますぐ終わらせます.この行事はまた後で再開できます.</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>{RITUAL_labelDef}をいますぐ中止します.この行事はまた後で再開できます.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>本当に{RITUAL_labelDef}を中止しますか?</CommandCancelRitualConfirm>
 
