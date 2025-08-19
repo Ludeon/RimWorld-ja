@@ -218,9 +218,9 @@
     <li>skillAdv(INITIATOR_skill>=14)->masterfully</li>
     <li>skillAdv(INITIATOR_skill>=16)->artistically</li>
     <li>skillAdv(INITIATOR_skill>=16)->gracefully</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->mechanically</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->mechanically</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->robotically</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->directly</li>
   -->
   <Combat_SkillIncludes.rulePack.rulesStrings>
     <li>skillDescMelee->[skillAdv][WEAPON_label]を[wielding]</li>
@@ -270,9 +270,9 @@
     <li>skillAdv(INITIATOR_skill>=14)->名人級に</li>
     <li>skillAdv(INITIATOR_skill>=16)->芸術的に</li>
     <li>skillAdv(INITIATOR_skill>=16)->優雅に</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->メカノイドのように</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->機械的に</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->直接</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->メカノイドのように</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->機械的に</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->直接</li>
   </Combat_SkillIncludes.rulePack.rulesStrings>
   
   <!-- EN:

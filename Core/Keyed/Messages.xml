@@ -859,8 +859,8 @@
   <!-- EN: {0_labelShort} can be hacked again. -->
   <MessageHackableUnlocked>{0_labelShort}は再びハッキングを行えます.</MessageHackableUnlocked>
 
-  <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>シャトルを呼び出せない</CannotCallShuttle>
+  <!-- EN: Shuttle cannot land here -->
+  <ShuttleCannotLand>シャトルが着陸できない</ShuttleCannotLand>
   <!-- EN: The shuttle has arrived. -->
   <MessageShuttleArrived>シャトルが到着しました.</MessageShuttleArrived>
 

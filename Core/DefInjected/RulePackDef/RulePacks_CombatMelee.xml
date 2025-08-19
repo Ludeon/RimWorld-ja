@@ -144,7 +144,7 @@
     <li>result->but hit only air</li>
     <li>result->but the swing went wide</li>
     <li>result->but stumbled at the last second</li>
-    <li>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</li>
+    <li>result(INITIATOR_flesh!=Mechanoid)->but hesitated at the last second</li>
   -->
   <Combat_Miss.rulePack.rulesStrings>
     <li>r_logentry(p=0.3)->[INITIATOR_definite]は[WEAPON_label]で[damaged_inf],しかし[RECIPIENT_definite]は避けた.</li>
@@ -163,7 +163,7 @@
     <li>result->しかし空を切った</li>
     <li>result->しかし一振りは当たらない</li>
     <li>result->しかし最後の瞬間につまずいた</li>
-    <li>result(initiator_flesh!=Mechanoid)->しかし最後の瞬間に躊躇した</li>
+    <li>result(INITIATOR_flesh!=Mechanoid)->しかし最後の瞬間に躊躇した</li>
   </Combat_Miss.rulePack.rulesStrings>
   
 </LanguageData>

@@ -45,6 +45,14 @@
   <InsectLairEntrance.label>洞窟の入り口</InsectLairEntrance.label>
   <!-- EN: The entrance to a cave network. It is possible to climb down into the caves below. -->
   <InsectLairEntrance.description>洞窟網への入口です.下の洞窟に降りることができます.</InsectLairEntrance.description>
+  <!-- EN: Cannot collapse -->
+  <InsectLairEntrance.comps.CompSealable.cannotSealLabel>崩せない</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
+  <!-- EN: Collapsing the cave entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
+  <InsectLairEntrance.comps.CompSealable.confirmSealText>洞窟の入口の崩壊は永続します.中に残された物や人は永久に失われます.{0}\n\n本当に続けますか?</InsectLairEntrance.comps.CompSealable.confirmSealText>
+  <!-- EN: Choose a colonist to permanently collapse the entrance. Anything or anyone left below will be lost forever. -->
+  <InsectLairEntrance.comps.CompSealable.sealCommandDesc>入口を永久に崩します.中に残っている物や人は永遠に失われます.</InsectLairEntrance.comps.CompSealable.sealCommandDesc>
+  <!-- EN: Collapse cave entrance -->
+  <InsectLairEntrance.comps.CompSealable.sealCommandLabel>洞窟の入口を崩す</InsectLairEntrance.comps.CompSealable.sealCommandLabel>
   
   <!-- EN: life support unit -->
   <LifeSupportUnit.label>生命維持ユニット</LifeSupportUnit.label>

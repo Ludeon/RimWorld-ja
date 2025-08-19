@@ -2,8 +2,8 @@
 <LanguageData>
 
   <!-- Grav engine/substructrues -->
-  <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. -->
-  <ConfirmGravEngineLaunch>本当に発射しますか?\n\n現在のマップと,グラヴシップの土台の上にないものはすべて永久に失われます.発射プロセスは破壊的なものであるため,元の場所に戻ることはできません.</ConfirmGravEngineLaunch>
+  <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. Build a grav anchor to prevent this map from being destroyed. -->
+  <ConfirmGravEngineLaunch>本当に発射しますか?\n\n現在のマップと,グラヴシップの土台の上にないものはすべて永久に失われます.発射プロセスは破壊的なものであるため,元の場所に戻ることはできません.重力アンカーを建築すれば,このマップが破壊されることを防げます.</ConfirmGravEngineLaunch>
   <!-- EN: Warning -->
   <GravEngineWarning>警告</GravEngineWarning>
   <!-- EN: The following people will be left behind -->
@@ -29,6 +29,19 @@
   <PlayerGravshipGainsName>グラヴシップは{0}という名で知れ渡ります.</PlayerGravshipGainsName>
   <!-- EN: That name isn't valid. -->
   <PlayerGravshipNameIsInvalid>その名前は無効です.</PlayerGravshipNameIsInvalid>
+
+  <!-- EN: Force visitors to leave -->
+  <GravshipForceVisitorsToLeaveLabel>訪問者に下船させる</GravshipForceVisitorsToLeaveLabel>
+  <!-- EN: Wait for all visitors to leave the gravship before launching. This won’t affect enemies, prisoners, or downed visitors. -->
+  <GravshipForceVisitorsToLeaveTooltip>すべての訪問者がグラヴシップから降りるまで,船の発射を待ちます.ただし敵や囚人,倒れた訪問者の影響は受けません.</GravshipForceVisitorsToLeaveTooltip>
+  <!-- EN: Board colony animals -->
+  <GravshipBoardColonyAnimalsLabel>コロニーの家畜を乗船させる</GravshipBoardColonyAnimalsLabel>
+  <!-- EN: Order all colony animals to board the gravship. The gravship won’t launch until they are aboard. -->
+  <GravshipBoardColonyAnimalsTooltip>コロニーに所属するすべての家畜にグラヴシップへの乗り込みを指示します.家畜の乗船が完了するまで船は発射しません.</GravshipBoardColonyAnimalsTooltip>
+  <!-- EN: Board colony mechanoids -->
+  <GravshipBoardColonyMechsLabel>コロニーのメカを乗船させる</GravshipBoardColonyMechsLabel>
+  <!-- EN: Order all colony mechanoids to board the gravship. The gravship won’t launch until they are aboard. -->
+  <GravshipBoardColonyMechsTooltip>コロニーに所属するすべてのメカノイドにグラヴシップへの乗り込みを指示します.メカの乗船が完了するまで船は発射しません.</GravshipBoardColonyMechsTooltip>
 
   <!-- EN: {0} are hostile. If you land here they will attack you. -->
   <ConfirmLandOnHostileFactionBase>{0}は敵対的です.ここに着陸すると攻撃を受けます.</ConfirmLandOnHostileFactionBase>

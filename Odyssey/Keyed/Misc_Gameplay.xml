@@ -108,6 +108,14 @@
   <MustBeOutside>屋外である必要がある</MustBeOutside>
   <!-- EN: blocked by substructure -->
   <BlockedBySubstructure>土台に妨げられている</BlockedBySubstructure>
+  <!-- EN: {PAWN_nameDef} cannot board {1} -->
+  <FailedToBoardGravship>{PAWN_nameDef}が{1}に乗り込めない</FailedToBoardGravship>
+  <!-- EN: {PAWN_nameDef} cannot exit {1} -->
+  <FailedToLeaveGravship>{PAWN_nameDef}が{1}から出られない</FailedToLeaveGravship>
+  <!-- EN: View range -->
+  <ViewRange>飛行範囲 確認</ViewRange>
+  <!-- EN: View the gravship’s current range on the world map. -->
+  <ViewRangeDesc>現在のグラヴシップの飛行可能な範囲をワールドマップで確認します.</ViewRangeDesc>
 
   <!-- Map generation -->
   <!-- EN: Landmark -->
@@ -303,8 +311,8 @@
   <!-- Special Trainables -->
   <!-- EN: Attack -->
   <AnimalAttackTarget>攻撃</AnimalAttackTarget>
-  <!-- EN: Command this animal to attack a specific target that its master can see. -->
-  <AnimalAttackTargetDesc>この家畜に,主人の視界範囲内の,指示したターゲットを攻撃させます.</AnimalAttackTargetDesc>
+  <!-- EN: Command this animal to attack a specific target. -->
+  <AnimalAttackTargetDesc>この家畜に,指示したターゲットを攻撃させます.</AnimalAttackTargetDesc>
   <!-- EN: Animals attack target -->
   <AnimalsAttackTarget>攻撃目標指示</AnimalsAttackTarget>
   <!-- EN: Direct all mastered animals to attack a specific target. -->
@@ -328,14 +336,6 @@
   <!-- EN: Allow digging -->
   <DigEnabled>掘削を許可する</DigEnabled>
 
-  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <ConfirmSealHatch>古代の貯蔵庫の入口の封鎖は永続します.中に残された物や人は永久に失われます.{0}\n\n本当に続けますか?</ConfirmSealHatch>
-  <!-- EN: Cannot seal -->
-  <CannotChooseSealer>封鎖できない</CannotChooseSealer>
-  <!-- EN: Sealed -->
-  <Sealed>封鎖済み</Sealed>
-  <!-- EN: Permanently sealed. -->
-  <HatchSealed>永続的に封鎖.</HatchSealed>
   <!-- EN: Unlocked. -->
   <HatchUnlocked>ロック解除済み.</HatchUnlocked>
 

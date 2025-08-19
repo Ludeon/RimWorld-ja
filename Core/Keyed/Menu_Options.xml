@@ -142,6 +142,10 @@
   <SmoothCameraJumps>滑らかなカメラジャンプ</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
   <SmoothCameraJumpsDesc>有効にすると,新しい場所に焦点を合わせたときにカメラがすばやくその場所に移動します.無効にすると,カメラは即座にジャンプします.</SmoothCameraJumpsDesc>
+  <!-- EN: Gravship cutscenes -->
+  <GravshipCutscenes>グラヴシップのカットシーン</GravshipCutscenes>
+  <!-- EN: When disabled, gravships will take off and land instantly. -->
+  <GravshipCutscenesDesc>無効にすると,グラヴシップが離着陸する際の演出を省略します.</GravshipCutscenesDesc>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->

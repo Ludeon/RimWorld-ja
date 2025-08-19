@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: low gravity adapted -->
+  <MoveSpeed_Space.label>低重力適性</MoveSpeed_Space.label>
+  <!-- EN: Carriers of this gene move and work more easily in low-gravity environments. However, they're slower and less efficient when planetside. -->
+  <MoveSpeed_Space.description>この遺伝子を持つ者は,低重力な環境での移動や作業を簡単に行えます.その反面,惑星上では移動速度が遅くなり,効率も下がります.</MoveSpeed_Space.description>
+  <!-- EN: low-gravity -->
+  <MoveSpeed_Space.labelShortAdj>低重力</MoveSpeed_Space.labelShortAdj>
+  
   <!-- EN: vacuum resistant -->
   <VacuumResistance_Partial.label>真空耐性</VacuumResistance_Partial.label>
   <!-- EN: Carriers of this gene have skin that releases a waxy substance when air pressure is low, preventing vacuum burns and allowing them to survive longer when exposed to vacuum. -->

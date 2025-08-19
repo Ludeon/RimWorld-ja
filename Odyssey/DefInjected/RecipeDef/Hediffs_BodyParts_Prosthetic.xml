@@ -15,11 +15,25 @@
   <!-- EN: Installing pilot assistant. -->
   <InstallPilotAssistant.jobString>パイロットアシスタントを取り付け中</InstallPilotAssistant.jobString>
   
+  <!-- EN: install vacskin gland -->
+  <InstallVacskinGland.label>耐真空腺を取り付ける</InstallVacskinGland.label>
+  <!-- EN: Install a vacskin gland. -->
+  <InstallVacskinGland.description>耐真空腺を取り付けます.</InstallVacskinGland.description>
+  <!-- EN: Installing vacskin gland. -->
+  <InstallVacskinGland.jobString>耐真空腺を取り付け中</InstallVacskinGland.jobString>
+  
   <!-- EN: remove pilot assistant -->
   <RemovePilotAssistant.label>パイロットアシスタントを取り外す</RemovePilotAssistant.label>
   <!-- EN: Remove pilot assistant. -->
   <RemovePilotAssistant.description>パイロットアシスタントを取り外します.</RemovePilotAssistant.description>
   <!-- EN: Removing pilot assistant. -->
   <RemovePilotAssistant.jobString>パイロットアシスタントを取り外し中</RemovePilotAssistant.jobString>
+  
+  <!-- EN: remove vacskin gland -->
+  <RemoveVacskinGland.label>耐真空腺を取り外す</RemoveVacskinGland.label>
+  <!-- EN: Remove vacskin gland. -->
+  <RemoveVacskinGland.description>耐真空腺を取り外します.</RemoveVacskinGland.description>
+  <!-- EN: Removing vacskin gland. -->
+  <RemoveVacskinGland.jobString>耐真空腺を取り外し中</RemoveVacskinGland.jobString>
   
 </LanguageData>

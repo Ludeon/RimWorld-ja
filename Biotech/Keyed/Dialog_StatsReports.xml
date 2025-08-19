@@ -9,7 +9,11 @@
   <StatsReport_Clothed>着衣</StatsReport_Clothed>
   <!-- EN: unclothed -->
   <StatsReport_Unclothed>脱衣</StatsReport_Unclothed>
-
+  <!-- EN: in space -->
+  <StatsReport_InSpace>宇宙空間</StatsReport_InSpace>
+  <!-- EN: planetside -->
+  <StatsReport_NotInSpace>惑星上</StatsReport_NotInSpace>
+  
   <!-- EN: Age rate multiplier -->
   <StatsReport_AgeRateMultiplier>年齢による掛け率</StatsReport_AgeRateMultiplier>
   <!-- EN: A multiplier on how quickly this person ages biologically based on their current age. -->

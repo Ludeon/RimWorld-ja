@@ -248,7 +248,9 @@
   <!-- EN: Must include exactly {SUMMARY} -->
   <SelectedCharactersMustInclude>{SUMMARY}を正確に含める必要がある</SelectedCharactersMustInclude>
   <!-- EN: All colonists must be {0} -->
-  <SelectedCharactersMustBeOfAllowedDevelopmentalStages>すべての入植者が{0}である必要がある</SelectedCharactersMustBeOfAllowedDevelopmentalStages> <!-- text_todo -->
+  <SelectedCharactersMustBeOfAllowedDevelopmentalStages>すべての入植者が{0}である必要がある</SelectedCharactersMustBeOfAllowedDevelopmentalStages>
+  <!-- EN: At least one colonist must be capable of {0} -->
+  <SelectedCharacterMustBeCapableOf>{0}を行える入植者が最低でも1人必要</SelectedCharacterMustBeCapableOf>
 
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->

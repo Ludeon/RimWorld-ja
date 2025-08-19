@@ -12,8 +12,8 @@
   <AlertMechanoidThreatDesc>メカハイブがこの場所を特定するためにスキャンを行っています.発見されると,敵対的なメカノイドによる大規模な襲撃が始まります.\n\nメカノイドが到着する前に,このマップから逃げてください!</AlertMechanoidThreatDesc>
   <!-- EN: Incoming mechanoids -->
   <AlertMechanoidThreatCritical>メカノイド襲来</AlertMechanoidThreatCritical>
-  <!-- EN: A mechhive has discovered your location. It will continue to send hostile mechanoids until you flee this location. -->
-  <AlertMechanoidThreatCriticalDesc>メカハイブにこの場所を発見されました.この場所から逃げるまで,敵対的なメカノイドが送り込まれ続けます.</AlertMechanoidThreatCriticalDesc>
+  <!-- EN: A mechhive has discovered your location. It will send multiple waves of hostile mechanoids.\n\nFlee the map before mechanoids arrive! -->
+  <AlertMechanoidThreatCriticalDesc>メカハイブにこの場所を発見されたため,複数回にわたって敵対的なメカノイドが送り込まれます.\n\nメカノイドが到着する前に,このマップから逃げてください!</AlertMechanoidThreatCriticalDesc>
 
   <!-- Mechhive -->
   <!-- EN: Stabilizers remaining -->

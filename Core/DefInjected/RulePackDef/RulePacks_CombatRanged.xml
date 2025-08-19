@@ -333,14 +333,14 @@
     <li>adverb_threw->quickly</li>
     <li>adverb_threw->precisely</li>
     <li>adverb_threw->deliberately</li>
-    <li>adverb_threw(initiator_flesh!=Mechanoid)->gingerly</li>
+    <li>adverb_threw(INITIATOR_flesh!=Mechanoid)->gingerly</li>
     <li>adverb_threw->precisely</li>
-    <li>adverb_threw(initiator_flesh!=Mechanoid)->warily</li>
+    <li>adverb_threw(INITIATOR_flesh!=Mechanoid)->warily</li>
     <li>adjective_threw->careful</li>
     <li>adjective_threw->quick</li>
     <li>adjective_threw->deliberate</li>
     <li>adjective_threw->precise</li>
-    <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
+    <li>adjective_threw(INITIATOR_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]は[RECIPIENT_definite]に向けて[INITIATOR_possessive][projectile]を[threw].</li>
@@ -358,14 +358,14 @@
     <li>adverb_threw->機敏に</li>
     <li>adverb_threw->正確に</li>
     <li>adverb_threw->入念に</li>
-    <li>adverb_threw(initiator_flesh!=Mechanoid)->極めて慎重に</li>
+    <li>adverb_threw(INITIATOR_flesh!=Mechanoid)->極めて慎重に</li>
     <li>adverb_threw->精密に</li>
-    <li>adverb_threw(initiator_flesh!=Mechanoid)->油断せずに</li>
+    <li>adverb_threw(INITIATOR_flesh!=Mechanoid)->油断せずに</li>
     <li>adjective_threw->慎重</li>
     <li>adjective_threw->速射</li>
     <li>adjective_threw->計画的</li>
     <li>adjective_threw->精密</li>
-    <li>adjective_threw(initiator_flesh!=Mechanoid)->油断無く</li>
+    <li>adjective_threw(INITIATOR_flesh!=Mechanoid)->油断無く</li>
   </Combat_RangedFire_Thrown.rulePack.rulesStrings>
   
   <!-- EN:

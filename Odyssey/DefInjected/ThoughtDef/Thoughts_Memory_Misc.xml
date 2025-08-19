@@ -9,7 +9,12 @@
   <!-- EN: destroyed mechhive -->
   <DestroyedMechhive.stages.destroyed_mechhive.label>メカハイブが破壊された</DestroyedMechhive.stages.destroyed_mechhive.label>
   <!-- EN: We defeated them! We're free of them now. -->
-  <DestroyedMechhive.stages.destroyed_mechhive.description>奴らを打ち破った!これでついに解放されたんだ.</DestroyedMechhive.stages.destroyed_mechhive.description>
+  <DestroyedMechhive.stages.destroyed_mechhive.description>奴らを打ち破った!ついに奴らから解放されたんだ.</DestroyedMechhive.stages.destroyed_mechhive.description>
+  
+  <!-- EN: destroyed mechhive -->
+  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>メカハイブを破壊した</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>
+  <!-- EN: I destroyed the cerebrex core. We're finally free of the mechanoid threat. -->
+  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>セレブレックス・コアをこの手で破壊した.私たちはついにメカノイドの脅威から解放されたんだ.</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>
   
   <!-- EN: hot spring -->
   <HotSpring.stages.hot_spring.label>温泉</HotSpring.stages.hot_spring.label>

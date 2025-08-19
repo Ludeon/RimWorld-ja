@@ -3,8 +3,8 @@
   
   <!-- EN: fishing -->
   <Fishing.label>釣り</Fishing.label>
-  <!-- EN: Place a 'fishing zone' where your hunters will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nHunters with a high animals skill catch more fish faster. -->
-  <Fishing.helpText>"釣りゾーン"は,狩猟の仕事を行う入植者が釣りをするエリアです.水域が大きいほど,釣りに適しています.\n\n釣りを行うと水域の魚の数が減少します.\n\n過剰な釣りは避けましょう.水域の魚が300匹未満になると,釣れる魚の数が減ります.\n\n調教スキルの高い狩人は,多くの魚をより速く釣ることができます.</Fishing.helpText>
+  <!-- EN: Place a 'fishing zone' where your colonists will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nColonists with a high animals skill catch more fish faster. -->
+  <Fishing.helpText>"釣りゾーン"は,入植者が釣りをするエリアです.水域が大きいほど,釣りに適しています.\n\n釣りを行うと水域の魚の数が減少します.\n\n過剰な釣りは避けましょう.水域の魚が300匹未満になると,釣れる魚の数が減ります.\n\n調教スキルの高い入植者は,多くの魚をより速く釣ることができます.</Fishing.helpText>
   
   <!-- EN: gravship -->
   <Gravship.label>グラヴシップ</Gravship.label>
