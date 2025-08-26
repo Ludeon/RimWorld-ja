@@ -295,8 +295,10 @@
   <!-- EN: Unique weapon -->
   <UniqueWeapon>ユニークな武器</UniqueWeapon>
 
+  <!-- EN: Reforming a caravan will abandon your gravship. Are you sure you want to continue?\n\nTo leave with your gravship, select the gravship’s pilot console, then select ‘launch’. -->
+  <ConfirmLoseGravship>キャラバンを再編成すると,グラヴシップは放棄されます.本当に続けますか?\n\nグラヴシップで出発する場合,船のパイロットコンソールを選択し,「発射」を選択してください.</ConfirmLoseGravship> <!-- text_todo -->
   <!-- EN: Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'. -->
-  <ConfirmLoseShuttle>キャラバンを再編成するとシャトルを放棄することになります.本当に続行しますか?\n\nシャトルで出発する場合,シャトルを選択し,「発射」を選択してください.</ConfirmLoseShuttle>
+  <ConfirmLoseShuttle>キャラバンを再編成すると,シャトルは放棄されます.本当に続けますか?\n\nシャトルで出発する場合,シャトルを選択し,「発射」を選択してください.</ConfirmLoseShuttle>
 
   <!-- EN: Discover a quest -->
   <BookHasQuest>クエストを発見</BookHasQuest>
