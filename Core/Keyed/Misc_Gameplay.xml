@@ -2143,13 +2143,13 @@
   <!-- EN: Entering {0} -->
   <EnteringPortal>{0}に入っている</EnteringPortal>
   <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>{0}に入る人間とアイテムを選択してください.</CommandEnterPortalDesc>
+  <CommandEnterPortalDesc>{0}に入る人物・アイテムを選択してください.</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
   <CommandCancelEnterPortal>侵入をキャンセル</CommandCancelEnterPortal>
   <!-- EN: Cancel exiting -->
   <CommandCancelExitPortal>脱出をキャンセル</CommandCancelExitPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>人間やアイテムの侵入を中断します.</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>人物・アイテムの侵入を中断します.</CommandCancelEnterPortalDesc>
   <!-- EN: Exit {0} -->
   <ExitPortal>{0}を出る</ExitPortal>
 
@@ -2171,7 +2171,7 @@
   <MaxOf>最大{0}</MaxOf>
 
   <!-- EN: Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}. -->
-  <CannotUseDueToHediff>{TARGETABLE_label}を使えない：{TARGET_nameDef}はすでに{2}です.</CannotUseDueToHediff>
+  <CannotUseDueToHediff>{TARGETABLE_label}を使えない：{TARGET_nameDef}にはすでに{2}が使われています.</CannotUseDueToHediff>
 
   <!-- Scanner -->
   <!-- EN: Blocked by roof -->
