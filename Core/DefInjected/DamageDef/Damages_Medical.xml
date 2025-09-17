@@ -4,11 +4,11 @@
   <!-- EN: execution cut -->
   <ExecutionCut.label>処刑</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage>{0}は処刑されました.</ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0}は 処刑されました.</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>手術死</SurgicalCut.label>
   <!-- EN: {0} has died during surgery. -->
-  <SurgicalCut.deathMessage>{0}は手術中に息絶えました.</SurgicalCut.deathMessage>
+  <SurgicalCut.deathMessage>{0}は 手術中に息絶えました.</SurgicalCut.deathMessage>
   
 </LanguageData>

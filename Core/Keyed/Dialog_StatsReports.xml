@@ -247,7 +247,7 @@
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
   <Stat_Race_RoamInterval_Desc>飼いならされた家畜が遠くまで徘徊して,マップから出ていこうとする頻度です.\n\n家畜は,マップの端へ直接移動できる経路がある場合のみ徘徊します.フェンスやバリケード,壁,ドアを使用することで,これを防ぐことができます.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
-  <Stat_Thing_Ingestible_Joy_Desc>これを摂取することの娯楽的価値です.数値が高いほど,この娯楽の必要性が高まります.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>これを摂取することの娯楽的価値です.この数値が高いほど,娯楽欲求が満たされます.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The weight of this creature and their equipment. -->
   <Stat_Mass_Desc>この生物と装備している物の総重量です.</Stat_Mass_Desc>
   <!-- EN: Base mass -->
@@ -417,19 +417,19 @@
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
-  <Stat_Thing_Drug_Chemical_Desc>このドラッグに含まれる化学成分の種類です.\n\n場合によっては,同じ化学成分が,異なるドラッグに含まれることもあります.これらの異なるドラッグは,異なる方法で同じ依存症を引き起こします.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>このドラッグに含まれる化学成分の種類です.\n\n異なるドラッグに同じ化学成分が含まれている場合もあります.異なるドラッグを異なる手法で摂取したとしても,含まれる化学成分が同じであれば,同様に依存症を引き起こします.</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The category this drug belongs to. -->
   <Stat_Thing_Drug_Category_Desc>このドラッグの属するカテゴリーです.</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
   <Stat_Thing_Drug_HighGainPerDose_Desc>このドラッグを摂取したときに,得られる効能量です.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
-  <Stat_Thing_Drug_HighFallPerDay_Desc>このドラッグの,一日毎に減少する効能量です.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <Stat_Thing_Drug_HighFallPerDay_Desc>一日ごとに減少していく,このドラッグの効能量です.</Stat_Thing_Drug_HighFallPerDay_Desc>
   <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
   <Stat_Thing_Drug_HighDurationPerDose_Desc>このドラッグを摂取したときに効能が持続する期間です.\n\nこの値は,使用時に獲得できる効能量と,効能の減少速度から計算されています.</Stat_Thing_Drug_HighDurationPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
-  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>一回の消費毎の,このドラッグに含まれる化学成分に対する,使用者の耐性の増加量です.\n\n同じ化学成分を持つ異なる種類のドラッグは,この値が異なる可能性があります.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>このドラッグを消費するたびに,使用者がこの化学成分に対してどれだけ耐性を得るかです.\n\n同じ化学成分を持つドラッグでも,種類が異なれば,この値も変わる可能性があります.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
-  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>この化学成分に対する,一日毎に減少する使用者の耐性の量です.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>一日ごとに使用者から減少していく,この化学成分への耐性量です.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
   <Stat_Thing_Drug_MinToleranceForAddiction_Desc>このドラッグを摂取したときに,新たに依存症を引き起こすまでの最低耐性値です.\n\n使用者の耐性がこの値を下回っていれば,ドラッグの摂取によって新たに依存症が引き起こされることはありません.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
   <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->

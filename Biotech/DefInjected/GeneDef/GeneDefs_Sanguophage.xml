@@ -34,7 +34,7 @@
   <!-- EN: Carriers of this gene have archites in the blood which will sustain their life processes no matter what. As long as the brain remains intact, a carrier of this gene will never die. -->
   <Deathless.description>この遺伝子を持つ者は血液中にアルカイトが流れており,何があっても生命プロセスを維持します.脳が無傷である限り,保因者は死ぬことはありません.</Deathless.description>
   <!-- EN: Can only die from destruction of brain. -->
-  <Deathless.customEffectDescriptions.0>脳の破壊でのみ死ぬことができます.</Deathless.customEffectDescriptions.0>
+  <Deathless.customEffectDescriptions.0>脳の破壊でのみ死亡</Deathless.customEffectDescriptions.0>
   <!-- EN: god -->
   <Deathless.symbolPack.prefixSymbols.0.symbol>ゴッド</Deathless.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: deo -->
@@ -71,7 +71,7 @@
   <!-- EN: Carriers of this gene have an intense fear of fire. When fires are close, there is a chance they will have a mental breakdown at any moment. -->
   <FireTerror.description>この遺伝子を持つ者は火を非常に恐れます.炎が近くにあるといつでも精神崩壊する可能性があります.</FireTerror.description>
   <!-- EN: May have a mental breakdown when near fires. -->
-  <FireTerror.customEffectDescriptions.0>炎のそばにいると 精神崩壊することがあります.</FireTerror.customEffectDescriptions.0>
+  <FireTerror.customEffectDescriptions.0>炎のそばにいると確率で精神崩壊</FireTerror.customEffectDescriptions.0>
   <!-- EN: pyrophobic -->
   <FireTerror.labelShortAdj>炎恐怖症者</FireTerror.labelShortAdj>
   
@@ -100,11 +100,11 @@
   <!-- EN: hemogenic -->
   <Hemogenic.label>ヘモゲニック</Hemogenic.label>
   <!-- EN: Carriers of this gene have a reserve of biological strength powered by a resource called hemogen. The resource can be gained and spent in various ways, all of which are unlocked by other genes.\n\nCarriers lose 2 hemogen per day from biological entropy. -->
-  <Hemogenic.description>この遺伝子を持つ者は,ヘモゲンと呼ばれるリソースによって強化された生物学的動力の予備を持っています.リソースはさまざまな方法で取得,使用でき,そのすべてが他の遺伝子によってロック解除されます.\n\n保因者は生物学的エントロピーにより1日あたり2つのヘモゲンを失います.</Hemogenic.description>
+  <Hemogenic.description>この遺伝子を持つ者は,ヘモゲンと呼ばれる物質によって動く,生物学的な強さを蓄えています.ヘモゲンの取得手段や用途は多岐に渡りますが,それらを増やすには他の遺伝子が必要になります.\n\n保因者は生物学的エントロピーにより1日あたり2つのヘモゲンを失います.</Hemogenic.description>
   <!-- EN: Gives hemogen supply. -->
-  <Hemogenic.customEffectDescriptions.0>ヘモゲンを供給します.</Hemogenic.customEffectDescriptions.0>
+  <Hemogenic.customEffectDescriptions.0>ヘモゲンを蓄える</Hemogenic.customEffectDescriptions.0>
   <!-- EN: A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy. -->
-  <Hemogenic.resourceDescription>さまざまな方法で取得,使用できる生物学的動力の予備です.\n\nヘモゲンは人間から直接血液を補給,もしくはヘモゲンパックの消費によって増やすことができます.ヘモゲンパックはこの遺伝子を持たない人間に対して医療操作'ヘモゲンパックの抽出'を行うことで取得できます.\n\nヘモゲンがゼロになると{PAWN_nameDef}は非常に不幸になります.</Hemogenic.resourceDescription>
+  <Hemogenic.resourceDescription>生物学的な強さの蓄えであり,さまざまな手段で取得,使用できます.\n\nヘモゲンは人間から直接血液を補給,もしくはヘモゲンパックの消費によって増やすことができます.ヘモゲンパックはこの遺伝子を持たない人間に対して医療操作'ヘモゲンパックの抽出'を行うことで取得できます.\n\nヘモゲンがゼロになると{PAWN_nameDef}は非常に不幸になります.</Hemogenic.resourceDescription>
   <!-- EN: hemogen -->
   <Hemogenic.resourceLabel>ヘモゲン</Hemogenic.resourceLabel>
   <!-- EN: hemo -->
@@ -122,7 +122,7 @@
   <!-- EN: Carriers of this gene have a special type of regenerator cell which can heal old wounds and chronic illnesses like bad back. -->
   <TotalHealing.description>この遺伝子を持つ者は,古傷や腰痛などの慢性疾患を治すことができる特別なタイプの再生細胞を持っています.</TotalHealing.description>
   <!-- EN: Every (*DateTime)15-30 days(/DateTime), one old wound or chronic illness is healed. -->
-  <TotalHealing.customEffectDescriptions.0>(*DateTime)15~30日(/DateTime)ごとに古傷や慢性疾患が 1つ治ります.</TotalHealing.customEffectDescriptions.0>
+  <TotalHealing.customEffectDescriptions.0>(*DateTime)15~30日(/DateTime)ごとに古傷や慢性疾患が\n 1つ治る</TotalHealing.customEffectDescriptions.0>
   <!-- EN: scarless -->
   <TotalHealing.labelShortAdj>傷つきにくい</TotalHealing.labelShortAdj>
   

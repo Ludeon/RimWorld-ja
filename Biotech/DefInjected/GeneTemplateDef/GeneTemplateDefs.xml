@@ -38,7 +38,7 @@
   <!-- EN: {0} dependency -->
   <ChemicalDependency.label>{0} 依存</ChemicalDependency.label>
   <!-- EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
-  <ChemicalDependency.description>この遺伝子を持つ者は,生きるために定期的に{0}を摂取する必要があります.{0}を摂取せずに{DEFICIENCYDURATION}過ぎると,{0}不足に陥ります.さらに{COMADURATION}が過ぎると,昏睡状態に陥ります.そして{DEATHDURATION}が過ぎた場合,死亡します.</ChemicalDependency.description>
+  <ChemicalDependency.description>この遺伝子を持つ者は,生きるために定期的に{0}を摂取する必要があります.{0}を摂取せずに{DEFICIENCYDURATION}過ぎると,{0}不足に陥ります.さらに{COMADURATION}を過ぎると昏睡状態に陥り,{DEATHDURATION}を過ぎると死亡します.</ChemicalDependency.description>
   <!-- EN: {0}-dependent -->
   <ChemicalDependency.labelShortAdj>{0}依存者</ChemicalDependency.labelShortAdj>
   

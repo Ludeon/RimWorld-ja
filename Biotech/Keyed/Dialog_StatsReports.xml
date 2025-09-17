@@ -76,47 +76,47 @@
   <!-- EN: Effects -->
   <Effects>影響</Effects>
   <!-- EN: A multiplier on chance of having a romantic relationship with someone who does not have this gene. -->
-  <StatsReport_MissingGeneRomanceChance>この遺伝子を持っていない人と,恋愛関係を持つ可能性の乗数です.</StatsReport_MissingGeneRomanceChance>
+  <StatsReport_MissingGeneRomanceChance>この遺伝子を持っていない人と恋愛関係を持つ確率への掛け率</StatsReport_MissingGeneRomanceChance>
   <!-- EN: Immune to -->
   <ImmuneTo>免疫あり</ImmuneTo>
   <!-- EN: Social fight chance factor -->
-  <SocialFightChanceFactor>喧嘩の可能性の掛け率</SocialFightChanceFactor>
+  <SocialFightChanceFactor>喧嘩を起こす確率への掛け率</SocialFightChanceFactor>
   <!-- EN: Chance mental break is violent -->
   <AggroMentalBreakSelectionChanceFactor>暴力的なメンタルブレイク</AggroMentalBreakSelectionChanceFactor>
   <!-- EN: Prison break interval factor -->
   <PrisonBreakIntervalFactor>脱獄試行間隔の掛け率</PrisonBreakIntervalFactor>
   <!-- EN: Will never prison break. -->
-  <WillNeverPrisonBreak>脱獄しません.</WillNeverPrisonBreak>
+  <WillNeverPrisonBreak>脱獄しない</WillNeverPrisonBreak>
   <!-- EN: Mental breaks are always violent. -->
-  <AlwaysAggroMentalBreak>精神崩壊時に暴力を起こします.</AlwaysAggroMentalBreak>
+  <AlwaysAggroMentalBreak>精神崩壊時に暴力を起こす</AlwaysAggroMentalBreak>
   <!-- EN: Mental breaks are never violent. -->
-  <NeverAggroMentalBreak>精神崩壊時に暴力を起こしません.</NeverAggroMentalBreak>
+  <NeverAggroMentalBreak>精神崩壊時に暴力を起こさない</NeverAggroMentalBreak>
   <!-- EN: {0_label} addiction chance factor -->
-  <AddictionChanceFactor>{0_label}依存症になる確率の掛け率</AddictionChanceFactor>
+  <AddictionChanceFactor>{0_label}依存症\n になる確率への掛け率</AddictionChanceFactor>
   <!-- EN: {0_label} overdose chance factor -->
-  <OverdoseChanceFactor>{0_label}を過剰摂取する確率の掛け率</OverdoseChanceFactor>
+  <OverdoseChanceFactor>{0_label}過剰摂取\n を起こす確率への掛け率</OverdoseChanceFactor>
   <!-- EN: {0_label} tolerance buildup factor -->
-  <ToleranceBuildupFactor>{0_label}耐性の増強掛け率</ToleranceBuildupFactor>
+  <ToleranceBuildupFactor>{0_label}耐性増加量\n への掛け率</ToleranceBuildupFactor>
   <!-- EN: Immune to {0_label} addiction. -->
-  <AddictionImmune>{0_label}中毒に対する免疫です.</AddictionImmune>
+  <AddictionImmune>{0_label}依存症にならない</AddictionImmune>
   <!-- EN: Immune to food poisoning. -->
-  <FoodPoisoningImmune>食中毒に対する免疫です.</FoodPoisoningImmune>
+  <FoodPoisoningImmune>食中毒にならない</FoodPoisoningImmune>
   <!-- EN: Will never do social fights. -->
-  <WillNeverSocialFight>決して喧嘩をしません.</WillNeverSocialFight>
+  <WillNeverSocialFight>決して喧嘩しない</WillNeverSocialFight>
   <!-- EN: Aging factors -->
   <AgeFactors>老化による掛け率</AgeFactors>
   <!-- EN: Work speed is unaffected by darkness. -->
-  <UnaffectedByDarkness>暗闇による作業速度低下が起きません.</UnaffectedByDarkness>
+  <UnaffectedByDarkness>暗闇による作業速度低下なし</UnaffectedByDarkness>
   <!-- EN: Adds one level of passion in {0_label}. -->
-  <PassionModAdd>{0_label}に一段階の情熱を追加します.</PassionModAdd>
+  <PassionModAdd>{0_label}に一段階の情熱を追加</PassionModAdd>
   <!-- EN: Removes all passion in {0_label}. -->
-  <PassionModDrop>{0_label}に情熱が付きません.</PassionModDrop>
+  <PassionModDrop>{0_label}に情熱が付かない</PassionModDrop>
   <!-- EN: Gives ability -->
   <GivesAbility>能力を追加</GivesAbility>
   <!-- EN: Gives abilities -->
   <GivesAbilities>能力を追加</GivesAbilities>
   <!-- EN: {RESOURCE}: {OFFSET} per day. -->
-  <ResourceLossPerDay>一日ごとに{RESOURCE}:{OFFSET}</ResourceLossPerDay>
+  <ResourceLossPerDay>{RESOURCE}: 一日ごとに{OFFSET}</ResourceLossPerDay>
   <!-- EN: Removes -->
   <Removes>削除</Removes>
   <!-- EN: Baby -->
@@ -130,12 +130,12 @@
   <StatsReport_GrowthVatSpeedFactor>人工生育槽速度</StatsReport_GrowthVatSpeedFactor>
 
   <!-- EN: Carriers cannot build a tolerance to {0_label}. -->
-  <GeneToleranceBuildupImmune>この遺伝子の保有者は{0_label}に対する耐性を持つことができません.</GeneToleranceBuildupImmune>
+  <GeneToleranceBuildupImmune>この遺伝子を持つ者は,{0_label}耐性を獲得しません.</GeneToleranceBuildupImmune>
   <!-- EN: Carriers build a tolerance to {0_label} {1} as quickly. -->
-  <GeneToleranceBuildupFactor>この遺伝子の保有者は{0_label}{1}への耐性を速やかに持ちます.</GeneToleranceBuildupFactor>
+  <GeneToleranceBuildupFactor>この遺伝子を持つ者は,{0_label}耐性を得る速度が{1}になります.</GeneToleranceBuildupFactor>
   <!-- EN: Carriers cannot overdose on {0_label}. -->
-  <GeneOverdoseImmune>この遺伝子の保有者は{0_label}を過剰摂取できません.</GeneOverdoseImmune>
+  <GeneOverdoseImmune>この遺伝子を持つ者は,{0_label}を過剰摂取しません.</GeneOverdoseImmune>
   <!-- EN: Carriers are {1} as likely to overdose on {0_label}. -->
-  <GeneOverdoseFactor>この遺伝子の保有者は{0_label}を過剰摂取する可能性が{1}あります.</GeneOverdoseFactor>
+  <GeneOverdoseFactor>この遺伝子を持つ者は,{0_label}を過剰摂取する確率が通常の{1}になります.</GeneOverdoseFactor>
 
 </LanguageData>

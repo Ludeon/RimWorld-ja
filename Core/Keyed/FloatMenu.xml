@@ -196,7 +196,7 @@
   <AlreadyAssigned>すでに割り当て済みです</AlreadyAssigned>
   
   <!-- EN: Consume {1_labelShort} -->
-  <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
+  <ConsumeThing>{1_labelShort}を 口にする</ConsumeThing>
   
   <!-- EN: Cannot go here: No path -->
   <CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
@@ -326,43 +326,43 @@
   <ReloadCannotCarryEnough>1回分のチャージをリロードするのに十分な{AMMO_label}を運ぶことができません.</ReloadCannotCarryEnough>
   
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUp>{1_labelShort}を拾えない</CannotPickUp>
+  <CannotPickUp>{1_labelShort}を 拾えない</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
-  <CannotPickUpAll>{1_label}(全て)を拾えない</CannotPickUpAll>
+  <CannotPickUpAll>{1_label}(全て)を 拾えない</CannotPickUpAll>
   <!-- EN: Pick up {1_labelShort} x1 -->
-  <PickUpOne>{1_labelShort}x1を拾う</PickUpOne>
+  <PickUpOne>{1_labelShort} x1を 拾う</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
-  <PickUpAll>{1_label}(全て)を拾う</PickUpAll>
+  <PickUpAll>{1_label}(全て)を 拾う</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>{1_labelShort}を拾う...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>{1_labelShort}x{{0}}を拾う</PickUpCount>
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUpSome>{1_labelShort}を拾えない</CannotPickUpSome>
+  <CannotPickUpSome>{1_labelShort}を 拾えない</CannotPickUpSome>
   <!-- EN: {0} {1} allowed -->
   <MaxPickUpAllowed>{1}は{0}つまでしか持てない</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
-  <CannotGiveToPackAnimal>{1_label}を駄載獣に与えられない</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>{1_label}を 駄載獣に積載できない</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
-  <CannotGiveToPackAnimalAll>{1_label}(全て)を駄載獣に与えられない</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>{1_label}(全て)を 駄載獣に積載できない</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
-  <GiveToPackAnimal>{1_label}を駄載獣に与える</GiveToPackAnimal>
+  <GiveToPackAnimal>{1_label}を 駄載獣に積載する</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
-  <GiveToPackAnimalAll>{1_label}(全て)を駄載獣に与える</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>{1_label}(全て)を 駄載獣に積載する</GiveToPackAnimalAll>
   <!-- EN: Load {1_labelShort} onto pack animal... -->
-  <GiveToPackAnimalSome>{1_labelShort}を駄載獣に与える</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>{1_labelShort}を駄載獣に積載する...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>{1_labelShort}x{{0}}を取る</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>{1_labelShort}x{{0}}を駄載獣に積載する</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>{1_label}をキャラバン隊に積載できない</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>{1_label}を キャラバン隊に積載できない</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
-  <CannotLoadIntoCaravanAll>{1_label}(全て)をキャラバン隊に積載できない</CannotLoadIntoCaravanAll>
+  <CannotLoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に積載できない</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
-  <LoadIntoCaravan>{1_label}をキャラバン隊に積載する</LoadIntoCaravan>
+  <LoadIntoCaravan>{1_label}を キャラバン隊に積載する</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
-  <LoadIntoCaravanAll>{1_label}(全て)をキャラバン隊に積載する</LoadIntoCaravanAll>
+  <LoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に積載する</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>{1_labelShort}をキャラバン隊に積載する...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
@@ -378,9 +378,9 @@
   <CarryToExitAndCapture>{1_labelShort}を捕獲して,ここから離れる</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_labelShort} -->
-  <Strip>{1_labelShort}から剥ぐ</Strip>
+  <Strip>{1_labelShort}から 剥ぐ</Strip>
   <!-- EN: Cannot strip {1_labelShort} -->
-  <CannotStrip>{1_labelShort}から剥ぎ取れない</CannotStrip>
+  <CannotStrip>{1_labelShort}から 剥ぎ取れない</CannotStrip>
   <!-- EN: Cannot drop {1_labelShort} -->
   <CannotDrop>{1_labelShort}を外せない</CannotDrop>
   <!-- EN: Carry {0_labelShort} -->
@@ -405,7 +405,7 @@
   <SelfDestructHere>ここで自爆する</SelfDestructHere>
   
   <!-- EN: Drop {1_labelShort} -->
-  <Drop>{1_labelShort}を手放す</Drop>
+  <Drop>{1_labelShort}を 手放す</Drop>
 
   <!-- EN: Rest until healed -->
   <UseMedicalBed>完治するまで休む</UseMedicalBed>

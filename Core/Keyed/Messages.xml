@@ -178,9 +178,9 @@
   <MessageWarningNoMedicineForRestriction>警告: {PAWN_nameDef}の薬物適用方針({RESTRICTIONLABEL})により,この操作は行えません.{PAWN_possessive}方針を変更してください.</MessageWarningNoMedicineForRestriction>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{PAWN_labelShort}は命を落としました.原因: {1}</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort}は 命を落としました. 原因: {1}</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>{1_labelShort}は命を落としました.</PawnDied>
+  <PawnDied>{1_labelShort}は 命を落としました.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
   <MessageNoLongerDowned>{1_label}は自由に歩き回れるようになりました.</MessageNoLongerDowned>
