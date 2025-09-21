@@ -108,13 +108,13 @@
   <!-- EN: Need recreation variety -->
   <NeedJoySource>娯楽に多様性を</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>{1}には{0}種類の娯楽があります,ですが現在の満足度は{2}で,入植者達が,このままの満足度を保つには{3}種類の娯楽を必要としています.新しいタイプの娯楽を提供します.\n\n{4}\n\n{5}\n\n注意:各アイテムの(i)ボタンを押すと娯楽種別を確認することができます.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>{1}には{0}種類の娯楽しかありません.入植者たちはこのコロニーに対して{2}期待を寄せているため,彼らを満足させるためには{3}種類の娯楽が必要になります.種類の異なる新たな娯楽を用意して,バリエーションを増やしましょう.\n\n{4}\n\n{5}\n\n注意：娯楽道具のステータス画面から,娯楽種別を確認できます.ステータス画面を開くには'i'ボタンを押してください.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>存在する娯楽種別</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
   <MissingRecreationTypes>欠けている娯楽種別</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>現満足度({0}) {1}/日 発生する毎に飽きてきます.{2}種類の娯楽を推奨します.</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>入植者たちはコロニーに{0}期待を寄せているため,目覚めている間は,{1}/日のペースで娯楽への飽きが解消されていきます.{2}種類の娯楽を用意することを推奨します.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
   <bored>飽きた</bored>
 

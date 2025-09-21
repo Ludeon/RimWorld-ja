@@ -76,7 +76,7 @@
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>"Steam API"の初期化ができませんでした.可能性のある原因：\n\n -"Steam"が起動していない.\n - steam_appid.txtが無い,Steam以外の場所から起動しようとした.\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合,コンピュータの再起動でこの問題は解決するでしょう.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Steam API の初期化に失敗しました. 可能性のある原因は以下の通り：\n\n - Steamが起動していない.\n - steam_appid.txtがない状態でSteam以外の場所から起動しようとした.\n - Steamクライアントとは異なる権限で起動しようとした.(例えば"管理者として実行"など)\n\n大抵の場合,PCを再起動すればこの問題は解決するでしょう.\n\nこの状態でもゲームプレイは可能ですが,プレイ情報がSteamへ記録されず,また,Steamの機能をゲーム中に使えなくなります.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->

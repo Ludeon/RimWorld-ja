@@ -133,7 +133,7 @@
   <!-- EN: Power -->
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>娯楽の飽きられっぽさ</JoyTolerances>
+  <JoyTolerances>娯楽への飽き具合</JoyTolerances>
   <!-- EN: Milk fullness -->
   <MilkFullness>乳量</MilkFullness>
   <!-- EN: Wool growth -->
@@ -1786,7 +1786,7 @@
 
   <!-- LordJobs -->
   <!-- EN: Outcome chances at {0} quality -->
-  <LordJobOutcomeChances>品質{0}の結果が得られる確率</LordJobOutcomeChances>
+  <LordJobOutcomeChances>品質{0}に基づき得られる結果とその確率</LordJobOutcomeChances>
   <!-- EN: Expected duration -->
   <ExpectedLordJobDuration>予想される期間</ExpectedLordJobDuration>
 
