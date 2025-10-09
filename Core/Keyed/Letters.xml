@@ -392,9 +392,9 @@
   <!-- EN: Reactor ready -->
   <LetterLabelHibernateComplete>反応炉 準備完了</LetterLabelHibernateComplete>
   <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name)は,反応炉の再起動シーケンスを完了させました. いま,反応炉は打ち上げに必要なパワーの準備ができています.</LetterHibernateComplete>
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name)は, 反応炉の再起動シーケンスを完了させました. 反応炉はいま,打ち上げに必要なパワーを出力できるようになりました.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
-  <LetterHibernateCompleteStandalone>反応炉の再起動シーケンスは完了しました.打ち上げ準備は完了です.</LetterHibernateCompleteStandalone>
+  <LetterHibernateCompleteStandalone>反応炉の再起動シーケンスが完了し,打ち上げ準備が整いました.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
   <!-- EN: Gift from {0} -->
