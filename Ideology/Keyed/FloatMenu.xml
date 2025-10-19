@@ -155,7 +155,7 @@
   <BiosculpterAutoAgeReversalLabel>{PAWN_labelShort}の年齢反転を自動で行う</BiosculpterAutoAgeReversalLabel>
   <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
   <BiosculpterAutoAgeReversalDescription>{PAWN_labelShort}の思想に従い,このポッドで年に一度の年齢逆転治療を実行したいという願望を自動的に満たします.{NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
-  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treatment in {TIME} if the pod is ready. -->
   <BiosculpterAutoAgeReversalDescriptionFuture>有効にすると,ポッドの準備ができている場合,{PAWN_labelShort}は{TIME}に自動的に次の治療を受けます.</BiosculpterAutoAgeReversalDescriptionFuture>
   <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
   <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort}はすでに次の治療を望んでおり,これが有効になっている場合は自動的に治療を開始します.</BiosculpterAutoAgeReversalDescriptionNow>
