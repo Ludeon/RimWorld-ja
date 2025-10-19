@@ -15,11 +15,11 @@
   -->
   <AdvancedPsychicRituals.generalRules.rulesStrings>
     <li>subject->高度なサイキック儀式</li>
-    <li>subject_story->崇拝者の教団に引き入れられました</li>
-    <li>subject_story->追放された教団の主に出会い,自慢気に話すその秘密を聞きました</li>
-    <li>subject_story->儀式の犠牲についての理解を深めました</li>
-    <li>subject_story->イクス大学のサイキック史学の教授に任命されました</li>
-    <li>subject_gerund->高度なサイキック儀式を行う</li>
+    <li>subject_story->崇拝者の教団に引き入れられた</li>
+    <li>subject_story->追放された教団の主に出会い,自慢気に話すその秘密を聞いた</li>
+    <li>subject_story->儀式の犠牲についての理解を深めた</li>
+    <li>subject_story->イクス大学のサイキック史学の教授に任命された</li>
+    <li>subject_gerund->高度なサイキック儀式</li>
   </AdvancedPsychicRituals.generalRules.rulesStrings>
   
   <!-- EN: atmospheric heater -->
@@ -37,12 +37,12 @@
   -->
   <AtmosphericHeater.generalRules.rulesStrings>
     <li>subject->バイオフェライト加熱</li>
-    <li>subject_story->旧式の地熱発電施設を改良しました</li>
-    <li>subject_story->バイオメタルの熱出力を研究しました</li>
-    <li>subject_story->アルコテックの驚異的なエネルギー貯蔵力を研究しました</li>
-    <li>subject_story->人口密度の高い氷の惑星におけるハイポコーストシステムを調査しました</li>
-    <li>subject_gerund->バイオフェライトで加熱する</li>
-    <li>subject_gerund->バイオフェライト燃料ヒーターを建築する</li>
+    <li>subject_story->旧式の地熱発電施設を改良した</li>
+    <li>subject_story->バイオメタルの熱出力を研究した</li>
+    <li>subject_story->アルコテックの驚異的なエネルギー貯蔵力を研究した</li>
+    <li>subject_story->人口密度の高い氷の惑星におけるハイポコーストシステムを調査した</li>
+    <li>subject_gerund->バイオフェライトでの加熱</li>
+    <li>subject_gerund->バイオフェライト燃料ヒーターの建築</li>
   </AtmosphericHeater.generalRules.rulesStrings>
   
   <!-- EN: void provocation -->
@@ -62,14 +62,14 @@
   -->
   <BasicPsychicRituals.generalRules.rulesStrings>
     <li>subject->サイキック儀式</li>
-    <li>subject_story->ホラックス崇拝者の儀式を研究しました</li>
-    <li>subject_story->原始的な祭壇を復元しました</li>
-    <li>subject_story->サイキックコミュニケーションの基礎を確立しました</li>
-    <li>subject_story->死の世界でのヴォイド喚起の儀式の失敗を目の当たりにしました</li>
-    <li>subject_story->砂漠の柱の上でアルコテックノ破片と交信しました</li>
-    <li>subject_gerund->サイキック儀式を行う</li>
-    <li>subject_gerund->儀式の場を作る</li>
-    <li>subject_gerund->ヴォイドの「存在」を喚び起こす</li>
+    <li>subject_story->ホラックス崇拝者の儀式を研究した</li>
+    <li>subject_story->原始的な祭壇を復元した</li>
+    <li>subject_story->サイキックコミュニケーションの基礎を確立した</li>
+    <li>subject_story->死の世界でのヴォイド喚起の儀式の失敗を目の当たりにした</li>
+    <li>subject_story->砂漠の柱の上でアルコテックノ破片と交信した</li>
+    <li>subject_gerund->サイキック儀式</li>
+    <li>subject_gerund->儀式の場の作成</li>
+    <li>subject_gerund->ヴォイドの「存在」の喚起</li>
   </BasicPsychicRituals.generalRules.rulesStrings>
   
   <!-- EN: bioferrite extraction -->
@@ -86,11 +86,11 @@
   -->
   <BioferriteExtraction.generalRules.rulesStrings>
     <li>subject->バイオフェライト抽出</li>
-    <li>subject_story->急速に変異する肉サンプルから有機化合物を抽出しました</li>
+    <li>subject_story->急速に変異する肉サンプルから有機化合物を抽出した</li>
     <li>subject_story->先触れの木の肉を剥いで茹でました</li>
-    <li>subject_story->アルコテック現象に関するレポートをもとに研究しました</li>
-    <li>subject_story->新しい有機金属を発見しました</li>
-    <li>subject_gerund->バイオフェライトを抽出する</li>
+    <li>subject_story->アルコテック現象に関するレポートをもとに研究した</li>
+    <li>subject_story->新しい有機金属を発見した</li>
+    <li>subject_gerund->バイオフェライトの抽出</li>
   </BioferriteExtraction.generalRules.rulesStrings>
   
   <!-- EN: bioferrite generator -->
@@ -100,7 +100,7 @@
   <!-- EN:
     <li>subject->bioferrite power generation</li>
     <li>subject_story->was trained in the use of innovative power sources</li>
-    <li>subject_story->explored the use of metal- and fibre-based fuels</li>
+    <li>subject_story->explored the use of metal- and fiber-based fuels</li>
     <li>subject_story->discovered a love of fire and things that burn</li>
     <li>subject_story->worked as a technician, maintaining orbital energy systems</li>
     <li>subject_story->rendered the wildlife of a system down for fuel</li>
@@ -109,13 +109,13 @@
   -->
   <BioferriteGenerator.generalRules.rulesStrings>
     <li>subject->バイオフェライト発電</li>
-    <li>subject_story->革新的な動力源の使用について訓練を受けました</li>
-    <li>subject_story->金属と繊維をベースにした燃料の使用を探求してきました</li>
-    <li>subject_story->炎と燃えるものへの愛を見出しました</li>
-    <li>subject_story->技術者として軌道エネルギーシステムのメンテナンスに携わっていました</li>
-    <li>subject_story->燃料のために倒れた野生生物を活用してきました</li>
-    <li>subject_gerund->バイオフェライト燃料発電機を建築する</li>
-    <li>subject_gerund->バイオフェライトを利用した発電機を稼働する</li>
+    <li>subject_story->革新的な動力源の使用について訓練を受けた</li>
+    <li>subject_story->金属と繊維をベースにした燃料の使用を探求した</li>
+    <li>subject_story->炎と燃えるものへの愛を見出した</li>
+    <li>subject_story->技術者として軌道エネルギーシステムのメンテナンスに携わった</li>
+    <li>subject_story->燃料のために倒れた野生生物を活用した</li>
+    <li>subject_gerund->バイオフェライト燃料発電機の建築</li>
+    <li>subject_gerund->バイオフェライト発電機の稼働</li>
   </BioferriteGenerator.generalRules.rulesStrings>
   
   <!-- EN: bioferrite harvester -->
@@ -132,11 +132,11 @@
   -->
   <BioferriteHarvesting.generalRules.rulesStrings>
     <li>subject->バイオフェライト</li>
-    <li>subject_story->奇妙な金属のような繊維状物質を研究してきました</li>
-    <li>subject_story->グールの死体を生け捕りにしました</li>
-    <li>subject_story->有機金属の隠れ家を発見しました</li>
-    <li>subject_story->金属に汚染された奇妙な野生生物を観測しました</li>
-    <li>subject_gerund->バイオフェライトを収穫する</li>
+    <li>subject_story->奇妙な金属のような繊維状物質を研究した</li>
+    <li>subject_story->グールの死体を生け捕りにした</li>
+    <li>subject_story->有機金属の隠れ家を発見した</li>
+    <li>subject_story->金属に汚染された奇妙な野生生物を観測した</li>
+    <li>subject_gerund->バイオフェライトの収穫</li>
   </BioferriteHarvesting.generalRules.rulesStrings>
   
   <!-- EN: bioferrite weaponry -->
@@ -155,11 +155,11 @@
   <BioferriteIgnition.generalRules.rulesStrings>
     <li>subject->バイオフェライト燃焼</li>
     <li>subject->バイオフェライト兵器</li>
-    <li>subject_story->アルコテックの小惑星の採掘施設で働いていました</li>
-    <li>subject_story->奇妙な素材の燃焼点を研究してきました</li>
-    <li>subject_story->ミルワード兵器製造企業の研究部門に参加していました</li>
-    <li>subject_story->アルコテックの砂漠でバイオマインを除去していました</li>
-    <li>subject_gerund->バイオフェライトをベースにした武器を製造する</li>
+    <li>subject_story->アルコテックの小惑星の採掘施設で働いた</li>
+    <li>subject_story->奇妙な素材の燃焼点を研究した</li>
+    <li>subject_story->ミルワード兵器製造企業の研究部門に参加した</li>
+    <li>subject_story->アルコテックの砂漠でバイオマインを除去した</li>
+    <li>subject_gerund->バイオフェライトをベースにした武器の製造</li>
   </BioferriteIgnition.generalRules.rulesStrings>
   
   <!-- EN: bioferrite shaping -->
@@ -177,12 +177,12 @@
   -->
   <BioferriteShaping.generalRules.rulesStrings>
     <li>subject->バイオフェライト成形</li>
-    <li>subject_story->成形と彫刻の独自の技術を学びました</li>
-    <li>subject_story->熱成形の訓練を受けました</li>
-    <li>subject_story->異種素材工場で勤務していました</li>
-    <li>subject_story->アルコテックの材料科学者を支援しました </li>
-    <li>subject_story->アルコテックの遺物成形について研究しました</li>
-    <li>subject_gerund->バイオフェライトを成形する</li>
+    <li>subject_story->成形と彫刻の独自の技術を学んだ</li>
+    <li>subject_story->熱成形の訓練を受けた</li>
+    <li>subject_story->異種素材工場で勤務した</li>
+    <li>subject_story->アルコテックの材料科学者を支援した </li>
+    <li>subject_story->アルコテックの遺物成形について研究した</li>
+    <li>subject_gerund->バイオフェライトを成形</li>
   </BioferriteShaping.generalRules.rulesStrings>
   
   <!-- EN: bliss lobotomy -->
@@ -199,11 +199,11 @@
   -->
   <BlissLobotomy.generalRules.rulesStrings>
     <li>subject->ロボトミー</li>
-    <li>subject_story->国家に対する思想犯としてロボトミー手術を受けました</li>
-    <li>subject_story->エルドフ実験の数少ない生き残りのリハビリを行いました</li>
-    <li>subject_story->脳外科医と理容師の見習いをしていました</li>
-    <li>subject_gerund->ロボトミー手術を行う</li>
-    <li>subject_gerund->脳組織を除去する</li>
+    <li>subject_story->国家に対する思想犯としてロボトミー手術を受けた</li>
+    <li>subject_story->エルドフ実験の数少ない生き残りのリハビリを行った</li>
+    <li>subject_story->脳外科医と理容師の見習いをした</li>
+    <li>subject_gerund->ロボトミー手術</li>
+    <li>subject_gerund->脳組織の除去</li>
   </BlissLobotomy.generalRules.rulesStrings>
   
   <!-- EN: blood rain -->
@@ -220,11 +220,11 @@
   -->
   <BloodRain.generalRules.rulesStrings>
     <li>subject->血の雨</li>
-    <li>subject_story->有機的な降水に関する古代の神話を調べていました</li>
-    <li>subject_story->怒りを覚える人の神経経路を研究してきました</li>
-    <li>subject_story->イクスの超越的世界を流れる精神流体のサンプルを採取しました</li>
-    <li>subject_story->精神流体のシャワーを浴びて,抑えようのない怒りに満ちていました</li>
-    <li>subject_gerund->血の雨を発生させる</li>
+    <li>subject_story->有機的な降水に関する古代の神話を調べた</li>
+    <li>subject_story->怒りを覚える人の神経経路を研究した</li>
+    <li>subject_story->イクスの超越的世界を流れる精神流体のサンプルを採取した</li>
+    <li>subject_story->精神流体のシャワーを浴びて,抑えようのない怒りに満ちた</li>
+    <li>subject_gerund->血の雨の発生</li>
   </BloodRain.generalRules.rulesStrings>
   
   <!-- EN: brainwipe -->
@@ -242,12 +242,12 @@
   -->
   <Brainwipe.generalRules.rulesStrings>
     <li>subject->精神消去</li>
-    <li>subject_story->エピソード記憶喪失の話を研究していました</li>
-    <li>subject_story->脳の病変から生き延びた人を対象とした診療所で働いていました</li>
-    <li>subject_story->記憶喪失に関する神経経路を研究していました</li>
-    <li>subject_story->忘れ去られし戦争の後,洗脳施設を管理していました</li>
-    <li>subject_gerund->被験者の精神を消去中です</li>
-    <li>subject_gerund->被験者の精神消去のための儀式を行う</li>
+    <li>subject_story->エピソード記憶喪失の話を研究した</li>
+    <li>subject_story->脳の病変から生き延びた人を対象とした診療所で働いた</li>
+    <li>subject_story->記憶喪失に関する神経経路を研究した</li>
+    <li>subject_story->忘れ去られし戦争の後,洗脳施設を管理した</li>
+    <li>subject_gerund->被験者の精神の消去</li>
+    <li>subject_gerund->被験者の精神消去のための儀式</li>
   </Brainwipe.generalRules.rulesStrings>
   
   <!-- EN: chronophagy -->
@@ -266,13 +266,13 @@
   -->
   <Chronophagy.generalRules.rulesStrings>
     <li>subject->クロノファジー</li>
-    <li>subject_story->加齢に伴う変性を研究していました</li>
-    <li>subject_story->ある生命体から他の生命体へ,健康的な構造を破壊的に複製してきました</li>
-    <li>subject_story->アルコテックに込められた様々な儀式について,理論化してきました</li>
-    <li>subject_story->きらびやかな診療所で,富裕層の長寿治療を見学していました</li>
-    <li>subject_gerund->若さを奪っています</li>
-    <li>subject_gerund->クロノファジーを実行する</li>
-    <li>subject_gerund->クロノファジーの儀式を行う</li>
+    <li>subject_story->加齢に伴う変性を研究した</li>
+    <li>subject_story->ある生命体から他の生命体へ,健康的な構造を破壊的に複製した</li>
+    <li>subject_story->アルコテックに込められた様々な儀式について,理論化した</li>
+    <li>subject_story->きらびやかな診療所で,富裕層の長寿治療を見学した</li>
+    <li>subject_gerund->若さの略奪</li>
+    <li>subject_gerund->クロノファジーの実行</li>
+    <li>subject_gerund->クロノファジーの儀式</li>
   </Chronophagy.generalRules.rulesStrings>
   
   <!-- EN: deadlife dust -->
@@ -290,12 +290,12 @@
   -->
   <DeadlifeDust.generalRules.rulesStrings>
     <li>subject->死の塵</li>
-    <li>subject_story->ナノボット用エアロゾル拡散システムを合成しました</li>
-    <li>subject_story->原子遠心分離機を使用して,異なるグレードのアーキサイトを分離しました</li>
-    <li>subject_story->アーブワールドの映像で恐るべきシャンブラーの襲撃を目撃しました</li>
-    <li>subject_story->自動調整IFFシステムを備えたアルカイト制御装置を開発しました</li>
-    <li>subject_gerund->死の塵を作る</li>
-    <li>subject_gerund->アルカイトを散布してシャンブラーを作る</li>
+    <li>subject_story->ナノボット用エアロゾル拡散システムを合成した</li>
+    <li>subject_story->原子遠心分離機を使用して,異なるグレードのアーキサイトを分離した</li>
+    <li>subject_story->アーブワールドの映像で恐るべきシャンブラーの襲撃を目撃した</li>
+    <li>subject_story->自動調整IFFシステムを備えたアルカイト制御装置を開発した</li>
+    <li>subject_gerund->死の塵の作成</li>
+    <li>subject_gerund->シャンブラー作成のためのアルカイト散布</li>
   </DeadlifeDust.generalRules.rulesStrings>
   
   <!-- EN: death refusal -->
@@ -313,12 +313,12 @@
   -->
   <DeathRefusal.generalRules.rulesStrings>
     <li>subject->死を拒む者の祈り</li>
-    <li>subject_story->あり得ざる生還の物語を調査しました</li>
-    <li>subject_story->ラストバトル VIIの数多の犠牲者の最後の瞬間を見守りました</li>
-    <li>subject_story->アクスホールの原初の預言者の復活の試みに参加しました</li>
-    <li>subject_story->コアワールドの図書館で死を拒む者の証拠を集めました</li>
-    <li>subject_gerund->死を防ぐ</li>
-    <li>subject_gerund->死を戒めるための儀式を行う</li>
+    <li>subject_story->あり得ざる生還の物語を調査した</li>
+    <li>subject_story->ラストバトルVIIの数多の犠牲者の最後の瞬間を見守った</li>
+    <li>subject_story->アクスホールの原初の預言者の復活の試みに参加した</li>
+    <li>subject_story->コアワールドの図書館で死を拒む者の証拠を集めた</li>
+    <li>subject_gerund->死の防止</li>
+    <li>subject_gerund->死を戒めるための儀式</li>
   </DeathRefusal.generalRules.rulesStrings>
   
   <!-- EN: disruptor flares -->
@@ -338,12 +338,12 @@
   <DisruptorFlares.generalRules.rulesStrings>
     <li>subject->バイオフェライトフレア</li>
     <li>subject->短時間の照明</li>
-    <li>subject_story->非視覚的電磁スペクトルを研究しました</li>
-    <li>subject_story->被験者の視覚中枢を無効化しました</li>
-    <li>subject_story->夜の惑星の動物たちの生物発光技術を研究しました</li>
-    <li>subject_story->アルカイトノエネルギー放出の電磁スペクトルを収束させました</li>
-    <li>subject_gerund->一時的に視覚を強化する</li>
-    <li>subject_gerund->バイオフェライトフレアを作る</li>
+    <li>subject_story->非視覚的電磁スペクトルを研究した</li>
+    <li>subject_story->被験者の視覚中枢を無効化した</li>
+    <li>subject_story->夜の惑星の動物たちの生物発光技術を研究した</li>
+    <li>subject_story->アルカイトノエネルギー放出の電磁スペクトルを収束させた</li>
+    <li>subject_gerund->一時的な視覚強化</li>
+    <li>subject_gerund->バイオフェライトフレアの作成</li>
   </DisruptorFlares.generalRules.rulesStrings>
   
   <!-- EN: electroharvester -->
@@ -361,12 +361,12 @@
   -->
   <Electroharvester.generalRules.rulesStrings>
     <li>subject->「存在」発電</li>
-    <li>subject_story->細胞膜内のイオンポンプを研究しました</li>
-    <li>subject_story->希少なテランのデンキウナギの生態を研究しました</li>
-    <li>subject_story->アルカイトを励起させ,その熱出力を調査しました</li>
-    <li>subject_story->アルコテックのエネルギーポテンシャルについて理論化しました</li>
-    <li>subject_gerund->「存在」から収穫する</li>
-    <li>subject_gerund->エレクトロハーベスターを建築する</li>
+    <li>subject_story->細胞膜内のイオンポンプを研究した</li>
+    <li>subject_story->希少なテランのデンキウナギの生態を研究した</li>
+    <li>subject_story->アルカイトを励起させ,その熱出力を調査した</li>
+    <li>subject_story->アルコテックのエネルギーポテンシャルについて理論化した</li>
+    <li>subject_gerund->「存在」からの収穫</li>
+    <li>subject_gerund->エレクトロハーベスターの建築</li>
   </Electroharvester.generalRules.rulesStrings>
   
   <!-- EN: entity containment -->
@@ -384,12 +384,12 @@
   -->
   <EntityContainment.generalRules.rulesStrings>
     <li>subject->「存在」の収容</li>
-    <li>subject_story->プリズンワールドの研究施設で働いていました</li>
-    <li>subject_story->プリズンワールドで囚われていました</li>
-    <li>subject_story->ゲリラ活動に参加し,収容施設を破壊していました</li>
-    <li>subject_story->ダイノワールドチェーンで食肉加工工場を建築しました</li>
-    <li>subject_gerund->「存在」を収容する</li>
-    <li>subject_gerund->「存在」収容施設を建築する</li>
+    <li>subject_story->プリズンワールドの研究施設で働いた</li>
+    <li>subject_story->プリズンワールドで囚われていた</li>
+    <li>subject_story->ゲリラ活動に参加し,収容施設を破壊した</li>
+    <li>subject_story->ダイノワールドチェーンで食肉加工工場を建築した</li>
+    <li>subject_gerund->「存在」の収容</li>
+    <li>subject_gerund->「存在」収容施設の建築</li>
   </EntityContainment.generalRules.rulesStrings>
   
   <!-- EN: frenzy inducer -->
@@ -407,12 +407,12 @@
   -->
   <FrenzyInducer.generalRules.rulesStrings>
     <li>subject->アルコテック熱狂誘発装置</li>
-    <li>subject_story->モチベーションセラピストとして働いていました</li>
-    <li>subject_story->フェラルワールドのガレー船で太鼓を叩いていました</li>
-    <li>subject_story->様々なアルコフィールドが人間の意識へ与える影響を研究していました</li>
-    <li>subject_story->アーブワールドの地下クラブでトランスステーションを経営していました</li>
-    <li>subject_gerund->熱狂を誘発する</li>
-    <li>subject_gerund->アルコテックの熱狂誘発装置を建築する</li>
+    <li>subject_story->モチベーションセラピストとして働いた</li>
+    <li>subject_story->フェラルワールドのガレー船で太鼓を叩いた</li>
+    <li>subject_story->様々なアルコフィールドが人間の意識へ与える影響を研究した</li>
+    <li>subject_story->アーブワールドの地下クラブでトランスステーションを経営した</li>
+    <li>subject_gerund->熱狂の誘発</li>
+    <li>subject_gerund->アルコテックの熱狂誘発装置の建築</li>
   </FrenzyInducer.generalRules.rulesStrings>
   
   <!-- EN: ghoul enhancements -->
@@ -428,10 +428,10 @@
   -->
   <GhoulEnhancements.generalRules.rulesStrings>
     <li>subject->グールの強化</li>
-    <li>subject_story->死者と2度死んだ者とで実験を行いました</li>
-    <li>subject_story->グールにさらに奇妙な道具を埋め込みました</li>
-    <li>subject_story->より複雑なグール用人工装具を研究していました</li>
-    <li>subject_gerund->バイオフェライト人工装具でグールを強化する</li>
+    <li>subject_story->死者と2度死んだ者とで実験を行った</li>
+    <li>subject_story->グールにさらに奇妙な道具を埋め込んた</li>
+    <li>subject_story->より複雑なグール用人工装具を研究した</li>
+    <li>subject_gerund->バイオフェライト人工装具によるグール強化</li>
   </GhoulEnhancements.generalRules.rulesStrings>
   
   <!-- EN: ghoul infusion -->
@@ -448,11 +448,11 @@
   -->
   <GhoulInfusion.generalRules.rulesStrings>
     <li>subject->グール作成</li>
-    <li>subject_story->アーブワールドの紛争のために,プリズンワールドの死刑囚を供給しました</li>
-    <li>subject_story->実験的プログラムの一環としてのアルカイト注射を軍用化しました</li>
-    <li>subject_story->デッドワールドの廃墟で,野生のデッドライフを研究しました</li>
-    <li>subject_gerund->アルコテックの破片を生きている人間に注入する</li>
-    <li>subject_gerund->グールを作る</li>
+    <li>subject_story->アーブワールドの紛争のために,プリズンワールドの死刑囚を供給した</li>
+    <li>subject_story->実験的プログラムの一環としてのアルカイト注射を軍用化した</li>
+    <li>subject_story->デッドワールドの廃墟で,野生のデッドライフを研究した</li>
+    <li>subject_gerund->生きている人間へのアルコテックの破片注入</li>
+    <li>subject_gerund->グールの作成</li>
   </GhoulInfusion.generalRules.rulesStrings>
   
   <!-- EN: ghoul resurrection -->
@@ -470,12 +470,12 @@
   -->
   <GhoulResurrection.generalRules.rulesStrings>
     <li>subject->グール蘇生</li>
-    <li>subject_story->グールを蘇生する新たな方法を開発しました</li>
-    <li>subject_story->様々なアルコテック化合物を死体に注入しました</li>
-    <li>subject_story->高濃度のアルコテックがグールへ与える影響を研究していました</li>
-    <li>subject_story->グールの蘇生を何度も目撃しました</li>
-    <li>subject_gerund->グールを蘇生する</li>
-    <li>subject_gerund->グールを蘇生させるシーラムを合成する</li>
+    <li>subject_story->グールを蘇生する新たな方法を開発した</li>
+    <li>subject_story->様々なアルコテック化合物を死体に注入した</li>
+    <li>subject_story->高濃度のアルコテックがグールへ与える影響を研究した</li>
+    <li>subject_story->グールの蘇生を何度も目撃した</li>
+    <li>subject_gerund->グールを蘇生</li>
+    <li>subject_gerund->グールを蘇生させるシーラム合成</li>
   </GhoulResurrection.generalRules.rulesStrings>
   
   <!-- EN: insanity weaponry -->
@@ -492,11 +492,11 @@
   -->
   <InsanityWeaponry.generalRules.rulesStrings>
     <li>subject->アルコテックの狂気の武器</li>
-    <li>subject_story->論文のためにサイキック戦争を探求していました</li>
-    <li>subject_story->帝国の大隊の敗北を見て,恐怖の価値を学びました</li>
-    <li>subject_story->アルコテック被害者の精神病院で働いていました</li>
-    <li>subject_story->哺乳類の脳への影響を理解するため,アルカイトに感染した野生動物を生体解剖しました</li>
-    <li>subject_gerund->アルコテックを狂気を誘発する武器へ再構築する</li>
+    <li>subject_story->論文のためにサイキック戦争を探求した</li>
+    <li>subject_story->帝国の大隊の敗北を見て,恐怖の価値を学んだ</li>
+    <li>subject_story->アルコテック被害者の精神病院で働いた</li>
+    <li>subject_story->哺乳類の脳への影響を理解するため,アルカイトに感染した野生動物を生体解剖した</li>
+    <li>subject_gerund->アルコテックを狂気を誘発する武器へ再構築</li>
   </InsanityWeaponry.generalRules.rulesStrings>
   
   <!-- EN: juggernaut serum -->
@@ -513,11 +513,11 @@
   -->
   <JuggernautSerum.generalRules.rulesStrings>
     <li>subject->ジャガーノートシーラム</li>
-    <li>subject_story->ジャガーノートシーラムによるドーピングが発覚したことによって,コアワールドリーグから追放されました</li>
-    <li>subject_story->弾薬が尽きた兵士にジャガーノートシーラムを与えていました</li>
-    <li>subject_story->契約した建築群においてシーラムの使用を調査していました</li>
-    <li>subject_story->ジャガーノートシーラムの樽にはまりこみました</li>
-    <li>subject_gerund->ジャガーノートシーラムを合成する</li>
+    <li>subject_story->ジャガーノートシーラムによるドーピングが発覚したことによって,コアワールドリーグから追放された</li>
+    <li>subject_story->弾薬が尽きた兵士にジャガーノートシーラムを与えた</li>
+    <li>subject_story->契約した建築群においてシーラムの使用を調査した</li>
+    <li>subject_story->ジャガーノートシーラムの樽にはまりこんた</li>
+    <li>subject_gerund->ジャガーノートシーラムの合成</li>
   </JuggernautSerum.generalRules.rulesStrings>
   
   <!-- EN: metalblood serum -->
@@ -534,11 +534,11 @@
   -->
   <MetalbloodSerum.generalRules.rulesStrings>
     <li>subject->メタルブラッドシーラム</li>
-    <li>subject_story->ミルワールドの鎧に使用される反応液体を研究していました</li>
-    <li>subject_story->血液代替技術の先駆者でした</li>
-    <li>subject_story->荒れ果てたデッドワールドでメタルブラッド散布機を発見しました</li>
-    <li>subject_story->メタルブラッドを使用した民兵に対して火炎放射器を配備しました</li>
-    <li>subject_gerund->メタルブラッドシーラムを合成する</li>
+    <li>subject_story->ミルワールドの鎧に使用される反応液体を研究していた</li>
+    <li>subject_story->血液代替技術の先駆者となった</li>
+    <li>subject_story->荒れ果てたデッドワールドでメタルブラッド散布機を発見した</li>
+    <li>subject_story->メタルブラッドを使用した民兵に対して火炎放射器を配備した</li>
+    <li>subject_gerund->メタルブラッドシーラムの合成</li>
   </MetalbloodSerum.generalRules.rulesStrings>
   
   <!-- EN: mind-numb serum -->
@@ -555,11 +555,11 @@
   -->
   <MindNumbSerum.generalRules.rulesStrings>
     <li>subject->精神鎮静シーラム</li>
-    <li>subject_story->リードボーカルを密かに鎮静させることで,感情的なパフォーマンスを妨害しました</li>
-    <li>subject_story->ろ過された低用量精神鎮静シーラムを精神病院の水道水に混ぜました</li>
-    <li>subject_story->戦闘の前後に,下級兵士へ精神鎮静シーラムを配布しました</li>
-    <li>subject_story->痛みを抑えるアルコテックの使用を調査していました</li>
-    <li>subject_gerund->精神鎮静シーラムを合成する</li>
+    <li>subject_story->リードボーカルを密かに鎮静させることで,感情的なパフォーマンスを妨害した</li>
+    <li>subject_story->ろ過された低用量精神鎮静シーラムを精神病院の水道水に混ぜた</li>
+    <li>subject_story->戦闘の前後に,下級兵士へ精神鎮静シーラムを配布した</li>
+    <li>subject_story->痛みを抑えるアルコテックの使用を調査した</li>
+    <li>subject_gerund->精神鎮静シーラムの合成</li>
   </MindNumbSerum.generalRules.rulesStrings>
   
   <!-- EN: mutation weaponry -->
@@ -580,13 +580,13 @@
   <MutationWeaponry.generalRules.rulesStrings>
     <li>subject->変異の誘発</li>
     <li>subject->アルコテックの変異武器</li>
-    <li>subject_story->アルカイトによって吹き込まれた,新たな生命の夢を見ていました</li>
-    <li>subject_story->アルコテックによって植物の生命が歪むさまを目撃しました</li>
-    <li>subject_story->新たな武器で実験を行いました</li>
-    <li>subject_story->超越的世界で新たな生命を研究していました</li>
-    <li>subject_story->研究室でアルカイトをベースにした生命を育てていました</li>
-    <li>subject_gerund->変異を誘発する</li>
-    <li>subject_gerund->アルコテックを変異誘発武器へ再構築する</li>
+    <li>subject_story->アルカイトによって生まれた新たな生命の夢を見た</li>
+    <li>subject_story->アルコテックによって植物の生命が歪むさまを目撃した</li>
+    <li>subject_story->新たな武器で実験を行った</li>
+    <li>subject_story->超越的世界で新たな生命を研究した</li>
+    <li>subject_story->研究室でアルカイトをベースにした生命を育てた</li>
+    <li>subject_gerund->変異の誘発</li>
+    <li>subject_gerund->変異誘発武器へ再構築されたアルコテック</li>
   </MutationWeaponry.generalRules.rulesStrings>
   
   <!-- EN: neurosis pulse -->
@@ -606,12 +606,12 @@
   <NeurosisPulse.generalRules.rulesStrings>
     <li>subject->精神パルス</li>
     <li>subject->作業命令</li>
-    <li>subject_story->アーブワールドで労働者の教団に参加していました</li>
-    <li>subject_story->作業中に儀式のサイキックプレッシャーを感じました</li>
-    <li>subject_story->神経症の神経経路を研究していました</li>
-    <li>subject_story->管理の決まり文句と教団の儀式との共通点を調査していました</li>
-    <li>subject_gerund->神経サイキックを誘発する</li>
-    <li>subject_gerund->労働者の生産性を向上させる儀式を行う</li>
+    <li>subject_story->アーブワールドで労働者の教団に参加した</li>
+    <li>subject_story->作業中に儀式のサイキックプレッシャーを感じた</li>
+    <li>subject_story->神経症の神経経路を研究した</li>
+    <li>subject_story->管理の決まり文句と教団の儀式との共通点を調査した</li>
+    <li>subject_gerund->神経サイキックの誘発</li>
+    <li>subject_gerund->労働者の生産性を向上させる儀式</li>
   </NeurosisPulse.generalRules.rulesStrings>
   
   <!-- EN: philophagy -->
@@ -631,12 +631,12 @@
   <Philophagy.generalRules.rulesStrings>
     <li>subject->フィロファジー</li>
     <li>subject->スキル移譲</li>
-    <li>subject_story->フィロファージによって残された犠牲者の痕跡を辿ってきました</li>
-    <li>subject_story->Glitterworldの研究室で,神経の複製プロセスを研究していました</li>
-    <li>subject_story->教団犠牲者の傷ついた精神を調査していました</li>
-    <li>subject_story->サイキック攻撃の後,スキルの弱体化に気が付きました</li>
-    <li>subject_gerund->犠牲者の知識を移譲する</li>
-    <li>subject_gerund->犠牲者のスキルを奪う儀式を行う</li>
+    <li>subject_story->フィロファジーの儀式によって残された犠牲者の痕跡を辿った</li>
+    <li>subject_story->Glitterworldの研究室で,神経の複製プロセスを研究した</li>
+    <li>subject_story->教団犠牲者の傷ついた精神を調査した</li>
+    <li>subject_story->サイキック攻撃の後,スキルの弱体化に気付いた</li>
+    <li>subject_gerund->犠牲者の知識の移譲</li>
+    <li>subject_gerund->犠牲者のスキルを奪う儀式</li>
   </Philophagy.generalRules.rulesStrings>
   
   <!-- EN: pleasure pulse -->
@@ -654,12 +654,12 @@
   -->
   <PleasurePulse.generalRules.rulesStrings>
     <li>subject->喜びの喚起</li>
-    <li>subject_story->ソーマと呼ばれる奇跡の食べ物を誇らしげに語る地球の古い物語を読みました</li>
-    <li>subject_story->ロトパゴスの神話を研究していました</li>
-    <li>subject_story->社会哲学者とともに働き,功利儀式を作り上げました</li>
-    <li>subject_story->娯楽と喜びを追求する希少なアルコテックの教団に参加していました</li>
-    <li>subject_gerund->喜びのサイキックを誘発する</li>
-    <li>subject_gerund->喜びを誘発するサイキック儀式を行う</li>
+    <li>subject_story->ソーマと呼ばれる奇跡の食べ物を誇らしげに語る地球の古い物語を読んだ</li>
+    <li>subject_story->ロトパゴスの神話を研究し\た</li>
+    <li>subject_story->社会哲学者とともに働き,功利儀式を作り上げた</li>
+    <li>subject_story->娯楽と喜びを追求する希少なアルコテックの教団に参加した</li>
+    <li>subject_gerund->喜びのサイキックの誘発</li>
+    <li>subject_gerund->喜びを誘発するサイキック儀式</li>
   </PleasurePulse.generalRules.rulesStrings>
   
   <!-- EN: proximity detector -->
@@ -679,12 +679,12 @@
   <ProximityDetector.generalRules.rulesStrings>
     <li>subject->近接式検知器</li>
     <li>subject->モーションセンサー</li>
-    <li>subject_story->古代の娯楽リールを見てインスピレーションを得ました</li>
-    <li>subject_story->シンプルなサイキック硬化装置を試作しました</li>
-    <li>subject_story->デスワールドの前哨基地の早期警戒システムを維持しました</li>
-    <li>subject_story->クロスシステムパターン検出のためにマルチバンドスキャナーを研究していました</li>
-    <li>subject_gerund->目に見えないものを明らかにする</li>
-    <li>subject_gerund->不可視の生物を検出する</li>
+    <li>subject_story->古代の娯楽リールを見てインスピレーションを得た</li>
+    <li>subject_story->シンプルなサイキック硬化装置を試作した</li>
+    <li>subject_story->デスワールドの前哨基地の早期警戒システムを維持した</li>
+    <li>subject_story->クロスシステムパターン検出のためにマルチバンドスキャナーを研究した</li>
+    <li>subject_gerund->目に見えない何かの可視化</li>
+    <li>subject_gerund->不可視の生物の検出</li>
   </ProximityDetector.generalRules.rulesStrings>
   
   <!-- EN: psychophagy -->
@@ -702,12 +702,12 @@
   -->
   <Psychophagy.generalRules.rulesStrings>
     <li>subject->サイコファジー</li>
-    <li>subject_story->サイキック効果への脱感作の管理を研究していました</li>
-    <li>subject_story->死亡した被検体からのアルカイトの移譲を管理していました</li>
-    <li>subject_story->サイキック転移儀式の噂を収集していました</li>
-    <li>subject_story->ホラックス教団が帝国貴族の力を奪うのを目撃しました</li>
-    <li>subject_gerund->サイキック能力を奪う</li>
-    <li>subject_gerund->サイコファジー儀式を行う</li>
+    <li>subject_story->サイキック効果への脱感作の管理を研究した</li>
+    <li>subject_story->死亡した被検体からのアルカイトの移譲を管理した</li>
+    <li>subject_story->サイキック転移儀式の噂を収集した</li>
+    <li>subject_story->ホラックス教団が帝国貴族の力を奪うのを目撃した</li>
+    <li>subject_gerund->サイキック能力の奪取</li>
+    <li>subject_gerund->サイコファジー儀式</li>
   </Psychophagy.generalRules.rulesStrings>
   
   <!-- EN: revenant invisibility -->
@@ -725,12 +725,12 @@
   -->
   <RevenantInvisibility.generalRules.rulesStrings>
     <li>subject->不可視</li>
-    <li>subject_story->結果を考慮することなく,怪物の脊椎を人間に移植しました</li>
-    <li>subject_story->不可視の人間の消えゆく道徳観に関する小説を執筆しました</li>
-    <li>subject_story->デッドスター星系で奇妙な金属質の脊椎を発見しました</li>
-    <li>subject_story->不可視の軍勢を夢見ていました</li>
-    <li>subject_gerund->レヴナントの脊椎を適合させる</li>
-    <li>subject_gerund->人間にレヴナントの脊椎を移植する</li>
+    <li>subject_story->結果を考慮することなく,怪物の脊椎を人間に移植した</li>
+    <li>subject_story->不可視の人間の消えゆく道徳観に関する小説を執筆した</li>
+    <li>subject_story->デッドスター星系で奇妙な金属質の脊椎を発見した</li>
+    <li>subject_story->不可視の軍勢を夢見た</li>
+    <li>subject_gerund->レヴナントの脊椎への適合</li>
+    <li>subject_gerund->レヴナントの脊椎の人体への移植</li>
   </RevenantInvisibility.generalRules.rulesStrings>
   
   <!-- EN: serum synthesis -->
@@ -747,11 +747,11 @@
   -->
   <SerumSynthesis.generalRules.rulesStrings>
     <li>subject->シーラム合成</li>
-    <li>subject_story->アルカイトの効果を理解するために注入されました</li>
-    <li>subject_story->デッドワールドの神殿で,油っぽい黒い液体の水たまりを発見しました</li>
-    <li>subject_story->シーラムのおかげで危険な転落から生き延びました</li>
-    <li>subject_story->コアワールドの旅団のシーラム試験プログラムを管理していました</li>
-    <li>subject_gerund->シーラムを合成する</li>
+    <li>subject_story->アルカイトの効果を理解するために注入された</li>
+    <li>subject_story->デッドワールドの神殿で,油っぽい黒い液体の水たまりを発見した</li>
+    <li>subject_story->シーラムのおかげで危険な転落から生き延びた</li>
+    <li>subject_story->コアワールドの旅団のシーラム試験プログラムを管理した</li>
+    <li>subject_gerund->シーラムの合成</li>
   </SerumSynthesis.generalRules.rulesStrings>
   
   <!-- EN: skip abduction -->
@@ -771,12 +771,12 @@
   <SkipAbductionPlayer.generalRules.rulesStrings>
     <li>subject->サイキックアブダクション</li>
     <li>subject->スキップアブダクション</li>
-    <li>subject_story->帝国貴族を誘拐する試みを目撃しました</li>
-    <li>subject_story->ダートモールのスカベンジャーに身代金を要求されました</li>
-    <li>subject_story->カルト教団のリーダーが行った転移儀式の失敗を目撃しました</li>
-    <li>subject_story->アルコテックを媒介にした空間移転を研究していました</li>
-    <li>subject_gerund->サイキック儀式で敵を誘拐する</li>
-    <li>subject_gerund->スキップアブダクションの儀式を行う</li>
+    <li>subject_story->帝国貴族を誘拐する試みを目撃した</li>
+    <li>subject_story->ダートモールのスカベンジャーに身代金を要求された</li>
+    <li>subject_story->カルト教団のリーダーが行った転移儀式の失敗を目撃した</li>
+    <li>subject_story->アルコテックを媒介にした空間移転を研究した</li>
+    <li>subject_gerund->サイキック儀式を使った誘拐</li>
+    <li>subject_gerund->スキップアブダクションの儀式</li>
   </SkipAbductionPlayer.generalRules.rulesStrings>
   
   <!-- EN: sleep suppressor -->
@@ -795,13 +795,13 @@
   -->
   <SleepSuppressor.generalRules.rulesStrings>
     <li>subject->睡眠の抑制</li>
-    <li>subject_story->工場労働者の睡眠不足を研究していました</li>
-    <li>subject_story->帝国兵士への薬物使用を研究していました</li>
-    <li>subject_story->様々なアルコフィールドが人間の意識へ与える影響を研究していました</li>
-    <li>subject_story->富裕層が暮らしを夢見る,Glitterworldの非睡眠研究所で働いていました</li>
-    <li>subject_story->プリズンワールドの労働キャンプで起床を管理していました</li>
-    <li>subject_gerund->アルコテックでスリープサプレッサーを建築する</li>
-    <li>subject_gerund->アルコテックで睡眠を抑制する</li>
+    <li>subject_story->工場労働者の睡眠不足を研究した</li>
+    <li>subject_story->帝国兵士への薬物使用を研究した</li>
+    <li>subject_story->様々なアルコフィールドが人間の意識へ与える影響を研究した</li>
+    <li>subject_story->富裕層が暮らしを夢見る,Glitterworldの非睡眠研究所で働いた</li>
+    <li>subject_story->プリズンワールドの労働キャンプで起床を管理した</li>
+    <li>subject_gerund->アルコテックを使ったスリープサプレッサーの建築</li>
+    <li>subject_gerund->アルコテックを使った睡眠の抑制</li>
   </SleepSuppressor.generalRules.rulesStrings>
   
   <!-- EN: draw animals -->
@@ -818,11 +818,11 @@
   -->
   <SummonAnimals.generalRules.rulesStrings>
     <li>subject->暴走の喚起</li>
-    <li>subject_story->原始的な世界の山脈で羊飼いとして働いていました</li>
-    <li>subject_story->平原の獣と対話する方法を学びました</li>
-    <li>subject_story->アルカイトが様々な動物種へと与える影響を実験しました</li>
-    <li>subject_story->自然崇拝のカルト教団が群れと交わるのを目撃しました</li>
-    <li>subject_gerund->動物の群れを召喚する</li>
+    <li>subject_story->原始的な世界の山脈で羊飼いとして働いた</li>
+    <li>subject_story->平原の獣と対話する方法を学んだ</li>
+    <li>subject_story->アルカイトが様々な動物種へと与える影響を実験した</li>
+    <li>subject_story->自然崇拝のカルト教団が群れと交わるのを目撃した</li>
+    <li>subject_gerund->動物の群れの召喚</li>
   </SummonAnimals.generalRules.rulesStrings>
   
   <!-- EN: summon fleshbeasts -->
@@ -841,13 +841,13 @@
   -->
   <SummonFleshbeastsPlayer.generalRules.rulesStrings>
     <li>subject->フレッシュビーストの召喚</li>
-    <li>subject_story->生命の起源にまつわる古代の書物を読みました</li>
-    <li>subject_story->サヘのボムネズミで,自然発生の直接体験しました</li>
-    <li>subject_story->肉体を融合させる内容の古い映画を見てインスピレーションを得ました</li>
-    <li>subject_story->有機的融合における意識の移動と分離について研究していました</li>
-    <li>subject_story->地下で恐ろしい獣に遭遇した時のダートモールのコミュニティを観察しました</li>
-    <li>subject_gerund->フレッシュビーストを召喚する</li>
-    <li>subject_gerund->フレッシュビーストを召喚する儀式を行う</li>
+    <li>subject_story->生命の起源にまつわる古代の書物を読んだ</li>
+    <li>subject_story->サヘのボムネズミで,自然発生の直接体験した</li>
+    <li>subject_story->肉体を融合させる内容の古い映画を見てインスピレーションを得た</li>
+    <li>subject_story->有機的融合における意識の移動と分離について研究した</li>
+    <li>subject_story->地下で恐ろしい獣に遭遇した時のダートモールのコミュニティを観察した</li>
+    <li>subject_gerund->フレッシュビーストの召喚</li>
+    <li>subject_gerund->フレッシュビーストを召喚する儀式</li>
   </SummonFleshbeastsPlayer.generalRules.rulesStrings>
   
   <!-- EN: provoke pit gate -->
@@ -865,12 +865,12 @@
   -->
   <SummonPitGate.generalRules.rulesStrings>
     <li>subject->ピットゲートの喚起</li>
-    <li>subject_story->肉性融合体の蔓延を研究していました</li>
-    <li>subject_story->ゲシュタルト生命体の話を収集していました</li>
-    <li>subject_story->デッドワールドのカルト教団学校の書庫を管理していました</li>
-    <li>subject_story->地盤沈下の儀式を執り行いました</li>
-    <li>subject_gerund->ピットゲートを作り出す儀式を行う</li>
-    <li>subject_gerund->ピットゲートを召喚する</li>
+    <li>subject_story->肉性融合体の蔓延を研究した</li>
+    <li>subject_story->ゲシュタルト生命体の話を収集した</li>
+    <li>subject_story->デッドワールドのカルト教団学校の書庫を管理した</li>
+    <li>subject_story->地盤沈下の儀式を執り行った</li>
+    <li>subject_gerund->ピットゲートを作り出す儀式</li>
+    <li>subject_gerund->ピットゲートの召喚</li>
   </SummonPitGate.generalRules.rulesStrings>
   
   <!-- EN: draw shamblers -->
@@ -888,12 +888,12 @@
   -->
   <SummonShamblers.generalRules.rulesStrings>
     <li>subject->シャンブラー召喚の儀式</li>
-    <li>subject_story->大学図書館の安全な場所から,デッドワールドのネクロカルトを研究していました</li>
-    <li>subject_story->シャンブラーの襲撃の話を収集していました</li>
-    <li>subject_story->死亡した生命体のアルカイト糸の形成を研究していました</li>
-    <li>subject_story->デスワールドの蒐集家として,様々な奇妙なものを見てきました</li>
-    <li>subject_gerund->シャンブラーを召喚する</li>
-    <li>subject_gerund->儀式でシャンブラーを呼ぶ</li>
+    <li>subject_story->大学図書館の安全な場所から,デッドワールドのネクロカルトを研究した</li>
+    <li>subject_story->シャンブラーの襲撃の話を収集した</li>
+    <li>subject_story->死亡した生命体のアルカイト糸の形成を研究した</li>
+    <li>subject_story->デスワールドの蒐集家として,様々な奇妙なものを見た</li>
+    <li>subject_gerund->シャンブラーの召喚</li>
+    <li>subject_gerund->シャンブラーを呼び出す儀式</li>
   </SummonShamblers.generalRules.rulesStrings>
   
   <!-- EN: void sculptures -->
@@ -914,13 +914,13 @@
   <VoidSculptures.generalRules.rulesStrings>
     <li>subject->ヴォイドの彫刻</li>
     <li>subject->バイオフェライトの彫刻</li>
-    <li>subject_story->アルコテックの実現可能な空間についてコンピューターモデルを作成しました</li>
-    <li>subject_story->女性預言者によって,その夢を彫り出すために雇われました</li>
-    <li>subject_story->彫刻に生命を吹き込みたいと思っていました</li>
-    <li>subject_story->人間の手によって形作られた,果てなき海を夢見ていました</li>
-    <li>subject_story->帝国のサイキックの働きを見てきました</li>
-    <li>subject_gerund->バイオフェライトで彫刻する</li>
-    <li>subject_gerund->バイオフェライトの儀式彫刻を作る</li>
+    <li>subject_story->アルコテックの実現可能な空間についてコンピューターモデルを作成した</li>
+    <li>subject_story->女性預言者によって,その夢を彫り出すために雇われた</li>
+    <li>subject_story->彫刻に生命を吹き込みたいと思っていた</li>
+    <li>subject_story->人間の手によって形作られた,果てなき海を夢見ていた</li>
+    <li>subject_story->帝国のサイキックの働きを見た</li>
+    <li>subject_gerund->バイオフェライトの彫刻</li>
+    <li>subject_gerund->バイオフェライト製儀式彫刻の制作</li>
   </VoidSculptures.generalRules.rulesStrings>
   
 </LanguageData>
