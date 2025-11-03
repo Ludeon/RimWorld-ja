@@ -115,7 +115,7 @@
   <!-- EN: Related to meme -->
   <RelatedToMeme>ミームに関連</RelatedToMeme>
   <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
-  <IdeoCharityQuestInfo>これは慈善クエストです.これを拒否する場合,{0}の信仰者は彼らの持つ慈善的な思想によって不幸になります.受諾する場合,{0}の信仰者は幸せになります({1}).</IdeoCharityQuestInfo>
+  <IdeoCharityQuestInfo>これは慈善クエストです.これを拒否すると,慈善的な思想を持つ{0}の信仰者は悲しみます.これを受諾すると,{0}の信仰者は喜びます({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>奴隷はこの仕事は行わない</WorkDisabledSlave>
   <!-- EN: Disabled by health condition -->
@@ -125,7 +125,7 @@
   <!-- EN: Affected by traits -->
   <AffectedByTraits>特性の影響を受ける</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
-  <CharityQuestTip>これは慈善クエストです.慈善の信念を持つ人々は,結果によって影響を受けます.</CharityQuestTip>
+  <CharityQuestTip>これは慈善クエストです.慈善的な思想を持つ人々は,クエストの結果によって影響を受けます.</CharityQuestTip>
   <!-- EN: formerly -->
   <Formerly>以前</Formerly>
   <!-- EN: all -->

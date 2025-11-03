@@ -7,7 +7,7 @@
     <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->[joiner_nameDef]と言う名の[introduction]が呼び出しています. [joiner_pronoun]は,[enemyFaction_name]の[enemyFaction_pawnsPlural]に追われています!\n\n[joiner_pronoun]は,[map_definite]に加わるから身の安全を保証してほしいと懇願しています.[joiner_relationInfo]\n\nあなたが承諾すれば,[joiner_possessive]背後からやって来る[enemyFaction_pawnsPluralDef]と戦う羽目になるでしょう. [enemyFaction_pawnsPlural]の集団の構成は,以下の通りです: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef]は死にものぐるいで,これ以上の情報は聞き出せませんでした.</li>
+    <li>questDescription->[joiner_nameDef]と言う名の[introduction]が呼び出しています. [joiner_pronoun]は,[enemyFaction_name]の[enemyFaction_pawnsPlural]に追われています!\n\n[joiner_pronoun]は,[map_definite]に加わる代わりに身の安全を保証してほしいと懇願しています.[joiner_relationInfo]\n\nこれを承諾すれば,[joiner_possessive]後を追う[enemyFaction_pawnsPluralDef]と戦うことになるでしょう. [enemyFaction_pawnsPlural]の集団の構成は,以下の通りです: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef]は死にものぐるいで,これ以上の情報は聞き出せませんでした.</li>
     <li>introduction(childCount==1,priority=1)->[joiner_age]歳の子供</li>
     <li>introduction->[joiner_age]歳の[joiner_title]</li>
   </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
@@ -44,6 +44,6 @@
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
   <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL}が[../joiner_nameDef]を追ってきた</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
-  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n              \n[enemyFaction_pawnsPlural]が[../joiner_nameDef]を捕まえるためにやってきました.</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n              \nこの[enemyFaction_pawnsPlural]は[../joiner_nameDef]を捕まえるためにやってきました.</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
   
 </LanguageData>
