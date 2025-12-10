@@ -277,13 +277,13 @@
   <!-- EN: Auto rearm -->
   <CommandAutoRearm>自動再装填</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>有効にした場合,罠が発動すると新しい罠を自動的に再設置します.</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>オンにすると,罠の発動時に自動的に再設計するようになります.</CommandAutoRearmDesc>
   
   <!-- Firefoam popper -->
   <!-- EN: Auto rebuild -->
   <CommandAutoRebuild_Building>自動再建築</CommandAutoRebuild_Building>
   <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
-  <CommandAutoRebuild_BuildingDesc>有効にした場合,{BUILDING_ordinary}が爆発すると新しい{BUILDING_ordinary}を自動的に再建築します.</CommandAutoRebuild_BuildingDesc>
+  <CommandAutoRebuild_BuildingDesc>オンにすると,{BUILDING_definite}の爆発時に自動的に再設計するようになります.</CommandAutoRebuild_BuildingDesc>
   
   <!-- Animal control -->
   <!-- EN: Animals attack -->
