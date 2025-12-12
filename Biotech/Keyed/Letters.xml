@@ -181,7 +181,7 @@
   <!-- EN: Regeneration coma -->
   <LetterLabelRegenerationComa>再生昏睡</LetterLabelRegenerationComa>
   <!-- EN: {PAWN_nameDef}'s deathless gene has prevented {PAWN_objective} from dying. {HEDIFFINFO} -->
-  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef}の不死の遺伝子が死を防ぎました.{HDEFINFO}</LetterTextInvoluntaryDeathrestOrComa>
+  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef}の不死の遺伝子が死を防ぎました.{HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
   <!-- EN: Instead, {PAWN_pronoun} has fallen into a deathrest. -->
   <LetterTextDeathrest>代わりに,{PAWN_pronoun}は死眠に陥りました.</LetterTextDeathrest>
   <!-- EN: Instead, {PAWN_pronoun} has fallen into a regeneration coma. -->
