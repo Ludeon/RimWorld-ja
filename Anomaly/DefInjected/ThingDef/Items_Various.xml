@@ -10,7 +10,7 @@
   <!-- EN: Analyze... -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>分析...</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>
   <!-- EN: While analyzing the fleshmass neural tissue, {PAWN_nameDef} made a breakthrough!\n\nThis biosignature responds strongly when stimulated by a specific electric pulse. If used on the fleshmass heart itself, an electric signal could cause a tachycardiac overload and kill the heart.\n\nYou can now destroy the {BIOSIGNATURE} fleshmass heart by interacting with it directly. -->
-  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>肉塊の神経線維の分析中に,{PAWN_nameDef}はひらめいた!\n\nこのバイオシグネチャーは,特定の電気パルスで刺激されると強く反応するのだと.もし肉塊の心臓そのものに使用すれば,電気シグナルが頻脈性心過負荷を引き起こして,心臓を殺すことができるでしょう.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトすることで,破壊できるようになりました.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>肉塊の神経線維の分析中に,{PAWN_nameDef}はひらめいた!\n\nこのバイオシグネチャーは,特定の電気パルスで刺激されると強い反応を示すようです.もし肉塊の心臓そのものにこの電気シグナルを使用すれば,頻脈性心過負荷を引き起こさせて殺すことができるでしょう.\n\n肉塊の心臓{BIOSIGNATURE}に直接インタラクトすることで,破壊できるようになりました.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>
   <!-- EN: Analysis complete -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
@@ -24,7 +24,7 @@
   <!-- EN: {PAWN_nameDef} has finished analyzing the fleshmass neural lump. The sample carries the biosignature {BIOSIGNATURE}.\n\n{PAWN_nameDef} is convinced that {PAWN_pronoun} can find a way to kill the fleshmass heart, but {PAWN_pronoun} needs to study more neural samples first. -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}は肉塊の神経塊の分析を完了しました.サンプルにはバイオシグネチャー{BIOSIGNATURE}が含まれています.\n\n{PAWN_nameDef}は,自分なら肉塊の心臓を破壊する方法を見つけられると確信しています.しかしそのためには,さらに神経サンプルを研究する必要があります.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetters.0>
   <!-- EN: {PAWN_nameDef} has finished analyzing the fleshmass neural tissue. This tissue belongs to the previously studied biosignature {BIOSIGNATURE}, so you didn't gain any new knowledge.\n\nYou can destroy the {BIOSIGNATURE} fleshmass heart by interacting with it directly and inducing a tachycardiac overload. -->
-  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は肉塊の神経線維の分析を完了しました.この繊維は以前研究したバイオシグネチャー{BIOSIGNATURE}のものであり,新しい知識は得られませんでした.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトし,頻脈性過負荷を引き起こすことで破壊できます.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef}は肉塊の神経線維の分析を完了しました.この繊維は以前研究したバイオシグネチャー{BIOSIGNATURE}のものであり,新しい知識は得られませんでした.\n\n肉塊の心臓{BIOSIGNATURE}に直接インタラクトし,頻脈性過負荷を引き起こすことで破壊できます.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
   <!-- EN: Analysis complete -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>分析完了</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
   
