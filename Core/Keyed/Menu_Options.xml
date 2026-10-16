@@ -52,6 +52,10 @@
   <HatsShownOnlyOnMap>UI上の帽子を非表示</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
   <UIScale>UI 拡大率</UIScale>
+  <!-- EN: Respect system display scaling -->
+  <RespectSystemScaling>システムのディスプレイ拡大率を適用</RespectSystemScaling>
+  <!-- EN: When enabled, the UI scale is multiplied by the operating system's display scaling. Disable to apply the UI scale as-is. -->
+  <RespectSystemScaling_Tooltip>有効にすると,UIの拡大率にOSのディスプレイ拡大率が掛け合わされます.無効にすると,UIの拡大率がそのまま適用されます.</RespectSystemScaling_Tooltip>
   <!-- EN: Keyboard configuration -->
   <KeyboardConfig>キーボード設定</KeyboardConfig>
   <!-- EN: Controller configuration -->
@@ -138,6 +142,8 @@
   <TextureCompression>テクスチャ圧縮</TextureCompression>
   <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
   <TextureCompression_Tooltip>テクスチャ圧縮をオフにすると,拡大時のテクスチャの見栄えが少し良くなりますが,より多くのビデオメモリが使用されます.余分なビデオメモリが沢山ある場合にのみ,これをオフにしてください.</TextureCompression_Tooltip>
+  <!-- EN: Texture compression in the Waylith engine is higher quality and always enabled. -->
+  <TextureCompressionAlwaysOn_Tooltip>Waylithエンジン環境下では,高品質なテクスチャ圧縮が常に有効になります.</TextureCompressionAlwaysOn_Tooltip>
   <!-- EN: Smooth camera jumps -->
   <SmoothCameraJumps>滑らかなカメラジャンプ</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
@@ -154,6 +160,24 @@
   <Fullscreen>フルスクリーン</Fullscreen>
   <!-- EN: Borderless fullscreen -->
   <BorderlessFullscreen>ボーダーレスウィンドウ</BorderlessFullscreen>
+  <!-- EN: Display mode -->
+  <DisplayMode>ディスプレイモード</DisplayMode>
+  <!-- EN: Windowed -->
+  <DisplayMode_Windowed>ウィンドウ</DisplayMode_Windowed>
+  <!-- EN: Exclusive fullscreen -->
+  <DisplayMode_ExclusiveFullscreen>排他的フルスクリーン</DisplayMode_ExclusiveFullscreen>
+  <!-- EN: Monitor -->
+  <Monitor>モニター</Monitor>
+  <!-- EN: Automatic -->
+  <Monitor_Automatic>自動</Monitor_Automatic>
+  <!-- EN: Graphics card -->
+  <Gpu>グラフィックカード</Gpu>
+  <!-- EN: Automatic -->
+  <Gpu_Automatic>自動</Gpu_Automatic>
+  <!-- EN: {0} (in use) -->
+  <Gpu_InUse>{0} (使用中)</Gpu_InUse>
+  <!-- EN: Changing the graphics card requires a restart. Unsaved progress will be lost.\n\nRestart now? -->
+  <GpuChangedRestart>グラフィックカードを変更するには再起動が必要です.保存されていない変更内容は失われます.\n\n今すぐ再起動しますか?</GpuChangedRestart>
   <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
   <BorderlessFullscreenInstructions>RimWorldをボーダーレスウィンドウモードで実行する方法:\n\n1)Steamを開く\n2)上部の"ライブラリ"タブに移動\n3)リストからRimWorldを見つけて右クリック\n4)"プロパティ..."を選択\n5)"一般"タブの"起動オプション"に"-popupwindow"を引用符なしで追加\n6)ゲームを再起動\n7)正しくこの操作が行われた場合,このウィンドウは表示されません\n\nヒント:Windowsキー+Shiftキー+左/右を使用することで,モニター間でウィンドウを移動できます.</BorderlessFullscreenInstructions>
 

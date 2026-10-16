@@ -336,6 +336,20 @@
   <Incompatible>適合しません</Incompatible>
   <!-- EN: Tag as translation -->
   <TagAsTranslation>翻訳としてタグ付け</TagAsTranslation>
+  <!-- EN: Build asset pack -->
+  <UploadBuildAssetPack>アセットパックを構築</UploadBuildAssetPack>
+  <!-- EN: Packs textures and sounds into an asset pack in each load folder before uploading, to improve download and load times. Untick this to upload the mod folder as it is. -->
+  <UploadBuildAssetPackTip>アップロードを行う前に,このMODのフォルダ内のテクスチャとサウンドをアセットパックにまとめ,ダウンロード速度と読込速度を向上させます.チェックを外すと,MODフォルダをそのままアップロードします.</UploadBuildAssetPackTip>
+  <!-- EN: Don't upload source textures -->
+  <UploadSkipSourceTextures>ソーステクスチャをアップロードしない</UploadSkipSourceTextures>
+  <!-- EN: Skips uploading the original image and sound files that were included in asset packs. Leave this unticked if you need compatibility with RimWorld 1.6 or earlier. -->
+  <UploadSkipSourceTexturesTip>アセットパックに含まれている画像とサウンドのオリジナルファイルのアップロードを省略します.RimWorld1.6以前との互換性が必要な場合は,チェックを外したままにしてください.</UploadSkipSourceTexturesTip>
+  <!-- EN: Baking asset packs -->
+  <BakingModAssetPacks>アセットパックをベイクする</BakingModAssetPacks>
+  <!-- EN: Baking asset packs for {0} -->
+  <BakingModAssetPacksFor>{0}のアセットパックをベイクする</BakingModAssetPacksFor>
+  <!-- EN: Baking the asset packs for {0} failed, the mod was not uploaded: -->
+  <ModAssetPackBakeFailed>{0}のアセットパックのベイクに失敗したため,MODのアップロードを取り消しました:</ModAssetPackBakeFailed>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>多すぎます(最大 {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
