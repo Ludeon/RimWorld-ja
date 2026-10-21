@@ -375,7 +375,7 @@
     <li>terrain_word->launch pads</li>
   -->
   <NamerLandmark_LaunchSite.rulePack.rulesStrings>
-    <li>r_name(p=0.4)->[NamePerson][terrain_word]</li>
+    <li>r_name(p=0.4)->[NamePerson]の[terrain_word]</li>
     <li>terrain_word(p=2)->発射場</li>
     <li>terrain_word->発射台</li>
   </NamerLandmark_LaunchSite.rulePack.rulesStrings>
