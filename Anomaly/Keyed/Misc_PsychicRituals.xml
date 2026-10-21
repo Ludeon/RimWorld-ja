@@ -64,7 +64,7 @@
   <!-- EN: The {0} psychic ritual has been canceled. -->
   <PsychicRitualCanceled>{0}のサイキック儀式がキャンセルされました.</PsychicRitualCanceled>
   <!-- EN: The {0} psychic ritual has been canceled because {1}. -->
-  <PsychicRitualCanceledBecause>{0}のサイキック儀式が,{1}ためキャンセルされました.</PsychicRitualCanceledBecause>
+  <PsychicRitualCanceledBecause>{1}ため,{0}のサイキック儀式がキャンセルされました.</PsychicRitualCanceledBecause>
 
   <!-- EN: {0} is needed but only {1} is available -->
   <PsychicRitualOfferingsInsufficient>{0}が必要ですが,{1}個しかありません</PsychicRitualOfferingsInsufficient>
@@ -90,19 +90,19 @@
   <!-- EN: {PAWN_labelShort} is dead -->
   <PsychicRitualLeaveReason_Killed>{PAWN_labelShort}が死んだ</PsychicRitualLeaveReason_Killed>
   <!-- EN: {PAWN_labelShort} is not part of {FACTION_name} -->
-  <PsychicRitualLeaveReason_WrongFaction>{PAWN_labelShort}が{FACTION_name}の一員ではない</PsychicRitualLeaveReason_WrongFaction>
+  <PsychicRitualLeaveReason_WrongFaction>{PAWN_labelShort}が{FACTION_name}の一員ではなくなった</PsychicRitualLeaveReason_WrongFaction>
   <!-- EN: {PAWN_labelShort} is no longer on the map -->
-  <PsychicRitualLeaveReason_ExitedMap>{PAWN_labelShort}が地図上にない</PsychicRitualLeaveReason_ExitedMap>
+  <PsychicRitualLeaveReason_ExitedMap>{PAWN_labelShort}がマップからいなくなった</PsychicRitualLeaveReason_ExitedMap>
   <!-- EN: {PAWN_labelShort} had better things to do -->
-  <PsychicRitualLeaveReason_LeftVoluntarily>{PAWN_labelShort}は他にやることがあった</PsychicRitualLeaveReason_LeftVoluntarily>
+  <PsychicRitualLeaveReason_LeftVoluntarily>{PAWN_labelShort}に他にやることができた</PsychicRitualLeaveReason_LeftVoluntarily>
   <!-- EN: {PAWN_labelShort} is drafted -->
   <PsychicRitualLeaveReason_Drafted>{PAWN_labelShort}が徴兵された</PsychicRitualLeaveReason_Drafted>
   <!-- EN: {PAWN_labelShort} is in a mental state -->
-  <PsychicRitualLeaveReason_InMentalState>{PAWN_labelShort}は精神衰弱中の</PsychicRitualLeaveReason_InMentalState>
+  <PsychicRitualLeaveReason_InMentalState>{PAWN_labelShort}の精神状態が悪化した</PsychicRitualLeaveReason_InMentalState>
   <!-- EN: {PAWN_labelShort} is bleeding -->
-  <PsychicRitualLeaveReason_Bleeding>{PAWN_labelShort}は出血している</PsychicRitualLeaveReason_Bleeding>
+  <PsychicRitualLeaveReason_Bleeding>{PAWN_labelShort}が出血している</PsychicRitualLeaveReason_Bleeding>
   <!-- EN: {PAWN_labelShort} is on fire -->
-  <PsychicRitualLeaveReason_Burning>{PAWN_labelShort}が火だるまな</PsychicRitualLeaveReason_Burning>
+  <PsychicRitualLeaveReason_Burning>{PAWN_labelShort}が燃えている</PsychicRitualLeaveReason_Burning>
   <!-- EN: the temperature near the target is not safe for {PAWN_labelShort} -->
   <PsychicRitualLeaveReason_ExtremeTemperature>ターゲットの近くの温度が{PAWN_labelShort}にとって安全ではない</PsychicRitualLeaveReason_ExtremeTemperature>
   <!-- EN: {PAWN_labelShort} cannot participate from inside {BUILDING} -->
@@ -116,25 +116,25 @@
   <!-- EN: {PAWN_labelShort} is a slave -->
   <PsychicRitualLeaveReason_Slave>{PAWN_labelShort}が奴隷である</PsychicRitualLeaveReason_Slave>
   <!-- EN: {PAWN_labelShort} is free -->
-  <PsychicRitualLeaveReason_Freeman>{PAWN_labelShort}が自由である</PsychicRitualLeaveReason_Freeman>
+  <PsychicRitualLeaveReason_Freeman>{PAWN_labelShort}が囚人でも奴隷でもない</PsychicRitualLeaveReason_Freeman>
   <!-- EN: {PAWN_labelShort} is a {STAGE} -->
   <PsychicRitualLeaveReason_DevelopmentalStage>{PAWN_labelShort}が{STAGE}である</PsychicRitualLeaveReason_DevelopmentalStage>
   <!-- EN: {PAWN_labelShort} cannot reach the target location -->
   <PsychicRitualLeaveReason_CannotReachTarget>{PAWN_labelShort}がターゲットの場所まで到達できない</PsychicRitualLeaveReason_CannotReachTarget>
   <!-- EN: {PAWN_labelShort} is asleep -->
-  <PsychicRitualLeaveReason_Sleeping>{PAWN_labelShort}は眠っている</PsychicRitualLeaveReason_Sleeping>
+  <PsychicRitualLeaveReason_Sleeping>{PAWN_labelShort}が眠っている</PsychicRitualLeaveReason_Sleeping>
   <!-- EN: {PAWN_labelShort} is not a human -->
   <PsychicRitualLeaveReason_Mutant>{PAWN_labelShort}が人間ではない</PsychicRitualLeaveReason_Mutant>
   <!-- EN: {PAWN_labelShort}'s belief in {IDEO_name} prevents participation -->
-  <PsychicRitualLeaveReason_IdeoUnwilling>{PAWN_labelShort}の思想が{IDEO_name}の参加を妨げている</PsychicRitualLeaveReason_IdeoUnwilling> 
+  <PsychicRitualLeaveReason_IdeoUnwilling>{PAWN_labelShort}の思想が{IDEO_name}への参加を妨げている</PsychicRitualLeaveReason_IdeoUnwilling> 
   <!-- EN: {PAWN_labelShort} is not psychically sensitive -->
   <PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort}には精神感応性がない</PsychicRitualLeaveReason_NoPsychicSensitivity>
   <!-- EN: {PAWN_labelShort} is a temporary faction member -->
   <PsychicRitualLeaveReason_TemporaryFactionMember>{PAWN_labelShort}は一時的な派閥メンバーである</PsychicRitualLeaveReason_TemporaryFactionMember>
   <!-- EN: {PAWN_labelShort} has other duties to attend to -->
-  <PsychicRitualLeaveReason_PawnBusyWithLord>{PAWN_labelShort}は他に参加すべきことがある</PsychicRitualLeaveReason_PawnBusyWithLord>
+  <PsychicRitualLeaveReason_PawnBusyWithLord>{PAWN_labelShort}には他にやるべきことがある</PsychicRitualLeaveReason_PawnBusyWithLord>
   <!-- EN: {PAWN_labelShort} has other duties to attend to -->
-  <PsychicRitualLeaveReason_ForcedByQuest>{PAWN_labelShort}は他に参加すべきことがある</PsychicRitualLeaveReason_ForcedByQuest>
+  <PsychicRitualLeaveReason_ForcedByQuest>{PAWN_labelShort}には他にやるべきことがある</PsychicRitualLeaveReason_ForcedByQuest>
 
   <!-- PsychicRitualToils-->
   <!-- EN: moving into position -->
