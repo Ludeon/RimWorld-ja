@@ -60,7 +60,7 @@
     <li>descriptionStudyRequirement(studyRequirement==false)-></li>
   -->
   <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
-    <li>questDescription->最初のアルコネクサスの地図のパーツをしっかりと書き留めたので,旅の次のステップの準備を行います.\n\n[cycle1Faction]は,この世界を破壊した大変動について話しました.人間は何世紀も前にここに素晴らしい思考機械を作りました.しかしそれは人々に背を向け,大きな戦争が起こりました.機械をしのいで休止状態にさせたとき,文明はほんの僅かしか残っていませんでした.\n\nアルコネクサスへの地図は三つのパーツに分かれており,そのうちの一つを所有しています.[otherMapPartHolders]もそれぞれ地図のパーツを所有しています.彼らは自身のパーツを裕福な新しいコロニーと交換し,そこで記録された全ての研究を行うそうです.[descriptionStudyRequirement]\n\n建築物を建てる時が来ました.</li>
+    <li>questDescription->最初のアルコネクサスの地図のパーツをしっかりと書き留めたので,旅の次のステップの準備を行います.\n\n[cycle1Faction]は,この世界を破壊した大変動について話しました.話によると,人間は何世紀も前に素晴らしい思考機械を生み出したそうです.しかし機械たちはやがて人々に背を向け,大きな戦争が起こりました.その後,機械は超越して休眠状態へ移行し,その頃にはほんの僅かな人類しか残っていませんでした.\n\nアルコネクサスへの地図は三つのパーツに分かれており,そのうちの一つを所有しています.[otherMapPartHolders]もそれぞれ地図のパーツを所有しています.彼らは自身のパーツを裕福な新しいコロニーと交換し,そこで記録された全ての研究を行うそうです.[descriptionStudyRequirement]\n\n建築物を建てる時が来ました.</li>
     <li>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</li>
     <li>cycle1Faction(factionless==true)->[wildPeople]</li>
     <li>otherMapPartHolders(factionless==false)->[roughOutlander_name]と[roughTribe_name]</li>
